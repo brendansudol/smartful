@@ -56,8 +56,9 @@ export default function Home({ data, dateISO }: HomeProps) {
             }}
           >
             <Box px={[0, 1]} mb={[1, 4]}>
-              <Link variant="heading" href="/">
-                Smartful&#8239;🤓
+              <Link variant="heading" href="/" sx={{ display: "flex", alignItems: "center" }}>
+                <Box mr={2}>Smartful</Box>
+                <NextImage src="/smartful.png" width={26} height={26} />
               </Link>
               <Text sx={{ fontSize: 0 }}>Learn something every day</Text>
             </Box>

@@ -1,19 +1,18 @@
 TODO
 
 - fix `&amp;` in various data fields
-- add to github
-- deploy to vercel
-- hook up custom domain
 - add data sources (tooltip? separate page?)
 - about page / modal
-- expand / collapse for long text sections?
-- better logo
 - make text / headings / spaces consistent across cards
 - add source links to artwork images
-- add favicon
 
 DONE
 
+- add favicon
+- better logo
+- hook up custom domain
+- add to github
+- deploy to vercel
 - change repo name (noodle -> smartful)
 - add dates to url
 - add date card (and prev / next links)
@@ -31,3 +30,4 @@ DONE
 LATER
 
 - figure out sidebar content in mobile view
+- expand / collapse for long text sections?

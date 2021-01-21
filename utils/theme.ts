@@ -172,6 +172,7 @@ export default {
       lineHeight: "heading",
       textDecoration: "none",
       "&:hover": {
+        color: "inherit",
         textDecoration: "underline",
       },
     },

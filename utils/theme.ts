@@ -46,6 +46,7 @@ export default {
     body: fonts.monospace,
     heading: fonts.monospace,
   },
+  space: [0, 4, 8, 16, 24, 32, 48, 64, 128],
   breakpoints: ["40em", "56em", "64em"],
   fontSizes: [12, 14, 16, 20, 24, 32, 48, 64, 72],
   fontWeights: {
@@ -86,7 +87,15 @@ export default {
       fontSize: 0,
       mb: 3,
     },
-    textLabel: {
+    cardTitle: {
+      variant: "text.heading",
+      fontSize: 4,
+    },
+    cardSubtitle: {
+      color: "gray",
+      fontSize: 1,
+    },
+    sectionLabel: {
       variant: "text.caps",
       fontSize: 0,
       fontWeight: "bold",
@@ -107,7 +116,7 @@ export default {
       p: 0,
       "&:disabled": {
         cursor: "not-allowed",
-        opacity: 0.5,
+        opacity: 0.4,
         pointerEvents: "none",
       },
       "&:hover": {

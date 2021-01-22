@@ -3,13 +3,13 @@ TODO
 - fix `&amp;` in various data fields
 - add data sources (tooltip? separate page?)
 - about page / modal
-- make text / headings / spaces consistent across cards
 - add source links to artwork images
 - add types for data pieces
-- some charity missions end mid-sentence - fix those!
+- removes dates that end in "..." (i.e., United Nations Operation in the Congo event)
 
 DONE
 
+- make text / headings / spaces consistent across cards
 - turn all links into target="\_blank"
 - 2x2 grid for artwork on mobile
 - add favicon
@@ -30,6 +30,7 @@ DONE
 - figure out global style injection from theme.
 - remove charities for now or clean up (too political, descs need cleaning)
 - artist card
+- some charity missions end mid-sentence - fix those!
 
 LATER
 

@@ -73,29 +73,29 @@ export default function Home({ data, dateISO }: HomeProps) {
           <Box p={[1, 2]} sx={{ flex: "1 1 auto" }}>
             <DateNav date={date} />
             <Box id="word" py={1}>
-              <Card mb={4}>
+              <Card mb={3}>
                 <Text variant="cardLabel">Word</Text>
                 <Box mb={3}>
                   <Flex sx={{ alignItems: "center" }}>
-                    <Text mr={1} sx={{ fontSize: 4, fontWeight: "bold" }}>
+                    <Text variant="cardTitle" mr={1}>
                       {word.word}
                     </Text>
-                    <IconButton p={0} sx={{ width: 26, height: 26 }} onClick={speakWord}>
-                      <PlayCircle size={20} />
+                    <IconButton p={0} sx={{ width: 24, height: 24 }} onClick={speakWord}>
+                      <PlayCircle size={18} />
                     </IconButton>
                   </Flex>
-                  <Text sx={{ color: "gray", fontSize: 1 }}>{word.partOfSpeech}</Text>
+                  <Text variant="cardSubtitle">{word.partOfSpeech}</Text>
                 </Box>
                 <Box mb={3}>
-                  <Text variant="textLabel">Definition</Text>
+                  <Text variant="sectionLabel">Definition</Text>
                   <Text>{word.definitions[0]}</Text>
                 </Box>
                 <Box mb={3}>
-                  <Text variant="textLabel">Example</Text>
+                  <Text variant="sectionLabel">Example</Text>
                   <Box as={Markdown}>{word.examples[0]}</Box>
                 </Box>
                 <Box>
-                  <Text variant="textLabel">History</Text>
+                  <Text variant="sectionLabel">History</Text>
                   <Box as={Markdown}>{word.didYouKnow}</Box>
                 </Box>
               </Card>
@@ -103,7 +103,7 @@ export default function Home({ data, dateISO }: HomeProps) {
             <Box id="idiom" py={1}>
               <Card mb={3}>
                 <Text variant="cardLabel">Idiom</Text>
-                <Text mb={3} sx={{ fontSize: 4, fontWeight: "bold" }}>
+                <Text variant="cardTitle" mb={3}>
                   {idiom.term}
                 </Text>
                 <Box as={Markdown}>{idiom.definition}</Box>
@@ -112,7 +112,7 @@ export default function Home({ data, dateISO }: HomeProps) {
             <Box id="funFacts" py={1}>
               <Card mb={3}>
                 <Text variant="cardLabel">Fun facts</Text>
-                <Box as="ol">
+                <Box as="ol" pt={1}>
                   {funFacts.map((fact) => (
                     <Box key={fact.number} as="li">
                       {fact.text}
@@ -127,10 +127,10 @@ export default function Home({ data, dateISO }: HomeProps) {
                   <Box>
                     <Text variant="cardLabel">Artist</Text>
                     <Box mb={3}>
-                      <Text variant="heading" mb={1} sx={{ fontSize: 4 }}>
+                      <Text variant="cardTitle" mb={1}>
                         {artist.name}
                       </Text>
-                      <Text sx={{ color: "gray", fontSize: 1 }}>{artist.dates}</Text>
+                      <Text variant="cardSubtitle">{artist.dates}</Text>
                     </Box>
                   </Box>
                   <Box ml="auto" sx={{ flex: "none" }}>
@@ -181,7 +181,7 @@ export default function Home({ data, dateISO }: HomeProps) {
             <Box id="wiki" py={1}>
               <Card mb={3}>
                 <Text variant="cardLabel">Wikipedia article</Text>
-                <Text mb={3} sx={{ fontSize: 4, fontWeight: "bold" }}>
+                <Text variant="cardTitle" mb={3}>
                   {wiki.name}
                 </Text>
                 <Box mb={3}>{wiki.summary}</Box>
@@ -194,10 +194,10 @@ export default function Home({ data, dateISO }: HomeProps) {
                   <Box>
                     <Text variant="cardLabel">Historical figure</Text>
                     <Box mb={3}>
-                      <Text variant="heading" mb={1} sx={{ fontSize: 4 }}>
+                      <Text variant="cardTitle" mb={1}>
                         {person.name}
                       </Text>
-                      <Text sx={{ color: "gray", fontSize: 1 }}>{person.dates}</Text>
+                      <Text variant="cardSubtitle">{person.dates}</Text>
                     </Box>
                   </Box>
                   <Box ml="auto" sx={{ flex: "none" }}>
@@ -212,7 +212,7 @@ export default function Home({ data, dateISO }: HomeProps) {
                   </Box>
                 </Flex>
                 <Box mb={3}>
-                  {person.summary.map((paragraph, i) => (
+                  {person.summary.slice(0, 2).map((paragraph, i) => (
                     <Text key={i} as="p" mb={2}>
                       {paragraph}
                     </Text>
@@ -229,10 +229,10 @@ export default function Home({ data, dateISO }: HomeProps) {
                   <Box>
                     <Text variant="cardLabel">Historic event</Text>
                     <Box mb={3}>
-                      <Text variant="heading" mb={1} sx={{ fontSize: 4 }}>
+                      <Text variant="cardTitle" mb={1}>
                         {event.name}
                       </Text>
-                      <Text sx={{ color: "gray", fontSize: 1 }}>{event.dates}</Text>
+                      <Text variant="cardSubtitle">{event.dates}</Text>
                     </Box>
                   </Box>
                   <Box ml="auto" sx={{ flex: "none" }}>
@@ -247,7 +247,7 @@ export default function Home({ data, dateISO }: HomeProps) {
                   </Box>
                 </Flex>
                 <Box mb={3}>
-                  {event.summary.map((paragraph, i) => (
+                  {event.summary.slice(0, 2).map((paragraph, i) => (
                     <Text key={i} as="p" mb={2}>
                       {paragraph}
                     </Text>
@@ -280,10 +280,10 @@ export default function Home({ data, dateISO }: HomeProps) {
             <Box id="quote" py={1}>
               <Card mb={3}>
                 <Text variant="cardLabel">Quote</Text>
-                <Text sx={{ fontSize: 4 }}>“{quote.quote}”</Text>
-                <Text color="gray" sx={{ fontSize: 1 }}>
-                  {quote.author}
+                <Text variant="cardTitle" mb={1} sx={{ fontWeight: "body" }}>
+                  {quote.quote}
                 </Text>
+                <Text variant="cardSubtitle">{quote.author}</Text>
               </Card>
             </Box>
           </Box>

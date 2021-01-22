@@ -5,9 +5,13 @@ TODO
 - about page / modal
 - make text / headings / spaces consistent across cards
 - add source links to artwork images
+- add types for data pieces
+- some charity missions end mid-sentence - fix those!
 
 DONE
 
+- turn all links into target="\_blank"
+- 2x2 grid for artwork on mobile
 - add favicon
 - better logo
 - hook up custom domain

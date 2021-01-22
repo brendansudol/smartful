@@ -156,8 +156,8 @@ export default function Home({ data, dateISO }: HomeProps) {
                   sx={
                     {
                       display: "grid",
-                      gridGap: [2, 3],
-                      gridTemplateColumns: "repeat(4, 1fr)",
+                      gridGap: 3,
+                      gridTemplateColumns: ["repeat(2, 1fr)", "repeat(4, 1fr)"],
                     } as any
                   }
                 >
@@ -173,7 +173,9 @@ export default function Home({ data, dateISO }: HomeProps) {
                     />
                   ))}
                 </Box>
-                <Link href={artist.urlGoogle}>Learn more</Link>
+                <Link href={artist.urlGoogle} target="_blank">
+                  Learn more
+                </Link>
               </Card>
             </Box>
             <Box id="wiki" py={1}>
@@ -216,7 +218,9 @@ export default function Home({ data, dateISO }: HomeProps) {
                     </Text>
                   ))}
                 </Box>
-                <Link href={person.urlWiki}>Learn more</Link>
+                <Link href={person.urlWiki} target="_blank">
+                  Learn more
+                </Link>
               </Card>
             </Box>
             <Box id="event" py={1}>
@@ -249,7 +253,9 @@ export default function Home({ data, dateISO }: HomeProps) {
                     </Text>
                   ))}
                 </Box>
-                <Link href={person.urlWiki}>Learn more</Link>
+                <Link href={person.urlWiki} target="_blank">
+                  Learn more
+                </Link>
               </Card>
             </Box>
             <Box id="charity" py={1}>
@@ -266,7 +272,9 @@ export default function Home({ data, dateISO }: HomeProps) {
                 <Box mb={3}>
                   <Markdown>{charity.mission}</Markdown>
                 </Box>
-                <Link href={charity.url}>Learn more</Link>
+                <Link href={charity.url} target="_blank">
+                  Learn more
+                </Link>
               </Card>
             </Box>
             <Box id="quote" py={1}>

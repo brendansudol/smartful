@@ -88,14 +88,24 @@ export default function Home({ data, dateISO }: HomeProps) {
                 </Box>
                 <Box mb={3}>
                   <Text variant="sectionLabel">Definition</Text>
-                  <Text>{word.definitions[0]}</Text>
+                  {word.definitions.length === 1 ? (
+                    <Text>{word.definitions[0]}</Text>
+                  ) : (
+                    <Box as="ol">
+                      {word.definitions.map((def, i) => (
+                        <Box key={i} as="li">
+                          {def}
+                        </Box>
+                      ))}
+                    </Box>
+                  )}
                 </Box>
                 <Box mb={3}>
                   <Text variant="sectionLabel">Example</Text>
                   <Box as={Markdown}>{word.examples[0]}</Box>
                 </Box>
                 <Box>
-                  <Text variant="sectionLabel">History</Text>
+                  <Text variant="sectionLabel">Origin</Text>
                   <Box as={Markdown}>{word.didYouKnow}</Box>
                 </Box>
               </Card>
@@ -162,19 +172,20 @@ export default function Home({ data, dateISO }: HomeProps) {
                   }
                 >
                   {artist.artworkImgs.slice(0, 4).map((img, i) => (
-                    <Image
-                      key={i}
-                      as={NextImage}
-                      src={`/static/${img.path}`}
-                      alt={img.name}
-                      width={250}
-                      height={250}
-                      sx={{ borderRadius: 10 }}
-                    />
+                    <Link key={i} href={img.source} target="_blank">
+                      <Image
+                        as={NextImage}
+                        src={`/static/${img.path}`}
+                        alt={img.name}
+                        width={250}
+                        height={250}
+                        sx={{ borderRadius: 10 }}
+                      />
+                    </Link>
                   ))}
                 </Box>
                 <Link href={artist.urlGoogle} target="_blank">
-                  Learn more
+                  Learn more »
                 </Link>
               </Card>
             </Box>
@@ -185,7 +196,7 @@ export default function Home({ data, dateISO }: HomeProps) {
                   {wiki.name}
                 </Text>
                 <Box mb={3}>{wiki.summary}</Box>
-                <Link href={wiki.url}>Learn more</Link>
+                <Link href={wiki.url}>Learn more »</Link>
               </Card>
             </Box>
             <Box id="person" py={1}>
@@ -219,7 +230,7 @@ export default function Home({ data, dateISO }: HomeProps) {
                   ))}
                 </Box>
                 <Link href={person.urlWiki} target="_blank">
-                  Learn more
+                  Learn more »
                 </Link>
               </Card>
             </Box>
@@ -254,7 +265,7 @@ export default function Home({ data, dateISO }: HomeProps) {
                   ))}
                 </Box>
                 <Link href={person.urlWiki} target="_blank">
-                  Learn more
+                  Learn more »
                 </Link>
               </Card>
             </Box>
@@ -273,7 +284,7 @@ export default function Home({ data, dateISO }: HomeProps) {
                   <Markdown>{charity.mission}</Markdown>
                 </Box>
                 <Link href={charity.url} target="_blank">
-                  Learn more
+                  Learn more »
                 </Link>
               </Card>
             </Box>

@@ -1,14 +1,18 @@
 TODO
 
-- fix `&amp;` in various data fields
 - add data sources (tooltip? separate page?)
 - about page / modal
-- add source links to artwork images
 - add types for data pieces
-- removes dates that end in "..." (i.e., United Nations Operation in the Congo event)
+- break up index.tsx into smaller components
+- add email / newsletter signup
 
 DONE
 
+- add source links to artwork images
+- handle multiple definitions for word card
+- fix `&amp;` in various data fields
+- removes dates that end in "..." (i.e., United Nations Operation in the Congo event)
+- look into relative link in word: shinplaster (did you know section)
 - make text / headings / spaces consistent across cards
 - turn all links into target="\_blank"
 - 2x2 grid for artwork on mobile

@@ -58,6 +58,7 @@ export default {
   lineHeights: {
     body: 1.5,
     heading: 1.25,
+    compact: 1,
   },
   sizes: {
     sidebar: 256,
@@ -85,6 +86,7 @@ export default {
       bg: "yellow",
       display: "inline-block",
       fontSize: 0,
+      lineHeight: "heading",
       mb: 3,
     },
     cardTitle: {
@@ -152,7 +154,8 @@ export default {
       color: "inherit",
       textDecoration: "none",
       fontSize: 1,
-      fontWeight: "bold",
+      fontWeight: "body",
+      lineHeight: "compact",
       bg: "transparent",
       transitionProperty: "background-color",
       transitionTimingFunction: "ease-out",

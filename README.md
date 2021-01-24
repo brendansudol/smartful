@@ -5,9 +5,12 @@ TODO
 - add types for data pieces
 - break up index.tsx into smaller components
 - add email / newsletter signup
+- remove `static` sub directory in `public` (flatten out)
 
 DONE
 
+- smooth scroll
+- sidebar nav emoji icons
 - add source links to artwork images
 - handle multiple definitions for word card
 - fix `&amp;` in various data fields

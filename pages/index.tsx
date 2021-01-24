@@ -10,15 +10,15 @@ import { getData } from "../lib/getData";
 import { PlayCircle } from "../utils/icons";
 
 const categories = [
-  { id: "word", name: "Word" },
-  { id: "idiom", name: "Idiom" },
-  { id: "funFacts", name: "Fun facts" },
-  { id: "artist", name: "Artist" },
-  { id: "wiki", name: "Wikipedia article" },
-  { id: "person", name: "Historical figure" },
-  { id: "event", name: "Historic event" },
-  { id: "charity", name: "Charity" },
-  { id: "quote", name: "Quote" },
+  { id: "word", name: "Word", icon: "1f524" },
+  { id: "idiom", name: "Idiom", icon: "1f4a1" },
+  { id: "funFacts", name: "Fun facts", icon: "1f649" },
+  { id: "artist", name: "Artist", icon: "1f3a8" },
+  { id: "wiki", name: "Wikipedia article", icon: "1f4da" },
+  { id: "person", name: "Historical figure", icon: "1f9d1" },
+  { id: "event", name: "Historic event", icon: "1f4c5" },
+  { id: "charity", name: "Charity", icon: "1f497" },
+  { id: "quote", name: "Quote", icon: "1f4dd" },
 ];
 
 export interface HomeProps {
@@ -37,20 +37,33 @@ export default function Home({ data, dateISO }: HomeProps) {
     audio.play();
   };
 
+  // replacing normal anchor link clicking behavior
+  // with a smooth scrolling alternative (not sure it's worth it...)
+  const handleCategoryClick = (evt) => {
+    evt.preventDefault();
+    const hash = (evt.currentTarget?.href ?? "").split("#")[1];
+    if (!hash) return;
+    const el = document.getElementById(hash);
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth" });
+      history.replaceState(null, null, `#${hash}`);
+    }
+  };
+
   return (
     <div>
       <Head>
         <title>Smartful :: {dateDisplay} :: Learn something every day</title>
       </Head>
       <Box bg="yellow" py={2} />
-      <Box sx={{ maxWidth: 900, mx: "auto", px: 3, py: [4, 5] }}>
+      <Box sx={{ maxWidth: 950, mx: "auto", px: 3, py: [4, 5] }}>
         <Box sx={{ display: [null, "flex"], alignItems: [null, "flex-start"] }}>
           <Box
             p={[1, 2]}
             mr={[0, 3]}
             sx={{
               flex: "none",
-              width: ["auto", 225],
+              width: ["auto", 250],
               position: ["static", "sticky"],
               top: 0,
             }}
@@ -64,8 +77,16 @@ export default function Home({ data, dateISO }: HomeProps) {
             </Box>
             <Box sx={{ display: ["none", "block"] }}>
               {categories.map((c) => (
-                <NavLink key={c.id} href={`#${c.id}`} px={[0, 1]}>
-                  {c.name}
+                <NavLink
+                  key={c.id}
+                  href={`#${c.id}`}
+                  mb={1}
+                  px={[0, 1]}
+                  sx={{ display: "flex", alignItems: "center" }}
+                  onClick={handleCategoryClick}
+                >
+                  <Image mr={2} src={`/emojis/${c.icon}.svg`} width={16} height={16} />
+                  <Text sx={{ flex: "1 1 auto" }}>{c.name}</Text>
                 </NavLink>
               ))}
             </Box>
@@ -291,10 +312,8 @@ export default function Home({ data, dateISO }: HomeProps) {
             <Box id="quote" py={1}>
               <Card mb={3}>
                 <Text variant="cardLabel">Quote</Text>
-                <Text variant="cardTitle" mb={1} sx={{ fontWeight: "body" }}>
-                  {quote.quote}
-                </Text>
-                <Text variant="cardSubtitle">{quote.author}</Text>
+                <Text mb={1}>{quote.quote}</Text>
+                <Text variant="cardSubtitle">—{quote.author}</Text>
               </Card>
             </Box>
           </Box>

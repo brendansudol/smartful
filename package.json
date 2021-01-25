@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tippyjs/react": "^4.2.0",
     "date-fns": "^2.16.1",
     "lodash.sample": "^4.2.1",
     "lodash.samplesize": "^4.2.0",

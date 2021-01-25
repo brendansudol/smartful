@@ -6,9 +6,11 @@ TODO
 - break up index.tsx into smaller components
 - add email / newsletter signup
 - remove `static` sub directory in `public` (flatten out)
+- scroll to top button
 
 DONE
 
+- figure out sidebar content in mobile view
 - smooth scroll
 - sidebar nav emoji icons
 - add source links to artwork images
@@ -41,5 +43,4 @@ DONE
 
 LATER
 
-- figure out sidebar content in mobile view
 - expand / collapse for long text sections?

@@ -4,7 +4,7 @@ import { GetServerSideProps } from "next";
 import Head from "next/head";
 import NextImage from "next/image";
 import NextLink from "next/link";
-import { Box, Card, Flex, IconButton, Image, Heading, Link, NavLink, Text } from "theme-ui";
+import { Box, Button, Card, Divider, Flex, IconButton, Image, Link, NavLink, Text } from "theme-ui";
 import { DateNav } from "../components/DateNav";
 import { getData } from "../lib/getData";
 import { PlayCircle } from "../utils/icons";
@@ -76,19 +76,33 @@ export default function Home({ data, dateISO }: HomeProps) {
               <Text sx={{ fontSize: 0 }}>Learn something every day</Text>
             </Box>
             <Box sx={{ display: ["none", "block"] }}>
-              {categories.map((c) => (
-                <NavLink
-                  key={c.id}
-                  href={`#${c.id}`}
-                  mb={1}
-                  px={[0, 1]}
-                  sx={{ display: "flex", alignItems: "center" }}
-                  onClick={handleCategoryClick}
-                >
-                  <Image mr={2} src={`/emojis/${c.icon}.svg`} width={16} height={16} />
-                  <Text sx={{ flex: "1 1 auto" }}>{c.name}</Text>
-                </NavLink>
-              ))}
+              <Box>
+                {categories.map((c) => (
+                  <NavLink
+                    key={c.id}
+                    href={`#${c.id}`}
+                    mb={1}
+                    px={[0, 1]}
+                    sx={{ display: "flex", alignItems: "center" }}
+                    onClick={handleCategoryClick}
+                  >
+                    <Image mr={2} src={`/emojis/${c.icon}.svg`} width={16} height={16} />
+                    <Text sx={{ flex: "1 1 auto", fontWeight: "body" }}>{c.name}</Text>
+                  </NavLink>
+                ))}
+              </Box>
+              <Divider my={4} />
+            </Box>
+            <Box mt={[2, 0]} mb={[2, 0]}>
+              <Button variant="nav" mb={[0, 1]} mr={[2, 0]}>
+                About
+              </Button>
+              <Button variant="nav" mb={[0, 1]} mr={[2, 0]} sx={{ display: ["none", "inherit"] }}>
+                Data sources
+              </Button>
+              <Button variant="nav" mb={[0, 1]} mr={[2, 0]}>
+                Subscribe to email
+              </Button>
             </Box>
           </Box>
           <Box p={[1, 2]} sx={{ flex: "1 1 auto" }}>

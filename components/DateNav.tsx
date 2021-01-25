@@ -17,10 +17,15 @@ export function DateNav({ date }: DateNavProps) {
 
   return (
     <Card mb={3}>
-      <Flex sx={{ alignItems: "center", justifyContent: "space-between" }}>
-        <Text py={2} sx={{ fontSize: 3, fontWeight: "bold" }}>
-          {format(date, "MMMM do yyyy")}
-        </Text>
+      <Flex py={1} sx={{ alignItems: "center", justifyContent: "space-between" }}>
+        <Box>
+          <Text sx={{ display: ["none", "block"], fontSize: 3, fontWeight: "bold" }}>
+            {format(date, "MMMM do yyyy")}
+          </Text>
+          <Text sx={{ display: ["block", "none"], fontSize: 3, fontWeight: "bold" }}>
+            {format(date, "MMM do yyyy")}
+          </Text>
+        </Box>
         <Box>
           <IconButton mr={1} onClick={goToDay(-1)}>
             <ChevronLeft size={26} />

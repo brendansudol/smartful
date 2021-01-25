@@ -22,11 +22,11 @@ export default {
     secondary: "#111199",
     muted: "#f6f6f6",
     highlight: "#efeffe",
-    lightgray: "#ddd",
+    lightgray: "#e9e9e9",
     gray: "#777777",
     accent: "#660099",
     yellow: "#fff59d",
-    darken: "rgba(0, 0, 0, .25)",
+    darken: "rgba(0, 0, 0, .1)",
     modes: {
       dark: {
         text: "#ffffff",
@@ -130,6 +130,19 @@ export default {
         outline: "none",
       },
     },
+    nav: {
+      variant: "links.nav",
+      display: ["inline-block", "block"],
+      width: ["inherit", "100%"],
+      bg: ["muted", "transparent"],
+      textAlign: "left",
+      fontFamily: fonts.monospace,
+      fontSize: [0, 1],
+      cursor: "pointer",
+      "&:hover": {
+        bg: ["darken", "muted"],
+      },
+    },
   },
   links: {
     button: {
@@ -154,7 +167,7 @@ export default {
       color: "inherit",
       textDecoration: "none",
       fontSize: 1,
-      fontWeight: "body",
+      fontWeight: "bold",
       lineHeight: "compact",
       bg: "transparent",
       transitionProperty: "background-color",
@@ -289,6 +302,9 @@ export default {
       maxWidth: "100%",
       height: "auto",
     },
+    button: {
+      fontFamily: fonts.monospace,
+    },
     h1: {
       variant: "text.display",
     },
@@ -358,7 +374,7 @@ export default {
     hr: {
       border: 0,
       borderBottom: "1px solid",
-      borderColor: "muted",
+      borderColor: "lightgray",
     },
   },
 };

@@ -7,6 +7,7 @@ TODO
 - add email / newsletter signup
 - remove `static` sub directory in `public` (flatten out)
 - scroll to top button
+- share links (per card?)
 
 DONE
 

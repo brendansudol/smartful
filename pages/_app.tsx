@@ -5,7 +5,6 @@ import smoothScroll from "smoothscroll-polyfill";
 import { ThemeProvider } from "theme-ui";
 import { ThemeGlobal } from "../components/ThemeGlobal";
 import theme from "../utils/theme";
-
 import "../styles/globals.css";
 
 function App({ Component, pageProps }: AppProps) {

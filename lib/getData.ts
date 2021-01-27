@@ -2,10 +2,11 @@ import fs from "fs";
 import path from "path";
 import sample from "lodash.sample";
 import sampleSize from "lodash.samplesize";
+import { IDayData } from "./types";
 
-const directory = path.join(process.cwd(), "public", "static");
+const directory = path.join(process.cwd(), "public", "data");
 
-export function getData() {
+export function getData(): IDayData {
   const fullPath = path.join(directory, "data.json");
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const data = JSON.parse(fileContents);

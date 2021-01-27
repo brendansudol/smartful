@@ -1,16 +1,17 @@
 TODO
 
-- add data sources (tooltip? separate page?)
+- add data source info (tooltip? separate page?)
 - about page / modal
-- add types for data pieces
-- break up index.tsx into smaller components
 - add email / newsletter signup
-- remove `static` sub directory in `public` (flatten out)
-- scroll to top button
 - share links (per card?)
 
 DONE
 
+- disallow date nav prev btn before first day
+- better 404
+- add types for data pieces
+- break up index.tsx into smaller components
+- scroll to top button
 - figure out sidebar content in mobile view
 - smooth scroll
 - sidebar nav emoji icons

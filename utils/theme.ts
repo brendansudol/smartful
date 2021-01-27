@@ -170,14 +170,19 @@ export default {
       fontWeight: "bold",
       lineHeight: "compact",
       bg: "transparent",
-      transitionProperty: "background-color",
-      transitionTimingFunction: "ease-out",
-      transitionDuration: ".2s",
+      transition: "background-color .2s ease-in",
       borderRadius: 5,
+      "> img": {
+        filter: "grayscale(1)",
+        transition: "filter .3s ease-in",
+      },
       "&:hover": {
         bg: "muted",
         color: "inherit",
         textDecoration: "underline",
+        "> img": {
+          filter: "grayscale(0)",
+        },
       },
       "&:focus": {
         boxShadow: (t) => `inset 0 0 0 2px ${t.colors.text}`,

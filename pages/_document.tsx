@@ -1,6 +1,6 @@
 import Document, { DocumentContext, Head, Html, Main, NextScript } from "next/document";
 
-class MyDocument extends Document {
+class CustomDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {
     const initialProps = await Document.getInitialProps(ctx);
     return { ...initialProps };
@@ -17,7 +17,7 @@ class MyDocument extends Document {
             type="font/woff2"
             crossOrigin="anonymous"
           />
-          <link rel="icon" type="image/png" href="/favicon.png" />
+          <link rel="icon" type="image/png" href="/img/favicon.png" />
         </Head>
         <body>
           <Main />
@@ -28,4 +28,4 @@ class MyDocument extends Document {
   }
 }
 
-export default MyDocument;
+export default CustomDocument;

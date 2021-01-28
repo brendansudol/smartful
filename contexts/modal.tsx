@@ -1,5 +1,5 @@
 import { createContext, useContext, useState } from "react";
-import { Modal2 } from "../components/Modal2";
+import { Modal } from "../components/Modal";
 
 interface IModalContext {
   showModal: (content: React.ReactNode) => void;
@@ -18,7 +18,7 @@ export function ModalProvider({ children }: { children: React.ReactNode }) {
   return (
     <ModalContext.Provider value={{ showModal, hideModal }}>
       {children}
-      {content && <Modal2 onClose={hideModal}>{content}</Modal2>}
+      {content && <Modal onClose={hideModal}>{content}</Modal>}
     </ModalContext.Provider>
   );
 }

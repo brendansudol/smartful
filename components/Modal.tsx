@@ -1,16 +1,9 @@
 /** @jsxRuntime classic */
 /** @jsx jsx */
 import React from "react";
-import { IconButton, jsx } from "theme-ui";
+import { DialogOverlay, DialogContent } from "@reach/dialog";
+import { Box, IconButton, jsx } from "theme-ui";
 import { CloseIcon } from "../utils/icons";
-
-const fixed = {
-  position: "fixed",
-  top: 0,
-  right: 0,
-  bottom: 0,
-  left: 0,
-} as any; // TODO: fix type
 
 interface IProps {
   isOpen?: boolean;
@@ -20,25 +13,25 @@ interface IProps {
 
 export function Modal({ isOpen = true, onClose, children }: IProps) {
   return (
-    <div
+    <DialogOverlay
+      isOpen={isOpen}
+      onDismiss={onClose}
       sx={{
-        ...fixed,
-        zIndex: 100,
-        display: isOpen ? "flex" : "none",
+        position: "fixed",
+        top: 0,
+        right: 0,
+        bottom: 0,
+        left: 0,
+        backgroundColor: "rgba(17, 17, 17, .875)",
+        display: "flex",
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
+        zIndex: 100,
       }}
     >
-      <div
-        sx={{
-          ...fixed,
-          backgroundColor: "rgb(17, 17, 17)",
-          opacity: 0.875,
-        }}
-        onClick={onClose}
-      />
-      <div
+      <DialogContent
+        aria-label="Announcement"
         sx={{
           m: 2,
           p: 3,
@@ -48,14 +41,19 @@ export function Modal({ isOpen = true, onClose, children }: IProps) {
           minWidth: 320,
           maxWidth: 600,
           maxHeight: "90%",
-          overflow: "scroll",
+          overflow: "auto",
+          outline: "none",
         }}
       >
-        <IconButton sx={{ m: 1, position: "absolute", top: 0, right: 0 }} onClick={onClose}>
-          <CloseIcon size={24} />
+        <IconButton
+          m={1}
+          sx={{ position: "absolute", top: 0, right: 0, width: 20, height: 20 }}
+          onClick={onClose}
+        >
+          <CloseIcon size={16} />
         </IconButton>
-        {children}
-      </div>
-    </div>
+        <Box mt={1}>{children}</Box>
+      </DialogContent>
+    </DialogOverlay>
   );
 }

@@ -71,66 +71,7 @@ export function Sidebar() {
           variant="nav"
           mb={[0, 1]}
           mr={[2, 0]}
-          onClick={() =>
-            showModal(
-              <Box>
-                These days, someone "alleges" something before presenting the evidence to prove it
-                (or perhaps without evidence at all), but the word actually derives from the Middle
-                English verb alleggen, meaning "to submit (something) in evidence or as
-                justification." Alleggen, in turn, traces back to Anglo-French and probably
-                ultimately to Latin allegare, meaning "to send as a representative" or "to offer as
-                proof in support of a plea." Indeed, allege once referred to the actions of someone
-                who came forward to testify in court; this sense isn't used anymore, but it led to
-                the development of the current "assert without proof" sense. These days, someone
-                "alleges" something before presenting the evidence to prove it (or perhaps without
-                evidence at all), but the word actually derives from the Middle English verb
-                alleggen, meaning "to submit (something) in evidence or as justification." Alleggen,
-                in turn, traces back to Anglo-French and probably ultimately to Latin allegare,
-                meaning "to send as a representative" or "to offer as proof in support of a plea."
-                Indeed, allege once referred to the actions of someone who came forward to testify
-                in court; this sense isn't used anymore, but it led to the development of the
-                current "assert without proof" sense. These days, someone "alleges" something before
-                presenting the evidence to prove it (or perhaps without evidence at all), but the
-                word actually derives from the Middle English verb alleggen, meaning "to submit
-                (something) in evidence or as justification." Alleggen, in turn, traces back to
-                Anglo-French and probably ultimately to Latin allegare, meaning "to send as a
-                representative" or "to offer as proof in support of a plea." Indeed, allege once
-                referred to the actions of someone who came forward to testify in court; this sense
-                isn't used anymore, but it led to the development of the current "assert without
-                proof" sense. These days, someone "alleges" something before presenting the evidence
-                to prove it (or perhaps without evidence at all), but the word actually derives from
-                the Middle English verb alleggen, meaning "to submit (something) in evidence or as
-                justification." Alleggen, in turn, traces back to Anglo-French and probably
-                ultimately to Latin allegare, meaning "to send as a representative" or "to offer as
-                proof in support of a plea." Indeed, allege once referred to the actions of someone
-                who came forward to testify in court; this sense isn't used anymore, but it led to
-                the development of the current "assert without proof" sense. These days, someone
-                "alleges" something before presenting the evidence to prove it (or perhaps without
-                evidence at all), but the word actually derives from the Middle English verb
-                alleggen, meaning "to submit (something) in evidence or as justification." Alleggen,
-                in turn, traces back to Anglo-French and probably ultimately to Latin allegare,
-                meaning "to send as a representative" or "to offer as proof in support of a plea."
-                Indeed, allege once referred to the actions of someone who came forward to testify
-                in court; this sense isn't used anymore, but it led to the development of the
-                current "assert without proof" sense. These days, someone "alleges" something before
-                presenting the evidence to prove it (or perhaps without evidence at all), but the
-                word actually derives from the Middle English verb alleggen, meaning "to submit
-                (something) in evidence or as justification." Alleggen, in turn, traces back to
-                Anglo-French and probably ultimately to Latin allegare, meaning "to send as a
-                representative" or "to offer as proof in support of a plea." Indeed, allege once
-                referred to the actions of someone who came forward to testify in court; this sense
-                isn't used anymore, but it led to the development of the current "assert without
-                proof" sense. These days, someone "alleges" something before presenting the evidence
-                to prove it (or perhaps without evidence at all), but the word actually derives from
-                the Middle English verb alleggen, meaning "to submit (something) in evidence or as
-                justification." Alleggen, in turn, traces back to Anglo-French and probably
-                ultimately to Latin allegare, meaning "to send as a representative" or "to offer as
-                proof in support of a plea." Indeed, allege once referred to the actions of someone
-                who came forward to testify in court; this sense isn't used anymore, but it led to
-                the development of the current "assert without proof" sense.{" "}
-              </Box>
-            )
-          }
+          onClick={() => showModal(<Box>TODO: About info...</Box>)}
         >
           About
         </Button>

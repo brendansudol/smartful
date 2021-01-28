@@ -30,6 +30,11 @@
   src: url(/fonts/iAWriterDuospace-BoldItalic.woff2) format("woff2");
 }
 
+/* needed to prevent console noise re: reach dialog */
+:root {
+  --reach-dialog: 1;
+}
+
 * {
   box-sizing: border-box;
 }

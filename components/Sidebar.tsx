@@ -1,5 +1,6 @@
 import NextImage from "next/image";
 import { Box, Button, Divider, Image, Link, NavLink, Text } from "theme-ui";
+import { useModal } from "../contexts/modal";
 
 const categories = [
   { id: "word", name: "Word", icon: "1f524" },
@@ -14,6 +15,8 @@ const categories = [
 ];
 
 export function Sidebar() {
+  const { showModal } = useModal();
+
   // replacing normal anchor link clicking behavior
   // with a smooth scrolling alternative (not sure it's worth it...)
   const handleCategoryClick = (evt: React.MouseEvent<HTMLAnchorElement>) => {
@@ -64,13 +67,88 @@ export function Sidebar() {
         <Divider my={4} />
       </Box>
       <Box mt={[2, 0]} mb={[2, 0]}>
-        <Button variant="nav" mb={[0, 1]} mr={[2, 0]}>
+        <Button
+          variant="nav"
+          mb={[0, 1]}
+          mr={[2, 0]}
+          onClick={() =>
+            showModal(
+              <Box>
+                These days, someone "alleges" something before presenting the evidence to prove it
+                (or perhaps without evidence at all), but the word actually derives from the Middle
+                English verb alleggen, meaning "to submit (something) in evidence or as
+                justification." Alleggen, in turn, traces back to Anglo-French and probably
+                ultimately to Latin allegare, meaning "to send as a representative" or "to offer as
+                proof in support of a plea." Indeed, allege once referred to the actions of someone
+                who came forward to testify in court; this sense isn't used anymore, but it led to
+                the development of the current "assert without proof" sense. These days, someone
+                "alleges" something before presenting the evidence to prove it (or perhaps without
+                evidence at all), but the word actually derives from the Middle English verb
+                alleggen, meaning "to submit (something) in evidence or as justification." Alleggen,
+                in turn, traces back to Anglo-French and probably ultimately to Latin allegare,
+                meaning "to send as a representative" or "to offer as proof in support of a plea."
+                Indeed, allege once referred to the actions of someone who came forward to testify
+                in court; this sense isn't used anymore, but it led to the development of the
+                current "assert without proof" sense. These days, someone "alleges" something before
+                presenting the evidence to prove it (or perhaps without evidence at all), but the
+                word actually derives from the Middle English verb alleggen, meaning "to submit
+                (something) in evidence or as justification." Alleggen, in turn, traces back to
+                Anglo-French and probably ultimately to Latin allegare, meaning "to send as a
+                representative" or "to offer as proof in support of a plea." Indeed, allege once
+                referred to the actions of someone who came forward to testify in court; this sense
+                isn't used anymore, but it led to the development of the current "assert without
+                proof" sense. These days, someone "alleges" something before presenting the evidence
+                to prove it (or perhaps without evidence at all), but the word actually derives from
+                the Middle English verb alleggen, meaning "to submit (something) in evidence or as
+                justification." Alleggen, in turn, traces back to Anglo-French and probably
+                ultimately to Latin allegare, meaning "to send as a representative" or "to offer as
+                proof in support of a plea." Indeed, allege once referred to the actions of someone
+                who came forward to testify in court; this sense isn't used anymore, but it led to
+                the development of the current "assert without proof" sense. These days, someone
+                "alleges" something before presenting the evidence to prove it (or perhaps without
+                evidence at all), but the word actually derives from the Middle English verb
+                alleggen, meaning "to submit (something) in evidence or as justification." Alleggen,
+                in turn, traces back to Anglo-French and probably ultimately to Latin allegare,
+                meaning "to send as a representative" or "to offer as proof in support of a plea."
+                Indeed, allege once referred to the actions of someone who came forward to testify
+                in court; this sense isn't used anymore, but it led to the development of the
+                current "assert without proof" sense. These days, someone "alleges" something before
+                presenting the evidence to prove it (or perhaps without evidence at all), but the
+                word actually derives from the Middle English verb alleggen, meaning "to submit
+                (something) in evidence or as justification." Alleggen, in turn, traces back to
+                Anglo-French and probably ultimately to Latin allegare, meaning "to send as a
+                representative" or "to offer as proof in support of a plea." Indeed, allege once
+                referred to the actions of someone who came forward to testify in court; this sense
+                isn't used anymore, but it led to the development of the current "assert without
+                proof" sense. These days, someone "alleges" something before presenting the evidence
+                to prove it (or perhaps without evidence at all), but the word actually derives from
+                the Middle English verb alleggen, meaning "to submit (something) in evidence or as
+                justification." Alleggen, in turn, traces back to Anglo-French and probably
+                ultimately to Latin allegare, meaning "to send as a representative" or "to offer as
+                proof in support of a plea." Indeed, allege once referred to the actions of someone
+                who came forward to testify in court; this sense isn't used anymore, but it led to
+                the development of the current "assert without proof" sense.{" "}
+              </Box>
+            )
+          }
+        >
           About
         </Button>
-        <Button variant="nav" mb={[0, 1]} mr={[2, 0]} sx={{ display: ["none", "inherit"] }}>
+        <Button
+          variant="nav"
+          mb={[0, 1]}
+          mr={[2, 0]}
+          sx={{ display: ["none", "inherit"] }}
+          onClick={() => showModal(<Box>TODO: Data sources info...</Box>)}
+        >
           Data sources
         </Button>
-        <Button variant="nav" mb={[0, 1]} mr={[2, 0]}>
+        <Button
+          variant="nav"
+          mb={[0, 1]}
+          mr={[2, 0]}
+          onClick={() => showModal(<Box>TODO: Subscribe to email info...</Box>)}
+        >
           Subscribe to email
         </Button>
       </Box>

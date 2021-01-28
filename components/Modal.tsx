@@ -31,7 +31,7 @@ export function Modal({ isOpen = true, onClose, children }: IProps) {
       }}
     >
       <DialogContent
-        aria-label="Announcement"
+        aria-label="Check this out!"
         sx={{
           m: 2,
           p: 3,

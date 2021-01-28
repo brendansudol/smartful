@@ -7,6 +7,7 @@ TODO
 
 DONE
 
+- modal functionality
 - disallow date nav prev btn before first day
 - better 404
 - add types for data pieces

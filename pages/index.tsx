@@ -27,7 +27,7 @@ export default function Home({ data, dateISO }: IProps) {
       <Box bg="yellow" py={2} />
       <Box sx={{ maxWidth: 950, mx: "auto", px: 3, py: [4, 5] }}>
         <Box sx={{ display: [null, "flex"], alignItems: [null, "flex-start"] }}>
-          <Sidebar />
+          <Sidebar data={data} />
           <Box p={[1, 2]} sx={{ flex: "1 1 auto" }}>
             <DateNav date={date} />
             <MainContent data={data} />

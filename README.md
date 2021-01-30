@@ -1,9 +1,8 @@
 TODO
 
-- add data source info (tooltip? separate page?)
-- about page / modal
-- add email / newsletter signup
-- share links (per card?)
+- content for about, subscribe, data sources
+- add share / sources / learn more card footer
+- add final(ish) data / assets for first 100 days
 
 DONE
 

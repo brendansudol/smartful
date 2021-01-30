@@ -4,7 +4,6 @@ import React from "react";
 import { Box, Button, Card, Flex, IconButton, Image, Link, Text } from "theme-ui";
 import {
   IArtist,
-  ICharity,
   IDayData,
   IEvent,
   IFunFact,
@@ -110,7 +109,7 @@ export function Artist({ data }: { data: IArtist }) {
               <Text variant="cardSubtitle">{data.dates}</Text>
             </Box>
           </Box>
-          <Box ml="auto" sx={{ flex: "none" }}>
+          <Box ml="auto" pl={2} sx={{ flex: "none" }}>
             <Image
               as={NextImage}
               src={`/data/${data.mainImg}`}
@@ -188,7 +187,7 @@ export function Person({ data }: { data: IPerson }) {
               <Text variant="cardSubtitle">{data.dates}</Text>
             </Box>
           </Box>
-          <Box ml="auto" sx={{ flex: "none" }}>
+          <Box ml="auto" pl={2} sx={{ flex: "none" }}>
             <Image
               as={NextImage}
               src={`/data/${data.mainImg}`}
@@ -228,7 +227,7 @@ export function Event({ data }: { data: IEvent }) {
               <Text variant="cardSubtitle">{data.dates}</Text>
             </Box>
           </Box>
-          <Box ml="auto" sx={{ flex: "none" }}>
+          <Box ml="auto" pl={2} sx={{ flex: "none" }}>
             <Image
               as={NextImage}
               src={`/data/${data.mainImg}`}
@@ -254,30 +253,6 @@ export function Event({ data }: { data: IEvent }) {
   );
 }
 
-export function Charity({ data }: { data: ICharity }) {
-  return (
-    <Box id="charity" py={1}>
-      <Card mb={3}>
-        <Text variant="cardLabel">Charity</Text>
-        <Box mb={3}>
-          <Text variant="heading" mb={1} sx={{ fontSize: 4 }}>
-            {data.name}
-          </Text>
-          <Text sx={{ color: "gray", fontSize: 1 }}>
-            {data.category} • {data.cause}
-          </Text>
-        </Box>
-        <Box mb={3}>
-          <Markdown>{data.mission}</Markdown>
-        </Box>
-        <Link href={data.url} target="_blank">
-          Learn more »
-        </Link>
-      </Card>
-    </Box>
-  );
-}
-
 export function Quote({ data }: { data: IQuote }) {
   return (
     <Box id="quote" py={1}>
@@ -291,7 +266,7 @@ export function Quote({ data }: { data: IQuote }) {
 }
 
 export function MainContent({ data }: { data: IDayData }) {
-  const { artist, charity, event, funFacts, idiom, person, quote, wiki, word } = data;
+  const { artist, event, funFacts, idiom, person, quote, wiki, word } = data;
 
   return (
     <React.Fragment>
@@ -302,7 +277,6 @@ export function MainContent({ data }: { data: IDayData }) {
       {wiki && <Wiki data={wiki} />}
       {person && <Person data={person} />}
       {event && <Event data={event} />}
-      {charity && <Charity data={charity} />}
       {quote && <Quote data={quote} />}
     </React.Fragment>
   );

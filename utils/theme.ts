@@ -22,7 +22,7 @@ export default {
     secondary: "#111199",
     muted: "#f6f6f6",
     highlight: "#efeffe",
-    lightgray: "#e9e9e9",
+    lightgray: "#ddd",
     gray: "#777777",
     accent: "#660099",
     yellow: "#fff59d",
@@ -108,6 +108,20 @@ export default {
       color: "background",
       bg: "primary",
       fontWeight: "bold",
+      fontFamily: "body",
+      borderRadius: 8,
+      "&:hover": {
+        cursor: "pointer",
+      },
+      "&:focus": {
+        boxShadow: "0 0 0 2px rgba(51, 51, 238, 0.5)",
+        outline: "none",
+      },
+      "&:disabled": {
+        cursor: "not-allowed",
+        opacity: 0.5,
+        pointerEvents: "none",
+      },
     },
     secondary: {
       variant: "buttons.primary",
@@ -247,7 +261,8 @@ export default {
       fontWeight: "bold",
     },
     input: {
-      borderColor: "gray",
+      fontFamily: "monospace",
+      borderColor: "lightgray",
       "&:focus": {
         borderColor: "primary",
         boxShadow: (t) => `0 0 0 2px ${t.colors.primary}`,
@@ -255,7 +270,8 @@ export default {
       },
     },
     select: {
-      borderColor: "gray",
+      fontFamily: "monospace",
+      borderColor: "lightgray",
       "&:focus": {
         borderColor: "primary",
         boxShadow: (t) => `0 0 0 2px ${t.colors.primary}`,
@@ -263,7 +279,8 @@ export default {
       },
     },
     textarea: {
-      borderColor: "gray",
+      fontFamily: "monospace",
+      borderColor: "lightgray",
       "&:focus": {
         borderColor: "primary",
         boxShadow: (t) => `0 0 0 2px ${t.colors.primary}`,

@@ -19,7 +19,7 @@ export function ScrollToTop() {
   if (!isVisible) return null;
 
   return (
-    <Box m={2} sx={{ position: "fixed", bottom: 0, right: 0 }}>
+    <Box m={[3, 2]} sx={{ position: "fixed", bottom: 0, right: 0 }}>
       <IconButton onClick={handleScrollToTop} sx={{ width: 30, height: 30 }}>
         <ArrowUpCircle size={24} />
       </IconButton>

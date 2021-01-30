@@ -10,6 +10,7 @@
   "dependencies": {
     "@reach/dialog": "^0.13.0",
     "@tippyjs/react": "^4.2.0",
+    "airtable": "^0.10.1",
     "date-fns": "^2.16.1",
     "lodash.sample": "^4.2.1",
     "lodash.samplesize": "^4.2.0",

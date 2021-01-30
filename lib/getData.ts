@@ -13,7 +13,6 @@ export function getData(): IDayData {
 
   return {
     artist: sample(data.artists),
-    charity: sample(data.charities),
     event: sample(data.events),
     funFacts: sampleSize(data.funFacts1, 3),
     holidays: data.holidays,

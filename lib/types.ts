@@ -28,16 +28,6 @@ export interface IQuote {
   author: string;
 }
 
-export interface ICharity {
-  name: string;
-  mission: string;
-  tagline: string;
-  category: string;
-  cause: string;
-  url: string;
-  urlCharNav: string;
-}
-
 export interface IWiki {
   date: string;
   url: string;
@@ -75,7 +65,6 @@ export interface IHolidays {
 
 export type IDayData = {
   artist: IArtist;
-  charity?: ICharity;
   event: IEvent;
   funFacts: IFunFact[];
   holidays: IHolidays;

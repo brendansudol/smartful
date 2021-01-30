@@ -6,14 +6,16 @@ import { Box, IconButton, jsx } from "theme-ui";
 import { CloseIcon } from "../utils/icons";
 
 interface IProps {
-  isOpen?: boolean;
-  onClose: () => void;
   children: React.ReactNode;
+  focusRef: React.RefObject<any>;
+  onClose: () => void;
+  isOpen?: boolean;
 }
 
-export function Modal({ isOpen = true, onClose, children }: IProps) {
+export function ModalContainer({ children, focusRef, onClose, isOpen = true }: IProps) {
   return (
     <DialogOverlay
+      initialFocusRef={focusRef}
       isOpen={isOpen}
       onDismiss={onClose}
       sx={{
@@ -52,7 +54,9 @@ export function Modal({ isOpen = true, onClose, children }: IProps) {
         >
           <CloseIcon size={16} />
         </IconButton>
-        <Box mt={1}>{children}</Box>
+        <Box mt={1} p={1}>
+          {children}
+        </Box>
       </DialogContent>
     </DialogOverlay>
   );

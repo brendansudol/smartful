@@ -16,7 +16,6 @@ const categories: Category[] = [
   { id: "idiom", name: "Idiom", icon: "1f4a1" },
   { id: "funFacts", name: "Fun facts", icon: "1f649" },
   { id: "artist", name: "Artist", icon: "1f3a8" },
-  { id: "wiki", name: "Wikipedia article", icon: "1f4da" },
   { id: "person", name: "Historical figure", icon: "1f9d1" },
   { id: "event", name: "Historic event", icon: "1f4c5" },
   { id: "quote", name: "Quote", icon: "1f4dd" },

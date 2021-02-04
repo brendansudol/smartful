@@ -1,19 +1,10 @@
 import Markdown from "markdown-to-jsx";
 import NextImage from "next/image";
 import React from "react";
-import { Box, Button, Card, Flex, IconButton, Image, Link, Text } from "theme-ui";
-import {
-  IArtist,
-  IDayData,
-  IEvent,
-  IFunFact,
-  IIdiom,
-  IPerson,
-  IQuote,
-  IWiki,
-  IWord,
-} from "../lib/types";
+import { Box, Card, Flex, IconButton, Image, Link, Text } from "theme-ui";
+import { IArtist, IDayData, IEvent, IFunFact, IIdiom, IPerson, IQuote, IWord } from "../lib/types";
 import { PlayCircle } from "../utils/icons";
+import { CardFooter } from "./CardFooter";
 
 export function Word({ data }: { data: IWord }) {
   const speakWord = () => {
@@ -55,10 +46,11 @@ export function Word({ data }: { data: IWord }) {
           <Text variant="sectionLabel">Example</Text>
           <Box as={Markdown}>{data.examples[0]}</Box>
         </Box>
-        <Box>
+        <Box mb={3}>
           <Text variant="sectionLabel">Origin</Text>
           <Box as={Markdown}>{data.didYouKnow}</Box>
         </Box>
+        <CardFooter sourceText="Webster's Dictionary" />
       </Card>
     </Box>
   );
@@ -72,7 +64,10 @@ export function Idiom({ data }: { data: IIdiom }) {
         <Text variant="cardTitle" mb={3}>
           {data.term}
         </Text>
-        <Box as={Markdown}>{data.definition}</Box>
+        <Box as={Markdown} mb={3} sx={{ display: "block" }}>
+          {data.definition}
+        </Box>
+        <CardFooter sourceText="The American Heritage Dictionary of Idioms" />
       </Card>
     </Box>
   );
@@ -83,13 +78,14 @@ export function FunFacts({ data }: { data: IFunFact[] }) {
     <Box id="funFacts" py={1}>
       <Card mb={3}>
         <Text variant="cardLabel">Fun facts</Text>
-        <Box as="ol" pt={1}>
+        <Box as="ol" mb={3} pt={1}>
           {data.map((fact) => (
             <Box key={fact.id} as="li">
               {fact.fact}
             </Box>
           ))}
         </Box>
+        <CardFooter sourceText="Snapple's under-the-cap 'Real Facts'" />
       </Card>
     </Box>
   );
@@ -121,7 +117,7 @@ export function Artist({ data }: { data: IArtist }) {
           </Box>
         </Flex>
         <Box mb={3}>
-          {data.summary.slice(0, 2).map((paragraph, i) => (
+          {data.summary.slice(0, 3).map((paragraph, i) => (
             <Text key={i} as="p" mb={2}>
               {paragraph}
             </Text>
@@ -150,24 +146,7 @@ export function Artist({ data }: { data: IArtist }) {
             </Link>
           ))}
         </Box>
-        <Link href={data.urlGoogle} target="_blank">
-          Learn more »
-        </Link>
-      </Card>
-    </Box>
-  );
-}
-
-export function Wiki({ data }: { data: IWiki }) {
-  return (
-    <Box id="wiki" py={1}>
-      <Card mb={3}>
-        <Text variant="cardLabel">Wikipedia article</Text>
-        <Text variant="cardTitle" mb={3}>
-          {data.name}
-        </Text>
-        <Box mb={3}>{data.summary}</Box>
-        <Link href={data.url}>Learn more »</Link>
+        <CardFooter moreUrl={data.urlGoogle} sourceText="Wikipedia, Google Arts & Culture" />
       </Card>
     </Box>
   );
@@ -199,15 +178,13 @@ export function Person({ data }: { data: IPerson }) {
           </Box>
         </Flex>
         <Box mb={3}>
-          {data.summary.slice(0, 2).map((paragraph, i) => (
+          {data.summary.slice(0, 3).map((paragraph, i) => (
             <Text key={i} as="p" mb={2}>
               {paragraph}
             </Text>
           ))}
         </Box>
-        <Link href={data.urlWiki} target="_blank">
-          Learn more »
-        </Link>
+        <CardFooter moreUrl={data.urlWiki} sourceText="Wikipedia, Google Arts & Culture" />
       </Card>
     </Box>
   );
@@ -239,15 +216,13 @@ export function Event({ data }: { data: IEvent }) {
           </Box>
         </Flex>
         <Box mb={3}>
-          {data.summary.slice(0, 2).map((paragraph, i) => (
+          {data.summary.slice(0, 3).map((paragraph, i) => (
             <Text key={i} as="p" mb={2}>
               {paragraph}
             </Text>
           ))}
         </Box>
-        <Link href={data.urlWiki} target="_blank">
-          Learn more »
-        </Link>
+        <CardFooter moreUrl={data.urlWiki} sourceText="Wikipedia, Google Arts & Culture" />
       </Card>
     </Box>
   );
@@ -266,7 +241,7 @@ export function Quote({ data }: { data: IQuote }) {
 }
 
 export function MainContent({ data }: { data: IDayData }) {
-  const { artist, event, funFacts, idiom, person, quote, wiki, word } = data;
+  const { artist, event, funFacts, idiom, person, quote, word } = data;
 
   return (
     <React.Fragment>
@@ -274,7 +249,6 @@ export function MainContent({ data }: { data: IDayData }) {
       {idiom && <Idiom data={idiom} />}
       {funFacts && <FunFacts data={funFacts} />}
       {artist && <Artist data={artist} />}
-      {wiki && <Wiki data={wiki} />}
       {person && <Person data={person} />}
       {event && <Event data={event} />}
       {quote && <Quote data={quote} />}

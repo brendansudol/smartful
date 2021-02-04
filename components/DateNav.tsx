@@ -4,7 +4,7 @@ import { Box, Card, Flex, IconButton, Text } from "theme-ui";
 import { ChevronLeft, ChevronRight } from "../utils/icons";
 import { formatDate, START_DATE_ISO } from "../utils/dates";
 
-export interface IProps {
+interface IProps {
   date: Date;
 }
 

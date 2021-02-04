@@ -102,6 +102,10 @@ export default {
       fontSize: 0,
       fontWeight: "bold",
     },
+    citation: {
+      color: "gray",
+      fontSize: 0,
+    },
   },
   buttons: {
     primary: {

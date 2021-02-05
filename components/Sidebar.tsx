@@ -40,7 +40,7 @@ export function Sidebar({ data }: { data: IDayData }) {
   return (
     <Box
       p={[1, 2]}
-      mr={[0, 3]}
+      mr={[0, 4]}
       sx={{
         flex: "none",
         width: ["auto", 250],
@@ -72,7 +72,7 @@ export function Sidebar({ data }: { data: IDayData }) {
                   src={`/img/emojis/${c.icon}.svg`}
                   sx={{ mr: "12px", width: 18, height: 18 }}
                 />
-                <Text sx={{ flex: "1 1 auto", fontWeight: "body" }}>{c.name}</Text>
+                <Text sx={{ flex: "1 1 auto" }}>{c.name}</Text>
               </NavLink>
             ))}
         </Box>
@@ -83,7 +83,7 @@ export function Sidebar({ data }: { data: IDayData }) {
           About
         </Button>
         <Button variant="nav" mb={[0, 1]} mr={[2, 0]} onClick={() => showModal(<SubscribeModal />)}>
-          Subscribe to email
+          Subscribe
         </Button>
       </Box>
     </Box>

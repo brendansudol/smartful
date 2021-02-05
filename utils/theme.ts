@@ -185,7 +185,7 @@ export default {
       color: "inherit",
       textDecoration: "none",
       fontSize: 1,
-      fontWeight: "bold",
+      fontWeight: "body",
       lineHeight: "compact",
       bg: "transparent",
       transition: "background-color .2s ease-in",

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Box, Button, Divider, Flex, Input, Text } from "theme-ui";
+import { Box, Button, Divider, Flex, Heading, Input, Text } from "theme-ui";
 import { useModal } from "../contexts/modal";
 import { isEmailValid } from "../utils/email";
 
@@ -37,14 +37,14 @@ export function SubscribeModal() {
 
   return (
     <Box>
-      <Text variant="heading" mb={2} sx={{ fontSize: [2, 3] }}>
-        TODO: Subscribe...
-      </Text>
-      <Text mb={4}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-        labore et dolore magna aliqua.
-      </Text>
-      <Box mb={3} as="form" onSubmit={handleSubmit}>
+      <Heading mb={3} sx={{ fontSize: 4 }}>
+        Subscribe
+      </Heading>
+      <Box mb={3}>
+        Do you want these interesting nuggets in your inbox? Sign up for the daily email and learn
+        five new things before breakfast.
+      </Box>
+      <Box mb={2} as="form" onSubmit={handleSubmit}>
         <Flex mx={-1} sx={{ alignItems: "center" }}>
           <Box px={1} sx={{ flex: "1 1 auto" }}>
             <Input
@@ -60,17 +60,11 @@ export function SubscribeModal() {
           </Box>
           <Box px={1}>
             <Button type="submit" disabled={status === Status.LOADING || status === Status.SUCCESS}>
-              {status === Status.SUCCESS ? "Thanks!" : "Submit"}
+              {status === Status.SUCCESS ? "Done!" : "Try it"}
             </Button>
           </Box>
         </Flex>
       </Box>
-      <Text sx={{ fontSize: 1 }}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-        labore et dolore magna aliqua. Ut enim ad.
-      </Text>
-      <Divider my={4} />
-      <Text sx={{ fontSize: 1 }}>Lorem ipsum dolor sit amet</Text>
     </Box>
   );
 }

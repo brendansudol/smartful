@@ -1,0 +1,142 @@
+{
+  "artist": {
+    "id": "david-teniers-the-younger",
+    "name": "David Teniers the Younger",
+    "dates": "Dec 15, 1610 - Apr 25, 1690",
+    "mainImg": "img/art/artists/david-teniers-the-younger.jpg",
+    "artworkImgs": [
+      {
+        "name": "A peasant with his wife and child in front of the farmhouse",
+        "path": "img/art/artworks/david-teniers-the-younger-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-peasant-with-his-wife-and-child-in-front-of-the-farmhouse-david-teniers-ii/GQHbUrkWNqd91g"
+      },
+      {
+        "name": "Guardroom with the Deliverance of Saint Peter",
+        "path": "img/art/artworks/david-teniers-the-younger-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/guardroom-with-the-deliverance-of-saint-peter-david-teniers-the-younger/bwF5bs0-KMQ44Q"
+      },
+      {
+        "name": "Female Pilgrim",
+        "path": "img/art/artworks/david-teniers-the-younger-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/female-pilgrim/AQHQ7aL-_KvF3g"
+      },
+      {
+        "name": "The Consultation",
+        "path": "img/art/artworks/david-teniers-the-younger-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-consultation-david-teniers-the-younger/XgFYDKNYHrc4vg"
+      },
+      {
+        "name": "The Prodigal Son",
+        "path": "img/art/artworks/david-teniers-the-younger-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-prodigal-son-david-teniers-the-younger/RQFObqFeZKbtDw"
+      },
+      {
+        "name": "Archduke Leopold William in his Gallery at Brussels",
+        "path": "img/art/artworks/david-teniers-the-younger-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/archduke-leopold-william-in-his-gallery-at-brussels-david-teniers-the-younger/DAFg0iBJKZDQHw"
+      }
+    ],
+    "summary": [
+      "David Teniers the Younger or David Teniers II was a Flemish Baroque painter, printmaker, draughtsman, miniaturist painter, staffage painter, copyist and art curator. He was an extremely versatile artist known for his prolific output. He was an innovator in a wide range of genres such as history painting, genre painting, landscape painting, portrait and still life. He is now best remembered as the leading Flemish genre painter of his day. Teniers is particularly known for developing the peasant genre, the tavern scene, pictures of collections and scenes with alchemists and physicians.",
+      "He was court painter and the curator of the collection of Archduke Leopold Wilhelm, the art loving Governor General of the Habsburg Netherlands. He created a printed catalogue of the collections of the Archduke. He was the founder of the Antwerp Academy, where young artists were trained to draw and sculpt in the hope of reviving Flemish art after its decline following the death of the leading Flemish artists Rubens and Anthony van Dyck in the early 1640s. He influenced the next generation of Northern genre painters as well as French Rococo painters such as Antoine Watteau."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Dutch Golden Age", "Antwerp school"],
+    "mediums": ["Oil paint", "Etching", "Wood", "Pencil", "Engraving", "Oak"],
+    "urlWiki": "https://en.wikipedia.org/wiki/David_Teniers_the_Younger",
+    "urlGoogle": "https://artsandculture.google.com/entity/david-teniers-the-younger/m03h0s3"
+  },
+  "event": {
+    "id": "ottoman-wars-in-europe",
+    "name": "Ottoman wars in Europe",
+    "dates": "1356 - Jul 28, 1858",
+    "mainImg": "img/events/ottoman-wars-in-europe.jpg",
+    "summary": [
+      "The Ottoman wars in Europe were a series of military conflicts between the Ottoman Empire and various European states dating from the Late Middle Ages up through the early 20th century. The earliest conflicts began during the Byzantine–Ottoman wars, waged in Anatolia in the late 13th century before entering Europe in the mid 14th century, followed by the Bulgarian–Ottoman wars and the Serbian–Ottoman wars waged beginning in the mid 14th century. Much of this period was characterized by Ottoman expansion into the Balkans. The Ottoman Empire made further inroads into Central Europe in the 15th and 16th centuries, culminating in the peak of Ottoman territorial claims in Europe.",
+      "The Ottoman–Venetian Wars spanned four centuries, starting in 1423 and lasting until 1718. This period witnessed the fall of Negroponte in 1470, the fall of Famagusta in 1571, the defeat of the Ottoman fleet at the Battle of Lepanto in 1571, the fall of Candia in 1669, the Venetian reconquest of Morea in the 1680s and its loss again in 1715. The island of Corfu under Venetian rule remained the only Greek island not conquered by the Ottomans."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe",
+    "urlGoogle": "https://artsandculture.google.com/entity/ottoman-wars-in-europe/m03jqfx"
+  },
+  "funFacts": [
+    { "id": "112", "fact": "At birth, a Dalmation is always pure white.", "category": ["Animals"] },
+    {
+      "id": "60",
+      "fact": "The tongue is the fastest healing part of the body.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "940",
+      "fact": "Forty percent of twins invent their own language.",
+      "category": ["Anatomy", "Science", "Make-it-Easies"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "553923", "fact": "There's a five-story, blood-red waterfall in Antarctica." },
+    {
+      "id": "554073",
+      "fact": "The swirling blue shades of the Marble Caves in Chile are a reflection of the turquoise lake waters below them. The hues change subtly as sea levels fall and rise."
+    },
+    {
+      "id": "551309",
+      "fact": "<span>The ampersand symbol is formed from the letters in <em>et</em>—the Latin word for \"and.\"</span>"
+    }
+  ],
+  "idiom": {
+    "id": "bring-home-the-bacon",
+    "term": "bring home the bacon",
+    "definition": "1\\. Earn a living, provide the necessities of life, as in *Now that she had a job, Patricia could bring home the bacon.* 2\\. Be successful, accomplish something of value, as in *George went to Washington and brought home the bacon---he got the funding we needed.* Although the earliest citation for this phrase in the *Oxford English Dictionary* dates from 1924, the term is widely believed to come from the much older game of catching a greased pig, a popular competition at country fairs in which the winner was awarded the pig."
+  },
+  "person": {
+    "id": "empress-jingu",
+    "name": "Empress Jingū",
+    "dates": "169 AD - 269 AD",
+    "mainImg": "img/people/empress-jingu.jpg",
+    "summary": [
+      "Empress consort Jingū was a Japanese empress who ruled as a regent following her husband's death in 200 AD. Both the Kojiki, and the Nihon Shoki record events that took place during Jingū's alleged lifetime. Legends say that after seeking revenge on the people who murdered her husband, she then turned her attention to a \"promised land\". Jingū is thus considered to be a controversial monarch by historians in terms of her alleged invasion of the Korean Peninsula. This was in turn possibly used as justification for imperial expansion during the Meiji period. The records state that Jingū gave birth to a baby boy whom she named Homutawake three years after he was conceived by her late husband.",
+      "Jingū's reign is conventionally considered to have been from 201 to 269 AD, and was considered to be the 15th Japanese imperial ruler until the Meiji period. Modern historians have come to the conclusion that the name \"Jingū\" was used by later generations to describe this legendary Empress. It has also been proposed that Jingū actually reigned later than she is attested. While the location of Jingū's grave is unknown, she is traditionally venerated at a kofun and at a shrine."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Empress_Jing%C5%AB",
+    "urlGoogle": "https://artsandculture.google.com/entity/empress-jingū/m01v441"
+  },
+  "place": {
+    "id": "amritsar",
+    "name": "Amritsar",
+    "mainImg": "img/places/amritsar.jpg",
+    "summary": [
+      "Amritsar, historically also known as Rāmdāspur and colloquially as Ambarsar, is a city in state of Punjab, northwestern India which is the administrative headquarters of the Amritsar district and is located in the Majha region of Punjab.",
+      "According to the 2011 census, the population of Amritsar was 1,132,761. It is one of the ten Municipal Corporations in the state and Karamjit Singh Rintu is the current mayor of the city. The city is situated 217 km northwest of state capital Chandigarh and 455 km northwest of New Delhi, the national capital. It is near Pakistan, with the Wagah Border being only 28 km away.",
+      "Amritsar has been chosen as one of the heritage cities for HRIDAY - Heritage City Development and Augmentation Yojana scheme of Government of India. Amritsar is home to Harmandir Sahib, popularly known as \"the Golden Temple,\" one of Sikhism's most spiritually significant and most-visited gurudwaras. The city is also known for its wooden chessboards and chess pieces manufacturing industry."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Amritsar",
+    "urlGoogle": "https://artsandculture.google.com/entity/amritsar/m029kpy"
+  },
+  "quote": {
+    "id": "101",
+    "quote": "Today a reader, tomorrow a leader.",
+    "author": "Margaret Fuller"
+  },
+  "wiki": {
+    "id": "h-ii-region",
+    "name": "H II region",
+    "summary": "An H II region is a cloud of glowing gas, sometimes several hundred light years across, in which star formation is taking place. Young, hot, blue stars which have formed from the gas emit copious amounts of ultraviolet light, ionising the nebula surrounding them. H II regions may give birth to thousands of stars over a period of several million years. In the end, supernova explosions and strong stellar winds from the most massive stars in the resulting star cluster will evaporate the gases of the H II region, leaving behind a cluster such as the Pleiades. H II (pronounced \"H two\") regions are named for the large amount of ionised atomic hydrogen they contain, referred to as H II by astronomers (H I being neutral atomic hydrogen, and H2 being molecular hydrogen). H II regions can be seen out to considerable distances in the universe, and study of extragalactic H II regions is important in determining the distance and chemical composition of other galaxies.",
+    "url": "https://en.wikipedia.org/wiki/H_II_region"
+  },
+  "word": {
+    "id": "haptic",
+    "word": "haptic",
+    "url": "https://www.merriam-webster.com/dictionary/haptic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "HAP-tik",
+    "audioPath": "audio/words/haptic.mp3",
+    "definitions": [
+      "relating to or based on the sense of touch",
+      "characterized by a predilection for the sense of touch"
+    ],
+    "examples": ["Katy could tell one kind of yarn from another purely by haptic clues."],
+    "origin": "\"Haptic\" (from the Greek \"haptesthai,\" meaning \"to touch\") entered English in the late 19th century as a medical synonym for \"tactile.\" By the middle of the 20th century, it had developed a psychological sense, describing individuals whose perception supposedly depended primarily on touch rather than sight. Although almost no one today divides humans into \"haptic\" and \"visual\" personalities, English retains the broadened psychological sense of \"haptic\" as well as the older \"tactile\" sense."
+  }
+}

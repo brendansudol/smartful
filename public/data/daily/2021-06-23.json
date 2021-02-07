@@ -1,0 +1,129 @@
+{
+  "artist": {
+    "id": "alfred-sisley",
+    "name": "Alfred Sisley",
+    "dates": "Oct 30, 1839 - Jan 29, 1899",
+    "mainImg": "img/art/artists/alfred-sisley.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Bridge at Villeneuve-la-Garenne",
+        "path": "img/art/artworks/alfred-sisley-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bridge-at-villeneuve-la-garenne-alfred-sisley/6AEoMBEEGYcIRA"
+      },
+      {
+        "name": "La Seine au point du jour",
+        "path": "img/art/artworks/alfred-sisley-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/la-seine-au-point-du-jour-alfred-sisley/4AGGTlD8Alx3gg"
+      },
+      {
+        "name": "Molesey Weir, Hampton Court",
+        "path": "img/art/artworks/alfred-sisley-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/molesey-weir-hampton-court-alfred-sisley/1AHPRPadPs05WQ"
+      },
+      {
+        "name": "June Morning in Saint-Mammès",
+        "path": "img/art/artworks/alfred-sisley-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/june-morning-in-saint-mammès-alfred-sisley/wgEU6hw2LyqX6Q"
+      },
+      {
+        "name": "Le Pont de Moret, effet d’orage",
+        "path": "img/art/artworks/alfred-sisley-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/le-pont-de-moret-effet-d’orage-alfred-sisley/hAH8DtHacv61Yw"
+      },
+      {
+        "name": "Cows in Pasture, Louveciennes",
+        "path": "img/art/artworks/alfred-sisley-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cows-in-pasture-louveciennes-sisley-alfred/wwFkc0aGM1-pgw"
+      }
+    ],
+    "summary": [
+      "Alfred Sisley was an Impressionist landscape painter who was born and spent most of his life in France, but retained British citizenship. He was the most consistent of the Impressionists in his dedication to painting landscape en plein air. He deviated into figure painting only rarely and, unlike Renoir and Pissarro, found that Impressionism fulfilled his artistic needs.",
+      "Among his important works are a series of paintings of the River Thames, mostly around Hampton Court, executed in 1874, and landscapes depicting places in or near Moret-sur-Loing. The notable paintings of the Seine and its bridges in the former suburbs of Paris are like many of his landscapes, characterized by tranquillity, in pale shades of green, pink, purple, dusty blue and cream. Over the years Sisley's power of expression and colour intensity increased."
+    ],
+    "quote": "“The animation of the canvas is one of the hardest problems of painting.”",
+    "movements": ["Impressionism", "Modern art"],
+    "mediums": ["Oil paint", "Drawing", "Graphite", "Etching", "Crayon"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alfred_Sisley",
+    "urlGoogle": "https://artsandculture.google.com/entity/alfred-sisley/m01qpyr"
+  },
+  "event": {
+    "id": "mexican-revolution",
+    "name": "Mexican Revolution",
+    "dates": "Nov 20, 1910 - 1924",
+    "mainImg": "img/events/mexican-revolution.jpg",
+    "summary": [
+      "The Mexican Revolution was a major armed struggle, lasting roughly from 1910 to 1920, that transformed Mexican culture and government. Although recent research has focused on local and regional aspects of the revolution, it was a genuinely national revolution. Its outbreak in 1910 resulted from the failure of the 31-year-long regime of Porfirio Díaz to find a managed solution to presidential succession. This meant there was a political crisis among competing elites and the opportunity for agrarian insurrection. Wealthy landowner Francisco I. Madero challenged Díaz in the 1910 presidential election, and following the rigged results, revolted under the Plan of San Luis Potosí. Armed conflict broke out in northern Mexico and Díaz was forced out. In the Treaty of Ciudad Juárez, Díaz resigned and went into exile, new elections were to occur in the fall, and an interim presidency under Francisco León de la Barra was installed. A new election was held in 1911, bringing Madero to the presidency.",
+      "The origins of the conflict were broadly based in opposition to the Díaz regime, with the 1910 election becoming the catalyst for the outbreak of political rebellion."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Mexican_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/mexican-revolution/m012gs4"
+  },
+  "funFacts": [
+    {
+      "id": "844",
+      "fact": "One lump of sugar is equivalent to three feet of sugar cane.",
+      "category": ["Plants"]
+    },
+    {
+      "id": "199",
+      "fact": "The largest cheesecake ever made weighed 57,508 lbs.",
+      "category": ["Food"]
+    },
+    { "id": "315", "fact": "No two lip impressions are the same.", "category": ["Anatomy"] }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "star-chamber-proceedings",
+    "term": "star-chamber proceedings",
+    "definition": "An unfair, secret judicial action. The term alludes to an inquisitorial English court that sat without a jury and was famous for its harsh judgments and sentences. Called the Court of the Star Chamber because of the stars gilded on its ceiling, it was abolished in 1641. The name, however, has persisted to the present day."
+  },
+  "person": {
+    "id": "dương-van-minh",
+    "name": "Dương Văn Minh",
+    "dates": "Feb 16, 1916 - Aug 6, 2001",
+    "mainImg": "img/people/dương-van-minh.jpg",
+    "summary": [
+      "Dương Văn Minh, popularly known as Big Minh, was a South Vietnamese politician and a senior general in the Army of the Republic of Vietnam and a politician during the presidency of Ngô Đình Diệm. In 1963, he became chief of a military junta after leading a coup in which Diệm was assassinated. Minh lasted only three months before being toppled by Nguyễn Khánh, but assumed power again as the fourth and last President of South Vietnam in April 1975, two days before surrendering to North Vietnamese forces."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/D%C6%B0%C6%A1ng_V%C4%83n_Minh",
+    "urlGoogle": "https://artsandculture.google.com/entity/dương-văn-minh/m0krxf"
+  },
+  "place": {
+    "id": "japan",
+    "name": "Japan",
+    "mainImg": "img/places/japan.jpg",
+    "summary": [
+      "Japan is an island country in East Asia. Located in the northwest Pacific Ocean, it borders the Sea of Japan to the west, and extends from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. Japan is part of the Pacific Ring of Fire and comprises an archipelago of 6,852 islands covering 377,975 square kilometers; its five main islands, from north to south, are Hokkaido, Honshu, Shikoku, Kyushu, and Okinawa. Tokyo is the country's capital and largest city; other major cities include Osaka and Nagoya.",
+      "Japan is the 11th most populous country in the world, as well as one of the most densely populated and urbanized. About three-fourths of the country's terrain is mountainous, concentrating its population of 126.2 million on narrow coastal plains. Japan is administratively divided into 47 prefectures and traditionally divided into eight regions. The Greater Tokyo Area is the most populous metropolitan area in the world, with more than 37.4 million residents.",
+      "The islands of Japan were inhabited as early as the Upper Paleolithic period, though the first mentions of the archipelago appear in Chinese chronicles from the 1st century AD."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Japan",
+    "urlGoogle": "https://artsandculture.google.com/entity/japan/m03_3d"
+  },
+  "wiki": {
+    "id": "igor-stravinsky",
+    "name": "Igor Stravinsky",
+    "summary": "Igor Stravinsky was a Russian-born composer. Although he composed primitivist, neo-classical and serial works, he is best known for three compositions from his earlier, Russian period: The Firebird, Petrushka, and The Rite of Spring. These daring and innovative ballets practically reinvented the genre. Stravinsky also wrote for a wide range of ensembles in a broad spectrum of classical forms, ranging from opera and symphonies to piano miniatures and works for jazz band. Stravinsky also achieved fame as a pianist and conductor, often at the premieres of his own works. He was also a writer; with the help of Alexis Roland-Manuel, Stravinsky compiled a theoretical work entitled Poetics of Music in which he famously claimed that music was incapable of \"expressing anything but itself.\" A quintessentially cosmopolitan Russian, Stravinsky was one of the most influential composers and artists of 20th century music, both in the West and in his native land. He was named by Time magazine as one of the most influential people of the century.",
+    "url": "https://en.wikipedia.org/wiki/Igor_Stravinsky"
+  },
+  "word": {
+    "id": "dovecote",
+    "word": "dovecote",
+    "url": "https://www.merriam-webster.com/dictionary/dovecote",
+    "partOfSpeech": "noun",
+    "pronunciation": "DUV-koht",
+    "audioPath": "audio/words/dovecote.mp3",
+    "definitions": [
+      "a small compartmented raised house or box for domestic pigeons",
+      "a settled or harmonious group or organization"
+    ],
+    "examples": [
+      "\"The Sultan of Oman has also been a significant contributor, paying for the magnificent _dovecote_ made from English walnut at the end of the lime walk.\" - Steve Whysall, _Vancouver Sun_, June 26, 2014",
+      "\"A leaked anonymous letter, the so-called Trojan Horse letter, claimed there was a conservative Muslim conspiracy to infiltrate and take over as many as two dozen local schools. It caused fluttering in very many interested _dovecotes_.\" - Mary Dejevsky, _Newsweek_, June 15, 2014"
+    ],
+    "origin": "When Shakespeare's Coriolanus was condemned to die by the Volscians, the doomed general proudly reminded his enemies, \"Like an eagle in a dove-cote, I Flutter'd your Volscians in Corioli.\" (Coriolanus was referring to an earlier victory in which his army had seized the city of Corioli from the Volscians.) When he introduced that eagle into the dovecote, Shakespeare also introduced a new figure of speech, but one that wasn't truly \"discovered\" by most writers until the 19th century-and then from a misquote. English novelist Edward G. Lytton reminded folks about it in 1853 when he wrote about how \"the great Roman general did 'flutter the dove-cots in Corioli.'\" Nowadays, we sometimes \"ruffle\" dovecotes or \"cause a flurry\" in them, in addition to \"fluttering\" them or \"causing a flutter\" in them."
+  }
+}

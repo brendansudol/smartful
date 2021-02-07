@@ -1,0 +1,147 @@
+{
+  "artist": {
+    "id": "bernardino-luini",
+    "name": "Bernardino Luini",
+    "dates": "1482 - June 1532",
+    "mainImg": "img/art/artists/bernardino-luini.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Holy Family with Saints Anne and John",
+        "path": "img/art/artworks/bernardino-luini-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-holy-family-with-saints-anne-and-john-bernardino-luini/QAG6eU5ABR5PkA"
+      },
+      {
+        "name": "The Holy Family with Saints Anne and John",
+        "path": "img/art/artworks/bernardino-luini-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-holy-family-with-saints-anne-and-john-bernardino-luini/MAGWQQXi1nEilg"
+      },
+      {
+        "name": "Jesus Cristo",
+        "path": "img/art/artworks/bernardino-luini-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/jesus-cristo-bernardino-luini-atribuído/9QGT0SCjiPkteg"
+      },
+      {
+        "name": "Venus",
+        "path": "img/art/artworks/bernardino-luini-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-bernardino-luini/QgFKXDjqLWvOWA"
+      },
+      {
+        "name": "Portrait of a Lady",
+        "path": "img/art/artworks/bernardino-luini-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-lady-bernardino-luini/sAF6y4C3kkOT0A"
+      },
+      {
+        "name": "Adoration of the Christ Child and Annunciation to the Shepherds",
+        "path": "img/art/artworks/bernardino-luini-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/adoration-of-the-christ-child-and-annunciation-to-the-shepherds-luini-bernardino/CgH0jIIR8u2-Hg"
+      }
+    ],
+    "summary": [
+      "Bernardino Luini was a North Italian painter from Leonardo's circle during the High Renaissance. Both Luini and Giovanni Antonio Boltraffio were said to have worked with Leonardo directly; he was described as having taken \"as much from Leonardo as his native roots enabled him to comprehend\". Consequently, many of his works were attributed to Leonardo. He was known especially for his graceful female figures with elongated eyes, called Luinesque by Vladimir Nabokov."
+    ],
+    "quote": null,
+    "movements": ["Milanese School", "Renaissance", "Italian Renaissance"],
+    "mediums": ["Oil paint", "Rock", "Slate", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Bernardino_Luini",
+    "urlGoogle": "https://artsandculture.google.com/entity/bernardino-luini/m04qf6w"
+  },
+  "event": {
+    "id": "dutch-east-indies-campaign",
+    "name": "Dutch East Indies campaign",
+    "dates": "Dec 8, 1941 - Mar 9, 1942",
+    "mainImg": "img/events/dutch-east-indies-campaign.jpg",
+    "summary": [
+      "The Dutch East Indies campaign of 1941–1942 was the conquest of the Dutch East Indies by forces from the Empire of Japan in the early days of the Pacific campaign of World War II. Forces from the Allies attempted unsuccessfully to defend the islands. The East Indies were targeted by the Japanese for their rich oil resources which would become a vital asset during the war. The campaign and subsequent three and a half year Japanese occupation was also a major factor in the end of Dutch colonial rule in the region."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Dutch_East_Indies_campaign",
+    "urlGoogle": "https://artsandculture.google.com/entity/dutch-east-indies-campaign/m025y6yg"
+  },
+  "funFacts": [
+    {
+      "id": "872",
+      "fact": "President William Taft weighed over 300 lbs and once got stuck in the white house bathtub.",
+      "category": ["History"]
+    },
+    {
+      "id": "142",
+      "fact": "Hawaii is the only U.S. state never to report a temperature of zero degrees F or below.",
+      "category": ["Geography", "Onlies"]
+    },
+    {
+      "id": "1028",
+      "fact": "Sound travels up to 15 times faster through steel than air, at speeds up to 19,000 feet per second.",
+      "category": ["Hodgepodge", "Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504761",
+      "fact": "At the Wife Carrying World Championships in Finland, first prize is the wife's weight in beer."
+    },
+    {
+      "id": "553545",
+      "fact": "A cough can propel saliva droplets as far as 20 feet at speeds up to 25 to 50 mph."
+    },
+    {
+      "id": "554004",
+      "fact": "Nostrils take turns receiving the majority of the air you breathe, which explains why one is usually stuffier than the other."
+    }
+  ],
+  "idiom": {
+    "id": "wash-ones-dirty-linen-in-public",
+    "term": "wash one's dirty linen in public",
+    "definition": "Also **air one's dirty linen** or **laundry.** Expose private matters to public view, especially unsavory secrets. These metaphors are reworkings of a French proverb, *Il faut laver son linge sale en famille* (\"One should wash one's dirty linen at home\"), which was quoted by Napoleon on his return from Elba (1815). It was first recorded in English in 1867."
+  },
+  "person": {
+    "id": "abraham-lincoln",
+    "name": "Abraham Lincoln",
+    "dates": "Feb 12, 1809 - Apr 15, 1865",
+    "mainImg": "img/people/abraham-lincoln.jpg",
+    "summary": [
+      "Abraham Lincoln was an American statesman and lawyer who served as the 16th president of the United States. Lincoln led the nation through its greatest moral, constitutional, and political crisis in the American Civil War. He preserved the Union, abolished slavery, strengthened the federal government, and modernized the U.S. economy.",
+      "Lincoln was born in poverty in a log cabin and was raised on the frontier primarily in Indiana. He was self-educated and became a lawyer, Whig Party leader, Illinois state legislator, and U.S. Congressman from Illinois. In 1849 he returned to his law practice but became vexed by the opening of additional lands to slavery as a result of the Kansas–Nebraska Act. He reentered politics in 1854, becoming a leader in the new Republican Party, and he reached a national audience in the 1858 debates against Stephen Douglas. Lincoln ran for President in 1860, sweeping the North in victory. Pro-slavery elements in the South equated his success with the North's rejection of their right to practice slavery, and southern states began seceding from the union."
+    ],
+    "quote": "“I never had a policy; I have just tried to do my very best each and every day.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+    "urlGoogle": "https://artsandculture.google.com/entity/abraham-lincoln/m0gzh"
+  },
+  "place": {
+    "id": "reims",
+    "name": "Reims",
+    "mainImg": "img/places/reims.jpg",
+    "summary": [
+      "Reims is the most populous city in the Marne department, in the Grand Est region of France. Its population in 2013 was of 182,592 in the city proper and 317,611 in the metropolitan area. The city lies 129 km east-northeast of Paris. Its primary river, the Vesle, is a tributary of the Aisne.",
+      "Founded by the Gauls, Reims became a major city during the period of the Roman Empire. Reims later played a prominent ceremonial role in French monarchical history as the traditional site of the coronation of the kings of France. The royal anointing was performed at the Cathedral of Reims, which housed the Holy Ampulla of chrism allegedly brought by a white dove at the baptism of Frankish king Clovis I in 496. For this reason, Reims is often referred to in French as la cité des sacres.",
+      "The Cathedral, the Palace of Tau and the former Abbey of Saint-Remi have been listed as a UNESCO World Heritage Site since 1991."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Reims",
+    "urlGoogle": "https://artsandculture.google.com/entity/reims/m0d117"
+  },
+  "quote": {
+    "id": "103",
+    "quote": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+    "author": "Pablo Picasso"
+  },
+  "wiki": {
+    "id": "766-th-independent-infantry-regiment-north-korea",
+    "name": "766th Independent Infantry Regiment (North Korea)",
+    "summary": "The 766th Independent Infantry Regiment was a light infantry regiment of the North Korean People's Army that existed briefly during the Korean War. Trained extensively in amphibious warfare and unconventional warfare, the 766th Regiment was considered a special forces commando unit. Activated in 1949, the regiment trained for more than a year before the outbreak of the war on June 25, 1950. On that day, half of the regiment led North Korean forces against South Korean troops by land and sea, pushing them back after several days of fighting. Over the next six weeks the regiment advanced slowly down the Korean Peninsula, acting as a forward unit of the North Korean army. Suffering from a lack of supplies and mounting casualties, the regiment was committed to the Battle of Pusan Perimeter as part of a push to force United Nations troops out of Korea. The regiment saw its final action at the Battle of P'ohang-dong, fighting unsuccessfully to take the town from UN troops.",
+    "url": "https://en.wikipedia.org/wiki/766th_Independent_Infantry_Regiment_(North_Korea)"
+  },
+  "word": {
+    "id": "coffle",
+    "word": "coffle",
+    "url": "https://www.merriam-webster.com/dictionary/coffle",
+    "partOfSpeech": "noun",
+    "pronunciation": "KAW-ful",
+    "audioPath": "audio/words/coffle.mp3",
+    "definitions": ["a line of slaves or animals fastened together"],
+    "examples": [
+      "\"The abolitionists understood the effect that depictions of an auction block, a slave _coffle_, and the tearing apart of families had upon their audience.\" - From Steven Deyle's 2005 book _Carry Me Back_",
+      "\"There was the very real possibility that, if captured, families would be broken up, children separated from mothers, brothers from sisters, loved ones sold and marched south in slave _coffles_.\" - From an article by John Kelly in _The Washington Post_, April 16, 2013"
+    ],
+    "origin": "\"Coffle\" comes from the Arabic \"qāfila,\" which means \"caravan\" or \"travelling company,\" though in English it has been used more specifically to refer to a group of slaves or animals chained or strung together. One of the earliest known uses of \"coffle\" in English is found in the explorer Mungo Park's 1799 _Travels in the Interior of Africa_. This was not the first time, however, that English had borrowed \"qāfila.\" About two hundred years earlier \"cafila\" started appearing in print as an Anglicization of the Arabic \"qāfila\" to indicate a caravan or company of travelers in the Middle East and India."
+  }
+}

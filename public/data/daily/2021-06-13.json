@@ -1,0 +1,136 @@
+{
+  "artist": {
+    "id": "j-alden-weir",
+    "name": "J. Alden Weir",
+    "dates": "Aug 30, 1852 - Dec 8, 1919",
+    "mainImg": "img/art/artists/j-alden-weir.jpg",
+    "artworkImgs": [
+      {
+        "name": "An Alsatian Girl",
+        "path": "img/art/artworks/j-alden-weir-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/an-alsatian-girl-julian-alden-weir/xwEV5X1kKK-ZOA"
+      },
+      {
+        "name": "Woodland Rocks",
+        "path": "img/art/artworks/j-alden-weir-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/woodland-rocks-julian-alden-weir/IwFOa4UcQ2xhEw"
+      },
+      {
+        "name": "Knitting for Soldiers",
+        "path": "img/art/artworks/j-alden-weir-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/knitting-for-soldiers-julian-alden-weir/4wFmnoGTRzOxgg"
+      },
+      {
+        "name": "Pan and the Wolf",
+        "path": "img/art/artworks/j-alden-weir-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/pan-and-the-wolf-julian-alden-weir/nAE2Q5oW-_9gAQ"
+      },
+      {
+        "name": "Afternoon by the Pond",
+        "path": "img/art/artworks/j-alden-weir-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/afternoon-by-the-pond-julian-alden-weir/NQFVZLH7NbWC0g"
+      },
+      {
+        "name": "New England Barnyard",
+        "path": "img/art/artworks/j-alden-weir-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/new-england-barnyard-julian-alden-weir/kAFvFGvgyAn43A"
+      }
+    ],
+    "summary": [
+      "Julian Alden Weir was an American impressionist painter and member of the Cos Cob Art Colony near Greenwich, Connecticut. Weir was also one of the founding members of \"The Ten\", a loosely allied group of American artists dissatisfied with professional art organizations, who banded together in 1898 to exhibit their works as a stylistically unified group."
+    ],
+    "quote": null,
+    "movements": [
+      "Impressionism",
+      "American Impressionism",
+      "Hudson River School",
+      "Modern art",
+      "Tonalism"
+    ],
+    "mediums": ["Oil paint", "Etching", "Wood", "Engraving", "Laid paper", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/J._Alden_Weir",
+    "urlGoogle": "https://artsandculture.google.com/entity/j-alden-weir/m02nl2l"
+  },
+  "event": {
+    "id": "battle-of-st-quentin-canal",
+    "name": "Battle of St Quentin Canal",
+    "dates": "Sep 29, 1918 - Oct 10, 1918",
+    "mainImg": "img/events/battle-of-st-quentin-canal.jpg",
+    "summary": [
+      "The Battle of St. Quentin Canal was a pivotal battle of World War I that began on 29 September 1918 and involved British, Australian and American forces operating as part of the British Fourth Army under the overall command of General Sir Henry Rawlinson. Further north, part of the British Third Army also supported the attack. South of the Fourth Army's 19 km front, the French First Army launched a coordinated attack on a 9.5 km front. The objective was to break through one of the most heavily defended stretches of the German Siegfriedstellung, which in this sector utilised the St Quentin Canal as part of its defences. The assault achieved its objectives, resulting in the first full breach of the Hindenburg Line, in the face of heavy German resistance. In concert with other attacks of the Grand Offensive along the length of the line, Allied success convinced the German high command that there was little hope of an ultimate German victory."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_St_Quentin_Canal",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-st-quentin-canal/m0bz19j"
+  },
+  "funFacts": [
+    {
+      "id": "241",
+      "fact": "The only cactus plantation in the world is in Mississippi.",
+      "category": ["Plants", "Geography"]
+    },
+    {
+      "id": "200",
+      "fact": "The first country to use postcards was Austria.",
+      "category": ["Geography", "Firsts"]
+    },
+    {
+      "id": "270",
+      "fact": "Colors like red, yellow and orange make you hungry.",
+      "category": ["Food"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "know-the-ropes",
+    "term": "know the ropes",
+    "definition": "Be informed about the details of a situation or task. For example, *Don't worry about Sara's taking over that reporter's job---she already knows the ropes.* This expression alludes to sailors learning the rigging so as to handle a sailing vessel's ropes. It was being used figuratively by the late 1800s. The same allusion is present in **show someone the ropes,** meaning \"to familiarize someone with the details,\" as in *Tom's very experienced---he'll show you the ropes.*"
+  },
+  "person": {
+    "id": "aristide-briand",
+    "name": "Aristide Briand",
+    "dates": "Mar 28, 1862 - Mar 7, 1932",
+    "mainImg": "img/people/aristide-briand.jpg",
+    "summary": [
+      "Aristide Pierre Henri Briand was a French statesman who served eleven terms as Prime Minister of France during the French Third Republic. He is mainly remembered for his focus on international issues and reconciliation politics during the interwar period.",
+      "In 1926, he received the Nobel Peace Prize along with German Foreign minister Gustav Stresemann for the realization of the Locarno Treaties, which aimed at reconciliation between France and Germany after the First World War. To avoid another worldwide conflict, he was instrumental in the agreement known as the Kellogg–Briand Pact of 1929, as well to establish a \"European Union\" in 1929. However, all his efforts were compromised by the rise of nationalistic and revanchist ideas like Nazism and Fascism following the Great Depression."
+    ],
+    "quote": "“This means that the search for a formula of European cooperation in connection with the League of Nations, far from weakening the authority of this latter must and can only tend to strengthen it, for it is closely connected with its aims.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Aristide_Briand",
+    "urlGoogle": "https://artsandculture.google.com/entity/aristide-briand/m01b990"
+  },
+  "place": {
+    "id": "leeds",
+    "name": "Leeds",
+    "mainImg": "img/places/leeds.jpg",
+    "summary": [
+      "Leeds is the largest city in the county of West Yorkshire in Northern England, approximately 170 miles north of central London. Leeds has one of the most diverse economies of all the UK's main employment centres and has seen the fastest rate of private-sector jobs growth of any UK city. It also has the highest ratio of private to public sector jobs of all the UK's Core Cities, with 77% of its workforce working in the private sector. Leeds has the third-largest jobs total by local authority area, with 480,000 in employment and self-employment at the beginning of 2015. Leeds is ranked as a High Sufficiency level city by the Globalization and World Cities Research Network. Leeds is the cultural, financial and commercial heart of the West Yorkshire Urban Area. Leeds is served by five universities, it has the UK's fourth largest student population and the country's fourth largest urban economy."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Leeds",
+    "urlGoogle": "https://artsandculture.google.com/entity/leeds/m04p3c"
+  },
+  "wiki": {
+    "id": "2000-sri-lanka-cyclone",
+    "name": "2000 Sri Lanka cyclone",
+    "summary": "The 2000 Sri Lanka cyclone was the strongest tropical cyclone to strike the country of Sri Lanka since 1978. The fourth tropical storm and second cyclone of the 2000 North Indian Ocean cyclone season, the cyclone developed out of an area of disturbed weather on December 25. It moved westward, and quickly strengthened under favorable conditions to reach peak winds of 75 mph (120 km/h). The cyclone hit eastern Sri Lanka at peak strength, and weakened slightly while crossing the island before hitting and dissipating over southern India on December 28. The storm was the first cyclone to hit Sri Lanka with winds of at least hurricane strength since a 110 mph (175 km/h) cyclone hit in the 1978 season, as well as the first tropical storm to hit the island since 1992. The storm was also the first December tropical cyclone of hurricane intensity in the Bay of Bengal since 1996. It produced heavy rainfall and strong winds, damaging or destroying tens of thousands of houses and leaving up to 500,000 homeless. Nine died as a result of the cyclone.",
+    "url": "https://en.wikipedia.org/wiki/2000_Sri_Lanka_cyclone"
+  },
+  "word": {
+    "id": "harbinger",
+    "word": "harbinger",
+    "url": "https://www.merriam-webster.com/dictionary/harbinger",
+    "partOfSpeech": "noun",
+    "pronunciation": "HAHR-bun-jer",
+    "audioPath": "audio/words/harbinger.mp3",
+    "definitions": [
+      "one that pioneers in or initiates a major change : precursor",
+      "one that presages or foreshadows what is to come"
+    ],
+    "examples": [
+      "The February thaw is a _harbinger_ of spring -- even if it's followed by a few more snowstorms.",
+      "\"When Packers outside linebacker Clay Matthews had three sacks against Philadelphia in the opener, it was a _harbinger_ of things to come for the Eagles. They allowed 50 sacks on the season, the most in the 12-year Andy Reid era.\" -- From an article by Jim Polzin in the _Wisconsin State Journal_, January 9, 2011"
+    ],
+    "origin": "When medieval travelers needed lodging for the night, they went looking for a harbinger. As long ago as the 12th century, \"harbinger\" was used to mean \"one who provides lodging\" or \"a host,\" but that meaning is now obsolete. By the late 1300s, \"harbinger\" was also being used for a person sent ahead of a main party to seek lodgings, often for royalty or a campaigning army, but that old sense has largely been left in the past, too. Both of those historical senses are true to the Anglo-French parent of \"harbinger,\" the word \"herberge,\" meaning \"lodgings.\" The most common sense of the word nowadays, the \"forerunner\" sense, has been with us since the mid-1500s."
+  }
+}

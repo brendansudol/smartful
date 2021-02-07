@@ -1,0 +1,150 @@
+{
+  "artist": {
+    "id": "yoshitoshi",
+    "name": "Yoshitoshi",
+    "dates": "Apr 30, 1839 - Jun 9, 1892",
+    "mainImg": "img/art/artists/yoshitoshi.jpg",
+    "artworkImgs": [
+      {
+        "name": "Kintarō Seizes the Carp",
+        "path": "img/art/artworks/yoshitoshi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/kintarō-seizes-the-carp-tsukioka-yoshitoshi/4wGx83nRdbEnRA"
+      },
+      {
+        "name": "The moon on Musashi Plain (Musashino no tsuki) from the series 'One hundred aspects of the moon (Tsuki no hyakushi)' I/1892",
+        "path": "img/art/artworks/yoshitoshi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-moon-on-musashi-plain-musashino-no-tsuki-from-the-series-one-hundred-aspects-of-the-moon-tsuki-no-hyakushi-i-1892-tsukioka-yoshitoshi/jAHH0A04avBLOg"
+      },
+      {
+        "name": "Fujiwara no Yasumasa Playing the Flute by Moonlight",
+        "path": "img/art/artworks/yoshitoshi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/fujiwara-no-yasumasa-playing-the-flute-by-moonlight-tsukioka-yoshitoshi/QwHBc65TuUwf7A"
+      },
+      {
+        "name": "Portraits of the Tokugawa Rulers",
+        "path": "img/art/artworks/yoshitoshi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portraits-of-the-tokugawa-rulers-tsukioka-yoshitoshi/MAHpxG-d2HP8rg"
+      },
+      {
+        "name": "Jade rabbit: Sun Wukong, from the series One Hundred Aspects of the Moon",
+        "path": "img/art/artworks/yoshitoshi-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/jade-rabbit-sun-wukong-from-the-series-one-hundred-aspects-of-the-moon-artist-tsukioka-yoshitoshi-publisher-kokkeido-akiyama-buemon/ZQFkK_IWKy63yg"
+      },
+      {
+        "name": "Shinchūnagon Taira no Tomomori Sweeping the Deck",
+        "path": "img/art/artworks/yoshitoshi-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/shinchūnagon-taira-no-tomomori-sweeping-the-deck-tsukioka-yoshitoshi/iAEWZa4uzJGbHw"
+      }
+    ],
+    "summary": [
+      "Tsukioka Yoshitoshi was a Japanese artist.",
+      "He is widely recognized as the last great master of the ukiyo-e genre of woodblock printing and painting. He is also regarded as one of the form's greatest innovators. His career spanned two eras – the last years of Edo period Japan, and the first years of modern Japan following the Meiji Restoration. Like many Japanese, Yoshitoshi was interested in new things from the rest of the world, but over time he became increasingly concerned with the loss of many aspects of traditional Japanese culture, among them traditional woodblock printing.",
+      "By the end of his career, Yoshitoshi was in an almost single-handed struggle against time and technology. As he worked on in the old manner, Japan was adopting Western mass reproduction methods like photography and lithography. Nonetheless, in a Japan that was turning away from its own past, he almost singlehandedly managed to push the traditional Japanese woodblock print to a new level, before it effectively died with him.",
+      "His life is perhaps best summed up by John Stevenson:"
+    ],
+    "quote": null,
+    "movements": ["Ukiyo-e"],
+    "mediums": ["Ink", "Book", "Wood", "Textile", "Brocade", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Yoshitoshi",
+    "urlGoogle": "https://artsandculture.google.com/entity/yoshitoshi/m01rtn7"
+  },
+  "event": {
+    "id": "1912-summer-olympics",
+    "name": "1912 Summer Olympics",
+    "dates": "Jul 6, 1912 - Jul 22, 1912",
+    "mainImg": "img/events/1912-summer-olympics.jpg",
+    "summary": [
+      "The 1912 Summer Olympics, officially known as the Games of the V Olympiad, were an international multi-sport event held in Stockholm, Sweden, between 5 May and 22 July 1912.",
+      "Twenty-eight nations and 2,408 competitors, including 48 women, competed in 102 events in 14 sports. With the exception of tennis and football and shooting, the games were held within a month with an official opening on 6 July. It was the last Olympics to issue solid gold medals and, with Japan's debut, the first time an Asian nation participated. Stockholm was the only bid for the games, and was selected in 1909.",
+      "The games were the first to have art competitions, women's diving, women's swimming, and the first to feature both the decathlon and the new pentathlon, both won by Jim Thorpe. Electric timing was introduced in athletics, while the host country disallowed boxing. Figure skating was rejected by the organizers because they wanted to promote the Nordic Games.",
+      "United States won the most gold medals, while Sweden won the most medals overall. These were the final Olympic Games for 8 years due to the disruption of the First World War. The next Olympic Games were held in 1920."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1912_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/1912-summer-olympics/m018ljb"
+  },
+  "funFacts": [
+    {
+      "id": "264",
+      "fact": "Your breathing rate increases when you start to type.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "155",
+      "fact": "In 1926, the first outdoor mini-golf courses were built on rooftops in NYC.",
+      "category": ["Geography", "History"]
+    },
+    {
+      "id": "488",
+      "fact": "Place a slice of bread in the storage container to keep cookies soft when storing.",
+      "category": ["Food", "Make-it-Easies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554034",
+      "fact": "People walked differently in medieval times. They stepped with the ball of the foot first to check the ground for debris, perhaps because well-soled shoes were hard to come by."
+    },
+    { "id": "504871", "fact": "When feeding, a hummingbird can lick 10 to 15 times per second." },
+    {
+      "id": "522156",
+      "fact": "Forrest Mars, the creator of Peanut M&M's, was allergic to peanuts."
+    }
+  ],
+  "idiom": {
+    "id": "chew-the-cud",
+    "term": "chew the cud",
+    "definition": "Also, **chew over.** Ponder over, meditate, as in *John tends to chew the cud before he answers,* or *Let me chew that over and let you know.* The first term, first recorded in 1382, transfers the appearance of a patiently ruminating cow to a person deep in thought. The variant was first recorded in 1696."
+  },
+  "person": {
+    "id": "baldomero-espartero",
+    "name": "Baldomero Espartero",
+    "dates": "Feb 27, 1793 - Jan 8, 1879",
+    "mainImg": "img/people/baldomero-espartero.jpg",
+    "summary": [
+      "Joaquín Baldomero Fernández-Espartero y Álvarez de Toro, Prince of Vergara, 1st Duke of la Victoria, 1st Duke of Morella, 1st Count of Luchana, 1st Viscount of Banderas was a Spanish general and politician, who served as the Regent of Spain. He also served as Prime Minister of Spain three times. He was associated with the radical faction of Spanish liberalism and would become their symbol and champion after taking credit for the victory over the Carlists during 1839. His noble titles, Duke of la Victoria and Prince of Vergara were granted by Isabella II to him as a result.",
+      "Along with Manuel de Godoy, Espartero has been the only person other than the Prince of Asturias to have held the title of prince in the Kingdom of Spain, traditionally reserved for the heir to the throne, and was granted to him by King Amadeo I in 1870."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Baldomero_Espartero",
+    "urlGoogle": "https://artsandculture.google.com/entity/baldomero-espartero/m03br0l"
+  },
+  "place": {
+    "id": "adana",
+    "name": "Adana",
+    "mainImg": "img/places/adana.jpg",
+    "summary": [
+      "Adana is a Cilician city in southern Turkey. The city is situated on the Seyhan river, 35 km inland from north-east corner of the Mediterranean. It is the administrative seat of the Adana Province and has a population of 1.77 million, making it the 5th most populated city in Turkey.",
+      "Adana lies in the heart of Cilicia, a distinct geographical region alternatively known as Çukurova. Home to six million people, Cilicia is one of the largest population concentrations in Turkey, as well as the most agriculturally productive area, owing to its large stretch of flat, fertile land. The region includes the provinces of Mersin, Adana, Osmaniye and Hatay. Adding the large population centers surrounding Cilicia, more than 10 million people reside within 2-hours drive from the Adana city center.",
+      "Throughout the history, Adana were a market town at the Cilicia plain and one of the gateways from Europe to the Middle East, as it provided the only access on the wide Seyhan river. The city turned into a powerhouse of Cilicia with the Turkic takeover in 1359."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Adana",
+    "urlGoogle": "https://artsandculture.google.com/entity/adana/m0199rp"
+  },
+  "quote": {
+    "id": "94",
+    "quote": "Someone is sitting in the shade today because someone planted a tree a long time ago.",
+    "author": "Warren Buffett"
+  },
+  "wiki": {
+    "id": "allegro-musical",
+    "name": "Allegro (musical)",
+    "summary": "Allegro is a musical by Richard Rodgers (music) and Oscar Hammerstein II (book and lyrics), their third collaboration for the stage, which premiered on Broadway on October 10, 1947. After the immense successes of the first two Rodgers and Hammerstein musicals, Oklahoma! and Carousel, the pair sought a subject for their next play. Hammerstein had long contemplated a serious work that would deal with the problems of an ordinary man in the fast-moving modern world. Rodgers and he sought to create a work that would be as innovative as their first two stage musicals. To that end, they created a play with a large cast, including a Greek chorus. After a disastrous tryout in New Haven, Connecticut, the musical opened on Broadway to a large advance sale of tickets and very mixed reviews. The Broadway run, directed by Agnes de Mille, ended after nine months; it had no West End production and has rarely been revived.",
+    "url": "https://en.wikipedia.org/wiki/Allegro_(musical)"
+  },
+  "word": {
+    "id": "nostrum",
+    "word": "nostrum",
+    "url": "https://www.merriam-webster.com/dictionary/nostrum",
+    "partOfSpeech": "noun",
+    "pronunciation": "NAHSS-trum",
+    "audioPath": "audio/words/nostrum.mp3",
+    "definitions": ["a usually questionable remedy or scheme : panacea"],
+    "examples": [
+      "Critics predict the mayor's plan to revitalize the downtown area by offering tax breaks to businesses will prove a costly and ineffective _nostrum_.",
+      "\"For example, the Internet will likely soon be overflowing with _nostrums_, essential oils, tree bark, eye of toad and essence of newt promising to prevent or cure Ebola. The FDA and FTC should be gathering their lawyers right now to get this claptrap off the web.\" - Arthur Leonard Caplan, _Forbes_, September 30, 2014"
+    ],
+    "origin": "\"Whether there was real efficacy in these nostrums, and whether their author himself had faith in them, is more than can safely be said,\" wrote 19th-century American writer Nathaniel Hawthorne, \"but, at all events, the public believed in them.\" The word _nostrum_ has often been linked to quack medicine and false hopes for miracle cures, but there's nothing deceitful about its etymology. It has been a part of English since at least 1602, and comes from the Latin _noster_, meaning \"our\" or \"ours.\" Some think that specially prepared medicinal concoctions came to be called _nostrums_ because their purveyors marketed them as \"our own\" remedy. In other words, the use of nostrum emphasized that such a potion was unique or exclusive to the pitchman peddling it."
+  }
+}

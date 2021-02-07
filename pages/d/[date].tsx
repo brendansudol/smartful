@@ -21,12 +21,12 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
   }
 
   const dateISO = formatDate(date);
-  const data = getData();
+  const data = getData(dateISO);
 
   return {
     props: {
-      dateISO,
       data,
+      dateISO,
     },
   };
 };

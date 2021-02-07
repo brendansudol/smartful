@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "david-wilkie",
+    "name": "David Wilkie",
+    "dates": "Nov 18, 1785 - Jun 1, 1841",
+    "mainImg": "img/art/artists/david-wilkie.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Sedan Chair",
+        "path": "img/art/artworks/david-wilkie-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-sedan-chair-sir-david-wilkie/nAEs9ff8C2N-wQ"
+      },
+      {
+        "name": "The Highland Family",
+        "path": "img/art/artworks/david-wilkie-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-highland-family-sir-david-wilkie/RwGMO2BiCtUi5Q"
+      },
+      {
+        "name": "The Pedlar",
+        "path": "img/art/artworks/david-wilkie-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-pedlar-sir-david-wilkie-1785–1841-british/TQFmsmLZVG0puA"
+      },
+      {
+        "name": "Study for 'Sir David Baird Discovering the Body of Tipu Sahib'",
+        "path": "img/art/artworks/david-wilkie-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/study-for-sir-david-baird-discovering-the-body-of-tipu-sahib/tQETn9Bm4w5sdA"
+      },
+      {
+        "name": "Reading the Will",
+        "path": "img/art/artworks/david-wilkie-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/reading-the-will-sir-david-wilkie/BwH7PpGsxGG8vw"
+      },
+      {
+        "name": "Chelsea Pensioners Receiving the Gazette Announcing the Battle of Waterloo",
+        "path": "img/art/artworks/david-wilkie-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/chelsea-pensioners-receiving-the-gazette-announcing-the-battle-of-waterloo-sir-david-wilkie-1785–1841-british/awGk1YMJmdSEiA"
+      }
+    ],
+    "summary": [
+      "Sir David Wilkie RA was a British painter, especially known for his genre scenes. He painted successfully in a wide variety of genres, including historical scenes, portraits, including formal royal ones, and scenes from his travels to Europe and the Middle East. His main base was in London, but he died and was buried at sea, off Gibraltar, returning from his first trip to the Middle East. He was sometimes known as the \"people's painter\".",
+      "He was Principal Painter in Ordinary to King William IV and Queen Victoria. Apart from royal portraits, his best-known painting today is probably The Chelsea Pensioners reading the Waterloo Dispatch of 1822 in Apsley House."
+    ],
+    "quote": null,
+    "movements": ["Romanticism", "Academic art"],
+    "mediums": ["Ink", "Graphite", "Pen", "Watercolor painting", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/David_Wilkie_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/david-wilkie/m01gt08"
+  },
+  "event": {
+    "id": "1992-winter-olympics",
+    "name": "1992 Winter Olympics",
+    "dates": "Feb 8, 1992 - Feb 23, 1992",
+    "mainImg": "img/events/1992-winter-olympics.jpg",
+    "summary": [
+      "The 1992 Winter Olympics, officially known as the XVI Olympic Winter Games, were a winter multi-sport event celebrated from 8 to 23 February 1992 in Albertville, France. They were the last Winter Olympics to be held the same year as the Summer Olympics, and the first where the Winter Paralympics were held at the same site. Albertville was selected as host in 1986, beating Sofia, Falun, Lillehammer, Cortina d'Ampezzo, Anchorage and Berchtesgaden. The games were the third Winter Olympics held in France, after Chamonix in 1924 and Grenoble in 1968, and the fifth Olympics overall in the country.",
+      "Only figure skating, short track speed skating, speed skating and the opening and closing ceremonies took place in Albertville, while the rest of the events took place in the villages of Courchevel, La Plagne, Les Arcs, Les Menuires, Les Saisies, Méribel, Pralognan-la-Vanoise, Tignes and Val d'Isère. Sixty-four nations with 1,801 athletes participated in the games, including the Unified Team which represented non-Baltic former Soviet republics."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1992_Winter_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/1992-winter-olympics/m0sx7r"
+  },
+  "funFacts": [
+    {
+      "id": "849",
+      "fact": "New York was the first state to require cars to have license plates.",
+      "category": ["Firsts"]
+    },
+    { "id": "718", "fact": "Strawberries have an average of 200 seeds.", "category": ["Food"] },
+    { "id": "229", "fact": "The Caspian Sea is actually a lake.", "category": ["Geography"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "527095",
+      "fact": "In 1939, Hitler's nephew wrote an article called \"Why I Hate My Uncle.\" He came to the U.S., served in the Navy, and settled on Long Island."
+    },
+    {
+      "id": "553504",
+      "fact": "Kea parrots spread warbles when they’re in a good mood, making them the first known non-mammal species to communicate with infectious laughter."
+    },
+    {
+      "id": "504818",
+      "fact": "Although the bobcat is rarely seen, it is the most common wildcat in North America."
+    }
+  ],
+  "idiom": {
+    "id": "waste-not-want-not",
+    "term": "waste not, want not",
+    "definition": "Wise use of one's resources will keep one from poverty. For example, *I just hate to throw out good food---waste not, want not.* This proverbial saying was first recorded in 1772 but had an earlier, even more alliterative version, *willful waste makes woeful want* (1576)."
+  },
+  "person": {
+    "id": "julius-nyerere",
+    "name": "Julius Nyerere",
+    "dates": "Apr 13, 1922 - Oct 14, 1999",
+    "mainImg": "img/people/julius-nyerere.jpg",
+    "summary": [
+      "Julius Kambarage Nyerere was a Tanzanian anti-colonial activist, politician, and political theorist. He governed Tanganyika as Prime Minister from 1961 to 1962 and then as President from 1963 to 1964, after which he led its successor state, Tanzania, as President from 1964 to 1985. A founding member of the Tanganyika African National Union party—which in 1977 became the Chama Cha Mapinduzi party—he chaired it until 1990. Ideologically an African nationalist and African socialist, he promoted a political philosophy known as Ujamaa.",
+      "Born in Butiama, then in the British colony of Tanganyika, Nyerere was the son of a Zanaki chief. After completing his schooling, he studied at Makerere College in Uganda and then Edinburgh University in Scotland. In 1952 he returned to Tanganyika, married, and worked as a teacher. In 1954, he helped form TANU, through which he campaigned for Tanganyikan independence from the British Empire. Influenced by the Indian independence leader Mahatma Gandhi, Nyerere preached non-violent protest to achieve this aim."
+    ],
+    "quote": "“Violence is unnecessary and costly. Peace is the only way.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Julius_Nyerere",
+    "urlGoogle": "https://artsandculture.google.com/entity/julius-nyerere/m01_5jb"
+  },
+  "place": {
+    "id": "kazakhstan",
+    "name": "Kazakhstan",
+    "mainImg": "img/places/kazakhstan.jpg",
+    "summary": [
+      "Kazakhstan, officially the Republic of Kazakhstan, is a transcontinental country largely located in Central Asia with the most western parts of it being located in Eastern Europe. It is the world's largest landlocked country, and the ninth-largest country in the world, with an area of 2,724,900 square kilometres. Kazakhstan is the most dominant nation of Central Asia economically, generating 60% of the region's GDP, primarily through its oil and gas industry. It also has vast mineral resources.",
+      "Kazakhstan is officially a democratic, secular, unitary, constitutional republic with a diverse cultural heritage. Kazakhstan shares borders with Russia, China, Kyrgyzstan, Uzbekistan, and Turkmenistan, and also adjoins a large part of the Caspian Sea. It does not border Mongolia, although they are only 37 kilometers apart. The terrain of Kazakhstan includes flatlands, steppe, taiga, rock canyons, hills, deltas, snow-capped mountains, and deserts. Kazakhstan has an estimated 18.3 million people as of 2018. Its population density is among the lowest, at less than 6 people per square kilometre. Since 1997 and independence, the capital is Nur-Sultan, formerly known as Astana."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kazakhstan",
+    "urlGoogle": "https://artsandculture.google.com/entity/kazakhstan/m047lj"
+  },
+  "quote": {
+    "id": "85",
+    "quote": "Reality is created by the mind; we can change our reality by changing our mind.",
+    "author": "Plato"
+  },
+  "wiki": {
+    "id": "shielded-metal-arc-welding",
+    "name": "Shielded metal arc welding",
+    "summary": "Shielded metal arc welding is a manual arc welding process that uses a consumable electrode coated in flux to lay the weld. An electric current, in the form of either alternating current or direct current from a welding power supply, is used to form an electric arc between the electrode and the metals to be joined. As the weld is laid, the flux coating of the electrode disintegrates, giving off vapors that serve as a shielding gas and providing a layer of slag, both of which protect the weld area from atmospheric contamination. Because of the versatility of the process and the simplicity of its equipment and operation, shielded metal arc welding is one of the world's most popular welding processes. It dominates other welding processes in the maintenance and repair industry, and though flux-cored arc welding is growing in popularity, it continues to be used extensively in the construction of steel structures and in industrial fabrication. The process is used primarily to weld iron and steels — including stainless steel, but nickel and copper alloys can also be welded.",
+    "url": "https://en.wikipedia.org/wiki/Shielded_metal_arc_welding"
+  },
+  "word": {
+    "id": "copacetic",
+    "word": "copacetic",
+    "url": "https://www.merriam-webster.com/dictionary/copacetic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "koh-puh-SET-ik",
+    "audioPath": "audio/words/copacetic.mp3",
+    "definitions": ["very satisfactory"],
+    "examples": [
+      "Although Julie and Emma were barely on speaking terms last week, they now say that they have patched things up and everything is copacetic."
+    ],
+    "origin": "Theories about the origin of \"copacetic\" abound. The tap dancer Bill \"Bojangles\" Robinson believed he had coined the word as a boy in Richmond, Virginia. When patrons of his shoeshine stand would ask, \"How’s everything this morning?\" he would reply, \"Oh jes’ copacetic, boss; jes’ copacetic.\" But the word was current in Southern Black English perhaps as early as 1880, so it seems unlikely that Robinson (born in 1878) could have invented the term. Another explanation is that the word is from the Hebrew phrase \"kol be sedher,\" meaning \"everything is in order.\" Possibly it was coined by Harlem blacks working in Jewish businesses. The word’s popularity among Southern blacks, however, points to its originating in one of the Southern cities in which Jewish communities thrived, such as Atlanta."
+  }
+}

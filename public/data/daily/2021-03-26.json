@@ -1,0 +1,140 @@
+{
+  "artist": {
+    "id": "jose-clemente-orozco",
+    "name": "José Clemente Orozco",
+    "dates": "Nov 23, 1883 - Sep 7, 1949",
+    "mainImg": "img/art/artists/jose-clemente-orozco.jpg",
+    "artworkImgs": [
+      {
+        "name": "Prometheus",
+        "path": "img/art/artworks/jose-clemente-orozco-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/prometheus-josé-clemente-orozco/tQG5b5L11rcSkA"
+      },
+      {
+        "name": "Prometheus",
+        "path": "img/art/artworks/jose-clemente-orozco-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/prometheus-josé-clemente-orozco/8AHkK7oQDYy05w"
+      },
+      {
+        "name": "Estado mayor de bufones",
+        "path": "img/art/artworks/jose-clemente-orozco-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/estado-mayor-de-bufones-josé-clemente-orozco/nAH9PH51kUTV7g"
+      },
+      {
+        "name": "The People and their False Leaders",
+        "path": "img/art/artworks/jose-clemente-orozco-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-people-and-their-false-leaders-josé-clemente-orozco/LAFKTwl1cEiueA"
+      },
+      {
+        "name": "The Creator and Rebel Man",
+        "path": "img/art/artworks/jose-clemente-orozco-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-creator-and-rebel-man-josé-clemente-orozco/rwFLIH0QZHSRFA"
+      },
+      {
+        "name": "Mexican Landscape [Paisaije Mexicano]",
+        "path": "img/art/artworks/jose-clemente-orozco-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/mexican-landscape-paisaije-mexicano-josé-clemente-orozco/kwH7GlehSOxfKA"
+      }
+    ],
+    "summary": [
+      "José Clemente Orozco was a Mexican caricaturist and painter, who specialized in political murals that established the Mexican Mural Renaissance together with murals by Diego Rivera, David Alfaro Siqueiros, and others. Orozco was the most complex of the Mexican muralists, fond of the theme of human suffering, but less realistic and more fascinated by machines than Rivera. Mostly influenced by Symbolism, he was also a genre painter and lithographer. Between 1922 and 1948, Orozco painted murals in Mexico City, Orizaba, Claremont, California, New York City, Hanover, New Hampshire, Guadalajara, Jalisco, and Jiquilpan, Michoacán. His drawings and paintings are exhibited by the Carrillo Gil Museum in Mexico City, and the Orozco Workshop-Museum in Guadalajara. Orozco was known for being a politically committed artist, and he promoted the political causes of peasants and workers."
+    ],
+    "quote": "“We could raise prodigious cities and create nations, and explore the universe.”",
+    "movements": ["Social realism", "Modern art"],
+    "mediums": ["Oil paint", "Masonite", "Watercolor painting", "Drawing", "Tempera", "Charcoal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco",
+    "urlGoogle": "https://artsandculture.google.com/entity/josé-clemente-orozco/m01btzc"
+  },
+  "event": {
+    "id": "chernobyl-disaster",
+    "name": "Chernobyl disaster",
+    "dates": "Apr 25, 1986 - Apr 25, 1986",
+    "mainImg": "img/events/chernobyl-disaster.jpg",
+    "summary": [
+      "The Chernobyl disaster was caused by a nuclear accident that occurred on Saturday 26 April 1986, at the No. 4 reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR. It is considered the worst nuclear disaster in history and was caused by one of only two nuclear energy accidents rated at seven—the maximum severity—on the International Nuclear Event Scale, the other being the 2011 Fukushima Daiichi nuclear disaster in Japan.",
+      "The accident started during a safety test on an RBMK-type nuclear reactor, which was commonly used throughout the Soviet Union. The test was a simulation of an electrical power outage to aid the development of a safety procedure for maintaining reactor cooling water circulation until the back-up electrical generators could provide power. This gap was about one minute and had been identified as a potential safety problem that could cause the nuclear reactor core to overheat. It was hoped to prove that the residual rotational energy in a turbine generator could provide enough power to cover the gap. Three such tests had been conducted since 1982, but they had failed to provide a solution."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+    "urlGoogle": "https://artsandculture.google.com/entity/chernobyl-disaster/m07q37w"
+  },
+  "funFacts": [
+    {
+      "id": "707",
+      "fact": "Most rechargeable batteries can be recharged up to 1,000 times.",
+      "category": ["Science"]
+    },
+    {
+      "id": "682",
+      "fact": "The giant panda can eat up to 83 lbs of bamboo a day.",
+      "category": ["Animals"]
+    },
+    { "id": "397", "fact": "Bamboo can grow over three feet per day.", "category": ["Plants"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "553836",
+      "fact": "Novelist Patricia Highsmith kept about 300 snails as pets. She carried them in her handbag to parties."
+    },
+    {
+      "id": "553848",
+      "fact": "Jim Henson made his first Kermit puppet using his mother's old coat and two halves of a ping pong ball."
+    },
+    { "id": "504872", "fact": "Sharks have existed longer than trees." }
+  ],
+  "idiom": {
+    "id": "browned-off",
+    "term": "browned off",
+    "definition": "Very angry, as in *When she locked me out I was really browned off.* This expression originated as Royal Air Force slang for \"disgusted\" and \"depressed\" in the late 1930s and had crossed the Atlantic by World War II. It gradually came to be used more widely as a slangy synonym for \"infuriated.\" One theory for its origin, mentioned by Eric Partridge in his slang dictionary, is that it alludes to brass buttons on a uniform turning brown from lack of polishing. Partridge noted, however, that the \"predominant Army opinion\" was that the word had the same literal meaning as *buggered.*"
+  },
+  "person": {
+    "id": "tom-hayden",
+    "name": "Tom Hayden",
+    "dates": "Dec 11, 1939 - Oct 23, 2016",
+    "mainImg": "img/people/tom-hayden.jpg",
+    "summary": [
+      "Thomas Emmet Hayden was an American social and political activist, author, and politician. Hayden was best known for his major role as an anti-war and civil rights activist in the 1960s, authoring the Port Huron Statement and standing trial in the Chicago Seven case.",
+      "In later years he ran for political office numerous times, winning seats in both the California Assembly and California Senate. At the end of his life he was the director of the Peace and Justice Resource Center in Los Angeles County. He was married to Jane Fonda for 17 years, and was the father of actor Troy Garity."
+    ],
+    "quote": "“The peace and justice movement has to expand and not run away from the plight of gang members.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Tom_Hayden",
+    "urlGoogle": "https://artsandculture.google.com/entity/tom-hayden/m03qd0j"
+  },
+  "place": {
+    "id": "moldova",
+    "name": "Moldova",
+    "mainImg": "img/places/moldova.jpg",
+    "summary": [
+      "Moldova, officially the Republic of Moldova, is a landlocked country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. The capital city is Chișinău.",
+      "Most of the Moldovan territory was a part of the Principality of Moldavia from the 14th century until 1812, when it was ceded to the Russian Empire by the Ottoman Empire and became known as Bessarabia. In 1856, southern Bessarabia was returned to Moldavia, which three years later united with Wallachia to form Romania, but Russian rule was restored over the whole of the region in 1878. During the 1917 Russian Revolution, Bessarabia briefly became an autonomous state within the Russian Republic, known as the Moldavian Democratic Republic. In February 1918, the Moldavian Democratic Republic declared independence and then integrated into Romania later that year following a vote of its assembly. The decision was disputed by Soviet Russia, which in 1924 established, within the Ukrainian SSR, a Moldavian autonomous republic on partially Moldovan-inhabited territories to the east of Bessarabia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Moldova",
+    "urlGoogle": "https://artsandculture.google.com/entity/moldova/m04w4s"
+  },
+  "quote": {
+    "id": "62",
+    "quote": "The real voyage of discovery consists not in seeking new lands but seeing with new eyes.",
+    "author": "Marcel Proust"
+  },
+  "wiki": {
+    "id": "alcohol-laws-of-new-jersey",
+    "name": "Alcohol laws of New Jersey",
+    "summary": "The state laws governing the control of alcoholic beverages in New Jersey are among the most complex in the United States and contain many peculiarities not found in other states. New Jersey law grants individual municipalities substantial discretion in creating ordinances that regulate the sale and consumption of alcoholic beverages. A small percentage of municipalities in the state are \"dry towns\" that do not allow alcoholic beverages to be sold. Other towns permit alcohol sales 24 hours a day. The history of taverns and alcohol production in New Jersey dates to its early colonial period. A local distillery owner was asked by George Washington for his recipe for \"cyder spirits.\" With the rise of the temperance movement, New Jersey's alcohol industry suffered; many breweries, wineries and distilleries either closed or relocated to other states. The legacy of Prohibition restricted and prevented the industry's recovery until the state legislature began loosening restrictions starting in 1981. New Jersey's alcohol industry is experiencing a renaissance, and recently enacted laws provide new opportunities for the state's wineries and breweries.",
+    "url": "https://en.wikipedia.org/wiki/Alcohol_laws_of_New_Jersey"
+  },
+  "word": {
+    "id": "timorous",
+    "word": "timorous",
+    "url": "https://www.merriam-webster.com/dictionary/timorous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TIM-uh-rus",
+    "audioPath": "audio/words/timorous.mp3",
+    "definitions": ["of a timid disposition : fearful", "expressing or suggesting timidity"],
+    "examples": [
+      "The study seems to suggests that _timorous_ people suffer from stress more frequently than their more aggressive peers.",
+      "\"Hwang's quest to prove his daughter died from a workplace-related illness has pitted him against the world's biggest technology company and a largely _timorous_ South Korean media.\" - From an article by Justin McCurry in _The Guardian_ (London), February 6, 2014"
+    ],
+    "origin": "\"Timid\" and \"timorous\" don't just have similar spellings and meanings; they are etymologically related as well. Both words ultimately derive from the Latin verb \"timēre,\" meaning \"to fear.\" The immediate ancestor of \"timid\" is Latin \"timidus\" (same meaning as \"timid\"), whereas \"timorous\" traveled to Middle English by way of the Latin noun \"timor\" (\"fear\") and the Medieval Latin adjective \"timorosus.\" \"Timid\" may be the more common of the two words, but \"timorous\" is older. It first appeared in English in the mid-15th century; \"timid\" came on the scene a century later. Both words can mean \"easily frightened\" (as in \"a timid mouse\" or \"a timorous child\") as well as \"indicating or characterized by fear\" (as in \"he gave a timid smile\" or \"she took a timorous step forward\")."
+  }
+}

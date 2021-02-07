@@ -1,0 +1,137 @@
+{
+  "artist": {
+    "id": "hans-holbein-the-younger",
+    "name": "Hans Holbein the Younger",
+    "dates": "1497 - 1543",
+    "mainImg": "img/art/artists/hans-holbein-the-younger.jpg",
+    "artworkImgs": [
+      {
+        "name": "Jane Seymour, Queen of England",
+        "path": "img/art/artworks/hans-holbein-the-younger-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/jane-seymour-queen-of-england-hans-holbein-the-younger/egE1bExAbnBDgg"
+      },
+      {
+        "name": "The Ambassadors",
+        "path": "img/art/artworks/hans-holbein-the-younger-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-ambassadors-hans-holbein-the-younger/bQEWbLB26MG1LA"
+      },
+      {
+        "name": "Sir Thomas More",
+        "path": "img/art/artworks/hans-holbein-the-younger-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/sir-thomas-more-hans-holbein/WQEnBYMfBeoSdg"
+      },
+      {
+        "name": "Portrait of Henry VIII of England",
+        "path": "img/art/artworks/hans-holbein-the-younger-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-henry-viii-of-england-hans-holbein-the-younger/bwFsEOEPkei3Lw"
+      },
+      {
+        "name": "A Lady with a Squirrel and a Starling (Anne Lovell?)",
+        "path": "img/art/artworks/hans-holbein-the-younger-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-lady-with-a-squirrel-and-a-starling-anne-lovell-hans-holbein-the-younger/6wHKJZAnEKEGiA"
+      },
+      {
+        "name": "Der Ritter",
+        "path": "img/art/artworks/hans-holbein-the-younger-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/der-ritter-hans-holbein-the-younger/4wF0CV8MAdEjBw"
+      }
+    ],
+    "summary": [
+      "Hans Holbein the Younger was a German painter and printmaker who worked in a Northern Renaissance style, and is considered one of the greatest portraitists of the 16th century. He also produced religious art, satire, and Reformation propaganda, and he made a significant contribution to the history of book design. He is called \"the Younger\" to distinguish him from his father Hans Holbein the Elder, an accomplished painter of the Late Gothic school.",
+      "Holbein was born in Augsburg, but he worked mainly in Basel as a young artist. At first, he painted murals and religious works, designed stained glass windows, and printed books. He also painted an occasional portrait, making his international mark with portraits of humanist Desiderius Erasmus of Rotterdam. When the Reformation reached Basel, Holbein worked for reformist clients while continuing to serve traditional religious patrons. His Late Gothic style was enriched by artistic trends in Italy, France, and the Netherlands, as well as by Renaissance humanism. The result was a combined aesthetic uniquely his own.",
+      "Holbein travelled to England in 1526 in search of work, with a recommendation from Erasmus."
+    ],
+    "quote": null,
+    "movements": [
+      "Northern Renaissance",
+      "Renaissance",
+      "German Renaissance",
+      "Gothic art",
+      "French Renaissance"
+    ],
+    "mediums": ["Oil paint", "Wood", "Ink", "Gold", "Drawing", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+    "urlGoogle": "https://artsandculture.google.com/entity/hans-holbein-the-younger/m0cy9m"
+  },
+  "event": {
+    "id": "battle-of-cassel",
+    "name": "Battle of Cassel",
+    "dates": null,
+    "mainImg": "img/events/battle-of-cassel.jpg",
+    "summary": [
+      "The Battle of Cassel, sometimes called the Battle of Peene, took place on 11 April, 1677, during the Franco-Dutch War, near Cassel, in modern France. A French army under the overall command of the duc de Luxembourg defeated a combined Dutch-Spanish force led by William of Orange.",
+      "Although Cassel ensured the capture of key strongpoints in modern French Flanders, the French failed to force the Dutch out of the war, which continued until the August 1678 Treaties of Nijmegen."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Cassel_%281677%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-cassel/m07t470"
+  },
+  "funFacts": [
+    {
+      "id": "698",
+      "fact": "Stepping out for a walk every day can actually help you sleep better at night.",
+      "category": ["Anatomy"]
+    },
+    { "id": "12", "fact": "Emus and kangaroos cannot walk backward.", "category": ["Animals"] },
+    {
+      "id": "40",
+      "fact": "It is possible to lead a cow up stairs but not down.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "left-handed-compliment",
+    "term": "left-handed compliment",
+    "definition": "Also, **backhanded compliment.** An insult in the guise of an expression of praise. For example, *She said she liked my hair, but it turned out to be a left-handed compliment when she asked how long I'd been dyeing it.* This expression uses *left-handed* in the sense of \"questionable or doubtful,\" a usage dating from about 1600."
+  },
+  "person": {
+    "id": "lady-gaga",
+    "name": "Lady Gaga",
+    "dates": "Born Mar 28, 1986",
+    "mainImg": "img/people/lady-gaga.jpg",
+    "summary": [
+      "Stefani Joanne Angelina Germanotta, known professionally as Lady Gaga, is an American singer, songwriter, record producer, actress, and businesswoman. She is known for reinventing herself throughout her career and for her versatility in numerous areas of the entertainment industry. Gaga began performing as a teenager, singing at open mic nights and acting in school plays. She studied at Collaborative Arts Project 21, through New York University's Tisch School of the Arts, before dropping out to pursue a music career. When Def Jam Recordings canceled her contract, she worked as a songwriter for Sony/ATV Music Publishing, where Akon helped her sign a joint deal with Interscope Records and his own label KonLive Distribution in 2007. She rose to prominence the following year with her debut album The Fame and its chart-topping singles \"Just Dance\" and \"Poker Face\". The album was later reissued to include the EP The Fame Monster, which yielded the singles \"Bad Romance\", \"Telephone\", and \"Alejandro\".",
+      "Gaga's second full-length album, Born This Way, explored electronic rock and techno-pop and debuted atop the US Billboard 200 with more than one million copies sold."
+    ],
+    "quote": "“I had this dream, and I really wanted to be a star. And I was almost a monster in the way that I was really fearless with my ambitions.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Lady_Gaga",
+    "urlGoogle": "https://artsandculture.google.com/entity/lady-gaga/m0478__m"
+  },
+  "place": {
+    "id": "guyana",
+    "name": "Guyana",
+    "mainImg": "img/places/guyana.jpg",
+    "summary": [
+      "Guyana, officially the Co-operative Republic of Guyana, is a country on the northern mainland of South America. It is, however, often considered part of the Caribbean region because of its strong cultural, historical, and political ties with other Anglo-Caribbean countries and the Caribbean Community. Guyana is bordered by the Atlantic Ocean to the north, Brazil to the south and southwest, Venezuela to the west, and Suriname to the east. With 215,000 square kilometres, Guyana is the third-smallest sovereign state on mainland South America after Uruguay and Suriname.",
+      "The region known as \"the Guianas\" consists of the large shield landmass north of the Amazon River and east of the Orinoco River known as the \"land of many waters\". Originally inhabited by many indigenous groups, Guyana was settled by the Dutch before coming under British control in the late 18th century. It was governed as British Guiana, with a mostly plantation-style economy until the 1950s. It gained independence in 1966, and officially became a republic within the Commonwealth of Nations in 1970."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Guyana",
+    "urlGoogle": "https://artsandculture.google.com/entity/guyana/m034m8"
+  },
+  "quote": { "id": "50", "quote": "A goal is a dream with a deadline.", "author": "Napoleon Hill" },
+  "wiki": {
+    "id": "tenebrae-film",
+    "name": "Tenebrae (film)",
+    "summary": "Tenebrae is a 1982 Italian horror thriller film written and directed by Dario Argento. The film stars Anthony Franciosa, John Saxon, and Daria Nicolodi. After having experimented with two exercises in pure supernatural horror, Suspiria (1977) and Inferno (1980), Tenebrae represented Argento's return to the giallo form, a sub-genre he had helped popularize in the 1970s. The story concerns an American writer promoting his latest murder-mystery novel in Rome, only to get embroiled in the search for a serial-killer who has apparently been inspired to kill by the novel. The film was released in Italy and throughout most of Europe without experiencing any reported censorship problems, but was classified, prosecuted, and banned as a Video Nasty in the United Kingdom. Its theatrical distribution in the United States was delayed until 1984, when it was released in a heavily censored version under the title Unsane. In its cut form, Tenebrae received a mostly negative critical reception, but in recent years the original, fully restored version has become widely available for reappraisal. The film has been described as \"Argento’s last real masterpiece\".",
+    "url": "https://en.wikipedia.org/wiki/Tenebrae_(film)"
+  },
+  "word": {
+    "id": "vilipend",
+    "word": "vilipend",
+    "url": "https://www.merriam-webster.com/dictionary/vilipend",
+    "partOfSpeech": "verb",
+    "pronunciation": "VIL-uh-pend",
+    "audioPath": "audio/words/vilipend.mp3",
+    "definitions": [
+      "to hold or treat as of little worth or account",
+      "to express a low opinion of : disparage"
+    ],
+    "examples": [
+      "As a women's movement pioneer, Susan B. Anthony fought against the dictums of those who would _vilipend_ women by treating them as second-class citizens.",
+      "\"But many accepted canine breeds began in lowly circumstances. No matter how we may _vilipend_ their names, denying their cuteness is difficult.\" - From Bill Casselman's 2010 book _Where a Dobdob Meets a Dikdik_"
+    ],
+    "origin": "\"Vilipend\" first appeared in English in the 15th century and comes to us through French from the Latin roots \"vilis,\" meaning \"cheap\" or \"vile,\" plus \"pendere,\" meaning \"to weigh\" or \"to estimate.\" These roots work in tandem to form a meaning of \"to deem to be of little worth.\" Both of those roots have weighed in heavily as a source of common English words. Other \"vilis\" offspring include \"vile\" and \"vilify,\" while \"pendere\" has spawned such terms as \"append,\" \"expend,\" and \"dispense.\""
+  }
+}

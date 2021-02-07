@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "hiroshige",
+    "name": "Hiroshige",
+    "dates": "1797 - Oct 12, 1858",
+    "mainImg": "img/art/artists/hiroshige.jpg",
+    "artworkImgs": [
+      {
+        "name": "One Hundred Famous Views of Edo “Sudden Shower over Shin-Ohashi Bridge and Atake”",
+        "path": "img/art/artworks/hiroshige-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-“sudden-shower-over-shin-ohashi-bridge-and-atake”-utagawa-hiroshige/QAFL1JRk6OKiNQ"
+      },
+      {
+        "name": "Evening Snow at Kanbara",
+        "path": "img/art/artworks/hiroshige-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-snow-at-kanbara-utagawa-hiroshige/5wGGlOB0RzCQsw"
+      },
+      {
+        "name": "One Hundred Famous Views of Edo “Plum Garden in Kameido”",
+        "path": "img/art/artworks/hiroshige-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-“plum-garden-in-kameido”-utagawa-hiroshige/cwEPQk4UO2sF-Q"
+      },
+      {
+        "name": "One Hundred Famous Views of Edo;Plum Garden in Kameido",
+        "path": "img/art/artworks/hiroshige-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-plum-garden-in-kameido-utagawa-hiroshige/DgFIyemrWrUgaQ"
+      },
+      {
+        "name": "Small View of Yedo",
+        "path": "img/art/artworks/hiroshige-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/small-view-of-yedo-utagawa-hiroshige/dwFut16KkjvfFw"
+      },
+      {
+        "name": "Fifty-Three Stations of the Tokaido Hoeido Edition “Kanbara (Evening Snow)”",
+        "path": "img/art/artworks/hiroshige-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/fifty-three-stations-of-the-tokaido-hoeido-edition-“kanbara-evening-snow-”-utagawa-hiroshige/CQEfHyVGWJftDA"
+      }
+    ],
+    "summary": [
+      "Utagawa Hiroshige, born Andō Hiroshige, was a Japanese ukiyo-e artist, considered the last great master of that tradition.",
+      "Hiroshige is best known for his horizontal-format landscape series The Fifty-three Stations of the Tōkaidō and for his vertical-format landscape series One Hundred Famous Views of Edo. The subjects of his work were atypical of the ukiyo-e genre, whose typical focus was on beautiful women, popular actors, and other scenes of the urban pleasure districts of Japan's Edo period. The popular series Thirty-six Views of Mount Fuji by Hokusai was a strong influence on Hiroshige's choice of subject, though Hiroshige's approach was more poetic and ambient than Hokusai's bolder, more formal prints. Subtle use of color was essential in Hiroshige's prints, often printed with multiple impressions in the same area and with extensive use of bokashi, both of which were rather labor-intensive techniques.",
+      "For scholars and collectors, Hiroshige's death marked the beginning of a rapid decline in the ukiyo-e genre, especially in the face of the westernization that followed the Meiji Restoration of 1868."
+    ],
+    "quote": "“I leave my brush in the East And set forth on my journey. I shall see the famous places in the Western Land.”",
+    "movements": ["Ukiyo-e"],
+    "mediums": ["Ink", "Textile", "Silk", "Brocade", "Wood", "Book"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hiroshige",
+    "urlGoogle": "https://artsandculture.google.com/entity/hiroshige/m07hpgg"
+  },
+  "event": {
+    "id": "1947-1949-palestine-war",
+    "name": "1947–1949 Palestine war",
+    "dates": "Nov 30, 1947 - Jul 20, 1949",
+    "mainImg": "img/events/1947-1949-palestine-war.jpg",
+    "summary": [
+      "The 1947–1949 Palestine war, known in Israel as the War of Independence and in Arabic as The Nakba, was fought in the territory of Palestine under the British Mandate. It is the first war of the Israeli–Palestinian conflict and the broader Arab–Israeli conflict. During this war, the British Empire withdrew from Mandate Palestine, which had been a province of the Ottoman Empire before British occupation in 1917. The war culminated in the establishment of the State of Israel by the Jews, and saw the complete demographic transformation of Palestine, with the displacement of around 700,000 Palestinian Arabs and the complete destruction of most of their villages, towns and cities. The Palestinian Arabs ended up stateless, displaced either to the Palestinian territories captured by Egypt and Jordan or to the surrounding Arab states; many of them, as well as their descendants, remain stateless and in refugee camps."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1947%E2%80%931949_Palestine_war",
+    "urlGoogle": "https://artsandculture.google.com/entity/1947–1949-palestine-war/m02r4pf_"
+  },
+  "funFacts": [
+    {
+      "id": "786",
+      "fact": "The brain operates on the same amount of power as a 10-watt light bulb.",
+      "category": ["Anatomy", "Science"]
+    },
+    {
+      "id": "442",
+      "fact": "Bees' wings beat about 11,400 times per minute.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "724",
+      "fact": "A pineapple is neither an apple or a pine. It is, in fact, a large berry.",
+      "category": ["Food"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "dog-in-the-manger",
+    "term": "dog in the manger",
+    "definition": "One who prevents others from enjoying something despite having no use for it. For example, *Why be a dog in the manager? If you aren't going to use those tickets, let someone else have them.* This expression alludes to Aesop's fable about a snarling dog that prevents horses from eating fodder that is unpalatable to the dog itself. [Mid-1500s]"
+  },
+  "person": {
+    "id": "pancho-villa",
+    "name": "Pancho Villa",
+    "dates": "Jun 5, 1878 - Jul 20, 1923",
+    "mainImg": "img/people/pancho-villa.jpg",
+    "summary": [
+      "Francisco \"Pancho\" Villa was a Mexican revolutionary general and one of the most prominent figures of the Mexican Revolution.",
+      "As commander of the División del Norte, 'Division of the North', in the Constitutionalist Army, he was a military-landowner of the northern Mexican state of Chihuahua. Given the area's size and mineral wealth, it provided him with extensive resources. Villa was provisional governor of Chihuahua in 1913 and 1914. Villa can be credited with decisive military victories leading to the ousting of Victoriano Huerta from the presidency in July 1914. Villa fought his erstwhile leader in the coalition against Huerta, \"First Chief\" of the Constitutionalists Venustiano Carranza. Villa was in alliance with southern revolutionary Emiliano Zapata, who remained fighting in his own region of Morelos. The two revolutionary generals briefly came together to take Mexico City after Carranza's forces retreated from it. Later, Villa's heretofore undefeated División del Norte engaged the military forces of Carranza under Carrancista general Álvaro Obregón and was defeated in the 1915 Battle of Celaya."
+    ],
+    "quote": "“Don't let it end like this. Tell them I said something.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Pancho_Villa",
+    "urlGoogle": "https://artsandculture.google.com/entity/pancho-villa/m012gdw"
+  },
+  "place": {
+    "id": "ames",
+    "name": "Ames",
+    "mainImg": "img/places/ames.jpg",
+    "summary": [
+      "Ames is a city in Story County, Iowa, United States, located approximately 30 miles north of Des Moines in central Iowa. It is best known as the home of Iowa State University, with leading agriculture, design, engineering, and veterinary medicine colleges. A United States Department of Energy national laboratory, Ames Laboratory, is located on the ISU campus.",
+      "In 2019, Ames had a population of 66,258. Iowa State University was home to 33,391 students as of fall 2019, which make up approximately one half of the city's population.",
+      "Ames also hosts United States Department of Agriculture sites: the largest federal animal disease center in the United States, USDA's Agricultural Research Service's National Animal Disease Center., as well as, one of two national USDA sites for the Animal and Plant Health Inspection Service, which comprises the National Veterinary Services Laboratory and the Center for Veterinary Biologics. Ames has the headquarters for the Iowa Department of Transportation.",
+      "In 2010, Ames was ranked ninth on CNNMoney's \"Best Places to Live\" list."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ames,_Iowa",
+    "urlGoogle": "https://artsandculture.google.com/entity/ames/m0nmj"
+  },
+  "wiki": {
+    "id": "new-york-state-route-28",
+    "name": "New York State Route 28",
+    "summary": "New York State Route 28 is a state highway extending for 281.69 miles (453.34 km) in the shape of a \"C\" between the Hudson Valley city of Kingston and southern Warren County in the U.S. state of New York. Along the way, it intersects several major routes, including Interstate 88 (I-88), U.S. Route 20 (US 20), and the New York State Thruway twice. The southern terminus of NY 28 is at NY 32 in Kingston and the northern terminus is US 9 in Warrensburg. NY 28 was originally assigned in 1924 to an alignment extending from Colliersville in the south to Utica in the north via Ilion. From Colliersville to Cooperstown, the highway followed its current routing (excluding minor realignments); north of Cooperstown, NY 28 was routed along several state highways that now have other designations. The route was extended south to Kingston and north to Warrensburg as part of the 1930 renumbering of state highways in New York. At the same time, Route 28 was realigned between Cooperstown and Mohawk to follow its modern routing.",
+    "url": "https://en.wikipedia.org/wiki/New_York_State_Route_28"
+  },
+  "word": {
+    "id": "nobby",
+    "word": "nobby",
+    "url": "https://www.merriam-webster.com/dictionary/nobby",
+    "partOfSpeech": "adjective",
+    "pronunciation": "NAH-bee",
+    "audioPath": "audio/words/nobby.mp3",
+    "definitions": ["cleverly stylish : chic, smart"],
+    "examples": [
+      "\"\\[Mrs. Vance\\] ... reappeared, stunningly arrayed in a dark-blue walking dress, with a _nobby_ hat to match.\" - From Theodore Dreiser's 1900 novel _Sister Carrie_",
+      "\"This 'Members Only' club was where Chicago's _nobbiest_ \\[people\\] gathered to shut out people who were not like them in order to lead the good life of golf, horses, bathing on a private beach, and social events.\" - From an article by Henry Kisor in the _Chicago Sun-Times_, November 4, 2001"
+    ],
+    "origin": "\"Nobby\" comes from the noun \"nob,\" which is used in British English to mean \"one in a superior position in life.\" (\"Nob\" may have begun as a slang word for \"head,\" but etymologists aren't completely sure. A possible connection to \"noble\" has been suggested as well.) Appearing in English in 1788, \"nobby\" was first used to describe people of strikingly exquisite appearance. It has since extended in usage to describe the places frequented by such people, as well as their genteel customs. Charles Dickens, for example, wrote in Bleak House (1853) of \"\\[r\\]especting this unfortunate family matter, and the nobbiest way of keeping it quiet.\""
+  }
+}

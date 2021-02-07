@@ -1,0 +1,155 @@
+{
+  "artist": {
+    "id": "jean-fouquet",
+    "name": "Jean Fouquet",
+    "dates": "Died 1481",
+    "mainImg": "img/art/artists/jean-fouquet.jpg",
+    "artworkImgs": [
+      {
+        "name": "Heures d'Etienne Chevalier, n° 204 : L'Annonciation",
+        "path": "img/art/artworks/jean-fouquet-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/heures-d-etienne-chevalier-n°-204-l-annonciation-jean-fouquet/wgGCRFKP0_AL8A"
+      },
+      {
+        "name": "Madonna surrounded by Seraphim and Cherubim",
+        "path": "img/art/artworks/jean-fouquet-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-surrounded-by-seraphim-and-cherubim-jean-fouquet/BQHpHfwbR0a_qw"
+      },
+      {
+        "name": "Etienne Chevalier with St. Stephen",
+        "path": "img/art/artworks/jean-fouquet-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/etienne-chevalier-with-st-stephen-jean-fouquet/GgH9U8LZ1lcc8A"
+      },
+      {
+        "name": "The Right Hand of God Protecting the Faithful against the Demons",
+        "path": "img/art/artworks/jean-fouquet-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-right-hand-of-god-protecting-the-faithful-against-the-demons-jean-fouquet/BgHD5gRJwI_eLw"
+      },
+      {
+        "name": "The Virgin and Child Enthroned",
+        "path": "img/art/artworks/jean-fouquet-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-enthroned/7AGiwEj9afWK8g"
+      },
+      {
+        "name": "Vierge à l'Enfant.",
+        "path": "img/art/artworks/jean-fouquet-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/vierge-à-l-enfant-copie-de-la-vierge-et-l-enfant-d-après-le-tableau-de-jean-fouquet/JwHWlb9Tu-yGng"
+      }
+    ],
+    "summary": [
+      "Jean Fouquet was a French painter and miniaturist. A master of panel painting and manuscript illumination, and the apparent inventor of the portrait miniature, he is considered one of the most important painters from the period between the late Gothic and early Renaissance. He was the first French artist to travel to Italy and experience first-hand the early Italian Renaissance.",
+      "Little is known of Fouquet's early life and education. Though long assumed to have been an apprentice of the so-called Bedford Master of Paris it is now suggested that he may have studied under the Jouvenal Master in Nantes, whose works were formerly assumed to be early works by Fouquet. Sometime between 1445 and 1447 he travelled to Italy where he came under the influence of Roman Quattrocento artists such as Fra Angelico and Filarete. During the 1450s he began working at the French court, where he counted kings Charles VII and his successor Louis XI among his many patrons."
+    ],
+    "quote": null,
+    "movements": [
+      "Renaissance",
+      "French Renaissance",
+      "Northern Renaissance",
+      "Italian Renaissance"
+    ],
+    "mediums": ["Gold", "Ink", "Metal", "Gold leaf", "Tempera", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean_Fouquet",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-fouquet/m036v9j"
+  },
+  "event": {
+    "id": "evacuations-of-civilians-in-britain-during-world-war-ii",
+    "name": "Evacuations of civilians in Britain during World War II",
+    "dates": "Sep 1, 1939 - 1945",
+    "mainImg": "img/events/evacuations-of-civilians-in-britain-during-world-war-ii.jpg",
+    "summary": [
+      "The evacuation of civilians in Britain during the Second World War was designed to protect people, especially children, from the risks associated with aerial bombing of cities by moving them to areas thought to be less at risk. Operation Pied Piper, which began on 1 September 1939, officially relocated 1.5 million people. There were further waves of official evacuation and re-evacuation from the south and east coasts in June 1940, when a seaborne invasion was expected, and from affected cities after the Blitz began in September 1940. There were also official evacuations from the UK to other parts of the British Empire, and many non-official evacuations within and from the UK. Other mass movements of civilians included British citizens arriving from the Channel Islands, and displaced people arriving from continental Europe.",
+      "The Government Evacuation Scheme was developed during summer 1938 by the Anderson Committee and implemented by the Ministry of Health. The country was divided into zones, classified as either \"evacuation\", \"neutral\", or \"reception\", with priority evacuees being moved from the major urban centres and billeted on the available private housing in more rural areas."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Evacuations_of_civilians_in_Britain_during_World_War_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/evacuations-of-civilians-in-britain-during-world-war-ii/m0dlfr59"
+  },
+  "funFacts": [
+    {
+      "id": "870",
+      "fact": "President Warren G. Harding once lost white house china in a poker game.",
+      "category": ["History"]
+    },
+    {
+      "id": "189",
+      "fact": "The Sahara Desert stretches farther than the distance from California to New York.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "979",
+      "fact": "A dimpled golf ball produces less drag and flies farther than a smooth golf ball.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "522187",
+      "fact": "Double Stuf Oreos are only 1.86 times as \"stuf’ed\" as classic Oreos."
+    },
+    {
+      "id": "553823",
+      "fact": "St. Patrick wasn't Irish: He was born to Roman parents in either Scotland, England, or Wales."
+    },
+    {
+      "id": "554104",
+      "fact": "In 2010, Nickelback approached Dark Horse Brewery about having their beer featured in a video, which would have meant great exposure for the small Michigan brewery. They declined, however, as “none of us at the brewery really care for the band.”"
+    }
+  ],
+  "idiom": {
+    "id": "whistle-in-the-dark",
+    "term": "whistle in the dark",
+    "definition": "Summon up courage in a frightening situation, make a show of bravery. For example, *They knew they were lost and were just whistling in the dark.* This expression alludes to a literal attempt to keep up one's courage. [First half of 1900s]"
+  },
+  "person": {
+    "id": "leymah-gbowee",
+    "name": "Leymah Gbowee",
+    "dates": "Born Feb 1, 1972",
+    "mainImg": "img/people/leymah-gbowee.jpg",
+    "summary": [
+      "Leymah Roberta Gbowee is a Liberian peace activist responsible for leading a women's nonviolent peace movement, Women of Liberia Mass Action for Peace that helped bring an end to the Second Liberian Civil War in 2003. Her efforts to end the war, along with her collaborator Ellen Johnson Sirleaf, helped usher in a period of peace and enabled a free election in 2005 that Sirleaf won. She, along with Ellen Johnson Sirleaf and Tawakkul Karman, were awarded the 2011 Nobel Peace Prize \"for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work.\""
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Leymah_Gbowee",
+    "urlGoogle": "https://artsandculture.google.com/entity/leymah-gbowee/m0czcxyw"
+  },
+  "place": {
+    "id": "bydgoszcz",
+    "name": "Bydgoszcz",
+    "mainImg": "img/places/bydgoszcz.jpg",
+    "summary": [
+      "Bydgoszcz is a city in northern Poland, on the Brda and Vistula rivers. With a city population of 350,178, and an urban agglomeration with more than 470,000 inhabitants, Bydgoszcz is the eighth-largest city in Poland. It has been the seat of Bydgoszcz County and the co-capital, with Toruń, of the Kuyavian-Pomeranian Voivodeship since 1999. Prior to this, between 1947 and 1998, it was the capital of the Bydgoszcz Voivodeship, and before that, of the Pomeranian Voivodeship between 1945 and 1947. Located in the historical region of Kuyavia, it is its largest city.",
+      "The city is part of the Bydgoszcz–Toruń metropolitan area, which totals over 850,000 inhabitants. Bydgoszcz is the seat of Casimir the Great University, University of Technology and Life Sciences and a conservatory, as well as the Medical College of Nicolaus Copernicus University in Toruń. It also hosts the Pomeranian Philharmonic concert hall, the Opera Nova opera house, and Bydgoszcz Airport. Due to its location between the Vistula and Oder rivers, and the water course of the Bydgoszcz Canal, the city forms part of a water system connected via the Noteć, Warta and Elbe with the Rhine and Rotterdam."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bydgoszcz",
+    "urlGoogle": "https://artsandculture.google.com/entity/bydgoszcz/m0jwzp"
+  },
+  "quote": {
+    "id": "16",
+    "quote": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford"
+  },
+  "wiki": {
+    "id": "eye-cyclone",
+    "name": "Eye (cyclone)",
+    "summary": "The eye is a region of mostly calm weather found at the center of strong tropical cyclones. The eye of a storm is usually circular and typically 30–65 km (20–40 mi) in diameter. It is surrounded by the eyewall, where the most severe weather of a cyclone occurs. The cyclone's lowest barometric pressure occurs in the eye, and can be as much as 15% lower than the atmospheric pressure outside the storm. The eye is possibly the most recognizable feature of tropical cyclones. Surrounded by the eyewall, a ring of towering thunderstorms, the eye is a roughly-circular area at the cyclone's center of circulation. In strong tropical cyclones, the eye is characterised by light winds and clear skies, surrounded on all sides by a towering, symmetric eyewall. In weaker tropical cyclones, the eye is less well-defined, and can be covered by the central dense overcast, which is an area of high, thick clouds which show up brightly on satellite pictures. Weaker or disorganized storms may also feature an eyewall which does not completely encircle the eye, or have an eye which features heavy rain.",
+    "url": "https://en.wikipedia.org/wiki/Eye_(cyclone)"
+  },
+  "word": {
+    "id": "pabulum",
+    "word": "pabulum",
+    "url": "https://www.merriam-webster.com/dictionary/pabulum",
+    "partOfSpeech": "noun",
+    "pronunciation": "PAB-yuh-lum",
+    "audioPath": "audio/words/pabulum.mp3",
+    "definitions": [
+      "food; especially : a suspension or solution of nutrients in a state suitable for absorption",
+      "intellectual sustenance",
+      "something (as writing or speech) that is insipid, simplistic, or bland"
+    ],
+    "examples": [
+      "The discovery provides pabulum for the scientific community to ruminate on for decades to come."
+    ],
+    "origin": "\"Pabulum\" derives from the Latin term for \"food\" or \"fodder\" and was first used in English in the 18th century for anything taken in by plants or animals to maintain life and growth. Within 30 years of its first appearance in English texts, it was also being used to refer to things so intellectually stimulating or nourishing that they could be considered food for thought. But the word took on a whole new flavor in the 1930s when a team of Canadian doctors formulated a highly nutritious (but bland) baby cereal and named their product \"Pablum\" (based on the Latin word). As a result, the similar-looking \"pabulum\" did a linguistic about-face and is now often used for things that are bland and unstimulating as well as for things that are intellectually sustaining."
+  }
+}

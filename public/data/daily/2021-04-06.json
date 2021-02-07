@@ -1,0 +1,148 @@
+{
+  "artist": {
+    "id": "giovanni-di-paolo",
+    "name": "Giovanni di Paolo",
+    "dates": "1403 - 1482",
+    "mainImg": "img/art/artists/giovanni-di-paolo.jpg",
+    "artworkImgs": [
+      {
+        "name": "Coronation of the Virgin",
+        "path": "img/art/artworks/giovanni-di-paolo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/coronation-of-the-virgin-giovanni-di-paolo-giovanni-di-paolo-di-grazia/TQE6NDRM1beKSQ"
+      },
+      {
+        "name": "The Creation of the World and the Expulsion from Paradise",
+        "path": "img/art/artworks/giovanni-di-paolo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-creation-of-the-world-and-the-expulsion-from-paradise-giovanni-di-paolo-giovanni-di-paolo-di-grazia/zQFzELEHTGQOGw"
+      },
+      {
+        "name": "The Mystic Marriage of Saint Catherine of Siena",
+        "path": "img/art/artworks/giovanni-di-paolo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-mystic-marriage-of-saint-catherine-of-siena-giovanni-di-paolo-giovanni-di-paolo-di-grazia/UAFgpG_pgTjQzg"
+      },
+      {
+        "name": "Saint John the Baptist Entering the Wilderness",
+        "path": "img/art/artworks/giovanni-di-paolo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-john-the-baptist-entering-the-wilderness-giovanni-di-paolo-italian-about-1399–1482/fAF3o1FJojE54g"
+      },
+      {
+        "name": "The Annunciation and Expulsion from Paradise",
+        "path": "img/art/artworks/giovanni-di-paolo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-annunciation-and-expulsion-from-paradise-giovanni-di-paolo/swFScZMk-Xv6ew"
+      },
+      {
+        "name": "Saint Clare Rescuing a Child Mauled by a Wolf",
+        "path": "img/art/artworks/giovanni-di-paolo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-clare-rescuing-a-child-mauled-by-a-wolf-giovanni-di-paolo/MgGBtB0xD0MlXw"
+      }
+    ],
+    "summary": [
+      "Giovanni di Paolo di Grazia was an Italian painter, working primarily in Siena, becoming a prolific painter and illustrator of manuscripts, including Dante's texts. He was one of the most important painters of the 15th century Sienese School. His early works show the influence of earlier Sienese masters, but his later style was more individual, characterized by cold, harsh colours and elongated forms. His style also took on the influence of International Gothic artists such as Gentile da Fabriano. Many of his works have an unusual dreamlike atmosphere, such as the surrealistic Miracle of St. Nicholas of Tolentino painted about 1455 and now housed in the Philadelphia Museum of Art, while his last works, particularly Last Judgment, Heaven, and Hell from about 1465 and Assumption painted in 1475, both at Pinacoteca Nazionale, are grotesque treatments of their lofty subjects. Giovanni's reputation declined after his death but was revived in the 20th century."
+    ],
+    "quote": null,
+    "movements": [
+      "Gothic art",
+      "Sienese School",
+      "Renaissance",
+      "Italian Renaissance",
+      "Early renaissance"
+    ],
+    "mediums": ["Tempera", "Gold", "Metal", "Wood", "Gold leaf", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giovanni_di_Paolo",
+    "urlGoogle": "https://artsandculture.google.com/entity/giovanni-di-paolo/m08rv2l"
+  },
+  "event": {
+    "id": "polish-soviet-war",
+    "name": "Polish–Soviet War",
+    "dates": "Feb 14, 1919 - March 1921",
+    "mainImg": "img/events/polish-soviet-war.jpg",
+    "summary": [
+      "The Polish–Soviet War was fought by the Second Polish Republic, the Ukrainian People's Republic and the proto-Soviet Union over a region comparable to today's westernmost Ukraine and parts of modern Belarus. Russia sought to cross Poland in order to stimulate a Europe-wide communist revolution.",
+      "Poland's Chief of State, Józef Piłsudski, felt the time was right to expand Polish borders as far east as feasible, to be followed by a Polish-led Intermarium federation of Central and Eastern European states, as a bulwark against the re-emergence of German and Russian imperialism. Vladimir Lenin saw Poland as the bridge the Red Army had to cross to assist other Communist movements and bring about more European revolutions. By 1919, Polish forces had taken control of much of Western Ukraine, emerging victorious from the Polish–Ukrainian War. The West Ukrainian People's Republic, led by Yevhen Petrushevych, had tried to create a Ukrainian state on territories to which both Poles and Ukrainians laid claim."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/polish–soviet-war/m01zj6b"
+  },
+  "funFacts": [
+    {
+      "id": "888",
+      "fact": "In some cultures' telling of Snow White, the dwarves are thieves.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "855",
+      "fact": "Oregon has more ghost towns than any other US state.",
+      "category": ["Hodgepodge"]
+    },
+    { "id": "94", "fact": "Lizards communicate by doing push-ups.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "553735",
+      "fact": "When it comes to wine, an aroma similar to cat pee is a considered a good thing."
+    },
+    {
+      "id": "553550",
+      "fact": "Fire rainbows occur when the ice crystals in a cirrus cloud refract the sun's rays, creating a multi-colored cloud effect."
+    },
+    {
+      "id": "553838",
+      "fact": "The aurora australis is the southern version of the aurora borealis. Tasmania, New Zealand, and Antarctica are a few of the best places to scope out the Southern Lights from land."
+    }
+  ],
+  "idiom": {
+    "id": "sleep-like-a-log",
+    "term": "sleep like a log",
+    "definition": "Also, **sleep like a top.** Sleep very soundly, as in *I slept like a log,* or *She said she slept like a top.* Both of these similes transfer the immobility of an object to that of a person who is sound asleep (since a top spinning quickly looks immobile). The first dates from the late 1600s; the variant is newer."
+  },
+  "person": {
+    "id": "diane-abbott",
+    "name": "Diane Abbott",
+    "dates": "Born Sep 27, 1953",
+    "mainImg": "img/people/diane-abbott.jpg",
+    "summary": [
+      "Diane Julie Abbott is a British politician who served as the Shadow Home Secretary in the Shadow Cabinet of Jeremy Corbyn from 2016 to 2020. She has been the Member of Parliament for Hackney North and Stoke Newington since 1987. As a member of the Labour Party, she has held various positions in successive Shadow Cabinets; she was the country's first black female MP and is the longest-serving black MP in the House of Commons.",
+      "Born in Paddington to a British Jamaican family, Abbott studied History at Newnham College, Cambridge. She worked in the civil service and as a reporter for Thames Television and TV-am before becoming a press officer for the Greater London Council. Joining Labour, she was elected to Westminster City Council in 1982 and then as an MP in 1987, being re-elected in the 1992, 1997, 2001, 2005, 2010, 2015, 2017 and 2019 general elections. She has faced disproportionate sexism and racism as a public figure, individually receiving almost half of all abusive tweets directed at women MPs during the 2017 election campaign."
+    ],
+    "quote": "“My mother liked Jim Reeves. I hated his records. He was unbearable.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Diane_Abbott",
+    "urlGoogle": "https://artsandculture.google.com/entity/diane-abbott/m0kmws"
+  },
+  "place": {
+    "id": "qingdao",
+    "name": "Qingdao",
+    "mainImg": "img/places/qingdao.jpg",
+    "summary": [
+      "Qingdao is a major sub-provincial city in eastern Shandong province, China. Located on the western shore of Yellow Sea coast, Qingdao is a major nodal city on the 21st Century Maritime Silk Road arm of the Belt and Road Initiative that connects East Asia with Europe, and has the highest GDP of any city in the province. It has jurisdiction over six districts and four county-level cities, and As of 2014 has a population of 9,046,200 with an urban population of 6,188,100. Lying across the Shandong Peninsula and looking out to the Yellow Sea to its south, it borders the prefectural cities of Yantai to the northeast, Weifang to the west and Rizhao to the southwest.",
+      "Qingdao is a major seaport, naval base and industrial centre. The world's longest sea bridge, the Jiaozhou Bay Bridge, links the main urban area of Qingdao with Huangdao district, straddling the Jiaozhou Bay sea areas. It is also the site of the Tsingtao Brewery, the second largest brewery in China."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Qingdao",
+    "urlGoogle": "https://artsandculture.google.com/entity/qingdao/m01l3s0"
+  },
+  "quote": {
+    "id": "24",
+    "quote": "Our lives begin to end the day we become silent about things that matter.",
+    "author": "Martin Luther King Jr."
+  },
+  "wiki": {
+    "id": "pham-ngoc-thao",
+    "name": "Pham Ngoc Thao",
+    "summary": "Phạm Ngọc Thảo (1922–1965), a major provincial leader in South Vietnam and infiltrator of the Army of the Republic of Vietnam (ARVN), was a communist agent of the Vietminh and later the Vietnam People's Army. As the overseer of Ngo Dinh Nhu’s Strategic Hamlet Program in the early 1960s, he deliberately forced the program forward at unsustainable speeds, constructing poorly equipped and poorly defended villages, in order to foster rural resentment against the regime of President Ngo Dinh Diem, Nhu's elder brother. Thao was posthumously promoted by the ARVN to the rank of one-star general and awarded the title of Heroic war dead (Vietnamese: Liệt sĩ). After the Fall of Saigon and the end of the Vietnam War, the communist government awarded him the same title and paid war pensions to his family, claiming him as one of their own.",
+    "url": "https://en.wikipedia.org/wiki/Pham_Ngoc_Thao"
+  },
+  "word": {
+    "id": "sericeous",
+    "word": "sericeous",
+    "url": "https://www.merriam-webster.com/dictionary/sericeous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "suh-RISH-us",
+    "audioPath": "audio/words/sericeous.mp3",
+    "definitions": ["covered with fine silky hair"],
+    "examples": [
+      "The shapes of the aster's sericeous leaves range from lanceolate or oblong to broadly elliptic."
+    ],
+    "origin": "In the writings of the ancient Greeks, there is mention of the Sēres, an eastern Asian people who made \"sērikos\" fabrics. Historians now believe that the Sēres were the Chinese, from whom the ancient Greeks first obtained silk. The ancient Romans wove the Sēres' name into their language, creating \"sericum,\" the Latin word for silk. The English word \"silk\" is also assumed to be spun -- with some very dramatic alterations from Old English to Middle English -- from the same Greek fiber. Both \"silk\" and \"silken\" have been in the English language for many, many centuries, but scientists of the 18th century wanted a new term to describe the silky hairs on some leaves and bodies, and so they adapted the Late Latin word \"sericeus\" (\"silken\") to create \"sericeous.\""
+  }
+}

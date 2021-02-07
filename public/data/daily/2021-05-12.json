@@ -1,0 +1,147 @@
+{
+  "artist": {
+    "id": "lajos-kassak",
+    "name": "Lajos Kassák",
+    "dates": "Mar 21, 1887 - Jul 22, 1967",
+    "mainImg": "img/art/artists/lajos-kassak.jpg",
+    "artworkImgs": [
+      {
+        "name": "Kassák Lajos: Dynamic Construction",
+        "path": "img/art/artworks/lajos-kassak-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/kassák-lajos-dynamic-construction/UQEOxH_xgmdSHg"
+      },
+      {
+        "name": "Cover of MA, 1924. 3-4.",
+        "path": "img/art/artworks/lajos-kassak-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/cover-of-ma-1924-3-4/sQFH50gOSJtIIQ"
+      },
+      {
+        "name": "Catalog cover of Lajos Kassák's exhibition",
+        "path": "img/art/artworks/lajos-kassak-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/catalog-cover-of-lajos-kassák-s-exhibition/FgEGJDCQMqkixA"
+      },
+      {
+        "name": "Cover of MA, 15. Nov. 1921.",
+        "path": "img/art/artworks/lajos-kassak-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cover-of-ma-15-nov-1921/pwGE2nRtxPeqVw"
+      },
+      {
+        "name": "Lajos Kassák: Family Members",
+        "path": "img/art/artworks/lajos-kassak-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lajos-kassák-family-members/XQHWx65smybCZg"
+      },
+      {
+        "name": "Cover of Lajos Kassák: MA Buch - Kassák Gedichte",
+        "path": "img/art/artworks/lajos-kassak-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cover-of-lajos-kassák-ma-buch-kassák-gedichte/FQFoMEuukGXIJg"
+      }
+    ],
+    "summary": [
+      "Lajos Kassák was a Hungarian poet, novelist, painter, essayist, editor, theoretician of the avant-garde, and occasional translator. Self-taught, he became a writer within the socialist movement and published journals important to the radical intellectual culture of Budapest in the early 1900s.",
+      "Although he cannot be fully identified with any single avant-garde movement, he adopted elements of expressionism, futurism and dadaism."
+    ],
+    "quote": "“The father of every good work is discontent, and its mother is diligence.”",
+    "movements": ["Modern art", "Constructivism", "Modernism", "Dada", "Abstract art"],
+    "mediums": ["Book", "Cardboard", "Tempera"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lajos_Kass%C3%A1k",
+    "urlGoogle": "https://artsandculture.google.com/entity/lajos-kassák/m0gh3d5"
+  },
+  "event": {
+    "id": "war-on-drugs",
+    "name": "War on drugs",
+    "dates": "Jun 18, 1971",
+    "mainImg": "img/events/war-on-drugs.jpg",
+    "summary": [
+      "The war on drugs is a campaign, led by the U.S. federal government, of drug prohibition, military aid, and military intervention, with the aim being the reduction of the illegal drug trade in the United States. The initiative includes a set of drug policies that are intended to discourage the production, distribution, and consumption of psychoactive drugs that the participating governments and the UN have made illegal. The term was popularized by the media shortly after a press conference given on June 18, 1971, by President Richard Nixon—the day after publication of a special message from President Nixon to the Congress on Drug Abuse Prevention and Control—during which he declared drug abuse \"public enemy number one\". That message to the Congress included text about devoting more federal resources to the \"prevention of new addicts, and the rehabilitation of those who are addicted\", but that part did not receive the same public attention as the term \"war on drugs\". However, two years prior to this, Nixon had formally declared a \"war on drugs\" that would be directed toward eradication, interdiction, and incarceration."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/War_on_drugs",
+    "urlGoogle": "https://artsandculture.google.com/entity/war-on-drugs/m04f3p_"
+  },
+  "funFacts": [
+    {
+      "id": "910",
+      "fact": "Less than 3% of the water on Earth is fresh.",
+      "category": ["Science"]
+    },
+    { "id": "85", "fact": "The Mona Lisa has no eyebrows.", "category": ["Hodgepodge"] },
+    {
+      "id": "257",
+      "fact": "The first food eaten in space by a U.S. astronaut was applesauce.",
+      "category": ["Food", "Firsts"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "506211",
+      "fact": "Mexico’s full name translates to \"The United States of Mexico.\"&nbsp;"
+    },
+    {
+      "id": "553852",
+      "fact": "Galileo's middle finger is on display at the Museo Galileo in Florence, Italy."
+    },
+    {
+      "id": "504875",
+      "fact": "The first use of \"Google\" as a verb in pop culture was on Buffy the Vampire Slayer."
+    }
+  ],
+  "idiom": {
+    "id": "grist-for-the-mill",
+    "term": "grist for the mill",
+    "definition": "Something that can be used to advantage, as in *These seemingly useless data will be grist for the mill when he lodges a complaint.* This expression alludes to *grist,* the amount of grain that can be ground at one time. [Late 1500s]"
+  },
+  "person": {
+    "id": "sergio-mattarella",
+    "name": "Sergio Mattarella",
+    "dates": "Born Jul 23, 1941",
+    "mainImg": "img/people/sergio-mattarella.jpg",
+    "summary": [
+      "Sergio Mattarella OMRI OMCA K.U.O.M. GColL RSerafO KBE is an Italian politician, jurist and academic, who is serving as the 12th and current President of Italy since February 2015.",
+      "Mattarella was previously Minister for Parliamentary Relations from 1987 to 1989, Minister of Public Education from 1989 to 1990, Deputy Prime Minister of Italy from 1998 to 1999 and Minister of Defence from 1999 to 2001. In 2011, he became an elected judge on the Constitutional Court. On 31 January 2015, he was elected by the Italian Parliament to serve as President of the Italian Republic."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sergio_Mattarella",
+    "urlGoogle": "https://artsandculture.google.com/entity/sergio-mattarella/m03cp19r"
+  },
+  "place": {
+    "id": "nanjing",
+    "name": "Nanjing",
+    "mainImg": "img/places/nanjing.jpg",
+    "summary": [
+      "Nanjing, alternatively romanized as Nanking and Nankin, is the capital of Jiangsu province of the People's Republic of China and the second largest city in the East China region, with 11 districts, an administrative area of 6,600 km² and a total population of 8,505,500 as of 2019. The inner area of Nanjing enclosed by the city wall is Nanjing City.",
+      "Situated in the Yangtze River Delta region, Nanjing has a prominent place in Chinese history and culture, having served as the capital of various Chinese dynasties, kingdoms and republican governments dating from the 3rd century to 1949, and has thus long been a major center of culture, education, research, politics, economy, transport networks and tourism, being the home to one of the world's largest inland ports. The city is also one of the fifteen sub-provincial cities in the People's Republic of China's administrative structure, enjoying jurisdictional and economic autonomy only slightly less than that of a province."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Nanjing",
+    "urlGoogle": "https://artsandculture.google.com/entity/nanjing/m05gqy"
+  },
+  "quote": {
+    "id": "47",
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle"
+  },
+  "wiki": {
+    "id": "mycena-haematopus",
+    "name": "Mycena haematopus",
+    "summary": "Mycena haematopus is a species of fungus in the Mycenaceae family, of the order Agaricales. It is widespread and common in Europe and North America, and has also been collected in Japan and Venezuela. It is saprobic—meaning that it obtains nutrients by consuming decomposing organic matter—and the fruit bodies appear in small groups or clusters on the decaying logs, trunks, and stumps of deciduous trees, particularly beech. The fungus, first described scientifically in 1799, is classified in the Lactipedes section of the genus Mycena, along with other species that produce a milky or colored latex. The fruit bodies of M. haematopus have caps that are up to 4 cm (1.6 in) wide, whitish gills, and a thin, fragile reddish-brown stem with thick coarse hairs at the base. They are characterized by their reddish color, the scalloped cap edges, and the dark red latex they \"bleed\" when cut or broken. Both the fruit bodies and the mycelia are weakly bioluminescent. M. haematopus produces various alkaloid pigments unique to this species. The edibility of the fruit bodies is not known definitively.",
+    "url": "https://en.wikipedia.org/wiki/Mycena_haematopus"
+  },
+  "word": {
+    "id": "rectitude",
+    "word": "rectitude",
+    "url": "https://www.merriam-webster.com/dictionary/rectitude",
+    "partOfSpeech": "noun",
+    "pronunciation": "REK-tuh-tood",
+    "audioPath": "audio/words/rectitude.mp3",
+    "definitions": [
+      "the quality or state of being straight",
+      "moral integrity : righteousness",
+      "the quality or state of being correct in judgment or procedure"
+    ],
+    "examples": [
+      "The speaker exhorted audience members to lead lives of unimpeachable _rectitude_ and integrity.",
+      "\"The finance ministry will pitch India's strength as a largely domestic economy, renew its commitment to fiscal _rectitude_ and showcase recent measures to lift sentiment to try and convince global rating firms not to downgrade the country's sovereign rating.\" - From an article by Deepshikha Sikarwar in _The Economic Times_, September 7, 2012"
+    ],
+    "origin": "\"Rectitude\" has a righteous derivation. It comes straight from the Latin noun \"rectus,\" which means both \"right\" and \"straight.\" \"Rectitude\" itself can mean either \"straightness\" (an early use referred to literal straightness of lines, although this sense is now rare) or \"rightness\" of character. \"Rectus\" has a number of other descendants in English, including \"rectangle\" (a figure with four right angles), \"rectify\" (\"to make right\"), \"rectilinear\" (\"moving in or forming a straight line\"), and even \"rectus\" itself (a medical term for any one of several straight muscles in the body)."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "artist": {
+    "id": "giuseppe-arcimboldo",
+    "name": "Giuseppe Arcimboldo",
+    "dates": "Apr 5, 1526 - Jul 11, 1593",
+    "mainImg": "img/art/artists/giuseppe-arcimboldo.jpg",
+    "artworkImgs": [
+      {
+        "name": "L’Ortolano - Giuseppe Arcimboldo",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/l’ortolano-giuseppe-arcimboldo-giuseppe-arcimboldo/YgEItjbKaPkX9Q"
+      },
+      {
+        "name": "Rudolf II of Habsburg as Vertumnus",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/rudolf-ii-of-habsburg-as-vertumnus-giuseppe-arcimboldo/TAGn3nhWHkbIBA"
+      },
+      {
+        "name": "The Librarian",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-librarian-giuseppe-arcimboldo/GgEi3YoGxi2baw"
+      },
+      {
+        "name": "La Primavera",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/la-primavera-giuseppe-arcimboldo/iwHATomxJenU4w"
+      },
+      {
+        "name": "Four Seasons in One Head",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/four-seasons-in-one-head/WwHACWGI-pgLUQ"
+      },
+      {
+        "name": "Self Portrait",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-giuseppe-arcimboldo/3gHpTvmCqrcIlg"
+      }
+    ],
+    "summary": [
+      "Giuseppe Arcimboldo was an Italian painter best known for creating imaginative portrait heads made entirely of objects such as fruits, vegetables, flowers, fish and books.",
+      "These works form a distinct category from his other productions. He was a conventional court painter of portraits for three Holy Roman emperors in Vienna and Prague, also producing religious subjects and, among other things, a series of coloured drawings of exotic animals in the imperial menagerie. He specialized in grotesque symbolical compositions of fruits, animals, landscapes, or various inanimate objects arranged into human forms. The still-life portraits were clearly partly intended as whimsical curiosities to amuse the court, but critics have speculated as to how seriously they engaged with Renaissance Neo-Platonism or other intellectual currents of the day."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Renaissance", "Rococo"],
+    "mediums": ["Oil paint", "Drawing", "Ink", "Pigment", "Pen", "Etching"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo",
+    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-arcimboldo/m030b1q"
+  },
+  "event": {
+    "id": "1950-fifa-world-cup",
+    "name": "1950 FIFA World Cup",
+    "dates": "Jun 24, 1950 - Jul 16, 1950",
+    "mainImg": "img/events/1950-fifa-world-cup.jpg",
+    "summary": [
+      "The 1950 FIFA World Cup, held in Brazil from 24 June to 16 July 1950, was the fourth FIFA World Cup. It was the first World Cup since 1938, the planned 1942 and 1946 competitions having been cancelled due to World War II. It was won by Uruguay, who had won the inaugural competition in 1930. They clinched the cup by beating the hosts Brazil 2–1 in the deciding match of the four-team final group. This was the only tournament not decided by a one-match final. It was also the first tournament where the trophy was referred to as the Jules Rimet Cup, to mark the 25th anniversary of Jules Rimet's presidency of FIFA."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup",
+    "urlGoogle": "https://artsandculture.google.com/entity/1950-fifa-world-cup/m0g9cz"
+  },
+  "funFacts": [
+    {
+      "id": "669",
+      "fact": "In the game Monopoly, the properties are named after streets in Atlantic City.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "52",
+      "fact": "About 11% of the people in the world are left-handed.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "118",
+      "fact": "Honeybees are the only insects that create a form of food for humans.",
+      "category": ["Animals", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553491",
+      "fact": "The towns of Baarle straddle the Dutch-Belgian border. In some places, the official border line cuts through houses and cafes."
+    },
+    {
+      "id": "522228",
+      "fact": "Bones found at Seymour Island indicate that, 37 to 40 million years ago, penguins stood at a formidable 6 feet tall and weighed 250 pounds."
+    },
+    {
+      "id": "504868",
+      "fact": "Abraham Lincoln had the opportunity to populate the United States with elephants. He turned the offer down."
+    }
+  ],
+  "idiom": {
+    "id": "put-in-mothballs",
+    "term": "put in mothballs",
+    "definition": "Defer indefinitely or for a very long time, as in *We've put the plans for a new library in mothballs.* This expression alludes to storing woolen clothing or other items with marble-size balls of naphthalene or camphor to prevent them from being damaged by moths. [1940s]"
+  },
+  "person": {
+    "id": "kangxi-emperor",
+    "name": "Kangxi Emperor",
+    "dates": "May 4, 1654 - Dec 20, 1722",
+    "mainImg": "img/people/kangxi-emperor.jpg",
+    "summary": [
+      "The Kangxi Emperor, given name Xuanye, was the fourth Emperor of the Qing dynasty, and the second Qing emperor to rule over China properly.",
+      "The Kangxi Emperor's reign of 61 years makes him the longest-reigning emperor in Chinese history and one of the longest-reigning rulers in the world. However, since he ascended the throne at the age of seven, actual power was held for six years by four regents and his grandmother, the Grand Empress Dowager Xiaozhuang.",
+      "The Kangxi Emperor is considered one of China's greatest emperors. He suppressed the Revolt of the Three Feudatories, forced the Kingdom of Tungning in Taiwan and assorted Mongol rebels in the North and Northwest to submit to Qing rule, and blocked Tsarist Russia on the Amur River, retaining Outer Manchuria and Outer Northwest China.",
+      "The Kangxi Emperor's reign brought about long-term stability and relative wealth after years of war and chaos. He initiated the period known as the \"Prosperous Era of Kangxi and Qianlong\" or \"High Qing\", which lasted for several generations after his death. His court also accomplished such literary feats as the compilation of the Kangxi Dictionary."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kangxi_Emperor",
+    "urlGoogle": "https://artsandculture.google.com/entity/kangxi-emperor/m01lznw"
+  },
+  "place": {
+    "id": "darwin",
+    "name": "Darwin",
+    "mainImg": "img/places/darwin.jpg",
+    "summary": [
+      "Darwin is the capital city of the Northern Territory of Australia, situated on the Timor Sea. It is the largest city in the sparsely populated Northern Territory, with a population of 148,564. It is the smallest, wettest, and most northerly of the Australian capital cities and acts as the Top End's regional centre.",
+      "Darwin's proximity to Southeast Asia makes it a link between Australia and countries such as Indonesia and East Timor. The Stuart Highway begins in Darwin, extends southerly across central Australia through Tennant Creek and Alice Springs, concluding in Port Augusta, South Australia. The city is built upon a low bluff overlooking the harbour. Its suburbs begin at Lee Point in the north and stretch to Berrimah in the east. Past Berrimah, the Stuart Highway goes on to Darwin's satellite city Palmerston and its suburbs.",
+      "The Darwin region, like much of the Top End, experiences a tropical climate with a wet and dry season. A period known locally as \"the build up\" leading up to Darwin's wet season sees temperature and humidity increase."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Darwin,_Northern_Territory",
+    "urlGoogle": "https://artsandculture.google.com/entity/darwin/m02bm8"
+  },
+  "quote": {
+    "id": "96",
+    "quote": "The time to repair the roof is when the sun is shining.",
+    "author": "John F. Kennedy"
+  },
+  "wiki": {
+    "id": "second-malaysia-plan",
+    "name": "Second Malaysia Plan",
+    "summary": "The Second Malaysia Plan was an economic development plan set out by the government of Malaysia, with the goal of implementing the aims of the New Economic Policy. It aimed to \"restructure\" Malaysian society and overturn Chinese Malaysian and foreign hegemony in the economy of Malaysia so that the Malays would not be disadvantaged economically. Although the First Malaysia Plan had also set out to tackle the problem of poverty, especially among the Malays, it had not been very successful, and may have been a factor in the May 13 Incident when racial rioting broke out in Kuala Lumpur. The Second Malaysia Plan was regarded by some as excessive in its zeal to increase Malay participation in the economy, and the government accordingly scaled back the emphasis on restructuring the economy when the plan ended.",
+    "url": "https://en.wikipedia.org/wiki/Second_Malaysia_Plan"
+  },
+  "word": {
+    "id": "prescind",
+    "word": "prescind",
+    "url": "https://www.merriam-webster.com/dictionary/prescind",
+    "partOfSpeech": "verb",
+    "pronunciation": "prih-SIND",
+    "audioPath": "audio/words/prescind.mp3",
+    "definitions": ["to withdraw one's attention"],
+    "examples": [
+      "If we _prescind_ from the main issue for a moment, there is much to be gained by studying some corollary questions.",
+      "\"For my purposes, we may happily _prescind_ from the metaphysics.\" -- From John Collins' 2011 book _The Unity of Linguistic Meaning_"
+    ],
+    "origin": "\"Prescind\" derives from the Latin verb \"praescindere,\" which means \"to cut off in front.\" \"Praescindere,\" in turn, was formed by combining \"prae-\" (\"before\") and \"scindere\" (\"to cut\" or \"to split\"). So it should come as no surprise that when \"prescind\" began being used during the 17th century, it referred to \"cutting off\" one’s attention from a subject. An earlier (now archaic) sense was even clearer about the etymological origins of the word, with the meaning \"to cut short, off, or away\" or \"to sever.\" Other descendants of \"scindere\" include \"rescind\" and the rare \"scissile\" (\"capable of being cut\")."
+  }
+}

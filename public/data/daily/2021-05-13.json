@@ -1,0 +1,145 @@
+{
+  "artist": {
+    "id": "judith-leyster",
+    "name": "Judith Leyster",
+    "dates": "Jul 28, 1609 - Feb 10, 1660",
+    "mainImg": "img/art/artists/judith-leyster.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Merry Drinker (Jolly Toper)",
+        "path": "img/art/artworks/judith-leyster-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-merry-drinker-jolly-toper-judith-leyster/EgE1t_fnqpRClg"
+      },
+      {
+        "name": "Boy playing the Flute",
+        "path": "img/art/artworks/judith-leyster-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/boy-playing-the-flute-judith-leyster/kAHUdy4S_CIF1A"
+      },
+      {
+        "name": "Young Boy in Profile",
+        "path": "img/art/artworks/judith-leyster-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/young-boy-in-profile-judith-leyster/kgFkJN2eNgHQMw"
+      },
+      {
+        "name": "Man Offering Money to a Young Woman",
+        "path": "img/art/artworks/judith-leyster-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/man-offering-money-to-a-young-woman-leyster-judith/qwHvoeI26Cq4FQ"
+      },
+      {
+        "name": "The Last Drop (The Gay Cavalier)",
+        "path": "img/art/artworks/judith-leyster-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-last-drop-the-gay-cavalier/jQFwU75CW1UQgQ"
+      },
+      {
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/judith-leyster-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait/AAHGrS6cvWhysw"
+      }
+    ],
+    "summary": [
+      "Judith Jans Leyster was a Dutch Golden Age painter. She painted genre works, portraits and still lifes. Although her work was highly regarded by her contemporaries, Leyster and her work became almost forgotten after her death. Her entire oeuvre was attributed to Frans Hals or to her husband, Jan Miense Molenaer, until 1893."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Judith_Leyster",
+    "urlGoogle": "https://artsandculture.google.com/entity/judith-leyster/m092s6g"
+  },
+  "event": {
+    "id": "evil-eye",
+    "name": "Evil eye",
+    "dates": null,
+    "mainImg": "img/events/evil-eye.jpg",
+    "summary": [
+      "The evil eye is a curse or legend believed to be cast by a malevolent glare, usually given to a person when he is unaware. Many cultures believe that receiving the evil eye will cause misfortune or injury, while others believe it to be a kind of supernatural force that casts or reflects a malevolent gaze back-upon those who wish harm upon others. Talismans or amulets created to protect against the evil eye are also frequently called \"evil eyes\".",
+      "The idea expressed by the term causes many different cultures to pursue protective measures against it. The concept and its significance vary widely among different cultures, but it is especially prominent in the Mediterranean and West Asia. The idea appears multiple times in Jewish rabbinic literature. It was a widely extended belief among many Mediterranean and Asian tribes and cultures."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Evil_eye",
+    "urlGoogle": "https://artsandculture.google.com/entity/evil-eye/m01lcd_"
+  },
+  "funFacts": [
+    {
+      "id": "95",
+      "fact": "Squids can have eyes the size of a volleyball.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "294",
+      "fact": "No only child has been a U.S. President.",
+      "category": ["History", "Onlies"]
+    },
+    { "id": "258", "fact": "Lemon wood is carved into chess pieces.", "category": ["Hodgepodge"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "504825",
+      "fact": "Beauty and the Beast was the first animated film to be nominated for Best Picture. It lost to The Silence of the Lambs."
+    },
+    {
+      "id": "553926",
+      "fact": "Eighteen percent of Americans claim to have seen or felt the presence of a ghost."
+    },
+    {
+      "id": "553826",
+      "fact": "Since founding the Imagination Library in 1995, Dolly Parton has donated 100 million books to children."
+    }
+  ],
+  "idiom": {
+    "id": "johnny-come-lately",
+    "term": "Johnny-come-lately",
+    "definition": "A newcomer, as in *She may be a Johnny-come-lately on the board, but she's doing a fine job with publicity.* [1830s]"
+  },
+  "person": {
+    "id": "neville-chamberlain",
+    "name": "Neville Chamberlain",
+    "dates": "Mar 18, 1869 - Nov 9, 1940",
+    "mainImg": "img/people/neville-chamberlain.jpg",
+    "summary": [
+      "Arthur Neville Chamberlain FRS was a British Conservative politician who served as Prime Minister of the United Kingdom from May 1937 to May 1940. He is best known for his foreign policy of appeasement, and in particular for his signing of the Munich Agreement on 30 September 1938, conceding the German-speaking Sudetenland region of Czechoslovakia to Germany. Following the German invasion of Poland on 1 September 1939, which marked the beginning of World War II, Chamberlain announced the declaration of war on Germany two days later and led Great Britain through the first eight months of the war until his resignation as prime minister on 10 May 1940.",
+      "After working in business and local government, and after a short spell as Director of National Service in 1916 and 1917, Chamberlain followed his father, Joseph Chamberlain, and older half-brother, Austen Chamberlain, in becoming a Member of Parliament in the 1918 general election for the new Birmingham Ladywood division at the age of 49. He declined a junior ministerial position, remaining a backbencher until 1922. He was rapidly promoted in 1923 to Minister of Health and then Chancellor of the Exchequer."
+    ],
+    "quote": "“I believe it is peace in our time.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
+    "urlGoogle": "https://artsandculture.google.com/entity/neville-chamberlain/m05cys"
+  },
+  "place": {
+    "id": "mali",
+    "name": "Mali",
+    "mainImg": "img/places/mali.jpg",
+    "summary": [
+      "Mali, officially the Republic of Mali, is a landlocked country in West Africa. Mali is the eighth-largest country in Africa, with an area of just over 1,240,000 square kilometres. The population of Mali is 19.1 million. 67% of its population was estimated to be under the age of 25 in 2017. Its capital is Bamako. The sovereign state of Mali consists of eight regions and its borders on the north reach deep into the middle of the Sahara Desert, while the country's southern part, where the majority of inhabitants live, features the Niger and Senegal rivers. The country's economy centers on agriculture and mining. Some of Mali's prominent natural resources include gold, being the third largest producer of gold in the African continent, and salt.",
+      "Present-day Mali was once part of three West African empires that controlled trans-Saharan trade: the Ghana Empire, the Mali Empire, and the Songhai Empire. During its golden age, there was a flourishing of mathematics, astronomy, literature, and art. At its peak in 1300, the Mali Empire covered an area about twice the size of modern-day France and stretched to the west coast of Africa."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Mali",
+    "urlGoogle": "https://artsandculture.google.com/entity/mali/m04v09"
+  },
+  "quote": {
+    "id": "119",
+    "quote": "We are not nouns, we are verbs. I am not a thing...an actor, a writer...I am a person who does things...I write, I act...and I never know what I'm going to do next. I think you can be imprisoned if you think of yourself as a noun.",
+    "author": "Stephen Fry"
+  },
+  "wiki": {
+    "id": "jimi-hendrix",
+    "name": "Jimi Hendrix",
+    "summary": "Jimi Hendrix (1942–1970) was an American musician, singer, and songwriter. Despite a relatively brief mainstream career spanning four years, he is widely regarded as one of the most influential electric guitarists in the history of popular music, and one of the most celebrated musicians of the 20th century. Born in Seattle, Washington, Hendrix began playing guitar at the age of 15. In 1963, he moved to Clarksville, Tennessee, and began playing gigs on the chitlin' circuit, eventually moving to England in late 1966 after being discovered by bassist Chas Chandler of the Animals. Within months, Hendrix had earned three UK top ten hits with the Jimi Hendrix Experience: \"Hey Joe\", \"Purple Haze\", and \"The Wind Cries Mary\". He achieved fame in the US after his performance at the Monterey Pop Festival in 1967, and in 1968 his third and final studio album, Electric Ladyland, reached number one in the US. The world's highest-paid performer, he headlined the Woodstock Festival in 1969 and the Isle of Wight Festival in 1970 before dying from barbiturate-related asphyxia on September 18, 1970, at the age of 27.",
+    "url": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+  },
+  "word": {
+    "id": "colubrine",
+    "word": "colubrine",
+    "url": "https://www.merriam-webster.com/dictionary/colubrine",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KAHL-yuh-bryne",
+    "audioPath": "audio/words/colubrine.mp3",
+    "definitions": [
+      "of, relating to, or resembling a snake",
+      "of or relating to a large cosmopolitan family (Colubridae) of chiefly nonvenomous snakes"
+    ],
+    "examples": [
+      "\"By the time the music starts throbbing at 9, there will undoubtedly be a colubrine line slithering down Mass. Ave.\" (Christopher Muther, _The Boston Globe_, March 2002)"
+    ],
+    "origin": "\"Colubrine\" may be less common than other animal words, such as \"canine,\" \"feline,\" and \"bovine,\" but it has been around for a good long while. Ultimately derived from the Latin \"colubra\" (\"snake\"), it slithered into the English language in the 16th century. (\"Cobra,\" by the way, comes from the same Latin word, but entered English through Portuguese.) Some other words for \"snakelike\" are \"serpentine\" (a more common alternative) and \"ophidian\" (from the Greek word for snake: \"ophis\")."
+  }
+}

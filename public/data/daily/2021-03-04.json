@@ -1,0 +1,143 @@
+{
+  "artist": {
+    "id": "umberto-boccioni",
+    "name": "Umberto Boccioni",
+    "dates": "Oct 19, 1882 - Aug 17, 1916",
+    "mainImg": "img/art/artists/umberto-boccioni.jpg",
+    "artworkImgs": [
+      {
+        "name": "Unique forms of continuity in space",
+        "path": "img/art/artworks/umberto-boccioni-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/unique-forms-of-continuity-in-space-umberto-boccioni/jAHAQTsYPpJQpA"
+      },
+      {
+        "name": "Stati d'animo - Quelli che restano",
+        "path": "img/art/artworks/umberto-boccioni-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/stati-d-animo-quelli-che-restano-umberto-boccioni/wQE3b-vHYh5ctQ"
+      },
+      {
+        "name": "Il bevitore",
+        "path": "img/art/artworks/umberto-boccioni-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/il-bevitore-umberto-boccioni/hQH6Y81cVAfJzg"
+      },
+      {
+        "name": "Dinamismo di una testa d'uomo",
+        "path": "img/art/artworks/umberto-boccioni-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/dinamismo-di-una-testa-d-uomo-umberto-boccioni/WwGs42moKt6heA"
+      },
+      {
+        "name": "Stati d'animo - Quelli che vanno",
+        "path": "img/art/artworks/umberto-boccioni-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/stati-d-animo-quelli-che-vanno-umberto-boccioni/yQE-4Kxbbk-Szg"
+      },
+      {
+        "name": "Carica di lancieri",
+        "path": "img/art/artworks/umberto-boccioni-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/carica-di-lancieri-umberto-boccioni/XQG0gxf0Uo7eAw"
+      }
+    ],
+    "summary": [
+      "Umberto Boccioni was an influential Italian painter and sculptor. He helped shape the revolutionary aesthetic of the Futurism movement as one of its principal figures. Despite his short life, his approach to the dynamism of form and the deconstruction of solid mass guided artists long after his death. His works are held by many public art museums, and in 1988 the Metropolitan Museum of Art in New York City organized a major retrospective of 100 pieces."
+    ],
+    "quote": "“We must now learn to draw inspiration from the tangible miracles that surround us.”",
+    "movements": ["Modern art", "Futurism"],
+    "mediums": ["Drawing", "Oil paint", "Graphite", "Ink", "Etching", "Charcoal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Umberto_Boccioni",
+    "urlGoogle": "https://artsandculture.google.com/entity/umberto-boccioni/m01m_nb"
+  },
+  "event": {
+    "id": "gulf-war",
+    "name": "Gulf War",
+    "dates": "Aug 2, 1990 - Feb 28, 1991",
+    "mainImg": "img/events/gulf-war.jpg",
+    "summary": [
+      "The Gulf War, codenamed Operation Desert Shield for operations leading to the buildup of troops and defense of Saudi Arabia and Operation Desert Storm in its combat phase, was a war waged by coalition forces from 35 nations led by the United States against Iraq in response to Iraq's invasion and annexation of Kuwait arising from oil pricing and production disputes.",
+      "On 2 August 1990, the Iraqi Army invaded and occupied Kuwait, which was met with international condemnation and brought immediate economic sanctions against Iraq by members of the UN Security Council. Together with the UK prime minister Margaret Thatcher, American President George H. W. Bush deployed US forces into Saudi Arabia, and urged other countries to send their own forces to the scene. An array of nations joined the coalition, forming the largest military alliance since World War II. The great majority of the coalition's military forces were from the US, with Saudi Arabia, the United Kingdom and Egypt as leading contributors, in that order. Kuwait and Saudi Arabia paid around US$32 billion of the US$60 billion cost."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gulf_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/gulf-war/m018w0j"
+  },
+  "funFacts": [
+    { "id": "784", "fact": "The human brain is about 80% water.", "category": ["Anatomy"] },
+    {
+      "id": "929",
+      "fact": "Manatees' eyes close in a circular motion, much like the aperture of a camera.",
+      "category": ["Animals", "Science"]
+    },
+    {
+      "id": "119",
+      "fact": "The hummingbird is the only bird that can fly backwards.",
+      "category": ["Animals", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504873",
+      "fact": "Scientists have found evidence of take-out restaurants in the remains of Pompeii."
+    },
+    {
+      "id": "553638",
+      "fact": "Amelia Earhart and Eleanor Roosevelt once sneaked out of a White House event, commandeered an airplane, and went on a joyride to Baltimore."
+    },
+    {
+      "id": "506871",
+      "fact": "Volvo gave away the 1962 patent for their revolutionary three-point seat belt for free, in order to save lives."
+    }
+  ],
+  "idiom": {
+    "id": "the-course-of-true-love-never-ran-smoothly",
+    "term": "the course of true love never ran smoothly",
+    "definition": "Lovers often face difficulties, as in *Every time he tells me that he and his wife are fighting, I say the same thing--- you know about the course of true love.* The full term is a quotation from Shakespeare's *A Midsummer Night's Dream* (1:1): \"The course of true love never did run smooth.\" Over the years it has become so familiar that today it is often shortened, as in the example."
+  },
+  "person": {
+    "id": "jimmy-doolittle",
+    "name": "Jimmy Doolittle",
+    "dates": "Dec 14, 1896 - Sep 27, 1993",
+    "mainImg": "img/people/jimmy-doolittle.jpg",
+    "summary": [
+      "James Harold Doolittle was an American military general and aviation pioneer. He made early coast-to-coast flights, won many flying races, and helped develop instrument flying.",
+      "Doolittle studied as an undergraduate at University of California, Berkeley, graduating with a Bachelor of Arts in 1922 and earning a doctorate in aeronautics from the Massachusetts Institute of Technology in 1925. He was a flying instructor during World War I and a Reserve officer in the United States Army Air Corps, but he was recalled to active duty during World War II. He was awarded the Medal of Honor for personal valor and leadership as commander of the Doolittle Raid, a bold long-range retaliatory air raid on some of the Japanese main islands on April 18, 1942, four months after the attack on Pearl Harbor. The attack was a major morale booster for the United States and Doolittle was celebrated as a hero.",
+      "Doolittle was promoted to lieutenant general and commanded the Twelfth Air Force over North America, the Fifteenth Air Force over the Mediterranean, and the Eighth Air Force over Europe."
+    ],
+    "quote": "“The first lesson is that you can't lose a war if you have command of the air, and you can't win a war if you haven't.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
+    "urlGoogle": "https://artsandculture.google.com/entity/jimmy-doolittle/m012xls"
+  },
+  "place": {
+    "id": "grenada",
+    "name": "Grenada",
+    "mainImg": "img/places/grenada.jpg",
+    "summary": [
+      "Grenada is a sovereign state in the West Indies in the Caribbean Sea at the southern end of the Grenadines island chain. Grenada consists of the island of Grenada itself plus six smaller islands which lie to the north of the main island. It is located northwest of Trinidad and Tobago, northeast of Venezuela and southwest of Saint Vincent and the Grenadines. Its size is 348.5 square kilometres, and it had an estimated population of 112,200 in July 2018. Its capital is St. George's. Grenada is also known as the \"Island of Spice\" due to its production of nutmeg and mace crops. The national bird of Grenada is the critically endangered Grenada dove.",
+      "Before the arrival of Europeans in the Americas, Grenada was inhabited by the indigenous Arawaks and later by the Island Caribs. Christopher Columbus sighted Grenada in 1498 during his third voyage to the Americas. Although it was deemed the property of the King of Spain, there are no records to suggest the Spanish ever landed or settled on the island."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Grenada",
+    "urlGoogle": "https://artsandculture.google.com/entity/grenada/m035yg"
+  },
+  "quote": {
+    "id": "43",
+    "quote": "Never regret anything that made you smile.",
+    "author": "Mark Twain"
+  },
+  "wiki": {
+    "id": "arthur-gould-rugby-union",
+    "name": "Arthur Gould (rugby union)",
+    "summary": "Arthur Gould (1864–1919) was a Welsh international rugby union centre and fullback who was most associated as a club player with Newport Rugby Football Club. He won 27 caps for Wales and critics consider him the first superstar of Welsh rugby. A talented all-round player and champion sprinter, Gould could side-step and kick with either foot. He never ceased practising in order to develop his fitness and skills, and was considered the outstanding player of his time. In 1893 Gould led Wales to their first Home Nations Championship and Triple Crown titles; the match against England that year established him as a great player and captain. During his international career he played twice at fullback, and 25 times at centre. He was Wales’ most capped centre until the record was surpassed by Steve Fenwick in 1980. He ended his international career with an 11–0 win over England on 9 January 1897 in front of 17,000 supporters at Rodney Parade. It was Gould’s 18th match as Welsh captain – a record that stood until 1994. Towards the end of his career Gould was at the centre of a controversy over a fund collected in his honour which saw Wales temporarily withdraw from international rugby.",
+    "url": "https://en.wikipedia.org/wiki/Arthur_Gould_(rugby_union)"
+  },
+  "word": {
+    "id": "gallimaufry",
+    "word": "gallimaufry",
+    "url": "https://www.merriam-webster.com/dictionary/gallimaufry",
+    "partOfSpeech": "noun",
+    "pronunciation": "gal-uh-MAW-free",
+    "audioPath": "audio/words/gallimaufry.mp3",
+    "definitions": ["hodgepodge"],
+    "examples": [
+      "I was ready to leave the flea market, when, on one table, among a gallimaufry of undistinguished objects, I caught sight of an exquisite silver spoon engraved with my initials."
+    ],
+    "origin": "If the word \"gallimaufry\" doesn't make your mouth water, it may be because you don't know its history. In the 16th century, Middle-French speaking cooks made a meat stew called \"galimafree.\" It must have been a varied dish, because English speakers chose its name for any mix or jumble of things. If \"gallimaufry\" isn't to your taste, season your speech with one of its synonyms: \"hash\" (which can be a muddle or chopped meat and potatoes), \"hotchpotch\" (a stew or a hodgepodge), or \"potpourri\" (another stew turned medley)."
+  }
+}

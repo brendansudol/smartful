@@ -48,7 +48,7 @@ export function Word({ data }: { data: IWord }) {
         </Box>
         <Box mb={3}>
           <Text variant="sectionLabel">Origin</Text>
-          <Box as={Markdown}>{data.didYouKnow}</Box>
+          <Box as={Markdown}>{data.origin}</Box>
         </Box>
         <CardFooter sourceText="Webster's Dictionary" />
       </Card>

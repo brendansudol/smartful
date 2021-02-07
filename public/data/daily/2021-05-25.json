@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "alphonse-mucha",
+    "name": "Alphonse Mucha",
+    "dates": "Jul 24, 1860 - Jul 14, 1939",
+    "mainImg": "img/art/artists/alphonse-mucha.jpg",
+    "artworkImgs": [
+      {
+        "name": "Cycles Perfecta",
+        "path": "img/art/artworks/alphonse-mucha-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/cycles-perfecta-alphonse-mucha/BgFwaiaGZuEYDQ"
+      },
+      {
+        "name": "Au Quartier Latin",
+        "path": "img/art/artworks/alphonse-mucha-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/au-quartier-latin-alphonse-mucha/mQHp14MXIL7LCw"
+      },
+      {
+        "name": "Gismonda",
+        "path": "img/art/artworks/alphonse-mucha-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/gismonda-alphonse-mucha/lgHCSl2DJPHzOw"
+      },
+      {
+        "name": "Job",
+        "path": "img/art/artworks/alphonse-mucha-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/job-alphonse-mucha/gAGlllq_JU7ILQ"
+      },
+      {
+        "name": "The Ruby",
+        "path": "img/art/artworks/alphonse-mucha-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-ruby-alphonse-mucha/5AGQxJRT-SwgsQ"
+      },
+      {
+        "name": "La Femme Animee en Fleur",
+        "path": "img/art/artworks/alphonse-mucha-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/la-femme-animee-en-fleur-alphonse-mucha/uQFhuh8brnO7rA"
+      }
+    ],
+    "summary": [
+      "Alfons Maria Mucha, known internationally as Alphonse Mucha, was a Czech painter, illustrator and graphic artist, living in Paris during the Art Nouveau period, best known for his distinctly stylized and decorative theatrical posters, particularly those of Sarah Bernhardt. He produced illustrations, advertisements, decorative panels, and designs, which became among the best-known images of the period.",
+      "In the second part of his career, at the age of 43, he returned to his homeland of Bohemia-Moravia region in Austria and devoted himself to painting a series of twenty monumental canvases known as The Slav Epic, depicting the history of all the Slavic peoples of the world, which he painted between 1912 and 1926. In 1928, on the 10th anniversary of the independence of Czechoslovakia, he presented the series to the Czech nation. He considered it his most important work. It is now on display in Prague."
+    ],
+    "quote": "“Every nation has a palladium of its own embodying past and future history. Ever since my boyhood I felt and saw in the architectural lines of St. Vitus Cathedral built so close to the castle, a powerful interpretation of our national symbol. I could, therefore, select no other subject for my design then Hradcany Castle and the surrounding architecture of the Middle Ages.”",
+    "movements": ["Modern art", "Modernism", "Art Nouveau", "Post-Impressionism"],
+    "mediums": ["Cardboard", "Drawing", "Textile", "Ink", "Photograph", "Silk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
+    "urlGoogle": "https://artsandculture.google.com/entity/alphonse-mucha/m0p_nx"
+  },
+  "event": {
+    "id": "spring-offensive",
+    "name": "Spring Offensive",
+    "dates": "Mar 21, 1918 - Jul 18, 1918",
+    "mainImg": "img/events/spring-offensive.jpg",
+    "summary": [
+      "The 1918 Spring Offensive, or Kaiserschlacht, also known as the Ludendorff Offensive, was a series of German attacks along the Western Front during the First World War, beginning on 21 March 1918. The Germans had realised that their only remaining chance of victory was to defeat the Allies before the United States could fully deploy their resources. The German Army had gained a temporary advantage in numbers as nearly 50 divisions had been freed by the Russian withdrawal from the war with the Treaty of Brest-Litovsk.",
+      "There were four German offensives, codenamed Michael, Georgette, Gneisenau, and Blücher-Yorck. Michael was the main attack, which was intended to break through the Allied lines, outflank the British forces and defeat the British Army. Once that was achieved, it was hoped that the French would seek armistice terms. The other offensives were subsidiary to Michael and were designed to divert Allied forces from the main offensive effort on the Somme. No clear objective was established before the start of the offensives and once the operations were underway, the targets of the attacks were constantly changed according to the battlefield situation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Spring_Offensive",
+    "urlGoogle": "https://artsandculture.google.com/entity/spring-offensive/m02j3fx"
+  },
+  "funFacts": [
+    {
+      "id": "899",
+      "fact": "The plastic things on the end of shoelaces are called aglets.",
+      "category": ["Definitions"]
+    },
+    {
+      "id": "279",
+      "fact": "Canada has the longest coastline of any country in the world.",
+      "category": ["Geography"]
+    },
+    { "id": "93", "fact": "A kangaroo can jump 30 feet.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    { "id": "553501", "fact": "A group of ferrets is called a business." },
+    {
+      "id": "504659",
+      "fact": "Back in the 1800s, composer Franz Liszt was worshiped like a rock star. In fact, he received so many requests for locks of his hair that he eventually bought a dog, only to snip off patches of its fur to send to his admirers."
+    }
+  ],
+  "idiom": {
+    "id": "half-a-loaf-is-better-than-none",
+    "term": "half a loaf is better than none",
+    "definition": "Something is better than nothing, even if it is less than one wanted. For example, *He had asked for a new trumpet but got a used one---oh well, half a loaf is better than none.* This expression, often shortened, was already a proverb in 1546, where it was explicitly put: \"For better is half a loaf than no bread.\""
+  },
+  "person": {
+    "id": "chaim-weizmann",
+    "name": "Chaim Weizmann",
+    "dates": "Nov 27, 1874 - Nov 9, 1952",
+    "mainImg": "img/people/chaim-weizmann.jpg",
+    "summary": [
+      "Chaim Azriel Weizmann was a Zionist leader and Israeli statesman who served as president of the Zionist Organization and later as the first president of Israel. He was elected on 16 February 1949, and served until his death in 1952. It was Weizmann who convinced the United States government to recognize the newly formed state of Israel.",
+      "Weizmann was also a noted biochemist, considered to be the 'father' of industrial fermentation. He developed the acetone–butanol–ethanol fermentation process, which produces acetone, n-Butanol and ethanol through bacterial fermentation. His acetone production method was of great importance in the manufacture of cordite explosive propellants for the British war industry during World War I. He founded the Sieff Research Institute in Rehovot, Israel, and was instrumental in the establishment of the Hebrew University of Jerusalem."
+    ],
+    "quote": "“A law is something which must have a moral basis, so that there is an inner compelling force for every citizen to obey.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Chaim_Weizmann",
+    "urlGoogle": "https://artsandculture.google.com/entity/chaim-weizmann/m019x_p"
+  },
+  "place": {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "mainImg": "img/places/tokyo.jpg",
+    "summary": [
+      "Tokyo, officially Tokyo Metropolis, is the capital and most populous prefecture of Japan. Located at the head of Tokyo Bay, the prefecture forms part of the Kantō region on the central Pacific coast of Japan's main island, Honshu. Tokyo is the political and economic center of the country, as well as the seat of the Emperor of Japan and the national government. In 2019, the prefecture had an estimated population of 13,929,280. The Greater Tokyo Area is the most populous metropolitan area in the world, with more than 37.4 million residents as of 2018.",
+      "Originally a fishing village named Edo, the city became a prominent political center in 1603, when it became the seat of the Tokugawa shogunate. By the mid-18th century, Edo was one of the most populous cities in the world, with a population numbering more than one million. Following the end of the shogunate in 1868, the imperial capital in Kyoto was moved to the city, which was renamed Tokyo. Tokyo was devastated by the 1923 Great Kantō earthquake, and again by Allied bombing raids during World War II. Beginning in the 1950s, the city underwent rapid reconstruction and expansion, going on to lead Japan's post-war economic recovery."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Tokyo",
+    "urlGoogle": "https://artsandculture.google.com/entity/tokyo/m07dfk"
+  },
+  "quote": {
+    "id": "39",
+    "quote": "The past can hurt. But the way I see it, you can either run from it, or learn from it.",
+    "author": "Walt Disney"
+  },
+  "wiki": {
+    "id": "franklin-pierce",
+    "name": "Franklin Pierce",
+    "summary": "Franklin Pierce (1804–1869) was the 14th President of the United States (1853–57), whose inability to calm tensions over slavery kept the country on the path to the Civil War. A northern Democrat from New Hampshire, Pierce served in the U.S. House of Representatives and the Senate and took part in the Mexican–American War as a brigadier general before becoming the Democrats' compromise candidate in the 1852 presidential election. He saw the abolitionist movement as a fundamental threat to the unity of the nation. He was a Young America expansionist who signed the Gadsden Purchase of land from Mexico and led a failed attempt to acquire Cuba from Spain. His polarizing actions in signing the Kansas–Nebraska Act and enforcing the Fugitive Slave Act failed to stem intersectional conflict. Although Pierce expected to be renominated by the Democrats, he was abandoned by his party and failed in his bid to be re-elected. His wife Jane suffered from illness and depression for much of her life, and all of their children died young. Pierce, a heavy drinker for much of his life, died of cirrhosis of the liver. Today he is widely regarded as one of the worst presidents in U.S. history.",
+    "url": "https://en.wikipedia.org/wiki/Franklin_Pierce"
+  },
+  "word": {
+    "id": "destitute",
+    "word": "destitute",
+    "url": "https://www.merriam-webster.com/dictionary/destitute",
+    "partOfSpeech": "adjective",
+    "pronunciation": "DESS-tuh-toot",
+    "audioPath": "audio/words/destitute.mp3",
+    "definitions": [
+      "lacking something needed or desirable",
+      "lacking possessions and resources; especially : suffering extreme poverty"
+    ],
+    "examples": [
+      "\"He gave thanks for our food and comfort, and prayed for the poor and destitute in great cities, where the struggle for life was harder than it was here with us.\" (Willa Cather, _My Antonia_)"
+    ],
+    "origin": "You may be surprised to learn that \"destitute\" is related to words like \"statue,\" \"statute,\" and even \"statistics.\" The Latin word \"status,\" meaning \"position\" or \"state,\" is the source of these and other English words. Some terms of this family are directly related to \"status,\" while others come to English through \"statuere,\" a Latin derivative of \"status\" that means \"to set up.\" \"Destitute\" came from \"destituere\" (\"to abandon\" or \"to deprive\"), a joining of \"statuere\" and the prefix \"de-\" (\"from, down, away\"). \"Statuere\" also gave us \"constitute,\" \"institute,\" and \"restitution,\" among other similar-sounding words."
+  }
+}

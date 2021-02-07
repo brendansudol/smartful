@@ -1,0 +1,146 @@
+{
+  "artist": {
+    "id": "alexander-mc-queen",
+    "name": "Alexander McQueen",
+    "dates": "Mar 17, 1969 - Feb 11, 2010",
+    "mainImg": "img/art/artists/alexander-mc-queen.jpg",
+    "artworkImgs": [
+      {
+        "name": "Alexander McQueen Birds Nest Headdress, Autumn / Winter 2006",
+        "path": "img/art/artworks/alexander-mc-queen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-birds-nest-headdress-autumn-winter-2006-lee-alexander-mcqueen/VQGCcYhT_5QBKQ"
+      },
+      {
+        "name": "Knucklebag",
+        "path": "img/art/artworks/alexander-mc-queen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/knucklebag-alexander-mcqueen/OgHCVCuyzAqM8g"
+      },
+      {
+        "name": "Evening dress, \"In memory of Elizabeth Howe, Salem 1692\"",
+        "path": "img/art/artworks/alexander-mc-queen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-dress-in-memory-of-elizabeth-howe-salem-1692-alexander-mcqueen/dgF4WFiyOH3dcw"
+      },
+      {
+        "name": "Alexander McQueen, Spring / Summer 2001",
+        "path": "img/art/artworks/alexander-mc-queen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-spring-summer-2001-lee-alexander-mcqueen/mwEAkK6rM8eCVw"
+      },
+      {
+        "name": "Evening Dress",
+        "path": "img/art/artworks/alexander-mc-queen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-dress-alexander-mcqueen/1QFhXmFyxMfejw"
+      },
+      {
+        "name": "Alexander McQueen, Autumn / Winter 1998",
+        "path": "img/art/artworks/alexander-mc-queen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-autumn-winter-1998-lee-alexander-mcqueen/nAGIsA06tW8sXg"
+      }
+    ],
+    "summary": [
+      "Lee Alexander McQueen, CBE was a British fashion designer and couturier. He worked as chief designer at Givenchy from 1996 to 2001, and founded his own Alexander McQueen label in 1992. His achievements in fashion earned him four British Designer of the Year awards, as well as the CFDA's International Designer of the Year award in 2003. McQueen died by suicide in 2010, at the age of 40, at his home in Mayfair, London."
+    ],
+    "quote": "“I always wanted to be a designer. I read books on fashion from the age of 12.”",
+    "movements": [],
+    "mediums": ["Textile", "Silk", "Satin", "Metal", "Velvet", "Rayon"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_McQueen",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-mcqueen/m023hms"
+  },
+  "event": {
+    "id": "apollo-6",
+    "name": "Apollo 6",
+    "dates": null,
+    "mainImg": "img/events/apollo-6.jpg",
+    "summary": [
+      "Apollo 6, launched on April 4, 1968, was the second A-type mission of the United States Apollo program, an uncrewed test of the Saturn V launch vehicle. It was also the final uncrewed Apollo test mission.",
+      "The objectives of the flight test were to demonstrate trans-lunar injection capability of the Saturn V with a simulated payload equal to about 80% of a full Apollo spacecraft, and to repeat demonstration of the command module's heat shield capability to withstand a lunar re-entry. The flight plan called for following trans-lunar injection with a direct return abort using the command and service module's main engine, with a total flight time of about 10 hours.",
+      "A phenomenon known as pogo oscillation damaged some of the Rocketdyne J-2 engines in the second and third stages by rupturing internal fuel lines, causing two second-stage engines to shut down early. The vehicle's onboard guidance system was able to compensate by burning the second and third stages longer, though the resulting parking orbit was more elliptical than planned. The damaged third-stage engine also failed to restart for trans-lunar injection."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Apollo_6",
+    "urlGoogle": "https://artsandculture.google.com/entity/apollo-6/m01hnw4"
+  },
+  "funFacts": [
+    {
+      "id": "143",
+      "fact": "\"Q\" is the only letter in the alphabet not appearing in the name of any U.S. state.",
+      "category": ["Geography", "Onlies"]
+    },
+    {
+      "id": "999",
+      "fact": "A cat's nose is ridged with a unique pattern, just like a human fingerprint.",
+      "category": ["Animals", "Science"]
+    },
+    {
+      "id": "21",
+      "fact": "Peaches are members of the almond family.",
+      "category": ["Food", "Definitions"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554068",
+      "fact": "In the 1920s and ‘30s, many movie theaters had signs instructing ladies to \"Please Remove Your Hats” to keep their elaborate headwear from blocking anyone's view."
+    },
+    { "id": "506501", "fact": "Earmuffs were invented by a 15-year-old." },
+    { "id": "554100", "fact": "Winston Churchill's mother was born \u0003in Brooklyn." }
+  ],
+  "idiom": {
+    "id": "well-heeled",
+    "term": "well heeled",
+    "definition": "Well off, prosperous. In the 1700s this term was used to describe a cock whose spurs had been sharpened prior to a cockfight. In the 1800s it came to mean \"well armed,\" and later in that century it acquired its present sense. For example, *The Coopers must be well heeled to afford two country club memberships.*"
+  },
+  "person": {
+    "id": "chiang-kai-shek",
+    "name": "Chiang Kai-shek",
+    "dates": "Oct 31, 1887 - Apr 5, 1975",
+    "mainImg": "img/people/chiang-kai-shek.jpg",
+    "summary": [
+      "Chiang Kai-shek,",
+      "also known as Chiang Chung-cheng and romanized via Mandarin as Chiang Chieh-shih and Jiang Jieshi, was a Chinese nationalist politician, revolutionary and military leader who served as the leader of the Republic of China between 1928 and 1975, first in mainland China until 1949 and then in Taiwan until his death.",
+      "Born in Chekiang Province, Chiang was a member of the Kuomintang and a lieutenant of Sun Yat-sen in the revolution to overthrow the Beiyang government and reunify China. With Soviet and communist help, Chiang organized the military for Sun's Canton Nationalist Government and headed the Whampoa Military Academy. Commander in chief of the National Revolutionary Army, he led the Northern Expedition from 1926 to 1928, before defeating a coalition of warlords and nominally reunifying China under a new Nationalist government. Midway through the campaign, the KMT–CPC alliance broke down and Chiang purged the communists inside the party, triggering a civil war with the CPC, which he eventually lost in 1949."
+    ],
+    "quote": "“My good health is due to a soup made of white doves. It is simply wonderful as a tonic.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
+    "urlGoogle": "https://artsandculture.google.com/entity/chiang-kai-shek/m01_4z"
+  },
+  "place": {
+    "id": "marseille",
+    "name": "Marseille",
+    "mainImg": "img/places/marseille.jpg",
+    "summary": [
+      "Marseille is the prefecture of the department of Bouches-du-Rhône and region of Provence-Alpes-Côte d'Azur in France. It is located on the Mediterranean coast near the mouth of the Rhône. The city covers an area of 241 km² and had a population of 870,018 in 2016. Its metropolitan area, which extends over 3,173 km² is the third-largest in France after those of Paris and Lyon, with a population of 1,831,500 as of 2010.",
+      "It was known to the ancient Greeks as Massalia and Romans as Massilia. Marseille is now France's largest city on the Mediterranean coast and the largest port for commerce, freight and cruise ships. The city was European Capital of Culture in 2013 and European Capital of Sport in 2017; it hosted matches at the 1998 World Cup and Euro 2016. It is home to Aix-Marseille University."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Marseille",
+    "urlGoogle": "https://artsandculture.google.com/entity/marseille/m0jdtt"
+  },
+  "quote": {
+    "id": "1",
+    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Thomas Edison"
+  },
+  "wiki": {
+    "id": "rabindranath-tagore",
+    "name": "Rabindranath Tagore",
+    "summary": "Rabindranath Tagore was a Bengali poet, Brahmo philosopher, visual artist, playwright, composer, and novelist whose avant-garde works reshaped Bengali literature and music in the late 19th and early 20th centuries. A celebrated cultural icon of Bengal, he became Asia's first Nobel laureate when he won the 1913 Nobel Prize in Literature. His home schooling, life in Shelidah, and extensive travels made Tagore an iconoclastic pragmatist; however, growing disillusionment with the British Raj caused the internationalist Tagore to back the Indian Independence Movement and befriend Mahatma Gandhi. Despite the loss of virtually his entire family and his regrets regarding Bengal's decline, his life's work — Visva-Bharati University — endured. Tagore's major works included Gitanjali and Ghare-Baire, while his verse, short stories, and novels — many defined by rhythmic lyricism, colloquial language, meditative naturalism, and philosophical contemplation — received worldwide acclaim.",
+    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+  },
+  "word": {
+    "id": "ensconce",
+    "word": "ensconce",
+    "url": "https://www.merriam-webster.com/dictionary/ensconce",
+    "partOfSpeech": "verb",
+    "pronunciation": "in-SKAHNSS",
+    "audioPath": "audio/words/ensconce.mp3",
+    "definitions": [
+      "to place or hide securely : conceal",
+      "to establish or settle firmly, comfortably, or snugly"
+    ],
+    "examples": [
+      "Rather than _ensconce_ the discouraging news in falsely hopeful language, the doctor imparted the diagnosis in a clear, straightforward manner.",
+      "\"From Wednesday morning through Sunday night, nine men and one woman along with assorted helpers and facilitators will be sequestered on the 15th floor of The Westin hotel in Indianapolis. _Ensconced_ in a luxury bunker, they won't come out for good until they've decided the 68 NCAA men's tournament teams, seeded them and placed them in the brackets.\" -- From an article by Rusty Miller for the Associated Press, March 7, 2011"
+    ],
+    "origin": "You might think of \"sconce\" as a type of candleholder or lamp, but the word can also refer to a defensive fortification, usually one made of earth. Originally, then, a person who was \"ensconced\" was enclosed in or concealed by such a structure, out of harm's way. The earliest writer to apply the verb \"ensconce\" with the general sense of \"hide\" was William Shakespeare. In _The Merry Wives of Windsor_, the character Falstaff, hoping to avoid detection when he is surprised during an amorous moment with Mrs. Ford, says \"She shall not see me; I will ensconce me behind the arras.\" (An arras is a tapestry or wall hanging.)"
+  }
+}

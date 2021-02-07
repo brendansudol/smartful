@@ -1,0 +1,141 @@
+{
+  "artist": {
+    "id": "bill-viola",
+    "name": "Bill Viola",
+    "dates": "Born Jan 25, 1951",
+    "mainImg": "img/art/artists/bill-viola.jpg",
+    "artworkImgs": [
+      {
+        "name": "Madison",
+        "path": "img/art/artworks/bill-viola-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/madison-bill-viola/DwGM1FDnRC0rtg"
+      },
+      {
+        "name": "The Encounter",
+        "path": "img/art/artworks/bill-viola-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-encounter-bill-viola/3QEX9iwXokmiqw"
+      },
+      {
+        "name": "The Raft",
+        "path": "img/art/artworks/bill-viola-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-raft-bill-viola/QwHpYB7A-i9rFw"
+      },
+      {
+        "name": "Observance",
+        "path": "img/art/artworks/bill-viola-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/observance-bill-viola/nQGj2LtG0h0I5g"
+      },
+      {
+        "name": "The Trial",
+        "path": "img/art/artworks/bill-viola-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-trial-bill-viola/xwHzHqlxZxqvjg"
+      },
+      {
+        "name": "Anima",
+        "path": "img/art/artworks/bill-viola-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/anima-bill-viola/BAFlnAJxA0FvpA"
+      }
+    ],
+    "summary": [
+      "Bill Viola is a contemporary video artist whose artistic expression depends upon electronic, sound, and image technology in New Media. His works focus on the ideas behind fundamental human experiences such as birth, death and aspects of consciousness."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art"],
+    "mediums": ["Metal", "Brass", "Iron", "Wood", "Cast iron"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Bill_Viola",
+    "urlGoogle": "https://artsandculture.google.com/entity/bill-viola/m09lh9"
+  },
+  "event": {
+    "id": "battle-of-port-arthur",
+    "name": "Battle of Port Arthur",
+    "dates": "Feb 8, 1904 - Feb 9, 1904",
+    "mainImg": "img/events/battle-of-port-arthur.jpg",
+    "summary": [
+      "The Battle of Port Arthur of 8–9 February 1904 marked the commencement of the Russo-Japanese War. It began with a surprise night attack by a squadron of Japanese destroyers on the neutral Russian fleet anchored at Port Arthur, Manchuria, and continued with an engagement the following morning; further skirmishing off Port Arthur would continue until May 1904. The attack ended inconclusively, though the war resulted in a decisive Japanese victory."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Port_Arthur",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-port-arthur/m0237q_"
+  },
+  "funFacts": [
+    {
+      "id": "803",
+      "fact": "Antarctica is the only continent with no owls.",
+      "category": ["Geography", "Onlies"]
+    },
+    {
+      "id": "962",
+      "fact": "John Wilkes Booth's brother saved the life of Abraham Lincoln's son.",
+      "category": ["History"]
+    },
+    {
+      "id": "876",
+      "fact": "The youngest U.S. president to be in office was Theodore Roosevelt at age 42.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "522173",
+      "fact": "Venetia Burney, who at age 11 suggested the name “Pluto” for the ninth planet in our solar system, lived to see it demoted to a dwarf planet in 2006."
+    },
+    { "id": "553539", "fact": "Newborn babies have nearly 100 more bones than full-grown adults." },
+    { "id": "505075", "fact": "The national animal of Scotland is the unicorn." }
+  ],
+  "idiom": {
+    "id": "hair-shirt",
+    "term": "hair shirt",
+    "definition": "A self-imposed punishment or penance, as in *I apologized a dozen times---do you want me to wear a hair shirt forever?* This term, mentioned from the 13th century on, alludes to wearing a coarse, scratchy hair shirt, the practice of religious ascetics. Its figurative use dates from the mid-1800s."
+  },
+  "person": {
+    "id": "ban-ki-moon",
+    "name": "Ban Ki-moon",
+    "dates": "Born Jun 13, 1944",
+    "mainImg": "img/people/ban-ki-moon.jpg",
+    "summary": [
+      "Ban Ki-moon is a South Korean politician and diplomat who served as the eighth Secretary-General of the United Nations from January 2007 to December 2016. Before becoming the Secretary-General, Ban was a career diplomat in South Korea's Ministry of Foreign Affairs and in the United Nations. He entered diplomatic service the year he graduated from university, accepting his first post in New Delhi, India.",
+      "Ban was the foreign minister of South Korea from January 2004 to November 2006. In February 2006, he began to campaign for the office of Secretary-General. Ban was initially considered to be a long shot for the office. As foreign minister of South Korea, however, he was able to travel to all the countries on the United Nations Security Council, a maneuver that turned him into the campaign's front runner.",
+      "On 13 October 2006, he was elected to be the eighth Secretary-General by the United Nations General Assembly. On 1 January 2007, he succeeded Kofi Annan. As Secretary-General, he was responsible for several major reforms on peacekeeping and UN employment practices. Diplomatically, Ban has taken particularly strong views on global warming, pressing the issue repeatedly with U.S."
+    ],
+    "quote": "“Our foot is stuck on the accelerator and we are heading towards an abyss.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ban_Ki-moon",
+    "urlGoogle": "https://artsandculture.google.com/entity/ban-ki-moon/m075jlq"
+  },
+  "place": {
+    "id": "greece",
+    "name": "Greece",
+    "mainImg": "img/places/greece.jpg",
+    "summary": [
+      "Greece, officially the Hellenic Republic, known also as Hellas, is a country located in Southeast Europe. Its population is approximately 10.7 million as of 2018; Athens, the nation's capital, is its largest city, followed by Thessaloniki.",
+      "Situated on the southern tip of the Balkan Peninsula, Greece is located at the crossroads of Europe, Asia, and Africa. It shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the northeast. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, the Cretan Sea and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin and the 11th longest coastline in the world at 13,676 km in length, featuring many islands, of which 227 are inhabited. Eighty percent of Greece is mountainous, with Mount Olympus being the highest peak at 2,918 metres. The country consists of nine traditional geographic regions: Macedonia, Central Greece, the Peloponnese, Thessaly, Epirus, the Aegean Islands, Thrace, Crete, and the Ionian Islands."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Greece",
+    "urlGoogle": "https://artsandculture.google.com/entity/greece/m035qy"
+  },
+  "quote": {
+    "id": "60",
+    "quote": "All great truths begin as blasphemies.",
+    "author": "George Bernard Shaw"
+  },
+  "wiki": {
+    "id": "les-pecheurs-de-perles",
+    "name": "Les pêcheurs de perles",
+    "summary": "Les pêcheurs de perles (The Pearl Fishers) is an opera by the French composer Georges Bizet, with a libretto by Eugène Cormon and Michel Carré, first performed on 30 September 1863 at the Théâtre Lyrique in Paris. Set in ancient Ceylon, it tells how two men's vow of eternal friendship is threatened by their love for a woman, who is herself conflicted between secular love and her sacred oath as a priestess. The duet \"Au fond du temple saint\", generally known as \"The Pearl Fishers Duet\", is one of the best-known numbers in Western opera. Although the opera was well received by the public and by other composers, initial press reaction was generally hostile, and it was not revived in Bizet's lifetime. It later achieved popularity in Europe and America, and eventually became a staple part of the repertory of opera houses worldwide. The loss of Bizet's original score meant that, until the 1970s, productions were based on versions with significant departures from the original; recently, efforts have been made to reconstruct the score in accordance with Bizet's intentions. Modern critics have detected premonitions of the composer's genius which culminated, 10 years later, in Carmen.",
+    "url": "https://en.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles"
+  },
+  "word": {
+    "id": "espouse",
+    "word": "espouse",
+    "url": "https://www.merriam-webster.com/dictionary/espouse",
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-SPOWZ",
+    "audioPath": "audio/words/espouse.mp3",
+    "definitions": ["marry", "to take up and support as a cause : become attached to"],
+    "examples": [
+      "The new theory has been _espoused_ by many leading physicists.",
+      "\"\\[The food collection drive\\] was scheduled on the Martin Luther King Jr. holiday in the spirit of giving that King _espoused_.\" - From an article by Charles A. Peterson in _The Granville Sentinel_ (Ohio), January 15, 2013"
+    ],
+    "origin": "As you might guess, the words \"espouse\" and \"spouse\" are related, both deriving from the Latin verb \"spondēre,\" meaning \"to promise or betroth.\" In fact, the two were once completely interchangeable, with each serving as a noun meaning \"a newly married person\" or \"a husband or wife\" and also as a verb meaning \"to marry.\" Their semantic separation began in the 17th century, when the noun \"espouse\" fell out of use. Around the same time, people started using the verb \"espouse\" figuratively to mean \"to commit to and support a cause.\" \"Spouse\" continued to be used in both noun and verb forms until the 20th century, when its verb use declined and it came to be used mainly as a noun meaning \"husband or wife.\""
+  }
+}

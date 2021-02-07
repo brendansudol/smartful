@@ -1,0 +1,145 @@
+{
+  "artist": {
+    "id": "jacob-jordaens",
+    "name": "Jacob Jordaens",
+    "dates": "May 19, 1593 - Oct 18, 1678",
+    "mainImg": "img/art/artists/jacob-jordaens.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Holy Family with Shepherds",
+        "path": "img/art/artworks/jacob-jordaens-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-holy-family-with-shepherds-jacob-jordaens/5QE78mXGUKhKNg"
+      },
+      {
+        "name": "Mercure et Argus",
+        "path": "img/art/artworks/jacob-jordaens-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mercure-et-argus-jacob-jordaens/nAFYvCJIi-OtfQ"
+      },
+      {
+        "name": "Allegory of Fertility",
+        "path": "img/art/artworks/jacob-jordaens-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/allegory-of-fertility-jacques-jordaens/SQGTPhLdrhrpHg"
+      },
+      {
+        "name": "Jupiter and Mercury in the House of Philemon and Baucis",
+        "path": "img/art/artworks/jacob-jordaens-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/jupiter-and-mercury-in-the-house-of-philemon-and-baucis-jacob-jordaens/8AG2eapZA6QPZA"
+      },
+      {
+        "name": "The Virgin and Child with St. John and His Parents",
+        "path": "img/art/artworks/jacob-jordaens-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-with-st-john-and-his-parents-jacob-jordaens/2wHpFDn1AUVb5Q"
+      },
+      {
+        "name": "Satyr Playing the Pipe (Jupiter's Childhood) (fragment)",
+        "path": "img/art/artworks/jacob-jordaens-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/satyr-playing-the-pipe-jupiter-s-childhood-fragment-jacob-jordaens/QgFYwwnIvypLNA"
+      }
+    ],
+    "summary": [
+      "Jacob Jordaens was a Flemish painter, draughtsman and tapestry designer known for his history paintings, genre scenes and portraits. After Peter Paul Rubens and Anthony van Dyck, he was the leading Flemish Baroque painter of his day. Unlike those contemporaries he never travelled abroad to study Italian painting, and his career is marked by an indifference to their intellectual and courtly aspirations. In fact, except for a few short trips to locations in the Low Countries, he remained in Antwerp his entire life. As well as being a successful painter, he was a prominent designer of tapestries.",
+      "Like Rubens, Jordaens painted altarpieces, mythological, and allegorical scenes, and after 1640—the year Rubens died—he was the most important painter in Antwerp for large-scale commissions and the status of his patrons increased in general. However, he is best known today for his numerous large genre scenes based on proverbs in the manner of his contemporary Jan Brueghel the Elder, depicting The King Drinks and As the Old Sing, So Pipe the Young."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Antwerp school", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Drawing", "Ink", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jacob_Jordaens",
+    "urlGoogle": "https://artsandculture.google.com/entity/jacob-jordaens/m01bbhf"
+  },
+  "event": {
+    "id": "vostok-3",
+    "name": "Vostok 3",
+    "dates": "Aug 11, 1962 - Aug 15, 1962",
+    "mainImg": "img/events/vostok-3.jpg",
+    "summary": [
+      "Vostok 3 was a spaceflight of the Soviet space program intended to determine the ability of the human body to function in conditions of weightlessness and test the endurance of the Vostok 3KA spacecraft over longer flights. Cosmonaut Andriyan Nikolayev orbited the Earth 64 times over nearly four days in space, August 11–15, 1962, a feat which would not be matched by NASA until the Gemini program.",
+      "Vostok 3 and Vostok 4 were launched a day apart on trajectories that brought the spacecraft within approximately 6.5 km of one another. The cosmonauts aboard the two capsules also communicated with each other via radio, the first ship-to-ship communications in space. These missions marked the first time that more than one crewed spacecraft was in orbit at the same time, giving Soviet mission controllers the opportunity to learn to manage this scenario."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Vostok_3",
+    "urlGoogle": "https://artsandculture.google.com/entity/vostok-3/m01bgbw"
+  },
+  "funFacts": [
+    {
+      "id": "170",
+      "fact": "In 1878, the first telephone book ever issued contained only 50 names.",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "172",
+      "fact": "The eye makes movements 50 times every second.",
+      "category": ["Anatomy"]
+    },
+    { "id": "454", "fact": "Polar bear fur is transparent, not white.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "522189",
+      "fact": "Norman Lloyd is Hollywood’s oldest working actor. The 104-year-old has worked with Charlie Chaplin, Robin Williams, and Amy Schumer."
+    },
+    {
+      "id": "553927",
+      "fact": "In 1974, the Journal of Applied Behavior Analysis published a paper titled \"The Unsuccessful Self-Treatment of a Case of 'Writer’s Block.'\" \u0003It contained a total of zero words."
+    },
+    {
+      "id": "553844",
+      "fact": "Cathay Williams became the first African-American woman to serve in the U.S. Army in 1866. Since women were barred from joining the military at the time, she enlisted as a man under the pseudonym William Cathay."
+    }
+  ],
+  "idiom": {
+    "id": "occams-razor",
+    "term": "Occam's razor",
+    "definition": "The idea that the simplest explanation is probably the best. William of Occam was a Franciscan friar and philosopher (c. 1280-1349) whose writings so angered the Pope that he was excommunicated. His original statement was *Entia non sunt multiplicanda praeter necessitatem* (Entities should not be multiplied more than necessary). It was a French philosopher, Etienne Bonnot de Condillac, who in 1746 likened the idea to a razor, that is, cutting through complex ideas to reach the truth, and nearly a century later Sir William Hamilton, in an 1836 lecture, coined the present idiom. While it is not often heard today, it is not obsolete. Archer Mayor used it as the title of his 1999 mystery novel."
+  },
+  "person": {
+    "id": "prudente-de-morais",
+    "name": "Prudente de Morais",
+    "dates": "Oct 4, 1841 - Dec 3, 1902",
+    "mainImg": "img/people/prudente-de-morais.jpg",
+    "summary": [
+      "Prudente José de Morais e Barros was the third President of Brazil. He is notable as the first civilian president of the country, the first to be elected by direct popular ballot under the permanent provisions of Brazil's 1891 Constitution, and the first to serve his term in its entirety. His presidency, which lasted from 15 November 1894 until 14 November 1898, was marked by the War of Canudos, a campesinant revolt in the northeast of the country that was crushed by the Brazilian Army. He also had to face a break in diplomatic relations with Portugal that was successfully mediated by Queen Victoria of the United Kingdom.",
+      "Previously he had been the Governor of the State of São Paulo and President of the Senate from 1891 to 1894. He was also president of the Constituent Congress that drafted and approved Brazil's 1891 Constitution.",
+      "The city of Presidente Prudente, located in the western part of the State of São Paulo, is named after him.",
+      "His ancestry dated back to the early Portuguese settlers of Brazil."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Prudente_de_Morais",
+    "urlGoogle": "https://artsandculture.google.com/entity/prudente-de-morais/m03s8sd"
+  },
+  "place": {
+    "id": "serbia",
+    "name": "Serbia",
+    "mainImg": "img/places/serbia.jpg",
+    "summary": [
+      "Serbia, officially the Republic of Serbia, is a landlocked country situated at the crossroads of Central and Southeast Europe in the southern Pannonian Plain and the central Balkans. It borders Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest. The country claims a border with Albania through the disputed territory of Kosovo. Serbia's population numbers approximately seven million without Kosovo or 8.8 million if the territory is included. Its capital, Belgrade, ranks among the largest and oldest citiеs in southeastern Europe.",
+      "Inhabited since the Paleolithic Age, the territory of modern-day Serbia faced Slavic migrations to Southeastern Europe in the 6th century, establishing several regional states in the early Middle Ages at times recognised as tributaries to the Byzantine, Frankish and Hungarian kingdoms. The Serbian Kingdom obtained recognition by the Holy See and Constantinople in 1217, reaching its territorial apex in 1346 as the relatively short-lived Serbian Empire."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Serbia",
+    "urlGoogle": "https://artsandculture.google.com/entity/serbia/m077qn"
+  },
+  "quote": {
+    "id": "13",
+    "quote": "The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into smaller manageable tasks, and then starting on the first one.",
+    "author": "Mark Twain"
+  },
+  "wiki": {
+    "id": "pierre-monteux",
+    "name": "Pierre Monteux",
+    "summary": "Pierre Monteux (1875–1964) was a French (later American) conductor, who directed orchestras around the world for more than half a century. After violin and viola studies, and a decade as an orchestral player and occasional conductor, he began to receive regular conducting engagements in 1907. He came to prominence when he conducted the world premieres of ballets such as The Rite of Spring, Daphnis et Chloé, and Jeux. From 1917 to 1919 he was the principal conductor of the French repertoire at the Metropolitan Opera. He then led the Boston Symphony Orchestra, the Concertgebouw Orchestra (1924–34), Orchestre Symphonique de Paris (1929–38), San Francisco Symphony (1936–52), and from 1961, aged eighty-six, the London Symphony Orchestra. Monteux's chief love was the music of German composers, above all Brahms. He disliked recording, finding it incompatible with spontaneity, but made a substantial number of records. He began to teach conducting in Paris in 1932. After moving permanently to the US in 1942, he founded the Pierre Monteux School in Hancock, Maine, which has continued. His students included Igor Markevitch, Neville Marriner, André Previn, Lorin Maazel and Seiji Ozawa.",
+    "url": "https://en.wikipedia.org/wiki/Pierre_Monteux"
+  },
+  "word": {
+    "id": "quondam",
+    "word": "quondam",
+    "url": "https://www.merriam-webster.com/dictionary/quondam",
+    "partOfSpeech": "adj",
+    "pronunciation": "KWAHN-dum",
+    "audioPath": "audio/words/quondam.mp3",
+    "definitions": ["former, sometime"],
+    "examples": [
+      "A quondam rodeo champ, circuit preacher, and peanut farmer, Baxter has settled into his new life as a stand-up comedian."
+    ],
+    "origin": "Looking for an unusual and creative way to say \"former\"? \"Quondam\" (which came to English in the 16th century from Latin _quondam_, meaning \"at one time\" or \"formerly\") certainly fits the bill. Or maybe you'd prefer one of its synonyms: \"whilom,\" \"ci-devant\" or \"preterit.\" Or you could really go crazy with \"umquhile,\" a word that is extremely rare even in its more natural Scots English setting. \"Quondam\" itself isn't exactly ubiquitous, but it's used more than any of the other words above. If you're looking for something a bit more pedestrian, you might try yet another synonym: \"erstwhile.\" Despite its wonderfully archaic flavor, \"erstwhile\" is a highly favored alternative."
+  }
+}

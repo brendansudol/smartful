@@ -1,0 +1,150 @@
+{
+  "artist": {
+    "id": "stradanus",
+    "name": "Stradanus",
+    "dates": "1523 - Feb 11, 1605",
+    "mainImg": "img/art/artists/stradanus.jpg",
+    "artworkImgs": [
+      {
+        "name": "New Inventions of Modern Times [Nova Reperta], Amerigo Vespucci Discovering the Southern Cross with an Astrolabium, plate 18",
+        "path": "img/art/artworks/stradanus-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/new-inventions-of-modern-times-nova-reperta-amerigo-vespucci-discovering-the-southern-cross-with-an-astrolabium-plate-18-jan-van-der-straet-called-stradanus-jan-collaert-i-philips-galle/OwHImGQ4Iq_e8w"
+      },
+      {
+        "name": "Printers at Work: pl.4",
+        "path": "img/art/artworks/stradanus-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/printers-at-work-pl-4-theodor-galle-after-jan-van-der-straet/dwGJKgZw202T8Q"
+      },
+      {
+        "name": "New Inventions of Modern Times [Nova Reperta], The Invention of Book Printing, plate 4",
+        "path": "img/art/artworks/stradanus-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/new-inventions-of-modern-times-nova-reperta-the-invention-of-book-printing-plate-4-jan-van-der-straet-called-stradanus-jan-collaert-i-philips-galle/EwEwu_uMwplS2Q"
+      },
+      {
+        "name": "New Inventions of Modern Times [Nova Reperta], The Invention of the Olive Oil Press, plate 12",
+        "path": "img/art/artworks/stradanus-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/new-inventions-of-modern-times-nova-reperta-the-invention-of-the-olive-oil-press-plate-12-jan-van-der-straet-called-stradanus-jan-collaert-i-philips-galle/7AHGOKPjg_qpXQ"
+      },
+      {
+        "name": "The Workshop of an Engraver [Sculptura in Aes], plate 19 from Nova Reperta",
+        "path": "img/art/artworks/stradanus-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-workshop-of-an-engraver-sculptura-in-aes-plate-19-from-nova-reperta-jan-van-der-straet-called-stradanus-philips-galle-philips-galle/rwG9r1rhN9Zntg"
+      },
+      {
+        "name": "New Inventions of Modern Times [Nova Reperta], The Discovery of America, plate 1",
+        "path": "img/art/artworks/stradanus-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/new-inventions-of-modern-times-nova-reperta-the-discovery-of-america-plate-1-jan-van-der-straet-called-stradanus-philips-galle-theodoor-galle/WQFjshGMXBmzzg"
+      }
+    ],
+    "summary": [
+      "Stradanus, Johannes Stradanus, Jan van der Straet or Giovanni Stradano was a Flemish artist active mainly in 16th-century Florence, Italy. He was a wide-ranging talent who worked as an easel and fresco painter, designer of tapestries, draughtsman, designer of prints and pottery decorator. His subject range was varied and included history subjects, mythological scenes, allegories, landscapes, genre scenes, portraits, architectural scenes and animals. After training in his native Flanders, he left his home country and ultimately settled down in Florence, Italy. He became a prominent court artist to the Medici during the second half of the 16th century and worked on the many decorative projects of the court. Stradanus also produced large altarpieces for the most important churches in Florence.",
+      "He was a prolific designer of prints which were circulated widely throughout Europe for many centuries. Through his knowledge of Florentine and Italian art and his international contacts with engravers and editors in Antwerp, Stradanus contributed to the development of printmaking."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Renaissance", "Mannerism"],
+    "mediums": ["Engraving", "Pen", "Ink", "Laid paper", "Drawing", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Stradanus",
+    "urlGoogle": "https://artsandculture.google.com/entity/stradanus/m08m2qv"
+  },
+  "event": {
+    "id": "battle-of-pusan-perimeter",
+    "name": "Battle of Pusan Perimeter",
+    "dates": "August 1950 - September 1950",
+    "mainImg": "img/events/battle-of-pusan-perimeter.jpg",
+    "summary": [
+      "The Battle of the Pusan Perimeter was a large-scale battle between United Nations Command and North Korean forces lasting from August 4 to September 18, 1950. It was one of the first major engagements of the Korean War. An army of 140,000 UN troops, having been pushed to the brink of defeat, were rallied to make a final stand against the invading Korean People's Army, 98,000 men strong.",
+      "UN forces, having been repeatedly defeated by the advancing KPA, were forced back to the \"Pusan Perimeter\", a 140-mile defensive line around an area on the southeastern tip of South Korea that included the port of Busan. The UN troops, consisting mostly of forces from the Republic of Korea Army, United States, and United Kingdom mounted a last stand around the perimeter, fighting off repeated KPA attacks for six weeks as they were engaged around the cities of Daegu, Masan, and Pohang and the Nakdong River. The massive KPA assaults were unsuccessful in forcing the UN troops back further from the perimeter, despite two major pushes in August and September."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Pusan_Perimeter",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-pusan-perimeter/m09bsc_"
+  },
+  "funFacts": [
+    {
+      "id": "131",
+      "fact": "Penguins have an organ above their eyes that converts seawater to fresh water.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "23",
+      "fact": "The San Francisco cable cars are the only mobile national monument.",
+      "category": ["Geography", "History"]
+    },
+    {
+      "id": "965",
+      "fact": "It is illegal to play annoying games in the street in the United Kingdom.",
+      "category": ["Geography", "Laws"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553536",
+      "fact": "The first Hershey’s chocolate bars with almonds were produced in 1908 because they were cheap to make. The nuts took the place of some of the more expensive milk chocolate, which meant Hershey’s could keep the price of the candy at a nickel."
+    },
+    {
+      "id": "553925",
+      "fact": "Hay-on-Wye in Wales is the used book capital of the world. It’s home to the famous Honesty Bookshop: an outdoor book market with a collection box in place of a cashier."
+    },
+    {
+      "id": "553534",
+      "fact": "The FBI investigated the song “Louie Louie” because people thought the lyrics were dirty. After three months, the FBI abandoned the investigation because it couldn’t make out the words."
+    }
+  ],
+  "idiom": {
+    "id": "high-water-mark",
+    "term": "high-water mark",
+    "definition": "The peak of something, especially an achievement. For example, *This composition is the high-water mark of his entire output.* This expression alludes to the highest mark left on shore by the tide. [Mid-1800s]"
+  },
+  "person": {
+    "id": "william-ii-of-the-netherlands",
+    "name": "William II of the Netherlands",
+    "dates": "Dec 6, 1792 - Mar 17, 1849",
+    "mainImg": "img/people/william-ii-of-the-netherlands.jpg",
+    "summary": [
+      "William II was King of the Netherlands, Grand Duke of Luxembourg, and Duke of Limburg.",
+      "William II was the son of William I and Wilhelmine of Prussia. When his father, who up to that time ruled as sovereign prince, proclaimed himself king in 1815, he became Prince of Orange as heir apparent of the Kingdom of the Netherlands. With the abdication of his father on 7 October 1840, William II became king. During his reign, the Netherlands became a parliamentary democracy with the new constitution of 1848.",
+      "William II was married to Anna Pavlovna of Russia. They had four sons and one daughter. William II died on 17 March 1849 and was succeeded by his son William III."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/William_II_of_the_Netherlands",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-ii-of-the-netherlands/m0znyz"
+  },
+  "place": {
+    "id": "flint",
+    "name": "Flint",
+    "mainImg": "img/places/flint.jpg",
+    "summary": [
+      "Flint is the largest city and seat of Genesee County, Michigan, United States. Located along the Flint River, 66 miles northwest of Detroit, it is a principal city within the region known as Mid Michigan. According to the 2010 census, Flint has a population of 102,434, making it the seventh largest city in Michigan. The Flint metropolitan area is located mostly within Genesee County, with a little bit into northwest Oakland County and eastern Shiawassee County. It is the fourth largest metropolitan area in Michigan with a population of 425,790 in 2010. The city was incorporated in 1855.",
+      "Flint was founded as a village by fur trader Jacob Smith in 1819 and became a major lumbering area on the historic Saginaw Trail during the 19th century. From the late 19th century to the mid 20th century, the city was a leading manufacturer of carriages and later automobiles, earning it the nickname \"Vehicle City\". General Motors was founded in Flint in 1908, and the city grew into an automobile manufacturing powerhouse for GM's Buick and Chevrolet divisions, especially after World War II up until the early 1980s recession."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Flint,_Michigan",
+    "urlGoogle": "https://artsandculture.google.com/entity/flint/m0m2rv"
+  },
+  "quote": {
+    "id": "110",
+    "quote": "Make your own Bible. Select and collect all the words and sentences that in all your readings have been to you like the blast of a trumpet.",
+    "author": "Ralph Waldo Emerson"
+  },
+  "wiki": {
+    "id": "edmund-herring",
+    "name": "Edmund Herring",
+    "summary": "Edmund Herring (1892–1982) was an Australian Army officer during the Second World War, Lieutenant Governor of Victoria, and Chief Justice of the Supreme Court of Victoria. A Rhodes Scholar, Herring was at New College, Oxford when the First World War broke out and served with the Royal Field Artillery on the Macedonian front, for which he was awarded the Military Cross and Distinguished Service Order. After the war he carved out a successful career as a barrister and King's Counsel. He also joined the Australian Army, rising to the rank of colonel by 1939. During the Second World War, he commanded the 6th Division Artillery in the Western Desert Campaign and the Battle of Greece. In 1942, as a corps commander, he commanded the land forces in the Kokoda Track campaign. The following year, he directed operations at Lae and Nadzab. Herring left his corps to become the longest serving Chief Justice and Lieutenant Governor of Victoria, serving for three decades.",
+    "url": "https://en.wikipedia.org/wiki/Edmund_Herring"
+  },
+  "word": {
+    "id": "extremophile",
+    "word": "extremophile",
+    "url": "https://www.merriam-webster.com/dictionary/extremophile",
+    "partOfSpeech": "noun",
+    "pronunciation": "ik-STREE-muh-fyle",
+    "audioPath": "audio/words/extremophile.mp3",
+    "definitions": [
+      "an organism that lives under extreme environmental conditions (as in a hot spring or ice cap)"
+    ],
+    "examples": [
+      "\"Cold-loving extremophiles could show us what kinds of creatures might live ... in parts of the solar system previously thought uninhabitable.\" (Michael Lemonick and Andrea Dorfman, _Time Magazine_, July 2002)"
+    ],
+    "origin": "No, an extremophile is not an enthusiast of extreme sports (though \"-phile\" does mean \"one who loves or has an affinity for\"). Rather, extremophiles are microbes that thrive in environments once considered uninhabitable, from places with high levels of toxicity and radiation to boiling-hot deep-sea volcanoes to Antarctic ice sheets. Scientists have even created a new biological domain to classify some of these microbes: Archaea (from Greek \"archaios,\" meaning \"ancient\"). These extremophiles may have a lot in common with the first organisms to appear on earth billions of years ago. If so, they can give us insight into how life on our planet may have arisen. They are also being studied to learn about possible life forms on other planets, where conditions are extreme compared to conditions on Earth."
+  }
+}

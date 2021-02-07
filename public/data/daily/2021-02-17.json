@@ -1,0 +1,149 @@
+{
+  "artist": {
+    "id": "qiu-ying",
+    "name": "Qiu Ying",
+    "dates": "1494 - 1552",
+    "mainImg": "img/art/artists/qiu-ying.jpg",
+    "artworkImgs": [
+      {
+        "name": "Spring Morning in the Han Palace",
+        "path": "img/art/artworks/qiu-ying-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/spring-morning-in-the-han-palace-qiu-ying/pQE45TO7_p50Qg"
+      },
+      {
+        "name": "Scene from The Story of the Western Wing Panel A",
+        "path": "img/art/artworks/qiu-ying-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/scene-from-the-story-of-the-western-wing-panel-a-attributed-to-qiu-ying/_wHDosw4vqD8UQ"
+      },
+      {
+        "name": "Hanging scroll",
+        "path": "img/art/artworks/qiu-ying-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/hanging-scroll-qiu-ying/nQHZvCpI2Bb35g"
+      },
+      {
+        "name": "The Shanglin Park: Imperial Hunt",
+        "path": "img/art/artworks/qiu-ying-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-shanglin-park-imperial-hunt-artist-attributed-to-qiu-ying/IgGbk5-cxGIS4g"
+      },
+      {
+        "name": "Journey to Shu (detail)",
+        "path": "img/art/artworks/qiu-ying-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/journey-to-shu-detail-artist-traditionally-attributed-to-qiu-ying-calligrapher-wen-zhengming/1gFJ9wJ92rcTAw"
+      },
+      {
+        "name": "Leisurely Life of a Lady",
+        "path": "img/art/artworks/qiu-ying-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/leisurely-life-of-a-lady-artist-sun-huang-artist-formerly-attributed-to-qiu-ying/7wFD6K63U7exiw"
+      }
+    ],
+    "summary": [
+      "Qiu Ying was a Chinese painter who specialized in the gongbi brush technique.",
+      "Qiu Ying's courtesy name was Shifu, and his art name was Shizhou. He was born to a peasant family in Taicang and studied painting under Zhou Chen in Suzhou. Though Suzhou's Wu School encouraged painting in ink washes, Qiu Ying also painted in the green-and-blue style. He painted with the support of wealthy patrons, creating images of flowers, gardens, religious subjects, and landscapes in the fashions of the Ming dynasty. He incorporated different techniques into his paintings, and acquired a few wealthy patrons. His talent and versatility allowed him to become regarded as one of the Four Masters of the Ming dynasty.",
+      "Three of his best patrons were art collectors. One was Chen Guan from Suzhou. The other two were both younger than Qiu: Zhou Fenglai, from nearby Kunshan, and the well-known wealthy collector Xiang Yuanbian, whose home was in Jiaxing in Zhejiang Province.",
+      "His daughter, Qiu Zhu, was a noted professional artist in her own right, and influenced other female artists."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Ink", "Silk", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Qiu_Ying",
+    "urlGoogle": "https://artsandculture.google.com/entity/qiu-ying/m06jz1m"
+  },
+  "event": {
+    "id": "german-revolution-of-1918-1919",
+    "name": "German Revolution of 1918–1919",
+    "dates": "Oct 29, 1918 - Aug 11, 1919",
+    "mainImg": "img/events/german-revolution-of-1918-1919.jpg",
+    "summary": [
+      "The German Revolution or November Revolution was a civil conflict in the German Empire at the end of the First World War that resulted in the replacement of the German federal constitutional monarchy with a democratic parliamentary republic that later became known as the Weimar Republic. The revolutionary period lasted from November 1918 until the adoption in August 1919 of the Weimar Constitution.",
+      "The causes of the revolution were the extreme burdens suffered by the population during the four years of war, the strong impact of the defeat on the German Empire and the social tensions between the general population and the elite of aristocrats and bourgeoisie who held power and had just lost the war.",
+      "The roots of the revolution lay in the German Empire's defeat in the First World War and the social tensions that came to a head shortly thereafter. The first acts of revolution were triggered by the policies of the German Supreme Command of the Army and its lack of coordination with the Naval Command. In the face of defeat, the Naval Command insisted on trying to precipitate a climactic battle with the British Royal Navy by means of its naval order of 24 October 1918."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/German_Revolution_of_1918%E2%80%931919",
+    "urlGoogle": "https://artsandculture.google.com/entity/german-revolution-of-1918–1919/m02k338"
+  },
+  "funFacts": [
+    { "id": "55", "fact": "A human brain weighs about three pounds.", "category": ["Anatomy"] },
+    { "id": "269", "fact": "Horseback riding can improve your posture.", "category": ["Animals"] },
+    {
+      "id": "165",
+      "fact": "Your eye expands up to 45% when looking at something pleasing.",
+      "category": ["Anatomy"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553549",
+      "fact": "The al-Qarawiyyin Library in Fez, Morocco is the oldest working library in the world."
+    },
+    {
+      "id": "554050",
+      "fact": "The Palais Idéal in France is built entirely of stones a postman named Ferdinand Cheval picked up on his mail route."
+    },
+    {
+      "id": "504663",
+      "fact": "While an Oscar is of unnamed value to someone who wins (or loses) one, the actual trophy has a raw value of about $600."
+    }
+  ],
+  "idiom": {
+    "id": "spin-a-yarn",
+    "term": "spin a yarn",
+    "definition": "Tell a story, especially a long drawn-out or totally fanciful one, as in *This author really knows how to spin a yarn,* or *Whenever he's late he spins some yarn about a crisis.* Originally a nautical term dating from about 1800, this expression probably owes its life to the fact that it embodies a double meaning, *yarn* signifying both \"spun fiber\" and \"a tale.\""
+  },
+  "person": {
+    "id": "josip-broz-tito",
+    "name": "Josip Broz Tito",
+    "dates": "May 7, 1892 - May 4, 1980",
+    "mainImg": "img/people/josip-broz-tito.jpg",
+    "summary": [
+      "Josip Broz, commonly known as Tito, was a Yugoslav communist revolutionary and statesman, serving in various roles from 1943 until his death in 1980. During World War II, he was the leader of the Partisans, often regarded as the most effective resistance movement in occupied Europe. He also served as the President of the Socialist Federal Republic of Yugoslavia from 14 January 1953 to 4 May 1980.",
+      "Broz was born to a Croat father and Slovene mother in the village of Kumrovec, Austria-Hungary. Drafted into military service, he distinguished himself, becoming the youngest sergeant major in the Austro-Hungarian Army of that time. After being seriously wounded and captured by the Imperial Russians during World War I, he was sent to a work camp in the Ural Mountains. He participated in some events of the Russian Revolution in 1917 and the subsequent Civil War. Upon his return to the Balkans in 1918, Broz entered the newly established Kingdom of Yugoslavia, where he joined the Communist Party of Yugoslavia. He later was elected as General Secretary of the League of Communists of Yugoslavia."
+    ],
+    "quote": "“Our sacrifices are terrible. I can safely say that there is no other part of the world which has been devastated on a vaster scale than Yugoslavia. Every tenth Yugoslav has perished in this struggle in which we were forced to wrest armaments from our enemies, to freeze without clothing, and to die without medication. Nevertheless our optimism and faith have proved justified. The greatest gain of this conflict between democracy and fascism lies in the fact that it has drawn together everything that was good in humanity. The unity of the United States, the Soviet Union and Great Britain is the best guarantee to the peoples of the world that Nazi horrors will never again be repeated.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Josip_Broz_Tito",
+    "urlGoogle": "https://artsandculture.google.com/entity/josip-broz-tito/m0472f"
+  },
+  "place": {
+    "id": "modena",
+    "name": "Modena",
+    "mainImg": "img/places/modena.jpg",
+    "summary": [
+      "Modena is a city and comune on the south side of the Po Valley, in the Province of Modena in the Emilia-Romagna region of northern Italy.",
+      "An ancient town, and seat of an archbishop, it is known for its automotive industry since the factories of the famous Italian sports car makers Ferrari, De Tomaso, Lamborghini, Pagani and Maserati are, or were, located here and all, except Lamborghini, have headquarters in the city or nearby. One of Ferrari's cars, the 360 Modena, was named after the town itself.",
+      "The University of Modena, founded in 1175 and expanded by Francesco II d'Este in 1686, focuses on economics, medicine and law, and is the second oldest athenaeum in Italy. Italian military officers are trained at the Military Academy of Modena, and partly housed in the Baroque Ducal Palace. The Biblioteca Estense houses historical volumes and 3,000 manuscripts. The Cathedral of Modena, the Torre della Ghirlandina and Piazza Grande are a UNESCO World Heritage Site since 1997.",
+      "Modena is also known in culinary circles for its production of balsamic vinegar."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Modena",
+    "urlGoogle": "https://artsandculture.google.com/entity/modena/m0gw2w"
+  },
+  "quote": {
+    "id": "88",
+    "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    "author": "Robert Louis Stevenson"
+  },
+  "wiki": {
+    "id": "restoration-literature",
+    "name": "Restoration literature",
+    "summary": "Restoration literature is the literature written in English during the period commonly referred to as the English Restoration, corresponding with the last years of the direct Stuart reign in England, Scotland, Wales, and Ireland. In general, the term is used to denote roughly homogeneous styles of literature that centre on a celebration of or reaction to the restored court of Charles II. It is a literature that includes extremes, for it encloses both Paradise Lost and the Earl of Rochester's Sodom, the high-spirited sexual comedy of The Country Wife and the moral wisdom of Pilgrim's Progress. It saw Locke's Treatises on Government, the founding of the Royal Society, the experiments and holy meditations of Robert Boyle, the hysterical attacks on theatres from Jeremy Collier, and the pioneering of literary criticism from John Dryden and John Dennis. It saw news become a commodity, the essay develop into a periodical artform, the beginnings of textual criticism, and the emergence of the stock market.",
+    "url": "https://en.wikipedia.org/wiki/Restoration_literature"
+  },
+  "word": {
+    "id": "peripatetic",
+    "word": "peripatetic",
+    "url": "https://www.merriam-webster.com/dictionary/peripatetic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "pair-uh-puh-TET-ik",
+    "audioPath": "audio/words/peripatetic.mp3",
+    "definitions": [
+      "of or relating to the Greek philosopher Aristotle or his philosophy : Aristotelian",
+      "of, relating to, or given to walking",
+      "moving or traveling from place to place : itinerant"
+    ],
+    "examples": [
+      "I was _peripatetic_ throughout my twenties, but in my thirties I bought a house and began putting down roots in the community.",
+      "\"From the day Rousseau turned his back on his native city, these _peripatetic_ writer-thinkers were bent on walking into a kind of alienated individuality.\" - From a book review by Billy Mills in _Guardian Unlimited_, August 9, 2012"
+    ],
+    "origin": "Are you someone who likes to think on your feet? If so you've got something in common with the followers of the ancient Greek philosopher Aristotle. Not only a thinker and teacher, Aristotle was also a walker, and his students were required to walk along beside him as he lectured while pacing to and fro. Thus it was that the Greek word \"peripatētikos\" (from \"peripatein,\" meaning \"to walk up and down\") came to be associated with Aristotle and his followers. By the way, the covered walk in the Lyceum where Aristotle taught became known as the \"peripatos\" (which can either refer to the act of walking or a place for walking)."
+  }
+}

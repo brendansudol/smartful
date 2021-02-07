@@ -1,0 +1,145 @@
+{
+  "artist": {
+    "id": "henri-de-toulouse-lautrec",
+    "name": "Henri de Toulouse-Lautrec",
+    "dates": "Nov 24, 1864 - Sep 9, 1901",
+    "mainImg": "img/art/artists/henri-de-toulouse-lautrec.jpg",
+    "artworkImgs": [
+      {
+        "name": "Carmen Gaudin",
+        "path": "img/art/artworks/henri-de-toulouse-lautrec-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/carmen-gaudin-henri-de-toulouse-lautrec/CwH8_RbVuzPExQ"
+      },
+      {
+        "name": "May Belfort",
+        "path": "img/art/artworks/henri-de-toulouse-lautrec-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/may-belfort-henri-de-toulouse-lautrec/3QHC85qcVhtTNA"
+      },
+      {
+        "name": "La Troupe de Mademoiselle Eglantine",
+        "path": "img/art/artworks/henri-de-toulouse-lautrec-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/la-troupe-de-mademoiselle-eglantine-henri-de-toulouse-lautrec/wAFR3_X5i7F3WA"
+      },
+      {
+        "name": "At the Moulin-Rouges, Two Women Walzing",
+        "path": "img/art/artworks/henri-de-toulouse-lautrec-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/at-the-moulin-rouges-two-women-walzing-henri-de-toulouse-lautrec/2QGvu4jEUpgnKg"
+      },
+      {
+        "name": "Divan Japonais",
+        "path": "img/art/artworks/henri-de-toulouse-lautrec-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/divan-japonais-henri-de-toulouse-lautrec/igFLRvgRgSvnfA"
+      },
+      {
+        "name": "The Englishman (William Tom Warrener, 1861–1934) at the Moulin Rouge",
+        "path": "img/art/artworks/henri-de-toulouse-lautrec-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-englishman-william-tom-warrener-1861–1934-at-the-moulin-rouge-henri-de-toulouse-lautrec/QQHVHSTC_MZrKw"
+      }
+    ],
+    "summary": [
+      "Henri Marie Raymond de Toulouse-Lautrec-Monfa, commonly known as just Henri de Toulouse-Lautrec, was a French painter, printmaker, draughtsman, caricaturist, and illustrator whose immersion in the colorful and theatrical life of Paris in the late 19th century allowed him to produce a collection of enticing, elegant, and provocative images of the modern, sometimes decadent, affairs of those times.",
+      "Toulouse-Lautrec is among the best-known painters of the Post-Impressionist period, with Paul Cézanne, Vincent van Gogh, and Paul Gauguin.",
+      "In a 2005 auction at Christie's auction house, La Blanchisseuse, his early painting of a young laundress, sold for US$22.4 million and set a new record for the artist for a price at auction."
+    ],
+    "quote": "“Love is when the desire to be desired takes you so badly that you feel you could die of it.”",
+    "movements": ["Post-Impressionism", "Art Nouveau", "Modern art", "Les Nabis", "Academic art"],
+    "mediums": ["Ink", "Crayon", "Wood", "Oil paint", "Olive", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec",
+    "urlGoogle": "https://artsandculture.google.com/entity/henri-de-toulouse-lautrec/m0h7vt"
+  },
+  "event": {
+    "id": "17-th-academy-awards",
+    "name": "17th Academy Awards",
+    "dates": null,
+    "mainImg": "img/events/17-th-academy-awards.jpg",
+    "summary": [
+      "The 17th Academy Awards marked the first time the complete awards ceremony was broadcast nationally, on the Blue Network. Bob Hope hosted the 70-minute broadcast, which included film clips that required explanation for the radio audience. This tradition ended abruptly after the 1948 ceremony as a result of the Paramount antitrust decrees, only to return gradually since the late 1960s.",
+      "This is the first year that the Best Picture category was limited to five pictures. This was also the first and only time an individual was nominated for Best Actor and Best Supporting Actor for playing the same role in the same film: Barry Fitzgerald for the character of Father Fitzgibbon in Going My Way. He won for Best Supporting Actor."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/17th_Academy_Awards",
+    "urlGoogle": "https://artsandculture.google.com/entity/17th-academy-awards/m0fz28k"
+  },
+  "funFacts": [
+    {
+      "id": "972",
+      "fact": "The name of the city of Portland, Oregon was decided by a coin toss.  The name that lost was Boston.",
+      "category": ["Geography", "History", "Make-it-Easies"]
+    },
+    {
+      "id": "837",
+      "fact": "Bananas are the most widely-eaten fruit in America.",
+      "category": ["Food"]
+    },
+    {
+      "id": "734",
+      "fact": "Potatoes have more chromosomes than humans.",
+      "category": ["Anatomy", "Food"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "506873",
+      "fact": "Chock Full o' Nuts coffee does not contain nuts. It's named for a chain of nut stores that the founder converted into coffee shops."
+    },
+    {
+      "id": "553686",
+      "fact": "Bangladesh has six seasons: Grishmo (summer), Borsha (rainy), Shorot (fall), Hemanta (cool), Sheet (winter), and Boshanto (spring)."
+    },
+    { "id": "553728", "fact": "Humans are the only animals that blush." }
+  ],
+  "idiom": {
+    "id": "not-for-all-the-tea-in-china",
+    "term": "not for all the tea in China",
+    "definition": "Not at any price, never, as in *I wouldn't give up my car, not for all the tea in China.* This term originated in Australia and alludes to the presumed huge quantity of tea in China. [Late 1800s]"
+  },
+  "person": {
+    "id": "maria-ii-of-portugal",
+    "name": "Maria II of Portugal",
+    "dates": "Apr 4, 1819 - Nov 15, 1853",
+    "mainImg": "img/people/maria-ii-of-portugal.jpg",
+    "summary": [
+      "Dona Maria II \"the Educator\" or \"the Good Mother\", reigned as Queen of Portugal from 1826 to 1828, and again from 1834 to 1853. Born in Rio de Janeiro, she was the first child of Emperor Pedro I of Brazil and his first wife, Empress Maria Leopoldina, and thus a member of the House of Braganza. One of the two surviving children born when Pedro was still heir apparent to Portugal, she inherited Portuguese titles and was placed in the line of succession to the former Portuguese throne, even after becoming a member of the Brazilian Imperial Family, from which she was excluded in 1835 after her definitive ascension to the Portuguese throne."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Maria_II_of_Portugal",
+    "urlGoogle": "https://artsandculture.google.com/entity/maria-ii-of-portugal/m01lqn8"
+  },
+  "place": {
+    "id": "dominican-republic",
+    "name": "Dominican Republic",
+    "mainImg": "img/places/dominican-republic.jpg",
+    "summary": [
+      "The Dominican Republic is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean region. It occupies the eastern five-eighths of the island, which it shares with Haiti, making Hispaniola one of only two Caribbean islands, along with Saint Martin, that are shared by two sovereign states. The Dominican Republic is the second-largest nation in the Antilles by area at 48,671 square kilometers, and third by population with approximately 10.5 million people, of whom approximately 3.3 million live in the metropolitan area of Santo Domingo, the capital city. The official language of the country is Spanish.",
+      "The native Taíno people had inhabited Hispaniola before the arrival of the Europeans, dividing it into five chiefdoms. The Taíno people had eventually moved north over many years, and lived around the Caribbean islands. The Taíno natives had done quite well for themselves and were on their way to being an organized civilization. Christopher Columbus explored and claimed the island, landing here on his first voyage in 1492."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Dominican_Republic",
+    "urlGoogle": "https://artsandculture.google.com/entity/dominican-republic/m027rn"
+  },
+  "quote": {
+    "id": "63",
+    "quote": "Always forgive your enemies; nothing annoys them so much.",
+    "author": "Oscar Wilde"
+  },
+  "wiki": {
+    "id": "sms-baden-1915",
+    "name": "SMS Baden (1915)",
+    "summary": "SMS Baden was a Bayern class dreadnought battleship built for the German Imperial Navy during World War I. Launched in October 1915 and completed in March 1917, she was the last battleship completed for use in the war. The ship mounted eight 38-centimeter (15 in) guns in four twin turrets, displaced 32,200 metric tons (31,700 long tons; 35,500 short tons) at full combat load, and had a top speed of 21 knots (39 km/h; 24 mph). Along with her sister, Bayern, Baden was the largest and most powerfully armed German battleship. On being commissioned into the High Seas Fleet, Baden replaced Friedrich der Grosse as the fleet flagship. Baden saw little action during her short career; the only major sortie in April 1918 ended without combat. Following the German collapse in November 1918, Baden was interned with most of the High Seas Fleet in Scapa Flow by the British Royal Navy. On 21 June 1919, Rear Admiral Ludwig von Reuter ordered the scuttling of the fleet. However, British sailors in the harbor managed to board Baden and beach her to prevent her sinking. The ship was re-floated, thoroughly examined, and eventually sunk in extensive gunnery testing by the Royal Navy in 1921.",
+    "url": "https://en.wikipedia.org/wiki/SMS_Baden_(1915)"
+  },
+  "word": {
+    "id": "placid",
+    "word": "placid",
+    "url": "https://www.merriam-webster.com/dictionary/placid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PLASS-id",
+    "audioPath": "audio/words/placid.mp3",
+    "definitions": ["serenely free of interruption or disturbance; also : complacent"],
+    "examples": [
+      "It was fortunate that the horse Meaghan was riding had a _placid_ disposition and didn't try to bolt when the car backfired.",
+      "\"Los Angeles was initially welcoming of them, as it is of anyone with money, but when it became clear that they were using one of the city's biggest franchises … to pay their personal expenses, among other shenanigans, the ire in the normally _placid_ city exploded.\" -- From an article by Vanessa Grigoriadis in _Vanity Fair_, August 2011"
+    ],
+    "origin": "Like \"placid,\" the words \"calm,\" \"tranquil,\" and \"serene\" all mean \"quiet and free from disturbance.\" \"Calm\" conveys a quiet composure that contrasts with surrounding chaos, while \"tranquil\" suggests a very deep quietude and peace. \"Serene\" is loftier still, carrying a sense of utter peace and happiness. Though \"placid\" traces back to Latin \"placēre,\" meaning \"to please,\" it isn't always as positive a term as its synonyms. It can imply a lack of agitation rather than a true peace, and it sometimes suggests excessive self-satisfaction or even stupidity."
+  }
+}

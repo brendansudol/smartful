@@ -1,7 +1,5 @@
 TODO
 
-- add final(ish) data / assets for first 100 days
-
-LATER
-
-- expand / collapse for long text sections?
+- tooltips for start / end date nav?
+- better post email submission ux
+- unsub api route

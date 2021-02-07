@@ -1,0 +1,157 @@
+{
+  "artist": {
+    "id": "damien-hirst",
+    "name": "Damien Hirst",
+    "dates": "Born Jun 7, 1965",
+    "mainImg": "img/art/artists/damien-hirst.jpg",
+    "artworkImgs": [
+      {
+        "name": "DAMIEN HIRST, What Goes Up Must Come Down",
+        "path": "img/art/artworks/damien-hirst-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/damien-hirst-what-goes-up-must-come-down-damien-hirst/EgFWlcpO22vrEQ"
+      },
+      {
+        "name": "Damien Hirst, Hymn",
+        "path": "img/art/artworks/damien-hirst-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/damien-hirst-hymn-damien-hirst/fAGwcZEDuls7cA"
+      },
+      {
+        "name": "Damien Hirst, Black Sheep with Golden Horns",
+        "path": "img/art/artworks/damien-hirst-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/damien-hirst-black-sheep-with-golden-horns-damien-hirst/VgEM3_s6jYJKmA"
+      },
+      {
+        "name": "Damien Hirst, The Virgin Mother",
+        "path": "img/art/artworks/damien-hirst-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/damien-hirst-the-virgin-mother-damien-hirst/TQEhJ0ViJv6ypA"
+      },
+      {
+        "name": "Collective exhibition Intouchable (L'idéal Transparence), Villa Arson, July 1 - September 24 2006 (partial view)",
+        "path": "img/art/artworks/damien-hirst-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/collective-exhibition-intouchable-l-idéal-transparence-villa-arson-july-1-september-24-2006-partial-view-damien-hirst/5wFMlJRzRWedpg"
+      },
+      {
+        "name": "Limited Edition Butterfly Print Hoodie",
+        "path": "img/art/artworks/damien-hirst-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/limited-edition-butterfly-print-hoodie-damien-hirst/9QFHqllCe0c9Jg"
+      }
+    ],
+    "summary": [
+      "Damien Steven Hirst is an English artist, entrepreneur, and art collector. He is one of the Young British Artists, who dominated the art scene in the UK during the 1990s. He is reportedly the United Kingdom's richest living artist, with his wealth valued at £215m in the 2010 Sunday Times Rich List. During the 1990s his career was closely linked with the collector Charles Saatchi, but increasing frictions came to a head in 2003 and the relationship ended.",
+      "Death is a central theme in Hirst's works. He became famous for a series of artworks in which dead animals are preserved—sometimes having been dissected—in formaldehyde. The best-known of these was The Physical Impossibility of Death in the Mind of Someone Living, a 14-foot tiger shark immersed in formaldehyde in a clear display case. He has also made \"spin paintings\", created on a spinning circular surface, and \"spot paintings\", which are rows of randomly coloured circles created by his assistants.",
+      "In September 2008, Hirst made an unprecedented move for a living artist by selling a complete show, Beautiful Inside My Head Forever, at Sotheby's by auction and bypassing his long-standing galleries."
+    ],
+    "quote": "“I always feel like the art's there and I just see it, so it's not really a lot of work.”",
+    "movements": ["Young British Artists", "Contemporary art"],
+    "mediums": ["Glass", "Gold", "Metal", "Plastic", "Photograph", "Polyester"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Damien_Hirst",
+    "urlGoogle": "https://artsandculture.google.com/entity/damien-hirst/m01qwfk"
+  },
+  "event": {
+    "id": "miracles-of-jesus",
+    "name": "Miracles of Jesus",
+    "dates": null,
+    "mainImg": "img/events/miracles-of-jesus.jpg",
+    "summary": [
+      "The miracles of Jesus are the supernatural deeds attributed to Jesus in Christian and Islamic texts. The majority are faith healings, exorcisms, resurrection, control over nature and forgiveness of sins.",
+      "In the Synoptic Gospels, Jesus refuses to give a miraculous sign to prove his authority. In the Gospel of John, Jesus is said to have performed seven miraculous signs that characterize his ministry, from changing water into wine at the start of his ministry to raising Lazarus from the dead at the end.",
+      "For many Christians and Muslims, the miracles are actual historical events. Others, including many liberal Christians, consider these stories to be metaphorical. Since the Enlightenment, scholars have taken a highly skeptical approach to claims about miracles."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Miracles_of_Jesus",
+    "urlGoogle": "https://artsandculture.google.com/entity/miracles-of-jesus/m03p4_f"
+  },
+  "funFacts": [
+    {
+      "id": "379",
+      "fact": "The \"lemon yellow\" crayon was introduced in 1949 and retired in 1990.",
+      "category": ["History"]
+    },
+    {
+      "id": "459",
+      "fact": "A group of a dozen or more cows is called a 'flink.'",
+      "category": ["Animals", "Definitions"]
+    },
+    {
+      "id": "1022",
+      "fact": "Miami installed the first ATM for inline skaters.",
+      "category": ["Geography", "History", "Make-it-Easies", "Firsts"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504706",
+      "fact": "President Jefferson hated formal affairs so much that he would often greet foreign dignitaries while wearing pajamas."
+    },
+    {
+      "id": "554063",
+      "fact": "Louis Braille was 12 years old when he began transforming a method of silent communication used by the French military into a language that allows blind people to read."
+    },
+    {
+      "id": "553805",
+      "fact": "In 1997, a woman from Louisville left actor Charles Bronson all of her money in a handwritten will—a total of about $300,000.  She'd never met him; she was just a fan."
+    }
+  ],
+  "idiom": {
+    "id": "make-bricks-without-straw",
+    "term": "make bricks without straw",
+    "definition": "Perform a task without essential materials or means, as in *Writing a report without the current data is making bricks without straw.* This expression alludes to straw as a material necessary in early brick manufacturing. [Early 1600s]"
+  },
+  "person": {
+    "id": "william-lloyd-garrison",
+    "name": "William Lloyd Garrison",
+    "dates": "Dec 10, 1805 - May 24, 1879",
+    "mainImg": "img/people/william-lloyd-garrison.jpg",
+    "summary": [
+      "William Lloyd Garrison,",
+      "who signed and printed his name Wm. Lloyd Garrison, was a prominent American abolitionist, journalist, suffragist, and social reformer. He is best known for his widely-read anti-slavery newspaper The Liberator, which he founded in 1831 and published in Boston until slavery in the United States was abolished by Constitutional amendment in 1865. He was one of the founders of the American Anti-Slavery Society, and promoted immediate, as opposed to gradual, emancipation of slaves in the United States.",
+      "\"The source of Garrison's power was the Bible. From his earliest days he read the Bible constantly, and prayed constantly. It was with this fire that he started his conflagration. ...So also, a prejudice against all fixed forms of worship, against the authority of human government, against every binding of the spirit into conformity with human law, — all these things grew up in Garrison's mind out of his Bible reading.\"",
+      "Garrison was not an abolitionist who became a publisher, but a printer who became an abolitionist."
+    ],
+    "quote": "“Our country is the world--our countrymen are mankind.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Lloyd_Garrison",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-lloyd-garrison/m0138dz"
+  },
+  "place": {
+    "id": "kharkiv",
+    "name": "Kharkiv",
+    "mainImg": "img/places/kharkiv.jpg",
+    "summary": [
+      "Kharkiv, also known as Kharkov is the second largest city in Ukraine. In the northeast of the country, it is the largest city of the Slobozhanshchyna historical region. Kharkiv is the administrative centre of Kharkiv Oblast and of the surrounding Kharkiv Raion, though administratively it is incorporated as a city of oblast significance and does not belong to the raion.",
+      "The city was founded in 1654 and after a humble beginning as a small fortress grew to be a major centre of Ukrainian industry, trade and culture in the Russian Empire. Kharkiv was the first capital of the Ukrainian Soviet Socialist Republic, from December 1919 to January 1934, after which the capital relocated to Kiev.",
+      "Presently, Kharkiv is a major cultural, scientific, educational, transport and industrial centre of Ukraine, with numerous museums, theatres and libraries, including the Annunciation and Dormition Cathedrals, the Derzhprom building in Freedom Square, and the National University of Kharkiv. Kharkiv was a host city for UEFA Euro 2012.",
+      "Industry plays a large role in Kharkiv's economy. Kharkiv's industry specializes primarily in machinery and in electronics."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kharkiv",
+    "urlGoogle": "https://artsandculture.google.com/entity/kharkiv/m082sy9"
+  },
+  "quote": {
+    "id": "120",
+    "quote": "Don't talk unless you can improve the silence.",
+    "author": "Jorge Luis Borges"
+  },
+  "wiki": {
+    "id": "bill-russell",
+    "name": "Bill Russell",
+    "summary": "Bill Russell (born 1934) is an American retired professional basketball player, widely considered one of the best in National Basketball Association (NBA) history. Playing center for the Boston Celtics, he was the centerpiece of their dynasty and his shot-blocking and man-to-man defense were major reasons for the team's success. A five-time NBA Most Valuable Player and a twelve-time All-Star, he won 11 NBA championships during his 13-year career, and jointly holds the record for the most championships won by an athlete in a North American sports league. He led the NBA in rebounds four times, and remains second all-time in both total rebounds and rebounds per game. Russell was the first African American player to achieve superstar status in the NBA and the first African American NBA coach. For his accomplishments in the Civil Rights Movement on and off the court, he was awarded the Presidential Medal of Freedom in 2011. Russell is a member of three basketball Halls of Fame (Naismith Memorial, National Collegiate, and FIBA) and the NBA Finals Most Valuable Player Award is named in his honor. He also won a 1956 Olympics gold medal as captain of the U.S. national basketball team.",
+    "url": "https://en.wikipedia.org/wiki/Bill_Russell"
+  },
+  "word": {
+    "id": "deracinate",
+    "word": "deracinate",
+    "url": "https://www.merriam-webster.com/dictionary/deracinate",
+    "partOfSpeech": "verb",
+    "pronunciation": "dee-RASS-uh-nayt",
+    "audioPath": "audio/words/deracinate.mp3",
+    "definitions": [
+      "uproot",
+      "to remove or separate from a native environment or culture; especially : to remove the racial or ethnic characteristics or influences from"
+    ],
+    "examples": [
+      "The old-fashioned gardening book recommended _deracinating_ every other plant in the row to allow the survivors room to grow.",
+      "\"My dilemma was that, on one hand, I am one of those who, by accident of birth, finds herself the daughter of an earl and has insider knowledge of the framework the bill is trying to overhaul. On the other hand, I don't use my title and am _deracinated_ from that life.\" - From an article by Liza Campbell in _The Guardian_, January 14, 2014"
+    ],
+    "origin": "There is a hint about the roots of \"deracinate\" in its first definition. \"Deracinate\" was borrowed into English in the late 16th century from Middle French and can be traced back to the Latin word \"radix,\" meaning \"root.\" Although \"deracinate\" began life referring to literal plant roots, it quickly took on a second metaphorical meaning suggesting removal of anyone or anything from native \"roots\" or culture. Other offspring of \"radix\" include \"eradicate\" (\"to pull up by the roots\" or \"to do away with as completely as if by pulling up by the roots\") and \"radish\" (a crisp edible root). Though the second sense of \"deracinate\" mentions racial characteristics and influence, the words \"racial\" and \"race\" derive from \"razza,\" an Italian word of uncertain origin."
+  }
+}

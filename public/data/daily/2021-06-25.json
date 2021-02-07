@@ -1,0 +1,127 @@
+{
+  "artist": {
+    "id": "ivan-aivazovsky",
+    "name": "Ivan Aivazovsky",
+    "dates": "Jul 29, 1817 - May 2, 1900",
+    "mainImg": "img/art/artists/ivan-aivazovsky.jpg",
+    "artworkImgs": [
+      {
+        "name": "A Ship in a Stormy Sea",
+        "path": "img/art/artworks/ivan-aivazovsky-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-ship-in-a-stormy-sea-ivan-konstantinovich-aivazovsky/zAEu59fky6DoVQ"
+      },
+      {
+        "name": "The Ninth Wave",
+        "path": "img/art/artworks/ivan-aivazovsky-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-ninth-wave/jgHuL-7yxgrOSw"
+      },
+      {
+        "name": "Seacape with Full Moon",
+        "path": "img/art/artworks/ivan-aivazovsky-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/seacape-with-full-moon-ivan-konstantinovich-aivazovsky/ggEbpgiVEyL9-w"
+      },
+      {
+        "name": "Galleon in the Fog",
+        "path": "img/art/artworks/ivan-aivazovsky-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/galleon-in-the-fog-ivan-konstantinovich-aivazovsky/2AEmQM1hHST5IA"
+      },
+      {
+        "name": "The Black Sea. (A storm begins to whip up in the Black Sea)",
+        "path": "img/art/artworks/ivan-aivazovsky-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-black-sea-a-storm-begins-to-whip-up-in-the-black-sea-ivan-oganes-ayvazovskiy-gayvazovskiy/BwG4NN3FH_vpnA"
+      },
+      {
+        "name": "Storm",
+        "path": "img/art/artworks/ivan-aivazovsky-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/storm-ivan-konstantinovich-aivazovsky/rwGyd8pJNW4yQw"
+      }
+    ],
+    "summary": [
+      "Ivan Konstantinovich Aivazovsky was a Russian Romantic painter who is considered one of the greatest masters of marine art. Baptized as Hovhannes Aivazian, he was born into an Armenian family in the Black Sea port of Feodosia in Crimea and was mostly based there.",
+      "Following his education at the Imperial Academy of Arts in Saint Petersburg, Aivazovsky traveled to Europe and lived briefly in Italy in the early 1840s. He then returned to Russia and was appointed the main painter of the Russian Navy. Aivazovsky had close ties with the military and political elite of the Russian Empire and often attended military maneuvers. He was sponsored by the state and was well-regarded during his lifetime. The saying \"worthy of Aivazovsky's brush\", popularized by Anton Chekhov, was used in Russia for describing something lovely. He remains highly popular in Russia in the 21st century.",
+      "One of the most prominent Russian artists of his time, Aivazovsky was also popular outside Russia. He held numerous solo exhibitions in Europe and the United States. During his almost 60-year career, he created around 6,000 paintings, making him one of the most prolific artists of his time."
+    ],
+    "quote": "“The movement of natural elements cannot be captured by the brush: to paint lightning, a gust of wind, or the splash of a wave from nature is inconceivable.”",
+    "movements": ["Romanticism"],
+    "mediums": ["Oil paint", "Glass", "Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ivan_Aivazovsky",
+    "urlGoogle": "https://artsandculture.google.com/entity/ivan-aivazovsky/m039dtp"
+  },
+  "event": {
+    "id": "franklin-d-roosevelt-1933-presidential-inauguration",
+    "name": "Franklin D. Roosevelt 1933 presidential inauguration",
+    "dates": null,
+    "mainImg": "img/events/franklin-d-roosevelt-1933-presidential-inauguration.jpg",
+    "summary": [
+      "The first inauguration of Franklin D. Roosevelt as the 32nd President of the United States was held on Saturday, March 4, 1933 at the East Portico of the United States Capitol in Washington, D.C. This was the 37th inauguration marked the commencement of the first term of Franklin D. Roosevelt as President and John Nance Garner as Vice President. It was the last inauguration to be held on the constitutionally prescribed date of March 4; the 20th Amendment, ratified earlier that year, moved Inauguration Day to January 20. As a result, Roosevelt's first term in office was shorter than a normal term by 43 days. This was also the last time the vice president took the oath of office on the Senate chamber.",
+      "The inauguration took place in the wake of Democrat Roosevelt's landslide victory over Republican incumbent Herbert Hoover in the 1932 presidential election. With the nation at its peak of the Great Depression, Roosevelt's inaugural speech was awaited with great anticipation. Broadcast nationwide on several radio networks, the speech was heard by tens of millions of Americans, and set the stage for Roosevelt's urgent efforts to respond to the crisis."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/First_inauguration_of_Franklin_D._Roosevelt",
+    "urlGoogle": "https://artsandculture.google.com/entity/franklin-d-roosevelt-1933-presidential-inauguration/m05brv74"
+  },
+  "funFacts": [
+    {
+      "id": "115",
+      "fact": "Bamboo makes up 99 percent of a panda's diet.",
+      "category": ["Animals", "Plants"]
+    },
+    { "id": "839", "fact": "A cucumber consists of 96% water.", "category": ["Food"] },
+    {
+      "id": "329",
+      "fact": "The world's first escalator was built in Coney Island, NY, in 1896.",
+      "category": ["Geography", "Firsts"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "make-no-bones-about",
+    "term": "make no bones about",
+    "definition": "Act or speak frankly about something, without hesitation or evasion. For example, *Tom made no bones about wanting to be promoted,* or *Make no bones about it---she's very talented.* Versions of this expression date back to the mid-1400s and the precise allusion is no longer known. Some believe it meant a boneless stew or soup that one could eat without hesitation; others relate it to dice, originally made from bones, that were thrown without hesitation or fuss."
+  },
+  "person": {
+    "id": "charles-sumner",
+    "name": "Charles Sumner",
+    "dates": "Jan 6, 1811 - Mar 11, 1874",
+    "mainImg": "img/people/charles-sumner.jpg",
+    "summary": [
+      "Charles Sumner was an American politician and United States Senator from Massachusetts. As an academic lawyer and a powerful orator, Sumner was the leader of the anti-slavery forces in the state and a leader of the Radical Republicans in the U.S. Senate during the American Civil War. During Reconstruction, he fought to minimize the power of the ex-Confederates and guarantee equal rights to the freedmen. He fell into a dispute with fellow Republican President Grant over the control of Santo Domingo leading to the stripping of his power in the Senate and his subsequent effort to defeat Grant's re-election.",
+      "Sumner changed his political party several times as anti-slavery coalitions rose and fell in the 1830s and 1840s before coalescing in the 1850s as the Republican Party, the affiliation with which he became best known. He devoted his enormous energies to the destruction of what Republicans called the Slave Power, the influence over the federal government of Southern slave owners who sought the continuation and expansion of slavery."
+    ],
+    "quote": "“I have never known a man who was sensual in his youth, who was high-minded when old.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Charles_Sumner",
+    "urlGoogle": "https://artsandculture.google.com/entity/charles-sumner/m01p27h"
+  },
+  "place": {
+    "id": "houston",
+    "name": "Houston",
+    "mainImg": "img/places/houston.jpg",
+    "summary": [
+      "Houston is the most populous city in the U.S. state of Texas, fourth most populous city in the United States, most populous city in the Southern United States, as well as the sixth most populous in North America, with an estimated 2019 population of 2,320,268. Located in Southeast Texas near Galveston Bay and the Gulf of Mexico, it is the seat of Harris County and the principal city of the Greater Houston metropolitan area, which is the fifth most populous metropolitan statistical area in the United States and the second most populous in Texas after the Dallas-Fort Worth metroplex, with a population of 6,997,384 in 2018.",
+      "Comprising a total area of 637.4 square miles, Houston is the eighth most expansive city in the United States. It is the largest city in the United States by total area, whose government is not consolidated with that of a county, parish or borough. Though primarily in Harris County, small portions of the city extend into Fort Bend and Montgomery counties, bordering other principal communities of Greater Houston such as Sugar Land and The Woodlands."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Houston",
+    "urlGoogle": "https://artsandculture.google.com/entity/houston/m03l2n"
+  },
+  "wiki": {
+    "id": "buddhist-art",
+    "name": "Buddhist art",
+    "summary": "Buddhist art, defined as the figurative arts and decorative arts linked to the Buddhist religion, originated in the Indian subcontinent in the centuries following the life of the historical Gautama Buddha in the 6th to 5th century BCE, before evolving through its contact with other cultures and its diffusion through the rest of Asia and the world. A first, essentially Indian, aniconic phase (avoiding direct representations of the Buddha), was followed from around the 1st century CE by an iconic phase (with direct representations of the Buddha). From that time, Buddhist art diversified and evolved as it adapted to the new countries where the faith was expanding. It developed to the north through Central Asia and into Eastern Asia to form the Northern branch of Buddhist art, and to the east as far as South-East Asia to form the Southern Branch of Buddhist art. In India, the land of its birth, Buddhist art flourished and even influenced the development of Hindu art, until Buddhism almost disappeared around the 10th century with the expansion of Hinduism and Islam.",
+    "url": "https://en.wikipedia.org/wiki/Buddhist_art"
+  },
+  "word": {
+    "id": "satiate",
+    "word": "satiate",
+    "url": "https://www.merriam-webster.com/dictionary/satiate",
+    "partOfSpeech": "verb",
+    "pronunciation": "SAY-shee-ayt",
+    "audioPath": "audio/words/satiate.mp3",
+    "definitions": ["to satisfy (as a need or desire) fully or to excess"],
+    "examples": [
+      "After eating three pieces of pie and one of cake at the potluck, Jamie's sweet tooth was finally _satiated_.",
+      "\"Consequently, I have to _satiate_ my craving for Louisiana citrus at Hollygrove Market and Farm or the Crescent City Farmers Market in Mid-City where locally grown fruits and vegetables abound. If you haven't treated yourself to a market visit lately, do.\" - From an article by Melinda Shelton in the _Times-Picayune_ (New Orleans), October 31, 2012"
+    ],
+    "origin": "\"Satiate,\" \"sate,\" \"surfeit,\" \"cloy,\" \"pall,\" \"glut,\" and \"gorge\" all mean to fill to repletion. \"Satiate\" and \"sate\" sometimes imply only complete satisfaction but more often suggest repletion that has destroyed interest or desire, as in \"Years of globe-trotting had satiated their interest in travel\" and \"Readers were sated with sensationalistic stories.\" \"Surfeit\" implies a nauseating repletion, as in \"They surfeited themselves with junk food,\" while \"cloy\" stresses the disgust or boredom resulting from such surfeiting, as in \"The sentimental pictures cloyed after a while.\" \"Pall\" emphasizes the loss of ability to stimulate interest or appetite: \"A life of leisure eventually began to pall.\" \"Glut\" implies excess in feeding or supplying, as in \"a market glutted with diet books.\" \"Gorge\" suggests glutting to the point of bursting or choking, as in \"They gorged themselves with chocolate.\""
+  }
+}

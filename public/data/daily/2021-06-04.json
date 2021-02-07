@@ -1,0 +1,124 @@
+{
+  "artist": {
+    "id": "shibata-zeshin",
+    "name": "Shibata Zeshin",
+    "dates": "Mar 15, 1807 - Jul 13, 1891",
+    "mainImg": "img/art/artists/shibata-zeshin.jpg",
+    "artworkImgs": [
+      {
+        "name": "Waterfall and Monkeys",
+        "path": "img/art/artworks/shibata-zeshin-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/waterfall-and-monkeys-shibata-zeshin/XAHJ5LseJx0OeA"
+      },
+      {
+        "name": "Album leaf",
+        "path": "img/art/artworks/shibata-zeshin-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/album-leaf-shibata-zeshin/ngE3fpQetilXgQ"
+      },
+      {
+        "name": "The Seven Gods, en route to Western Paradise",
+        "path": "img/art/artworks/shibata-zeshin-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-seven-gods-en-route-to-western-paradise-artist-shibata-zeshin/nAGBRew_0KSLJw"
+      },
+      {
+        "name": "Crows at twilight",
+        "path": "img/art/artworks/shibata-zeshin-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/crows-at-twilight-artist-shibata-zeshin/BQH6AyI8PZqvDg"
+      },
+      {
+        "name": "Six Rats",
+        "path": "img/art/artworks/shibata-zeshin-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/six-rats-shibata-zeshin/oQHB-5RK4lJ7iw"
+      },
+      {
+        "name": "Album leaf",
+        "path": "img/art/artworks/shibata-zeshin-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/album-leaf-shibata-zeshin/9gG3Xpeymbf5Zg"
+      }
+    ],
+    "summary": [
+      "Shibata Zeshin was a Japanese lacquer, painter and print artist of the late Edo period and early Meiji era. He has been called \"Japan's greatest lacquerer\", but his reputation as painter and print artist is more complex: In Japan, he is known as both too modern, a panderer to the Westernization movement, and also an overly conservative traditionalist who did nothing to stand out from his contemporaries. Despite holding this complicated reputation in Japan, Zeshin has come to be well regarded and much studied among the art world of the West, in Britain and the United States in particular."
+    ],
+    "quote": null,
+    "movements": ["Ukiyo-e", "Shin-hanga"],
+    "mediums": ["Ink", "Lacquer", "Metal", "Silk", "Textile", "Gold"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Shibata_Zeshin",
+    "urlGoogle": "https://artsandculture.google.com/entity/shibata-zeshin/m0bs_sp"
+  },
+  "event": {
+    "id": "international-geophysical-year",
+    "name": "International Geophysical Year",
+    "dates": "Jul 1, 1957 - Dec 31, 1958",
+    "mainImg": "img/events/international-geophysical-year.jpg",
+    "summary": [
+      "The International Geophysical Year was an international scientific project that lasted from 1 July 1957 to 31 December 1958. It marked the end of a long period during the Cold War when scientific interchange between East and West had been seriously interrupted. Sixty-seven countries participated in IGY projects, although one notable exception was the mainland People's Republic of China, which was protesting against the participation of the Republic of China. East and West agreed to nominate the Belgian Marcel Nicolet as secretary general of the associated international organization.",
+      "The IGY encompassed eleven Earth sciences: aurora and airglow, cosmic rays, geomagnetism, gravity, ionospheric physics, longitude and latitude determinations, meteorology, oceanography, seismology, and solar activity. The timing of the IGY was particularly suited for studying some of these phenomena, since it covered the peak of solar cycle 19.",
+      "Both the Soviet Union and the U.S. launched artificial satellites for this event; the Soviet Union's Sputnik 1, launched on October 4, 1957, was the first successful artificial satellite."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/International_Geophysical_Year",
+    "urlGoogle": "https://artsandculture.google.com/entity/international-geophysical-year/m0kfgv"
+  },
+  "funFacts": [
+    {
+      "id": "395",
+      "fact": "It is impossible to sneeze with your eyes open.",
+      "category": ["Anatomy"]
+    },
+    { "id": "756", "fact": "Penguins can jump 6 feet.", "category": ["Animals"] },
+    {
+      "id": "49",
+      "fact": "Despite its hump, a camel has a straight spine.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "without-a-stitch-on",
+    "term": "without a stitch on",
+    "definition": "Naked, as in *They let their baby run around outside without a stitch on.* A related phrase is **not have a stitch on.** These expressions use *stitch* in the sense of \"a piece of clothing,\" a usage dating from the early 1800s."
+  },
+  "person": {
+    "id": "ahilyabai-holkar",
+    "name": "Ahilyabai Holkar",
+    "dates": "May 31, 1725 - Aug 13, 1795",
+    "mainImg": "img/people/ahilyabai-holkar.jpg",
+    "summary": [
+      "Maharani Ahilyabai Holkar was the Holkar Queen of the Maratha Malwa kingdom, India. Rajmata Ahilyabai was born in the village of Chondi in Jamkhed, Ahmednagar, Maharashtra. She moved the capital to Maheshwar south of Indore on the Narmada River.",
+      "Ahilyabai's husband Khanderao Holkar was killed in the battle of Kumbher in 1754. Twelve years later, her father-in-law, Malhar Rao Holkar, died. A year after that she was crowned as the queen of the Malwa kingdom. She tried to protect her kingdom from plundering invaders. She personally led armies into battle. She appointed Tukoji Rao Holkar as the Chief of Army.",
+      "Rani Ahilyabai was a great pioneer and builder of Hindu temples. She built hundreds of temples and Dharmashalas throughout India."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ahilyabai_Holkar",
+    "urlGoogle": "https://artsandculture.google.com/entity/ahilyabai-holkar/m070bhh"
+  },
+  "place": {
+    "id": "donostia-san-sebastian",
+    "name": "Donostia-San Sebastian",
+    "mainImg": "img/places/donostia-san-sebastian.jpg",
+    "summary": [
+      "San Sebastián or Donostia is a coastal city and municipality located in the Basque Autonomous Community, Spain. It lies on the coast of the Bay of Biscay, 20 km from the French border. The capital city of Gipuzkoa, the municipality's population is 186,095 as of 2015, with its metropolitan area reaching 436,500 in 2010. Locals call themselves donostiarra, both in Spanish and Basque.",
+      "The main economic activities are commerce and tourism, and it is one of the most famous tourist destinations in Spain. Despite the city's small size, events such as the San Sebastián International Film Festival have given it an international dimension. San Sebastián, along with Wrocław, Poland, was the European Capital of Culture in 2016."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n",
+    "urlGoogle": "https://artsandculture.google.com/entity/donostia-san-sebastian/m02l6l8"
+  },
+  "wiki": {
+    "id": "abu-musab-al-zarqawi",
+    "name": "Abu Musab al-Zarqawi",
+    "summary": "Abu Musab al-Zarqawi was the leader of Al-Qaeda in Iraq. Zarqawi took responsibility, on several audiotapes, for numerous acts of terrorism in Iraq and Jordan. These acts include suicide bombings, and the killing of soldiers, police officers, and civilians. As an Islamist identified with the Salafi movement, Zarqawi opposed the presence of United States and Western military forces in the Islamic world and opposed the West's support for and the existence of Israel. In September 2005, he reportedly declared \"all-out war\" on Shia Muslims in Iraq and is believed responsible for dispatching numerous Al-Qaeda suicide bombers throughout Iraq, especially to areas with large concentrations of Shia civilians. As the leader of Al-Qaeda in Iraq he is suspected of responsibility for thousands of deaths. Zarqawi was killed in a US airstrike in June 2006.",
+    "url": "https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi"
+  },
+  "word": {
+    "id": "inexorable",
+    "word": "inexorable",
+    "url": "https://www.merriam-webster.com/dictionary/inexorable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "i-NEK-suh-ruh-bul",
+    "audioPath": "audio/words/inexorable.mp3",
+    "definitions": ["not to be persuaded, moved, or stopped : relentless"],
+    "examples": ["These ancient ruins have slowly succumbed to the inexorable ravages of time."],
+    "origin": "The Latin antecedent of \"inexorable\" is \"inexorabilis,\" which is itself a combination of the prefix \"in-,\" meaning \"not,\" plus \"exorabilis,\" meaning \"pliant\" or \"capable of being moved by entreaty.\" \"Exorabilis\" in turn derives ultimately from the Latin verb \"orare,\" meaning \"to speak or plead.\" It's a fitting etymology for \"inexorable.\" You can beseech and implore until you're blue in the face, but that won't have any effect on something that's inexorable. \"Inexorable\" has been a part of the English language since the 1500s. Originally, it was often applied to persons, or sometimes to personified things (\"deaf and inexorable laws\"). These days, it is usually applied to things, as in \"inexorable monotony\" or \"an inexorable trend.\" In such cases, it essentially means \"unyielding\" or \"inflexible.\""
+  }
+}

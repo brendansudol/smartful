@@ -1,0 +1,143 @@
+{
+  "artist": {
+    "id": "frans-floris",
+    "name": "Frans Floris",
+    "dates": "1517 - Oct 1, 1570",
+    "mainImg": "img/art/artists/frans-floris.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Fall of Man",
+        "path": "img/art/artworks/frans-floris-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-fall-of-man/LgEn6FIuAe0Blg"
+      },
+      {
+        "name": "Pomona",
+        "path": "img/art/artworks/frans-floris-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/pomona-frans-floris-de-vriendt/RwH3u1O_DLR_FA"
+      },
+      {
+        "name": "Cyparissus from set The Rural Gods",
+        "path": "img/art/artworks/frans-floris-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/cyparissus-from-set-the-rural-gods-cornelis-cort-frans-floris-i/DQGs40B8RkvnFg"
+      },
+      {
+        "name": "Triptolemus from The Rural Gods",
+        "path": "img/art/artworks/frans-floris-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/triptolemus-from-the-rural-gods-cornelis-cort-frans-floris-i/RQFmlqmErZM1Eg"
+      },
+      {
+        "name": "Odoratus",
+        "path": "img/art/artworks/frans-floris-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/odoratus-cornelis-cort-after-frans-floris-i/MgHTpG-SA2adDw"
+      },
+      {
+        "name": "Venus and Cupid",
+        "path": "img/art/artworks/frans-floris-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-and-cupid-frans-floris-de-vriendt/rQHXhB1vC2KxLw"
+      }
+    ],
+    "summary": [
+      "Frans Floris, Frans Floris the Elder or Frans Floris de Vriendt was a Flemish painter, draughtsman, print artist and tapestry designer. He is mainly known for his history paintings, allegorical scenes and portraits. He played an important role in the movement in Northern Renaissance painting referred to as Romanism. The Romanists had typically travelled to Italy to study the works of leading Italian High Renaissance artists such as Michelangelo, Raphael and their followers. Their art assimilated these Italian influences into the Northern painting tradition."
+    ],
+    "quote": null,
+    "movements": ["Renaissance", "Northern Renaissance", "Dutch and Flemish Renaissance painting"],
+    "mediums": ["Engraving", "Etching", "Oil paint", "Ink", "Pen", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Frans_Floris",
+    "urlGoogle": "https://artsandculture.google.com/entity/frans-floris/m03hg_g"
+  },
+  "event": {
+    "id": "battle-of-turnhout",
+    "name": "Battle of Turnhout",
+    "dates": null,
+    "mainImg": "img/events/battle-of-turnhout.jpg",
+    "summary": [
+      "The Battle of Turnhout also known as the Battle of Tielenheide was a military engagement which took place on 24 January 1597 in the border area between the Northern and Southern Netherlands at Turnhout during the Eighty Years' War and the Anglo-Spanish War.",
+      "After a small skirmish both armies confronted each other on an area of heathland. The Spanish cavalry was driven off, after which the English and Dutch cavalry fell upon the straggling Spanish infantry who were routed with heavy casualties."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Turnhout_%281597%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-turnhout/m014sym"
+  },
+  "funFacts": [
+    {
+      "id": "215",
+      "fact": "Tennessee banned the use of a lasso to catch fish.",
+      "category": ["Geography", "Laws"]
+    },
+    {
+      "id": "755",
+      "fact": "There are more chickens than people in the world.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "745",
+      "fact": "Armadillos have four babies at a time and they are always all the same sex.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553851",
+      "fact": "Andrew Jackson's parrot was kicked out of his funeral for swearing."
+    },
+    { "id": "506449", "fact": "Sorry, Scotland: Persians invented bagpipes." },
+    {
+      "id": "554074",
+      "fact": "The NASA Vehicle Assembly Building in Florida is so huge it has its own weather."
+    }
+  ],
+  "idiom": {
+    "id": "gild-the-lily",
+    "term": "gild the lily",
+    "definition": "Add unnecessary adornment or supposed improvement. For example, *Offering three different desserts after that elaborate meal would be gilding the lily.* This expression is a condensation of Shakespeare's metaphor in *King John* (4:2): \"To gild refined gold, to paint the lily... is wasteful and ridiculous excess.\" [c. 1800]"
+  },
+  "person": {
+    "id": "stanislaw-maczek",
+    "name": "Stanisław Maczek",
+    "dates": "Mar 31, 1892 - Dec 11, 1994",
+    "mainImg": "img/people/stanislaw-maczek.jpg",
+    "summary": [
+      "General Stanisław Maczek was a Polish tank commander of World War II, whose division was instrumental in the Allied liberation of France, closing the Falaise pocket, resulting in the destruction of 14 German Wehrmacht and SS divisions. A veteran of World War I, the Polish-Ukrainian and Polish–Soviet Wars, Maczek was the commander of Poland's only major armoured formation during the September 1939 campaign, and later commanded a Polish armoured formation in France in 1940. He was the commander of the famous 1st Polish Armoured Division, and later of the I Polish Army Corps under Allied Command in 1942–45."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Maczek",
+    "urlGoogle": "https://artsandculture.google.com/entity/stanisław-maczek/m01xn4z"
+  },
+  "place": {
+    "id": "thiruvananthapuram",
+    "name": "Thiruvananthapuram",
+    "mainImg": "img/places/thiruvananthapuram.jpg",
+    "summary": [
+      "Thiruvananthapuram, also known by its former name Trivandrum, is the capital of the Indian state of Kerala. It is the most populous city in Kerala with a population of 957,730 as of 2011. The encompassing urban agglomeration population is around 1.68 million. Located on the west coast of India near the extreme south of the mainland, Thiruvananthapuram is a major Information Technology hub in Kerala and contributes 55% of the state's software exports as of 2016. Referred to by Mahatma Gandhi as the \"Evergreen city of India\", the city is characterised by its undulating terrain of low coastal hills.",
+      "The Ays ruled the present region of Thiruvananthapuram until the 10th century. With their fall in the 10th century, the city was taken over by the Chera dynasty. The city was later taken over by the Kingdom of Venad in the 12th century. In the 17th century the king Marthanda Varma expanded the territory and founded the princely state of Travancore and Thiruvananthapuram was made capital of Travancore. Following India's independence in 1947, Thiruvananthapuram became the capital of Travancore-Cochin state and remained capital when the new Indian state of Kerala was formed in 1956."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Thiruvananthapuram",
+    "urlGoogle": "https://artsandculture.google.com/entity/thiruvananthapuram/m0fk98"
+  },
+  "quote": {
+    "id": "57",
+    "quote": "Things work out best for those who make the best of how things work out.",
+    "author": "John Wooden"
+  },
+  "wiki": {
+    "id": "2007-uefa-champions-league-final",
+    "name": "2007 UEFA Champions League Final",
+    "summary": "The 2007 UEFA Champions League Final was a football match played at the Olympic Stadium in Athens, Greece, on 23 May 2007, to decide the winner of the 2006–07 UEFA Champions League. English club Liverpool faced Italy's A.C. Milan in a repeat match-up of the 2005 final. A.C. Milan won the match 2–1, after two goals from man of the match Filippo Inzaghi. Before 2007, A.C. Milan's last triumph had been in the 2003 final, while Liverpool's was against Milan in the 2005 final. Liverpool and A.C. Milan started their UEFA Champions League campaigns in the Third Qualifying round, both sides progressed to the group stages, and won their respective groups. Before the match there were ticketing problems. This was due to a large number of fans gaining entry to the stadium, without tickets. After the match, a UEFA spokesman accused Liverpool of having the worst fans in Europe, a claim later denied by the UEFA president, Michel Platini.",
+    "url": "https://en.wikipedia.org/wiki/2007_UEFA_Champions_League_Final"
+  },
+  "word": {
+    "id": "mantic",
+    "word": "mantic",
+    "url": "https://www.merriam-webster.com/dictionary/mantic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MAN-tik",
+    "audioPath": "audio/words/mantic.mp3",
+    "definitions": ["of or relating to the faculty of divination : prophetic"],
+    "examples": [
+      "Ever since we visited that fortune teller at the carnival, Mary has shown a strong interest in astrology and the other _mantic_ arts.",
+      "\"Like everyone else, I was in awe of her _mantic_ abilities, and I think she looked upon my storytelling endeavors with indulgence, having known both my father and my grandfather in their prime.\" -- From Joydeep Roy-Bhattacharya's 2011 novel _The Storyteller of Marrakesh_"
+    ],
+    "origin": "The adjective \"mantic\" comes from the Greek word \"mantikos,\" which itself derives from \"mantis,\" meaning \"prophet.\" The mantis insect got its name from this same source, supposedly because its posture -- with the forelimbs extended as though in prayer --reminded folks of a prophet. Not surprisingly, the combining form \"-mancy,\" which means \"divination in a (specified) manner\" (as in \"necromancy\" and \"pyromancy\"), is a relative of \"mantic.\" A less expected, and more distant, relative is \"mania,\" meaning \"insanity marked by uncontrollable emotion or excitement\" or \"excessive enthusiasm.\" \"Mania\" descends from Greek \"mainesthai\" (\"to be mad\"), a word akin to \"mantis\" and its offspring. And indeed, prophesying in ancient Greece was sometimes believed to be \"inspired madness.\""
+  }
+}

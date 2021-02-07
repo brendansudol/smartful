@@ -1,0 +1,143 @@
+{
+  "artist": {
+    "id": "max-slevogt",
+    "name": "Max Slevogt",
+    "dates": "Oct 8, 1868 - Sep 20, 1932",
+    "mainImg": "img/art/artists/max-slevogt.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Nile near Aswan",
+        "path": "img/art/artworks/max-slevogt-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nile-near-aswan/sQEmq2TNYuJOsA"
+      },
+      {
+        "name": "Pirates",
+        "path": "img/art/artworks/max-slevogt-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/pirates/fgE2MWMjMnTvRQ"
+      },
+      {
+        "name": "Selbstbildnis vor der Staffelei (Self-portrait in front of the easel)",
+        "path": "img/art/artworks/max-slevogt-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/selbstbildnis-vor-der-staffelei-self-portrait-in-front-of-the-easel/3QFEMCmwmxmf1A"
+      },
+      {
+        "name": "Landscape with Village and Mountains",
+        "path": "img/art/artworks/max-slevogt-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-with-village-and-mountains-max-slevogt/WwF10X3HSsYQjA"
+      },
+      {
+        "name": "Lemon still life",
+        "path": "img/art/artworks/max-slevogt-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lemon-still-life-max-slevogt/xwGeTNNTHBd2uw"
+      },
+      {
+        "name": "The Singer Francisco d'Andrade as Don Giovanni in Mozart's Opera (The Red d'Andrade)",
+        "path": "img/art/artworks/max-slevogt-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-singer-francisco-d-andrade-as-don-giovanni-in-mozart-s-opera-the-red-d-andrade-max-slevogt/fwG9gQnejjlvpQ"
+      }
+    ],
+    "summary": [
+      "Max Slevogt was a German Impressionist painter and illustrator, best known for his landscapes. He was, together with Lovis Corinth and Max Liebermann, one of the foremost representatives in Germany of the plein air style."
+    ],
+    "quote": null,
+    "movements": ["Impressionism"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Max_Slevogt",
+    "urlGoogle": "https://artsandculture.google.com/entity/max-slevogt/m0b4vz2"
+  },
+  "event": {
+    "id": "battle-of-a-sau",
+    "name": "Battle of A Sau",
+    "dates": "Mar 9, 1966 - Mar 10, 1966",
+    "mainImg": "img/events/battle-of-a-sau.jpg",
+    "summary": [
+      "The Battle of A Shau was waged in early 1966 during the Vietnam War between the People's Army of Vietnam and the forces of the United States and South Vietnam. The battle began on March 9 and lasted until March 10 with the fall of the U.S. Army's Special Forces camp of the same name. The battle was a strategic victory for the PAVN in that they were able to take control of the A Shau Valley and use it as a base area for the rest of the war."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_A_Sau",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-a-sau/m0gg5y6"
+  },
+  "funFacts": [
+    { "id": "725", "fact": "Only female mosquitoes bite.", "category": ["Animals", "Onlies"] },
+    {
+      "id": "350",
+      "fact": "The watersheds that supply water to New York City are roughly the size of Delaware.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "933",
+      "fact": "A crocodile can't stick out its tongue.",
+      "category": ["Animals", "Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "506181",
+      "fact": "Army ants that misinterpret the scent trails left by other ants will sometimes break from the crowd and march in circles. If enough ants join, they can form massive \"death spirals.\""
+    },
+    {
+      "id": "553843",
+      "fact": "Ira Aldridge was one of the most famous actors of the 19th century. After leaving his home in New York to pursue an acting career in Europe, he performed for royalty, won numerous awards, and used his platform to speak out against slavery."
+    },
+    {
+      "id": "504703",
+      "fact": "Ironically, the only member of ZZ Top without a beard has the last name Beard."
+    }
+  ],
+  "idiom": {
+    "id": "open-and-aboveboard",
+    "term": "open and aboveboard",
+    "definition": "Also, **honest and aboveboard.** Candid and fair, without deceit or trickery, as in *I'll join you, but only if everything remains open and aboveboard.* Both versions of this expression are redundancies, since they use *open* and *aboveboard* in the sense of \"honest.\" The latter word, dating from the early 1600s, comes from gambling and alludes to the fact that card players who do not keep their hands on the table (board) may be suspected of changing their cards under the table."
+  },
+  "person": {
+    "id": "tokugawa-ieyasu",
+    "name": "Tokugawa Ieyasu",
+    "dates": "Jan 31, 1543 - Jun 1, 1616",
+    "mainImg": "img/people/tokugawa-ieyasu.jpg",
+    "summary": [
+      "Tokugawa Ieyasu was the founder and first shōgun of the Tokugawa shogunate of Japan, which effectively ruled Japan from the Battle of Sekigahara in 1600 until the Meiji Restoration in 1868.",
+      "Son of a minor daimyo, Tokugawa once lived as a hostage, on behalf of his father, under another Daimyo. He later succeeded as daimyo after his father's death, serving as vassal and general under Oda Nobunaga, building up his strength. After Oda's death, Tokugawa was briefly a rival of fellow Oda subordinate Toyotomi Hideyoshi, before declaring allegiance to Toyotomi and fighting on his behalf. Under Toyotomi, Tokugawa was relocated to the Kanto plains in eastern Japan, away from the Toyotomi power base in Osaka. He built his castle in the fishing village of Edo. He was to become the most powerful daimyo and the most senior officer under the Toyotomi regime.",
+      "Toyotomi preserved his strength in Toyotomi's failed attempt to conquer Korea. After Toyotomi's death, Ieyasu seized power in 1600, after the Battle of Sekigahara. He received appointment as shōgun in 1603, and abdicated from office in 1605, but remained in power until his death in 1616."
+    ],
+    "quote": "“Find fault with thyself rather than with others.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu",
+    "urlGoogle": "https://artsandculture.google.com/entity/tokugawa-ieyasu/m07nx8"
+  },
+  "place": {
+    "id": "plock",
+    "name": "Płock",
+    "mainImg": "img/places/plock.jpg",
+    "summary": [
+      "Płock is a city on the Vistula river in central Poland. It is located in the Masovian Voivodeship, having previously been the capital of the Płock Voivodeship. According to the data provided by GUS on 31 December 2018 there were 120,000 inhabitants in the city. Its full ceremonial name, according to the preamble to the City Statute, is Stołeczne Książęce Miasto Płock. It is used in ceremonial documents as well as for preserving an old tradition.",
+      "Płock is now a capital of the powiat in the west of the Mazovian Voivodeship. From 1079 to 1138 it was the capital of Poland. Its cathedral contains the sarcophagi of a number of Polish monarchs. Later on, it was a royal city of Poland. It is the cultural, academic, scientific, administrative and transportation center of the west and north Masovian region.",
+      "The first Jewish settlers came to the city in the 14th century, responding to the extension of rights by the Polish kings. They built a community and constituted a large portion of the population through the 19th century, sometimes more than 40%. Jews contributed to expansion of trades and crafts, and helped the process of industrialization."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/P%C5%82ock",
+    "urlGoogle": "https://artsandculture.google.com/entity/płock/m0jx4m"
+  },
+  "quote": {
+    "id": "49",
+    "quote": "You don't need to see the whole staircase, just take the first step.",
+    "author": "Martin Luther King Jr."
+  },
+  "wiki": {
+    "id": "haumea-dwarf-planet",
+    "name": "Haumea (dwarf planet)",
+    "summary": "Haumea is a dwarf planet, one-third the mass of Pluto, in the Kuiper belt. It was discovered in 2004 by a team headed by Mike Brown of Caltech at the Palomar Observatory in the United States, and in 2005 by a team headed by J. L. Ortiz at the Sierra Nevada Observatory in Spain, though the latter claim has been contested. On September 17, 2008, it was accepted as a dwarf planet by the International Astronomical Union (IAU) and named after Haumea, the Hawaiian goddess of childbirth. Haumea's extreme elongation makes it unique among known trans-Neptunian objects. Although its shape has not been directly observed, calculations from its light curve suggest it is an ellipsoid, with its greatest axis twice as long as its shortest. Nonetheless, its gravity is believed sufficient for it to have relaxed into hydrostatic equilibrium, thereby meeting the definition of a dwarf planet. This elongation, along with its unusually rapid rotation, high density, and high albedo (due to a surface of crystalline water ice), are thought to be the results of a giant collision, which left Haumea the largest member of a collisional family that includes several large TNOs and its two known moons.",
+    "url": "https://en.wikipedia.org/wiki/Haumea_(dwarf_planet)"
+  },
+  "word": {
+    "id": "insouciance",
+    "word": "insouciance",
+    "url": "https://www.merriam-webster.com/dictionary/insouciance",
+    "partOfSpeech": "noun",
+    "pronunciation": "in-SOO-see-unss",
+    "audioPath": "audio/words/insouciance.mp3",
+    "definitions": ["lighthearted unconcern : nonchalance"],
+    "examples": [
+      "The teenager’s careless insouciance about her schoolwork does not bode well for her grades."
+    ],
+    "origin": "Don't worry -- be insouciant. Perhaps your mind will rest easier if we explain that English speakers learned \"insouciance\" from the French in the 1700s (and the adjective \"insouciant\" has been part of our language since the 1800s). The French word comes from a combination of the negative prefix \"in-\" and \"soucier,\" meaning \"to trouble or disturb.\" \"Soucier\" in turn traces to \"sollicitus,\" the Latin word for \"anxious.\" If it seems to you that \"sollicitus\" looks a lot like some other English words you've seen, you're right. That root also gave us \"solicit\" (which now means \"to entreat\" but which was once used to mean \"to fill with concern or anxiety\"), \"solicitude\" (meaning \"uneasiness of mind\"), and \"solicitous\" (\"showing or expressing concern\")."
+  }
+}

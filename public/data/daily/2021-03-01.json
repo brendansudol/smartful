@@ -1,0 +1,144 @@
+{
+  "artist": {
+    "id": "martin-schongauer",
+    "name": "Martin Schongauer",
+    "dates": "1448 - Feb 2, 1491",
+    "mainImg": "img/art/artists/martin-schongauer.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Tribulations of Saint Anthony",
+        "path": "img/art/artworks/martin-schongauer-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-tribulations-of-saint-anthony-martin-schongauer/AAGFUqhhd_cGEQ"
+      },
+      {
+        "name": "Saint Anthony Tormented by Demons",
+        "path": "img/art/artworks/martin-schongauer-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-anthony-tormented-by-demons-martin-schongauer/cAEhiv-A41ymMA"
+      },
+      {
+        "name": "The Griffin",
+        "path": "img/art/artworks/martin-schongauer-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-griffin-martin-schongauer/0gEQQiIZ0nkzGQ"
+      },
+      {
+        "name": "Saint Michael Slaying the Dragon",
+        "path": "img/art/artworks/martin-schongauer-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-michael-slaying-the-dragon-martin-schongauer/aAGdqQ60bsV62Q"
+      },
+      {
+        "name": "Saint Michael Slaying the Dragon",
+        "path": "img/art/artworks/martin-schongauer-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-michael-slaying-the-dragon-martin-schongauer/fwEnoz__OLR3yg"
+      },
+      {
+        "name": "Saint Anthony, Plagued by Demons",
+        "path": "img/art/artworks/martin-schongauer-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-anthony-plagued-by-demons-martin-schongauer/HAG_FV-IMftCTg"
+      }
+    ],
+    "summary": [
+      "Martin Schongauer, also known as Martin Schön or Hübsch Martin by his contemporaries, was an Alsatian engraver and painter. He was the most important printmaker north of the Alps before Albrecht Dürer, a younger artist who collected his work. Schongauer is the first German painter to be a significant engraver, although he seems to have had the family background and training in goldsmithing which was usual for early engravers.",
+      "The bulk of Schongauer's surviving production is 116 engravings, all with his monogram but none dated, which were well known not only in Germany, but also in Italy and even made their way to England and Spain. Vasari says that Michelangelo copied one of his engravings, in the Trial of Saint Anthony. His style shows no trace of Italian influence, but a very clear and organised Gothic, which draws from both German and Early Netherlandish painting.",
+      "Recent scholarship, building on the work of Max Lehrs, attributes 116 engravings to him, with many also being copied by other artists, as was common in the period."
+    ],
+    "quote": null,
+    "movements": ["Northern Renaissance", "Renaissance", "German Renaissance", "Gothic art"],
+    "mediums": ["Engraving", "Laid paper", "Pen", "Drawing", "Ink", "Beech"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Martin_Schongauer",
+    "urlGoogle": "https://artsandculture.google.com/entity/martin-schongauer/m03lr35"
+  },
+  "event": {
+    "id": "indian-rebellion-of-1857",
+    "name": "Indian Rebellion of 1857",
+    "dates": "May 10, 1857 - Nov 1, 1858",
+    "mainImg": "img/events/indian-rebellion-of-1857.jpg",
+    "summary": [
+      "The Indian Rebellion of 1857 was a major, but ultimately unsuccessful, uprising in India in 1857–58 against the rule of the British East India Company, which functioned as a sovereign power on behalf of the British Crown. The rebellion began on 10 May 1857 in the form of a mutiny of sepoys of the Company's army in the garrison town of Meerut, 40 mi northeast of Delhi. It then erupted into other mutinies and civilian rebellions chiefly in the upper Gangetic plain and central India, though incidents of revolt also occurred farther north and east. The rebellion posed a considerable threat to British power in that region, and was contained only with the rebels' defeat in Gwalior on 20 June 1858. On 1 November 1858, the British granted amnesty to all rebels not involved in murder, though they did not declare the hostilities to have formally ended until 8 July 1859. Its name is contested, and it is variously described as the Sepoy Mutiny, the Indian Mutiny, the Great Rebellion, the Revolt of 1857, the Indian Insurrection, and the First War of Independence."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+    "urlGoogle": "https://artsandculture.google.com/entity/indian-rebellion-of-1857/m03z8w6"
+  },
+  "funFacts": [
+    { "id": "841", "fact": "The most popular ice cream flavour is vanilla.", "category": ["Food"] },
+    {
+      "id": "458",
+      "fact": "Fresh cranberries can be bounced like a rubber ball.",
+      "category": ["Food"]
+    },
+    {
+      "id": "432",
+      "fact": "Antarctica holds 90% of the world's fresh water.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "506874",
+      "fact": "An urban legend claimed Zima was not detectable by a breathalyzer, boosting its popularity among the young and gullible."
+    },
+    {
+      "id": "553822",
+      "fact": "In the late 19th century, Beatrix Potter kept a journal in a secret code so complex it wasn't cracked until 1958."
+    },
+    {
+      "id": "554057",
+      "fact": "Ben and Jerry originally wanted to start a bagel company. The partners ended up in the ice cream business because they couldn’t afford a bagel machine."
+    }
+  ],
+  "idiom": {
+    "id": "keep-the-wolf-from-the-door",
+    "term": "keep the wolf from the door",
+    "definition": "Ward off starvation or financial ruin. For example, *In many countries people are working simply to keep the wolf from the door, and owning a car or washing machine is just a dream,* or *Gail would take any job now, just to keep the wolf from the door.* This term alludes to the wolf's fabled ravenousness. [Mid-1500s]"
+  },
+  "person": {
+    "id": "roger-casement",
+    "name": "Roger Casement",
+    "dates": "Sep 1, 1864 - Aug 3, 1916",
+    "mainImg": "img/people/roger-casement.jpg",
+    "summary": [
+      "Roger David Casement, known as Sir Roger Casement, CMG, between 1911 and 1916, was a diplomat and Irish nationalist. He worked for the British Foreign Office as a diplomat and later became a humanitarian activist, poet and Easter Rising leader. Described as the \"father of twentieth-century human rights investigations\", he was honoured in 1905 for the Casement Report on the Congo and knighted in 1911 for his important investigations of human rights abuses in Peru.",
+      "In Africa as a young man, Casement first worked for commercial interests before joining the British Colonial Service. In 1891 he was appointed as a British consul, a profession he followed for more than 20 years. Influenced by the Boer War and his investigation into colonial atrocities against indigenous peoples, Casement grew to mistrust imperialism. After retiring from consular service in 1913, he became more involved with Irish republicanism and other separatist movements. During World War I he made efforts to gain German military aid for the 1916 Easter Rising that sought to gain Irish independence.",
+      "He was arrested, convicted and executed for high treason. He was stripped of his knighthood and other honours."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Roger_Casement",
+    "urlGoogle": "https://artsandculture.google.com/entity/roger-casement/m06f1w"
+  },
+  "place": {
+    "id": "minneapolis",
+    "name": "Minneapolis",
+    "mainImg": "img/places/minneapolis.jpg",
+    "summary": [
+      "Minneapolis is the largest city in the U.S. state of Minnesota and the principal city of the 16th-largest metropolitan area in the United States. As of 2019, Minneapolis has an estimated population of 429,606, making it the 46th-largest city in the United States. Minneapolis and its neighbor Saint Paul make up the Twin Cities, with Minneapolis being the larger of the two. The Twin Cities metro and their surrounding suburbs contain about 3.63 million people, making it the third-largest economic and population center in the Midwest. Minneapolis is the county seat of Hennepin County.",
+      "Minneapolis lies on both banks of the Mississippi River, just north of the river's confluence with the Minnesota River, and adjoins Saint Paul, the state's capital. The city is abundantly rich in water, with 13 lakes, wetlands, the Mississippi River, creeks and waterfalls; many connected by parkways in the Chain of Lakes and the Grand Rounds National Scenic Byway. Due in part to its high degree of accessibility, the city is routinely ranked as having the best park system in the United States. Minneapolis was once the world's flour milling capital and a hub for timber."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Minneapolis",
+    "urlGoogle": "https://artsandculture.google.com/entity/minneapolis/m0fpzwf"
+  },
+  "quote": {
+    "id": "29",
+    "quote": "The difference between the right word and the almost right word is the difference between lightning and a lightning bug.",
+    "author": "Mark Twain"
+  },
+  "wiki": {
+    "id": "george-robey",
+    "name": "George Robey",
+    "summary": "George Robey (1869–1954) was an English comedian, singer and actor in musical theatre, known as one of the greatest music hall performers of the late 19th and early 20th centuries. Robey mixed everyday situations and observations with comic absurdity, and was a popular Christmas pantomime performer. His notable successes during the First World War included the hit revue The Bing Boys Are Here, in which he sang \"If You Were the Only Girl (In the World)\". Born in London to a middle-class family, he made his debut on stage at age 21 as the straight man to a comic hypnotist. He soon developed his own music hall act. In 1892, he appeared in his first pantomime, Whittington Up-to-date. He starred in the Royal Command Performance in 1912 and regularly entertained before aristocracy. In 1913 he debuted in film, but with only modest success. From 1918, he created sketches based on his character, the Prime Minister of Mirth. He played Falstaff in Henry IV, Part 1 in 1935, and again in Laurence Olivier's 1944 film of Henry V. During the Second World War, Robey raised money for charities and promoted recruitment into the forces. He was knighted a few months before his death.",
+    "url": "https://en.wikipedia.org/wiki/George_Robey"
+  },
+  "word": {
+    "id": "impuissant",
+    "word": "impuissant",
+    "url": "https://www.merriam-webster.com/dictionary/impuissant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-PWISS-unt",
+    "audioPath": "audio/words/impuissant.mp3",
+    "definitions": ["weak, powerless"],
+    "examples": [
+      "Jonah was a relentless bully who sought to intimidate any impuissant student that he could find in the schoolyard."
+    ],
+    "origin": "Both the adjective \"impuissant\" and the noun \"impuissance\" came to English from Middle French. They are derived from the prefix \"in-\" (meaning \"not\") and the noun \"puissance,\" which means \"power\" and is a word in English in its own right. \"Puissance\" derives from the verb \"poer,\" meaning \"to be able\" or \"to be powerful,\" and is ultimately related to the same Latin roots that gave us words such as \"power\" and \"potent.\" While both \"puissant\" and \"impuissance\" first appeared in English during the 15th century, \"impuissant\" did not make its first appearance in our language until 1629."
+  }
+}

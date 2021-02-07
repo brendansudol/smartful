@@ -1,0 +1,153 @@
+{
+  "artist": {
+    "id": "william-blake",
+    "name": "William Blake",
+    "dates": "Nov 28, 1757 - Aug 12, 1827",
+    "mainImg": "img/art/artists/william-blake.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Ghost of a Flea",
+        "path": "img/art/artworks/william-blake-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-ghost-of-a-flea-william-blake/CgHQq6vDGClUyw"
+      },
+      {
+        "name": "Albion Rose",
+        "path": "img/art/artworks/william-blake-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/albion-rose-william-blake/9gH8FkV-uW3zjQ"
+      },
+      {
+        "name": "Satan Smiting Job with Sore Boils",
+        "path": "img/art/artworks/william-blake-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/satan-smiting-job-with-sore-boils-william-blake/fwGU7xuveEeAmA"
+      },
+      {
+        "name": "Dante running from the three beasts",
+        "path": "img/art/artworks/william-blake-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/dante-running-from-the-three-beasts-william-blake/-wEF4rg1T7H2JA"
+      },
+      {
+        "name": "Satan Before the Throne of God",
+        "path": "img/art/artworks/william-blake-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/satan-before-the-throne-of-god-william-blake/KAE5McmLfShXxg"
+      },
+      {
+        "name": "Satan Smiting Job with Boils",
+        "path": "img/art/artworks/william-blake-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/satan-smiting-job-with-boils-william-blake/QgH7hoVbgKLYIA"
+      }
+    ],
+    "summary": [
+      "William Blake was an English poet, painter, and printmaker. Largely unrecognised during his lifetime, Blake is now considered a seminal figure in the history of the poetry and visual arts of the Romantic Age. What he called his prophetic works were said by 20th-century critic Northrop Frye to form \"what is in proportion to its merits the least read body of poetry in the English language\". His visual artistry led 21st-century critic Jonathan Jones to proclaim him \"far and away the greatest artist Britain has ever produced\". In 2002, Blake was placed at number 38 in the BBC's poll of the 100 Greatest Britons. While he lived in London his entire life, except for three years spent in Felpham, he produced a diverse and symbolically rich œuvre, which embraced the imagination as \"the body of God\" or \"human existence itself\".",
+      "Although Blake was considered mad by contemporaries for his idiosyncratic views, he is held in high regard by later critics for his expressiveness and creativity, and for the philosophical and mystical undercurrents within his work. His paintings and poetry have been characterised as part of the Romantic movement and as \"Pre-Romantic\"."
+    ],
+    "quote": "“Thus men forgot that all deities reside in the human breast.”",
+    "movements": ["Romanticism", "Sturm und Drang"],
+    "mediums": ["Engraving", "Graphite", "Ink", "Pen", "Watercolor painting", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Blake",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-blake/m03f70xs"
+  },
+  "event": {
+    "id": "1976-summer-olympics",
+    "name": "1976 Summer Olympics",
+    "dates": "Jul 17, 1976 - Aug 1, 1976",
+    "mainImg": "img/events/1976-summer-olympics.jpg",
+    "summary": [
+      "The 1976 Summer Olympics, officially called the Games of the XXI Olympiad, was an international multi-sport event in Montreal, Quebec, Canada, in 1976, and the first Olympic Games held in Canada.",
+      "Montreal was awarded the rights to the 1976 Games on May 12, 1970, at the 69th IOC Session in Amsterdam, over the bids of Moscow and Los Angeles. It was the first and, so far, only Summer Olympic Games to be held in Canada. Toronto hosted the 1976 Summer Paralympics the same year as the Montreal Olympics, and still remain the only Summer Paralympics to be held in Canada. Calgary and Vancouver later hosted the Winter Olympic Games in 1988 and 2010, respectively.",
+      "Twenty-nine countries, mostly African, boycotted the Montreal Games when the International Olympic Committee refused to ban New Zealand, after the New Zealand national rugby union team had toured South Africa earlier in 1976 in defiance of the United Nations' calls for a sporting embargo. The Soviet Union won the most gold and overall medals."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1976_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/1976-summer-olympics/m0jkvj"
+  },
+  "funFacts": [
+    {
+      "id": "259",
+      "fact": "The original recipe for chocolate contained chili powder instead of sugar.",
+      "category": ["Food"]
+    },
+    {
+      "id": "63",
+      "fact": "The average human produces 10,000 gallons of saliva in a lifetime.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "812",
+      "fact": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554103",
+      "fact": "Ray Bradbury wrote the first draft \u0003of Fahrenheit 451 on a rented typewriter in the basement of the UCLA library in just nine days."
+    },
+    {
+      "id": "554035",
+      "fact": "In 1965, Tommy Cash—Johnny Cash's younger brother—released a song titled \"I Didn't Walk the Line.\""
+    },
+    {
+      "id": "553737",
+      "fact": "Staff members of the Slovak and Slovenian embassies meet once a month to exchange incorrectly addressed mail."
+    }
+  ],
+  "idiom": {
+    "id": "like-pigs-in-clover",
+    "term": "like pigs in clover",
+    "definition": "Extremely contentedly, as in *They had a handsome pension and lived like pigs in clover.* This expression alludes to pigs being allowed to eat as much clover, a favorite food, as they wish. It appeared in the *Boston Gazette* of January 7, 1813: \"Canadians! then in droves come over, And live henceforth like pigs in clover.\" [Early 1800s]"
+  },
+  "person": {
+    "id": "patrice-lumumba",
+    "name": "Patrice Lumumba",
+    "dates": "Jul 2, 1925 - Jan 17, 1961",
+    "mainImg": "img/people/patrice-lumumba.jpg",
+    "summary": [
+      "Patrice Émery Lumumba was a Congolese politician and independence leader who served as the first Prime Minister of the independent Democratic Republic of the Congo from June until September 1960. He played a significant role in the transformation of the Congo from a colony of Belgium into an independent republic. Ideologically an African nationalist and pan-Africanist, he led the Congolese National Movement party from 1958 until his assassination.",
+      "Shortly after Congolese independence in 1960, a mutiny broke out in the army, marking the beginning of the Congo Crisis. Lumumba appealed to the United States and the United Nations for help to suppress the Belgian-supported Katangan secessionists led by Moise Tshombe. Both refused, so Lumumba turned to the Soviet Union for support. This led to growing differences with President Joseph Kasa-Vubu and chief-of-staff Joseph-Désiré Mobutu, as well as with the United States and Belgium, who opposed the Soviet Union in the Cold War.",
+      "Lumumba was subsequently imprisoned by state authorities under Mobutu and executed by a firing squad under the command of Katangan authorities."
+    ],
+    "quote": "“Without dignity there is no liberty, without justice there is no dignity, and without independence there are no free men.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Patrice_Lumumba",
+    "urlGoogle": "https://artsandculture.google.com/entity/patrice-lumumba/m0d3wd"
+  },
+  "place": {
+    "id": "yakutsk",
+    "name": "Yakutsk",
+    "mainImg": "img/places/yakutsk.jpg",
+    "summary": [
+      "Yakutsk is the capital city of the Sakha Republic, Russia, located about 450 kilometers south of the Arctic Circle.",
+      "Yakutsk, with an average temperature of −8.8 °C, is the second coldest large city in the world after Norilsk, although Yakutsk experiences colder temperatures in the winter. Yakutsk is also the largest city located in continuous permafrost and one of the largest that cannot be reached by road. Yakutsk is located in the Central Yakutian Lowland and is a major port on the Lena River. It is served by the Yakutsk Airport as well as the smaller Magan Airport."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Yakutsk",
+    "urlGoogle": "https://artsandculture.google.com/entity/yakutsk/m0fwcf"
+  },
+  "quote": {
+    "id": "23",
+    "quote": "Criticism is easy; achievement is difficult.",
+    "author": "Winston Churchill"
+  },
+  "wiki": {
+    "id": "lycoperdon-echinatum",
+    "name": "Lycoperdon echinatum",
+    "summary": "Lycoperdon echinatum, commonly known as the spiny puffball or the spring puffball, is a type of puffball mushroom in the genus Lycoperdon. The saprobic species has been found in Africa, Europe, Central America and North America, where it grows on soil in deciduous woods, glades, and pastures. Molecular analysis indicates that Lycoperdon echinatum is closely related to the puffball genus Handkea. Initially white in color, the puffballs turn a dark brown as they mature, at the same time changing from nearly round to somewhat flattened. The fruit bodies are edible when young, when the interior is white and firm and before it has turned into a powdery brown mass of spores. Young specimens of L. echinatum resemble another edible spiny puffball, Lycoperdon pulcherrimum, but this latter species does not turn brown as it ages. Laboratory tests have shown that extracts of the fruit bodies can inhibit the growth of several bacteria that are pathogenic to humans.",
+    "url": "https://en.wikipedia.org/wiki/Lycoperdon_echinatum"
+  },
+  "word": {
+    "id": "famish",
+    "word": "famish",
+    "url": "https://www.merriam-webster.com/dictionary/famish",
+    "partOfSpeech": "verb",
+    "pronunciation": "FAM-ish",
+    "audioPath": "audio/words/famish.mp3",
+    "definitions": [
+      "to cause to suffer severely from hunger",
+      "to suffer for lack of something necessary"
+    ],
+    "examples": [
+      "\"Set him breast-deep in earth and _famish_ him, / There let him stand and rave and cry for food.\" - From Act V, Scene iii of William Shakespeare's Titus Andronicus, 1593-94",
+      "\"In northern Wisconsin, snow is like a cold, wintry manna. Some hotels and resorts feast when it's plentiful. They _famish_ when it's not.\" - From an article by McLean Bennett in _The Leader-Telegram_ (Eau Claire, Wisconsin), December 28, 2011"
+    ],
+    "origin": "\"Famish\" likely developed as an alteration of Middle English \"famen,\" meaning \"to starve.\" The Middle English word was borrowed from the Anglo-French verb \"afamer,\" which etymologists believe came from Vulgar Latin \"affamare.\" We say \"believe\" because, while no written evidence has yet been found for the Vulgar Latin word \"affamare,\" it would be the expected source for the Anglo-French verb based on the combination of the Latin prefix \"ad-\" (\"to\" or \"toward\") and the root noun \"fames\" (\"hunger\"). In contemporary English, the verb \"famish\" is still used on rare occasions, but it is considerably less common than the related adjective \"famished,\" which usually means \"hungry\" or \"starving\" but can also mean \"needy\" or \"being in want.\""
+  }
+}

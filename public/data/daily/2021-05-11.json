@@ -1,0 +1,142 @@
+{
+  "artist": {
+    "id": "deng-shiru",
+    "name": "Deng Shiru",
+    "dates": "1743 - 1805",
+    "mainImg": "img/art/artists/deng-shiru.jpg",
+    "artworkImgs": [
+      {
+        "name": "Seal script calligraphy",
+        "path": "img/art/artworks/deng-shiru-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/seal-script-calligraphy-artist-deng-shiru/UQH_iXkhGXWdYg"
+      },
+      {
+        "name": "Couplet in clerical script",
+        "path": "img/art/artworks/deng-shiru-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/couplet-in-clerical-script-artist-deng-shiru/DQESLwpgX1DywQ"
+      },
+      {
+        "name": "Commentary on the Book of Changes in seal script",
+        "path": "img/art/artworks/deng-shiru-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/commentary-on-the-book-of-changes-in-seal-script-artist-deng-shiru/QQGd8vuTpDMU4w"
+      },
+      {
+        "name": "Visiting the Realm of the Immortals",
+        "path": "img/art/artworks/deng-shiru-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/visiting-the-realm-of-the-immortals-artist-deng-shiru/KgHDx5ceDZ816g"
+      },
+      {
+        "name": "Poem on seeing off Adjutant Administrator Zhu in cursive script",
+        "path": "img/art/artworks/deng-shiru-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/poem-on-seeing-off-adjutant-administrator-zhu-in-cursive-script-artist-deng-shiru/cAGt_Yirk-tE8g"
+      }
+    ],
+    "summary": [
+      "Deng Shirú; c. 1739/1743–1805 was a Chinese calligrapher during the Qing Dynasty.",
+      "Deng was born in Huaining 懷寧 in the Anhui 安徽 province. His style name was 'Wanbo' 顽伯 and his sobriquets were 'Wanbai shanren 皖白山人, Wan bai 完白, Guhuan, Gu wanzi 故浣子, Youji daoren 游笈道人, Fengshui yuzhang 鳳水漁長, and Longshan qiaozhang 龍山樵長'. Deng studied at the Shen Chun Academy. He later learned the art of Seal cutting."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Deng_Shiru",
+    "urlGoogle": "https://artsandculture.google.com/entity/deng-shiru/m04f40_1"
+  },
+  "event": {
+    "id": "battle-of-muhlberg",
+    "name": "Battle of Mühlberg",
+    "dates": null,
+    "mainImg": "img/events/battle-of-muhlberg.jpg",
+    "summary": [
+      "The Battle of Mühlberg took place near Mühlberg in the Electorate of Saxony in 1547, during the Schmalkaldic War. The Catholic princes of the Holy Roman Empire led by the Holy Roman Emperor Charles V decisively defeated the Lutheran Schmalkaldic League of Protestant princes under the command of Elector John Frederick I of Saxony and Landgrave Philip I of Hesse.",
+      "The battle ended the Schmalkaldic war and led to the dissolution of the Schmalkaldic League."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChlberg",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-mühlberg/m026dmp"
+  },
+  "funFacts": [
+    {
+      "id": "10",
+      "fact": "Mosquitoes are attracted to people who just ate bananas.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "291",
+      "fact": "Africa is divided into more countries than any other continent.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "341",
+      "fact": "Of the 92 counties in Indiana, only 5 observe daylight savings time.",
+      "category": ["Geography", "Habits"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553683",
+      "fact": "If your dog's feet smell like corn chips, you're not alone. The term \"Frito Feet\" was coined to describe the scent."
+    },
+    {
+      "id": "504822",
+      "fact": "Before he was the best-selling author of The Da Vinci Code, Dan Brown tried his luck as a musician. In 1994, he released an album called Angels & Demons, a title he reused for a 2000 novel."
+    },
+    {
+      "id": "522227",
+      "fact": "Blood donors in Sweden receive a thank you text when their blood is used."
+    }
+  ],
+  "idiom": {
+    "id": "bright-eyed-and-bushy-tailed",
+    "term": "bright-eyed and bushy-tailed",
+    "definition": "Eager and alert, as in *Here is my new kindergarten class, all bright-eyed and bushy-tailed.* The allusion here is to the appearance of a squirrel, which with its beady eyes and bushy tail looks ready for anything. [1930s]"
+  },
+  "person": {
+    "id": "alexandra-kollontai",
+    "name": "Alexandra Kollontai",
+    "dates": "Mar 31, 1872 - Mar 9, 1952",
+    "mainImg": "img/people/alexandra-kollontai.jpg",
+    "summary": [
+      "Alexandra Mikhailovna Kollontai was a Marxist revolutionary and theoretician, first as a member of the Mensheviks, then from 1915 on as a Bolshevik. Serving as the People's Commissar for Welfare in the Bolshevik government in 1917–1918, she became the first woman in history to become an official member of a governing cabinet.",
+      "In 1922 Kollontai was appointed as a diplomatic counsellor to the Soviet legation in Norway, and soon received promotion to head the legation, one of the first women to hold such a position."
+    ],
+    "quote": "“The worker-mother must learn not to differentiate between yours and mine; she must remember that there are only our children, the children of Russia’s communist workers.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexandra_Kollontai",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexandra-kollontai/m01q88d"
+  },
+  "place": {
+    "id": "montgomery",
+    "name": "Montgomery",
+    "mainImg": "img/places/montgomery.jpg",
+    "summary": [
+      "Montgomery is the capital city of the U.S. state of Alabama and the county seat of Montgomery County. Named for Richard Montgomery, it stands beside the Alabama River, on the coastal Plain of the Gulf of Mexico. In the 2010 Census, Montgomery's population was 205,764. It is the second most populous city in Alabama, after Birmingham, and is the 118th most populous in the United States. The Montgomery Metropolitan Statistical Area's population in 2010 was estimated at 374,536; it is the fourth largest in the state and 136th among United States metropolitan areas.",
+      "The city was incorporated in 1819 as a merger of two towns situated along the Alabama River. It became the state capital in 1846, representing the shift of power to the south-central area of Alabama with the growth of cotton as a commodity crop of the Black Belt and the rise of Mobile as a mercantile port on the Gulf Coast. In February 1861, Montgomery was chosen the first capital of the Confederate States of America, which it remained until the Confederate seat of government moved to Richmond, Virginia, in May of that year."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Montgomery,_Alabama",
+    "urlGoogle": "https://artsandculture.google.com/entity/montgomery/m0fttg"
+  },
+  "quote": {
+    "id": "98",
+    "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+    "author": "Thomas Edison"
+  },
+  "wiki": {
+    "id": "uru-ages-beyond-myst",
+    "name": "Uru: Ages Beyond Myst",
+    "summary": "Uru: Ages Beyond Myst is an adventure video game developed by Cyan Worlds and published by Ubisoft. Released in November 2003, the title is the fourth game in the Myst canon. Departing from previous games of the franchise, Uru takes place in the modern era and allows players to customize their onscreen avatars. Players use their avatars to explore the abandoned city of an ancient race known as the D'ni, uncover story clues and solve puzzles. Uru took five years and $12 million to complete. It was initially conceived as a multiplayer game, but the multiplayer component was delayed and eventually canceled, although an online version (Myst Online: Uru Live) was available in 2007 and 2008. Uru was not as well received as previous Myst titles. Critics admired the visuals and new features of the game but criticized the lack of multiplayer in the retail version and clunky controls. Uru sold poorly, while the first three games had sold millions of copies each. The game was a critical and commercial disappointment for Cyan, causing the company financial troubles; nevertheless, it has attracted a cult following.",
+    "url": "https://en.wikipedia.org/wiki/Uru:_Ages_Beyond_Myst"
+  },
+  "word": {
+    "id": "tantivy",
+    "word": "tantivy",
+    "url": "https://www.merriam-webster.com/dictionary/tantivy",
+    "partOfSpeech": "adverb",
+    "pronunciation": "tan-TIV-ee",
+    "audioPath": "audio/words/tantivy.mp3",
+    "definitions": ["in a headlong dash : at a gallop"],
+    "examples": [
+      "Once the school bell sounded signaling dismissal, the children rose from their desks and headed tantivy for the exits."
+    ],
+    "origin": "\"Tantivy\" is also a noun meaning \"a rapid gallop\" or \"an impetuous rush.\" Although its precise origin isn't known, one theory has it that \"tantivy\" represents the sound of a galloping horse's hooves. The noun does double duty as a word meaning \"the blare of a trumpet or horn.\" The second use probably evolved from confusion with \"tantara,\" a word for the sound of a trumpet that came about as an imitation of that sound. Both \"tantivy\" and \"tantara\" were used during foxhunts; in the heat of the chase people may have jumbled the two."
+  }
+}

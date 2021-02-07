@@ -1,0 +1,148 @@
+{
+  "artist": {
+    "id": "william-holman-hunt",
+    "name": "William Holman Hunt",
+    "dates": "Apr 2, 1827 - Sep 7, 1910",
+    "mainImg": "img/art/artists/william-holman-hunt.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Awakening Conscience",
+        "path": "img/art/artworks/william-holman-hunt-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-awakening-conscience-william-holman-hunt/eAEe8oI1HIMufA"
+      },
+      {
+        "name": "Fanny Waugh Hunt",
+        "path": "img/art/artworks/william-holman-hunt-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/fanny-waugh-hunt-william-holman-hunt/igGYThBf6cFv6Q"
+      },
+      {
+        "name": "Our English Coasts, 1852 (`Strayed Sheep')",
+        "path": "img/art/artworks/william-holman-hunt-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/our-english-coasts-1852-strayed-sheep-william-holman-hunt/_wF_pFx9qFQ8vw"
+      },
+      {
+        "name": "Claudio and Isabella",
+        "path": "img/art/artworks/william-holman-hunt-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/claudio-and-isabella-william-holman-hunt/pwFRjRo5YsAVsA"
+      },
+      {
+        "name": "The Triumph of the Innocents",
+        "path": "img/art/artworks/william-holman-hunt-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-triumph-of-the-innocents-william-holman-hunt/bQE4mtQQ0GktNA"
+      },
+      {
+        "name": "Christ and the two Marys",
+        "path": "img/art/artworks/william-holman-hunt-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-and-the-two-marys-william-holman-hunt/YwFzqhLcdQE4QA"
+      }
+    ],
+    "summary": [
+      "William Holman Hunt OM was an English painter and one of the founders of the Pre-Raphaelite Brotherhood. His paintings were notable for their great attention to detail, vivid colour, and elaborate symbolism. These features were influenced by the writings of John Ruskin and Thomas Carlyle, according to whom the world itself should be read as a system of visual signs. For Hunt it was the duty of the artist to reveal the correspondence between sign and fact. Of all the members of the Pre-Raphaelite Brotherhood, Hunt remained most true to their ideals throughout his career. He was always keen to maximise the popular appeal and public visibility of his works."
+    ],
+    "quote": null,
+    "movements": ["Pre-Raphaelite Brotherhood"],
+    "mediums": ["Oil paint", "Ink", "Pen", "Watercolor painting", "Etching", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Holman_Hunt",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-holman-hunt/m0vh96"
+  },
+  "event": {
+    "id": "john-f-kennedy-1961-presidential-inauguration",
+    "name": "John F. Kennedy 1961 presidential inauguration",
+    "dates": null,
+    "mainImg": "img/events/john-f-kennedy-1961-presidential-inauguration.jpg",
+    "summary": [
+      "The inauguration of John F. Kennedy as the 35th President of the United States was held on Friday, January 20, 1961 at the East Portico of the United States Capitol in Washington, D.C. This was the 44th inauguration and marked the commencement of the only term of both John F. Kennedy as President and Lyndon B. Johnson as Vice President. Kennedy was assassinated 2 years, 306 days into this term, and Johnson succeeded to the presidency.",
+      "Kennedy took office following the November 1960 presidential election, in which he narrowly defeated Richard Nixon, the incumbent Vice President. He was the first Catholic to become President, and became the youngest person elected to the office.",
+      "His inaugural address encompassed the major themes of his campaign and would define his presidency during a time of economic prosperity, emerging social changes, and diplomatic challenges. This inauguration was the first in which a poet, Robert Frost, participated in the program.",
+      "For this inauguration, the Joint Congressional Committee on Inaugural Ceremonies was chaired by Senator John Sparkman, and included Senators Carl Hayden and Styles Bridges, and Representatives Sam Rayburn, John W."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-f-kennedy-1961-presidential-inauguration/m05br2y1"
+  },
+  "funFacts": [
+    {
+      "id": "125",
+      "fact": "Pigeons have been trained by the U.S. Coast Guard to spot people lost at sea.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "678",
+      "fact": "Unlike your housecat, the Siberian tiger actually loves to swim!",
+      "category": ["Animals"]
+    },
+    {
+      "id": "1027",
+      "fact": "The soil on Mars is rust color because it's full of rust.",
+      "category": ["Geography", "Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504819",
+      "fact": "Plants have ways of communicating with each other. The scent of freshly cut grass is equivalent to a cry for help."
+    },
+    {
+      "id": "554078",
+      "fact": "There's a library in Ankara, Turkey, that's filled with discarded books trash collectors rescued from landfills."
+    },
+    {
+      "id": "504752",
+      "fact": "Cleopatra had a special lipstick made for her, consisting of a crushed mixture of ants and deep red carmine beetles."
+    }
+  ],
+  "idiom": {
+    "id": "shake-the-dust-from-ones-feet",
+    "term": "shake the dust from one's feet",
+    "definition": "Depart in a hurry, especially from an unpleasant situation; also, leave forever. For example, *I couldn't wait to shake the dust from my feet; I never wanted to see either of them again.* This metaphoric term, alluding to moving one's feet fast enough to shake off dust, appears in several books of the Bible. [c. 1600]"
+  },
+  "person": {
+    "id": "robert-peel",
+    "name": "Robert Peel",
+    "dates": "Feb 5, 1788 - Jul 2, 1850",
+    "mainImg": "img/people/robert-peel.jpg",
+    "summary": [
+      "Sir Robert Peel, 2nd Baronet, FRS was a British Conservative statesman who served twice as Prime Minister of the United Kingdom and twice as Home Secretary. He is regarded as the father of modern British policing, owing to his founding of the Metropolitan Police Service. Peel was one of the founders of the modern Conservative Party.",
+      "The son of a wealthy textile-manufacturer and politician, Peel was the first prime minister from an industrial business background. He earned a double first in classics and mathematics from Christ Church, Oxford. He entered the House of Commons in 1809, and became a rising star in the Tory Party. Peel entered the Cabinet as Home Secretary, where he reformed and liberalised the criminal law and created the modern police force, leading to a new type of officer known in tribute to him as \"bobbies\" and \"peelers\". After a brief period out of office he returned as Home Secretary under his political mentor the Duke of Wellington, also serving as Leader of the House of Commons."
+    ],
+    "quote": "“Public opinion is a compound of folly, weakness, prejudice, wrong feeling, right feeling, obstinacy, and newspaper paragraphs.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Peel",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-peel/m0c9h4"
+  },
+  "place": {
+    "id": "peshawar",
+    "name": "Peshawar",
+    "mainImg": "img/places/peshawar.jpg",
+    "summary": [
+      "Peshawar is the capital of the Pakistani province of Khyber Pakhtunkhwa and its largest city. It is the sixth-largest in Pakistan. Peshawar is also the largest Pashtun-majority city in Pakistan and is bilingual in Pashto and Hindko. Situated in the broad Valley of Peshawar near the eastern end of the historic Khyber Pass, close to the border with Afghanistan, Peshawar's recorded history dates back to at least 539 BCE, making it the oldest city in Pakistan and one of the oldest cities in South Asia.",
+      "As the center of the ancient Gandhara region, Peshawar became the capital of the Kushan Empire under the rule of Kanishka; and was home to the Kanishka stupa, which was among the tallest buildings in the ancient world. Peshawar was then sacked by the Hephthalites, before the arrival of Muslim empires. The city was an important trading centre during the Mughal era, before becoming part of the Afghan Durrani Empire in December 1747, and serving as the Afghan winter capital from 1776 until the capture of the city by the Sikh Empire in March 1823, who were then followed by the British in 1846."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Peshawar",
+    "urlGoogle": "https://artsandculture.google.com/entity/peshawar/m0hj6h"
+  },
+  "quote": {
+    "id": "51",
+    "quote": "Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.",
+    "author": "Margaret Mead"
+  },
+  "wiki": {
+    "id": "battle-of-arawe",
+    "name": "Battle of Arawe",
+    "summary": "The Battle of Arawe was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The battle was initiated by the Allies to divert Japanese attention away from the Cape Gloucester area of New Britain ahead of a major offensive there in late December 1943. A force built around the U.S. Army's 112th Cavalry Regimental Combat Team landed at Arawe on 15 December 1943 and rapidly overcame the area's small garrison. Japanese air units made large-scale raids against the Arawe area in the following days, and in late December elements of two Imperial Japanese Army battalions unsuccessfully counter-attacked the larger American force. In mid-January 1944 the 112th Cavalry Regimental Combat Team was reinforced with additional infantry and U.S. Marine Corps tanks, and launched a brief offensive that pushed the Japanese back. The Japanese units withdrew from the area towards the end of February as part of a general retreat from western New Britain. There is no consensus among historians on whether the Allied landing at Arawe was needed, with some arguing that it provided a useful diversion while others judge that it formed part of an unnecessary campaign.",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Arawe"
+  },
+  "word": {
+    "id": "peregrination",
+    "word": "peregrination",
+    "url": "https://www.merriam-webster.com/dictionary/peregrination",
+    "partOfSpeech": "noun",
+    "pronunciation": "pair-uh-gruh-NAY-shun",
+    "audioPath": "audio/words/peregrination.mp3",
+    "definitions": ["an excursion especially on foot or to a foreign country : journey"],
+    "examples": [
+      "The eccentric millionaire set out on a peregrination around the world, in search of the perfect wine to complement his favorite meal."
+    ],
+    "origin": "We begin our narrative of the linguistic travels of \"peregrination\" with the Latin word \"peregrinus,\" which means \"foreign\" or \"foreigner.\" That term also gave us the words \"pilgrim\" and \"peregrine,\" the latter of which once meant \"alien\" but is now used as an adjective meaning \"tending to wander\" and a noun naming a kind of falcon. (The peregrine falcon is so named because it was traditionally captured during its first flight -- or pilgrimage -- from the nest.) From \"peregrinus\" we travel to the Latin verb \"peregrinari\" (\"to travel in foreign lands\") and its past participle \"peregrinatus.\" Our final destination is the adoption into English in the 16th century of both \"peregrination\" and the verb \"peregrinate\" (\"to travel especially on foot\" or \"to traverse\")."
+  }
+}

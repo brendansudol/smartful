@@ -1,0 +1,144 @@
+{
+  "artist": {
+    "id": "bernardo-strozzi",
+    "name": "Bernardo Strozzi",
+    "dates": "1581 - Aug 2, 1644",
+    "mainImg": "img/art/artists/bernardo-strozzi.jpg",
+    "artworkImgs": [
+      {
+        "name": "The release of St Peter",
+        "path": "img/art/artworks/bernardo-strozzi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-release-of-st-peter-bernardo-strozzi/AgEyTluBFe2rLw"
+      },
+      {
+        "name": "The Cook",
+        "path": "img/art/artworks/bernardo-strozzi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-cook-bernardo-strozzi/YQEdTTOFOX3lfQ"
+      },
+      {
+        "name": "Doubting Thomas",
+        "path": "img/art/artworks/bernardo-strozzi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/doubting-thomas-bernardo-strozzi/7gGtdJAxF2krGQ"
+      },
+      {
+        "name": "Vanitas (Old Coquette)",
+        "path": "img/art/artworks/bernardo-strozzi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/vanitas-old-coquette/3QHiHQNOes2mew"
+      },
+      {
+        "name": "St. Lawrence Distributing the Treasures of the Church",
+        "path": "img/art/artworks/bernardo-strozzi-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/st-lawrence-distributing-the-treasures-of-the-church-bernardo-strozzi/3wH8pF09IrWWXw"
+      },
+      {
+        "name": "Sleeping Child",
+        "path": "img/art/artworks/bernardo-strozzi-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/sleeping-child-strozzi-bernardo-1581-82–1644/lgGBr4-XqrJHKA"
+      }
+    ],
+    "summary": [
+      "Bernardo Strozzi, named il Cappuccino and il Prete Genovese was an Italian Baroque painter and engraver. A canvas and fresco artist, his wide subject range included history, allegorical, genre and portrait paintings as well as still lifes. Born and initially mainly active in Genoa, he worked in Venice in the latter part of his career. His work exercised considerable influence on artistic developments in both cities. He is considered a principal founder of the Venetian Baroque style. His powerful art stands out by its rich and glowing colour and broad, energetic brushstrokes."
+    ],
+    "quote": null,
+    "movements": ["Baroque"],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Ink", "Drawing", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Bernardo_Strozzi",
+    "urlGoogle": "https://artsandculture.google.com/entity/bernardo-strozzi/m04yrnn"
+  },
+  "event": {
+    "id": "space-shuttle-challenger-disaster",
+    "name": "Space Shuttle Challenger disaster",
+    "dates": null,
+    "mainImg": "img/events/space-shuttle-challenger-disaster.jpg",
+    "summary": [
+      "The Space Shuttle Challenger disaster was a fatal incident in the United States space program that occurred on Tuesday, January 28, 1986, when the Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members aboard. The crew consisted of five NASA astronauts, one payload specialist, and a civilian schoolteacher. The mission carried the designation STS-51-L and was the tenth flight for the Challenger orbiter.",
+      "The spacecraft disintegrated over the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 11:39 a.m. EST. The disintegration of the vehicle began after a joint in its right solid rocket booster failed at liftoff. The failure was caused by the failure of O-ring seals used in the joint that were not designed to handle the unusually cold conditions that existed at this launch. The seals' failure caused a breach in the SRB joint, allowing pressurized burning gas from within the solid rocket motor to reach the outside and impinge upon the adjacent SRB aft field joint attachment hardware and external fuel tank. This led to the separation of the right-hand SRB's aft field joint attachment and the structural failure of the external tank."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+    "urlGoogle": "https://artsandculture.google.com/entity/space-shuttle-challenger-disaster/m0244_r"
+  },
+  "funFacts": [
+    {
+      "id": "272",
+      "fact": "At birth a human has 350 bones, but only 206 bones when full grown.",
+      "category": ["Anatomy", "Onlies"]
+    },
+    { "id": "970", "fact": "Dolphins are unable to smell.", "category": ["Animals", "Science"] },
+    {
+      "id": "753",
+      "fact": "A group of goats is called a trip.",
+      "category": ["Animals", "Definitions"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554071",
+      "fact": "The average American typically eats between 3000 and 5000 calories at Thanksgiving dinner."
+    },
+    {
+      "id": "554047",
+      "fact": "When Steven Spielberg re-enrolled at California State, Long Beach to earn his BA more than 30 years after dropping out, he was given three course credits in paleontology for making Jurassic Park."
+    },
+    {
+      "id": "553845",
+      "fact": "Madam C.J. Walker is thought to be America’s first self-made female millionaire. Born to sharecroppers in 1867, she made her fortune selling beauty products for black women."
+    }
+  ],
+  "idiom": {
+    "id": "life-is-just-a-bowl-of-cherries",
+    "term": "life is just a bowl of cherries",
+    "definition": "These are happy circumstances; life is wonderful. This phrase is often used ironically, as in *My husband is about to get laid off--- life is just a bowl of cherries, right?* Originating as the title of a song (1931) by Lew Brown (lyrics) and composer Ray Henderson, this term expressed the idea that everything was going very well. However, its ironical use was established by the 1970s."
+  },
+  "person": {
+    "id": "ruhollah-khomeini",
+    "name": "Ruhollah Khomeini",
+    "dates": "Sep 24, 1902 - Jun 3, 1989",
+    "mainImg": "img/people/ruhollah-khomeini.jpg",
+    "summary": [
+      "Sayyid Ruhollah Musavi Khomeini, also known in the Western world as Ayatollah Khomeini, was an Iranian politician, revolutionary, and cleric. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution, which saw the overthrow of the last Shah of Iran, Mohammad Reza Pahlavi, and the end of the 2,500 year old Persian monarchy. Following the revolution, Khomeini became the country's Supreme Leader, a position created in the constitution of the Islamic Republic as the highest-ranking political and religious authority of the nation, which he held until his death. He was succeeded by Ali Khamenei on 4 June 1989.",
+      "Khomeini was born in 1902 in Khomeyn, in what is now Iran's Markazi Province. His father was murdered in 1903 when Khomeini was five months old. He began studying the Quran and the Persian language from a young age and was assisted in his religious studies by his relatives, including his mother's cousin and older brother.",
+      "Khomeini was a marja in Twelver Shia Islam, a Mujtahid or faqih and author of more than 40 books, but he is primarily known for his political activities."
+    ],
+    "quote": "“In Iran's future Islamic system everyone can express their opinion, and the Islamic government will respond to logic with logic”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini",
+    "urlGoogle": "https://artsandculture.google.com/entity/ruhollah-khomeini/m06jsx"
+  },
+  "place": {
+    "id": "orlando",
+    "name": "Orlando",
+    "mainImg": "img/places/orlando.jpg",
+    "summary": [
+      "Orlando is a city in the U.S. state of Florida and the county seat of Orange County. Located in Central Florida, it is the center of the Orlando metropolitan area, which had a population of 2,509,831, according to U.S. Census Bureau figures released in July 2017. These figures make it the 23rd-largest metropolitan area in the United States, the sixth-largest metropolitan area in the Southern United States, and the third-largest metropolitan area in Florida. As of 2019, Orlando had an estimated city-proper population of 287,442, making it the 71st-largest city in the United States, the fourth-largest city in Florida, and the state's largest inland city.",
+      "The City of Orlando is nicknamed \"the City Beautiful,\" and its symbol is the Linton E. Allen Memorial Fountain, commonly referred to as simply the \"Lake Eola fountain\" at Lake Eola Park. The Orlando International Airport is the thirteenth-busiest airport in the United States and the 29th-busiest in the world.",
+      "Orlando is one of the most visited cities in the world primarily driven by tourism, major events, and convention traffic, in 2018 the city drew more than 75 million visitors."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Orlando,_Florida",
+    "urlGoogle": "https://artsandculture.google.com/entity/orlando/m0ply0"
+  },
+  "quote": {
+    "id": "32",
+    "quote": "Kindness is the language which the deaf can hear and the blind can see.",
+    "author": "Mark Twain"
+  },
+  "wiki": {
+    "id": "german-battleship-bismarck",
+    "name": "German battleship Bismarck",
+    "summary": "Bismarck was the first of two Bismarck-class battleships built for the German Kriegsmarine. Named after Chancellor Otto von Bismarck, the primary force behind German unification in 1871, the ship was launched on 14 February 1939 and commissioned in August 1940. Bismarck and her sister ship Tirpitz were the largest battleships ever built by Germany, and two of the largest built by any European power. Bismarck conducted only one offensive operation, in May 1941. The ship, along with the heavy cruiser Prinz Eugen, was to raid Allied shipping from North America to Great Britain. The two ships were detected several times off Scandinavia, and British naval units were deployed to block them. At the Battle of the Denmark Strait, Bismarck destroyed the battlecruiser HMS Hood, the pride of the Royal Navy, and forced the battleship HMS Prince of Wales to retreat. After two days of relentless pursuit by the Royal Navy, she was attacked by torpedo bombers from the aircraft carrier HMS Ark Royal and her steering gear was rendered inoperable. In her final battle the following morning, Bismarck was neutralised by a sustained bombardment, was scuttled by her crew, and sank with heavy loss of life.",
+    "url": "https://en.wikipedia.org/wiki/German_battleship_Bismarck"
+  },
+  "word": {
+    "id": "encomium",
+    "word": "encomium",
+    "url": "https://www.merriam-webster.com/dictionary/encomium",
+    "partOfSpeech": "noun",
+    "pronunciation": "en-KOH-mee-um",
+    "audioPath": "audio/words/encomium.mp3",
+    "definitions": ["glowing and warmly enthusiastic praise; also : an expression of this"],
+    "examples": [
+      "\"The book is beautifully written and unquestioningly deserves the encomiums of critics who compared it to 'The Great Gatsby' for its elegiac tone.\" (David Milofsky, _The Denver Post_, August 2, 2009)"
+    ],
+    "origin": "\"The love of praise, howe're concealed by art / Reigns more or less, and glows in every heart.\" British writer Edward Young knew how much people love to hear praise -- and so did the ancient Greeks, the originators of \"encomium.\" They formalized that particular expression of praise and named it an \"enkōmion,\" from their terms \"en,\" meaning \"in,\" and \"kōmos,\" meaning \"celebration.\" The original encomiums were eulogies or panegyrics, often ones prepared in honor of a victor in the Olympics. The term was later broadened to refer to any laudatory ode. Since then encomiums have been written praising everyone from Julius Caesar to Elton John, although not all have been entirely serious -- one of the best known is the satirical \"Moriae Encomium\" (\"Praise of Folly\") by Erasmus."
+  }
+}

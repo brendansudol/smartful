@@ -1,0 +1,144 @@
+{
+  "artist": {
+    "id": "emile-galle",
+    "name": "Émile Gallé",
+    "dates": "May 8, 1846 - Sep 23, 1904",
+    "mainImg": "img/art/artists/emile-galle.jpg",
+    "artworkImgs": [
+      {
+        "name": "Hand with Seaweed and Shells",
+        "path": "img/art/artworks/emile-galle-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/hand-with-seaweed-and-shells-emile-gallé/3QH1q7j-jzvqaw"
+      },
+      {
+        "name": "Dragonfly Lamp",
+        "path": "img/art/artworks/emile-galle-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/dragonfly-lamp-émile-gallé/xgHm37sEHZROlQ"
+      },
+      {
+        "name": "Elephant Vase",
+        "path": "img/art/artworks/emile-galle-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/elephant-vase-emile-gallé/TQEGbP67tbmZCA"
+      },
+      {
+        "name": "Clematis Émile Gallé",
+        "path": "img/art/artworks/emile-galle-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/clematis-émile-gallé-émile-gallé/kgEC-1jrOmPB-w"
+      },
+      {
+        "name": "Prunus Émile Gallé",
+        "path": "img/art/artworks/emile-galle-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/prunus-émile-gallé-émile-gallé/cQGdsb-24qM4Tg"
+      },
+      {
+        "name": "Vase decorated with dragonflies and irises",
+        "path": "img/art/artworks/emile-galle-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/vase-decorated-with-dragonflies-and-irises-émile-gallé/RAF3C9N1hGW2bA"
+      }
+    ],
+    "summary": [
+      "Émile Gallé was a French artist and designer who worked in glass, and is considered to be one of the major innovators in the French Art Nouveau movement. He was noted for his designs of Art Nouveau glass art and Art Nouveau furniture, and was a founder of the École de Nancy or Nancy School, a movement of design in the city of Nancy, France."
+    ],
+    "quote": null,
+    "movements": ["Art Nouveau"],
+    "mediums": ["Glass", "Lead glass", "Metal", "Vitreous enamel", "Etching", "Silver"],
+    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89mile_Gall%C3%A9",
+    "urlGoogle": "https://artsandculture.google.com/entity/émile-gallé/m01gtzn"
+  },
+  "event": {
+    "id": "sukhoi",
+    "name": "Sukhoi",
+    "dates": null,
+    "mainImg": "img/events/sukhoi.jpg",
+    "summary": [
+      "The JSC Sukhoi Company is a major Soviet and now Russian aircraft manufacturer, headquartered in Begovoy District, Northern Administrative Okrug, Moscow, that designs both civilian and military aircraft. It was founded by Pavel Sukhoi in 1939 as the Sukhoi Design Bureau. During February 2006, the Russian government merged Sukhoi with Mikoyan, Ilyushin, Irkut, Tupolev, and Yakovlev as a new company named United Aircraft Corporation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sukhoi",
+    "urlGoogle": "https://artsandculture.google.com/entity/sukhoi/m02rm8f"
+  },
+  "funFacts": [
+    {
+      "id": "987",
+      "fact": "The first American gold rush happened in North Carolina, not California.",
+      "category": ["Geography", "History", "Firsts"]
+    },
+    {
+      "id": "1014",
+      "fact": "Forty is the only number whose letters are in alphabetical order.",
+      "category": ["Onlies"]
+    },
+    {
+      "id": "443",
+      "fact": "The pound sign, or #, is called an octothorp.",
+      "category": ["Definitions"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504655",
+      "fact": "Golf legend Jack Nicklaus earned his nickname, the Golden Bear, thanks to his size and blond hair. Conveniently, it was also the name of his high school mascot."
+    },
+    { "id": "553920", "fact": "Bela Lugosi was buried in full Dracula costume—cape and all." },
+    {
+      "id": "553553",
+      "fact": "Ada Lovelace, the daughter of poet Lord Byron, wrote the first algorithm created specifically for a machine."
+    }
+  ],
+  "idiom": {
+    "id": "rain-check",
+    "term": "rain check",
+    "definition": "A promise that an unaccepted offer will be renewed in the future, as in *I can't come to dinner Tuesday but hope you'll give me a rain check.* This term comes from baseball, where in the 1880s it became the practice to offer paying spectators a rain check entitling them to future admission for a game that was postponed or ended early owing to bad weather. By the early 1900s the term was transferred to tickets for other kinds of entertainment, and later to a coupon entitling a customer to buy, at a later date and at the same price, a sale item temporarily out of stock."
+  },
+  "person": {
+    "id": "rudolf-hess",
+    "name": "Rudolf Hess",
+    "dates": "Apr 26, 1894 - Aug 17, 1987",
+    "mainImg": "img/people/rudolf-hess.jpg",
+    "summary": [
+      "Rudolf Walter Richard Hess was a German politician and a leading member of the Nazi Party in Nazi Germany. Appointed Deputy Führer to Adolf Hitler in 1933, Hess served in that position until 1941, when he flew solo to Scotland in an attempt to negotiate peace with the United Kingdom during World War II. He was taken prisoner and eventually convicted of crimes against peace, serving a life sentence until his suicide in 1987.",
+      "Hess enlisted as an infantryman at the outbreak of World War I. He was wounded several times over the course of the war and was awarded the Iron Cross, 2nd Class in 1915. Shortly before the war ended, Hess enrolled to train as an aviator, but he saw no action in that role. He left the armed forces in December 1918 with the rank of Leutnant der Reserve. In 1919 Hess enrolled in the University of Munich, where he studied geopolitics under Karl Haushofer, a proponent of the concept of Lebensraum, which became one of the pillars of Nazi ideology. Hess joined the Nazi Party on 1 July 1920 and was at Hitler's side on 8 November 1923 for the Beer Hall Putsch, a failed Nazi attempt to seize control of the government of Bavaria."
+    ],
+    "quote": "“You take an oath to a man whom you know follows the laws of providence, which he obeys independently of the influence of earthly powers, who leads the German people rightly, and who will guide Germany's fate. Through your oath you bind yourselves to a man who — that is our faith — was sent to us by higher powers. Do not seek Adolf Hitler with your mind. You will find him through the strength of your hearts!”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Rudolf_Hess",
+    "urlGoogle": "https://artsandculture.google.com/entity/rudolf-hess/m025bs7"
+  },
+  "place": {
+    "id": "nagpur",
+    "name": "Nagpur",
+    "mainImg": "img/places/nagpur.jpg",
+    "summary": [
+      "Nagpur is the third largest city and the winter capital of the Indian state of Maharashtra. It is the 13th largest city in India by population and according to an Oxford Economics report, Nagpur is projected to be the fifth fastest growing city in the world from 2019 to 2035 with an average growth of 8.41%. It has been proposed as one of the Smart Cities in Maharashtra and is one of the top ten cities in India in Smart City Project execution.",
+      "Nagpur is the seat of the annual winter session of the Maharashtra state assembly. It is a major commercial and political centre of the Vidarbha region of Maharashtra. In addition, the city derives unique importance from being the headquarters for the Hindu nationalist organisation RSS and an important location for the Dalit Buddhist movement. Nagpur is also known for Deekshabhoomi, the largest hollow stupa among all the Buddhist stupas in the world.",
+      "According to a survey by ABP News-Ipsos, Nagpur was identified as the best city in India topping in livability, greenery, public transport, and health care indices in 2013. The city was adjudged the 20th cleanest city in India and the top mover in the western zone as per Swachh Sarvekshan 2016."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Nagpur",
+    "urlGoogle": "https://artsandculture.google.com/entity/nagpur/m02c98m"
+  },
+  "quote": {
+    "id": "87",
+    "quote": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great makes you feel that you, too, can become great.",
+    "author": "Mark Twain"
+  },
+  "wiki": {
+    "id": "hannah-primrose-countess-of-rosebery",
+    "name": "Hannah Primrose, Countess of Rosebery",
+    "summary": "Hannah Primrose, Countess of Rosebery was the daughter of Baron Mayer de Rothschild and his wife Juliana, née Cohen. On the death of her father in 1874 she became the richest woman in Britain. Her husband, the 5th Earl of Rosebery, was, during the final quarter of the nineteenth century, one of the most celebrated figures in Britain, an influential millionaire and politician, whose charm, wit, charisma and public popularity gave him such standing that he \"almost eclipsed royalty\". Her marriage into the aristocracy, while controversial at the time, gave her the social cachet in an anti-Semitic society that her vast fortune could not. She subsequently became a political hostess and philanthropist. Her charitable work was principally in the sphere of public health and causes associated with the welfare of working class Jewish women living in the poorer districts of London. Having firmly assisted and supported her husband on his path to political greatness, she suddenly died in 1890, aged 39, leaving him to achieve, bewildered and without her support, the political destiny which she had plotted alone. His premiership of the United Kingdom was shambolic, and lasted barely a year.",
+    "url": "https://en.wikipedia.org/wiki/Hannah_Primrose,_Countess_of_Rosebery"
+  },
+  "word": {
+    "id": "canoodle",
+    "word": "canoodle",
+    "url": "https://www.merriam-webster.com/dictionary/canoodle",
+    "partOfSpeech": "verb",
+    "pronunciation": "kuh-NOO-dul",
+    "audioPath": "audio/words/canoodle.mp3",
+    "definitions": ["to engage in amorous embracing, caressing, and kissing"],
+    "examples": [
+      "Chaperones watched for couples attempting to sneak under the gymnasium's bleachers to _canoodle_.",
+      "\"The honeymooners are ubiquitous. They cuddle on the beaches, and they maneuver kayaks across the clear, turquoise waterways. They hold hands and _canoodle_ at dinner in dimly lit restaurants.\" -- From an article by Ron Donoho in _San Diego Magazine_, January 2009"
+    ],
+    "origin": "The origins of \"canoodle\" are obscure. Our best guess is that it may come from an English dialect noun of the same spelling meaning \"donkey, fool, or foolish lover,\" which itself may be an alteration of the word \"noodle,\" meaning \"a foolish person.\" That \"noodle\" in turn may come from \"noddle,\" a word for the head. The guess seems reasonable given that, since its appearance in the language around the mid-19th century, \"canoodle\" has been most often used jocularly for playful public displays of affection by couples who are head over heels in love."
+  }
+}

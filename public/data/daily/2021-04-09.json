@@ -1,0 +1,148 @@
+{
+  "artist": {
+    "id": "rosa-bonheur",
+    "name": "Rosa Bonheur",
+    "dates": "Mar 16, 1822 - May 25, 1899",
+    "mainImg": "img/art/artists/rosa-bonheur.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Horse Fair",
+        "path": "img/art/artworks/rosa-bonheur-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-horse-fair-rosa-bonheur/CQEwn148MFVH9w"
+      },
+      {
+        "name": "Weaning the Calves",
+        "path": "img/art/artworks/rosa-bonheur-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/weaning-the-calves-rosa-bonheur/GQFWW9BxSiAc1g"
+      },
+      {
+        "name": "A Limier Briquet Hound",
+        "path": "img/art/artworks/rosa-bonheur-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-limier-briquet-hound-rosa-bonheur/NAGcz0kq5p8cQA"
+      },
+      {
+        "name": "Highland Raid",
+        "path": "img/art/artworks/rosa-bonheur-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/highland-raid-rosa-bonheur/LgFFs-4LCo8eqw"
+      },
+      {
+        "name": "Sheep by the Sea",
+        "path": "img/art/artworks/rosa-bonheur-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/sheep-by-the-sea-rosa-bonheur/5gHe7NOwPF5ThQ"
+      },
+      {
+        "name": "Ewe, or A Grazing Sheep",
+        "path": "img/art/artworks/rosa-bonheur-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/ewe-or-a-grazing-sheep-rosa-bonheur/qgHBBy6IvjWaYw"
+      }
+    ],
+    "summary": [
+      "Rosa Bonheur, born Marie-Rosalie Bonheur, was a French artist, mostly a painter of animals but also a sculptor, in a realist style. Her best-known paintings are Ploughing in the Nivernais, first exhibited at the Paris Salon of 1848, and now at the Musée d'Orsay in Paris, and The Horse Fair, which was exhibited at the Salon of 1853 and is now in the Metropolitan Museum of Art, in New York City. Bonheur was widely considered to be the most famous female painter of the nineteenth century."
+    ],
+    "quote": null,
+    "movements": ["Realism"],
+    "mediums": ["Oil paint", "Ink", "Bronze", "Drawing", "Metal", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Rosa_Bonheur",
+    "urlGoogle": "https://artsandculture.google.com/entity/rosa-bonheur/m0jr4v"
+  },
+  "event": {
+    "id": "battle-of-buna-gona",
+    "name": "Battle of Buna–Gona",
+    "dates": "Nov 16, 1942 - Jan 22, 1943",
+    "mainImg": "img/events/battle-of-buna-gona.jpg",
+    "summary": [
+      "The Battle of Buna–Gona was part of the New Guinea campaign in the Pacific Theatre during World War II. It followed the conclusion of the Kokoda Track campaign and lasted from 16 November 1942 until 22 January 1943. The battle was fought by Australian and United States forces against the Japanese beachheads at Buna, Sanananda and Gona. From these, the Japanese had launched an overland attack on Port Moresby. In light of developments in the Solomon Islands campaign, Japanese forces approaching Port Moresby were ordered to withdraw to and secure these bases on the northern coast. Australian forces maintained contact as the Japanese conducted a well-ordered rearguard action. The Allied objective was to eject the Japanese forces from these positions and deny them their further use. The Japanese forces were skillful, well prepared and resolute in their defence. They had developed a strong network of well-concealed defences.",
+      "Operations in Papua and New Guinea were severely hampered by terrain, vegetation, climate, disease and the lack of infrastructure; these imposed significant logistical limitations."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Buna%E2%80%93Gona",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-buna–gona/m0477nv"
+  },
+  "funFacts": [
+    {
+      "id": "233",
+      "fact": "There are seven letters that look the same upside down as right side up.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "418",
+      "fact": "The smallest mammal in the world is the bumblebee bat, which weighs less than a penny.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "930",
+      "fact": "Even though it is nearly twice as far away from the Sun as Mercury, Venus is by far the hottest planet.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553834",
+      "fact": "In The Empire Strikes Back, an extra can be seen running with what appears to be an ice cream maker. The character became legendary among fans, and was eventually given a name (Willrow Hood) and a backstory."
+    },
+    {
+      "id": "504710",
+      "fact": "There's a basketball court above the Supreme Court. It's known as the Highest Court in the Land."
+    },
+    { "id": "553419", "fact": "“Horizontal refreshment” was a 19th century slang term for sex." }
+  ],
+  "idiom": {
+    "id": "right-as-rain",
+    "term": "right as rain",
+    "definition": "In good order or good health, satisfactory, as in *He was very ill, but he's right as rain now,* or *If she'd only worked on it another week everything would have been as right as rain.* The allusion in this simile is unclear, but it originated in Britain, where rainy weather is a normal fact of life, and indeed W.L. Phelps wrote, \"The expression 'right as rain' must have been invented by an Englishman.\" It was first recorded in 1894."
+  },
+  "person": {
+    "id": "lech-kaczynski",
+    "name": "Lech Kaczyński",
+    "dates": "Jun 18, 1949 - Apr 10, 2010",
+    "mainImg": "img/people/lech-kaczynski.jpg",
+    "summary": [
+      "Lech Aleksander Kaczyński was a Polish lawyer and politician who served as the Mayor of Warsaw from 2002 until 2005 and as the President of Poland from 2005 until his death in 2010. Before his tenure as president, he previously served as President of the Supreme Audit Office from 1992 to 1995 and later Minister of Justice and Public Prosecutor General in Jerzy Buzek's cabinet from 2000 until his dismissal in July 2001.",
+      "Born in Warsaw, he starred in a 1962 Polish film, The Two Who Stole the Moon, with his identical twin brother Jarosław. Kaczyński was a graduate of law and administration of Warsaw University. In 1980, he was awarded his PhD by Gdańsk University. In 1990, he completed his habilitation in labour and employment law. He later assumed professorial positions at Gdańsk University and Cardinal Stefan Wyszyński University in Warsaw.",
+      "During the communist period, Kaczyński was an activist in the pro-democratic anti-communist movement in Poland, the Workers' Defence Committee, as well as the Independent Trade Union movement. In August 1980, he became an adviser to the Inter-Enterprise Strike Committee in the Gdańsk Shipyard and the Solidarity movement."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Lech_Kaczy%C5%84ski",
+    "urlGoogle": "https://artsandculture.google.com/entity/lech-kaczyński/m02zbg1"
+  },
+  "place": {
+    "id": "boca-raton",
+    "name": "Boca Raton",
+    "mainImg": "img/places/boca-raton.jpg",
+    "summary": [
+      "Boca Raton, is the southernmost city in Palm Beach County, Florida, United States. It was first incorporated on August 2, 1924, as \"Bocaratone,\" and then incorporated as \"Boca Raton\" in 1925. The 2019 population estimated by the U.S. Census Bureau was 99,805. Known as one of the wealthiest cities in South Florida with common sights of yachts, private jets, exotic cars, and mansions which are concentrated in the Downtown, Coastal, and Gated Country Club Communities. With a multitude of amenities such as golf, tennis, racquetball, polo, swimming pools, spas, gyms, and restaurants, Boca Raton has been consistently highly ranked for fitness and leisure. Outside of the Boca Raton city jurisdiction, there are approximately 200,000 people with a Boca Raton postal address, even though they live outside of municipal boundaries, such as West Boca Raton. As a business center, the city experiences significant daytime population increases. Boca Raton is 43 miles north of Miami and is a principal city of the Miami metropolitan area, which had a population of 6,012,331 people as of 2015."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Boca_Raton,_Florida",
+    "urlGoogle": "https://artsandculture.google.com/entity/boca-raton/m0c5v2"
+  },
+  "quote": {
+    "id": "70",
+    "quote": "When you talk, you are only repeating what you already know. But if you listen, you may learn something new.",
+    "author": "Dalai Lama"
+  },
+  "wiki": {
+    "id": "aethelred-lord-of-the-mercians",
+    "name": "Æthelred, Lord of the Mercians",
+    "summary": "Æthelred, Lord of the Mercians (died 911) became ruler of English Mercia shortly after the death of its last king, Ceolwulf II, in 879. His rule was confined to the western half, as eastern Mercia was then part of the Viking-ruled Danelaw. Æthelred's origin is unknown, and he was first recorded as the probable leader of an unsuccessful Mercian invasion of Wales in 881. Shortly afterwards, he married Æthelflæd, a daughter of King Alfred the Great of Wessex, and submitted to Alfred's lordship, an important step towards the unification of England in the next century. In the 890s the Vikings renewed their attacks, and in 893 Æthelred led a joint force of Mercians, West Saxons and Welsh to a decisive victory over the Vikings at the Battle of Buttington. He spent much of the decade fighting the Vikings in cooperation with Alfred's son, the future Edward the Elder. Historians disagree whether Æthelred governed Mercia as Alfred's deputy or whether he was a ruler of a semi-independent territory. Æthelred died in 911 and was succeeded by his widow, and then briefly by his daughter, before Mercia was annexed by Edward the Elder in 918.",
+    "url": "https://en.wikipedia.org/wiki/%C3%86thelred,_Lord_of_the_Mercians"
+  },
+  "word": {
+    "id": "demotic",
+    "word": "demotic",
+    "url": "https://www.merriam-webster.com/dictionary/demotic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dih-MAH-tik",
+    "audioPath": "audio/words/demotic.mp3",
+    "definitions": [
+      "of, relating to, or written in a simplified form of the ancient Egyptian hieratic writing",
+      "common, popular",
+      "of or relating to the form of Modern Greek that is based on everyday speech"
+    ],
+    "examples": [
+      "The style of her art work is intentionally _demotic_, aimed at ordinary people rather than the elite of the art world.",
+      "\"The _demotic_ dictionary gives researchers definitions, shows word uses and helps with translating texts. But it also serves as a reference guide for reconstructing and understanding ancient Egyptian culture, whether it's the nuances of government, commerce, politics, religion or male-female relationships.\" - From an article by Dawn Turner Trice in the _Chicago Tribune_, October 22, 2012"
+    ],
+    "origin": "You may recognize the root of \"demotic\" from words like \"democracy\" and \"demography.\" The source of these words is the Greek word \"dēmos,\" meaning \"people.\" \"Demotic\" is often used of everyday forms of language (as opposed to literary or highbrow versions). It entered English in the early 1800s and originally designated a form of ancient Egyptian cursive script which by the 5th century BCE had come into use everywhere in Egypt for business and literary purposes (in contrast to the more complex, hieratic script retained by the clergy). \"Demotic\" has a newer specialized sense as well, referring to a form of Modern Greek that is based on everyday speech and that since 1976 has been the official language of Greece."
+  }
+}

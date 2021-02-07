@@ -1,0 +1,150 @@
+{
+  "artist": {
+    "id": "elisabeth-vigee-le-brun",
+    "name": "Élisabeth Vigée Le Brun",
+    "dates": "Apr 16, 1755 - Mar 30, 1842",
+    "mainImg": "img/art/artists/elisabeth-vigee-le-brun.jpg",
+    "artworkImgs": [
+      {
+        "name": "Marie-Antoinette, Queen of France",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-antoinette-queen-of-france-elisabeth-vigée-le-brun/tAEhw_2KvIWeXQ"
+      },
+      {
+        "name": "Marie-Antoinette with the Rose",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-antoinette-with-the-rose-louise-elisabeth-vigée-lebrun/qwHgKqLoAQb9FQ"
+      },
+      {
+        "name": "Marie-Antoinette de Lorraine-Habsbourg, queen of France, and her children",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-antoinette-de-lorraine-habsbourg-queen-of-france-and-her-children-elisabeth-louise-vigée-lebrun/RQE3s9ANo6GnTg"
+      },
+      {
+        "name": "Madame Grand (Noël Catherine Vorlée, 1761–1835)",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/madame-grand-noël-catherine-vorlée-1761–1835-élisabeth-louise-vigée-le-brun/WgH6erQsCpS08A"
+      },
+      {
+        "name": "Madame Grand (Noël Catherine Vorlée, 1761–1835)",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/madame-grand-noël-catherine-vorlée-1761–1835-élisabeth-louise-vigée-le-brun/VgGVzbNUlGoZmQ"
+      },
+      {
+        "name": "Marie-Antoinette, Queen of France",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-antoinette-queen-of-france-anonymous-after-elisabeth-louise-vigée-le-brun/UgFU_zbdIEfGkA"
+      }
+    ],
+    "summary": [
+      "Élisabeth Louise Vigée Le Brun, also known as Madame Le Brun, was a prominent French portrait painter of the late 18th century.",
+      "Her artistic style is generally considered part of the aftermath of Rococo with elements of an adopted Neoclassical style. Her subject matter and color palette can be classified as Rococo, but her style is aligned with the emergence of Neoclassicism. Vigée Le Brun created a name for herself in Ancien Régime society by serving as the portrait painter to Marie Antoinette. She enjoyed the patronage of European aristocrats, actors, and writers, and was elected to art academies in ten cities.",
+      "Vigée Le Brun created some 660 portraits and 200 landscapes. In addition to many works in private collections, her paintings are owned by major museums, such as the Louvre, Hermitage Museum, National Gallery in London, Metropolitan Museum of Art in New York, and many other collections in continental Europe and the United States."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism", "Rococo", "Renaissance"],
+    "mediums": ["Oil paint", "Etching", "Engraving", "Wood", "Ink", "Oak"],
+    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun",
+    "urlGoogle": "https://artsandculture.google.com/entity/élisabeth-vigée-le-brun/m02q0w"
+  },
+  "event": {
+    "id": "the-netherlands-war-of-independence-second-part",
+    "name": "The Netherlands War of Independence (second part)",
+    "dates": "1568 - 1648",
+    "mainImg": "img/events/the-netherlands-war-of-independence-second-part.jpg",
+    "summary": [
+      "The Eighty Years' War or Dutch War of Independence was a revolt of the Seventeen Provinces of what are today the Netherlands, Belgium, and Luxembourg against Philip II of Spain, the sovereign of the Habsburg Netherlands. After the initial stages, Philip II deployed his armies and regained control over most of the rebelling provinces. Under the leadership of the exiled William the Silent, the northern provinces continued their resistance. They eventually were able to oust the Habsburg armies, and in 1581 they established the Republic of the Seven United Netherlands. The war continued in other areas, although the heartland of the republic was no longer threatened. This included the origins of the Dutch colonial empire, which began with Dutch attacks on Portugal's overseas territories, which at the time was conceived as carrying overseas the war with Spain due to Portugal being in a dynastic union with Spain.",
+      "The Dutch Republic was recognized by Spain and the major European powers in 1609 at the start of the Twelve Years' Truce. Hostilities broke out again around 1619, as part of the broader Thirty Years' War."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-netherlands-war-of-independence-second-part/g1215pr1x"
+  },
+  "funFacts": [
+    {
+      "id": "202",
+      "fact": "The mouth of the Statue of Liberty is 3 feet wide.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "304",
+      "fact": "In 1900, 1/3 of all automobiles in New York City were powered by electricity.",
+      "category": ["History", "Science"]
+    },
+    {
+      "id": "469",
+      "fact": "454 U.S. dollar bills weigh exactly one pound.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553808",
+      "fact": "Sleep literally cleans your brain. During slumber, more cerebrospinal fluid flushes through the brain to wash away harmful proteins and toxins that build up during the day."
+    },
+    {
+      "id": "553532",
+      "fact": "Like casinos, shopping malls are intentionally designed to disorient visitors. The feeling of losing track of time and geography inside a mall is called the Gruen Transfer."
+    },
+    { "id": "505072", "fact": "Paraskavedekatriaphobia is the fear of Friday the 13th." }
+  ],
+  "idiom": {
+    "id": "on-ones-uppers",
+    "term": "on one's uppers",
+    "definition": "Poor, in reduced circumstances, as in as in *The Smiths try to hide the fact that they're on their uppers.* First recorded in 1886, this metaphoric term alludes to having worn out the soles of one's shoes so badly that only the top portions remain."
+  },
+  "person": {
+    "id": "ahmed-sekou-toure",
+    "name": "Ahmed Sékou Touré",
+    "dates": "Jan 9, 1922 - Mar 26, 1984",
+    "mainImg": "img/people/ahmed-sekou-toure.jpg",
+    "summary": [
+      "Ahmed Sékou Touré was a Guinean political leader who was the first President of Guinea, serving from 1958 until his death in 1984. Touré was among the primary Guinean nationalists involved in gaining independence of the country from France.",
+      "A devout Muslim from the Mandinka ethnic group, Sékou Touré was the great grandson of the powerful Mandinka Muslim cleric Samori Toure who established an independent Islamic rule in part of West Africa. In 1960, he declared his Democratic Party of Guinea the only legal party in the state, and ruled from then on as a virtual dictator. He was re-elected unopposed to four seven-year terms in the absence of any legal opposition. Under his rule many people were killed including at the notorious Camp Boiro."
+    ],
+    "quote": "“We prefer poverty in liberty than riches in slavery.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9",
+    "urlGoogle": "https://artsandculture.google.com/entity/ahmed-sékou-touré/m022rvj"
+  },
+  "place": {
+    "id": "madagascar",
+    "name": "Madagascar",
+    "mainImg": "img/places/madagascar.jpg",
+    "summary": [
+      "Madagascar, officially the Republic of Madagascar, and previously known as the Malagasy Republic, is an island country in the Indian Ocean, approximately 400 kilometres off the coast of East Africa. At 592,800 square kilometres Madagascar is the world's second-largest island country. The nation comprises the island of Madagascar and numerous smaller peripheral islands. Following the prehistoric breakup of the supercontinent Gondwana, Madagascar split from the Indian subcontinent around 88 million years ago, allowing native plants and animals to evolve in relative isolation. Consequently, Madagascar is a biodiversity hotspot; over 90% of its wildlife is found nowhere else on Earth. The island's diverse ecosystems and unique wildlife are threatened by the encroachment of the rapidly growing human population and other environmental threats.",
+      "The archaeological evidence of the earliest human foraging on Madagascar may date up to 10,000 years ago. Human settlement of Madagascar occurred between 350 BC and 550 AD by Indianized Austronesian peoples, arriving on outrigger canoes from Indonesia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Madagascar",
+    "urlGoogle": "https://artsandculture.google.com/entity/madagascar/m04sj3"
+  },
+  "quote": {
+    "id": "79",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  "wiki": {
+    "id": "hurricane-grace-1991",
+    "name": "Hurricane Grace (1991)",
+    "summary": "Hurricane Grace was a short-lived Category 2 hurricane that contributed to the formation of the powerful 1991 \"Perfect Storm\". Forming on October 26, Grace initially had subtropical origins, meaning it was partially tropical and partially extratropical in nature. It became a tropical cyclone on October 27, and ultimately peaked with winds of 100 mph (155 km/h). The storm had minor effects on the island of Bermuda as it passed to the south. A developing extratropical storm to the north turned Grace eastward; the hurricane was eventually absorbed into the large circulation of the larger low pressure system. Fed by the contrast between cold air to the northwest and warm air from the remnants of Hurricane Grace, this storm became a large and powerful nor'easter that caused extremely high waves and resulted in severe coastal damage along the U.S. East Coast.",
+    "url": "https://en.wikipedia.org/wiki/Hurricane_Grace_(1991)"
+  },
+  "word": {
+    "id": "foliage",
+    "word": "foliage",
+    "url": "https://www.merriam-webster.com/dictionary/foliage",
+    "partOfSpeech": "noun",
+    "pronunciation": "FOH-lee-ij",
+    "audioPath": "audio/words/foliage.mp3",
+    "definitions": [
+      "a representation of leaves, flowers, and branches for architectural ornamentation",
+      "the aggregate of leaves of one or more plants",
+      "a cluster of leaves, flowers, and branches"
+    ],
+    "examples": [
+      "The autumn _foliage_ is often a resplendent display of reds, oranges, and yellows.",
+      "\"The Virginia Tech football team's success has become a rite of autumn in Blacksburg, with victories accumulating as consistently as the _foliage_ that falls over the Blue Ridge Mountains.\" -- From an article by Adam Himmelsbach in the _New York Times_, September 6, 2010"
+    ],
+    "origin": "The English language has its share of common but disputed usages. One such example is the pronunciation of \"foliage\" as FOH-lij or, even more irksome to some, FOY-lij. The first of these two pronunciations, though frequently disparaged, is consistent with the pronunciation of the \"-iage\" ending in \"marriage\" and \"carriage,\" as well the less common but widely accepted pronunciation of \"verbiage\" as VER-bij. The second of these is often more fiercely denounced, in part because of its association with the nonstandard spelling \"foilage.\" Oddly enough, \"foliage\" traces back to Middle French \"foille\" (\"leaf\"), which is also the source of the English word \"foil.\" (When adopted by Middle English speakers, \"foil\" originally meant \"leaf.\")"
+  }
+}

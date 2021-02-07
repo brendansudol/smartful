@@ -1,0 +1,158 @@
+{
+  "artist": {
+    "id": "paul-gauguin",
+    "name": "Paul Gauguin",
+    "dates": "Jun 7, 1848 - May 8, 1903",
+    "mainImg": "img/art/artists/paul-gauguin.jpg",
+    "artworkImgs": [
+      {
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/paul-gauguin-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-paul-gauguin/KgHdj5f98vdwmA"
+      },
+      {
+        "name": "Two Tahitian Women",
+        "path": "img/art/artworks/paul-gauguin-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/two-tahitian-women-paul-gauguin/OgG62zk4SoKlnA"
+      },
+      {
+        "name": "Vincent van Gogh painting sunflowers",
+        "path": "img/art/artworks/paul-gauguin-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/vincent-van-gogh-painting-sunflowers-paul-gauguin/XgHfqMF7DBqobQ"
+      },
+      {
+        "name": "Arii Matamoe (The Royal End)",
+        "path": "img/art/artworks/paul-gauguin-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/arii-matamoe-the-royal-end/tQGYlAKx_uRabQ"
+      },
+      {
+        "name": "The Seed of the Areoi",
+        "path": "img/art/artworks/paul-gauguin-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-seed-of-the-areoi-paul-gauguin/SAFhIKAr_n0oUg"
+      },
+      {
+        "name": "Still Life with Three Puppies",
+        "path": "img/art/artworks/paul-gauguin-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-three-puppies-paul-gauguin/MQHj7hahHL85Vg"
+      }
+    ],
+    "summary": [
+      "Eugène Henri Paul Gauguin was a French Post-Impressionist artist. Unappreciated until after his death, Gauguin is now recognized for his experimental use of color and Synthetist style that were distinct from Impressionism. Toward the end of his life, he spent ten years in French Polynesia. The paintings from this time depict people or landscapes from that region.",
+      "His work was influential to the French avant-garde and many modern artists, such as Pablo Picasso and Henri Matisse. Gauguin's art became popular after his death, partially from the efforts of art dealer Ambroise Vollard, who organized exhibitions of his work late in his career and assisted in organizing two important posthumous exhibitions in Paris.",
+      "Gauguin was an important figure in the Symbolist movement as a painter, sculptor, printmaker, ceramist, and writer. His expression of the inherent meaning of the subjects in his paintings, under the influence of the cloisonnist style, paved the way to Primitivism and the return to the pastoral. He was also an influential proponent of wood engraving and woodcuts as art forms."
+    ],
+    "quote": "“Civilization is what makes you sick.”",
+    "movements": [
+      "Symbolism",
+      "Modern art",
+      "Post-Impressionism",
+      "Primitivism",
+      "Synthetism",
+      "Impressionism"
+    ],
+    "mediums": ["Oil paint", "Ink", "Graphite", "Pen", "Crayon", "Pencil"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Paul_Gauguin",
+    "urlGoogle": "https://artsandculture.google.com/entity/paul-gauguin/m0h82x"
+  },
+  "event": {
+    "id": "zhou-dynasty",
+    "name": "Zhou dynasty",
+    "dates": "1121 BC - 255 BC",
+    "mainImg": "img/events/zhou-dynasty.jpg",
+    "summary": [
+      "The Zhou dynasty was a Chinese dynasty that followed the Shang dynasty and preceded the Qin dynasty. The Zhou dynasty lasted longer than any other dynasty in Chinese history. The military control of China by the royal house, surnamed Ji, lasted initially from 1046 until 771 BC for a period known as the Western Zhou and the political sphere of influence it created continued well into the Eastern Zhou period for another 500 years.",
+      "During the Zhou dynasty, centralized power decreased throughout the Spring and Autumn period until the Warring States period in the last two centuries of the dynasty. In the latter period, the Zhou court had little control over its constituent states that were at war with each other until the Qin state consolidated power and formed the Qin dynasty in 221 BC. The Zhou dynasty had formally collapsed only 35 years earlier, although the dynasty had only nominal power at that point.",
+      "This period of Chinese history produced what many consider the zenith of Chinese bronzeware making. The latter period of the Zhou dynasty is also famous for the beginnings of three major Chinese philosophies: Confucianism, Taoism and Legalism."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Zhou_dynasty",
+    "urlGoogle": "https://artsandculture.google.com/entity/zhou-dynasty/m0bx4c"
+  },
+  "funFacts": [
+    { "id": "48", "fact": "Cats can hear ultrasound.", "category": ["Animals"] },
+    {
+      "id": "427",
+      "fact": "Lemons ripen after you pick them, but oranges do not.",
+      "category": ["Food"]
+    },
+    {
+      "id": "664",
+      "fact": "It is against the law to put pretzels in bags in Philadelphia.",
+      "category": ["Food", "Laws"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554076",
+      "fact": "The first Macy's Thanksgiving Day Parade featured lions, camels, and elephants from the Central Park Zoo."
+    },
+    {
+      "id": "504788",
+      "fact": "Mark Twain was born in 1835, a year in which Halley’s comet was visible from Earth. In 1909, he said, “I came in with Halley’s comet … and I expect to go out with it.” When he died on April 21, 1910, the comet was again visible in the night sky."
+    },
+    {
+      "id": "505450",
+      "fact": "The original version of Monopoly was a cautionary tale against the perils of capitalism."
+    }
+  ],
+  "idiom": {
+    "id": "pass-muster",
+    "term": "pass muster",
+    "definition": "Meet a required standard, as in *That yard cleanup won't pass muster with Mom.* This expression originally meant \"to undergo a military review without censure,\" *muster* referring to an assembling of troops for inspection or a similar purpose. [Late 1500s]"
+  },
+  "person": {
+    "id": "hugo-black",
+    "name": "Hugo Black",
+    "dates": "Feb 27, 1886 - Sep 25, 1971",
+    "mainImg": "img/people/hugo-black.jpg",
+    "summary": [
+      "Hugo Lafayette Black was an American lawyer, politician, and jurist who served as a U.S. Senator from 1927 to 1937 and as an Associate Justice of the Supreme Court of the United States from 1937 to 1971. A member of the Democratic Party and a devoted New Dealer, Black endorsed Franklin D. Roosevelt in both the 1932 and 1936 presidential elections. Having gained a reputation in the Senate as a reformer, Black was nominated to the Supreme Court by President Roosevelt and confirmed by the Senate by a vote of 63 to 16. He was the first of nine Roosevelt nominees to the Court, and he outlasted all except for William O. Douglas.",
+      "The fifth longest-serving justice in Supreme Court history, Black was one of the most influential Supreme Court justices in the 20th century.",
+      "He is noted for his advocacy of a textualist reading of the United States Constitution and of the position that the liberties guaranteed in the Bill of Rights were imposed on the states by the Fourteenth Amendment. During his political career Black was regarded as a staunch supporter of liberal policies and civil liberties.",
+      "However, Black wrote the majority opinion in Korematsu v."
+    ],
+    "quote": "“In revealing the workings of government that led to the Vietnam War, the newspapers nobly did precisely that which the Founders hoped and trusted they would do.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Hugo_Black",
+    "urlGoogle": "https://artsandculture.google.com/entity/hugo-black/m0139rh"
+  },
+  "place": {
+    "id": "novosibirsk",
+    "name": "Novosibirsk",
+    "mainImg": "img/places/novosibirsk.jpg",
+    "summary": [
+      "Novosibirsk is the administrative center of Novosibirsk Oblast in Russia. Located in the southwestern part of Siberia on the banks of the Ob River, it is the third-most populous city in Russia as well as the most populous city in Asian Russia, with a population of 1,612,833 as of the 2018 census.",
+      "Novosibirsk was founded in 1893 on the Ob River crossing point of the future Trans-Siberian Railway. Originally named Novonikolayevsk, it grew rapidly into a major transport, commercial and industrial hub. The city was ravaged by the Russian Civil War but recovered during the early Soviet period, and gained its present name in 1926. Under Stalin, Novosibirsk became one of the largest industrial centers of Siberia. Following the outbreak of the Great Patriotic War the city hosted many factories relocated from European Russia.",
+      "Novosibirsk is home to the headquarters of numerous Russian corporations, as well as the world-renowned Novosibirsk Zoo. It is served by Tolmachevo Airport, the busiest airport in Siberia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Novosibirsk",
+    "urlGoogle": "https://artsandculture.google.com/entity/novosibirsk/m0gzyb"
+  },
+  "quote": {
+    "id": "78",
+    "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+    "author": "Michelangelo"
+  },
+  "wiki": {
+    "id": "colin-hannah",
+    "name": "Colin Hannah",
+    "summary": "Sir Colin Hannah (1914–1978) was a senior commander in the Royal Australian Air Force (RAAF) and a Governor of Queensland. Born in Western Australia, he joined the RAAF in 1935 and served as a pilot in Nos. 22 and 23 Squadrons. During World War II, he was the RAAF's Deputy Director of Armament, saw action in the South West Pacific as commander of No. 6 Squadron and, later, No. 71 Wing, and ended the war in charge of Western Area Command in Perth. During the Malayan Emergency, he was senior air staff officer at RAF Far East Air Force Headquarters, Singapore. His other post-war appointments included Deputy Chief of the Air Staff, Air Officer Commanding (AOC) Operational Command, and AOC Support Command. In January 1970, he was promoted to air marshal and became Chief of the Air Staff (CAS), the RAAF's senior position. Knighted in 1971, Hannah concluded his three-year appointment as CAS a year early, in March 1972, to become Governor of Queensland, where he attracted controversy by making comments critical of the Federal government. The British government refused to agree to his term being extended. He retired in March 1977, and died the following year.",
+    "url": "https://en.wikipedia.org/wiki/Colin_Hannah"
+  },
+  "word": {
+    "id": "filch",
+    "word": "filch",
+    "url": "https://www.merriam-webster.com/dictionary/filch",
+    "partOfSpeech": "verb",
+    "pronunciation": "FILCH",
+    "audioPath": "audio/words/filch.mp3",
+    "definitions": [
+      "to appropriate furtively or casually : to steal (something that is small or that has little value)"
+    ],
+    "examples": [
+      "After Devin admitted to _filching_ a candy bar from the convenience store, he apologized to the owner but was not allowed in the store again.",
+      "\"(Shia) LaBeouf directed a 2012 short film, _HowardCantour.com_. Until Dec. 16, one would have imagined that he wrote the film, too. But no, as BuzzFeed revealed (as though the saga lacked intellectual-property intrigue!), he had _filched_ the plot from 'Justin M. Damiano,' a 2007 comic by artist Daniel Clowes.\" - From a post by Jack Dickey on TIME.com, December 23, 2013"
+    ],
+    "origin": "\"I am glad I am so acquit of this tinder-box: his thefts were too open; his filching was like an unskilful singer-he kept not time.\" So says Falstaff in Shakespeare's play The Merry Wives of Windsor. The Bard was fond of \"filch\" in both its literal and figurative uses; Iago says to Othello, \"he that filches from me my good name / Robs me of that which not enriches him / And makes me poor indeed.\" \"Filch\" derives from the Middle English word \"filchen\" (\"to attack\" or \"to steal\") and perhaps from Old English \"gefylce\" (\"band of men, troop, army\"). As a noun, \"filch\" once referred to a hooked staff used by thieves to snatch articles out of windows and from similar places, but this use is now obsolete."
+  }
+}

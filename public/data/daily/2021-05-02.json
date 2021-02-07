@@ -1,0 +1,156 @@
+{
+  "artist": {
+    "id": "frank-lloyd-wright",
+    "name": "Frank Lloyd Wright",
+    "dates": "Jun 8, 1867 - Apr 9, 1959",
+    "mainImg": "img/art/artists/frank-lloyd-wright.jpg",
+    "artworkImgs": [
+      {
+        "name": "Design 105",
+        "path": "img/art/artworks/frank-lloyd-wright-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/design-105-frank-lloyd-wright/5wHvPLi1DWFuRQ"
+      },
+      {
+        "name": "Taliesin Line of Decorative Wallpapers",
+        "path": "img/art/artworks/frank-lloyd-wright-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/taliesin-line-of-decorative-wallpapers-frank-lloyd-wright/-wGznJaE8LKAGg"
+      },
+      {
+        "name": "Come Now Your Arms Uniform and Accoutrements Are Ready Waiting for You. Lord Kitchener at Guildhall, July, 1915 Be Honest With Yourself",
+        "path": "img/art/artworks/frank-lloyd-wright-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/come-now-your-arms-uniform-and-accoutrements-are-ready-waiting-for-you-lord-kitchener-at-guildhall-july-1915-be-honest-with-yourself-parliamentary-recruiting-committee/kwElwjT_bmTGsw"
+      },
+      {
+        "name": "Wohnzimmer im Vorstadthaus des Herrn B. Harley Bradley. Kankakee, Ills",
+        "path": "img/art/artworks/frank-lloyd-wright-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/wohnzimmer-im-vorstadthaus-des-herrn-b-harley-bradley-kankakee-ills-frank-lloyd-wright/WAF_U38nzpwbIA"
+      },
+      {
+        "name": "Macroceramus blaini antoniensis",
+        "path": "img/art/artworks/frank-lloyd-wright-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/macroceramus-blaini-antoniensis-c-wright/sgGSgeR3huwFfw"
+      },
+      {
+        "name": "Another Ship -- Another Victory",
+        "path": "img/art/artworks/frank-lloyd-wright-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/another-ship-another-victory-g-wright/8QEVMy_HXSFp7g"
+      }
+    ],
+    "summary": [
+      "Frank Lloyd Wright was an American architect, interior designer, writer, and educator, whose creative period spanned more than 70 years, designing more than 1,000 structures, of which 532 were completed. Wright believed in designing structures that were in harmony with humanity and its environment, a philosophy he called organic architecture. This philosophy was best exemplified by Fallingwater, which has been called \"the best all-time work of American architecture.\" As a founder of organic architecture, Wright played a key role in the architectural movements of the twentieth century, influencing three generations of architects worldwide through his works.",
+      "Wright was the pioneer of what came to be called the Prairie School movement of architecture, and he also developed the concept of the Usonian home in Broadacre City, his unique vision for urban planning in the United States. In addition to his houses, Wright designed original and innovative offices, churches, schools, skyscrapers, hotels, museums, and other structures. He often designed interior elements for these buildings, as well, including furniture and stained glass."
+    ],
+    "quote": "“The longer I live, the more beautiful life becomes.”",
+    "movements": [],
+    "mediums": [
+      "Graphite",
+      "Tracing paper",
+      "Colored pencil",
+      "Pencil",
+      "Watercolor painting",
+      "Ink"
+    ],
+    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
+    "urlGoogle": "https://artsandculture.google.com/entity/frank-lloyd-wright/m02wlk"
+  },
+  "event": {
+    "id": "siege-of-warsaw",
+    "name": "Siege of Warsaw",
+    "dates": "Sep 8, 1939 - Sep 28, 1939",
+    "mainImg": "img/events/siege-of-warsaw.jpg",
+    "summary": [
+      "The Siege of Warsaw in 1939 was fought between the Polish Warsaw Army garrisoned and entrenched in Warsaw and the invading German Army.",
+      "It began with huge aerial bombardments initiated by the Luftwaffe starting on September 1, 1939 following the Nazi invasion of Poland. Land fighting started on September 8, when the first German armored units reached the Wola district and south-western suburbs of the city. Despite German radio broadcasts claiming to have captured Warsaw, the initial enemy attack was repelled and soon afterwards Warsaw was placed under siege. The siege lasted until September 28, when the Polish garrison, commanded under General Walerian Czuma, officially capitulated. The following day approximately 140,000 Polish troops left the city and were taken as prisoners of war. On October 1 the Wehrmacht entered Warsaw, which started a period of German occupation that lasted until the devastating Warsaw Uprising and later until January 17, 1945, when the Wehrmacht troops abandoned the city due to the advance of Polish-Soviet forces.",
+      "Around 18,000 civilians of Warsaw perished during the siege."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Warsaw_%281939%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-warsaw/m03h2yj"
+  },
+  "funFacts": [
+    {
+      "id": "337",
+      "fact": "Farmington, Maine celebrates Chester Greenwood Day to honor the inventor of earmuffs.",
+      "category": ["Geography", "History"]
+    },
+    {
+      "id": "998",
+      "fact": "Male pups will intentionally let female pups “win“ when they play-fight so they can get to know them better.",
+      "category": ["Animals", "Habits"]
+    },
+    {
+      "id": "983",
+      "fact": "Between 1979 and 1999, the planet Neptune was farther from the Sun than Pluto.  This won't happen again until 2227.",
+      "category": ["Geography", "Science"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "504821", "fact": "Geckos can turn the stickiness of their feet on and off at will." },
+    {
+      "id": "553810",
+      "fact": "Trained pigeons can differentiate between the paintings of Pablo Picasso and Claude Monet."
+    },
+    { "id": "553548", "fact": "We invented booze before we invented the wheel." }
+  ],
+  "idiom": {
+    "id": "kill-two-birds-with-one-stone",
+    "term": "kill two birds with one stone",
+    "definition": "Achieve two ends with a single effort, as in *As long as I was in town on business, I thought I'd kill two birds and visit my uncle too.* This expression is so well known that it is often shortened, as in the example. [c. 1600]"
+  },
+  "person": {
+    "id": "hussein-of-jordan",
+    "name": "Hussein of Jordan",
+    "dates": "Nov 14, 1935 - Feb 7, 1999",
+    "mainImg": "img/people/hussein-of-jordan.jpg",
+    "summary": [
+      "Hussein bin Talal reigned as King of Jordan from 11 August 1952 until his death in 1999. As a member of the Hashemite dynasty, the royal family of Jordan since 1921, Hussein claimed to be a 40th-generation direct descendant of Muhammad.",
+      "Hussein was born in Amman as the eldest child of Talal bin Abdullah and Zein Al-Sharaf. Hussein began his schooling in Amman, continuing his education abroad. After Talal became King of Jordan in 1951, Hussein was named heir apparent. The Parliament forced Talal to abdicate a year later due to his illness, and a regency council was appointed until Hussein came of age. He was enthroned at the age of 17 on 2 May 1953. Hussein was married four separate times and fathered eleven children: Princess Alia from Dina bint Abdul-Hamid; Abdullah II, Prince Faisal, Princess Aisha, and Princess Zein from Antoinette Gardiner; Princess Haya and Prince Ali from Alia Touqan; Prince Hamzah, Prince Hashim, Princess Iman, and Princess Raiyah from Lisa Halaby.",
+      "Hussein, a constitutional monarch, started his rule with what was termed a \"liberal experiment,\" allowing, in 1956, the formation of the only democratically elected government in Jordan's history."
+    ],
+    "quote": "“We respect opposition to any position or policy. But we believe that the opinion that should prevail and be respected is that of the majority.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Hussein_of_Jordan",
+    "urlGoogle": "https://artsandculture.google.com/entity/hussein-of-jordan/m0kvhz"
+  },
+  "place": {
+    "id": "odesa",
+    "name": "Odesa",
+    "mainImg": "img/places/odesa.jpg",
+    "summary": [
+      "Odessa or Odesa is the third most populous city of Ukraine and a major tourism center, seaport and transport hub located on the northwestern shore of the Black Sea. It is also the administrative center of the Odessa Oblast and a multiethnic cultural center. Odessa is sometimes called the \"pearl of the Black Sea\", the \"South Capital\", and \"Southern Palmyra\".",
+      "Before the Tsarist establishment of Odessa, an ancient Greek settlement existed at its location. A more recent Tatar settlement was also founded at the location by Hacı I Giray, the Khan of Crimea in 1440 that was named after him as Hacibey. After a period of Lithuanian Grand Duchy control, Hacibey and surroundings became part of the domain of the Ottomans in 1529 and remained there until the empire's defeat in the Russo-Turkish War of 1792.",
+      "In 1794, the city of Odessa was founded by a decree of the Russian empress Catherine the Great. From 1819 to 1858, Odessa was a free port—a porto-franco. During the Soviet period, it was the most important port of trade in the Soviet Union and a Soviet naval base."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Odessa",
+    "urlGoogle": "https://artsandculture.google.com/entity/odesa/m0ffmp"
+  },
+  "quote": {
+    "id": "55",
+    "quote": "The man who does not read has no advantage over the man who cannot read.",
+    "author": "Mark Twain"
+  },
+  "wiki": {
+    "id": "agatha-christie-and-then-there-were-none",
+    "name": "Agatha Christie: And Then There Were None",
+    "summary": "Agatha Christie: And Then There Were None is a 2005 point-and-click adventure game developed by AWE Productions and published by The Adventure Company for the PC. The game is the first in The Adventure Company's Agatha Christie series. The story is focused on a man's journey to the fictional Shipwreck Island, off the coast of Devon, with ten others, and the events that unfold there. And Then There Were None retains the plot elements of Agatha Christie's novel of the same name, with the sole difference being the conclusion. In order to further the connection between the game and its source material, Christie's novel is included in the North American release of the game. Several reviewers of And Then There Were None have harshly criticized its character designs and graphics as being archaic and outdated, whereas others have praised aspects of the game such as character dialogue and an immersive story. Reactions to the game were mixed, with many reviewers polarized in their opinions of the game, calling it either a good adaptation of the novel, or an extremely poor adventure game.",
+    "url": "https://en.wikipedia.org/wiki/Agatha_Christie:_And_Then_There_Were_None"
+  },
+  "word": {
+    "id": "hew",
+    "word": "hew",
+    "url": "https://www.merriam-webster.com/dictionary/hew",
+    "partOfSpeech": "verb",
+    "pronunciation": "HYOO",
+    "audioPath": "audio/words/hew.mp3",
+    "definitions": [
+      "to cut or fell with blows (as of an ax)",
+      "to give shape to with or as if with an ax",
+      "to conform or to adhere"
+    ],
+    "examples": [
+      "Josh was never one to _hew_ to policies with which he disagreed.",
+      "\"Typically at this point on the political calendar, a sitting vice president scrupulously downplays his interest in ascending to the top job.... Vice presidents as varied as Walter Mondale, George H.W. Bush, and Al Gore all gamely _hewed_ to this script.\" - From an article by Noam Scheiber in _The New Republic_, August 24, 2012"
+    ],
+    "origin": "\"Hew\" is a strong, simple word of Anglo-Saxon descent. It can suggest actual ax-wielding, or it can be figurative: \"If ... our ambition hews and shapes \\[our\\] new relations, their virtue escapes, as strawberries lose their flavor in garden-beds\" (Ralph Waldo Emerson). It's easy to see how the figurative \"shape\" sense of \"hew\" developed from the literal hacking sense, but what does chopping have to do with adhering and conforming? That sense first appeared in the late 1800s in the phrase \"hew to the line.\" The \"hew line\" is a line marked along the length of a log indicating where to chop in order to shape a beam. \"Hewing to the line,\" literally, is cutting along the mark-adhering to it-until the side of the log is squared."
+  }
+}

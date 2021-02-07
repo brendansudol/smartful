@@ -1,0 +1,137 @@
+{
+  "artist": {
+    "id": "jean-dubuffet",
+    "name": "Jean Dubuffet",
+    "dates": "Jul 31, 1901 - May 12, 1985",
+    "mainImg": "img/art/artists/jean-dubuffet.jpg",
+    "artworkImgs": [
+      {
+        "name": "Untitled",
+        "path": "img/art/artworks/jean-dubuffet-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-jean-dubuffet/GAHE_qwEefp8jw"
+      },
+      {
+        "name": "Appearance in Court",
+        "path": "img/art/artworks/jean-dubuffet-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/appearance-in-court-jean-dubuffet/aAFQwFR5PbXsKA"
+      },
+      {
+        "name": "Six Fish and Bird",
+        "path": "img/art/artworks/jean-dubuffet-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/six-fish-and-bird-jean-dubuffet/OAGzNcyAoAI5rw"
+      },
+      {
+        "name": "Pèpinièriste",
+        "path": "img/art/artworks/jean-dubuffet-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/pèpinièriste/hgEq7mGylCX9-w"
+      },
+      {
+        "name": "Sinfonia pastorale",
+        "path": "img/art/artworks/jean-dubuffet-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/sinfonia-pastorale-jean-dubuffet/0AFtWKe1qAxr6g"
+      }
+    ],
+    "summary": [
+      "Jean Philippe Arthur Dubuffet was a French painter and sculptor. His idealistic approach to aesthetics embraced so called \"low art\" and eschewed traditional standards of beauty in favor of what he believed to be a more authentic and humanistic approach to image-making. He is perhaps best known for founding the art movement Art Brut, and for the collection of works—Collection de l'art brut—that this movement spawned. Dubuffet enjoyed a prolific art career, both in France and in America, and was featured in many exhibitions throughout his lifetime."
+    ],
+    "quote": "“For me, insanity is super sanity. The normal is psychotic. Normal means lack of imagination, lack of creativity.”",
+    "movements": ["Modern art", "Modernism", "Outsider art"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean_Dubuffet",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-dubuffet/m01pyt1"
+  },
+  "event": {
+    "id": "occupy-movement",
+    "name": "Occupy movement",
+    "dates": null,
+    "mainImg": "img/events/occupy-movement.jpg",
+    "summary": [
+      "The Occupy movement was an international progressive socio-political movement that expressed opposition to social and economic inequality and to the lack of \"real democracy\" around the world. It aimed primarily to advance social and economic justice and new forms of democracy. The movement had many different scopes, since local groups often had different focuses, but its prime concerns included how large corporations control the world in a way that disproportionately benefited a minority, undermined democracy and caused instability. It formed part of what Manfred Steger called the \"global justice movement\".",
+      "The first Occupy protest to receive widespread attention, Occupy Wall Street in New York City's Zuccotti Park, began on 17 September 2011. By 9 October, Occupy protests had taken place or were ongoing in over 951 cities across 82 countries, and in over 600 communities in the United States. Although the movement became most active in the United States, by October 2011 Occupy protests and occupations had started in dozens of other countries across every widely inhabited continent."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Occupy_movement",
+    "urlGoogle": "https://artsandculture.google.com/entity/occupy-movement/m0h93zy7"
+  },
+  "funFacts": [
+    {
+      "id": "708",
+      "fact": "Manufacturing recycled goods uses up to 95% less energy than using raw materials.",
+      "category": ["Science"]
+    },
+    { "id": "238", "fact": "An ostrich's brain is smaller than its eye.", "category": ["Animals"] },
+    { "id": "8", "fact": "A bee has five eyelids.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "554093",
+      "fact": "When Facebook introduced the News Feed in 2006, people freaked out. TIME called it “Gen Y’s first official revolution.”"
+    },
+    {
+      "id": "553929",
+      "fact": "A black cat crossing your path (from right to left) is considered good luck in Germany."
+    },
+    {
+      "id": "553689",
+      "fact": "Nobel Prize winner Niels Bohr was given a perpetual supply of beer piped into his house."
+    }
+  ],
+  "idiom": {
+    "id": "for-a-song",
+    "term": "for a song",
+    "definition": "Very cheaply, for little money, especially for less than something is worth. For example, \"I know a man ... sold a goodly manor for a song\" (Shakespeare, *All's Well That Ends Well,* 3:2). This idiom alludes to the pennies given to street singers or to the small cost of sheet music. [Late 1500s]"
+  },
+  "person": {
+    "id": "salmon-p-chase",
+    "name": "Salmon P. Chase",
+    "dates": "Jan 13, 1808 - May 7, 1873",
+    "mainImg": "img/people/salmon-p-chase.jpg",
+    "summary": [
+      "Salmon Portland Chase was a U.S. politician and jurist who served as the sixth Chief Justice of the United States. He also served as the 23rd Governor of Ohio, represented Ohio in the United States Senate, and served as the 25th United States Secretary of the Treasury. Chase was therefore one of a few U.S. politicians who served in all three branches of the federal government.",
+      "Born in Cornish, New Hampshire, Chase studied law under Attorney General William Wirt before establishing a legal practice in Cincinnati. He became an anti-slavery activist and frequently defended fugitive slaves in court. Chase left the Whig Party in 1841 to become the leader of Ohio's Liberty Party. In 1848, he helped establish the Free Soil Party and recruited former President Martin Van Buren to serve as the party's presidential nominee. Chase won election to the Senate the following year, and he opposed the Compromise of 1850 and the Kansas–Nebraska Act. In the aftermath of the Kansas–Nebraska Act, Chase helped establish the Republican Party, which opposed the extension of slavery into the territories. After leaving the Senate, Chase served as the Governor of Ohio from 1856 to 1860."
+    ],
+    "quote": "“The way to resumption is to resume.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Salmon_P._Chase",
+    "urlGoogle": "https://artsandculture.google.com/entity/salmon-p-chase/m019vz0"
+  },
+  "place": {
+    "id": "radom",
+    "name": "Radom",
+    "mainImg": "img/places/radom.jpg",
+    "summary": [
+      "Radom is a city in east-central Poland, located 100 kilometres south of Poland's capital, Warsaw, on the Mleczna River, in the Masovian Voivodeship, having previously been the capital of Radom Voivodeship. Despite being part of the Masovian Voivodeship, the city historically belongs to Lesser Poland. For centuries, Radom was part of the Sandomierz Voivodeship of the Kingdom of Poland and the later Polish-Lithuanian Commonwealth. It was an important center of administration, having served as seat of the Crown Council. The Pact of Vilnius and Radom was signed there in 1401, and the Nihil novi and Łaski's Statute were adopted by the Sejm at Radom's Royal Castle in 1505. In 1976, it was a center of anti Communist street protests. Radom is the fourteenth-largest city in Poland and the second-largest in the voivodeship with a population of 213,029 as of 2018, down from 221,066 in 2011.",
+      "The city is home to the biennial Radom Air Show, the largest and best-attended air show in Poland, held during the last weekend of August."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Radom",
+    "urlGoogle": "https://artsandculture.google.com/entity/radom/m0jx0k"
+  },
+  "quote": {
+    "id": "107",
+    "quote": "Looking at life from a different perspective makes you realise that it’s not the deer that is crossing the road, rather it’s the road that is crossing the forest.",
+    "author": "Muhammad Ali"
+  },
+  "wiki": {
+    "id": "prostate-cancer",
+    "name": "Prostate cancer",
+    "summary": "Prostate cancer is a disease in which cancer develops in the prostate, a gland in the male reproductive system. Cancer occurs when cells of the prostate mutate and begin to multiply out of control. These cells may spread (metastasize) from the prostate to other parts of the body, especially the bones and lymph nodes. Prostate cancer can cause pain, difficulty urinating, erectile dysfunction, and other symptoms. Prostate cancer only occurs in men and develops most frequently in individuals over fifty years old. It is the second most common type of cancer in men; among men, it is responsible for more deaths than any other cancer except lung cancer. Prostate cancer is most often discovered by screening blood tests, such as the PSA (prostate specific antigen) test or by physical examination of the prostate gland by a health care provider. Prostate cancer can be treated with surgery, radiation therapy, hormone therapy, occasionally chemotherapy, or some combination of these. The age and underlying health of the man as well as the extent of spread, appearance under the microscope, and response of the cancer to initial treatment are important in determining the outcome of the disease.",
+    "url": "https://en.wikipedia.org/wiki/Prostate_cancer"
+  },
+  "word": {
+    "id": "ossify",
+    "word": "ossify",
+    "url": "https://www.merriam-webster.com/dictionary/ossify",
+    "partOfSpeech": "verb",
+    "pronunciation": "AH-suh-fye",
+    "audioPath": "audio/words/ossify.mp3",
+    "definitions": [
+      "to become or change into bone or bony tissue",
+      "to become or make hardened or set in one's ways"
+    ],
+    "examples": [
+      "When a baby is born, many of the bones in its body have yet to _ossify_.",
+      "\"But too many businesses are surviving because credit costs nothing, and bankers care little whether their borrowers are profitable or not. That has two damaging consequences: it _ossifies_ corporate culture, and it drags down productivity.\" -- From an article in _The Economist_, November 18, 2010"
+    ],
+    "origin": "The skeletons of mammals originate as soft cartilage that gradually transforms into hard bone (in humans, the process begins in the womb and continues until late adolescence). English speakers have referred to this bone-building process as \"ossification\" since the late 17th century, and the verb \"ossify\" arrived soon after the noun. English speakers began to use \"ossification\" and \"ossify\" for more figurative types of hardening (such as that of the heart, mind, or soul) in the 19th century. Both words descend from the Latin root \"os,\" meaning \"bone.\" \"Os\" is also an English word that appears in scientific contexts as a synonym of \"bone,\" and the Latin term is an ancestor of the word \"osseous,\" which means \"consisting of or resembling bone.\""
+  }
+}

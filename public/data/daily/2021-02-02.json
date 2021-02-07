@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "edgar-degas",
+    "name": "Edgar Degas",
+    "dates": "Jul 19, 1834 - Sep 27, 1917",
+    "mainImg": "img/art/artists/edgar-degas.jpg",
+    "artworkImgs": [
+      {
+        "name": "Swaying Dancer (Dancer in Green)",
+        "path": "img/art/artworks/edgar-degas-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/swaying-dancer-dancer-in-green-edgar-degas/PAG7nnYIK8XTTA"
+      },
+      {
+        "name": "Dancers at the Barre",
+        "path": "img/art/artworks/edgar-degas-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/dancers-at-the-barre-hilaire-germain-edgar-degas/5QHNn00OTA2mXw"
+      },
+      {
+        "name": "The Dancing Class",
+        "path": "img/art/artworks/edgar-degas-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-dancing-class-edgar-degas/FAGcoGjkMHVnBQ"
+      },
+      {
+        "name": "The Singer in Green",
+        "path": "img/art/artworks/edgar-degas-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-singer-in-green-edgar-degas/JgFpPx6x3frZ0Q"
+      },
+      {
+        "name": "Portrait of Estelle Musson Degas",
+        "path": "img/art/artworks/edgar-degas-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-estelle-musson-degas-edgar-degas/iQEvkVSgoCttXQ"
+      },
+      {
+        "name": "Young Woman with Ibis",
+        "path": "img/art/artworks/edgar-degas-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/young-woman-with-ibis-edgar-degas/TgGq5A9m1oJ9mQ"
+      }
+    ],
+    "summary": [
+      "Edgar Degas was a French artist famous for his pastel drawings and oil paintings of ballerinas. Degas also produced bronze sculptures, prints, and drawings. Degas is especially identified with the subject of dance; more than half of his works depict dancers. Although Degas is regarded as one of the founders of Impressionism, he rejected the term, preferring to be called a realist, and did not paint outdoors as many Impressionists did. Degas was a superb draftsman, and particularly masterly in depicting movement, as can be seen in his rendition of dancers and bathing female nudes. In addition to ballet dancers and bathing women, Degas painted race horses and racing jockeys, as well as portraits. His portraits are notable for their psychological complexity and for their portrayal of human isolation.",
+      "At the beginning of his career, Degas wanted to be a history painter, a calling for which he was well prepared by his rigorous academic training and close study of classical art. In his early thirties, he changed course, and by bringing the traditional methods of a history painter to bear on contemporary subject matter, he became a classical painter of modern life."
+    ],
+    "quote": "“What a delightful thing is the conversation of specialists! One understands absolutely nothing and it's charming.”",
+    "movements": ["Modern art", "Impressionism", "Realism", "Modernism", "Abstract impressionism"],
+    "mediums": ["Drawing", "Oil paint", "Metal", "Etching", "Charcoal", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Edgar_Degas",
+    "urlGoogle": "https://artsandculture.google.com/entity/edgar-degas/m0g_lz"
+  },
+  "event": {
+    "id": "prague-uprising",
+    "name": "Prague uprising",
+    "dates": "May 5, 1945 - May 9, 1945",
+    "mainImg": "img/events/prague-uprising.jpg",
+    "summary": [
+      "The Prague uprising of 1945 was a partially successful attempt by the Czech resistance to liberate the city of Prague from German occupation during World War II. The preceding six years of occupation had fuelled anti-German sentiment and the approach of the Soviet Red Army and the US Third Army offered a chance of success.",
+      "On 5 May 1945, in the last moments of the war in Europe, Czech citizens spontaneously attacked the German occupiers and Czech resistance leaders emerged from hiding to join the uprising. The Russian Liberation Army, which had been fighting for the Germans, defected and supported the Czechs. German troops counter-attacked, but their progress was slowed by barricades constructed by the Czech citizenry. On 8 May, the Czech and German leaders signed a ceasefire allowing the German forces to withdraw from the city, but not all Waffen-SS units obeyed. Fighting continued until 9 May, when the Red Army entered the nearly liberated city.",
+      "The uprising was brutal, with both sides committing war crimes."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Prague_uprising",
+    "urlGoogle": "https://artsandculture.google.com/entity/prague-uprising/m060kkn"
+  },
+  "funFacts": [
+    { "id": "11", "fact": "Flamingos turn pink from eating shrimp.", "category": ["Animals"] },
+    {
+      "id": "489",
+      "fact": "To keep an ice cream cone from dripping, stuff a miniature marshmallow into the bottom of the cone.",
+      "category": ["Food", "Make-it-Easies"]
+    },
+    { "id": "407", "fact": "The largest dog litter was 23 puppies.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "505477",
+      "fact": "Before he sang lead vocals for Black Sabbath, Ozzy Osbourne worked in a slaughterhouse."
+    },
+    {
+      "id": "553919",
+      "fact": "Bubble gum is pink because that was the only food dye available in the factory where it was made."
+    },
+    { "id": "554066", "fact": "The wood frog can hold its pee for up to eight months." }
+  ],
+  "idiom": {
+    "id": "on-tenterhooks",
+    "term": "on tenterhooks",
+    "definition": "In a state of painful suspense, as in *We were on tenterhooks all through the game, hoping against hope that our team would win.* This expression alludes to hooks that formerly were used to hold newly woven cloth that was being stretched on a frame. Their name has long survived this method of manufacture. [Mid-1700s]"
+  },
+  "person": {
+    "id": "jose-de-san-martin",
+    "name": "José de San Martín",
+    "dates": "Feb 25, 1778 - Aug 17, 1850",
+    "mainImg": "img/people/jose-de-san-martin.jpg",
+    "summary": [
+      "José Francisco de San Martín y Matorras, known simply as José de San Martín or El Libertador of Argentina, Chile and Peru, was a Spanish-Argentine general and the prime leader of the southern and central parts of South America's successful struggle for independence from the Spanish Empire who served as the Protector of Peru. Born in Yapeyú, Corrientes, in modern-day Argentina, he left the Viceroyalty of the Río de la Plata at the early age of seven to study in Málaga, Spain.",
+      "In 1808, after taking part in the Peninsular War against France, San Martín contacted in London South American supporters of independence from Spain. In 1812, he set sail for Buenos Aires and offered his services to the United Provinces of the Río de la Plata, present-day Argentina. After the Battle of San Lorenzo and time commanding the Army of the North during 1814, he organized a plan to defeat the Spanish forces that menaced the United Provinces from the north, using an alternative path to the Viceroyalty of Peru. This objective first involved the establishment of a new army, the Army of the Andes, in Cuyo Province, Argentina."
+    ],
+    "quote": "“You will be what you must be, or else you will be nothing.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn",
+    "urlGoogle": "https://artsandculture.google.com/entity/josé-de-san-martín/m01_crz"
+  },
+  "place": {
+    "id": "pasadena",
+    "name": "Pasadena",
+    "mainImg": "img/places/pasadena.jpg",
+    "summary": [
+      "Pasadena is a city in Los Angeles County, California, United States, 11 miles northeast of Downtown Los Angeles.",
+      "Its population was 137,122 at the 2010 census and an estimated 141,029 in 2019, making it the 40th largest city in California and the ninth-largest city in Los Angeles County. Pasadena was incorporated on June 19, 1886, becoming one of the first cities to be incorporated in what is now Los Angeles County, following the city of Los Angeles. It is one of the primary cultural centers of the San Gabriel Valley.",
+      "Pasadena is known for hosting the annual Rose Bowl football game and Tournament of Roses Parade. It is also home to many scientific and cultural institutions, including Caltech, Pasadena City College, Fuller Theological Seminary, ArtCenter College of Design, the Pasadena Playhouse, the Ambassador Auditorium, the Norton Simon Museum, and the USC Pacific Asia Museum, with the Jet Propulsion Laboratory in nearby La Cañada Flintridge."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pasadena,_California",
+    "urlGoogle": "https://artsandculture.google.com/entity/pasadena/m0mzww"
+  },
+  "quote": { "id": "68", "quote": "Be worthy of a worthy mate.", "author": "Charlie Munger" },
+  "wiki": {
+    "id": "macedonia-terminology",
+    "name": "Macedonia (terminology)",
+    "summary": "The definition of Macedonia is a major source of confusion due to the overlapping use of the term to describe geographical, political and historical areas, languages and peoples. Ethnic groups inhabiting the area use different terminology for the same entity, or the same terminology for different entities. Geographically, no single definition of its borders or the names of its subdivisions is accepted by all scholars and ethnic groups. Demographically, it is mainly inhabited by four ethnic groups, three of which self-identify as Macedonians: One Slavic group does so at a national level, while another, Bulgarians, as well as a Greek one do so at a regional level. Linguistically, the names and origins of the languages and dialects spoken in the region are a source of controversy. Politically, the use of the name Macedonia has led to a diplomatic dispute between Greece and the Republic of Macedonia. Despite intervention from the United Nations, the dispute is still pending full resolution.",
+    "url": "https://en.wikipedia.org/wiki/Macedonia_(terminology)"
+  },
+  "word": {
+    "id": "bower",
+    "word": "bower",
+    "url": "https://www.merriam-webster.com/dictionary/bower",
+    "partOfSpeech": "noun",
+    "pronunciation": "BOW-er",
+    "audioPath": "audio/words/bower.mp3",
+    "definitions": [
+      "an attractive dwelling or retreat",
+      "a lady's private apartment in a medieval hall or castle",
+      "a shelter made with tree boughs or vines twined together : arbor"
+    ],
+    "examples": [
+      "Bryan knelt down before Maura -- who was seated on a bench in the _bower_ -- took her hand, and asked her if she would marry him.",
+      "\"With its urban parks and backyard _bowers_, and its many varieties of flowering and hardwood trees, Memphis sometimes seems more forest than city.\" -- From an article by John Beifuss in _The Commercial Appeal_ (Memphis, TN), July 21, 2011"
+    ],
+    "origin": "\"Bower\" derives from Old English \"bur,\" meaning \"dwelling,\" and was originally used of attractive homes or retreats, especially rustic cottages. In the Middle Ages, \"bower\" came to refer to a lady's personal hideaway within a medieval castle or hall: her private apartment. Today's \"arbor\" sense combines the pastoral beauty of a rustic retreat with the privacy of a personal apartment. Although its tranquil modern meaning belies it, \"bower\" is distantly related to the far more roughshod \"bowery,\" which is the name of a district in New York City at one time known mostly for its flophouses and pawn shops. The Bowery got its name from a Dutch term for a dwelling or farm that shares a common ancestor with the terms that gave rise to \"bower.\""
+  }
+}

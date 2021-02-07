@@ -1,0 +1,126 @@
+{
+  "artist": {
+    "id": "honore-daumier",
+    "name": "Honoré Daumier",
+    "dates": "Feb 26, 1808 - Feb 10, 1879",
+    "mainImg": "img/art/artists/honore-daumier.jpg",
+    "artworkImgs": [
+      {
+        "name": "Rue Transnonain, le 15 avril 1834",
+        "path": "img/art/artworks/honore-daumier-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/rue-transnonain-le-15-avril-1834-honoré-daumier/-wF5hbeWQ8A-yQ"
+      },
+      {
+        "name": "Third Class Carriage",
+        "path": "img/art/artworks/honore-daumier-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/third-class-carriage-honoré-daumier/gQF1RvxUxDvXJg"
+      },
+      {
+        "name": "Don Quixote in the Mountains",
+        "path": "img/art/artworks/honore-daumier-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/don-quixote-in-the-mountains-honore-daumier/jQGN3y9x3SjVYw"
+      },
+      {
+        "name": "Rue Transnonain",
+        "path": "img/art/artworks/honore-daumier-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/rue-transnonain-honoré-daumier/KQGAOxTw0Xi30g"
+      },
+      {
+        "name": "Le Ventre Legislatif",
+        "path": "img/art/artworks/honore-daumier-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/le-ventre-legislatif-honoré-daumier/GgF1xpcFswAT8Q"
+      },
+      {
+        "name": "Ecce Homo",
+        "path": "img/art/artworks/honore-daumier-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/ecce-homo-honoré-daumier/_QGGqqfZkczUcw"
+      }
+    ],
+    "summary": [
+      "Honoré-Victorin Daumier was a French printmaker, caricaturist, painter, and sculptor, whose many works offer commentary on social and political life in France in the 19th century.",
+      "Daumier produced more than 500 paintings, 4000 lithographs, 1000 wood engravings, 1000 drawings and 100 sculptures. A prolific draughtsman, he was perhaps best known for his caricatures of political figures and satires on the behavior of his countrymen, although posthumously the value of his painting has also been recognized."
+    ],
+    "quote": null,
+    "movements": ["Realism", "Barbizon school", "Modern art", "Impressionism", "Romanticism"],
+    "mediums": ["Newsprint", "Ink", "Wood", "Engraving", "Pen", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
+    "urlGoogle": "https://artsandculture.google.com/entity/honoré-daumier/m01xq3c"
+  },
+  "event": {
+    "id": "selma-to-montgomery-marches",
+    "name": "Selma to Montgomery marches",
+    "dates": "Mar 7, 1965 - Mar 21, 1965",
+    "mainImg": "img/events/selma-to-montgomery-marches.jpg",
+    "summary": [
+      "The Selma to Montgomery marches were three protest marches, held in 1965, along the 54-mile highway from Selma, Alabama, to the state capital of Montgomery. The marches were organized by nonviolent activists to demonstrate the desire of African-American citizens to exercise their constitutional right to vote, in defiance of segregationist repression; they were part of a broader voting rights movement underway in Selma and throughout the American South. By highlighting racial injustice, they contributed to passage that year of the Voting Rights Act, a landmark federal achievement of the civil rights movement.",
+      "Southern state legislatures had passed and maintained a series of discriminatory requirements and practices that had disenfranchised most of the millions of African Americans across the South throughout the 20th century. The African-American group known as the Dallas County Voters League launched a voter registration campaign in Selma in 1963. Joined by organizers from the Student Nonviolent Coordinating Committee, they began working that year in a renewed effort to register black voters."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches",
+    "urlGoogle": "https://artsandculture.google.com/entity/selma-to-montgomery-marches/m02_758"
+  },
+  "funFacts": [
+    { "id": "833", "fact": "Children have more taste buds than adults.", "category": ["Anatomy"] },
+    {
+      "id": "389",
+      "fact": "In the U.S., all interstate highways that run east to west are even-numbered.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "79",
+      "fact": "There are 119 grooves on the edge of a quarter.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "old-chestnut",
+    "term": "old chestnut",
+    "definition": "A stale joke, story, or saying, as in *Dad keeps on telling that old chestnut about how many psychiatrists it takes to change a light bulb.* This expression comes from William Dimond's play, *The Broken Sword* (1816), in which one character keeps repeating the same stories, one of them about a cork tree, and is interrupted each time by another character who says \"Chestnut, you mean... I have heard you tell the joke twenty-seven times and I am sure it was a chestnut.\""
+  },
+  "person": {
+    "id": "wladyslaw-sikorski",
+    "name": "Władysław Sikorski",
+    "dates": "May 20, 1881 - Jul 4, 1943",
+    "mainImg": "img/people/wladyslaw-sikorski.jpg",
+    "summary": [
+      "Władysław Eugeniusz Sikorski was a Polish military and political leader.",
+      "Prior to the First World War, Sikorski established and participated in several underground organizations that promoted the cause of the independence of Poland from the Russian Empire. He fought with distinction in the Polish Legions during the First World War, and later in the newly created Polish Army during the Polish–Soviet War of 1919 to 1921. In that war he played a prominent role in the decisive Battle of Warsaw. In the early years of the Second Polish Republic, Sikorski held government posts, including serving as Prime Minister and as Minister of Military Affairs. Following Józef Piłsudski's May Coup of 1926 and the installation of the Sanation government, he fell out of favor with the new régime.",
+      "During the Second World War, Sikorski became Prime Minister of the Polish government-in-exile, Commander-in-Chief of the Polish Armed Forces, and a vigorous advocate of the Polish cause in the diplomatic sphere."
+    ],
+    "quote": "“Today it is time for strong and courageous people because only they can achieve victory and rid the world of tyranny.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Sikorski",
+    "urlGoogle": "https://artsandculture.google.com/entity/władysław-sikorski/m01zl37"
+  },
+  "place": {
+    "id": "karagandy",
+    "name": "Karagandy",
+    "mainImg": "img/places/karagandy.jpg",
+    "summary": [
+      "Karaganda or Qaraghandy is the capital of Karaganda Region in the Republic of Kazakhstan. It is the fourth most populous city in Kazakhstan, behind Almaty, Nur-Sultan and Shymkent. Population: 459,778; 436,864. Karaganda is approximately 230 km south-east of Kazakhstan's capital Nur-Sultan.",
+      "In the 1940s up to 70% of the city's inhabitants were ethnic Germans. Most of the ethnic Germans were Soviet Volga Germans who were collectively deported to Siberia and Kazakhstan on Stalin's order when Hitler invaded Soviet-annexed eastern Poland and the Soviet Union proper in 1941. Until the 1950s, many of these deportees were interned in labor camps, often simply because they were of German descent. The population of Karaganda fell by 14% from 1989-1999 following the dissolution of the Soviet Union; it was once Kazakhstan's second-largest city after Almaty. Over 100,000 people have since emigrated to Germany. There is also a concentration of ethnic Poles in the city."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Karaganda",
+    "urlGoogle": "https://artsandculture.google.com/entity/karagandy/m01nlrz"
+  },
+  "wiki": {
+    "id": "robert-lawson-architect",
+    "name": "Robert Lawson (architect)",
+    "summary": "Robert Arthur Lawson is considered one of New Zealand's most eminent 19th century architects. Lawson has been described as the architect who did more than any other to shape the architectural face of Victorian era cities, especially Dunedin. However, it is as the architect of over forty churches, including his monumental Gothic First Church and New Zealand's only complete \"castle\", Larnach Castle, that he is best remembered. Lawson is acclaimed for his work in both the Gothic revival and classical styles of architecture. He was prolific, and while isolated buildings remain in Scotland and Australia, it is in the Dunedin area that most surviving examples can now be found. Today he is held in high esteem in his adopted country; however, at the time of his death his reputation and architectural skills were still held by many in contempt following the partial collapse of his Seacliff lunatic asylum, at the time New Zealand's largest building. The great plaudits denied him in his lifetime were not to come until nearly a century after his death, when the glories of Victorian architecture began again to be recognised and appreciated.",
+    "url": "https://en.wikipedia.org/wiki/Robert_Lawson_(architect)"
+  },
+  "word": {
+    "id": "kickshaw",
+    "word": "kickshaw",
+    "url": "https://www.merriam-webster.com/dictionary/kickshaw",
+    "partOfSpeech": "noun",
+    "pronunciation": "KICK-shaw",
+    "audioPath": "audio/words/kickshaw.mp3",
+    "definitions": ["a fancy dish", "a showy trifle"],
+    "examples": [
+      "The shop was filled with refrigerator magnets, back-scratchers, snow globes, and other kickshaws, all adorned with images of smiling pigs."
+    ],
+    "origin": "“Kickshaw” began its career in the late 16th century as a borrowing from the French \"quelque chose\" -- literally, “something.” In line with the French pronunciation of the day, the “l” was dropped and the word was anglicized as \"kickshaws\" or \"kickshoes.\" English speakers soon lost all consciousness of the word’s French origin and, by taking \"kickshaws\" as plural, created the new singular noun “kickshaw.”"
+  }
+}

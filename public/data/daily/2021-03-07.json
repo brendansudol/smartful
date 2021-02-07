@@ -1,0 +1,141 @@
+{
+  "artist": {
+    "id": "pierre-auguste-renoir",
+    "name": "Pierre-Auguste Renoir",
+    "dates": "Feb 25, 1841 - Dec 3, 1919",
+    "mainImg": "img/art/artists/pierre-auguste-renoir.jpg",
+    "artworkImgs": [
+      {
+        "name": "La Promenade",
+        "path": "img/art/artworks/pierre-auguste-renoir-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/la-promenade-pierre-auguste-renoir/ugEArpShIQma-g"
+      },
+      {
+        "name": "Luncheon of the Boating Party",
+        "path": "img/art/artworks/pierre-auguste-renoir-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/luncheon-of-the-boating-party-pierre-auguste-renoir/mgHsTKDNJVzPAg"
+      },
+      {
+        "name": "La Grenouillère",
+        "path": "img/art/artworks/pierre-auguste-renoir-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/la-grenouillère-auguste-renoir/HgHrOyFUfcFtLw"
+      },
+      {
+        "name": "The Dance in the Country",
+        "path": "img/art/artworks/pierre-auguste-renoir-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-dance-in-the-country-pierre-auguste-renoir/SgGzLuzrtF86Ow"
+      },
+      {
+        "name": "Girl Reading",
+        "path": "img/art/artworks/pierre-auguste-renoir-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/girl-reading-pierre-auguste-renoir/ZgEkdK6V-__Dsg"
+      },
+      {
+        "name": "Woman with a Parasol in a Garden",
+        "path": "img/art/artworks/pierre-auguste-renoir-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-with-a-parasol-in-a-garden-pierre-auguste-renoir/QgG22OXaJoXDaw"
+      }
+    ],
+    "summary": [
+      "Pierre-Auguste Renoir, commonly known as Auguste Renoir, was a French artist who was a leading painter in the development of the Impressionist style. As a celebrator of beauty and especially feminine sensuality, it has been said that \"Renoir is the final representative of a tradition which runs directly from Rubens to Watteau.\"",
+      "He was the father of actor Pierre Renoir, filmmaker Jean Renoir and ceramic artist Claude Renoir. He was the grandfather of the filmmaker Claude Renoir, son of Pierre."
+    ],
+    "quote": "“It is after you have lost your teeth that you can afford to buy steaks.”",
+    "movements": ["Modern art", "Impressionism", "Les Nabis"],
+    "mediums": ["Oil paint", "Etching", "Ink", "Drawing", "Laid paper", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir",
+    "urlGoogle": "https://artsandculture.google.com/entity/pierre-auguste-renoir/m06466"
+  },
+  "event": {
+    "id": "indonesian-national-revolution",
+    "name": "Indonesian National Revolution",
+    "dates": "Aug 17, 1945 - Dec 27, 1949",
+    "mainImg": "img/events/indonesian-national-revolution.jpg",
+    "summary": [
+      "The Indonesian National Revolution, or Indonesian War of Independence, was an armed conflict and diplomatic struggle between the Republic of Indonesia and the Dutch Empire and an internal social revolution during postwar and postcolonial Indonesia. It took place between Indonesia's declaration of independence in 1945 and the Netherlands' recognition of Indonesia's independence at the end of 1949.",
+      "The four-year struggle involved sporadic but bloody armed conflict, internal Indonesian political and communal upheavals, and two major international diplomatic interventions. Dutch military forces were able to control the major towns, cities and industrial assets in Republican heartlands on Java and Sumatra but could not control the countryside. By 1949, international pressure on the Netherlands and the partial military stalemate became such that it recognised Indonesian independence.",
+      "The revolution marked the end of the colonial administration of the Dutch East Indies, except for Netherlands New Guinea. It also significantly changed ethnic castes as well as reducing the power of many of the local rulers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/indonesian-national-revolution/m0hmws"
+  },
+  "funFacts": [
+    { "id": "417", "fact": "All polar bears are left-handed.", "category": ["Animals"] },
+    {
+      "id": "478",
+      "fact": "Candles will burn longer and drip less if they are placed in the freezer a few hours before using.",
+      "category": ["Make-it-Easies"]
+    },
+    { "id": "30", "fact": "Fish have eyelids.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "504823",
+      "fact": "The Square Dance is the official state dance (or folk dance) of 24 states."
+    },
+    {
+      "id": "504592",
+      "fact": "People didn’t always say “hello” when they answered the phone. When the first regular phone service was established in 1878, Alexander Graham Bell suggested answering the phone with “ahoy.\""
+    },
+    { "id": "553697", "fact": "Newborn elephants suck their trunks for comfort." }
+  ],
+  "idiom": {
+    "id": "not-suffer-fools-gladly",
+    "term": "not suffer fools gladly",
+    "definition": "Refuse to tolerate stupidity, as in *Chris can be intimidating at these meetings; she does not suffer fools gladly.* This expression comes from the New Testament (II Corinthians 11:19), where Paul sarcastically says, \"For ye suffer fools gladly, seeing ye yourselves are wise.\" [c. 1600]"
+  },
+  "person": {
+    "id": "harry-hopkins",
+    "name": "Harry Hopkins",
+    "dates": "Aug 17, 1890 - Jan 29, 1946",
+    "mainImg": "img/people/harry-hopkins.jpg",
+    "summary": [
+      "Harry Lloyd Hopkins was an American social worker, the 8th Secretary of Commerce, and President Franklin Delano Roosevelt's closest advisor on foreign policy during World War II. He was one of the architects of the New Deal, especially the relief programs of the Works Progress Administration, which he directed and built into the largest employer in the country. In World War II, he was Roosevelt's chief diplomatic troubleshooter and liaison with Winston Churchill and Joseph Stalin. He supervised the $50 billion Lend Lease program of military aid to the Allies.",
+      "Born in Iowa, Hopkins settled in New York City after he graduated from Grinnell College. He accepted a position in New York City's Bureau of Child Welfare and worked for various social work and public health organizations. He was elected president of the National Association of Social Workers in 1923. In 1931, Jesse I. Straus hired Hopkins as the executive director of New York's Temporary Emergency Relief Administration."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Harry_Hopkins",
+    "urlGoogle": "https://artsandculture.google.com/entity/harry-hopkins/m02l1zb"
+  },
+  "place": {
+    "id": "astrakhan",
+    "name": "Astrakhan",
+    "mainImg": "img/places/astrakhan.jpg",
+    "summary": [
+      "Astrakhan is a city in southern Russia and the administrative center of Astrakhan Oblast. The city lies on two banks of the Volga River, close to where it discharges into the Caspian Sea at an altitude of 28 meters below sea level, makes it the lowest city in Russia. As of the 2010 Census, its population was 520,339; up from 504,501 recorded in the 2002 Census and 509,210 recorded in the 1989 Census.",
+      "The oldest economic and cultural center of the Lower Volga, it is often called the southernmost outpost of Russia and the Caspian capital. The city is a member of the Eurasian Regional Office of the World Organization \"United Cities and Local Governments\" Its population is diverse and includes one hundred ethnicities and fourteen religious denominations.",
+      "The city is located in the upper part of the Volga delta, on eleven islands of the Caspian Depression. The distance to Moscow by road is 1,411 kilometers. The nearest big city is Volgograd."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Astrakhan",
+    "urlGoogle": "https://artsandculture.google.com/entity/astrakhan/m01lyhc"
+  },
+  "quote": {
+    "id": "30",
+    "quote": "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance.",
+    "author": "Steve Jobs"
+  },
+  "wiki": {
+    "id": "right-whale",
+    "name": "Right whale",
+    "summary": "Right whales are baleen whales belonging to the family Balaenidae. There are four species in two genera: Eubalaena (three species) and Balaena (one species, the Bowhead Whale, also called the Greenland Right Whale). Right whales can grow to 18 m (60 ft) long and weigh up to 100 metric tons. Their rotund bodies are mostly black, with distinctive white callosities (skin abrasions) on their heads. They are called \"right whales\" because whalers thought the whales were the \"right\" ones to catch, as they float when killed and often swim within sight of the shore. Populations were vastly reduced by intensive harvesting during the active years of the whaling industry. Nowadays, instead of hunting them, people often watch this acrobatic family for pleasure. The three right whale species live in geographically distinct locations. Around 300 Atlantic Northern Right Whales live in the North Atlantic, while the North Pacific has approximately 200 Pacific Northern Right Whales. Finally, about 7,500 Southern Right Whales are spread throughout the southern part of the Southern Hemisphere.",
+    "url": "https://en.wikipedia.org/wiki/Right_whale"
+  },
+  "word": {
+    "id": "indissoluble",
+    "word": "indissoluble",
+    "url": "https://www.merriam-webster.com/dictionary/indissoluble",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-dih-SAHL-yuh-bul",
+    "audioPath": "audio/words/indissoluble.mp3",
+    "definitions": [
+      "incapable of being dissolved or disintegrated; especially : incapable of being annulled, undone, or broken : permanent"
+    ],
+    "examples": [
+      "The minister contended that matrimony is a bond that is _indissoluble_ in the eyes of God.",
+      "\"At a news conference to present the message, Guinean Cardinal Robert Sarah, president of the Pontifical Council Cor Unum, which promotes Catholic charitable giving, told reporters, that insisting on the _indissoluble_ link between faith and charity is like 'hitting a raw nerve.'\" - From an article in _The Catholic Standard_, February 12, 2013"
+    ],
+    "origin": "\"Indissoluble\" entered the English language close on the heels of its antonym \"dissoluble\" (\"capable of being dissolved\"). \"Dissoluble\" (from Latin \"dissolubilis\") first appeared in print in 1534, and \"indissoluble\" (with its \"in-\" prefix) followed in 1542. \"Dissolubilis\" derives from \"dissolvere\" (\"to loosen\" or \"to dissolve\"), which in turn comes from \"dis-\" (\"apart\") and \"solvere\" (\"to loosen\"). Not surprisingly, \"dissolvere\" is also the source of \"dissolve\" and \"dissolvable,\" among other words. Is there an \"indissolvable\"? Yes and no. It exists, but it is archaic and rare. The word most likely to be used for things that cannot be dissolved in a liquid is \"insoluble.\" \"Indissoluble\" generally refers to abstract entities, such as promises or treaties, that cannot be dissolved."
+  }
+}

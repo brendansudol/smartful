@@ -1,0 +1,140 @@
+{
+  "artist": {
+    "id": "alessandro-magnasco",
+    "name": "Alessandro Magnasco",
+    "dates": "Feb 4, 1667 - Mar 12, 1749",
+    "mainImg": "img/art/artists/alessandro-magnasco.jpg",
+    "artworkImgs": [
+      {
+        "name": "Saint Carlo Borromeo Receiving the Oblates",
+        "path": "img/art/artworks/alessandro-magnasco-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-carlo-borromeo-receiving-the-oblates-alessandro-magnasco/-QGTxIqmXWahvQ"
+      },
+      {
+        "name": "The Tame Magpie",
+        "path": "img/art/artworks/alessandro-magnasco-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-tame-magpie-alessandro-magnasco/4QGJiQ3lYaHDkw"
+      },
+      {
+        "name": "The Raising of Lazarus",
+        "path": "img/art/artworks/alessandro-magnasco-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-raising-of-lazarus-magnasco-alessandro/kAHEFExZ8Ybi3A"
+      },
+      {
+        "name": "Hermit in the Desert",
+        "path": "img/art/artworks/alessandro-magnasco-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/hermit-in-the-desert-magnasco-alessandro/vAHbO_WYBJQxQg"
+      },
+      {
+        "name": "The Raising of Lazarus",
+        "path": "img/art/artworks/alessandro-magnasco-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-raising-of-lazarus-alessandro-magnasco/gAEfHrdi45lMkQ"
+      },
+      {
+        "name": "Garden Party in Albaro",
+        "path": "img/art/artworks/alessandro-magnasco-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/garden-party-in-albaro-alessandro-magnasco/MAHXZp-pEusujA"
+      }
+    ],
+    "summary": [
+      "Alessandro Magnasco, also known as il Lissandrino, was an Italian late-Baroque painter active mostly in Milan and Genoa. He is best known for stylized, fantastic, often phantasmagoric genre or landscape scenes. Magnasco's distinctive style is characterized by fragmented forms rendered with swift brushstrokes and darting flashes of light."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Rococo", "Renaissance"],
+    "mediums": ["Oil paint", "Drawing", "Ink", "Chalk", "Pigment", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alessandro_Magnasco",
+    "urlGoogle": "https://artsandculture.google.com/entity/alessandro-magnasco/m0bb7ls"
+  },
+  "event": {
+    "id": "british-colonization-of-the-americas",
+    "name": "British colonization of the Americas",
+    "dates": "1607",
+    "mainImg": "img/events/british-colonization-of-the-americas.jpg",
+    "summary": [
+      "The British colonization of the Americas describes the history of the establishment of control, settlement, and decolonization of the continents of the Americas by the Kingdom of England, the Kingdom of Scotland, and, after the union of those two countries in 1707, the Kingdom of Great Britain. Colonization efforts began in the 16th century with efforts by the Kingdom of England to establish colonies in North America, but the first permanent British colony was established in Jamestown in 1607. Over the next several centuries more colonies were established in North America, Central America, South America, and the Caribbean. Though most British colonies in the Americas eventually gained independence, some colonies have opted to remain under Britain's jurisdiction as British Overseas Territories.",
+      "North America had been inhabited by indigenous peoples for thousands of years of prior to 1492, but European exploration of North America began after Christopher Columbus's 1492 expedition across the Atlantic Ocean. English exploration of the continent commenced in the late 15th century, and Sir Walter Raleigh established short-lived Roanoke Colony in 1585."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/British_colonization_of_the_Americas",
+    "urlGoogle": "https://artsandculture.google.com/entity/british-colonization-of-the-americas/m0dt56"
+  },
+  "funFacts": [
+    {
+      "id": "980",
+      "fact": "When grazing or resting, cows tend to align their bodies with the magnetic north and south poles.",
+      "category": ["Animals"]
+    },
+    { "id": "868", "fact": "Thomas Jefferson invented the coat hanger.", "category": ["History"] },
+    {
+      "id": "232",
+      "fact": "The blue whale's heart is the size of a small car.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "505451", "fact": "Alaska is simultaneously the westernmost and easternmost state." },
+    {
+      "id": "554017",
+      "fact": "Beethoven went out of his way to ensure his morning coffee was made with exactly 60 beans per cup."
+    },
+    {
+      "id": "504658",
+      "fact": "Amerigo Vespucci, for whom many historians believe America was named, was an Italian merchant."
+    }
+  ],
+  "idiom": {
+    "id": "lock-the-barn-door-after-the-horse-has-bolted",
+    "term": "lock the barn door after the horse has bolted",
+    "definition": "Also, **lock the stable door after the horse is stolen.** Take precautions after damage has occurred. For example, *After the burglary they installed an alarm system, but it's locking the barn door,* or *Deciding to negotiate now after they've been fired---that's a matter of locking the stable door after the horse is stolen.* These expressions of action that is useless because it comes too late have long been proverbs in many languages and first appeared in English in the mid-1300s."
+  },
+  "person": {
+    "id": "ludwig-erhard",
+    "name": "Ludwig Erhard",
+    "dates": "Feb 4, 1897 - May 5, 1977",
+    "mainImg": "img/people/ludwig-erhard.jpg",
+    "summary": [
+      "Ludwig Wilhelm Erhard was a German politician affiliated with the CDU, and the second Chancellor of the Federal Republic of Germany from 1963 until 1966. He is often famed for leading the West German postwar economic reforms and economic recovery in his role as Minister of Economic Affairs under Chancellor Konrad Adenauer from 1949 to 1963. During that period he promoted the concept of the social market economy, on which Germany's economic policy in the 21st century continues to be based. In his tenure as Chancellor, however, Erhard lacked support from Adenauer, who remained chairman of the party until 1966, and failed to win the public's confidence in his handling of a budget deficit and his direction of foreign policy. His popularity waned, and he resigned his chancellorship on 30 November 1966."
+    ],
+    "quote": "“A compromise is the art of dividing a cake in such a way that everyone believes he has the biggest piece.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ludwig_Erhard",
+    "urlGoogle": "https://artsandculture.google.com/entity/ludwig-erhard/m0bj8n"
+  },
+  "place": {
+    "id": "india",
+    "name": "India",
+    "mainImg": "img/places/india.jpg",
+    "summary": [
+      "India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia.",
+      "Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago.",
+      "Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity. Settled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/India",
+    "urlGoogle": "https://artsandculture.google.com/entity/india/m03rk0"
+  },
+  "quote": {
+    "id": "89",
+    "quote": "Yesterday's home runs don't win today's games.",
+    "author": "Babe Ruth"
+  },
+  "wiki": {
+    "id": "first-crusade",
+    "name": "First Crusade",
+    "summary": "The First Crusade was a crusade launched in 1095 by Pope Urban II to regain control of the sacred city of Jerusalem and the Christian Holy Land from Muslims. What started as a minor call for aid quickly turned into a wholesale migration and conquest of territory outside of Europe. Both knights and peasants from many different nations of western Europe, with little central leadership, travelled overland and by sea towards Jerusalem and captured the city in July 1099, establishing the Kingdom of Jerusalem and the other Crusader states. Although these gains lasted for fewer than 200 years, the Crusade was a major turning point in the expansion of Western power, and was the only crusade out of the many that followed to achieve its stated goal.",
+    "url": "https://en.wikipedia.org/wiki/First_Crusade"
+  },
+  "word": {
+    "id": "repugn",
+    "word": "repugn",
+    "url": "https://www.merriam-webster.com/dictionary/repugn",
+    "partOfSpeech": "verb",
+    "pronunciation": "rih-PYOON",
+    "audioPath": "audio/words/repugn.mp3",
+    "definitions": ["to contend against : oppose"],
+    "examples": [
+      "Over 450 students signed the petition _repugning_ the school board's decision to fire the popular teacher.",
+      "\"Still to come, bad blood between Bloom and Bieber. Will we ever know what happened when the movie star _repugns_ the pop star?\" - Lester Holt, _NBC News Transcripts_, August 2, 2014"
+    ],
+    "origin": "_Repugn_ is a word that was relatively common in English in the 16th and 17th centuries. These days, however, English speakers are more likely to be familiar with one of its close relatives, namely, the adjective _repugnant_, which formerly meant \"hostile\" but today most commonly means \"exciting distaste or aversion.\" The Latin root for both of these words is _pugnare_, meaning \"to fight.\" Other English derivatives from this root are _pugnacious_, meaning \"belligerent,\" and _impugn_, meaning \"to assail with words or arguments.\" Even _pungent_ is a relative of _pugnare_. Therefore, don’t try to _repugn_, or _impugn_ for that matter, the influence of _pugnare_ on our language-lest you appear pugnacious!"
+  }
+}

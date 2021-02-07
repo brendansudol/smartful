@@ -1,0 +1,150 @@
+{
+  "artist": {
+    "id": "cindy-sherman",
+    "name": "Cindy Sherman",
+    "dates": "Born Jan 19, 1954",
+    "mainImg": "img/art/artists/cindy-sherman.jpg",
+    "artworkImgs": [
+      {
+        "name": "Untitled #466",
+        "path": "img/art/artworks/cindy-sherman-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-466-cindy-sherman/ugETfHsHF6tdYQ"
+      },
+      {
+        "name": "Untitled Film Still #16",
+        "path": "img/art/artworks/cindy-sherman-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-film-still-16-cindy-sherman/xAEw-dR44IhTNg"
+      },
+      {
+        "name": "Untitled #184",
+        "path": "img/art/artworks/cindy-sherman-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-184-cindy-sherman/jwER3_VIv8S0Kw"
+      },
+      {
+        "name": "Untitled #92",
+        "path": "img/art/artworks/cindy-sherman-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-92-cindy-sherman/BQG4tmKcXtfj-Q"
+      },
+      {
+        "name": "Untitled #351",
+        "path": "img/art/artworks/cindy-sherman-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-351-cindy-sherman/QQHe_hEnCgSLmA"
+      },
+      {
+        "name": "Untitled Film Still #6",
+        "path": "img/art/artworks/cindy-sherman-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-film-still-6-cindy-sherman/wAHaWL7DaHLUIg"
+      }
+    ],
+    "summary": [
+      "Cynthia Morris Sherman is an American artist whose work consists exclusively of photographic self-portraits, depicting herself in many different contexts and as various imagined characters.",
+      "Her breakthrough work is often considered to be \"Complete Untitled Film Stills,\" a series of 70 black-and-white photographs of herself in many of the roles of women in performance media. In the 1980s, Sherman used color film and large prints, and focused more on costume, lighting and facial expression.",
+      "In 1995, Sherman was the recipient of a MacArthur Fellowship. In 2013 she received an honorary doctorate degree from the Royal College of Art, London."
+    ],
+    "quote": "“Inconsiderate, rude behavior drives me nuts. And I guess the inconsiderate rudeness of social ineptitude definitely fuels my work.”",
+    "movements": [],
+    "mediums": ["Metal", "Dye", "Photograph", "Silver"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Cindy_Sherman",
+    "urlGoogle": "https://artsandculture.google.com/entity/cindy-sherman/m074g02"
+  },
+  "event": {
+    "id": "2008-summer-olympics",
+    "name": "2008 Summer Olympics",
+    "dates": "Aug 8, 2008 - Aug 24, 2008",
+    "mainImg": "img/events/2008-summer-olympics.jpg",
+    "summary": [
+      "The 2008 Summer Olympics, officially known as the Games of the XXIX Olympiad, and commonly known as Beijing 2008, was an international multi-sport event that was held from 8 to 24 August 2008 in Beijing, China.",
+      "A total of 10,942 athletes from 204 National Olympic Committees competed in 28 sports and 302 events. This was the first time that China had hosted the Summer Olympics, and the third time that the Games had been held in East Asia, following the 1964 Summer Olympics in Tokyo, Japan, and the 1988 Summer Olympics in Seoul, South Korea. These were the third summer Olympic Games staged in a developing country after the Mexico City 1968 Summer Olympics and the 1980 Summer Olympics in the Soviet Union.",
+      "Beijing was awarded the 2008 Games over four competitors on 13 July 2001, having won a majority of votes from members of the International Olympic Committee after two rounds of voting. The Government of the People's Republic of China promoted the Games and invested heavily in new facilities and transport systems. A total of 37 venues were used to host the events, including twelve constructed specifically for the 2008 Olympics."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2008_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/2008-summer-olympics/m0kbws"
+  },
+  "funFacts": [
+    {
+      "id": "1004",
+      "fact": "Just a sugar cube of neutron star matter would weigh about one hundred million tons on Earth.",
+      "category": ["Science"]
+    },
+    {
+      "id": "790",
+      "fact": "Your big toe only has 2 bones and the rest have 3.",
+      "category": ["Anatomy", "Onlies"]
+    },
+    {
+      "id": "1005",
+      "fact": "A soup can full of neutron star material would have more mass than the Moon.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553736",
+      "fact": "The Mayflower landed at Plymouth Rock in 1620. A journal from the ship reads, “We could not now take time for further search or consideration; our victuals being much spent especially our Beere.”"
+    },
+    {
+      "id": "554022",
+      "fact": "When your \"inner voice\" speaks in your head, it triggers small muscle movements in your larynx."
+    },
+    {
+      "id": "551314",
+      "fact": "<span>The annual number of worldwide shark bites is 10 times less than the number of people bitten by other people in New York.</span>"
+    }
+  ],
+  "idiom": {
+    "id": "discretion-is-the-better-part-of-valor",
+    "term": "discretion is the better part of valor",
+    "definition": "It is better to be prudent than merely courageous, as in *I'm signing up for the easy course first; discretion is the better part of valor.* This proverb, a synonym of **look before you leap**, was first recorded in 1477. Charles Churchill put it in poetic form: \"Even in a hero's heart, Discretion is the better part\" (*The Ghost,* 1762). Shakespeare also used a form of it: \"The better part of valor is discretion\" (*1 Henry IV,* 5:4)."
+  },
+  "person": {
+    "id": "jean-de-lattre-de-tassigny",
+    "name": "Jean de Lattre de Tassigny",
+    "dates": "Feb 2, 1889 - Jan 11, 1952",
+    "mainImg": "img/people/jean-de-lattre-de-tassigny.jpg",
+    "summary": [
+      "Jean Joseph Marie Gabriel de Lattre de Tassigny, was a French army general during World War II and the First Indochina War. He was posthumously elevated to the dignity of Marshal of France.",
+      "As an officer during World War I, he fought in combat in various battles, including Verdun and was wounded five times, surviving the war with 8 citations, the Legion of Honour and the Military Cross. During the Interwar period, he took part in campaigns in Morocco where he was wounded in action again. He then pursued a career in the general staff headquarters and as a commander of a regiment.",
+      "Early in World War II, from May to June 1940, he was the youngest French general. He led his division during the Battle of France, at the battles of Rethel, Champagne-Ardenne, and Loire and until the Armistice of 22 June 1940. During the Vichy Regime, he remained in the Armistice Army, first in regional command posts, then as commander-in-chief of troops in Tunisia."
+    ],
+    "quote": "“An optimist is a man who plant two acorns and buy a hammock.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean_de_Lattre_de_Tassigny",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-de-lattre-de-tassigny/m02fqbd"
+  },
+  "place": {
+    "id": "pretoria",
+    "name": "Pretoria",
+    "mainImg": "img/places/pretoria.jpg",
+    "summary": [
+      "Pretoria is the administrative capital of South Africa. It straddles the Apies River and has spread eastwards into the foothills of the Magaliesberg mountains. It is one of the country's three capital cities, serving as the seat of the administrative branch of government, and of foreign embassies to South Africa. Pretoria, has a reputation for being an academic city with four universities, the Tshwane University of Technology, University of Pretoria, Sefako Makgatho Health Science University and the University of South Africa, also home to the Council for Scientific and Industrial Research, and the Human Sciences Research Council.",
+      "The city also hosts the National Research Foundation and the South African Bureau of Standards making the city a hub for research. Pretoria is the central part of the Tshwane Metropolitan Municipality which was formed by the amalgamation of several former local authorities including Centurion and Soshanguve. There have been proposals to change the name of Pretoria itself to Tshwane and the proposed name change has caused some public controversy. Pretoria was one of the host cities of the 2010 FIFA World Cup."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pretoria",
+    "urlGoogle": "https://artsandculture.google.com/entity/pretoria/m067z4"
+  },
+  "quote": {
+    "id": "99",
+    "quote": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mohandas Gandhi"
+  },
+  "wiki": {
+    "id": "aelfheah-of-canterbury",
+    "name": "Ælfheah of Canterbury",
+    "summary": "Ælfheah of Canterbury (954–1012) was an Anglo-Saxon Bishop of Winchester, later Archbishop of Canterbury. He became an anchorite before being elected abbot of Bath Abbey. His piety and sanctity led to his promotion to the episcopate, and eventually to his becoming archbishop. Ælfheah furthered the cult of St Dunstan and also encouraged learning. He was captured by Viking raiders in 1011 and killed by them the following year, after refusing to allow himself to be ransomed. Ælfheah was canonized as a saint in 1078. Saint Thomas Becket, a later Archbishop of Canterbury, prayed to him just before his own slaying in Canterbury Cathedral. Ælfheah became a monk early in life. He first entered the monastery of Deerhurst, but then moved to Bath, where he became an anchorite. He was noted for his piety and austerity, and rose to become abbot of Bath Abbey. Probably due to the influence of Dunstan, the Archbishop of Canterbury (959–988), Ælfheah was elected Bishop of Winchester in 984, and was consecrated on 19 October that year.",
+    "url": "https://en.wikipedia.org/wiki/%C3%86lfheah_of_Canterbury"
+  },
+  "word": {
+    "id": "deasil",
+    "word": "deasil",
+    "url": "https://www.merriam-webster.com/dictionary/deasil",
+    "partOfSpeech": "adv",
+    "pronunciation": "DEE-zil",
+    "audioPath": "audio/words/deasil.mp3",
+    "definitions": ["clockwise"],
+    "examples": [
+      "One pictograph shows a group of warriors dancing deasil around what appears to be a gigantic wild boar speared numerous times."
+    ],
+    "origin": "According to an old custom, you can bring someone good fortune by walking around the person clockwise three times while carrying a torch or candle. In Scottish Gaelic, the word \"deiseil\" is used for the direction one walks in such a luck-bringing ritual. English speakers modified the spelling to \"deasil,\" and have used the word to describe clockwise motion in a variety of rituals."
+  }
+}

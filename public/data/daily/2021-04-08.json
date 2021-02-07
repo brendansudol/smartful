@@ -1,0 +1,148 @@
+{
+  "artist": {
+    "id": "shiba-kokan",
+    "name": "Shiba Kōkan",
+    "dates": "1747 - Nov 19, 1818",
+    "mainImg": "img/art/artists/shiba-kokan.jpg",
+    "artworkImgs": [
+      {
+        "name": "View of Ryogoku Bridge",
+        "path": "img/art/artworks/shiba-kokan-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-ryogoku-bridge-shiba-kōkan/1wGCoOwsVioIkA"
+      },
+      {
+        "name": "Shichirigahama Beach at Kamakura in the Sagami Province",
+        "path": "img/art/artworks/shiba-kokan-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/shichirigahama-beach-at-kamakura-in-the-sagami-province-shiba-kōkan/ZgF263WtwnrPww"
+      },
+      {
+        "name": "View of Mimeguri in Edo",
+        "path": "img/art/artworks/shiba-kokan-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-mimeguri-in-edo-shiba-kōkan/mAFaPqXCKeZ35A"
+      },
+      {
+        "name": "Landscape with a Lion",
+        "path": "img/art/artworks/shiba-kokan-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-with-a-lion-shiba-kōkan/pQERa2-hP2qL_w"
+      },
+      {
+        "name": "View of the Shnobazunoike Pond, Edo",
+        "path": "img/art/artworks/shiba-kokan-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-the-shnobazunoike-pond-edo-shiba-kōkan/HQHOgLuh8CECAw"
+      },
+      {
+        "name": "European Landscapes with Figures (Right-hand scroll)",
+        "path": "img/art/artworks/shiba-kokan-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/european-landscapes-with-figures-right-hand-scroll-shiba-kōkan/mwGgVjRoLIZT6w"
+      }
+    ],
+    "summary": [
+      "Shiba Kōkan, born Andō Kichirō or Katsusaburō （勝三郎）, was a Japanese painter and printmaker of the Edo period, famous both for his Western-style yōga paintings, in imitation of Dutch oil painting styles, methods, and themes, which he painted as Kōkan, and his ukiyo-e prints, which he created under the name Harushige, but also producing forgeries of the works of Suzuki Harunobu. He is said to have boasted of his ability to forge the great master so well. He also was engaged in Western learning in the field of astronomy."
+    ],
+    "quote": null,
+    "movements": ["Ukiyo-e"],
+    "mediums": ["Book", "Silk", "Textile", "Oil paint", "Ink", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Shiba_K%C5%8Dkan",
+    "urlGoogle": "https://artsandculture.google.com/entity/shiba-kōkan/m02747qd"
+  },
+  "event": {
+    "id": "1936-summer-olympics",
+    "name": "1936 Summer Olympics",
+    "dates": "Aug 1, 1936 - Aug 16, 1936",
+    "mainImg": "img/events/1936-summer-olympics.jpg",
+    "summary": [
+      "The 1936 Summer Olympics, officially known as the Games of the XI Olympiad, was an international multi-sport event held in 1936 in Berlin, Germany. Berlin won the bid to host the Games over Barcelona, Spain, on 26 April 1931, at the 29th IOC Session in Barcelona. It marked the second and most recent time the International Olympic Committee gathered to vote in a city that was bidding to host those Games.",
+      "To outdo the Los Angeles games of 1932, Reich Chancellor Adolf Hitler had a new 100,000-seat track and field stadium built, as well as six gymnasiums and many other smaller arenas. The games were the first to be televised, and radio broadcasts reached 41 countries. Filmmaker Leni Riefenstahl was commissioned by the German Olympic Committee to film the Games for $7 million. Her film, titled Olympia, pioneered many of the techniques now common in the filming of sports.",
+      "Hitler saw the Games as an opportunity to promote his government and ideals of racial supremacy and antisemitism, and the official Nazi party paper, the Völkischer Beobachter, wrote in the strongest terms that Jews should not be allowed to participate in the Games."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1936_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/1936-summer-olympics/m09x3r"
+  },
+  "funFacts": [
+    {
+      "id": "147",
+      "fact": "Panama is the only place in the world where you can see the sun rise on the Pacific and set on the Atlantic.",
+      "category": ["Geography", "Onlies"]
+    },
+    {
+      "id": "934",
+      "fact": "Babies are born with about 300 separate bones, but adults have 206.",
+      "category": ["Anatomy", "Science"]
+    },
+    {
+      "id": "309",
+      "fact": "Ancient Egyptians believed the \"vein of love\" ran from the third finger on the left hand to the heart.",
+      "category": ["Anatomy", "History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553855",
+      "fact": "In the 18th century, wealthy British landowners hired ornamental hermits to live in their gardens."
+    },
+    { "id": "505479", "fact": "Yoda was partly modeled after a photo of Albert Einstein." },
+    {
+      "id": "504708",
+      "fact": "After OutKast sang \"Shake it like a Polaroid picture,\" Polaroid released this statement: \"Shaking or waving can actually damage the image\""
+    }
+  ],
+  "idiom": {
+    "id": "betwixt-and-between",
+    "term": "betwixt and between",
+    "definition": "Undecided, midway between two alternatives, neither here nor there. For example, *I'm betwixt and between canceling my trip entirely or just postponing it,* or *Jane is betwixt and between about accepting the offer.* The adverb *betwixt,* originally meaning \"by two,\" is seldom heard except in this expression, first recorded in 1832."
+  },
+  "person": {
+    "id": "benito-juarez",
+    "name": "Benito Juárez",
+    "dates": "Mar 21, 1806 - Jul 18, 1872",
+    "mainImg": "img/people/benito-juarez.jpg",
+    "summary": [
+      "Benito Pablo Juárez García was a Mexican lawyer and politician, who served as the 26th president of Mexico from 1858 until his death in 1872. Born in Oaxaca to a poor rural family of Zapotec origin, he became a well-educated urban professional and politician who married a socially prominent woman of Oaxaca City, Margarita Maza. He identified primarily as a Liberal and wrote only briefly about his indigenous heritage.",
+      "When moderate liberal President Ignacio Comonfort was forced to resign by the Conservatives in 1858, Juárez, as head of the Supreme Court, assumed the presidency following the succession codified in the Constitution of 1857. He weathered the War of the Reform, a civil war between the Liberals and the Conservatives, and then the French invasion, which was supported by Conservative monarchists. Never relinquishing office although forced into exile to areas of Mexico not controlled by the French, Juárez tied Liberalism to Mexican nationalism and maintained that he was the legitimate head of the Mexican state, rather than Emperor Maximilian. When the French-backed Second Mexican Empire fell in 1867, the Mexican Republic with Juárez as president was restored to full power."
+    ],
+    "quote": "“Respect for the rights of others means peace.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez",
+    "urlGoogle": "https://artsandculture.google.com/entity/benito-juárez/m0q2b7"
+  },
+  "place": {
+    "id": "atlanta",
+    "name": "Atlanta",
+    "mainImg": "img/places/atlanta.jpg",
+    "summary": [
+      "Atlanta is the capital and most populous city of the U.S. state of Georgia. With an estimated 2019 population of 506,811, it is also the 37th most populous city in the United States. The city serves as the cultural and economic center of the Atlanta metropolitan area, home to more than 6 million people and the ninth-largest metropolitan area in the nation. Atlanta is the seat of Fulton County, the most populous county in Georgia. Portions of the city extend eastward into neighboring DeKalb County. The city is situated among the foothills of the Appalachian Mountains and has one of the highest elevations among major cities east of the Mississippi River.",
+      "Atlanta was originally founded as the terminus of a major state-sponsored railroad. With rapid expansion, however, it soon became the convergence point among multiple railroads, spurring its rapid growth. The city's name derives from that of the Western and Atlantic Railroad's local depot, signifying the town's growing reputation as a transportation hub. During the American Civil War, the city was almost entirely burned to the ground in General William T. Sherman's famous March to the Sea."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Atlanta",
+    "urlGoogle": "https://artsandculture.google.com/entity/atlanta/m013yq"
+  },
+  "quote": {
+    "id": "95",
+    "quote": "Early to bed and early to rise probably indicates unskilled labor.",
+    "author": "John Ciardi"
+  },
+  "wiki": {
+    "id": "hadji-ali",
+    "name": "Hadji Ali",
+    "summary": "Hadji Ali (c. 1888–92 – 1937) was a vaudeville performance artist famous for acts of controlled regurgitation. Thought to be of Egyptian extraction, his best-known feats included water spouting, smoke swallowing and nut and handkerchief swallowing followed by disgorgement in an order chosen by the audience. The mainstay of Ali's act was \"water spouting\". After swallowing large amounts of water, 60 to 100 glasses at a time, he spouted it in a continuous stream for a sustained period of time, sometimes approaching one minute. Ali's most famous stunt, and the highlight of his act, was drinking copious amounts of water followed by kerosene, and then acting by turns as a human flamethrower and fire extinguisher as he expelled the two liquids onto a theatrical prop. Ali had a dedicated following on the vaudeville circuit in the United States and performed for heads of state including Tsar Nicholas II of Russia. Ali's unusual gastric abilities led to rumors that the Rockefeller Institute had offered a large sum of money to obtain his stomach post-mortem. After he died in England his body was offered to Johns Hopkins for study, though the offer was declined.",
+    "url": "https://en.wikipedia.org/wiki/Hadji_Ali"
+  },
+  "word": {
+    "id": "garniture",
+    "word": "garniture",
+    "url": "https://www.merriam-webster.com/dictionary/garniture",
+    "partOfSpeech": "noun",
+    "pronunciation": "GAHR-nih-cher",
+    "audioPath": "audio/words/garniture.mp3",
+    "definitions": [
+      "embellishment, trimming",
+      "a set of decorative objects (as vases, urns, or clocks)"
+    ],
+    "examples": [
+      "The room was authentically furnished right down to the 16th-century _garniture_ decorating the mantel and the wardrobe.",
+      "\"The studio was prolific, producing lamps and clock cases with matching _garniture_.\" - From an article by Jay Moore in the _Tampa Tribune_ (Florida), April 3, 2011"
+    ],
+    "origin": "In Middle French, the language from which today's word was borrowed, \"garniture\" meant \"equipment.\" \"Garniture\" is an alteration of the Old French noun \"garnesture,\" which is derived from the verb \"garnir,\" which meant \"to warn, equip, or garnish.\" In fact, an Anglo-French stem of \"garner,\" \"garniss-,\" is the source of the English verb \"garnish,\" which in its senses of \"decorate\" and \"embellish\" shares a similar relationship to \"garniture\" that the verb \"furnish\" shares with \"furniture.\" \"Furnish\" comes from the Anglo-French \"furniss-,\" a stem of the verb \"furnir\" or \"fournir,\" which also gave rise to the Middle French \"fourniture,\" the source of the English \"furniture.\""
+  }
+}

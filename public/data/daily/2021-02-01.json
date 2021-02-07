@@ -1,0 +1,151 @@
+{
+  "artist": {
+    "id": "chris-burden",
+    "name": "Chris Burden",
+    "dates": "Apr 11, 1946 - May 10, 2015",
+    "mainImg": "img/art/artists/chris-burden.jpg",
+    "artworkImgs": [
+      {
+        "name": "Beam drop Inhotim",
+        "path": "img/art/artworks/chris-burden-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/beam-drop-inhotim/NQHwHQ6fC-Yg-Q"
+      },
+      {
+        "name": "Urban Light",
+        "path": "img/art/artworks/chris-burden-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/urban-light-chris-burden/vgGacTHf37eEwQ"
+      },
+      {
+        "name": "What My Dad Gave Me",
+        "path": "img/art/artworks/chris-burden-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/what-my-dad-gave-me-burden-chris/YAEFna1LVhlT0g"
+      },
+      {
+        "name": "Urban Light",
+        "path": "img/art/artworks/chris-burden-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/urban-light-chris-burden/5AE6CdRt5m2tjA"
+      },
+      {
+        "name": "Urban Light",
+        "path": "img/art/artworks/chris-burden-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/urban-light-chris-burden/aQGSjdX00mHDFg"
+      },
+      {
+        "name": "What My Dad Gave Me",
+        "path": "img/art/artworks/chris-burden-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/what-my-dad-gave-me-burden-chris/FAFOECOV-cjEEQ"
+      }
+    ],
+    "summary": [
+      "Christopher Lee Burden was an American artist working in performance, sculpture and installation art. Burden became known in the 1970s for his performance art works, including Shoot, where he arranged for a friend to shoot him in the arm with a small-caliber rifle. A prolific artist, Burden created many well-known installations, public artworks and sculptures before his death in 2015."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art", "Conceptual art", "Public art"],
+    "mediums": ["Iron", "Metal", "Cast iron", "Sculpture", "Concrete", "Steel"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Chris_Burden",
+    "urlGoogle": "https://artsandculture.google.com/entity/chris-burden/m01v99b"
+  },
+  "event": {
+    "id": "eastern-front",
+    "name": "Eastern Front",
+    "dates": "Jun 22, 1941 - May 9, 1945",
+    "mainImg": "img/events/eastern-front.jpg",
+    "summary": [
+      "The Eastern Front of World War II was a theatre of conflict between the European Axis powers and co-belligerent Finland against the Soviet Union, Poland and other Allies, which encompassed Central Europe, Eastern Europe, Northeast Europe, and Southeast Europe from 22 June 1941 to 9 May 1945. It is known as the Great Patriotic War in the Soviet Union and its successor states, while in Germany it was called the Eastern Front.",
+      "The battles on the Eastern Front of the Second World War constituted the largest military confrontation in history. They were characterised by unprecedented ferocity, wholesale destruction, mass deportations, and immense loss of life due to combat, starvation, exposure, disease, and massacres. Of the estimated 70–85 million deaths attributed to World War II, around 30 million occurred on the Eastern Front. The Eastern Front was decisive in determining the outcome in the European theatre of operations in World War II, eventually serving as the main reason for the defeat of Nazi Germany and the Axis nations.",
+      "The two principal belligerent powers were Germany and the Soviet Union, along with their respective allies."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Eastern_Front_%28World_War_II%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/eastern-front/g1q6jhj143"
+  },
+  "funFacts": [
+    {
+      "id": "273",
+      "fact": "Each year, the average American eats about 15 pounds of apples.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "689",
+      "fact": "The roadrunner chases after its prey at a blurring speed of up to 25 mph.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "672",
+      "fact": "The Wildwood Boardwalk extends nearly two miles and has more than 70,000 wooden planks.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504662",
+      "fact": "Pentheraphobia is the intense and disproportionate fear of your mother-in-law."
+    },
+    {
+      "id": "554089",
+      "fact": "Over half the world's population lives within a 5000-mile-wide circle in East Asia."
+    },
+    {
+      "id": "554098",
+      "fact": "The Vatican's bank is the only one in existence that allows ATM users to perform transactions in Latin."
+    }
+  ],
+  "idiom": {
+    "id": "busmans-holiday",
+    "term": "busman's holiday",
+    "definition": "Free time spent in much the same pursuit as one's work. For example, *Weather permitting, the lifeguard spent all her days off at the beach ---a real busman's holiday.* The term alludes to a bus driver spending his day off taking a long bus ride. [Late 1800s]"
+  },
+  "person": {
+    "id": "gustav-iii-of-sweden",
+    "name": "Gustav III of Sweden",
+    "dates": "Jan 24, 1746 - Mar 29, 1792",
+    "mainImg": "img/people/gustav-iii-of-sweden.jpg",
+    "summary": [
+      "Gustav III was King of Sweden from 1771 until his assassination in 1792. He was the eldest son of Adolf Frederick, King of Sweden and Queen Louise Ulrika, and a first cousin of Empress Catherine the Great of Russia by reason of their common descent from Christian August of Holstein-Gottorp, Prince of Eutin, and his wife Albertina Frederica of Baden-Durlach.",
+      "Gustav was a vocal opponent of what he saw as the abuse of political privileges seized by the nobility since the death of King Charles XII. Seizing power from the government in a coup d'état, called the Swedish Revolution, in 1772 that ended the Age of Liberty, he initiated a campaign to restore a measure of Royal autocracy, which was completed by the Union and Security Act of 1789, which swept away most of the powers exercised by the Swedish Riksdag during the Age of Liberty, but at the same time it opened up the government for all citizens, thereby breaking the privileges of the nobility."
+    ],
+    "quote": "“I will never pretend esteem for a man whose principles I detest.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Gustav_III_of_Sweden",
+    "urlGoogle": "https://artsandculture.google.com/entity/gustav-iii-of-sweden/m0j59t"
+  },
+  "place": {
+    "id": "central-african-republic",
+    "name": "Central African Republic",
+    "mainImg": "img/places/central-african-republic.jpg",
+    "summary": [
+      "The Central African Republic is a landlocked country in Central Africa. It is bordered by Chad to the north, Sudan to the northeast, South Sudan to the southeast, the Democratic Republic of the Congo to the south, the Republic of the Congo to the southwest and Cameroon to the west. The CAR covers a land area of about 620,000 square kilometres and had an estimated population of around 4.7 million as of 2018. As of 2020, the CAR is the scene of a civil war, ongoing since 2012.",
+      "Most of the CAR consists of Sudano-Guinean savannas, but the country also includes a Sahelo-Sudanian zone in the north and an equatorial forest zone in the south. Two thirds of the country is within the Ubangi River basin, while the remaining third lies in the basin of the Chari, which flows into Lake Chad.",
+      "What is today the Central African Republic has been inhabited for millennia; however, the country's current borders were established by France, which ruled the country as a colony starting in the late 19th century."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Central_African_Republic",
+    "urlGoogle": "https://artsandculture.google.com/entity/central-african-republic/m01nyl"
+  },
+  "quote": {
+    "id": "26",
+    "quote": "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.",
+    "author": "Henry Ford"
+  },
+  "wiki": {
+    "id": "sherlock-holmes-baffled",
+    "name": "Sherlock Holmes Baffled",
+    "summary": "Sherlock Holmes Baffled is a very short silent film created between 1900 and 1903, with cinematography by Arthur Marvin. It is the earliest-known film to feature the character of Sherlock Holmes, albeit in a form unlike later screen incarnations of Conan Doyle's detective. The inclusion of the character also makes it the first recorded detective film. In the film, a thief who can appear and disappear at random steals a sack of items from Sherlock Holmes. At each point, Holmes' attempts to thwart the intruder end in failure. Originally intended to be shown on the Mutoscope, an early motion picture device which provided viewing to only one person at a time, Sherlock Holmes Baffled has a running time of 30 seconds. Although probably produced in April 1900, it was only registered in 1903, and a copyright notice stating this is seen on some prints. The identities of the first screen Holmes and his assailant are not recorded. Assumed to be lost for several years, the film was rediscovered in 1968 as a paper print in the Library of Congress. It is estimated that Sherlock Holmes has become the most prolific screen character in the history of cinema.",
+    "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_Baffled"
+  },
+  "word": {
+    "id": "agon",
+    "word": "agon",
+    "url": "https://www.merriam-webster.com/dictionary/agon",
+    "partOfSpeech": "noun",
+    "pronunciation": "AH-gahn",
+    "audioPath": "audio/words/agon.mp3",
+    "definitions": [
+      "conflict; especially : the dramatic conflict between the chief characters in a literary work"
+    ],
+    "examples": [
+      "As the U.S. presidential elections approach, anyone with an interest in politics is focused on the _agon_ about to reach its quadrennial climax.",
+      "\"From the beginning of the _agon_, the play \\[The Merchant of Venice\\] provides an explanation for Shylock's behavior, well beyond the sheer antagonistic function that the skeletal plot would require and the sources provide.\" - From G. Beiner's 1993 book _Shakepeare's Agonistic Comedy: Poetics, Analysis, Criticism_"
+    ],
+    "origin": "\"Agon\" comes from the Greek word \"agōn,\" which is translated with a number of meanings, among them \"contest,\" \"competition at games,\" and \"gathering.\" In ancient Greece, agons (also spelled \"agones\") were contests held during public festivals. The contests-among them the ancient Olympics that our modern Olympics is modeled on-involved everything from athletics to chariot and horse racing to music and literature. \"Agon\" in the realm of literature refers to the dramatic conflict between the main characters in a Greek play, or more broadly, between the chief characters in any literary work. The word is also occasionally used to refer to conflict generally, as in our first example sentence."
+  }
+}

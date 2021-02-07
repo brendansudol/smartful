@@ -1,0 +1,143 @@
+{
+  "artist": {
+    "id": "charles-nicolas-cochin",
+    "name": "Charles-Nicolas Cochin",
+    "dates": "Feb 22, 1715 - Apr 29, 1790",
+    "mainImg": "img/art/artists/charles-nicolas-cochin.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait of André Danican Philidor",
+        "path": "img/art/artworks/charles-nicolas-cochin-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-andré-danican-philidor-augustin-de-saint-aubin-charles-nicolas-cochin-ii/JAEJwG_jPLnQlw"
+      },
+      {
+        "name": "Portrait of Madame de Pompadour (Madame Le Normant d'Estiolles)",
+        "path": "img/art/artworks/charles-nicolas-cochin-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-madame-de-pompadour-madame-le-normant-d-estiolles-augustin-de-saint-aubin-charles-nicolas-cochin-ii/KAF30zBCEd5asQ"
+      },
+      {
+        "name": "Victory of Khorgos",
+        "path": "img/art/artworks/charles-nicolas-cochin-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/victory-of-khorgos-jacques-philippe-le-bas/MQGZ2Gm23Adarg"
+      },
+      {
+        "name": "Portrait of P.A. Caron de Beaumarchais",
+        "path": "img/art/artworks/charles-nicolas-cochin-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-p-a-caron-de-beaumarchais-augustin-de-saint-aubin-charles-nicolas-cochin-ii/EAFcA2TSmmBIdQ"
+      },
+      {
+        "name": "The Defeat of Chief Uš-Turfan and his City",
+        "path": "img/art/artworks/charles-nicolas-cochin-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-defeat-of-chief-uš-turfan-and-his-city-charles-nicolas-cochin-ii-giovanni-damasceno-salusti-pierre-philippe-choffard/ggFJNkCgNQWE7A"
+      },
+      {
+        "name": "Observations sur les Antiquites de la ville d'Herculanum, Avec quelques reflexions sur la Peinture et la Sculpture des Anciens",
+        "path": "img/art/artworks/charles-nicolas-cochin-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/observations-sur-les-antiquites-de-la-ville-d-herculanum-avec-quelques-reflexions-sur-la-peinture-et-la-sculpture-des-anciens-charles-nicolas-cochin-ii-jérôme-charles-bellicard/8AGJoEzJYdjQUw"
+      }
+    ],
+    "summary": [
+      "Charles-Nicolas Cochin was a French engraver, designer, writer, and art critic. To distinguish him from his father of the same name, he is variously called Charles-Nicolas Cochin le Jeune, Charles-Nicolas Cochin le fils, or Charles-Nicolas Cochin II."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism", "Renaissance", "Rococo"],
+    "mediums": ["Etching", "Engraving", "Laid paper", "Ink", "Book", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Charles-Nicolas_Cochin",
+    "urlGoogle": "https://artsandculture.google.com/entity/charles-nicolas-cochin/m03nqvw5"
+  },
+  "event": {
+    "id": "crucifixion-of-jesus",
+    "name": "Crucifixion of Jesus",
+    "dates": null,
+    "mainImg": "img/events/crucifixion-of-jesus.jpg",
+    "summary": [
+      "The crucifixion of Jesus occurred in 1st-century Judea, most likely between AD 30 and 33. Jesus' crucifixion is described in the four canonical gospels, referred to in the New Testament epistles, attested to by other ancient sources, and is established as a historical event confirmed by non-Christian sources, although there is no consensus among historians on the exact details.",
+      "According to the canonical gospels, Jesus was arrested and tried by the Sanhedrin, and then sentenced by Pontius Pilate to be scourged, and finally crucified by the Romans. Jesus was stripped of his clothing and offered wine mixed with myrrh or gall to drink after saying I am thirsty. He was then hung between two convicted thieves and, according to the Gospel of Mark, died by the 9th hour of the day. During this time, the soldiers affixed a sign to the top of the cross stating \"Jesus of Nazareth, King of the Jews\" which, according to the Gospel of John, was written in three languages. They then divided his garments among themselves and cast lots for his seamless robe, according to the Gospel of John."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
+    "urlGoogle": "https://artsandculture.google.com/entity/crucifixion-of-jesus/m063_g3_"
+  },
+  "funFacts": [
+    {
+      "id": "692",
+      "fact": "The spotted skunk does a handstand to warn off its enemies before it sprays its stench.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "343",
+      "fact": "The term 007 was derived from 20007, the home zip code of many Washington, D.C. agents.",
+      "category": ["History"]
+    },
+    {
+      "id": "28",
+      "fact": "Chewing gum while peeling onions will prevent you from crying.",
+      "category": ["Food", "Make-it-Easies"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "554253", "fact": "IKEA consumes about 1 percent of the world's lumber." },
+    {
+      "id": "506183",
+      "fact": "It’s illegal to own only one guinea pig in Switzerland. (They get lonely.)"
+    },
+    { "id": "506371", "fact": "Sea cucumbers eat with their feet." }
+  ],
+  "idiom": {
+    "id": "mutual-admiration-society",
+    "term": "mutual admiration society",
+    "definition": "A relationship in which two people have strong feelings of esteem for each other and often exchange lavish compliments. The term may signify either genuine or pretended admiration, as in *Each of them praised the other's book---it was a real mutual admiration society.* The expression was invented by Henry David Thoreau in his journal (1851) and repeated by Oliver Wendell Holmes and others."
+  },
+  "person": {
+    "id": "eleftherios-venizelos",
+    "name": "Eleftherios Venizelos",
+    "dates": "Aug 23, 1864 - Mar 18, 1936",
+    "mainImg": "img/people/eleftherios-venizelos.jpg",
+    "summary": [
+      "Eleftherios Kyriakou Venizelos was a Greek statesman and a prominent leader of the Greek national liberation movement. He is noted for his contribution in the expansion of Greece and promotion of liberal-democratic policies. As leader of the Liberal Party, he was elected eight times as Prime Minister of Greece, serving from 1910 to 1920 and from 1928 to 1933. Venizelos had such profound influence on the internal and external affairs of Greece that he is credited with being \"the maker of modern Greece\", and is still widely known as the \"Ethnarch\".",
+      "His first entry into the international scene was with his significant role in the autonomy of the Cretan State and later in the union of Crete with Greece. Soon, he was invited to Greece to resolve the political deadlock and became the country's Prime Minister. Not only did he initiate constitutional and economic reforms that set the basis for the modernization of Greek society, but also reorganized both army and navy in preparation of future conflicts. Before the Balkan Wars of 1912–1913, Venizelos' catalytic role helped gain Greece entrance to the Balkan League, an alliance of the Balkan states against the Ottoman Empire."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos",
+    "urlGoogle": "https://artsandculture.google.com/entity/eleftherios-venizelos/m01sf8f"
+  },
+  "place": {
+    "id": "russian-soviet-federative-socialist-republic",
+    "name": "Russian Soviet Federative Socialist Republic",
+    "mainImg": "img/places/russian-soviet-federative-socialist-republic.jpg",
+    "summary": [
+      "The Russian Soviet Federative Socialist Republic, previously known as the Russian Soviet Republic and the Russian Socialist Federative Soviet Republic as well as being unofficially known as Soviet Russia, Russian Federation or simply Russia, was an independent state from 1917 to 1922, and afterwards the largest and most populous of the Soviet socialist republics of the Soviet Union from 1922 to 1991, until becoming a sovereign part of the Soviet Union with priority of Russian laws over Union-level legislation in 1990 and 1991, the last two years of the existence of the USSR. The Russian Republic was composed of sixteen smaller constituent units of autonomous republics, five autonomous oblasts, ten autonomous okrugs, six krais and forty oblasts. Russians formed the largest ethnic group. The capital of the Russian SFSR was Moscow and the other major urban centers included Leningrad, Novosibirsk, Sverdlovsk, Gorky and Kuybishev.",
+      "The economy of Russia became heavily industrialized, accounting for about two-thirds of the electricity produced in the USSR."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic",
+    "urlGoogle": "https://artsandculture.google.com/entity/russian-soviet-federative-socialist-republic/m01mzwp"
+  },
+  "quote": {
+    "id": "84",
+    "quote": "People take different roads seeking fulfillment and happiness. Just because they're not on your road doesn't mean they've gotten lost.",
+    "author": "Dalai Lama"
+  },
+  "wiki": {
+    "id": "star-wars-episode-i-the-phantom-menace",
+    "name": "Star Wars Episode I: The Phantom Menace",
+    "summary": "Star Wars Episode I: The Phantom Menace is a 1999 science fantasy film written and directed by George Lucas. It was the fourth film to be released in the Star Wars saga, and the first in terms of internal chronology. The film begins as two Jedi Knights are assigned as ambassadors to a trade dispute that is threatening the planet Naboo. When the situation turns violent, the Jedi, along with Padmé Amidala, the planet's queen, flee Naboo in an attempt to reach the capital world Coruscant in the hope of finding a peaceful end to the dispute. Along the way, the ship must stop for repairs on the planet Tatooine. It is there that the Jedi encounter Anakin Skywalker, a young slave boy who is unusually strong in the Force. When the group returns to Naboo, they realize that the situation is much worse than they thought—the evil Sith have returned. The release of the film on May 19, 1999 came almost 16 years after the previous film in the series, Star Wars Episode VI: Return of the Jedi. The release was accompanied by extensive media coverage and great anticipation. Despite mixed reviews by critics, it grossed US$924.3 million worldwide.",
+    "url": "https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_The_Phantom_Menace"
+  },
+  "word": {
+    "id": "amalgamate",
+    "word": "amalgamate",
+    "url": "https://www.merriam-webster.com/dictionary/amalgamate",
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-MAL-guh-mayt",
+    "audioPath": "audio/words/amalgamate.mp3",
+    "definitions": [
+      "to unite in or as if in a mixture of elements; especially : to merge into a single body"
+    ],
+    "examples": [
+      "On her latest album, the artist has _amalgamated_ several different styles of music.",
+      "\"Sure enough, in 1999, Congress dutifully went along with Weill's push for repeal, and Wall Street promptly rushed to _amalgamate_ more Citigroups, thus creating the 'too-big-to-fail' system that-only eight years later-did indeed fail.\" - From an article by Jim Hightower in the _Illinois Times_ (Springfield, Illinois), August 9, 2012"
+    ],
+    "origin": "The noun \"amalgam\" derives by way of Middle French from Medieval Latin \"amalgama.\" It was first used in the 15th century with the meaning \"a mixture of mercury and another metal.\" (Today, you are likely to encounter this sense in the field of dentistry; amalgams can be used for filling holes in teeth.) Over time, use of \"amalgam\" broadened to include any mixture of elements.and by the 18th century the word was also being applied figuratively, as in \"an amalgam of citizens.\" The verb \"amalgamate\" has been in use since at least 1617. It too can be used either technically, implying the creation of an alloy of mercury, or more generally for the formation of any compound or combined entity."
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "artist": {
+    "id": "fornasetti",
+    "name": "Fornasetti",
+    "dates": "Nov 10, 1913 - Oct 9, 1988",
+    "mainImg": "img/art/artists/fornasetti.jpg",
+    "artworkImgs": [
+      {
+        "name": "IX Triennale, Trumeau in legno stampato, Mostra Arredamenteo e mobili isolati, sezione Mobili isolati",
+        "path": "img/art/artworks/fornasetti-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/ix-triennale-trumeau-in-legno-stampato-mostra-arredamenteo-e-mobili-isolati-sezione-mobili-isolati-piero-fornasetti/ywFXLazuwgf2fw"
+      },
+      {
+        "name": "IX Triennale, Trumeau in legno stampato, Mostra Arredamento e mobili isolati, sezione mobili isolati",
+        "path": "img/art/artworks/fornasetti-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ix-triennale-trumeau-in-legno-stampato-mostra-arredamento-e-mobili-isolati-sezione-mobili-isolati-piero-fornasetti/PwEfrfhTKVyoqw"
+      },
+      {
+        "name": "View of Varenna from the Castle of Vezio",
+        "path": "img/art/artworks/fornasetti-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-varenna-from-the-castle-of-vezio-piero-fornasetti/8AHIaosVCQh1Tg"
+      },
+      {
+        "name": "VII Triennale, Disegno per specchio in vetro inciso, Produzione Salir, Mostra dei metalli e dei vetri",
+        "path": "img/art/artworks/fornasetti-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/vii-triennale-disegno-per-specchio-in-vetro-inciso-produzione-salir-mostra-dei-metalli-e-dei-vetri-piero-fornasetti/MAHeFJN1HcyCdA"
+      },
+      {
+        "name": "VII Triennale, Tovaglietta americana in pizzo, Mostra dei tessuti e dei ricami, Sezione dei merletti e dei ricami",
+        "path": "img/art/artworks/fornasetti-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/vii-triennale-tovaglietta-americana-in-pizzo-mostra-dei-tessuti-e-dei-ricami-sezione-dei-merletti-e-dei-ricami-piero-fornasetti/DgGhmst27q41bw"
+      },
+      {
+        "name": "VII Triennale, Studio per un vaso in vetro inciso, Mostra dei metalli e dei vetri",
+        "path": "img/art/artworks/fornasetti-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/vii-triennale-studio-per-un-vaso-in-vetro-inciso-mostra-dei-metalli-e-dei-vetri-piero-fornasetti/bAGEsV9DTS-NzQ"
+      }
+    ],
+    "summary": [
+      "Piero Fornasetti was an Italian versatile and eclectic artist, characterised by an unstoppable creative flair that made him one of the most prolific figures of the 20th century, and difficult to ascribe to a specific movement."
+    ],
+    "quote": null,
+    "movements": ["Modernism"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Fornasetti",
+    "urlGoogle": "https://artsandculture.google.com/entity/fornasetti/m09gl3v"
+  },
+  "event": {
+    "id": "opium-wars",
+    "name": "Opium Wars",
+    "dates": "1839 - 1860",
+    "mainImg": "img/events/opium-wars.jpg",
+    "summary": [
+      "The Opium Wars were two wars which were waged between Qing dynasty and Western powers in the mid-19th century. The First Opium War, fought in 1839-1842 between the Qing and Great Britain, was triggered by the dynasty's campaign against the opium trade; the Second Opium War was fought between the Qing and Britain and France, 1856-1860. In each war, the European forces used recently developed warfare technology to defeat the Qing forces and compelled the government to grant favorable tariffs, trade concessions, and territory.",
+      "The wars and the subsequently-imposed treaties weakened the Qing dynasty and Chinese governments, and forced China to open specified treaty ports that handled all trade with imperial powers. The resulting concession of Hong Kong after the wars compromised China's territorial sovereignty.",
+      "Around this time China's economy also contracted slightly, but the sizable Taiping Rebellion and Dungan Revolt had a much larger effect."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Opium_Wars",
+    "urlGoogle": "https://artsandculture.google.com/entity/opium-wars/m016sml"
+  },
+  "funFacts": [
+    {
+      "id": "245",
+      "fact": "The first typewriter was called the \"literary piano.\"",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "914",
+      "fact": "A manned rocket can reach the moon in less time than it took a stagecoach to travel the length of England.",
+      "category": ["Science"]
+    },
+    {
+      "id": "156",
+      "fact": "Swimming pools in the U.S. contain enough water to cover San Francisco.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "527079",
+      "fact": "Johnny Cash's \"A Boy Named Sue\" was penned by beloved children's author Shel Silverstein."
+    },
+    {
+      "id": "554086",
+      "fact": "The ancestor of the modern chainsaw was invented to facilitate childbirth."
+    },
+    {
+      "id": "553733",
+      "fact": "The boiling point for water at the top of Mt. Everest is 162°F, about 50 degrees below the boiling point at sea level."
+    }
+  ],
+  "idiom": {
+    "id": "forever-and-a-day",
+    "term": "forever and a day",
+    "definition": "**1\\.** For a very long time, as in *He's been working on that book forever and a day.* This hyperbolic expression probably originated as a corruption of the now obsolete *for ever and ay.* Shakespeare used it in *The Taming of the Shrew* (4:4): \"Farewell for ever and a day.\" Today it is mainly a substitute for \"very long time.\" [c. 1600] **2\\.** Incessantly, ceaselessly, as in *Will this racket never end? It's been going on forever and a day.* [Colloquial; first half of 1900s]"
+  },
+  "person": {
+    "id": "george-armstrong-custer",
+    "name": "George Armstrong Custer",
+    "dates": "Dec 5, 1839 - Jun 25, 1876",
+    "mainImg": "img/people/george-armstrong-custer.jpg",
+    "summary": [
+      "George Armstrong Custer was a United States Army officer and cavalry commander in the American Civil War and the American Indian Wars.",
+      "Custer graduated from West Point in 1861 at the bottom of his class, but as the Civil War was just starting, trained officers were in immediate demand. He worked closely with General McClellan and the future General Pleasonton, both of whom recognized his qualities as a cavalry leader, and he was brevetted brigadier general of volunteers at age 23. Only a few days after his promotion, he fought at Gettysburg, where he commanded the Michigan Cavalry Brigade and despite being outnumbered, defeated J. E. B. Stuart's attack at what is now known as the East Cavalry Field. In 1864, Custer served in the Overland Campaign and in Sheridan's army in the Shenandoah Valley, defeating Jubal Early at Cedar Creek. His division blocked the Army of Northern Virginia's final retreat and received the first flag of truce from the Confederates, and Custer was present at Robert E. Lee's surrender to Ulysses S. Grant at Appomattox.",
+      "After the war, Custer was appointed a lieutenant colonel in the Regular Army and was sent west to fight in the Indian Wars."
+    ],
+    "quote": "“I would be willing, yes glad, to see a battle every day during my life.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/George_Armstrong_Custer",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-armstrong-custer/m0pzgm"
+  },
+  "place": {
+    "id": "durham",
+    "name": "Durham",
+    "mainImg": "img/places/durham.jpg",
+    "summary": [
+      "Durham is a city in and the county seat of Durham County in the U.S. state of North Carolina. Small portions of the city limits extend into Orange County and Wake County.",
+      "The U.S. Census Bureau estimated the city's population to be 278,993 as of July 1, 2019, making it the 4th-most populous city in North Carolina, and the 79th-most populous city in the United States. The city is located in the east-central part of the Piedmont region along the Eno River. Durham is the core of the four-county Durham-Chapel Hill Metropolitan Area, which has a population of 542,710 as of U.S. Census 2014 Population Estimates. The US Office of Management and Budget also includes Durham as a part of the Raleigh-Durham-Chapel Hill Combined Statistical Area, commonly known as the Research Triangle, which has a population of 2,037,430 as of U.S. Census 2014 Population Estimates.",
+      "A railway depot was established on land donated by Bartlett S. Durham in 1849, the namesake of the city. Following the American Civil War, the community of Durham Station expanded rapidly, in part due to the tobacco industry. The town was incorporated by act of the North Carolina General Assembly, on April 1869."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Durham,_North_Carolina",
+    "urlGoogle": "https://artsandculture.google.com/entity/durham/m013hxv"
+  },
+  "quote": {
+    "id": "54",
+    "quote": "A reader lives a thousand lives before he dies. The man who never reads lives only one.",
+    "author": "George R.R. Martin"
+  },
+  "wiki": {
+    "id": "uss-lexington-cv-2",
+    "name": "USS Lexington (CV-2)",
+    "summary": "USS Lexington (CV-2) was an early aircraft carrier built for the United States Navy during the 1920s. Originally designed as a battlecruiser, she was converted into an aircraft carrier during construction to comply with the terms of the 1922 Washington Naval Treaty. Lexington was at sea when the Pacific War began in 1941, ferrying fighter aircraft to Midway Island. She was sent to the Coral Sea in February 1942 to block any Japanese advances into the area. Together with the carrier Yorktown, she successfully attacked Japanese shipping off the east coast of New Guinea in early March. Lexington rendezvoused with Yorktown in the Coral Sea in early May. A few days later the Japanese began Operation Mo, the invasion of Port Moresby, Papua New Guinea, and the two American carriers attempted to stop the invasion. Aircraft from Lexington and Yorktown succeeded in badly damaging the carrier Shōkaku, but Japanese aircraft crippled Lexington. Vapors from leaking aviation gasoline tanks sparked a series of explosions and fires that could not be controlled, and the carrier had to be scuttled by an American destroyer during the evening of 8 May to prevent her capture.",
+    "url": "https://en.wikipedia.org/wiki/USS_Lexington_(CV-2)"
+  },
+  "word": {
+    "id": "scupper",
+    "word": "scupper",
+    "url": "https://www.merriam-webster.com/dictionary/scupper",
+    "partOfSpeech": "verb",
+    "pronunciation": "SKUP-er",
+    "audioPath": "audio/words/scupper.mp3",
+    "definitions": ["British : to defeat or put an end to : do in"],
+    "examples": [
+      "The latest information could _scupper_ the peace talks.\"Greece faces weeks of political turmoil that could _scupper_ its financial bailout after voters angry at crippling income cuts punished mainstream politicians, let a far-right extremist group into Parliament and gave no party enough votes to govern alone.\" - From an article in _Associated Press Online_, May 7, 2012"
+    ],
+    "origin": "All efforts to figure out where this verb came from have been defeated, including attempts to connect it to the noun \"scupper,\" a 500-year-old word for a drain opening in the side of a ship. (One conjecture, that the blood of shipboard battle was \"scuppered\" when it was washed down the scuppers, unfortunately lacks backing in the form of any actual evidence of the verb used this way.) All we know for sure is that \"scupper\" meant \"to ambush and massacre\" in 19th-century military slang. Then, just before the century turned, it found its place in a magazine story in the sense of simply \"doing (someone) in.\" The more common modern application to things rather than people being done in or defeated didn't appear until a couple of decades into the 20th century."
+  }
+}

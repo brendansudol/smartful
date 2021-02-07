@@ -1,0 +1,154 @@
+{
+  "artist": {
+    "id": "titian",
+    "name": "Titian",
+    "dates": "1490 - Aug 27, 1576",
+    "mainImg": "img/art/artists/titian.jpg",
+    "artworkImgs": [
+      {
+        "name": "Venus of Urbino",
+        "path": "img/art/artworks/titian-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-of-urbino-tiziano-vecellio/bQGS8pnP5vr2Jg"
+      },
+      {
+        "name": "Bacchus and Ariadne",
+        "path": "img/art/artworks/titian-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/bacchus-and-ariadne-titian/ywE45AsapF2vUw"
+      },
+      {
+        "name": "Portrait of Gerolamo (?) Barbarigo",
+        "path": "img/art/artworks/titian-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-gerolamo-barbarigo-titian/-AECJQExjyEXKg"
+      },
+      {
+        "name": "Diana and Actaeon",
+        "path": "img/art/artworks/titian-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/diana-and-actaeon-titian/ggFplMh4sgQ6og"
+      },
+      {
+        "name": "Europa",
+        "path": "img/art/artworks/titian-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/europa-titian/oQEs_uJPItxPdg"
+      },
+      {
+        "name": "Venus Rising from the Sea ('Venus Anadyomene')",
+        "path": "img/art/artworks/titian-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-rising-from-the-sea-venus-anadyomene-titian/uQGKnofM6hmw5g"
+      }
+    ],
+    "summary": [
+      "Tiziano Vecelli or Vecellio, known in English as Titian, was an Italian painter during the Renaissance, considered the most important member of the 16th-century Venetian school. He was born in Pieve di Cadore, near Belluno. During his lifetime he was often called da Cadore, 'from Cadore', taken from his native region.",
+      "Recognized by his contemporaries as \"The Sun Amidst Small Stars\", Titian was one of the most versatile of Italian painters, equally adept with portraits, landscape backgrounds, and mythological and religious subjects. His painting methods, particularly in the application and use of colour, exercised a profound influence not only on painters of the late Italian Renaissance, but on future generations of Western art.",
+      "His career was successful from the start, and he became sought after by patrons, initially from Venice and its possessions, then joined by the north Italian princes, and finally the Habsburgs and papacy. Along with Giorgione, he is considered a founder of the Venetian School of Italian Renaissance painting.",
+      "During the course of his long life, Titian's artistic manner changed drastically, but he retained a lifelong interest in colour."
+    ],
+    "quote": "“Not every painter has a gift for painting, in fact, many painters are disappointed when they meet with difficulties in art. Painting done under pressure by artists without the necessary talent can only give rise to formlessness, as painting is a profession that requires peace of mind. The painter must always seek the essence of things, always represent the essential characteristics and emotions of the person he is painting...”",
+    "movements": [
+      "Renaissance",
+      "Italian Renaissance",
+      "High Renaissance",
+      "Venetian painting",
+      "Mannerism"
+    ],
+    "mediums": ["Oil paint", "Engraving", "Laid paper", "Etching", "Drawing", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Titian",
+    "urlGoogle": "https://artsandculture.google.com/entity/titian/m0144mv"
+  },
+  "event": {
+    "id": "panama-pacific-international-exposition",
+    "name": "Panama–Pacific International Exposition",
+    "dates": "Feb 20, 1915 - Dec 4, 1915",
+    "mainImg": "img/events/panama-pacific-international-exposition.jpg",
+    "summary": [
+      "The Panama–Pacific International Exposition was a world's fair held in San Francisco, California, United States, from February 20 to December 4, 1915. Its stated purpose was to celebrate the completion of the Panama Canal, but it was widely seen in the city as an opportunity to showcase its recovery from the 1906 earthquake. The fair was constructed on a 636 acre site along the northern shore, between the Presidio and Fort Mason, now known as the Marina District."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Panama%E2%80%93Pacific_International_Exposition",
+    "urlGoogle": "https://artsandculture.google.com/entity/panama–pacific-international-exposition/m02jmg2"
+  },
+  "funFacts": [
+    {
+      "id": "433",
+      "fact": "The state of Tennessee was originally called Franklin.",
+      "category": ["Geography", "History"]
+    },
+    {
+      "id": "806",
+      "fact": "In Albania, nodding your head means no and shaking your head means yes.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "971",
+      "fact": "Charlie Chaplin failed to make the finals of a Charlie Chaplin look-alike contest.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504714",
+      "fact": "The Scots have a word for that panicky hesitation you get when you can’t remember someone’s name: tartle."
+    },
+    {
+      "id": "554033",
+      "fact": "The Antikythera mechanism, discovered by sponge divers in 1900, is sometimes called the world's first analog computer. Designed to calculate dates and predict astronomical phenomena, it was so advanced nothing surpassed it for almost 1500 years."
+    },
+    {
+      "id": "553552",
+      "fact": "A 150-year-old tree at the Ashikaga Flower Park is believed to be the oldest living wisteria in Japan."
+    }
+  ],
+  "idiom": {
+    "id": "of-the-first-water",
+    "term": "of the first water",
+    "definition": "Of the finest quality, as in *That was a play of the first water.* This idiom refers to a grading system for diamonds for their color or luster (compared to the shininess of water). The system is no longer used but the term, used figuratively since the early 1800s, has survived it."
+  },
+  "person": {
+    "id": "mao-zedong",
+    "name": "Mao Zedong",
+    "dates": "Dec 26, 1893 - Sep 9, 1976",
+    "mainImg": "img/people/mao-zedong.jpg",
+    "summary": [
+      "Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who became the founding father of the People's Republic of China, which he ruled as the chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism.",
+      "Mao was the son of a prosperous peasant in Shaoshan, Hunan. He had a Chinese nationalist and an anti-imperialist outlook early in his life, and was particularly influenced by the events of the Xinhai Revolution of 1911 and May Fourth Movement of 1919. He later adopted Marxism–Leninism while working at Peking University, and became a founding member of the Communist Party of China, leading the Autumn Harvest Uprising in 1927. During the Chinese Civil War between the Kuomintang and the CPC, Mao helped to found the Chinese Workers' and Peasants' Red Army, led the Jiangxi Soviet's radical land policies, and ultimately became head of the CPC during the Long March."
+    ],
+    "quote": "“In general, any form of exercise, if pursued continuously, will help train us in perseverance. Long-distance running is particularly good training in perseverance.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Mao_Zedong",
+    "urlGoogle": "https://artsandculture.google.com/entity/mao-zedong/m04xzm"
+  },
+  "place": {
+    "id": "new-orleans",
+    "name": "New Orleans",
+    "mainImg": "img/places/new-orleans.jpg",
+    "summary": [
+      "New Orleans is a consolidated city-parish located along the Mississippi River in the southeastern region of the U.S. state of Louisiana. With an estimated population of 390,144 in 2019, it is the most populous city in Louisiana. Serving as a major port, New Orleans is considered an economic and commercial hub for the broader Gulf Coast region of the United States.",
+      "New Orleans is world-renowned for its distinct music, Creole cuisine, unique dialect, and its annual celebrations and festivals, most notably Mardi Gras. The historic heart of the city is the French Quarter, known for its French and Spanish Creole architecture and vibrant nightlife along Bourbon Street. The city has been described as the \"most unique\" in the United States, owing in large part to its cross-cultural and multilingual heritage. Founded in 1718 by French colonists, New Orleans was once the territorial capital of French Louisiana before being traded to the United States in the Louisiana Purchase of 1803. New Orleans in 1840 was the third-most populous city in the United States, and it was the largest city in the American South from the Antebellum era until after World War II."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/New_Orleans",
+    "urlGoogle": "https://artsandculture.google.com/entity/new-orleans/m0f2tj"
+  },
+  "quote": {
+    "id": "6",
+    "quote": "The best way to predict your future is to create it.",
+    "author": "Abraham Lincoln"
+  },
+  "wiki": {
+    "id": "slavery-in-ancient-greece",
+    "name": "Slavery in ancient Greece",
+    "summary": "Slavery in ancient Greece was considered not only necessary but natural; neither the Stoics nor the Early Christians questioned the practice. However, some isolated debate began to appear, notably in Socratic dialogues, as early as the 4th century BC. Although slaves as dependent groups existed, such as the Penestae of Thessaly, the Spartan Helots or even the Klarotes of Crete, these were more like Medieval serfs. Other parts of Greece practiced chattel slavery, where the individual is deprived of liberty and forced to submit to an owner who may buy, sell, or lease him or her as one might any chattel good. The study of slavery in Ancient Greece poses a number of significant methodological problems. Documentation is disjointed and very fragmented, focusing on the city of Athens. No treatise is specifically devoted to the subject. Judicial pleadings of the 4th century BC were interested in slavery only as a source of revenue. Comedy and tragedy represented stereotypes. Iconography made no substantial differentiation between slave and craftsman. Even the terminology is often vague.",
+    "url": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Greece"
+  },
+  "word": {
+    "id": "subreption",
+    "word": "subreption",
+    "url": "https://www.merriam-webster.com/dictionary/subreption",
+    "partOfSpeech": "noun",
+    "pronunciation": "sub-REP-shun",
+    "audioPath": "audio/words/subreption.mp3",
+    "definitions": ["a deliberate misrepresentation; also : an inference drawn from it"],
+    "examples": [
+      "Shareholders have filed a class action lawsuit against the company for its subreption of earnings and losses."
+    ],
+    "origin": "In canon law and Scots law, subreption is the obtainment of a dispensation or gift by concealment of the truth, whereas obreption is the obtainment of a dispensation or gift by fraud. Both terms are from Latin nouns: respectively, \"subreptio,\" meaning \"the act of stealing,\" and \"obreptio,\" meaning \"the act of stealing upon.\" The derivation of \"subreption\" also traces to the Latin verb \"surripere,\" meaning \"to take away secretly,\" which is the base of the Anglicized term \"surreptitious,\" a synonym of \"stealthy.\" \"Obreption\" shares an ancestor with the word \"reptile\": Latin \"repere,\" meaning \"to creep.\""
+  }
+}

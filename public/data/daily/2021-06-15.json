@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "juan-gris",
+    "name": "Juan Gris",
+    "dates": "Mar 23, 1887 - May 11, 1927",
+    "mainImg": "img/art/artists/juan-gris.jpg",
+    "artworkImgs": [
+      {
+        "name": "Seated Woman",
+        "path": "img/art/artworks/juan-gris-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/seated-woman-juan-gris/AQFiredc_BD3gA"
+      },
+      {
+        "name": "Portrait of Josette Gris",
+        "path": "img/art/artworks/juan-gris-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-josette-gris-juan-gris/HgEtxayTVN4LTg"
+      },
+      {
+        "name": "Guitar and Newspaper",
+        "path": "img/art/artworks/juan-gris-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/guitar-and-newspaper-juan-gris/HwFLzN4HdsBQNA"
+      },
+      {
+        "name": "The Bottle of Anís del Mono",
+        "path": "img/art/artworks/juan-gris-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bottle-of-anís-del-mono-juan-gris/WgFtCNg9dBktbg"
+      },
+      {
+        "name": "Guitar on a table",
+        "path": "img/art/artworks/juan-gris-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/guitar-on-a-table-juan-gris/fwGRqdPEBD7GaQ"
+      },
+      {
+        "name": "The Painter's Window",
+        "path": "img/art/artworks/juan-gris-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-painter-s-window-juan-gris/2AEA3bLCBTX4fA"
+      }
+    ],
+    "summary": [
+      "José Victoriano González-Pérez, better known as Juan Gris, was a Spanish painter born in Madrid who lived and worked in France most of his life. Closely connected to the innovative artistic genre Cubism, his works are among the movement's most distinctive."
+    ],
+    "quote": "“I always pet a dog with my left hand because if he bit me I'd still have my right hand to paint with.”",
+    "movements": ["Modern art", "Cubism"],
+    "mediums": ["Oil paint", "Watercolor painting", "Drawing", "Graphite", "Charcoal", "Gouache"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Juan_Gris",
+    "urlGoogle": "https://artsandculture.google.com/entity/juan-gris/m0435m"
+  },
+  "event": {
+    "id": "european-theatre-of-world-war-ii",
+    "name": "European theatre of World War II",
+    "dates": "Sep 1, 1939 - May 8, 1945",
+    "mainImg": "img/events/european-theatre-of-world-war-ii.jpg",
+    "summary": [
+      "The European theatre of World War II was an area of heavy fighting across Europe, starting with Germany's invasion of Poland on 1 September 1939 and ending with the United States, the United Kingdom and France conquering most of Western Europe, the Soviet Union conquering most of Eastern Europe and Germany's unconditional surrender on 8 May 1945. The Allied powers fought the Axis powers on two major fronts as well as in a strategic bombing offensive and in the adjoining Mediterranean and Middle East theatre."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/European_theatre_of_World_War_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/european-theatre-of-world-war-ii/m01y98y"
+  },
+  "funFacts": [
+    {
+      "id": "807",
+      "fact": "Shakespeare invented the word assassination and bump.",
+      "category": ["History"]
+    },
+    {
+      "id": "250",
+      "fact": "Mongolians invented lemonade around 1299 A.D.",
+      "category": ["Food", "History"]
+    },
+    {
+      "id": "661",
+      "fact": "Pigs were banished from Philadelphia's city streets in 1710.",
+      "category": ["Animals", "History"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "odor-of-sanctity",
+    "term": "odor of sanctity",
+    "definition": "Exaggerated or hypocritical piety, an assumption of moral superiority, as in *This candidate puts off some voters with his odor of sanctity.* This expression, originating in the medieval idea that the dead body of a saintly individual gives off a sweet smell, was used to describe saintliness in the mid-1700s. Today it is generally used ironically."
+  },
+  "person": {
+    "id": "benjamin-harrison",
+    "name": "Benjamin Harrison",
+    "dates": "Aug 20, 1833 - Mar 13, 1901",
+    "mainImg": "img/people/benjamin-harrison.jpg",
+    "summary": [
+      "Benjamin Harrison was an American politician and lawyer who served as the 23rd president of the United States from 1889 to 1893. He was a grandson of the ninth president, William Henry Harrison, creating the only grandfather–grandson duo to have held the office. He was also a great-grandson of Benjamin Harrison V, a founding father who signed the United States Declaration of Independence.",
+      "Harrison was born on a farm by the Ohio River and graduated from Miami University in Oxford, Ohio. After moving to Indianapolis, he established himself as a prominent local attorney, Presbyterian church leader, and politician in Indiana. During the American Civil War, he served in the Union Army as a colonel, and was confirmed by the U.S. Senate as a brevet brigadier general of volunteers in 1865. Harrison unsuccessfully ran for governor of Indiana in 1876. The Indiana General Assembly elected Harrison to a six-year term in the U.S. Senate, where he served from 1881 to 1887.",
+      "A Republican, Harrison was elected to the presidency in 1888, defeating the Democratic incumbent, Grover Cleveland."
+    ],
+    "quote": "“The bud of victory is always in the truth.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+    "urlGoogle": "https://artsandculture.google.com/entity/benjamin-harrison/m01b61"
+  },
+  "place": {
+    "id": "pittsburgh",
+    "name": "Pittsburgh",
+    "mainImg": "img/places/pittsburgh.jpg",
+    "summary": [
+      "Pittsburgh is a city in the state of Pennsylvania in the United States, and is the county seat of Allegheny County. A population of about 300,286 residents live within the city limits, making it the 66th-largest city in the U.S. The metropolitan population of 2,324,743 is the largest in both the Ohio Valley and Appalachia, the second-largest in Pennsylvania, and the 27th-largest in the U.S.",
+      "Pittsburgh is located in the southwest of the state, at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known both as \"the Steel City\" for its more than 300 steel-related businesses and as the \"City of Bridges\" for its 446 bridges. The city features 30 skyscrapers, two inclined railways, a pre-revolutionary fortification and the Point State Park at the confluence of the rivers. The city developed as a vital link of the Atlantic coast and Midwest, as the mineral-rich Allegheny Mountains made the area coveted by the French and British empires, Virginians, Whiskey Rebels, and Civil War raiders.",
+      "Aside from steel, Pittsburgh has led in manufacturing of aluminum, glass, shipbuilding, petroleum, foods, sports, transportation, computing, autos, and electronics."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pittsburgh",
+    "urlGoogle": "https://artsandculture.google.com/entity/pittsburgh/m068p2"
+  },
+  "wiki": {
+    "id": "elgin-cathedral",
+    "name": "Elgin Cathedral",
+    "summary": "Elgin Cathedral is a historic ruin in Elgin, Moray, north-east Scotland. The cathedral, dedicated to the Holy Trinity, was established in 1224 on land granted by King Alexander II. After a damaging fire in 1270, a rebuilding programme greatly enlarged the building. It was unaffected by the Wars of Scottish Independence but suffered further fire damage in 1390 and 1402. The cathedral was abandoned at the time of the Scottish Reformation in 1560 and its services transferred to Elgin's parish church. After the removal of the lead that waterproofed the roof in 1567, the cathedral steadily fell into decay. Its deterioration was arrested in the 19th century, by which time the building was in a substantially ruinous condition. Today, the walls are at full height in places and at foundation level in others yet the overall cruciform shape is still discernible. The chapterhouse is mostly intact, as are the two towers of the west front and the gable wall above the double door entrance that links them. Recessed and chest tombs contain effigies of bishops and knights, while large flat slabs in the now grass-covered floor of the cathedral mark the positions of early graves.",
+    "url": "https://en.wikipedia.org/wiki/Elgin_Cathedral"
+  },
+  "word": {
+    "id": "eurytopic",
+    "word": "eurytopic",
+    "url": "https://www.merriam-webster.com/dictionary/eurytopic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "yur-ih-TAH-pik",
+    "audioPath": "audio/words/eurytopic.mp3",
+    "definitions": ["tolerant of wide variation in one or more environmental factors"],
+    "examples": [
+      "_Eurytopic_ groups are observed in a wide range of habitats.",
+      "\"_Eurytopic_ species tend to have longer geologic ranges than stenotopic ones because they are more likely to survive environmental disturbances and therefore persist through time.\" - From Ronald Martin's 2013 book _Earth's Evolving Systems_"
+    ],
+    "origin": "\"Eurytopic\" evolved in the 1930s along with \"stenotopic,\" which means \"having a narrow range of adaptability to changes in environmental conditions.\" Both words are rooted in Greek, with \"eurys\" meaning \"broad\" or \"wide,\" \"stenos\" meaning \"close\" or \"narrow,\" and \"topos\" meaning \"place.\" Eurytopic species can typically be found in a broad range of places. An example would be the perch, a fish that can be found in ponds, lakes, streams, and rivers. By contrast, stenotopic species inhabit a narrow region. Examples include the rare Spoon-billed Sandpiper as well as the plants, animals, and other organisms bearing a specific area-related name, such as the Indiana Bat."
+  }
+}

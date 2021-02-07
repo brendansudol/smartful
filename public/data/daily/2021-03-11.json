@@ -1,0 +1,142 @@
+{
+  "artist": {
+    "id": "giorgio-vasari",
+    "name": "Giorgio Vasari",
+    "dates": "Jul 30, 1511 - Jun 27, 1574",
+    "mainImg": "img/art/artists/giorgio-vasari.jpg",
+    "artworkImgs": [
+      {
+        "name": "Allegory of Justice",
+        "path": "img/art/artworks/giorgio-vasari-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/allegory-of-justice-giorgio-vasari/RQFFF1t3q01n0g"
+      },
+      {
+        "name": "The battle of Marciano in Val di Chiana",
+        "path": "img/art/artworks/giorgio-vasari-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-battle-of-marciano-in-val-di-chiana/uQHjYZRy60234g"
+      },
+      {
+        "name": "The Garden of Gethsemane",
+        "path": "img/art/artworks/giorgio-vasari-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-garden-of-gethsemane/gAEsFmG2aloBJQ"
+      },
+      {
+        "name": "Cosimo il Vecchio as San Cosma",
+        "path": "img/art/artworks/giorgio-vasari-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cosimo-il-vecchio-as-san-cosma-giorgio-vasari/zwE0xte3eoSf2g"
+      },
+      {
+        "name": "Monumental stair",
+        "path": "img/art/artworks/giorgio-vasari-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/monumental-stair-filippo-juvarra/TAE7R6VT7xC8cA"
+      },
+      {
+        "name": "The First Fruits of the Earth Offered to Saturn",
+        "path": "img/art/artworks/giorgio-vasari-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-first-fruits-of-the-earth-offered-to-saturn-giorgio-vasari/MgGPfN1abcvVBQ"
+      }
+    ],
+    "summary": [
+      "Giorgio Vasari was an Italian painter, architect, writer, and historian, best known for his Lives of the Most Excellent Painters, Sculptors, and Architects, considered the ideological foundation of art-historical writing. He was also the first to use the term \"Renaissance\" in print."
+    ],
+    "quote": "“These rough sketches, which are born in an instant in the heat of inspiration, express the idea of their author in a few strokes, while on the other hand too much effort and diligence sometimes saps the vitality and powers of those who never know when to leave off.”",
+    "movements": ["Renaissance", "Mannerism", "Italian Renaissance"],
+    "mediums": ["Oil paint", "Wood", "Pen", "Ink", "Drawing", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giorgio_Vasari",
+    "urlGoogle": "https://artsandculture.google.com/entity/giorgio-vasari/m0pvnq"
+  },
+  "event": {
+    "id": "april-2015-nepal-earthquake",
+    "name": "April 2015 Nepal earthquake",
+    "dates": "Apr 25, 2015",
+    "mainImg": "img/events/april-2015-nepal-earthquake.jpg",
+    "summary": [
+      "The April 2015 Nepal earthquake killed nearly 9,000 people and injured nearly 22,000. It occurred at 11:56 Nepal Standard Time on 25 April 2015, with a magnitude of 7.8Mw or 8.1Mₛ and a maximum Mercalli Intensity of VIII. Its epicenter was east of Gorkha District at Barpak, Gorkha, and its hypocenter was at a depth of approximately 8.2 km. It was the worst natural disaster to strike Nepal since the 1934 Nepal–Bihar earthquake. The ground motion recorded in the capital of Nepal was of low frequency, which, along with its occurrence at an hour where many people in rural areas were working outdoors, decreased the loss of property and human lives.",
+      "The earthquake triggered an avalanche on Mount Everest, killing 21, making 25 April 2015 the deadliest day on the mountain in history. The earthquake triggered another huge avalanche in the Langtang valley, where 250 people were reported missing.",
+      "Hundreds of thousands of Nepalese were made homeless with entire villages flattened, across many districts of the country."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
+    "urlGoogle": "https://artsandculture.google.com/entity/april-2015-nepal-earthquake/m0134qynr"
+  },
+  "funFacts": [
+    {
+      "id": "1003",
+      "fact": "If two pieces of the same type of metal touch in outer space, they will bond together permanently.",
+      "category": ["Science"]
+    },
+    {
+      "id": "434",
+      "fact": "In the U.S. a pig has to weigh more than 180 lbs to be called a hog.",
+      "category": ["Animals", "Definitions"]
+    },
+    {
+      "id": "984",
+      "fact": "When creating a mummy, Ancient Egyptians removed the brain by inserting a hook through the nostrils.",
+      "category": ["Anatomy", "Geography", "Habits", "History", "Science", "Make-it-Easies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554029",
+      "fact": "Jerry Springer was born in a London tube station during World War II."
+    },
+    { "id": "504559", "fact": "The second largest country by area is Canada, after Russia." },
+    { "id": "506870", "fact": "Coyotes outpace roadrunners by 23 mph." }
+  ],
+  "idiom": {
+    "id": "clean-someones-clock",
+    "term": "clean someone's clock",
+    "definition": "Beat, thrash, or defeat someone decisively, as in *He's much bigger than you and could easily clean your clock.* This term originated in the military. The use of *clock* is unclear but possibly alludes to hitting someone in the face (for \"clockface\"). [Slang; mid-1900s]"
+  },
+  "person": {
+    "id": "edwin-stanton",
+    "name": "Edwin Stanton",
+    "dates": "Dec 19, 1814 - Dec 24, 1869",
+    "mainImg": "img/people/edwin-stanton.jpg",
+    "summary": [
+      "Edwin McMasters Stanton was an American lawyer and politician who served as Secretary of War under the Lincoln Administration during most of the American Civil War. Stanton's management helped organize the massive military resources of the North and guide the Union to victory. However, he was criticized by many Union generals for perceived over-cautiousness and micromanagement. He also organized the manhunt for Abraham Lincoln's assassin, John Wilkes Booth.",
+      "After Lincoln's assassination, Stanton remained as the Secretary of War under the new U.S. President Andrew Johnson during the first years of Reconstruction. He opposed the lenient policies of Johnson towards the former Confederate States. Johnson's attempt to dismiss Stanton ultimately led to Johnson being impeached by the Radical Republicans in the House of Representatives. Stanton returned to law after retiring as Secretary of War, and in 1869 was nominated as an Associate Justice of the Supreme Court by Johnson's successor, Ulysses S. Grant; however, he died four days after his nomination was confirmed by the Senate."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Edwin_Stanton",
+    "urlGoogle": "https://artsandculture.google.com/entity/edwin-stanton/m020xtc"
+  },
+  "place": {
+    "id": "papua-new-guinea",
+    "name": "Papua New Guinea",
+    "mainImg": "img/places/papua-new-guinea.jpg",
+    "summary": [
+      "Papua New Guinea, officially the Independent State of Papua New Guinea, is a sovereign state in Oceania that occupies the eastern half of the island of New Guinea and its offshore islands in Melanesia, a region of the southwestern Pacific Ocean north of Australia. Its capital, located along its southeastern coast, is Port Moresby. The western half of New Guinea forms the Indonesian provinces of Papua and West Papua. It is the world's third largest island country with 462,840 km².",
+      "At the national level, after being ruled by three external powers since 1884, Papua New Guinea established its sovereignty in 1975. This followed nearly 60 years of Australian administration, which started during World War I. It became an independent Commonwealth realm in 1975 with Elizabeth II as its queen. It also became a member of the Commonwealth of Nations in its own right.",
+      "Papua New Guinea is one of the most culturally diverse countries in the world. It is also one of the most rural, as only 18% of its people live in urban centres. There are 851 known languages in the country, of which 11 now have no known speakers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+    "urlGoogle": "https://artsandculture.google.com/entity/papua-new-guinea/m05qkp"
+  },
+  "quote": {
+    "id": "109",
+    "quote": "You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.",
+    "author": "Richard Feynman"
+  },
+  "wiki": {
+    "id": "harold-pinter",
+    "name": "Harold Pinter",
+    "summary": "Harold Pinter (1930–2008) was a Nobel Prize-winning English playwright and screenwriter, with a career that spanned more than 50 years. His plays include The Birthday Party, The Homecoming and Betrayal, and his screenplays include The Servant, The French Lieutenant's Woman and Sleuth. Pinter appeared as an actor in productions of his own work on radio and film. He also undertook roles in works by other writers. He directed nearly 50 productions for stage, theatre and screen. He was born and raised in Hackney, east London, trained at the Royal Academy of Dramatic Art and the Central School of Speech and Drama, and worked in repertory theatre before achieving success as a writer. In his later years, he was known for his political activism and his opposition to the war in Afghanistan and the invasion of Iraq. Pinter's last stage performance was as Krapp in Beckett's play Krapp's Last Tape, for the Royal Court Theatre, in 2006.",
+    "url": "https://en.wikipedia.org/wiki/Harold_Pinter"
+  },
+  "word": {
+    "id": "incarnadine",
+    "word": "incarnadine",
+    "url": "https://www.merriam-webster.com/dictionary/incarnadine",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-KAHR-nuh-dyne",
+    "audioPath": "audio/words/incarnadine.mp3",
+    "definitions": ["having the pinkish color of flesh", "red; especially : bloodred"],
+    "examples": [
+      "\"Tavel \\[wine\\] … is noted for its assertive fruit and magnificent rich and brilliant incarnadine color.\" (Vick Knight Jr., _Press Enterprise_ \\[Riverside, CA\\], August 11, 1999)"
+    ],
+    "origin": "\"Carn-\" is the Latin root for \"flesh,\" and \"incarnates\" is Latin for \"flesh-colored.\" English speakers picked up the \"pinkish\" sense of \"incarnadine\" back in the late 1500s. Since then, the adjective has come to refer to the dark red color of freshly cut, fleshy meat as well as to the pinkish color of the outer skin of some humans. The word can be used as a verb, too, meaning \"to redden.\" Shakespeare used it that way in _Macbeth_: “Will all great Neptune's ocean wash this blood clean from my hand? No, this my hand will rather the multitudinous seas incarnadine, making the green one red.”"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "artist": {
+    "id": "giovanni-paolo-panini",
+    "name": "Giovanni Paolo Panini",
+    "dates": "Jun 17, 1691 - Oct 21, 1765",
+    "mainImg": "img/art/artists/giovanni-paolo-panini.jpg",
+    "artworkImgs": [
+      {
+        "name": "Fantasy View with the Pantheon and other Monuments of Ancient Rome",
+        "path": "img/art/artworks/giovanni-paolo-panini-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/fantasy-view-with-the-pantheon-and-other-monuments-of-ancient-rome-giovanni-pauolo-panini/5QFDjeR4Hr6k-A"
+      },
+      {
+        "name": "Interior of Saint Peter's, Rome",
+        "path": "img/art/artworks/giovanni-paolo-panini-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/interior-of-saint-peter-s-rome-giovanni-paolo-panini/vwFQcbQe_NVL_Q"
+      },
+      {
+        "name": "Interior of the Pantheon, Rome",
+        "path": "img/art/artworks/giovanni-paolo-panini-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/interior-of-the-pantheon-rome/1AHJFNF8OkfG9Q"
+      },
+      {
+        "name": "Picture Gallery with Views of Modern Rome",
+        "path": "img/art/artworks/giovanni-paolo-panini-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/picture-gallery-with-views-of-modern-rome/9wFekPNz5fsIGA"
+      },
+      {
+        "name": "View of Castello di Rivoli",
+        "path": "img/art/artworks/giovanni-paolo-panini-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-castello-di-rivoli-giovanni-paolo-pannini/-AE3ILgtOID7ww"
+      },
+      {
+        "name": "Roman Capriccio: The Colosseum and Other Monuments",
+        "path": "img/art/artworks/giovanni-paolo-panini-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/roman-capriccio-the-colosseum-and-other-monuments-giovanni-paolo-panini-italian-1691-1765/ogE98tG1-9-4EQ"
+      }
+    ],
+    "summary": [
+      "Giovanni Paolo Panini or Pannini was a painter and architect who worked in Rome and is primarily known as one of the vedutisti. As a painter, Panini is best known for his vistas of Rome, in which he took a particular interest in the city's antiquities. Among his most famous works are his view of the interior of the Pantheon, and his vedute—paintings of picture galleries containing views of Rome. Most of his works, especially those of ruins, have a fanciful and unreal embellishment characteristic of capriccio themes. In this they resemble the capricci of Marco Ricci. Panini also painted portraits, including one of Pope Benedict XIV."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Oil paint", "Drawing", "Pen", "Ink", "Graphite", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giovanni_Paolo_Panini",
+    "urlGoogle": "https://artsandculture.google.com/entity/giovanni-paolo-panini/m032h4l"
+  },
+  "event": {
+    "id": "cuban-missile-crisis",
+    "name": "Cuban Missile Crisis",
+    "dates": "Oct 16, 1962 - Oct 28, 1962",
+    "mainImg": "img/events/cuban-missile-crisis.jpg",
+    "summary": [
+      "The Cuban Missile Crisis, also known as the October Crisis of 1962, the Caribbean Crisis, or the Missile Scare, was a 13-day confrontation between the United States and the Soviet Union initiated by Soviet ballistic missile deployment in Cuba. The confrontation is often considered the closest the Cold War came to escalating into a full-scale nuclear war.",
+      "In response to the failed Bay of Pigs Invasion of 1961 and the presence of American Jupiter ballistic missiles in Italy and Turkey, Soviet leader Nikita Khrushchev agreed to Cuba's request to place nuclear missiles on the island to deter a future invasion. An agreement was reached during a secret meeting between Khrushchev and Fidel Castro in July 1962, and construction of a number of missile launch facilities started later that summer.",
+      "Meanwhile, the 1962 United States elections were under way, and the White House had denied charges for months that it was ignoring dangerous Soviet missiles 90 miles from Florida. The missile preparations were confirmed when an Air Force U-2 spy plane produced clear photographic evidence of medium-range and intermediate-range ballistic missile facilities.",
+      "When this was reported to President John F."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+    "urlGoogle": "https://artsandculture.google.com/entity/cuban-missile-crisis/m01zxx"
+  },
+  "funFacts": [
+    {
+      "id": "281",
+      "fact": "The original name of Nashville, Tennessee was Big Salt Lick.",
+      "category": ["Geography", "History"]
+    },
+    { "id": "42", "fact": "Frogs cannot swallow with their eyes open.", "category": ["Animals"] },
+    {
+      "id": "985",
+      "fact": "All of the major candidates in the 1992, 1996, and 2008 U.S. presidential elections were left-handed.",
+      "category": ["Anatomy", "History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553702",
+      "fact": "A baby puffin is called a puffling, and both parents take turns incubating the egg before it hatches."
+    },
+    {
+      "id": "507110",
+      "fact": "A team of chemists described old book smell as “a combination of grassy notes with a tang of acids and a hint of vanilla over an underlying mustiness.”"
+    },
+    {
+      "id": "553499",
+      "fact": "Lake Hillier in Australia is nearly as salty as the Dead Sea. Scientists suspect that some salt-loving bacteria (chiefly Salinibacter ruber) and algae give the lake its pink hue."
+    }
+  ],
+  "idiom": {
+    "id": "vent-ones-spleen",
+    "term": "vent one's spleen",
+    "definition": "Express one's anger, as in *Some people see town council meetings as a place where they can vent their spleen.* This expression uses *vent* in the sense of \"air,\" and *spleen* in the sense of \"anger,\" alluding to the fact that this organ was once thought to be the seat of ill humor and melancholy. [First half of 1600s]"
+  },
+  "person": {
+    "id": "harold-pinter",
+    "name": "Harold Pinter",
+    "dates": "Oct 10, 1930 - Dec 24, 2008",
+    "mainImg": "img/people/harold-pinter.jpg",
+    "summary": [
+      "Harold Pinter CH CBE was a British playwright, screenwriter, director and actor. A Nobel Prize winner, Pinter was one of the most influential modern British dramatists with a writing career that spanned more than 50 years. His best-known plays include The Birthday Party, The Homecoming, and Betrayal, each of which he adapted for the screen. His screenplay adaptations of others' works include The Servant, The Go-Between, The French Lieutenant's Woman, The Trial, and Sleuth. He also directed or acted in radio, stage, television, and film productions of his own and others' works.",
+      "Pinter was born and raised in Hackney, east London, and educated at Hackney Downs School. He was a sprinter and a keen cricket player, acting in school plays and writing poetry. He attended the Royal Academy of Dramatic Art but did not complete the course. He was fined for refusing national service as a conscientious objector. Subsequently, he continued training at the Central School of Speech and Drama and worked in repertory theatre in Ireland and England. In 1956 he married actress Vivien Merchant and had a son, Daniel, born in 1958. He left Merchant in 1975 and married author Lady Antonia Fraser in 1980."
+    ],
+    "quote": "“One way of looking at speech is to say it is a constant stratagem to cover nakedness.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Harold_Pinter",
+    "urlGoogle": "https://artsandculture.google.com/entity/harold-pinter/m0mb5x"
+  },
+  "place": {
+    "id": "bradford",
+    "name": "Bradford",
+    "mainImg": "img/places/bradford.jpg",
+    "summary": [
+      "Bradford is a city in West Yorkshire, England, in the foothills of the Pennines, 8.6 miles west of Leeds, and 16 miles north-west of Wakefield. Bradford became a municipal borough in 1847, and received its charter as a city in 1897. Following local government reform in 1974, city status was bestowed upon the City of Bradford metropolitan borough.",
+      "Bradford forms part of the West Yorkshire Urban Area, which in 2001 had a population of 1.5 million and is the fourth largest in the United Kingdom. Bradford itself has a population of 529,870, which makes it the seventh-largest city in the United Kingdom and the third-largest city in Yorkshire and the Humber after Leeds and Sheffield.",
+      "Historically part of the West Riding of Yorkshire, Bradford rose to prominence in the 19th century as an international centre of textile manufacture, particularly wool. It was a boomtown of the Industrial Revolution, and amongst the earliest industrialised settlements, rapidly becoming the \"wool capital of the world\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bradford",
+    "urlGoogle": "https://artsandculture.google.com/entity/bradford/m020d8d"
+  },
+  "quote": {
+    "id": "112",
+    "quote": "All of humanity’s problems stem from man’s inability to sit quietly in a room alone.",
+    "author": "Blaise Pascal"
+  },
+  "wiki": {
+    "id": "golden-sun",
+    "name": "Golden Sun",
+    "summary": "Golden Sun is the first installment of a series of fantasy role-playing video games developed by Camelot Software Planning and published by Nintendo. It was released in November 2001 for Nintendo's Game Boy Advance, followed by a sequel, Golden Sun: The Lost Age, in 2003. The game is notable for certain unique game elements, such as the use of special \"Djinn\" that empower the player and can be used against enemies. Golden Sun's story follows a band of magic-attuned \"adepts\" who are sent from their home town into the wide world of Weyard to prevent the potentially destructive power of alchemy from being released as it was in the past. Along the way the adepts gain new abilities, help out the local populations, and learn more about why alchemy was sealed away. The story continues in The Lost Age. Upon its release, the game was highly praised; IGN's Craig Harris wrote that Golden Sun could \"arguably be one of the best 2D-based Japanese RPGs created for any system.\" The game went on to sell over one million copies in Japan and the United States. A second sequel, Golden Sun: Dark Dawn, is scheduled for release in 2010.",
+    "url": "https://en.wikipedia.org/wiki/Golden_Sun"
+  },
+  "word": {
+    "id": "wanderlust",
+    "word": "wanderlust",
+    "url": "https://www.merriam-webster.com/dictionary/wanderlust",
+    "partOfSpeech": "noun",
+    "pronunciation": "WAHN-der-lust",
+    "audioPath": "audio/words/wanderlust.mp3",
+    "definitions": ["strong longing for or impulse towards wandering"],
+    "examples": [
+      "After years of traveling, Philip accepted a job in Minnesota and announced his intention to settle down, but once the first cold snap hit, it didn’t take long for wanderlust to set in again."
+    ],
+    "origin": "\"For my part,\" writes Robert Louis Stevenson in _Travels with a Donkey_, \"I travel not to go anywhere, but to go. I travel for travel's sake. The great affair is to move.\" Sounds like a case of wanderlust if we ever heard one. Those with \"wanderlust\" don't necessarily need to go anywhere in particular; they just don't care to stay in one spot. The etymology of \"wanderlust\" is a very simple one that you can probably figure out yourself. \"Wanderlust\" is lust (or \"desire\") for wandering. The word comes from German, in which \"wandern\" means \"to wander,\" and \"Lust\" means \"desire.\""
+  }
+}

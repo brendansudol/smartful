@@ -1,0 +1,134 @@
+{
+  "artist": {
+    "id": "gwen-john",
+    "name": "Gwen John",
+    "dates": "Jun 22, 1876 - Sep 18, 1939",
+    "mainImg": "img/art/artists/gwen-john.jpg",
+    "artworkImgs": [
+      {
+        "name": "Little Girl with a Large Hat",
+        "path": "img/art/artworks/gwen-john-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/little-girl-with-a-large-hat-gwen-john/lAE0IekPoLhN-g"
+      },
+      {
+        "name": "La Chambre sur la Cour",
+        "path": "img/art/artworks/gwen-john-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/la-chambre-sur-la-cour-gwen-john-1876–1939-british/LAEG9TAa1NEpPQ"
+      },
+      {
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/gwen-john-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-gwen-john/AAH5TZv_xspVkw"
+      },
+      {
+        "name": "Head of a Woman",
+        "path": "img/art/artworks/gwen-john-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-woman-gwen-john/nAFGIstvdSJIzQ"
+      },
+      {
+        "name": "The nun",
+        "path": "img/art/artworks/gwen-john-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nun-gwen-john/_QFH465sYz_5NA"
+      },
+      {
+        "name": "Bust of a Girl with a Bow Before a Pink Background",
+        "path": "img/art/artworks/gwen-john-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/bust-of-a-girl-with-a-bow-before-a-pink-background-gwen-john/FQHJYEj6WxWjRA"
+      }
+    ],
+    "summary": [
+      "Gwendolen Mary John was a Welsh artist who worked in France for most of her career. Her paintings, mainly portraits of anonymous female sitters, are rendered in a range of closely related tones. Although she was overshadowed during her lifetime by her brother Augustus John and her lover Auguste Rodin, her reputation has grown steadily since her death."
+    ],
+    "quote": null,
+    "movements": ["Post-Impressionism"],
+    "mediums": [
+      "Oil paint",
+      "Graphite",
+      "Watercolor painting",
+      "Laid paper",
+      "Drawing",
+      "Cardboard"
+    ],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gwen_John",
+    "urlGoogle": "https://artsandculture.google.com/entity/gwen-john/m0301c5"
+  },
+  "event": {
+    "id": "2004-summer-olympics",
+    "name": "2004 Summer Olympics",
+    "dates": "Aug 13, 2004 - Aug 29, 2004",
+    "mainImg": "img/events/2004-summer-olympics.jpg",
+    "summary": [
+      "The 2004 Summer Olympics, officially known as the Games of the XXVIII Olympiad and commonly known as Athens 2004, was a premier international multi-sport event held in Athens, Greece, from 13 to 29 August 2004 with the motto Welcome Home.",
+      "The Games saw 10,625 athletes compete, some 600 more than expected, accompanied by 5,501 team officials from 201 countries. There were 301 medal events in 28 different sports. Athens 2004 marked the first time since the 1996 Summer Olympics that all countries with a National Olympic Committee were in attendance. 2004 also marked the return of the Olympic Games to the city where they began. Having previously hosted the Olympics in 1896, Athens became one of only four cities to have hosted the Summer Olympic Games on two separate occasions at the time.",
+      "A new medal obverse was introduced at these Games, replacing the design by Giuseppe Cassioli that had been used since the 1928 Games. This rectified the long lasting mistake of using a depiction of the Roman Colosseum rather than a Greek venue. The new design features the Panathenaic Stadium."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2004_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/2004-summer-olympics/m0kbvb"
+  },
+  "funFacts": [
+    {
+      "id": "207",
+      "fact": "Before 1687 clocks were made with only an hour hand.",
+      "category": ["History"]
+    },
+    { "id": "733", "fact": "All scorpions glow.", "category": ["Animals"] },
+    {
+      "id": "720",
+      "fact": "Fresh apples float because 25 percent of their volume is air.",
+      "category": ["Food"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "wild-horses-couldnt-drag-me",
+    "term": "wild horses couldn't drag me",
+    "definition": "Nothing could induce or persuade me, as in *Wild horses couldn't drag me to that nightclub.* This idiom, always in negative form, is believed to have replaced *wild horses couldn't draw it from me,* referring to the medieval torture of using horses to stretch a prisoner and thereby force a confession. [First half of 1800s]"
+  },
+  "person": {
+    "id": "pierre-augustin-caron-de-beaumarchais",
+    "name": "Pierre-Augustin Caron de Beaumarchais",
+    "dates": "Jan 24, 1732 - May 18, 1799",
+    "mainImg": "img/people/pierre-augustin-caron-de-beaumarchais.jpg",
+    "summary": [
+      "Pierre-Augustin Caron de Beaumarchais was a French polymath. At various times in his life, he was a watchmaker, inventor, playwright, musician, diplomat, spy, publisher, horticulturist, arms dealer, satirist, financier, and revolutionary.",
+      "Born a Parisian watchmaker's son, Beaumarchais rose in French society and became influential in the court of Louis XV as an inventor and music teacher. He made a number of important business and social contacts, played various roles as a diplomat and spy, and had earned a considerable fortune before a series of costly court battles jeopardized his reputation.",
+      "An early French supporter of American independence, Beaumarchais lobbied the French government on behalf of the American rebels during the American War of Independence. Beaumarchais oversaw covert aid from the French and Spanish governments to supply arms and financial assistance to the rebels in the years before France's formal entry into the war in 1778. He later struggled to recover money he had personally invested in the scheme. Beaumarchais was also a participant in the early stages of the 1789 French Revolution."
+    ],
+    "quote": "“It is not necessary to understand things in order to argue about them.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Pierre_Beaumarchais",
+    "urlGoogle": "https://artsandculture.google.com/entity/pierre-augustin-caron-de-beaumarchais/m0gsck"
+  },
+  "place": {
+    "id": "armenia",
+    "name": "Armenia",
+    "mainImg": "img/places/armenia.jpg",
+    "summary": [
+      "Armenia, officially the Republic of Armenia, is a landlocked country in the South Caucasus region of Eurasia. Located in Western Asia, on the Armenian Highlands, it is bordered by Turkey to the west, Georgia to the north, the de facto independent Republic of Artsakh and Azerbaijan to the east, and Iran and Azerbaijan's exclave of Nakhchivan to the south.",
+      "Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. Urartu was established in 860 BC and by the 6th century BC it was replaced by the Satrapy of Armenia. The Kingdom of Armenia reached its height under Tigranes the Great in the 1st century BC and became the first state in the world to adopt Christianity as its official religion in the late 3rd or early 4th century AD. The official date of state adoption of Christianity is 301. The ancient Armenian kingdom was split between the Byzantine and Sasanian Empires around the early 5th century. Under the Bagratuni dynasty, the Bagratid Kingdom of Armenia was restored in the 9th century. Declining due to the wars against the Byzantines, the kingdom fell in 1045 and Armenia was soon after invaded by the Seljuk Turks."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Armenia",
+    "urlGoogle": "https://artsandculture.google.com/entity/armenia/m0jgx"
+  },
+  "wiki": {
+    "id": "swastika",
+    "name": "Swastika",
+    "summary": "The swastika is an equilateral cross with its arms at right angles to either the right or left. It is traditionally oriented so that a main line is horizontal, though is occasionally found at a 45-degree angle to this, with the Hindu version typically featuring a dot in each quadrant. The history of the swastika dates back to the prehistoric peoples living on the Eurasian continent, and remains an important symbol in Hinduism and Buddhism, among others. It had meaning and use in Native American and Jewish faiths prior to World War II, and was regarded worldwide as symbol of good luck and auspiciousness at the beginning of the twentieth century. In the 1930s, the swastika was claimed by the German Nazi Party, and in much of the world it has since had a strong association with racist fascism and the Holocaust. In recent decades there have been unsuccessful attempts by individuals and groups to advocate the view that the swastika's ancient origins supersede its more recent negative connotations.",
+    "url": "https://en.wikipedia.org/wiki/Swastika"
+  },
+  "word": {
+    "id": "viand",
+    "word": "viand",
+    "url": "https://www.merriam-webster.com/dictionary/viand",
+    "partOfSpeech": "noun",
+    "pronunciation": "VYE-und",
+    "audioPath": "audio/words/viand.mp3",
+    "definitions": ["an item of food; especially : a choice or tasty dish", "provisions, food"],
+    "examples": [
+      "\"The family sat down to table, and a frugal meal of cold _viands_ was deposited before them.\" - From Thomas Hardy’s novel _Tess of the d’Urbervilles_, 1891",
+      "\"While living in the South's grand old Charleston, S.C., my Yankee roots still were evident but my appetite craved those rich and satisfying calorie-laden _viands_.\" - From an article by Doris Reynolds in _Naples Daily News_ (Florida), February 16, 2011"
+    ],
+    "origin": "Are you someone who eats to live, or someone who lives to eat? Either way, you'll find that the etymology of \"viand\" reflects the close link between food and life. \"Viand\" entered English in the 15th century from Anglo-French (\"viande\" means \"meat\" even in modern French), and it derives ultimately from Latin \"vivere,\" meaning \"to live.\" \"Vivere\" is the ancestor of a number of other lively and life-giving words in English, including \"victual,\" \"revive,\" \"survive,\" \"convivial,\" and \"vivacious.\""
+  }
+}

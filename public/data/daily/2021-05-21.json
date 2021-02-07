@@ -1,0 +1,141 @@
+{
+  "artist": {
+    "id": "song-dong",
+    "name": "Song Dong",
+    "dates": "Born 1966",
+    "mainImg": "img/art/artists/song-dong.jpg",
+    "artworkImgs": [
+      {
+        "name": "Wisdom of the Poor: Living with the Tree",
+        "path": "img/art/artworks/song-dong-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/wisdom-of-the-poor-living-with-the-tree-song-dong/VwHVL-7N7jC52A"
+      },
+      {
+        "name": "Song Dong, Prison in Prison",
+        "path": "img/art/artworks/song-dong-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/song-dong-prison-in-prison-stiftung-für-kunst-und-kultur-e-v/7gHy7vhPiIKAWA"
+      },
+      {
+        "name": "Wisdom of the Poor: Living with Disaster",
+        "path": "img/art/artworks/song-dong-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/wisdom-of-the-poor-living-with-disaster-song-dong/bQH95tYb-fFgqQ"
+      },
+      {
+        "name": "Wisdom of the Poor: Living with the Pigeons",
+        "path": "img/art/artworks/song-dong-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/wisdom-of-the-poor-living-with-the-pigeons-song-dong/PwHaXwMLT2IDTA"
+      },
+      {
+        "name": "Wisdom of the Poor: Enclosure movement-2",
+        "path": "img/art/artworks/song-dong-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/wisdom-of-the-poor-enclosure-movement-2-song-dong/aQFdBP2qsCm1zg"
+      },
+      {
+        "name": "Food-relative",
+        "path": "img/art/artworks/song-dong-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/food-relative-song-qun/SAEuVvs9O2FHLA"
+      }
+    ],
+    "summary": [
+      "Song Dong is a Chinese contemporary artist, active in sculpture, installations, performance, photography and video. He has been involved in many solo and group exhibitions around the world, covering a range of themes and topics including his relationship with his family and their experience of living in modern China, the transformation of China's urban environment and the impermanence of change."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art"],
+    "mediums": ["Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Song_Dong",
+    "urlGoogle": "https://artsandculture.google.com/entity/song-dong/m07wywmw"
+  },
+  "event": {
+    "id": "hindenburg-disaster",
+    "name": "Hindenburg disaster",
+    "dates": null,
+    "mainImg": "img/events/hindenburg-disaster.jpg",
+    "summary": [
+      "The Hindenburg disaster occurred on May 6, 1937, in Manchester Township, New Jersey, United States. The German passenger airship LZ 129 Hindenburg caught fire and was destroyed during its attempt to dock with its mooring mast at Naval Air Station Lakehurst. There were 35 fatalities from the 97 people on board, and an additional fatality on the ground.",
+      "The disaster was the subject of newsreel coverage, photographs, and Herbert Morrison's recorded radio eyewitness reports from the landing field, which were broadcast the next day. A variety of hypotheses have been put forward for both the cause of ignition and the initial fuel for the ensuing fire. The event shattered public confidence in the giant, passenger-carrying rigid airship and marked the abrupt end of the airship era."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hindenburg_disaster",
+    "urlGoogle": "https://artsandculture.google.com/entity/hindenburg-disaster/m04czcqh"
+  },
+  "funFacts": [
+    { "id": "211", "fact": "The average koala sleeps 22 hours each day.", "category": ["Animals"] },
+    {
+      "id": "950",
+      "fact": "The first spam message was transmitted over telegraph wires in 1864.",
+      "category": ["History", "Firsts"]
+    },
+    {
+      "id": "758",
+      "fact": "The only lizard that has a voice is the Gecko.",
+      "category": ["Animals", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553652",
+      "fact": "In 1998, a Georgia student was suspended for wearing a Pepsi shirt to \"Coke in Education Day.\""
+    },
+    {
+      "id": "553858",
+      "fact": "Nineteenth-century British surgeon George Merryweather believed leeches could predict the weather. His \"tempest prognosticator,\" displayed at the Great Exhibition in 1851, failed to catch on."
+    },
+    { "id": "506368", "fact": "Wyoming is home to only two escalators." }
+  ],
+  "idiom": {
+    "id": "sow-ones-wild-oats",
+    "term": "sow one's wild oats",
+    "definition": "Behave foolishly, immoderately, or promiscuously when young, as in *Brad has spent the last couple of years sowing his wild oats, but now he seems ready to settle down.* This expression alludes to sowing inferior wild oats instead of good cultivated grain, the verb *sowing* ---that is, \"planting seed\"---in particular suggesting sexual promiscuity. [Mid-1500s]"
+  },
+  "person": {
+    "id": "sejanus",
+    "name": "Sejanus",
+    "dates": "19 BC - 31 AD",
+    "mainImg": "img/people/sejanus.jpg",
+    "summary": [
+      "Lucius Aelius Sejanus, commonly known as Sejanus, was an ambitious soldier, friend and confidant of the Roman Emperor Tiberius. An equestrian by birth, Sejanus rose to power as prefect of the Roman imperial bodyguard, known as the Praetorian Guard, of which he was commander from AD 14 until his death in AD 31.",
+      "While the Praetorian Guard was formally established under Emperor Augustus, Sejanus introduced a number of reforms which saw the unit evolve beyond a mere bodyguard, into a powerful and influential branch of the government involved in public security, civil administration and ultimately political intercession; these changes would have a lasting impact on the course of the Principate.",
+      "During the 20s, Sejanus gradually accumulated power by consolidating his influence over Tiberius and eliminating potential political opponents, including the emperor's son Drusus Julius Caesar. When Tiberius withdrew to Capri in AD 26, Sejanus was left in control of the administration of the empire. For a time the most influential and feared citizen of Rome, Sejanus suddenly fell from power in AD 31, the year his career culminated with the consulship."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sejanus",
+    "urlGoogle": "https://artsandculture.google.com/entity/sejanus/m0143nc"
+  },
+  "place": {
+    "id": "maastricht",
+    "name": "Maastricht",
+    "mainImg": "img/places/maastricht.jpg",
+    "summary": [
+      "Maastricht is a city and a municipality in the southeast of the Netherlands. It is the capital and largest city of the province of Limburg. Maastricht is located on both sides of the Meuse, at the point where the Jeker joins it. It is adjacent to the border with Belgium.",
+      "Maastricht developed from a Roman settlement to a medieval religious centre. In the 16th century it became a garrison town and in the 19th century an early industrial city. Today, the city is a thriving cultural and regional hub. It became well known through the Maastricht Treaty and as the birthplace of the euro. Maastricht has 1677 national heritage buildings, the second highest number in the Netherlands, after Amsterdam. The city is visited by tourists for shopping and recreation, and has a large international student population. Maastricht is a member of the Most Ancient European Towns Network and is part of the Meuse-Rhine Euroregion, which includes the nearby German and Belgian cities of Aachen, Eupen, Hasselt, Liège, and Tongeren. The Meuse-Rhine Euroregion is a metropolis with a population of about 3.9 million with several international universities."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Maastricht",
+    "urlGoogle": "https://artsandculture.google.com/entity/maastricht/m051ls"
+  },
+  "quote": {
+    "id": "2",
+    "quote": "Not how long, but how well you have lived is the main thing.",
+    "author": "Seneca"
+  },
+  "wiki": {
+    "id": "waterfall-gully-south-australia",
+    "name": "Waterfall Gully, South Australia",
+    "summary": "Waterfall Gully is a small suburb in the South Australian city of Adelaide. It is located in the foothills of the Mount Lofty Ranges around five kilometres east of Adelaide's central business district (CBD). For the most part, the suburb encompasses one long gully with First Creek at its centre and Waterfall Gully Road adjacent to the creek. At one end of the gully is the waterfall for which the suburb was named. Part of the Burnside Council, it is bounded to the north by the suburb of Burnside, to the north-east by Greenhill, to the south-east by Cleland Conservation Park, to the south-west by Leawood Gardens and to the north-west by Mount Osmond. Waterfall Gully is rich in history and has been a popular attraction since Adelaide's early colonists discovered the area in the nineteenth century. Home to a number of residents and increasingly frequented by tourists, Waterfall Gully has undergone extensive developments in recent years.",
+    "url": "https://en.wikipedia.org/wiki/Waterfall_Gully,_South_Australia"
+  },
+  "word": {
+    "id": "borborygmus",
+    "word": "borborygmus",
+    "url": "https://www.merriam-webster.com/dictionary/borborygmus",
+    "partOfSpeech": "noun, plural borborygmi",
+    "pronunciation": "bor-buh-RIG-mus",
+    "audioPath": "audio/words/borborygmus.mp3",
+    "definitions": ["intestinal rumbling caused by moving gas"],
+    "examples": [
+      "The hall was very quiet as the test-takers concentrated on the task at hand, and Cara hoped that her embarrassing _borborygmus_ went mostly unnoticed.",
+      "\"'Both men are presenting the classic symptoms \\[of severe typhoid fever\\] - fever, sudden prostration, abdominal distress, delirium, right lower quadrant _borborygmi_.' Springer counted off the symptoms on the fingers of his left hand as if he were on formal ground rounds.\" - From Robin Cook's 2011 novel _Death Benefit_"
+    ],
+    "origin": "Unless you're a gastroenterologist, chances are you never knew there was a name for those loud gurglings your belly sometimes makes. And if in looking at the word, you thought it was just some crazy coinage invented by someone who thought the word matched the rumbling sound it represented, you'd be right, in a way. We picked it up from New Latin, but it traces to the Greek verb \"borboryzein,\" which means \"to rumble.\" It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach. \"Borborygmus\" has been part of English for at least 250 years; its earliest known use dates from around 1724."
+  }
+}

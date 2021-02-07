@@ -1,0 +1,151 @@
+{
+  "artist": {
+    "id": "kenny-scharf",
+    "name": "Kenny Scharf",
+    "dates": "Born Nov 23, 1958",
+    "mainImg": "img/art/artists/kenny-scharf.jpg",
+    "artworkImgs": [
+      {
+        "name": "Kenny Scharf, Chelsea",
+        "path": "img/art/artworks/kenny-scharf-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/kenny-scharf-chelsea-kenny-scharf/1wHR1FGSR1eM9g"
+      },
+      {
+        "name": "Philly Chunk Pack",
+        "path": "img/art/artworks/kenny-scharf-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/philly-chunk-pack-kenny-scharf/RAE-MjGzM7j5kQ"
+      },
+      {
+        "name": "Love",
+        "path": "img/art/artworks/kenny-scharf-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/love-kenny-scharf/VgEwl8Tei-0StQ"
+      },
+      {
+        "name": "Kosmic Krylon Garage",
+        "path": "img/art/artworks/kenny-scharf-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/kosmic-krylon-garage-kenny-scharf/7gH2R7hiVXELuA"
+      },
+      {
+        "name": "Chunk Pack",
+        "path": "img/art/artworks/kenny-scharf-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/chunk-pack-kenny-scharf-x-branded-arts/3gHcWpRfD5ZqYw"
+      },
+      {
+        "name": "Kosmic Krylon Garage",
+        "path": "img/art/artworks/kenny-scharf-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/kosmic-krylon-garage-kenny-scharf/ZgE27QoHGAVk3A"
+      }
+    ],
+    "summary": [
+      "Kenny Scharf is an American painter who lives in Los Angeles. California. He was born in Los Angeles and moved to Manhattan, New York City to receive his B.F.A. in 1980 with a major in painting at the School of Visual Arts. He is known for his participation in the interdisciplinary East Village art scene during the 1980s alongside Jean-Michel Basquiat and Keith Haring. His do-it-yourself practice spanned painting, sculpture, fashion, video, performance art, and street art. Growing up in post-World War II Southern California, Scharf was fascinated by television and the futuristic promise of modern design. His works often consist of pop culture icons, such as the Flintstones and the Jetsons, or caricatures of middle-class Americans in an apocalyptic science fiction setting."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art", "Street art"],
+    "mediums": ["Spray painting", "Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Kenny_Scharf",
+    "urlGoogle": "https://artsandculture.google.com/entity/kenny-scharf/m08r5qp"
+  },
+  "event": {
+    "id": "amia-bombing",
+    "name": "AMIA bombing",
+    "dates": null,
+    "mainImg": "img/events/amia-bombing.jpg",
+    "summary": [
+      "The AMIA bombing was a suicide van bomb attack on the Asociación Mutual Israelita Argentina building in Buenos Aires, Argentina on 18 July 1994, killing 85 people and injuring hundreds. The bombing is Argentina's deadliest terrorist attack to date. Argentina is home to a Jewish community of 230,000, the largest in Latin America and sixth in the world outside Israel.",
+      "Over the years, the case has been marked by accusations of cover-ups. All suspects in the \"local connection\" were found to be not guilty in September 2004. In August 2005, federal judge Juan José Galeano, in charge of the case, was impeached and removed from his post on a charge of \"serious\" irregularities due to mishandling of the investigation. In 2005, Cardinal Jorge Mario Bergoglio, who would later become Pope Francis, was the first public personality to sign a petition for justice in the AMIA bombing case. He was one of the signatories on a document called \"85 victims, 85 signatures\" as part of the bombing's 11th anniversary."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/AMIA_bombing",
+    "urlGoogle": "https://artsandculture.google.com/entity/amia-bombing/m027_2d"
+  },
+  "funFacts": [
+    {
+      "id": "475",
+      "fact": "Wrapping rubber bands around the ends of hangers can prevent clothes from slipping off.",
+      "category": ["Make-it-Easies"]
+    },
+    {
+      "id": "741",
+      "fact": "Plants, like humans, can run a fever if they are sick.",
+      "category": ["Plants"]
+    },
+    {
+      "id": "16",
+      "fact": "The world's termites outweigh the world's humans about 10 to 1.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553830",
+      "fact": "Half of the world's geothermal features, and two-thirds of all the world's geysers, are found in Yellowstone National Park."
+    },
+    {
+      "id": "504746",
+      "fact": "Fredric Baur invented the Pringles can. When he passed away in 2008, his ashes were buried in one."
+    },
+    {
+      "id": "553506",
+      "fact": "Veterans Stadium, former home of the Philadelphia Eagles, featured a courtroom for handling rowdy fans."
+    }
+  ],
+  "idiom": {
+    "id": "kith-and-kin",
+    "term": "kith and kin",
+    "definition": "Friends and family, as in *Everyone was invited, kith and kin as well as distant acquaintances.* This expression dates from the 1300s and originally meant \"countrymen\" (*kith* meant \"one's native land\") and \"family members.\" It gradually took on the present looser sense."
+  },
+  "person": {
+    "id": "elizabeth-i-of-england",
+    "name": "Elizabeth I of England",
+    "dates": "Sep 7, 1533 - Mar 24, 1603",
+    "mainImg": "img/people/elizabeth-i-of-england.jpg",
+    "summary": [
+      "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death on 24 March 1603. Sometimes called the Virgin Queen, Gloriana or Good Queen Bess, Elizabeth was the last of the five monarchs of the House of Tudor.",
+      "Elizabeth was the daughter of Henry VIII and Anne Boleyn, his second wife, who was executed two-and-a-half years after Elizabeth's birth. Anne's marriage to Henry VIII was annulled, and Elizabeth was declared illegitimate. Her half-brother, Edward VI, ruled until his death in 1553, bequeathing the crown to Lady Jane Grey and ignoring the claims of his two half-sisters, the Roman Catholic Mary and the younger Elizabeth, in spite of statute law to the contrary. Edward's will was set aside and Mary became queen, deposing Lady Jane Grey. During Mary's reign, Elizabeth was imprisoned for nearly a year on suspicion of supporting Protestant rebels.",
+      "In 1558 upon Mary's death, Elizabeth succeeded her half-sister to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers, led by William Cecil, 1st Baron Burghley."
+    ],
+    "quote": "“I do not so much rejoice that God hath made me to be a Queen, as to be a Queen over so thankful a people.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "urlGoogle": "https://artsandculture.google.com/entity/elizabeth-i-of-england/m02rg_"
+  },
+  "place": {
+    "id": "ahmedabad",
+    "name": "Ahmedabad",
+    "mainImg": "img/places/ahmedabad.jpg",
+    "summary": [
+      "Ahmedabad is the largest city and former capital of the Indian state of Gujarat. It is the administrative headquarters of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabad's population of 5,633,927 makes it the fifth-most populous city in India, and the encompassing urban agglomeration population estimated at 6,357,693 is the seventh-most populous in India. Ahmedabad is located on the banks of the Sabarmati River, 23 km from the state capital Gandhinagar, which is its twin city.",
+      "Ahmedabad has emerged as an important economic and industrial hub in India. It is the second-largest producer of cotton in India, and its stock exchange is the country's second oldest. Cricket is a popular sport in Ahmedabad. A newly-built Sardar Patel Stadium at Motera can accommodate 110,000 spectators. The effects of liberalisation of the Indian economy have energised the city's economy towards tertiary sector activities such as commerce, communication and construction. Ahmedabad's increasing population has resulted in an increase in the construction and housing industries resulting in recent development of skyscrapers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ahmedabad",
+    "urlGoogle": "https://artsandculture.google.com/entity/ahmedabad/m01d88c"
+  },
+  "quote": {
+    "id": "65",
+    "quote": "The only road to good shows is bad ones. Just go start having a bad time, and if you don't give up, you will get better.",
+    "author": "Louis C.K."
+  },
+  "wiki": {
+    "id": "nikita-khrushchev",
+    "name": "Nikita Khrushchev",
+    "summary": "Nikita Khrushchev (1894–1971) led the Soviet Union during the Cold War. He served as First Secretary of the Communist Party of the Soviet Union from 1953 to 1964, and as Chairman of the Council of Ministers, or Premier, from 1958 to 1964. Khrushchev was responsible for the partial de-Stalinization of the Soviet Union, for backing the progress of the world's early space program, and for several relatively liberal reforms in areas of domestic policy. Khrushchev was born in the Russian village of Kalinovka in 1894. With the help of Lazar Kaganovich, he worked his way up the Soviet hierarchy. He supported Stalin's purges, and approved thousands of arrests. Stalin's political heirs fought for power after his death in 1953, a struggle in which Khrushchev, after several years, emerged triumphant. On February 25, 1956, at the Twentieth Party Congress, he delivered the \"Secret Speech\", vilifying Stalin and ushering in a less repressive era in the Soviet Union. Hoping eventually to rely on missiles for national defense, Khrushchev ordered major cuts in conventional forces. Despite the cuts, Khrushchev's rule saw the tensest years of the Cold War, culminating in the Cuban Missile Crisis.",
+    "url": "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
+  },
+  "word": {
+    "id": "irrupt",
+    "word": "irrupt",
+    "url": "https://www.merriam-webster.com/dictionary/irrupt",
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-RUPT",
+    "audioPath": "audio/words/irrupt.mp3",
+    "definitions": [
+      "to rush in forcibly or violently",
+      "to undergo a sudden upsurge in numbers especially when natural ecological balances and checks are disturbed",
+      "to become active or violent especially suddenly : erupt"
+    ],
+    "examples": [
+      "The stadium irrupted in applause for the local high school choir's outstanding rendition of the national anthem."
+    ],
+    "origin": "\"Irrupt\" and \"erupt” have existed as discrete words since the 1800s. Both are descendants of the Latin verb \"rumpere,\" which means \"to break,\" but \"irrupt\" has affixed to it the prefix \"ir-\" (in the sense \"into\") while \"erupt\" begins with the prefix \"e-\" (meaning \"out\"). So \"to irrupt\" was originally to rush in, and \"to erupt\" was to burst out. But it's sometimes hard to distinguish the precise direction of a violent rush, and \"irrupt\" came to be used as a synonym of \"erupt\" in the senses \"to become active or violent especially suddenly\" and \"to break forth,\" as in our example sentence."
+  }
+}

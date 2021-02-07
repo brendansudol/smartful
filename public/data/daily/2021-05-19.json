@@ -1,0 +1,143 @@
+{
+  "artist": {
+    "id": "masaccio",
+    "name": "Masaccio",
+    "dates": "Dec 21, 1401 - 1428",
+    "mainImg": "img/art/artists/masaccio.jpg",
+    "artworkImgs": [
+      {
+        "name": "Saint Anne 'Metterza'",
+        "path": "img/art/artworks/masaccio-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-anne-metterza-masaccio-masolino-cassai-fini/3AEld4jAUGSYPg"
+      },
+      {
+        "name": "Crucifixion",
+        "path": "img/art/artworks/masaccio-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/crucifixion-masaccio-tommaso-di-ser-giovanni-di-mone-cassai/kwHRfiWPcAMnGw"
+      },
+      {
+        "name": "Saint Andrew",
+        "path": "img/art/artworks/masaccio-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-andrew/4AEKNkaCT8hsjA"
+      },
+      {
+        "name": "Saints Paul and Peter",
+        "path": "img/art/artworks/masaccio-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/saints-paul-and-peter-masaccio-tommaso-di-ser-giovanni-cassai-italian-active-florence-and-rome-1401-1428-29/rwGRZTU26EXaWg"
+      },
+      {
+        "name": "Free Copy of Giotto's Navicella (recto); Copy of Adam in Masaccio's Expulsion from the Garden of Eden, and other Figure Studies (verso)",
+        "path": "img/art/artworks/masaccio-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/free-copy-of-giotto-s-navicella-recto-copy-of-adam-in-masaccio-s-expulsion-from-the-garden-of-eden-and-other-figure-studies-verso-parri-spinelli-masaccio-tommaso-di-ser-giovanni-di-mone-casai/9QGzV2bybJvy_g"
+      }
+    ],
+    "summary": [
+      "Masaccio, born Tommaso di Ser Giovanni di Simone, was a Florentine artist who is regarded as the first great Italian painter of the Quattrocento period of the Italian Renaissance. According to Vasari, Masaccio was the best painter of his generation because of his skill at imitating nature, recreating lifelike figures and movements as well as a convincing sense of three-dimensionality. He employed nudes and foreshortenings in his figures. This had seldom been done before him.",
+      "The name Masaccio is a humorous version of Maso, meaning \"clumsy\" or \"messy\" Tom. The name may have been created to distinguish him from his principal collaborator, also called Maso, who came to be known as Masolino.",
+      "Despite his brief career, he had a profound influence on other artists and is considered to have started the Early Italian Renaissance in painting with his works in the mid- and late-1420s. He was one of the first to use linear perspective in his painting, employing techniques such as vanishing point in art for the first time."
+    ],
+    "quote": null,
+    "movements": ["Italian Renaissance", "Renaissance"],
+    "mediums": ["Tempera", "Gold", "Metal", "Drawing", "Gold leaf", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Masaccio",
+    "urlGoogle": "https://artsandculture.google.com/entity/masaccio/m07n29"
+  },
+  "event": {
+    "id": "soweto-uprising",
+    "name": "Soweto uprising",
+    "dates": "Jun 16, 1976",
+    "mainImg": "img/events/soweto-uprising.jpg",
+    "summary": [
+      "The Soweto uprising was a series of demonstrations and protests led by black school children in South Africa that began on the morning of 16 June 1976.",
+      "Students from numerous Sowetan schools began to protest in the streets of Soweto in response to the introduction of Afrikaans as the medium of instruction in local schools. It is estimated that 20,000 students took part in the protests. They were met with fierce police brutality. The number of protesters killed by police is usually given as 176, but estimates of up to 700 have been made. In remembrance of these events, 16 June is now a public holiday in South Africa, named Youth Day."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Soweto_uprising",
+    "urlGoogle": "https://artsandculture.google.com/entity/soweto-uprising/m07s6rd"
+  },
+  "funFacts": [
+    {
+      "id": "727",
+      "fact": "A spider's silk is stronger than steel.",
+      "category": ["Animals", "Science"]
+    },
+    {
+      "id": "333",
+      "fact": "Long Island is the largest island in the Continental U.S.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "955",
+      "fact": "A bolt of lightning can reach temperatures hotter than 50,000 degrees Fahrenheit - five times hotter than the sun.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553547",
+      "fact": "Blue whales may weigh up to twice as much as the largest dinosaur."
+    },
+    {
+      "id": "504665",
+      "fact": "Johnny Carson’s first three wives were named, in order, Joan, Joanne, and Joanna. (His first wife went by “Jody.”)"
+    },
+    { "id": "504758", "fact": "The Eiffel Tower leans slightly toward the shade on sunny days." }
+  ],
+  "idiom": {
+    "id": "jack-of-all-trades",
+    "term": "jack of all trades",
+    "definition": "An individual who is adept at everything he or she undertakes. This idiom first appeared in Geffray Mynshul's *Essayes and Characters of a Prison* (1618)*.* Even earlier several writers pointed out that someone who is good at everything is good at nothing. A version appeared in Chaucer's *Troilus and Cressida,* \"He that parted is in every place is no-wher hool, as writen cleryks wyse.\" By 1800 it was put as **jack of all trades, master of none** (Maria Edgeworth, *Popular Tales: Will*)."
+  },
+  "person": {
+    "id": "frederick-william-ii-of-prussia",
+    "name": "Frederick William II of Prussia",
+    "dates": "Sep 25, 1744 - Nov 16, 1797",
+    "mainImg": "img/people/frederick-william-ii-of-prussia.jpg",
+    "summary": [
+      "Frederick William II was King of Prussia from 1786 until his death. He was in personal union the Prince-elector of Brandenburg and sovereign prince of the Canton of Neuchâtel. Pleasure-loving and indolent, he is seen as the antithesis to his predecessor, Frederick II. Under his reign, Prussia was weakened internally and externally, and he failed to deal adequately with the challenges to the existing order posed by the French Revolution. His religious policies were directed against the Enlightenment and aimed at restoring a traditional Protestantism. However, he was a patron of the arts and responsible for the construction of some notable buildings, among them the Brandenburg Gate in Berlin."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_William_II_of_Prussia",
+    "urlGoogle": "https://artsandculture.google.com/entity/frederick-william-ii-of-prussia/m01f9fw"
+  },
+  "place": {
+    "id": "copenhagen",
+    "name": "Copenhagen",
+    "mainImg": "img/places/copenhagen.jpg",
+    "summary": [
+      "Copenhagen is the capital and most populous city of Denmark. As of 1 January 2020, the city had a population of 794,128 with 632,340 in Copenhagen Municipality, 104,305 in Frederiksberg Municipality, 42,989 in Tårnby Municipality, and 14,494 in Dragør Municipality. It forms the core of the wider urban area of Copenhagen and the Copenhagen metropolitan area. Copenhagen is situated on the eastern coast of the island of Zealand; another small portion of the city is located on Amager, and it is separated from Malmö, Sweden, by the strait of Øresund. The Øresund Bridge connects the two cities by rail and road.",
+      "Originally a Viking fishing village established in the 10th century in the vicinity of what is now Gammel Strand, Copenhagen became the capital of Denmark in the early 15th century. Beginning in the 17th century, it consolidated its position as a regional centre of power with its institutions, defences and armed forces. During the renaissance the city served as the de facto capital being the seat of government of the Kalmar Union, governing the entire present day Nordic region in a personal union with Sweden and Norway ruled by the Danish monarch serving as the head of state."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Copenhagen",
+    "urlGoogle": "https://artsandculture.google.com/entity/copenhagen/m01lfy"
+  },
+  "quote": {
+    "id": "73",
+    "quote": "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read.",
+    "author": "Groucho Marx"
+  },
+  "wiki": {
+    "id": "elias-ashmole",
+    "name": "Elias Ashmole",
+    "summary": "Elias Ashmole was an antiquarian, collector, politician, and student of astrology and alchemy. He supported the royalist side during the English Civil War, and at the restoration of Charles II he was rewarded with several lucrative offices. Throughout his life he was an avid collector of curiosities and other artifacts. Many of these he acquired from the traveller, botanist, and collector John Tradescant the elder and his son, and most he donated to Oxford University to create the Ashmolean Museum. He also donated his library and priceless manuscript collection to Oxford. Apart from his collecting activities, Ashmole illustrates the passing of the pre-scientific world view in the seventeenth century: while he immersed himself in alchemical, magical and astrological studies and was consulted on astrological questions by Charles II and his court, these studies were essentially backward-looking. Although he was one of the founding members of the Royal Society, a key institution in the development of experimental science, he never participated actively.",
+    "url": "https://en.wikipedia.org/wiki/Elias_Ashmole"
+  },
+  "word": {
+    "id": "bijou",
+    "word": "bijou",
+    "url": "https://www.merriam-webster.com/dictionary/bijou",
+    "partOfSpeech": "noun",
+    "pronunciation": "BEE-zhoo",
+    "audioPath": "audio/words/bijou.mp3",
+    "definitions": [
+      "a small dainty usually ornamental piece of delicate workmanship : jewel",
+      "something delicate, elegant, or highly prized"
+    ],
+    "examples": [
+      "_Bijoux_ from around the world will be on exhibit and later auctioned off.",
+      "\"Bauble Bar has loads of gorgeous _bijoux_ that won't break the bank…. The Radiant Orchid Collar Necklace is among my favorites….\" - From an article by Gretta Monahan in the _Boston Herald_, January 23, 2014"
+    ],
+    "origin": "\"Bijou\" (which can be pluralized as either \"bijoux\" or \"bijous\") has adorned English since the late 17th century. We borrowed it from French, but the word ultimately traces to Breton, a Celtic language (one closely related to Cornish and Welsh) spoken by inhabitants of the Brittany region of northwest France. Our modern English word derives from Breton \"bizou,\" which means \"ring.\" That history makes \"bijou\" a rare gem in English because, although the Breton people occupied part of England for many years before they were pushed into France by the Anglo-Saxons in the 5th and 6th centuries, very few Breton-derived words remain in our language. (Another Breton descendant is \"[menhir](https://www.merriam-webster.com/dictionary/menhir),\" a term for a kind of monolith.)"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "artist": {
+    "id": "hokusai",
+    "name": "Hokusai",
+    "dates": "Oct 31, 1760 - May 10, 1849",
+    "mainImg": "img/art/artists/hokusai.jpg",
+    "artworkImgs": [
+      {
+        "name": "Thirty-Six Views of Mount Fuji: The Great Wave Off the Coast of Kanagawa",
+        "path": "img/art/artworks/hokusai-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/thirty-six-views-of-mount-fuji-the-great-wave-off-the-coast-of-kanagawa-katsushika-hokusai/3gF011oIXv3kcQ"
+      },
+      {
+        "name": "Thirty-six Views of Mount Fuji: The Great Wave off Kanagawa",
+        "path": "img/art/artworks/hokusai-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/thirty-six-views-of-mount-fuji-the-great-wave-off-kanagawa-katsushika-hokusai/tQHqK8dFktEsLw"
+      },
+      {
+        "name": "The Underwave off Kanagawa",
+        "path": "img/art/artworks/hokusai-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-underwave-off-kanagawa-katsushika-hokusai/JgEdIdn4pME3Mw"
+      },
+      {
+        "name": "The Great Wave off the Coast of Kanagawa",
+        "path": "img/art/artworks/hokusai-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-great-wave-off-the-coast-of-kanagawa-katsushika-hokusai/fAFp7yddSAtcTQ"
+      },
+      {
+        "name": "The Great Wave off Kanagawa",
+        "path": "img/art/artworks/hokusai-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-great-wave-off-kanagawa-katsushika-hokusai/MgHm0BHMRIT73g"
+      },
+      {
+        "name": "冨嶽三十六景　凱風快晴|South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+        "path": "img/art/artworks/hokusai-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/冨嶽三十六景　凱風快晴-south-wind-clear-sky-gaifū-kaisei-also-known-as-red-fuji-from-the-series-thirty-six-views-of-mount-fuji-fugaku-sanjūrokkei-katsushika-hokusai/3wE980WqnHL34Q"
+      }
+    ],
+    "summary": [
+      "Katsushika Hokusai was a Japanese artist, ukiyo-e painter and printmaker of the Edo period. Born in Edo, Hokusai is best known as author of the woodblock print series Thirty-six Views of Mount Fuji which includes the internationally iconic print, The Great Wave off Kanagawa.",
+      "Hokusai created the Thirty-Six Views both as a response to a domestic travel boom and as part of a personal obsession with Mount Fuji. It was this series, specifically The Great Wave print and Fine Wind, Clear Morning, that secured Hokusai's fame both in Japan and overseas. As historian Richard Lane concludes, \"if there is one work that made Hokusai's name, both in Japan and abroad, it must be this monumental print-series\". While Hokusai's work prior to this series is certainly important, it was not until this series that he gained broad recognition."
+    ],
+    "quote": "“From the age of six, I had a passion for copying the form of things and since the age of fifty I have published many drawings, yet of all I drew by my seventieth year there is nothing worth taking in to account. At seventy-three years I partly understood the structure of animals, birds, insects and fishes, and the life of grasses and plants. And so, at eighty-six I shall progress further; at ninety I shall even further penetrate their secret meaning, and by one hundred I shall perhaps truly have reached the level of the marvellous and divine. When I am one hundred and ten, each dot, each line will possess a life of its own.”",
+    "movements": ["Ukiyo-e"],
+    "mediums": ["Ink", "Book", "Textile", "Silk", "Drawing", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hokusai",
+    "urlGoogle": "https://artsandculture.google.com/entity/hokusai/m0bwf4"
+  },
+  "event": {
+    "id": "moscow-victory-parade-of-1945",
+    "name": "Moscow Victory Parade of 1945",
+    "dates": "Jun 24, 1945",
+    "mainImg": "img/events/moscow-victory-parade-of-1945.jpg",
+    "summary": [
+      "The Moscow Victory Parade of 1945 was a victory parade held by the Soviet Armed Forces after the defeat of Nazi Germany. This, the longest and largest military parade ever held on Red Square in the Soviet capital Moscow, involved 40,000 Red Army soldiers and 1,850 military vehicles and other military hardware. The parade lasted just over two hours on a rainy June 24, 1945, over a month after May 9, the day of Germany's surrender to Soviet commanders."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Moscow_Victory_Parade_of_1945",
+    "urlGoogle": "https://artsandculture.google.com/entity/moscow-victory-parade-of-1945/m0c018r"
+  },
+  "funFacts": [
+    {
+      "id": "847",
+      "fact": "Until the nineteenth century, solid blocks of tea were used as money in Siberia.",
+      "category": ["History"]
+    },
+    {
+      "id": "463",
+      "fact": "The dot over the letter i is called a tittle.",
+      "category": ["Definitions"]
+    },
+    { "id": "771", "fact": "Some dinosaurs were as small as chickens.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "553684",
+      "fact": "“Jay” was slang for “foolish person.”  So when a pedestrian ignored street signs, he was a “jaywalker.”"
+    },
+    { "id": "553503", "fact": "Apollo 17 astronaut Harrison Schmitt was allergic to moon dust." },
+    { "id": "554084", "fact": "Eggplants are berries." }
+  ],
+  "idiom": {
+    "id": "from-soup-to-nuts",
+    "term": "from soup to nuts",
+    "definition": "Also, **from A to Z** or **start to finish** or **stem to stern.** From beginning to end, throughout, as in *We went through the whole agenda, from soup to nuts,* or *She had to learn a whole new system from A to Z,* or *It rained from start to finish,* or *We did over the whole house from stem to stern.* The first expression, with its analogy to the first and last courses of a meal, appeared in slightly different forms (such as *from potage to cheese*) from the 1500s on; the precise wording here dates only from the mid-1900s. The second expression alludes to the first and last letters of the Roman alphabet. The third comes from racing and alludes to the entire course of the race; it dates from the mid-1800s. The last variant is nautical, alluding to the front or *stem,* and rear or *stern,* of a vessel."
+  },
+  "person": {
+    "id": "muammar-al-gaddafi",
+    "name": "Muammar al-Gaddafi",
+    "dates": "Jun 7, 1942 - Oct 20, 2011",
+    "mainImg": "img/people/muammar-al-gaddafi.jpg",
+    "summary": [
+      "Muammar Mohammed Abu Minyar Gaddafi, commonly known as Colonel Gaddafi, was a Libyan revolutionary, politician and political theorist. He governed Libya as Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977 and then as the \"Brother Leader\" of the Great Socialist People's Libyan Arab Jamahiriya from 1977 to 2011. He was initially ideologically committed to Arab nationalism and Arab socialism but later ruled according to his own Third International Theory.",
+      "Born near Sirte, Italian Libya, to a poor Bedouin family, Gaddafi became an Arab nationalist while at school in Sabha, later enrolling in the Royal Military Academy, Benghazi. Within the military, he founded a revolutionary group which deposed the Western-backed Senussi monarchy of Idris in a 1969 coup. Having taken power, Gaddafi converted Libya into a republic governed by his Revolutionary Command Council. Ruling by decree, he deported Libya's Italian population and ejected its Western military bases. Strengthening ties to Arab nationalist governments—particularly Gamal Abdel Nasser's Egypt—he unsuccessfully advocated pan-Arab political union."
+    ],
+    "quote": "“We are telling the American people to have patience, courage, resolve and determination.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+    "urlGoogle": "https://artsandculture.google.com/entity/muammar-al-gaddafi/m0dxvs"
+  },
+  "place": {
+    "id": "iași",
+    "name": "Iași",
+    "mainImg": "img/places/iași.jpg",
+    "summary": [
+      "Iași, also referred to as Jassy, is the second largest city in Romania, and the seat of Iași County. Located in the historical region of Moldavia, Iași has traditionally been one of the leading centres of Romanian social, cultural, academic and artistic life. The city was the capital of the Principality of Moldavia from 1564 to 1859, then of the United Principalities from 1859 to 1862, and the capital of Romania from 1916 to 1918.",
+      "Known as The Cultural Capital of Romania, Iași is a symbol in Romanian history. The historian Nicolae Iorga said \"There should be no Romanian who does not know of it\". Still referred to as The Moldavian Capital, Iași is the main economic and business centre of the Moldavian region of Romania. In December 2018, Iași was officially declared Historical capital of Romania.",
+      "At the 2011 census, the city proper had a population of 290,422. With 500,668 residents, the Iași urban area is the second most populous in Romania, whereas more than 500,000 people live within its peri-urban area."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ia%C8%99i",
+    "urlGoogle": "https://artsandculture.google.com/entity/iași/m01fhg3"
+  },
+  "quote": {
+    "id": "21",
+    "quote": "Unless you try to do something beyond what you have already mastered, you will never grow.",
+    "author": "Ralph Waldo Emerson"
+  },
+  "wiki": {
+    "id": "rwanda",
+    "name": "Rwanda",
+    "summary": "Rwanda is a country in central and eastern Africa located a few degrees south of the Equator, bordered by Uganda, Tanzania, Burundi and the Democratic Republic of the Congo. All of Rwanda is at high elevation, with a geography dominated by mountains in the west, savanna in the east, and numerous lakes throughout the country. The climate is temperate. The predominantly rural population of 11.7 million people forms three main groups: the Hutu, Tutsi, and Twa. After Rwanda was first settled by hunter-gatherers in the Stone and Iron Ages, the population coalesced into clans and then into a Tutsi-led kingdom. It was colonised by Europeans in the 19th century and gained independence from Belgium on 1 July 1962 after a Hutu revolt led to massacres of Tutsis and the establishment of a Hutu-dominated republic. In 1990 the Tutsi-led Rwandan Patriotic Front (RPF) launched a civil war, which was followed by the 1994 Rwandan Genocide, in which Hutu extremists killed an estimated 500,000 to 1 million Tutsi and moderate Hutu but were ultimately defeated by the RPF. The economy suffered during the genocide, but has since strengthened and depends heavily on subsistence agriculture.",
+    "url": "https://en.wikipedia.org/wiki/Rwanda"
+  },
+  "word": {
+    "id": "agog",
+    "word": "agog",
+    "url": "https://www.merriam-webster.com/dictionary/agog",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-GAHG",
+    "audioPath": "audio/words/agog.mp3",
+    "definitions": ["full of intense interest or excitement : eager"],
+    "examples": [
+      "Everyone was _agog_ over the rumor that a famous actress would be coming to town to shoot her next movie.",
+      "\"Throughout the hotel dolphins cavort in the details, a popular motif in the mansions of Newport, leaving anyone who appreciates interior design _agog_.\" - From an article by Kathleen Pierce in _The Boston Globe_, April 8, 2012"
+    ],
+    "origin": "English speakers have been clamoring over the word \"agog\" for over 450 years; it derives from the Middle French phrase \"en gogues,\" meaning \"in a state of mirth.\" The \"-gog\" part of the word might make one wonder if \"agog\" has a connection to the verb \"goggle,\" meaning \"to stare with wide or protuberant eyes,\" as in the manner of one who is intensely excited about something. That word actually has a different origin: the Middle English \"gogelen,\" meaning \"to squint.\" In many instances, \"agog\" is followed by a preposition, such as \"over\" or \"about.\""
+  }
+}

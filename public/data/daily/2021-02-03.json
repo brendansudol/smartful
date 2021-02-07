@@ -1,0 +1,143 @@
+{
+  "artist": {
+    "id": "john-flaxman",
+    "name": "John Flaxman",
+    "dates": "Jul 6, 1755 - Dec 7, 1826",
+    "mainImg": "img/art/artists/john-flaxman.jpg",
+    "artworkImgs": [
+      {
+        "name": "Apollo Preceding Hector with His Aegis, and Dispersing the Greeks, Fuseli's Lectures",
+        "path": "img/art/artworks/john-flaxman-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/apollo-preceding-hector-with-his-aegis-and-dispersing-the-greeks-fuseli-s-lectures-john-flaxman-1755–1826-british/tgHk_QsRtBybfA"
+      },
+      {
+        "name": "To Phoebus at His Birth, From Aeschylus, Furies",
+        "path": "img/art/artworks/john-flaxman-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/to-phoebus-at-his-birth-from-aeschylus-furies-john-flaxman-1755–1826-british/CgFc_BRQftXafw"
+      },
+      {
+        "name": "Dancing Hours' Salt",
+        "path": "img/art/artworks/john-flaxman-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/dancing-hours-salt-wedgwood-josiah-wedgwood-sons-ltd-emil-weddige-john-flaxman/pgFLqYIbipaQpw"
+      },
+      {
+        "name": "The Morn, All Beauteous to Behold, from Aeschylus, The Persians",
+        "path": "img/art/artworks/john-flaxman-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-morn-all-beauteous-to-behold-from-aeschylus-the-persians-after-john-flaxman-1755–1826-british/OwGlgvGRlBIehw"
+      },
+      {
+        "name": "Illustration to Milton's Paradise Lost: Adam and Eve Guarded by the Angels",
+        "path": "img/art/artworks/john-flaxman-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/illustration-to-milton-s-paradise-lost-adam-and-eve-guarded-by-the-angels-john-flaxman-1755–1826-british/swHSAV--2DKgfA"
+      },
+      {
+        "name": "Coffee Pot on Stand",
+        "path": "img/art/artworks/john-flaxman-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/coffee-pot-on-stand-john-bridge-rundell-bridge-rundell/YAFeNg4cKiK_dQ"
+      }
+    ],
+    "summary": [
+      "John Flaxman RA was a British sculptor and draughtsman, and a leading figure in British and European Neoclassicism. Early in his career he worked as a modeller for Josiah Wedgwood's pottery. He spent several years in Rome, where he produced his first book illustrations. He was a prolific maker of funerary monuments."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism", "Classicism"],
+    "mediums": ["Graphite", "Ink", "Laid paper", "Watercolor painting", "Rock", "Stoneware"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Flaxman",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-flaxman/m01gh24"
+  },
+  "event": {
+    "id": "sts-51-l",
+    "name": "STS-51-L",
+    "dates": null,
+    "mainImg": "img/events/sts-51-l.jpg",
+    "summary": [
+      "STS-51-L was the disastrous 25th mission of the United States Space Shuttle program, the program to carry out routine transportation for Earth-to-orbit crew and cargo; as well as the final flight of Space Shuttle Challenger.",
+      "Planned as the first Teacher in Space Project in addition to observing Halley's Comet for six days, the mission never achieved orbit; a structural failure during its ascent phase 73 seconds after launch from Kennedy Space Center Launch Complex 39B on January 28, 1986, killed all seven crew members — Commander Dick Scobee, Pilot Michael J. Smith, Mission Specialists Ellison S. Onizuka, Judith A. Resnik and Ronald E. McNair, and Payload Specialists Gregory Jarvis and Christa McAuliffe — and destroyed the orbiter.",
+      "Immediately after the disaster, NASA convened the Rogers Commission to determine the cause of the explosion. The failure of an O-ring seal on the starboard Solid Rocket Booster was determined to have caused the shuttle to break-up in flight. Space Shuttle flights were suspended for 32 months while the hazards with the shuttle were addressed. The Space Shuttle program resumed with STS-26, launched 32 months after the accident."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/STS-51-L",
+    "urlGoogle": "https://artsandculture.google.com/entity/sts-51-l/m099xs2"
+  },
+  "funFacts": [
+    { "id": "132", "fact": "A crocodile cannot move its tongue.", "category": ["Animals"] },
+    {
+      "id": "403",
+      "fact": "The largest hailstone ever recorded in the U.S. was 17.5 inches around.",
+      "category": ["Science"]
+    },
+    {
+      "id": "321",
+      "fact": "The word \"purple\" does not rhyme with any other word in the English language.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553436",
+      "fact": "When Hattie McDaniel became the first African American to win an Oscar in 1940, she had to make her way to the stage from a segregated table at the back of the room."
+    },
+    {
+      "id": "553512",
+      "fact": "Weird Al Yankovic wrote his parody song “The Saga Begins” before Star Wars: Episode I was released. LucasFilm denied his request to see it early, so he relied on internet spoilers for plot details."
+    },
+    { "id": "554060", "fact": "Maine is the \u0003U.S. state closest to Africa." }
+  ],
+  "idiom": {
+    "id": "a-feather-in-ones-cap",
+    "term": "a feather in one's cap",
+    "definition": "An act or deed to one's credit; a distinctive achievement. For example, *Getting all three factions to the bargaining table would be a feather in his cap.* This expression alludes to the practice of putting a feather on a soldier's cap for every enemy he kills, an early practice of some Native American tribes and many other peoples. [Early 1600s]"
+  },
+  "person": {
+    "id": "james-k-polk",
+    "name": "James K. Polk",
+    "dates": "Nov 2, 1795 - Jun 15, 1849",
+    "mainImg": "img/people/james-k-polk.jpg",
+    "summary": [
+      "James Knox Polk was the 11th president of the United States, serving from 1845 to 1849. He previously was Speaker of the House of Representatives and governor of Tennessee. A protégé of Andrew Jackson, he was a member of the Democratic Party and an advocate of Jacksonian democracy. Polk is chiefly known for extending the territory of the United States during the Mexican–American War; during his presidency, the United States expanded significantly with the annexation of the Republic of Texas, the Oregon Territory, and the Mexican Cession following the American victory in the Mexican–American War.",
+      "After building a successful law practice in Tennessee, Polk was elected to the state legislature and then to the United States House of Representatives in 1825, becoming a strong supporter of Andrew Jackson. After serving as chairman of the Ways and Means Committee, he became Speaker in 1835, the only president to have been Speaker. Polk left Congress to run for governor of Tennessee; he won in 1839, but lost in 1841 and 1843."
+    ],
+    "quote": "“No president who performs his duties faithfully and conscientiously can have any leisure.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/James_K._Polk",
+    "urlGoogle": "https://artsandculture.google.com/entity/james-k-polk/m042f1"
+  },
+  "place": {
+    "id": "pasig",
+    "name": "Pasig",
+    "mainImg": "img/places/pasig.jpg",
+    "summary": [
+      "Pasig, officially the City of Pasig, or simply known as Pasig City, is a 1st class highly urbanized city in Metropolitan Manila, Philippines. According to the 2015 census, it has a population of 755,300 people.",
+      "Located along the eastern border of Metro Manila, Pasig is bordered on the west by Quezon City and Mandaluyong; to the north by Marikina; to the south by Makati, the municipality of Pateros, and Taguig; and to the east by the municipalities of Cainta and Taytay in the province of Rizal.",
+      "The city shares its name with the Pasig River which runs through it and forms its southwestern and southeastern borders with Makati and Taguig respectively, while the Marikina River forms its western border with Quezon City. The artificial Manggahan Floodway, built in 1986, begins at its confluence with the Marikina River in its northeast.",
+      "A formerly rural settlement, Pasig is primarily residential and industrial, but has been becoming increasingly commercial in recent years, particularly after the construction of the Ortigas Center business district in its west."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pasig",
+    "urlGoogle": "https://artsandculture.google.com/entity/pasig/m01_9dh"
+  },
+  "quote": {
+    "id": "41",
+    "quote": "I don't think much of a man who is not wiser today than he was yesterday.",
+    "author": "Abraham Lincoln"
+  },
+  "wiki": {
+    "id": "baltimore-steam-packet-company",
+    "name": "Baltimore Steam Packet Company",
+    "summary": "The Baltimore Steam Packet Company was an American steamship line from 1840 to 1962, providing overnight steamboat service on the Chesapeake Bay, primarily between Baltimore, Maryland, and Norfolk, Virginia. Called a \"packet\" for the mail packets carried on government mail contracts, the term in the 19th century came to mean a steamer line operating on a regular, fixed daily schedule between two or more cities. By the time the venerable packet line ceased operation in 1962 after 122 years of existence, it was the last surviving overnight steamship passenger service in the United States. In addition to regularly calling on Baltimore and Norfolk, the Baltimore Steam Packet Company also provided freight, passenger and vehicle transport to Washington, D.C., Old Point Comfort, and Richmond, Virginia, at various times during its history.",
+    "url": "https://en.wikipedia.org/wiki/Baltimore_Steam_Packet_Company"
+  },
+  "word": {
+    "id": "conurbation",
+    "word": "conurbation",
+    "url": "https://www.merriam-webster.com/dictionary/conurbation",
+    "partOfSpeech": "noun",
+    "pronunciation": "kah-ner-BAY-shun",
+    "audioPath": "audio/words/conurbation.mp3",
+    "definitions": ["an aggregation or continuous network of urban communities"],
+    "examples": [
+      "The _conurbation_ is served by a sophisticated system of trains and subways.",
+      "\"He also questioned whether China needs more cities when most migration has been to the 70 biggest _conurbations_.\" - From an article in the _Pittsburgh Post-Gazette_, August 18, 2013"
+    ],
+    "origin": "When Sir Patrick Geddes, a Scottish biologist turned sociologist, sat down in 1915 to write Cities in Evolution, a work on urban planning, he needed a word. How should he refer to thickly populated regions consisting of a sprawling range of cities clustered together? \"Some name, then, for these city-regions, these town aggregates, is wanted…. What of 'conurbations'?\" he asked rhetorically early on in his work. For his coinage, Geddes combined \"urbs\" (the Latin word for \"city,\" already familiar in \"urban\" and \"suburb\") with the Latin prefix \"con-\" (\"together\") and the English noun suffix \"-ation.\" It turned out that his word suited English speakers just fine-we've been using it ever since."
+  }
+}

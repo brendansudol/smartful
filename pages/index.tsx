@@ -40,9 +40,9 @@ export default function Home({ data, dateISO }: IProps) {
 }
 
 export const getServerSideProps: GetServerSideProps = async (_context) => {
-  const data = getData();
   const today = startOfToday();
   const dateISO = formatDate(today);
+  const data = getData(dateISO);
 
   return {
     props: {

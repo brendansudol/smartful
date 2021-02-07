@@ -1,0 +1,149 @@
+{
+  "artist": {
+    "id": "maurice-utrillo",
+    "name": "Maurice Utrillo",
+    "dates": "Dec 26, 1883 - Nov 5, 1955",
+    "mainImg": "img/art/artists/maurice-utrillo.jpg",
+    "artworkImgs": [
+      {
+        "name": "\"Lady in Black\" afternoon ensemble",
+        "path": "img/art/artworks/maurice-utrillo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/lady-in-black-afternoon-ensemble-maurice-rentner/YwEPWNc0Uk5X2A"
+      },
+      {
+        "name": "Norvins Street [Rue Norvins]",
+        "path": "img/art/artworks/maurice-utrillo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/norvins-street-rue-norvins-maurice-utrillo/BwFsr7ghf05zHg"
+      },
+      {
+        "name": "Road to Puteaux",
+        "path": "img/art/artworks/maurice-utrillo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/road-to-puteaux-maurice-utrillo/fwFaDJPodvf--g"
+      },
+      {
+        "name": "The Lapin Agile [Le Lapin Agile]",
+        "path": "img/art/artworks/maurice-utrillo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-lapin-agile-le-lapin-agile-maurice-utrillo/oAHfnnH_sXOjIQ"
+      },
+      {
+        "name": "Moulin de la Galette",
+        "path": "img/art/artworks/maurice-utrillo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/moulin-de-la-galette-maurice-utrillo/8QGve_sEX87d-w"
+      },
+      {
+        "name": "Rue du Mont-Cénis",
+        "path": "img/art/artworks/maurice-utrillo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/rue-du-mont-cénis/jwHGbxcxb6uAhQ"
+      }
+    ],
+    "summary": [
+      "Maurice Utrillo, born Maurice Valadon, was a French painter who specialized in cityscapes. Born in the Montmartre quarter of Paris, France, Utrillo is one of the few famous painters of Montmartre who were born there."
+    ],
+    "quote": null,
+    "movements": ["School of Paris"],
+    "mediums": ["Oil paint", "Velvet", "Rayon", "Ribbon", "Cardboard", "Leather"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Maurice_Utrillo",
+    "urlGoogle": "https://artsandculture.google.com/entity/maurice-utrillo/m0h8bh"
+  },
+  "event": {
+    "id": "guadalcanal-campaign",
+    "name": "Guadalcanal campaign",
+    "dates": "Aug 7, 1942 - Feb 9, 1943",
+    "mainImg": "img/events/guadalcanal-campaign.jpg",
+    "summary": [
+      "The Guadalcanal campaign, also known as the Battle of Guadalcanal and codenamed Operation Watchtower by American forces, was a military campaign fought between 7 August 1942 and 9 February 1943 on and around the island of Guadalcanal in the Pacific theater of World War II. It was the first major land offensive by Allied forces against the Empire of Japan.",
+      "On 7 August 1942, Allied forces, predominantly United States Marines, landed on Guadalcanal, Tulagi, and Florida in the southern Solomon Islands, with the objective of using Guadalcanal and Tulagi as bases in supporting a campaign to eventually capture or neutralize the major Japanese base at Rabaul on New Britain. The Japanese defenders, who had occupied those islands since May 1942, were outnumbered and overwhelmed by the Allies, who captured Tulagi and Florida, as well as the airfield – later named Henderson Field – that was under construction on Guadalcanal.",
+      "Surprised by the Allied offensive, the Japanese made several attempts between August and November to retake Henderson Field."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
+    "urlGoogle": "https://artsandculture.google.com/entity/guadalcanal-campaign/m0gbks"
+  },
+  "funFacts": [
+    {
+      "id": "331",
+      "fact": "The area code in Cape Canaveral, Fl, is 321.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "197",
+      "fact": "The first person crossed Niagara Falls by tightrope in 1859.",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "873",
+      "fact": "President William McKinley had a pet parrot that he named \"Washington Post.\"",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553688",
+      "fact": "The Mobile Phone Throwing World Championships are held in Finland.  A recent winner said he prepared for the event by “mainly drinking.”"
+    },
+    {
+      "id": "554067",
+      "fact": "In the early 20th century, the area now known as Glass Beach in California was used as a trash dump. Decades of ocean tides have cleared the beach and polished the discarded bottles and automobile tail lights into colorful pebbles of sea glass."
+    },
+    {
+      "id": "553864",
+      "fact": "Stuck inside on a rainy day in 1816, writers Mary Shelley, Percy Shelley, Lord Byron, and John Polidori challenged each other to a scary story writing contest. Mary came up with the idea for Frankenstein and published it two years later at age 20."
+    }
+  ],
+  "idiom": {
+    "id": "idiot-box",
+    "term": "idiot box",
+    "definition": "A television set, as in *There they sit in front of the idiot box, hour after hour.* This slangy and pejorative expression dates from about 1960."
+  },
+  "person": {
+    "id": "ivan-bagramyan",
+    "name": "Ivan Bagramyan",
+    "dates": "Dec 2, 1897 - Sep 21, 1982",
+    "mainImg": "img/people/ivan-bagramyan.jpg",
+    "summary": [
+      "Ivan Khristoforovich Bagramyan, also known as Hovhannes Khachaturi Baghramyan, was a Soviet military commander and Marshal of the Soviet Union of Armenian origin. During World War II, Bagramyan was the second non-Slavic military officer, after Latvian Max Reyter, to become a commander of a Front. He was among several Armenians in the Soviet Army who held the highest proportion of high-ranking officers in the Soviet military during the war.",
+      "Bagramyan's experience in military planning as a chief of staff allowed him to distinguish himself as a capable commander in the early stages of the Soviet counter-offensives against Nazi Germany. He was given his first command of a unit in 1942, and in November 1943 received his most prestigious command as the commander of the 1st Baltic Front. As commander of the Baltic Front, he participated in the offensives which pushed German forces out of the Baltic republics.",
+      "He did not immediately join the Communist Party after the consolidation of the October Revolution, becoming a member only in 1941, a move atypical for a Soviet military officer."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ivan_Bagramyan",
+    "urlGoogle": "https://artsandculture.google.com/entity/ivan-bagramyan/m0957z2"
+  },
+  "place": {
+    "id": "suwon-si",
+    "name": "Suwon-si",
+    "mainImg": "img/places/suwon-si.jpg",
+    "summary": [
+      "Suwon is the capital and largest metropolis of Gyeonggi-do, South Korea's most populous province which surrounds Seoul, the national capital. Suwon lies about 30 km south of Seoul. It is traditionally known as \"The City of Filial Piety\". With a population close to 1.2 million, it is larger than Ulsan, although it is not governed as a metropolitan city.",
+      "Suwon has existed in various forms throughout Korea's history, growing from a small settlement to become a major industrial and cultural center. It is the only remaining completely walled city in South Korea. The city walls are one of the more popular tourist destinations in Gyeonggi Province. Samsung Electronics R&D center and headquarters are in Suwon. The city is served by two motorways, the national railway network, and the Seoul Metropolitan Subway. Suwon is a major educational center, home to 11 universities.",
+      "Suwon is home to football club Suwon Samsung Bluewings, which have won the K League on four occasions and AFC Champions League twice. The KT Wiz of the Korea Baseball Organization also play in Suwon."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Suwon",
+    "urlGoogle": "https://artsandculture.google.com/entity/suwon-si/m02j2b1"
+  },
+  "quote": {
+    "id": "5",
+    "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+    "author": "Mark Twain"
+  },
+  "wiki": {
+    "id": "albert-einstein",
+    "name": "Albert Einstein",
+    "summary": "Albert Einstein was a theoretical physicist who is widely regarded as the greatest scientist of the 20th century. He proposed the theory of relativity and also made major contributions to the development of quantum mechanics, statistical mechanics, and cosmology. He was awarded the 1921 Nobel Prize for Physics for his explanation of the photoelectric effect and \"for his services to Theoretical Physics.\" After his general theory of relativity was formulated, Einstein became world-famous, an unusual achievement for a scientist. In his later years, his fame exceeded that of any other scientist in history, and in popular culture, Einstein has become a byword for great intelligence or even genius. His is also one of the world's most recognizable faces.",
+    "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+  },
+  "word": {
+    "id": "florilegium",
+    "word": "florilegium",
+    "url": "https://www.merriam-webster.com/dictionary/florilegium",
+    "partOfSpeech": "noun",
+    "pronunciation": "flor-uh-LEE-jee-um",
+    "audioPath": "audio/words/florilegium.mp3",
+    "definitions": ["a volume of writings : anthology"],
+    "examples": [
+      "This florilegium of British poetry up to 1760 includes the classics that we have all come to love along with a few relatively unknown gems that are sure to delight and inspire."
+    ],
+    "origin": "Editors who compile florilegia (to use the plural form of today's word) can be thought of as gathering a bouquet of sweet literary blossoms. English speakers picked up \"florilegium\" from a New Latin word that derives from Latin \"florilegus,\" which can be translated as \"culling flowers.\" In fact, \"florilegium\" initially applied to a collection of flowers, and later to books about flowers, but it wasn't long before the word began to be used for (as the Oxford English Dictionary puts it) \"a collection of the flowers of literature.\" And \"florilegium\" isn't the only English collecting term with a floral heritage; its synonym \"anthology\" comes from the Greek word for \"flower gathering.\""
+  }
+}

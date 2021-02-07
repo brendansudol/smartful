@@ -1,0 +1,151 @@
+{
+  "artist": {
+    "id": "giorgio-morandi",
+    "name": "Giorgio Morandi",
+    "dates": "Jul 20, 1890 - Jun 18, 1964",
+    "mainImg": "img/art/artists/giorgio-morandi.jpg",
+    "artworkImgs": [
+      {
+        "name": "Natura morta (con scatola)",
+        "path": "img/art/artworks/giorgio-morandi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/natura-morta-con-scatola-giorgio-morandi/TQHMWfAEi5IXCw"
+      },
+      {
+        "name": "Still life (vases and bottles)",
+        "path": "img/art/artworks/giorgio-morandi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-vases-and-bottles-giorgio-morandi/6QE9mt70cROzbw"
+      },
+      {
+        "name": "Paese",
+        "path": "img/art/artworks/giorgio-morandi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/paese-giorgio-morandi/PQFhjeO_5QbkEA"
+      },
+      {
+        "name": "Autoritratto",
+        "path": "img/art/artworks/giorgio-morandi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/autoritratto-giorgio-morandi/6QEHMXREbDlVsw"
+      },
+      {
+        "name": "Still Life",
+        "path": "img/art/artworks/giorgio-morandi-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-giorgio-morandi/5AFSUS27aKgZ9w"
+      },
+      {
+        "name": "Natura morta",
+        "path": "img/art/artworks/giorgio-morandi-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/natura-morta-giorgio-morandi/CgHn1UExbC3Sew"
+      }
+    ],
+    "summary": [
+      "Giorgio Morandi was an Italian painter and printmaker who specialized in still life. His paintings are noted for their tonal subtlety in depicting apparently simple subjects, which were limited mainly to vases, bottles, bowls, flowers and landscapes."
+    ],
+    "quote": "“One can travel this world and see nothing. To achieve understanding it is necessary not to see many things, but to look hard at what you do see.”",
+    "movements": ["Modern art", "Futurism", "Metaphysical art"],
+    "mediums": ["Oil paint", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giorgio_Morandi",
+    "urlGoogle": "https://artsandculture.google.com/entity/giorgio-morandi/m04rywx"
+  },
+  "event": {
+    "id": "sts-95",
+    "name": "STS-95",
+    "dates": "Oct 29, 1998 - Nov 7, 1998",
+    "mainImg": "img/events/sts-95.jpg",
+    "summary": [
+      "STS-95 was a Space Shuttle mission launched from Kennedy Space Center, Florida on 29 October 1998, using the orbiter Discovery. It was the 25th flight of Discovery and the 92nd mission flown since the start of the Space Shuttle program in April 1981. It was a highly publicized mission due to former Project Mercury astronaut and United States Senator John H. Glenn Jr.'s return to space for his second space flight. At age 77, Glenn became the oldest person, to date, to go into space. This mission is also noted for inaugurating ATSC HDTV broadcasting in the U.S., with live coast-to-coast coverage of the launch. In another first, Pedro Duque became the first Spaniard in space.",
+      "The mission's objectives involved investigating life-sciences experiments, using the SpaceHab module to perform these experiments on Senator Glenn. Scientific objectives on this mission were not limited to furthering an understanding of the human body, but also to increase astronomical understanding with regards to the Sun, and how it affects life on Earth."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/STS-95",
+    "urlGoogle": "https://artsandculture.google.com/entity/sts-95/m02pt8p"
+  },
+  "funFacts": [
+    {
+      "id": "392",
+      "fact": "Three out of every six Americans live within fifty miles of where they were born.",
+      "category": ["Geography", "Habits"]
+    },
+    {
+      "id": "982",
+      "fact": "Cows do not have upper front teeth.",
+      "category": ["Animals", "Science"]
+    },
+    {
+      "id": "705",
+      "fact": "Every ton of recycled paper saves about 17 trees.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553404",
+      "fact": "Blood donors in Sweden receive a thank you text when their blood is used."
+    },
+    {
+      "id": "553700",
+      "fact": "When asked if Abe had any hobbies, Mary Todd Lincoln said, “Cats.”"
+    },
+    {
+      "id": "504591",
+      "fact": "The term “lawn mullet” means having a neatly manicured front yard and an unmowed mess in the back."
+    }
+  ],
+  "idiom": {
+    "id": "have-ants-in-ones-pants",
+    "term": "have ants in one's pants",
+    "definition": "**1\\.** Be extremely restless, uneasy, impatient, or anxious, as in *This child just can't sit still; she must have ants in her pants.* This rhyming idiom calls up a vivid image of what might cause one to be jumpy. [Slang; 1920s] **2\\.** Be eager for sexual activity, as in *Bill's got ants in his pants for Rita.* This usage is less common today. [Slang; 1920s]"
+  },
+  "person": {
+    "id": "jawaharlal-nehru",
+    "name": "Jawaharlal Nehru",
+    "dates": "Nov 14, 1889 - May 27, 1964",
+    "mainImg": "img/people/jawaharlal-nehru.jpg",
+    "summary": [
+      "Jawaharlal Nehru was an Indian independence activist, and subsequently, the first Prime Minister of India and a central figure in Indian politics before and after independence. He emerged as an eminent leader of the Indian independence movement and served India as Prime Minister from its establishment as an independent nation in 1947 until his death in 1964. He was also known as Pandit Nehru due to his roots with the Kashmiri Pandit community while Indian children knew him as Chacha Nehru.",
+      "The son of Motilal Nehru, a prominent lawyer and nationalist statesman and Swaroop Rani, Nehru was a graduate of Trinity College, Cambridge and the Inner Temple, where he trained to be a barrister. Upon his return to India, he enrolled at the Allahabad High Court and took an interest in national politics, which eventually replaced his legal practice. A committed nationalist since his teenage years, he became a rising figure in Indian politics during the upheavals of the 1910s. He became the prominent leader of the left-wing factions of the Indian National Congress during the 1920s, and eventually of the entire Congress, with the tacit approval of his mentor, Gandhi."
+    ],
+    "quote": "“Culture is the widening of the mind and of the spirit.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+    "urlGoogle": "https://artsandculture.google.com/entity/jawaharlal-nehru/m044js"
+  },
+  "place": {
+    "id": "tyler",
+    "name": "Tyler",
+    "mainImg": "img/places/tyler.jpg",
+    "summary": [
+      "Tyler is a city in the U.S. state of Texas and the largest city and county seat of Smith County. It is also the largest city in Northeast Texas and second largest city of the Ark-La-Tex. With a 2019 census-estimated population of 106,985, Tyler was the thirty-eighth most populous city in Texas and 292nd in the United States. It is the principal city of the Tyler metropolitan statistical area, which is the 199th most populous metropolitan area in the U.S. and 16th in Texas after Waco and the College Station–Bryan areas, with a population of 230,221 in 2018.",
+      "The city is named for John Tyler, the tenth President of the United States. In 1985, the international Adopt-a-Highway movement originated in Tyler. After appeals by local Texas Department of Transportation officials, the local Civitan International chapter adopted a two-mile stretch of U.S. Route 69 to maintain. Drivers and other motorists traveling on this segment of U.S. 69 will notice brown road signs that read, \"First Adopt-A-Highway in the World\".",
+      "Tyler is known as the \"Rose Capital of America\", a nickname it earned from a long history of rose production, cultivation, and processing."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Tyler,_Texas",
+    "urlGoogle": "https://artsandculture.google.com/entity/tyler/m0108xl"
+  },
+  "quote": {
+    "id": "61",
+    "quote": "The most wasted of days is one without laughter.",
+    "author": "E.E. Cummings"
+  },
+  "wiki": {
+    "id": "harold-larwood",
+    "name": "Harold Larwood",
+    "summary": "Harold Larwood (1904–1995) was a professional cricketer for Nottinghamshire and England between 1924 and 1938. A right-arm fast bowler, he was considered by many commentators to be the finest bowler of his generation. He was the main exponent of the bowling style known as \"bodyline\", developed under the guidance of England's combative captain Douglas Jardine as a response to the domination of Australia's leading batsman, Don Bradman. The tactic was used with considerable success in the 1932–33 Test series, but the Australians' description of the method as \"unsportsmanlike\" soured cricketing relations between the two countries. Larwood refused to apologise for his bowling, as he was carrying out his captain's instructions, and never played for England again. In retirement after the Second World War, he and his family emigrated to Australia, where he was warmly welcomed, in contrast to his cricketing days. He paid several subsequent visits to England, and was honoured at his old county ground, Trent Bridge, where a stand was named after him. In 1993 he was appointed a Member of the Order of the British Empire (MBE), in delayed recognition of his services to cricket.",
+    "url": "https://en.wikipedia.org/wiki/Harold_Larwood"
+  },
+  "word": {
+    "id": "sylph",
+    "word": "sylph",
+    "url": "https://www.merriam-webster.com/dictionary/sylph",
+    "partOfSpeech": "noun",
+    "pronunciation": "SILF",
+    "audioPath": "audio/words/sylph.mp3",
+    "definitions": [
+      "an elemental being in the theory of Paracelsus that inhabits air",
+      "a slender graceful woman or girl"
+    ],
+    "examples": [
+      "The dancer was a lovely, elegant _sylph_ upon the stage.",
+      "\"By the time \\[Whitney Houston's\\] first album came out, in 1985, she'd been given a thorough makeover: the cover photo showed a sleek-haired, golden-skinned _sylph_ wearing an elegantly-draped white gown.\" -- From an article by Caroline Sullivan in _Guardian Unlimited_, February 12, 2012"
+    ],
+    "origin": "Paracelsus was a man with a vivid imagination. He concocted an elaborate theory of ruling \"elemental spirits\": gnomes controlled the earth, salamanders fire, undines water, and sylphs (graceful beings whose name in English is from New Latin \"sylphus\") the air. You would hardly believe this 16th-century German-Swiss physician had his feet on the ground, but those fantastic ideas were balanced with an impressive array of solid medical discoveries. In fact, many of his scientific contributions are still highly respected, but his sylph idea has long since been discounted as fairy-tale fantasy. The creatures remain only as romantic figures of literature, art, and ballet, where diaphanous woodland sylphs are often depicted enchanting unwary males."
+  }
+}

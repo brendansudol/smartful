@@ -1,18 +1,17 @@
 export interface IWord {
   id: string;
-  date: string;
   word: string;
   url: string;
   partOfSpeech: string;
   pronunciation: string;
   audioPath: string;
-  didYouKnow: string;
-  definitionShort: string;
   definitions: string[];
   examples: string[];
+  origin: string;
 }
 
 export interface IIdiom {
+  id: string;
   term: string;
   definition: string;
 }
@@ -24,22 +23,22 @@ export interface IFunFact {
 }
 
 export interface IQuote {
+  id: string;
   quote: string;
   author: string;
 }
 
 export interface IWiki {
-  date: string;
-  url: string;
+  id: string;
   name: string;
   summary: string;
+  url: string;
 }
 
 export interface IPerson {
   id: string;
   name: string;
   dates: string | null;
-  itemCount: number;
   mainImg: string;
   summary: string[];
   quote: string | null;

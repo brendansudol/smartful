@@ -1,0 +1,142 @@
+{
+  "artist": {
+    "id": "hans-erni",
+    "name": "Hans Erni",
+    "dates": "Feb 21, 1909 - Mar 21, 2015",
+    "mainImg": "img/art/artists/hans-erni.jpg",
+    "artworkImgs": [
+      {
+        "name": "Olympic series, fencing",
+        "path": "img/art/artworks/hans-erni-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/olympic-series-fencing/7gF879WEE7LhDQ"
+      },
+      {
+        "name": "Olympic series, sailing",
+        "path": "img/art/artworks/hans-erni-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/olympic-series-sailing/zQGs8KIpO7C_vA"
+      },
+      {
+        "name": "Olympic series, tennis",
+        "path": "img/art/artworks/hans-erni-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/olympic-series-tennis/igHbo4zSf3a3vA"
+      },
+      {
+        "name": "Olympic series, basketball",
+        "path": "img/art/artworks/hans-erni-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/olympic-series-basketball/oQGN6RseyCNX-A"
+      },
+      {
+        "name": "Olympic series, ice-skating",
+        "path": "img/art/artworks/hans-erni-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/olympic-series-ice-skating/mQEG2e7oF0fPOQ"
+      },
+      {
+        "name": "Olympic series, bobsleigh",
+        "path": "img/art/artworks/hans-erni-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/olympic-series-bobsleigh/MAEDvtQYMZvfRw"
+      }
+    ],
+    "summary": [
+      "Hans Erni was a Swiss graphic designer, painter, illustrator, engraver and sculptor.",
+      "Born in Lucerne, the third of eight siblings, to a cabin cruiser engineer, he studied art at the Académie Julian in Paris and later in Berlin, and admired artists such as Pablo Picasso and Georges Braque.",
+      "He is known for having illustrated postage stamps, his lithographs for the Swiss Red Cross, his participation on the Olympic Committee as well as his activism. His 1939 works and first major public success was a mural titled Switzerland: \"Vacation Land of the People\" was commissioned and displayed for the national exhibition in Zürich.",
+      "The Hans Erni Museum, situated in the grounds of the Swiss Museum of Transport in Lucerne, contains a large collection of artwork, he also designed ceramics and theatre costumes and sets. He did the art for Swiss bank notes, in the 1940s but, after the notes were already printed they were never published, because a member of the State Council of Lucerne criticized that Erni was deemed as a communist. However, Erni was never a member of any political party. In 2004, he was awarded the honorary citizenship of the city of Lucerne."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art"],
+    "mediums": ["Tempera", "Glass"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hans_Erni",
+    "urlGoogle": "https://artsandculture.google.com/entity/hans-erni/m05pjs6"
+  },
+  "event": {
+    "id": "first-italian-war-of-independence",
+    "name": "First Italian War of Independence",
+    "dates": "Mar 23, 1848 - Mar 24, 1849",
+    "mainImg": "img/events/first-italian-war-of-independence.jpg",
+    "summary": [
+      "The First Italian War of Independence was part of the Italian unification or Risorgimento. It was fought by the Kingdom of Sardinia and Italian volunteers against the Austrian Empire and other conservative states from 23 March 1848 to 22 August 1849 in the Italian peninsula.",
+      "The conflict was preceded by the outbreak of the Sicilian revolution of 1848 against the House of Bourbon-Two Sicilies. It was precipitated by riots in the cities of Milan and Venice, which rebelled against Austria and established their own governments.",
+      "The part of the conflict which was fought by King Charles Albert against Austria in northern Italy was a Royal war and consisted of two campaigns. In both campaigns, the Kingdom of Sardinia attacked the Austrian Empire and after initial victories was decisively defeated, losing the war as a result. The decisive events of the first and second campaigns were the battles at Custoza and Novara, respectively.",
+      "At the beginning of the royal war, the Kingdom of Sardinia was supported by the Papal States and the Kingdom of Two Sicilies, which then withdrew, having barely participated in the fighting at all."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/First_Italian_War_of_Independence",
+    "urlGoogle": "https://artsandculture.google.com/entity/first-italian-war-of-independence/m02729gb"
+  },
+  "funFacts": [
+    {
+      "id": "431",
+      "fact": "A twit is the technical term for a pregnant goldfish.",
+      "category": ["Animals", "Definitions"]
+    },
+    {
+      "id": "328",
+      "fact": "The Statue of Liberty features 7 points in her crown- one for each of the continents.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "675",
+      "fact": "More than 180 countries celebrate Earth Day together every April 22nd.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "506383", "fact": "Queen Elizabeth II is a trained mechanic." },
+    {
+      "id": "504704",
+      "fact": "During WWII, La-Z-Boy manufactured seats for tanks, torpedo boats, gun turrets, and armored cars."
+    },
+    { "id": "504749", "fact": "A newborn giant panda is about the size of a stick of butter." }
+  ],
+  "idiom": {
+    "id": "mind-ones-ps-and-qs",
+    "term": "mind one's p's and q's",
+    "definition": "Practice good manners, be precise and careful in one's behavior and speech, as in *Their grandmother often told the children to mind their p's and q's.* The origin of this expression, first recorded in 1779, is disputed. Among the more interesting theories advanced is that bartenders kept track of customers' consumption in terms of *pints* (*p's*) and *quarts* (*q's*) and the phrase referred to an honest accounting; that school-children were taught to be careful in distinguishing the letters *p* and *q;* and that French dancing masters cautioned pupils about the correct performance of the figures *pieds* and *queues* (either abbreviated or mispronounced in English as *p's* and *q's*)."
+  },
+  "person": {
+    "id": "john-dickinson",
+    "name": "John Dickinson",
+    "dates": "November 1732 - Feb 14, 1808",
+    "mainImg": "img/people/john-dickinson.jpg",
+    "summary": [
+      "John Dickinson, a Founding Father of the United States, was a solicitor and politician from Philadelphia, Pennsylvania, and Wilmington, Delaware, known as the \"Penman of the Revolution\" for his twelve Letters from a Farmer in Pennsylvania, published individually in 1767 and 1768. As a member of the First Continental Congress, where he was a signee to the Continental Association, Dickinson drafted most of the 1774 Petition to the King, and then, as a member of the Second Continental Congress, wrote the 1775 Olive Branch Petition. When these two attempts to negotiate with King George III of Great Britain failed, Dickinson reworked Thomas Jefferson's language and wrote the final draft of the 1775 Declaration of the Causes and Necessity of Taking Up Arms. When Congress then decided to seek independence from Great Britain, Dickinson served on the committee that wrote the Model Treaty, and then wrote the first draft of the 1776–1777 Articles of Confederation and Perpetual Union.",
+      "Dickinson later served as President of the 1786 Annapolis Convention, which called for the Constitutional Convention of 1787. Dickinson attended the Convention as a delegate from Delaware."
+    ],
+    "quote": "“Then join hand in hand, brave Americans all! By uniting we stand, by dividing we fall.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Dickinson",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-dickinson/m02kxg3"
+  },
+  "place": {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "mainImg": "img/places/paraguay.jpg",
+    "summary": [
+      "Paraguay, officially the Republic of Paraguay, is a country in South America. It is bordered by Argentina to the south and southwest, Brazil to the east and northeast, and Bolivia to the northwest. Although it is one of only two landlocked countries in South America, the country has coasts, beaches and ports on the Paraguay and Paraná rivers that give exit to the Atlantic Ocean through the Paraná-Paraguay Waterway. Due to its central location in South America, it is sometimes referred to as Corazón de Sudamérica.",
+      "Spanish conquistadores arrived in 1524 after navigating northwards from the Río de la Plata to the Paraná River, and finally up the Paraguay River. In 1537, they established the city of Asunción, which was the first capital of the Governorate of Paraguay and Río de la Plata. Paraguay was the center of the Jesuit Missions, where the Guaraní people were educated and introduced to Christianity and European culture under the direction of the Society of Jesus in Jesuit reductions, mainly during the 17th century. However, after the expulsion of the Jesuits from Spanish territories in 1767, Paraguay increasingly became a peripheral colony, with few urban centers and settlers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Paraguay",
+    "urlGoogle": "https://artsandculture.google.com/entity/paraguay/m05v10"
+  },
+  "quote": { "id": "53", "quote": "Everything is hard before it is easy.", "author": "Goethe" },
+  "wiki": {
+    "id": "13-th-airborne-division-united-states",
+    "name": "13th Airborne Division (United States)",
+    "summary": "The 13th Airborne Division was a U.S. Army airborne formation in World War II. Although it was active between August 1943 and February 1946, it never saw combat. The division's training was disrupted by providing reinforcements for the 82nd and 101st Airborne Divisions and by a lack of transport aircraft for training exercises, as divisions in combat had priority for their use. The division was combat-ready by January 1945 and was transferred to France, but arrived too late to participate in Operation Market Garden, the third major airborne operation conducted by the Allies. The division was selected for Operation Varsity, supporting 21st Army Group crossing the River Rhine, but there were insufficient transport aircraft to carry it into combat. Several other operations were planned for the division, but these were cancelled because of the rapid advance of Allied ground forces. After the end of the conflict in Europe, it was shipped home before the planned invasion of Japan, but the conflict in the Far East ended before it was required. After deactivation of the division, combat personnel transferred to the 82nd Airborne Division.",
+    "url": "https://en.wikipedia.org/wiki/13th_Airborne_Division_(United_States)"
+  },
+  "word": {
+    "id": "excoriate",
+    "word": "excoriate",
+    "url": "https://www.merriam-webster.com/dictionary/excoriate",
+    "partOfSpeech": "verb",
+    "pronunciation": "ek-SKOR-ee-ayt",
+    "audioPath": "audio/words/excoriate.mp3",
+    "definitions": ["to wear off the skin of : abrade", "to censure scathingly"],
+    "examples": [
+      "\"Every blow that shakes it will serve to harden it against a future stroke; as constant labour thickens the skin of the hand, and strengthens its muscles instead of wasting them away: so that a day of arduous toil, that might _excoriate_ a lady's palm, would make no sensible impression on that of a hardy ploughman.\" - From Anne Brontë's 1847 novel _Agnes Grey_",
+      "\"One consequence of writing for a broader public was a growing disposition to write about people and places that I admired, and not just those whom it gave me pleasure to _excoriate_.\" - From Tony Judt's 2012 book _Thinking the Twentieth Century_"
+    ],
+    "origin": "\"Excoriate,\" which first appeared in English in the 15th century, comes from \"excoriatus,\" the past participle of the Late Latin verb \"excoriare,\" meaning \"to strip off the hide.\" \"Excoriare\" was itself formed from a pairing of the Latin prefix \"ex-,\" meaning \"out,\" and \"corium,\" meaning \"skin\" or \"hide\" or \"leather.\" \"Corium\" has several other descendants in English. One is \"cuirass,\" a name for a piece of armor that covers the body from neck to waist (or something, such as bony plates covering an animal, that resembles such armor). Another is \"corium\" itself, which is sometimes used as a synonym of \"dermis\" (the inner layer of human skin)."
+  }
+}

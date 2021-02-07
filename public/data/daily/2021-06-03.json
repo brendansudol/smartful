@@ -1,0 +1,143 @@
+{
+  "artist": {
+    "id": "rembrandt-peale",
+    "name": "Rembrandt Peale",
+    "dates": "Feb 22, 1778 - Oct 3, 1860",
+    "mainImg": "img/art/artists/rembrandt-peale.jpg",
+    "artworkImgs": [
+      {
+        "name": "George Washington",
+        "path": "img/art/artworks/rembrandt-peale-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/george-washington/YQFxfjbCehPD7w"
+      },
+      {
+        "name": "Michael Angelo and Emma Clara Peale",
+        "path": "img/art/artworks/rembrandt-peale-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/michael-angelo-and-emma-clara-peale-rembrandt-peale/AAG7Fw6kjVzplQ"
+      },
+      {
+        "name": "William Henry Harrison",
+        "path": "img/art/artworks/rembrandt-peale-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/william-henry-harrison-rembrandt-peale/vAFqh-TBXIL-UQ"
+      },
+      {
+        "name": "George Washington (Porthole type)",
+        "path": "img/art/artworks/rembrandt-peale-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/george-washington-porthole-type-rembrandt-peale/PwG91fqOnphciA"
+      },
+      {
+        "name": "Portrait of David Cox",
+        "path": "img/art/artworks/rembrandt-peale-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-david-cox-attributed-to-rembrandt-peale-american-1778-1860/WQGcmAFR-a5GnQ"
+      },
+      {
+        "name": "George Washington",
+        "path": "img/art/artworks/rembrandt-peale-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/george-washington-rembrandt-peale/mQHNeuM-x3rvNw"
+      }
+    ],
+    "summary": [
+      "Rembrandt Peale was an American artist and museum keeper. A prolific portrait painter, he was especially acclaimed for his likenesses of presidents George Washington and Thomas Jefferson. Peale's style was influenced by French Neoclassicism after a stay in Paris in his early thirties."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism"],
+    "mediums": ["Oil paint", "Graphite", "Pencil", "Chalk", "Crayon", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Rembrandt_Peale",
+    "urlGoogle": "https://artsandculture.google.com/entity/rembrandt-peale/m02fv9q"
+  },
+  "event": {
+    "id": "second-italo-ethiopian-war",
+    "name": "Second Italo-Ethiopian War",
+    "dates": "Oct 3, 1935 - May 1936",
+    "mainImg": "img/events/second-italo-ethiopian-war.jpg",
+    "summary": [
+      "The Second Italo-Ethiopian War, also referred to as the Second Italo-Abyssinian War, was a war of aggression which was fought between Italy and Ethiopia from October 1935 to February 1937. It is seen as an example of the expansionist policy that characterized the Axis powers and the inefficiency of the League of Nations before the outbreak of World War II.",
+      "On 3 October 1935 one hundred thousand soldiers of the Italian Army commanded by Marshal Emilio De Bono attacked from Eritrea without prior declaration of war. At the same time a minor force under General Rodolfo Graziani attacked from Italian Somalia. On 6 October, Aduwa was conquered, a symbolic place for the Italian army. On 15 October, Italian troops seized Aksum, and the obelisk adorning the city was torn from its site and sent to Rome to be placed symbolically in front of the building of the Ministry of Colonies created by the Fascist regime.",
+      "Exasperated by De Bono's slow and cautious progress, Italian Prime Minister Benito Mussolini put General Pietro Badoglio in his place."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-italo-ethiopian-war/m02h50h"
+  },
+  "funFacts": [
+    {
+      "id": "726",
+      "fact": "A polar bear cannot be seen by an infrared camera, due to its transparent fur.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "127",
+      "fact": "A hummingbird's heart beats 1,400 times a minute.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "832",
+      "fact": "Brain waves can power an electric train.",
+      "category": ["Anatomy", "Science"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "by-the-seat-of-the-pants",
+    "term": "by the seat of the pants",
+    "definition": "Using intuition and improvisation rather than method or experience, as in *He ran the business by the seat of his pants.* This expression was invented by World War II fliers, who used it to describe flying when instruments were not working or weather interfered with visibility. It was transferred to broader use soon after the war."
+  },
+  "person": {
+    "id": "carlos-lacerda",
+    "name": "Carlos Lacerda",
+    "dates": "Apr 30, 1914 - May 21, 1977",
+    "mainImg": "img/people/carlos-lacerda.jpg",
+    "summary": [
+      "Carlos Frederico Werneck de Lacerda was a Brazilian journalist and politician.",
+      "Born in Rio de Janeiro, Lacerda was the son of a family of politicians from Vassouras, Rio de Janeiro state.",
+      "When he was a law student, Lacerda became sympathetic to left-wing ideas, but by the 1940s, he had transformed into a staunch anticommunist and conservative.",
+      "He started his journalism career at Diário de Notícias in 1929. In 1949 he founded the newspaper Tribuna da Imprensa.",
+      "Starting his political career in 1947, Lacerda was elected to the legislative chamber of the city of Rio de Janeiro. In 1950, he was elected a National Democratic Union representative for the state of Rio in the Chamber of Deputies. He became well known for his uncompromising opposition of the government of President Getúlio Vargas and even demanded the overthrow of Vargas.",
+      "He survived an assassination attempt in August 1954, which became known as the crime of Rua Tonelero. It is widely believed by historians to have been made by men acting under the orders of Gregório Fortunato, O Anjo Negro, a black man, who was the head of Vargas' personal bodyguards."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Carlos_Lacerda",
+    "urlGoogle": "https://artsandculture.google.com/entity/carlos-lacerda/m03cn02"
+  },
+  "place": {
+    "id": "brunei",
+    "name": "Brunei",
+    "mainImg": "img/places/brunei.jpg",
+    "summary": [
+      "Brunei, officially the Nation of Brunei, the Abode of Peace, is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its coastline with the South China Sea, the country is completely surrounded by the insular Malaysian state of Sarawak. It is separated into two parts by the Sarawak district of Limbang. Brunei is the only sovereign state completely on the island of Borneo; the remainder of the island's territory is divided between the nations of Malaysia and Indonesia. Brunei's population was 428,963 in 2018. The government is an absolute monarchy under the Sultan which implements sharia law and directs Islamic practices.",
+      "At the peak of the Bruneian Empire, Sultan Bolkiah is alleged to have had control over most regions of Borneo, including modern-day Sarawak and Sabah, as well as the Sulu Archipelago off the northeast tip of Borneo, Seludong, and the islands off the northwest tip of Borneo. The maritime state was visited by Spain's Magellan Expedition in 1521 and fought against Spain in the 1578 Castilian War.",
+      "During the 19th century, the Bruneian Empire began to decline."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Brunei",
+    "urlGoogle": "https://artsandculture.google.com/entity/brunei/m0167v"
+  },
+  "quote": {
+    "id": "74",
+    "quote": "If not us, who? If not now, when?",
+    "author": "John F. Kennedy"
+  },
+  "wiki": {
+    "id": "cpu-cache",
+    "name": "CPU cache",
+    "summary": "A CPU cache is a cache used by the central processing unit of a computer to reduce the average time to access memory. The cache is a smaller, faster memory which stores copies of the most frequently used main memory locations. So long as most accesses are to the cached copies, the average latency to memory will be closer to the cache latency than to the latency of main memory. When the processor wishes to read or write a location in main memory, it first checks the main memory address against the tags in the cache. If one of the tag entries matches (a cache hit), the processor reads or writes the corresponding data in that entry rather than doing the same to main memory. If none of the tag entries match, the reference is a miss. Misses are slow because they require the data from main memory, and the slowness of that memory is, of course, the reason for the cache in the first place. The proportion of accesses that result in a cache hit is known as the hit rate.",
+    "url": "https://en.wikipedia.org/wiki/CPU_cache"
+  },
+  "word": {
+    "id": "fraught",
+    "word": "fraught",
+    "url": "https://www.merriam-webster.com/dictionary/fraught",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FRAWT",
+    "audioPath": "audio/words/fraught.mp3",
+    "definitions": [
+      "full of or accompanied by something specified - used with \"with\"",
+      "causing or characterized by emotional distress or tension : uneasy"
+    ],
+    "examples": [
+      "The new treatment is regarded as promising but _fraught_ with potential side effects.",
+      "\"Parents from some cultures are not as comfortable reading with their children because books were not part of their everyday lives growing up. For other parents, reading with children is a _fraught_ activity because of their own negative experiences learning to read.\" -From an article by Elaine Reese in _The Atlantic_, December 9, 2013"
+    ],
+    "origin": "\"The drowmound was so hevy fraught / That unethe myght it saylen aught.\" That verse, from the 14th-century poem \"Richard Coer de Lion,\" says that a large ship (a dromond) was so heavily loaded that it could barely sail. That's the first instance on record of the adjective \"fraught.\" The word came to Middle English from the Middle Dutch or Middle Low German noun \"vracht,\" which meant \"load\" and which is also the source of the word \"freight.\" For centuries, \"fraught\" was used only of loaded ships, but its use eventually broadened. American English speakers are most likely to encounter \"fraught\" as part of the phrase \"fraught with,\" meaning \"full of or accompanied by.\" The \"uneasy\" sense of \"fraught\" is more common in British English than in U.S. English."
+  }
+}

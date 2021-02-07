@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "lygia-clark",
+    "name": "Lygia Clark",
+    "dates": "Oct 23, 1920 - Apr 25, 1988",
+    "mainImg": "img/art/artists/lygia-clark.jpg",
+    "artworkImgs": [
+      {
+        "name": "Planos em superfície modulada no 1",
+        "path": "img/art/artworks/lygia-clark-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/planos-em-superfície-modulada-no-1/DgExR9Ngq_kCuA"
+      },
+      {
+        "name": "Bicho - (máquina)",
+        "path": "img/art/artworks/lygia-clark-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/bicho-máquina/4AGadcfkCGxr3w"
+      },
+      {
+        "name": "Planos em superfície modulada no. 5",
+        "path": "img/art/artworks/lygia-clark-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/planos-em-superfície-modulada-no-5/FQEJBzYJS4yGzw"
+      },
+      {
+        "name": "Espaço modulado no. 2",
+        "path": "img/art/artworks/lygia-clark-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/espaço-modulado-no-2/VgEX2r56Prx0ZQ"
+      },
+      {
+        "name": "Trepante",
+        "path": "img/art/artworks/lygia-clark-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/trepante/bQHvZSSZuR-eeA"
+      },
+      {
+        "name": "Ovo",
+        "path": "img/art/artworks/lygia-clark-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/ovo/kwHeEL33sBPdMg"
+      }
+    ],
+    "summary": [
+      "Lygia Pimentel Lins, better known as Lygia Clark, was a Brazilian artist best known for her painting and installation work. She was often associated with the Brazilian Constructivist movements of the mid-20th century and the Tropicalia movement. Along with Brazilian artists Amilcar de Castro, Franz Weissmann, Lygia Pape and poet Ferreira Gullar, Clark co-founded the Neo-Concrete movement. Throughout her career, Clark discovered ways for museum-goers to interact with her art works. She sought to redefine the relationship between art and society. Clark's works dealt with inner life and feelings."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art", "Modern art", "Constructivism"],
+    "mediums": ["Wood", "Metal", "Sculpture", "Iron", "Steel", "Stainless steel"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lygia_Clark",
+    "urlGoogle": "https://artsandculture.google.com/entity/lygia-clark/m0b7lmj"
+  },
+  "event": {
+    "id": "coronation-of-elizabeth-ii",
+    "name": "Coronation of Elizabeth II",
+    "dates": null,
+    "mainImg": "img/events/coronation-of-elizabeth-ii.jpg",
+    "summary": [
+      "The coronation of Elizabeth II took place on 2 June 1953 at Westminster Abbey, London. She acceded to the throne at the age of 25 upon the death of her father, George VI, on 6 February 1952, being proclaimed queen by her privy and executive councils shortly afterwards. The coronation was held more than one year later because of the tradition of allowing an appropriate length of time to pass after a monarch dies before holding such festivals. It also gave the planning committees adequate time to make preparations for the ceremony. During the service, Elizabeth took an oath, was anointed with holy oil, invested with robes and regalia, and crowned Queen of the United Kingdom, Canada, Australia, New Zealand, South Africa, Pakistan, and Ceylon.",
+      "Celebrations took place across the Commonwealth realms and a commemorative medal was issued. It was the first British coronation to be fully televised; television cameras had not been allowed inside the abbey during her father's coronation in 1937. Elizabeth's was the fourth and last British coronation of the 20th century. It was estimated to have cost £1.57 million."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/coronation-of-elizabeth-ii/m076s_5w"
+  },
+  "funFacts": [
+    {
+      "id": "169",
+      "fact": "The first human-made object to break the sound barrier was a whip.",
+      "category": ["Science", "Firsts"]
+    },
+    {
+      "id": "163",
+      "fact": "The first penny had the motto \"Mind your own business.\"",
+      "category": ["Firsts"]
+    },
+    { "id": "775", "fact": "Bees are born fully grown.", "category": ["Animals"] }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "fair-haired-boy",
+    "term": "fair-haired boy",
+    "definition": "A favorite, a person who is given special treatment. For example, *Today the attorney general is the governor's fair-haired boy.* This term alludes to the preference for blond (\"fair\") hair over dark hair. [Late 1800s] A more recent synonym is **golden boy**, dating from the first half of the 1900s and alluding to gold as an item of value. For example, *Holding the directorship of both the Metropolitan Opera and the Boston Symphony Orchestra, James Levine was the golden boy of classical music.* Clifford Odets entitled his 1937 play *Golden Boy.*"
+  },
+  "person": {
+    "id": "alexander-kerensky",
+    "name": "Alexander Kerensky",
+    "dates": "May 4, 1881 - Jun 11, 1970",
+    "mainImg": "img/people/alexander-kerensky.jpg",
+    "summary": [
+      "Alexander Fyodorovich Kerensky was a Russian lawyer and revolutionary who was a key political figure in the Russian Revolution of 1917. After the February Revolution of 1917, he joined the newly formed Russian Provisional Government, first as Minister of Justice, then as Minister of War, and after July as the government's second Minister-Chairman. A leader of the moderate-socialist Trudovik faction of the Socialist Revolutionary Party, he was also vice-chairman of the powerful Petrograd Soviet. On 7 November, his government was overthrown by the Lenin-led Bolsheviks in the October Revolution. He spent the remainder of his life in exile, in Paris and New York City, and worked for the Hoover Institution."
+    ],
+    "quote": "“The Russian people are suffering from economic fatigue and from disillusionment with the Allies! The world thinks the Russian Revolution is at an end. Do not be mistaken. The Russian Revolution is just beginning.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_Kerensky",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-kerensky/m0_7q"
+  },
+  "place": {
+    "id": "gdansk",
+    "name": "Gdańsk",
+    "mainImg": "img/places/gdansk.jpg",
+    "summary": [
+      "Gdańsk is a city on the Baltic coast of northern Poland. With a population of 468,158, Gdańsk is the capital and largest city of the Pomeranian Voivodeship and one of the most prominent cities within the cultural and geographical region of Kashubia. It is Poland's principal seaport and the centre of the country's fourth-largest metropolitan area.",
+      "The city is situated on the southern edge of Gdańsk Bay on the Baltic Sea, in a conurbation with the city of Gdynia, the resort town of Sopot, and suburban communities; these form a metropolitan area called the Tricity, with a population approaching 1.4 million. Gdańsk lies at the mouth of the Motława River, connected to the Leniwka, a branch in the delta of the nearby Vistula River, which drains 60 percent of Poland and connects Gdańsk with the Polish capital, Warsaw. Together with the nearby port of Gdynia, Gdańsk is also a notable industrial centre.",
+      "The city's history is complex, with periods of Polish, Prussian and German rule, and periods of autonomy or self-rule as a free city state. In the early-modern age, Gdańsk was a royal city of Poland."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gda%C5%84sk",
+    "urlGoogle": "https://artsandculture.google.com/entity/gdańsk/m035m6"
+  },
+  "wiki": {
+    "id": "comet-hale-bopp",
+    "name": "Comet Hale-Bopp",
+    "summary": "Comet Hale-Bopp was probably the most widely-observed comet of the last century, and one of the brightest seen for many decades. It was visible to the naked eye for a record 18 months, twice as long as the previous record holder, the Great Comet of 1811. Hale-Bopp was discovered on July 23, 1995 at a very large distance from the sun, raising expectations that the comet could become very bright when it passed close to the sun. Although comet brightnesses are very difficult to predict with any degree of accuracy, Hale-Bopp met or exceeded most predictions for its brightness when it passed perihelion on April 1, 1997. The comet was dubbed the Great Comet of 1997. The passage of Hale-Bopp was notable also for inciting a degree of panic about comets not seen for decades. Rumours that the comet was being followed by an alien spacecraft gained remarkable currency, and inspired a mass suicide among followers of the Heaven's Gate cult.",
+    "url": "https://en.wikipedia.org/wiki/Comet_Hale-Bopp"
+  },
+  "word": {
+    "id": "profligate",
+    "word": "profligate",
+    "url": "https://www.merriam-webster.com/dictionary/profligate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PRAH-flih-gut",
+    "audioPath": "audio/words/profligate.mp3",
+    "definitions": [
+      "wildly extravagant : very wasteful",
+      "abandoned to vice and corruption : shamelessly immoral"
+    ],
+    "examples": [
+      "He earned quite a bit of money as a professional athlete, but squandered much of it on his _profligate_ lifestyle.",
+      "\"Considering how creatively bankrupt and stylistically _profligate_ this second installment of the franchise is, the new movie should really be called 'Insidious: Chapter 11.'\" - From a movie review by Michael O’Sullivan in _The Washington Post_, September 13, 2013"
+    ],
+    "origin": "When a royal record keeper reported the \"profligation of the knights\" almost five centuries ago, he didn't mean the knights were wildly indulging in excesses; he meant they were thoroughly defeated in battle. There's nothing etymologically extreme there; the Latin verb \"profligare,\" which is the root of both \"profligate\" and the much rarer \"profligation\" (meaning \"ruin\"), means \"to strike down,\" \"to destroy,\" or \"to overwhelm.\" When the adjective \"profligate\" first appeared in print in English in the 1500s, it meant \"overthrown\" or \"overwhelmed,\" but over time the word's meaning shifted to \"immoral\" or \"wildly extravagant.\""
+  }
+}

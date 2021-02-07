@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "l-s-lowry",
+    "name": "L. S. Lowry",
+    "dates": "Nov 1, 1887 - Feb 23, 1976",
+    "mainImg": "img/art/artists/l-s-lowry.jpg",
+    "artworkImgs": [
+      {
+        "name": "Coming from the Mill",
+        "path": "img/art/artworks/l-s-lowry-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/coming-from-the-mill-ls-lowry/CgHDlsWICwQAvQ"
+      },
+      {
+        "name": "The Cripples",
+        "path": "img/art/artworks/l-s-lowry-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-cripples-ls-lowry/3QEUI4K6UzI6Ww"
+      },
+      {
+        "name": "Portrait of Ann",
+        "path": "img/art/artworks/l-s-lowry-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-ann-ls-lowry/FgGeanu3MI-iiA"
+      },
+      {
+        "name": "Market Scene, Northern Town",
+        "path": "img/art/artworks/l-s-lowry-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/market-scene-northern-town-ls-lowry/8wH_RxS1pbJvjg"
+      },
+      {
+        "name": "Man Lying on a Wall",
+        "path": "img/art/artworks/l-s-lowry-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/man-lying-on-a-wall-ls-lowry/_gFc2rrNxaNxGA"
+      },
+      {
+        "name": "Gentleman Looking at Something",
+        "path": "img/art/artworks/l-s-lowry-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/gentleman-looking-at-something-ls-lowry/SQGgzxA0A7R-Xg"
+      }
+    ],
+    "summary": [
+      "Laurence Stephen Lowry RBA RA was an English artist. Many of his drawings and paintings depict Pendlebury, Lancashire, where he lived and worked for more than 40 years, Salford and its vicinity.",
+      "Lowry is famous for painting scenes of life in the industrial districts of North West England in the mid-20th century. He developed a distinctive style of painting and is best known for his urban landscapes peopled with human figures, often referred to as \"matchstick men\". He painted mysterious unpopulated landscapes, brooding portraits and the unpublished \"marionette\" works, which were only found after his death.",
+      "His use of stylised figures, which cast no shadows, and lack of weather effects in many of his landscapes led critics to label him a naïve \"Sunday painter\"",
+      "Lowry holds the record for rejecting the most number of British honours: he rejected five honours during his life, including a knighthood. A collection of his work is on display in The Lowry, a purpose-built art gallery on Salford Quays. On 26 June 2013, a major retrospective opened at the Tate Britain in London, his first at the gallery, in 2014 his first solo exhibition outside the UK was held in Nanjing, China."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Drawing", "Oil paint", "Pencil", "Watercolor painting", "Ink", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/L._S._Lowry",
+    "urlGoogle": "https://artsandculture.google.com/entity/l-s-lowry/m01djtd"
+  },
+  "event": {
+    "id": "watergate-scandal",
+    "name": "Watergate scandal",
+    "dates": null,
+    "mainImg": "img/events/watergate-scandal.jpg",
+    "summary": [
+      "The Watergate scandal was a political scandal in the United States involving the administration of U.S. President Richard Nixon from 1972 to 1974 that led to Nixon's resignation. The scandal stemmed from the Nixon administration's continuous attempts to cover up its involvement in the June 17, 1972 failed break-in of the Democratic National Committee headquarters at the Washington, D.C. Watergate Office Building. After the five perpetrators were arrested, the press and the U.S. Justice Department connected the cash found on them at the time to the Nixon re-election campaign committee. Further investigations, along with revelations during subsequent trials of the burglars, led the U.S. House of Representatives to grant its judiciary committee additional investigation authority to probe into \"certain matters within its jurisdiction\", and the U.S. Senate to create a special investigative committee. The resultant Senate Watergate hearings commenced were broadcast \"gavel-to-gavel\" nationwide by PBS and aroused public interest."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Watergate_scandal",
+    "urlGoogle": "https://artsandculture.google.com/entity/watergate-scandal/m0ds0x"
+  },
+  "funFacts": [
+    { "id": "50", "fact": "Mosquitoes have 47 teeth.", "category": ["Animals"] },
+    {
+      "id": "404",
+      "fact": "The Statue of Liberty's nose is four feet six inches long.",
+      "category": ["Hodgepodge"]
+    },
+    { "id": "658", "fact": "New York City is made up of 50 islands.", "category": ["Geography"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "504560",
+      "fact": "A cat’s ability to see well at night is due to its tapetum lucidum, a structure that reflects visible light back through the cat’s retina. It’s also what causes the eyes' weird ‘glowing’ effect in the dark."
+    },
+    { "id": "506377", "fact": "Say cheese? Victorians said \"prunes\" instead." },
+    {
+      "id": "506182",
+      "fact": "Before he became president, Abraham Lincoln was wrestling champion of his county in Illinois. He fought in nearly 300 matches and lost only one."
+    }
+  ],
+  "idiom": {
+    "id": "in-for-a-penny-in-for-a-pound",
+    "term": "in for a penny, in for a pound",
+    "definition": "Once involved, one must not stop at half- measures. For example, *All right, I'll drive you all the way there---in for a penny, in for a pound.* This term originally meant that if one owes a penny one might as well owe a pound, and came into American use without changing the British monetary unit to *dollar.* [Late 1600s]"
+  },
+  "person": {
+    "id": "erich-honecker",
+    "name": "Erich Honecker",
+    "dates": "Aug 25, 1912 - May 29, 1994",
+    "mainImg": "img/people/erich-honecker.jpg",
+    "summary": [
+      "Erich Ernst Paul Honecker was a German politician who was the General Secretary of the Socialist Unity Party of Germany. As party leader he worked closely with Moscow. He controlled the government of the German Democratic Republic from 1971 until he was forced out in the weeks preceding the fall of the Berlin Wall in October 1989. From 1976 onward he was also the country's official head of state as Chairman of the State Council of the German Democratic Republic following Willi Stoph's relinquishment of the post.",
+      "Honecker's political career began in the 1930s when he became an official of the Communist Party of Germany, a position for which he was imprisoned by the Nazi government of Germany. Following World War II, he was freed by the Soviet army and relaunched his political activities, founding the youth organisation the Free German Youth in 1946 and serving as the group's chairman until 1955. As the Security Secretary of the Party's Central Committee in the new East Germany, he was the prime organiser of the building of the Berlin Wall in 1961 and, in this function, bore responsibility for the \"order to fire\" along the Inner German border."
+    ],
+    "quote": "“Neither an ox nor a donkey is able to stop the progress of socialism.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Erich_Honecker",
+    "urlGoogle": "https://artsandculture.google.com/entity/erich-honecker/m09xhr"
+  },
+  "place": {
+    "id": "gijon",
+    "name": "Gijón",
+    "mainImg": "img/places/gijon.jpg",
+    "summary": [
+      "Gijón or Xixón is a city in north-western Spain. It is the largest city and municipality by population in the autonomous community of Asturias. It is located on the coast of the Cantabrian Sea in the Bay of Biscay, in the central-northern part of Asturias; it is approximately 24 km north-east of Oviedo, the capital of Asturias, and 26 km from Avilés. With a population of 271,780, Gijón is the 15th largest city in Spain.",
+      "Gijón forms part of a large metropolitan area that includes twenty councils in the center of the region, structured with a dense network of roads, highways and railways and with a population of 835,053 inhabitants in 2011, making it the seventh largest in Spain.",
+      "During the 20th century, Gijón developed as an industrial city in the steel and naval industries. However, due to the decline in manufacturing in these industries, in recent years Gijón is undergoing a transformation into an important tourist, university, commercial and R&D center. Gijón is the location of the Radiotelevisión del Principado de Asturias, the neighbourhood of Cimavilla, the Universidad Laboral de Gijón, the Revillagigedo Palace, and the adjoining Collegiate Church of San Juan Bautista."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gij%C3%B3n",
+    "urlGoogle": "https://artsandculture.google.com/entity/gijón/m0vgw2"
+  },
+  "quote": {
+    "id": "4",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "author": "Steve Jobs"
+  },
+  "wiki": {
+    "id": "blackface",
+    "name": "Blackface",
+    "summary": "Blackface is a style of theatrical makeup that originated in the United States, used to affect the countenance of an iconic, racist, American archetype, that of the \"darky.\" Blackface also refers to a genre of musical and comedic theatrical presentation in which blackface makeup is worn. White blackface performers in the past used burnt cork, then later greasepaint, to affect jet-black skin and exaggerated lips, often wearing woolly wigs, gloves, tails or ragged clothes to complete the transformation. Later, black artists also performed in blackface. Blackface was an important performance tradition in the American theater for over 100 years and was extremely popular overseas, as well. The negative archetypes that comprised the stock characters of blackface minstrelsy played a seminal role in cementing and proliferating racist images and perceptions of, and attitudes about, blacks worldwide. By the mid-20th century, changing attitudes about race and racism effectively ended the prominence of blackface performance in the U.S. and elsewhere.",
+    "url": "https://en.wikipedia.org/wiki/Blackface"
+  },
+  "word": {
+    "id": "importune",
+    "word": "importune",
+    "url": "https://www.merriam-webster.com/dictionary/importune",
+    "partOfSpeech": "verb",
+    "pronunciation": "im-per-TOON",
+    "audioPath": "audio/words/importune.mp3",
+    "definitions": ["to urge or beg with troublesome persistence", "annoy, trouble"],
+    "examples": [
+      "A coalition of town residents, many of them cycling enthusiasts, _importuned_ the mayor to approve funding for the construction of a new bike trail.",
+      "\"Obsessed with finding money to purchase the land from the Turks and finance the emigration of Europe's Jews, Herzl personally _importuned_ everyone from the wealthy Rothschilds to the German kaiser to help him in his quest.\" - From a movie review by Kenneth Turan in the _Los Angeles Times_, August 17, 2012"
+    ],
+    "origin": "\"Importune\" has many synonyms-including \"beg,\" \"entreat,\" \"beseech,\" and \"implore.\" \"Beg\" suggests earnestness or insistence especially in asking for a favor (\"the children begged to stay up late\"). \"Entreat\" implies an effort to persuade or to overcome resistance (\"she entreated him to change his mind\"). \"Beseech\" implies great eagerness or anxiety (\"I beseech you to have mercy\"), and \"implore\" adds to \"beseech\" a suggestion of greater urgency or anguished appeal (\"he implored her not to leave him\"). But it is \"importune\" that best conveys irritating doggedness in trying to break down resistance to a request and the accompanying annoyance (\"the filmmakers were importuning viewers for contributions\"), as it has since Middle English speakers adopted it from Anglo-French in the 15th century."
+  }
+}

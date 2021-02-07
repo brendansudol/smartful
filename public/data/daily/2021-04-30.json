@@ -1,0 +1,151 @@
+{
+  "artist": {
+    "id": "august-macke",
+    "name": "August Macke",
+    "dates": "Jan 3, 1887 - Sep 26, 1914",
+    "mainImg": "img/art/artists/august-macke.jpg",
+    "artworkImgs": [
+      {
+        "name": "Türkisches Café",
+        "path": "img/art/artworks/august-macke-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/türkisches-café-macke-august/TwFqXFVo-u_1Mw"
+      },
+      {
+        "name": "Four Girls",
+        "path": "img/art/artworks/august-macke-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/four-girls-august-macke/UAHsHa4eyw6w8g"
+      },
+      {
+        "name": "Little Walter's Toys",
+        "path": "img/art/artworks/august-macke-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/little-walter-s-toys-august-macke/mAGBrBvNUnYDgg"
+      },
+      {
+        "name": "Portrait with Apples",
+        "path": "img/art/artworks/august-macke-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-with-apples-macke-august/lgF1uQAGHxeaEA"
+      },
+      {
+        "name": "Milliner's Shop",
+        "path": "img/art/artworks/august-macke-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/milliner-s-shop-august-macke/7QGi6LO9tghIsw"
+      },
+      {
+        "name": "People by the Blue Lake",
+        "path": "img/art/artworks/august-macke-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/people-by-the-blue-lake-august-macke/kAEMDazNS4IX9A"
+      }
+    ],
+    "summary": [
+      "August Macke was a German Expressionist painter. He was one of the leading members of the German Expressionist group Der Blaue Reiter. He lived during a particularly innovative time for German art: he saw the development of the main German Expressionist movements as well as the arrival of the successive avant-garde movements which were forming in the rest of Europe. Like a true artist of his time, Macke knew how to integrate into his painting the elements of the avant-garde which most interested him."
+    ],
+    "quote": null,
+    "movements": [
+      "Modern art",
+      "Luminism",
+      "Expressionism",
+      "Der Blaue Reiter",
+      "German Expressionism",
+      "Cubism"
+    ],
+    "mediums": ["Oil paint", "Cardboard", "Watercolor painting", "Drawing", "Pencil", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/August_Macke",
+    "urlGoogle": "https://artsandculture.google.com/entity/august-macke/m02_dfv"
+  },
+  "event": {
+    "id": "yugoslav-wars",
+    "name": "Yugoslav Wars",
+    "dates": "1991 - 2001",
+    "mainImg": "img/events/yugoslav-wars.jpg",
+    "summary": [
+      "The Yugoslav Wars were a series of separate but related ethnic conflicts, wars of independence and insurgencies fought in the former Yugoslavia from 1991 to 2001, which led to the breakup of the Yugoslav state. Its constituent republics declared independence, despite unresolved tensions between ethnic minorities in the new countries, fueling the wars.",
+      "Most of the wars ended through peace accords, involving full international recognition of new states, but with a massive human cost and economic damage to the region. Initially the Yugoslav People's Army sought to preserve the unity of the whole of Yugoslavia by crushing the secessionist governments, but it increasingly came under the influence of the Serbian government of Slobodan Milošević, which evoked Serbian nationalist rhetoric and was willing to use the Yugoslav cause to preserve the unity of Serbs in one state. As a result, the JNA began to lose Slovenes, Croats, Kosovar Albanians, Bosniaks, and ethnic Macedonians, and effectively became a Serb army. According to a 1994 United Nations report, the Serb side did not aim to restore Yugoslavia, but to create a \"Greater Serbia\" from parts of Croatia and Bosnia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
+    "urlGoogle": "https://artsandculture.google.com/entity/yugoslav-wars/m0286jd"
+  },
+  "funFacts": [
+    {
+      "id": "748",
+      "fact": "A dog's average body temperature is 101 degrees Fahrenheit.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "1010",
+      "fact": "Rats and mice are ticklish, and even laugh when tickled.",
+      "category": ["Animals", "Geography"]
+    },
+    { "id": "37", "fact": "A snail breathes through its foot.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "554026",
+      "fact": "According to a 2010 study, people fluent in multiple languages almost always swear in their native tongue."
+    },
+    {
+      "id": "504558",
+      "fact": "The Margherita pizza was likely named after Margherita of Savoy, Queen consort of Italy from 1878 to 1900."
+    },
+    { "id": "553698", "fact": "Wombat poop is cube-shaped." }
+  ],
+  "idiom": {
+    "id": "philadelphia-lawyer",
+    "term": "Philadelphia lawyer",
+    "definition": "A shrewd attorney, adept at dealing with legal technicalities, as in *It would take a Philadelphia lawyer to get him off.* This expression dates from the late 1700s and, as lexicographer Richard H. Thornton observed: \"Why members of the Philadelphia bar should be credited with superhuman sagacity has never been satisfactorily explained.\""
+  },
+  "person": {
+    "id": "simone-veil",
+    "name": "Simone Veil",
+    "dates": "Jul 13, 1927 - Jun 30, 2017",
+    "mainImg": "img/people/simone-veil.jpg",
+    "summary": [
+      "Simone Annie Liline Veil, Grand-croix; DBE was a French lawyer and politician who served as Minister of Health under Valéry Giscard d'Estaing, President of the European Parliament and member of the Constitutional Council of France.",
+      "A survivor of the Auschwitz-Birkenau concentration camp where she lost part of her family during the Holocaust; she served as the first president of the Fondation pour la Mémoire de la Shoah, from 2000 to 2007, and subsequently as honorary president. She was elected to the Académie française in November 2008. She was best known for ministerially pushing forward the law legalizing abortion in France on 17 January 1975. She and her husband were buried in the Panthéon on 1 July 2018. Only the fifth woman in history to be accorded this burial honor, she was eulogized during the reinterment ceremony by President Emmanuel Macron."
+    ],
+    "quote": "“The poet produces the beautiful by fixing his attention on something real.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Simone_Veil",
+    "urlGoogle": "https://artsandculture.google.com/entity/simone-veil/m02rl4t"
+  },
+  "place": {
+    "id": "mecca",
+    "name": "Mecca",
+    "mainImg": "img/places/mecca.jpg",
+    "summary": [
+      "Mecca, also spelled Makkah, is a city in the Hejazi region of Saudi Arabia. The city is located 70 km inland from Jeddah, in a narrow valley 277 m above sea level and 340 kilometres south of Medina. Its population in 2012 was 2 million, although visitors more than triple this number every year during the Ḥajj, held in the twelfth Muslim lunar month of Dhūl-Ḥijjah.",
+      "It is the birthplace of Muhammad. A cave 3 km from Mecca was the site of Muhammad's first revelation of the Quran, and a pilgrimage to it, known as the Hajj, is obligatory for all able Muslims. Mecca is home to the Kaaba, one of Islam's holiest sites and the direction of Muslim prayer, and thus Mecca is regarded as the holiest city in Islam.",
+      "Mecca was long ruled by Muhammad's descendants, the sharifs, acting either as independent rulers or as vassals to larger polities."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Mecca",
+    "urlGoogle": "https://artsandculture.google.com/entity/mecca/m058wp"
+  },
+  "quote": {
+    "id": "76",
+    "quote": "A ship in harbor is safe, but that is not what ships are for.",
+    "author": "John A. Shedd"
+  },
+  "wiki": {
+    "id": "monarchy-of-the-united-kingdom",
+    "name": "Monarchy of the United Kingdom",
+    "summary": "The monarchy of the United Kingdom is a system of government in which a hereditary monarch is the sovereign of the United Kingdom and its overseas territories. The terms British monarch and British monarchy may mean different things in different contexts beyond the United Kingdom. The present monarch is Queen Elizabeth II, who has reigned since 6 February, 1952. The heir apparent is her eldest son, Charles, Prince of Wales and Duke of Rothesay. They and the Queen's husband and consort, Prince Philip, Duke of Edinburgh, undertake various public duties in accordance with their positions. Elizabeth II is Head of the Commonwealth and also reigns as head of state of 15 other Commonwealth countries. This developed from the former colonial relationship of these countries to Britain, but they are now independent and the monarchy of each is legally distinct.",
+    "url": "https://en.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom"
+  },
+  "word": {
+    "id": "parochial",
+    "word": "parochial",
+    "url": "https://www.merriam-webster.com/dictionary/parochial",
+    "partOfSpeech": "adjective",
+    "pronunciation": "puh-ROH-kee-ul",
+    "audioPath": "audio/words/parochial.mp3",
+    "definitions": [
+      "of or relating to a church parish",
+      "limited in range or scope (as to a narrow area or region) : provincial, narrow"
+    ],
+    "examples": [
+      "The book is marred by the _parochial_ viewpoint of its author, who fails to take into account the interplay between local and global economies.",
+      "\"Once a largely _parochial_ issue mainly of interest to Nebraskans, the pipeline's national profile has risen steadily to the point where it became the linchpin in a much broader, high-stakes deal affecting millions of families from coast to coast.\" -- From an article by Joseph Morton in the _Omaha World-Herald_, December 18, 2011"
+    ],
+    "origin": "In the Greek New Testament, the word \"paroikia\" means \"temporary residence.\" (It's from the Greek word for \"stranger\" -- \"paroikos.\") Early Christians used this designation for their colonies because they considered heaven their real home. But temporary or not, these Christian colonies became more organized as time went on. Thus, in Late Latin, \"parochia\" became the designation for a group of Christians in a given area under the leadership of one pastor -- what we came to call a \"parish\" in the 14th century. Both \"parish\" and its related adjective \"parochial\" were borrowed at that time directly from Middle French terms that had been derived from the Late Latin. We didn't begin to use \"parochial\" in its \"narrow\" sense until the mid-19th century."
+  }
+}

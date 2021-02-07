@@ -1,0 +1,148 @@
+{
+  "artist": {
+    "id": "alexander-roslin",
+    "name": "Alexander Roslin",
+    "dates": "Jul 15, 1718 - Jul 5, 1793",
+    "mainImg": "img/art/artists/alexander-roslin.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Lady with the Veil (the Artist's Wife)",
+        "path": "img/art/artworks/alexander-roslin-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-lady-with-the-veil-the-artist-s-wife-alexander-roslin/KQF-jpNMOV38yA"
+      },
+      {
+        "name": "John Jennings Esq., his Brother and Sister-in-Law",
+        "path": "img/art/artworks/alexander-roslin-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/john-jennings-esq-his-brother-and-sister-in-law-alexander-roslin/bAHn9F9pxBJWmA"
+      },
+      {
+        "name": "Portrait of Izabela Czartoryska",
+        "path": "img/art/artworks/alexander-roslin-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-izabela-czartoryska-alexander-roslin-1718–1793/1wEN7qa1nHrTqQ"
+      },
+      {
+        "name": "Portrait of Izabela Czartoryska",
+        "path": "img/art/artworks/alexander-roslin-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-izabela-czartoryska-alexander-roslin-1718–1793/LQGflqq636oxJA"
+      },
+      {
+        "name": "King Gustav III of Sweden and his Brothers",
+        "path": "img/art/artworks/alexander-roslin-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/king-gustav-iii-of-sweden-and-his-brothers-alexander-roslin/dAFptsjPepSiNw"
+      },
+      {
+        "name": "Zoie Ghika, Moldavian Princess",
+        "path": "img/art/artworks/alexander-roslin-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/zoie-ghika-moldavian-princess-alexander-roslin/IwEZ3GgwWp8TGQ"
+      }
+    ],
+    "summary": [
+      "Alexander Roslin was a Swedish portrait painter who worked in Scania, Bayreuth, Paris, Italy, Warsaw and St. Petersburg, primarily for members of aristocratic families. He combined insightful psychological portrayal with a skillful representation of fabrics and jewels.",
+      "His style combined Classicist tendencies with the lustrous, shimmering colours of Rococo, a jocular, elegant and ornate style. He lived in France from 1752 until 1793, a period that spanned most of his career. The painting by Roslin depicting Jeanne Sophie de Vignerot du Plessis, Countess of Egmont Pignatelli, was bought by the Minneapolis Institute of Art in 2006 for US$3 million."
+    ],
+    "quote": null,
+    "movements": ["Renaissance", "Rococo"],
+    "mediums": ["Oil paint", "Drawing", "Graphite", "Etching", "Book", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_Roslin",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-roslin/m0279l0c"
+  },
+  "event": {
+    "id": "second-matabele-war",
+    "name": "Second Matabele War",
+    "dates": "March 1896 - October 1897",
+    "mainImg": "img/events/second-matabele-war.jpg",
+    "summary": [
+      "The Second Matabele War, also known as the Matabeleland Rebellion or part of what is now known in Zimbabwe as the First Chimurenga, was fought between 1896 and 1897 in the area then known as Rhodesia, now Zimbabwe. It pitted the British South Africa Company against the Matabele people, which led to conflict with the Shona people in the rest of Rhodesia.",
+      "In March 1896, the Matabele revolted against the authority of the British South Africa Company. The Mlimo the Matabele spiritual leader, is credited with fomenting much of the anger that led to this confrontation. He convinced the Matabele and the Shona that the settlers were responsible for the drought, locust plagues and the cattle disease rinderpest ravaging the country at the time.",
+      "The Mlimo's call to battle was well-timed. Only a few months earlier, the British South Africa Company's Administrator General for Matabeleland, Leander Starr Jameson, had sent most of his troops and armaments to fight the Transvaal Republic in the ill-fated Jameson Raid. This left the country nearly defenceless. The British immediately sent troops to suppress the Matabele and the Shona, but it cost the lives of many on both sides."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Matabele_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-matabele-war/m0268kl0"
+  },
+  "funFacts": [
+    { "id": "4", "fact": "Slugs have four noses.", "category": ["Animals"] },
+    {
+      "id": "406",
+      "fact": "The deepest place in the ocean is about seven miles deep.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "712",
+      "fact": "100% recyclable, old newspapers are great for washing windows.",
+      "category": ["Make-it-Easies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504824",
+      "fact": "According to a poll of 11,000 Americans, 84 percent of vegetarians and vegans return to eating meat."
+    },
+    { "id": "554252", "fact": "Continental plates drift as fast as fingernails grow." },
+    {
+      "id": "553928",
+      "fact": "The 100 folds in a chef’s toque are said to represent 100 ways to cook an egg."
+    }
+  ],
+  "idiom": {
+    "id": "cut-capers",
+    "term": "cut capers",
+    "definition": "Also, **cut a caper.** Frolic or romp, as in *The children cut capers in the pile of raked leaves.* The noun *caper* comes from the Latin for \"goat,\" and the allusion is to act in the manner of a young goat clumsily frolicking about. The expression was first recorded in Shakespeare's *Twelfth Night* (1:3): \"Faith, I can cut a caper.\""
+  },
+  "person": {
+    "id": "jozef-poniatowski",
+    "name": "Józef Poniatowski",
+    "dates": "May 7, 1763 - Oct 19, 1813",
+    "mainImg": "img/people/jozef-poniatowski.jpg",
+    "summary": [
+      "Prince Józef Antoni Poniatowski was a Polish leader, general, minister of war and army chief, who became a Marshal of the French Empire.",
+      "A nephew of King Stanisław II Augustus, his military career began in 1780 in the Austrian army, where he attained the rank of a colonel. In 1789, after leaving the Austrian service, he joined the Polish army. Poniatowski, now in the rank of major general and commander of the Royal Guards, took part in the Polish–Russian War of 1792, leading the crown forces in Ukraine, where he fought a victorious battle of Zieleńce.",
+      "After the king's support for the Targowica Confederation Poniatowski was forced to resign. In 1794 he participated in the Kościuszko Uprising and was in charge of defending Warsaw for which he was subsequently exiled. In 1798 Poniatowski was permitted to return, however, he refused the offer to serve in the Imperial Russian army submitted to him by Tsar Alexander I.",
+      "In 1806, after the creation of the Duchy of Warsaw, Józef Poniatowski was appointed the minister of war."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/J%C3%B3zef_Poniatowski",
+    "urlGoogle": "https://artsandculture.google.com/entity/józef-poniatowski/m029_9p"
+  },
+  "place": {
+    "id": "duluth",
+    "name": "Duluth",
+    "mainImg": "img/places/duluth.jpg",
+    "summary": [
+      "Duluth is a port city in the U.S. state of Minnesota and the county seat of Saint Louis County. Duluth has a population of 85,618 and is Minnesota's fourth-largest city. It is the second-largest city on Lake Superior, after Thunder Bay, Ontario. It has the largest metropolitan area on the lake, with a population of 279,771 in 2010, the second-largest in the state.",
+      "Situated on the north shore of Lake Superior at the westernmost point of the Great Lakes, Duluth is accessible to oceangoing vessels from the Atlantic Ocean 2,300 miles away via the Great Lakes Waterway and the Saint Lawrence Seaway.",
+      "Duluth forms a metropolitan area with neighboring Superior, Wisconsin; together they are called the Twin Ports. The cities share the Duluth–Superior harbor and together are the Great Lakes' largest port, transporting coal, iron ore, and grain.",
+      "A tourist destination for the Midwest, Duluth features the United States' only all-freshwater aquarium, the Great Lakes Aquarium; the Aerial Lift Bridge, which sits adjacent to Canal Park and spans the Duluth Ship Canal into the Duluth–Superior harbor; and Minnesota Point, the world's longest freshwater baymouth bar, spanning 6 miles."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Duluth,_Minnesota",
+    "urlGoogle": "https://artsandculture.google.com/entity/duluth/m0h1k6"
+  },
+  "quote": {
+    "id": "83",
+    "quote": "Formal education will make you a living; self-education will make you a fortune.",
+    "author": "Jim Rohn"
+  },
+  "wiki": {
+    "id": "fa-premier-league",
+    "name": "FA Premier League",
+    "summary": "The FA Premier League is a league competition for football clubs located at the top of the English football league system (above The Football League), making it England's primary football competition. The Premier League is presently contested by twenty clubs each season, but in a total of fourteen seasons, the title has been won by only four teams: Arsenal, Blackburn Rovers, Chelsea and Manchester United. Of these, the most successful is Manchester United, who have won the title eight times. The current Premier League champions are Chelsea, who won their second consecutive title in the 2005-06 season.",
+    "url": "https://en.wikipedia.org/wiki/FA_Premier_League"
+  },
+  "word": {
+    "id": "sophistry",
+    "word": "sophistry",
+    "url": "https://www.merriam-webster.com/dictionary/sophistry",
+    "partOfSpeech": "noun",
+    "pronunciation": "SAH-fuh-stree",
+    "audioPath": "audio/words/sophistry.mp3",
+    "definitions": [
+      "subtly deceptive reasoning or argumentation",
+      "an argument apparently correct in form but actually invalid; especially : such an argument used to deceive"
+    ],
+    "examples": [
+      "The senatorial candidate argued that his opponent was using sophistry in an effort to distort his plan for education reform."
+    ],
+    "origin": "The original Sophists were ancient Greek teachers of rhetoric and philosophy prominent in the 5th century B.C. In their heyday, these philosophers were considered adroit in their reasoning, but later philosophers (particularly Plato) described them as sham philosophers, out for money and willing to say anything to win an argument. Thus \"sophist\" (which comes from Greek \"sophistēs,\" meaning \"wise man\" or \"expert\") earned a negative connotation as \"a captious or fallacious reasoner.\" \"Sophistry\" is reasoning that seems plausible on a superficial level but is actually unsound, or reasoning that is used to deceive."
+  }
+}

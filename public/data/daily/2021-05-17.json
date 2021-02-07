@@ -1,0 +1,144 @@
+{
+  "artist": {
+    "id": "john-everett-millais",
+    "name": "John Everett Millais",
+    "dates": "Jun 8, 1829 - Aug 13, 1896",
+    "mainImg": "img/art/artists/john-everett-millais.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Order of Release 1746",
+        "path": "img/art/artworks/john-everett-millais-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-order-of-release-1746-sir-john-everett-millais/cQEhuAQIHc3vIg"
+      },
+      {
+        "name": "Ophelia",
+        "path": "img/art/artworks/john-everett-millais-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ophelia-sir-john-everett-millais/-wGU6cT4JixtPA"
+      },
+      {
+        "name": "The Martyr of the Solway",
+        "path": "img/art/artworks/john-everett-millais-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-martyr-of-the-solway-john-everett-millais/zgHu888n3_dObw"
+      },
+      {
+        "name": "Mariana",
+        "path": "img/art/artworks/john-everett-millais-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mariana-sir-john-everett-millais/6wGvnPEiyH8RFA"
+      },
+      {
+        "name": "Isabella",
+        "path": "img/art/artworks/john-everett-millais-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/isabella-john-everett-millais/CwFtBpu0rX8J_w"
+      },
+      {
+        "name": "Christ in the House of His Parents (`The Carpenter's Shop')",
+        "path": "img/art/artworks/john-everett-millais-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-in-the-house-of-his-parents-the-carpenter-s-shop-sir-john-everett-millais/KgHTjZxC7spFMQ"
+      }
+    ],
+    "summary": [
+      "Sir John Everett Millais, 1st Baronet, PRA was an English painter and illustrator who was one of the founders of the Pre-Raphaelite Brotherhood. He was a child prodigy who, aged eleven, became the youngest student to enter the Royal Academy Schools. The Pre-Raphaelite Brotherhood was founded at his family home in London, at 83 Gower Street. Millais became the most famous exponent of the style, his painting Christ in the House of His Parents generating considerable controversy, and he produced a picture that could serve as the embodiment of the historical and naturalist focus of the group, Ophelia, in 1851–52.",
+      "By the mid-1850s, Millais was moving away from the Pre-Raphaelite style to develop a new form of realism in his art. His later works were enormously successful, making Millais one of the wealthiest artists of his day, but some former admirers including William Morris saw this as a sell-out."
+    ],
+    "quote": "“Man was not intended to live alone... marriage is the best cure for that wretched lingering over one's work. I think I must feel more settled than you all. I would immensely like to see you all married like myself and anchored.”",
+    "movements": ["Pre-Raphaelite Brotherhood"],
+    "mediums": ["Oil paint", "Wood", "Engraving", "Graphite", "Ink", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Everett_Millais",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-everett-millais/m0q0f4"
+  },
+  "event": {
+    "id": "third-anglo-dutch-war",
+    "name": "Third Anglo-Dutch War",
+    "dates": "1672 - 1674",
+    "mainImg": "img/events/third-anglo-dutch-war.jpg",
+    "summary": [
+      "The Third Anglo-Dutch War or the Third Dutch War was a military conflict between the Kingdom of England and the Dutch Republic that lasted from 7 April 1672 to 19 February 1674. It was part of the Franco-Dutch War between the Dutch Republic and her allies—the Quadruple Alliance—and France.",
+      "In comparison to First and Second Anglo-Dutch War, political reasons were more important as causes for this war than economic ones. In 1667, Charles II of England had been humiliated by the Dutch Raid on the Medway, and in 1668, Louis XIV of France had been offended by the Dutch preventing his conquest of the Spanish Netherlands through the Triple Alliance. In 1670, the two kings concluded the Secret Treaty of Dover, intending to destroy the Dutch Republic. This outcome seemed achievable as the Dutch land army was weak and, although their navy was strong, the combined English and French fleets outnumbered it. The prospect of war was unpopular in England, so Charles had difficulty obtaining the necessary money. He relied on secret French subsidies, deceiving Parliament and refusing to pay the Crown debts and fabricated diplomatic incidents to justify a conflict."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/third-anglo-dutch-war/m0m0r1"
+  },
+  "funFacts": [
+    {
+      "id": "371",
+      "fact": "Grapes are the most popular fruit in the world.",
+      "category": ["Food", "Plants"]
+    },
+    { "id": "214", "fact": "Giraffes can lick their own eyes.", "category": ["Animals"] },
+    {
+      "id": "867",
+      "fact": "Franklin Roosevelt was related to 5 U.S. Presidents by blood and 6 by marriage.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554007",
+      "fact": "Nintendo was founded in 1889. Before it sold video games, the Japanese company specialized in playing cards."
+    },
+    {
+      "id": "554021",
+      "fact": "Jane Austen didn't publish her first novel under her real name. Instead, Sense and Sensibility was credited as being written \"By a Lady.\""
+    },
+    {
+      "id": "554041",
+      "fact": "According to one study, most dogs reach peak cuteness between six and eight weeks old."
+    }
+  ],
+  "idiom": {
+    "id": "one-can-catch-more-flies-with-honey-than-vinegar",
+    "term": "one can catch more flies with honey than vinegar",
+    "definition": "One accomplishes more by being nice than by being nasty. This saying dates from the 1600s and has appeared in numerous languages, among them Spanish (in Cervantes's *Don Quixote)* and French. Even Abraham Lincoln quoted a version of it in his 1842 speech to the Washingtonian Temperance Society: \"It is an old and true maxim that a drop of honey catches more flies than a gallon of gall.\""
+  },
+  "person": {
+    "id": "vladimir-lenin",
+    "name": "Vladimir Lenin",
+    "dates": "Apr 22, 1870 - Jan 21, 1924",
+    "mainImg": "img/people/vladimir-lenin.jpg",
+    "summary": [
+      "Vladimir Ilyich Ulyanov, better known by his alias Lenin, was a Russian revolutionary, politician, and political theorist. He served as head of government of Soviet Russia from 1917 to 1924 and of the Soviet Union from 1922 to 1924. Under his administration, Russia and then the wider Soviet Union became a one-party communist state governed by the Russian Communist Party. Ideologically a communist, he developed a variant of Marxism known as Leninism.",
+      "Born to a moderately prosperous middle-class family in Simbirsk, Lenin embraced revolutionary socialist politics following his brother's 1887 execution. Expelled from Kazan Imperial University for participating in protests against the Russian Empire's Tsarist government, he devoted the following years to a law degree. He moved to Saint Petersburg in 1893 and became a senior Marxist activist. In 1897, he was arrested for sedition and exiled to Shushenskoye for three years, where he married Nadezhda Krupskaya. After his exile, he moved to Western Europe, where he became a prominent theorist in the Marxist Russian Social Democratic Labour Party."
+    ],
+    "quote": "“To rely upon conviction, devotion, and other excellent spiritual qualities; that is not to be taken seriously in politics.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+    "urlGoogle": "https://artsandculture.google.com/entity/vladimir-lenin/m05wh0sh"
+  },
+  "place": {
+    "id": "palau",
+    "name": "Palau",
+    "mainImg": "img/places/palau.jpg",
+    "summary": [
+      "Palau, officially the Republic of Palau, is an island country located in the western Pacific Ocean. The country contains approximately 340 islands, and together with parts of the Federated States of Micronesia, forms the western chain of the Caroline Islands. Its area is 466 square kilometers. The most populous island is Koror. The capital Ngerulmud is located on the nearby island of Babeldaob, in Melekeok State. Palau shares maritime boundaries with Japan to the north, Micronesia to the east, Indonesia to the south, and the Philippines to the west.",
+      "The country was originally settled approximately 3,000 years ago by migrants from Insular Southeast Asia. Spain was the first European nation to explore the islands in the 16th century, and they were made part of the Spanish East Indies in 1574. Following Spain's defeat in the Spanish–American War in 1898, the islands were sold to Imperial Germany in 1899 under the terms of the German–Spanish Treaty, where they were administered as part of German New Guinea. After World War I, the islands were made a part of the Japanese-ruled South Seas Mandate by the League of Nations."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Palau",
+    "urlGoogle": "https://artsandculture.google.com/entity/palau/m05tr7"
+  },
+  "quote": {
+    "id": "56",
+    "quote": "Don't let yesterday take up too much of today.",
+    "author": "Will Rogers"
+  },
+  "wiki": {
+    "id": "battle-of-ceresole",
+    "name": "Battle of Ceresole",
+    "summary": "The Battle of Ceresole was fought outside the village of Ceresole d'Alba in the Piedmont on April 11, 1544, during the Italian War of 1542. In a lengthy engagement that historian Bert Hall characterized as \"marvelously confused\", a French army under François de Vendôme, Count of Enghien, defeated the Spanish-Imperial army of Alfonso d'Avalos d'Aquino, Marquis del Vasto. Despite inflicting massive casualties on the Imperial troops, the French failed to exploit the victory, as Enghien was unable to take Milan after much of his army was recalled to face an Anglo-Imperial invasion of France. Ceresole was one of the few pitched battles during the latter half of the Italian Wars. Known among military historians chiefly for the \"great slaughter\" that occurred when columns of intermingled arquebusiers and pikemen met in the center, it also demonstrates the continuing role of traditional heavy cavalry on a battlefield largely dominated by the emerging pike and shot infantry.",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Ceresole"
+  },
+  "word": {
+    "id": "booboisie",
+    "word": "booboisie",
+    "url": "https://www.merriam-webster.com/dictionary/booboisie",
+    "partOfSpeech": "noun",
+    "pronunciation": "boob-wah-ZEE",
+    "audioPath": "audio/words/booboisie.mp3",
+    "definitions": ["the general public regarded as consisting of boobs"],
+    "examples": [
+      "\"'Elitism' was always the sneer of the _booboisie_ against opera….\" - From an article by Stephanie Von Buchau in _Opera News_, July 1998",
+      "\"\\[Simon\\] Doonan's silliness is a delight. This is not a rote throwback to the 'Queer Eye for the Straight Guy' advice of yore. There's no dumbing down for the _booboisie_.\" - From a book review by Christopher Muther in the _Boston Globe_, January 7, 2012"
+    ],
+    "origin": "Journalist and critic H. L. Mencken is often credited with coining \"booboisie,\" a blend of \"boob,\" as it refers to someone who cares too much about things and too little about ideas and art, and \"bourgeoisie,\" that French-origin term for the middle class. Mencken may have indeed coined the word, but it seems likely that he wasn't the word's only inventor. According to the 2006 Yale Book of Quotations, Mencken was quoted using \"booboisie\" in an August 1922 issue of _The Dial_ before it appeared in any of his writings. But a February 22, 1922 _Washington Post_ article opens with the following line: \"A plot to [mulct](https://www.merriam-webster.com/dictionary/mulct) the 'booboisie' which might have been invented by an author of get-rich-quick fiction ….\" The booboisie, of course, couldn't care less."
+  }
+}

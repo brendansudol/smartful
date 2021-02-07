@@ -1,0 +1,155 @@
+{
+  "artist": {
+    "id": "frida-kahlo",
+    "name": "Frida Kahlo",
+    "dates": "Jul 6, 1907 - Jul 13, 1954",
+    "mainImg": "img/art/artists/frida-kahlo.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Broken Column",
+        "path": "img/art/artworks/frida-kahlo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-broken-column-frida-kahlo/EgGMbMFBQrAe3Q"
+      },
+      {
+        "name": "Frieda and Diego Rivera",
+        "path": "img/art/artworks/frida-kahlo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/frieda-and-diego-rivera-frida-kahlo/pAGW_uPdEDd_uw"
+      },
+      {
+        "name": "Henry Ford Hospital",
+        "path": "img/art/artworks/frida-kahlo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/henry-ford-hospital-frida-kahlo/kgHTa-02kVhHJA"
+      },
+      {
+        "name": "Self-portrait with Monkey",
+        "path": "img/art/artworks/frida-kahlo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-with-monkey-frida-kahlo/VwGUHkHwLWn_dQ"
+      },
+      {
+        "name": "Without Hope",
+        "path": "img/art/artworks/frida-kahlo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/without-hope-frida-kahlo/rgHBxF7ESC2qmQ"
+      },
+      {
+        "name": "A Few Small Nips",
+        "path": "img/art/artworks/frida-kahlo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-few-small-nips-frida-kahlo/oQG_590SEeTDaw"
+      }
+    ],
+    "summary": [
+      "Frida Kahlo was a Mexican painter known for her many portraits, self-portraits, and works inspired by the nature and artifacts of Mexico. Inspired by the country's popular culture, she employed a naïve folk art style to explore questions of identity, postcolonialism, gender, class, and race in Mexican society. Her paintings often had strong autobiographical elements and mixed realism with fantasy. In addition to belonging to the post-revolutionary Mexicayotl movement, which sought to define a Mexican identity, Kahlo has been described as a surrealist or magical realist.",
+      "Born to a German father and a mestiza mother, Kahlo spent most of her childhood and adult life at La Casa Azul, her family home in Coyoacán—now publicly accessible as the Frida Kahlo Museum. Although she was disabled by polio as a child, Kahlo had been a promising student headed for medical school until she suffered a bus accident at the age of eighteen, which caused her lifelong pain and medical problems. During her recovery she returned to her childhood hobby of art with the idea of becoming an artist."
+    ],
+    "quote": "“I hope the leaving is joyful; and I hope never to return.”",
+    "movements": [
+      "Symbolism",
+      "Modern art",
+      "Surrealism",
+      "Magical Realism",
+      "Primitivism",
+      "Cubism"
+    ],
+    "mediums": ["Oil paint", "Masonite", "Drawing", "Pencil", "Metal", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Frida_Kahlo",
+    "urlGoogle": "https://artsandculture.google.com/entity/frida-kahlo/m015k04"
+  },
+  "event": {
+    "id": "gettysburg-address",
+    "name": "Gettysburg Address",
+    "dates": null,
+    "mainImg": "img/events/gettysburg-address.jpg",
+    "summary": [
+      "The Gettysburg Address is a speech that U.S. President Abraham Lincoln delivered during the American Civil War at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania, on the afternoon of Thursday, November 19, 1863, four and a half months after the Union armies defeated those of the Confederacy at the Battle of Gettysburg. It is one of the best-known speeches in American history.",
+      "Not even the day's primary speech, Lincoln's carefully crafted address came to be seen as one of the greatest and most influential statements of American national purpose. In just 271 words, beginning with the now iconic phrase \"Four score and seven years ago,\"‍ referring to the signing of the Declaration of Independence 87 years earlier, Lincoln described the US as a nation \"conceived in Liberty, and dedicated to the proposition that all men are created equal,\" and represented the Civil War as a test that would determine whether such a nation, the Union sundered by the secession crisis, could endure. He extolled the sacrifices of those who died at Gettysburg in defense of those principles, and exhorted his listeners to resolve"
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gettysburg_Address",
+    "urlGoogle": "https://artsandculture.google.com/entity/gettysburg-address/m037yx"
+  },
+  "funFacts": [
+    {
+      "id": "367",
+      "fact": "International tug of war rules state that the rope must be over 100-feet long.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "919",
+      "fact": "The Lollipop was named after one of the most famous Racehorses in the early 1900s, Lolly Pop.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "948",
+      "fact": "Early football fields were painted with both horizontal and vertical lines, creating a pattern that resembled a gridiron.",
+      "category": ["History", "Firsts"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504754",
+      "fact": "The number 4 is the only number with the same number of letters as the meaning of its name."
+    },
+    {
+      "id": "553540",
+      "fact": "Theodore Roosevelt's daughter Alice had a pet snake named Emily Spinach. She liked to carry it around the White House in her purse and take it out at unexpected moments."
+    },
+    {
+      "id": "554091",
+      "fact": "Great white sharks rarely survive in captivity. Experts suspect the electricity in buildings interferes with the animals' electrosensory systems—though that hasn't stopped some aquariums from trying, and failing, to display them."
+    }
+  ],
+  "idiom": {
+    "id": "that-aint-hay",
+    "term": "that ain't hay",
+    "definition": "That's a great deal, especially of money; also, that's important. For example, *He's making ten thousand a month, and that ain't hay.* Originally used to describe a sum of money that is large, this phrase was later extended to other circumstances, as in *She married a titled lord, and that ain't hay.* [Colloquial; first half of 1900s]"
+  },
+  "person": {
+    "id": "w-averell-harriman",
+    "name": "W. Averell Harriman",
+    "dates": "Nov 15, 1891 - Jul 26, 1986",
+    "mainImg": "img/people/w-averell-harriman.jpg",
+    "summary": [
+      "William Averell Harriman, better known as Averell Harriman, was an American Democratic politician, businessman, and diplomat. The son of railroad baron E. H. Harriman, he served as Secretary of Commerce under President Harry S. Truman and later as the 48th Governor of New York. He was a candidate for the Democratic presidential nomination in 1952 and 1956, as well as a core member of the group of foreign policy elders known as \"The Wise Men\".",
+      "While attending Groton School and Yale University, he made contacts that led to creation of a banking firm that eventually merged into Brown Brothers Harriman & Co.. He owned parts of various other companies, including Union Pacific Railroad, Merchant Shipping Corporation, and Polaroid Corporation. During the presidency of Franklin D. Roosevelt, Harriman served in the National Recovery Administration and on the Business Advisory Council before moving into foreign policy roles. After helping to coordinate the Lend-Lease program, Harriman served as the ambassador to the Soviet Union and attended the major World War II conferences. After the war, he became a prominent advocate of George F. Kennan's policy of containment."
+    ],
+    "quote": "“The war changed everybody's attitude. We became international almost overnight.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/W._Averell_Harriman",
+    "urlGoogle": "https://artsandculture.google.com/entity/w-averell-harriman/m02krms"
+  },
+  "place": {
+    "id": "northern-cyprus",
+    "name": "Northern Cyprus",
+    "mainImg": "img/places/northern-cyprus.jpg",
+    "summary": [
+      "Northern Cyprus, officially the Turkish Republic of Northern Cyprus, is a de facto sovereign state that comprises the northeastern portion of the island of Cyprus. Recognised only by Turkey, Northern Cyprus is considered by the international community to be part of the Republic of Cyprus.",
+      "Northern Cyprus extends from the tip of the Karpass Peninsula in the northeast to Morphou Bay, Cape Kormakitis and its westernmost point, the Kokkina exclave in the west. Its southernmost point is the village of Louroujina. A buffer zone under the control of the United Nations stretches between Northern Cyprus and the rest of the island and divides Nicosia, the island's largest city and capital of both sides.",
+      "A coup d'état in 1974, performed as part of an attempt to annex the island to Greece, prompted the Turkish invasion of Cyprus. This resulted in the eviction of much of the north's Greek Cypriot population, the flight of Turkish Cypriots from the south, and the partitioning of the island, leading to a unilateral declaration of independence by the north in 1983. Due to its lack of recognition, Northern Cyprus is heavily dependent on Turkey for economic, political and military support."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Northern_Cyprus",
+    "urlGoogle": "https://artsandculture.google.com/entity/northern-cyprus/m01nx28"
+  },
+  "quote": {
+    "id": "108",
+    "quote": "One’s mind, once stretched by a new idea, never regains its original dimensions.",
+    "author": "Oliver Wendell Holmes"
+  },
+  "wiki": {
+    "id": "cape-town",
+    "name": "Cape Town",
+    "summary": "Cape Town is the third most populous city in South Africa, forming part of the metropolitan municipality of the City of Cape Town. It is the provincial capital of the Western Cape, as well as the legislative capital of South Africa, where the National Parliament and many government offices are located. Cape Town is famous for its harbour as well as its natural setting in the Cape floral kingdom, including such well-known landmarks as Table Mountain and Cape Point. Often regarded as one of the world's most beautiful cities because of its geography, Cape Town is the most popular South African destination for tourism. Cape Town originally developed as a refuelling station for Dutch ships sailing to Eastern Africa, India, and Asia. Jan van Riebeeck's arrival on April 6, 1652 established the first permanent European settlement in sub-Saharan Africa. Cape Town quickly outgrew its original purpose as the first European outpost at the Castle of Good Hope. It was the largest city in South Africa until the growth of Johannesburg.",
+    "url": "https://en.wikipedia.org/wiki/Cape_Town"
+  },
+  "word": {
+    "id": "tetralogy",
+    "word": "tetralogy",
+    "url": "https://www.merriam-webster.com/dictionary/tetralogy",
+    "partOfSpeech": "noun",
+    "pronunciation": "teh-TRAH-luh-jee",
+    "audioPath": "audio/words/tetralogy.mp3",
+    "definitions": ["a series of four connected literary, artistic, or musical works"],
+    "examples": [
+      "_The Hitch Hiker's Guide to the Galaxy: A Trilogy in Four Parts_ (as it was published in England) is, as the name rather coyly intimates, a _tetralogy_ of Douglas Adams novels. \"Vintage has reissued Ford Madox Ford's Parade's End, a massive _tetralogy_ of novels about England's cascading misfortunes during World War I.\" - From a review by Scott Eyman in _Palm Beach Post_ (Florida), April 15, 2012"
+    ],
+    "origin": "The original tetralogies were sets of four plays (three tragedies and a comedy) performed serially on the Athenian stages of ancient Greece. These sets of plays were similar to the \"trilogy,\" a group of three serial Greek tragedies. The word \"tetralogy\" is from the Greek combining form \"tetra-,\" meaning \"four,\" joined with the combining form \"-logia,\" which in turn comes from \"logos,\" meaning \"word.\" Other \"tetra-\" words include \"tetrahedron\" (a solid shape formed by four flat faces) and \"tetrapod\" (a vertebrate with two pairs of limbs)."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "artist": {
+    "id": "cornelius-krieghoff",
+    "name": "Cornelius Krieghoff",
+    "dates": "Jun 19, 1815 - Apr 8, 1872",
+    "mainImg": "img/art/artists/cornelius-krieghoff.jpg",
+    "artworkImgs": [
+      {
+        "name": "James Bruce, Earl of Elgin",
+        "path": "img/art/artworks/cornelius-krieghoff-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/james-bruce-earl-of-elgin/XgHHEybMCZcksg"
+      },
+      {
+        "name": "Lumberman's Ferry",
+        "path": "img/art/artworks/cornelius-krieghoff-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/lumberman-s-ferry/7gF09fBikyyrig"
+      },
+      {
+        "name": "Habitant with Blue Tuque and Pipe",
+        "path": "img/art/artworks/cornelius-krieghoff-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/habitant-with-blue-tuque-and-pipe/lgE7WBN9gLWPyg"
+      },
+      {
+        "name": "Head of a Habitant",
+        "path": "img/art/artworks/cornelius-krieghoff-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-habitant/KQFhx5rT1M_OTQ"
+      },
+      {
+        "name": "Officer's Room in Montreal",
+        "path": "img/art/artworks/cornelius-krieghoff-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/officer-s-room-in-montreal/LgH0DPUHgQ3P4A"
+      },
+      {
+        "name": "Bilking the Toll",
+        "path": "img/art/artworks/cornelius-krieghoff-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/bilking-the-toll/5QHzZXSEXBRGrw"
+      }
+    ],
+    "summary": [
+      "Cornelius David Krieghoff was a Dutch-Canadian painter of the 19th century. Krieghoff is most famous for his paintings of Canadian landscapes and Canadian life outdoors, which were sought-after in his own time as they are today. He is particularly famous for his winter scenes, some of which he painted in a number of variants."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Oil paint", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Cornelius_Krieghoff",
+    "urlGoogle": "https://artsandculture.google.com/entity/cornelius-krieghoff/m01wrvq"
+  },
+  "event": {
+    "id": "irish-civil-war",
+    "name": "Irish Civil War",
+    "dates": "Jun 28, 1922 - May 24, 1923",
+    "mainImg": "img/events/irish-civil-war.jpg",
+    "summary": [
+      "The Irish Civil War was a conflict that followed the Irish War of Independence and accompanied the establishment of the Irish Free State, an entity independent from the United Kingdom but within the British Empire.",
+      "The civil war was waged between two opposing groups, the pro-treaty Provisional Government and the anti-treaty IRA, over the Anglo-Irish Treaty. The forces of the Provisional Government supported the Treaty, while the anti-treaty opposition saw it as a betrayal of the Irish Republic. Many of those who fought on both sides in the conflict had been members of the Irish Republican Army during the War of Independence.",
+      "The Civil War was won by the pro-treaty Free State forces, who benefited from substantial quantities of weapons provided by the British Government. The conflict may have claimed more lives than the War of Independence that preceded it, and left Irish society divided and embittered for generations. Today, two of the main political parties in the Republic of Ireland, Fine Gael and Fianna Fáil, are direct descendants of the opposing sides of the war."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Irish_Civil_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/irish-civil-war/m03xvj"
+  },
+  "funFacts": [
+    {
+      "id": "146",
+      "fact": "The smallest county in America is New York County, better known as Manhattan.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "759",
+      "fact": "A rhinoceros horn is made of compacted hair.",
+      "category": ["Animals"]
+    },
+    { "id": "767", "fact": "Honeybees have hair on their eyes.", "category": ["Animals"] }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "cest-la-vie",
+    "term": "c'est la vie",
+    "definition": "That's life, there's nothing you can do about it. This French expression, often stated with a shrug, frequently is a response to some undesirable occurrence. For example, *You were caught with an expired driver's license; oh well, c'est la vie.* [mid-1800s]"
+  },
+  "person": {
+    "id": "alexis-de-tocqueville",
+    "name": "Alexis de Tocqueville",
+    "dates": "Jul 29, 1805 - Apr 16, 1859",
+    "mainImg": "img/people/alexis-de-tocqueville.jpg",
+    "summary": [
+      "Alexis Charles Henri Clérel, comte de Tocqueville, colloquially known as Tocqueville, was a French aristocrat, diplomat, political scientist, and historian. He is best known for his works Democracy in America and The Old Regime and the Revolution. In both, he analysed the improved living standards and social conditions of individuals as well as their relationship to the market and state in Western societies. Democracy in America was published after Tocqueville's travels in the United States and is today considered an early work of sociology and political science.",
+      "Tocqueville was active in French politics, first under the July Monarchy and then during the Second Republic which succeeded the February 1848 Revolution. He retired from political life after Louis Napoléon Bonaparte's 2 December 1851 coup and thereafter began work on The Old Regime and the Revolution. Tocqueville argued the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV. The failure of the Revolution came from the inexperience of the deputies who were too wedded to abstract Enlightenment ideals."
+    ],
+    "quote": "“Liberty cannot be established without morality, nor morality without faith.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexis_de_Tocqueville",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexis-de-tocqueville/m015v8f"
+  },
+  "place": {
+    "id": "dearborn",
+    "name": "Dearborn",
+    "mainImg": "img/places/dearborn.jpg",
+    "summary": [
+      "Dearborn is a city in the State of Michigan. It is located in Wayne County and is part of the Detroit metropolitan area. Dearborn is the eighth largest city in the State of Michigan. As of the 2010 census, it had a population of 98,153 and is home to the largest Muslim population in the United States. First settled in the late 18th century by ethnic French farmers in a series of ribbon farms along the Rouge River and the Sauk Trail, the community grew in the 19th century with the establishment of the Detroit Arsenal on the Chicago Road linking Detroit and Chicago. In the 20th century, it developed as a major manufacturing hub for the automotive industry.",
+      "Henry Ford was born on a farm here and later established an estate in Dearborn, as well as his River Rouge Complex, the largest factory of his Ford empire. He developed mass production of automobiles, and based the world headquarters of the Ford Motor Company here. The city has a campus of the University of Michigan as well as Henry Ford College. The Henry Ford, the United States' largest indoor-outdoor historic museum complex and Metro Detroit's leading tourist attraction, is located here."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Dearborn,_Michigan",
+    "urlGoogle": "https://artsandculture.google.com/entity/dearborn/m0vrmb"
+  },
+  "wiki": {
+    "id": "autism",
+    "name": "Autism",
+    "summary": "Autism is classified as a neurodevelopmental disorder that manifests itself in markedly abnormal social interaction, communication ability, patterns of interests, and patterns of behavior. Although the specific etiology of autism is unknown, genetic factors appear to be important. By definition, autism must manifest delays in \"social interaction, language as used in social communication, or symbolic or imaginative play,\" with \"onset prior to age 3 years.\" (DSM-IV) There have been large increases in the reported incidence of autism, for reasons that are heavily debated in the scientific community. There are cases of autistic children who have improved their social and other skills to the point where they can fully participate in mainstream education and social events, but there are lingering concerns that an absolute cure from autism is impossible with current technology since it involves aspects of neurological brain structure determined very early in development. However, some autistic children and adults who are able to communicate at a functional level are opposed to attempts to cure their condition.",
+    "url": "https://en.wikipedia.org/wiki/Autism"
+  },
+  "word": {
+    "id": "futhark",
+    "word": "futhark",
+    "url": "https://www.merriam-webster.com/dictionary/futhark",
+    "partOfSpeech": "noun",
+    "pronunciation": "FOO-thahrk",
+    "audioPath": "audio/words/futhark.mp3",
+    "definitions": [
+      "any of several alphabets used by the Germanic peoples from about the 3d to the 13th centuries - called also the runic alphabet"
+    ],
+    "examples": [
+      "The people used futhark, which was divided into three families of eight signs each."
+    ],
+    "origin": "The word \"futhark\" describes an alphabet originally of 24 and later of some 16 angular characters. It is suspected to be derived from both Latin and Greek and was used for inscriptions and magic signs by the Germanic peoples, and especially by the Scandinavians and Anglo-Saxons, from about the third to the 13th centuries. The spelling \"futhark\" is from the first six symbols of the runic alphabet: f, u, th, a, r, k. The alphabet did, however, encounter revision of letters over time resulting in the variants \"futhorc\" and \"futhork.\""
+  }
+}

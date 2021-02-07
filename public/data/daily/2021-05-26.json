@@ -1,0 +1,135 @@
+{
+  "artist": {
+    "id": "marina-abramovic",
+    "name": "Marina Abramović",
+    "dates": "Born Nov 30, 1946",
+    "mainImg": "img/art/artists/marina-abramovic.jpg",
+    "artworkImgs": [
+      {
+        "name": "6-Crystal Standing Pillar (Produced for Terra Comunal)",
+        "path": "img/art/artworks/marina-abramovic-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/6-crystal-standing-pillar-produced-for-terra-comunal/6AEzkC01VQUx2Q"
+      },
+      {
+        "name": "Kaldor Public Art Project 30: Marina Abramović 2015",
+        "path": "img/art/artworks/marina-abramovic-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/kaldor-public-art-project-30-marina-abramović-2015-marina-abramović/GgFPq9e00Sxz4g"
+      },
+      {
+        "name": "Cleaning the Mirror I",
+        "path": "img/art/artworks/marina-abramovic-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/cleaning-the-mirror-i-marina-abramović/swGZ7fmKAdj-zQ"
+      },
+      {
+        "name": "Shoes for Departure",
+        "path": "img/art/artworks/marina-abramovic-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/shoes-for-departure-marina-abramović/ugFXmdCZ70Qn_Q"
+      },
+      {
+        "name": "6-Crystal Standing Pillar (Produced for Terra Comunal)",
+        "path": "img/art/artworks/marina-abramovic-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/6-crystal-standing-pillar-produced-for-terra-comunal/wQEcU-jzvAkY7Q"
+      },
+      {
+        "name": "Counting the Rice (Presented at MONA)",
+        "path": "img/art/artworks/marina-abramovic-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/counting-the-rice-presented-at-mona/XQHM7mciqO1HrQ"
+      }
+    ],
+    "summary": [
+      "Marina Abramović is a Serbian American conceptual and performance artist, philanthropist and art filmmaker. Her work explores body art, endurance art and feminist art, the relationship between performer and audience, the limits of the body, and the possibilities of the mind. Being active for over four decades, Abramović refers to herself as the \"grandmother of performance art\". She pioneered a new notion of identity by bringing in the participation of observers, focusing on \"confronting pain, blood, and physical limits of the body\"."
+    ],
+    "quote": "“Once, Picasso was asked what his paintings meant. He said, 'Do you ever know what the birds are singing? You don’t. But you listen to them anyway.' So, sometimes with art, it is important just to look.”",
+    "movements": ["Conceptual art", "Contemporary art", "Performance art"],
+    "mediums": ["Rock", "Gemstone", "Quartz", "Glass", "Metal", "Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87",
+    "urlGoogle": "https://artsandculture.google.com/entity/marina-abramović/m02d100"
+  },
+  "event": {
+    "id": "capture-of-brielle",
+    "name": "Capture of Brielle",
+    "dates": null,
+    "mainImg": "img/events/capture-of-brielle.jpg",
+    "summary": [
+      "The Capture of Brielle by the Watergeuzen, on 1 April 1572 marked a turning point in the uprising of the Low Countries against Spain in the Eighty Years' War. Militarily the success was minor as the port of Brielle was undefended, but it provided the first foothold on land for the rebels at a time when the rebellion was all but crushed, and it offered the sign for a new revolt throughout the Netherlands which led to the formation of the Dutch Republic."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Capture_of_Brielle",
+    "urlGoogle": "https://artsandculture.google.com/entity/capture-of-brielle/m0f_6n4"
+  },
+  "funFacts": [
+    {
+      "id": "159",
+      "fact": "The first TV show ever to be put into reruns was \"The Lone Ranger.\"",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "750",
+      "fact": "The common garden worm has five pairs of hearts.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "677",
+      "fact": "A full-grown tree produces enough oxygen to support a family of four.",
+      "category": ["Plants", "Science"]
+    }
+  ],
+  "funFacts2": [],
+  "idiom": {
+    "id": "make-a-virtue-of-necessity",
+    "term": "make a virtue of necessity",
+    "definition": "Do the best one can under given circumstances, as in *Since he can't break the contract, Bill's making a virtue of necessity.* This expression first appeared in English in Chaucer's *The Knight's Tale:* \"Then is it wisdom, as it thinketh me, to make virtue of necessity.\""
+  },
+  "person": {
+    "id": "gabriele-d-annunzio",
+    "name": "Gabriele D'Annunzio",
+    "dates": "Mar 12, 1863 - Mar 1, 1938",
+    "mainImg": "img/people/gabriele-d-annunzio.jpg",
+    "summary": [
+      "General Gabriele D'Annunzio, Prince of Montenevoso OMS CMG MVM, sometimes spelled d'Annunzio, was an Italian poet, playwright, and journalist and soldier during World War I. He occupied a prominent place in Italian literature from 1889 to 1910 and later political life from 1914 to 1924. He was often referred to under the epithets Il Vate or Il Profeta.",
+      "D'Annunzio was associated with the Decadent movement in his literary works, which interplayed closely with French Symbolism and British Aestheticism. Such works represented a turn against the naturalism of the preceding romantics and was both sensuous and mystical. He came under the influence of Friedrich Nietzsche which would find outlets in his literary and later political contributions. His affairs with several women, including Eleonora Duse and Luisa Casati, received public attention.",
+      "During the First World War, perception of D'Annunzio in Italy transformed from literary figure into a national war hero. He was associated with the elite Arditi storm troops of the Italian Army and took part in actions such as the Flight over Vienna."
+    ],
+    "quote": "“Limit to courage? There is no limit to courage.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Gabriele_D%27Annunzio",
+    "urlGoogle": "https://artsandculture.google.com/entity/gabriele-d-annunzio/m0crft"
+  },
+  "place": {
+    "id": "jersey-city",
+    "name": "Jersey City",
+    "mainImg": "img/places/jersey-city.jpg",
+    "summary": [
+      "Jersey City is the second-most populous city in the U.S. state of New Jersey, after Newark. It is the seat of Hudson County as well as the county's largest city. The Census Bureau's Population Estimates Program calculated that the city's population was 262,075 in 2019, ranking as the 80th-most-populous incorporated place in the nation. The 2019 estimate represents an increase of about 5.8% from the 2010 United States Census, when the city's population was at 247,597, ranking the city the nation's 78th-largest by population.",
+      "After a peak population of 316,715 measured in the 1930 Census, the city's population saw a half-century-long decline to a nadir of 223,532 in the 1980 Census. Since then, the city's population has rebounded, with the 2010 population reflecting an increase of 7,542 from the 240,055 counted in the 2000 Census, which had in turn increased by 11,518 from the 228,537 counted in the 1990 Census.",
+      "Part of the New York metropolitan area, Jersey City is bounded on the east by the Hudson River and Upper New York Bay and on the west by the Hackensack River and Newark Bay."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Jersey_City,_New_Jersey",
+    "urlGoogle": "https://artsandculture.google.com/entity/jersey-city/m0xn7q"
+  },
+  "quote": {
+    "id": "31",
+    "quote": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin"
+  },
+  "wiki": {
+    "id": "u-s-route-40-alternate-keysers-ridge-cumberland-maryland",
+    "name": "U.S. Route 40 Alternate (Keysers Ridge–Cumberland, Maryland)",
+    "summary": "U.S. Route 40 Alternate (Alt US 40) is the U.S. Highway designation for a former segment of U.S. Route 40 (US 40) through Garrett and Allegany counties in Maryland. The highway begins at US 40 near exit 14 on Interstate 68 and runs 31.80 miles (51.18 km) eastward to Cumberland, where it ends at exit 44 on Interstate 68. The highway is known as Old National Pike because it follows the original alignment of the National Road. As the route of the historic National Road, there are many historic sites along Alt US 40, including the Casselman Bridge in Grantsville and the last remaining National Road toll gate house in Maryland, located in LaVale. When the National Freeway was built in western Maryland paralleling the old National Road, the part of the bypassed road between Keyser's Ridge and Cumberland became Alt US 40, and other bypassed sections east of Cumberland became Maryland Route 144 and U.S. Route 40 Scenic. Although Alt US 40 is now less important because of the construction of Interstate 68, it remains an important route for local traffic and serves as the Main Streets of Grantsville and Frostburg.",
+    "url": "https://en.wikipedia.org/wiki/U.S._Route_40_Alternate_(Keysers_Ridge%E2%80%93Cumberland,_Maryland)"
+  },
+  "word": {
+    "id": "meld",
+    "word": "meld",
+    "url": "https://www.merriam-webster.com/dictionary/meld",
+    "partOfSpeech": "verb",
+    "pronunciation": "MELD",
+    "audioPath": "audio/words/meld.mp3",
+    "definitions": ["merge, blend"],
+    "examples": [
+      "Simmer the sauce until the flavors have _melded_ together.",
+      "\"This work is described as a collaborative, interdisciplinary project _melding_ the contemporary visions of a choreographer, a filmmaker, a visual artist, and a fashion designer.\" -- From a review by Jennifer Edwards on The Huffington Post (huffingtonpost.com), November 24, 2010"
+    ],
+    "origin": "As a verb meaning \"to blend or merge,\" \"meld\" dates only to the 1930s. In its early days, the word attracted some unfavorable attention. Those who didn't like it tended to perceive it as a misuse of an older \"meld\" meaning \"to declare or announce (a card or cards) for a score in a card game (as pinochle or gin rummy).\" But the new \"meld,\" a blend of \"melt\" and \"weld,\" was an entirely new coinage suggesting a smooth and thorough blending of two or more things into a single, homogeneous whole. The word is no longer controversial."
+  }
+}

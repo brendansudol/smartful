@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "diego-velazquez",
+    "name": "Diego Velázquez",
+    "dates": "1599 - Aug 6, 1660",
+    "mainImg": "img/art/artists/diego-velazquez.jpg",
+    "artworkImgs": [
+      {
+        "name": "Infanta Margarita Teresa in a Blue Dress",
+        "path": "img/art/artworks/diego-velazquez-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/infanta-margarita-teresa-in-a-blue-dress-diego-rodriguez-de-silva-y-velázquez/pAHSoRgE1VSx2w"
+      },
+      {
+        "name": "An Old Woman Cooking Eggs",
+        "path": "img/art/artworks/diego-velazquez-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/an-old-woman-cooking-eggs-diego-velazquez/yAExwHvTwQkv1Q"
+      },
+      {
+        "name": "The Needlewoman",
+        "path": "img/art/artworks/diego-velazquez-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-needlewoman-diego-velázquez/VwGJCVvaIy-huQ"
+      },
+      {
+        "name": "Pope Innocent X",
+        "path": "img/art/artworks/diego-velazquez-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/pope-innocent-x-circle-of-diego-velázquez/LgHYIz1SEoTCDw"
+      },
+      {
+        "name": "Tavern Scene with Two Men and a Girl",
+        "path": "img/art/artworks/diego-velazquez-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/tavern-scene-with-two-men-and-a-girl-diego-rodríguez-de-silva-y-velázquez/1wH_QdB4p4ALMw"
+      },
+      {
+        "name": "The Three Musicians",
+        "path": "img/art/artworks/diego-velazquez-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-three-musicians-diego-velázquez/VgG9uyYlMjQ8DQ"
+      }
+    ],
+    "summary": [
+      "Diego Rodríguez de Silva y Velázquez was a Spanish painter, the leading artist in the court of King Philip IV and of the Spanish Golden Age. He was an individualistic artist of the contemporary Baroque period. He began to paint in a precise tenebrist style, later developing a freer manner characterized by bold brushwork. In addition to numerous renditions of scenes of historical and cultural significance, he painted scores of portraits of the Spanish royal family and commoners, culminating in his masterpiece Las Meninas.",
+      "Velázquez's artwork became a model for 19th century realist and impressionist painters. In the 20th century, artists such as Pablo Picasso, Salvador Dalí and Francis Bacon paid tribute to Velázquez by re-interpreting some of his most iconic images."
+    ],
+    "quote": "“I would rather be the first painter of common things than second in higher art.”",
+    "movements": ["Baroque", "Antwerp school", "Street art"],
+    "mediums": ["Oil paint", "Engraving", "Watercolor painting", "Laid paper", "Drawing", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez",
+    "urlGoogle": "https://artsandculture.google.com/entity/diego-velázquez/m0k92y"
+  },
+  "event": {
+    "id": "pan-american-exposition",
+    "name": "Pan-American Exposition",
+    "dates": "May 1, 1901 - Nov 2, 1901",
+    "mainImg": "img/events/pan-american-exposition.jpg",
+    "summary": [
+      "The Pan-American Exposition was a World's Fair held in Buffalo, New York, United States, from May 1 through November 2, 1901. The fair occupied 350 acres of land on the western edge of what is now Delaware Park, extending from Delaware Avenue to Elmwood Avenue and northward to Great Arrow Avenue. It is remembered today primarily for being the location of the assassination of United States President William McKinley at the Temple of Music on September 6, 1901. The exposition was illuminated at night. Thomas A. Edison, Inc. filmed it during the day and a pan of it at night."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pan-American_Exposition",
+    "urlGoogle": "https://artsandculture.google.com/entity/pan-american-exposition/m01g83d"
+  },
+  "funFacts": [
+    { "id": "61", "fact": "Pigs can get sunburn.", "category": ["Animals"] },
+    { "id": "819", "fact": "Children grow faster during springtime.", "category": ["Anatomy"] },
+    {
+      "id": "74",
+      "fact": "You share your birthday with at least 9 million other people in the world.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553732",
+      "fact": "On August 10, 1984, Red Dawn became the first movie to be released with a PG-13 rating."
+    },
+    { "id": "522153", "fact": "On Scooby-Doo, Shaggy’s real name is Norville Rogers." },
+    { "id": "506502", "fact": "Danny DeVito is an experienced hairdresser." }
+  ],
+  "idiom": {
+    "id": "swan-song",
+    "term": "swan song",
+    "definition": "A final accomplishment or performance, one's last work. For example, *I'm resigning tomorrow; this project was my swan song.* This term alludes to the old belief that swans normally are mute but burst into beautiful song moments before they die. Although the idea is much older, the term was first recorded in English only in 1890."
+  },
+  "person": {
+    "id": "haakon-vii-of-norway",
+    "name": "Haakon VII of Norway",
+    "dates": "Aug 3, 1872 - Sep 21, 1957",
+    "mainImg": "img/people/haakon-vii-of-norway.jpg",
+    "summary": [
+      "Haakon VII was the King of Norway from 1905 until his death in 1957.",
+      "Originally a Danish prince, he was born in Copenhagen as the son of the future Frederick VIII of Denmark and Louise of Sweden. Prince Carl was educated at the Royal Danish Naval Academy and served in the Royal Danish Navy. After the 1905 dissolution of the union between Sweden and Norway, Prince Carl was offered the Norwegian crown. Following a November plebiscite, he accepted the offer and was formally elected King of Norway by the Storting. He took the Old Norse name Haakon and ascended to the throne as Haakon VII, becoming the first independent Norwegian monarch since 1387.",
+      "Norway was invaded by Nazi Germany in April 1940. Haakon rejected German demands to legitimise the Quisling regime's puppet government and refused to abdicate after going into exile in Great Britain. As such, he played a pivotal role in uniting the Norwegian nation in its resistance to the invasion and the subsequent five-year-long occupation during the Second World War. He returned to Norway in June 1945 after the defeat of Germany."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Haakon_VII_of_Norway",
+    "urlGoogle": "https://artsandculture.google.com/entity/haakon-vii-of-norway/m0h93f"
+  },
+  "place": {
+    "id": "kazan",
+    "name": "Kazan",
+    "mainImg": "img/places/kazan.jpg",
+    "summary": [
+      "Kazan is the capital and largest city of the Republic of Tatarstan, Russia. With a population of 1,243,500, it is the sixth most populous city in Russia.",
+      "Kazan lies at the confluence of the Volga and Kazanka Rivers in Western Russia, about 715 kilometres east from Moscow. In the Late Middle Ages, Kazan was an important trade and political center within the Golden Horde. In 1438, the city became the capital of the Khanate of Kazan. In 1552, Kazan was captured by Ivan the Terrible and became part of Russia. The city was largely destroyed during Pugachev's Rebellion, but was later rebuilt during the reign of Catherine the Great. In the following centuries, Kazan grew to become a major industrial, cultural and religious center in Russia. Kazan was one of the host cities of the 2018 FIFA World Cup.",
+      "Kazan is renowned for its vibrant mix of Oriental and Russian cultures. In 2015, 2.1 million tourists visited Kazan, and 1.5 million tourists visited the Kazan Kremlin, a World Heritage Site. In April 2009, the Russian Patent Office granted Kazan the right to brand itself as the \"Third Capital\" of Russia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kazan",
+    "urlGoogle": "https://artsandculture.google.com/entity/kazan/m01cr28"
+  },
+  "quote": {
+    "id": "20",
+    "quote": "We make a living by what we get, but we make a life by what we give.",
+    "author": "Winston Churchill"
+  },
+  "wiki": {
+    "id": "flea-musician",
+    "name": "Flea (musician)",
+    "summary": "Flea (born 1962) is an Australian American bassist, trumpet player, and occasional actor. He is best known as the bassist and founding member of the alternative rock band Red Hot Chili Peppers. His work with the band incorporates several musical styles, ranging from aggressive slap bass to more subdued and melodic techniques. Aside from the Red Hot Chili Peppers, he has collaborated with many artists, including Jane's Addiction, Nirvana, The Mars Volta and Alanis Morissette. Drawing influences from funk and punk rock, Flea centers his bass playing on simplicity and minimalism, viewing complexity as a device that should be used in moderation. Originally a trumpet prodigy, Flea initially learned to play bass in high school after being taught by close friend and future Red Hot Chili Peppers guitarist Hillel Slovak, who required a bassist for his band Anthym. Flea joined the group, but quit several months subsequent in order to play for the punk rock outfit Fear. He soon rejoined Slovak to form an intended one-off band along with fellow high school alumni Anthony Kiedis and Jack Irons; the impromptu collaboration would ultimately give birth to the Red Hot Chili Peppers.",
+    "url": "https://en.wikipedia.org/wiki/Flea_(musician)"
+  },
+  "word": {
+    "id": "commemorate",
+    "word": "commemorate",
+    "url": "https://www.merriam-webster.com/dictionary/commemorate",
+    "partOfSpeech": "verb",
+    "pronunciation": "kuh-MEM-uh-rayt",
+    "audioPath": "audio/words/commemorate.mp3",
+    "definitions": [
+      "to call to remembrance",
+      "to mark by some ceremony or observation : observe",
+      "to serve as a memorial of"
+    ],
+    "examples": [
+      "A plaque _commemorates_ the battle that took place on the spot 200 years ago.",
+      "\"Pictorial postmarks are event postmarks offered by the Postal Service to _commemorate_ local community events, such as fairs, conventions or other types of local celebrations.\" - From an article in the _Sun Journal_ (Lewiston, Maine), May 14, 2012"
+    ],
+    "origin": "When you remember something, you are mindful of it. It's appropriate, therefore, that \"commemorate\" and other related memory-associated words (including \"memorable,\" \"memorial,\" \"remember,\" and \"memory\" itself) come from the Latin root \"memor,\" meaning \"mindful.\" Some distant older relatives are Old English \"gemimor\" (\"well-known\"), Greek \"mermēra\" (\"care\"), and Sanskrit \"smarati\" (\"he remembers\"). English speakers have been marking the memory of important events with \"commemorate\" since the late 16th century."
+  }
+}

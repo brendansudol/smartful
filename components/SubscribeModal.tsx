@@ -22,7 +22,7 @@ export function SubscribeModal() {
 
     try {
       setStatus(Status.LOADING);
-      await fetch("/api/addEmail", {
+      await fetch("/api/subscribe", {
         method: "POST",
         body: JSON.stringify({ email }),
         headers: { "Content-Type": "application/json" },
@@ -40,10 +40,7 @@ export function SubscribeModal() {
       <Heading mb={3} sx={{ fontSize: 4 }}>
         Subscribe
       </Heading>
-      <Box mb={3}>
-        Do you want these interesting nuggets in your inbox? Sign up for the daily email and learn
-        five new things before breakfast.
-      </Box>
+      <Box mb={3}>Sign up for the daily email and learn five new things before breakfast.</Box>
       <Box mb={2} as="form" onSubmit={handleSubmit}>
         <Flex mx={-1} sx={{ alignItems: "center" }}>
           <Box px={1} sx={{ flex: "1 1 auto" }}>

@@ -18,9 +18,9 @@ export function AboutModal() {
         About
       </Heading>
       <Box mb={3}>
-        <strong>Smartful</strong> provides a daily dose of timeless knowledge on a variety of
-        subjects, from history to linguistics to the arts and more. It's never been easier to learn
-        something new and exciting every single day.
+        <strong>Smartful</strong> provides a daily dose of knowledge on a variety of topics, from
+        history to linguistics to the arts and more. It's never been easier to learn something new
+        and interesting every single day.
       </Box>
       <Box sx={{ fontSize: 1 }}>
         {ABOUT_LINKS.map((link, idx) => (

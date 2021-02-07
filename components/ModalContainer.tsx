@@ -28,14 +28,14 @@ export function ModalContainer({ children, focusRef, onClose, isOpen = true }: I
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        justifyContent: "center",
+        justifyContent: [null, "center"],
         zIndex: 100,
       }}
     >
       <DialogContent
         aria-label="Check this out!"
         sx={{
-          m: 2,
+          m: 3,
           p: 3,
           bg: "background",
           borderRadius: 8,

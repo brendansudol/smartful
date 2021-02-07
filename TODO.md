@@ -1,5 +1,9 @@
 TODO
 
-- tooltips for start / end date nav?
+- unsub page / api route
 - better post email submission ux
-- unsub api route
+- better copy
+
+LATER
+
+- tooltips for start / end date nav?

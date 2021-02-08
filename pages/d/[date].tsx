@@ -27,6 +27,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
     props: {
       data,
       dateISO,
+      isHomepage: false,
     },
   };
 };

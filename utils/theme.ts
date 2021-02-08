@@ -298,6 +298,7 @@ export default {
   alerts: {
     primary: {
       color: "background",
+      borderRadius: 8,
     },
     secondary: {
       color: "background",

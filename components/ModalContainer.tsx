@@ -41,7 +41,7 @@ export function ModalContainer({ children, focusRef, onClose, isOpen = true }: I
           borderRadius: 8,
           position: "relative",
           minWidth: 320,
-          maxWidth: 600,
+          maxWidth: 550,
           maxHeight: "90%",
           overflow: "auto",
           outline: "none",

@@ -13,16 +13,17 @@ import { formatDate } from "../utils/dates";
 interface IProps {
   data: IDayData;
   dateISO: string;
+  isHomepage?: boolean;
 }
 
-export default function Home({ data, dateISO }: IProps) {
+export default function Home({ data, dateISO, isHomepage = true }: IProps) {
   const date = parseISO(dateISO);
-  const dateDisplay = format(date, "MMM d");
+  const dateDisplay = format(date, "MMM do yyyy");
 
   return (
     <div>
       <Head>
-        <title>Smartful :: {dateDisplay} :: Learn something every day</title>
+        <title>Smartful :: {isHomepage ? "Learn something every day" : dateDisplay}</title>
       </Head>
       <Box bg="yellow" py={2} />
       <Box sx={{ maxWidth: 950, mx: "auto", px: 3, py: [4, 5] }}>

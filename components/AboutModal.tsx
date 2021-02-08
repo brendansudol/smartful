@@ -22,7 +22,7 @@ export function AboutModal() {
         history to linguistics to the arts and more. It's never been easier to learn something new
         and interesting every single day.
       </Box>
-      <Box sx={{ fontSize: 1 }}>
+      <Box sx={{ fontSize: [0, 1] }}>
         {ABOUT_LINKS.map((link, idx) => (
           <Link key={idx} mr={3} target="_blank" href={link.href}>
             {link.text}

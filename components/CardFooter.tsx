@@ -1,4 +1,4 @@
-import { Box, Button, Card, Flex, IconButton, Image, Link, Text } from "theme-ui";
+import { Box, Link, Text } from "theme-ui";
 
 interface IProps {
   moreUrl?: string;

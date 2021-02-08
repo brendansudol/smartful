@@ -1,4 +1,4 @@
-import { addDays, format, isToday, parseISO, startOfToday } from "date-fns";
+import { addDays, format, isToday } from "date-fns";
 import { useRouter } from "next/router";
 import { Box, Card, Flex, IconButton, Text } from "theme-ui";
 import { ChevronLeft, ChevronRight } from "../utils/icons";

@@ -3,6 +3,7 @@ import Head from "next/head";
 import { useEffect } from "react";
 import smoothScroll from "smoothscroll-polyfill";
 import { ThemeProvider } from "theme-ui";
+import { Analytics } from "../components/Analytics";
 import { ThemeGlobal } from "../components/ThemeGlobal";
 import { ModalProvider } from "../contexts/modal";
 import theme from "../utils/theme";
@@ -22,6 +23,7 @@ function App({ Component, pageProps }: AppProps) {
         </Head>
         <ThemeGlobal />
         <Component {...pageProps} />
+        <Analytics />
       </ModalProvider>
     </ThemeProvider>
   );

@@ -1,4 +1,5 @@
-import { addDays, format, isToday } from "date-fns";
+import Tippy from "@tippyjs/react";
+import { addDays, format, isToday as isTodayFn } from "date-fns";
 import { useRouter } from "next/router";
 import { Box, Card, Flex, IconButton, Text } from "theme-ui";
 import { ChevronLeft, ChevronRight } from "../utils/icons";
@@ -11,12 +12,19 @@ interface IProps {
 export function DateNav({ date }: IProps) {
   const dateISO = formatDate(date);
   const router = useRouter();
+  const isToday = isTodayFn(date);
 
   const goToDay = (delta: number) => () => {
     const nextDate = addDays(date, delta);
     const nextDateISO = formatDate(nextDate);
     router.push(`/d/${nextDateISO}`);
   };
+
+  const nextButton = (
+    <IconButton disabled={isToday} onClick={goToDay(1)}>
+      <ChevronRight size={26} />
+    </IconButton>
+  );
 
   return (
     <Card mb={3}>
@@ -25,14 +33,19 @@ export function DateNav({ date }: IProps) {
           <Text sx={{ display: ["none", "block"] }}>{format(date, "MMMM do yyyy")}</Text>
           <Text sx={{ display: ["block", "none"] }}>{format(date, "MMM do yyyy")}</Text>
         </Box>
-        <Box>
+        <Flex>
           <IconButton mr={1} disabled={dateISO === START_DATE_ISO} onClick={goToDay(-1)}>
             <ChevronLeft size={26} />
           </IconButton>
-          <IconButton disabled={isToday(date)} onClick={goToDay(1)}>
-            <ChevronRight size={26} />
-          </IconButton>
-        </Box>
+          {isToday ? (
+            <Tippy content="Come back tomorrow!" trigger="click">
+              {/* `Box` wrapper needed because button is disabled */}
+              <Box sx={{ lineHeight: 1 }}>{nextButton}</Box>
+            </Tippy>
+          ) : (
+            nextButton
+          )}
+        </Flex>
       </Flex>
     </Card>
   );

@@ -8,6 +8,7 @@ import { ThemeGlobal } from "../components/ThemeGlobal";
 import { ModalProvider } from "../contexts/modal";
 import theme from "../utils/theme";
 
+import "tippy.js/dist/tippy.css";
 import "../styles/globals.css";
 
 function App({ Component, pageProps }: AppProps) {

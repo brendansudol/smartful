@@ -1,22 +1,21 @@
 import Tippy from "@tippyjs/react";
-import { addDays, format, isToday as isTodayFn } from "date-fns";
+import { DateTime } from "luxon";
 import { useRouter } from "next/router";
 import { Box, Card, Flex, IconButton, Text } from "theme-ui";
 import { ChevronLeft, ChevronRight } from "../utils/icons";
-import { formatDate, START_DATE_ISO } from "../utils/dates";
+import { isToday as isTodayFn, START_DATE_ISO } from "../utils/dates";
 
 interface IProps {
-  date: Date;
+  date: DateTime;
 }
 
 export function DateNav({ date }: IProps) {
-  const dateISO = formatDate(date);
+  const dateISO = date.toISODate();
+  const isToday = isTodayFn(dateISO);
   const router = useRouter();
-  const isToday = isTodayFn(date);
 
-  const goToDay = (delta: number) => () => {
-    const nextDate = addDays(date, delta);
-    const nextDateISO = formatDate(nextDate);
+  const goToDay = (dayDelta: number) => () => {
+    const nextDateISO = date.plus({ days: dayDelta }).toISODate();
     router.push(`/d/${nextDateISO}`);
   };
 
@@ -30,8 +29,8 @@ export function DateNav({ date }: IProps) {
     <Card mb={3}>
       <Flex py={1} sx={{ alignItems: "center", justifyContent: "space-between" }}>
         <Box sx={{ fontSize: 3, fontWeight: "bold" }}>
-          <Text sx={{ display: ["none", "block"] }}>{format(date, "MMMM do yyyy")}</Text>
-          <Text sx={{ display: ["block", "none"] }}>{format(date, "MMM do yyyy")}</Text>
+          <Text sx={{ display: ["none", "block"] }}>{date.toFormat("DDD")}</Text>
+          <Text sx={{ display: ["block", "none"] }}>{date.toFormat("DD")}</Text>
         </Box>
         <Flex>
           <IconButton mr={1} disabled={dateISO === START_DATE_ISO} onClick={goToDay(-1)}>

@@ -1,4 +1,4 @@
-import { format, parseISO, startOfToday } from "date-fns";
+import { DateTime } from "luxon";
 import { GetServerSideProps } from "next";
 import Head from "next/head";
 import { Box } from "theme-ui";
@@ -8,7 +8,7 @@ import { ScrollToTop } from "../components/ScrollToTop";
 import { Sidebar } from "../components/Sidebar";
 import { getData } from "../lib/getData";
 import { IDayData } from "../lib/types";
-import { formatDate } from "../utils/dates";
+import { getTodayISO, parseISO } from "../utils/dates";
 
 interface IProps {
   data: IDayData;
@@ -18,7 +18,7 @@ interface IProps {
 
 export default function Home({ data, dateISO, isHomepage = true }: IProps) {
   const date = parseISO(dateISO);
-  const dateDisplay = format(date, "MMM do yyyy");
+  const dateDisplay = date.toFormat("DD");
 
   return (
     <div>
@@ -41,8 +41,7 @@ export default function Home({ data, dateISO, isHomepage = true }: IProps) {
 }
 
 export const getServerSideProps: GetServerSideProps = async (_context) => {
-  const today = startOfToday();
-  const dateISO = formatDate(today);
+  const dateISO = getTodayISO();
   const data = getData(dateISO);
 
   return {

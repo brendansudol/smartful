@@ -1,7 +1,6 @@
-import { startOfToday } from "date-fns";
 import type { NextApiRequest, NextApiResponse } from "next";
 import { table } from "../../utils/airtable";
-import { formatDate } from "../../utils/dates";
+import { getTodayISO } from "../../utils/dates";
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const { email } = req.body;
@@ -12,7 +11,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     });
   }
 
-  const today = formatDate(startOfToday());
+  const today = getTodayISO();
   const fields = {
     email,
     createDate: today,

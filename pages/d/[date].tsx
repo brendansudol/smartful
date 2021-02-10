@@ -1,7 +1,6 @@
-import { isFuture, isValid, parseISO } from "date-fns";
 import { GetServerSideProps } from "next";
 import { getData } from "../../lib/getData";
-import { formatDate, START_DATE } from "../../utils/dates";
+import { isFuture, parseISO, START_DATE_ISO } from "../../utils/dates";
 import Home from "../index";
 
 // re-use component from `pages/index`
@@ -9,9 +8,9 @@ export default Home;
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
   const dateParam = context.query.date as string;
-  const date = parseISO(dateParam);
+  const dateISO: string | null = parseISO(dateParam).toISODate();
 
-  if (!isValid(date) || isFuture(date) || date < START_DATE) {
+  if (dateISO == null || dateISO < START_DATE_ISO || isFuture(dateISO)) {
     return {
       redirect: {
         destination: "/",
@@ -20,13 +19,10 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
     };
   }
 
-  const dateISO = formatDate(date);
-  const data = getData(dateISO);
-
   return {
     props: {
-      data,
       dateISO,
+      data: getData(dateISO),
       isHomepage: false,
     },
   };

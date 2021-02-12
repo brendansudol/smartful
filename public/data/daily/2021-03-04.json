@@ -128,16 +128,17 @@
     "url": "https://en.wikipedia.org/wiki/Arthur_Gould_(rugby_union)"
   },
   "word": {
-    "id": "gallimaufry",
-    "word": "gallimaufry",
-    "url": "https://www.merriam-webster.com/dictionary/gallimaufry",
-    "partOfSpeech": "noun",
-    "pronunciation": "gal-uh-MAW-free",
-    "audioPath": "audio/words/gallimaufry.mp3",
-    "definitions": ["hodgepodge"],
+    "id": "condign",
+    "word": "condign",
+    "url": "https://www.merriam-webster.com/dictionary/condign",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kun-DYNE",
+    "audioPath": "audio/words/condign.mp3",
+    "definitions": ["deserved, appropriate"],
     "examples": [
-      "I was ready to leave the flea market, when, on one table, among a gallimaufry of undistinguished objects, I caught sight of an exquisite silver spoon engraved with my initials."
+      "A suspension without pay is _condign_ punishment for breaking the company's code of business ethics.",
+      "\"Kara Mustafa's failure, ignominious retreat and _condign_ punishment were greeted with glee in Western Europe.\" -- From Andrew Wheatcroft's 2009 book _The Enemy at the Gate: Habsburgs, Ottomans, and the Battle for Europe_"
     ],
-    "origin": "If the word \"gallimaufry\" doesn't make your mouth water, it may be because you don't know its history. In the 16th century, Middle-French speaking cooks made a meat stew called \"galimafree.\" It must have been a varied dish, because English speakers chose its name for any mix or jumble of things. If \"gallimaufry\" isn't to your taste, season your speech with one of its synonyms: \"hash\" (which can be a muddle or chopped meat and potatoes), \"hotchpotch\" (a stew or a hodgepodge), or \"potpourri\" (another stew turned medley)."
+    "origin": "In his 1755 _Dictionary of the English Language_, lexicographer Samuel Johnson noted that \"condign\" was \"always used of something deserved by crimes.\" Even today, it is most likely to be used to modify \"punishment\" or a related word, such as \"redress,\" \"justice,\" or \"chastisement.\" And yet, \"condign\" (which traces to Latin \"com-,\" meaning \"thoroughly,\" and \"dignus,\" meaning \"worthy\") once meant \"worthy\" or \"of equal worth or dignity\" in English. How did such a word get chained to \"punishment\"? It was apparently so condemned in the 1500s by the phraseology of the Tudor Acts of Parliament: \"Former statutes … for lacke of condigne punishment … be littell feared or regarded.\""
   }
 }

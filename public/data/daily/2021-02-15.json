@@ -125,16 +125,17 @@
     "url": "https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Akagi"
   },
   "word": {
-    "id": "paucity",
-    "word": "paucity",
-    "url": "https://www.merriam-webster.com/dictionary/paucity",
-    "partOfSpeech": "noun",
-    "pronunciation": "PAW-suh-tee",
-    "audioPath": "audio/words/paucity.mp3",
-    "definitions": ["smallness of number : fewness", "smallness of quantity : dearth"],
+    "id": "prescind",
+    "word": "prescind",
+    "url": "https://www.merriam-webster.com/dictionary/prescind",
+    "partOfSpeech": "verb",
+    "pronunciation": "prih-SIND",
+    "audioPath": "audio/words/prescind.mp3",
+    "definitions": ["to withdraw one's attention"],
     "examples": [
-      "The manager overheard two customers complaining about the paucity of stylish designs in the store."
+      "If we _prescind_ from the main issue for a moment, there is much to be gained by studying some corollary questions.",
+      "\"For my purposes, we may happily _prescind_ from the metaphysics.\" -- From John Collins' 2011 book _The Unity of Linguistic Meaning_"
     ],
-    "origin": "\"Paucity,\" which was first recorded in English in the 15th century, comes to us from the Middle English word \"paucite,\" and is ultimately derived from \"paucus,\" Latin for \"little.\" It is not surprising, then, that \"paucity\" came to refer to a \"littleness\" of numbers (as in \"a paucity of facts or studies\") or quantity (\"a paucity of evidence\"). One can even use paucity when speaking of abstract concepts, as in \"a paucity of experience or knowledge.\""
+    "origin": "\"Prescind\" derives from the Latin verb \"praescindere,\" which means \"to cut off in front.\" \"Praescindere,\" in turn, was formed by combining \"prae-\" (\"before\") and \"scindere\" (\"to cut\" or \"to split\"). So it should come as no surprise that when \"prescind\" began being used during the 17th century, it referred to \"cutting off\" one’s attention from a subject. An earlier (now archaic) sense was even clearer about the etymological origins of the word, with the meaning \"to cut short, off, or away\" or \"to sever.\" Other descendants of \"scindere\" include \"rescind\" and the rare \"scissile\" (\"capable of being cut\")."
   }
 }

@@ -1,62 +1,64 @@
 {
   "artist": {
-    "id": "giuseppe-arcimboldo",
-    "name": "Giuseppe Arcimboldo",
-    "dates": "Apr 5, 1526 - Jul 11, 1593",
-    "mainImg": "img/art/artists/giuseppe-arcimboldo.jpg",
+    "id": "rembrandt",
+    "name": "Rembrandt",
+    "dates": "Jul 15, 1606 - Oct 4, 1669",
+    "mainImg": "img/art/artists/rembrandt.jpg",
     "artworkImgs": [
       {
-        "name": "L’Ortolano - Giuseppe Arcimboldo",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/l’ortolano-giuseppe-arcimboldo-giuseppe-arcimboldo/YgEItjbKaPkX9Q"
+        "name": "Return of the Prodigal Son",
+        "path": "img/art/artworks/rembrandt-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/return-of-the-prodigal-son-rembrandt-harmensz-van-rijn/5QFIEhic3owZ-A"
       },
       {
-        "name": "Rudolf II of Habsburg as Vertumnus",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/rudolf-ii-of-habsburg-as-vertumnus-giuseppe-arcimboldo/TAGn3nhWHkbIBA"
+        "name": "Christ in the Storm on the Sea of Galilee",
+        "path": "img/art/artworks/rembrandt-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-in-the-storm-on-the-sea-of-galilee-rembrandt-van-rijn/HAFJC4JVXYbUBg"
       },
       {
-        "name": "The Librarian",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-librarian-giuseppe-arcimboldo/GgEi3YoGxi2baw"
+        "name": "The Night Watch",
+        "path": "img/art/artworks/rembrandt-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-night-watch-rembrandt-harmensz-van-rijn/eQEojRwTdypUKA"
       },
       {
-        "name": "La Primavera",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/la-primavera-giuseppe-arcimboldo/iwHATomxJenU4w"
+        "name": "The Syndics",
+        "path": "img/art/artworks/rembrandt-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-syndics-rembrandt-harmensz-van-rijn/ZgHt6DZhk-6SVw"
       },
       {
-        "name": "Four Seasons in One Head",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/four-seasons-in-one-head/WwHACWGI-pgLUQ"
+        "name": "Isaac and Rebecca, known as 'The Jewish Bride'",
+        "path": "img/art/artworks/rembrandt-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/isaac-and-rebecca-known-as-the-jewish-bride-rembrandt-harmensz-van-rijn/hAERFV8rdOOssw"
       },
       {
-        "name": "Self Portrait",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-giuseppe-arcimboldo/3gHpTvmCqrcIlg"
+        "name": "Moses with the Ten Commandments",
+        "path": "img/art/artworks/rembrandt-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/moses-with-the-ten-commandments-rembrandt/kQHX7sr3-DlCHA"
       }
     ],
     "summary": [
-      "Giuseppe Arcimboldo was an Italian painter best known for creating imaginative portrait heads made entirely of objects such as fruits, vegetables, flowers, fish and books.",
-      "These works form a distinct category from his other productions. He was a conventional court painter of portraits for three Holy Roman emperors in Vienna and Prague, also producing religious subjects and, among other things, a series of coloured drawings of exotic animals in the imperial menagerie. He specialized in grotesque symbolical compositions of fruits, animals, landscapes, or various inanimate objects arranged into human forms. The still-life portraits were clearly partly intended as whimsical curiosities to amuse the court, but critics have speculated as to how seriously they engaged with Renaissance Neo-Platonism or other intellectual currents of the day."
+      "Rembrandt Harmenszoon van Rijn was a Dutch draughtsman, painter, and printmaker. An innovative and prolific master in three media, he is generally considered one of the greatest visual artists in the history of art and the most important in Dutch art history. Unlike most Dutch masters of the 17th century, Rembrandt's works depict a wide range of style and subject matter, from portraits and self-portraits to landscapes, genre scenes, allegorical and historical scenes, and biblical and mythological themes as well as animal studies. His contributions to art came in a period of great wealth and cultural achievement that historians call the Dutch Golden Age, when Dutch art, although in many ways antithetical to the Baroque style that dominated Europe, was extremely prolific and innovative and gave rise to important new genres. Like many artists of the Dutch Golden Age, such as Jan Vermeer of Delft, Rembrandt was also an avid art collector and dealer.",
+      "Rembrandt never went abroad, but he was considerably influenced by the work of the Italian masters and Netherlandish artists who had studied in Italy, like Pieter Lastman, the Utrecht Caravaggists, Flemish Baroque, and Peter Paul Rubens."
     ],
-    "quote": null,
-    "movements": ["Baroque", "Renaissance", "Rococo"],
-    "mediums": ["Oil paint", "Drawing", "Ink", "Pigment", "Pen", "Etching"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo",
-    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-arcimboldo/m030b1q"
+    "quote": "“Old age is a hindrance to creativity but cannot crush my youthful spirit.”",
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Etching", "Oil paint", "Pen", "Laid paper", "Ink", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Rembrandt",
+    "urlGoogle": "https://artsandculture.google.com/entity/rembrandt/m0bskv2"
   },
   "event": {
-    "id": "1950-fifa-world-cup",
-    "name": "1950 FIFA World Cup",
-    "dates": "Jun 24, 1950 - Jul 16, 1950",
-    "mainImg": "img/events/1950-fifa-world-cup.jpg",
+    "id": "apollo-6",
+    "name": "Apollo 6",
+    "dates": null,
+    "mainImg": "img/events/apollo-6.jpg",
     "summary": [
-      "The 1950 FIFA World Cup, held in Brazil from 24 June to 16 July 1950, was the fourth FIFA World Cup. It was the first World Cup since 1938, the planned 1942 and 1946 competitions having been cancelled due to World War II. It was won by Uruguay, who had won the inaugural competition in 1930. They clinched the cup by beating the hosts Brazil 2–1 in the deciding match of the four-team final group. This was the only tournament not decided by a one-match final. It was also the first tournament where the trophy was referred to as the Jules Rimet Cup, to mark the 25th anniversary of Jules Rimet's presidency of FIFA."
+      "Apollo 6, launched on April 4, 1968, was the second A-type mission of the United States Apollo program, an uncrewed test of the Saturn V launch vehicle. It was also the final uncrewed Apollo test mission.",
+      "The objectives of the flight test were to demonstrate trans-lunar injection capability of the Saturn V with a simulated payload equal to about 80% of a full Apollo spacecraft, and to repeat demonstration of the command module's heat shield capability to withstand a lunar re-entry. The flight plan called for following trans-lunar injection with a direct return abort using the command and service module's main engine, with a total flight time of about 10 hours.",
+      "A phenomenon known as pogo oscillation damaged some of the Rocketdyne J-2 engines in the second and third stages by rupturing internal fuel lines, causing two second-stage engines to shut down early. The vehicle's onboard guidance system was able to compensate by burning the second and third stages longer, though the resulting parking orbit was more elliptical than planned. The damaged third-stage engine also failed to restart for trans-lunar injection."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup",
-    "urlGoogle": "https://artsandculture.google.com/entity/1950-fifa-world-cup/m0g9cz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Apollo_6",
+    "urlGoogle": "https://artsandculture.google.com/entity/apollo-6/m01hnw4"
   },
   "funFacts": [
     {
@@ -90,24 +92,23 @@
     }
   ],
   "idiom": {
-    "id": "put-in-mothballs",
-    "term": "put in mothballs",
-    "definition": "Defer indefinitely or for a very long time, as in *We've put the plans for a new library in mothballs.* This expression alludes to storing woolen clothing or other items with marble-size balls of naphthalene or camphor to prevent them from being damaged by moths. [1940s]"
+    "id": "wet-behind-the-ears",
+    "term": "wet behind the ears",
+    "definition": "Also, **not dry behind the ears.** Immature, inexperienced, as in *How can you take instructions from Tom? He's still wet behind the ears,* or *Jane's not dry behind the ears yet.* This term alludes to the fact that the last place to dry in a newborn colt or calf is the indentation behind its ears. [Early 1900s]"
   },
   "person": {
-    "id": "kangxi-emperor",
-    "name": "Kangxi Emperor",
-    "dates": "May 4, 1654 - Dec 20, 1722",
-    "mainImg": "img/people/kangxi-emperor.jpg",
+    "id": "joseph-pulitzer",
+    "name": "Joseph Pulitzer",
+    "dates": "Apr 10, 1847 - Oct 29, 1911",
+    "mainImg": "img/people/joseph-pulitzer.jpg",
     "summary": [
-      "The Kangxi Emperor, given name Xuanye, was the fourth Emperor of the Qing dynasty, and the second Qing emperor to rule over China properly.",
-      "The Kangxi Emperor's reign of 61 years makes him the longest-reigning emperor in Chinese history and one of the longest-reigning rulers in the world. However, since he ascended the throne at the age of seven, actual power was held for six years by four regents and his grandmother, the Grand Empress Dowager Xiaozhuang.",
-      "The Kangxi Emperor is considered one of China's greatest emperors. He suppressed the Revolt of the Three Feudatories, forced the Kingdom of Tungning in Taiwan and assorted Mongol rebels in the North and Northwest to submit to Qing rule, and blocked Tsarist Russia on the Amur River, retaining Outer Manchuria and Outer Northwest China.",
-      "The Kangxi Emperor's reign brought about long-term stability and relative wealth after years of war and chaos. He initiated the period known as the \"Prosperous Era of Kangxi and Qianlong\" or \"High Qing\", which lasted for several generations after his death. His court also accomplished such literary feats as the compilation of the Kangxi Dictionary."
+      "Joseph Pulitzer was a newspaper publisher of the St. Louis Post-Dispatch and the New York World. He became a leading national figure in the Democratic Party and was elected congressman from New York. He crusaded against big business and corruption, and helped keep the Statue of Liberty in New York.",
+      "In the 1890s the fierce competition between his World and William Randolph Hearst's New York Journal caused both to develop the techniques of yellow journalism, which won over readers with sensationalism, sex, crime and graphic horrors. The wide appeal reached a million copies a day and opened the way to mass-circulation newspapers that depended on advertising revenue and appealed to readers with multiple forms of news, gossip, entertainment and advertising.",
+      "Today, his name is best known for the Pulitzer Prizes, which were established in 1917 as a result of his endowment to Columbia University. The prizes are given annually to recognize and reward excellence in American journalism, photography, literature, history, poetry, music and drama. Pulitzer founded the Columbia School of Journalism by his philanthropic bequest; it opened in 1912."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kangxi_Emperor",
-    "urlGoogle": "https://artsandculture.google.com/entity/kangxi-emperor/m01lznw"
+    "quote": "“Publicity, publicity, publicity is the greatest moral factor and force in our public life.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Joseph_Pulitzer",
+    "urlGoogle": "https://artsandculture.google.com/entity/joseph-pulitzer/m019541"
   },
   "place": {
     "id": "darwin",
@@ -123,9 +124,9 @@
     "urlGoogle": "https://artsandculture.google.com/entity/darwin/m02bm8"
   },
   "quote": {
-    "id": "96",
-    "quote": "The time to repair the roof is when the sun is shining.",
-    "author": "John F. Kennedy"
+    "id": "55",
+    "quote": "The man who does not read has no advantage over the man who cannot read.",
+    "author": "Mark Twain"
   },
   "wiki": {
     "id": "second-malaysia-plan",
@@ -134,17 +135,16 @@
     "url": "https://en.wikipedia.org/wiki/Second_Malaysia_Plan"
   },
   "word": {
-    "id": "prescind",
-    "word": "prescind",
-    "url": "https://www.merriam-webster.com/dictionary/prescind",
-    "partOfSpeech": "verb",
-    "pronunciation": "prih-SIND",
-    "audioPath": "audio/words/prescind.mp3",
-    "definitions": ["to withdraw one's attention"],
+    "id": "gallimaufry",
+    "word": "gallimaufry",
+    "url": "https://www.merriam-webster.com/dictionary/gallimaufry",
+    "partOfSpeech": "noun",
+    "pronunciation": "gal-uh-MAW-free",
+    "audioPath": "audio/words/gallimaufry.mp3",
+    "definitions": ["hodgepodge"],
     "examples": [
-      "If we _prescind_ from the main issue for a moment, there is much to be gained by studying some corollary questions.",
-      "\"For my purposes, we may happily _prescind_ from the metaphysics.\" -- From John Collins' 2011 book _The Unity of Linguistic Meaning_"
+      "I was ready to leave the flea market, when, on one table, among a gallimaufry of undistinguished objects, I caught sight of an exquisite silver spoon engraved with my initials."
     ],
-    "origin": "\"Prescind\" derives from the Latin verb \"praescindere,\" which means \"to cut off in front.\" \"Praescindere,\" in turn, was formed by combining \"prae-\" (\"before\") and \"scindere\" (\"to cut\" or \"to split\"). So it should come as no surprise that when \"prescind\" began being used during the 17th century, it referred to \"cutting off\" one’s attention from a subject. An earlier (now archaic) sense was even clearer about the etymological origins of the word, with the meaning \"to cut short, off, or away\" or \"to sever.\" Other descendants of \"scindere\" include \"rescind\" and the rare \"scissile\" (\"capable of being cut\")."
+    "origin": "If the word \"gallimaufry\" doesn't make your mouth water, it may be because you don't know its history. In the 16th century, Middle-French speaking cooks made a meat stew called \"galimafree.\" It must have been a varied dish, because English speakers chose its name for any mix or jumble of things. If \"gallimaufry\" isn't to your taste, season your speech with one of its synonyms: \"hash\" (which can be a muddle or chopped meat and potatoes), \"hotchpotch\" (a stew or a hodgepodge), or \"potpourri\" (another stew turned medley)."
   }
 }

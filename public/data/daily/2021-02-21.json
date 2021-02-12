@@ -126,17 +126,16 @@
     "url": "https://en.wikipedia.org/wiki/Artur_Phleps"
   },
   "word": {
-    "id": "condign",
-    "word": "condign",
-    "url": "https://www.merriam-webster.com/dictionary/condign",
-    "partOfSpeech": "adjective",
-    "pronunciation": "kun-DYNE",
-    "audioPath": "audio/words/condign.mp3",
-    "definitions": ["deserved, appropriate"],
+    "id": "paucity",
+    "word": "paucity",
+    "url": "https://www.merriam-webster.com/dictionary/paucity",
+    "partOfSpeech": "noun",
+    "pronunciation": "PAW-suh-tee",
+    "audioPath": "audio/words/paucity.mp3",
+    "definitions": ["smallness of number : fewness", "smallness of quantity : dearth"],
     "examples": [
-      "A suspension without pay is _condign_ punishment for breaking the company's code of business ethics.",
-      "\"Kara Mustafa's failure, ignominious retreat and _condign_ punishment were greeted with glee in Western Europe.\" -- From Andrew Wheatcroft's 2009 book _The Enemy at the Gate: Habsburgs, Ottomans, and the Battle for Europe_"
+      "The manager overheard two customers complaining about the paucity of stylish designs in the store."
     ],
-    "origin": "In his 1755 _Dictionary of the English Language_, lexicographer Samuel Johnson noted that \"condign\" was \"always used of something deserved by crimes.\" Even today, it is most likely to be used to modify \"punishment\" or a related word, such as \"redress,\" \"justice,\" or \"chastisement.\" And yet, \"condign\" (which traces to Latin \"com-,\" meaning \"thoroughly,\" and \"dignus,\" meaning \"worthy\") once meant \"worthy\" or \"of equal worth or dignity\" in English. How did such a word get chained to \"punishment\"? It was apparently so condemned in the 1500s by the phraseology of the Tudor Acts of Parliament: \"Former statutes … for lacke of condigne punishment … be littell feared or regarded.\""
+    "origin": "\"Paucity,\" which was first recorded in English in the 15th century, comes to us from the Middle English word \"paucite,\" and is ultimately derived from \"paucus,\" Latin for \"little.\" It is not surprising, then, that \"paucity\" came to refer to a \"littleness\" of numbers (as in \"a paucity of facts or studies\") or quantity (\"a paucity of evidence\"). One can even use paucity when speaking of abstract concepts, as in \"a paucity of experience or knowledge.\""
   }
 }

@@ -1,0 +1,13 @@
+name: smartful-cron-test
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+jobs:
+  cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call API route to check auth
+        run: |
+          curl --request GET \
+          --url 'https://getsmartful.com/api/testAuth' \
+          --header 'Authorization: Bearer ${{ secrets.SUPER_SECRET_KEY }}'

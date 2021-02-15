@@ -7,10 +7,11 @@ export default function Custom404() {
       sx={{
         mx: "auto",
         maxWidth: 600,
-        minHeight: "100vh",
+        height: "100vh",
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
+        textAlign: "center",
       }}
     >
       <Flex mb={3} sx={{ alignItems: "center" }}>

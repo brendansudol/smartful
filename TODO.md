@@ -1,9 +1,14 @@
-TODO
+TODO:
 
-- fix UTC / local date mismatch
-- unsub page / api route
-- generate email html + send to subs
+- auth endpoint test
+- github action for testing auth
+- github action for sending email
+- sendEmail endpoint (behind auth)
+- unsub page / form
 
-LATER
+- previewEmail endpoint (DONE)
+- unsub endpoint (DONE)
+
+LATER:
 
 - tooltips for start / end date nav?

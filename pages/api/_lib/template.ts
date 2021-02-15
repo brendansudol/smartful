@@ -1,7 +1,12 @@
 import marked from "marked";
 import { IDayData } from "../../../lib/types";
+import { parseISO } from "../../../utils/dates";
 
-export function getHtml(data: IDayData) {
+const LOGO_URL = "https://getsmartful.com/img/logo.png";
+
+export function getHtml(dateISO: string, data: IDayData) {
+  const date = parseISO(dateISO);
+  const dateDisplay = date.toFormat("dd LLLL yyyy");
   const { artist, event, funFacts, idiom, person, quote, word } = data;
 
   // email template created & exported from https://designmodo.com/postcards/app/
@@ -15,7 +20,7 @@ export function getHtml(data: IDayData) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="format-detection" content="telephone=no">
   <meta name="x-apple-disable-message-reformatting">
-  <title></title>
+  <title>Smartful :: ${dateDisplay}</title>
   <style type="text/css">
     #outlook a {
       padding: 0;
@@ -198,22 +203,28 @@ export function getHtml(data: IDayData) {
                   <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-30 pc-xs-p-25-20" style="padding: 40px; background: #ffffff; border-radius: 10px;" bgcolor="#ffffff" valign="top">
+                        <td class="pc-sm-p-30 pc-xs-p-25-20" style="padding: 30px; background: #ffffff; border-radius: 10px;" bgcolor="#ffffff" valign="top">
                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                             <tbody>
                               <tr>
                                 <td valign="top">
-                                  <a href="http://example.com" style="text-decoration: none;"><img src="https://getsmartful.com/img/logo.png" width="40" height="40" alt="" style="max-width: 100%; height: auto; border: 0; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; font-size: 16px; color: #ffffff;"></a>
+                                  <a href="https://getsmartful.com" style="text-decoration: none;">
+                                    <img src="${LOGO_URL}" width="40" height="40" alt="" style="max-width: 100%; height: auto; border: 0; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; font-size: 16px; color: #ffffff;">
+                                  </a>
                                 </td>
                               </tr>
                               <tr>
                                 <td height="20" style="font-size: 1px; line-height: 1px">&nbsp;</td>
                               </tr>
                               <tr>
-                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 28px; font-weight: 700; line-height: 42px; color: #000000" valign="top">Smartful</td>
+                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 28px; font-weight: 700; line-height: 42px; color: #000000" valign="top">
+                                  Smartful
+                                </td>
                               </tr>
                               <tr>
-                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 20px; line-height: 30px; color: #000000" valign="top">26 November 2021</td>
+                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 20px; line-height: 30px; color: #000000" valign="top">
+                                  ${dateDisplay}
+                                </td>
                               </tr>
                             </tbody>
                           </table>
@@ -234,12 +245,14 @@ export function getHtml(data: IDayData) {
                   <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 40px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
+                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 30px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
                                 <td valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">WORD</span>
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">
+                                    WORD
+                                  </span>
                                 </td>
                               </tr>
                               <tr>
@@ -249,7 +262,7 @@ export function getHtml(data: IDayData) {
                             <tbody>
                               <tr>
                                 <td valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 34px; color: #000000">
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 28px; color: #000000">
                                     ${word.word}
                                   </span>
                                 </td>
@@ -305,12 +318,14 @@ export function getHtml(data: IDayData) {
                   <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 40px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
+                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 30px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
                                 <td valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">IDIOM</span>
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">
+                                    IDIOM
+                                  </span>
                                 </td>
                               </tr>
                               <tr>
@@ -320,7 +335,7 @@ export function getHtml(data: IDayData) {
                             <tbody>
                               <tr>
                                 <td valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 34px; color: #000000">
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 28px; color: #000000">
                                     ${idiom.term}
                                   </span>
                                 </td>
@@ -345,7 +360,9 @@ export function getHtml(data: IDayData) {
                       : ""
                   }
 
-                  <!-- BEGIN MODULE: FUN FACTS -->
+                  ${
+                    funFacts != null && funFacts.length > 0
+                      ? `<!-- BEGIN MODULE: FUN FACTS -->
                   <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                     <tbody>
                       <tr>
@@ -356,12 +373,14 @@ export function getHtml(data: IDayData) {
                   <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 40px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
+                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 30px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
                                 <td valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">FUN FACTS</span>
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">
+                                    FUN FACTS
+                                  </span>
                                 </td>
                               </tr>
                               <tr>
@@ -378,7 +397,9 @@ export function getHtml(data: IDayData) {
                       </tr>
                     </tbody>
                   </table>
-                  <!-- END MODULE: FUN FACTS -->
+                  <!-- END MODULE: FUN FACTS -->`
+                      : ""
+                  }
 
                   <!-- BEGIN MODULE: ARTIST -->
                   <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
@@ -391,12 +412,14 @@ export function getHtml(data: IDayData) {
                   <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 40px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
+                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 30px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
                                 <td colspan="2" valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">ARTIST</span>
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">
+                                    ARTIST
+                                  </span>
                                 </td>
                               </tr>
                               <tr>
@@ -409,7 +432,7 @@ export function getHtml(data: IDayData) {
                                       <tr>
                                         <td valign="top">
                                           <img
-                                            src="https://getsmartful.com/data/${artist.mainImg}"
+                                            src="${getImageUrl(artist.mainImg)}"
                                             width="60"
                                             height="60"
                                             alt="${artist.name}"
@@ -420,7 +443,7 @@ export function getHtml(data: IDayData) {
                                     </tbody>
                                   </table>
                                 </td>
-                                <td width="90%" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 34px; color: #000000" valign="middle">
+                                <td width="90%" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 28px; color: #000000" valign="middle">
                                   ${artist.name}
                                 </td>
                               </tr>
@@ -461,12 +484,14 @@ export function getHtml(data: IDayData) {
                   <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 40px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
+                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 30px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
                                 <td colspan="2" valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">HISTORICAL FIGURE</span>
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">
+                                    HISTORICAL FIGURE
+                                  </span>
                                 </td>
                               </tr>
                               <tr>
@@ -479,7 +504,7 @@ export function getHtml(data: IDayData) {
                                       <tr>
                                         <td valign="top">
                                           <img
-                                            src="https://getsmartful.com/data/${person.mainImg}"
+                                            src="${getImageUrl(person.mainImg)}"
                                             width="60"
                                             height="60"
                                             alt="${person.name}"
@@ -490,7 +515,7 @@ export function getHtml(data: IDayData) {
                                     </tbody>
                                   </table>
                                 </td>
-                                <td width="90%" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 34px; color: #000000" valign="middle">
+                                <td width="90%" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 28px; color: #000000" valign="middle">
                                   ${person.name}
                                 </td>
                               </tr>
@@ -531,12 +556,14 @@ export function getHtml(data: IDayData) {
                   <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 40px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
+                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 30px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
                                 <td colspan="2" valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">HISTORIC EVENT</span>
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">
+                                    HISTORIC EVENT
+                                  </span>
                                 </td>
                               </tr>
                               <tr>
@@ -548,22 +575,38 @@ export function getHtml(data: IDayData) {
                                     <tbody>
                                       <tr>
                                         <td valign="top">
-                                          <img src="https://getsmartful.com/img/logo.png" width="60" height="60" alt="" style="display: block; max-width: 100%; height: auto; border: 0; text-decoration: none; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic;">
+                                          <img
+                                            src="${getImageUrl(event.mainImg)}"
+                                            width="60"
+                                            height="60"
+                                            alt="${event.name}"
+                                            style="display: block; max-width: 100%; height: auto; border: 0; text-decoration: none; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; border-radius: 5px;"
+                                          />
                                         </td>
                                       </tr>
                                     </tbody>
                                   </table>
                                 </td>
-                                <td width="90%" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 34px; color: #000000" valign="middle">Yoshitoshi</td>
+                                <td width="90%" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 24px; font-weight: 700; line-height: 28px; color: #000000" valign="middle">
+                                  ${event.name}
+                                </td>
                               </tr>
                               <tr>
                                 <td colspan="2" height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
                               </tr>
                               <tr>
                                 <td colspan="2" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
-                                  <p>Tsukioka Yoshitoshi was a Japanese artist.</p>
-                                  <p>He is widely recognized as the last great master of the ukiyo-e genre of woodblock printing and painting. He is also regarded as one of the form's greatest innovators. His career spanned two eras – the last years of Edo period Japan, and the first years of modern Japan following the Meiji Restoration. Like many Japanese, Yoshitoshi was interested in new things from the rest of the world, but over time he became increasingly concerned with the loss of many aspects of traditional Japanese culture, among them traditional woodblock printing.</p>
-                                  <p><a href="https://google.com" style="color: #3333ee;">Learn more »</a></p>
+                                ${event.summary
+                                  .slice(0, 3)
+                                  .map((paragraph) => {
+                                    return `<p>${paragraph}</p>`;
+                                  })
+                                  .join("")}
+                                <p>
+                                  <a href="${event.urlWiki}"style="color: #3333ee;">
+                                    Learn more »
+                                  </a>
+                                </p>
                                 </td>
                               </tr>
                             </tbody>
@@ -573,8 +616,10 @@ export function getHtml(data: IDayData) {
                     </tbody>
                   </table>
                   <!-- END MODULE: EVENT -->
-
-                  <!-- BEGIN MODULE: QUOTE -->
+                  
+                  ${
+                    quote != null
+                      ? `<!-- BEGIN MODULE: QUOTE -->
                   <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
                     <tbody>
                       <tr>
@@ -585,12 +630,14 @@ export function getHtml(data: IDayData) {
                   <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 40px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
+                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 30px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
                                 <td valign="top">
-                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">QUOTE</span>
+                                  <span style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; letter-spacing: 1px; color: #000000; background-color: #fff59d;">
+                                    QUOTE
+                                  </span>
                                 </td>
                               </tr>
                               <tr>
@@ -598,7 +645,11 @@ export function getHtml(data: IDayData) {
                               </tr>
                               <tr>
                                 <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 20px; line-height: 28px; color: #000000" valign="top">
-                                  <p>“Someone is sitting in the shade today because someone planted a tree a long time ago.”<br><span style="font-size: 16px; color: #777777;">—Warren Buffett</span></p>
+                                  <p>
+                                    “${quote.quote}”
+                                    <br>
+                                    <span style="font-size: 16px; color: #777777;">—${quote.author}</span>
+                                  </p>
                                 </td>
                               </tr>
                             </tbody>
@@ -607,7 +658,9 @@ export function getHtml(data: IDayData) {
                       </tr>
                     </tbody>
                   </table>
-                  <!-- END MODULE: QUOTE -->
+                  <!-- END MODULE: QUOTE -->`
+                      : ""
+                  }
 
                   <!-- BEGIN MODULE: FOOTER -->
                   <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
@@ -620,25 +673,23 @@ export function getHtml(data: IDayData) {
                   <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="" style="padding: 30px 30px 40px; background-color: #ffffff; border-radius: 8px" valign="top" bgcolor="#ffffff" pc-default-class="pc-sm-p-31-20-39 pc-xs-p-15-10-25" pc-default-padding="31px 30px 39px">
+                        <td class="pc-sm-p-35-30 pc-xs-p-25-20" style="padding: 30px; background-color: #ffffff; border-radius: 10px;" valign="top" bgcolor="#ffffff">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
-                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000; padding: 10px" valign="top">
+                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
                                   <div><strong>Smartful</strong></div>
-                                  <div>24 November 2021</div>
+                                  <div>${dateDisplay}</div>
                                 </td>
                               </tr>
-                            </tbody>
-                            <tbody>
                               <tr>
                                 <td height="10" style="font-size: 1px; line-height: 1px">&nbsp;</td>
                               </tr>
                               <tr>
-                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; color: #000000; padding: 0 10px;" valign="top">
-                                  <a href="http://example.com" style="font-family: courier, menlo, consolas, monaco, monospace; color: #777777; font-size: 12px">Visit website</a>
+                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 12px; line-height: 20px; color: #000000" valign="top">
+                                  <a href="https://getsmartful.com/" style="color: #777777;">Visit website</a>
                                   <span>&nbsp;</span>
-                                  <a href="http://example.com" style="font-family: courier, menlo, consolas, monaco, monospace; color: #777777; font-size: 12px">Unsubscribe</a>
+                                  <a href="https://getsmartful.com/unsub" style="color: #777777;">Unsubscribe</a>
                                 </td>
                               </tr>
                             </tbody>
@@ -669,4 +720,8 @@ export function getHtml(data: IDayData) {
   <div class="pc-gmail-fix" style="white-space: nowrap; font: 15px courier; line-height: 0;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
 </body>
 </html>`;
+}
+
+function getImageUrl(path: string): string {
+  return `https://getsmartful.com/data/${path}`;
 }

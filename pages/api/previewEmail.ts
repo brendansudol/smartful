@@ -4,8 +4,9 @@ import { getHtml } from "./_lib/template";
 
 export default async (_req: NextApiRequest, res: NextApiResponse) => {
   try {
-    const data = getData("2021-02-02");
-    const html = getHtml(data);
+    const dateISO = "2021-02-12";
+    const data = getData(dateISO);
+    const html = getHtml(dateISO, data);
     res.statusCode = 200;
     res.setHeader("Content-Type", "text/html");
     res.end(html);

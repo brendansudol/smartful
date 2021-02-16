@@ -1,11 +1,11 @@
 TODO:
 
-- sendEmail endpoint, behind auth, to all subs
-- github action for sending email
 - unsub page / form
 
 DONE:
 
+- github action for sending email
+- sendEmail endpoint, behind auth, to all subs
 - sendEmail endpoint, behind auth, to me only
 - finish templated email
 - github action for testing auth

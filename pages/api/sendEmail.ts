@@ -1,6 +1,7 @@
 import sg from "@sendgrid/mail";
 import type { NextApiRequest, NextApiResponse } from "next";
 import { getData } from "../../lib/getData";
+import { getSubscribers } from "../../utils/airtable";
 import { getTodayISO, parseISO } from "../../utils/dates";
 import { getHtml } from "./_lib/template";
 
@@ -15,16 +16,16 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const dateISO = getTodayISO();
     const date = parseISO(dateISO);
     const data = getData(dateISO);
-    const html = getHtml(dateISO, data);
-    const subject = `Smartful Daily - ${date.toFormat("dd LLL yyyy")}`;
-    const msg = {
-      to: ["brendansudol@gmail.com", "libbysudol@gmail.com"],
-      from: { name: "Smartful", email: "hello@getsmartful.com" },
-      subject,
-      html,
-    };
+    const htmlContent = getHtml(dateISO, data);
 
-    await sendgrid.sendMultiple(msg);
+    const subscribers = await getSubscribers();
+    await sendgrid.sendMultiple({
+      to: subscribers,
+      from: { name: "Smartful", email: "hello@getsmartful.com" },
+      subject: `Smartful Daily - ${date.toFormat("dd LLL yyyy")}`,
+      html: htmlContent,
+    });
+
     return res.status(200).json({ status: "success" });
   } catch (err) {
     console.error(err);

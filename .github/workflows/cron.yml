@@ -1,13 +1,13 @@
 name: smartful-daily-email
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 12 * * *"
 jobs:
   cron:
     runs-on: ubuntu-latest
     steps:
-      - name: Call API route to... (TODO)
+      - name: Call API route to send daily email
         run: |
           curl --request GET \
-          --url 'https://getsmartful.com/api/testAuth' \
+          --url 'https://getsmartful.com/api/sendEmail' \
           --header 'Authorization: Bearer ${{ secrets.SMARTFUL_AUTH_KEY }}'

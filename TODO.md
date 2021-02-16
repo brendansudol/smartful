@@ -1,9 +1,10 @@
 TODO:
 
-- unsub page / form
+- ???
 
 DONE:
 
+- unsub page / form
 - github action for sending email
 - sendEmail endpoint, behind auth, to all subs
 - sendEmail endpoint, behind auth, to me only

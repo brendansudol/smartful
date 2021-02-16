@@ -36,7 +36,7 @@ export function ModalContainer({ children, focusRef, onClose, isOpen = true }: I
         aria-label="Check this out!"
         sx={{
           m: 3,
-          p: 3,
+          p: [3, 4],
           bg: "background",
           borderRadius: 8,
           position: "relative",

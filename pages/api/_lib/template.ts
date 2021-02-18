@@ -169,6 +169,12 @@ export function getHtml(dateISO: string, data: IDayData) {
       .pc-xs-p-15-10-25 {
         padding: 15px 10px 25px !important
       }
+      .pc-xs-fs-14 {
+        font-size: 14px !important
+      }
+      .pc-xs-lh-21 {
+        line-height: 21px !important
+      }
     }
   </style>
   <!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
@@ -274,7 +280,7 @@ export function getHtml(dateISO: string, data: IDayData) {
                             </tbody>
                             <tbody>
                               <tr>
-                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
+                                <td class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
                                   <p>
                                     <strong><span style="font-size: 12px;">DEFINITION</span></strong>
                                     <br>
@@ -347,7 +353,7 @@ export function getHtml(dateISO: string, data: IDayData) {
                             </tbody>
                             <tbody>
                               <tr>
-                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
+                                <td class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
                                   ${marked(idiom?.definition)}
                                 </td>
                               </tr>
@@ -388,7 +394,7 @@ export function getHtml(dateISO: string, data: IDayData) {
                                 <td height="10" style="font-size: 1px; line-height: 1px">&nbsp;</td>
                               </tr>
                               <tr>
-                                <td style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
+                                <td class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
                                   ${funFacts.map((fact) => `<p>${fact.fact}</p>`).join("")}
                                 </td>
                               </tr>
@@ -452,9 +458,9 @@ export function getHtml(dateISO: string, data: IDayData) {
                                 <td colspan="2" height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
                               </tr>
                               <tr>
-                                <td colspan="2" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
+                                <td colspan="2" class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
                                   ${artist.summary
-                                    .slice(0, 3)
+                                    .slice(0, 2)
                                     .map((paragraph) => {
                                       return `<p>${paragraph}</p>`;
                                     })
@@ -524,9 +530,9 @@ export function getHtml(dateISO: string, data: IDayData) {
                                 <td colspan="2" height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
                               </tr>
                               <tr>
-                                <td colspan="2" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
+                                <td colspan="2" class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
                                 ${person.summary
-                                  .slice(0, 3)
+                                  .slice(0, 2)
                                   .map((paragraph) => {
                                     return `<p>${paragraph}</p>`;
                                   })
@@ -596,9 +602,9 @@ export function getHtml(dateISO: string, data: IDayData) {
                                 <td colspan="2" height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
                               </tr>
                               <tr>
-                                <td colspan="2" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
+                                <td colspan="2" class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
                                 ${event.summary
-                                  .slice(0, 3)
+                                  .slice(0, 2)
                                   .map((paragraph) => {
                                     return `<p>${paragraph}</p>`;
                                   })

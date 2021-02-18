@@ -72,7 +72,16 @@
     },
     { "id": "370", "fact": "Heat, not sunlight, ripens tomatoes.", "category": ["Food", "Plants"] }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "504555",
+      "fact": "On Good Friday in 1930, the BBC reported, “There is no news.” Instead, they played piano music."
+    },
+    {
+      "id": "554052",
+      "fact": "According to one study, dunking an Oreo in milk for three seconds gives you the optimal balance of sogginess and structural integrity."
+    }
+  ],
   "idiom": {
     "id": "give-an-inch-and-theyll-take-a-mile",
     "term": "give an inch and they'll take a mile",
@@ -102,6 +111,11 @@
     "quote": null,
     "urlWiki": "https://en.wikipedia.org/wiki/Portugal",
     "urlGoogle": "https://artsandculture.google.com/entity/portugal/m05r4w"
+  },
+  "quote": {
+    "id": "128",
+    "quote": "A mind that is stretched by a new experience can never go back to its old dimensions.",
+    "author": "Oliver Wendell Holmes"
   },
   "wiki": {
     "id": "grover-cleveland",

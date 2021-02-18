@@ -72,7 +72,13 @@
     },
     { "id": "315", "fact": "No two lip impressions are the same.", "category": ["Anatomy"] }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    { "id": "506372", "fact": "Almonds and peaches are members of the same family." },
+    {
+      "id": "522216",
+      "fact": "During WWI, German measles were called \"liberty measles\" and dachshunds became \"liberty hounds.\""
+    }
+  ],
   "idiom": {
     "id": "star-chamber-proceedings",
     "term": "star-chamber proceedings",

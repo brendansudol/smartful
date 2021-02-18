@@ -77,12 +77,14 @@
     }
   ],
   "funFacts2": [
-    { "id": "553824", "fact": "Sleeping through summer is called estivation." },
     {
-      "id": "554030",
-      "fact": "The dragon tree of the Canary Islands is famous for its thick, deep-red sap. Called dragon's blood, the resin might be responsible for the intense hue of the famous Stradivarius violins built in the 17th and 18th centuries."
+      "id": "522173",
+      "fact": "Venetia Burney, who at age 11 suggested the name “Pluto” for the ninth planet in our solar system, lived to see it demoted to a dwarf planet in 2006."
     },
-    { "id": "522188", "fact": "Sleeping through summer is called estivation." }
+    {
+      "id": "553738",
+      "fact": "A newborn blue whale gains about 200 pounds a day during its first year."
+    }
   ],
   "idiom": {
     "id": "at-sixes-and-sevens",

@@ -1,0 +1,133 @@
+{
+  "artist": {
+    "id": "thomas-hart-benton",
+    "name": "Thomas Hart Benton",
+    "dates": "Apr 15, 1889 - Jan 19, 1975",
+    "mainImg": "img/art/artists/thomas-hart-benton.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Arts of Life in America: Unemployment, Radical Protest, Speed",
+        "path": "img/art/artworks/thomas-hart-benton-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-arts-of-life-in-america-unemployment-radical-protest-speed-thomas-hart-benton/WgH_FJj6qsNowQ"
+      },
+      {
+        "name": "Self-Portrait with Rita",
+        "path": "img/art/artworks/thomas-hart-benton-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-with-rita-thomas-hart-benton/VQGMGejnEeA95w"
+      },
+      {
+        "name": "Louisiana Rice Fields",
+        "path": "img/art/artworks/thomas-hart-benton-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/louisiana-rice-fields/iQFF4STZbZc33w"
+      },
+      {
+        "name": "Sample book",
+        "path": "img/art/artworks/thomas-hart-benton-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/sample-book-henry-bosch-company/bAHqlq8TiYy5Aw"
+      }
+    ],
+    "summary": [
+      "Thomas Hart Benton was an American painter and muralist. Along with Grant Wood and John Steuart Curry, he was at the forefront of the Regionalist art movement. The fluid, sculpted figures in his paintings showed everyday people in scenes of life in the United States. His work is strongly associated with the Midwestern United States, the region in which he was born and which he called home for most of his life. He also studied in Paris, lived in New York City for more than 20 years and painted scores of works there, summered for 50 years on Martha's Vineyard off the New England coast, and also painted scenes of the American South and West."
+    ],
+    "quote": "“I have a sort of inner conviction that for all the possible limitations of my mind and the disturbing effects of my processes, for all the contradicting struggles and failures I have gone through, I have come to something that is in the image of America and the American people of my time.”",
+    "movements": [
+      "Modern art",
+      "American Realism",
+      "Social realism",
+      "American modernism",
+      "Regionalism",
+      "Realism"
+    ],
+    "mediums": ["Oil paint", "Tempera", "Egg", "Masonite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Thomas_Hart_Benton_%28painter%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/thomas-hart-benton/m01ny1z"
+  },
+  "event": {
+    "id": "battle-of-yashima",
+    "name": "Battle of Yashima",
+    "dates": null,
+    "mainImg": "img/events/battle-of-yashima.jpg",
+    "summary": [
+      "The naval Battle of Yashima took place on March 22, 1185. Following a long string of defeats, the Taira clan retreated to Yashima, today's Takamatsu, just off the coast of Shikoku. Here they had a fortress, and an improvised palace for Emperor Antoku and the imperial regalia, which they had taken earlier in the war.",
+      "On the 18th, a Minamoto force tried to cross the sea but many of the boats were damaged in a storm. Kajiwara Kagetoki then suggested adding \"reverse oars\" to the boats, which prompted an argument from Minamoto no Yoshitsune. Finally after the boats were repaired and despite the high winds, Yoshitsune departed with only five of the 200 boats carrying about 150 of his men. After arriving in Tsubaki Bay, in Awa Province. Yoshitsune then advanced into Sanuki Province through the night reaching the bay with the Imperial Palace at Yashima, and the houses in Mure and Takamatsu.",
+      "The Taira were expecting a naval attack, and so Yoshitsune lit bonfires on Shikoku, essentially in their rear, fooling the Taira into believing that a large force was approaching on land. They abandoned their palace, and took to their ships, along with Emperor Antoku and the imperial regalia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Yashima",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-yashima/m04n8r_"
+  },
+  "funFacts": [
+    {
+      "id": "909",
+      "fact": "In Texas, it is illegal to graffiti someone's cow.",
+      "category": ["Laws"]
+    },
+    { "id": "425", "fact": "Kangaroos can't walk backwards.", "category": ["Animals"] },
+    {
+      "id": "402",
+      "fact": "Christopher Columbus brought the first lemon seeds to America.",
+      "category": ["Food", "History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "522229",
+      "fact": "The word PEZ comes from the German word for peppermint—PfeffErminZ."
+    },
+    {
+      "id": "554035",
+      "fact": "In 1965, Tommy Cash—Johnny Cash's younger brother—released a song titled \"I Didn't Walk the Line.\""
+    }
+  ],
+  "idiom": {
+    "id": "time-flies",
+    "term": "time flies",
+    "definition": "Time passes quickly, as in *It's midnight already? Time flies when you're having fun,* or *I gues it's ten years since I last saw you---how time flies.* This idiom was first recorded about 1800 but Shakespeare used a similar phrase, \"the swiftest hours, as they flew,\" as did Alexander Pope, \"swift fly the years.\" The ultimate origin is from a line in Virgil's third Georgic, often shortened to **tempus fugit** (\"time flies\")."
+  },
+  "person": {
+    "id": "emma-goldman",
+    "name": "Emma Goldman",
+    "dates": "Jun 27, 1869 - May 14, 1940",
+    "mainImg": "img/people/emma-goldman.jpg",
+    "summary": [
+      "Emma Goldman was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.",
+      "Born in Kaunas, Russian Empire to a Jewish family, Goldman emigrated to the United States in 1885. Attracted to anarchism after the Chicago Haymarket affair, Goldman became a writer and a renowned lecturer on anarchist philosophy, women's rights, and social issues, attracting crowds of thousands. She and anarchist writer Alexander Berkman, her lover and lifelong friend, planned to assassinate industrialist and financier Henry Clay Frick as an act of propaganda of the deed. Frick survived the attempt on his life in 1892, and Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the years that followed, for \"inciting to riot\" and illegally distributing information about birth control. In 1906, Goldman founded the anarchist journal Mother Earth.",
+      "In 1917, Goldman and Berkman were sentenced to two years in jail for conspiring to \"induce persons not to register\" for the newly instated draft."
+    ],
+    "quote": "“Heaven must be an awfully dull place if the poor in spirit live there.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Emma_Goldman",
+    "urlGoogle": "https://artsandculture.google.com/entity/emma-goldman/m02nmr"
+  },
+  "place": {
+    "id": "aachen",
+    "name": "Aachen",
+    "mainImg": "img/places/aachen.jpg",
+    "summary": [
+      "Aachen, also known as Bad Aachen, in French as Aix-la-Chapelle, in Italian as Aquisgrana, and in Latin as Aquæ Granni, is a spa and border city in North Rhine-Westphalia, Germany. Aachen developed from a Roman settlement and spa, subsequently becoming the preferred medieval Imperial residence of Emperor Charlemagne of the Frankish Empire, and, from 936 to 1531, the place where 31 Holy Roman Emperors were crowned Kings of the Germans.",
+      "Aachen is the westernmost city in Germany, located near the borders with Belgium and the Netherlands, 61 km west of Cologne in a former coal-mining area. One of Germany's leading institutes of higher education in technology, the RWTH Aachen University, is located in the city. Aachen's industries include science, engineering and information technology. In 2009, Aachen was ranked eighth among cities in Germany for innovation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Aachen",
+    "urlGoogle": "https://artsandculture.google.com/entity/aachen/m0qjd"
+  },
+  "wiki": {
+    "id": "sandy-koufax",
+    "name": "Sandy Koufax",
+    "summary": "Sandy Koufax is a former pitcher in Major League Baseball who played his entire career for the Brooklyn and Los Angeles Dodgers from 1955 to 1966. He is best known for his string of six amazing seasons from 1961 to 1966 before arthritis ended his career at the age of 31. A notoriously difficult pitcher to hit against, he was the first major leaguer to pitch more than three no-hitters, the first to allow fewer than seven hits per nine innings pitched over his career, and the first to strike out more than nine batters per nine innings pitched in his career. Among National League pitchers with at least 2000 innings pitched who have debuted since 1913, he has both the highest career winning percentage (.655) and the lowest career earned run average (2.76); his 2396 career strikeouts ranked seventh in major league history upon his retirement, and trailed only Warren Spahn's total of 2583 among left-handers. Retiring virtually at the peak of his career, Koufax later became–at age 36–the youngest person ever elected to the Baseball Hall of Fame.",
+    "url": "https://en.wikipedia.org/wiki/Sandy_Koufax"
+  },
+  "word": {
+    "id": "paste",
+    "word": "paste",
+    "url": "https://www.merriam-webster.com/dictionary/paste",
+    "partOfSpeech": "verb",
+    "pronunciation": "PAIST",
+    "audioPath": "audio/words/paste.mp3",
+    "definitions": ["to strike hard at", "to beat or defeat soundly"],
+    "examples": [
+      "\"With two outs, two on, a 3-2 lead and a 1-2 count on light-hitting Nick Green in the seventh inning, Pavano didn't come far enough inside with a fastball and the D-Rays second baseman _pasted_ the ball on a line toward the left-field corner.\" -- From a news story by Sam Borden in the _New York Daily News_, June 23, 2005",
+      "\"Duke (32-3) traveled to Hartford on Jan. 31 and got _pasted_, 87-51, by the Huskies.\" --From an article by Arthur Staple in _Newsday_ (Long Island, NY), March 27, 2011"
+    ],
+    "origin": "\"Paste\" came to be as an alteration of the word \"baste,\" which means \"to beat severely or soundly.\" The exact origin of \"baste\" is uncertain, but it probably comes from the Old Norse word \"beysta,\" meaning \"to bruise, thrash, or flog.\" \"Baste\" was first seen in the 16th century, but \"paste\" didn't turn up in print until 1846, and it only recently acquired its \"defeat\" sense. \"Baste\" is now less popular than \"paste\" (the two \"baste\" homographs that mean \"to sew with long stitches\" and \"to moisten while cooking\" are distinct terms not related to this \"baste\"), though its relative \"lambaste\" (\"to beat\" or \"to censure\") is prevalent."
+  }
+}

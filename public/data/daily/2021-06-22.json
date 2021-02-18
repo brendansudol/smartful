@@ -72,7 +72,13 @@
       "category": ["Hodgepodge"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    { "id": "554055", "fact": "The average cumulus cloud weighs roughly 1.1 million pounds." },
+    {
+      "id": "553929",
+      "fact": "A black cat crossing your path (from right to left) is considered good luck in Germany."
+    }
+  ],
   "idiom": {
     "id": "old-chestnut",
     "term": "old chestnut",

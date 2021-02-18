@@ -78,7 +78,13 @@
       "category": ["Science"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "504865",
+      "fact": "When Texas was its own sovereign nation in the mid-1800s, it briefly had a diplomatic mission in Paris."
+    },
+    { "id": "506501", "fact": "Earmuffs were invented by a 15-year-old." }
+  ],
   "idiom": {
     "id": "out-of-the-mouths-of-babes",
     "term": "out of the mouths of babes",

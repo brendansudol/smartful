@@ -1,0 +1,141 @@
+{
+  "artist": {
+    "id": "sonia-delaunay",
+    "name": "Sonia Delaunay",
+    "dates": "Nov 14, 1885 - Dec 5, 1979",
+    "mainImg": "img/art/artists/sonia-delaunay.jpg",
+    "artworkImgs": [
+      {
+        "name": "Illustration for Rythmes et Couleurs",
+        "path": "img/art/artworks/sonia-delaunay-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/illustration-for-rythmes-et-couleurs-sonia-delaunay/ZAG1z47NiNPBCg"
+      },
+      {
+        "name": "Electric Prisms",
+        "path": "img/art/artworks/sonia-delaunay-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/electric-prisms/CQE0BUzOPgkH1g"
+      },
+      {
+        "name": "Button",
+        "path": "img/art/artworks/sonia-delaunay-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/button-sonia-delaunay/kgE6826J0xdl8A"
+      },
+      {
+        "name": "Circles in Pastel",
+        "path": "img/art/artworks/sonia-delaunay-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/circles-in-pastel-sonia-delaunay/oAGDMyk69SfcbQ"
+      },
+      {
+        "name": "Greeting Card for Galerie Bing, Paris",
+        "path": "img/art/artworks/sonia-delaunay-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/greeting-card-for-galerie-bing-paris-sonia-delaunay/6gGbCyFWj3I7QQ"
+      },
+      {
+        "name": "Poster for Galerie Bing, Paris",
+        "path": "img/art/artworks/sonia-delaunay-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/poster-for-galerie-bing-paris-sonia-delaunay/vwGixQCoD4ZgHA"
+      }
+    ],
+    "summary": [
+      "Sonia Delaunay was a Ukrainian-born Russian artist, who spent most of her working life in Paris. She formally trained in Russia and Germany before moving to France and expanding her practice to include textile, fashion, and set design. She co-founded the Orphism art movement, noted for its use of strong colours and geometric shapes, with her husband Robert Delaunay and others. She was the first living female artist to have a retrospective exhibition at the Louvre in 1964, and in 1975 was named an officer of the French Legion of Honor.",
+      "Her work in modern design included the concepts of geometric abstraction, and the integration of furniture, fabrics, wall coverings, and clothing into her art practice."
+    ],
+    "quote": null,
+    "movements": ["Modern art"],
+    "mediums": ["Tempera", "Wood", "Textile", "Adhesive", "Yarn", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sonia_Delaunay",
+    "urlGoogle": "https://artsandculture.google.com/entity/sonia-delaunay/m0681zb"
+  },
+  "event": {
+    "id": "raid-on-the-medway",
+    "name": "Raid on the Medway",
+    "dates": "Jun 9, 1667 - Jun 14, 1667",
+    "mainImg": "img/events/raid-on-the-medway.jpg",
+    "summary": [
+      "The Raid on the Medway, during the Second Anglo-Dutch War in June 1667, was a successful attack conducted by the Dutch navy on English battleships laid up in the fleet anchorages off Chatham Dockyard and Gillingham in the county of Kent. At the time, the fortress of Upnor Castle and a barrier chain called the \"Gillingham Line\" were supposed to protect the English ships.",
+      "The Dutch, under nominal command of Willem Joseph van Ghent and Lieutenant-Admiral Michiel de Ruyter, over several days bombarded and captured the town of Sheerness, sailed up the Thames estuary to Gravesend, then sailed into the River Medway to Chatham and Gillingham, where they engaged fortifications with cannon fire, burned or captured three capital ships and ten more ships of the line, and captured and towed away the flagship of the English fleet, HMS Royal Charles.",
+      "Politically, the raid was disastrous for King Charles' war plans and led to a quick end to the war and a favourable peace for the Dutch. It was one of the worst defeats in the Royal Navy's history, and one of the worst suffered by the British military. Horace George Franks called it the \"most serious defeat it has ever had in its home waters.\""
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Raid_on_the_Medway",
+    "urlGoogle": "https://artsandculture.google.com/entity/raid-on-the-medway/m036232"
+  },
+  "funFacts": [
+    {
+      "id": "667",
+      "fact": "The shoreline at Wildwood grows almost 100 feet per year.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "139",
+      "fact": "Hawaii is the only state with one school district.",
+      "category": ["Geography", "Onlies"]
+    },
+    {
+      "id": "295",
+      "fact": "Leonardo da Vinci could draw with one hand while writing with the other.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553535",
+      "fact": "The AMC Gremlin was released on April 1, 1970. AMC advertised it saying “competitors will find there is nothing ‘April Fool like’ about this car.”"
+    },
+    {
+      "id": "553505",
+      "fact": "Both John Adams and Thomas Jefferson died on July 4, 1826, exactly 50 years after the adoption of the Declaration of Independence."
+    }
+  ],
+  "idiom": {
+    "id": "born-with-a-silver-spoon",
+    "term": "born with a silver spoon",
+    "definition": "Born wealthy, or fortunate, or both, as in *Paul can afford to go to medical school; he was born with a silver spoon.* Although some authorities believe this phrase alludes to the custom of godparents giving their godchild a silver spoon, affordable only by rich persons, it is more likely that the spoon has come to symbolize wealth. [c. 1700]"
+  },
+  "person": {
+    "id": "christabel-pankhurst",
+    "name": "Christabel Pankhurst",
+    "dates": "Sep 22, 1880 - Feb 13, 1958",
+    "mainImg": "img/people/christabel-pankhurst.jpg",
+    "summary": [
+      "Dame Christabel Harriette Pankhurst, DBE was a British suffragette born in Manchester, England. A co-founder of the Women's Social and Political Union, she directed its militant actions from exile in France from 1912 to 1913. In 1914 she supported the war against Germany. After the war she moved to the United States, where she worked as an evangelist for the Second Adventist movement."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Christabel_Pankhurst",
+    "urlGoogle": "https://artsandculture.google.com/entity/christabel-pankhurst/m01__cj"
+  },
+  "place": {
+    "id": "iraq",
+    "name": "Iraq",
+    "mainImg": "img/places/iraq.jpg",
+    "summary": [
+      "Iraq, officially the Republic of Iraq, is a country in Western Asia, bordered by Turkey to the north, Iran to the east, Kuwait to the southeast, Saudi Arabia to the south, Jordan to the southwest and Syria to the west. The capital, and largest city, is Baghdad. Iraq is home to diverse ethnic groups including Arabs, Kurds, Assyrians, Turkmen, Shabakis, Yazidis, Armenians, Mandeans, Circassians, Sabians and Kawliya. Around 99% of the country's 38 million citizens are Muslims, with tiny minorities of Christians, Yarsans, Yezidis and Mandeans also present. The official languages of Iraq are Arabic and Kurdish.",
+      "Iraq has a coastline measuring 58 km on the northern Persian Gulf and encompasses the Mesopotamian Alluvial Plain, the northwestern end of the Zagros mountain range and the eastern part of the Syrian Desert. Two major rivers, the Tigris and Euphrates, run south through Iraq and into the Shatt al-Arab near the Persian Gulf. These rivers provide Iraq with significant amounts of fertile land. The region between the Tigris and Euphrates rivers, historically known as Mesopotamia, is often referred to as the cradle of civilisation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Iraq",
+    "urlGoogle": "https://artsandculture.google.com/entity/iraq/m0d05q4"
+  },
+  "wiki": {
+    "id": "autostereogram",
+    "name": "Autostereogram",
+    "summary": "An autostereogram is a single-image stereogram, designed to trick human eyes and brains into seeing a three-dimensional scene in a two-dimensional image. In order to \"see\" 3D shapes in these autostereograms, the brain must decouple focusing operations of the eyes from convergence. The simplest type of autostereogram consists of horizontally repeating patterns and is known as a wallpaper autostereogram. When viewed with proper convergence, the repeating patterns appear to float in the air above the background. The Magic Eye series of books features another type of autostereogram called a random dot autostereogram. In this type of autostereogram, every pixel in the image is computed from a pattern strip and a depth map. Usually, a hidden 3D scene emerges when the image is viewed with proper viewing technique. There are two ways an autostereogram can be viewed: wall-eyed and cross-eyed. Most autostereograms are designed to be viewed in only one way. Wall-eyed viewing requires that the two eyes adopt a relatively divergent angle, while cross-eyed viewing requires a relatively convergent angle.",
+    "url": "https://en.wikipedia.org/wiki/Autostereogram"
+  },
+  "word": {
+    "id": "pianistic",
+    "word": "pianistic",
+    "url": "https://www.merriam-webster.com/dictionary/pianistic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "pee-uh-NISS-tik",
+    "audioPath": "audio/words/pianistic.mp3",
+    "definitions": [
+      "of, relating to, or characteristic of the piano",
+      "skilled in or well adapted to piano playing"
+    ],
+    "examples": [
+      "“\\[Pianist Yuja\\] Wang performed as if she were claiming ownership of some of Prokofiev's pianistic ideas.” (Edward Ortiz, _Sacramento Bee_ \\[California\\], May 23, 2009)"
+    ],
+    "origin": "The origin of \"pianistic\" won’t surprise anyone -- it’s ultimately from \"piano,\" of course. But the \"-istic” suffix is less than ubiquitous and bears some attention. It is used from time to time to create adjectives that correspond to nouns ending primarily in \"-ism\" or \"-ist.\" (In this case, both \"pianism\" and \"pianist\" outdate \"pianistic,\" although only by a few years.) The pedigree of \"-istic\" isn’t too surprising; etymologists report that it comes from Middle French (\"-istique\"), Latin (\"-isticus\"), and ultimately Greek (\"-istikos\"). As with words formed from the suffix \"-ic,\" words ending in \"-istic\" can sometimes find life as nouns -- for example, \"autistic\" and \"characteristic.\""
+  }
+}

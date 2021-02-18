@@ -1,0 +1,140 @@
+{
+  "artist": {
+    "id": "enrico-castellani",
+    "name": "Enrico Castellani",
+    "dates": "Aug 4, 1930 - Dec 1, 2017",
+    "mainImg": "img/art/artists/enrico-castellani.jpg",
+    "artworkImgs": [
+      {
+        "name": "Superficie bianca",
+        "path": "img/art/artworks/enrico-castellani-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/superficie-bianca-enrico-castellani/2wHtgr3-T2zD_A"
+      },
+      {
+        "name": "Untitled (White Surface)",
+        "path": "img/art/artworks/enrico-castellani-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-white-surface-enrico-castellani/1wFVZLKp-95ZDg"
+      },
+      {
+        "name": "Stendardo di Pisa",
+        "path": "img/art/artworks/enrico-castellani-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/stendardo-di-pisa-enrico-castellani/qQGCM-oCtZ2a7Q"
+      },
+      {
+        "name": "White surface",
+        "path": "img/art/artworks/enrico-castellani-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/white-surface-enrico-castellani/KAGtRZu_bv1krA"
+      },
+      {
+        "name": "Superficie bianca",
+        "path": "img/art/artworks/enrico-castellani-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/superficie-bianca/SAHnQYk-wdWsrw"
+      },
+      {
+        "name": "Cabeça do Doutor Iglésias",
+        "path": "img/art/artworks/enrico-castellani-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cabeça-do-doutor-iglésias-castellane-arlindo-castellani-di-carli/7AHuim8QJRdSWQ"
+      }
+    ],
+    "summary": [
+      "Enrico Castellani was an Italian painter associated with the ZERO movement and Azimuth. Castellani contributed the development of avant-garde art in Europe in the 1950s",
+      "and 1960s, and was described as one of Italy's most influential artists of the 20th century,",
+      "Castellani was born in Castelmassa located in Veneto. He studied sculpture and painting at Académie Royale des Beaux-Arts in 1952 and architecture at École nationale supérieure des Beaux-Arts in Belgium. He is best known for his \"paintings of light\" that merge art, spaciality and architecture to transcend the ethereal boundaries of painting. In 1956 Castellani returned to Italy and met artists like Lucio Fontana and Piero Manzoni who were pushing Italian avant-garde art.",
+      "His original approach is considered fundamental for the art history of the 20th century, not only in Italy, but also on the international scene; In particular,",
+      "Castellani influenced Donald Judd, who saw him as the father of minimalism.",
+      "Castellani's work has been exhibited at the most renowned institutions in the world including the MoMA and the Solomon R. Guggenheim Museum, New York;"
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Acrylic paint", "Bronze", "Iron", "Metal", "Plastic", "Cast iron"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Enrico_Castellani",
+    "urlGoogle": "https://artsandculture.google.com/entity/enrico-castellani/m04n6qlp"
+  },
+  "event": {
+    "id": "battle-of-monte-cassino",
+    "name": "Battle of Monte Cassino",
+    "dates": "Jan 17, 1944 - May 19, 1944",
+    "mainImg": "img/events/battle-of-monte-cassino.jpg",
+    "summary": [
+      "The Battle of Monte Cassino was a costly series of four assaults by the Allies against the Winter Line in Italy held by Axis forces during the Italian Campaign of World War II. The intention was a breakthrough to Rome.",
+      "At the beginning of 1944, the western half of the Winter Line was being anchored by Germans holding the Rapido-Gari, Liri and Garigliano valleys and some of the surrounding peaks and ridges. Together, these features formed the Gustav Line. Monte Cassino, a historic hilltop abbey founded in AD 529 by Benedict of Nursia, dominated the nearby town of Cassino and the entrances to the Liri and Rapido valleys. Lying in a protected historic zone, it had been left unoccupied by the Germans, although they manned some positions set into the steep slopes below the abbey's walls.",
+      "Repeated pinpoint artillery attacks on Allied assault troops caused their leaders to conclude the abbey was being used by the Germans as an observation post, at the very least. Fears escalated along with casualties and in spite of a lack of clear evidence, it was marked for destruction. On 15 February American bombers dropped 1,400 tons of high explosives, creating widespread damage."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-monte-cassino/m081w0"
+  },
+  "funFacts": [
+    {
+      "id": "65",
+      "fact": "A one-day weather forecast requires about 10 billion math calculations.",
+      "category": ["Science"]
+    },
+    {
+      "id": "828",
+      "fact": "Every hour more than one billion cells in the body must be replaced.",
+      "category": ["Anatomy"]
+    },
+    { "id": "836", "fact": "Pomology is the study of fruit.", "category": ["Food", "Definitions"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "505069",
+      "fact": "In Queensland, Australia, it's illegal to own a pet rabbit unless you're a magician."
+    },
+    {
+      "id": "553859",
+      "fact": "According to a 2015 study, having 10 more trees on your block can make you feel as healthy as someone who's seven years younger."
+    }
+  ],
+  "idiom": {
+    "id": "throw-out-the-baby-with-the-bath-water",
+    "term": "throw out the baby with the bath water",
+    "definition": "Discard something valuable along with something not wanted. For example, *I know you don't approve of that one item in the bill but we shouldn't throw out the baby with the bath water by voting the bill down.* This expression, with its vivid image of a baby being tossed out with a stream of dirty water, is probably translated from a German proverb, *Das Kind mit dem Bade ausschütten* (\"Pour the baby out with the bath\"). It was first recorded in English in 1853 by Thomas Carlyle, who translated many works from German."
+  },
+  "person": {
+    "id": "john-w-davis",
+    "name": "John W. Davis",
+    "dates": "Apr 13, 1873 - Mar 24, 1955",
+    "mainImg": "img/people/john-w-davis.jpg",
+    "summary": [
+      "John William Davis was an American politician, diplomat and lawyer. He served under President Woodrow Wilson as the Solicitor General of the United States and the United States Ambassador to the United Kingdom. He was the Democratic nominee for president in 1924 and lost to Republican incumbent Calvin Coolidge.",
+      "Born and raised in West Virginia, Davis briefly worked as a teacher before beginning his long legal career. Davis's father, John J. Davis, had been a delegate to the Wheeling Convention and served in the United States House of Representatives in the 1870s. Davis joined his father's legal practice and adopted many of his father's political views, including opposition to anti-lynching legislation and support for states' rights. Davis served in the United States House of Representatives from 1911 to 1913, helping to write the Clayton Antitrust Act. He held the position of solicitor general from 1913 to 1918, during which time he successfully argued for the illegality of Oklahoma's \"grandfather law\" in Guinn v. United States.",
+      "While serving as the ambassador to Britain from 1918 to 1921, Davis was a dark horse candidate for the 1920 Democratic presidential nomination."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/John_W._Davis",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-w-davis/m01mvss"
+  },
+  "place": {
+    "id": "legnica",
+    "name": "Legnica",
+    "mainImg": "img/places/legnica.jpg",
+    "summary": [
+      "Legnica is a city in southwestern Poland, in the central part of Lower Silesia, on the Kaczawa River and the Czarna Woda. Between 1 June 1975 and 31 December 1998 Legnica was the capital of the Legnica Voivodeship. It is currently the seat of the county and since 1992 the city has been the seat of a Diocese. As of 2018, Legnica had a population of 99,752 inhabitants.",
+      "The city was first referenced in chronicles dating from the year 1004, although previous settlements could be traced back to the 7th century. The name \"Legnica\" was mentioned in 1149 under High Duke of Poland Bolesław IV the Curly. Legnica was most likely the seat of Bolesław and it became the residence of the High Dukes that ruled the Duchy of Legnica from 1248 until 1675. Legnica is a city over which the Piast dynasty reigned the longest, for about 700 years, from the time of ruler Mieszko I of Poland after the creation of the Polish state in the 10th century, until 1675 and the death of the last Piast duke George William. Legnica is one of the historical burial sites of Polish monarchs and consorts."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Legnica",
+    "urlGoogle": "https://artsandculture.google.com/entity/legnica/m04lt0"
+  },
+  "wiki": {
+    "id": "robert-baden-powell-1-st-baron-baden-powell",
+    "name": "Robert Baden-Powell, 1st Baron Baden-Powell",
+    "summary": "Robert Baden-Powell was a lieutenant-general in the British Army, writer, and founder of the Scout Movement. After having been educated at Charterhouse School, Baden-Powell served in the British Army from 1876 until 1910 in India and Africa. In 1899, during the Second Boer War in South Africa, Baden-Powell successfully defended the city in the Siege of Mafeking. Several of his military books, written for military reconnaissance and scout training in his African years, were also read by boys. Based on those earlier books, he wrote Scouting for Boys, published in 1908 by Pearson, for youth readership. During writing, he tested his ideas through a camping trip on Brownsea Island that began on August 1, 1907, which is now seen as the beginning of Scouting. After his marriage with Olave St Clair Soames, Baden-Powell, his sister Agnes Baden-Powell and notably his wife actively gave guidance to the Scouting Movement and the Girl Guides Movement. Baden-Powell lived his last years in Nyeri, Kenya, where he died in 1941.",
+    "url": "https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell"
+  },
+  "word": {
+    "id": "kvell",
+    "word": "kvell",
+    "url": "https://www.merriam-webster.com/dictionary/kvell",
+    "partOfSpeech": "verb",
+    "pronunciation": "KVEL",
+    "audioPath": "audio/words/kvell.mp3",
+    "definitions": ["to be extraordinarily proud : rejoice"],
+    "examples": [
+      "Critics kvelled over the violinist's triumphant return to the stage where she had made her debut many years ago."
+    ],
+    "origin": "We are pleased to inform you that the word \"kvell\" is derived from Yiddish \"kveln,\" meaning \"to be delighted,\" which, in turn, comes from the Middle High German word \"quellen,\" meaning \"to well, gush, or swell.\" Yiddish has been a wellspring of creativity for English, giving us such delightful words as \"meister\" (\"one who is knowledgeable about something\"), \"maven\" (\"expert\"), and \"shtick\" (\"one's special activity\"), just to name a few. The date for the appearance of \"kvell\" in the English language is tricky to pinpoint exactly. The earliest known printed evidence for the word in an English source is found in a 1952 handbook of Jewish words and expressions, but actual usage evidence before that date remains unseen."
+  }
+}

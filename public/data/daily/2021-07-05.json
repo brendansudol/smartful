@@ -1,0 +1,140 @@
+{
+  "artist": {
+    "id": "ernst-barlach",
+    "name": "Ernst Barlach",
+    "dates": "Jan 2, 1870 - Oct 24, 1938",
+    "mainImg": "img/art/artists/ernst-barlach.jpg",
+    "artworkImgs": [
+      {
+        "name": "Shepherd in a Storm",
+        "path": "img/art/artworks/ernst-barlach-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/shepherd-in-a-storm-ernst-barlach/lQGGEcRDl2icWg"
+      },
+      {
+        "name": "The Singing Man",
+        "path": "img/art/artworks/ernst-barlach-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-singing-man-ernst-barlach/TgG_P1VK_EFIxA"
+      },
+      {
+        "name": "The Writing Prophet (Saint John on Patmos)",
+        "path": "img/art/artworks/ernst-barlach-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-writing-prophet-saint-john-on-patmos-ernst-barlach/JQFOXwT9B7Ik7A"
+      },
+      {
+        "name": "Street in Warsaw",
+        "path": "img/art/artworks/ernst-barlach-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/street-in-warsaw-ernst-barlach/dwGwUg4vwuabjg"
+      },
+      {
+        "name": "The First Day",
+        "path": "img/art/artworks/ernst-barlach-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-first-day-ernst-barlach/kQFZkNFxJgYOMA"
+      },
+      {
+        "name": "The Raging Barbarian",
+        "path": "img/art/artworks/ernst-barlach-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-raging-barbarian-ernst-barlach/EgHeg6bW70ju8A"
+      }
+    ],
+    "summary": [
+      "Ernst Barlach was a German expressionist sculptor, printmaker and writer. Although he was a supporter of the war in the years leading to World War I, his participation in the war made him change his position, and he is mostly known for his sculptures protesting against the war. This created many conflicts during the rise of the Nazi Party, when most of his works were confiscated as degenerate art."
+    ],
+    "quote": null,
+    "movements": ["Expressionism", "German Expressionism"],
+    "mediums": ["Bronze", "Ink", "Metal", "Graphite", "Sculpture", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ernst_Barlach",
+    "urlGoogle": "https://artsandculture.google.com/entity/ernst-barlach/m03c8k6"
+  },
+  "event": {
+    "id": "battle-of-inkerman",
+    "name": "Battle of Inkerman",
+    "dates": null,
+    "mainImg": "img/events/battle-of-inkerman.jpg",
+    "summary": [
+      "The Battle of Inkerman was fought during the Crimean War on 5 November 1854 between the allied armies of Britain, France and Ottoman Empire against the Imperial Russian Army. The battle broke the will of the Russian Army to defeat the allies in the field, and was followed by the Siege of Sevastopol. The role of troops fighting mostly on their own initiative due to the foggy conditions during the battle has earned the engagement the name \"The Soldier's Battle\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Inkerman",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-inkerman/m014pp7"
+  },
+  "funFacts": [
+    {
+      "id": "319",
+      "fact": "The name for the space between your eyebrows is \"nasion.\"",
+      "category": ["Anatomy", "Definitions"]
+    },
+    {
+      "id": "327",
+      "fact": "Chewing gum was invented in New York City in 1870 by Thomas Adams.",
+      "category": ["Food", "History"]
+    },
+    {
+      "id": "834",
+      "fact": "Right handed people tend to chew food on the right side and lefties chew on the left.",
+      "category": ["Habits"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553804",
+      "fact": "Sweden is so efficient, only one percent of its garbage ends up in a landfill."
+    },
+    {
+      "id": "551308",
+      "fact": "<span>LEGO has an underground vault with every set ever made.</span>"
+    }
+  ],
+  "idiom": {
+    "id": "cold-turkey",
+    "term": "cold turkey",
+    "definition": "Immediate, complete withdrawal from something, especially an addictive substance; also, without planning or preparation. For example, *My bad shoulder forced me to quit playing tennis cold turkey,* or *I'd never done any rock climbing, but decided to try it cold turkey.* This term may have come from the earlier expression **talk turkey** (for blunt speaking). At first used strictly for abrupt withdrawal from drugs or alcohol, it soon was transferred to quitting any habit or activity. [Early 1900s]"
+  },
+  "person": {
+    "id": "manuel-i-komnenos",
+    "name": "Manuel I Komnenos",
+    "dates": "Nov 28, 1118 - Sep 24, 1180",
+    "mainImg": "img/people/manuel-i-komnenos.jpg",
+    "summary": [
+      "Manuel I Komnenos or Comnenus, also known as Manuel Porphyrogennetos, \"born in the purple\" was a Byzantine Emperor of the 12th century who reigned over a crucial turning point in the history of Byzantium and the Mediterranean. His reign saw the last flowering of the Komnenian restoration, during which the Byzantine Empire had seen a resurgence of its military and economic power, and had enjoyed a cultural revival.",
+      "Eager to restore his empire to its past glories as the superpower of the Mediterranean world, Manuel pursued an energetic and ambitious foreign policy. In the process he made alliances with the Pope and the resurgent West. He invaded the Norman Kingdom of Sicily, although unsuccessfully, being the last Eastern Roman Emperor to attempt reconquests in the western Mediterranean. The passage of the potentially dangerous Second Crusade through his empire was adroitly managed. Manuel established a Byzantine protectorate over the Crusader states of Outremer. Facing Muslim advances in the Holy Land, he made common cause with the Kingdom of Jerusalem and participated in a combined invasion of Fatimid Egypt."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
+    "urlGoogle": "https://artsandculture.google.com/entity/manuel-i-komnenos/m0c6lt"
+  },
+  "place": {
+    "id": "white-plains",
+    "name": "White Plains",
+    "mainImg": "img/places/white-plains.jpg",
+    "summary": [
+      "White Plains is a city in Westchester County, New York, United States. An inner suburb of New York City, it is the county seat and commercial hub of Westchester, a densely populated suburban county that is home to approximately one million people. White Plains is located in south-central Westchester, with its downtown 25 miles north of Midtown Manhattan.",
+      "As of 2019, the city's total population was estimated to be 58,109, up from 56,853 at the 2010 census. According to the city government, the daytime weekday population is estimated at 250,000. The city was ranked third in the top 10 places to live in New York for 2014, according to national online real estate brokerage Movoto."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/White_Plains,_New_York",
+    "urlGoogle": "https://artsandculture.google.com/entity/white-plains/m0ycht"
+  },
+  "wiki": {
+    "id": "thomcord",
+    "name": "Thomcord",
+    "summary": "Thomcord is a seedless table grape variety and a hybrid of the popular Thompson Seedless or Sultanina grape (a Vitis vinifera variety) and Concord grape (a Vitis labrusca variety). Thomcord was developed in 1983 by Californian grape breeders working for the Agricultural Research Service (ARS), an agency of the United States Department of Agriculture (USDA), as part of a test to better understand a new seedless grape breeding procedure. Its aromatic, \"labrusca\" flavor is similar to that of Concord, but mellowed by the mild, sweet taste from Thompson Seedless. Thomcord grows well in hot, dry climates, ripens between late July and mid-August, and is tolerant to powdery mildew. It is a productive variety, yielding an average of 15.1 kg (33 lb) of grapes per vine. The plant is not restricted for propagation and distribution. Virus-free propagation material is available from the Foundation Plant Services (FPS) at the University of California, Davis, and its genetic material is archived at the National Plant Germplasm System. After 17 years of testing, it was declared ready for use in 2003. It is expected to appear in supermarkets, possibly as a specialty item.",
+    "url": "https://en.wikipedia.org/wiki/Thomcord"
+  },
+  "word": {
+    "id": "precipitate",
+    "word": "precipitate",
+    "url": "https://www.merriam-webster.com/dictionary/precipitate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "prih-SIP-uh-tut",
+    "audioPath": "audio/words/precipitate.mp3",
+    "definitions": [
+      "falling, flowing, or rushing with steep descent b: precipitous, steep",
+      "exhibiting violent or unwise speed"
+    ],
+    "examples": [
+      "Our _precipitate_ decision to invest in the company proved unwise.",
+      "\"'The South Korean government recognises that a _precipitate_ change in the North would present it with immense problems,' says Crisis Group's Asia Program Director, Robert Templer.\" -- From an article in the _State News Service_, July 14, 2011"
+    ],
+    "origin": "Many people, including usage commentators, are insistent about keeping the adjectives \"precipitate\" and \"precipitous\" distinct. \"Precipitate,\" they say, means \"headlong\" or \"impetuous\"; \"precipitous\" means only \"steep.\" And, indeed, \"precipitate\" is used mostly in the \"headlong\" sense, whereas \"precipitous\" usually means \"steep.\" But one shouldn't be too hasty about insisting on the distinction. The truth is that \"precipitate\" and \"precipitous\" have had a tendency to overlap for centuries. Lexicographer Samuel Johnson, in his dictionary of 1755, defined \"precipitate\" as \"steeply falling,\" \"headlong,\" and \"hasty,\" while \"precipitous\" was \"headlong; steep,\" and \"hasty.\" Noah Webster's 1828 dictionary included much the same definitions. The words' etymologies overlap as well. Both ultimately come from Latin \"praeceps,\" which means \"headlong.\""
+  }
+}

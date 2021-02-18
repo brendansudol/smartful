@@ -79,7 +79,16 @@
       "category": ["Food"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "527079",
+      "fact": "Johnny Cash's \"A Boy Named Sue\" was penned by beloved children's author Shel Silverstein."
+    },
+    {
+      "id": "553852",
+      "fact": "Galileo's middle finger is on display at the Museo Galileo in Florence, Italy."
+    }
+  ],
   "idiom": {
     "id": "wild-horses-couldnt-drag-me",
     "term": "wild horses couldn't drag me",

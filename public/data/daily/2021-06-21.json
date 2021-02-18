@@ -71,7 +71,13 @@
     },
     { "id": "775", "fact": "Bees are born fully grown.", "category": ["Animals"] }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "504755",
+      "fact": "In 1907, an ad campaign for Kellogg's Corn Flakes offered a free sample of cereal to any woman who would wink at her grocer."
+    },
+    { "id": "551312", "fact": "<span>A group of pugs is called a grumble.</span>" }
+  ],
   "idiom": {
     "id": "fair-haired-boy",
     "term": "fair-haired boy",

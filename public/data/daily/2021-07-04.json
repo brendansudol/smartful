@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "tunga",
+    "name": "Tunga",
+    "dates": "Feb 8, 1952 - Jun 6, 2016",
+    "mainImg": "img/art/artists/tunga.jpg",
+    "artworkImgs": [
+      {
+        "name": "Ão",
+        "path": "img/art/artworks/tunga-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/ão/zAGG1qrfmn3uOQ"
+      },
+      {
+        "name": "Untitled (Viperina Series)",
+        "path": "img/art/artworks/tunga-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-viperina-series/rAELwXImI82bBg"
+      },
+      {
+        "name": "True Rouge",
+        "path": "img/art/artworks/tunga-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/true-rouge/IAGZfeFMJaEVKQ"
+      },
+      {
+        "name": "Cooking Crystals Expanded",
+        "path": "img/art/artworks/tunga-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cooking-crystals-expanded/jgGrT58BOj6XRQ"
+      },
+      {
+        "name": "Deleite",
+        "path": "img/art/artworks/tunga-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/deleite/mQFXe1QVsVGGlg"
+      },
+      {
+        "name": "Cups for Argamenon's Mask",
+        "path": "img/art/artworks/tunga-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cups-for-argamenon-s-mask-tunga/FgHurOWoCzLn6A"
+      }
+    ],
+    "summary": [
+      "Antonio José de Barros Carvalho e Mello Mourão, known professionally as Tunga, was a Brazilian sculptor and performance artist. The Art Newspaper called him \"One of Brazil's best-known contemporary artists.\" In 2005, Tunga became the first contemporary artist to exhibit his work at the Louvre in the museum's history during an installation called \"A la Lumiere des Deux Mondes\".",
+      "Permanent exhibitions of museums such as the Guggenheim in Venice, and whole wings exclusively dedicated to his work at the Brazilian Inhotim Institute. Some private collections also display his works, such as the V+R Sapoznik Art Collection.",
+      "Tunga was born in Palmares, Pernambuco, Brazil, in 1952. He died in Rio de Janeiro on June 6, 2016, at the age of 64 after battling cancer for several years."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art", "Conceptual art"],
+    "mediums": ["Metal", "Iron", "Copper", "Steel", "Bronze", "Glass"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Tunga_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/tunga/m09tbjp5"
+  },
+  "event": {
+    "id": "battle-of-quatre-bras",
+    "name": "Battle of Quatre Bras",
+    "dates": null,
+    "mainImg": "img/events/battle-of-quatre-bras.jpg",
+    "summary": [
+      "The Battle of Quatre Bras was fought on 16 June 1815, as a preliminary engagement to the decisive Battle of Waterloo that occurred two days later. The battle took place near the strategic crossroads of Quatre Bras and was contested between elements of the Duke of Wellington's Anglo-allied army and the left wing of Napoleon Bonaparte's French Armée du Nord under Marshal Michel Ney. While the battle was tactically indecisive, Napoleon achieved his larger strategic aim of preventing Wellington's forces from aiding the Prussian army at the Battle of Ligny, which the French won the same day."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Quatre_Bras",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-quatre-bras/m031_gr"
+  },
+  "funFacts": [
+    {
+      "id": "284",
+      "fact": "Mt. Everest has grown one foot over the last 100 years.",
+      "category": ["Geography"]
+    },
+    { "id": "54", "fact": "The average smell weighs 760 nanograms.", "category": ["Science"] },
+    { "id": "353", "fact": "The weight of the moon is 81 billion tons.", "category": ["Science"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "553854",
+      "fact": "Marie Curie remains the only person to earn Nobel prizes in two different sciences."
+    },
+    {
+      "id": "554076",
+      "fact": "The first Macy's Thanksgiving Day Parade featured lions, camels, and elephants from the Central Park Zoo."
+    }
+  ],
+  "idiom": {
+    "id": "wet-blanket",
+    "term": "wet blanket",
+    "definition": "A person who discourages enjoyment or enthusiasm, as in *Don't be such a wet blanket---the carnival will be fun!* This expression alludes to smothering a fire with a wet blanket. [Early 1800s]"
+  },
+  "person": {
+    "id": "nikola-iv-zrinski",
+    "name": "Nikola IV Zrinski",
+    "dates": "1508 - Sep 7, 1566",
+    "mainImg": "img/people/nikola-iv-zrinski.jpg",
+    "summary": [
+      "Nikola IV Zrinski or Miklós IV Zrínyi, also commonly known as Nikola Šubić Zrinski, was a Croatian-Hungarian nobleman and general, Ban of Croatia from 1542 until 1556, royal master of the treasury from 1557 until 1566, and a descendant of the Zrinski and Kurjaković noble families. During his lifetime the Zrinskis became the most powerful noble family in the Kingdom of Croatia.",
+      "Zrinski became well known across Europe for his involvement in the Siege of Szigetvár, where he heroically died stopping Ottoman Empire's Sultan Suleiman the Magnificent's advance towards Vienna. The importance of the battle was considered so great that the French clergyman and statesman Cardinal Richelieu described it as \"the battle that saved civilization\". Zrinski became considered a role model of a faithful and sacrificial warrior, Christian hero as well as a national hero in both Croatia and Hungary, and is often portrayed in artworks."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Nikola_IV_Zrinski",
+    "urlGoogle": "https://artsandculture.google.com/entity/nikola-iv-zrinski/m01vvt8"
+  },
+  "place": {
+    "id": "angers",
+    "name": "Angers",
+    "mainImg": "img/places/angers.jpg",
+    "summary": [
+      "Angers is a city in western France, about 300 km southwest of Paris. It is chef-lieu of the Maine-et-Loire department and was the capital of the province of Anjou until the French Revolution. The inhabitants of both the city and the province are called Angevins. Not including the metropolitan area, Angers is the third most populous commune in northwestern France after Nantes and Rennes and the 17th in France.",
+      "For centuries, Angers was an important stronghold in northwestern France. It was the cradle of the Plantagenet dynasty and became one of the intellectual centers of Europe during the reign of René of Anjou. Angers developed at the confluence of three rivers, the Mayenne, the Sarthe, and the Loir, all coming from the north and flowing south to the Loire. Their confluence, just north of Angers, creates the Maine, a short but wide river that flows into the Loire several kilometres south. The Angers metropolitan area is a major economic centre in western France, particularly active in industry, horticulture, and tourism.",
+      "Angers proper covers 42.70 square kilometers and has a population of 147,305 inhabitants, while around 394,700 live in its metropolitan area."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Angers",
+    "urlGoogle": "https://artsandculture.google.com/entity/angers/m0l4lj"
+  },
+  "wiki": {
+    "id": "f-35-lightning-ii",
+    "name": "F-35 Lightning II",
+    "summary": "The F-35 Lightning II, called in development the Joint Strike Fighter (JSF), is a military fighter aircraft designed by the United States and the United Kingdom. It is intended to replace the current generation of strike fighters, particularly the vertical take off and landing (VTOL) Harrier jump jets: the AV-8 Harrier II (US), Harrier GR7/9 (UK), and the Sea Harrier, along with the conventional A-10 Thunderbolt II, F/A-18 Hornet and the F-16 Fighting Falcon. It will be a multi-role strike fighter (a plane with a strong emphasis on close air support and tactical bombing as well as being capable of air-to-air combat), and will make considerable use of stealth technology in that it will be almost undetectable (stealthy) to X-band radars (tracking radars, often short range) in the forward hemisphere but not particularly stealthy in the rear hemisphere and not stealthy to L band (search radars, often long range) in either hemisphere. It is currently in production with Lockheed Martin, along with partners Northrop Grumman, BAE Systems, and Smiths Aerospace.",
+    "url": "https://en.wikipedia.org/wiki/F-35_Lightning_II"
+  },
+  "word": {
+    "id": "hebdomadal",
+    "word": "hebdomadal",
+    "url": "https://www.merriam-webster.com/dictionary/hebdomadal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "heb-DAH-muh-dul",
+    "audioPath": "audio/words/hebdomadal.mp3",
+    "definitions": ["occurring, appearing, or done every week : weekly"],
+    "examples": [
+      "Charles made room in his schedule for _hebdomadal_ visits with his math tutor throughout the semester.",
+      "\"And still he remembered the Sunday evening, the _hebdomadal_ get-together of his parents' circle of friends.\" -- From Rohinton Mistry's 2002 novel _Family Matters_"
+    ],
+    "origin": "\"Hebdomadal\" is a rare and curious term describing a basic concept: the calendar week. The noun \"hebdomad\" (referring to a group of seven or a period of seven days) derives from Greek \"hepta,\" meaning \"seven\"; that root also gave us \"heptathlon,\" an Olympic event consisting of seven events. One notable use of the word occurs in the name of the Hebdomadal Council, the chief executive body of the University of Oxford from 1854 until about 2000. The Hebdomadal Council managed the school's finances and property, among other things, and was so named for its strict schedule of meetings - of course - just once per week."
+  }
+}

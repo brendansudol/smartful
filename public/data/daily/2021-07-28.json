@@ -1,0 +1,137 @@
+{
+  "artist": {
+    "id": "hanabusa-itcho",
+    "name": "Hanabusa Itchō",
+    "dates": "1652 - Feb 7, 1724",
+    "mainImg": "img/art/artists/hanabusa-itcho.jpg",
+    "artworkImgs": [
+      {
+        "name": "Building Poetry: waka",
+        "path": "img/art/artworks/hanabusa-itcho-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/building-poetry-waka-hanabusa-itchō-japanese-1652-1724/pgFkiYrTdit2Hg"
+      },
+      {
+        "name": "Wang Ziqiao",
+        "path": "img/art/artworks/hanabusa-itcho-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/wang-ziqiao-iccho-hanabusa/FgHP5LTZuqvX2g"
+      },
+      {
+        "name": "Temple bell",
+        "path": "img/art/artworks/hanabusa-itcho-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/temple-bell-artist-hanabusa-itcho/1gGG-wbSYH1MYQ"
+      },
+      {
+        "name": "A Pagoda",
+        "path": "img/art/artworks/hanabusa-itcho-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/a-pagoda-artist-hanabusa-itcho/6gGtI-ao8kFEtw"
+      },
+      {
+        "name": "Pastimes and occupations of the twelve months",
+        "path": "img/art/artworks/hanabusa-itcho-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/pastimes-and-occupations-of-the-twelve-months-artist-hanabusa-itcho/-QGgNUzMdT0yOg"
+      },
+      {
+        "name": "Page from an illustrated book, Hanabusa Itcho gafu",
+        "path": "img/art/artworks/hanabusa-itcho-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/page-from-an-illustrated-book-hanabusa-itcho-gafu-artist-hanabusa-itcho/HQHQPopznH8ApA"
+      }
+    ],
+    "summary": [
+      "Hanabusa Itchō was a Japanese painter, calligrapher, and haiku poet. He originally trained in the Kanō style, under Kanō Yasunobu, but ultimately rejected that style and became a literati. He was also known as Hishikawa Waō and by a number of other art-names."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Ink", "Silk", "Textile", "Gold", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hanabusa_Itch%C5%8D",
+    "urlGoogle": "https://artsandculture.google.com/entity/hanabusa-itchō/m0g_c5c"
+  },
+  "event": {
+    "id": "second-sino-japanese-war",
+    "name": "Second Sino-Japanese War",
+    "dates": "Jul 7, 1937 - Sep 9, 1945",
+    "mainImg": "img/events/second-sino-japanese-war.jpg",
+    "summary": [
+      "The Second Sino-Japanese War was a military conflict that was primarily waged between the Republic of China and the Empire of Japan from July 7, 1937, to September 2, 1945. The start of the war is typically considered to be the Marco Polo Bridge Incident in 1937, in which a dispute between Japanese and Chinese troops escalated into a full-scale invasion. Some sources in the modern People's Republic of China date the beginning of the war to the Japanese invasion of Manchuria in 1931. In China, it is known as the War of Resistance against Japanese Aggression.",
+      "China fought Japan with aid from the Soviet Union and the United States. After the Japanese attacks on Malaya and Pearl Harbor in 1941, the war merged with other conflicts of World War II as a major sector known as the China Burma India Theater. Some scholars consider the start of the full-scale Second Sino-Japanese War in 1937 to have been the beginning of World War II. The Second Sino-Japanese War was the largest Asian war in the 20th century."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-sino-japanese-war/m0j5ym"
+  },
+  "funFacts": [
+    {
+      "id": "912",
+      "fact": "Meteorologists claim they're right 85% of the time.",
+      "category": ["Science"]
+    },
+    {
+      "id": "108",
+      "fact": "Licking a stamp burns 10 calories.",
+      "category": ["Anatomy", "Science"]
+    },
+    {
+      "id": "865",
+      "fact": "Harry Truman was the last U.S. President to not have a college degree.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504558",
+      "fact": "The Margherita pizza was likely named after Margherita of Savoy, Queen consort of Italy from 1878 to 1900."
+    },
+    {
+      "id": "553551",
+      "fact": "The Crooked Forest in Poland is home to hundreds of pine trees curved at a 90° angle."
+    }
+  ],
+  "idiom": {
+    "id": "paint-the-town-red",
+    "term": "paint the town red",
+    "definition": "Go on a spree, as in *Whenever they go to New York they want to paint the town red.* The precise allusion of this term is disputed. Some believe it refers to setting something on fire; others point to a vague association of the color red with violence. [Late 1800s]"
+  },
+  "person": {
+    "id": "arthur-st-clair",
+    "name": "Arthur St. Clair",
+    "dates": "Mar 23, 1737 - Aug 31, 1818",
+    "mainImg": "img/people/arthur-st-clair.jpg",
+    "summary": [
+      "Arthur St. Clair was a Scottish-American soldier and politician. Born in Thurso, Scotland, he served in the British Army during the French and Indian War before settling in Pennsylvania, where he held local office. During the American Revolutionary War, he rose to the rank of major general in the Continental Army, but lost his command after a controversial retreat from Fort Ticonderoga.",
+      "After the war, he served as President of the Continental Congress, which during his term passed the Northwest Ordinance. He was then made governor of the Northwest Territory in 1788, and then the portion that would become Ohio in 1800. In 1791, St. Clair commanded the American forces in what was the United States's worst ever defeat by the American Indians. Politically out-of-step with the Jefferson administration, he was replaced as governor in 1802."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Arthur_St._Clair",
+    "urlGoogle": "https://artsandculture.google.com/entity/arthur-st-clair/m0_xz"
+  },
+  "place": {
+    "id": "springfield",
+    "name": "Springfield",
+    "mainImg": "img/places/springfield.jpg",
+    "summary": [
+      "Springfield is the third largest city in the state of Missouri and the county seat of Greene County. As of the 2010 census, the city's population was 159,498. As of 2019, the Census Bureau estimated its population at 167,882. It is the principal city of the Springfield metropolitan area, which has a population of 462,369 and includes the counties of Christian, Dallas, Greene, Polk, and Webster.",
+      "Springfield's nickname is \"Queen City of the Ozarks\" as well as “The 417” after the area code for the city. it is also known as the \"Birthplace of Route 66\". It is home to three universities, Missouri State University, Drury University, and Evangel University."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Springfield,_Missouri",
+    "urlGoogle": "https://artsandculture.google.com/entity/springfield/m013gwb"
+  },
+  "wiki": {
+    "id": "stanley-bruce",
+    "name": "Stanley Bruce",
+    "summary": "Stanley Bruce (1883–1967) was the eighth Prime Minister of Australia, serving from 1923 to 1929. He was a barrister and businessman before being wounded in the Gallipoli Campaign of World War I. Elected to parliament in 1918 as a member of the Nationalist Party, he served as treasurer in the government of Billy Hughes before replacing him as prime minister in 1923. Bruce overhauled federal government administration and oversaw its transfer to the new capital, Canberra. His \"men, money and markets\" scheme was an ambitious attempt to rapidly expand Australia's population and economic potential through massive government investment and closer ties with Great Britain and the rest of the British Empire. But his heavy-handed response to industrial unrest and attempts to overhaul labour laws led to a landslide defeat in 1929. After politics, Bruce became involved with the League of Nations until the outbreak of World War II. After the war, he was a leading advocate of development aid, a founder of the Food and Agriculture Organization, the first chancellor of the Australian National University and the first Australian to sit in the House of Lords (as Viscount Bruce of Melbourne).",
+    "url": "https://en.wikipedia.org/wiki/Stanley_Bruce"
+  },
+  "word": {
+    "id": "crwth",
+    "word": "crwth",
+    "url": "https://www.merriam-webster.com/dictionary/crwth",
+    "partOfSpeech": "noun",
+    "pronunciation": "KROOTH (rhymes with \"booth\")",
+    "audioPath": "audio/words/crwth.mp3",
+    "definitions": ["an ancient Celtic stringed instrument that is plucked or bowed"],
+    "examples": [
+      "\"He intricately rhymes, to the music of crwth and pibgorn, all night long.\" (Dylan Thomas, _Under Milk Wood_)"
+    ],
+    "origin": "\"Crwth\" is the Welsh name for an ancient Celtic instrument that is similar to a violin. In Middle English, the instrument's name was spelled \"crouth\" before metamorphosing to \"crowd,\" a word still used in some dialects of England to refer to a violin. The Welsh word can also refer to a swelling or bulging body, and we can speculate that it came to be used for the instrument because of the violin's bulging shape. Other Celtic words for \"violin\" also have meanings referring to rounded appearances. In Gaelic, for example, \"cruit\" can mean \"harp\" or \"violin\" as well as \"hump\" or \"hunch.\" As a final note, we would like to mention (in case you were wondering) that a pibgorn is an ancient wind instrument similar to the hornpipe; its name comes from the Welsh word \"pib,\" meaning \"pipe,\" and \"corn,\" meaning \"horn.\""
+  }
+}

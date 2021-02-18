@@ -69,12 +69,14 @@
     { "id": "449", "fact": "Sound travels quicker in water than in air.", "category": ["Science"] }
   ],
   "funFacts2": [
-    { "id": "504661", "fact": "The first pair of Nike running shoes was made in a waffle iron." },
     {
-      "id": "553533",
-      "fact": "The oldest customer complaint dates back to ancient Mesopotamia. In the nearly 4000-year-old cuneiform tablet, a customer claims he was sold inferior copper ingots."
+      "id": "506874",
+      "fact": "An urban legend claimed Zima was not detectable by a breathalyzer, boosting its popularity among the young and gullible."
     },
-    { "id": "553734", "fact": "Viking men wore makeup." }
+    {
+      "id": "554004",
+      "fact": "Nostrils take turns receiving the majority of the air you breathe, which explains why one is usually stuffier than the other."
+    }
   ],
   "idiom": {
     "id": "true-blue",

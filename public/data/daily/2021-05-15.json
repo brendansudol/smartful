@@ -77,12 +77,14 @@
     }
   ],
   "funFacts2": [
-    { "id": "504660", "fact": "Fish cough." },
     {
-      "id": "506900",
-      "fact": "In 1991, Wayne Allwine—who was then the voice of Mickey Mouse—married Russi Taylor, the voice of Minnie."
+      "id": "504870",
+      "fact": "The modern popped collar originated as a way to keep tennis players’ necks from getting sunburnt."
     },
-    { "id": "554095", "fact": "J.K. Rowling invented Quidditch in a pub." }
+    {
+      "id": "554063",
+      "fact": "Louis Braille was 12 years old when he began transforming a method of silent communication used by the French military into a language that allows blind people to read."
+    }
   ],
   "idiom": {
     "id": "three-sheets-to-the-wind",

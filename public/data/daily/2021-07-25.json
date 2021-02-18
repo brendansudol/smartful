@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "su-shi",
+    "name": "Su Shi",
+    "dates": "Jan 8, 1037 - Aug 24, 1101",
+    "mainImg": "img/art/artists/su-shi.jpg",
+    "artworkImgs": [
+      {
+        "name": "Gongfu Tie Calligraphy",
+        "path": "img/art/artworks/su-shi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/gongfu-tie-calligraphy-su-shi/zAEfJb6ahP5Wkg"
+      },
+      {
+        "name": "Hanging scroll mounted as handscroll",
+        "path": "img/art/artworks/su-shi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/hanging-scroll-mounted-as-handscroll-su-shi-unidentified-artist/AQEyVFXit9zWng"
+      },
+      {
+        "name": "Li Bai's Poem",
+        "path": "img/art/artworks/su-shi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/li-bai-s-poem-su-shi/LQEwv42_DqvKtw"
+      },
+      {
+        "name": "blue and white porcelain vase 2",
+        "path": "img/art/artworks/su-shi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/blue-and-white-porcelain-vase-2-shi-youwen/1gHHzQeScuDtOQ"
+      }
+    ],
+    "summary": [
+      "Su Shi",
+      ", courtesy name Zizhan, art name Dongpo, was a Chinese calligrapher, gastronome, painter, pharmacologist, poet, politician, and writer of the Song dynasty. A major personality of the Song era, Su was an important figure in Song Dynasty politics, aligning himself with Sima Guang and others, against the New Policy party led by Wang Anshi.",
+      "Su Shi is widely regarded as one of the most accomplished figures in classical Chinese literature, having produced some of the most well-known poems, lyrics, prose, and essays. Su Shi was famed as an essayist, and his prose writings lucidly contribute to the understanding of topics such as 11th-century Chinese travel literature or detailed information on the contemporary Chinese iron industry. His poetry has a long history of popularity and influence in China, Japan, and other areas in the near vicinity and is well known in the English-speaking parts of the world through the translations by Arthur Waley, among others. In terms of the arts, Su Shi has some claim to being \"the pre-eminent personality of the eleventh century.\" Dongpo pork, a prominent dish in Hangzhou cuisine, is named in his honor."
+    ],
+    "quote": "“What a ruler has to rely upon is only the human heart. Human hearts are to the ruler what roots are to a tree, what oil is to a lamp, water to fish, fields to a farmer, or money to a merchant.”",
+    "movements": [],
+    "mediums": ["Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Su_Shi",
+    "urlGoogle": "https://artsandculture.google.com/entity/su-shi/m01sv3f"
+  },
+  "event": {
+    "id": "battle-of-seneffe",
+    "name": "Battle of Seneffe",
+    "dates": null,
+    "mainImg": "img/events/battle-of-seneffe.jpg",
+    "summary": [
+      "The Battle of Seneffe took place on 11 August 1674, during the 1672–1678 Franco-Dutch War near Seneffe in present-day Belgium. It was fought by a French army commanded by Louis II de Bourbon, Prince de Condé and a combined Dutch-Imperial-Spanish force led by William of Orange. While a clear French victory, both sides suffered heavy losses and it had little impact on the outcome of the war in the Low Countries.",
+      "Seneffe was one of three battles in the Spanish Netherlands during the Franco-Dutch War and the only one unconnected to a siege, the dominant form of warfare in the late 17th century; Cassel in 1677 was an attempt to relieve Saint-Omer, while Saint-Denis in 1678 was fought to prevent the fall of Mons."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Seneffe",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-seneffe/m014rry"
+  },
+  "funFacts": [
+    {
+      "id": "183",
+      "fact": "The Capitol building in Washington, D.C. has 365 steps to represent every day of the year.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "785",
+      "fact": "The middle finger has the fastest growing nail.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "150",
+      "fact": "The first sport to be filmed was boxing in 1894.",
+      "category": ["Firsts"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "506181",
+      "fact": "Army ants that misinterpret the scent trails left by other ants will sometimes break from the crowd and march in circles. If enough ants join, they can form massive \"death spirals.\""
+    },
+    {
+      "id": "554070",
+      "fact": "Benjamin Franklin never lobbied for the turkey to become the national bird, but he did write that the bald eagle was a fowl of “bad moral character” and that the turkey was “a much more respectable Bird.”"
+    }
+  ],
+  "idiom": {
+    "id": "from-the-sublime-to-the-ridiculous",
+    "term": "from the sublime to the ridiculous",
+    "definition": "From the beautiful to the silly, from great to puny. For example, *They played first Bach and then an ad jingle---from the sublime to the ridiculous.* The reverse, **from the ridiculous to the sublime,** is used with the opposite meaning. Coined by Tom Paine in *The Age of Reason* (1794), in which he said the two are so closely related that it is but one step from one to the other, the phrase has been often repeated in either order."
+  },
+  "person": {
+    "id": "edith-how-martyn",
+    "name": "Edith How-Martyn",
+    "dates": "Jun 7, 1875 - Feb 2, 1954",
+    "mainImg": "img/people/edith-how-martyn.jpg",
+    "summary": [
+      "Edith How-Martyn was a British suffragette and a member of the Women's Social and Political Union. She was arrested in 1906 for attempting to make a speech in the House of Commons. This was one of the first acts of suffragette militancy. She met Margaret Sanger in 1915 and they created a conference in Geneva. How-Martyn toured India talking about birth control. She had no children and died in Australia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Edith_How-Martyn",
+    "urlGoogle": "https://artsandculture.google.com/entity/edith-how-martyn/m0f01kt"
+  },
+  "place": {
+    "id": "poznan",
+    "name": "Poznań",
+    "mainImg": "img/places/poznan.jpg",
+    "summary": [
+      "Poznań is a city on the Warta River in west-central Poland, in the Greater Poland region. It is best known for its renaissance Old Town and Ostrów Tumski Cathedral. Today, Poznań is an important cultural and business centre and one of Poland's most populous regions with many regional customs such as Saint John's Fair, traditional Saint Martin's croissants and a local dialect.",
+      "Poznań is the fifth-largest and one of the oldest cities in Poland. The city's population is 538,633, while the continuous conurbation with Poznań County and several other communities is inhabited by almost 1.1 million people. The Larger Poznań Metropolitan Area is inhabited by 1.3–1.4 million people and extends to such satellite towns as Nowy Tomyśl, Gniezno and Września, making it the fourth largest metropolitan area in Poland. It is the historical capital of the Greater Poland region and is currently the administrative capital of the province called Greater Poland Voivodeship.",
+      "Poznań is a center of trade, sports, education, technology and tourism. It is an important academic site, with about 130,000 students and Adam Mickiewicz University, the third largest Polish university."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pozna%C5%84",
+    "urlGoogle": "https://artsandculture.google.com/entity/poznań/m05xnv"
+  },
+  "wiki": {
+    "id": "canada",
+    "name": "Canada",
+    "summary": "Canada is the world's second largest country by area, occupying most of northern North America. Extending from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, Canada shares land borders with the United States to the south and to the northwest. Inhabited originally by Aboriginal peoples, Canada was founded as a union of British colonies, some of which had earlier been French colonies. Now a federal dominion of ten provinces and three territories, Canada peacefully obtained sovereignty from Britain in a process spanning from 1867 to 1982. Canada is a parliamentary democracy and constitutional monarchy, and defines itself as a bilingual and multicultural nation; both English and French are official languages.",
+    "url": "https://en.wikipedia.org/wiki/Canada"
+  },
+  "word": {
+    "id": "sartorial",
+    "word": "sartorial",
+    "url": "https://www.merriam-webster.com/dictionary/sartorial",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sahr-TOR-ee-ul",
+    "audioPath": "audio/words/sartorial.mp3",
+    "definitions": [
+      "of or relating to a tailor or tailored clothes; broadly : of or relating to clothes"
+    ],
+    "examples": [
+      "Since Daniel was well-known for his impeccable _sartorial_ taste, I asked him for help in upgrading my own wardrobe.",
+      "\"Her truck, specializing in clothes for plus-size women, is one of the mobile fashion retailers-the _sartorial_ cousins to food trucks-that have taken to Washington area streets over the past year and a half.\" - From an article by Stephanie Merry in _The Washington Post_, April 16, 2014"
+    ],
+    "origin": "It's easy to uncover the root of \"sartorial.\" Just strip off the suffix \"-ial\" and you discover the Latin noun \"sartor,\" meaning \"tailor\" (literally, \"one who patches or mends\"). Sartorial splendor has been the stuff of voguish magazines for years, and even \"sartor\" itself has occasionally proven fashionable, as it did in 1843, when Oliver Wendell Holmes wrote of \"coats whose memory turns the sartor pale,\" or in the 1870 title _The Sartor, or British journal of cutting, clothing, and fashion_. \"Sartorial\" has been in style with English speakers since at least 1823."
+  }
+}

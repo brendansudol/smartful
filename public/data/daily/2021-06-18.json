@@ -75,7 +75,13 @@
       "category": ["Animals", "Habits", "History", "Make-it-Easies", "Onlies"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    { "id": "504661", "fact": "The first pair of Nike running shoes was made in a waffle iron." },
+    {
+      "id": "554086",
+      "fact": "The ancestor of the modern chainsaw was invented to facilitate childbirth."
+    }
+  ],
   "idiom": {
     "id": "from-the-horses-mouth",
     "term": "from the horse's mouth",

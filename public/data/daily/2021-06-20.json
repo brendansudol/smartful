@@ -61,7 +61,10 @@
     },
     { "id": "706", "fact": "Steel is 100% recyclable.", "category": ["Science"] }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    { "id": "504748", "fact": "Marie Curie’s notebooks are still radioactive." },
+    { "id": "553806", "fact": "Modern brunch was first proposed in 1895 as a post-hangover meal." }
+  ],
   "idiom": {
     "id": "friend-in-court",
     "term": "friend in court",

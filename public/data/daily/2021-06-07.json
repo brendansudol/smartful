@@ -82,7 +82,16 @@
       "category": ["Geography", "Onlies"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "553543",
+      "fact": "Umchina, a Korean term meaning \"mom's friend's son,\" is used to describe a person who's better at everything than you are."
+    },
+    {
+      "id": "554079",
+      "fact": "For decades, artist Al Hirschfeld hid the name of his daughter Nina in his drawings for The New York Times and elsewhere. He'd add the number of times her name appeared to his signature, creating a game for readers, who would try and find each appearance."
+    }
+  ],
   "idiom": {
     "id": "by-hook-or-crook",
     "term": "by hook or crook",
@@ -112,6 +121,11 @@
     "quote": null,
     "urlWiki": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
     "urlGoogle": "https://artsandculture.google.com/entity/newcastle-upon-tyne/m0j7ng"
+  },
+  "quote": {
+    "id": "126",
+    "quote": "The farther backward you can look, the farther forward you can see.",
+    "author": "Winston Churchill"
   },
   "wiki": {
     "id": "malmo-ff",

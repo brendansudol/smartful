@@ -73,7 +73,16 @@
       "category": ["Geography", "Firsts"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "504825",
+      "fact": "Beauty and the Beast was the first animated film to be nominated for Best Picture. It lost to The Silence of the Lambs."
+    },
+    {
+      "id": "554092",
+      "fact": "Jeannette Rankin became the first female member of Congress in 1916, four years before the 19th Amendment was ratified."
+    }
+  ],
   "idiom": {
     "id": "make-no-bones-about",
     "term": "make no bones about",

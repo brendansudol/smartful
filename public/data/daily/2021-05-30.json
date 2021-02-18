@@ -79,7 +79,13 @@
       "category": ["Animals"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "504589",
+      "fact": "“Q” is the only letter of the alphabet that does not appear in any U.S. territory or state name."
+    },
+    { "id": "522153", "fact": "On Scooby-Doo, Shaggy’s real name is Norville Rogers." }
+  ],
   "idiom": {
     "id": "left-handed-compliment",
     "term": "left-handed compliment",

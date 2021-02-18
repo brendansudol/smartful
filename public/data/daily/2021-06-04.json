@@ -72,7 +72,16 @@
       "category": ["Animals"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "554031",
+      "fact": "The Hass avocado was patented in 1935 by Rudolph Hass, a mailman from California."
+    },
+    {
+      "id": "506869",
+      "fact": "The MOBA, or the Museum of Bad Art in Somerville, Massachusetts, is pretty much exactly what it sounds like— a collection of really bad art."
+    }
+  ],
   "idiom": {
     "id": "without-a-stitch-on",
     "term": "without a stitch on",
@@ -103,6 +112,11 @@
     "quote": null,
     "urlWiki": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n",
     "urlGoogle": "https://artsandculture.google.com/entity/donostia-san-sebastian/m02l6l8"
+  },
+  "quote": {
+    "id": "124",
+    "quote": "I am always doing that which I cannot do, in order that I may learn how to do it.",
+    "author": "Pablo Picasso"
   },
   "wiki": {
     "id": "abu-musab-al-zarqawi",

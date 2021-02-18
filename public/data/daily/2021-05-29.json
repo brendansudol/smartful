@@ -74,7 +74,13 @@
     },
     { "id": "366", "fact": "The center of some golf balls contain honey.", "category": ["Food"] }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "554088",
+      "fact": "When a man allegedly found a dead mouse in his can of Mountain Dew, Pepsi had an expert claim in an affidavit that the drink was so acidic it would have dissolved the mouse after 30 days."
+    },
+    { "id": "522154", "fact": "A newborn giant panda is about the size of a stick of butter." }
+  ],
   "idiom": {
     "id": "spit-and-polish",
     "term": "spit and polish",

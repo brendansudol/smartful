@@ -1,0 +1,138 @@
+{
+  "artist": {
+    "id": "giuseppe-arcimboldo",
+    "name": "Giuseppe Arcimboldo",
+    "dates": "Apr 5, 1526 - Jul 11, 1593",
+    "mainImg": "img/art/artists/giuseppe-arcimboldo.jpg",
+    "artworkImgs": [
+      {
+        "name": "L’Ortolano - Giuseppe Arcimboldo",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/l’ortolano-giuseppe-arcimboldo-giuseppe-arcimboldo/YgEItjbKaPkX9Q"
+      },
+      {
+        "name": "Rudolf II of Habsburg as Vertumnus",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/rudolf-ii-of-habsburg-as-vertumnus-giuseppe-arcimboldo/TAGn3nhWHkbIBA"
+      },
+      {
+        "name": "The Librarian",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-librarian-giuseppe-arcimboldo/GgEi3YoGxi2baw"
+      },
+      {
+        "name": "La Primavera",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/la-primavera-giuseppe-arcimboldo/iwHATomxJenU4w"
+      },
+      {
+        "name": "Four Seasons in One Head",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/four-seasons-in-one-head/WwHACWGI-pgLUQ"
+      },
+      {
+        "name": "Self Portrait",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-giuseppe-arcimboldo/3gHpTvmCqrcIlg"
+      }
+    ],
+    "summary": [
+      "Giuseppe Arcimboldo was an Italian painter best known for creating imaginative portrait heads made entirely of objects such as fruits, vegetables, flowers, fish and books.",
+      "These works form a distinct category from his other productions. He was a conventional court painter of portraits for three Holy Roman emperors in Vienna and Prague, also producing religious subjects and, among other things, a series of coloured drawings of exotic animals in the imperial menagerie. He specialized in grotesque symbolical compositions of fruits, animals, landscapes, or various inanimate objects arranged into human forms. The still-life portraits were clearly partly intended as whimsical curiosities to amuse the court, but critics have speculated as to how seriously they engaged with Renaissance Neo-Platonism or other intellectual currents of the day."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Renaissance", "Rococo"],
+    "mediums": ["Oil paint", "Drawing", "Ink", "Pigment", "Pen", "Etching"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo",
+    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-arcimboldo/m030b1q"
+  },
+  "event": {
+    "id": "mau-mau-uprising",
+    "name": "Mau Mau Uprising",
+    "dates": "1952 - 1960",
+    "mainImg": "img/events/mau-mau-uprising.jpg",
+    "summary": [
+      "The Mau Mau Uprising, also known as the Mau Mau Rebellion, the Kenya Emergency, and the Mau Mau Revolt, was a war in the British Kenya Colony between the Kenya Land and Freedom Army, also known as Mau Mau, and the British authorities.",
+      "Dominated by the Kikuyu people, Meru people and Embu people, the KLFA also comprised units of Kamba and Maasai peoples who fought against the white European colonist-settlers in Kenya, the British Army, and the local Kenya Regiment.",
+      "The capture of rebel leader, Field Marshal Dedan Kimathi, on 21 October 1956, signalled the defeat of the Mau Mau, however, the rebellion survived until after Kenya's independence from Britain, driven mainly by the Meru units led by Field Marshal Musa Mwariama and General Baimungi. Baimuingi, one of the last Mau Mau generals, was killed shortly after Kenya attained self-rule.",
+      "The KLFA failed to capture widespread public support. Frank Füredi, in The Mau Mau War in Perspective suggests this was due to a British policy of divide and rule but fails to cite any contemporary British government documents which support this assertion."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Mau_Mau_Uprising",
+    "urlGoogle": "https://artsandculture.google.com/entity/mau-mau-uprising/m015nr_"
+  },
+  "funFacts": [
+    {
+      "id": "124",
+      "fact": "Seals sleep only one and a half minutes at a time.",
+      "category": ["Animals", "Onlies"]
+    },
+    {
+      "id": "1026",
+      "fact": "Remove all the space between its atoms and Earth would be the size of a baseball.",
+      "category": ["Science"]
+    },
+    {
+      "id": "410",
+      "fact": "Bald eagles can swim using a stroke similar to the butterfly stroke.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "504758", "fact": "The Eiffel Tower leans slightly toward the shade on sunny days." },
+    {
+      "id": "522217",
+      "fact": "Two grandsons of President John Tyler—the 10th president of the United States, who was born in 1790—are still alive."
+    }
+  ],
+  "idiom": {
+    "id": "whats-sauce-for-the-goose-is-sauce-for-the-gander",
+    "term": "what's sauce for the goose is sauce for the gander",
+    "definition": "What applies to one applies to both, especially to both male and female. For example, *After her husband went off with his fishing buddies for a week, she decided to take a vacation without him---what's sauce for the goose, you know.* This proverbial expression, often shortened as in the example, was cited and described as \"a woman's proverb\" in John Ray's *English Proverbs* (1678)."
+  },
+  "person": {
+    "id": "frank-murphy",
+    "name": "Frank Murphy",
+    "dates": "Apr 13, 1890 - Jul 19, 1949",
+    "mainImg": "img/people/frank-murphy.jpg",
+    "summary": [
+      "William Francis Murphy was a Democratic politician and jurist from Michigan. He was named to the Supreme Court of the United States in 1940 after a political career that included serving as United States Attorney General, Governor of Michigan and Mayor of Detroit. He also served as the last Governor General of the Philippine Islands and the first High Commissioner of the Philippines.",
+      "Born in \"The Thumb\" region of Michigan, Murphy graduated from the University of Michigan Law School in 1914. After serving in the United States Army during World War I, he served as a federal attorney and trial judge. He served as Mayor of Detroit from 1930 to 1933 before accepting appointment as Governor-General of the Philippine Islands. He defeated incumbent Republican Governor Frank Fitzgerald in Michigan's 1936 gubernatorial election and served a single term as Governor of Michigan. Murphy lost re-election to Fitzgerald in 1938 and accepted appointment as the United States Attorney General the following year.",
+      "In 1940, President Franklin D. Roosevelt appointed Murphy to the Supreme Court to fill a vacancy caused by the death of Pierce Butler."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Murphy",
+    "urlGoogle": "https://artsandculture.google.com/entity/frank-murphy/m02jnth"
+  },
+  "place": {
+    "id": "melbourne",
+    "name": "Melbourne",
+    "mainImg": "img/places/melbourne.jpg",
+    "summary": [
+      "Melbourne is the capital and most populous city of the Australian state of Victoria, and the second most populous city in Australia and Oceania. Its name refers to an urban agglomeration of 9,993 km², comprising a metropolitan area with 31 municipalities, and is also the common name for its city centre. The city occupies much of the coastline of Port Phillip bay and spreads into the Hinterland towards the Dandenong and Macedon ranges, Mornington Peninsula and Yarra Valley. It has a population of 5 million, and its inhabitants are referred to as \"Melburnians\".",
+      "Home to Indigenous Australians for over 40,000 years, the Melbourne area served as a popular meeting place for local Kulin nation clans. A short-lived penal settlement was established at Port Phillip, then part of the British colony of New South Wales, in 1803, but it was not until 1835, with the arrival of free settlers from Van Diemen’s Land, that Melbourne was founded. It was incorporated as a Crown settlement in 1837, and named Melbourne by Governor General Richard Bourke on 10 April 1837 in honour of the then British Prime Minister, William Lamb, 2nd Viscount Melbourne."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Melbourne",
+    "urlGoogle": "https://artsandculture.google.com/entity/melbourne/m0chgzm"
+  },
+  "wiki": {
+    "id": "abuwtiyuw",
+    "name": "Abuwtiyuw",
+    "summary": "Abuwtiyuw is one of the earliest domestic animals whose name is known. A lightly built Egyptian hunting dog similar to a greyhound, with erect ears and a curly tail, he is believed to have been a royal guard dog of the Sixth Dynasty (2345–2181 BC). He received an elaborate ceremonial burial in the Giza Necropolis at the behest of a pharaoh whose name is not known. An inscribed stone listing the gifts donated by the pharaoh for Abuwtiyuw's funeral was discovered by Egyptologist George A. Reisner in October 1935. It was apparently part of the spoil material incorporated into the structure of a Sixth-Dynasty mastaba (pharaonic-era tomb) in Cemetery G 2100 in Giza West Field, close to the western side of the Great Pyramid of Giza. The inscription on the white limestone tablet, which measures 54.2×28.2×23.2 cm (21.3×11.1×9.1 in), is composed of ten vertical rows of hieroglyphs, separated by vertical lines. The stone was probably originally installed in the demolished funerary chapel of Abuwtiyuw's owner.",
+    "url": "https://en.wikipedia.org/wiki/Abuwtiyuw"
+  },
+  "word": {
+    "id": "causerie",
+    "word": "causerie",
+    "url": "https://www.merriam-webster.com/dictionary/causerie",
+    "partOfSpeech": "noun",
+    "pronunciation": "kohz-REE",
+    "audioPath": "audio/words/causerie.mp3",
+    "definitions": ["an informal conversation : chat", "a short informal essay"],
+    "examples": [
+      "After the table was cleared and coffee was served, the dinner guests rose and continued their causerie in the other room."
+    ],
+    "origin": "\"Causerie\" first appeared in English in the early 19th century, and it can be traced back to French \"causer\" (\"to chat\") and ultimately to Latin \"causa\" (\"cause, reason\"). The word was originally used to refer to a friendly or informal conversation. Then, in 1849, the author and critic Charles-Augustin Sainte-Beuve began publishing a weekly column devoted to literary topics in the French newspaper _Le Constitutionnel_. These critical essays were called \"Causeries du lundi\" (\"Monday chats\") and were later collected into a series of books of the same name. After that, the word \"causerie\" acquired a second sense in English, referring to a brief, informal article or essay."
+  }
+}

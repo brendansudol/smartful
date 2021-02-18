@@ -1,0 +1,137 @@
+{
+  "artist": {
+    "id": "renato-guttuso",
+    "name": "Renato Guttuso",
+    "dates": "Dec 26, 1911 - Jan 18, 1987",
+    "mainImg": "img/art/artists/renato-guttuso.jpg",
+    "artworkImgs": [
+      {
+        "name": "Crocifissione",
+        "path": "img/art/artworks/renato-guttuso-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/crocifissione-renato-guttuso/MgFAiky720azYw"
+      },
+      {
+        "name": "Portrait of Alberto Moravia",
+        "path": "img/art/artworks/renato-guttuso-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-alberto-moravia/oQHgHZn0B104LA"
+      },
+      {
+        "name": "Donna alla finestra",
+        "path": "img/art/artworks/renato-guttuso-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/donna-alla-finestra-renato-guttuso/rgFBL4KcoF8rWw"
+      },
+      {
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/renato-guttuso-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-renato-guttuso/xwHWTmnhpGjXTQ"
+      },
+      {
+        "name": "Portrait of A. Moravia",
+        "path": "img/art/artworks/renato-guttuso-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-moravia/egEEorltiDJXaw"
+      },
+      {
+        "name": "Autoritratto",
+        "path": "img/art/artworks/renato-guttuso-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/autoritratto-renato-guttuso/WwE0Ya3QZnzLjw"
+      }
+    ],
+    "summary": [
+      "Renato Guttuso was an Italian painter. His best-known works include Flight from Etna, Crucifixion and La Vucciria. Guttuso also designed for the theatre and did illustrations for books. Those for Elizabeth David’s Italian Food, introduced him to many in the English-speaking world. A fierce anti-Fascist, \"he developed out of Expressionism and the harsh light of his native land to paint landscapes and social commentary.\""
+    ],
+    "quote": null,
+    "movements": ["Contemporary art", "Modern art", "Social realism"],
+    "mediums": ["Oil paint", "Drawing", "Watercolor painting", "Graphite", "Ink", "Plywood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Renato_Guttuso",
+    "urlGoogle": "https://artsandculture.google.com/entity/renato-guttuso/m09s0_x"
+  },
+  "event": {
+    "id": "battle-of-steenbergen",
+    "name": "Battle of Steenbergen",
+    "dates": null,
+    "mainImg": "img/events/battle-of-steenbergen.jpg",
+    "summary": [
+      "The Battle of Steenbergen, also known as the Capture of Steenbergen of 1583, took place on 17 June 1583 at Steenbergen, Duchy of Brabant, Spanish Netherlands. This was an important victory to the Spanish Army of Flanders led by Don Alexander Farnese, Prince of Parma, Governor-General of the Spanish Netherlands, over the French, English, and Dutch forces led by the French Marshal Armand de Gontaut, Baron de Biron, and the English commander Sir John Norreys, during the Eighty Years' War, the Anglo-Spanish War, and in the context of the French Wars of Religion. The victory of the Spaniards ended the Treaty of Plessis-les-Tours, and Francis, Duke of Anjou, left the Netherlands in late June."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Steenbergen_%281583%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-steenbergen/m0y6482d"
+  },
+  "funFacts": [
+    {
+      "id": "64",
+      "fact": "Strawberries contain more vitamin C than oranges.",
+      "category": ["Food"]
+    },
+    {
+      "id": "997",
+      "fact": "Gentoo penguins propose to their life mates with a pebble.",
+      "category": ["Animals", "Habits"]
+    },
+    {
+      "id": "160",
+      "fact": "One alternative title that had been considered for NBC's hit \"Friends\" was \"Insomnia Café.\"",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553928",
+      "fact": "The 100 folds in a chef’s toque are said to represent 100 ways to cook an egg."
+    },
+    {
+      "id": "522156",
+      "fact": "Forrest Mars, the creator of Peanut M&M's, was allergic to peanuts."
+    }
+  ],
+  "idiom": {
+    "id": "run-to-seed",
+    "term": "run to seed",
+    "definition": "Also, **go to seed.** Become devitalized or worn out; deteriorate, as in *I went back to visit my old elementary school, and sadly, it has really run to seed,* or *The gold medalist quickly went to seed after he left competition.* This term alludes to plants that, when allowed to set seed after flowering, either taste bitter, as in the case of lettuce, or do not send out new buds, as is true of annual flowers. Its figurative use dates from the first half of the 1800s."
+  },
+  "person": {
+    "id": "william-wellesley-pole-3-rd-earl-of-mornington",
+    "name": "William Wellesley-Pole, 3rd Earl of Mornington",
+    "dates": "May 20, 1763 - Feb 22, 1845",
+    "mainImg": "img/people/william-wellesley-pole-3-rd-earl-of-mornington.jpg",
+    "summary": [
+      "William Wellesley-Pole, 3rd Earl of Mornington, GCH, PC, PC, known as Lord Maryborough between 1821 and 1842, was an Anglo-Irish politician and an elder brother of the Duke of Wellington. His surname changed twice: he was born with the name Wesley, which he changed to Wesley-Pole following an inheritance in 1781. In 1789 the spelling was updated to Wellesley-Pole, just as other members of the family had changed Wesley to Wellesley."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Wellesley-Pole,_3rd_Earl_of_Mornington",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-wellesley-pole-3rd-earl-of-mornington/m03ttlz"
+  },
+  "place": {
+    "id": "como",
+    "name": "Como",
+    "mainImg": "img/places/como.jpg",
+    "summary": [
+      "Como is a city and comune in Lombardy, Italy. It is the administrative capital of the Province of Como.",
+      "Its proximity to Lake Como and to the Alps has made Como a tourist destination, and the city contains numerous works of art, churches, gardens, museums, theatres, parks and palaces: the Duomo, seat of the Diocese of Como; the Basilica of Sant'Abbondio; the Villa Olmo; the public gardens with the Tempio Voltiano; the Teatro Sociale; the Broletto or the city's medieval town hall; and the 20th century Casa del Fascio.",
+      "With 215,320 overnight guests, in 2013 Como was the fourth most visited city in Lombardy after Milan, Bergamo and Brescia. In 2018, Como surpassed Bergamo becoming the third most visited city in Lombardy with 1.4 million arrivals.",
+      "Como was the birthplace of many historical figures, including the poet Caecilius mentioned by Catullus in the 1st century BCE, writers Pliny the Elder and Pliny the Younger, Pope Innocent XI, scientist Alessandro Volta, and Cosima Liszt, second wife of Richard Wagner and long-term director of the Bayreuth Festival, and Antonio Sant'Elia, Futurist architect and pioneer of the modern movement."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Como",
+    "urlGoogle": "https://artsandculture.google.com/entity/como/m0ggyr"
+  },
+  "wiki": {
+    "id": "european-commission",
+    "name": "European Commission",
+    "summary": "The European Commission is the executive branch of the European Union. The body is responsible for proposing legislation, implementing decisions, upholding the Union's treaties and the general day-to-day running of the Union. The Commission operates in the method of cabinet government, with 27 Commissioners. There is one Commissioner per member state, however Commissioners are bound to represent the interests of the EU as a whole rather than their home state. One of the 27 is the Commission President (currently José Manuel Barroso) appointed by the European Council with the approval of the European Parliament. The present Barroso Commission took office in late 2004 and is serving a five-year term. The term \"Commission\" can mean either the college of Commissioners mentioned above, or the larger institution; including the administrative body of about 25,000 European civil servants who are divided into departments called Directorates-General. It is primarily based in the Berlaymont building of Brussels and its internal working languages are English, French and German.",
+    "url": "https://en.wikipedia.org/wiki/European_Commission"
+  },
+  "word": {
+    "id": "gelid",
+    "word": "gelid",
+    "url": "https://www.merriam-webster.com/dictionary/gelid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "JELL-id",
+    "audioPath": "audio/words/gelid.mp3",
+    "definitions": ["extremely cold : icy"],
+    "examples": [
+      "The rescue team braved gelid conditions as they searched the mountain for the lost climber."
+    ],
+    "origin": "\"Gelid\" first appeared in English late in the 16th century, coming to our language from Latin \"gelidus,\" which ultimately derives from the noun \"gelu,\" meaning \"frost\" or \"cold.\" (Our noun \"gelatin,\" which can refer to an edible jelly that undergoes a cooling process as part of its formation, comes from a related Latin word: \"gelare,\" meaning \"to freeze.\") \"Gelid\" is used in English to describe anything of extremely cold temperature (as in \"the gelid waters of the Arctic Ocean\"), but the word can also be used figuratively to describe a person with a cold demeanor (as in \"the criminal's gelid stare\")."
+  }
+}

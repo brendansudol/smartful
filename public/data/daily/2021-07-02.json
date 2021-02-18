@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "eric-carle",
+    "name": "Eric Carle",
+    "dates": "Born Jun 25, 1929",
+    "mainImg": "img/art/artists/eric-carle.jpg",
+    "artworkImgs": [
+      {
+        "name": "Demmer Neptune Gate",
+        "path": "img/art/artworks/eric-carle-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/demmer-neptune-gate-eric-moebius/GwF7nEU6opQZNw"
+      },
+      {
+        "name": "Gyotaku Print - John Dory, Zeus faber",
+        "path": "img/art/artworks/eric-carle-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/gyotaku-print-john-dory-zeus-faber/zQG3OqCyykrbzQ"
+      },
+      {
+        "name": "Gomphus parvidens",
+        "path": "img/art/artworks/eric-carle-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/gomphus-parvidens-f-l-carle/HQEaNGw_fzXWaA"
+      },
+      {
+        "name": "Gomphus parvidens",
+        "path": "img/art/artworks/eric-carle-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/gomphus-parvidens-f-l-carle/ywGnGkZZo0OS8Q"
+      }
+    ],
+    "summary": [
+      "Eric Carle is an American designer, illustrator, and writer of children's books. He is most noted for The Very Hungry Caterpillar, a picture book that has been translated into more than 66 languages and sold more than 50 million copies, equivalent to 1.8 copies sold every minute since it was published in 1969. His career as an illustrator and children's book author took off after he collaborated on Brown Bear, Brown Bear, What Do You See? He has illustrated more than 70 books, most of which he also wrote, and more than 145 million copies of his books have been sold around the world.",
+      "In 2003, the American Library Association awarded Carle the biennial Laura Ingalls Wilder Medal, a prize for writers or illustrators of children's books published in the U.S. who have made lasting contributions to the field. Carle was also a U.S. nominee for the biennial, international Hans Christian Andersen Award in 2010."
+    ],
+    "quote": "“We have eyes, and we're looking at stuff all the time, all day long. And I just think that whatever our eyes touch should be beautiful, tasteful, appealing, and important.”",
+    "movements": ["Contemporary art"],
+    "mediums": ["Iron", "Ink", "Metal", "Steel"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Eric_Carle",
+    "urlGoogle": "https://artsandculture.google.com/entity/eric-carle/m04387s"
+  },
+  "event": {
+    "id": "nigerian-civil-war",
+    "name": "Nigerian Civil War",
+    "dates": "Jul 6, 1967 - Jan 15, 1970",
+    "mainImg": "img/events/nigerian-civil-war.jpg",
+    "summary": [
+      "The Nigerian Civil War was a civil war in Nigeria fought between the government of Nigeria and the secessionist state of Biafra from 6 July 1967 to 15 January 1970. Biafra represented nationalist aspirations of the Igbo people, whose leadership felt they could no longer coexist with the Northern-dominated federal government. The conflict resulted from political, economic, ethnic, cultural and religious tensions which preceded Britain's formal decolonization of Nigeria from 1960 to 1963. Immediate causes of the war in 1966 included ethno-religious riots in Northern Nigeria, a military coup, a counter-coup and persecution of Igbo living in Northern Nigeria. Control over the lucrative oil production in the Niger Delta also played a vital strategic role.",
+      "Within a year, the Federal Government troops surrounded Biafra, capturing coastal oil facilities and the city of Port Harcourt. The blockade imposed during the ensuing stalemate led to mass starvation. During the two and half years of the war, there were about 100,000 overall military casualties, while between 500,000 and 3 million Biafran civilians died of starvation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Nigerian_Civil_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/nigerian-civil-war/m02yr8w"
+  },
+  "funFacts": [
+    {
+      "id": "903",
+      "fact": "The first TV toy commercial aired in 1946 for Mr. Potato Head.",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "56",
+      "fact": "1/4 of the bones in your body are in your feet.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "668",
+      "fact": "Cape May is the oldest seashore resort in America.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553531",
+      "fact": "Long before rap battles, there was \"flyting\": the exchange of witty, insulting verses. The verbal throwdowns were popular in England and Scotland from the 5th to 16th centuries."
+    },
+    {
+      "id": "504655",
+      "fact": "Golf legend Jack Nicklaus earned his nickname, the Golden Bear, thanks to his size and blond hair. Conveniently, it was also the name of his high school mascot."
+    }
+  ],
+  "idiom": {
+    "id": "make-a-clean-breast-of",
+    "term": "make a clean breast of",
+    "definition": "Confess fully; as in *Caught shoplifting, the girls decided to make a clean breast of it to their parents.* This expression, first recorded in 1752, uses *clean breast* in the sense of baring of one's heart, the breast having long been considered the seat of private or secret feelings."
+  },
+  "person": {
+    "id": "margaret-pearse",
+    "name": "Margaret Pearse",
+    "dates": "Feb 12, 1857 - Apr 22, 1932",
+    "mainImg": "img/people/margaret-pearse.jpg",
+    "summary": [
+      "Margaret Pearse was an Irish politician. She was born in Dublin, while her father's family were from County Meath. In 1877, she married James Pearse who was born in Bloomsbury, Middlesex on 8 December 1839. Margaret was the mother of Patrick Pearse, one of the leaders of the Easter Rising in 1916, who was executed soon after the rising. Another son Willie Pearse was also executed after the 1916 Easter Rising."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Margaret_Pearse",
+    "urlGoogle": "https://artsandculture.google.com/entity/margaret-pearse/m02q41yd"
+  },
+  "place": {
+    "id": "raleigh",
+    "name": "Raleigh",
+    "mainImg": "img/places/raleigh.jpg",
+    "summary": [
+      "Raleigh is the capital of the state of North Carolina and the seat of Wake County in the United States. Raleigh is the second-largest city in the state, after Charlotte. Raleigh is known as the \"City of Oaks\" for its many oak trees, which line the streets in the heart of the city. The city covers a land area of 142.8 square miles. The U.S. Census Bureau estimated the city's population as 474,069 as of July 1, 2019. It is one of the fastest-growing cities in the country. The city of Raleigh is named after Sir Walter Raleigh, who established the lost Roanoke Colony in present-day Dare County.",
+      "Raleigh is home to North Carolina State University and is part of Research Triangle Park, together with Durham and Chapel Hill. The \"Triangle\" nickname originated after the 1959 creation of the Research Triangle Park, located in Durham and Wake counties, among the three cities and their universities. The Research Triangle region encompasses the U.S. Census Bureau's Raleigh-Durham-Chapel Hill Combined Statistical Area, which had an estimated population of 2,037,430 in 2013. The Raleigh metropolitan statistical area had an estimated population of 1,214,516 in 2013."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Raleigh,_North_Carolina",
+    "urlGoogle": "https://artsandculture.google.com/entity/raleigh/m0fvyg"
+  },
+  "wiki": {
+    "id": "knut-polar-bear",
+    "name": "Knut (polar bear)",
+    "summary": "Knut is a captive-born polar bear who was born at the Zoologischer Garten Berlin on 5 December 2006. Rejected by his mother at birth, he was subsequently raised by zoo keepers. He was the first polar bear cub to survive past infancy at the Berlin Zoo in over thirty years. At one time the subject of international controversy, he became a popular tourist attraction and commercial success. After the German tabloid magazine Bild ran a quote from an animal rights activist that seemingly called for the death of the young cub, a worldwide public outrage was caused as fans rallied in support of his being hand-raised by humans. Children protested outside the zoo, and many emails and letters expressing sympathy for the cub's life were sent from around the world. Knut became the center of a mass media phenomenon dubbed \"Knutmania\" that spanned the globe and quickly spawned numerous toys, media specials, DVDs, and books. Because of this, the cub was largely responsible for a significant increase in revenue at the Berlin Zoo in 2007. Zoo attendance figures for the year increased by an estimated 30 percent, making the zoo the most profitable it has been in its 163 year history.",
+    "url": "https://en.wikipedia.org/wiki/Knut_(polar_bear)"
+  },
+  "word": {
+    "id": "vernissage",
+    "word": "vernissage",
+    "url": "https://www.merriam-webster.com/dictionary/vernissage",
+    "partOfSpeech": "noun",
+    "pronunciation": "vair-nih-SAHZH",
+    "audioPath": "audio/words/vernissage.mp3",
+    "definitions": ["a private showing or preview of an art exhibition"],
+    "examples": [
+      "Before the art auction, there will be a _vernissage_ during which people can mingle with the artists and preview their work.",
+      "\"Art Basel officially opens with its _vernissage_ Nov. 30 and runs through Dec. 4, but Miami Art Week-as it is being called-sprawls across the calendar with events from Nov. 27 on, basically Sunday to Sunday.\" - From an article by Beth Dunlop in _The Miami Herald_, September 18, 2011"
+    ],
+    "origin": "\"Vernissage\" has its roots in the old practice of setting aside a day before an exhibition's opening for artists to varnish and put finishing touches to their paintings-a tradition that reportedly dates to at least 1809, when it was instituted by England's Royal Academy of Arts. (One famous member of the Academy, Joseph Mallord William Turner, was notorious for making major changes to his paintings on this day.) English speakers originally referred to this day of finishing touches simply as \"varnishing day,\" but sometime around 1912 we also began using the French term \"vernissage\" (literally, \"varnishing\"). Today, however, you are more likely to encounter [vino](https://www.merriam-webster.com/dictionary/vino) than varnish at a vernissage, which is often a gala event marking the opening of an exhibition."
+  }
+}

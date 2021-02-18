@@ -1,0 +1,133 @@
+{
+  "artist": {
+    "id": "joachim-beuckelaer",
+    "name": "Joachim Beuckelaer",
+    "dates": "1533 - 1574",
+    "mainImg": "img/art/artists/joachim-beuckelaer.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Well-stocked Kitchen",
+        "path": "img/art/artworks/joachim-beuckelaer-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-well-stocked-kitchen-joachim-bueckelaer/2QFBDDmm6Ys0iQ"
+      },
+      {
+        "name": "The Four Elements: Earth",
+        "path": "img/art/artworks/joachim-beuckelaer-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-four-elements-earth-joachim-beuckelaer/BAH3qLwXL3k2UQ"
+      },
+      {
+        "name": "Christ carrying the Cross",
+        "path": "img/art/artworks/joachim-beuckelaer-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-carrying-the-cross/bQFYMmb_BuIBQA"
+      },
+      {
+        "name": "Kitchen Scene with Christ at Emmaus",
+        "path": "img/art/artworks/joachim-beuckelaer-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/kitchen-scene-with-christ-at-emmaus-beuckelaer-joachim/twGS0U2qu8FpXg"
+      },
+      {
+        "name": "Allegory of Negligence",
+        "path": "img/art/artworks/joachim-beuckelaer-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/allegory-of-negligence-joachim-beuckelaer/BgG4bAyIMcG_bw"
+      },
+      {
+        "name": "The Four Elements: Fire",
+        "path": "img/art/artworks/joachim-beuckelaer-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-four-elements-fire-joachim-beuckelaer/4QG93NCQKgtgBg"
+      }
+    ],
+    "summary": [
+      "Joachim Beuckelaer was a Flemish painter specialising in market and kitchen scenes with elaborate displays of food and household equipment. He also painted still lifes with no figures in the central scene. His development of the genre of market and kitchen scenes was influential on the development of still life art in Northern Europe as well as Italy."
+    ],
+    "quote": null,
+    "movements": ["Northern Renaissance", "Renaissance", "Dutch and Flemish Renaissance painting"],
+    "mediums": ["Oil paint", "Drawing", "Sanguine", "Ink", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Joachim_Beuckelaer",
+    "urlGoogle": "https://artsandculture.google.com/entity/joachim-beuckelaer/m04ltq2"
+  },
+  "event": {
+    "id": "battle-of-mookerheyde",
+    "name": "Battle of Mookerheyde",
+    "dates": null,
+    "mainImg": "img/events/battle-of-mookerheyde.jpg",
+    "summary": [
+      "In the Battle of Mookerheyde, Spanish forces defeated Dutch forces composed of German mercenaries on 14 April 1574 during the Eighty Years' War near the village Mook and the river Meuse not far from Nijmegen in Gelderland. Two leaders of the Dutch forces, brothers of William the Silent, were killed: Louis of Nassau and Henry of Nassau-Dillenburg.",
+      "During the winter of 1573/74, Louis and Henry of Nassau raised a mercenary army in Germany of 6500 infantry and 3000 cavalry. They proceeded towards Maastricht to rendezvous with their elder brother William the Silent, Prince of Orange, who led 6000 Dutchmen. They planned to march their combined forces toward Leiden, which was under siege by a large Spanish force since October 1573.",
+      "The strength of Count Louis' forces diminished en route. More than a thousand men deserted and seven hundred were killed by the Spanish in a night attack. The remaining troops were mutinous because the Dutch had been unable to pay them. Louis crossed the Meuse with only 5,500 infantry and 2,600 cavalry."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Mookerheyde",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-mookerheyde/m03dnf6"
+  },
+  "funFacts": [
+    { "id": "357", "fact": "A baboon is a variety of lemon.", "category": ["Food"] },
+    { "id": "17", "fact": "A hummingbird weighs less than a penny.", "category": ["Animals"] },
+    {
+      "id": "44",
+      "fact": "The bullfrog is the only animal that never sleeps.",
+      "category": ["Animals", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553528",
+      "fact": "Mr. Rogers always mentioned out loud that he was feeding his fish because a young blind viewer once asked him to do so. She wanted to know the fish were OK."
+    },
+    {
+      "id": "554050",
+      "fact": "The Palais Idéal in France is built entirely of stones a postman named Ferdinand Cheval picked up on his mail route."
+    }
+  ],
+  "idiom": {
+    "id": "brown-nose",
+    "term": "brown nose",
+    "definition": "Solicit favor obsequiously, toady. For example, *Harry was always brown nosing, but it didn't help his grades.* This term originated in the military in the late 1930s, where it meant \"to curry favor\"; it alludes to ass-kissing when the backside being kissed is less than clean. Despite its scatological origin, today this slangy term is not considered particularly vulgar."
+  },
+  "person": {
+    "id": "antonin-proust",
+    "name": "Antonin Proust",
+    "dates": "Mar 15, 1832 - Mar 20, 1905",
+    "mainImg": "img/people/antonin-proust.jpg",
+    "summary": [
+      "Antonin Proust was a French journalist and politician.",
+      "Antonin Proust was born at Niort, Deux-Sèvres. In 1864 he founded an anti-imperial journal, La Semaine hebdomadaire which appeared in Brussels. He was war correspondent for Le Temps in the early days of the Franco-German War, but after the Battle of Sedan he returned to Paris, where he became secretary to Léon Gambetta and superintended the refugees in Paris.",
+      "He entered the Chamber of Deputies as representative for his native town in 1876, taking his seat on the left. In Gambetta's cabinet he was minister of the fine arts, and in the Chamber of Deputies] he was regularly commissioned to draw up the budget for the fine arts, after the separate department had ceased to exist. Prosecuted in connection with the Panama scandals, he was acquitted in 1893. From this time he lived in the closest retirement. On 20 March 1905 he shot himself in the head, dying of the wound two days later.",
+      "He was not related to Marcel Proust, the famous writer."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Antonin_Proust",
+    "urlGoogle": "https://artsandculture.google.com/entity/antonin-proust/m055n9l"
+  },
+  "place": {
+    "id": "providence",
+    "name": "Providence",
+    "mainImg": "img/places/providence.jpg",
+    "summary": [
+      "Providence is the capital and most populous city of the state of Rhode Island and is one of the oldest cities in the United States. It was founded in 1636 by Roger Williams, a Reformed Baptist theologian and religious exile from the Massachusetts Bay Colony. He named the area in honor of \"God's merciful Providence\" which he believed was responsible for revealing such a haven for him and his followers. The city is situated at the mouth of the Providence River at the head of Narragansett Bay.",
+      "Providence was one of the first cities in the country to industrialize and became noted for its textile manufacturing and subsequent machine tool, jewelry, and silverware industries. Today, the city of Providence is home to eight hospitals and seven institutions of higher learning which have shifted the city's economy into service industries, though it still retains some manufacturing activity.",
+      "The city is the third-most-populous city in New England after Boston and Worcester, Massachusetts."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Providence,_Rhode_Island",
+    "urlGoogle": "https://artsandculture.google.com/entity/providence/m0c1d0"
+  },
+  "wiki": {
+    "id": "william-monahan",
+    "name": "William Monahan",
+    "summary": "William Monahan is an American novelist and screenwriter. Monahan went to work in Hollywood in 1998, when Warner Bros. bought the film rights to Light House: A Trifle, which had not yet been published, and contracted him to adapt it to the screen for director Gore Verbinski. In 2001, 20th Century Fox bought Monahan's spec script about the Barbary Wars called Tripoli, with Ridley Scott, who was to become Monahan's primary collaborator, attached to direct. Monahan, immediately successful as a screenwriter, has since worked with Martin Scorsese and Steven Spielberg, among other filmmakers. His first produced screenplay, Kingdom of Heaven was made into a film by Ridley Scott and released in theaters in 2005. His second produced screenplay was The Departed, a film which earned him a WGA award and an Academy Award for Best Adapted Screenplay. Monahan prefers that screenplays be written by one writer rather than a collaboration of multiple screenwriters writing competing drafts. Thus far he has followed his scripts through production, and is one of very few sole credit writers in the film business.",
+    "url": "https://en.wikipedia.org/wiki/William_Monahan"
+  },
+  "word": {
+    "id": "nescience",
+    "word": "nescience",
+    "url": "https://www.merriam-webster.com/dictionary/nescience",
+    "partOfSpeech": "noun",
+    "pronunciation": "NESH-ee-unss",
+    "audioPath": "audio/words/nescience.mp3",
+    "definitions": ["lack of knowledge or awareness : ignorance"],
+    "examples": [
+      "\"\\[Samuel\\] Johnson was so vexed by a young clergyman's nescience that he complained, 'His ignorance is so great, I am afraid to show him the bottom of it.'\" (Barry Baldwin, _Verbatim_, June 22, 2003)"
+    ],
+    "origin": "Eighteenth-century British poet, essayist, and lexicographer Samuel Johnson once said, \"There is nothing so minute or inconsiderable that I would not rather know it than not know it.\" He probably knew a thing or two about the history of the word \"nescience,\" which evolved from a combination of the Latin prefix \"ne-,\" meaning \"not,\" and \"scire,\" a verb meaning \"to know.\" And he may also have known that \"scire\" is an ancestor of \"science,\" a word whose original meaning in English was \"knowledge.\""
+  }
+}

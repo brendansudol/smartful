@@ -72,7 +72,16 @@
     },
     { "id": "767", "fact": "Honeybees have hair on their eyes.", "category": ["Animals"] }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "504867",
+      "fact": "Giraffes have the highest blood pressure of any mammal, although their resting heart rate is about the same as humans."
+    },
+    {
+      "id": "504663",
+      "fact": "While an Oscar is of unnamed value to someone who wins (or loses) one, the actual trophy has a raw value of about $600."
+    }
+  ],
   "idiom": {
     "id": "cest-la-vie",
     "term": "c'est la vie",

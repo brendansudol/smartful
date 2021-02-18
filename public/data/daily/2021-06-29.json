@@ -77,7 +77,16 @@
       "category": ["History", "Firsts"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "554071",
+      "fact": "The average American typically eats between 3000 and 5000 calories at Thanksgiving dinner."
+    },
+    {
+      "id": "554094",
+      "fact": "A Canadian police officer named Ward Clapham created a program that gives “positive tickets” to people who do good deeds."
+    }
+  ],
   "idiom": {
     "id": "duck-soup",
     "term": "duck soup",

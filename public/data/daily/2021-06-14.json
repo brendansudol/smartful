@@ -75,7 +75,16 @@
       "category": ["Anatomy"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "554034",
+      "fact": "People walked differently in medieval times. They stepped with the ball of the foot first to check the ground for debris, perhaps because well-soled shoes were hard to come by."
+    },
+    {
+      "id": "553508",
+      "fact": "High schools and universities in New Zealand are allowed to keep up to a pound of uranium on the premises for educational purposes."
+    }
+  ],
   "idiom": {
     "id": "red-letter-day",
     "term": "red-letter day",

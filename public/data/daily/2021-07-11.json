@@ -1,0 +1,133 @@
+{
+  "artist": {
+    "id": "kim-deuk-sin",
+    "name": "Kim Deuk-sin",
+    "dates": "1754 - 1822",
+    "mainImg": "img/art/artists/kim-deuk-sin.jpg",
+    "artworkImgs": [
+      {
+        "name": "Album of Paintings by Kim Deuk-sin",
+        "path": "img/art/artworks/kim-deuk-sin-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-paintings-by-kim-deuk-sin-kim-deuk-sin/7wGtHaBXWVA5kA"
+      },
+      {
+        "name": "Album of Paintings by Kim Deuk-sin",
+        "path": "img/art/artworks/kim-deuk-sin-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-paintings-by-kim-deuk-sin-kim-deuk-sin/wAEoMncfcVg2kQ"
+      },
+      {
+        "name": "Blacksmith's Workshop",
+        "path": "img/art/artworks/kim-deuk-sin-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/blacksmith-s-workshop-kim-deuk-sin/dAHJl10bB0sUrQ"
+      },
+      {
+        "name": "Monk Podae Stretching Himself",
+        "path": "img/art/artworks/kim-deuk-sin-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/monk-podae-stretching-himself-kim-deuk-sin/tAHYecCVWg6T0g"
+      },
+      {
+        "name": "Common People Bowing to Yangban (nobles)",
+        "path": "img/art/artworks/kim-deuk-sin-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/common-people-bowing-to-yangban-nobles-kim-deuk-sin/8gFRdMFuZS4X2g"
+      },
+      {
+        "name": "Open the Gate and See the Moon",
+        "path": "img/art/artworks/kim-deuk-sin-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/open-the-gate-and-see-the-moon-kim-deuk-sin/XgHrjHPiVoukQQ"
+      }
+    ],
+    "summary": [
+      "Kim Deuk-sin was the son of a royal court painter, Kim Eungri, and followed in his father's footsteps. He entered royal service as a member of the Dohwaseo, the official painters of the Joseon court. Kim Deuk-sin is known for his pungsokhwa along with Danwon."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Silk", "Textile", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Kim_Deuk-sin",
+    "urlGoogle": "https://artsandculture.google.com/entity/kim-deuk-sin/m03ccgrr"
+  },
+  "event": {
+    "id": "operation-plunder",
+    "name": "Operation Plunder",
+    "dates": "Mar 23, 1945 - Mar 24, 1945",
+    "mainImg": "img/events/operation-plunder.jpg",
+    "summary": [
+      "Operation Plunder was a military operation to cross the Rhine on the night of 23 March 1945, launched by the 21st Army Group under Field Marshal Bernard Montgomery. The crossing of the river was at Rees, Wesel, and south of the river Lippe by the British Second Army under Lieutenant General Sir Miles Dempsey, and the United States Ninth Army under Lieutenant General William H. Simpson.",
+      "The First Allied Airborne Army conducted Operation Varsity on the east bank of the Rhine in support of Operation Plunder, consisting of U.S. XVIII Airborne Corps, the British 6th and the U.S. 17th Airborne Divisions."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Plunder",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-plunder/m02mmpb"
+  },
+  "funFacts": [
+    {
+      "id": "203",
+      "fact": "Atlantic salmon are capable of leaping 15 feet high.",
+      "category": ["Animals"]
+    },
+    { "id": "6", "fact": "A honey bee can fly at 15mph.", "category": ["Animals"] },
+    {
+      "id": "99",
+      "fact": "You burn about 20 calories per hour chewing gum.",
+      "category": ["Habits", "Science"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "553699", "fact": "Queen Elizabeth II has had over 30 corgis in her lifetime." },
+    { "id": "504872", "fact": "Sharks have existed longer than trees." }
+  ],
+  "idiom": {
+    "id": "sling-hash",
+    "term": "sling hash",
+    "definition": "Serve food in a restaurant, especially a cheap establishment. For example, *The only job she could find was slinging hash in the neighborhood diner.* This term alludes to the inelegant presentation and nature of the food, in effect, tossing hash before a customer. [Slang; mid-1800s]"
+  },
+  "person": {
+    "id": "charles-carnan-ridgely",
+    "name": "Charles Carnan Ridgely",
+    "dates": "Dec 6, 1760 - Jul 17, 1829",
+    "mainImg": "img/people/charles-carnan-ridgely.jpg",
+    "summary": [
+      "Charles Carnan Ridgely was born Charles Ridgely Carnan. He is also known as Charles Ridgely of Hampton. He served as the 15th Governor of the state of Maryland in the United States from 1815 to 1818. He also served in the Maryland House of Delegates from 1790 to 1795, and in the Maryland State Senate from 1796 to 1800. Charles was born in Baltimore. He was the son of John Carnan and Achsah Ridgely, sister of Captain Charles Ridgely. The Maryland Gazette described him as an aristocrat.",
+      "\"As a Senator or Delegate, justly appreciating the merits and demerits of the human character, he always avoided visionary schemes and dangerous experiments.\" Ridgely devoted his tenure to internal improvements. He devoted his attention to the state during the unpopular war with Great Britain. It appropriated ground for the erection of a Battle Monument in Baltimore, aided education, and chartered manufacturing and insurance companies, so that 'during his administration, the State enjoyed its greatest period of prosperity.' Ridgely passed an act which provided education for the poor in five separate counties; which was seen as important to the early development of public education in Maryland."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Charles_Carnan_Ridgely",
+    "urlGoogle": "https://artsandculture.google.com/entity/charles-carnan-ridgely/m08yfh6"
+  },
+  "place": {
+    "id": "macao",
+    "name": "Macao",
+    "mainImg": "img/places/macao.jpg",
+    "summary": [
+      "Macau, also spelled Macao, and officially the Macao Special Administrative Region of the People's Republic of China, is a city in the western Pearl River Delta by the South China Sea. It is a special administrative region of China and maintains separate governing and economic systems from those of mainland China. With a population of 696,100 and an area of 32.9 km², it is the most densely populated region in the world.",
+      "Macau was formerly a colony of the Portuguese Empire, after Ming China leased the territory as a trading post in 1557. Portugal paid an annual rent and administered the territory under Chinese sovereignty until 1887, when it gained perpetual colonial rights in the Sino-Portuguese Treaty of Peking. The colony remained under Portuguese rule until 1999, when it was transferred to China.",
+      "Originally a sparsely populated collection of coastal islands, the territory has become a major resort city and the top destination for gambling tourism. It is the ninth-highest recipient of tourism revenue and its gambling industry is seven times larger than that of Las Vegas. Although the city has one of the highest per capita incomes in the world, it has severe income inequality."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Macau",
+    "urlGoogle": "https://artsandculture.google.com/entity/macao/m04thp"
+  },
+  "wiki": {
+    "id": "w-s-gilbert",
+    "name": "W. S. Gilbert",
+    "summary": "W. S. Gilbert was an English dramatist, librettist and illustrator best known for his fourteen comic operas produced in collaboration with the composer Sir Arthur Sullivan. Gilbert's most popular collaborations with Sullivan, including H.M.S. Pinafore, The Pirates of Penzance, and The Mikado (one of the most frequently performed works in the history of musical theatre) and most of their other Savoy operas continue to be performed regularly today throughout the English-speaking world and beyond by opera companies, repertory companies, schools and community theatre groups. Lines from these works have permanently entered the English language, including \"short, sharp shock\", \"What never? Well, hardly ever!\", and \"let the punishment fit the crime\". Gilbert also wrote the Bab Ballads, an extensive collection of light verse accompanied by his own comical drawings. His creative output included over 75 plays and libretti, numerous stories, poems, lyrics and various other comic and serious pieces. His plays and realistic style of stage direction inspired other dramatists, including Oscar Wilde and George Bernard Shaw.",
+    "url": "https://en.wikipedia.org/wiki/W._S._Gilbert"
+  },
+  "word": {
+    "id": "vacuous",
+    "word": "vacuous",
+    "url": "https://www.merriam-webster.com/dictionary/vacuous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "VAK-yuh-wus",
+    "audioPath": "audio/words/vacuous.mp3",
+    "definitions": [
+      "emptied of or lacking content",
+      "marked by lack of ideas or intelligence : stupid, inane",
+      "devoid of serious occupation : idle"
+    ],
+    "examples": [
+      "The student's _vacuous_ facial expression suggested a lack of comprehension.",
+      "\"When the leaves begin to turn and the temperature calls for long sleeves, we stow the whites and rosés in favor of reds. It's easy but _vacuous_ logic. Color is not the most significant factor in drinking \\[wine\\] seasonally. It's texture and weight.\" - From an article by Eric Asimov in the _New York Times_, October 24, 2012"
+    ],
+    "origin": "As you might have guessed, \"vacuous\" shares the same root as \"vacuum\"-the Latin adjective \"vacuus,\" meaning \"empty.\" This root also gave us the noun \"vacuity\" (the oldest meaning of which is \"an empty space\") as well as the verb \"evacuate\" (originally meaning \"to empty of contents\"). Its predecessor, the verb \"vacare,\" is also an ancestor of the words \"vacation\" and \"vacancy\" as well as \"void.\" All of these words suggest an emptiness of space, or else a fleeing of people or things from one place to another. \"Vacuous\" appeared in English in the middle of the 17th century, at first literally describing something that was empty. It acquired its figurative usage, describing one who is lacking any substance of the mind, in the mid-1800s."
+  }
+}

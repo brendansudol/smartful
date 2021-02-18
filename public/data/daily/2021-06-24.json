@@ -75,7 +75,16 @@
     },
     { "id": "853", "fact": "Hawaii has its own time zone.", "category": ["Geography"] }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "553547",
+      "fact": "Blue whales may weigh up to twice as much as the largest dinosaur."
+    },
+    {
+      "id": "553863",
+      "fact": "North Korea’s 105-story Ryugyong Hotel, nicknamed \"The Hotel of Doom,\" is the world’s tallest unoccupied building."
+    }
+  ],
   "idiom": {
     "id": "ham-up",
     "term": "ham up",

@@ -76,7 +76,16 @@
       "category": ["Animals"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "553919",
+      "fact": "Bubble gum is pink because that was the only food dye available in the factory where it was made."
+    },
+    {
+      "id": "553688",
+      "fact": "The Mobile Phone Throwing World Championships are held in Finland.  A recent winner said he prepared for the event by “mainly drinking.”"
+    }
+  ],
   "idiom": {
     "id": "misery-loves-company",
     "term": "misery loves company",

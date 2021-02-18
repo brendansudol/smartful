@@ -76,7 +76,13 @@
       "category": ["Science"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    { "id": "553862", "fact": "The original title for Scream was Scary Movie." },
+    {
+      "id": "553834",
+      "fact": "In The Empire Strikes Back, an extra can be seen running with what appears to be an ice cream maker. The character became legendary among fans, and was eventually given a name (Willrow Hood) and a backstory."
+    }
+  ],
   "idiom": {
     "id": "on-the-horns-of-a-dilemma",
     "term": "on the horns of a dilemma",

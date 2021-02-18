@@ -72,7 +72,16 @@
     },
     { "id": "13", "fact": "Cats have over 100 vocal chords.", "category": ["Animals"] }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "505076",
+      "fact": "A solar eclipse helped end a six-year war in 585 BCE. When the sky suddenly darkened during a battle between the Lydians and the Medes in modern Turkey, soldiers took it as a sign to cease fighting."
+    },
+    {
+      "id": "553544",
+      "fact": "Beaver College changed its name to Arcadia in 2001 in part because anti-porn filters blocked access to the school's website."
+    }
+  ],
   "idiom": {
     "id": "at-first-blush",
     "term": "at first blush",
@@ -103,6 +112,11 @@
     "quote": null,
     "urlWiki": "https://en.wikipedia.org/wiki/Knoxville,_Tennessee",
     "urlGoogle": "https://artsandculture.google.com/entity/knoxville/m0_vn7"
+  },
+  "quote": {
+    "id": "127",
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
   },
   "wiki": {
     "id": "the-ashes",

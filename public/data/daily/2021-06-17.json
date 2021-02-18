@@ -72,7 +72,13 @@
       "category": ["Food"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    { "id": "553685", "fact": "Salvador Dalí designed the Chupa Chups logo." },
+    {
+      "id": "553963",
+      "fact": "Citizens of the Soviet Union began celebrating the defeat of Germany in World War II as soon as it was announced. Less than 24 hours later, the entire country was out of vodka."
+    }
+  ],
   "idiom": {
     "id": "green-about-the-gills",
     "term": "green about the gills",

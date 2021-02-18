@@ -77,7 +77,13 @@
       "category": ["Animals", "Onlies"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    { "id": "504557", "fact": "Ben Franklin’s formal education ended at 10 years old." },
+    {
+      "id": "553865",
+      "fact": "An episode of Peppa Pig was pulled from Australian television for teaching children not to fear spiders."
+    }
+  ],
   "idiom": {
     "id": "johnny-on-the-spot",
     "term": "Johnny-on-the-spot",
@@ -108,6 +114,11 @@
     "quote": null,
     "urlWiki": "https://en.wikipedia.org/wiki/Yekaterinburg",
     "urlGoogle": "https://artsandculture.google.com/entity/yekaterinburg/m0hkpn"
+  },
+  "quote": {
+    "id": "125",
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill"
   },
   "wiki": {
     "id": "oregon-state-capitol",

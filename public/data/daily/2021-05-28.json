@@ -75,7 +75,13 @@
       "category": ["Make-it-Easies"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    { "id": "554066", "fact": "The wood frog can hold its pee for up to eight months." },
+    {
+      "id": "504711",
+      "fact": "Editor Bennett Cerf challenged Dr. Seuss to write a book using no more than 50 different words. The result? Green Eggs and Ham."
+    }
+  ],
   "idiom": {
     "id": "spick-and-span",
     "term": "spick and span",

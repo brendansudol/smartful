@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "ford-madox-brown",
+    "name": "Ford Madox Brown",
+    "dates": "Apr 16, 1821 - Oct 6, 1893",
+    "mainImg": "img/art/artists/ford-madox-brown.jpg",
+    "artworkImgs": [
+      {
+        "name": "`Take your Son, Sir'",
+        "path": "img/art/artworks/ford-madox-brown-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/take-your-son-sir-ford-madox-brown/mAEZ0P8jT03sWQ"
+      },
+      {
+        "name": "Romeo and Juliet",
+        "path": "img/art/artworks/ford-madox-brown-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/romeo-and-juliet/fAHsGFNvgsoDMA"
+      },
+      {
+        "name": "The Coat of Many Colours",
+        "path": "img/art/artworks/ford-madox-brown-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-coat-of-many-colours-ford-madox-brown/6AGSfaDeVwiunQ"
+      },
+      {
+        "name": "Jacob and Joseph's Coat",
+        "path": "img/art/artworks/ford-madox-brown-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/jacob-and-joseph-s-coat-ford-madox-brown/YQGkM-hkHfG2JQ"
+      },
+      {
+        "name": "The Death of Eglon (Dalziels' Bible Gallery)",
+        "path": "img/art/artworks/ford-madox-brown-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-death-of-eglon-dalziels-bible-gallery-camden-press-scribner-and-welford-dalziel-brothers-ford-madox-brown/ywEvUdbrHy1Jjg"
+      },
+      {
+        "name": "Chaucer at the court of Edward III",
+        "path": "img/art/artworks/ford-madox-brown-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/chaucer-at-the-court-of-edward-iii-ford-madox-brown/9AFtH_gfksLXyQ"
+      }
+    ],
+    "summary": [
+      "Ford Madox Brown was a British painter of moral and historical subjects, notable for his distinctively graphic and often Hogarthian version of the Pre-Raphaelite style. Arguably, his most notable painting was Work. Brown spent the latter years of his life painting the twelve works known as The Manchester Murals, depicting Mancunian history, for Manchester Town Hall."
+    ],
+    "quote": null,
+    "movements": [
+      "Realism",
+      "Pre-Raphaelite Brotherhood",
+      "Arts and Crafts movement",
+      "Romanticism",
+      "Academic art"
+    ],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Watercolor painting", "Laid paper", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ford_Madox_Brown",
+    "urlGoogle": "https://artsandculture.google.com/entity/ford-madox-brown/m031ch"
+  },
+  "event": {
+    "id": "second-schleswig-war",
+    "name": "Second Schleswig War",
+    "dates": "Feb 1, 1864 - Oct 30, 1864",
+    "mainImg": "img/events/second-schleswig-war.jpg",
+    "summary": [
+      "The Second Schleswig War was the second military conflict over the Schleswig-Holstein Question of the nineteenth century. The war began on 1 February 1864, when Prussian and Austrian forces crossed the border into Schleswig. Denmark fought the Kingdom of Prussia and the Austrian Empire. Like the First Schleswig War, it was fought for control of the duchies of Schleswig, Holstein and Lauenburg, due to the succession disputes concerning them when the Danish king died without an heir acceptable to the German Confederation. The war started after the passing of the November Constitution of 1863, which integrated the Duchy of Schleswig into the Danish kingdom in violation of the London Protocol.",
+      "The war ended on 30 October 1864, with the Treaty of Vienna and Denmark's cession of the Duchies of Schleswig, Holstein and Saxe-Lauenburg to Prussia and Austria."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Schleswig_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-schleswig-war/m02pc_b"
+  },
+  "funFacts": [
+    {
+      "id": "886",
+      "fact": "The bumblebee bat is one of the smallest mammals on Earth.  It weighs less than a penny.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "810",
+      "fact": "Australia is the only continent without an active volcano.",
+      "category": ["Geography", "Onlies"]
+    },
+    {
+      "id": "67",
+      "fact": "There are 18 different animal shapes in the animal cracker zoo.",
+      "category": ["Food"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "505075", "fact": "The national animal of Scotland is the unicorn." },
+    {
+      "id": "553828",
+      "fact": "The corpse flower was the official flower of the Bronx for 60 years."
+    }
+  ],
+  "idiom": {
+    "id": "stew-in-ones-own-juice",
+    "term": "stew in one's own juice",
+    "definition": "Suffer the consequences of one's actions, as in *He's run into debt again, but this time we're leaving him to stew in his own juice.* This metaphoric term alludes to cooking something in its own liquid. Versions of it, such as *fry in one's own grease,* date from Chaucer's time, but the present term dates from the second half of the 1800s."
+  },
+  "person": {
+    "id": "sir-john-hotham-1-st-baronet",
+    "name": "Sir John Hotham, 1st Baronet",
+    "dates": "July 1589 - Jan 3, 1645",
+    "mainImg": "img/people/sir-john-hotham-1-st-baronet.jpg",
+    "summary": [
+      "Sir John Hotham, 1st Baronet of Scorborough Hall, near Driffield, Yorkshire, was an English Member of Parliament who was Governor of Hull in 1642 shortly before the start of the Civil War. He refused to allow King Charles I or any member of his entourage to enter the town, thereby depriving the king of access to the large arsenal contained within. Later in the Civil War he and his son John Hotham the younger were accused of treachery to the Parliamentarian cause, found guilty and executed on Tower Hill."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sir_John_Hotham,_1st_Baronet",
+    "urlGoogle": "https://artsandculture.google.com/entity/sir-john-hotham-1st-baronet/m023sd8"
+  },
+  "place": {
+    "id": "jamaica",
+    "name": "Jamaica",
+    "mainImg": "img/places/jamaica.jpg",
+    "summary": [
+      "Jamaica is an island country situated in the Caribbean Sea. Spanning 10,990 square kilometres in area, it is the third-largest island of the Greater Antilles and the Caribbean. Jamaica lies about 145 kilometres south of Cuba, and 191 kilometres west of Hispaniola; the British Overseas Territory of the Cayman Islands lies some 215 kilometres to the north-west.",
+      "Originally inhabited by the indigenous Arawak and Taíno peoples, the island came under Spanish rule following the arrival of Christopher Columbus in 1494. Many of the indigenous people were either killed or died of diseases to which they had no immunity, and the Spanish thus forcibly transplanted large numbers of African slaves to Jamaica as labourers. The island remained a possession of Spain until 1655, when England conquered it, renaming it Jamaica. Under British colonial rule Jamaica became a leading sugar exporter, with a plantation economy dependent on the African slaves and later their descendants. The British fully emancipated all slaves in 1838, and many freedmen chose to have subsistence farms rather than to work on plantations."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Jamaica",
+    "urlGoogle": "https://artsandculture.google.com/entity/jamaica/m03_r3"
+  },
+  "wiki": {
+    "id": "enzyme-inhibitor",
+    "name": "Enzyme inhibitor",
+    "summary": "Enzyme inhibitors are molecules that bind to enzymes and decrease their activity. Since blocking an enzyme's activity can kill a pathogen or correct a metabolic imbalance, many drugs are enzyme inhibitors. Inhibitor binding is either reversible or irreversible. Irreversible inhibitors usually react with the enzyme and change it chemically. These inhibitors modify key amino acid residues needed for enzymatic activity. In contrast, reversible inhibitors bind non-covalently and different types of inhibition are produced depending on whether these inhibitors bind the enzyme, the enzyme-substrate complex, or both. Their discovery and improvement is an active area of research in biochemistry and pharmacology. A medicinal enzyme inhibitor is often judged by its specificity (its lack of binding to other proteins) and its potency (its dissociation constant, which indicates the concentration needed to inhibit the enzyme). A high specificity and potency ensure that a drug will have few side effects and thus low toxicity. Enzyme inhibitors also occur naturally and are involved in the regulation of metabolism.",
+    "url": "https://en.wikipedia.org/wiki/Enzyme_inhibitor"
+  },
+  "word": {
+    "id": "hebetude",
+    "word": "hebetude",
+    "url": "https://www.merriam-webster.com/dictionary/hebetude",
+    "partOfSpeech": "noun",
+    "pronunciation": "HEB-uh-tood",
+    "audioPath": "audio/words/hebetude.mp3",
+    "definitions": ["lethargy, dullness"],
+    "examples": [
+      "The hebetude and ennui displayed by such bright students was just one sign that they were not being sufficiently challenged in their classes."
+    ],
+    "origin": "\"Hebetude\" usually suggests mental dullness, often marked by laziness or torpor. As such, it was a good word for one Queenslander correspondent, who wrote in a letter to the editor of the _Weekend Australian_ of \"an epidemic of hebetude among young people who … are placing too great a reliance on electronic devices to do their thinking and remembering.\" \"Hebetude\" comes from Late Latin \"hebetudo,\" which means pretty much the same thing as our word. It is also closely related to the Latin word for \"dull\" -- \"hebes,\" which has extended meanings such as \"obtuse,\" \"doltish,\" and \"stupid.\" Other \"hebe-\" words in English include \"hebetudinous\" (\"marked by hebetude\") and \"hebetate\" (\"to make dull\")."
+  }
+}

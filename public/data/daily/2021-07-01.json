@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "sava-sumanovic",
+    "name": "Sava Šumanović",
+    "dates": "Jan 22, 1896 - Aug 30, 1942",
+    "mainImg": "img/art/artists/sava-sumanovic.jpg",
+    "artworkImgs": [
+      {
+        "name": "Englishwomen in Paris; Gallery of Matica Srpska",
+        "path": "img/art/artworks/sava-sumanovic-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/englishwomen-in-paris-gallery-of-matica-srpska-sava-šumanović-vinkovci-1896-–-sremska-mitrovica-1942/nwHoK27xYwnKLA"
+      },
+      {
+        "name": "Šid under Snow",
+        "path": "img/art/artworks/sava-sumanovic-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/šid-under-snow-sava-šumanović/2QGK8DS-Bcfs5w"
+      },
+      {
+        "name": "Luncheon on the Grass",
+        "path": "img/art/artworks/sava-sumanovic-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/luncheon-on-the-grass/rQEQoaJx4CjmGg"
+      },
+      {
+        "name": "Nude Woman",
+        "path": "img/art/artworks/sava-sumanovic-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/nude-woman-sava-šumanović/SQFGXEmvmI_X6Q"
+      },
+      {
+        "name": "The Painter in his Atelier; Gallery of Matica Srpska",
+        "path": "img/art/artworks/sava-sumanovic-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-painter-in-his-atelier-gallery-of-matica-srpska-sava-šumanović-vinkovci-1896-–-sremska-mitrovica-1942/xwG4AUotqFE8Gg"
+      },
+      {
+        "name": "Sailor on the Pier; Gallery of Matica Srpska",
+        "path": "img/art/artworks/sava-sumanovic-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/sailor-on-the-pier-gallery-of-matica-srpska-sava-šumanović-vinkovci-1896-–-sremska-mitrovica-1942/MAGbrFbudh2Y8Q"
+      }
+    ],
+    "summary": [
+      "Sava Šumanović was a painter from modern-day Serbia. He is considered to be one of the most important Serbian painters of the 20th century. Šumanović's opus includes around 800 paintings as well as 400 drawings and sketches. He was executed during the Genocide of Serbs in the Independent State of Croatia."
+    ],
+    "quote": null,
+    "movements": ["Modern art"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sava_%C5%A0umanovi%C4%87",
+    "urlGoogle": "https://artsandculture.google.com/entity/sava-šumanović/m06fkhd"
+  },
+  "event": {
+    "id": "air-raid-on-bari",
+    "name": "Air raid on Bari",
+    "dates": null,
+    "mainImg": "img/events/air-raid-on-bari.jpg",
+    "summary": [
+      "The air raid on Bari was an air attack by German bombers on Allied forces and shipping in Bari, Italy, on 2 December 1943, during World War II. 105 German Junkers Ju 88 bombers of Luftflotte 2 achieved surprise and bombed shipping and personnel operating in support of the Allied Italian Campaign, sinking 27 cargo and transport ships, as well as a schooner, in Bari harbour.",
+      "The attack lasted a little more than an hour and put the port out of action until February 1944. The release of mustard gas from one of the wrecked cargo ships added to the loss of life. The British and US governments covered up the presence of mustard gas and its effects on victims of the raid."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Air_raid_on_Bari",
+    "urlGoogle": "https://artsandculture.google.com/entity/air-raid-on-bari/m03hhb43"
+  },
+  "funFacts": [
+    {
+      "id": "674",
+      "fact": "The oldest living animal ever found was a 405 year-old clam, named Ming by researchers.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "860",
+      "fact": "Cleveland, OH is home to the first electric traffic lights.",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "450",
+      "fact": "A group of cats is called a clowder.",
+      "category": ["Animals", "Definitions"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553811",
+      "fact": "Steve Carell worked as a postal carrier in the small town of Littleton, Massachusetts. (Though he only did it for a few months, he said it was the hardest job he's ever had.)"
+    },
+    {
+      "id": "553922",
+      "fact": "“Bloodcurdling” isn’t just an expression: Research shows that watching horror movies can increase a certain clotting protein in our bloodstreams."
+    }
+  ],
+  "idiom": {
+    "id": "pay-through-the-nose",
+    "term": "pay through the nose",
+    "definition": "Pay an excessive amount for something, as in *We paid through the nose for that vacation.* The origin of this term has been lost. Possibly it alludes to the Danish nose tax, imposed in Ireland in the 9th century, whereby delinquent taxpayers were punished by having their noses slit. [Second half of 1600s]"
+  },
+  "person": {
+    "id": "denis-kendall",
+    "name": "Denis Kendall",
+    "dates": "May 27, 1903 - Jul 19, 1995",
+    "mainImg": "img/people/denis-kendall.jpg",
+    "summary": [
+      "William Denis Kendall, known as Denis Kendall, was an engineer, businessman, and politician. During World War II he was Managing Director of the armaments firm British Manufacture and Research Co, and from 1942-1950, he was the Member of Parliament for Grantham. In 1952 he emigrated to United States and set up American Manufacture and Research Co to build small diesel engines."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Denis_Kendall",
+    "urlGoogle": "https://artsandculture.google.com/entity/denis-kendall/m03qnrb6"
+  },
+  "place": {
+    "id": "vancouver",
+    "name": "Vancouver",
+    "mainImg": "img/places/vancouver.jpg",
+    "summary": [
+      "Vancouver is a city on the north bank of the Columbia River in the U.S. state of Washington. It is the largest suburb of Portland, Oregon. Incorporated in 1857, Vancouver had a population of 161,791 as of the 2010 U.S. census, making it the fourth-largest city in Washington state. Vancouver is the county seat of Clark County and forms part of the Portland-Vancouver metropolitan area, the 23rd largest metropolitan area in the United States. Originally established in 1825 around Fort Vancouver, a fur-trading outpost, the city is located on the Washington/Oregon border along the Columbia River, directly north of Portland. In 2005, Money magazine named it No. 91 on its list of best places in America to live. In 2016, WalletHub ranked Vancouver the 89th best place in the U.S. for families to live."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Vancouver,_Washington",
+    "urlGoogle": "https://artsandculture.google.com/entity/vancouver/m0ckhc"
+  },
+  "wiki": {
+    "id": "graffiti",
+    "name": "Graffiti",
+    "summary": "Graffiti is a type of deliberate human markings on property. Graffiti can take the form of art, drawings, or words, and is illegal vandalism when done without the property owner's consent. Its origin can be traced back to ancient civilizations such as the Roman Empire and Ancient Greece. Graffiti originally was the term used for inscriptions, figure drawings, etc., found on the walls of ancient sepulchers or ruins, as in the Catacombs, or at Pompeii. It has evolved to include any decorations inscribed on any surface that are considered to be vandalism or pictures or writing placed on surfaces, usually outside walls and sidewalks, without the permission of the owner. Thus, inscriptions made by the authors of a monument are not considered graffiti.",
+    "url": "https://en.wikipedia.org/wiki/Graffiti"
+  },
+  "word": {
+    "id": "malversation",
+    "word": "malversation",
+    "url": "https://www.merriam-webster.com/dictionary/malversation",
+    "partOfSpeech": "noun",
+    "pronunciation": "mal-ver-SAY-shun",
+    "audioPath": "audio/words/malversation.mp3",
+    "definitions": [
+      "misbehavior and especially corruption in an office, trust, or commission",
+      "corrupt administration"
+    ],
+    "examples": [
+      "The city council impeached the mayor for administrative misconduct and _malversation_, charging that he has used his office primarily for personal gain.",
+      "\"The Office of the Ombudsman is still evaluating the plunder cases filed three months ago by the Department of Justice…. Included in the first batch of cases were 34 respondents, while at least 10 more legislators were charged, this time with _malversation_, early last month.\" - From an article by Christian V. Esguerra in the _Philippines Daily Inquirer_, December 30, 2013"
+    ],
+    "origin": "The form \"mal-\" is often a bad sign in a word, and \"malversation\" is no exception. In Middle French, \"mal-\" (meaning \"bad,\" from the Latin word for \"bad,\" \"malus\") teamed up with \"verser\" (\"to turn, handle,\" from the Latin verb \"vertere,\" \"to turn \") to create \"malverser,\" a verb meaning \"to be corrupt.\" This in turn led to the French noun \"malversation,\" which was adopted by English speakers in the mid-16th century. Some other \"mal-\" words that entered English from Middle French are \"maladroit\" (\"inept\"), \"malcontent\" (\"discontented\"), and \"maltreat\" (\"to treat badly\")."
+  }
+}

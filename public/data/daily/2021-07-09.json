@@ -1,0 +1,136 @@
+{
+  "artist": {
+    "id": "dale-chihuly",
+    "name": "Dale Chihuly",
+    "dates": "Born Sep 20, 1941",
+    "mainImg": "img/art/artists/dale-chihuly.jpg",
+    "artworkImgs": [
+      {
+        "name": "Royal Blue Mint Chandelier",
+        "path": "img/art/artworks/dale-chihuly-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/royal-blue-mint-chandelier-chihuly-dale-patrick/aQEb65mDRhMXBA"
+      },
+      {
+        "name": "Erbium Chandelier with Gilded Putto",
+        "path": "img/art/artworks/dale-chihuly-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/erbium-chandelier-with-gilded-putto/JAGzNCq_THF_4w"
+      },
+      {
+        "name": "Nymph Pink Seaform Set with Foam White Lip Wrap",
+        "path": "img/art/artworks/dale-chihuly-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/nymph-pink-seaform-set-with-foam-white-lip-wrap-dale-chihuly/CgGRZUOL4TDpRQ"
+      },
+      {
+        "name": "Navajo Blanket Cylinder (Zig-Zag with Horse Drawing)",
+        "path": "img/art/artworks/dale-chihuly-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/navajo-blanket-cylinder-zig-zag-with-horse-drawing/AAF2j5QKvrTJlQ"
+      },
+      {
+        "name": "Black Cylinder #3",
+        "path": "img/art/artworks/dale-chihuly-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/black-cylinder-3/agFlPL0-YwmxYQ"
+      },
+      {
+        "name": "Navajo Blanket Cylinder (Star Boyeta)",
+        "path": "img/art/artworks/dale-chihuly-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/navajo-blanket-cylinder-star-boyeta/nwH-aOikQgep4w"
+      }
+    ],
+    "summary": [
+      "Dale Chihuly is an American glass sculptor and entrepreneur. His works are considered to possess outstanding artistic merit in the field of blown glass, \"moving it into the realm of large-scale sculpture.\" The technical difficulties of working with glass forms are considerable, yet Chihuly uses it as the primary medium for installations and environmental artwork."
+    ],
+    "quote": "“Glass is the most magical of all materials. It transmits light in a special way.”",
+    "movements": [],
+    "mediums": ["Glass", "Sculpture", "Metal", "Gold", "Iron", "Steel"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Dale_Chihuly",
+    "urlGoogle": "https://artsandculture.google.com/entity/dale-chihuly/m02h_g"
+  },
+  "event": {
+    "id": "coal-strike-of-1902",
+    "name": "Coal strike of 1902",
+    "dates": "May 12, 1902 - Oct 23, 1902",
+    "mainImg": "img/events/coal-strike-of-1902.jpg",
+    "summary": [
+      "The Coal strike of 1902 was a strike by the United Mine Workers of America in the anthracite coalfields of eastern Pennsylvania. Miners struck for higher wages, shorter workdays, and the recognition of their union. The strike threatened to shut down the winter fuel supply to major American cities. At that time, residences were typically heated with anthracite or \"hard\" coal, which produces higher heat value and less smoke than \"soft\" or bituminous coal.",
+      "The strike never resumed, as the miners received a 10% wage increase and reduced workdays from ten to nine hours; the owners got a higher price for coal and did not recognize the trade union as a bargaining agent. It was the first labor dispute in which the U.S. federal government intervened as a neutral arbitrator."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Coal_strike_of_1902",
+    "urlGoogle": "https://artsandculture.google.com/entity/coal-strike-of-1902/m055bql"
+  },
+  "funFacts": [
+    {
+      "id": "884",
+      "fact": "A strand from the web of a golden spider is as strong as a steel wire of the same size.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "348",
+      "fact": "It is estimated that the world's oceans contain 10 billion tons of gold.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "920",
+      "fact": "Buzz Aldrin was one of the first men on the moon. His mother's maiden name was also Moon.",
+      "category": ["Firsts"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "504871", "fact": "When feeding, a hummingbird can lick 10 to 15 times per second." },
+    {
+      "id": "504665",
+      "fact": "Johnny Carson’s first three wives were named, in order, Joan, Joanne, and Joanna. (His first wife went by “Jody.”)"
+    }
+  ],
+  "idiom": {
+    "id": "in-two-shakes",
+    "term": "in two shakes",
+    "definition": "Also, **in two shakes of a lamb's tail** Very quickly, very soon, as in *I'll be with you in two shakes,* or *She'll be finished in two shakes of a lamb's tail.* The longer idiom alludes to the friskiness of lambs; the shorter one may be an abbreviation of the longer one, or it may refer to the shaking of dice or any two quick movements. [Early 1800s]"
+  },
+  "person": {
+    "id": "silvia-pinal",
+    "name": "Silvia Pinal",
+    "dates": "Born Sep 12, 1931",
+    "mainImg": "img/people/silvia-pinal.jpg",
+    "summary": [
+      "Silvia Pinal Hidalgo is a Mexican film, theater and television actress.",
+      "Pinal began her career in the theater, venturing into cinema in 1949. Pinal reached popularity during the Golden Age of Mexican cinema. Her film work and popularity in her native country led her to work in Europe. Pinal achieved international recognition by starring in a famous film trilogy by director Luis Buñuel: Viridiana, El ángel exterminador and Simón del desierto.",
+      "In addition to her outstanding career in film, Pinal has also excelled in other areas. She was a pioneer of the Musical theatre in Mexico in addition to venturing into television, as an actress and producer. At one point in her life, Pinal also ventured into politics and held some public office in her native country. Her career spans over sixty years and she is still active as of 2020."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Silvia_Pinal",
+    "urlGoogle": "https://artsandculture.google.com/entity/silvia-pinal/m04pk5h"
+  },
+  "place": {
+    "id": "coimbra",
+    "name": "Coimbra",
+    "mainImg": "img/places/coimbra.jpg",
+    "summary": [
+      "Coimbra is a city and a municipality in Portugal. The population at the 2011 census was 143,397, in an area of 319.40 square kilometres.",
+      "The fourth-largest urban centre in Portugal, it is the largest city of the district of Coimbra and the Centro Region. About 460,000 people live in the Região de Coimbra, comprising 19 municipalities and extending into an area of 4,336 square kilometres.",
+      "Among the many archaeological structures dating back to the Roman era, when Coimbra was the settlement of Aeminium, are its well-preserved aqueduct and cryptoporticus. Similarly, buildings from the period when Coimbra was the capital of Portugal still remain. During the late Middle Ages, with its decline as the political centre of the Kingdom of Portugal, Coimbra began to evolve into a major cultural centre. This was in large part helped by the establishment of the University of Coimbra in 1290, the oldest academic institution in the Portuguese-speaking world. Apart from attracting many European and international students, the university is visited by many tourists for its monuments and history."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Coimbra",
+    "urlGoogle": "https://artsandculture.google.com/entity/coimbra/m0217lt"
+  },
+  "wiki": {
+    "id": "robert-oppenheimer",
+    "name": "Robert Oppenheimer",
+    "summary": "Robert Oppenheimer was an American physicist and the scientific director of the Manhattan Project, the World War II effort to develop the first nuclear weapons, at the secret Los Alamos laboratory in New Mexico. Known colloquially as \"the father of the atomic bomb\", Oppenheimer lamented the weapon's killing power after it was used to destroy the Japanese cities of Hiroshima and Nagasaki. After the war, he was a chief advisor to the newly-created Atomic Energy Commission and used that position to lobby for international control of atomic energy and to avert the nuclear arms race with the Soviet Union. After invoking the ire of many politicians and scientists with his outspoken political opinions during the Red Scare, he had his security clearance revoked in a much-publicized and politicized hearing in 1954. Though stripped of his political influence, Oppenheimer continued to lecture, write, and work in physics. A decade later, President Lyndon B. Johnson awarded him the Enrico Fermi Award as a gesture of rehabilitation.",
+    "url": "https://en.wikipedia.org/wiki/Robert_Oppenheimer"
+  },
+  "word": {
+    "id": "tetchy",
+    "word": "tetchy",
+    "url": "https://www.merriam-webster.com/dictionary/tetchy",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TETCH-ee",
+    "audioPath": "audio/words/tetchy.mp3",
+    "definitions": ["irritably or peevishly sensitive : touchy"],
+    "examples": [
+      "Nico sensed that his sister was in a tetchy mood, so he decided to wait until the next day to ask to borrow her car."
+    ],
+    "origin": "\"Tetchy\" is a word that may have been coined by Shakespeare -- its first known use in English occurs in _Romeo and Juliet_ (1592). Etymologists are not certain how the word came about, but some have suggested that it derives from \"tetch,\" an obsolete noun meaning \"habit.\" The similarity both in meaning and pronunciation to \"touchy\" might lead you to conclude that \"tetchy\" is related to that word, but there is no conclusive evidence to suggest such a connection. The adjectives \"teched\" and \"tetched,\" meaning \"mentally unbalanced,\" are variations of \"touched,\" and are probably also unrelated to \"tetchy.\""
+  }
+}

@@ -74,7 +74,16 @@
       "category": ["Plants", "Science"]
     }
   ],
-  "funFacts2": [],
+  "funFacts2": [
+    {
+      "id": "553866",
+      "fact": "Bedding was such a luxury in the Middle Ages that blankets and sheets were written into wills."
+    },
+    {
+      "id": "553549",
+      "fact": "The al-Qarawiyyin Library in Fez, Morocco is the oldest working library in the world."
+    }
+  ],
   "idiom": {
     "id": "make-a-virtue-of-necessity",
     "term": "make a virtue of necessity",

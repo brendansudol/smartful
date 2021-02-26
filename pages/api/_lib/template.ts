@@ -1,4 +1,5 @@
 import marked from "marked";
+import prettier from "prettier";
 import { IDayData } from "../../../lib/types";
 import { parseISO } from "../../../utils/dates";
 
@@ -11,7 +12,7 @@ export function getHtml(dateISO: string, data: IDayData) {
   const { artist, event, funFacts, idiom, person, quote, word } = data;
 
   // email template created & exported from https://designmodo.com/postcards/app/
-  return `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  const html = `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -201,7 +202,7 @@ export function getHtml(dateISO: string, data: IDayData) {
                   <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                     <tbody>
                       <tr>
-                        <td height="20" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+                        <td height="12" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
                       </tr>
                     </tbody>
                   </table>
@@ -216,7 +217,7 @@ export function getHtml(dateISO: string, data: IDayData) {
                               <tr>
                                 <td valign="top">
                                   <a href="https://getsmartful.com" style="text-decoration: none;">
-                                    <img src="${LOGO_URL}" width="40" height="40" alt="" style="max-width: 100%; height: auto; border: 0; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; font-size: 16px; color: #ffffff;">
+                                    <img src="${LOGO_URL}" width="40" height="40" alt="nerd emoji" style="max-width: 100%; height: auto; line-height: 1; outline: 0; border: 0;">
                                   </a>
                                 </td>
                               </tr>
@@ -438,13 +439,11 @@ export function getHtml(dateISO: string, data: IDayData) {
                                     <tbody>
                                       <tr>
                                         <td valign="top">
-                                          <img
-                                            src="${getImageUrl(artist.mainImg)}"
-                                            width="60"
-                                            height="60"
-                                            alt="${artist.name}"
-                                            style="display: block; max-width: 100%; height: auto; border: 0; text-decoration: none; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; border-radius: 5px;"
-                                          />
+                                          ${getImage({
+                                            path: artist.mainImg,
+                                            alt: artist.name,
+                                            size: 60,
+                                          })}
                                         </td>
                                       </tr>
                                     </tbody>
@@ -465,11 +464,31 @@ export function getHtml(dateISO: string, data: IDayData) {
                                       return `<p>${paragraph}</p>`;
                                     })
                                     .join("")}
-                                  <p>
-                                    <a href="${artist.urlGoogle}"style="color: #3333ee;">
-                                      Learn more »
-                                    </a>
-                                  </p>
+                                </td>
+                              </tr>
+                              ${
+                                artist.artworkImgs.length >= 4
+                                  ? `<tr>
+                                <td colspan="2" style="padding-bottom: 20px;">
+                                  <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+                                    <tr>
+                                    ${artist.artworkImgs
+                                      .slice(0, 4)
+                                      .map((img) => {
+                                        return `<td align="center" valign="top" width="23.5%">
+                                          ${getImage({ path: img.path, alt: img.name, size: 126 })}
+                                        </td>`;
+                                      })
+                                      .join(`<td width="2%">&nbsp;</td>`)}
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>`
+                                  : ""
+                              }
+                              <tr>
+                                <td colspan="2" class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
+                                  ${getLink({ href: artist.urlGoogle })}
                                 </td>
                               </tr>
                             </tbody>
@@ -510,13 +529,11 @@ export function getHtml(dateISO: string, data: IDayData) {
                                     <tbody>
                                       <tr>
                                         <td valign="top">
-                                          <img
-                                            src="${getImageUrl(person.mainImg)}"
-                                            width="60"
-                                            height="60"
-                                            alt="${person.name}"
-                                            style="display: block; max-width: 100%; height: auto; border: 0; text-decoration: none; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; border-radius: 5px;"
-                                          />
+                                          ${getImage({
+                                            path: person.mainImg,
+                                            alt: person.name,
+                                            size: 60,
+                                          })}
                                         </td>
                                       </tr>
                                     </tbody>
@@ -531,17 +548,15 @@ export function getHtml(dateISO: string, data: IDayData) {
                               </tr>
                               <tr>
                                 <td colspan="2" class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
-                                ${person.summary
-                                  .slice(0, 2)
-                                  .map((paragraph) => {
-                                    return `<p>${paragraph}</p>`;
-                                  })
-                                  .join("")}
-                                <p>
-                                  <a href="${person.urlWiki}"style="color: #3333ee;">
-                                    Learn more »
-                                  </a>
-                                </p>
+                                  ${person.summary
+                                    .slice(0, 2)
+                                    .map((paragraph) => {
+                                      return `<p>${paragraph}</p>`;
+                                    })
+                                    .join("")}
+                                  <div>
+                                    ${getLink({ href: person.urlWiki })}
+                                  </div>
                                 </td>
                               </tr>
                             </tbody>
@@ -582,13 +597,11 @@ export function getHtml(dateISO: string, data: IDayData) {
                                     <tbody>
                                       <tr>
                                         <td valign="top">
-                                          <img
-                                            src="${getImageUrl(event.mainImg)}"
-                                            width="60"
-                                            height="60"
-                                            alt="${event.name}"
-                                            style="display: block; max-width: 100%; height: auto; border: 0; text-decoration: none; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; border-radius: 5px;"
-                                          />
+                                          ${getImage({
+                                            path: event.mainImg,
+                                            alt: event.name,
+                                            size: 60,
+                                          })}
                                         </td>
                                       </tr>
                                     </tbody>
@@ -603,17 +616,15 @@ export function getHtml(dateISO: string, data: IDayData) {
                               </tr>
                               <tr>
                                 <td colspan="2" class="pc-xs-fs-14 pc-xs-lh-21" style="font-family: courier, menlo, consolas, monaco, monospace; font-size: 16px; line-height: 24px; color: #000000" valign="top">
-                                ${event.summary
-                                  .slice(0, 2)
-                                  .map((paragraph) => {
-                                    return `<p>${paragraph}</p>`;
-                                  })
-                                  .join("")}
-                                <p>
-                                  <a href="${event.urlWiki}"style="color: #3333ee;">
-                                    Learn more »
-                                  </a>
-                                </p>
+                                  ${event.summary
+                                    .slice(0, 2)
+                                    .map((paragraph) => {
+                                      return `<p>${paragraph}</p>`;
+                                    })
+                                    .join("")}
+                                  <div>
+                                    ${getLink({ href: event.urlWiki })}
+                                  </div>
                                 </td>
                               </tr>
                             </tbody>
@@ -710,7 +721,7 @@ export function getHtml(dateISO: string, data: IDayData) {
                   <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                     <tbody>
                       <tr>
-                        <td height="20" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+                        <td height="12" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
                       </tr>
                     </tbody>
                   </table>
@@ -727,10 +738,34 @@ export function getHtml(dateISO: string, data: IDayData) {
   <div class="pc-gmail-fix" style="white-space: nowrap; font: 15px courier; line-height: 0;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div>
 </body>
 </html>`;
+
+  return prettier.format(html, {
+    parser: "html",
+    printWidth: 100,
+    htmlWhitespaceSensitivity: "css",
+  });
 }
 
-function getImageUrl(path: string): string {
-  return `https://getsmartful.com/data/${path}`;
+function getLink({
+  href,
+  text = "Learn more »",
+  color = "#3333ee",
+}: {
+  href: string;
+  text?: string;
+  color?: string;
+}): string {
+  return `<a href="${href}" style="color: ${color}">${text}</a>`;
+}
+
+function getImage({ path, alt, size }: { path: string; alt: string; size: number }): string {
+  return `<img
+    src="https://getsmartful.com/data/${path}"
+    width="${size}"
+    height="${size}"
+    alt="${alt}"
+    style="display: block; max-width: 100%; height: auto; line-height: 1; outline: 0; border: 0; border-radius: 5px;"
+  />`;
 }
 
 function getPreheader(data: IDayData): string {

@@ -11,7 +11,7 @@ const fonts = {
   sans:
     'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
   serif: "athelas, georgia, serif",
-  monospace: '"duospace", courier, menlo, consolas, monaco, monospace',
+  monospace: 'duospace, courier, menlo, consolas, monaco, monospace',
 };
 
 export default {

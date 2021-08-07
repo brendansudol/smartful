@@ -1,0 +1,135 @@
+{
+  "artist": {
+    "id": "nicolaes-maes",
+    "name": "Nicolaes Maes",
+    "dates": "January 1634 - Nov 24, 1693",
+    "mainImg": "img/art/artists/nicolaes-maes.jpg",
+    "artworkImgs": [
+      {
+        "name": "Young Woman Peeling Apples",
+        "path": "img/art/artworks/nicolaes-maes-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/young-woman-peeling-apples-nicolaes-maes/AAEX96-QhtjN9Q"
+      },
+      {
+        "name": "Old Woman Saying Grace, Known as 'The Prayer without End'",
+        "path": "img/art/artworks/nicolaes-maes-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/old-woman-saying-grace-known-as-the-prayer-without-end-nicolaes-maes/3AEBA7dFnmFKVg"
+      },
+      {
+        "name": "The Eavesdropper",
+        "path": "img/art/artworks/nicolaes-maes-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-eavesdropper-nicolaes-maes/FgFta55E_GHZ2A"
+      },
+      {
+        "name": "The maidservant",
+        "path": "img/art/artworks/nicolaes-maes-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-maidservant-maes-nicolaes/6gG2QSlAwxLLdg"
+      },
+      {
+        "name": "Portrait of a Woman",
+        "path": "img/art/artworks/nicolaes-maes-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-woman-nicholas-maes/SwGjxWJGuCaIjw"
+      },
+      {
+        "name": "Abraham Dismissing Hagar and Ishmael",
+        "path": "img/art/artworks/nicolaes-maes-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/abraham-dismissing-hagar-and-ishmael-nicolaes-maes/RQE5Y9p9A7N5HQ"
+      }
+    ],
+    "summary": [
+      "Nicolaes Maes was a Dutch painter known for his genre scenes, portraits, religious compositions and the occasional still life. A pupil of Rembrandt in Amsterdam, he returned to work in his native city Dordrecht for 20 years. In the latter part of his career he returned to Amsterdam where he became the leading portrait painter of his time. Maes contributed to the development of genre painting in the Netherlands and was the most prominent portrait painter working in Amsterdam in the final three decennia of the 17th century."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Pen", "Drawing", "Ink", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Nicolaes_Maes",
+    "urlGoogle": "https://artsandculture.google.com/entity/nicolaes-maes/m03fvwq"
+  },
+  "event": {
+    "id": "belgian-revolution",
+    "name": "Belgian Revolution",
+    "dates": "Aug 25, 1830 - Aug 12, 1831",
+    "mainImg": "img/events/belgian-revolution.jpg",
+    "summary": [
+      "The Belgian Revolution was the conflict which led to the secession of the southern provinces from the United Kingdom of the Netherlands and the establishment of an independent Kingdom of Belgium.",
+      "The people of the south were mainly Flemings and Walloons. Both peoples were traditionally Roman Catholic as contrasted with the largely Protestant people of the north. Many outspoken liberals regarded King William I's rule as despotic. There were high levels of unemployment and industrial unrest among the working classes.",
+      "On 25 August 1830, riots erupted in Brussels and shops were looted. Theatregoers who had just watched the nationalistic opera La muette de Portici joined the mob. Uprisings followed elsewhere in the country. Factories were occupied and machinery destroyed. Order was restored briefly after William committed troops to the Southern Provinces but rioting continued and leadership was taken up by radicals, who started talking of secession.",
+      "Dutch units saw the mass desertion of recruits from the southern provinces and pulled out. The States-General in Brussels voted in favour of secession and declared independence. In the aftermath, a National Congress was assembled."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Belgian_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/belgian-revolution/m038gk2"
+  },
+  "funFacts": [
+    {
+      "id": "275",
+      "fact": "It took the first man to walk around the world four years, three months and 16 days to complete his journey.",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "838",
+      "fact": "Cranberries are sorted for ripeness by bouncing them.",
+      "category": ["Food"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "551314",
+      "fact": "<span>The annual number of worldwide shark bites is 10 times less than the number of people bitten by other people in New York.</span>"
+    }
+  ],
+  "idiom": {
+    "id": "get-someones-goat",
+    "term": "get someone's goat",
+    "definition": "Annoy or anger someone, as in *By teasing me about that article I wrote, he's trying to get my goat, but I won't let him.* The origin of this expression is disputed. H.L. Mencken held it came from using a goat as a calming influence in a racehorse's stall and removing it just before the race, thereby making the horse nervous. However, there is no firm evidence for this origin. [c. 1900]"
+  },
+  "person": {
+    "id": "elliott-roosevelt",
+    "name": "Elliott Roosevelt",
+    "dates": "Sep 23, 1910 - Oct 27, 1990",
+    "mainImg": "img/people/elliott-roosevelt.jpg",
+    "summary": [
+      "Elliott Roosevelt was an American aviation official and wartime officer in the United States Army Air Forces, reaching the rank of brigadier general. He was a son of President Franklin D. Roosevelt and First Lady Eleanor Roosevelt.",
+      "As a reconnaissance commander, Roosevelt pioneered new techniques in night photography and meteorological data-gathering, but his claims to a distinguished record on combat missions have been largely discounted.",
+      "After the war ended, he faced an investigation by the United States Congress, on charges of corruption, including accusations that he had recommended the purchase of the experimental Hughes XF-11 reconnaissance aircraft ahead of a Lockheed model that was believed to be superior. Ultimately, he was found blameless.",
+      "Roosevelt published a book about his attendance at several major Allied war conferences, and a controversial exposé of his parents’ private life. He also wrote 22 mystery novels. His career also embraced broadcasting, ranching, politics and business."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Elliott_Roosevelt",
+    "urlGoogle": "https://artsandculture.google.com/entity/elliott-roosevelt/m02kfjx"
+  },
+  "place": {
+    "id": "cuba",
+    "name": "Cuba",
+    "mainImg": "img/places/cuba.jpg",
+    "summary": [
+      "Cuba, officially the Republic of Cuba, is a country comprising the island of Cuba as well as Isla de la Juventud and several minor archipelagos. Cuba is located in the northern Caribbean where the Caribbean Sea, Gulf of Mexico and Atlantic Ocean meet. It is east of the Yucatán Peninsula, south of both the U.S. state of Florida and the Bahamas, west of Haiti and north of both Jamaica and the Cayman Islands. Havana is the largest city and capital; other major cities include Santiago de Cuba and Camagüey. The area of the Republic of Cuba is 110,860 square kilometers. The island of Cuba is the largest island in Cuba and in the Caribbean, with an area of 105,006 square kilometers, and the second-most populous after Hispaniola, with over 11 million inhabitants.",
+      "The territory that is now Cuba was inhabited by the Ciboney Taíno people from the 4th millennium BC until Spanish colonization in the 15th century. From the 15th century, it was a colony of Spain until the Spanish–American War of 1898, when Cuba was occupied by the United States and gained nominal independence as a de facto United States protectorate in 1902."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Cuba",
+    "urlGoogle": "https://artsandculture.google.com/entity/cuba/m0d04z6"
+  },
+  "wiki": {
+    "id": "tropical-storm-allison",
+    "name": "Tropical Storm Allison",
+    "summary": "Tropical Storm Allison was a tropical storm that devastated southeast Texas in June of the 2001 Atlantic hurricane season. The first storm of the season, Allison lasted unusually long for a June storm, remaining tropical or subtropical for 15 days. The storm developed from a tropical wave in the northern Gulf of Mexico on June 4, and struck the northern Texas coast shortly thereafter. It drifted northward through the state, then turned back to the south and re-entered the Gulf of Mexico. The storm continued to the east-northeast, making landfall on Louisiana and then moving across the southeast United States and Mid-Atlantic. Allison was the first storm since Tropical Storm Frances in 1998 to strike the upper Texas coastline. The storm dropped heavy rainfall along its path, peaking at over 40 inches (1000 mm) in Texas. The worst of the flooding occurred in Houston, where most of Allison's damage occurred. There, 30,000 became homeless after the flooding destroyed 2,744 homes.",
+    "url": "https://en.wikipedia.org/wiki/Tropical_Storm_Allison"
+  },
+  "word": {
+    "id": "picaresque",
+    "word": "picaresque",
+    "url": "https://www.merriam-webster.com/dictionary/picaresque",
+    "partOfSpeech": "adjective",
+    "pronunciation": "pik-uh-RESK",
+    "audioPath": "audio/words/picaresque.mp3",
+    "definitions": [
+      "of or relating to rogues or rascals; also : of, relating to, suggesting, or being a type of fiction dealing with the episodic adventures of a usually roguish protagonist"
+    ],
+    "examples": [
+      "\"His specialty was the _picaresque_ novel, which took the hero (with the reader happily perched on his shoulder) on a wild ride….\" - From an article by Martin Rubin in _The Washington Times_, March 16, 2012",
+      "\"Joey embarks on an unwitting, _picaresque_ odyssey through this terrible 'war to end all wars,' crossing paths with a pair of young German deserters and a French teenage girl, and then doing hard time hauling cannons and supplies for the Germans.\"- From a review by Kevin Lally in _Film Journal_, December 21, 2011"
+    ],
+    "origin": "\"Picaresque\" derives from Spanish \"picaresco,\" which means \"of or relating to a picaro.\" The word \"picaro,\" which also derives from Spanish, means \"rogue\" or \"bohemian.\" \"Picaro\" describes a type of character that has long been a popular subject for fictional narrative. Typically, the picaresque novel centers around a wandering individual of low standing who happens into a series of adventures among people of various higher classes, often relying on wits and a little dishonesty to get by. The first known novel in this style is _Lazarillo de Tormes_ (circa 1554), an irreverent work about a poor boy who works for a series of masters of dubious character. The novel has been attributed to Diego Hurtado de Mendoza, but his authorship is disputable."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "artist": {
+    "id": "valentino",
+    "name": "Valentino",
+    "dates": "Born May 11, 1932",
+    "mainImg": "img/art/artists/valentino.jpg",
+    "artworkImgs": [
+      {
+        "name": "Evening dress",
+        "path": "img/art/artworks/valentino-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-dress-valentino-garavani/CwFP0f3QCxyoTg"
+      },
+      {
+        "name": "Installation view, Dresses, EXOTICISM section",
+        "path": "img/art/artworks/valentino-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/installation-view-dresses-exoticism-section-maria-antonelli/ZwFPMhj3tQtazg"
+      },
+      {
+        "name": "Evening dress of oyster white crepe satin with four large applied silver sequin, bead and rhinestone butterflies",
+        "path": "img/art/artworks/valentino-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-dress-of-oyster-white-crepe-satin-with-four-large-applied-silver-sequin-bead-and-rhinestone-butterflies-valentino-garavani/cwGU0m4cFZ7jUg"
+      },
+      {
+        "name": "Cream dress",
+        "path": "img/art/artworks/valentino-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cream-dress-valentino/-wHQH2kllSZlDA"
+      },
+      {
+        "name": "Installation view, Dresses, ARTY section",
+        "path": "img/art/artworks/valentino-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/installation-view-dresses-arty-section-valentino-garavani/XwGsj7v_7uk0gQ"
+      },
+      {
+        "name": "Installation view, Dresses, COCKTAIL section",
+        "path": "img/art/artworks/valentino-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/installation-view-dresses-cocktail-section-cesare-guidi/cQEeBhtrpHhGYg"
+      }
+    ],
+    "summary": [
+      "Valentino Clemente Ludovico Garavani, best known mononymously as Valentino, is an Italian fashion designer, the founder of the Valentino brand and company. His main lines include Valentino, Valentino Garavani, Valentino Roma, and R.E.D. Valentino."
+    ],
+    "quote": "“I have my favourite fashion decade, yes, yes, yes: '60s. It was a sort of little revolution; the clothes were amazing but not too exaggerated.”",
+    "movements": ["Academic art"],
+    "mediums": ["Textile", "Silk", "Satin", "Glass", "Lead glass", "Rhinestone"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Valentino_%28fashion_designer%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/valentino/m03pz05"
+  },
+  "event": {
+    "id": "john-browns-raid-on-harpers-ferry",
+    "name": "John Brown's raid on Harpers Ferry",
+    "dates": "Oct 16, 1859 - Oct 18, 1859",
+    "mainImg": "img/events/john-browns-raid-on-harpers-ferry.jpg",
+    "summary": [
+      "John Brown's raid on Harpers Ferry was an effort by abolitionist John Brown, from October 16 to 18, 1859, to initiate a slave revolt in Southern states by taking over a United States arsenal at Harpers Ferry, Virginia. It has been called the dress rehearsal for the Civil War.",
+      "Brown's party of 22 was defeated by a company of U.S. Marines, led by First Lieutenant Israel Greene. Several of those present at the raid would later be involved in the Civil War: Colonel Robert E. Lee was in overall command of the operation to retake the arsenal. Stonewall Jackson and Jeb Stuart were part of the troops guarding the arrested Brown, and John Wilkes Booth was a spectator at his execution. John Brown had originally asked Harriet Tubman and Frederick Douglass, both of whom he had met in his transformative years as an abolitionist in Springfield, Massachusetts, to join him in his raid, but Tubman was prevented by illness and Douglass declined, as he believed Brown's plan would fail.",
+      "The label \"raid\" was not used at the time. A month after the attack, a Baltimore newspaper listed 26 terms used, including \"insurrection\", \"rebellion\", \"treason\", and \"crusade\". \"Raid\" was not among them."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-brown-s-raid-on-harpers-ferry/m04q33ft"
+  },
+  "funFacts": [
+    {
+      "id": "107",
+      "fact": "You burn more calories sleeping than watching TV.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "196",
+      "fact": "If you doubled one penny every day for 30 days, you would have $5,368,709.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554083",
+      "fact": "The raven that inspired Edgar Allan Poe's poem was named Grip, and he was Charles Dickens’s beloved pet."
+    }
+  ],
+  "idiom": {
+    "id": "talk-turkey",
+    "term": "talk turkey",
+    "definition": "Speak plainly, get to the point, as in *Don't call me until you're ready to talk turkey.* This expression allegedly comes from a tale about an Indian and a white man who hunted together and divided the game. When the white man said, \"I'll take the turkey and you the buzzard, or you take the buzzard and I the turkey,\" the Indian replied, \"Talk turkey to me.\" Whether or not this tale had a true basis, the term was recorded in its present meaning by about 1840."
+  },
+  "person": {
+    "id": "john-adams",
+    "name": "John Adams",
+    "dates": "Oct 30, 1735 - Jul 4, 1826",
+    "mainImg": "img/people/john-adams.jpg",
+    "summary": [
+      "John Adams was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States, from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain and served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams, and Thomas Jefferson.",
+      "A lawyer and political activist prior to the revolution, Adams was devoted to the right to counsel and presumption of innocence. He defied anti-British sentiment and successfully defended British soldiers against murder charges arising from the Boston Massacre. Adams was a Massachusetts delegate to the Continental Congress and became a principal leader of the Revolution. He assisted in drafting the Declaration of Independence in 1776 and was its foremost advocate in Congress. As a diplomat in Europe, he helped negotiate the peace treaty with Great Britain and secured vital governmental loans."
+    ],
+    "quote": "“Fear is the foundation of most governments.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Adams",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-adams/m03_js"
+  },
+  "place": {
+    "id": "gainesville",
+    "name": "Gainesville",
+    "mainImg": "img/places/gainesville.jpg",
+    "summary": [
+      "Gainesville is the county seat of, and the largest city in, Alachua County, Florida, and is both the principal city of the Gainesville, Florida, metropolitan statistical area and the largest city in North Central Florida. In 2018 the US Census Bureau estimated Gainesville's population at 133,997, a 7.6% increase from 2010, and the metropolitan statistical area's population at 288,212.",
+      "Gainesville is home to the University of Florida, the fifth-largest university campus by enrollment in the United States."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gainesville,_Florida",
+    "urlGoogle": "https://artsandculture.google.com/entity/gainesville/m0rh7t"
+  },
+  "wiki": {
+    "id": "galerina-marginata",
+    "name": "Galerina marginata",
+    "summary": "Galerina marginata is a species of poisonous fungus in the Hymenogastraceae family of the Agaricales order. It is a classic \"little brown mushroom\"—a catchall category that includes all small to medium-sized, hard-to-identify brownish mushrooms, and may be easily confused with several edible species. Widespread in the Northern Hemisphere, including Europe, North America and Asia, Galerina marginata has also been found in Australia. It is a wood-rotting fungus that grows predominantly on decaying conifer wood. An extremely poisonous species, it contains the same deadly amatoxins found in the death cap (Amanita phalloides). Ingestion in toxic amounts causes severe liver damage with vomiting, diarrhea, hypothermia, and eventual death if not treated rapidly. About ten poisonings have been attributed to the species now grouped as G. marginata over the last century.",
+    "url": "https://en.wikipedia.org/wiki/Galerina_marginata"
+  },
+  "word": {
+    "id": "whilom",
+    "word": "whilom",
+    "url": "https://www.merriam-webster.com/dictionary/whilom",
+    "partOfSpeech": "adjective",
+    "pronunciation": "WYE-lum",
+    "audioPath": "audio/words/whilom.mp3",
+    "definitions": ["former"],
+    "examples": [
+      "\"His fatal miscalculation, however, might be his personal attacks on his whilom friend....\" (_The Baltimore Sun_, May 2003)"
+    ],
+    "origin": "\"Whilom\" shares an ancestor with the word \"while.\" Both trace back to the Old English word \"hwil,\" meaning \"time\" or \"while.\" In Old English \"hwilum\" was an adverb meaning \"at times.\" This use passed into Middle English (with a variety of spellings, one of which was \"whilom\"), and in the 12th century the word acquired the meaning \"formerly.\" The adverb's usage dwindled toward the end of the 19th century, and it has since been labeled \"archaic.\" The adjective first appeared on the scene in the 15th century, with the now-obsolete meaning \"deceased,\" and by the end of the 16th century it was being used with the meaning \"former.\" It's a relatively uncommon word, but it does see occasional use."
+  }
+}

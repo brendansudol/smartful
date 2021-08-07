@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "kiki-smith",
+    "name": "Kiki Smith",
+    "dates": "Born Jan 18, 1954",
+    "mainImg": "img/art/artists/kiki-smith.jpg",
+    "artworkImgs": [
+      {
+        "name": "Sky",
+        "path": "img/art/artworks/kiki-smith-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/sky-kiki-smith/VwFQGIesmIPHAw"
+      },
+      {
+        "name": "Kiki Smith, Rapture",
+        "path": "img/art/artworks/kiki-smith-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/kiki-smith-rapture-kiki-smith/3gF77jNPzHZmWA"
+      },
+      {
+        "name": "Kiki Smith, Sleeping, Wandering, Slumber, Looking About, Rest Upon",
+        "path": "img/art/artworks/kiki-smith-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/kiki-smith-sleeping-wandering-slumber-looking-about-rest-upon-kiki-smith/uwFy0LFzb23zkw"
+      },
+      {
+        "name": "Congregation",
+        "path": "img/art/artworks/kiki-smith-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/congregation-kiki-smith/DwGsnreCXa3UaQ"
+      },
+      {
+        "name": "Kiki Smith, Untitled",
+        "path": "img/art/artworks/kiki-smith-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/kiki-smith-untitled-kiki-smith/owESBov_yUlMqA"
+      },
+      {
+        "name": "Pool of Tears II",
+        "path": "img/art/artworks/kiki-smith-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/pool-of-tears-ii-kiki-smith/oQHx84rzoSZRSA"
+      }
+    ],
+    "summary": [
+      "Kiki Smith is a West German-born American artist whose work has addressed the themes of sex, birth and regeneration. Her figurative work of the late 1980s and early 1990s confronted subjects such as AIDS and gender, while recent works have depicted the human condition in relationship to nature. Smith lives and works in the Lower East Side, New York City, and the Hudson Valley, New York State."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art"],
+    "mediums": ["Bronze", "Metal", "Sculpture", "Gold", "Iron", "Rice paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Kiki_Smith",
+    "urlGoogle": "https://artsandculture.google.com/entity/kiki-smith/m095w2g"
+  },
+  "event": {
+    "id": "german-occupation-of-latvia-during-world-war-ii",
+    "name": "German occupation of Latvia during World War II",
+    "dates": "Jul 10, 1941 - May 8, 1945",
+    "mainImg": "img/events/german-occupation-of-latvia-during-world-war-ii.jpg",
+    "summary": [
+      "The occupation of Latvia by Nazi Germany was completed on July 10, 1941 by Germany's armed forces. Latvia became a part of Nazi Germany's Reichskommissariat Ostland—the Province General of Latvia. Anyone not racially acceptable or who opposed the German occupation, as well as those who had cooperated with the Soviet Union, were killed or sent to concentration camps in accordance with the Nazi Generalplan Ost."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/German_occupation_of_Latvia_during_World_War_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/german-occupation-of-latvia-during-world-war-ii/m0btdrh"
+  },
+  "funFacts": [
+    {
+      "id": "277",
+      "fact": "Today's \"modern\" wrestling moves have been seen in tomb drawings from ancient Egypt.",
+      "category": ["History"]
+    },
+    {
+      "id": "296",
+      "fact": "In 1860, Abraham Lincoln grew a beard at the suggestion of an 11-year-old girl.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504788",
+      "fact": "Mark Twain was born in 1835, a year in which Halley’s comet was visible from Earth. In 1909, he said, “I came in with Halley’s comet … and I expect to go out with it.” When he died on April 21, 1910, the comet was again visible in the night sky."
+    }
+  ],
+  "idiom": {
+    "id": "stark-raving-mad",
+    "term": "stark raving mad",
+    "definition": "Totally crazy, as in *The constant uncertainty over his job is making him stark raving mad.* This term, meaning \"completely wildly insane,\" is used both hyperbolically and literally. Versions of this expression appear to have sprung from the minds of great literary figures. **Stark mad** was first recorded by poet John Skelton in 1489; **stark raving** was first recorded by playwright John Beaumont in 1648; **stark staring mad** was first used by John Dryden in 1693. The current wording, **stark raving mad,** first appeared in Henry Fielding's *The Intriguing Chambermaid* in 1734."
+  },
+  "person": {
+    "id": "carol-i-of-romania",
+    "name": "Carol I of Romania",
+    "dates": "Apr 20, 1839 - Oct 10, 1914",
+    "mainImg": "img/people/carol-i-of-romania.jpg",
+    "summary": [
+      "Carol I, born Prince Karl of Hohenzollern-Sigmaringen, was the monarch of Romania from 1866 to 1914. He was elected Ruling Prince of the Romanian United Principalities on 20 April 1866 after the overthrow of Alexandru Ioan Cuza by a palace coup d'état. In May 1877, he proclaimed Romania an independent and sovereign nation. The defeat of the Ottoman Empire in the Russo-Turkish War secured Romanian independence, and he was proclaimed King of Romania on 26 March [O.S. 14 March] 1881. He was the first ruler of the Hohenzollern-Sigmaringen dynasty, which ruled the country until the proclamation of a socialist republic in 1947.",
+      "During his reign, Carol I personally led Romanian troops during the Russo-Turkish War and assumed command of the Russo/Romanian army during the siege of Plevna. The country achieved internationally recognized independence via the Treaty of Berlin, 1878 and acquired Southern Dobruja from Bulgaria in 1913. Domestic political life was organized around the rival Liberal and Conservative parties."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Carol_I_of_Romania",
+    "urlGoogle": "https://artsandculture.google.com/entity/carol-i-of-romania/m01g625"
+  },
+  "place": {
+    "id": "eindhoven",
+    "name": "Eindhoven",
+    "mainImg": "img/places/eindhoven.jpg",
+    "summary": [
+      "Eindhoven is the fifth-largest city and a municipality of the Netherlands, located in the south of the country. It had a population of 231,469 in 2019, making it the largest city in the province of North Brabant. Eindhoven was originally located at the confluence of the Dommel and Gender.",
+      "Neighbouring cities and towns include Son en Breugel, Nuenen, Geldrop-Mierlo, Helmond, Heeze-Leende, Waalre, Veldhoven, Eersel, Oirschot and Best. The agglomeration has a population of 337,487. The metropolitan area consists of 419,045 inhabitants. The city region has a population of 753,426. The Brabantse Stedenrij combined metropolitan area has about two million inhabitants."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Eindhoven",
+    "urlGoogle": "https://artsandculture.google.com/entity/eindhoven/m02kx3"
+  },
+  "wiki": {
+    "id": "great-fire-of-london",
+    "name": "Great Fire of London",
+    "summary": "The Great Fire of London was a major conflagration that swept through the central parts of London from Sunday, 2 September to Wednesday, 5 September 1666. The fire gutted the medieval City of London inside the old Roman City Wall. It threatened, but did not quite reach, the aristocratic district of Westminster and Charles II's Palace of Whitehall and left the suburban slums surrounding the City largely untouched. It consumed 13,200 houses, 87 parish churches, St. Paul's Cathedral, and nearly all the buildings of the City authorities. It is estimated that it made homeless 70,000 of the City's 80,000 inhabitants. The death toll from the fire is unknown and has traditionally been thought to have been small, as only a few verified deaths are recorded.",
+    "url": "https://en.wikipedia.org/wiki/Great_Fire_of_London"
+  },
+  "word": {
+    "id": "bathetic",
+    "word": "bathetic",
+    "url": "https://www.merriam-webster.com/dictionary/bathetic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "buh-THET-ik",
+    "audioPath": "audio/words/bathetic.mp3",
+    "definitions": ["characterized by triteness or sentimentalism"],
+    "examples": [
+      "The author has presented us with another _bathetic_ coming-of-age love story.",
+      "“Just before Ms. MacGraw utters the deathless catchphrase ‘Love means never having to say you’re sorry,’ Crimson Key members loudly implore her, ‘Don’t say it!’ At the conclusion, when Mr. O’Neal repeats her _bathetic_ utterance, they shout, ‘Plagiarist!’ And so it goes.” -- From an article by Thomas Vinciguerra in the _New York Times_, August 20, 2010"
+    ],
+    "origin": "When English speakers turned \"apathy\" into \"apathetic\" in the 1700s, using the suffix \"-etic\" to turn the noun into the adjective, they were inspired by \"pathetic,\" the adjectival form of \"pathos,\" from Greek \"pathētikos.\" People also applied that bit of linguistic transformation to coin \"bathetic.\" In the 19th century, English speakers added the suffix \"-etic\" to \"bathos,\" the Greek word for \"depth,\" which in English has come to mean \"triteness\" or \"excessive sentimentalism.\" The result: the ideal adjective for the incredibly commonplace or the overly sentimental."
+  }
+}

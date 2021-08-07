@@ -1,0 +1,116 @@
+{
+  "artist": {
+    "id": "gerard-david",
+    "name": "Gerard David",
+    "dates": "1460 - Aug 13, 1523",
+    "mainImg": "img/art/artists/gerard-david.jpg",
+    "artworkImgs": [
+      {
+        "name": "Virgin and Child with Four Angels",
+        "path": "img/art/artworks/gerard-david-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-and-child-with-four-angels-gerard-david/OgHRoT5T6JNZEQ"
+      },
+      {
+        "name": "Virgin and Child with Female Saints",
+        "path": "img/art/artworks/gerard-david-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-and-child-with-female-saints/-gF4gFj6hAeqxg"
+      },
+      {
+        "name": "The Virgin and Child with Saints and Donor",
+        "path": "img/art/artworks/gerard-david-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-with-saints-and-donor-gerard-david/aQEsMGJ7vyk7dg"
+      },
+      {
+        "name": "The Nativity with Donors and Saints Jerome and Leonard",
+        "path": "img/art/artworks/gerard-david-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nativity-with-donors-and-saints-jerome-and-leonard-gerard-david/0wFe_n-OR8Fwmg"
+      },
+      {
+        "name": "Canon Bernardijn Salviati and Three Saints",
+        "path": "img/art/artworks/gerard-david-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/canon-bernardijn-salviati-and-three-saints-gerard-david/OwEjEorJm3RlOw"
+      },
+      {
+        "name": "The Rest on the Flight into Egypt",
+        "path": "img/art/artworks/gerard-david-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-rest-on-the-flight-into-egypt-gerard-david/lwFgEwlSID2dOg"
+      }
+    ],
+    "summary": [
+      "Gerard David was an Early Netherlandish painter and manuscript illuminator known for his brilliant use of color. Only a bare outline of his life survives, although some facts are known. He may have been the Meester gheraet van brugghe who became a master of the Antwerp guild in 1515. He was very successful in his lifetime and probably ran two workshops, in Antwerp and Bruges. Like many painters of his period, his reputation diminished in the 17th century until he was rediscovered in the 19th century."
+    ],
+    "quote": null,
+    "movements": ["Northern Renaissance", "Renaissance", "Dutch and Flemish Renaissance painting"],
+    "mediums": ["Oil paint", "Wood", "Oak", "Tempera", "Walnut", "Gold"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gerard_David",
+    "urlGoogle": "https://artsandculture.google.com/entity/gerard-david/m03c50"
+  },
+  "event": {
+    "id": "kristallnacht",
+    "name": "Kristallnacht",
+    "dates": "Nov 9, 1938 - Nov 10, 1938",
+    "mainImg": "img/events/kristallnacht.jpg",
+    "summary": [
+      "Kristallnacht or the Night of Broken Glass, also called the November Pogrom, was a pogrom against Jews carried out by SA paramilitary forces and civilians throughout Nazi Germany on 9–10 November 1938. The German authorities looked on without intervening. The name Kristallnacht comes from the shards of broken glass that littered the streets after the windows of Jewish-owned stores, buildings and synagogues were smashed. The pretext for the attacks was the assassination of the German diplomat Ernst vom Rath by Herschel Grynszpan, a 17-year-old German-born Polish Jew living in Paris.",
+      "Jewish homes, hospitals and schools were ransacked as attackers demolished buildings with sledgehammers. Rioters destroyed 267 synagogues throughout Germany, Austria and the Sudetenland. Over 7,000 Jewish businesses were damaged or destroyed, and 30,000 Jewish men were arrested and incarcerated in concentration camps. British historian Martin Gilbert wrote that no event in the history of German Jews between 1933 and 1945 was so widely reported as it was happening, and the accounts from foreign journalists working in Germany sent shockwaves around the world."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kristallnacht",
+    "urlGoogle": "https://artsandculture.google.com/entity/kristallnacht/m0lcbg"
+  },
+  "funFacts": [
+    { "id": "38", "fact": "Fish cough.", "category": ["Animals"] },
+    { "id": "827", "fact": "Your skull is made up of 29 different bones.", "category": ["Anatomy"] }
+  ],
+  "funFacts2": [{ "id": "553698", "fact": "Wombat poop is cube-shaped." }],
+  "idiom": {
+    "id": "the-spirit-is-willing-but-the-flesh-is-weak",
+    "term": "the spirit is willing but the flesh is weak",
+    "definition": "One would like to undertake something but hasn't the energy or strength to do so. For example, *Another set of tennis? The spirit is willing but the flesh is weak.* Today often used as a rueful admission of weariness or other physical weakness, this idiom was first recorded in the New Testament (Matthew 26:41), where Jesus tells his disciples: \"Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.\" A modern equivalent is **I would if I could but I can't.**"
+  },
+  "person": {
+    "id": "frederick-iii-elector-of-saxony",
+    "name": "Frederick III, Elector of Saxony",
+    "dates": "Jan 17, 1463 - May 5, 1525",
+    "mainImg": "img/people/frederick-iii-elector-of-saxony.jpg",
+    "summary": [
+      "Frederick III, also known as Frederick the Wise, was Elector of Saxony from 1486 to 1525, who is mostly remembered for the worldly protection of his subject Martin Luther.",
+      "Frederick was the son of Ernest, Elector of Saxony and his wife Elisabeth, daughter of Albert III, Duke of Bavaria. He is notable as being one of the most powerful early defenders of Martin Luther. He successfully protected Luther from the Holy Roman Emperor, the Pope and other hostile figures. He was led not by religious conviction but rather by his personal belief in a fair trial for any of his subjects and the rule of law. The elector had little personal contact with Luther himself. Frederick's treasurer Degenhart Pfaffinger spoke on his behalf to Luther. Pfaffinger had supported Frederick since their pilgrimage to the holy land together. Frederick is considered to have remained a Roman Catholic all his life, yet gradually inclining toward doctrines of the Reformation and supposedly converting on his deathbed.",
+      "Frederick III is commemorated as a Christian ruler in the Calendar of Saints of the Lutheran Church–Missouri Synod on 5 May."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_III,_Elector_of_Saxony",
+    "urlGoogle": "https://artsandculture.google.com/entity/frederick-iii-elector-of-saxony/m01m04z"
+  },
+  "place": {
+    "id": "vatican-city",
+    "name": "Vatican City",
+    "mainImg": "img/places/vatican-city.jpg",
+    "summary": [
+      "Vatican City, officially Vatican City State, is the Holy See's independent city-state enclaved within Rome, Italy. Established with the Lateran Treaty, it is a distinct territory under \"full ownership, exclusive dominion, and sovereign authority and jurisdiction\" of the Holy See, itself a sovereign entity of international law, which maintains the city state's temporal, diplomatic, and spiritual independence. With an area of 49 hectares and a population of about 825, it is the smallest sovereign state in the world by both area and population.",
+      "As governed by the Holy See, the Vatican City is an ecclesiastical or sacerdotal-monarchical state ruled by the pope who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various national origins. Except the Avignon Papacy, the popes have generally resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Vatican_City",
+    "urlGoogle": "https://artsandculture.google.com/entity/vatican-city/m07ytt"
+  },
+  "wiki": {
+    "id": "chat-moss",
+    "name": "Chat Moss",
+    "summary": "Chat Moss is a large area of peat bog that makes up 30 per cent of the City of Salford, in Greater Manchester, England. North of the River Irwell, 5 miles (8 km) to the west of Manchester, it occupies an area of about 10.6 square miles (27.5 km2). Peat development seems to have begun there at the end of the last ice age, about 10,000 years ago, and the depth of peat ranges from 24 to 30 feet (7 to 9 m). A great deal of reclamation work has been carried out, but a large network of drainage channels is required to keep it from reverting to bog. In 1958 peat extractors discovered the severed head of what is believed to be a Romano-British Celt, possibly a sacrificial victim. Much of Chat Moss is now prime agricultural land, although farming in the area is in decline. A 228-acre (92 ha) area of Chat Moss, notified as Astley and Bedford Mosses, has been designated a Site of Special Scientific Interest. Chat Moss threatened the completion of the Liverpool and Manchester Railway, until George Stephenson succeeded in constructing a railway line through it in 1829; his solution was to \"float\" the line on a bed of bound heather and branches topped with tar and covered with rubble stone.",
+    "url": "https://en.wikipedia.org/wiki/Chat_Moss"
+  },
+  "word": {
+    "id": "marplot",
+    "word": "marplot",
+    "url": "https://www.merriam-webster.com/dictionary/marplot",
+    "partOfSpeech": "noun",
+    "pronunciation": "MAHR-plaht",
+    "audioPath": "audio/words/marplot.mp3",
+    "definitions": ["one who frustrates or ruins a plan or undertaking by meddling"],
+    "examples": [
+      "\"If Will hadn't been such a nosy _marplot_,\" said Darlene, \"our plan to surprise Brenda with a party for her birthday might have gone off without a hitch.\""
+    ],
+    "origin": "Beginning in the 17th century, people liked to prefix \"mar-\" to nouns to create a term for someone who mars, or spoils, something. A mar-joy was bad enough, but even worse was a mar-all. Although today the word \"plot\" often carries an implication of secrecy or ill intent, the \"plot\" used in the formation of \"marplot\" simply meant \"a plan for the accomplishment of something.\" A marplot, therefore, can really mess up a perfectly good thing. The word may not have been invented by English playwright Susannah Centlivre, but it first surfaces in print in her 1709 play _The Busy Body_. That title refers to a character named Marplot, who misguidedly gets in the way of the lovers in the play."
+  }
+}

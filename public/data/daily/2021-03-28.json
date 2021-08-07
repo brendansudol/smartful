@@ -68,20 +68,9 @@
       "id": "982",
       "fact": "Cows do not have upper front teeth.",
       "category": ["Animals", "Science"]
-    },
-    {
-      "id": "705",
-      "fact": "Every ton of recycled paper saves about 17 trees.",
-      "category": ["Science"]
     }
   ],
-  "funFacts2": [
-    { "id": "506383", "fact": "Queen Elizabeth II is a trained mechanic." },
-    {
-      "id": "554254",
-      "fact": "On average, people in India \u0003spend 10 hours and 42 minutes \u0003a week reading, the most time \u0003of any country on Earth."
-    }
-  ],
+  "funFacts2": [{ "id": "506383", "fact": "Queen Elizabeth II is a trained mechanic." }],
   "idiom": {
     "id": "have-ants-in-ones-pants",
     "term": "have ants in one's pants",

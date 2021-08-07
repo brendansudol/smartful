@@ -1,0 +1,122 @@
+{
+  "artist": {
+    "id": "gutzon-borglum",
+    "name": "Gutzon Borglum",
+    "dates": "Mar 25, 1867 - Mar 6, 1941",
+    "mainImg": "img/art/artists/gutzon-borglum.jpg",
+    "artworkImgs": [
+      {
+        "name": "Bust of Theodore Roosevelt",
+        "path": "img/art/artworks/gutzon-borglum-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/bust-of-theodore-roosevelt-gutzon-borglum/kQHoJHRFhcRdUw"
+      },
+      {
+        "name": "Abraham Lincoln",
+        "path": "img/art/artworks/gutzon-borglum-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/abraham-lincoln/SgHhP7zYn15a9w"
+      },
+      {
+        "name": "One Man's Dream—The Beginning Model of Sculptor and Designer",
+        "path": "img/art/artworks/gutzon-borglum-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/one-man-s-dream—the-beginning-model-of-sculptor-and-designer-gutzon-borglum/EAFJGudTH3suJQ"
+      },
+      {
+        "name": "(Theodore Roosevelt)",
+        "path": "img/art/artworks/gutzon-borglum-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/theodore-roosevelt-gutzon-borglum/gwEIQrvN_eErWg"
+      }
+    ],
+    "summary": [
+      "John Gutzon de la Mothe Borglum was an American artist and sculptor. He is most associated with his creation of the Mount Rushmore National Memorial in Keystone, South Dakota. He was associated with other public works of art, including a bust of Abraham Lincoln exhibited in the White House by Theodore Roosevelt and now held in the United States Capitol Crypt in Washington, D.C.."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Bronze", "Metal", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gutzon_Borglum",
+    "urlGoogle": "https://artsandculture.google.com/entity/gutzon-borglum/m01_gcy"
+  },
+  "event": {
+    "id": "assassination-of-john-f-kennedy",
+    "name": "Assassination of John F. Kennedy",
+    "dates": "Nov 22, 1963",
+    "mainImg": "img/events/assassination-of-john-f-kennedy.jpg",
+    "summary": [
+      "John F. Kennedy, the 35th President of the United States, was assassinated on Friday, November 22, 1963, at 12:30 p.m. Central Standard Time in Dallas, Texas, while riding in a presidential motorcade through Dealey Plaza. Kennedy was riding with his wife Jacqueline, Texas Governor John Connally, and Connally's wife Nellie when he was fatally shot by former U.S. Marine Lee Harvey Oswald firing in ambush from a nearby building. Governor Connally was seriously wounded in the attack. The motorcade rushed to Parkland Memorial Hospital where Kennedy was pronounced dead about 30 minutes after the shooting; Connally recovered.",
+      "Oswald was arrested by the Dallas Police Department 70 minutes after the initial shooting. Oswald was charged under Texas state law with the murder of Kennedy, as well as that of Dallas policeman J. D. Tippit, who had been fatally shot a short time after the assassination. At 11:21 a.m. November 24, 1963, as live television cameras were covering his transfer from the city jail to the county jail, Oswald was fatally shot in the basement of Dallas Police Headquarters by Dallas nightclub operator Jack Ruby."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+    "urlGoogle": "https://artsandculture.google.com/entity/assassination-of-john-f-kennedy/m01q1wc"
+  },
+  "funFacts": [
+    {
+      "id": "346",
+      "fact": "The medical term for writer's cramp is graphospasm.",
+      "category": ["Definitions", "Science"]
+    },
+    {
+      "id": "1024",
+      "fact": "Giraffes have the same number of vertebrae as humans: 7.",
+      "category": ["Animals", "Anatomy", "Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554029",
+      "fact": "Jerry Springer was born in a London tube station during World War II."
+    }
+  ],
+  "idiom": {
+    "id": "if-the-mountain-wont-come-to-muhammad-muhammad-must-go-to-the-mountain",
+    "term": "if the mountain won't come to Muhammad, Muhammad must go to the mountain",
+    "definition": "If one can't have one's way, one must give in. For example, *Since you can't come here for the holiday, I'll go to your house---if the mountain won't come to Muhammad, Muhammad must go to the mountain.* This expression is based on a tale that Muhammad once sought proof of his teachings by ordering a mountain to come to him. When it did not move, he maintained that God had been merciful, for if it had indeed moved they all would have been crushed by it. [Late 1500s]"
+  },
+  "person": {
+    "id": "tom-clarke",
+    "name": "Tom Clarke",
+    "dates": "Mar 11, 1858 - May 3, 1916",
+    "mainImg": "img/people/tom-clarke.jpg",
+    "summary": [
+      "Thomas James \"Tom\" Clarke was an Irish republican and a leader of the Irish Republican Brotherhood from Dungannon, County Tyrone. Clarke was arguably the person most responsible for the 1916 Easter Rising. A proponent of armed struggle against British rule in Ireland for most of his life, Clarke spent 15 years in English prisons prior to his role in the Easter Rising, and was executed by firing squad after it was defeated."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Tom_Clarke_%28Irish_republican%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/tom-clarke/m02qv8b"
+  },
+  "place": {
+    "id": "paris",
+    "name": "Paris",
+    "mainImg": "img/places/paris.jpg",
+    "summary": [
+      "Paris is the capital and most populous city of France, with a population of 2,148,271 residents in an area of 105 square kilometres. Since the 17th century, Paris has been one of Europe's major centres of finance, diplomacy, commerce, fashion, science and arts. The City of Paris is the centre and seat of government of the Île-de-France, or Paris Region, which has an estimated official 2020 population of 12,278,210, or about 18 percent of the population of France. The Paris Region had a GDP of €709 billion in 2017. According to the Economist Intelligence Unit Worldwide Cost of Living Survey in 2018, Paris was the second most expensive city in the world, after Singapore, and ahead of Zürich, Hong Kong, Oslo and Geneva. Another source ranked Paris as most expensive, on a par with Singapore and Hong Kong, in 2018.",
+      "The city is a major railway, highway and air-transport hub served by two international airports: Paris-Charles de Gaulle and Paris-Orly. Opened in 1900, the city's subway system, the Paris Métro, serves 5.23 million passengers daily; it is the second busiest metro system in Europe after the Moscow Metro."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Paris",
+    "urlGoogle": "https://artsandculture.google.com/entity/paris/m05qtj"
+  },
+  "wiki": {
+    "id": "james-k-polk",
+    "name": "James K. Polk",
+    "summary": "James K. Polk was an American politician and the eleventh President of the United States, serving from March 4, 1845 to March 4, 1849. Polk was born in North Carolina, but primarily lived in and represented the state of Tennessee. A Democrat, Polk served as Speaker of the House (1835–1839) and Governor of Tennessee (1839–1841) prior to becoming president. He is the only former Speaker of the House to become President. He is noted for his expansionist beliefs, for his pledge to serve only one term, and for becoming the first \"dark horse\" (a candidate who unexpectedly gains the party nomination) to win the presidency. His term is remembered for the Mexican-American War, the opening of the U.S. Naval Academy and Washington Monument, and the issuance of the first postage stamps in the United States.",
+    "url": "https://en.wikipedia.org/wiki/James_K._Polk"
+  },
+  "word": {
+    "id": "lambent",
+    "word": "lambent",
+    "url": "https://www.merriam-webster.com/dictionary/lambent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "LAM-bunt",
+    "audioPath": "audio/words/lambent.mp3",
+    "definitions": [
+      "playing lightly on or over a surface : flickering",
+      "softly bright or radiant",
+      "marked by lightness or brilliance especially of expression"
+    ],
+    "examples": [
+      "The forest floor was dappled with _lambent_ flecks of golden sunlight filtering down through the leafy branches.",
+      "\"In the _lambent_ softness of all that moonlight, in that quicksilver, fragrant, lukewarm stillness, everything still seems so right in my world: the boundaries between good and evil clearly demarcated.\" -- From Glen Retief's 2011 book _The Jack Bank: A Memoir of a South African Childhood_"
+    ],
+    "origin": "Fire is frequently associated with lapping or licking imagery: flames are often described as \"tongues\" that \"lick.\" \"Lambent,\" which first appeared in English in the 17th century, is a part of this tradition, coming from \"lambens,\" the present participle of the Latin verb \"lambere,\" meaning \"to lick.\" In its earliest uses, \"lambent\" meant \"playing lightly over a surface,\" \"gliding over,\" or \"flickering.\" These uses were usually applied to flames or light, and by way of that association, the term eventually came to describe things with a radiant or brilliant glow, as Alexander Pope used it in his 1717 poem \"Eloisa to Abelard\": \"Those smiling eyes, attemp'ring ev'ry ray, Shone sweetly lambent with celestial day.\""
+  }
+}

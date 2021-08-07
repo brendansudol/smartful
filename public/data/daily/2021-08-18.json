@@ -1,0 +1,129 @@
+{
+  "artist": {
+    "id": "pierre-puget",
+    "name": "Pierre Puget",
+    "dates": "Oct 16, 1620 - Dec 2, 1694",
+    "mainImg": "img/art/artists/pierre-puget.jpg",
+    "artworkImgs": [
+      {
+        "name": "La Ravissement d'Helene",
+        "path": "img/art/artworks/pierre-puget-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/la-ravissement-d-helene-pierre-puget/TwEAjbWW-LsFcA"
+      },
+      {
+        "name": "A Frigate at Sea",
+        "path": "img/art/artworks/pierre-puget-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-frigate-at-sea-pierre-puget/8QFT61eiHQB4Dg"
+      },
+      {
+        "name": "A ship in a port near a ruined obelisk",
+        "path": "img/art/artworks/pierre-puget-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-ship-in-a-port-near-a-ruined-obelisk-pierre-puget/hwG4u-bQBho3tg"
+      },
+      {
+        "name": "Design for the decoration of a Warship",
+        "path": "img/art/artworks/pierre-puget-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/design-for-the-decoration-of-a-warship-pierre-puget/0wE6QVcq3NRbHQ"
+      },
+      {
+        "name": "The Assumption of the Virgin",
+        "path": "img/art/artworks/pierre-puget-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-assumption-of-the-virgin-pierre-puget/LAGtDYXZwu8u7w"
+      },
+      {
+        "name": "Ornamental Sketches with Grotesque Masks",
+        "path": "img/art/artworks/pierre-puget-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/ornamental-sketches-with-grotesque-masks-pierre-puget/hAE3A9DIUFxYFw"
+      }
+    ],
+    "summary": [
+      "Pierre Puget was a French Baroque painter, sculptor, architect and engineer. His sculpture expressed emotion, pathos and drama, setting it apart from the more classical and academic sculpture of the Style Louis XIV."
+    ],
+    "quote": null,
+    "movements": ["Baroque"],
+    "mediums": ["Chalk", "Pigment", "Pen", "Drawing", "Ink", "Vellum"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pierre_Puget",
+    "urlGoogle": "https://artsandculture.google.com/entity/pierre-puget/m03fv2m"
+  },
+  "event": {
+    "id": "all-souls-day",
+    "name": "All Souls Day",
+    "dates": null,
+    "mainImg": "img/events/all-souls-day.jpg",
+    "summary": [
+      "All Souls' Day, also known as the Commemoration of All the Faithful Departed and the Day of the Dead, is a day of prayer and remembrance for the souls of those who have died, which is observed by some Christian denominations. All Souls' Day is often, although not exclusively, celebrated in Western Christianity; Saturday of Souls is a related tradition more frequently observed in Eastern Christianity. Practitioners of All Souls' Day traditions often remember deceased loved ones in various ways on the day. Beliefs and practices associated with All Souls' Day vary widely among Christian churches and denominations.",
+      "In contemporary Western Christianity the annual celebration is held on 2 November, and is part of the season of Allhallowtide that includes All Saints' Day and its eve, Halloween. Prior to the standardization of Catholic observance on 2 November by St. Odlio of Cluny during the 10th century, many Catholic congregations celebrated All Souls Day on various dates during the Easter season as it is still observed in some Eastern Orthodox Church and Eastern Catholic Churches."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/All_Souls%27_Day",
+    "urlGoogle": "https://artsandculture.google.com/entity/all-souls-day/m0m2r"
+  },
+  "funFacts": [
+    {
+      "id": "1021",
+      "fact": "Benjamin Franklin invented flippers.",
+      "category": ["History", "Science", "Firsts"]
+    },
+    { "id": "716", "fact": "There is a museum of strawberries in Belgium.", "category": ["Food"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "551313",
+      "fact": "<span>A double rainbow occurs when sunlight is reflected twice inside a raindrop. If you look closely, you can see that the colors of the secondary rainbow appear in reverse order.</span>"
+    }
+  ],
+  "idiom": {
+    "id": "soft-in-the-head",
+    "term": "soft in the head",
+    "definition": "Mentally deficient; also, silly, foolish. For example, *He's nice enough but a bit soft in the head.* The *soft* in this idiom, first recorded in 1775, alludes to a weakness in mental capacity."
+  },
+  "person": {
+    "id": "leon-blum",
+    "name": "Léon Blum",
+    "dates": "Apr 9, 1872 - Mar 30, 1950",
+    "mainImg": "img/people/leon-blum.jpg",
+    "summary": [
+      "André Léon Blum was a French socialist politician and three-time Prime Minister of France.",
+      "As a Jew, he was heavily influenced by the Dreyfus affair of the late 19th century. He was a disciple of French Socialist leader Jean Jaurès and after Jaurès' assassination in 1914, became his successor. As Prime Minister in a Popular Front government of the left 1936–37, he provided a series of major economic reforms. Blum declared neutrality in the Spanish Civil War to avoid the civil conflict spilling over into France itself. Once out of office in 1938, he denounced the appeasement of Germany.",
+      "When Germany defeated France in 1940, he became a staunch opponent of Vichy France. Tried by Vichy on trumped-up charges, he was imprisoned in the Buchenwald concentration camp. After the war, he resumed a transitional leadership role in French politics, helping to bring about the French Fourth Republic, until his death in 1950."
+    ],
+    "quote": "“When a woman is twenty, a child deforms her; when she is thirty, he preserves her; and when forty, he makes her young again.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/L%C3%A9on_Blum",
+    "urlGoogle": "https://artsandculture.google.com/entity/léon-blum/m01y73g"
+  },
+  "place": {
+    "id": "turks-and-caicos-islands",
+    "name": "Turks and Caicos Islands",
+    "mainImg": "img/places/turks-and-caicos-islands.jpg",
+    "summary": [
+      "The Turks and Caicos Islands are a British Overseas Territory consisting of the larger Caicos Islands and smaller Turks Islands, two groups of tropical islands in the Lucayan Archipelago of the Atlantic Ocean and northern West Indies. They are known primarily for tourism and as an offshore financial centre. The resident population was 31,458 as of 2012 of whom 23,769 live on Providenciales in the Caicos Islands; July 2020 estimates put the population at 55,926. It is the third largest of the British overseas territories by population.",
+      "The Turks and Caicos Islands lie southeast of Mayaguana in The Bahamas island chain, northeast of Cuba, and north of the island of Hispaniola. Cockburn Town, the capital since 1766, is situated on Grand Turk Island about 1,042 kilometres east-southeast of Miami, United States. The islands have a total land area of 430 square kilometres.",
+      "The Turks and Caicos Islands were inhabited for centuries by native Amerindian peoples. The first recorded European sighting of the islands occurred in 1512. In the subsequent centuries, the islands were claimed by several European powers, with the British Empire eventually gaining control."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
+    "urlGoogle": "https://artsandculture.google.com/entity/turks-and-caicos-islands/m07fr_"
+  },
+  "wiki": {
+    "id": "space-opera-in-scientology-doctrine",
+    "name": "Space opera in Scientology doctrine",
+    "summary": "In Scientology doctrine, space opera is the term used by the movement's founder L. Ron Hubbard for extraterrestrial civilizations and alien interventions in Earthly affairs. It forms a major element of the beliefs of Scientology. Hubbard claimed that the modern-day science fiction genre of space opera is merely an unconscious recollection of real events from millions of years ago. Scientology's doctrines famously include the story of Xenu, the ruler of the Galactic Confederacy, who brought billions of frozen people to Earth 75 million years ago, stacked them around volcanoes and blew them up with hydrogen bombs. Such beliefs have existed in Scientology since its beginning, with Hubbard lecturing about civilizations such as Helatrobus, the Espinol Confederacy and Arslycus. He described repeated instances of them using brainwashing implants on hapless beings. He also spoke of alien invasions of Earth, such as that carried out around 6235 BC by the Fifth Invader Force, who were \"very strange insect-like creatures with unthinkably horrible hands.\"",
+    "url": "https://en.wikipedia.org/wiki/Space_opera_in_Scientology_doctrine"
+  },
+  "word": {
+    "id": "argot",
+    "word": "argot",
+    "url": "https://www.merriam-webster.com/dictionary/argot",
+    "partOfSpeech": "noun",
+    "pronunciation": "AHR-goh",
+    "audioPath": "audio/words/argot.mp3",
+    "definitions": [
+      "an often more or less secret vocabulary and idiom peculiar to a particular group"
+    ],
+    "examples": [
+      "The town's selectmen decided to hire a consultant to sort through the bureaucratic _argot_ of the community development grant application.",
+      "\"What makes the play work, though, is that the rich insider's _argot_ spoken by Mr. Leight's characters is used not to show how much he knows, but to set the scene for a stinging tale of youthful hope and bitter disappointment, one whose implications are universal.\" - From a theater review by Terry Teachout in _The Wall Street Journal_, April 13, 2012"
+    ],
+    "origin": "We borrowed \"argot\" from French in the mid-1800s, although our language already had several words covering its meaning. There was \"jargon,\" which harks back to Anglo-French by way of Middle English (where it meant \"twittering of birds\"); it had been used for specialized (and often obscure or pretentious) vocabulary since the 1600s. There was also \"lingo,\" which had been around for almost a hundred years, and which is connected to the Latin word “lingua\" (\"language\"). English novelist and lawyer Henry Fielding used it of \"court gibberish\" -- what we tend to call \"legalese.\" In fact, the suffixal ending \"-ese\" is a newer means of indicating arcane vocabulary. One of its very first applications at the turn of the 20th century was for \"American 'golfese.'\""
+  }
+}

@@ -66,21 +66,12 @@
       "fact": "The original name of Nashville, Tennessee was Big Salt Lick.",
       "category": ["Geography", "History"]
     },
-    { "id": "42", "fact": "Frogs cannot swallow with their eyes open.", "category": ["Animals"] },
-    {
-      "id": "985",
-      "fact": "All of the major candidates in the 1992, 1996, and 2008 U.S. presidential elections were left-handed.",
-      "category": ["Anatomy", "History"]
-    }
+    { "id": "42", "fact": "Frogs cannot swallow with their eyes open.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "504706",
       "fact": "President Jefferson hated formal affairs so much that he would often greet foreign dignitaries while wearing pajamas."
-    },
-    {
-      "id": "554017",
-      "fact": "Beethoven went out of his way to ensure his morning coffee was made with exactly 60 beans per cup."
     }
   ],
   "idiom": {

@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "jean-honore-fragonard",
+    "name": "Jean-Honoré Fragonard",
+    "dates": "Apr 5, 1732 - Aug 22, 1806",
+    "mainImg": "img/art/artists/jean-honore-fragonard.jpg",
+    "artworkImgs": [
+      {
+        "name": "Young Girl Reading",
+        "path": "img/art/artworks/jean-honore-fragonard-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/young-girl-reading-jean-honoré-fragonard/JgFJCH9wxBktkg"
+      },
+      {
+        "name": "The Fountain of Love",
+        "path": "img/art/artworks/jean-honore-fragonard-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-fountain-of-love/OQGTZl4mLLDsGQ"
+      },
+      {
+        "name": "The Visit to the Nursery",
+        "path": "img/art/artworks/jean-honore-fragonard-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-visit-to-the-nursery-jean-honoré-fragonard/-gENS0_cq2b52Q"
+      },
+      {
+        "name": "Blind-Mans Buff",
+        "path": "img/art/artworks/jean-honore-fragonard-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/blind-mans-buff-jean-honore-fragonard/-wHTjyGs7bd-6w"
+      },
+      {
+        "name": "A Game of Hot Cockles",
+        "path": "img/art/artworks/jean-honore-fragonard-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-game-of-hot-cockles-jean-honoré-fragonard/YgEVjna97Wb94g"
+      },
+      {
+        "name": "A Game of Horse and Rider",
+        "path": "img/art/artworks/jean-honore-fragonard-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-game-of-horse-and-rider-jean-honoré-fragonard/qAGQRNfPAdwrBA"
+      }
+    ],
+    "summary": [
+      "Jean-Honoré Fragonard was a French painter and printmaker whose late Rococo manner was distinguished by remarkable facility, exuberance, and hedonism. One of the most prolific artists active in the last decades of the Ancien Régime, Fragonard produced more than 550 paintings, of which only five are dated. Among his most popular works are genre paintings conveying an atmosphere of intimacy and veiled eroticism."
+    ],
+    "quote": null,
+    "movements": ["Rococo", "Renaissance", "Baroque", "Romanticism"],
+    "mediums": ["Etching", "Engraving", "Chalk", "Pigment", "Oil paint", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-honoré-fragonard/m02vt1l"
+  },
+  "event": {
+    "id": "first-battle-of-the-marne",
+    "name": "First Battle of the Marne",
+    "dates": "Sep 6, 1914 - Sep 10, 1914",
+    "mainImg": "img/events/first-battle-of-the-marne.jpg",
+    "summary": [
+      "The First Battle of the Marne was a World War I battle fought from 6–12 September 1914. It resulted in an Allied victory against the German armies in the west. The battle was the culmination of the German advance into France and pursuit of the Allied armies which followed the Battle of the Frontiers in August and had reached the eastern outskirts of Paris. A counter-attack by six French armies and the British Expeditionary Force along the Marne River forced the Imperial German Army to retreat northwest, leading to the First Battle of the Aisne and the Race to the Sea. The battle was a victory for the Allied Powers but led to four years of trench warfare stalemate on the Western Front.",
+      "The battle of the Marne was a turning point of World War I. By the end of August 1914, the whole Allied army on the Western Front had been forced into a general retreat back towards Paris. Meanwhile, the two main German armies continued through France. It seemed that Paris would be taken as both the French and the British fell back towards the Marne River. The war became a stalemate when the Allied Powers won the Battle of the Marne."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/First_Battle_of_the_Marne",
+    "urlGoogle": "https://artsandculture.google.com/entity/first-battle-of-the-marne/m016__j"
+  },
+  "funFacts": [
+    {
+      "id": "394",
+      "fact": "Nearly 9,000 people injure themselves with a toothpick each year.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "286",
+      "fact": "The height of the Eiffel Tower varies by as much as 6 inches depending on the temperature.",
+      "category": ["Geography", "Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554038",
+      "fact": "Hollywood starlet Hedy Lamarr is often called the “mother of Wi-Fi.” She helped invent a version of the frequency-hopping system that led to the creation of GPS, Bluetooth, and wireless internet."
+    }
+  ],
+  "idiom": {
+    "id": "cross-as-a-bear",
+    "term": "cross as a bear",
+    "definition": "Grumpy, ill-humored, annoyed, as in *Stay away from Claire; she's cross as a bear this morning.* Unlike the earlier *cross as two sticks,* this survives even though the adjective *cross* for \"ill-tempered\" is otherwise not used much in America. It is sometimes amplified as *cross as a bear with a sore head.* [Early 1700s]"
+  },
+  "person": {
+    "id": "emmeline-pankhurst",
+    "name": "Emmeline Pankhurst",
+    "dates": "Jul 15, 1858 - Jun 14, 1928",
+    "mainImg": "img/people/emmeline-pankhurst.jpg",
+    "summary": [
+      "Emmeline Pankhurst was a British political activist. She is best remembered for organizing the UK suffragette movement and helping women win the right to vote. In 1999, Time named her as one of the 100 Most Important People of the 20th Century, stating that \"she shaped an idea of women for our time\" and \"shook society into a new pattern from which there could be no going back\". She was widely criticised for her militant tactics, and historians disagree about their effectiveness, but her work is recognised as a crucial element in achieving women's suffrage in the United Kingdom.",
+      "Born in the Moss Side district of Manchester to politically active parents, Pankhurst was introduced at the age of 14 to the women's suffrage movement. She founded and became involved with the Women's Franchise League, which advocated suffrage for both married and unmarried women. When that organisation broke apart, she tried to join the left-leaning Independent Labour Party through her friendship with socialist Keir Hardie but was initially refused membership by the local branch on account of her sex."
+    ],
+    "quote": "“Justice and judgment lie often a world apart.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst",
+    "urlGoogle": "https://artsandculture.google.com/entity/emmeline-pankhurst/m0gfzc"
+  },
+  "place": {
+    "id": "oslo",
+    "name": "Oslo",
+    "mainImg": "img/places/oslo.jpg",
+    "summary": [
+      "Oslo is the capital and most populous city of Norway. It constitutes both a county and a municipality. During the Viking Age the area was part of Viken, the northernmost Danish province. Oslo was founded as a city at the end of the Viking Age in the year 1040 under the name Ánslo, and established as a kaupstad or trading place in 1048 by Harald Hardrada. The city was elevated to a bishopric in 1070 and a capital under Haakon V of Norway around 1300. Personal unions with Denmark from 1397 to 1523 and again from 1536 to 1814 reduced its influence. After being destroyed by a fire in 1624, during the reign of King Christian IV, a new city was built closer to Akershus Fortress and named Christiania in the king's honour. It was established as a municipality on 1 January 1838. The city functioned as the capital of Norway during the 1814–1905 union between Sweden and Norway. From 1877, the city's name was spelled Kristiania in government usage, a spelling that was adopted by the municipal authorities only in 1897. In 1925 the city, after incorporating the village retaining its former name, was renamed Oslo."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Oslo",
+    "urlGoogle": "https://artsandculture.google.com/entity/oslo/m05l64"
+  },
+  "wiki": {
+    "id": "football-soccer",
+    "name": "Football (soccer)",
+    "summary": "Football, also known as soccer, is a team sport played between two teams, of eleven players each, and is widely considered to be the most popular sport in the world. It is a ball game played on a rectangular grass field (or occasionally on an artificial pitch) with a goal at each end. The object of the game is to score by maneuvering the ball into the opposing goal. The predominant feature of the sport is that no players other than the goalkeepers may use their hands or arms to propel the ball in general play. The winner is the team who scores the most goals by the end of the match. The modern game was codified in England following the formation of the Football Association, whose 1863 Laws of the Game created the foundations for the way the sport is played today. Football is governed internationally by Fédération Internationale de Football Association (FIFA). The most prestigious international football competition is the World Cup, played every four years, which is also the most widely viewed and famous sporting event in the world, watched by twice as many people as the Summer Olympics.",
+    "url": "https://en.wikipedia.org/wiki/Football_(soccer)"
+  },
+  "word": {
+    "id": "opusculum",
+    "word": "opusculum",
+    "url": "https://www.merriam-webster.com/dictionary/opusculum",
+    "partOfSpeech": "noun",
+    "pronunciation": "oh-PUSK-yuh-lum",
+    "audioPath": "audio/words/opusculum.mp3",
+    "definitions": ["a minor work (as of literature)"],
+    "examples": [
+      "The book is a collection of _opuscula_ written by the author between her two major novels.",
+      "\"Little surprise, then, that McCall Smith has written a kindly, avuncular, contemplative _opusculum_ sharing his enthusiasm with the uninitiated.\" - From an article by Richard Davenport-Hines in _The Spectator_, November 9, 2013"
+    ],
+    "origin": "\"Opusculum\"-which is often used in its plural form \"opuscula\"-comes from Latin, where it serves as the diminutive form of the noun \"opus,\" meaning \"work.\" In English, \"opus\" can refer to any literary or artistic work, though it often specifically refers to a musical piece. Logically, then, \"opusculum\" refers to a short or minor work. (\"Opusculum\" isn't restricted to music, though. In fact, it is most often used for literary works.) The Latin plural of \"opus\" is \"opera,\" which gave us (via Italian) the word we know for a musical production consisting primarily of vocal pieces performed with orchestral accompaniment."
+  }
+}

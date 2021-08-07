@@ -1,0 +1,121 @@
+{
+  "artist": {
+    "id": "jacek-malczewski",
+    "name": "Jacek Malczewski",
+    "dates": "Jul 14, 1854 - Oct 8, 1929",
+    "mainImg": "img/art/artists/jacek-malczewski.jpg",
+    "artworkImgs": [
+      {
+        "name": "Christmas Eve in Siberia",
+        "path": "img/art/artworks/jacek-malczewski-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/christmas-eve-in-siberia-jacek-malczewski/WAEwMu8Qcq-MxA"
+      },
+      {
+        "name": "Inspiration of the Painter",
+        "path": "img/art/artworks/jacek-malczewski-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/inspiration-of-the-painter-jacek-malczewski/TwE8e9i3-X1U-g"
+      },
+      {
+        "name": "Self-portrait in White Dress",
+        "path": "img/art/artworks/jacek-malczewski-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-in-white-dress-jacek-malczewski/HQEvsXx0hUCsPA"
+      },
+      {
+        "name": "Nike of the Legions",
+        "path": "img/art/artworks/jacek-malczewski-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/nike-of-the-legions-jacek-malczewski/9AE2lAAmHLL9Ig"
+      },
+      {
+        "name": "Polish Hamlet – Portrait of Aleksander Wielopolski",
+        "path": "img/art/artworks/jacek-malczewski-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/polish-hamlet-–-portrait-of-aleksander-wielopolski-jacek-malczewski/aQF4o7rRB6oPNQ"
+      },
+      {
+        "name": "Sketch for a prayer",
+        "path": "img/art/artworks/jacek-malczewski-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/sketch-for-a-prayer-jacek-malczewski-1854-1929/5AE6GSc3JgSoUA"
+      }
+    ],
+    "summary": [
+      "Jacek Malczewski is one of the most revered painters of Poland, associated with the patriotic Young Poland movement following a century of Partitions. He is regarded as the father of Polish Symbolism. His creative output combined the predominant style of his times, with historical motifs of Polish martyrdom, the romantic ideals of independence, Christian and Greek mythology, folk tales, as well as his love of the natural world. He was the father of painter Rafał Malczewski."
+    ],
+    "quote": null,
+    "movements": ["Symbolism"],
+    "mediums": ["Oil paint", "Textile", "Linen", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jacek_Malczewski",
+    "urlGoogle": "https://artsandculture.google.com/entity/jacek-malczewski/m09wt2z"
+  },
+  "event": {
+    "id": "battle-of-princeton",
+    "name": "Battle of Princeton",
+    "dates": null,
+    "mainImg": "img/events/battle-of-princeton.jpg",
+    "summary": [
+      "The Battle of Princeton was a battle of the American Revolutionary War, fought near Princeton, New Jersey on January 3, 1777, and ending in a small victory for the Colonials. General Lord Cornwallis had left 1,400 British troops under the command of Lieutenant Colonel Charles Mawhood in Princeton. Following a surprise attack at Trenton early in the morning of December 26, 1776, General George Washington of the Continental Army decided to attack the British in New Jersey before entering the winter quarters. On December 30, he crossed the Delaware River back into New Jersey. His troops followed on January 3, 1777. Washington advanced to Princeton by a back road, where he pushed back a smaller British force but had to retreat before Cornwallis arrived with reinforcements. The battles of Trenton and Princeton were a boost to the morale of the patriot cause, leading many recruits to join the Continental Army in the spring.",
+      "After defeating the Hessians at the Battle of Trenton on the morning of December 26, 1776, Washington withdrew back to Pennsylvania. He subsequently decided to attack the British forces before going into winter quarters."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Princeton",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-princeton/m01g0dx"
+  },
+  "funFacts": [
+    { "id": "5", "fact": "Camels have three eyelids.", "category": ["Animals"] },
+    {
+      "id": "149",
+      "fact": "Theodore Roosevelt was the only president who was blind in one eye.",
+      "category": ["History", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "553806", "fact": "Modern brunch was first proposed in 1895 as a post-hangover meal." }
+  ],
+  "idiom": {
+    "id": "the-whole-kit-and-caboodle",
+    "term": "the whole kit and caboodle",
+    "definition": "Everything, every part, as in *He packed up all his gear, the whole kit and caboodle, and walked out.* This expression is a redundancy, for *kit* has meant \"a collection or group\" since the mid-1700s (though this meaning survives only in the full idiom today), and *caboodle* has been used with the same meaning since the 1840s. In fact *caboodle* is thought to be a corruption of the phrase *kit and boodle,* another redundant phrase, since *boodle* also meant \"a collection.\""
+  },
+  "person": {
+    "id": "gaspar-de-guzman-count-duke-of-olivares",
+    "name": "Gaspar de Guzmán, Count-Duke of Olivares",
+    "dates": "Jan 6, 1587 - Jul 22, 1645",
+    "mainImg": "img/people/gaspar-de-guzman-count-duke-of-olivares.jpg",
+    "summary": [
+      "Gaspar de Guzmán y Pimentel, 1st Duke of Sanlúcar, 3rd Count of Olivares, GE, KOA, known as the Count-Duke of Olivares, was a Spanish royal favourite of Philip IV and minister. As prime minister from 1621 to 1643, he over-exerted Spain in foreign affairs and unsuccessfully attempted domestic reform. His policy of committing Spain to recapture Holland led to a renewal of the Eighty Years' War while Spain was also embroiled in the Thirty Years' War. In addition, his attempts to centralise power and increase wartime taxation led to revolts in Catalonia and in Portugal, which brought about his downfall."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gaspar_de_Guzm%C3%A1n,_Count-Duke_of_Olivares",
+    "urlGoogle": "https://artsandculture.google.com/entity/gaspar-de-guzmán-count-duke-of-olivares/m01qwgh"
+  },
+  "place": {
+    "id": "belgium",
+    "name": "Belgium",
+    "mainImg": "img/places/belgium.jpg",
+    "summary": [
+      "Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km² and has a population of more than 11.5 million, making it the 22nd most densely populated country in the world and the 6th most densely populated country in Europe, with a density of 376 per square kilometre. The capital and largest city is Brussels; other major cities are Antwerp, Ghent, Charleroi and Liège.",
+      "Legally, Belgium is a sovereign state and a federal constitutional monarchy with a parliamentary system. Its institutional organization is complex and is structured on both regional and linguistic grounds. It is divided into three highly autonomous regions: the Flemish Region in the north, Wallonia in the south, and the Brussels-Capital Region. Brussels is the smallest and most densely populated region, as well as the richest region in terms of GDP per capita."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Belgium",
+    "urlGoogle": "https://artsandculture.google.com/entity/belgium/m0154j"
+  },
+  "wiki": {
+    "id": "bahaʼi-faith",
+    "name": "Baháʼí Faith",
+    "summary": "The Baháʼí Faith is a monotheistic religion whose members follow the teachings of Baháʼu'lláh, their prophet founder. Bahá'u'lláh taught that there is one God who progressively reveals his will to humanity. In the Baháʼí view, each of the great religions brought by the Messengers of God—such as Moses, Krishna, the Buddha, Zoroaster, Jesus, Muhammad and the Báb—represents a successive stage in the spiritual development of civilization. Baháʼís believe Bahá'u'lláh is the most recent Messenger in this line, and has brought teachings that address the moral and spiritual challenges of the modern world. As such, although the Baháʼí Faith is not traditionally included among the Abrahamic religions, it recognizes many of the same personages.",
+    "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith"
+  },
+  "word": {
+    "id": "motley",
+    "word": "motley",
+    "url": "https://www.merriam-webster.com/dictionary/motley",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MAHT-lee",
+    "audioPath": "audio/words/motley.mp3",
+    "definitions": ["variegated in color", "composed of diverse often incongruous elements"],
+    "examples": [
+      "Lenny went to the medieval festival dressed in the bright _motley_ garb of a court jester.",
+      "\"The detention of the monitors instantly raised the stakes in an already fraught drama pitting the Ukrainian government against _motley_ bands of separatists who have overtaken city halls across the country's eastern half.\" - Griff Witte, _The Washington Post_, April 27, 2014"
+    ],
+    "origin": "\"Motley\" made its debut as an English adjective in the 14th century, but etymologists aren't completely sure where it came from. Many think it probably derived from the Middle English \"mot,\" meaning \"mote\" or \"speck.\" The word is also used as a noun identifying a multicolored fabric, a garment made from such a fabric, or-perhaps the best known sense of all-the fool who often wore such outfits in the European courts of the Middle Ages and the Renaissance."
+  }
+}

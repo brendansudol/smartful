@@ -67,16 +67,10 @@
       "id": "248",
       "fact": "Snoopy is the most common dog name beginning with the letter S.",
       "category": ["Animals"]
-    },
-    {
-      "id": "1012",
-      "fact": "The King of Hearts is the only king without a mustache.",
-      "category": ["Hodgepodge", "Onlies"]
     }
   ],
   "funFacts2": [
-    { "id": "504749", "fact": "A newborn giant panda is about the size of a stick of butter." },
-    { "id": "553539", "fact": "Newborn babies have nearly 100 more bones than full-grown adults." }
+    { "id": "504749", "fact": "A newborn giant panda is about the size of a stick of butter." }
   ],
   "idiom": {
     "id": "theres-no-fool-like-an-old-fool",

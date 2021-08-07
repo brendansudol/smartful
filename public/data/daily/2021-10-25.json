@@ -1,0 +1,120 @@
+{
+  "artist": {
+    "id": "ku-hye-sun",
+    "name": "Ku Hye-sun",
+    "dates": "Born Nov 9, 1984",
+    "mainImg": "img/art/artists/ku-hye-sun.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait 2",
+        "path": "img/art/artworks/ku-hye-sun-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-2-kang-kyung-koo/yAHPORfiYC26WA"
+      },
+      {
+        "name": "The Rice Fortune-telling at the Hado-ri Gaksidang",
+        "path": "img/art/artworks/ku-hye-sun-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-rice-fortune-telling-at-the-hado-ri-gaksidang-kwon-mi-seon/fAGgXnHG1psDAg"
+      },
+      {
+        "name": "The Path of Water-Crossing Over 1",
+        "path": "img/art/artworks/ku-hye-sun-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-path-of-water-crossing-over-1-kang-kyung-koo/0AHtMZJcbyxHvw"
+      },
+      {
+        "name": "Journey of a dream",
+        "path": "img/art/artworks/ku-hye-sun-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/journey-of-a-dream-phantom-plus-yang-ju-hye/LgF5lQK1jJiXYQ"
+      },
+      {
+        "name": "Distant Shadow",
+        "path": "img/art/artworks/ku-hye-sun-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/distant-shadow-kang-kyung-koo/JgGcwsGg8ObElA"
+      },
+      {
+        "name": "The Path of Water",
+        "path": "img/art/artworks/ku-hye-sun-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-path-of-water-kang-kyung-koo/DgHWXfz9-f2zJw"
+      }
+    ],
+    "summary": [
+      "Ku Hye-sun is a South Korean actress, singer-songwriter, director and artist. She gained widespread recognition in the television dramas Pure in Heart, The King And I, Boys Over Flowers, Take Care of Us, Captain, Angel Eyes and Blood."
+    ],
+    "quote": "“In the past, I used to think that it is fundamental and natural to have everything. But I realized that is not true. Instead I realized that those are things to be grateful for. After that realization, I became comfortable. Even if I don’t have it I am grateful. Such a realization also made me understand that is a way to love myself.”",
+    "movements": [],
+    "mediums": ["Acrylic paint", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ku_Hye-sun",
+    "urlGoogle": "https://artsandculture.google.com/entity/ku-hye-sun/m03cyv3r"
+  },
+  "event": {
+    "id": "sino-indian-war",
+    "name": "Sino-Indian War",
+    "dates": "Oct 20, 1962 - Nov 21, 1962",
+    "mainImg": "img/events/sino-indian-war.jpg",
+    "summary": [
+      "The Sino-Indian War, also known as the Indo-China War and Sino-Indian Border Conflict, was a war between China and India that occurred in 1962. A disputed Himalayan border was the main cause of the war, but other issues also played a role. There had been a series of violent border skirmishes between the two countries after the 1959 Tibetan uprising, when India granted asylum to the Dalai Lama. India initiated a defensive Forward Policy from 1960 to hinder Chinese military patrols and logistics, in which it placed outposts along the border, including several north of the McMahon Line, the eastern portion of the Line of Actual Control proclaimed by Chinese Premier Zhou Enlai in 1959.",
+      "Chinese military action grew increasingly aggressive after India rejected proposed Chinese diplomatic settlements throughout 1960-1962, with China re-commencing previously-banned \"forward patrols\" in Ladakh from April 30th 1962. China finally abandoned all attempts of peaceful resolution on 20 October 1962, invading disputed territory along the 3,225 kilometre- long Himalayan border in Ladakh and across the McMahon Line."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sino-Indian_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/sino-indian-war/m078_l"
+  },
+  "funFacts": [
+    { "id": "353", "fact": "The weight of the moon is 81 billion tons.", "category": ["Science"] },
+    {
+      "id": "705",
+      "fact": "Every ton of recycled paper saves about 17 trees.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [{ "id": "506501", "fact": "Earmuffs were invented by a 15-year-old." }],
+  "idiom": {
+    "id": "three-rs",
+    "term": "three R's",
+    "definition": "The fundamentals of education, as in *It's a terrible school; the children are not even taught the three R's.* It is widely believed that Sir William Curtis, an alderman who became Lord Mayor of London, once presented a toast to the three R's---reading, riting, and rithmetic---thereby betraying his illiteracy. In any event, the term was picked up by others and so used from the early 1800s on."
+  },
+  "person": {
+    "id": "william-lyon-mackenzie-king",
+    "name": "William Lyon Mackenzie King",
+    "dates": "Dec 17, 1874 - Jul 22, 1950",
+    "mainImg": "img/people/william-lyon-mackenzie-king.jpg",
+    "summary": [
+      "William Lyon Mackenzie King OM CMG PC, commonly known as Mackenzie King, was the dominant Canadian political leader from the 1920s through the 1940s. He served as the tenth prime minister of Canada in 1921–1926, 1926–1930 and 1935–1948. He is best known for his leadership of Canada throughout the Second World War when he mobilized Canadian money, supplies and volunteers to support Britain while boosting the economy and maintaining morale on the home front. A Liberal with 21 years and 154 days in office, he was the longest-serving prime minister in Canadian history. Trained in law and social work, he was keenly interested in the human condition, and played a major role in laying the foundations of the Canadian welfare state.",
+      "King acceded to the leadership of the Liberal Party in 1919. Taking the helm of a party bitterly torn apart during the First World War, he reconciled factions, unifying the Liberal Party and leading it to victory in the 1921 election. His party was out of office during the harshest days of the Great Depression in Canada, 1930–35; he returned when the economy was on an upswing."
+    ],
+    "quote": "“Government, in the last analysis, is organized opinion. Where there is little or no public opinion, there is likely to be bad government.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-lyon-mackenzie-king/m083dp"
+  },
+  "place": {
+    "id": "agra",
+    "name": "Agra",
+    "mainImg": "img/places/agra.jpg",
+    "summary": [
+      "Agra is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh. It is 206 kilometres south of the national capital New Delhi. Agra is the fourth-most populous city in Uttar Pradesh and 24th in India.",
+      "It has been speculated that in Mahabharata the city Agra is referred to as Agravana which translates as “front of the forest”. It is mentioned that the Shurasena dynasty of Lord Krishna maintained an outpost at Agravana. Greek geographer Ptolemy referred to Agra by its modern name in his Geographia and placed it in his world map in 2nd century AD. The 11th-century Persian poet Mas'ūd Sa'd Salmān writes of an assault on the fortress of Agra, then held by King Jaypal, by Mahmud of Ghazni. Despite his surrender, Mahmud sacked the place. It was mentioned in 1080 AD when a Ghaznavide force captured it. A 17th century chronicle called the Agra before Sikandar Lodī's time as an old settlement which was merely a village, owing to its destruction by Mahmud of Ghazni. Sikandar was the first sultan to move his capital from Delhi to Agra in 1504, its administration having previously been under Bayana."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Agra",
+    "urlGoogle": "https://artsandculture.google.com/entity/agra/m01zxx9"
+  },
+  "wiki": {
+    "id": "lisa-del-giocondo",
+    "name": "Lisa del Giocondo",
+    "summary": "Lisa del Giocondo was a member of the Gherardini family of Florence and Tuscany in Italy. Her name was given to Mona Lisa, her portrait commissioned by her husband and painted by Leonardo da Vinci during the Italian Renaissance. Little is known about Lisa's life. Married as a teenager to a cloth and silk merchant who later became a local official, she was mother to five children and led what is thought to have been a comfortable and ordinary middle-class life. Lisa outlived her husband, who was about 20 years her senior. Centuries after Lisa's death, Mona Lisa became the world's most famous painting and took on a life separate from Lisa, the woman. Speculation by scholars and hobbyists made the work of art a globally recognized icon and an object of commercialization. During the early 21st century, a discovery made at a university library was powerful enough evidence to end speculation about the sitter's identity and definitively identified Lisa del Giocondo as the subject of the Mona Lisa.",
+    "url": "https://en.wikipedia.org/wiki/Lisa_del_Giocondo"
+  },
+  "word": {
+    "id": "perdition",
+    "word": "perdition",
+    "url": "https://www.merriam-webster.com/dictionary/perdition",
+    "partOfSpeech": "noun",
+    "pronunciation": "per-DISH-un",
+    "audioPath": "audio/words/perdition.mp3",
+    "definitions": ["eternal damnation", "hell"],
+    "examples": [
+      "\"The urbane activity with which a man receives money is really marvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven. Ah! how cheerfully we consign ourselves to _perdition_!\" -- From Herman Melville's 1851 novel _Moby Dick_",
+      "\"So among my earliest poems were those about a sin-eater -- a functionary at funerals from a former time who, for his daily bread and a small fee, took unto himself the sins of the dead, and then, like the goat of the ancient Jews, escaped to the wilderness laden with the burdens of _perdition_.\" -- From an article by Thomas Lynch in _Commonweal_, August 12, 2011"
+    ],
+    "origin": "\"Perdition\" began life as a word meaning \"utter destruction\"; that sense is now archaic, but it provides a clue about the origins of the word. \"Perdition\" was borrowed into English in the 14th century from Anglo-French \"perdiciun\" and ultimately derives from the Latin verb \"perdere,\" meaning \"to destroy.\" \"Perdere\" was formed by combining the prefix \"per-\" (\"through\") and \"dare\" (\"to give\"). Other descendants of that Latin \"dare\" in English include \"date,\" \"edition,\" \"render,\" and \"traitor.\""
+  }
+}

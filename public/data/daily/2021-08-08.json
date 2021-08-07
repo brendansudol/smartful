@@ -1,0 +1,135 @@
+{
+  "artist": {
+    "id": "odilon-redon",
+    "name": "Odilon Redon",
+    "dates": "Apr 22, 1840 - Jul 6, 1916",
+    "mainImg": "img/art/artists/odilon-redon.jpg",
+    "artworkImgs": [
+      {
+        "name": "Muse on Pegasus",
+        "path": "img/art/artworks/odilon-redon-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/muse-on-pegasus-odilon-redon/mAGZ99AKVTHnNw"
+      },
+      {
+        "name": "To Edgar Poe (The Eye, Like a Strange Balloon, Mounts toward Infinity) [À Edgar Poe (L'oeil, comme un ballon bizarre se dirige vers l'infini)]",
+        "path": "img/art/artworks/odilon-redon-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/to-edgar-poe-the-eye-like-a-strange-balloon-mounts-toward-infinity-à-edgar-poe-l-oeil-comme-un-ballon-bizarre-se-dirige-vers-l-infini-odilon-redon/CQHTxKYrM1sGCA"
+      },
+      {
+        "name": "The Chariot of Apollo",
+        "path": "img/art/artworks/odilon-redon-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-chariot-of-apollo-odilon-redon/1gHvb12pom3h6A"
+      },
+      {
+        "name": "The Celestial Art",
+        "path": "img/art/artworks/odilon-redon-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-celestial-art-odilon-redon/HAEJXeQ2eR9F7w"
+      },
+      {
+        "name": "Yeux Clos (Closed Eyes)",
+        "path": "img/art/artworks/odilon-redon-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/yeux-clos-closed-eyes-odilon-redon/YgHKCBkqycuUMA"
+      },
+      {
+        "name": "Bell-Tower Keeper",
+        "path": "img/art/artworks/odilon-redon-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/bell-tower-keeper-odilon-redon/FwFrHTGzpewD4w"
+      }
+    ],
+    "summary": [
+      "Odilon Redon was a French symbolist painter, printmaker, draughtsman and pastellist.",
+      "Early in his career, both before and after fighting in the Franco-Prussian War, he worked almost exclusively in charcoal and lithography, works referred to as noirs. He started gaining recognition after his drawings were mentioned in the 1884 novel À rebours by Joris-Karl Huysmans. During the 1890s he began working in pastel and oils, which quickly became his favourite medium, abandoning his previous style of noirs completely after 1900. He also developed a keen interest in Hindu and Buddhist religion and culture, which increasingly showed in his work.",
+      "He is perhaps best known today for the \"dreamlike\" paintings created in the first decade of the 20th century, which were heavily inspired by Japanese art and which, while continuing to take inspiration from nature, heavily flirted with abstraction. His work is considered a precursor to both Dadaism and Surrealism."
+    ],
+    "quote": "“While I recognize the necessity for a basis of observed reality... true art lies in a reality that is felt.”",
+    "movements": ["Symbolism", "Post-Impressionism", "Modern art", "Naturalism", "Impressionism"],
+    "mediums": ["Etching", "Oil paint", "Drawing", "Charcoal", "Ink", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Odilon_Redon",
+    "urlGoogle": "https://artsandculture.google.com/entity/odilon-redon/m015ymr"
+  },
+  "event": {
+    "id": "interwar-period",
+    "name": "Interwar period",
+    "dates": "Nov 11, 1918 - Sep 1, 1939",
+    "mainImg": "img/events/interwar-period.jpg",
+    "summary": [
+      "In the context of the history of the 20th century, the interwar period was the period between the end of the First World War on November 11, 1918 and the beginning of the Second World War on September 1, 1939. This period is also colloquially referred to as Between the Wars.",
+      "Despite the relatively short period of time, this period represented an era of significant changes worldwide. Petroleum-based energy production and associated mechanisation expanded dramatically leading to the Roaring Twenties, a period of economic prosperity and growth for the middle class in North America, Europe, Asia, and many other parts of the world. Automobiles, electric lighting, radio broadcasts and more became commonplace among populations in the developed world. The indulgences of this era subsequently were followed by the Great Depression, an unprecedented worldwide economic downturn which severely damaged many of the world's largest economies.",
+      "Politically, this era coincided with the rise of communism, starting in Russia with the October Revolution and Russian Civil War, at the end of World War I, and ended with the rise of fascism, particularly in Germany and in Italy."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Interwar_period",
+    "urlGoogle": "https://artsandculture.google.com/entity/interwar-period/m03n2nw"
+  },
+  "funFacts": [
+    {
+      "id": "746",
+      "fact": "The only insect that can turn its head is a praying mantis",
+      "category": ["Animals"]
+    },
+    {
+      "id": "22",
+      "fact": "Alaska has the highest percentage of people who walk to work.",
+      "category": ["Geography", "Habits"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554004",
+      "fact": "Nostrils take turns receiving the majority of the air you breathe, which explains why one is usually stuffier than the other."
+    }
+  ],
+  "idiom": {
+    "id": "cheesed-off",
+    "term": "cheesed off",
+    "definition": "Angry, fed up, annoyed, as in *I'm cheesed off about watering their plants twice a week.* This term was originally military slang and sometimes put simply as **cheesed.** [Slang; mid-1900s]"
+  },
+  "person": {
+    "id": "henry-morgenthau-jr",
+    "name": "Henry Morgenthau Jr.",
+    "dates": "May 11, 1891 - Feb 6, 1967",
+    "mainImg": "img/people/henry-morgenthau-jr.jpg",
+    "summary": [
+      "Henry Morgenthau Jr. was the United States Secretary of the Treasury during most of the administration of Franklin D. Roosevelt. He played a major role in designing and financing the New Deal. After 1937, while still in charge of the Treasury, he played the central role in financing United States participation in World War II. He also played an increasingly major role in shaping foreign policy, especially with respect to Lend-Lease, support for China, helping Jewish refugees, and proposing to prevent Germany from again being a military threat by wrecking its industry and mines.",
+      "Morgenthau was the father of Robert M. Morgenthau, who was District Attorney of Manhattan for 35 years and Henry Morgenthau III, an American author and television producer. He continued as treasury secretary through the first few months of Harry Truman's presidency, and from June 27, 1945 to July 3, 1945, following the resignation of Secretary of State Edward Stettinius Jr., was next in line to the presidency. Morgenthau was the first and only Jew to be first in the presidential line of succession."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Morgenthau_Jr.",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-morgenthau-jr/m02sl0c"
+  },
+  "place": {
+    "id": "lucknow",
+    "name": "Lucknow",
+    "mainImg": "img/places/lucknow.jpg",
+    "summary": [
+      "Lucknow is the capital city of the Indian state of Uttar Pradesh, and is also the administrative headquarters of the eponymous district and division. It is the fourteenth-most populous city and the twelfth-most populous urban agglomeration of India. Lucknow has always been a multicultural city that flourished as a North Indian cultural and artistic hub, and the seat of power of Nawabs in the 18th and 19th centuries. It continues to be an important centre of governance, administration, education, commerce, aerospace, finance, pharmaceuticals, technology, design, culture, tourism, music and poetry.",
+      "The city stands at an elevation of approximately 123 metres above sea level. Lucknow district covers an area of 2,528 square kilometres. Bounded on the east by Barabanki, on the west by Unnao, on the south by Raebareli and in the north by Sitapur and Hardoi, Lucknow sits on the northwestern shore of the Gomti River.",
+      "Historically, Lucknow was the capital of the Awadh region, controlled by the Delhi Sultanate and later the Mughal Empire. It was transferred to the Nawabs of Awadh."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Lucknow",
+    "urlGoogle": "https://artsandculture.google.com/entity/lucknow/m022tq4"
+  },
+  "wiki": {
+    "id": "kochi-india",
+    "name": "Kochi (India)",
+    "summary": "Kochi is a city in the Indian state of Kerala, and one of the principal seaports of the country. Kochi is located in the district of Ernakulam, about 220 km north of the state capital Thiruvananthapuram. The city has an estimated population of 650,000, with an extended metropolitan population of over 1.6 million, making it the largest urban agglomeration and the second largest city in Kerala. Since 1102, the city of Kochi was the seat of an eponymous princely state which traces its lineages to the Kulasekhara empire. Occupied by the Portuguese since 1503, Kochi was the site of the first European colonial settlement in India. It remained the capital of Portuguese India till 1530, before Goa became the capital. A growing centre of information technology, tourism and international trade, Kochi is the commercial hub of Kerala, and one of the fastest growing second-tier metros in India. Like other large cities in the developing world, Kochi continues to struggle with urbanisation problems like poor sanitation and traffic congestion.",
+    "url": "https://en.wikipedia.org/wiki/Kochi_(India)"
+  },
+  "word": {
+    "id": "pleonasm",
+    "word": "pleonasm",
+    "url": "https://www.merriam-webster.com/dictionary/pleonasm",
+    "partOfSpeech": "noun",
+    "pronunciation": "PLEE-uh-naz-um",
+    "audioPath": "audio/words/pleonasm.mp3",
+    "definitions": [
+      "the use of more words than those necessary to denote mere sense : redundancy",
+      "an instance or example of pleonasm"
+    ],
+    "examples": [
+      "\"One pleonasm that bugs me is 'free gift,'\" said Donna. \"After all, how can anything be a gift if it isn't free?\""
+    ],
+    "origin": "\"Pleonasm,\" which stems via Late Latin from the Greek verb \"pleonazein\" (\"to be excessive\"), is a fancy word for \"redundancy.\" It's related to our words \"plus\" and \"plenty,\" and ultimately it goes back to the Greek word for \"more,\" which is \"pleōn.\" Pleonasm is commonly considered a fault of style, but it can also serve a useful function. \"Extra\" words can sometimes be helpful to a speaker or writer in getting a message across, adding emphasis, or simply adding an appealing sound and rhythm to a phrase -- as, for example, with the pleonasm \"I saw it with my own eyes!\""
+  }
+}

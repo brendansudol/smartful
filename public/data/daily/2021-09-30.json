@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "john-baldessari",
+    "name": "John Baldessari",
+    "dates": "Jun 17, 1931 - Jan 2, 2020",
+    "mainImg": "img/art/artists/john-baldessari.jpg",
+    "artworkImgs": [
+      {
+        "name": "Penguin",
+        "path": "img/art/artworks/john-baldessari-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/JQEFRHhAzVeTZQ"
+      },
+      {
+        "name": "Penguin",
+        "path": "img/art/artworks/john-baldessari-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/wQFm_Kn0G9hYog"
+      },
+      {
+        "name": "Penguin (detail)",
+        "path": "img/art/artworks/john-baldessari-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-detail-john-baldessari/4gHUU-kLdbqOWA"
+      },
+      {
+        "name": "Kaldor Public Art Project 23: John Baldessari 2011",
+        "path": "img/art/artworks/john-baldessari-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/kaldor-public-art-project-23-john-baldessari-2011-john-baldessari/XAHotYNt5dgf1w"
+      },
+      {
+        "name": "Penguin (detail)",
+        "path": "img/art/artworks/john-baldessari-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-detail-john-baldessari/LAEBu5iozbx2pg"
+      },
+      {
+        "name": "Penguin",
+        "path": "img/art/artworks/john-baldessari-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/wgGlPPn8RdLo0g"
+      }
+    ],
+    "summary": [
+      "John Anthony Baldessari was an American conceptual artist known for his work featuring found photography and appropriated images. He lived and worked in Santa Monica and Venice, California.",
+      "Initially a painter, Baldessari began to incorporate texts and photography into his canvases in the mid-1960s. In 1970 he began working in printmaking, film, video, installation, sculpture and photography. He created thousands of works which demonstrate—and, in many cases, combine—the narrative potential of images and the associative power of language within the boundaries of the work of art. His art has been featured in more than 200 solo exhibitions in the U.S. and Europe. His work influenced that of Cindy Sherman, David Salle, Annette Lemieux, and Barbara Kruger among others."
+    ],
+    "quote": null,
+    "movements": ["Conceptual art", "Contemporary art"],
+    "mediums": ["Acrylic paint", "Epoxy", "Iron", "Metal", "Plastic", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Baldessari",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-baldessari/m06dntc"
+  },
+  "event": {
+    "id": "louisiana-purchase-exposition",
+    "name": "Louisiana Purchase Exposition",
+    "dates": "Apr 30, 1904 - Dec 1, 1904",
+    "mainImg": "img/events/louisiana-purchase-exposition.jpg",
+    "summary": [
+      "The Louisiana Purchase Exposition, informally known as the St. Louis World's Fair, was an international exposition held in St. Louis, Missouri, United States, from April 30 to December 1, 1904. Local, state, and federal funds totaling $15 million were used to finance the event. More than 60 countries and 43 of the then-45 American states maintained exhibition spaces at the fair, which was attended by nearly 19.7 million people.",
+      "Historians generally emphasize the prominence of themes of race and empire, and the fair's long-lasting impact on intellectuals in the fields of history, art history, architecture and anthropology. From the point of view of the memory of the average person who attended the fair, it primarily promoted entertainment, consumer goods and popular culture."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Louisiana_Purchase_Exposition",
+    "urlGoogle": "https://artsandculture.google.com/entity/louisiana-purchase-exposition/m0d9j1"
+  },
+  "funFacts": [
+    {
+      "id": "300",
+      "fact": "Pennsylvania is misspelled on the Liberty Bell, because that is how they spelled it in the 18th century.",
+      "category": ["Geography", "History"]
+    },
+    {
+      "id": "243",
+      "fact": "If you put all the streets in New York City in a straight line, they would stretch to Japan.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553828",
+      "fact": "The corpse flower was the official flower of the Bronx for 60 years."
+    }
+  ],
+  "idiom": {
+    "id": "the-exception-proves-the-rule",
+    "term": "the exception proves the rule",
+    "definition": "An instance that does not obey a rule shows that the rule exists. For example, *John's much shorter than average but excels at basketball---the exception proves the rule.* This seemingly paradoxical phrase is the converse of the older idea that every rule has an exception. [Mid-1600s]"
+  },
+  "person": {
+    "id": "lee-ki-poong",
+    "name": "Lee Ki-poong",
+    "dates": "Dec 20, 1896 - Apr 28, 1960",
+    "mainImg": "img/people/lee-ki-poong.jpg",
+    "summary": [
+      "Lee Ki-poong was a South Korean politician and Vice President. He was the Minister of National Defense and Mayor of Seoul. He was the leader of Liberal Party and supporter of Syngman Rhee. The Liberal Party held power from 1948 to 1960.",
+      "In March 15, 1960, South Korea held a presidential election. The Liberal Party, which included Syngman Rhee and Lee Ki-poong, won by a very wide margin and was accused of electoral fraud. As a result, the April Revolution took place in April 1960. President Rhee resigned in April 26, 1960. Lee Ki-poong's family also resigned. In April 28, 1960, in an annex of Rhee's mansion, Lee Ki-poong's first son, Lee Kang-seok shot Lee Ki-poong and his family and then killed himself in a murder–suicide."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Lee_Ki-poong",
+    "urlGoogle": "https://artsandculture.google.com/entity/lee-ki-poong/m0kf_2r7"
+  },
+  "place": {
+    "id": "karachi",
+    "name": "Karachi",
+    "mainImg": "img/places/karachi.jpg",
+    "summary": [
+      "Karachi is the capital of the Pakistani province of Sindh. It is the largest city in Pakistan and seventh largest city proper in the world. Ranked as a beta-global city, the city is Pakistan's premier industrial and financial centre, with an estimated GDP of $114 billion as of 2014. Karachi is Pakistan's most cosmopolitan city, its most linguistically, ethnically, and religiously diverse city, as well as one of Pakistan's most secular and socially liberal cities. With its location on the Arabian Sea, Karachi serves as a transport hub, and is home to Pakistan's two largest seaports, the Port of Karachi and Port Bin Qasim, as well as Pakistan's busiest airport, Jinnah International Airport.",
+      "Though the Karachi region has been inhabited for millennia, the city was founded as the fortified village of Kolachi in 1729. The settlement drastically increased in importance with the arrival of British East India Company in the mid 19th century. The British embarked on major works to transform the city into a major seaport, and connected it with their extensive railway network."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Karachi",
+    "urlGoogle": "https://artsandculture.google.com/entity/karachi/m04cjn"
+  },
+  "wiki": {
+    "id": "new-york-state-route-28-n",
+    "name": "New York State Route 28N",
+    "summary": "New York State Route 28N (NY 28N) is an east–west state highway in the North Country of New York in the United States. It extends for 50.95 miles (82.00 km) through the Adirondack Mountains from Blue Mountain Lake to North Creek. The route is a northerly alternate route to NY 28 between both locations and passes through several communities that NY 28 bypasses. The westernmost 10 miles (16 km) of NY 28N overlap with NY 30 through the town of Long Lake. The rest of NY 28N is designated as the Roosevelt–Marcy Trail, a scenic byway marking the path taken in 1901 by U.S. Vice President Theodore Roosevelt from Mount Marcy to reach North Creek after he learned that President William McKinley had been assassinated. The route has a rather scant history before its designations. It originated as a highway from Warren County to Long Lake. It was used for transportation in the iron ore industry in Newcomb, and for the lumber industry in Minerva. The state gained control of the road in 1909. The NY 28N designation was assigned as part of the 1930 renumbering of state highways in New York, incorporating part of the former NY 10.",
+    "url": "https://en.wikipedia.org/wiki/New_York_State_Route_28N"
+  },
+  "word": {
+    "id": "campestral",
+    "word": "campestral",
+    "url": "https://www.merriam-webster.com/dictionary/campestral",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kam-PESS-trul",
+    "audioPath": "audio/words/campestral.mp3",
+    "definitions": ["of or relating to fields or open country : rural"],
+    "examples": [
+      "\"Santiago's proximity to ski resorts, beach resorts, and the idyllic countryside, with its _campestral_ and ranching traditions and colonial estates, offer plenty for the traveler to see and do.\" - From _Frommer’s Chile and Easter Island_, 2011",
+      "\"Just about any amateur naturalist who pays attention to the birds, beasts, flowers and seasons in _campestral_ Maine will find an eye-opener or two here.\" - From a book review by Dana Wilde in the _Bangor_ (Maine) _Daily News_, October 26, 2009"
+    ],
+    "origin": "Scamper across an open field, then, while catching your breath, ponder this: \"scamper\" and \"campestral\" both ultimately derive from the Latin noun \"campus,\" meaning \"field\" or \"plain.\" Latin \"campester\" is the adjective that means \"pertaining to a campus.\" In ancient Rome, a campus was a place for games, athletic practice, and military drills. \"Scamper\" probably started with a military association, as well (it is assumed to have evolved from the Latin verb \"excampare,\" meaning \"to decamp\"). In English, \"campestral\" took on an exclusively rural aspect upon its introduction in the 18th century, while \"campus,\" you might say, became strictly academic."
+  }
+}

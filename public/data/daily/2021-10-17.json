@@ -1,0 +1,134 @@
+{
+  "artist": {
+    "id": "pietro-perugino",
+    "name": "Pietro Perugino",
+    "dates": "1446 - 1523",
+    "mainImg": "img/art/artists/pietro-perugino.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait of Lorenzo di Credi",
+        "path": "img/art/artworks/pietro-perugino-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-lorenzo-di-credi-pietro-perugino/lQEylmtgtyOJBQ"
+      },
+      {
+        "name": "Madonna and Child",
+        "path": "img/art/artworks/pietro-perugino-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-pietro-perugino/DwED40CtAtbe4Q"
+      },
+      {
+        "name": "Madonna and Child",
+        "path": "img/art/artworks/pietro-perugino-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-pietro-perugino/6QG_M_bqtU5peQ"
+      },
+      {
+        "name": "The Resurrection",
+        "path": "img/art/artworks/pietro-perugino-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-resurrection-perugino-pietro-di-cristoforo-vannucci/ewHQK3PAQ5mKgg"
+      },
+      {
+        "name": "Portrait of Francesco delle Opere",
+        "path": "img/art/artworks/pietro-perugino-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-francesco-delle-opere-perugino-vannucci/5QGLVFhd_NbMtQ"
+      },
+      {
+        "name": "Vierge à l'Enfant.",
+        "path": "img/art/artworks/pietro-perugino-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/vierge-à-l-enfant-copie-de-la-vierge-et-l-enfant-d-après-le-tableau-de-jean-fouquet/JwHWlb9Tu-yGng"
+      }
+    ],
+    "summary": [
+      "Pietro Perugino, born Pietro Vannucci, was an Italian Renaissance painter of the Umbrian school, who developed some of the qualities that found classic expression in the High Renaissance. Raphael was his most famous pupil."
+    ],
+    "quote": null,
+    "movements": ["Italian Renaissance", "Renaissance"],
+    "mediums": ["Drawing", "Oil paint", "Ink", "Pen", "Tempera", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pietro_Perugino",
+    "urlGoogle": "https://artsandculture.google.com/entity/pietro-perugino/m03k9yt"
+  },
+  "event": {
+    "id": "normandy-campaign",
+    "name": "Normandy Campaign",
+    "dates": "Jun 6, 1944 - Aug 30, 1944",
+    "mainImg": "img/events/normandy-campaign.jpg",
+    "summary": [
+      "The Battle of Normandy or Normandy Campaign includes the following:",
+      "Operation Overlord – The Western Allied campaign in France from June 6 – August 25, 1944",
+      "The Invasion of Normandy, or \"Operation Neptune\" – The initial part of Overlord, from June 6 – mid-July 1944",
+      "The Normandy landings on June 6, 1944",
+      "Operation Cobra, the breakout from Normandy, starting on July 25, 1944",
+      "The \"Battle of Normandy\" is the official term for the British, French and Canadian military campaign lasting from June 6 – September 1, 1944."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Normandy_Campaign_%28disambiguation%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/normandy-campaign/m03bxm2j"
+  },
+  "funFacts": [
+    {
+      "id": "40",
+      "fact": "It is possible to lead a cow up stairs but not down.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "1022",
+      "fact": "Miami installed the first ATM for inline skaters.",
+      "category": ["Geography", "History", "Make-it-Easies", "Firsts"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554086",
+      "fact": "The ancestor of the modern chainsaw was invented to facilitate childbirth."
+    }
+  ],
+  "idiom": {
+    "id": "lead-pipe-cinch",
+    "term": "lead-pipe cinch",
+    "definition": "A certainty, an assured success. For example, \"An engagement ain't always a lead-pipe cinch\" (O. Henry, *The Sphinx Apple,* 1907). This colloquial expression is of disputed origin. It may allude to the *cinch* that tightly holds a horse's saddle in place, which can make it easier for the rider to succeed in a race; or it may allude to a *cinch* in plumbing, in which a lead pipe is fastened with a band of steel to another pipe or a fixture, making a very secure joint. [Late 1800s]"
+  },
+  "person": {
+    "id": "artaxerxes-iii",
+    "name": "Artaxerxes III",
+    "dates": "424 BC - 337 BC",
+    "mainImg": "img/people/artaxerxes-iii.jpg",
+    "summary": [
+      "Ochus, better known by his dynastic name of Artaxerxes III was King of Kings of the Achaemenid Empire from 358 to 338 BC. He was the son and successor of Artaxerxes II and his mother was Stateira.",
+      "Before ascending the throne Artaxerxes was a satrap and commander of his father's army. Artaxerxes came to power after one of his brothers was executed, another committed suicide, the last murdered and his father, Artaxerxes II died. Soon after becoming king, Artaxerxes murdered all of the royal family to secure his place as king. He started two major campaigns against Egypt. The first campaign failed, and was followed up by rebellions throughout the western part of his empire. In 343 BC, Artaxerxes defeated Nectanebo II, the Pharaoh of Egypt, driving him from Egypt, stopping a revolt in Phoenicia on the way.",
+      "In Artaxerxes' later years, Philip II of Macedon's power was increasing in Greece, where he tried to convince the Greeks to revolt against the Achaemenid Empire. His activities were opposed by Artaxerxes, and with his support, the city of Perinthus resisted a Macedonian siege."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Artaxerxes_III",
+    "urlGoogle": "https://artsandculture.google.com/entity/artaxerxes-iii/m01s88b"
+  },
+  "place": {
+    "id": "suzhou",
+    "name": "Suzhou",
+    "mainImg": "img/places/suzhou.jpg",
+    "summary": [
+      "Suzhou, alternately romanized as Soochow, is a major city located in southeastern Jiangsu Province of East China, about 100 km northwest of Shanghai. It is a major economic center and focal point of trade and commerce, and the second largest city in the province, after its capital Nanjing. The city is situated on the lower reaches of the Yangtze River and the shores of Lake Tai and belongs to the Yangtze River Delta region. Administratively, Suzhou is a prefecture-level city with a population of 4.33 million in its city proper, and a total resident population of 10.58 million in its administrative area. Its urban population grew at an unprecedented rate of 6.5% between 2000 and 2014, which is the highest among cities with more than 5 million people.",
+      "Founded in 514 BC, Suzhou has over 2,500 years of history, with an abundant display of relics and sites of historical interest. Around AD 100, during the Eastern Han dynasty, it became one of the ten largest cities in the world mostly due to emigration from Northern China. Since the 10th-century Song dynasty, it has been an important commercial center of China."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Suzhou",
+    "urlGoogle": "https://artsandculture.google.com/entity/suzhou/m01qq80"
+  },
+  "wiki": {
+    "id": "kylie-minogue",
+    "name": "Kylie Minogue",
+    "summary": "Kylie Minogue is an Australian singer and actress. She rose to prominence in the late 1980s as a result of her role in the Australian television soap opera Neighbours, before commencing her career as a pop singer and recording artist. Signed to a contract by British songwriters and record producers Stock, Aitken and Waterman, Minogue achieved a string of hit records throughout the world, but her popularity began to decline by the early 1990s, leading her to part company from them in 1992. For several years she attempted to establish herself as an independent performer and songwriter, distancing herself from her earlier work. Her projects were widely publicised, but despite a couple of hit singles, her albums failed to attract a substantial audience, resulting in the lowest sales of her career. In 2000, she returned to popularity as a dance/pop music artist and became well-known for her provocative music videos and expensively mounted stage shows. In Europe and Australia, Minogue has become one of her generation's most recognisable celebrities and sex symbols.",
+    "url": "https://en.wikipedia.org/wiki/Kylie_Minogue"
+  },
+  "word": {
+    "id": "refulgence",
+    "word": "refulgence",
+    "url": "https://www.merriam-webster.com/dictionary/refulgence",
+    "partOfSpeech": "noun",
+    "pronunciation": "rih-FULL-junss",
+    "audioPath": "audio/words/refulgence.mp3",
+    "definitions": ["a radiant or resplendent quality or state : brilliance"],
+    "examples": [
+      "The winning photo captured the _refulgence_ of a full moon on a clear autumn night.",
+      "\"The sound the Philadelphia players mustered from the heroic opening bars of Brahms's Third Symphony was the orchestra's own, showing the richness and _refulgence_ that are this institution's legacy.\" - From a review by Steve Smith in _The New York Times_, April 30, 2012"
+    ],
+    "origin": "\"The full bow of the crescent moon peeps above the plain and shoots its gleaming arrows far and wide, filling the earth with a faint refulgence, as the glow of a good man's deeds shines for a while upon his little world after his sun has set, lighting the fainthearted travellers who follow on towards a fuller dawn.\" So British author Sir Henry Rider Haggard described the light of the moon in _King Solomon's Mines_. Haggard's example reflects both the modern meaning and the history of \"refulgence.\" That word derives from Latin \"refulgēre,\" which means \"to shine brightly\" and which is itself a descendant of the verb \"fulgēre,\" meaning \"to shine.\" By the way, \"fulgēre\" also underlies \"effulgence,\" a shining synonym of \"refulgence.\""
+  }
+}

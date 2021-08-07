@@ -69,16 +69,9 @@
       "id": "199",
       "fact": "The largest cheesecake ever made weighed 57,508 lbs.",
       "category": ["Food"]
-    },
-    { "id": "315", "fact": "No two lip impressions are the same.", "category": ["Anatomy"] }
-  ],
-  "funFacts2": [
-    { "id": "506372", "fact": "Almonds and peaches are members of the same family." },
-    {
-      "id": "522216",
-      "fact": "During WWI, German measles were called \"liberty measles\" and dachshunds became \"liberty hounds.\""
     }
   ],
+  "funFacts2": [{ "id": "506372", "fact": "Almonds and peaches are members of the same family." }],
   "idiom": {
     "id": "star-chamber-proceedings",
     "term": "star-chamber proceedings",

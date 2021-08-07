@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "ellsworth-kelly",
+    "name": "Ellsworth Kelly",
+    "dates": "May 31, 1923 - Dec 27, 2015",
+    "mainImg": "img/art/artists/ellsworth-kelly.jpg",
+    "artworkImgs": [
+      {
+        "name": "East River",
+        "path": "img/art/artworks/ellsworth-kelly-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/east-river-ellsworth-kelly-american-1923–2015/AgED5YocrBXJdA"
+      },
+      {
+        "name": "Tableau Vert",
+        "path": "img/art/artworks/ellsworth-kelly-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/tableau-vert-ellsworth-kelly-american-1923–2015/CQEz40WNhx1PeA"
+      },
+      {
+        "name": "White Disk III",
+        "path": "img/art/artworks/ellsworth-kelly-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/white-disk-iii-ellsworth-kelly-american-1923–2015/egFKjTVFjrtzzA"
+      },
+      {
+        "name": "Red Yellow Blue White and Black",
+        "path": "img/art/artworks/ellsworth-kelly-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/red-yellow-blue-white-and-black-ellsworth-kelly-american-1923–2015/8AGo4l1Tvck7jA"
+      },
+      {
+        "name": "Two Blacks and White",
+        "path": "img/art/artworks/ellsworth-kelly-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/two-blacks-and-white-ellsworth-kelly/vwEStKIHqwBQOw"
+      }
+    ],
+    "summary": [
+      "Ellsworth Kelly was an American painter, sculptor, and printmaker associated with hard-edge painting, Color Field painting and minimalism. His works demonstrate unassuming techniques emphasizing line, color and form, similar to the work of John McLaughlin and Kenneth Noland. Kelly often employed bright colors. He lived and worked in Spencertown, New York."
+    ],
+    "quote": "“I think that if you can turn off the mind and look only with the eyes, ultimately everything becomes abstract.”",
+    "movements": ["Minimalism", "Contemporary art", "Color field"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ellsworth_Kelly",
+    "urlGoogle": "https://artsandculture.google.com/entity/ellsworth-kelly/m07sk_z"
+  },
+  "event": {
+    "id": "battle-of-actium",
+    "name": "Battle of Actium",
+    "dates": null,
+    "mainImg": "img/events/battle-of-actium.jpg",
+    "summary": [
+      "The Battle of Actium was a naval battle in the last war of the Roman Republic, fought between the fleet of Octavian and the combined forces of Mark Antony and Queen Cleopatra of Egypt. It took place on 2 September 31 BC in the Ionian Sea near the promontory of Actium in Greece.",
+      "Octavian's victory enabled him to consolidate his power over Rome and its dominions. He adopted the title of Princeps and in 27 BC was awarded the title of Augustus by the Roman Senate. This became the name by which he was known in later times. As Augustus, he retained the trappings of a restored Republican leader, but historians generally view his consolidation of power and the adoption of these honorifics as the end of the Roman Republic and the beginning of the Roman Empire."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Actium",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-actium/m01ky6"
+  },
+  "funFacts": [
+    {
+      "id": "681",
+      "fact": "The jaguar, the largest cat in the Western Hemisphere, once lived all over the southern US.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "956",
+      "fact": "At the deepest point in the ocean, the water pressure is equivalent to having about 50 jumbo jets piled on top of you.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "642369",
+      "fact": "Before writing <em>Little Women</em>, Louisa May Alcott penned stories under the pseudonyms Flora Fairfield and A.M. Barnard."
+    }
+  ],
+  "idiom": {
+    "id": "keep-a-civil-tongue-in-ones-head",
+    "term": "keep a civil tongue in one's head",
+    "definition": "Speak politely, as in *The teacher won't allow swearing; she says we must keep a civil tongue in our heads.* This expression uses *tongue* in the sense of \"a manner of speaking,\" a usage dating from the 1400s. An early cautionary version was \"Keep a good tongue in your head, lest it hurt your teeth\" (1595)."
+  },
+  "person": {
+    "id": "giuseppe-mazzini",
+    "name": "Giuseppe Mazzini",
+    "dates": "Jun 22, 1805 - Mar 10, 1872",
+    "mainImg": "img/people/giuseppe-mazzini.jpg",
+    "summary": [
+      "Giuseppe Mazzini was an Italian politician, journalist, activist for the unification of Italy, and spearhead of the Italian revolutionary movement. His efforts helped bring about the independent and unified Italy in place of the several separate states, many dominated by foreign powers, that existed until the 19th century. He also helped define the modern European movement for popular democracy in a republican state.",
+      "Mazzini's thoughts had a very considerable influence on the Italian and European republican movements, in the Constitution of Italy, about Europeanism, and, more nuanced, on many politicians of a later period: among them, men like U.S. President Woodrow Wilson and British Prime Minister David Lloyd George, but also post-colonial leaders such as Gandhi, Savarkar, Golda Meir, David Ben-Gurion, Kwame Nkrumah, Jawaharlal Nehru and Sun Yat-sen."
+    ],
+    "quote": "“Slumber not in the tents of your fathers. The world is advancing.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Mazzini",
+    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-mazzini/m096zc"
+  },
+  "place": {
+    "id": "comoros",
+    "name": "Comoros",
+    "mainImg": "img/places/comoros.jpg",
+    "summary": [
+      "The Comoros, officially the Union of the Comoros, is an island country in the Indian Ocean located at the northern end of the Mozambique Channel off the eastern coast of Africa between northeastern Mozambique, the French region of Mayotte, and northwestern Madagascar. The capital and largest city in Comoros is Moroni. The religion of the majority of the population, and the official state religion, is Sunni Islam. As a member of the Arab League, the Comoros is the only country in the Arab world which is entirely in the Southern Hemisphere.",
+      "At 1,660 km², excluding the contested island of Mayotte, the Comoros is the fourth-smallest African nation by area. The population, excluding Mayotte, is estimated at 832,322. As a nation formed at a crossroads of different civilisations, the archipelago is noted for its diverse culture and history. The archipelago was first settled by Bantu speakers who came from East Africa, Arabs and Austronesians.",
+      "The sovereign state is an archipelago consisting of three major islands and numerous smaller islands, all in the volcanic Comoro Islands."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Comoros",
+    "urlGoogle": "https://artsandculture.google.com/entity/comoros/m01n6c"
+  },
+  "wiki": {
+    "id": "the-lord-of-the-rings",
+    "name": "The Lord of the Rings",
+    "summary": "The Lord of the Rings is an epic high fantasy novel written by J. R. R. Tolkien. The story began as a sequel to Tolkien's earlier fantasy book The Hobbit and soon developed into a much larger story. It was written in stages between 1937 and 1949, with much of it being written during World War II. It was originally published in three volumes in 1954 and 1955, and has since been reprinted numerous times and translated into at least 38 different languages, becoming one of the most popular works in twentieth-century literature. The action in The Lord of the Rings is set in what the author conceived to be the lands of the real Earth, inhabited by humanity but placed in a fictional past before our history. Tolkien gave this setting a modern English name, Middle-earth, a rendering of the Old English Middangeard. The story concerns peoples such as Hobbits, Elves, Men, Dwarves, Wizards, and Orcs, and centres on the Ring of Power made by the Dark Lord Sauron. Starting from quiet beginnings in The Shire, the story ranges across Middle-earth and follows the courses of the War of the Ring.",
+    "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+  },
+  "word": {
+    "id": "roseate",
+    "word": "roseate",
+    "url": "https://www.merriam-webster.com/dictionary/roseate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ROH-zee-ut",
+    "audioPath": "audio/words/roseate.mp3",
+    "definitions": [
+      "resembling a rose especially in having a pink color",
+      "overly optimistic : viewed favorably"
+    ],
+    "examples": [
+      "Her memories of her childhood are pleasant, bordering on _roseate_; some of her siblings recall things a bit differently.",
+      "\"A delectable avocado and bacon-topped burger-smoky and juicy-has a lovely char and an oozy, _roseate_ center….\" - From a restaurant review by Joan Reminick in _Newsday_ (New York), January 3, 2013"
+    ],
+    "origin": "\"Everything's coming up roses.\" \"He views the world through rose-tinted glasses.\" \"She has a rosy outlook on life.\" In English, we tend to associate roses and rose color with optimism, and \"roseate\" is no exception. \"Roseate\" comes from the Latin adjective \"roseus,\" and ultimately from the noun \"rosa,\" meaning \"rose.\" Figurative use of \"roseate\" began in the 19th century, and the literal sense of the term has been in the language since the 16th century. Literal uses of \"roseate\" are often found in descriptions of sunrises and sunsets. \"Through yon peaks of cloud-like snow / The roseate sunlight quivers,\" wrote Shelley in Prometheus Unbound. And in an early short story, Edith Wharton wrote, \"The sunset was perfect and a roseate light, transfiguring the distant spire, lingered late in the west.\""
+  }
+}

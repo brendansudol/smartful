@@ -64,19 +64,13 @@
       "fact": "When grazing or resting, cows tend to align their bodies with the magnetic north and south poles.",
       "category": ["Animals"]
     },
-    { "id": "868", "fact": "Thomas Jefferson invented the coat hanger.", "category": ["History"] },
-    {
-      "id": "232",
-      "fact": "The blue whale's heart is the size of a small car.",
-      "category": ["Animals"]
-    }
+    { "id": "868", "fact": "Thomas Jefferson invented the coat hanger.", "category": ["History"] }
   ],
   "funFacts2": [
     {
       "id": "522189",
       "fact": "Norman Lloyd is Hollywood’s oldest working actor. The 104-year-old has worked with Charlie Chaplin, Robin Williams, and Amy Schumer."
-    },
-    { "id": "554252", "fact": "Continental plates drift as fast as fingernails grow." }
+    }
   ],
   "idiom": {
     "id": "lock-the-barn-door-after-the-horse-has-bolted",

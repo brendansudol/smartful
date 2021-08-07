@@ -1,0 +1,126 @@
+{
+  "artist": {
+    "id": "gentile-da-fabriano",
+    "name": "Gentile da Fabriano",
+    "dates": "1370 - Aug 1, 1427",
+    "mainImg": "img/art/artists/gentile-da-fabriano.jpg",
+    "artworkImgs": [
+      {
+        "name": "Adoration of the Magi",
+        "path": "img/art/artworks/gentile-da-fabriano-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/adoration-of-the-magi-gentile-da-fabriano-massi/DQFJCeCtmALPyg"
+      },
+      {
+        "name": "Mary Enthroned with the Child, Saints and a Donor",
+        "path": "img/art/artworks/gentile-da-fabriano-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mary-enthroned-with-the-child-saints-and-a-donor-gentile-da-fabriano/eAGQ8eXj5llHbw"
+      },
+      {
+        "name": "Enthroned Madonna and Child with Two Angels",
+        "path": "img/art/artworks/gentile-da-fabriano-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/enthroned-madonna-and-child-with-two-angels-gentile-da-fabriano/eQHPT0CB4e8RdQ"
+      },
+      {
+        "name": "Coronation of the Virgin",
+        "path": "img/art/artworks/gentile-da-fabriano-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/coronation-of-the-virgin/FQF7-Px-60y3LA"
+      },
+      {
+        "name": "Nativity",
+        "path": "img/art/artworks/gentile-da-fabriano-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/nativity/XQEptlPtuHfA2A"
+      },
+      {
+        "name": "Madonna and Child with Angels",
+        "path": "img/art/artworks/gentile-da-fabriano-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-with-angels-gentile-da-fabriano-gentile-di-niccolò-di-giovanni-di-massio/7gEiMQqkAkJe2g"
+      }
+    ],
+    "summary": [
+      "Gentile da Fabriano was an Italian painter known for his participation in the International Gothic painter style. He worked in various places in central Italy, mostly in Tuscany. His best-known works are his Adoration of the Magi from the Strozzi Altarpiece, and the Flight into Egypt."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Tempera", "Gold", "Metal", "Gold leaf", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gentile_da_Fabriano",
+    "urlGoogle": "https://artsandculture.google.com/entity/gentile-da-fabriano/m01fg21"
+  },
+  "event": {
+    "id": "world-war-ii-in-yugoslavia",
+    "name": "World War II in Yugoslavia",
+    "dates": "1941 - 1945",
+    "mainImg": "img/events/world-war-ii-in-yugoslavia.jpg",
+    "summary": [
+      "Military operations in World War II in Yugoslavia began on 6 April 1941, when the Kingdom of Yugoslavia was swiftly conquered by Axis forces and partitioned between Germany, Italy, Hungary, Bulgaria and client regimes. Subsequently, a guerrilla liberation war was fought against the Axis occupying forces and their locally established puppet regimes, including the fascist Independent State of Croatia and the Government of National Salvation in the German-occupied territory of Serbia, by the Communist-led republican Yugoslav Partisans. Simultaneously, a multi-side civil war was waged between the Yugoslav communist Partisans, the Serbian royalist Chetniks, the Croatian fascist Ustashe and Home Guard, Serbian Volunteer Corps and State Guard, as well as Slovene Home Guard troops.",
+      "Both the Yugoslav Partisans and the Chetnik movement initially resisted the occupation. However, after 1941, Chetniks extensively and systematically collaborated with the Italian occupation forces until the Italian capitulation, and thereon also with German and Ustashe forces."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/World_War_II_in_Yugoslavia",
+    "urlGoogle": "https://artsandculture.google.com/entity/world-war-ii-in-yugoslavia/m0h6twh"
+  },
+  "funFacts": [
+    {
+      "id": "288",
+      "fact": "Four Corners, AZ, is the only place where a person can stand in 4 states at the same time.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "766",
+      "fact": "The hippopotamus has the capability to remain underwater for as long as five minutes.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504701",
+      "fact": "Scottish band The Bay City Rollers chose their name after sticking a pin in a map of America, which landed on the Michigan city."
+    }
+  ],
+  "idiom": {
+    "id": "the-game-is-not-worth-the-candle",
+    "term": "the game is not worth the candle",
+    "definition": "The returns from an activity or enterprise do not warrant the time, money or effort required. For example, *The office he is running for is so unimportant that the game's not worth the candle.* This expression, which began as a translation of a term used by the French essayist Michel de Montaigne in 1580, alludes to gambling by candlelight, which involved the expense of illumination. If the winnings were not sufficient, they did not warrant the expense. Used figuratively, it was a proverb within a century."
+  },
+  "person": {
+    "id": "mary-frances-berry",
+    "name": "Mary Frances Berry",
+    "dates": "Born Feb 17, 1938",
+    "mainImg": "img/people/mary-frances-berry.jpg",
+    "summary": [
+      "Mary Frances Devine Berry is an American historian, writer, lawyer, activist and professor who focuses on U.S. constitutional and legal, African-American history. Berry is the Geraldine R. Segal Professor of American Social Thought where she teaches American legal history at the Department of History, School of Arts & Sciences at the University of Pennsylvania. She is the former chairwoman of the United States Commission on Civil Rights. Previously, Berry was provost of the College of Behavioral and Social Science at University of Maryland, College Park, and was the first African American chancellor of the University of Colorado at Boulder."
+    ],
+    "quote": "“When you have police officers who abuse citizens, you erode public confidence in law enforcement. That makes the job of good police officers unsafe.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Mary_Frances_Berry",
+    "urlGoogle": "https://artsandculture.google.com/entity/mary-frances-berry/m04m8lt"
+  },
+  "place": {
+    "id": "freiburg-im-breisgau",
+    "name": "Freiburg im Breisgau",
+    "mainImg": "img/places/freiburg-im-breisgau.jpg",
+    "summary": [
+      "Freiburg im Breisgau is an independent city in Baden-Württemberg, Germany. With a population of about 230,000, Freiburg is the fourth largest city in Baden-Württemberg after Stuttgart, Karlsruhe, and Mannheim. In the south-west of the country, it straddles the Dreisam river, at the foot of the Schlossberg. Historically, the city has acted as the hub of the Breisgau region on the western edge of the Black Forest in the Upper Rhine Plain. A famous old German university town, and archiepiscopal seat, Freiburg was incorporated in the early twelfth century and developed into a major commercial, intellectual, and ecclesiastical center of the upper Rhine region. The city is known for its medieval minster and Renaissance university, as well as for its high standard of living and advanced environmental practices. The city is situated in the heart of the major Baden wine-growing region and serves as the primary tourist entry point to the scenic beauty of the Black Forest. According to meteorological statistics, the city is the sunniest and warmest in Germany, and held the all-time German temperature record of 40.2 °C from 2003 to 2015."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Freiburg_im_Breisgau",
+    "urlGoogle": "https://artsandculture.google.com/entity/freiburg-im-breisgau/m0ptj2"
+  },
+  "wiki": {
+    "id": "sheerness",
+    "name": "Sheerness",
+    "summary": "Sheerness is a town located beside the mouth of the River Medway on the northwest corner of the Isle of Sheppey in north Kent, England. With a population of 12,000, it is the largest town on the island. Sheerness began as a fort built in the sixteenth century to protect the River Medway from naval invasion. After a Dutch attack in 1692, Samuel Pepys, the Secretary to the Admiralty, established a Royal Navy dockyard in the town, where warships were built and repaired until its closure in 1960. In the nineteenth century, Sheerness also became a seaside resort, when a pier and promenade were constructed. Industry remains an important part of the town, and the port of Sheerness is one of the United Kingdom's leading car and fresh produce importers. The town is the site of one of the UK's first co-operative societies and the world's first multi-storey building with a rigid metal frame.",
+    "url": "https://en.wikipedia.org/wiki/Sheerness"
+  },
+  "word": {
+    "id": "jehu",
+    "word": "jehu",
+    "url": "https://www.merriam-webster.com/dictionary/jehu",
+    "partOfSpeech": "noun",
+    "pronunciation": "JEE-hyoo",
+    "audioPath": "audio/words/jehu.mp3",
+    "definitions": ["a driver of a coach or cab"],
+    "examples": [
+      "The jehu who picked us up from the hotel got us to the airport in plenty of time, but his reckless driving gave us more of an adventure than we would have liked."
+    ],
+    "origin": "Today's word comes from the name of a notoriously speedy chariot driver. Originally a commander of chariots for Ahab, king of Israel, Jehu later led a revolt against the throne and became king himself. In the Bible, it is noted of Jehu that \"he drives furiously\" (_II Kings_ 9:20). In the 17th century, English speakers began using \"jehu\" as a generic term meaning \"coachman\" or, specifically, \"a fast or reckless coachman.\" Today, we are more likely to use the word in reference to reckless cabdrivers. The phrase \"drives like Jehu\" is encountered occasionally, too."
+  }
+}

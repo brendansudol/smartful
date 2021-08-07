@@ -58,13 +58,9 @@
       "id": "3",
       "fact": "Beavers can hold their breath for 45 minutes under water.",
       "category": ["Animals"]
-    },
-    { "id": "706", "fact": "Steel is 100% recyclable.", "category": ["Science"] }
+    }
   ],
-  "funFacts2": [
-    { "id": "504748", "fact": "Marie Curie’s notebooks are still radioactive." },
-    { "id": "553806", "fact": "Modern brunch was first proposed in 1895 as a post-hangover meal." }
-  ],
+  "funFacts2": [{ "id": "504748", "fact": "Marie Curie’s notebooks are still radioactive." }],
   "idiom": {
     "id": "friend-in-court",
     "term": "friend in court",

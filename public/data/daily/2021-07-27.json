@@ -65,19 +65,10 @@
       "fact": "In 2003, a 6-year-old from Naples, FL was ticketed for not having a permit for her lemonade stand.",
       "category": ["Laws"]
     },
-    {
-      "id": "334",
-      "fact": "The beaver is the official animal of Canada.",
-      "category": ["Animals"]
-    },
-    { "id": "801", "fact": "It is not possible to tickle yourself.", "category": ["Anatomy"] }
+    { "id": "334", "fact": "The beaver is the official animal of Canada.", "category": ["Animals"] }
   ],
   "funFacts2": [
-    { "id": "553419", "fact": "“Horizontal refreshment” was a 19th century slang term for sex." },
-    {
-      "id": "642369",
-      "fact": "Before writing <em>Little Women</em>, Louisa May Alcott penned stories under the pseudonyms Flora Fairfield and A.M. Barnard."
-    }
+    { "id": "553419", "fact": "“Horizontal refreshment” was a 19th century slang term for sex." }
   ],
   "idiom": {
     "id": "mad-as-a-hatter",

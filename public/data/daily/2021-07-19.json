@@ -61,21 +61,12 @@
   },
   "funFacts": [
     { "id": "357", "fact": "A baboon is a variety of lemon.", "category": ["Food"] },
-    { "id": "17", "fact": "A hummingbird weighs less than a penny.", "category": ["Animals"] },
-    {
-      "id": "44",
-      "fact": "The bullfrog is the only animal that never sleeps.",
-      "category": ["Animals", "Onlies"]
-    }
+    { "id": "17", "fact": "A hummingbird weighs less than a penny.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "553528",
       "fact": "Mr. Rogers always mentioned out loud that he was feeding his fish because a young blind viewer once asked him to do so. She wanted to know the fish were OK."
-    },
-    {
-      "id": "554050",
-      "fact": "The Palais Idéal in France is built entirely of stones a postman named Ferdinand Cheval picked up on his mail route."
     }
   ],
   "idiom": {

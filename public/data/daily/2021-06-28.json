@@ -68,20 +68,9 @@
       "id": "268",
       "fact": "One lemon tree will produce about 1,500 lemons a year.",
       "category": ["Food", "Plants"]
-    },
-    {
-      "id": "693",
-      "fact": "A male cricket's ear is located on the tibia of its leg.",
-      "category": ["Animals"]
     }
   ],
-  "funFacts2": [
-    { "id": "553728", "fact": "Humans are the only animals that blush." },
-    {
-      "id": "554020",
-      "fact": "A stork shot by a hunter in Germany in 1822 was found with a Central African spear piercing its throat, providing scientists with the first evidence for long-distance bird migration."
-    }
-  ],
+  "funFacts2": [{ "id": "553728", "fact": "Humans are the only animals that blush." }],
   "idiom": {
     "id": "set-ones-cap-for",
     "term": "set one's cap for",

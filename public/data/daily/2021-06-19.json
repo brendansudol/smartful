@@ -69,20 +69,9 @@
       "id": "988",
       "fact": "Each year, the Moon moves away from Earth by about four centimeters.",
       "category": ["Geography", "Science"]
-    },
-    {
-      "id": "106",
-      "fact": "You would weigh less on the top of a mountain than at sea level.",
-      "category": ["Science"]
     }
   ],
-  "funFacts2": [
-    { "id": "553862", "fact": "The original title for Scream was Scary Movie." },
-    {
-      "id": "553834",
-      "fact": "In The Empire Strikes Back, an extra can be seen running with what appears to be an ice cream maker. The character became legendary among fans, and was eventually given a name (Willrow Hood) and a backstory."
-    }
-  ],
+  "funFacts2": [{ "id": "553862", "fact": "The original title for Scream was Scary Movie." }],
   "idiom": {
     "id": "on-the-horns-of-a-dilemma",
     "term": "on the horns of a dilemma",

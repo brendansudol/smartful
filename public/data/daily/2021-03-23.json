@@ -69,17 +69,9 @@
       "id": "966",
       "fact": "Tennis was originally played with bare hands.",
       "category": ["History", "Hodgepodge", "Make-it-Easies", "Firsts"]
-    },
-    {
-      "id": "428",
-      "fact": "There are 118 ridges on the edge of a United States dime.",
-      "category": ["Hodgepodge"]
     }
   ],
-  "funFacts2": [
-    { "id": "554095", "fact": "J.K. Rowling invented Quidditch in a pub." },
-    { "id": "506502", "fact": "Danny DeVito is an experienced hairdresser." }
-  ],
+  "funFacts2": [{ "id": "554095", "fact": "J.K. Rowling invented Quidditch in a pub." }],
   "idiom": {
     "id": "weasel-word",
     "term": "weasel word",

@@ -64,16 +64,10 @@
       "id": "490",
       "fact": "To take lumps out of a bag of sugar, place it in the refrigerator for 24 hours.",
       "category": ["Food", "Make-it-Easies"]
-    },
-    {
-      "id": "301",
-      "fact": "William Shakespeare was born and died on the same day: April 23.",
-      "category": ["History"]
     }
   ],
   "funFacts2": [
-    { "id": "553503", "fact": "Apollo 17 astronaut Harrison Schmitt was allergic to moon dust." },
-    { "id": "553548", "fact": "We invented booze before we invented the wheel." }
+    { "id": "553503", "fact": "Apollo 17 astronaut Harrison Schmitt was allergic to moon dust." }
   ],
   "idiom": {
     "id": "perish-the-thought",

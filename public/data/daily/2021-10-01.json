@@ -1,0 +1,127 @@
+{
+  "artist": {
+    "id": "johann-moritz-rugendas",
+    "name": "Johann Moritz Rugendas",
+    "dates": "Mar 29, 1802 - May 29, 1858",
+    "mainImg": "img/art/artists/johann-moritz-rugendas.jpg",
+    "artworkImgs": [
+      {
+        "name": "Rua Direita no Rio de Janeiro",
+        "path": "img/art/artworks/johann-moritz-rugendas-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/rua-direita-no-rio-de-janeiro-rugendas/iwH2jLRXHt-Zlw"
+      },
+      {
+        "name": "Danse Batuca",
+        "path": "img/art/artworks/johann-moritz-rugendas-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/danse-batuca-rugendas-johann-moritz-1802-1858/IgFrBuf_II3Nxg"
+      },
+      {
+        "name": "Paisagem com cavaleiro",
+        "path": "img/art/artworks/johann-moritz-rugendas-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/paisagem-com-cavaleiro-johann-moritz-rugendas/vAEb5IoMcGzqlA"
+      },
+      {
+        "name": "Aldea des Tapuyos",
+        "path": "img/art/artworks/johann-moritz-rugendas-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/aldea-des-tapuyos-rugendas/UwGW9jR_ddgDbg"
+      },
+      {
+        "name": "Lundu dance",
+        "path": "img/art/artworks/johann-moritz-rugendas-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lundu-dance-rugendas-johann-moritz-1802-1858/8AHpE_pAGYWI9g"
+      },
+      {
+        "name": "Manners of Rio de Janeiro",
+        "path": "img/art/artworks/johann-moritz-rugendas-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/manners-of-rio-de-janeiro-rugendas-johann-moritz-1802-1858/vAHCVYFQqfXBSA"
+      }
+    ],
+    "summary": [
+      "Johann Moritz Rugendas was a German painter, famous in the first half of the 19th century for his works depicting landscapes and ethnographic subjects in several countries in the Americas. Rugendas is considered \"by far the most varied and important of the European artists to visit Latin America.\" He was influenced by Alexander von Humboldt. Rugendas is also the subject of César Aira's 2000 novel, An Episode in the Life of a Landscape Painter."
+    ],
+    "quote": null,
+    "movements": ["Romanticism"],
+    "mediums": ["Engraving", "Graphite", "Ink", "India ink", "Oil paint", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Johann_Moritz_Rugendas",
+    "urlGoogle": "https://artsandculture.google.com/entity/johann-moritz-rugendas/m05yckf"
+  },
+  "event": {
+    "id": "deepwater-horizon-oil-spill",
+    "name": "Deepwater Horizon oil spill",
+    "dates": "Apr 20, 2010",
+    "mainImg": "img/events/deepwater-horizon-oil-spill.jpg",
+    "summary": [
+      "The Deepwater Horizon oil spill was an industrial disaster that began on April 20, 2010, in the Gulf of Mexico on the BP-operated Macondo Prospect, considered to be the largest marine oil spill in the history of the petroleum industry and estimated to be 8 percent to 31 percent larger in volume than the previous largest, the Ixtoc I oil spill, also in the Gulf of Mexico. The U.S. federal government estimated the total discharge at 4.9 million barrels. After several failed efforts to contain the flow, the well was declared sealed on September 19, 2010. Reports in early 2012 indicated that the well site was still leaking. The Deepwater Horizon oil spill is regarded as one of the largest environmental disasters in American history.",
+      "A massive response ensued to protect beaches, wetlands and estuaries from the spreading oil utilizing skimmer ships, floating booms, controlled burns and 1.84 million US gallons of oil dispersant. Due to the months-long spill, along with adverse effects from the response and cleanup activities, extensive damage to marine and wildlife habitats and fishing and tourism industries was reported."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill",
+    "urlGoogle": "https://artsandculture.google.com/entity/deepwater-horizon-oil-spill/m0bs5k0_"
+  },
+  "funFacts": [
+    { "id": "148", "fact": "The tallest man was 8 ft. 11 in.", "category": ["Anatomy"] },
+    {
+      "id": "729",
+      "fact": "Twins have a very high occurrence of left handedness.",
+      "category": ["Habits", "Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504746",
+      "fact": "Fredric Baur invented the Pringles can. When he passed away in 2008, his ashes were buried in one."
+    }
+  ],
+  "idiom": {
+    "id": "look-a-gift-horse-in-the-mouth",
+    "term": "look a gift horse in the mouth",
+    "definition": "Be critical or suspicious of something received at no cost. For example, *Dad's old car is full of dents, but we shouldn't look a gift horse in the mouth.* This term, generally expressed as a cautionary proverb (*Don't look a gift horse in the mouth*), has been traced to the writings of the 4th-century cleric, St. Jerome, and has appeared in English since about 1500. It alludes to determining the age of a horse by looking at its teeth."
+  },
+  "person": {
+    "id": "shirley-chisholm",
+    "name": "Shirley Chisholm",
+    "dates": "Nov 30, 1924 - Jan 1, 2005",
+    "mainImg": "img/people/shirley-chisholm.jpg",
+    "summary": [
+      "Shirley Anita Chisholm was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress, and she represented New York's 12th congressional district for seven terms from 1969 to 1983. In the 1972 United States presidential election, she became the first black candidate for a major party's nomination for President of the United States, and the first woman to run for the Democratic Party's presidential nomination, as well as the first woman to appear in a United States presidential debate.",
+      "In 2015, Chisholm was posthumously awarded the Presidential Medal of Freedom."
+    ],
+    "quote": "“At present, our country needs women's idealism and determination, perhaps more in politics than anywhere else.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+    "urlGoogle": "https://artsandculture.google.com/entity/shirley-chisholm/m02qt3_"
+  },
+  "place": {
+    "id": "lubeck",
+    "name": "Lübeck",
+    "mainImg": "img/places/lubeck.jpg",
+    "summary": [
+      "Lübeck, officially the Hanseatic City of Lübeck",
+      ", is a city in Schleswig-Holstein, northern Germany, and one of the major ports of Germany. On the river Trave, it was the leading city of the Hanseatic League, and because of its extensive Brick Gothic architecture, it is listed by UNESCO as a World Heritage Site. In 2015, it had a population of 218,523.",
+      "The old part of Lübeck is on an island enclosed by the Trave. The Elbe–Lübeck Canal connects the Trave with the Elbe River. Another important river near the town centre is the Wakenitz. Autobahn 1 connects Lübeck with Hamburg and Denmark. Travemünde is a sea resort and ferry port on the coast of the Baltic Sea. Lübeck Hauptbahnhof links Lübeck to a number of railway lines, notably the line to Hamburg."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/L%C3%BCbeck",
+    "urlGoogle": "https://artsandculture.google.com/entity/lübeck/m04hhb"
+  },
+  "wiki": {
+    "id": "gyeongju",
+    "name": "Gyeongju",
+    "summary": "Gyeongju is a city and prominent tourist destination in eastern South Korea. It lies in the far southeastern corner of North Gyeongsang Province, on the coast of the Sea of Japan. Numerous low mountains, outliers of the Taebaek range, are scattered throughout the city. Gyeongju was the capital of the ancient kingdom of Silla, a fact to which it owes its present-day prominence. The Silla kingdom arose at the turn of the 1st millennium, and ruled most of the Korean Peninsula from the 7th to the 9th centuries. A vast number of sites from this period remain in the city today. After the kingdom fell, the city gradually declined in importance. Today Gyeongju is a typical medium-sized city, having shared in the economic, demographic, and social trends that have shaped modern South Korea. However, amidst these trends the city has retained a distinctive identity. In tourism, it is one of South Korea's most well-known destinations. In manufacturing, it profits from its proximity to major industrial centers such as Ulsan. Gyeongju is connected to nationwide rail and expressway networks, which facilitate both industrial and tourist traffic.",
+    "url": "https://en.wikipedia.org/wiki/Gyeongju"
+  },
+  "word": {
+    "id": "veld",
+    "word": "veld",
+    "url": "https://www.merriam-webster.com/dictionary/veld",
+    "partOfSpeech": "noun",
+    "pronunciation": "VELT",
+    "audioPath": "audio/words/veld.mp3",
+    "definitions": [
+      "a grassland especially of southern Africa usually with scattered shrubs or trees"
+    ],
+    "examples": [
+      "\"Less than 200 years ago, thousands upon thousands of quaggas roamed the grassy veld of southern Africa.\" (Sharon Begley, _Newsweek_, June 18, 1984)"
+    ],
+    "origin": "\"Veld\" (also spelled \"veldt\") comes from Afrikaans, the language of the Afrikaners, the descendants of the Dutch and Huguenot people who settled in southern Africa in the 17th century. Literally, \"veld\" means \"field,\" and is akin to \"feld,\" the Old English predecessor of \"field.\" English speakers adopted the Africa-specific sense of \"veld\" in the 19th century. \"Veld\" refers to open country in southern Africa. Different regions of \"veld\" are distinguished by their elevations. There is the Highveld, the Lowveld, and the Middle Veld, each with different geographical characteristics. Another term associated with \"veld\" is \"kopje\" (or “koppie” -- both are pronounced \\\\KAH-pee). This word came to English from Afrikaans (and ultimately from a Dutch word meaning \"small head\" or \"cup\") and refers to a small hill, particularly one on the African veld."
+  }
+}

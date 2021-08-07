@@ -1,0 +1,134 @@
+{
+  "artist": {
+    "id": "wojciech-kossak",
+    "name": "Wojciech Kossak",
+    "dates": "Dec 31, 1856 - Jul 29, 1942",
+    "mainImg": "img/art/artists/wojciech-kossak.jpg",
+    "artworkImgs": [
+      {
+        "name": "Original film programme for “Pan Tadeusz” (1928)",
+        "path": "img/art/artworks/wojciech-kossak-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/original-film-programme-for-“pan-tadeusz”-1928-wojciech-kossak/igHre1lxd05yaw"
+      },
+      {
+        "name": "Yulianna Avdeeva (Rosja), I nagroda w XVI Konkursie (2010), z Orkiestrą Symfoniczną Filharmonii Narodowej pod dyrekcją Antoniego Wita",
+        "path": "img/art/artworks/wojciech-kossak-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/yulianna-avdeeva-rosja-i-nagroda-w-xvi-konkursie-2010-z-orkiestrą-symfoniczną-filharmonii-narodowej-pod-dyrekcją-antoniego-wita-wojciech-grędziński/CwFnTfsBvyhNfA"
+      },
+      {
+        "name": "French cuirassier",
+        "path": "img/art/artworks/wojciech-kossak-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/french-cuirassier-wojciech-kossak-1856-1942/7wEILRaLhADbmA"
+      },
+      {
+        "name": "Polski Fiat [Polish Fiat]",
+        "path": "img/art/artworks/wojciech-kossak-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/polski-fiat-polish-fiat-wojciech-kossak/TAF34d0G8XdNRg"
+      },
+      {
+        "name": "Kościuszko and scythemen",
+        "path": "img/art/artworks/wojciech-kossak-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/kościuszko-and-scythemen-wojciech-kossak/hgEGyGskmE07hA"
+      },
+      {
+        "name": "Jurorzy XVI Konkursu (2010). Od lewej: Nelson Freire, Michie Koyama, Philippe Entremont, Adam Harasiewicz, Martha Argerich, Bella Davidovich, Kevin Kenner, Piotr Paleczny, Fou Ts'Ong, Albert Grudziński, Dang Thai Son, Katarzyna Popowa-Zydroń, Andrzej Jasiński",
+        "path": "img/art/artworks/wojciech-kossak-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/jurorzy-xvi-konkursu-2010-od-lewej-nelson-freire-michie-koyama-philippe-entremont-adam-harasiewicz-martha-argerich-bella-davidovich-kevin-kenner-piotr-paleczny-fou-ts-ong-albert-grudziński-dang-thai-son-katarzyna-popowa-zydroń-andrzej-jasiński-wojciech-grędziński/1wHUvFKrAzf6ig"
+      }
+    ],
+    "summary": [
+      "Wojciech Horacy Kossak was a noted Polish painter and member of the celebrated Kossak family of artists and writers. He was the son of painter Juliusz Kossak, and twin brother of freedom fighter Tadeusz Kossak, and the father of two highly talented literary daughters, Maria Pawlikowska-Jasnorzewska and Magdalena Samozwaniec and of a painter son, Jerzy Kossak."
+    ],
+    "quote": null,
+    "movements": ["Realism"],
+    "mediums": ["Oil paint", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Wojciech_Kossak",
+    "urlGoogle": "https://artsandculture.google.com/entity/wojciech-kossak/m04v6cm"
+  },
+  "event": {
+    "id": "great-fire-of-london",
+    "name": "Great Fire of London",
+    "dates": "Sep 2, 1666 - Sep 6, 1666",
+    "mainImg": "img/events/great-fire-of-london.jpg",
+    "summary": [
+      "The Great Fire of London swept through the central parts of the English city from Sunday, 2 September to Thursday, 6 September 1666. The fire gutted the medieval City of London inside the old Roman city wall. It threatened but did not reach the City of Westminster, Charles II's Palace of Whitehall, or most of the suburban slums. It destroyed 13,200 houses, 87 parish churches, St Paul's Cathedral, and most of the buildings of the City authorities. It is estimated to have destroyed the homes of 70,000 of the city's 80,000 inhabitants.",
+      "The death toll is unknown but was traditionally thought to have been relatively small, as only six verified deaths were recorded. This reasoning has recently been challenged on the grounds that the deaths of poor and middle-class people were not recorded; moreover, the heat of the fire may have cremated many victims, leaving no recognisable remains. A melted piece of pottery on display at the Museum of London found by archaeologists in Pudding Lane, where the fire started, shows that the temperature reached 1,250 °C."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+    "urlGoogle": "https://artsandculture.google.com/entity/great-fire-of-london/m0374t"
+  },
+  "funFacts": [
+    {
+      "id": "285",
+      "fact": "In ancient Rome, lemons were used as an antidote to all poisons.",
+      "category": ["Food", "History"]
+    },
+    {
+      "id": "123",
+      "fact": "Beavers were once the size of bears.",
+      "category": ["Animals", "History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554030",
+      "fact": "The dragon tree of the Canary Islands is famous for its thick, deep-red sap. Called dragon's blood, the resin might be responsible for the intense hue of the famous Stradivarius violins built in the 17th and 18th centuries."
+    }
+  ],
+  "idiom": {
+    "id": "couch-potato",
+    "term": "couch potato",
+    "definition": "A person who incessantly watches television to the exclusion of more active pursuits. The potato may either allude to an inert vegetable or be a play on *boob tuber,* slang for a television watcher (a potato being a tuber). It also may allude to the person's consumption of junk food such as potato chips while watching. [1970s]"
+  },
+  "person": {
+    "id": "gaston-henry-haye",
+    "name": "Gaston Henry-Haye",
+    "dates": "Feb 6, 1890 - Oct 16, 1983",
+    "mainImg": "img/people/gaston-henry-haye.jpg",
+    "summary": [
+      "Gaston Henry-Haye was a merchant, French politician and diplomat.",
+      "He served in the French Chamber of Deputies from 1928 to 1935, and in the French Senate from 1935-1944. He was also Mayor of Versailles from 1935-1944. Henry-Haye voted full powers to Marshal Philippe Pétain on 10 July 1940, and was appointed by Petain as Ambassador of Vichy France to the United States in 1940 after the armistice between Vichy France and Germany. His photograph was featured on the cover of Time Magazine on 10 March 1941.",
+      "Henry-Haye was interned by the United States in 1942, following the occupation of Vichy France by Nazi Germany. This internment of a diplomat was unusual, as no state of war existed between Vichy France and the United States. He was allowed to return to Vichy France in 1944, but escaped to South Africa after threats of death by the French Resistance. Henry-Haye returned to France in 1950. He returned to public notice in 1966 when he successfully sued author H. Montgomery Hyde for libel."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gaston_Henry-Haye",
+    "urlGoogle": "https://artsandculture.google.com/entity/gaston-henry-haye/m0g55rz1"
+  },
+  "place": {
+    "id": "dublin",
+    "name": "Dublin",
+    "mainImg": "img/places/dublin.jpg",
+    "summary": [
+      "Dublin is the capital and largest city of Ireland. Situated on a bay on the east coast, at the mouth of the River Liffey, it lies within the province of Leinster. It is bordered on the south by the Dublin Mountains, a part of the Wicklow Mountains range. It has an urban area population of 1,173,179, while the population of the Dublin Region as of 2016 was 1,347,359. The population of the Greater Dublin Area was 1,904,806 per the 2016 census.",
+      "There is archaeological debate regarding precisely where Dublin was established by the Gaels in or before the 7th century AD. Later expanded as a Viking settlement, the Kingdom of Dublin, the city became Ireland's principal settlement following the Norman invasion. The city expanded rapidly from the 17th century and was briefly the second largest city in the British Empire before the Acts of Union in 1800. Following the partition of Ireland in 1922, Dublin became the capital of the Irish Free State, later renamed Ireland.",
+      "Dublin is a historical and contemporary centre for education, the arts, administration and industry."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Dublin",
+    "urlGoogle": "https://artsandculture.google.com/entity/dublin/m02cft"
+  },
+  "wiki": {
+    "id": "adi-shankara",
+    "name": "Adi Shankara",
+    "summary": "Adi Shankara was the first philosopher to consolidate the doctrine of Advaita Vedanta, a sub-school of Vedanta. His teachings are based on the unity of the soul and God, in which God is viewed as simultaneously personal and attributeless. In the Smārta tradition, Adi Shankara is regarded as an incarnation of Shiva. Adi Shankara toured India with the purpose of propagating his teachings through discourses and debates with other philosophers. He founded four mathas which played a key role in the historical development and spread of Hinduism and Advaita Vedanta. Adi Shankara was the founder of the Dashanami monastic order and the Shanmata tradition of worship. His works in Sanskrit, all of which are extant today, concern themselves with establishing the doctrine of Advaita (Sanskrit, \"Non-dualism\"). Adi Shankara quotes extensively from the Upanishads and other Hindu scriptures in forming his teachings. He also includes polemics against opposing schools of thought like Samkhya and Buddhism in his works.",
+    "url": "https://en.wikipedia.org/wiki/Adi_Shankara"
+  },
+  "word": {
+    "id": "diaphanous",
+    "word": "diaphanous",
+    "url": "https://www.merriam-webster.com/dictionary/diaphanous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dye-AF-uh-nus",
+    "audioPath": "audio/words/diaphanous.mp3",
+    "definitions": [
+      "of so fine a texture as to be transparent",
+      "characterized by extreme delicacy of form : ethereal",
+      "insubstantial, vague"
+    ],
+    "examples": [
+      "The honeymoon suite has a balcony overlooking the ocean and is furnished with an antique four-poster bed enveloped in a diaphanous curtain."
+    ],
+    "origin": "Can you guess which of the following words come from the same Greek root as \"diaphanous\"?"
+  }
+}

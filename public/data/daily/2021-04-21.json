@@ -76,17 +76,9 @@
       "id": "806",
       "fact": "In Albania, nodding your head means no and shaking your head means yes.",
       "category": ["Hodgepodge"]
-    },
-    {
-      "id": "971",
-      "fact": "Charlie Chaplin failed to make the finals of a Charlie Chaplin look-alike contest.",
-      "category": ["History"]
     }
   ],
-  "funFacts2": [
-    { "id": "554253", "fact": "IKEA consumes about 1 percent of the world's lumber." },
-    { "id": "522215", "fact": "Chinese checkers was invented in Germany." }
-  ],
+  "funFacts2": [{ "id": "554253", "fact": "IKEA consumes about 1 percent of the world's lumber." }],
   "idiom": {
     "id": "of-the-first-water",
     "term": "of the first water",

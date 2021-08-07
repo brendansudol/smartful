@@ -65,17 +65,9 @@
       "id": "403",
       "fact": "The largest hailstone ever recorded in the U.S. was 17.5 inches around.",
       "category": ["Science"]
-    },
-    {
-      "id": "321",
-      "fact": "The word \"purple\" does not rhyme with any other word in the English language.",
-      "category": ["Hodgepodge"]
     }
   ],
-  "funFacts2": [
-    { "id": "554036", "fact": "The heads on Easter Island have bodies." },
-    { "id": "505479", "fact": "Yoda was partly modeled after a photo of Albert Einstein." }
-  ],
+  "funFacts2": [{ "id": "554036", "fact": "The heads on Easter Island have bodies." }],
   "idiom": {
     "id": "a-feather-in-ones-cap",
     "term": "a feather in one's cap",

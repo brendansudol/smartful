@@ -1,0 +1,129 @@
+{
+  "artist": {
+    "id": "taryn-simon",
+    "name": "Taryn Simon",
+    "dates": "Born Feb 4, 1975",
+    "mainImg": "img/art/artists/taryn-simon.jpg",
+    "artworkImgs": [
+      {
+        "name": "\"Taryn Simon: A Living Man Declared Dead and Other Chapters I-XVIII\" Installation View",
+        "path": "img/art/artworks/taryn-simon-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/taryn-simon-a-living-man-declared-dead-and-other-chapters-i-xviii-installation-view/KgHUPh3J2ZLkEA"
+      },
+      {
+        "name": "Chapter XV",
+        "path": "img/art/artworks/taryn-simon-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/chapter-xv-taryn-simon/uwGi7_u0meOXeQ"
+      },
+      {
+        "name": "\"Taryn Simon: A Living Man Declared Dead and Other Chapters I-XVIII\" Installation View",
+        "path": "img/art/artworks/taryn-simon-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/taryn-simon-a-living-man-declared-dead-and-other-chapters-i-xviii-installation-view/WAE9NLjXFoPsDg"
+      },
+      {
+        "name": "Chapter V",
+        "path": "img/art/artworks/taryn-simon-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/chapter-v-taryn-simon/FgFLKqCxGsTvig"
+      },
+      {
+        "name": "Paperwork, and the Will of Capital",
+        "path": "img/art/artworks/taryn-simon-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/paperwork-and-the-will-of-capital-taryn-simon/OQFJ9NstOnBjjg"
+      },
+      {
+        "name": "\"Taryn Simon: A Living Man Declared Dead and Other Chapters I-XVIII\" Installation View",
+        "path": "img/art/artworks/taryn-simon-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/taryn-simon-a-living-man-declared-dead-and-other-chapters-i-xviii-installation-view/7wEybOBK-jqWsg"
+      }
+    ],
+    "summary": [
+      "Taryn Simon is an American multidisciplinary artist who works in photography, text, sculpture, and performance.",
+      "Currently residing and maintaining a studio practice in New York City, Simon has had work featured in the Venice Biennale. In 2001, Simon was selected as a Guggenheim Fellow."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art"],
+    "mediums": ["Photograph", "Concrete", "Iron", "Ink", "Metal", "Steel"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Taryn_Simon",
+    "urlGoogle": "https://artsandculture.google.com/entity/taryn-simon/m0271r17"
+  },
+  "event": {
+    "id": "landing-at-anzac-cove",
+    "name": "Landing at Anzac Cove",
+    "dates": null,
+    "mainImg": "img/events/landing-at-anzac-cove.jpg",
+    "summary": [
+      "The landing at Anzac Cove on Sunday, 25 April 1915, also known as the landing at Gaba Tepe, and to the Turks as the Arıburnu Battle, was part of the amphibious invasion of the Gallipoli Peninsula by the forces of the British Empire, which began the land phase of the Gallipoli Campaign of the First World War.",
+      "The assault troops, mostly from the Australian and New Zealand Army Corps, landed at night on the western side of the peninsula. They were put ashore one mile north of their intended landing beach. In the darkness, the assault formations became mixed up, but the troops gradually made their way inland, under increasing opposition from the Ottoman Turkish defenders. Not long after coming ashore the ANZAC plans were discarded, and the companies and battalions were thrown into battle piece-meal, and received mixed orders. Some advanced to their designated objectives while others were diverted to other areas, then ordered to dig in along defensive ridge lines.",
+      "Although they failed to achieve their objectives, by nightfall the ANZACs had formed a beachhead, albeit much smaller than intended. In places they were clinging onto cliff faces with no organised defence system."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Landing_at_Anzac_Cove",
+    "urlGoogle": "https://artsandculture.google.com/entity/landing-at-anzac-cove/m02lkrh"
+  },
+  "funFacts": [
+    {
+      "id": "249",
+      "fact": "The 1st public message to be transmitted via Morse code was \"A patient waiter is no loser.\"",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "181",
+      "fact": "The first jukebox was located in San Francisco in 1899.",
+      "category": ["Firsts"]
+    }
+  ],
+  "funFacts2": [{ "id": "554045", "fact": "Barbie's full name is Barbara Millicent Roberts." }],
+  "idiom": {
+    "id": "more-fun-than-a-barrel-of-monkeys",
+    "term": "more fun than a barrel of monkeys",
+    "definition": "Very amusing or diverting, as in *That video game was more fun than a barrel of monkeys.* This expression, first recorded in 1895, alludes to the playful behavior of these primates. The synonymous colloquialism *barrel of laughs* dates from 1915."
+  },
+  "person": {
+    "id": "che-guevara",
+    "name": "Che Guevara",
+    "dates": "Jun 14, 1928 - Oct 9, 1967",
+    "mainImg": "img/people/che-guevara.jpg",
+    "summary": [
+      "Ernesto \"Che\" Guevara de la Serna was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.",
+      "As a young medical student, Guevara traveled throughout South America and was radicalized by the poverty, hunger, and disease he witnessed. His burgeoning desire to help overturn what he saw as the capitalist exploitation of Latin America by the United States prompted his involvement in Guatemala's social reforms under President Jacobo Árbenz, whose eventual CIA-assisted overthrow at the behest of the United Fruit Company solidified Guevara's political ideology. Later in Mexico City, Guevara met Raúl and Fidel Castro, joined their 26th of July Movement, and sailed to Cuba aboard the yacht Granma with the intention of overthrowing U.S.-backed Cuban dictator Fulgencio Batista. Guevara soon rose to prominence among the insurgents, was promoted to second in command and played a pivotal role in the victorious two-year guerrilla campaign that deposed the Batista regime."
+    ],
+    "quote": "“Many will call me an adventurer - and that I am, only one of a different sort: one of those who risks his skin to prove his platitudes.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Che_Guevara",
+    "urlGoogle": "https://artsandculture.google.com/entity/che-guevara/m0d39k"
+  },
+  "place": {
+    "id": "madrid",
+    "name": "Madrid",
+    "mainImg": "img/places/madrid.jpg",
+    "summary": [
+      "Madrid is the capital and most populous city of Spain. The city has almost 3.3 million inhabitants and a metropolitan area population of approximately 6.5 million. It is the second-largest city in the European Union, surpassed only by Berlin, and its monocentric metropolitan area is the second-largest in the EU, smaller only than Paris. The municipality covers 604.3 km².",
+      "Madrid lies on the River Manzanares in the centre of both the country and the Community of Madrid region, of which it is also the capital. As the capital city of Spain, seat of government, residence of the Spanish monarch, Madrid is also the political, economic and cultural centre of the country. The current mayor is José Luis Martínez-Almeida from the People's Party.",
+      "The Madrid urban agglomeration has the third-largest GDP in the European Union and its influence in politics, education, entertainment, environment, media, fashion, science, culture, and the arts all contribute to its status as one of the world's major global cities. Madrid is home to two world-famous football clubs, Real Madrid and Atlético Madrid. Due to its economic output, high standard of living, and market size, Madrid is considered"
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Madrid",
+    "urlGoogle": "https://artsandculture.google.com/entity/madrid/m056_y"
+  },
+  "wiki": {
+    "id": "edward-low",
+    "name": "Edward Low",
+    "summary": "Edward Low was a notorious pirate during the latter days of the Golden Age of Piracy, in the early 18th century. He was born around 1690 into poverty in Westminster, London, and was a thief and a scoundrel from a young age. Low moved to Boston, Massachusetts as a young man. Following the death of his wife during childbirth in late 1719, he became a pirate two years later, operating off the coasts of New England, the Azores, and in the Caribbean. He captained a number of ships, usually maintaining a small fleet of three or four. Low and his pirate crews captured at least a hundred ships during his short career, burning most of them. Although he was only active for three years, Low remains notorious as one of the most vicious pirates of the age, with a reputation for violently torturing his victims before killing them. Sir Arthur Conan Doyle described Low as \"savage and desperate\", and a man of \"amazing and grotesque brutality\". The New York Times called him a torturer, whose methods would have \"done credit to the ingenuity of the Spanish Inquisition in its darkest days\". The circumstances of Low's death, which took place around 1724, have been the subject of much speculation.",
+    "url": "https://en.wikipedia.org/wiki/Edward_Low"
+  },
+  "word": {
+    "id": "telegenic",
+    "word": "telegenic",
+    "url": "https://www.merriam-webster.com/dictionary/telegenic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "tel-uh-JEN-ik",
+    "audioPath": "audio/words/telegenic.mp3",
+    "definitions": [
+      "well-suited to the medium of television; especially : having an appearance and manner that are markedly attractive to television viewers"
+    ],
+    "examples": [
+      "This year's playoffs will feature some very _telegenic_ rookies playing alongside veterans destined for the Hall of Fame.",
+      "\"What readers remember from the rolling thunder of Mailer's extravagant prose production … was the enshrouding of J.F.K. as the first movie-star politician, the avatar and launch vehicle for the suppressed libido of the country's Hollywood dream life after the long lullaby of the Eisenhower era. With J.F.K., _telegenic_ charisma became part of the package deal.\" -- From an article by James Wolcott in _Vanity Fair_, September 2010"
+    ],
+    "origin": "\"Telegenic,\" which first appeared in print in 1939, is essentially a compound formed out of \"television\" and \"photogenic.\" \"Photogenic\" is also the word that caused the addition of a new sense to \"-genic,\" namely \"suitable for production or reproduction by a given medium\" (as in the occasionally seen \"videogenic\": \"The '80s were a time that created a lot of videogenic bands who weren't necessarily compelling live artists....\" -- Ron Shapiro, quoted in _Entertainment Weekly_, September 25, 1998). \"Telegenic\" may seem like a word that would primarily refer to people, but there is evidence for telegenic events (such as popular sports), objects, and responses. Occasionally, one even sees reference to a telegenic attitude or other intangible."
+  }
+}

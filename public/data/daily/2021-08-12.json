@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "antonio-canova",
+    "name": "Antonio Canova",
+    "dates": "Nov 1, 1757 - Oct 13, 1822",
+    "mainImg": "img/art/artists/antonio-canova.jpg",
+    "artworkImgs": [
+      {
+        "name": "Venus and Adonis",
+        "path": "img/art/artworks/antonio-canova-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-and-adonis-antonio-canova/zQGFqEEJOd2Oig"
+      },
+      {
+        "name": "Hebe",
+        "path": "img/art/artworks/antonio-canova-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/hebe-antonio-canova/rQET2YOy2KmrIA"
+      },
+      {
+        "name": "Penitent Magdalene",
+        "path": "img/art/artworks/antonio-canova-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/penitent-magdalene-antonio-canova/dwHsgk8SE39wnA"
+      },
+      {
+        "name": "Hercules and Lichas",
+        "path": "img/art/artworks/antonio-canova-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/hercules-and-lichas-antonio-canova/bwF-umb5LwT0RA"
+      },
+      {
+        "name": "Theseus and the Minotaur",
+        "path": "img/art/artworks/antonio-canova-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/theseus-and-the-minotaur-antonio-canova/uAEaxNDwh_qc-A"
+      },
+      {
+        "name": "Dedalus and Icarus",
+        "path": "img/art/artworks/antonio-canova-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/dedalus-and-icarus-antonio-canova/jAFf47V_I4L3bA"
+      }
+    ],
+    "summary": [
+      "Antonio Canova was an Italian Neoclassical sculptor, famous for his marble sculptures. Often regarded as the greatest of the Neoclassical artists, his sculpture was inspired by the Baroque and the classical revival, and has been characterised as having avoided the melodramatics of the former, and the cold artificiality of the latter."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism"],
+    "mediums": ["Plaster", "Gesso", "Tempera", "Sculpture", "Rock", "Marble"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Antonio_Canova",
+    "urlGoogle": "https://artsandculture.google.com/entity/antonio-canova/m0wg4"
+  },
+  "event": {
+    "id": "armistice-of-11-november-1918",
+    "name": "Armistice of 11 November 1918",
+    "dates": null,
+    "mainImg": "img/events/armistice-of-11-november-1918.jpg",
+    "summary": [
+      "The Armistice of 11 November 1918 was the armistice signed at Le Francport near Compiègne that ended fighting on land, sea and air in World War I between the Allies and their opponent, Germany. Previous armistices had been agreed with Bulgaria, the Ottoman Empire and the Austro-Hungarian Empire. Also known as the Armistice of Compiègne from the place where it was signed at 5:45 a.m. by the French Marshal Foch, it came into force at 11:00 a.m. Paris time on 11 November 1918 and marked a victory for the Allies and a defeat for Germany, although not formally a surrender.",
+      "The actual terms, largely written by the Allied Supreme Commander, Marshal Ferdinand Foch, included the cessation of hostilities, the withdrawal of German forces to behind the Rhine, Allied occupation of the Rhineland and bridgeheads further east, the preservation of infrastructure, the surrender of aircraft, warships, and military materiel, the release of Allied prisoners of war and interned civilians, eventual reparations, no release of German prisoners and no relaxation of the naval blockade of Germany."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918",
+    "urlGoogle": "https://artsandculture.google.com/entity/armistice-of-11-november-1918/m039f0c"
+  },
+  "funFacts": [
+    {
+      "id": "280",
+      "fact": "The amount of concrete used in the Hoover Dam could build a highway from New York to California.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "882",
+      "fact": "In 1859, 24 rabbits were released in Australia. Within 6 years, the population grew to 2 million.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553929",
+      "fact": "A black cat crossing your path (from right to left) is considered good luck in Germany."
+    }
+  ],
+  "idiom": {
+    "id": "fifth-wheel",
+    "term": "fifth wheel",
+    "definition": "An extra and unnecessary person or thing, as in *He was the only one without a date, so he felt like a fifth wheel.* This expression, which alludes to an unneeded wheel on a four-wheel vehicle, may have originated as long ago as 1631, when Thomas Dekker wrote *Match Me in London:* \"Thou tiest but wings to a swift gray Hounds heel, And addest to a running Chariot a fifth wheel.\""
+  },
+  "person": {
+    "id": "julian-huxley",
+    "name": "Julian Huxley",
+    "dates": "Jun 22, 1887 - Feb 14, 1975",
+    "mainImg": "img/people/julian-huxley.jpg",
+    "summary": [
+      "Sir Julian Sorell Huxley FRS was an English evolutionary biologist, eugenicist, and internationalist. He was a proponent of natural selection, and a leading figure in the mid-twentieth century modern synthesis. He was secretary of the Zoological Society of London, the first Director of UNESCO, a founding member of the World Wildlife Fund and the first President of the British Humanist Association.",
+      "Huxley was well known for his presentation of science in books and articles, and on radio and television. He directed an Oscar-winning wildlife film. He was awarded UNESCO's Kalinga Prize for the popularisation of science in 1953, the Darwin Medal of the Royal Society in 1956, and the Darwin–Wallace Medal of the Linnaean Society in 1958. He was also knighted in that same year, 1958, a hundred years after Charles Darwin and Alfred Russel Wallace announced the theory of evolution by natural selection. In 1959 he received a Special Award of the Lasker Foundation in the category Planned Parenthood – World Population. Huxley was a prominent member of the British Eugenics Society and was its president from 1959 to 1962."
+    ],
+    "quote": "“Operationally, God is beginning to resemble not a ruler but the last fading smile of a cosmic Cheshire cat.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Julian_Huxley",
+    "urlGoogle": "https://artsandculture.google.com/entity/julian-huxley/m012km4"
+  },
+  "place": {
+    "id": "bucharest",
+    "name": "Bucharest",
+    "mainImg": "img/places/bucharest.jpg",
+    "summary": [
+      "Bucharest is the capital and largest city of Romania, as well as its cultural, industrial, and financial centre. It is located in the southeast of the country, at 44°25′57″N 26°06′14″E, on the banks of the Dâmbovița River, less than 60 km north of the Danube River and the Bulgarian border.",
+      "Bucharest was first mentioned in documents in 1459. It became the capital of Romania in 1862 and is the centre of Romanian media, culture, and art. Its architecture is a mix of historical, interbellum, communist era and modern. In the period between the two World Wars, the city's elegant architecture and the sophistication of its elite earned Bucharest the nickname of 'Paris of the East' or 'Little Paris'. Although buildings and districts in the historic city centre were heavily damaged or destroyed by war, earthquakes, and even Nicolae Ceaușescu's program of systematization, many survived and have been renovated. In recent years, the city has been experiencing an economic and cultural boom. It is one of the fastest-growing high-tech cities in Europe, according to Financial Times, CBRE, TechCrunch, and others. UiPath, a global startup founded in Bucharest, has reached $7 billion in valuation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bucharest",
+    "urlGoogle": "https://artsandculture.google.com/entity/bucharest/m096gm"
+  },
+  "wiki": {
+    "id": "louis-riel",
+    "name": "Louis Riel",
+    "summary": "Louis Riel was a Canadian politician and leader of the Métis people of western Canada. He led two resistance movements against the Canadian government that sought to preserve Métis rights and culture as their homelands came under the Canadian sphere of influence. During the first, the Red River Rebellion, the provisional government established by Riel ultimately negotiated the terms under which the modern province of Manitoba entered the Canadian Confederation. He was forced into exile as a result of the controversial execution of Thomas Scott, but in 1884 he returned to what is now the province of Saskatchewan to participate in the North-West Rebellion of 1885. It ended in his arrest, trial and eventual execution for treason. Riel was viewed sympathetically in francophone regions of Canada, and his execution has had a lasting influence on relations between the province of Quebec and English-speaking Canada. Whether he is seen as a de facto Father of Confederation or as a traitor, he remains one of the most complex, controversial and ultimately tragic figures in the history of Canada.",
+    "url": "https://en.wikipedia.org/wiki/Louis_Riel"
+  },
+  "word": {
+    "id": "neologism",
+    "word": "neologism",
+    "url": "https://www.merriam-webster.com/dictionary/neologism",
+    "partOfSpeech": "noun",
+    "pronunciation": "nee-AH-luh-jiz-um",
+    "audioPath": "audio/words/neologism.mp3",
+    "definitions": ["a new word, usage, or expression", "a meaningless word coined by a psychotic"],
+    "examples": [
+      "The novelist’s latest book is peppered with numerous slang words and neologisms that might not be familiar to some readers."
+    ],
+    "origin": "The English language is constantly picking up neologisms. Recently, for example, computer technology has added a number of new terms to the language. \"Webinar,\" \"malware,\" \"netroots,\" and \"blogosphere\" are just a few examples of modern-day neologisms that have been integrated into American English. The word \"neologism\" was itself a brand-new coinage at the beginning of the 19th century, when English speakers first borrowed it from the French \"nèologisme.\" Its roots, however, are quite old. Ultimately, \"neologism\" comes from Greek \"neos\" (meaning \"new\") and \"logos\" (meaning \"word\")."
+  }
+}

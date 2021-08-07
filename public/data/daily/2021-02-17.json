@@ -64,19 +64,13 @@
   },
   "funFacts": [
     { "id": "55", "fact": "A human brain weighs about three pounds.", "category": ["Anatomy"] },
-    { "id": "269", "fact": "Horseback riding can improve your posture.", "category": ["Animals"] },
-    {
-      "id": "165",
-      "fact": "Your eye expands up to 45% when looking at something pleasing.",
-      "category": ["Anatomy"]
-    }
+    { "id": "269", "fact": "Horseback riding can improve your posture.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "504819",
       "fact": "Plants have ways of communicating with each other. The scent of freshly cut grass is equivalent to a cry for help."
-    },
-    { "id": "553861", "fact": "There are beaches in the Maldives that glow in the dark." }
+    }
   ],
   "idiom": {
     "id": "spin-a-yarn",

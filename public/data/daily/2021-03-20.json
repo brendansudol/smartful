@@ -74,20 +74,9 @@
       "id": "189",
       "fact": "The Sahara Desert stretches farther than the distance from California to New York.",
       "category": ["Geography"]
-    },
-    {
-      "id": "979",
-      "fact": "A dimpled golf ball produces less drag and flies farther than a smooth golf ball.",
-      "category": ["Hodgepodge"]
     }
   ],
-  "funFacts2": [
-    { "id": "506379", "fact": "The plural of cul-de-sac is culs-de-sac." },
-    {
-      "id": "554085",
-      "fact": "A face with big eyes, a small nose, and a small chin exhibits kinderschema: the collection of traits humans have evolved to find adorable."
-    }
-  ],
+  "funFacts2": [{ "id": "506379", "fact": "The plural of cul-de-sac is culs-de-sac." }],
   "idiom": {
     "id": "whistle-in-the-dark",
     "term": "whistle in the dark",

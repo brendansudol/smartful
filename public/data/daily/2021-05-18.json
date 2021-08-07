@@ -64,21 +64,12 @@
       "fact": "At birth a human has 350 bones, but only 206 bones when full grown.",
       "category": ["Anatomy", "Onlies"]
     },
-    { "id": "970", "fact": "Dolphins are unable to smell.", "category": ["Animals", "Science"] },
-    {
-      "id": "753",
-      "fact": "A group of goats is called a trip.",
-      "category": ["Animals", "Definitions"]
-    }
+    { "id": "970", "fact": "Dolphins are unable to smell.", "category": ["Animals", "Science"] }
   ],
   "funFacts2": [
     {
       "id": "553842",
       "fact": "In curling, good sportsmanship and politeness are essential. Congratulating opponents on plays and abstaining from trash talk are part of what’s known as the “Spirit of Curling.”"
-    },
-    {
-      "id": "504560",
-      "fact": "A cat’s ability to see well at night is due to its tapetum lucidum, a structure that reflects visible light back through the cat’s retina. It’s also what causes the eyes' weird ‘glowing’ effect in the dark."
     }
   ],
   "idiom": {

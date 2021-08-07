@@ -1,0 +1,135 @@
+{
+  "artist": {
+    "id": "jean-francois-millet",
+    "name": "Jean-François Millet",
+    "dates": "Oct 4, 1814 - Jan 20, 1875",
+    "mainImg": "img/art/artists/jean-francois-millet.jpg",
+    "artworkImgs": [
+      {
+        "name": "Woman with a Rake",
+        "path": "img/art/artworks/jean-francois-millet-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-with-a-rake-jean-françois-millet/ygEZe4814KvkVA"
+      },
+      {
+        "name": "The Gleaners",
+        "path": "img/art/artworks/jean-francois-millet-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-gleaners-jean-françois-millet/kwH07oo1QPMftQ"
+      },
+      {
+        "name": "Man with a Hoe",
+        "path": "img/art/artworks/jean-francois-millet-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/man-with-a-hoe/6wFIwRQax4YxXg"
+      },
+      {
+        "name": "Woman Sewing by Lamplight",
+        "path": "img/art/artworks/jean-francois-millet-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-sewing-by-lamplight-jean-françois-millet/BgEAaV-qZzMX3A"
+      },
+      {
+        "name": "Cliffs of Gréville",
+        "path": "img/art/artworks/jean-francois-millet-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/cliffs-of-gréville-jean-françois-millet/wAGoKNOL4tXgwg"
+      },
+      {
+        "name": "Haystacks: Autumn",
+        "path": "img/art/artworks/jean-francois-millet-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/haystacks-autumn-jean-françois-millet/JQGlqn8fpIfGnA"
+      }
+    ],
+    "summary": [
+      "Jean-François Millet was a French artist and one of the founders of the Barbizon school in rural France. Millet is noted for his paintings of peasant farmers and can be categorized as part of the Realism art movement. Toward the end of his career he became increasingly interested in painting pure landscapes. He is known best for his oil paintings but is also noted for his pastels, conte crayon drawings, and etchings."
+    ],
+    "quote": null,
+    "movements": ["Realism", "Barbizon school", "American Renaissance"],
+    "mediums": ["Etching", "Drawing", "Oil paint", "Ink", "Laid paper", "Crayon"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Millet",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-françois-millet/m0452w"
+  },
+  "event": {
+    "id": "siege-of-leningrad",
+    "name": "Siege of Leningrad",
+    "dates": "Sep 8, 1941 - Jan 27, 1944",
+    "mainImg": "img/events/siege-of-leningrad.jpg",
+    "summary": [
+      "The siege of Leningrad was a prolonged military blockade undertaken from the south by the Army Group North of Nazi Germany against the Soviet city of Leningrad on the Eastern Front in World War II. The Finnish army invaded from the north, co-operating with the Germans until Finland had recaptured territory lost in the recent Winter War, but refused to make further approaches to the city. Also co-operating with the Germans since 1942 in August: the Spanish Blue Division that was transferred to the southeastern flank of the siege of Leningrad, just south of the Neva near Pushkin, Kolpino and its main intervention was in Krasny Bor in the Izhora River area.",
+      "The siege began on the 8 September 1941, when the Wehrmacht severed the last road to the city. Although Soviet forces managed to open a narrow land corridor to the city on 18 January 1943, the Red Army did not lift the siege until 27 January 1944, 872 days after it began. The blockade became one of the longest and most destructive sieges in history, and possibly the costliest in casualties suffered. Some historians classify it as genocide."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Leningrad",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-leningrad/m01w88x"
+  },
+  "funFacts": [
+    {
+      "id": "452",
+      "fact": "There are approximately 9,000 taste buds on your tongue.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "735",
+      "fact": "A full moon is nine times brighter than a half moon.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553282",
+      "fact": "Despite producing 95 percent of the world’s bourbon supply, the official drink of Kentucky is milk."
+    }
+  ],
+  "idiom": {
+    "id": "cut-the-mustard",
+    "term": "cut the mustard",
+    "definition": "Perform satisfactorily, as in *We need a better catcher; this one just doesn't cut the mustard.* The origin of this expression is disputed. Some believe it alludes to *mustard* in the sense of the best or main attraction (owing to its spicing up food), whereas others believe it is a corruption of **pass muster**. Still others hold that it concerns the preparation of mustard, which involves adding vinegar to mustard seed to \"cut\" (reduce) its bitterness. The expression is often in negative form, as in the example. [Slang; c. 1900]"
+  },
+  "person": {
+    "id": "mongkut",
+    "name": "Mongkut",
+    "dates": "Oct 18, 1804 - Oct 1, 1868",
+    "mainImg": "img/people/mongkut.jpg",
+    "summary": [
+      "Mongkut, also known as King Rama IV, reigning title Phra Chom Klao Chao Yu Hua, was the fourth monarch of Siam under the House of Chakri, ruling from 1851 to 1868.",
+      "Outside Thailand, he is best known as the king in the 1951 musical and 1956 film The King and I, based on the 1946 film Anna and the King of Siam – in turn based on a 1944 novel by an American missionary about Anna Leonowens' years at his court, from 1862 to 1867.",
+      "Siam first felt the pressure of Western expansionism during his reign. Mongkut embraced Western innovations and initiated the modernization of his country, both in technology and culture—earning him the nickname \"The Father of Science and Technology\" in Siam.",
+      "Mongkut was also known for appointing his brother, Prince Chutamani, as Second King, crowned in 1851 as King Pinklao. Mongkut assured the country that Pinklao should be respected with equal honor to himself. During Mongkut's reign, the power of the House of Bunnag reached its zenith: It became the most powerful noble family of Siam."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Mongkut",
+    "urlGoogle": "https://artsandculture.google.com/entity/mongkut/m01jz1k"
+  },
+  "place": {
+    "id": "beirut",
+    "name": "Beirut",
+    "mainImg": "img/places/beirut.jpg",
+    "summary": [
+      "Beirut is the capital and largest city of Lebanon. No recent population census has been conducted, but 2007 estimates ranged from slightly more than 1 million to 2.2 million as part of Greater Beirut, which makes it the third-largest city in the Levant region and the fifteenth-largest in the Arab world. Located on a peninsula at the midpoint of Lebanon's Mediterranean coast, Beirut is an important regional seaport.",
+      "It is one of the oldest cities in the world, having been inhabited for more than 5,000 years. The first historical mention of Beirut is found in the Amarna letters from the New Kingdom of Egypt, which date to the 15th century BC.",
+      "Beirut is Lebanon's seat of government and plays a central role in the Lebanese economy, with most banks and corporations based in its Central District, Badaro, Rue Verdun, Hamra, Ryad el Soleh street, and Achrafieh. Following the destructive Lebanese Civil War, Beirut's cultural landscape underwent major reconstruction. Identified and graded for accountancy, advertising, banking, finance and law, Beirut is ranked as a Beta World City by the Globalization and World Cities Research Network."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Beirut",
+    "urlGoogle": "https://artsandculture.google.com/entity/beirut/m09bjv"
+  },
+  "wiki": {
+    "id": "ambohimanga",
+    "name": "Ambohimanga",
+    "summary": "Ambohimanga is a hill and traditional fortified royal settlement (rova) in Madagascar, located approximately 24 kilometers (15 mi) northeast of the capital city of Antananarivo. The hill and the rova are considered the most significant symbol of the cultural identity of the Merina people and the most important and best-preserved monument of the precolonial Kingdom of Madagascar. The walled historic village includes tombs of the Vazimba, the island's first inhabitants, and the residences and burial sites of several key monarchs. It remains a place of worship to which pilgrims come. Founded by King Andriamasinavalona (1675–1710) as the capital of the Avaradrano region, Ambohimanga is one of the twelve sacred hills of Imerina and contains the house of King Andrianampoinimerina (1787–1810), who led the successful effort to unify most of Madagascar under Merina rule. Ambohimanga was added to the list of UNESCO World Heritage Sites in 2001. Its historic sister city, the Rova of Antananarivo, was destroyed by fire in 1995. Numerous governmental and civil society organizations support the conservation of Ambohimanga by restoring damaged features and preventing further degradation.",
+    "url": "https://en.wikipedia.org/wiki/Ambohimanga"
+  },
+  "word": {
+    "id": "loquacious",
+    "word": "loquacious",
+    "url": "https://www.merriam-webster.com/dictionary/loquacious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "loh-KWAY-shus",
+    "audioPath": "audio/words/loquacious.mp3",
+    "definitions": [
+      "full of excessive talk : wordy",
+      "given to fluent or excessive talk : garrulous"
+    ],
+    "examples": [
+      "The children were _loquacious_ on the car ride back from the zoo, chattering endlessly about all the animals they saw.",
+      "\"As the week sped by, we decided to take a break from our paradise for a jungle trip with the delightful, _loquacious_ ‘Uncle Yip’, the resident nature expert. He started with a lecture and a detailed analysis of the flowers in the foyer.\" - From an article by Imogen Stubbs in _Harper's_, February 2012"
+    ],
+    "origin": "When you hear or say \"loquacious,\" you might notice that the word has a certain poetic ring. In fact, poets quickly snatched up \"loquacious\" soon after its debut in 1656 and, with poetic license, stretched its meaning to include such things as the chattering of birds and the babbling of brooks. In less poetic uses, \"loquacious\" usually means \"excessively talkative.\" The ultimate source of all this chattiness is \"loqui,\" a Latin verb meaning \"to speak.\" Other words descended from \"loqui\" include \"colloquial,\" \"eloquent,\" \"soliloquy,\" and \"ventriloquism.\""
+  }
+}

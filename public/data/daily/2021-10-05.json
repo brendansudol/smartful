@@ -1,0 +1,127 @@
+{
+  "artist": {
+    "id": "alberto-savinio",
+    "name": "Alberto Savinio",
+    "dates": "Aug 25, 1891 - May 5, 1952",
+    "mainImg": "img/art/artists/alberto-savinio.jpg",
+    "artworkImgs": [
+      {
+        "name": "Ritratto di Palma Bucarelli",
+        "path": "img/art/artworks/alberto-savinio-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/ritratto-di-palma-bucarelli-alberto-savinio/LAHa6iSaXoz1qg"
+      },
+      {
+        "name": "Ulysse et Polypheme",
+        "path": "img/art/artworks/alberto-savinio-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ulysse-et-polypheme-alberto-savinio/awHN3taK1X15Ag"
+      },
+      {
+        "name": "Annunciation",
+        "path": "img/art/artworks/alberto-savinio-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/annunciation-alberto-savinio/RgEfCGQ-0ynNGQ"
+      },
+      {
+        "name": "Souvenir d'enfance à Athènes",
+        "path": "img/art/artworks/alberto-savinio-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/souvenir-d-enfance-à-athènes-alberto-savinio/MwGQrMqAmwXDGg"
+      },
+      {
+        "name": "Gomorrhe",
+        "path": "img/art/artworks/alberto-savinio-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/gomorrhe-alberto-savinio/CwET1nS3OC5a4Q"
+      },
+      {
+        "name": "Portrait of Domenico Cesa Bianchi",
+        "path": "img/art/artworks/alberto-savinio-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-domenico-cesa-bianchi-alberto-bianchi/NwFmA-X_8IgWjg"
+      }
+    ],
+    "summary": [
+      "Alberto Savinio, born Andrea Francesco Alberto de Chirico was an Italian writer, painter, musician, journalist, essayist, playwright, set designer and composer. He was the younger brother of 'metaphysical' painter Giorgio de Chirico. His work often dealt with philosophical and psychological themes, and he also was heavily concerned with the philosophy of art.",
+      "Throughout his life, Savinio composed five operas and authored at least forty-seven books, including multiple autobiographies and memoirs. He also extensively wrote and produced works for the theatre. His work received mixed reviews during his lifetime, often due to his pervasive use of modernist techniques. He was influenced by and a contemporary of Apollinaire, Picasso, Jean Cocteau, Max Jacob, and Fernand Léger, and had a significant influence on the surrealist movement."
+    ],
+    "quote": null,
+    "movements": ["Surrealism", "Modern art"],
+    "mediums": ["Oil paint", "Tempera", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alberto_Savinio",
+    "urlGoogle": "https://artsandculture.google.com/entity/alberto-savinio/m08tlmw"
+  },
+  "event": {
+    "id": "stonewall-riots",
+    "name": "Stonewall riots",
+    "dates": "Jun 28, 1969 - Jul 3, 1969",
+    "mainImg": "img/events/stonewall-riots.jpg",
+    "summary": [
+      "The Stonewall riots were a series of spontaneous demonstrations by members of the gay community in response to a police raid that began in the early morning hours of June 28, 1969, at the Stonewall Inn in the Greenwich Village neighborhood of Manhattan, New York City. Patrons of the Stonewall, other Village lesbian and gay bars, and neighborhood street people fought back when the police became violent. The riots are widely considered to constitute one of the most important events leading to the gay liberation movement and the modern fight for LGBT rights in the United States.",
+      "Gay Americans in the 1950s and 1960s faced an anti-gay legal system. Early homosexual groups in the U.S. sought to prove that gay people could be assimilated into society, and they favored non-confrontational education for homosexuals and heterosexuals alike. The last years of the 1960s, however, were contentious, as many social/political movements were active, including the civil rights movement, the counterculture of the 1960s, and the anti-Vietnam War movement. These influences, along with the liberal environment of Greenwich Village, served as catalysts for the Stonewall riots."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Stonewall_riots",
+    "urlGoogle": "https://artsandculture.google.com/entity/stonewall-riots/m078nb"
+  },
+  "funFacts": [
+    {
+      "id": "322",
+      "fact": "In the U.S., there are about 15,000 vacuum cleaner-related accidents each year.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "34",
+      "fact": "If you keep a goldfish in a dark room it will eventually turn white.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553504",
+      "fact": "Kea parrots spread warbles when they’re in a good mood, making them the first known non-mammal species to communicate with infectious laughter."
+    }
+  ],
+  "idiom": {
+    "id": "in-stitches",
+    "term": "in stitches",
+    "definition": "Laughing uncontrollably, as in *Joke after joke had me in stitches.* Although the precise idiom dates only from about 1930, Shakespeare had a similar expression in *Twelfth Night* (3:2): \"If you desire the spleen, and will laugh yourselves into stitches, follow me.\" *Stitches* here refers to the sharp local pain (known as **a stitch in the side**) that can make one double over, much as a fit of laughter can."
+  },
+  "person": {
+    "id": "ozden-toker",
+    "name": "Özden Toker",
+    "dates": "Born Feb 7, 1930",
+    "mainImg": "img/people/ozden-toker.jpg",
+    "summary": [
+      "Özden Toker, İsmet İnönü'nün kızı. Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi İngiliz Dili ve Edebiyatı Bölümü'nü bitirdi. Gazeteci Metin Toker'le 1955 yılında evlendi. Bu evlilikten üç çocuğu oldu. İnönü Vakfı'nın kurucuları arasında yer aldı ve annesinden sonra bu vakfın başkanlığını üstlendi. 2002 yılında eşi Metin Toker'i kaybeden Özden Toker İnönü halen Ankara'da yaşamını sürdürmektedir."
+    ],
+    "quote": null,
+    "urlWiki": "https://tr.wikipedia.org/wiki/%C3%96zden_Toker",
+    "urlGoogle": "https://artsandculture.google.com/entity/özden-toker/m0vtfp_l"
+  },
+  "place": {
+    "id": "damascus",
+    "name": "Damascus",
+    "mainImg": "img/places/damascus.jpg",
+    "summary": [
+      "Damascus is the capital of Syria; it is also the country's largest city, following the decline in population of Aleppo due to the battle for the city. It is colloquially known in Syria as aš-Šām and titled the \"City of Jasmine\". Damascus is a major cultural center of the Levant and the Arab world. The city has an estimated population of 1,711,000 as of 2009.",
+      "Located in south-western Syria, Damascus is the center of a large metropolitan area of 2.7 million people. Geographically embedded on the eastern foothills of the Anti-Lebanon mountain range 80 kilometres inland from the eastern shore of the Mediterranean on a plateau 680 metres above sea level, Damascus experiences a semi-arid climate because of the rain shadow effect. The Barada River flows through Damascus.",
+      "First settled in the second millennium BC, it was chosen as the capital of the Umayyad Caliphate from 661 to 750. After the victory of the Abbasid dynasty, the seat of Islamic power was moved to Baghdad. Damascus saw a political decline throughout the Abbasid era, only to regain significant importance in the Ayyubid and Mamluk periods. Today, it is the seat of the central government and all of the government ministries."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Damascus",
+    "urlGoogle": "https://artsandculture.google.com/entity/damascus/m02gjp"
+  },
+  "wiki": {
+    "id": "principality-of-sealand",
+    "name": "Principality of Sealand",
+    "summary": "Sealand is a micronation (a self-declared, unrecognised state-like entity) that claims as its territory Roughs Tower as well as territorial waters in a twelve nautical mile radius. Roughs Tower is a former Maunsell Sea Fort located in the North Sea six miles (10 km) off the coast of Suffolk, United Kingdom. Sealand is occupied by the family and associates of Paddy Roy Bates. The population of the facility rarely exceeds five, and its inhabitable area is 550 m². Sealand is possibly the world's best-known micronation, and although its claims to sovereignty and legitimacy are not recognized by any traditional States, it is nevertheless sometimes cited in debates as an interesting case study of how various principles of international law can be applied to a disputed territory.",
+    "url": "https://en.wikipedia.org/wiki/Principality_of_Sealand"
+  },
+  "word": {
+    "id": "glower",
+    "word": "glower",
+    "url": "https://www.merriam-webster.com/dictionary/glower",
+    "partOfSpeech": "verb",
+    "pronunciation": "GLOW-er (the OW is as in \"cow\")",
+    "audioPath": "audio/words/glower.mp3",
+    "definitions": ["to look or stare with sullen annoyance or anger"],
+    "examples": ["I could sense Katherine glowering at me after I took her usual parking spot."],
+    "origin": "Do words of uncertain origin make you scowl? If so, \"glower\" may put a frown on your face, because only part of its history can be validated. The well-established part of its story leads us to Scotland, where \"glower\" (or \"glowren,\" to use the older Scottish form of the word) has been used since the late Middle Ages. Originally, the word meant simply \"to look intently\" or \"to stare in amazement,\" but by the late 1700s, glowering stares were being associated with anger instead of astonishment. Beyond that, however, the history of the word is murky. The most we can say is that \"glower\" is a distant relative of Middle Low German \"glŪren,\" which means \"to be overcast,\" and of Middle Dutch \"gloeren,\" meaning \"to leer.\""
+  }
+}

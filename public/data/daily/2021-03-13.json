@@ -62,19 +62,13 @@
   },
   "funFacts": [
     { "id": "122", "fact": "A duck can't walk without bobbing its head.", "category": ["Animals"] },
-    { "id": "361", "fact": "The pineapple is a very big berry.", "category": ["Food", "Plants"] },
-    {
-      "id": "335",
-      "fact": "Maine produces more toothpicks than any other state in the U.S.",
-      "category": ["Geography"]
-    }
+    { "id": "361", "fact": "The pineapple is a very big berry.", "category": ["Food", "Plants"] }
   ],
   "funFacts2": [
     {
       "id": "553683",
       "fact": "If your dog's feet smell like corn chips, you're not alone. The term \"Frito Feet\" was coined to describe the scent."
-    },
-    { "id": "553698", "fact": "Wombat poop is cube-shaped." }
+    }
   ],
   "idiom": {
     "id": "cast-pearls-before-swine",

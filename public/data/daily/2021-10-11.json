@@ -1,0 +1,126 @@
+{
+  "artist": {
+    "id": "luca-carlevarijs",
+    "name": "Luca Carlevarijs",
+    "dates": "Jan 20, 1663 - Feb 12, 1730",
+    "mainImg": "img/art/artists/luca-carlevarijs.jpg",
+    "artworkImgs": [
+      {
+        "name": "Venedig: Der Markusplatz",
+        "path": "img/art/artworks/luca-carlevarijs-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/venedig-der-markusplatz-luca-carlevaris/2QFrw48sl6ATZg"
+      },
+      {
+        "name": "The Bucintoro Departing from the Bacino di San Marco",
+        "path": "img/art/artworks/luca-carlevarijs-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bucintoro-departing-from-the-bacino-di-san-marco-luca-carlevarijs/hQEE7DgSGdelOQ"
+      },
+      {
+        "name": "Regatta on the Grand Canal in Honor of Frederick IV, King of Denmark",
+        "path": "img/art/artworks/luca-carlevarijs-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/regatta-on-the-grand-canal-in-honor-of-frederick-iv-king-of-denmark-luca-carlevarijs/ywG9bEAUtQbQ9Q"
+      },
+      {
+        "name": "The highly ornamented second gondola of Ambassador Giovanni Battista Colloreado entering Venice",
+        "path": "img/art/artworks/luca-carlevarijs-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-highly-ornamented-second-gondola-of-ambassador-giovanni-battista-colloreado-entering-venice-luca-carlevaris-giovanni-antonio-faldoni/DgH-rNjszBKq8Q"
+      },
+      {
+        "name": "Plate 37: Side view of the school of St. Roch at left and view of facade of the church of St. Roch, Venice, 1703 from the series 'The buildings and views of Venice' (Le fabriche e vedute di Venezia)",
+        "path": "img/art/artworks/luca-carlevarijs-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/plate-37-side-view-of-the-school-of-st-roch-at-left-and-view-of-facade-of-the-church-of-st-roch-venice-1703-from-the-series-the-buildings-and-views-of-venice-le-fabriche-e-vedute-di-venezia-luca-carlevaris-sebastiano-serlio/jgFSe_3xQCUZVg"
+      },
+      {
+        "name": "The Molo, Venice, from the Bacino di San Marco",
+        "path": "img/art/artworks/luca-carlevarijs-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-molo-venice-from-the-bacino-di-san-marco-luca-carlevaris/qAERKmSnKaNhrg"
+      }
+    ],
+    "summary": [
+      "Luca Carlevarijs or Carlevaris was an Italian painter and engraver working mainly in Venice. He pioneered the genre of the cityscapes of Venice, a genre that was later widely followed by artists such as Canaletto and Francesco Guardi."
+    ],
+    "quote": null,
+    "movements": ["Baroque"],
+    "mediums": ["Oil paint", "Etching", "Engraving", "Book"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Luca_Carlevarijs",
+    "urlGoogle": "https://artsandculture.google.com/entity/luca-carlevarijs/m026mrqx"
+  },
+  "event": {
+    "id": "atomic-bombings-of-hiroshima-and-nagasaki",
+    "name": "Atomic bombings of Hiroshima and Nagasaki",
+    "dates": "Aug 6, 1945 - Aug 9, 1945",
+    "mainImg": "img/events/atomic-bombings-of-hiroshima-and-nagasaki.jpg",
+    "summary": [
+      "The United States detonated two nuclear weapons over the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively, with the consent of the United Kingdom, as required by the Quebec Agreement. The two bombings killed between 129,000 and 226,000 people, most of whom were civilians, and remain the only uses of nuclear weapons in armed conflict.",
+      "In the final year of World War II, the Allies prepared for a very costly invasion of the Japanese mainland. This undertaking was preceded by a conventional and firebombing campaign which devastated 67 Japanese cities. The war in Europe had concluded when Germany signed its instrument of surrender on May 8, 1945, and the Allies turned their full attention to the Pacific theater. The Allies called for the unconditional surrender of the Imperial Japanese armed forces in the Potsdam Declaration on July 26, 1945, the alternative being \"prompt and utter destruction\". Japan ignored the ultimatum and the war continued."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "urlGoogle": "https://artsandculture.google.com/entity/atomic-bombings-of-hiroshima-and-nagasaki/m035jnk"
+  },
+  "funFacts": [
+    {
+      "id": "342",
+      "fact": "California and Arizona grow approximately 95% of the fresh lemons in the U.S.",
+      "category": ["Plants", "Geography"]
+    },
+    {
+      "id": "960",
+      "fact": "There are 21 \"secret\" highways that are part of the Interstate Highway System.  They are not identified as such by road signs.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "522154", "fact": "A newborn giant panda is about the size of a stick of butter." }
+  ],
+  "idiom": {
+    "id": "hang-out-ones-shingle",
+    "term": "hang out one's shingle",
+    "definition": "Open an office, especially a professional practice, as in *Bill's renting that office and hanging out his shingle next month.* This American colloquialism dates from the first half of the 1800s, when at first lawyers, and later also doctors and business concerns, used shingles for signboards."
+  },
+  "person": {
+    "id": "napoleon-iii",
+    "name": "Napoleon III",
+    "dates": "Apr 20, 1808 - Jan 9, 1873",
+    "mainImg": "img/people/napoleon-iii.jpg",
+    "summary": [
+      "Napoleon III, the nephew of Napoleon I and cousin of Napoleon II, was the first president of France from 1848 to 1852, and the last French monarch from 1852 to 1870. First elected president of the French Second Republic in 1848, he seized power in 1851, when he could not constitutionally be re-elected, and became the Emperor of the French. He founded the Second French Empire and was its only emperor until the defeat of the French army and his capture by Prussia and its allies in the Franco-Prussian War in 1870. He worked to modernize the French economy, rebuilt the center of Paris, expanded the French overseas empire, and engaged in the Crimean War and the Second Italian War of Independence.",
+      "Napoleon III commissioned a grand reconstruction of Paris carried out by his prefect of the Seine, Baron Georges-Eugène Haussmann, and launched similar public works projects in Marseille, Lyon and other French cities. Napoleon III modernized the French banking system, expanded and consolidated the French railway system, and made the French merchant marine the second largest in the world."
+    ],
+    "quote": "“In politics evils should be remedied not revenged.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Napoleon_III",
+    "urlGoogle": "https://artsandculture.google.com/entity/napoleon-iii/m0gxct"
+  },
+  "place": {
+    "id": "saint-kitts-and-nevis",
+    "name": "Saint Kitts and Nevis",
+    "mainImg": "img/places/saint-kitts-and-nevis.jpg",
+    "summary": [
+      "Saint Kitts and Nevis, officially known as the Federation of Saint Christopher and Nevis, is an island country in the West Indies. Located in the Leeward Islands chain of the Lesser Antilles, it is the smallest sovereign state in the Western Hemisphere, in both area and population. The country is a Commonwealth realm, with Elizabeth II as queen and head of state.",
+      "The capital city is Basseterre on the larger island of Saint Kitts and on the smaller island, Nevis, the capital city is Charlestown. The smaller island of Nevis lies approximately 3 km to the southeast across a shallow channel called The Narrows.",
+      "The British dependency of Anguilla was historically also a part of this union, which was then known collectively as Saint Christopher-Nevis-Anguilla. However, it chose to secede from the union and remains a British overseas territory. To the north-northwest lie the islands of Sint Eustatius, Saba, Saint Barthélemy, Saint-Martin/Sint Maarten and Anguilla. To the east and northeast are Antigua and Barbuda, and to the southeast is the small uninhabited island of Redonda and the island of Montserrat."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+    "urlGoogle": "https://artsandculture.google.com/entity/saint-kitts-and-nevis/m06ryl"
+  },
+  "wiki": {
+    "id": "makuria",
+    "name": "Makuria",
+    "summary": "Makuria was a kingdom located in what is today Southern Egypt and Northern Sudan. It was one of a group of Nubian kingdoms that emerged in the centuries after the fall of the Kingdom of Meroë, which had dominated the region from around 800 BCE to 350 CE. Makuria originally covered the area along the Nile River from the Third Cataract to somewhere between the Fifth and Sixth Cataracts. Its capital was Dongola. By the end of the 6th century it had converted to Christianity, but in the 7th century Egypt was conquered by the Islamic armies, and Nubia was cut off from the rest of Christendom. In 651 an Arab army invaded, but it was repulsed and a treaty known as the baqt was signed creating a relative peace between the two sides that lasted until the 13th century. Makuria expanded, annexing its northern neighbour Nobatia either at the time of the Arab invasion or during the reign of King Merkurios. The period from roughly 750 to 1150 saw the kingdom stable and prosperous, in what has been called the \"Golden Age\". However, increased aggression from Egypt, the Islamization and Arabization of the populace, and internal discord saw the state collapse in the 14th century.",
+    "url": "https://en.wikipedia.org/wiki/Makuria"
+  },
+  "word": {
+    "id": "luftmensch",
+    "word": "luftmensch",
+    "url": "https://www.merriam-webster.com/dictionary/luftmensch",
+    "partOfSpeech": "noun",
+    "pronunciation": "LOOFT-mensh (the \"OO\" is as in \"foot\")",
+    "audioPath": "audio/words/luftmensch.mp3",
+    "definitions": ["an impractical contemplative person having no definite business or income"],
+    "examples": [
+      "I worry that my nephew, who has several advanced degrees but no practical skills, will be a luftmensch all his life."
+    ],
+    "origin": "Are you someone who always seems to have your head in the clouds? Do you have trouble getting down to the lowly business of earning a living? If so, you may deserve to be labeled a \"luftmensch.\" That airy appellation is an adaptation of the Yiddish \"luftmentsh,\" which breaks down into \"luft\" (a Germanic root meaning \"air\" that is also related to the English words \"loft\" and \"lofty\") plus \"mentsh,\" meaning \"human being.\" \"Luftmensch\" was first introduced to English prose in 1907, when Israel Zangwill wrote, \"The word 'Luftmensch' flew into Barstein's mind. Nehemiah was not an earth-man. . .. He was an air-man, floating on facile wings.\""
+  }
+}

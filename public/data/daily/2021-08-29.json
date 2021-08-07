@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "sin-saimdang",
+    "name": "Sin Saimdang",
+    "dates": "Dec 5, 1504 - May 17, 1551",
+    "mainImg": "img/art/artists/sin-saimdang.jpg",
+    "artworkImgs": [
+      {
+        "name": "Grass and Insect",
+        "path": "img/art/artworks/sin-saimdang-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/egF3CWb3E5Hcsg"
+      },
+      {
+        "name": "Grass and Insect",
+        "path": "img/art/artworks/sin-saimdang-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/hwEtvSMFNazzog"
+      },
+      {
+        "name": "Grass and Insect",
+        "path": "img/art/artworks/sin-saimdang-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/SgFjigYaClgE5A"
+      },
+      {
+        "name": "Grass and Insect",
+        "path": "img/art/artworks/sin-saimdang-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/ugGr-pRuok1OyQ"
+      },
+      {
+        "name": "Grass and Insect",
+        "path": "img/art/artworks/sin-saimdang-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/pwEqKAKgZMNGPQ"
+      },
+      {
+        "name": "Grass and Insect",
+        "path": "img/art/artworks/sin-saimdang-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/_gHLrksf2KD95g"
+      }
+    ],
+    "summary": [
+      "Shin Saimdang was a Korean artist, writer, calligraphist, and poet. She was born in Gangwondo Gangneungbu jugheonli bugpyeongchon on 29 October 1504. Her birth home, Ojukheon, which is also her mother's side home, is well-preserved to this day. She was the mother of the Korean Confucian scholar Yi I. Often held up as a model of Confucian ideals, her respectful nickname was Eojin Eomeoni. Her real name was Shin In Seon. Her pen names were Saim, Saimdang, Inimdang, and Imsajae. She was a contemporary of the poet Heo Nansseolheon, and the two women were considered rivals."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Ink", "Silk", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sin_Saimdang",
+    "urlGoogle": "https://artsandculture.google.com/entity/sin-saimdang/m01y8g2"
+  },
+  "event": {
+    "id": "edo-period",
+    "name": "Edo period",
+    "dates": "1603 - 1868",
+    "mainImg": "img/events/edo-period.jpg",
+    "summary": [
+      "The Edo period or Tokugawa period is the period between 1603 and 1868 in the history of Japan, when Japan was under the rule of the Tokugawa shogunate and the country's 300 regional daimyō. The period was characterized by economic growth, strict social order, isolationist foreign policies, a stable population, \"no more wars\", and popular enjoyment of arts and culture. The shogunate was officially established in Edo on March 24, 1603, by Tokugawa Ieyasu. The period came to an end with the Meiji Restoration on May 3, 1868, after the fall of Edo."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Edo_period",
+    "urlGoogle": "https://artsandculture.google.com/entity/edo-period/m015zcw"
+  },
+  "funFacts": [
+    {
+      "id": "126",
+      "fact": "A pigeon's feathers are heavier than its bones.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "384",
+      "fact": "Each year, the average person walks the distance from NY to Miami.",
+      "category": ["Geography", "Habits"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553436",
+      "fact": "When Hattie McDaniel became the first African American to win an Oscar in 1940, she had to make her way to the stage from a segregated table at the back of the room."
+    }
+  ],
+  "idiom": {
+    "id": "spare-the-rod-and-spoil-the-child",
+    "term": "spare the rod and spoil the child",
+    "definition": "Discipline is necessary for good upbringing, as in *She lets Richard get away with anything---spare the rod, you know.* This adage appears in the Bible (Proverbs 13:24) and made its way into practically every proverb collection. It originally referred to corporal punishment. It is still quoted, often in shortened form, and today does not necessarily mean physical discipline."
+  },
+  "person": {
+    "id": "frederick-burrows",
+    "name": "Frederick Burrows",
+    "dates": "1887 - 1973",
+    "mainImg": "img/people/frederick-burrows.jpg",
+    "summary": [
+      "Sir Frederick John Burrows, GCSI, GCIE, was a British politician who served as the last British Governor of Bengal during British Raj in India. He was Governor of Bengal from 19 February 1946 to 14 August 1947. Sir Frederick Burrows was against the partition of Bengal. Sir Frederick Burrows was a former Ross railway man and he was the president of the National Union of Railwaymen, the union representing railway workers in England.",
+      "Sir Adrian Carton de Wiart records: \"He had endeared himself to the Burrah Sahibs of Calcutta with one of his first speeches when, alluding to his modest beginning on the railway, he said, 'When you gentlemen were huntin' and shootin', I was shuntin' and hootin'. He seemed to me to be far more proud of having been a sergeant-major in the Grenadier Guards in the First World War than he was of being Governor of Bengal.\""
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_Burrows",
+    "urlGoogle": "https://artsandculture.google.com/entity/frederick-burrows/m02qk1cj"
+  },
+  "place": {
+    "id": "djibouti",
+    "name": "Djibouti",
+    "mainImg": "img/places/djibouti.jpg",
+    "summary": [
+      "Djibouti, officially the Republic of Djibouti, is a country located in the Horn of Africa in East Africa. It is bordered by Somalia in the south, Ethiopia in the south and west, Eritrea in the north, and the Red Sea and the Gulf of Aden in the east. Across the Gulf of Aden lies Yemen, which does not share a land border with Djibouti. The country has a total area of 23,200 km². The Republic of Djibouti is predominantly inhabited by two ethnic groups, the Somali and the Afar people, with the former comprising the majority of the population.",
+      "In antiquity, the territory together with Somalia was part of the Land of Punt. Nearby Zeila, now in Somalia, was the seat of the medieval Adal and Ifat Sultanates. In the late 19th century, the colony of French Somaliland was established following treaties signed by the ruling Somali and Afar sultans with the French and its railroad to Dire Dawa allowed it to quickly supersede Zeila as the port for southern Ethiopia and the Ogaden. It was subsequently renamed to the French Territory of the Afars and the Issas in 1967. A decade later, the Djiboutian people voted for independence."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Djibouti",
+    "urlGoogle": "https://artsandculture.google.com/entity/djibouti/m027jk"
+  },
+  "wiki": {
+    "id": "startling-stories",
+    "name": "Startling Stories",
+    "summary": "Startling Stories was an American pulp science fiction magazine, published by Standard Magazines from 1939 to 1955. Its first editor was Mort Weisinger, who also edited Thrilling Wonder Stories, Standard's other science fiction title. Startling ran a lead novel in every issue; the first was The Black Flame by Stanley G. Weinbaum. The magazine focused on younger readers, and, when Weisinger was replaced by Oscar J. Friend in 1941, the magazine became even more juvenile in focus. Sam Merwin, Jr., Friend's successor, was able to improve the quality of the fiction substantially, publishing Arthur C. Clarke's Against the Fall of Night and other well-received stories. Earle K. Bergey painted almost every cover between 1942 and 1952, equipping his heroines with brass bras and implausible costumes; the public image of science fiction in his day was partly created by his work. In later years, competition affected the magazine's ability to acquire quality material. In mid-1952, Standard attempted to change Startling's image by adopting a more sober title typeface and reducing the covers' sensationalism, but the pulp magazine market was collapsing and publication ceased in 1955.",
+    "url": "https://en.wikipedia.org/wiki/Startling_Stories"
+  },
+  "word": {
+    "id": "tare",
+    "word": "tare",
+    "url": "https://www.merriam-webster.com/dictionary/tare",
+    "partOfSpeech": "noun",
+    "pronunciation": "TAIR",
+    "audioPath": "audio/words/tare.mp3",
+    "definitions": [
+      "a deduction from the gross weight of a substance and its container made in allowance for the weight of the container; also : the weight of the container",
+      "counterweight"
+    ],
+    "examples": [
+      "Before charging us for the blueberries we'd picked, the attendant at Annie's Fields deducted the tare from the weight of the filled buckets."
+    ],
+    "origin": "\"Tare\" came to English by way of Middle French from the Old Italian term \"tara,\" which is itself from the Arabic word \"ṭarḥa,\" meaning \"that which is removed.\" The first known written record of the word \"tare\" in English is found in the 1489 naval inventories of Britain's King Henry VII. The records show two barrels of gunpowder weighing, \"besides the tare,\" 500 pounds. When used of vehicles, \"tare weight\" refers to a vehicle's weight exclusive of any load. The term \"tare\" is closely tied to \"net weight,\" which is defined as \"weight excluding all tare.\""
+  }
+}

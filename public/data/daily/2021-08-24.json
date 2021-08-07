@@ -1,0 +1,121 @@
+{
+  "artist": {
+    "id": "vicente-juan-masip",
+    "name": "Vicente Juan Masip",
+    "dates": "1507 - Dec 21, 1579",
+    "mainImg": "img/art/artists/vicente-juan-masip.jpg",
+    "artworkImgs": [
+      {
+        "name": "Saint Vincent Ferrer",
+        "path": "img/art/artworks/vicente-juan-masip-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-vincent-ferrer-joan-macip-joan-de-joanes/kwFcERagLmJW4A"
+      },
+      {
+        "name": "Virgin and Child, Saints and Angels",
+        "path": "img/art/artworks/vicente-juan-masip-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-and-child-saints-and-angels-vicent-macip/KAFy9ajq42JF_A"
+      },
+      {
+        "name": "Portrait of Alfonso V, King of Aragon (Retrato del Monarca Alfonso V, Rey de Aragón)",
+        "path": "img/art/artworks/vicente-juan-masip-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-alfonso-v-king-of-aragon-retrato-del-monarca-alfonso-v-rey-de-aragón-juan-de-juanes/6gEM3NWctCwlRw"
+      },
+      {
+        "name": "Saint Bruno",
+        "path": "img/art/artworks/vicente-juan-masip-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-bruno-joan-macip-joan-de-joanes/DwETzfpXegidMw"
+      },
+      {
+        "name": "Christ Carrying the Cross",
+        "path": "img/art/artworks/vicente-juan-masip-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-carrying-the-cross-juan-de-juanes-juan-maçip/mQHe-SE84ArPxQ"
+      }
+    ],
+    "summary": [
+      "Vicente Juan Masip was a Spanish painter of the Renaissance period. He is commonly considered the foremost member of the Valencian school of painters.",
+      "Masip was born i La Font de la Figuera. His father was Vicente Masip, and his son was Vicente Masip Comes, known as Vicent de Joanes, who imitated his style. His two daughters, Dorotea Joanes and Margarita Joanes, were also painters. His most prominent pupil was Nicolas Borras."
+    ],
+    "quote": null,
+    "movements": ["Renaissance", "Spanish Renaissance"],
+    "mediums": ["Oil paint", "Wood", "Gold", "Drawing", "Gold leaf", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Vicente_Juan_Masip",
+    "urlGoogle": "https://artsandculture.google.com/entity/vicente-juan-masip/m05l2qk"
+  },
+  "event": {
+    "id": "falklands-war",
+    "name": "Falklands War",
+    "dates": "Apr 2, 1982 - Jun 14, 1982",
+    "mainImg": "img/events/falklands-war.jpg",
+    "summary": [
+      "The Falklands War was a 10-week undeclared war between Argentina and the United Kingdom in 1982 over two British dependent territories in the South Atlantic: the Falkland Islands and its territorial dependency, South Georgia and the South Sandwich Islands.",
+      "The conflict began on 2 April, when Argentina invaded and occupied the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, the British government dispatched a naval task force to engage the Argentine Navy and Air Force before making an amphibious assault on the islands. The conflict lasted 74 days and ended with an Argentine surrender on 14 June, returning the islands to British control. In total, 649 Argentine military personnel, 255 British military personnel, and three Falkland Islanders died during the hostilities.",
+      "The conflict was a major episode in the protracted dispute over the territories' sovereignty. Argentina asserted that the islands are Argentine territory, and the Argentine government thus characterised its military action as the reclamation of its own territory. The British government regarded the action as an invasion of a territory that had been a Crown colony since 1841."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Falklands_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/falklands-war/m031x2"
+  },
+  "funFacts": [
+    {
+      "id": "936",
+      "fact": "A day on Venus lasts longer than a year on Venus.",
+      "category": ["Science"]
+    },
+    {
+      "id": "898",
+      "fact": "The ridges on the sides of coins are called reeding or milling.",
+      "category": ["Definitions"]
+    }
+  ],
+  "funFacts2": [{ "id": "506449", "fact": "Sorry, Scotland: Persians invented bagpipes." }],
+  "idiom": {
+    "id": "bee-in-ones-bonnet",
+    "term": "bee in one's bonnet",
+    "definition": "A strange idea or notion; also, an idea that is harped on, an obsession. For example, *Bill's got a bee in his bonnet about burglars; he's always imagining strange noises.* This term, which replaced the earlier *have bees in one's head,* transfers the buzzing of a bee inside one's hat to a weird idea in one's head. [Second half of 1600s]"
+  },
+  "person": {
+    "id": "earl-browder",
+    "name": "Earl Browder",
+    "dates": "May 20, 1891 - Jun 27, 1973",
+    "mainImg": "img/people/earl-browder.jpg",
+    "summary": [
+      "Earl Russell Browder was an American political activist and leader of the Communist Party USA. Browder was the General Secretary of the CPUSA during the 1930s and first half of the 1940s.",
+      "During World War I, Browder served time in federal prison as a conscientious objector to conscription and the war. Upon his release, Browder became an active member of the American Communist movement, soon working as an organizer on behalf of the Communist International and its Red International of Labor Unions in China and the Pacific region.",
+      "In 1930, following the removal of a rival political faction from leadership, Browder was made General Secretary of the CPUSA. For the next 15 years thereafter Browder was the most recognizable public figure associated with American Communism, authoring dozens of pamphlets and books, making numerous public speeches before sometimes vast audiences, and twice running for President of the United States. Browder also took part in activities on behalf of Soviet intelligence in America during his period of party leadership, placing those who sought to convey sensitive information to the party into contact with Soviet intelligence."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Earl_Browder",
+    "urlGoogle": "https://artsandculture.google.com/entity/earl-browder/m038z2b"
+  },
+  "place": {
+    "id": "canada",
+    "name": "Canada",
+    "mainImg": "img/places/canada.jpg",
+    "summary": [
+      "Canada is a country in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres, making it the world's second-largest country by total area. Its southern border with the United States, stretching 8,891 kilometres, is the world's longest bi-national land border. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.",
+      "Various indigenous peoples inhabited what is now Canada for thousands of years before European colonization. Beginning in the 16th century, British and French expeditions explored and later settled along the Atlantic coast. As a consequence of various armed conflicts, France ceded nearly all of its colonies in North America in 1763. In 1867, with the union of three British North American colonies through Confederation, Canada was formed as a federal dominion of four provinces. This began an accretion of provinces and territories and a process of increasing autonomy from the United Kingdom."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Canada",
+    "urlGoogle": "https://artsandculture.google.com/entity/canada/m0d060g"
+  },
+  "wiki": {
+    "id": "sesame-street",
+    "name": "Sesame Street",
+    "summary": "Sesame Street is an educational American children's television series designed for preschoolers and is recognized as a pioneer of the contemporary standard which combines education and entertainment in children's television shows. Sesame Street is well known for the inclusion of the Muppet characters created by the puppeteer Jim Henson. More than 4,000 episodes of the show have been produced in 36 seasons, which distinguishes it as one of the longest-running shows in television history. The program is produced in the United States by non-profit organization Sesame Workshop, founded by Joan Ganz Cooney and Ralph Rogers; the original series has been televised in 120 countries, and more than 20 international versions have been produced, not including dubs. Sesame Street has received 108 Emmy Awards, more than any other series in television history. An estimated 75 million Americans watched the series as children; millions more have watched around the world, or as parents.",
+    "url": "https://en.wikipedia.org/wiki/Sesame_Street"
+  },
+  "word": {
+    "id": "whinge",
+    "word": "whinge",
+    "url": "https://www.merriam-webster.com/dictionary/whinge",
+    "partOfSpeech": "verb",
+    "pronunciation": "WINJ",
+    "audioPath": "audio/words/whinge.mp3",
+    "definitions": ["to complain fretfully : whine"],
+    "examples": [
+      "She urged her fellow workers to stop whinging about how they were victims of \"the system\" and to do something to change that system."
+    ],
+    "origin": "\"Whinge\" isn't just a spelling variant of \"whine.\" \"Whinge\" and \"whine\" are actually entirely different words with separate histories. \"Whine\" traces to an Old English verb, \"hwinan,\" which means \"to make a humming or whirring sound.\" When \"hwinan\" became \"whinen\" in Middle English, it meant \"to wail distressfully\"; \"whine\" didn't acquire its \"complain\" sense until the 16th century. \"Whinge,\" on the other hand, comes from a different Old English verb, \"hwinsian,\" which means \"to wail or moan discontentedly.\" \"Whinge\" retains that original sense today, though nowadays it puts less emphasis on the sound of the complaining and more on the discontentment behind the complaint."
+  }
+}

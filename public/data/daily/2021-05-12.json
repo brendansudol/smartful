@@ -64,21 +64,12 @@
       "fact": "Less than 3% of the water on Earth is fresh.",
       "category": ["Science"]
     },
-    { "id": "85", "fact": "The Mona Lisa has no eyebrows.", "category": ["Hodgepodge"] },
-    {
-      "id": "257",
-      "fact": "The first food eaten in space by a U.S. astronaut was applesauce.",
-      "category": ["Food", "Firsts"]
-    }
+    { "id": "85", "fact": "The Mona Lisa has no eyebrows.", "category": ["Hodgepodge"] }
   ],
   "funFacts2": [
     {
       "id": "554089",
       "fact": "Over half the world's population lives within a 5000-mile-wide circle in East Asia."
-    },
-    {
-      "id": "554029",
-      "fact": "Jerry Springer was born in a London tube station during World War II."
     }
   ],
   "idiom": {

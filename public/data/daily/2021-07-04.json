@@ -65,17 +65,12 @@
       "fact": "Mt. Everest has grown one foot over the last 100 years.",
       "category": ["Geography"]
     },
-    { "id": "54", "fact": "The average smell weighs 760 nanograms.", "category": ["Science"] },
-    { "id": "353", "fact": "The weight of the moon is 81 billion tons.", "category": ["Science"] }
+    { "id": "54", "fact": "The average smell weighs 760 nanograms.", "category": ["Science"] }
   ],
   "funFacts2": [
     {
       "id": "553854",
       "fact": "Marie Curie remains the only person to earn Nobel prizes in two different sciences."
-    },
-    {
-      "id": "554076",
-      "fact": "The first Macy's Thanksgiving Day Parade featured lions, camels, and elephants from the Central Park Zoo."
     }
   ],
   "idiom": {

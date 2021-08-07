@@ -64,21 +64,12 @@
   },
   "funFacts": [
     { "id": "356", "fact": "You exhale air at 15 m.p.h.", "category": ["Anatomy"] },
-    { "id": "220", "fact": "Porcupines each have 30,000 quills.", "category": ["Animals"] },
-    {
-      "id": "685",
-      "fact": "Dogs can make about 10 sounds, cats can make about 100.",
-      "category": [""]
-    }
+    { "id": "220", "fact": "Porcupines each have 30,000 quills.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "553735",
       "fact": "When it comes to wine, an aroma similar to cat pee is a considered a good thing."
-    },
-    {
-      "id": "553733",
-      "fact": "The boiling point for water at the top of Mt. Everest is 162°F, about 50 degrees below the boiling point at sea level."
     }
   ],
   "idiom": {

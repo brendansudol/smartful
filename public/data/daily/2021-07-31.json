@@ -1,0 +1,133 @@
+{
+  "artist": {
+    "id": "kerry-james-marshall",
+    "name": "Kerry James Marshall",
+    "dates": "Born Oct 17, 1955",
+    "mainImg": "img/art/artists/kerry-james-marshall.jpg",
+    "artworkImgs": [
+      {
+        "name": "Memento #5",
+        "path": "img/art/artworks/kerry-james-marshall-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/memento-5-kerry-james-marshall/ZgGvKUm7eu861Q"
+      },
+      {
+        "name": "Our Town",
+        "path": "img/art/artworks/kerry-james-marshall-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/our-town-kerry-james-marshall/VgE9A9cmVSCvXQ"
+      },
+      {
+        "name": "Supermodel",
+        "path": "img/art/artworks/kerry-james-marshall-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/supermodel-kerry-james-marshall/BwFM8-lN_4WMJQ"
+      },
+      {
+        "name": "Untitled (Blot)",
+        "path": "img/art/artworks/kerry-james-marshall-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-blot-kerry-james-marshall/RwFqgsBwo1XnFw"
+      },
+      {
+        "name": "Untitled (Blot)",
+        "path": "img/art/artworks/kerry-james-marshall-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-blot-kerry-james-marshall/eQG4Qy3RPehEbQ"
+      },
+      {
+        "name": "As Seen on TV",
+        "path": "img/art/artworks/kerry-james-marshall-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/as-seen-on-tv-kerry-james-marshall/2gHgNn0k1jWqlw"
+      }
+    ],
+    "summary": [
+      "Kerry James Marshall is an American artist born in Birmingham, Alabama. He grew up in South Central Los Angeles and now lives in Chicago, Illinois, where he previously taught at the School of Art and Design at the University of Illinois at Chicago. He is a 1978 graduate of Otis College of Art and Design. An exhibition of his work, Kerry James Marshall: Mastry, was assembled by the Museum of Contemporary Art in 2016."
+    ],
+    "quote": "“I think we need to remember...that a lot of energy was put into changing things to get us to the point where we are now. But being where we are now doesn't mean that we don't have to put in the same kind of energy to get us to a place where we ought to be.”",
+    "movements": ["Contemporary art"],
+    "mediums": [
+      "Acrylic paint",
+      "Photograph",
+      "Sculpture",
+      "Vitreous enamel",
+      "Enamel paint",
+      "Iron"
+    ],
+    "urlWiki": "https://en.wikipedia.org/wiki/Kerry_James_Marshall",
+    "urlGoogle": "https://artsandculture.google.com/entity/kerry-james-marshall/m02rftt7"
+  },
+  "event": {
+    "id": "2000-summer-olympics",
+    "name": "2000 Summer Olympics",
+    "dates": "Sep 15, 2000 - Oct 1, 2000",
+    "mainImg": "img/events/2000-summer-olympics.jpg",
+    "summary": [
+      "The 2000 Summer Olympics, officially known as the Games of the XXVII Olympiad and commonly known as Sydney 2000 or the Millennium Olympic Games/Games of the New Millennium, was an international multi-sport event held between 15 September and 1 October 2000 in Sydney, New South Wales, Australia. It was the second time the Summer Olympics were held in Australia, and also the Southern Hemisphere, the first being in Melbourne, Victoria, in 1956. The United States topped the medal table, winning the most gold and overall medals."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2000_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/2000-summer-olympics/m0jdk_"
+  },
+  "funFacts": [
+    {
+      "id": "91",
+      "fact": "There are more telephones than people in Washington, D.C.",
+      "category": ["Geography", "Habits"]
+    },
+    {
+      "id": "276",
+      "fact": "Grizzly bears run as fast as the average horse.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553805",
+      "fact": "In 1997, a woman from Louisville left actor Charles Bronson all of her money in a handwritten will—a total of about $300,000.  She'd never met him; she was just a fan."
+    }
+  ],
+  "idiom": {
+    "id": "best-bib-and-tucker",
+    "term": "best bib and tucker",
+    "definition": "One's finest clothes, dressed up, as in *The men were told to put on their best bib and tucker for the dinner dance.* Although wearing either a bib (frill at front of a man's shirt) or a tucker (ornamental lace covering a woman's neck and shoulders) is obsolete, the phrase survives. [Mid-1700s]"
+  },
+  "person": {
+    "id": "anastasius-i-dicorus",
+    "name": "Anastasius I Dicorus",
+    "dates": "430 AD - 518 AD",
+    "mainImg": "img/people/anastasius-i-dicorus.jpg",
+    "summary": [
+      "Anastasius I was Byzantine Emperor from 491 to 518. He made his career as a government administrator. He came to the throne at the age of 61 after being chosen by the wife of his predecessor, Zeno. His religious tendencies caused tensions throughout his reign. Because his name is distinctly and unmistakably Christian, it indicates that he was born and raised a Christian, in contrast to previous Christian Emperors, most notably Constantine I, who were converts.",
+      "His reign was characterised by improvements in the government, economy, and bureaucracy in the Eastern Roman empire. He is noted for leaving the imperial government with a sizeable budget surplus of 23,000,000 solidus due to minimisation of government corruption, reforms to the tax code, and the introduction of a new form of currency."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Anastasius_I_Dicorus",
+    "urlGoogle": "https://artsandculture.google.com/entity/anastasius-i-dicorus/m06g7t"
+  },
+  "place": {
+    "id": "kosice",
+    "name": "Košice",
+    "mainImg": "img/places/kosice.jpg",
+    "summary": [
+      "Košice is the largest city in eastern Slovakia. It is situated on the river Hornád at the eastern reaches of the Slovak Ore Mountains, near the border with Hungary. With a population of approximately 240,000, Košice is the second-largest city in Slovakia, after the capital Bratislava.",
+      "Being the economic and cultural centre of eastern Slovakia, Košice is the seat of the Košice Region and Košice Self-governing Region, the Slovak Constitutional Court, three universities, various dioceses, and many museums, galleries, and theatres. In 2013 Košice was the European Capital of Culture, together with Marseille, France. Košice is an important industrial centre of Slovakia, and the U.S. Steel Košice steel mill is the largest employer in the city. The town has extensive railway connections and an international airport.",
+      "The city has a well-preserved historical centre, which is the largest among Slovak towns. There are many heritage protected buildings in Gothic, Renaissance, Baroque, and Art Nouveau styles with Slovakia's largest church: the St. Elisabeth Cathedral."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ko%C5%A1ice",
+    "urlGoogle": "https://artsandculture.google.com/entity/košice/m01t4hj"
+  },
+  "wiki": {
+    "id": "leslie-groves",
+    "name": "Leslie Groves",
+    "summary": "Leslie Groves (1896–1970) was a U.S. Army Corps of Engineers officer who oversaw the construction of the Pentagon and directed the Manhattan Project that developed the atomic bomb. After joining the Corps of Engineers and assisting with projects in Nicaragua, he was posted to the War Department General Staff. In 1940, he became special assistant for construction to the Quartermaster General. He was given responsibility in 1941 for the gigantic office complex to house the War Department's 40,000 staff which would ultimately become the Pentagon. In September 1942, Groves took charge of the Manhattan Project and was involved in most aspects of the atomic bomb's development, including the acquisition of raw materials and selection of target cities in Japan. He remained in charge of the project until the U.S. Atomic Energy Commission assumed responsibility for nuclear weapons production in 1947. He then headed the Armed Forces Special Weapons Project, created to control the military aspects of nuclear weapons. He was promoted to lieutenant general just before his retirement in 1948 in recognition of his leadership of the bomb program, and later became a vice-president at Sperry Rand.",
+    "url": "https://en.wikipedia.org/wiki/Leslie_Groves"
+  },
+  "word": {
+    "id": "equanimity",
+    "word": "equanimity",
+    "url": "https://www.merriam-webster.com/dictionary/equanimity",
+    "partOfSpeech": "noun",
+    "pronunciation": "ee-kwuh-NIM-uh-tee",
+    "audioPath": "audio/words/equanimity.mp3",
+    "definitions": ["evenness of mind especially under stress", "right disposition : balance"],
+    "examples": ["Carol's famous equanimity didn't desert her, even in the midst of the crisis."],
+    "origin": "If you think \"equanimity\" looks like it has something to do with \"equal,\" you've guessed correctly. Both \"equanimity\" and \"equal\" are derived from \"aequus,\" a Latin adjective meaning \"level\" or \"equal.\" \"Equanimity\" comes from the combination of \"aequus\" and \"animus\" (\"soul\" or \"mind\") in the Latin phrase \"aequo animo,\" which means \"with even mind.\" English speakers began using \"equanimity\" early in the 17th century with the now obsolete sense \"fairness or justness of judgment,\" which was in keeping with the meaning of the Latin phrase. \"Equanimity\" quickly came to suggest keeping a cool head under any sort of pressure, not merely when presented with a problem, and eventually it developed an extended sense for general balance and harmony."
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "charles-willson-peale",
+    "name": "Charles Willson Peale",
+    "dates": "Apr 15, 1741 - Feb 22, 1827",
+    "mainImg": "img/art/artists/charles-willson-peale.jpg",
+    "artworkImgs": [
+      {
+        "name": "Charles Willson Peale Self-Portrait",
+        "path": "img/art/artworks/charles-willson-peale-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/charles-willson-peale-self-portrait-charles-willson-peale/LgHq2XQEiGi7RA"
+      },
+      {
+        "name": "HENRY KNOX",
+        "path": "img/art/artworks/charles-willson-peale-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/henry-knox-charles-willson-peale-from-life/xwH-0y12CGNAxA"
+      },
+      {
+        "name": "General Henry Knox",
+        "path": "img/art/artworks/charles-willson-peale-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/general-henry-knox-charles-willson-peale/5AHwS2NCjfeIqQ"
+      },
+      {
+        "name": "Portrait of Thomas Jefferson",
+        "path": "img/art/artworks/charles-willson-peale-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-thomas-jefferson-charles-willson-peale-1741–1827/LAGpBhVQCQaBXA"
+      },
+      {
+        "name": "ALEXANDER HAMILTON",
+        "path": "img/art/artworks/charles-willson-peale-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-hamilton-by-charles-willson-peale-from-life/_gFWyYrSUuUVOA"
+      },
+      {
+        "name": "Self-Portrait with Angelica and Portrait of Rachel",
+        "path": "img/art/artworks/charles-willson-peale-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-with-angelica-and-portrait-of-rachel-charles-willson-peale/ggGsowUqXVzGUQ"
+      }
+    ],
+    "summary": [
+      "Charles Willson Peale was an American painter, soldier, scientist, inventor, politician and naturalist. He is best remembered for his portrait paintings of leading figures of the American Revolution, and for establishing one of the first museums in the United States."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism", "Romanticism"],
+    "mediums": ["Oil paint", "Watercolor painting", "Bone", "Ivory", "Engraving", "Etching"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Charles_Willson_Peale",
+    "urlGoogle": "https://artsandculture.google.com/entity/charles-willson-peale/m01xxvg"
+  },
+  "event": {
+    "id": "yalta-conference",
+    "name": "Yalta Conference",
+    "dates": "Feb 4, 1945 - Feb 11, 1945",
+    "mainImg": "img/events/yalta-conference.jpg",
+    "summary": [
+      "The Yalta Conference, also known as the Crimea Conference and code-named the Argonaut Conference, held February 4–11, 1945, was the World War II meeting of the heads of government of the United States, the United Kingdom, and the Soviet Union to discuss the postwar reorganization of Germany and Europe. The three states were represented by President Franklin D. Roosevelt, Prime Minister Winston Churchill, and Premier Joseph Stalin, respectively. The conference was held near Yalta in Crimea, Soviet Union, within the Livadia, Yusupov, and Vorontsov Palaces.",
+      "The aim of the conference was to shape a post-war peace that represented not just a collective security order but a plan to give self-determination to the liberated peoples of post-Nazi Europe. The meeting was intended mainly to discuss the re-establishment of the nations of war-torn Europe. However, within a few short years, with the Cold War dividing the continent, Yalta became a subject of intense controversy.",
+      "Yalta was the second of three major wartime conferences among the Big Three. It was preceded by the Tehran Conference in November 1943, and was followed by the Potsdam Conference in July 1945."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Yalta_Conference",
+    "urlGoogle": "https://artsandculture.google.com/entity/yalta-conference/m0n1ly"
+  },
+  "funFacts": [
+    {
+      "id": "364",
+      "fact": "Borborygmi is the noise that your stomach makes when you are hungry.",
+      "category": ["Anatomy", "Definitions"]
+    },
+    {
+      "id": "86",
+      "fact": "Until the 19th century, solid blocks of tea were used as money in Siberia.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504655",
+      "fact": "Golf legend Jack Nicklaus earned his nickname, the Golden Bear, thanks to his size and blond hair. Conveniently, it was also the name of his high school mascot."
+    }
+  ],
+  "idiom": {
+    "id": "warm-as-toast",
+    "term": "warm as toast",
+    "definition": "Comfortably warm, as in *It was freezing outside, but we were warm as toast in front of the fire.* Despite the British custom of serving toasted bread in a rack that rapidly cools it, this idiom originated in England, at first as *hot as toast* (c. 1430) and by the mid-1800s in its present form."
+  },
+  "person": {
+    "id": "amrit-kaur",
+    "name": "Amrit Kaur",
+    "dates": "Feb 2, 1889 - Feb 6, 1964",
+    "mainImg": "img/people/amrit-kaur.jpg",
+    "summary": [
+      "Rajkumari Bibiji Amrit Kaur DStJ was an Indian activist and politician. Following her long-lasting association with the Indian independence movement, she was appointed the first Health Minister of India in 1947 and remained in office until 1957. During her tenure, Kaur ushered in several healthcare reforms in India and is widely remembered for her contributions to the sector and her advocacy of women's rights. Kaur was also a member of the Indian Constituent Assembly, the body that framed the Constitution of India."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Amrit_Kaur",
+    "urlGoogle": "https://artsandculture.google.com/entity/amrit-kaur/m09rdwg"
+  },
+  "place": {
+    "id": "ghent",
+    "name": "Ghent",
+    "mainImg": "img/places/ghent.jpg",
+    "summary": [
+      "Ghent is a city and a municipality in the Flemish Region of Belgium. It is the capital and largest city of the East Flanders province, and the third largest in the country, exceeded in size by Brussels and Antwerp.",
+      "The city originally started as a settlement at the confluence of the Rivers Scheldt and Leie and in the Late Middle Ages became one of the largest and richest cities of northern Europe, with some 50,000 people in 1300. It is a port and university city.",
+      "The municipality comprises the city of Ghent proper and the surrounding suburbs of Afsnee, Desteldonk, Drongen, Gentbrugge, Ledeberg, Mariakerke, Mendonk, Oostakker, Sint-Amandsberg, Sint-Denijs-Westrem, Sint-Kruis-Winkel, Wondelgem and Zwijnaarde. With 262,219 inhabitants at the beginning of 2019, Ghent is Belgium's second largest municipality by number of inhabitants. The metropolitan area, including the outer commuter zone, covers an area of 1,205 km² and has a total population of 560,522 as of 1 January 2018, which ranks it as the fourth most populous in Belgium. The current mayor of Ghent, Mathias De Clercq is from the liberal & democratic party Open VLD."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ghent",
+    "urlGoogle": "https://artsandculture.google.com/entity/ghent/m037n3"
+  },
+  "wiki": {
+    "id": "gas-metal-arc-welding",
+    "name": "Gas metal arc welding",
+    "summary": "Gas metal arc welding is a semi-automatic or automatic arc welding process that utilizes a welding gun through which a continuous and consumable wire electrode and a shielding gas are fed. A constant voltage, direct current power source is most commonly used with GMAW, but constant current systems, as well as alternating current, can be used. Originally developed for welding aluminum and other non-ferrous materials in the 1940s, GMAW was soon applied to steels because it allowed for lower welding time compared to other welding processes. The cost of inert gas limited its use in steels until several years later, when the use of semi-inert gases such as carbon dioxide became common. Further developments during the 1950s and 1960s gave the process more versatility and as a result, it became a highly used industrial process. Today, GMAW is commonly used in industries such as the automobile industry, where it is preferred for its versatility and speed. Unlike welding processes that do not employ a shielding gas, such as shielded metal arc welding, it is rarely used outdoors or in other areas of air volatility.",
+    "url": "https://en.wikipedia.org/wiki/Gas_metal_arc_welding"
+  },
+  "word": {
+    "id": "gadfly",
+    "word": "gadfly",
+    "url": "https://www.merriam-webster.com/dictionary/gadfly",
+    "partOfSpeech": "noun",
+    "pronunciation": "GAD-flye",
+    "audioPath": "audio/words/gadfly.mp3",
+    "definitions": [
+      "any of various flies (as a horsefly, botfly, or warble fly) that bite or annoy livestock",
+      "a person who stimulates or annoys especially by persistent criticism"
+    ],
+    "examples": [
+      "Robert, the self-appointed gadfly of the local paper, would write a scathing letter to the editor whenever he felt the news coverage had been inadequate or inaccurate."
+    ],
+    "origin": "The history of \"gadfly\" starts with \"gad,\" which now means \"chisel\" but which formerly could designate a spike, spear, or rod for goading cattle. Late in the 16th century, \"gad\" was joined with \"fly\" to designate any of several insects that aggravate livestock. Before too long, we began applying \"gadfly\" to people who annoy or provoke others. One of history's most famous gadflies was the philosopher Socrates, who was known for his constant questioning of his fellow Athenians' ethics, misconceptions, and assumptions. In his _Apology_, Plato describes Socrates' characterization of Athens as a large and sluggish horse and of Socrates himself as the fly that bites and rouses it. Many translations use \"gadfly\" in this portion of the _Apology_, and Socrates is sometimes referred to as the \"gadfly of Athens.\""
+  }
+}

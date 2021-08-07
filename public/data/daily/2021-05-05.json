@@ -69,19 +69,13 @@
       "fact": "Ohio is the only U.S. state that does not have a rectangular flag.",
       "category": ["Geography", "Onlies"]
     },
-    { "id": "14", "fact": "Camel's milk does not curdle.", "category": ["Animals"] },
-    {
-      "id": "754",
-      "fact": "An alligator can go through 3,000 teeth in a lifetime.",
-      "category": ["Animals"]
-    }
+    { "id": "14", "fact": "Camel's milk does not curdle.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "522213",
       "fact": "National Donut Day originally started as a way to honor Salvation Army volunteers who served donuts to soldiers in WWI."
-    },
-    { "id": "506389", "fact": "Baby porcupines are known as porcupettes." }
+    }
   ],
   "idiom": {
     "id": "chickens-come-home-to-roost",

@@ -60,20 +60,9 @@
   },
   "funFacts": [
     { "id": "61", "fact": "Pigs can get sunburn.", "category": ["Animals"] },
-    { "id": "819", "fact": "Children grow faster during springtime.", "category": ["Anatomy"] },
-    {
-      "id": "74",
-      "fact": "You share your birthday with at least 9 million other people in the world.",
-      "category": ["Hodgepodge"]
-    }
+    { "id": "819", "fact": "Children grow faster during springtime.", "category": ["Anatomy"] }
   ],
-  "funFacts2": [
-    { "id": "506377", "fact": "Say cheese? Victorians said \"prunes\" instead." },
-    {
-      "id": "553810",
-      "fact": "Trained pigeons can differentiate between the paintings of Pablo Picasso and Claude Monet."
-    }
-  ],
+  "funFacts2": [{ "id": "506377", "fact": "Say cheese? Victorians said \"prunes\" instead." }],
   "idiom": {
     "id": "swan-song",
     "term": "swan song",

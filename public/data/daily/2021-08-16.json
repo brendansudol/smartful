@@ -1,0 +1,116 @@
+{
+  "artist": {
+    "id": "jasper-johns",
+    "name": "Jasper Johns",
+    "dates": "Born May 15, 1930",
+    "mainImg": "img/art/artists/jasper-johns.jpg",
+    "artworkImgs": [
+      {
+        "name": "Four Panels from Untitled C/D",
+        "path": "img/art/artworks/jasper-johns-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/four-panels-from-untitled-c-d-jasper-johns/bwG0tiQx-R-KfQ"
+      },
+      {
+        "name": "Four Panels from Untitled D/D",
+        "path": "img/art/artworks/jasper-johns-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/four-panels-from-untitled-d-d-jasper-johns/qQG5KVNiexHp-Q"
+      },
+      {
+        "name": "Four Panels from Untitled B/D",
+        "path": "img/art/artworks/jasper-johns-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/four-panels-from-untitled-b-d-jasper-johns/YAFdk26m4HChNw"
+      },
+      {
+        "name": "Four Panels from Untitled A/D",
+        "path": "img/art/artworks/jasper-johns-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/four-panels-from-untitled-a-d-jasper-johns/mQEbfMtFAulEYA"
+      },
+      {
+        "name": "It Happened in Baton Rouge, USA: A Real Life Drama of Our Deep South Today",
+        "path": "img/art/artworks/jasper-johns-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/it-happened-in-baton-rouge-usa-a-real-life-drama-of-our-deep-south-today-major-johns/vgFd5bWMer-tCg"
+      }
+    ],
+    "summary": [
+      "Jasper Johns is an American painter, sculptor and printmaker whose work is associated with abstract expressionism, Neo-Dada, and pop art. He is well known for his depictions of the American flag and other US-related topics. Johns' works regularly sell for millions of dollars at sale and auction, including a reported $110 million sale in 2010. At multiple times works by Johns have held the title of most paid for a work by a living artist.",
+      "Johns has received many honors throughout his career, including receipt of the National Medal of Arts in 1990, and the Presidential Medal of Freedom in 2011. In 2018, The New York Times called him the United States' \"foremost living artist.\""
+    ],
+    "quote": "“When something is new to us, we treat it as an experience. We feel that our senses are awake and clear. We are alive.”",
+    "movements": ["Abstract expressionism", "Modern art", "Contemporary art", "Pop art"],
+    "mediums": [],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jasper_Johns",
+    "urlGoogle": "https://artsandculture.google.com/entity/jasper-johns/m0gcjf"
+  },
+  "event": {
+    "id": "warsaw-pact-invasion-of-czechoslovakia",
+    "name": "Warsaw Pact invasion of Czechoslovakia",
+    "dates": "Aug 20, 1968 - Sep 20, 1968",
+    "mainImg": "img/events/warsaw-pact-invasion-of-czechoslovakia.jpg",
+    "summary": [
+      "The Warsaw Pact invasion of Czechoslovakia, officially known as Operation Danube, was a joint invasion of Czechoslovakia by five Warsaw Pact countries – the Soviet Union, Poland, Bulgaria, East Germany and Hungary – on the night of 20–21 August 1968. Approximately 250,000 Warsaw pact troops attacked Czechoslovakia that night, with Romania and Albania refusing to participate. East German forces, except for a small number of specialists, did not participate in the invasion because they were ordered from Moscow not to cross the Czechoslovak border just hours before the invasion. 137 Czechoslovakian civilians were killed and 500 seriously wounded during the occupation.",
+      "The invasion successfully stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authority of the authoritarian wing within the Communist Party of Czechoslovakia. The foreign policy of the Soviet Union during this era was known as the Brezhnev Doctrine.",
+      "Public reaction to the invasion was widespread and divided."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+    "urlGoogle": "https://artsandculture.google.com/entity/warsaw-pact-invasion-of-czechoslovakia/m03hmf8l"
+  },
+  "funFacts": [
+    { "id": "883", "fact": "Butterflies can taste with their hind feet.", "category": ["Animals"] },
+    {
+      "id": "426",
+      "fact": "The Empire State Building has 73 elevators.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [{ "id": "505506", "fact": "Frank Sinatra was offered the lead role in Die Hard." }],
+  "idiom": {
+    "id": "pyrrhic-victory",
+    "term": "Pyrrhic victory",
+    "definition": "A victory that is offset by staggering losses, as in *The campaign was so divisive that even though he won the election it was a Pyrrhic victory.* This expression alludes to King Pyrrhus of Epirus, who defeated the Romans at Asculum in 279 B.C., but lost his best officers and many of his troops. Pyrrhus then said: \"Another such victory and we are lost.\" In English the term was first recorded (used figuratively) in 1879."
+  },
+  "person": {
+    "id": "fuad-chehab",
+    "name": "Fuad Chehab",
+    "dates": "Mar 19, 1902 - Apr 25, 1973",
+    "mainImg": "img/people/fuad-chehab.jpg",
+    "summary": [
+      "Fuad Abdullah Chehab was the President of the Lebanese Republic from 1958 to 1964 and was Acting President in 1952. He served as Acting Prime Minister of Lebanon in 1952.",
+      "Chehab's mandate was one of the most distinguished in Lebanon's history, due to the important reforms and large scale social development projects that he introduced and initiated, bringing harmony and prosperity to the country, and a mission to build the institutions of the modern state. He was viciously opposed to the sectarian, feudal political leaders."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Fuad_Chehab",
+    "urlGoogle": "https://artsandculture.google.com/entity/fuad-chehab/m02djq0"
+  },
+  "place": {
+    "id": "reykjavik",
+    "name": "Reykjavík",
+    "mainImg": "img/places/reykjavik.jpg",
+    "summary": [
+      "Reykjavík is the capital and largest city of Iceland. It is located in southwestern Iceland, on the southern shore of Faxaflói bay. Its latitude is 64°08' N, making it the world's northernmost capital of a sovereign state. With a population of around 131,136, it is the center of Iceland's cultural, economic, and governmental activity, and is a popular tourist destination.",
+      "Reykjavík is believed to be the location of the first permanent settlement in Iceland, which, according to Landnámabók, was established by Ingólfr Arnarson in AD 874. Until the 19th century, there was no urban development in the city location. The city was founded in 1785 as an official trading town and grew steadily over the following decades, as it transformed into a regional and later national centre of commerce, population, and governmental activities. It is among the cleanest, greenest, and safest cities in the world."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+    "urlGoogle": "https://artsandculture.google.com/entity/reykjavík/m06flg"
+  },
+  "wiki": {
+    "id": "pedro-i-of-brazil",
+    "name": "Pedro I of Brazil",
+    "summary": "Pedro I (1798–1834) was the founder and first ruler of the Empire of Brazil. As King Dom Pedro IV, he reigned over Portugal. Acting as regent on his father's behalf, he declared the independence of Brazil from Portugal on 7 September 1822. His acclamation as Brazilian emperor was followed by a victorious war against Portuguese armies. From the onset his reign was troubled by a long ideological conflict between him and a sizable parliamentary faction over the role of the monarch in the government. Other obstacles arose concurrently. In 1826 he briefly became king of Portugal before abdicating in favor of his eldest daughter, Dona Maria II. Her crown was later usurped by Prince Dom Miguel, Pedro I's younger brother. At the same time the unsuccessful Cisplatine War against the neighboring United Provinces of South America led to the secession of a Brazilian province (later to become Uruguay). Unable to deal with both Brazilian and Portuguese affairs, Pedro I abdicated on 7 April 1831 and immediately departed for Europe to restore his daughter to her throne. He invaded Portugal ahead of an army and defeated his brother, dying soon after of tuberculosis at age 35.",
+    "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil"
+  },
+  "word": {
+    "id": "edentulous",
+    "word": "edentulous",
+    "url": "https://www.merriam-webster.com/dictionary/edentulous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ee-DEN-chuh-luss",
+    "audioPath": "audio/words/edentulous.mp3",
+    "definitions": ["having no teeth : toothless"],
+    "examples": [
+      "Thanks to improvements in public health and dental care in the 20th century, far fewer Americans are edentulous when they enter their golden years."
+    ],
+    "origin": "\"Edentulous\" comes to English directly from the Latin word \"edentulus,\" which in turn comes from the Latin prefix \"e-,\" meaning \"missing\" or \"absent,\" and the Latin root \"dent-,\" meaning \"tooth.\" This root is at work in many familiar English words that relate to teeth, including \"dental,\" \"dentist,\" and \"denture.\" It is also found in \"edentate,\" a less common word that functions as a noun referring to an order of mammals with few or no teeth (e.g. sloths and armadillos), and as an adjective describing such mammals. \"Edentate\" is also sometimes used as a synonym of \"edentulous.\""
+  }
+}

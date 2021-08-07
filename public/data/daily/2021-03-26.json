@@ -68,16 +68,9 @@
       "id": "682",
       "fact": "The giant panda can eat up to 83 lbs of bamboo a day.",
       "category": ["Animals"]
-    },
-    { "id": "397", "fact": "Bamboo can grow over three feet per day.", "category": ["Plants"] }
-  ],
-  "funFacts2": [
-    { "id": "506371", "fact": "Sea cucumbers eat with their feet." },
-    {
-      "id": "554103",
-      "fact": "Ray Bradbury wrote the first draft \u0003of Fahrenheit 451 on a rented typewriter in the basement of the UCLA library in just nine days."
     }
   ],
+  "funFacts2": [{ "id": "506371", "fact": "Sea cucumbers eat with their feet." }],
   "idiom": {
     "id": "browned-off",
     "term": "browned off",

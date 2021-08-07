@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "walt-disney",
+    "name": "Walt Disney",
+    "dates": "Dec 5, 1901 - Dec 15, 1966",
+    "mainImg": "img/art/artists/walt-disney.jpg",
+    "artworkImgs": [
+      {
+        "name": "still bank: Darkwing Duck Still Bank",
+        "path": "img/art/artworks/walt-disney-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/still-bank-darkwing-duck-still-bank-disney/ywFa2zKcG1TQOA"
+      },
+      {
+        "name": "A still from Fantasia",
+        "path": "img/art/artworks/walt-disney-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-still-from-fantasia-walt-disyen/1wGUI5IQdvZ71A"
+      },
+      {
+        "name": "Order of Fifinella Colored Insignia",
+        "path": "img/art/artworks/walt-disney-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/order-of-fifinella-colored-insignia-walt-disney/uAEFcs3_SZkUkg"
+      },
+      {
+        "name": "Poster:101 Dalmatians | One Hundred and One Dalmatians",
+        "path": "img/art/artworks/walt-disney-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/poster-101-dalmatians-one-hundred-and-one-dalmatians-walt-disney/FgG_da-Q_PMr2w"
+      },
+      {
+        "name": "Color Still from Snow White",
+        "path": "img/art/artworks/walt-disney-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/color-still-from-snow-white-disney/rgEtn7YmU7t_eQ"
+      },
+      {
+        "name": "figurine: Mickey Mouse",
+        "path": "img/art/artworks/walt-disney-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/figurine-mickey-mouse-disney/wQFjUz4q9mfgRw"
+      }
+    ],
+    "summary": [
+      "Walter Elias Disney was an American entrepreneur, animator, writer, voice actor and film producer. A pioneer of the American animation industry, he introduced several developments in the production of cartoons. As a film producer, Disney holds the record for most Academy Awards earned by an individual, having won 22 Oscars from 59 nominations. He was presented with two Golden Globe Special Achievement Awards and an Emmy Award, among other honors. Several of his films are included in the National Film Registry by the Library of Congress.",
+      "Born in Chicago in 1901, Disney developed an early interest in drawing. He took art classes as a boy and got a job as a commercial illustrator at the age of 18. He moved to California in the early 1920s and set up the Disney Brothers Studio with his brother Roy. With Ub Iwerks, Walt developed the character Mickey Mouse in 1928, his first highly popular success; he also provided the voice for his creation in the early years. As the studio grew, Disney became more adventurous, introducing synchronized sound, full-color three-strip Technicolor, feature-length cartoons and technical developments in cameras."
+    ],
+    "quote": "“Mickey Mouse is, to me, a symbol of independence. He was a means to an end.”",
+    "movements": [],
+    "mediums": ["Plastic"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Walt_Disney",
+    "urlGoogle": "https://artsandculture.google.com/entity/walt-disney/m081nh"
+  },
+  "event": {
+    "id": "siege-of-bergen-op-zoom",
+    "name": "Siege of Bergen op Zoom",
+    "dates": null,
+    "mainImg": "img/events/siege-of-bergen-op-zoom.jpg",
+    "summary": [
+      "The Siege of Bergen op Zoom took place during the Austrian War of Succession, when a French army, under the command of Lowendal and the overall direction of Marshal Maurice de Saxe, laid siege and captured the strategic Dutch border fortress of Bergen op Zoom on the border of Brabant and Zeeland in 1747. The fortress was defended by Dutch, Austrians, British, Hanoverians and Hessians that supported the Pragmatic Sanction.",
+      "After seven years of brutal war, both sides in this conflict were suffering from weariness of the war. Although tentative peace initiatives had been put forward, neither side was yet willing to make meaningful concessions. The capture of Bergen op Zoom would be a signal defeat for the Dutch and would open the door for an invasion of the Dutch Netherlands. The siege was the center of attention in Europe and news of it followed eagerly in numerous reports with the Pragmatic allies confident that the fortress would withstand the French and the French determined it should fall."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Bergen_op_Zoom_%281747%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-bergen-op-zoom/m05f64tj"
+  },
+  "funFacts": [
+    {
+      "id": "448",
+      "fact": "The sun evaporates about a trillion tons of water a day.",
+      "category": ["Science"]
+    },
+    { "id": "229", "fact": "The Caspian Sea is actually a lake.", "category": ["Geography"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "504713",
+      "fact": "The medical term for ice cream headaches is sphenopalatine ganglioneuralgia."
+    }
+  ],
+  "idiom": {
+    "id": "cool-as-a-cucumber",
+    "term": "cool as a cucumber",
+    "definition": "Calm and composed, self-possessed, as in *Despite the mishap Margaret was cool as a cucumber.* This idiom may be based on the fact that in hot weather the inside of cucumbers remains cooler than the air. [c. 1600]"
+  },
+  "person": {
+    "id": "karel-englis",
+    "name": "Karel Engliš",
+    "dates": "Aug 17, 1880 - Jun 15, 1961",
+    "mainImg": "img/people/karel-englis.jpg",
+    "summary": [
+      "Karel Engliš war ein tschechischer Ökonom, Politikwissenschaftler und Begründer der teleologischen Wirtschaftstheorie.",
+      "Engliš war der erste Rektor der Masaryk-Universität Brünn und von 1947 bis 1948 Rektor der Karls-Universität in Prag. Gemeinsam mit Alois Rašín war er als Finanzminister maßgeblich an der tschechoslowakischen Währungsreform nach dem Ersten Weltkrieg beteiligt. Von 1934 bis 1938 war er Gouverneur der Tschechoslowakischen Nationalbank."
+    ],
+    "quote": null,
+    "urlWiki": "https://de.wikipedia.org/wiki/Karel_Engli%C5%A1",
+    "urlGoogle": "https://artsandculture.google.com/entity/karel-engliš/m0c47x5k"
+  },
+  "place": {
+    "id": "jakarta",
+    "name": "Jakarta",
+    "mainImg": "img/places/jakarta.jpg",
+    "summary": [
+      "Jakarta, officially the Special Capital Region of Jakarta, is the capital and a province of Indonesia. Situated on the northwest coast of the world's most populous island of Java, it is the centre of economy, culture and politics of Indonesia with a population of more than ten million as of 2014. Although Jakarta only covers 699.5 square kilometres, the smallest among any Indonesian provinces, its metropolitan area covers 6,392 square kilometres; it is the world's second-most populous urban area after Tokyo, with a population of about 30 million as of 2010. Jakarta's business opportunities, as well as its potential to offer a higher standard of living, have attracted migrants from across the Indonesian archipelago, making it a melting pot of numerous cultures. Jakarta is nicknamed the \"Big Durian\", the thorny strongly-odored fruit native to the region, as the city is seen as the Indonesian equivalent of New York.",
+      "Established in the fourth century as Sunda Kelapa, the city became an important trading port for the Sunda Kingdom. It was the de facto capital of the Dutch East Indies when it was known as Batavia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Jakarta",
+    "urlGoogle": "https://artsandculture.google.com/entity/jakarta/m044rv"
+  },
+  "wiki": {
+    "id": "river-parrett",
+    "name": "River Parrett",
+    "summary": "The River Parrett flows through the counties of Dorset and Somerset in South West England, from its source in the Thorney Mills springs in the hills around Chedington in Dorset. Flowing northwest through Somerset and the Somerset Levels to its mouth at Burnham-on-Sea, into the Bridgwater Bay Nature Reserve on the Bristol Channel, the Parrett drains about 50 per cent of Somerset's land area. The 37-mile (60 km) long river is tidal for 27 miles (43 km) up to Oath. Because the fall of the river between Langport and Bridgwater is only 1 foot per mile (0.2 m/km), it is prone to frequent flooding in winter and during high tides. During the Roman era the river was crossed by a ford, and in Anglo-Saxon times formed a boundary between Wessex and Dumnonia. From the medieval period the river served the Port of Bridgwater, enabling cargoes to be transported inland. The arrival of the railways led to a decline and commercial shipping now only docks at Dunball. The Parrett along with its connected waterways and network of drains supports an ecosystem that includes several rare species of flora and fauna. The River Parrett Trail has been established along the banks of the river.",
+    "url": "https://en.wikipedia.org/wiki/River_Parrett"
+  },
+  "word": {
+    "id": "synecdoche",
+    "word": "synecdoche",
+    "url": "https://www.merriam-webster.com/dictionary/synecdoche",
+    "partOfSpeech": "noun",
+    "pronunciation": "suh-NEK-duh-kee",
+    "audioPath": "audio/words/synecdoche.mp3",
+    "definitions": [
+      "a figure of speech by which a less encompassing term is put for a more encompassing term or vice versa"
+    ],
+    "examples": [
+      "Shakespeare's Macbeth employs _synecdoche_ when he orders a servant out of his presence with the command \"Take thy face hence.\"",
+      "\"At times, Dos Passos suggests that New York City is a _synecdoche_ for a larger, unrepresentable global society, which effectively transgresses any clear boundary between domestic and foreign policies….\" -- From John Carlos Rowe's 2011 book _Afterlives of Modernism_"
+    ],
+    "origin": "\"Synecdoche,\" from Greek \"syn-\" (\"together\") and \"ekdochē\" (\"interpretation\"), is a good word to know if you are a budding author. Writers, and especially poets, use synecdoche in several different ways to create vivid imagery. Most frequently, synecdoche involves substituting a part for the whole (\"fifty sail\" for \"fifty ships\"). Less commonly, it involves putting the whole for the part (\"society\" for \"high society\"), the species for the genus (\"cutthroat\" for \"assassin\"), the genus for the species (\"a creature\" for \"a man\"), or the material for the thing made (\"boards\" for \"stage\"). Synecdoche is similar to metonymy, the use of the name of one thing in place of something associated with it (such as \"Shakespeare\" for \"the works of Shakespeare\")."
+  }
+}

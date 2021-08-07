@@ -1,0 +1,124 @@
+{
+  "artist": {
+    "id": "bohumil-kubista",
+    "name": "Bohumil Kubišta",
+    "dates": "Aug 21, 1884 - Nov 27, 1918",
+    "mainImg": "img/art/artists/bohumil-kubista.jpg",
+    "artworkImgs": [
+      {
+        "name": "Self-portrait",
+        "path": "img/art/artworks/bohumil-kubista-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-bohumil-kubišta/7gGfHvho2s_Zgg"
+      },
+      {
+        "name": "Train in the Mountains (Tunnel)",
+        "path": "img/art/artworks/bohumil-kubista-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/train-in-the-mountains-tunnel-bohumil-kubišta/7AHZbhJG-64ixg"
+      },
+      {
+        "name": "Portrait of Jan Zrzavý",
+        "path": "img/art/artworks/bohumil-kubista-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-jan-zrzavý-bohumil-kubišta/NgHCmvpg2_wp1g"
+      },
+      {
+        "name": "Please, From the Veraikon Album",
+        "path": "img/art/artworks/bohumil-kubista-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/please-from-the-veraikon-album-bohumil-kubišta/_QHJHJRgnC_tUQ"
+      },
+      {
+        "name": "Still-Life with a Lamp",
+        "path": "img/art/artworks/bohumil-kubista-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-a-lamp-bohumil-kubišta/jAFrQBahgOFv3g"
+      },
+      {
+        "name": "Portrait of Schoppenhauer",
+        "path": "img/art/artworks/bohumil-kubista-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-schoppenhauer-bohumil-kubišta/QQG8LqNRjsavhg"
+      }
+    ],
+    "summary": [
+      "Bohumil Kubišta was a Czech painter and art critic, one of the founders of Czech modern painting. He studied at the Academy of Fine Arts in Prague, but left in 1906 to study at the Reale Istituto di Belle Arti in Florence. He, Emil Filla, Antonín Procházka, and five others founded Osma, an Expressionist-oriented group of artists."
+    ],
+    "quote": null,
+    "movements": ["Modern art", "Cubism", "Die Brücke", "Expressionism"],
+    "mediums": ["Oil paint", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Bohumil_Kubi%C5%A1ta",
+    "urlGoogle": "https://artsandculture.google.com/entity/bohumil-kubišta/m0g5m00"
+  },
+  "event": {
+    "id": "operation-sourisak-montry-viii",
+    "name": "Operation Sourisak Montry VIII",
+    "dates": "September 1971 - Jun 22, 1972",
+    "mainImg": "img/events/operation-sourisak-montry-viii.jpg",
+    "summary": [
+      "Operation Sourisak Montry VIII was a Thai military offensive against an encroaching Chinese Communist presence just north of the Mekong River. Operation Phalat established a base camp at Xieng Lom, Laos, on the southern bank of the Mekong River, and garrisoned it with three Thai mercenary battalions. Operation Sourisak Montry was a series of indecisive skirmishes in the same area, during which the Thais won a Pyrrhic victory over the Pathet Lao in mid-March 1972.",
+      "Subsequently, Operation Sourisak Montry VIII in June 1972 attempted to recapture two Lao border villages from Communist forces. The offensive ended poorly, with an Air America civilian pilot killed, an 80-man column pinned down for ten days, and the Thai troops repulsed."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Sourisak_Montry_VIII",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-sourisak-montry-viii/g11c3xdl9tp"
+  },
+  "funFacts": [
+    {
+      "id": "818",
+      "fact": "The infinity sign is called a lemniscate.",
+      "category": ["Definitions"]
+    },
+    {
+      "id": "133",
+      "fact": "Honeybees navigate by using the sun as a compass.",
+      "category": ["Animals", "Geography"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "505072", "fact": "Paraskavedekatriaphobia is the fear of Friday the 13th." }
+  ],
+  "idiom": {
+    "id": "rob-peter-to-pay-paul",
+    "term": "rob Peter to pay Paul",
+    "definition": "Take from one to give to another, shift resources. For example, *They took out a second mortgage on their house so they could buy a condo in Florida---they're robbing Peter to pay Paul.* Although legend has it that this expression alludes to appropriating the estates of St. Peter's Church, in Westminster, London, to pay for the repairs of St. Paul's Cathedral in the 1800s, the saying first appeared in a work by John Wycliffe about 1382."
+  },
+  "person": {
+    "id": "rene-pleven",
+    "name": "René Pleven",
+    "dates": "Apr 15, 1901 - Jan 13, 1993",
+    "mainImg": "img/people/rene-pleven.jpg",
+    "summary": [
+      "René Pleven was a notable French politician of the Fourth Republic. A member of the Free French, he helped found the Democratic and Socialist Union of the Resistance, a political party that was meant to be a successor to the wartime Resistance movement. He served as prime minister two times in the early 1950s, where his most notable contribution was the introduction of the Pleven Plan, which called for a European Defence Community between France, Italy, West Germany, and the Benelux countries."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ren%C3%A9_Pleven",
+    "urlGoogle": "https://artsandculture.google.com/entity/rené-pleven/m02slvj"
+  },
+  "place": {
+    "id": "haarlem",
+    "name": "Haarlem",
+    "mainImg": "img/places/haarlem.jpg",
+    "summary": [
+      "Haarlem is a city and municipality in the Netherlands. It is the capital of the province of North Holland and is situated at the northern edge of the Randstad, one of the most populated metropolitan areas in Europe. Haarlem had a population of 161,265 in 2019.",
+      "Haarlem was granted city status or stadsrechten in 1245, although the first city walls were not built until 1270. The modern city encompasses the former municipality of Schoten as well as parts that previously belonged to Bloemendaal and Heemstede. Apart from the city, the municipality of Haarlem also includes the western part of the village of Spaarndam. Newer sections of Spaarndam lie within the neighbouring municipality of Haarlemmermeer."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Haarlem",
+    "urlGoogle": "https://artsandculture.google.com/entity/haarlem/m0h095"
+  },
+  "wiki": {
+    "id": "stegosaurus",
+    "name": "Stegosaurus",
+    "summary": "Stegosaurus is a genus of stegosaurid armoured dinosaur from the Late Jurassic period of what is now western North America. Due to its distinctive tail spikes and plates, Stegosaurus is one of the most recognisable dinosaurs, along with Tyrannosaurus, Triceratops and Diplodocus. At least three species have been identified in the upper Morrison Formation and are known from numerous remains. They lived some 155 to 145 million years ago, in an environment and time dominated by the giant sauropods Diplodocus, Camarasaurus and Apatosaurus. A large, heavily-built and herbivorous quadruped, Stegosaurus had a distinctive and unusual posture, with a heavily-arched back, short forelimbs, head held low to the ground and a stiffened tail held high in the air. Stegosaurus was the largest of all the stegosaurians and, although roughly bus-sized, it nonetheless shared many of the anatomical features with other stegosaurian genera.",
+    "url": "https://en.wikipedia.org/wiki/Stegosaurus"
+  },
+  "word": {
+    "id": "flyting",
+    "word": "flyting",
+    "url": "https://www.merriam-webster.com/dictionary/flyting",
+    "partOfSpeech": "noun",
+    "pronunciation": "FLY-ting",
+    "audioPath": "audio/words/flyting.mp3",
+    "definitions": ["a dispute or exchange of personal abuse in verse form"],
+    "examples": [
+      "In the first flyting in Shakespeare's _Much Ado About Nothing_, Beatrice wittily responds to Benedick's line \"What, my dear Lady Disdain! are you yet living?\" with \"Is it possible Disdain should die while she hath such meet / food to feed it as Signior Benedick?\""
+    ],
+    "origin": "Flyting in 15th- and 16th-century Scotland is analogous to a modern-day rap competition during which rappers improvise clever disses and put-downs against their opponents. Similarly, the makars (a Scottish word for \"poets\") engaged in verbal duels in which they voiced extravagant invectives in verse against their rivals. The base of \"flyting\" is the ancient verb \"flyte\" (also spelled \"flite\"), meaning \"to contend\" or \"to quarrel.\""
+  }
+}

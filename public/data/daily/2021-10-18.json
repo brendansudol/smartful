@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "thomas-gainsborough",
+    "name": "Thomas Gainsborough",
+    "dates": "May 14, 1727 - Aug 2, 1788",
+    "mainImg": "img/art/artists/thomas-gainsborough.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Honourable Mrs Graham (1757 - 1792)",
+        "path": "img/art/artworks/thomas-gainsborough-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-honourable-mrs-graham-1757-1792-thomas-gainsborough/TgHatHjpBVyqrg"
+      },
+      {
+        "name": "The Hon. Mrs. Thomas Graham",
+        "path": "img/art/artworks/thomas-gainsborough-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-hon-mrs-thomas-graham-thomas-gainsborough/6AFbv_OarFooRA"
+      },
+      {
+        "name": "Landscape in Suffolk",
+        "path": "img/art/artworks/thomas-gainsborough-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-in-suffolk-thomas-gainsborough/1gF92SrzrB7yeA"
+      },
+      {
+        "name": "Portrait of George III",
+        "path": "img/art/artworks/thomas-gainsborough-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-george-iii-thomas-gainsborough-1728–1788/3wGfLWZooytDjg"
+      },
+      {
+        "name": "The Marsham Children",
+        "path": "img/art/artworks/thomas-gainsborough-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-marsham-children-thomas-gainsborough/ZAGVmVTE2nQ9RQ"
+      },
+      {
+        "name": "The Hon. Frances Duncombe",
+        "path": "img/art/artworks/thomas-gainsborough-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-hon-frances-duncombe-thomas-gainsborough/iQFaeEGJw_AF-w"
+      }
+    ],
+    "summary": [
+      "Thomas Gainsborough RA FRSA was an English portrait and landscape painter, draughtsman, and printmaker. Along with his rival Sir Joshua Reynolds, he is considered one of the most important British artists of the second half of the 18th century. He painted quickly, and the works of his maturity are characterised by a light palette and easy strokes. Despite being a prolific portrait painter, Gainsborough gained greater satisfaction from his landscapes. He is credited as the originator of the 18th-century British landscape school. Gainsborough was a founding member of the Royal Academy."
+    ],
+    "quote": null,
+    "movements": ["Rococo", "Renaissance", "Romanticism", "Neoclassicism"],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Ink", "Watercolor painting", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Thomas_Gainsborough",
+    "urlGoogle": "https://artsandculture.google.com/entity/thomas-gainsborough/m07ncv"
+  },
+  "event": {
+    "id": "united-nations-operation-in-the-congo",
+    "name": "United Nations Operation in the Congo",
+    "dates": "Jul 14, 1960",
+    "mainImg": "img/events/united-nations-operation-in-the-congo.jpg",
+    "summary": [
+      "The United Nations Operation in the Congo was a peacekeeping force established by the United Nations to maintain order in the Republic of the Congo on 14 July 1960 amid the Congo Crisis. ONUC was the UN's first peacekeeping mission with significant military capabilities. It was withdrawn in 1964.",
+      "Following Security Council actions, the United Nations Organisation in the Congo was established. To carry out these tasks, the Secretary-General set up a United Nations Force—at its peak strength numbering nearly 20,000. The UN Force stayed in the Congo between 1960 and 1964, and underwent a transition from a peacekeeping presence to a military force.",
+      "ONUC's main goals stayed consistent from the first to fifth resolution. It aimed to both have Belgian military personnel withdrawn and to provide military assistance to ensure internal stability. The successive Security Council resolutions added to and elaborated on the initial mandate but did not fundamentally change the operation's objectives. These were especially significant because Belgium's invasion violated the norm of sovereignty, and the second objective was set to prevent the country from becoming a Cold War client state."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/United_Nations_Operation_in_the_Congo",
+    "urlGoogle": "https://artsandculture.google.com/entity/united-nations-operation-in-the-congo/m06vfpl"
+  },
+  "funFacts": [
+    {
+      "id": "58",
+      "fact": "A sneeze travels out of your mouth at over 100 miles an hour.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "1012",
+      "fact": "The King of Hearts is the only king without a mustache.",
+      "category": ["Hodgepodge", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553858",
+      "fact": "Nineteenth-century British surgeon George Merryweather believed leeches could predict the weather. His \"tempest prognosticator,\" displayed at the Great Exhibition in 1851, failed to catch on."
+    }
+  ],
+  "idiom": {
+    "id": "cut-of-ones-jib",
+    "term": "cut of one's jib",
+    "definition": "One's general appearance or personality, as in *I don't like the cut of Ben's jib.* In the 17th century the shape of the jib sail often identified a vessel's nationality, and hence whether it was hostile or friendly. The term was being used figuratively by the early 1800s, often to express one's liking or dislike for someone."
+  },
+  "person": {
+    "id": "pedro-eugenio-aramburu",
+    "name": "Pedro Eugenio Aramburu",
+    "dates": "May 21, 1903 - Jun 1, 1970",
+    "mainImg": "img/people/pedro-eugenio-aramburu.jpg",
+    "summary": [
+      "Pedro Eugenio Aramburu Silveti was an Argentine Army general. He was a major figure behind the Revolución Libertadora, the military coup against Juan Perón in 1955. He became President of Argentina from November 13, 1955 to May 1, 1958. He was kidnapped by the radical organization Montoneros on May 29, 1970 and murdered, allegedly in retaliation for the June 1956 execution of General Juan José Valle, an army officer associated with the Peronist movement, and 26 Peronist militants after a botched attempt to overthrow his regime."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pedro_Eugenio_Aramburu",
+    "urlGoogle": "https://artsandculture.google.com/entity/pedro-eugenio-aramburu/m01xy2_"
+  },
+  "place": {
+    "id": "long-beach",
+    "name": "Long Beach",
+    "mainImg": "img/places/long-beach.jpg",
+    "summary": [
+      "Long Beach is a city in the U.S. state of California located within the Los Angeles metropolitan area. It is the 39th most populous city in the United States with a population of 462,257 in 2010. A charter city, Long Beach is the 7th most populous city in California.",
+      "Incorporated in 1897, Long Beach lies in Southern California in southern Los Angeles County. Long Beach is approximately 20 miles south of downtown Los Angeles, and is part of the Gateway Cities region. The Port of Long Beach is the second busiest container port in the United States and is among the world's largest shipping ports. The city is over an oilfield with minor wells both directly beneath the city as well as offshore.",
+      "The city is known for its waterfront attractions, including the permanently docked RMS Queen Mary and the Aquarium of the Pacific. Long Beach also hosts the Grand Prix of Long Beach, currently an IndyCar race. The California State University, Long Beach, one of the largest universities in California by enrollment, is located in the city."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Long_Beach,_California",
+    "urlGoogle": "https://artsandculture.google.com/entity/long-beach/m0nbwf"
+  },
+  "wiki": {
+    "id": "flag-of-portugal",
+    "name": "Flag of Portugal",
+    "summary": "The flag of Portugal consists of a rectangle vertically divided into green, at the hoist, and red, at the fly, with a simple version of the national coat of arms (armillary sphere and Portuguese shield) centered over the boundary between the colors. It was officially adopted on 30 June1911, replacing the flag used under the constitutional monarchy, after being chosen from several proposals by a special commission whose members included Columbano Bordalo Pinheiro, João Chagas and Abel Botelho. The new background colors, especially green, were not traditional and represented a radical republican-inspired change of this national symbol, breaking a bond with the former religious monarchical flag. The current flag represents a sweeping change in the evolution of the Portuguese flag, which was always intimately associated with the royal arms. Since the country's foundation, the national flag developed from King Afonso I's blue-cross-on-white armorial square banner to the liberal monarchy's royal arms on a blue-and-white rectangle. In between, major changes associated with important political events contributed to the evolution of the national shield into its current design.",
+    "url": "https://en.wikipedia.org/wiki/Flag_of_Portugal"
+  },
+  "word": {
+    "id": "abbreviate",
+    "word": "abbreviate",
+    "url": "https://www.merriam-webster.com/dictionary/abbreviate",
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-BREE-vee-ayt",
+    "audioPath": "audio/words/abbreviate.mp3",
+    "definitions": [
+      "to make briefer; especially : to reduce to a shorter form intended to stand for the whole"
+    ],
+    "examples": [
+      "Due to time constraints, the last speaker at the ceremony had to _abbreviate_ her speech.",
+      "\"You know, originally, my team had prepared some remarks.… But given the dialogue that we had the last time, I thought it was useful for me to _abbreviate_ my remarks, speak off the cuff at the top and then spend most of the time just having a conversation.\" - Barack Obama, quoted in CNN Transcripts, December 5, 2012"
+    ],
+    "origin": "_Abbreviate_ and _abridge_ both mean \"to make shorter,\" so it probably will come as no surprise that both derive from the Latin verb _brevis_, meaning \"short.\" _Abbreviate_ first appeared in print in English in the 15th century and derives from _abbreviatus_, the past participle of Late Latin _abbreviare_, which in turn can be traced back to _brevis_. _Abridge_, which appeared a century earlier, also comes from _abbreviare_ but took a side trip through Anglo-French before arriving in Middle English as _abregen_. _Brevis_ is also the ancestor of English brief itself, as well as brevity and breviary (\"a prayer book\" or \"a brief summary\"), among others."
+  }
+}

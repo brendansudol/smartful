@@ -65,17 +65,12 @@
       "fact": "New York was the first state to require cars to have license plates.",
       "category": ["Firsts"]
     },
-    { "id": "718", "fact": "Strawberries have an average of 200 seeds.", "category": ["Food"] },
-    { "id": "229", "fact": "The Caspian Sea is actually a lake.", "category": ["Geography"] }
+    { "id": "718", "fact": "Strawberries have an average of 200 seeds.", "category": ["Food"] }
   ],
   "funFacts2": [
     {
       "id": "504662",
       "fact": "Pentheraphobia is the intense and disproportionate fear of your mother-in-law."
-    },
-    {
-      "id": "554038",
-      "fact": "Hollywood starlet Hedy Lamarr is often called the “mother of Wi-Fi.” She helped invent a version of the frequency-hopping system that led to the creation of GPS, Bluetooth, and wireless internet."
     }
   ],
   "idiom": {

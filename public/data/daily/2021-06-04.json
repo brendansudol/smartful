@@ -65,21 +65,12 @@
       "fact": "It is impossible to sneeze with your eyes open.",
       "category": ["Anatomy"]
     },
-    { "id": "756", "fact": "Penguins can jump 6 feet.", "category": ["Animals"] },
-    {
-      "id": "49",
-      "fact": "Despite its hump, a camel has a straight spine.",
-      "category": ["Animals"]
-    }
+    { "id": "756", "fact": "Penguins can jump 6 feet.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "554031",
       "fact": "The Hass avocado was patented in 1935 by Rudolph Hass, a mailman from California."
-    },
-    {
-      "id": "506869",
-      "fact": "The MOBA, or the Museum of Bad Art in Somerville, Massachusetts, is pretty much exactly what it sounds like— a collection of really bad art."
     }
   ],
   "idiom": {

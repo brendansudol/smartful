@@ -70,22 +70,10 @@
       "id": "678",
       "fact": "Unlike your housecat, the Siberian tiger actually loves to swim!",
       "category": ["Animals"]
-    },
-    {
-      "id": "1027",
-      "fact": "The soil on Mars is rust color because it's full of rust.",
-      "category": ["Geography", "Science"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "553839",
-      "fact": "Queen Elizabeth II technically owns all the dolphins in UK waters."
-    },
-    {
-      "id": "553822",
-      "fact": "In the late 19th century, Beatrix Potter kept a journal in a secret code so complex it wasn't cracked until 1958."
-    }
+    { "id": "553839", "fact": "Queen Elizabeth II technically owns all the dolphins in UK waters." }
   ],
   "idiom": {
     "id": "shake-the-dust-from-ones-feet",

@@ -65,21 +65,12 @@
       "fact": "Grapes are the most popular fruit in the world.",
       "category": ["Food", "Plants"]
     },
-    { "id": "214", "fact": "Giraffes can lick their own eyes.", "category": ["Animals"] },
-    {
-      "id": "867",
-      "fact": "Franklin Roosevelt was related to 5 U.S. Presidents by blood and 6 by marriage.",
-      "category": ["History"]
-    }
+    { "id": "214", "fact": "Giraffes can lick their own eyes.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "506903",
       "fact": "A British man changed his name to Tim Pppppppppprice to make it harder for telemarketers to pronounce."
-    },
-    {
-      "id": "554005",
-      "fact": "Since 1971, Lake Superior State University in Sault Ste. Marie, Michigan has issued permits to unicorn hunters."
     }
   ],
   "idiom": {

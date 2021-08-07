@@ -1,0 +1,121 @@
+{
+  "artist": {
+    "id": "carl-larsson",
+    "name": "Carl Larsson",
+    "dates": "May 28, 1853 - Jan 22, 1919",
+    "mainImg": "img/art/artists/carl-larsson.jpg",
+    "artworkImgs": [
+      {
+        "name": "Midwinter's Sacrifice",
+        "path": "img/art/artworks/carl-larsson-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/midwinter-s-sacrifice-carl-larsson/FgHwZjBuY9GDjA"
+      },
+      {
+        "name": "Getting Ready for a Game",
+        "path": "img/art/artworks/carl-larsson-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/getting-ready-for-a-game-carl-larsson/6QH_Y6QiU15luw"
+      },
+      {
+        "name": "The author August Strindberg",
+        "path": "img/art/artworks/carl-larsson-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-author-august-strindberg-carl-larsson/dgFvBPSM4yKLoQ"
+      },
+      {
+        "name": "Open-Air Painter. Winter-Motif from Åsögatan 145, Stockholm",
+        "path": "img/art/artworks/carl-larsson-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/open-air-painter-winter-motif-from-åsögatan-145-stockholm-carl-larsson/bwEJZOVaCQUzfQ"
+      },
+      {
+        "name": "Self-Portrait (In the new studio)",
+        "path": "img/art/artworks/carl-larsson-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-in-the-new-studio/awFQqwrFv5MYgA"
+      },
+      {
+        "name": "Girl and rocking chair",
+        "path": "img/art/artworks/carl-larsson-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/girl-and-rocking-chair/7AGa3s4zcAvy8A"
+      }
+    ],
+    "summary": [
+      "Carl Olof Larsson was a Swedish painter representative of the Arts and Crafts movement. His many paintings include oils, watercolors, and frescoes. He is principally known for his watercolors of idyllic family life. He considered his finest work to be Midvinterblot, a large painting now displayed inside the Swedish National Museum of Fine Arts."
+    ],
+    "quote": null,
+    "movements": ["Modern art", "Art Nouveau", "Arts and Crafts movement", "Realism"],
+    "mediums": ["Watercolor painting", "Oil paint", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Carl_Larsson",
+    "urlGoogle": "https://artsandculture.google.com/entity/carl-larsson/m0m431"
+  },
+  "event": {
+    "id": "battle-of-passchendaele",
+    "name": "Battle of Passchendaele",
+    "dates": "Jul 31, 1917 - Nov 10, 1917",
+    "mainImg": "img/events/battle-of-passchendaele.jpg",
+    "summary": [
+      "The Third Battle of Ypres, also known as the Battle of Passchendaele, was a campaign of the First World War, fought by the Allies against the German Empire. The battle took place on the Western Front, from July to November 1917, for control of the ridges south and east of the Belgian city of Ypres in West Flanders, as part of a strategy decided by the Allies at conferences in November 1916 and May 1917. Passchendaele lies on the last ridge east of Ypres, 5 mi from Roulers junction of the Bruges to Kortrijk railway. The station at Roulers was on the main supply route of the German 4th Army. Once Passchendaele Ridge had been captured, the Allied advance was to continue to a line from Thourout to Couckelaere.",
+      "Further operations and a British supporting attack along the Belgian coast from Nieuport, combined with an amphibious landing, were to have reached Bruges and then the Dutch frontier. The resistance of the 4th Army, unusually wet weather in August, the beginning of the autumn rains in October and the diversion of British and French resources to Italy, enabled the Germans to avoid the general withdrawal which had seemed inevitable in early October."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Passchendaele",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-passchendaele/m0c3mz"
+  },
+  "funFacts": [
+    { "id": "320", "fact": "There is a town called Jackpot in Nevada.", "category": ["Geography"] },
+    { "id": "51", "fact": "There are 63,360 inches in a mile.", "category": ["Hodgepodge"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "504654",
+      "fact": "In early drafts of the Back to the Future script, the time machine was built out of an old refrigerator."
+    }
+  ],
+  "idiom": {
+    "id": "red-herring",
+    "term": "red herring",
+    "definition": "Something that draws attention away from the central issue, as in *Talking about the new plant is a red herring to keep us from learning about downsizing plans.* The *herring* in this expression is red and strong-smelling from being preserved by smoking. The idiom alludes to dragging a smoked herring across a trail to cover up the scent and throw off tracking dogs. [Late 1800s]"
+  },
+  "person": {
+    "id": "george-herbert",
+    "name": "George Herbert",
+    "dates": "Apr 3, 1593 - Mar 1, 1633",
+    "mainImg": "img/people/george-herbert.jpg",
+    "summary": [
+      "George Herbert was a Welsh-born poet, orator, and priest of the Church of England. His poetry is associated with the writings of the metaphysical poets, and he is recognised as \"one of the foremost British devotional lyricists.\" He was born into an artistic and wealthy family and largely raised in England. He received a good education that led to his admission to Trinity College, Cambridge in 1609. He went there with the intention of becoming a priest, but he became the University's Public Orator and attracted the attention of King James I. He served in the Parliament of England in 1624 and briefly in 1625.",
+      "After the death of King James, Herbert renewed his interest in ordination. He gave up his secular ambitions in his mid-thirties and took holy orders in the Church of England, spending the rest of his life as the rector of the little parish of St Andrew's Church, Lower Bemerton, Salisbury. He was noted for unfailing care for his parishioners, bringing the sacraments to them when they were ill and providing food and clothing for those in need. Henry Vaughan called him \"a most glorious saint and seer.\" He was never a healthy man and died of consumption at age 39."
+    ],
+    "quote": "“Woe be to him that reads but one book.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/George_Herbert",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-herbert/m01h9bc"
+  },
+  "place": {
+    "id": "derby",
+    "name": "Derby",
+    "mainImg": "img/places/derby.jpg",
+    "summary": [
+      "Derby is a city and unitary authority area in Derbyshire, England. It lies on the banks of the River Derwent in the south of Derbyshire, of which it was traditionally the county town. Derby gained city status in 1977, and by the 2011 census its population was 248,700.",
+      "Derby was settled by Romans – who established the town of Derventio – Saxons and Vikings, who made Derby one of the Five Boroughs of the Danelaw. Initially a market town, Derby grew rapidly in the industrial era. Home to Lombe's Mill, an early British factory, Derby has a claim to be one of the birthplaces of the Industrial Revolution. It contains the southern part of the Derwent Valley Mills World Heritage Site. With the arrival of the railways in the 19th century, Derby became a centre of the British rail industry.",
+      "Derby is a centre for advanced transport manufacturing, home to the world's second largest aero-engine manufacturer, Rolls-Royce. Bombardier Transportation are based at the Derby Litchurch Lane Works and were for many years the UK's only train manufacturer. Toyota Manufacturing UK's automobile headquarters is south west of the city at Burnaston. To the east lies Nottingham, separated by the M1 motorway."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Derby",
+    "urlGoogle": "https://artsandculture.google.com/entity/derby/m025r_t"
+  },
+  "wiki": {
+    "id": "crab-nebula",
+    "name": "Crab Nebula",
+    "summary": "The Crab Nebula is a supernova remnant in the constellation of Taurus. The nebula was first observed by John Bevis in 1731, and is the remnant of a supernova that was recorded by Chinese and Arab astronomers in 1054 as being visible during daylight for 23 days. Located at a distance of about 6,300 light years from Earth, it has a diameter of 6 light years and is expanding at a rate of about 1500 kilometres per second. A pulsar in the centre of the nebula rotates 30 times per second, emitting pulses of radiation across the electromagnetic spectrum from radio waves to gamma rays. Its discovery provided the first conclusive evidence that supernova explosions produce the extremely dense neutron stars which are observed as pulsars. The nebula acts as a source of radiation for studying celestial bodies that occult it. The Sun's corona was mapped in the 1950s and 60s from observations of the Crab's radio waves passing through it, and more recently, the thickness of the atmosphere of Saturn's moon Titan was measured as it blocked out X-rays from the nebula.",
+    "url": "https://en.wikipedia.org/wiki/Crab_Nebula"
+  },
+  "word": {
+    "id": "nimiety",
+    "word": "nimiety",
+    "url": "https://www.merriam-webster.com/dictionary/nimiety",
+    "partOfSpeech": "noun",
+    "pronunciation": "nih-MYE-uh-tee",
+    "audioPath": "audio/words/nimiety.mp3",
+    "definitions": ["excess, redundancy"],
+    "examples": [
+      "\"To avoid receiving a nimiety of kitchenware,\" advised the bridal guide, \"be sure to register for a wide range of gifts for your guests to choose from.\""
+    ],
+    "origin": "There's no scarcity of English words used for too much of a good thing -- words like \"overkill,\" \"plethora,\" \"superfluity,\" \"surfeit,\" \"surplus,\" and \"preponderance,\" to name a few. In fact, you might just feel that \"nimiety\" itself is a bit superfluous. And it's true -- we've never used the word excessively, though it has been part of our language for nearly 450 years. (We borrowed it from Late Latin \"nimietas,\" a noun taken, in turn, from the Latin adjective \"nimius,\" meaning \"excessive.\") Superfluous or not, \"nimiety\" still turns up occasionally. For example, in his 1991 book _Biblioholism: The Literary Addiction_, about \"the habitual longing to purchase, read, store, admire and consume books in excess,\" author Tom Raabe blames one bookstore's \"nimiety of overstuffed chairs\" for exacerbating this condition."
+  }
+}

@@ -69,20 +69,9 @@
       "id": "434",
       "fact": "In the U.S. a pig has to weigh more than 180 lbs to be called a hog.",
       "category": ["Animals", "Definitions"]
-    },
-    {
-      "id": "984",
-      "fact": "When creating a mummy, Ancient Egyptians removed the brain by inserting a hook through the nostrils.",
-      "category": ["Anatomy", "Geography", "Habits", "History", "Science", "Make-it-Easies"]
     }
   ],
-  "funFacts2": [
-    { "id": "506370", "fact": "The verb \"unfriend\" appeared in 1659." },
-    {
-      "id": "505073",
-      "fact": "The 1967 Outer Space Treaty forbids any nation from trying to own the Moon."
-    }
-  ],
+  "funFacts2": [{ "id": "506370", "fact": "The verb \"unfriend\" appeared in 1659." }],
   "idiom": {
     "id": "clean-someones-clock",
     "term": "clean someone's clock",

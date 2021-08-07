@@ -74,20 +74,9 @@
       "id": "730",
       "fact": "The fear of vegetables is called lachanophobia.",
       "category": ["Food", "Definitions"]
-    },
-    {
-      "id": "360",
-      "fact": "Mexican jumping beans jump to get out of sunlight.",
-      "category": ["Animals", "Plants"]
     }
   ],
-  "funFacts2": [
-    { "id": "506391", "fact": "Lobsters' bladders are in their heads." },
-    {
-      "id": "504708",
-      "fact": "After OutKast sang \"Shake it like a Polaroid picture,\" Polaroid released this statement: \"Shaking or waving can actually damage the image\""
-    }
-  ],
+  "funFacts2": [{ "id": "506391", "fact": "Lobsters' bladders are in their heads." }],
   "idiom": {
     "id": "beard-the-lion",
     "term": "beard the lion",

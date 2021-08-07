@@ -1,0 +1,119 @@
+{
+  "artist": {
+    "id": "pietro-rotari",
+    "name": "Pietro Rotari",
+    "dates": "Sep 30, 1707 - Aug 31, 1762",
+    "mainImg": "img/art/artists/pietro-rotari.jpg",
+    "artworkImgs": [
+      {
+        "name": "A Young Woman with a Book",
+        "path": "img/art/artworks/pietro-rotari-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-young-woman-with-a-book-pietro-rotari/kwHlkrdfLNOaIA"
+      },
+      {
+        "name": "A young Woman",
+        "path": "img/art/artworks/pietro-rotari-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-young-woman-pietro-rotari/eAEr9-vq9nDHyQ"
+      },
+      {
+        "name": "Venus Appearing to Achilles",
+        "path": "img/art/artworks/pietro-rotari-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-appearing-to-achilles-pietro-rotari-after-antonio-balestra/qAEDKtL-bQFNWA"
+      },
+      {
+        "name": "Saint Francis",
+        "path": "img/art/artworks/pietro-rotari-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-francis-pietro-rotari/SwGzIG0GlFKN0g"
+      },
+      {
+        "name": "Saint Jerome",
+        "path": "img/art/artworks/pietro-rotari-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-jerome-pietro-rotari-after-antonio-balestra/JwFSK2UUtej0sw"
+      }
+    ],
+    "summary": [
+      "Pietro Antonio Rotari was an Italian painter of the Baroque period. Born in Verona, he led a peripatetic career, and died in Saint Petersburg, where he had traveled to paint for the Russian court. His portraits, mostly of women, are renowned for being beautiful and realistic. Rotari's works were generally limited to royal portraits held by notables such as emperors and court ladies."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Rococo"],
+    "mediums": ["Etching", "Oil paint", "Engraving", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pietro_Rotari",
+    "urlGoogle": "https://artsandculture.google.com/entity/pietro-rotari/m02qs8_w"
+  },
+  "event": {
+    "id": "charge-of-the-light-brigade",
+    "name": "Charge of the Light Brigade",
+    "dates": null,
+    "mainImg": "img/events/charge-of-the-light-brigade.jpg",
+    "summary": [
+      "The Charge of the Light Brigade was a failed military action involving the British light cavalry led by Lord Cardigan against Russian forces during the Battle of Balaclava on 25 October 1854 in the Crimean War. British commander Lord Raglan had intended to send the Light Brigade to prevent the Russians from removing captured guns from overrun Turkish positions, a task for which the light cavalry were well-suited. However, there was miscommunication in the chain of command, and the Light Brigade was instead sent on a frontal assault against a different artillery battery, one well-prepared with excellent fields of defensive fire. The Light Brigade reached the battery under withering direct fire and scattered some of the gunners, but they were forced to retreat immediately, and the assault ended with very high British casualties and no decisive gains.",
+      "The events were the subject of Alfred, Lord Tennyson's narrative poem \"The Charge of the Light Brigade\", published just six weeks after the event. Its lines emphasise the valour of the cavalry in bravely carrying out their orders, regardless of the nearly inevitable outcome."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Charge_of_the_Light_Brigade",
+    "urlGoogle": "https://artsandculture.google.com/entity/charge-of-the-light-brigade/m0h5wm"
+  },
+  "funFacts": [
+    {
+      "id": "223",
+      "fact": "The Basenji is the only type of dog that does not bark.",
+      "category": ["Animals", "Onlies"]
+    },
+    {
+      "id": "253",
+      "fact": "The first TV remote control, introduced in 1950, was called Lazy Bones.",
+      "category": ["Firsts"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "504559", "fact": "The second largest country by area is Canada, after Russia." }
+  ],
+  "idiom": {
+    "id": "stuff-and-nonsense",
+    "term": "stuff and nonsense",
+    "definition": "Utter foolishness or absurdity, as in *Stuff and nonsense, of course I can pack a suitcase.* Often used as an interjection, this idiom employs *stuff* in the sense of \"rubbish.\" It was first recorded in 1749."
+  },
+  "person": {
+    "id": "robert-brooke-popham",
+    "name": "Robert Brooke-Popham",
+    "dates": "Sep 18, 1878 - Oct 20, 1953",
+    "mainImg": "img/people/robert-brooke-popham.jpg",
+    "summary": [
+      "Air Chief Marshal Sir Henry Robert Moore Brooke-Popham, GCVO, KCB, CMG, DSO, AFC was a senior commander in the Royal Air Force. During the First World War he served in the Royal Flying Corps as a wing commander and senior staff officer. Remaining in the new Royal Air Force after the war, Brooke-Popham was the first commandant of its Staff College at Andover and later held high command in the Middle East. He was Governor of Kenya in the late 1930s. Most notably, Brooke-Popham was Commander-in-Chief of the British Far East Command only months before Singapore fell to Japanese troops."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Brooke-Popham",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-brooke-popham/m0404vk"
+  },
+  "place": {
+    "id": "chicago",
+    "name": "Chicago",
+    "mainImg": "img/places/chicago.jpg",
+    "summary": [
+      "Chicago, officially the City of Chicago, is the most populous city in the U.S. state of Illinois, and the third-most-populous city in the United States. With an estimated population of 2,693,976 in 2019, it is also the most populous city in the Midwestern United States. Chicago is the county seat of Cook County, the second-most-populous county in the US, with a small portion of the northwest side of the city extending into DuPage County near O'Hare Airport. Chicago is the principal city of the Chicago metropolitan area, often referred to as Chicagoland. At nearly 10 million people, the metropolitan area is the third most populous in the United States.",
+      "Located on the shores of freshwater Lake Michigan, Chicago was incorporated as a city in 1837 near a portage between the Great Lakes and the Mississippi River watershed and grew rapidly in the mid-19th century. After the Great Chicago Fire of 1871, which destroyed several square miles and left more than 100,000 homeless, the city made a concerted effort to rebuild."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Chicago",
+    "urlGoogle": "https://artsandculture.google.com/entity/chicago/m01_d4"
+  },
+  "wiki": {
+    "id": "amanita-muscaria",
+    "name": "Amanita muscaria",
+    "summary": "Amanita muscaria, commonly known as the fly agaric, is a poisonous and psychoactive basidiomycete fungus, one of many in the genus Amanita. Native throughout the temperate and boreal regions of the Northern Hemisphere, Amanita muscaria has been unintentionally introduced to many countries in the southern hemisphere, generally as a symbiont with pine plantations, and is now a true cosmopolitan species. The quintessential toadstool, it is a large white-gilled, white-spotted, usually deep red mushroom, one of the most recognizable and widely encountered in popular culture. Although it is generally considered poisonous, deaths from its consumption are extremely rare, and it is eaten as a food in parts of Europe, Asia, and North America after parboiling. Amanita muscaria is noted for its hallucinogenic properties, with its main psychoactive constituent being the compound muscimol. It was used as an intoxicant and entheogen by the peoples of Siberia and has a religious significance in these cultures. There has been much speculation on traditional use of this mushroom as an intoxicant in places other than Siberia; however, such traditions are far less well documented.",
+    "url": "https://en.wikipedia.org/wiki/Amanita_muscaria"
+  },
+  "word": {
+    "id": "scrumptious",
+    "word": "scrumptious",
+    "url": "https://www.merriam-webster.com/dictionary/scrumptious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SKRUMP-shus",
+    "audioPath": "audio/words/scrumptious.mp3",
+    "definitions": ["delightful, excellent; especially : delicious"],
+    "examples": [
+      "To celebrate their first Thanksgiving in their new home, Ilene and Paul prepared a scrumptious feast for 12 guests."
+    ],
+    "origin": "First appearing in English in 1830, \"scrumptious\" is a mouth-watering word that is used to describe what is delightful and delectable. It probably originated as an alteration of \"sumptuous,\" and it carries the elegant and wonderful connotations of its parent. (\"Sumptuous\" derives via Middle English from the Latin verb \"sumere,\" meaning \"to take or spend.\") British author Roald Dahl had some fun with “scrumptious,” and created a delightful coinage, when he inserted the infix “-diddly-” into the word to make “scrumdiddlyumptious,” the word that chocolate magnate Willy Wonka uses to name his best-selling treats in his novel _Charlie and the Chocolate Factory_ (1964)."
+  }
+}

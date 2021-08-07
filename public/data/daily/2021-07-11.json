@@ -64,16 +64,10 @@
       "fact": "Atlantic salmon are capable of leaping 15 feet high.",
       "category": ["Animals"]
     },
-    { "id": "6", "fact": "A honey bee can fly at 15mph.", "category": ["Animals"] },
-    {
-      "id": "99",
-      "fact": "You burn about 20 calories per hour chewing gum.",
-      "category": ["Habits", "Science"]
-    }
+    { "id": "6", "fact": "A honey bee can fly at 15mph.", "category": ["Animals"] }
   ],
   "funFacts2": [
-    { "id": "553699", "fact": "Queen Elizabeth II has had over 30 corgis in her lifetime." },
-    { "id": "504872", "fact": "Sharks have existed longer than trees." }
+    { "id": "553699", "fact": "Queen Elizabeth II has had over 30 corgis in her lifetime." }
   ],
   "idiom": {
     "id": "sling-hash",

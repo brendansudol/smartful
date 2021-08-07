@@ -1,0 +1,131 @@
+{
+  "artist": {
+    "id": "yoko-ono",
+    "name": "Yoko Ono",
+    "dates": "Born Feb 18, 1933",
+    "mainImg": "img/art/artists/yoko-ono.jpg",
+    "artworkImgs": [
+      {
+        "name": "Painting to Hammer a Nail",
+        "path": "img/art/artworks/yoko-ono-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/painting-to-hammer-a-nail-yoko-ono/pAEqDOysHPoj6Q"
+      },
+      {
+        "name": "A Digital Gallery: Imagine Peace",
+        "path": "img/art/artworks/yoko-ono-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-digital-gallery-imagine-peace-yoko-ono/cwGTuceS0gDiPQ"
+      },
+      {
+        "name": "Untitled",
+        "path": "img/art/artworks/yoko-ono-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled/cAHE_wQWdw6j0Q"
+      },
+      {
+        "name": "Cloud Piece",
+        "path": "img/art/artworks/yoko-ono-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cloud-piece-yoko-ono/HgFWsEA5iH0miA"
+      },
+      {
+        "name": "Sky TV (single) for New York",
+        "path": "img/art/artworks/yoko-ono-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/sky-tv-single-for-new-york-yoko-ono/kgFy0k3mic5cVA"
+      },
+      {
+        "name": "Instruction Paintings Workshop",
+        "path": "img/art/artworks/yoko-ono-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/instruction-paintings-workshop-yoko-ono/4QErjRr544E3uw"
+      }
+    ],
+    "summary": [
+      "Yoko Ono Lennon is a Japanese multimedia artist, singer, songwriter and peace activist. Her work also encompasses performance art, which she performs in both English and Japanese, and filmmaking. She was married to English singer-songwriter John Lennon of the Beatles from 1969 until his murder in 1980.",
+      "Ono grew up in Tokyo and also spent several years in New York City. She studied at Gakushuin University, but withdrew from her course after two years and moved to New York in 1953 to live with her family. She spent some time at Sarah Lawrence College and then became involved in New York City's downtown artists scene, which included the Fluxus group. With their performance Bed-Ins for Peace in Amsterdam and Montreal in 1969, Ono and Lennon used their honeymoon at the Hilton Amsterdam as a stage for public protests against the Vietnam War. The feminist themes of her music have influenced musicians as diverse as the B-52s and Meredith Monk. She achieved commercial and critical acclaim in 1980 with the chart-topping album Double Fantasy, a collaboration with Lennon that was released three weeks before his murder."
+    ],
+    "quote": "“I saw that nothing was permanent. You don't want to possess anything that is dear to you because you might lose it.”",
+    "movements": ["Conceptual art", "Contemporary art", "Fluxus"],
+    "mediums": ["Photograph", "Ink", "Sculpture", "Textile", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Yoko_Ono",
+    "urlGoogle": "https://artsandculture.google.com/entity/yoko-ono/m01nz1q6"
+  },
+  "event": {
+    "id": "maundy-thursday",
+    "name": "Maundy Thursday",
+    "dates": null,
+    "mainImg": "img/events/maundy-thursday.jpg",
+    "summary": [
+      "Maundy Thursday is the Christian holy day falling on the Thursday before Easter. It commemorates the Washing of the Feet and Last Supper of Jesus Christ with the Apostles, as described in the canonical gospels.",
+      "It is the fifth day of Holy Week, preceded by Holy Wednesday and followed by Good Friday. \"Maundy\" comes from the Latin word mandatum, or commandment, reflecting Jesus' words \"I give you a new commandment.\"",
+      "The day comes always between March 19 and April 22, inclusive, and will vary according to whether the Gregorian calendar or the Julian calendar is used. Eastern churches generally use the Julian system.",
+      "Maundy Thursday initiates the Easter Triduum, the period which commemorates the passion, death, and resurrection of Jesus; this period includes Good Friday and Holy Saturday, and ends on the evening of Easter. The Mass of the Lord's Supper or service of worship is normally celebrated in the evening, when Friday begins according to Jewish tradition, as the Last Supper was held on the feast of Passover, according to the three Synoptic Gospels."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Maundy_Thursday",
+    "urlGoogle": "https://artsandculture.google.com/entity/maundy-thursday/m016v69"
+  },
+  "funFacts": [
+    {
+      "id": "421",
+      "fact": "Greyhounds can reach speeds of 45 miles per hour.",
+      "category": ["Animals"]
+    },
+    { "id": "408", "fact": "Panda bears eat up to 16 hours a day.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "554021",
+      "fact": "Jane Austen didn't publish her first novel under her real name. Instead, Sense and Sensibility was credited as being written \"By a Lady.\""
+    }
+  ],
+  "idiom": {
+    "id": "charity-begins-at-home",
+    "term": "charity begins at home",
+    "definition": "One ought to be generous to one's family before helping others. For example, *She spends hours and hours on volunteer work and neglects the children, forgetting that charity begins at home.* This proverb was first recorded in English, in slightly different form, in John Wycliffe's *Of Prelates* (c. 1380): \"Charity should begin at himself.\""
+  },
+  "person": {
+    "id": "jennifer-carroll",
+    "name": "Jennifer Carroll",
+    "dates": "Born Aug 27, 1959",
+    "mainImg": "img/people/jennifer-carroll.jpg",
+    "summary": [
+      "Jennifer Sandra Carroll is a Trinidadian–American Republican and retired naval officer who served as the 18th Lieutenant Governor of Florida from January 4, 2011 to March 12, 2013. Carroll is the first black person, woman and Trinidadian-American elected to the office; she also is the first black person elected to statewide office in Florida since Reconstruction. Carroll previously served as a Republican member of the Florida House of Representatives. She is the bestselling author of an autobiography entitled When You Get There.",
+      "Although she was later cleared, Carroll came under scrutiny for public relations work for a charity that involved itself in gambling and for $24,000 in income that she failed to report on financial disclosures and tax returns. At the request of Governor Rick Scott, Carroll resigned her post as lieutenant governor on March 12, 2013. The Florida Department of Law Enforcement subsequently concluded that she had not broken any laws."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Jennifer_Carroll",
+    "urlGoogle": "https://artsandculture.google.com/entity/jennifer-carroll/m052_km9"
+  },
+  "place": {
+    "id": "ethiopia",
+    "name": "Ethiopia",
+    "mainImg": "img/places/ethiopia.jpg",
+    "summary": [
+      "Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country in the Horn of Africa. It shares borders with Eritrea to the north, Djibouti to the northeast, Somalia to the east, Kenya to the south, South Sudan to the west and Sudan to the northwest. With over 109 million inhabitants as of 2019, Ethiopia is the most populous landlocked country in the world and the second-most populous nation on the African continent. The country has a total area of 1,100,000 square kilometres. Its capital and largest city is Addis Ababa, which lies a few miles west of the East African Rift that splits the country into the Nubian and Somali tectonic plates. Ethiopian national identity is grounded in the historic and contemporary roles of Christianity and Islam, and the independence of Ethiopia from foreign rule, stemming from the various ancient Ethiopian kingdoms of antiquity.",
+      "Some of the oldest skeletal evidence for anatomically modern humans has been found in Ethiopia. It is widely considered as the region from which modern humans first set out for the Middle East and places beyond."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ethiopia",
+    "urlGoogle": "https://artsandculture.google.com/entity/ethiopia/m019pcs"
+  },
+  "wiki": {
+    "id": "sigi-schmid",
+    "name": "Sigi Schmid",
+    "summary": "Sigi Schmid (born 1953) is a German-American soccer coach. Born in Tübingen, West Germany, he moved to the United States with his family when he was a child. He played college soccer as a midfielder from 1972 to 1975 at the University of California, Los Angeles (UCLA). He coached his former college team between 1980 and 1999 and became one of the most successful collegiate coaches of all time. The UCLA Bruins made 16 consecutive playoff appearances from 1983 to 1998, winning the national championship in 1985, 1990, and 1997. Schmid also worked with US Soccer throughout the 1990s. Schmid has coached the Los Angeles Galaxy and the Columbus Crew in Major League Soccer (MLS). He became the head coach of Seattle Sounders FC in 2009. Throughout his career, Schmid has received praise from critics for his ability to identify new talent. His defensive tactics are also highly regarded in the press, although their deployment in his final two seasons with Los Angeles led directly to the termination of his contract. Despite never having played soccer at a professional level, he has the most coaching wins in MLS history, and was the recipient of the MLS Coach of the Year Award in 1999 and 2008.",
+    "url": "https://en.wikipedia.org/wiki/Sigi_Schmid"
+  },
+  "word": {
+    "id": "orotund",
+    "word": "orotund",
+    "url": "https://www.merriam-webster.com/dictionary/orotund",
+    "partOfSpeech": "adjective",
+    "pronunciation": "OR-uh-tund",
+    "audioPath": "audio/words/orotund.mp3",
+    "definitions": [
+      "marked by fullness, strength, and clarity of sound : sonorous",
+      "pompous, bombastic"
+    ],
+    "examples": [
+      "Josh cleared his throat dramatically, then did a dead-on impression of the professor's _orotund_, patronizing speech.",
+      "\"Comedian Bob Hope used to tell an anecdote about Franklin D. Roosevelt housetraining his Scottish terrier, Fala, on the _Chicago Tribune_. It was a reference to Roosevelt's greatest hater, _Tribune_ publisher Robert R. McCormick, an _orotund_ aristocrat who considered the New Deal indistinguishable from Communism.\" - From a post by Edward McClellan on NBC Chicago's Ward Room blog, April 23, 2013"
+    ],
+    "origin": "The Latin roots of \"orotund\" are related to two more common English words-\"oral\" and \"rotund.\" Latin \"or-\" means \"mouth,\" and \"rotundus\" means \"round\" or \"circular.\" The Roman poet Horace joined forms of those Latin terms to create the phrase \"ore rotundo,\" literally meaning \"with round mouth,\" and figuratively meaning \"with well-turned speech.\" \"Ore rotundo\" was modified to \"orotund\" and adopted into English in the late 18th century. It can indicate either strength of delivery or inflated wording."
+  }
+}

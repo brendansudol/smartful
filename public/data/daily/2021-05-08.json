@@ -64,20 +64,9 @@
       "id": "192",
       "fact": "Jupiter spins so fast that there is a new sunrise nearly every 10 hours.",
       "category": ["Science"]
-    },
-    {
-      "id": "470",
-      "fact": "Dairy cows drink up to 50 gallons of water per day.",
-      "category": ["Animals"]
     }
   ],
-  "funFacts2": [
-    { "id": "504660", "fact": "Fish cough." },
-    {
-      "id": "553491",
-      "fact": "The towns of Baarle straddle the Dutch-Belgian border. In some places, the official border line cuts through houses and cafes."
-    }
-  ],
+  "funFacts2": [{ "id": "504660", "fact": "Fish cough." }],
   "idiom": {
     "id": "box-the-compass",
     "term": "box the compass",

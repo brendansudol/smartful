@@ -67,20 +67,9 @@
       "id": "250",
       "fact": "Mongolians invented lemonade around 1299 A.D.",
       "category": ["Food", "History"]
-    },
-    {
-      "id": "661",
-      "fact": "Pigs were banished from Philadelphia's city streets in 1710.",
-      "category": ["Animals", "History"]
     }
   ],
-  "funFacts2": [
-    { "id": "505965", "fact": "A litter of kittens is also known as a “kindle.”" },
-    {
-      "id": "504701",
-      "fact": "Scottish band The Bay City Rollers chose their name after sticking a pin in a map of America, which landed on the Michigan city."
-    }
-  ],
+  "funFacts2": [{ "id": "505965", "fact": "A litter of kittens is also known as a “kindle.”" }],
   "idiom": {
     "id": "odor-of-sanctity",
     "term": "odor of sanctity",

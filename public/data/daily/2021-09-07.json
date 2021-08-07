@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "max-weber",
+    "name": "Max Weber",
+    "dates": "Apr 18, 1881 - Oct 4, 1961",
+    "mainImg": "img/art/artists/max-weber.jpg",
+    "artworkImgs": [
+      {
+        "name": "Adoration of the Moon",
+        "path": "img/art/artworks/max-weber-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/adoration-of-the-moon/MAGRK0dAwHa6Cg"
+      },
+      {
+        "name": "The Cellist",
+        "path": "img/art/artworks/max-weber-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-cellist/YQGldaggf01Z5Q"
+      },
+      {
+        "name": "Chinese Restaurant",
+        "path": "img/art/artworks/max-weber-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/chinese-restaurant/8QFd8tjBnxFmUA"
+      },
+      {
+        "name": "Barreres Wind Orchestra",
+        "path": "img/art/artworks/max-weber-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/barreres-wind-orchestra-max-weber/agFrQ78Ygydrqg"
+      },
+      {
+        "name": "The Visit",
+        "path": "img/art/artworks/max-weber-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-visit/xQGLbHQ3MG_UDg"
+      },
+      {
+        "name": "Forest Scene",
+        "path": "img/art/artworks/max-weber-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/forest-scene/pgH6jqpvmfwWJg"
+      }
+    ],
+    "summary": [
+      "Max Weber was a Jewish-American painter and one of the first American Cubist painters who, in later life, turned to more figurative Jewish themes in his art. He is best known today for Chinese Restaurant, in the collection of the Whitney Museum of American Art, \"the finest canvas of his Cubist phase,\" in the words of art historian Avis Berman."
+    ],
+    "quote": null,
+    "movements": ["Modern art", "Cubism", "American modernism", "Expressionism"],
+    "mediums": ["Oil paint", "Watercolor painting", "Drawing", "Oil pastel", "Charcoal", "Crayon"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Max_Weber_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/max-weber/m03k5p9"
+  },
+  "event": {
+    "id": "the-holocaust-in-france",
+    "name": "The Holocaust in France",
+    "dates": "1940 - 1944",
+    "mainImg": "img/events/the-holocaust-in-france.jpg",
+    "summary": [
+      "The Holocaust in France was the persecution, deportation, and annihilation of Jews and Roma between 1940 and 1944 in occupied France, metropolitan Vichy France, and in Vichy-controlled French North Africa, during the World War II. The persecution began in 1940, and culminated in deportations of Jews from France to Nazi concentration camps in Nazi Germany and Nazi-occupied Poland. The deportation started in 1942 and lasted until July 1944. Of the 340,000 Jews living in metropolitan/continental France in 1940, more than 75,000 were deported to death camps, where about 72,500 were killed. The government of Vichy France and the French police participated in the roundup of Jews. Although most deported Jews died, the survival rate of the Jewish population in France was up to 75%, which is one of the highest survival rates in Europe."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/The_Holocaust_in_France",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-holocaust-in-france/m010gnf_t"
+  },
+  "funFacts": [
+    {
+      "id": "339",
+      "fact": "There are more doughnut shops per capita in Canada than in any other country.",
+      "category": ["Geography", "Habits"]
+    },
+    {
+      "id": "465",
+      "fact": "The great white shark can go up to three months between meals.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554254",
+      "fact": "On average, people in India \u0003spend 10 hours and 42 minutes \u0003a week reading, the most time \u0003of any country on Earth."
+    }
+  ],
+  "idiom": {
+    "id": "vote-with-ones-feet",
+    "term": "vote with one's feet",
+    "definition": "Indicate one's disapproval by walking out or emigrating, as in *The service was so bad that we decided to vote with our feet,* or *Thousands of Hong Kong residents voted with their feet and left before the Chinese takeover.* [Slang; mid-1900s]"
+  },
+  "person": {
+    "id": "victor-emmanuel-iii-of-italy",
+    "name": "Victor Emmanuel III of Italy",
+    "dates": "Nov 11, 1869 - Dec 28, 1947",
+    "mainImg": "img/people/victor-emmanuel-iii-of-italy.jpg",
+    "summary": [
+      "Victor Emmanuel III reigned as King of Italy from 29 July 1900 until his abdication on 9 May 1946. In addition, he held the thrones of Ethiopia and Albania as Emperor of Ethiopia and King of the Albanians. During his reign of nearly 46 years, which began after the assassination of his father Umberto I, the Kingdom of Italy became involved in two world wars. His reign also encompassed the birth, rise, and fall of Italian Fascism and its regime.",
+      "During the First World War, Victor Emmanuel III accepted the resignation of Prime Minister Paolo Boselli and named Vittorio Emanuele Orlando in his place. Following the March on Rome, he appointed Benito Mussolini as Prime Minister and later deposed him in 1943 during the Allied invasion of Italy of the Second World War.",
+      "Victor Emmanuel abdicated his throne in 1946 in favour of his son Umberto II, hoping to strengthen support for the monarchy against an ultimately successful referendum to abolish it. He then went into exile to Alexandria, Egypt, where he died and was buried the following year in Saint Catherines's Cathedral of Alexandria."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Victor_Emmanuel_III_of_Italy",
+    "urlGoogle": "https://artsandculture.google.com/entity/victor-emmanuel-iii-of-italy/m0j53d"
+  },
+  "place": {
+    "id": "riyadh",
+    "name": "Riyadh",
+    "mainImg": "img/places/riyadh.jpg",
+    "summary": [
+      "Riyadh is the capital of Saudi Arabia and the largest city on the Arabian Peninsula. With a population of 7.6 million people, Riyadh is the third-largest city in the Arab world, and the 39th-largest in Asia. Riyadh is located on the eastern part of the Najd plateau at about 600 metres above sea level.",
+      "Riyadh is the political and administrative centre of Saudi Arabia and is the headquarters of the country's central government bodies, such as the Saudi Royal Court and the Council of Ministers of Saudi Arabia. Riyadh is of great economic importance, as it is the headquarters of many banks and major companies. It is also the location of the King Abdullah Financial District, one of the world's largest financial centres. Riyadh is one of the world's fastest-growing cities in population, with many immigrants.",
+      "The city is divided into 15 municipal districts, managed by the Municipality of Riyadh headed by the mayor of Riyadh, and the Royal Commission for Riyadh which is chaired by the governor of the Province, Faisal bin Bandar Al Saud. The current mayor is Tariq bin Abdul Aziz Al-Faris. Riyadh has been designated a global city."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Riyadh",
+    "urlGoogle": "https://artsandculture.google.com/entity/riyadh/m0dlm_"
+  },
+  "wiki": {
+    "id": "north-road-football-ground",
+    "name": "North Road (football ground)",
+    "summary": "North Road was a football stadium and cricket field in Newton Heath, Manchester, England. It was the first home of Manchester United Football Club, then known as Newton Heath Lancashire and Yorkshire Railway Football Club. The club was formed in 1878 at the request of the railway company's employees at its carriage and wagon works, and the ground (which was owned by Manchester Cathedral) adjoined the works. Initially the ground consisted only of the pitch, around which an estimated 12,000 spectators could congregate, and it was often clouded by steam from passing trains. Players had to get changed at a nearby public house. The addition of stands in 1891 increased the capacity to about 15,000. The football club signed its first professional players in 1886 and began to break from its sponsoring railway company, but without the company's financial support it was unable to afford the rent on the ground and was evicted. In 1893, the club moved to a new ground at Bank Street, Clayton. The North Road site is now part of the North Manchester Business Park, having previously been used as playing fields and as the site of a school.",
+    "url": "https://en.wikipedia.org/wiki/North_Road_(football_ground)"
+  },
+  "word": {
+    "id": "convalesce",
+    "word": "convalesce",
+    "url": "https://www.merriam-webster.com/dictionary/convalesce",
+    "partOfSpeech": "verb",
+    "pronunciation": "kahn-vuh-LESS",
+    "audioPath": "audio/words/convalesce.mp3",
+    "definitions": ["to recover health and strength gradually after sickness or weakness"],
+    "examples": [
+      "According to the article, the athlete is still _convalescing_ from her recent injury but expects to resume her training schedule by the end of the month.",
+      "\"Kenyon … was 8 years old when he was struck \\[by a car\\]. He had to limit his activities to the quiet kind, so his parents figured piano lessons would give him something to do while he _convalesced_.\" - From an article by Charles Hand in the _San Diego Union-Tribune_, February 24, 2013"
+    ],
+    "origin": "When you convalesce, you heal or grow strong after illness or injury, often by staying off your feet. (The related adjective \"convalescent\" means \"recovering from sickness or debility,\" and a \"convalescent home\" is a hospital for long-term recuperation and rehabilitation.) The word \"convalesce\" derives from Latin, from the prefix \"com-\" (\"with, together, jointly\") and the verb \"valescere\" (\"to grow strong\"). \"Valescere,\" in turn, is related to the verb \"valēre\" (\"to be strong or be well\"), which is also an ancestor of \"prevail,\" \"valor,\" \"value,\" and \"valid.\""
+  }
+}

@@ -74,20 +74,9 @@
       "id": "810",
       "fact": "Australia is the only continent without an active volcano.",
       "category": ["Geography", "Onlies"]
-    },
-    {
-      "id": "67",
-      "fact": "There are 18 different animal shapes in the animal cracker zoo.",
-      "category": ["Food"]
     }
   ],
-  "funFacts2": [
-    { "id": "505075", "fact": "The national animal of Scotland is the unicorn." },
-    {
-      "id": "553828",
-      "fact": "The corpse flower was the official flower of the Bronx for 60 years."
-    }
-  ],
+  "funFacts2": [{ "id": "505075", "fact": "The national animal of Scotland is the unicorn." }],
   "idiom": {
     "id": "stew-in-ones-own-juice",
     "term": "stew in one's own juice",

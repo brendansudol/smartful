@@ -1,0 +1,131 @@
+{
+  "artist": {
+    "id": "edouard-vuillard",
+    "name": "Édouard Vuillard",
+    "dates": "Nov 11, 1868 - Jun 21, 1940",
+    "mainImg": "img/art/artists/edouard-vuillard.jpg",
+    "artworkImgs": [
+      {
+        "name": "Woman by the Window",
+        "path": "img/art/artworks/edouard-vuillard-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-by-the-window-edouard-vuillard/SAFhHH7CamewgQ"
+      },
+      {
+        "name": "The Tuileries (Les Tuileries)",
+        "path": "img/art/artworks/edouard-vuillard-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-tuileries-les-tuileries-edouard-vuillard/jgG3-EX_LE9j2w"
+      },
+      {
+        "name": "Lucy Hessel Reading (Lucy Hessel lisant)",
+        "path": "img/art/artworks/edouard-vuillard-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/lucy-hessel-reading-lucy-hessel-lisant-edouard-vuillard/zQG9hrP6EsyRHg"
+      },
+      {
+        "name": "Nature morte au bougeoir",
+        "path": "img/art/artworks/edouard-vuillard-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/nature-morte-au-bougeoir-edouard-vuillard/BwECXwvQw2jQxQ"
+      },
+      {
+        "name": "Two Seamstresses in the Workroom",
+        "path": "img/art/artworks/edouard-vuillard-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/two-seamstresses-in-the-workroom-edouard-vuillard/fwF8M87EfFJsug"
+      },
+      {
+        "name": "Deux Femmes dans Interieur",
+        "path": "img/art/artworks/edouard-vuillard-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/deux-femmes-dans-interieur-edouard-vuillard/SQFIQ_4HSEKDsg"
+      }
+    ],
+    "summary": [
+      "Jean-Édouard Vuillard was a French painter, decorative artist and printmaker. From 1891 through 1900, he was a prominent member of the Nabis, making paintings which assembled areas of pure color, and interior scenes, influenced by Japanese prints, where the subjects were blended into colors and patterns. He also was a decorative artist, painting theater sets, panels for interior decoration, and designing plates and stained glass. After 1900, when the Nabis broke up, he adopted a more realistic style, painting landscapes and interiors with lavish detail and vivid colors. In the 1920s and 1930s he painted portraits of prominent figures in French industry and the arts in their familiar settings."
+    ],
+    "quote": null,
+    "movements": ["Modern art", "Les Nabis", "Post-Impressionism", "Impressionism", "Art Nouveau"],
+    "mediums": ["Oil paint", "Ink", "Cardboard", "Watercolor painting", "Distemper", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89douard_Vuillard",
+    "urlGoogle": "https://artsandculture.google.com/entity/édouard-vuillard/m01_lr8"
+  },
+  "event": {
+    "id": "hurricane-maria",
+    "name": "Hurricane Maria",
+    "dates": "Sep 16, 2017 - Oct 2, 2017",
+    "mainImg": "img/events/hurricane-maria.jpg",
+    "summary": [
+      "Hurricane Maria was a deadly Category 5 hurricane that devastated Dominica, St Croix, and Puerto Rico in September 2017. It is regarded as the worst natural disaster in recorded history to affect those islands and was also the deadliest Atlantic hurricane since Jeanne in 2004. The tenth-most intense Atlantic hurricane on record and the most intense tropical cyclone worldwide in 2017, Maria was the thirteenth named storm, eighth consecutive hurricane, fourth major hurricane, second Category 5 hurricane, and deadliest storm of the hyperactive 2017 Atlantic hurricane season. At its peak, the hurricane caused catastrophic destruction and numerous fatalities across the northeastern Caribbean, compounding recovery efforts in the areas of the Leeward Islands already struck by Hurricane Irma. Total losses from the hurricane are estimated at upwards of $91.61 billion, mostly in Puerto Rico, ranking it as the third-costliest tropical cyclone on record.",
+      "Originating from a tropical wave, Maria became a tropical storm on September 16, east of the Lesser Antilles. Highly favorable environmental conditions allowed the storm to undergo explosive intensification as it approached the island arc."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hurricane_Maria",
+    "urlGoogle": "https://artsandculture.google.com/entity/hurricane-maria/g11fy_1d36n"
+  },
+  "funFacts": [
+    {
+      "id": "751",
+      "fact": "Flamingos can only eat with their heads upside down.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "913",
+      "fact": "The Saturn V moon rocket consumed 15 tons of fuel per second.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "522217",
+      "fact": "Two grandsons of President John Tyler—the 10th president of the United States, who was born in 1790—are still alive."
+    }
+  ],
+  "idiom": {
+    "id": "out-to-lunch",
+    "term": "out to lunch",
+    "definition": "Not in touch with the real world, crazy; also, inattentive. For example, *If he believes that story, he's really out to lunch,* or *Anne hasn't heard a word you said---she's out to lunch.* This expression transfers a temporary physical absence for the purpose of eating to a temporary or permanent mental absence. [Slang; mid-1900s]"
+  },
+  "person": {
+    "id": "severus-alexander",
+    "name": "Severus Alexander",
+    "dates": "Died 235 AD",
+    "mainImg": "img/people/severus-alexander.jpg",
+    "summary": [
+      "Severus Alexander was Roman Emperor from 222 to 235 and the last emperor of the Severan dynasty. He succeeded his cousin Elagabalus upon the latter's assassination in 222. His own assassination marked the epoch event for the Crisis of the Third Century—nearly 50 years of civil wars, foreign invasion, and collapse of the monetary economy.",
+      "Alexander was the heir to his cousin, the 18-year-old Emperor who had been murdered along with his mother Julia Soaemias, by his own guards, who, as a mark of contempt, had their remains cast into the Tiber river. He and his cousin were both grandsons of the influential and powerful Julia Maesa, who had arranged for Elagabalus' acclamation as emperor by the famous Third Gallic Legion. It was the rumor of Alexander's death that triggered the assassination of Elagabalus and his mother. His 13-year reign was the longest reign of a sole emperor since Antoninus Pius. He was also the second-youngest ever sole legal Roman Emperor during the existence of the united empire, the youngest being Gordian III.",
+      "As emperor, Alexander's peacetime reign was prosperous."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Severus_Alexander",
+    "urlGoogle": "https://artsandculture.google.com/entity/severus-alexander/m0rdc"
+  },
+  "place": {
+    "id": "banff",
+    "name": "Banff",
+    "mainImg": "img/places/banff.jpg",
+    "summary": [
+      "Banff is a town within Banff National Park in Alberta, Canada. It is located in Alberta's Rockies along the Trans-Canada Highway, approximately 126 km west of Calgary and 58 km east of Lake Louise. At 1,400 to 1,630 m above sea level, Banff is the community with the second highest elevation in Alberta, after Lake Louise.",
+      "The Town of Banff was the first municipality to incorporate within a Canadian national park. The town is a member of the Calgary Regional Partnership.",
+      "Banff is a resort town and one of Canada's most popular tourist destinations. Known for its mountainous surroundings and hot springs, it is a destination for outdoor sports and features extensive hiking, biking, scrambling and skiing destinations within the area. Sunshine Village, Ski Norquay and Lake Louise Ski Resort are the three nearby ski resorts located within the national park."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Banff,_Alberta",
+    "urlGoogle": "https://artsandculture.google.com/entity/banff/m01_60w"
+  },
+  "wiki": {
+    "id": "gamma-ray-burst",
+    "name": "Gamma-ray burst",
+    "summary": "Gamma-ray bursts (GRBs) are flashes of gamma rays associated with extremely energetic explosions in distant galaxies. GRBs are the most luminous electromagnetic events known to occur in the universe. A burst typically lasts 20–40 seconds, but can last from ten milliseconds to several minutes. The initial burst is usually followed by a longer-lived \"afterglow\" emitted at longer wavelengths. Most observed GRBs are believed to be a narrow beam of intense radiation released during a supernova event, as a rapidly rotating, high-mass star collapses to form a neutron star or black hole. The sources of most GRBs are billions of light years from Earth, implying that the explosions are both extremely energetic and extremely rare. GRBs were first detected in 1967 by the Vela satellites, but it was not until 1997 that they were better understood, with the detection of the first X-ray and optical afterglows and the use of optical spectroscopy to directly measure their redshifts.",
+    "url": "https://en.wikipedia.org/wiki/Gamma-ray_burst"
+  },
+  "word": {
+    "id": "acquiesce",
+    "word": "acquiesce",
+    "url": "https://www.merriam-webster.com/dictionary/acquiesce",
+    "partOfSpeech": "verb",
+    "pronunciation": "ak-wee-ESS",
+    "audioPath": "audio/words/acquiesce.mp3",
+    "definitions": ["to accept, comply, or submit tacitly or passively - often used with in or to"],
+    "examples": [
+      "The workers began to threaten a strike once it became clear that the company was unlikely to simply _acquiesce_ to their demands.",
+      "\"It is an uncomfortable truth: Dictatorship often rests on a measure of consent. A people _acquiesce_ in their own servitude, forge their own chains.\" - From an article by Fouad Ajami in _The Wall Street Journal_, August 14, 2013"
+    ],
+    "origin": "\"Acquiesce\" means essentially \"to comply quietly,\" so it should not surprise you to learn that it is ultimately derived from the Latin verb \"quiescere,\" meaning \"to be quiet.\" It arrived in English around 1620, via the French \"acquiescer,\" with the now obsolete sense \"to rest satisfied.\" The earliest known recorded use of the word \"acquiesce\" in the sense of \"to agree or comply\" appeared in the writings of the English philosopher Thomas Hobbes in 1651. In his masterpiece Leviathan, Hobbes argued that people must subject themselves completely to a sovereign and should obey the teachings of the church. Encouraging his readers to adopt his position he wrote, \"Our Beleefe . . . is in the Church; whose word we take, and acquiesce therein.\""
+  }
+}

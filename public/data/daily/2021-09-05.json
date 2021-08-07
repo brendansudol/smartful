@@ -1,0 +1,126 @@
+{
+  "artist": {
+    "id": "alexandre-cabanel",
+    "name": "Alexandre Cabanel",
+    "dates": "Sep 28, 1823 - Jan 23, 1889",
+    "mainImg": "img/art/artists/alexandre-cabanel.jpg",
+    "artworkImgs": [
+      {
+        "name": "Echo",
+        "path": "img/art/artworks/alexandre-cabanel-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/echo-alexandre-cabanel/BAFG98tA9cmgZQ"
+      },
+      {
+        "name": "The Birth of Venus",
+        "path": "img/art/artworks/alexandre-cabanel-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-birth-of-venus-alexandre-cabanel/sAG6DpZLGZksTA"
+      },
+      {
+        "name": "Self Portrait",
+        "path": "img/art/artworks/alexandre-cabanel-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-alexandre-cabanel/KQGXbDOHQ2CEkw"
+      },
+      {
+        "name": "Catharine Lorillard Wolfe",
+        "path": "img/art/artworks/alexandre-cabanel-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/catharine-lorillard-wolfe-alexandre-cabanel-1823-1889/OAFn8LbTBx4Baw"
+      },
+      {
+        "name": "The Birth of Venus",
+        "path": "img/art/artworks/alexandre-cabanel-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-birth-of-venus/awEIYqoUcAJ6TA"
+      },
+      {
+        "name": "Florentine Poet",
+        "path": "img/art/artworks/alexandre-cabanel-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/florentine-poet-alexandre-cabanel/owH_luV5PzOq4w"
+      }
+    ],
+    "summary": [
+      "Alexandre Cabanel was a French painter. He painted historical, classical and religious subjects in the academic style. He was also well known as a portrait painter. According to Diccionario Enciclopedico Salvat, Cabanel is the best representative of the L'art pompier and Napoleon III's preferred painter."
+    ],
+    "quote": null,
+    "movements": ["Academic art"],
+    "mediums": ["Oil paint", "Drawing", "Wood", "Chalk", "Pigment", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexandre_Cabanel",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexandre-cabanel/m022g_8"
+  },
+  "event": {
+    "id": "the-holocaust",
+    "name": "The Holocaust",
+    "dates": "1941 - May 8, 1945",
+    "mainImg": "img/events/the-holocaust.jpg",
+    "summary": [
+      "The Holocaust, also known as the Shoah, was the World War II genocide of the European Jews. Between 1941 and 1945, across German-occupied Europe, Nazi Germany and its collaborators systematically murdered some six million Jews, around two-thirds of Europe's Jewish population. The murders were carried out in pogroms and mass shootings; by a policy of extermination through work in concentration camps; and in gas chambers and gas vans in German extermination camps, chiefly Auschwitz, Bełżec, Chełmno, Majdanek, Sobibór, and Treblinka in occupied Poland.",
+      "Germany implemented the persecution in stages. Following Adolf Hitler's appointment as Chancellor on 30 January 1933, the regime built a network of concentration camps in Germany for political opponents and those deemed \"undesirable\", starting with Dachau on 22 March 1933. After the passing of the Enabling Act on 24 March, which gave Hitler plenary powers, the government began isolating Jews from civil society; this included boycotting Jewish businesses in April 1933 and enacting the Nuremberg Laws in September 1935."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/The_Holocaust",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-holocaust/m03hzt"
+  },
+  "funFacts": [
+    {
+      "id": "935",
+      "fact": "Newborn babies cannot cry tears for at least three weeks.",
+      "category": ["Anatomy", "Science"]
+    },
+    {
+      "id": "780",
+      "fact": "The indentation between the nose and the upper lip is called the philtrum.",
+      "category": ["Anatomy", "Definitions"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504875",
+      "fact": "The first use of \"Google\" as a verb in pop culture was on Buffy the Vampire Slayer."
+    }
+  ],
+  "idiom": {
+    "id": "like-a-drowned-rat",
+    "term": "like a drowned rat",
+    "definition": "Also, **wet as a drowned rat.** Soaking wet and utterly bedraggled, as in *When she came in out of the rain she looked like a drowned rat.* This simile appeared in Latin nearly 2,000 years ago, and in English about the year 1500."
+  },
+  "person": {
+    "id": "john-gilbert-winant",
+    "name": "John Gilbert Winant",
+    "dates": "Feb 23, 1889 - Nov 3, 1947",
+    "mainImg": "img/people/john-gilbert-winant.jpg",
+    "summary": [
+      "John Gilbert Winant OM was an American politician with the Republican party after a brief career as a teacher in Concord, New Hampshire. John Winant held positions in New Hampshire, national, and international politics. He was the first man to serve more than a single two-year term as Governor of New Hampshire, winning election three times. Winant also served as U.S. Ambassador to the United Kingdom during most of World War II. Depressed by career disappointments, a failed marriage and heavy debts, he committed suicide in 1947."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Gilbert_Winant",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-gilbert-winant/m07lp0z"
+  },
+  "place": {
+    "id": "chartres",
+    "name": "Chartres",
+    "mainImg": "img/places/chartres.jpg",
+    "summary": [
+      "Chartres is a commune and capital of the Eure-et-Loir department in France. It is located about 90 km southwest of Paris. Chartres is famous world-wide for its cathedral. Mostly constructed between 1193 and 1250, this Gothic cathedral is in an exceptional state of preservation. The majority of the original stained glass windows survive intact, while the architecture has seen only minor changes since the early 13th century. Much of the old town, including the library associated with the School of Chartres, was destroyed by bombs in 1944."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Chartres",
+    "urlGoogle": "https://artsandculture.google.com/entity/chartres/m0p8hy"
+  },
+  "wiki": {
+    "id": "extrasolar-planet",
+    "name": "Extrasolar planet",
+    "summary": "An extrasolar planet is a planet beyond the Solar System. As of 11 November, 2006, 209 extrasolar planets have been discovered. Known exoplanets are members of planetary systems that orbit a star. For centuries, extrasolar planets were a subject of speculation. Astronomers generally supposed that some existed, but it was a mystery how common they were and how similar they were to the planets of the Solar System. The first confirmed detections were finally made in the 1990s. Since 2002, more than twenty have been discovered every year. It is now estimated that at least 10% of sunlike stars have planets, and the true proportion may be much higher. The discovery of extrasolar planets raises the question of whether some might support extraterrestrial life.",
+    "url": "https://en.wikipedia.org/wiki/Extrasolar_planet"
+  },
+  "word": {
+    "id": "arcadia",
+    "word": "arcadia",
+    "url": "https://www.merriam-webster.com/dictionary/arcadia",
+    "partOfSpeech": "noun, often capitalized",
+    "pronunciation": "ar-KAY-dee-uh",
+    "audioPath": "audio/words/arcadia.mp3",
+    "definitions": ["a region or scene of simple pleasure and quiet"],
+    "examples": [
+      "Artists and writers view the sleepy community as an arcadia where they can focus on their work."
+    ],
+    "origin": "Arcadia is a mountainous, landlocked region of Greece. The Roman poet Virgil recognized that Arcadia's isolation and bucolic character make it a perfect setting for pastoral poetry, and over the centuries many other writers have agreed. In the poems of Arcadia, naive and ideal innocence is often unaffected by the passions of the larger world. Shepherds play their pipes and sigh with longing for flirtatious nymphs; shepherdesses sing to their flocks; and goat-footed nature gods cavort in the fields and woods. Now English speakers often use \"arcadia\" to designate a place of rustic innocence and simple, quiet pleasure. \"Arcadian\" can mean \"idyllically pastoral\" or \"idyllically innocent, simple, or untroubled.\""
+  }
+}

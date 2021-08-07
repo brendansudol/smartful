@@ -1,0 +1,131 @@
+{
+  "artist": {
+    "id": "gim-hongdo",
+    "name": "Gim Hongdo",
+    "dates": "1745 - 1806",
+    "mainImg": "img/art/artists/gim-hongdo.jpg",
+    "artworkImgs": [
+      {
+        "name": "Album of Genre Paintings",
+        "path": "img/art/artworks/gim-hongdo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/eAFn6DicWIqnNQ"
+      },
+      {
+        "name": "Album of Genre Paintings",
+        "path": "img/art/artworks/gim-hongdo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/7QGqYlKqXd86dQ"
+      },
+      {
+        "name": "Album of Genre Paintings",
+        "path": "img/art/artworks/gim-hongdo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/SgGS_BxJlhm5ZA"
+      },
+      {
+        "name": "Album of Genre Paintings",
+        "path": "img/art/artworks/gim-hongdo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/iAGYrdPxTLfyNw"
+      },
+      {
+        "name": "Album of Genre Paintings",
+        "path": "img/art/artworks/gim-hongdo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/QwEvHt_wSvg0Mw"
+      },
+      {
+        "name": "Album of Genre Paintings",
+        "path": "img/art/artworks/gim-hongdo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/WgFpqAFTIAN2dA"
+      }
+    ],
+    "summary": [
+      "Gim Hong-do, also known as Kim Hong-do, most often styled Danwon, was a full-time painter of the Joseon period of Korea. He was together a pillar of the establishment and a key figure of the new trends of his time, the 'true view painting'. Gim Hong-do was an exceptional artist in every field of traditional painting, even if he is mostly remembered nowadays for his depictions of the everyday life of ordinary people, in a manner analogous to the Dutch Masters."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Silk", "Textile", "Ink", "Tin", "India ink", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gim_Hongdo",
+    "urlGoogle": "https://artsandculture.google.com/entity/gim-hongdo/m0749cz"
+  },
+  "event": {
+    "id": "battle-of-vigo-bay",
+    "name": "Battle of Vigo Bay",
+    "dates": null,
+    "mainImg": "img/events/battle-of-vigo-bay.jpg",
+    "summary": [
+      "The Battle of Vigo Bay, also known as the Battle of Rande, was a naval engagement fought on 23 October 1702 during the opening years of the War of the Spanish Succession. The engagement followed an Anglo-Dutch attempt to capture the Spanish port of Cádiz in September in an effort to secure a naval base in the Iberian Peninsula. From this station the Allies had hoped to conduct operations in the western Mediterranean Sea, particularly against the French at Toulon. The amphibious assault, however, had proved a disaster, but as Admiral George Rooke retreated home in early October, he received news that the Spanish treasure fleet from America, laden with silver and merchandise, had entered Vigo Bay in northern Spain. Philips van Almonde convinced Rooke to attack the treasure ships, despite the lateness of the year and the fact that the vessels were protected by French ships-of-the-line.",
+      "The engagement was an overwhelming naval success for the Allies: the entire French escort fleet, under the command of Château-Renault, together with the Spanish galleons and transports under Manuel de Velasco, had either been captured or destroyed."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Vigo_Bay",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-vigo-bay/m03l0qh"
+  },
+  "funFacts": [
+    {
+      "id": "335",
+      "fact": "Maine produces more toothpicks than any other state in the U.S.",
+      "category": ["Geography"]
+    },
+    { "id": "278", "fact": "China only has one time zone.", "category": ["Geography"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "554080",
+      "fact": "In 1953, Swanson had 260 tons of frozen turkey leftover after Thanksgiving, so they packaged them into trays with peas and potatoes, and the TV Dinner was born."
+    }
+  ],
+  "idiom": {
+    "id": "sum-and-substance",
+    "term": "sum and substance",
+    "definition": "The essence or gist of something, as in *The sum and substance of their platform is financial conservatism.* This redundant expression---both *sum* and *substance* here mean \"essence\"---has probably survived owing to alliteration. Shakespeare used it in *The Two Gentlemen of Verona* (4:1): \"My riches are these poor habiliments [clothes], Of which if you should here disfurnish me, You take the sum and substance that I have.\""
+  },
+  "person": {
+    "id": "haile-selassie",
+    "name": "Haile Selassie",
+    "dates": "Jul 23, 1892 - Aug 27, 1975",
+    "mainImg": "img/people/haile-selassie.jpg",
+    "summary": [
+      "Haile Selassie I was an Emperor of Ethiopia from 1930 to 1974. Prior to his coronation in 1930, he had been Regent Plenipotentiary of Ethiopia from 1916. He is a defining figure in modern Ethiopian history. He was a member of the Solomonic dynasty who traced his lineage to Emperor Menelik I.",
+      "Selassie's internationalist views led to Ethiopia becoming a charter member of the United Nations. At the League of Nations in 1936, he condemned Italy's use of chemical weapons against its people during the Second Italo-Ethiopian War. He has been criticized by some historians for his suppression of rebellions among the landed aristocracy, which consistently opposed his reforms; some critics have also criticized Ethiopia's failure to modernize rapidly enough. During his rule the Harari people were persecuted and many left the Harari Region. His regime was also criticized by human rights groups, such as Human Rights Watch, as autocratic and illiberal.",
+      "Among the Rastafari movement, whose followers are estimated to number between 700,000 and one million, Haile Selassie is revered as the returned messiah of the Bible, God incarnate."
+    ],
+    "quote": "“Outside the kingdom of the Lord there is no nation which is greater than any other. God and history will remember your judgment.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Haile_Selassie",
+    "urlGoogle": "https://artsandculture.google.com/entity/haile-selassie/m0bky0"
+  },
+  "place": {
+    "id": "cairns",
+    "name": "Cairns",
+    "mainImg": "img/places/cairns.jpg",
+    "summary": [
+      "Cairns is a city in the Cairns Region, Queensland, Australia. It is on the east coast of Far North Queensland. The city is the 5th-most-populous in Queensland and ranks 14th overall in Australia.",
+      "Cairns was founded in 1876 and named after Sir William Wellington Cairns, Governor of Queensland from 1875 to 1877. It was formed to serve miners heading for the Hodgkinson River goldfield, but declined when an easier route was discovered from Port Douglas. It later developed into a railhead and major port for exporting sugar cane, gold and other metals, minerals and agricultural products from surrounding coastal areas and the Atherton Tableland region.",
+      "The population of the Cairns urban area at June 2018 was 152,729, having grown on average 1.1% year-on-year over the preceding five years.",
+      "Based on 2015 data, the associated local government area had experienced an average annual growth rate of 2.3% over the previous 10 years. According to Cairns Regional Council in February 2020, Cairns had experienced an annual growth rate of 1.9% over the previous ten years."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Cairns",
+    "urlGoogle": "https://artsandculture.google.com/entity/cairns/m01sgmd"
+  },
+  "wiki": {
+    "id": "virginia",
+    "name": "Virginia",
+    "summary": "Virginia is a U.S. state on the Atlantic Coast of the Southern United States. The state population is over eight million. Its geography and climate are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which are home to much of its flora and fauna. The area's history begins with several indigenous groups, including the Powhatan. In May 1607 the London Company established the Colony of Virginia as the first permanent New World English colony. Virginia was one of the Thirteen Colonies involved in the American Revolution. During the American Civil War, Virginia joined the Confederate States of America, which named Richmond its capital, and the state of West Virginia separated. The Virginia General Assembly is the oldest legislature in the Americas, and the state is unique for prohibiting governors from serving consecutive terms. Virginia's economy is diversified with agriculture in regions like the Shenandoah Valley, federal agencies in Northern Virginia, and military facilities in Hampton Roads. The growth of the media and technology sectors have made computer chips the leading export, with the industry based on the strength of Virginia's public schools and universities.",
+    "url": "https://en.wikipedia.org/wiki/Virginia"
+  },
+  "word": {
+    "id": "zoomorphic",
+    "word": "zoomorphic",
+    "url": "https://www.merriam-webster.com/dictionary/zoomorphic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "zoh-uh-MOR-fik",
+    "audioPath": "audio/words/zoomorphic.mp3",
+    "definitions": [
+      "having the form of an animal",
+      "of, relating to, or being a deity conceived of in animal form or with animal attributes"
+    ],
+    "examples": [
+      "Using her new cookie cutters, Angela baked a batch of _zoomorphic_ cookies to bring to the kids in her niece's classroom.",
+      "\"The historic Lobero Theatre will be transformed into a rain forest for State Street Ballet's matinee production of The Jungle Book, which boasts some of the most dazzling _zoomorphic_ costumes ever made.\" - From a review by Elizabeth Schwyzer in the _Santa Barbara Independent_ (California), January 13-20, 2011"
+    ],
+    "origin": "\"Zo-\" (or \"zoo-\") derives from the Greek word \"zōion,\" meaning \"animal,\" and \"-morph\" comes from the Greek \"morphē,\" meaning \"form.\" These two forms combined to give us the adjective \"zoomorphic,\" which was first used in English to describe something that resembles an animal in 1872. English includes other words that were formed from \"zo-\" or \"zoo-,\" such as \"zoology\" (made with \"-logy,\" meaning \"science\"). And there are also other words that were formed from \"-morph,\" such as \"pseudomorph,\" for a mineral having the outward form of another species. (The combining form \"pseud-\" or \"pseudo-\" means \"false.\")"
+  }
+}

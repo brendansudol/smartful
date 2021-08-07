@@ -69,19 +69,10 @@
       "id": "914",
       "fact": "A manned rocket can reach the moon in less time than it took a stagecoach to travel the length of England.",
       "category": ["Science"]
-    },
-    {
-      "id": "156",
-      "fact": "Swimming pools in the U.S. contain enough water to cover San Francisco.",
-      "category": ["Geography"]
     }
   ],
   "funFacts2": [
-    { "id": "505505", "fact": "A 2013 study suggests that chewing gum boosts concentration." },
-    {
-      "id": "504794",
-      "fact": "In 1777, Frederick the Great issued an official statement urging his subjects to drink beer in the morning instead of coffee."
-    }
+    { "id": "505505", "fact": "A 2013 study suggests that chewing gum boosts concentration." }
   ],
   "idiom": {
     "id": "forever-and-a-day",

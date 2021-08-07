@@ -1,0 +1,124 @@
+{
+  "artist": {
+    "id": "robert-smithson",
+    "name": "Robert Smithson",
+    "dates": "Jan 2, 1938 - Jul 20, 1973",
+    "mainImg": "img/art/artists/robert-smithson.jpg",
+    "artworkImgs": [
+      {
+        "name": "Three-Sided Vortex",
+        "path": "img/art/artworks/robert-smithson-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/three-sided-vortex-robert-smithson/9wHP1B1j3hs8YQ"
+      },
+      {
+        "name": "Non Site - Site Uncertain",
+        "path": "img/art/artworks/robert-smithson-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/non-site-site-uncertain-robert-smithson/BwFsRcVglxe5gw"
+      },
+      {
+        "name": "Installation View",
+        "path": "img/art/artworks/robert-smithson-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/installation-view-roberth-smithson/hAHld3ityWYGRQ"
+      },
+      {
+        "name": "Swamp",
+        "path": "img/art/artworks/robert-smithson-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/swamp-nancy-holt-robert-smithson/pwEOBB8mufJJMA"
+      }
+    ],
+    "summary": [
+      "Robert Smithson was an American artist known for sculpture and land art who often used drawing and photography in relation to the spatial arts. His work has been internationally exhibited in galleries and museums and is held in public collections including the Museum of Modern Art, New York, the Smithsonian American Art Museum, Solomon R. Guggenheim Museum, New York, the Tate Modern, London, the",
+      "Whitney Museum of American Art, New York, among others. He was one of the founders of the Land Art movement whose best known work is the Spiral Jetty."
+    ],
+    "quote": "“Painting, sculpture and architecture are finished, but the art habit continues.”",
+    "movements": ["Modern art", "Land art"],
+    "mediums": ["Metal", "Sculpture", "Coal", "Crystal", "Iron", "Chromium"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Smithson",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-smithson/m013_05"
+  },
+  "event": {
+    "id": "battle-of-kasserine-pass",
+    "name": "Battle of Kasserine Pass",
+    "dates": "Feb 19, 1943 - Feb 25, 1943",
+    "mainImg": "img/events/battle-of-kasserine-pass.jpg",
+    "summary": [
+      "The Battle of Kasserine Pass were a series of battles of the Tunisia Campaign of World War II that took place in February 1943. Covering Kasserine Pass, a 2-mile-wide gap in the Grand Dorsal chain of the Atlas Mountains in west central Tunisia.",
+      "The Axis forces, led by Generalfeldmarschall Erwin Rommel, were primarily from the Afrika Korps Assault Group, elements of the Italian Centauro Armored Division and two Panzer divisions detached from the 5th Panzer Army, while the Allied forces consisted of the U.S. II Corps, the British 6th Armoured Division and other parts of the First Army.",
+      "The battle was the first major engagement between U.S. and Axis forces in Africa. Inexperienced and poorly led American troops suffered many casualties and were quickly pushed back over 50 miles from their positions west of Faïd Pass."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Kasserine_Pass",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-kasserine-pass/m01vpkf"
+  },
+  "funFacts": [
+    {
+      "id": "858",
+      "fact": "New Jersey is home to the world's first drive-in movie theater.",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "958",
+      "fact": "The state of Alabama once financed the construction of a bridge by holding a rooster auction.",
+      "category": ["Geography", "History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "505478",
+      "fact": "The Woolsey Hall auditorium at Yale contains an extra-wide seat built to fit alumnus and former professor William Howard Taft."
+    }
+  ],
+  "idiom": {
+    "id": "as-comfortable-as-an-old-shoe",
+    "term": "as comfortable as an old shoe",
+    "definition": "Familiar and very much at ease, as in *Kathy's really enjoying her third summer at the same camp -- for her it's comfortable as an old shoe.* This simile was once put **as easy as an old shoe,** first recorded in J. T. Brockett's *North Country Glossary* (1825). It was most often applied to friends, as in the proverb **Old shoes are easy, old friends are best,** but today it is used more broadly for easy familiarity in any situation."
+  },
+  "person": {
+    "id": "florence-harding",
+    "name": "Florence Harding",
+    "dates": "Aug 15, 1860 - Nov 21, 1924",
+    "mainImg": "img/people/florence-harding.jpg",
+    "summary": [
+      "Florence Mabel Harding was the First Lady of the United States from 1921 to 1923 as the wife of President Warren G. Harding.",
+      "Florence married Pete DeWolfe at a young age and had a son, Marshall. After divorcing him, she married the somewhat-younger Harding when he was a newspaper publisher in Ohio, and she was acknowledged as the brains behind the business. Known as The Duchess, she adapted well to the White House, where she gave notably elegant parties."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Florence_Harding",
+    "urlGoogle": "https://artsandculture.google.com/entity/florence-harding/m025prf"
+  },
+  "place": {
+    "id": "helsinki",
+    "name": "Helsinki",
+    "mainImg": "img/places/helsinki.jpg",
+    "summary": [
+      "Helsinki is the capital and most populous city of Finland. Located on the shore of the Gulf of Finland, it is the seat of the region of Uusimaa in southern Finland, and has a population of 650,058. The city's urban area has a population of 1,268,296, making it by far the most populous urban area in Finland as well as the country's most important center for politics, education, finance, culture, and research. Helsinki is located 80 kilometres north of Tallinn, Estonia, 400 km east of Stockholm, Sweden, and 300 km west of Saint Petersburg, Russia. It has close historical ties with these three cities.",
+      "Together with the cities of Espoo, Vantaa, and Kauniainen, and surrounding commuter towns, Helsinki forms the Greater Helsinki metropolitan area, which has a population of nearly 1.5 million. Often considered to be Finland's only metropolis, it is the world's northernmost metro area with over one million people as well as the northernmost capital of an EU member state. After Stockholm and Oslo, Helsinki is the third largest municipality in the Nordic countries. Finnish and Swedish are both official languages."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Helsinki",
+    "urlGoogle": "https://artsandculture.google.com/entity/helsinki/m03khn"
+  },
+  "wiki": {
+    "id": "enzyme-kinetics",
+    "name": "Enzyme kinetics",
+    "summary": "Enzyme kinetics is the study of the rates of chemical reactions that are catalysed by enzymes. Enzymes are molecules that manipulate other molecules — the enzymes' substrates. These target molecules bind to an enzyme's active site and are transformed into products through a series of steps known as the enzymatic mechanism. The study of an enzyme's kinetics provides insights into the catalytic mechanism of this enzyme, its role in metabolism, how its activity is controlled in the cell and how drugs and poisons can inhibit its activity. Knowledge of the enzyme's structure is helpful in visualizing the kinetic data.",
+    "url": "https://en.wikipedia.org/wiki/Enzyme_kinetics"
+  },
+  "word": {
+    "id": "filial",
+    "word": "filial",
+    "url": "https://www.merriam-webster.com/dictionary/filial",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FIL-ee-ul",
+    "audioPath": "audio/words/filial.mp3",
+    "definitions": [
+      "of, relating to, or befitting a son or daughter",
+      "having or assuming the relation of a child or offspring"
+    ],
+    "examples": [
+      "Margaret's sense of _filial_ responsibility is only part of her motivation for carrying on her parents' business; she also loves the work.",
+      "\"Confucianism, which emphasizes _filial_ piety, has been the bedrock of Korean society for hundreds of years and, historically, older citizens would rely on their children to take care of them.\" - From an article by Audrey Yoo in _Time_, March 25, 2013"
+    ],
+    "origin": "\"Filial\" is descended from Latin \"filius,\" meaning \"son,\" and \"filia,\" meaning \"daughter,\" and in English (where it has been used since at least the 14th century) it has always applied to both sexes. The word has long carried the dutiful sense \"owed to a parent by a child,\" as found in such phrases as \"filial respect\" and \"filial piety.\" These days it can also be used more generally for any emotion or behavior of a child to a parent. You might suspect that \"filia\" is also the source of the word \"filly,\" meaning \"a young female horse\" or \"a young girl,\" but it isn't. Rather, \"filly\" is from Old Norse \"fylja.\""
+  }
+}

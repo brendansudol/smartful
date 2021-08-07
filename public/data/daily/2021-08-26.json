@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "jan-van-de-velde",
+    "name": "Jan van de Velde",
+    "dates": "1593 - Nov 1, 1641",
+    "mainImg": "img/art/artists/jan-van-de-velde.jpg",
+    "artworkImgs": [
+      {
+        "name": "Heks",
+        "path": "img/art/artworks/jan-van-de-velde-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/heks-jan-van-de-velde-ii/rgFYMDKJskolqA"
+      },
+      {
+        "name": "Heks",
+        "path": "img/art/artworks/jan-van-de-velde-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/heks-jan-van-de-velde-ii-monogrammist-iab/JQHP15S1YTsnYg"
+      },
+      {
+        "name": "The Sorceress",
+        "path": "img/art/artworks/jan-van-de-velde-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-sorceress-jan-van-de-velde-ii/aAEdDysJxPgaOQ"
+      },
+      {
+        "name": "Waadplaats",
+        "path": "img/art/artworks/jan-van-de-velde-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/waadplaats-jan-van-de-velde-ii/3AF7kaClsfcoTQ"
+      },
+      {
+        "name": "Gezicht op de Grote Markt met het stadhuis te Haarlem",
+        "path": "img/art/artworks/jan-van-de-velde-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/gezicht-op-de-grote-markt-met-het-stadhuis-te-haarlem-jan-van-de-velde-ii/BQGdgGA5cflVqg"
+      },
+      {
+        "name": "De uitvinding van de boekdrukkunst door Laurens Jansz. Coster te Haarlem, ca. 1440",
+        "path": "img/art/artworks/jan-van-de-velde-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/de-uitvinding-van-de-boekdrukkunst-door-laurens-jansz-coster-te-haarlem-ca-1440-jan-van-de-velde-ii-petrus-scriverius/CgFtuTAH6gt_Ww"
+      }
+    ],
+    "summary": [
+      "Jan van de Velde the younger was a Dutch Golden Age painter and engraver of animal, landscape and still-life subjects. He was the son of Jan van de Velde the Elder and the father of the still life painter Jan Jansz van de Velde."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Etching", "Engraving", "Pen", "Ink", "Laid paper", "Silver"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jan_van_de_Velde",
+    "urlGoogle": "https://artsandculture.google.com/entity/jan-van-de-velde/m04f57y5"
+  },
+  "event": {
+    "id": "operation-boomerang",
+    "name": "Operation Boomerang",
+    "dates": "Aug 11, 1944",
+    "mainImg": "img/events/operation-boomerang.jpg",
+    "summary": [
+      "Operation Boomerang was a partially successful air raid conducted by the United States Army Air Forces' XX Bomber Command against oil refining facilities in Japanese-occupied Palembang on the night of 10/11 August 1944 during World War II. The attack involved attempts to bomb an oil refinery and lay mines to block a river.",
+      "The raid formed part of a series of attacks on Japanese-occupied cities in South East Asia which XX Bomber Command conducted as an adjunct to its primary mission of bombing Japan. The command raided the Japanese city of Nagasaki on the same night as Operation Boomerang.",
+      "A total of 54 heavy bombers were dispatched from an airfield in Ceylon on 10 August, of which 39 reached the Palembang area. Attempts to bomb the oil refinery were unsuccessful, with only a single small building being confirmed destroyed. Mines dropped in the river which connects Palembang to the sea sank three ships and damaged two others. British forces provided search and rescue support for the American bombers. The Japanese defenders of Palembang failed to destroy any of the American bombers, but one was forced to ditch when it ran out of fuel."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Boomerang",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-boomerang/g11f7r5xty0"
+  },
+  "funFacts": [
+    {
+      "id": "719",
+      "fact": "A strawberry is not an actual berry, but a banana is.",
+      "category": ["Food"]
+    },
+    {
+      "id": "265",
+      "fact": "About 90% of all garlic consumed in the U.S. comes from Gilroy, CA.",
+      "category": ["Food", "Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553963",
+      "fact": "Citizens of the Soviet Union began celebrating the defeat of Germany in World War II as soon as it was announced. Less than 24 hours later, the entire country was out of vodka."
+    }
+  ],
+  "idiom": {
+    "id": "call-on-the-carpet",
+    "term": "call on the carpet",
+    "definition": "Summon for a scolding or rebuke, as in *Suspecting a leak to the press, the governor called his press secretary on the carpet.* This term began as **on the carpet,** which in the early 1700s referred to a cloth (carpet) covering a conference table and therefore came to mean \"under consideration or discussion.\" In 19th-century America, however, *carpet* meant \"floor covering,\" and the expression, first recorded in 1902, alluded to being called before or reprimanded by a person rich or powerful enough to have a carpet."
+  },
+  "person": {
+    "id": "svetlana-savitskaya",
+    "name": "Svetlana Savitskaya",
+    "dates": "Born Aug 8, 1948",
+    "mainImg": "img/people/svetlana-savitskaya.jpg",
+    "summary": [
+      "Svetlana Yevgenyevna Savitskaya is a retired Soviet aviator and cosmonaut who flew aboard Soyuz T-7 in 1982, becoming the second woman in space. On her 1984 Soyuz T-12 mission she became the first woman to fly to space twice, and the first woman to perform a spacewalk.",
+      "She set several FAI world records as a pilot."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Svetlana_Savitskaya",
+    "urlGoogle": "https://artsandculture.google.com/entity/svetlana-savitskaya/m01b8rj"
+  },
+  "place": {
+    "id": "puerto-rico",
+    "name": "Puerto Rico",
+    "mainImg": "img/places/puerto-rico.jpg",
+    "summary": [
+      "Puerto Rico, officially the Commonwealth of Puerto Rico and in previous centuries called Porto Rico in English, is an unincorporated territory of the United States located in the northeast Caribbean Sea, approximately 1,000 miles southeast of Miami, Florida.",
+      "Puerto Rico is an archipelago among the Greater Antilles located between the Dominican Republic and the US Virgin Islands, and includes the eponymous main island and several smaller islands, such as Mona, Culebra, and Vieques. The capital and most populous city is San Juan. The territory's total population is approximately 3.2 million, more than 20 U.S. states. Spanish and English are the official languages of the executive branch of government, though Spanish predominates.",
+      "Originally populated by the indigenous Taíno people, Puerto Rico was colonized by Spain following the arrival of Christopher Columbus in 1493. It was contested by various other European powers, but remained a Spanish possession for the next four centuries."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Puerto_Rico",
+    "urlGoogle": "https://artsandculture.google.com/entity/puerto-rico/m05r7t"
+  },
+  "wiki": {
+    "id": "jurgen-ehlers",
+    "name": "Jürgen Ehlers",
+    "summary": "Jürgen Ehlers (1929–2008) was a German physicist who contributed to the understanding of Albert Einstein's theory of general relativity. From graduate and postgraduate work in Pascual Jordan's relativity research group at Hamburg University, he held academic posts before joining the Max Planck Institute for Astrophysics in Munich as a director. In 1995, he became the founding director of the newly created Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam, Germany. Ehlers' research focused on the foundations of general relativity as well as on the theory's applications to astrophysics. He formulated a suitable classification of exact solutions to Einstein's field equations and proved the Ehlers–Geren–Sachs theorem that justifies the application of simple, general-relativistic model universes to modern cosmology. He created a spacetime-oriented description of gravitational lensing and clarified the relationship between models formulated within the framework of general relativity and those of Newtonian gravity. He had a keen interest in the history and philosophy of physics and was an ardent popularizer of science.",
+    "url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Ehlers"
+  },
+  "word": {
+    "id": "revanche",
+    "word": "revanche",
+    "url": "https://www.merriam-webster.com/dictionary/revanche",
+    "partOfSpeech": "noun",
+    "pronunciation": "ruh-VAHNSH (the N is not pronounced, but the vowel is nasalized)",
+    "audioPath": "audio/words/revanche.mp3",
+    "definitions": [
+      "revenge; especially : a usually political policy designed to recover lost territory or status"
+    ],
+    "examples": [
+      "Soon after losing the northern territory to the invading army, the king began drafting a plan of revanche to get it back."
+    ],
+    "origin": "\"Revanche\" first appeared in English in the mid-19th century, deriving, along with our noun \"revenge,\" from the Middle French verb \"revenchier\" (\"to revenge\"). The word developed its specific political application in the years following the Franco-German War (1870-71), which resulted in France losing the territory known as Alsace-Lorraine to Germany. (The territory was returned to France following World War I and then twice switched hands again during World War II.) Although \"revanche\" appears occasionally in English today, you are more likely to encounter its relatives \"revanchism,\" which refers to a government's policy of revanche, and \"revanchist,\" referring to a follower of such a policy. These words did not appear in English until the 20th century."
+  }
+}

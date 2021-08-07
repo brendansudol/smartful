@@ -1,0 +1,131 @@
+{
+  "artist": {
+    "id": "marius-petipa",
+    "name": "Marius Petipa",
+    "dates": "Mar 11, 1818 - Jul 14, 1910",
+    "mainImg": "img/art/artists/marius-petipa.jpg",
+    "artworkImgs": [
+      {
+        "name": "Het Toilet, 15 januari 1879, No. 7",
+        "path": "img/art/artworks/marius-petipa-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/het-toilet-15-januari-1879-no-7-a-chaillot-hendrik-adriaan-marius-roelants-falconer/6wGYCFfiz2I_Mw"
+      },
+      {
+        "name": "Het Toilet, 1 juli 1879, No. 1",
+        "path": "img/art/artworks/marius-petipa-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/het-toilet-1-juli-1879-no-1-a-chaillot-hendrik-adriaan-marius-roelants-falconer/1QFRYifH2EvK8Q"
+      },
+      {
+        "name": "Northern Ballet Theatre performs The Amazing Adventures of Don Quixote at Sadler's Wells",
+        "path": "img/art/artworks/marius-petipa-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/northern-ballet-theatre-performs-the-amazing-adventures-of-don-quixote-at-sadler-s-wells-northern-ballet-theatre/GAHjTQvUPiQL0g"
+      },
+      {
+        "name": "Het Toilet, 1 januari 1880, No. 13",
+        "path": "img/art/artworks/marius-petipa-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/het-toilet-1-januari-1880-no-13-a-chaillot-hendrik-adriaan-marius-roelants-falconer/gwGINxYs-8h5xw"
+      },
+      {
+        "name": "Het Toilet, 1 maart 1880, No. 17",
+        "path": "img/art/artworks/marius-petipa-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/het-toilet-1-maart-1880-no-17-a-chaillot-hendrik-adriaan-marius-roelants-falconer/YwFe8URndGEltw"
+      },
+      {
+        "name": "\"Esclave dansant le Banja\"",
+        "path": "img/art/artworks/marius-petipa-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/esclave-dansant-le-banja-jacob-marius-adriaan-martini-van-geffen/QgFqW-FPxkpvcw"
+      }
+    ],
+    "summary": [
+      "Marius Ivanovich Petipa, born Victor Marius Alphonse Petipa, was a French ballet dancer, pedagogue and choreographer. Petipa is one of the most influential ballet masters and choreographers in ballet history.",
+      "Marius Petipa is noted for his long career as Premier maître de ballet of the St. Petersburg Imperial Theatres, making him Ballet Master and principal choreographer of the Imperial Ballet, a position he held from 1871 until 1903. Petipa created over fifty ballets, some of which have survived in versions either faithful to, inspired by, or reconstructed from the original. Among these works, he is most noted for The Pharaoh's Daughter; Don Quixote; La Bayadère; Le Talisman; The Sleeping Beauty; The Nutcracker; Le Réveil de Flore; La Halte de cavalerie; Raymonda; Les Saisons, and Les Millions d’Arlequin.",
+      "Petipa revived a substantial number of works created by other choreographers. Many of these revivals would go on to become the definitive editions on which all subsequent productions would be based. The most famous of these revivals were Le Corsaire, Giselle, La Esmeralda, Coppélia, La Fille Mal Gardée, The Little Humpbacked Horse and Swan Lake."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Engraving", "Watercolor painting", "Ink", "Pencil"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Marius_Petipa",
+    "urlGoogle": "https://artsandculture.google.com/entity/marius-petipa/m05q6km"
+  },
+  "event": {
+    "id": "2008-united-states-presidential-election",
+    "name": "2008 United States presidential election",
+    "dates": null,
+    "mainImg": "img/events/2008-united-states-presidential-election.jpg",
+    "summary": [
+      "The 2008 United States presidential election was the 56th quadrennial presidential election, held on Tuesday, November 4, 2008. The Democratic ticket of Barack Obama, the junior U.S. Senator from Illinois, and Joe Biden, the senior U.S. Senator from Delaware, defeated the Republican ticket of John McCain, the senior Senator from Arizona, and Sarah Palin, the Governor of Alaska. Obama became the first African American ever to be elected to the presidency as well as being only the third sitting United States Senator elected president, joining Warren G. Harding and John F. Kennedy.",
+      "Incumbent Republican President George W. Bush was ineligible to pursue a third term due to the term limits established by the 22nd Amendment. As neither Bush nor Vice President Dick Cheney sought the presidency, the 2008 election was the first election since 1952 in which neither major party's presidential nominee was the incumbent president or the incumbent vice president. McCain secured the Republican nomination by March 2008, defeating Mitt Romney, Mike Huckabee, and other challengers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election",
+    "urlGoogle": "https://artsandculture.google.com/entity/2008-united-states-presidential-election/m024jvz"
+  },
+  "funFacts": [
+    {
+      "id": "287",
+      "fact": "Wisconsin has points located farther east than parts of Florida.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "660",
+      "fact": "The strike note of The Liberty Bell is E flat.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [{ "id": "553283", "fact": "Viking burials included board games." }],
+  "idiom": {
+    "id": "forty-winks",
+    "term": "forty winks",
+    "definition": "A brief nap, as in *There's just time for forty winks before we have to leave.* This expression supposedly was first recorded in 1828 and relies on *wink* in the sense of \"sleep,\" a usage dating from the 14th century."
+  },
+  "person": {
+    "id": "will-rogers",
+    "name": "Will Rogers",
+    "dates": "Nov 4, 1879 - Aug 15, 1935",
+    "mainImg": "img/people/will-rogers.jpg",
+    "summary": [
+      "William Penn Adair Rogers was an American stage and film actor, vaudeville performer, cowboy, humorist, newspaper columnist, and social commentator from Oklahoma. He was a Cherokee citizen born in the Cherokee Nation, Indian Territory.",
+      "Known as \"Oklahoma's Favorite Son\", Rogers was born to a Cherokee family in Indian Territory. As an entertainer and humorist, he traveled around the world three times, made 71 films, and wrote more than 4,000 nationally syndicated newspaper columns.",
+      "By the mid-1930s Rogers was hugely popular in the United States, its leading political wit and the highest paid of Hollywood film stars. He died in 1935 with aviator Wiley Post when their small airplane crashed in northern Alaska.",
+      "Rogers's vaudeville rope act led to success in the Ziegfeld Follies, which in turn led to the first of his many movie contracts. His 1920s syndicated newspaper column and his radio appearances increased his visibility and popularity. Rogers crusaded for aviation expansion and provided Americans with first-hand accounts of his world travels."
+    ],
+    "quote": "“A remark generally hurts in proportion to its truth.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Will_Rogers",
+    "urlGoogle": "https://artsandculture.google.com/entity/will-rogers/m01t7pgk"
+  },
+  "place": {
+    "id": "okayama",
+    "name": "Okayama",
+    "mainImg": "img/places/okayama.jpg",
+    "summary": [
+      "Okayama is the capital city of Okayama Prefecture in the Chūgoku region of Japan. The city was founded on June 1, 1889.",
+      "As of February 2017, the city has an estimated population of 720,841 and a population density of 910 persons per km². The total area is 789.88 square kilometres.",
+      "The city is the site of Kōraku-en, known as one of the top three traditional gardens in Japan, and Okayama Castle, which is ranked among the best 100 Japanese castles. The city is famous as the setting of the Japanese fable \"Momotarō\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Okayama",
+    "urlGoogle": "https://artsandculture.google.com/entity/okayama/m0gp5my"
+  },
+  "wiki": {
+    "id": "rudolf-wolters",
+    "name": "Rudolf Wolters",
+    "summary": "Rudolf Wolters (1903–1983) was a German architect and government official, known for his longtime association with fellow architect and Third Reich official Albert Speer. The two formed a friendship while students in the 1920s. In 1937, Speer hired him as a department head, and Wolters soon took major responsibility for Hitler's scheme to reconstruct Berlin on a massive scale. When Speer became Minister of Armaments and War Production in 1942, Wolters moved to his department, remaining his close associate. After Speer's indictment and imprisonment for war crimes, Wolters stood by him loyally. In addition to receiving and organizing Speer's clandestine notes from Spandau Prison, which later served as the basis of his best-selling books of memoirs, Wolters quietly raised money for Speer. These funds were used to support Speer's family and for other purposes, according to directions which Wolters received from his former superior. Following Speer's release in 1966, their friendship gradually deteriorated, until the two men became so embittered that Wolters allowed papers demonstrating Speer's knowledge of the persecution of the Jews to become public.",
+    "url": "https://en.wikipedia.org/wiki/Rudolf_Wolters"
+  },
+  "word": {
+    "id": "conscientious",
+    "word": "conscientious",
+    "url": "https://www.merriam-webster.com/dictionary/conscientious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kahn-shee-EN-shus",
+    "audioPath": "audio/words/conscientious.mp3",
+    "definitions": [
+      "governed by or conforming to the dictates of conscience : scrupulous",
+      "meticulous, careful"
+    ],
+    "examples": [
+      "Carolyn was very conscientious in her research, exploring every possible influence and outcome before preparing her final report."
+    ],
+    "origin": "According to American writer and editor H.L. Mencken, \"Conscience is the inner voice which warns us someone may be looking.\" A person who is conscientious makes sure that if others are watching, they like what they see. \"Conscience\" and \"conscientious\" both come from the Latin verb \"conscire,\" a word that means \"to be conscious\" or \"to be conscious of guilt\" and that traces back to a still older Latin word, \"scire,\" meaning \"to know.\""
+  }
+}

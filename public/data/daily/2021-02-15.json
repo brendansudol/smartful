@@ -65,20 +65,9 @@
       "fact": "There is a ranch in Texas that is bigger than the entire state of Rhode Island.",
       "category": ["Geography"]
     },
-    { "id": "134", "fact": "An ant can lift 50 times its own weight.", "category": ["Animals"] },
-    {
-      "id": "989",
-      "fact": "To make one pound of honey, a honeybee must tap about two million flowers.",
-      "category": ["Animals", "Plants", "Science"]
-    }
+    { "id": "134", "fact": "An ant can lift 50 times its own weight.", "category": ["Animals"] }
   ],
-  "funFacts2": [
-    { "id": "553734", "fact": "Viking men wore makeup." },
-    {
-      "id": "554013",
-      "fact": "Murmurations are the graceful, undulating patterns starlings create when they flock together in the sky. Scientists are still unsure how the birds coordinate their movements \u0003so quickly."
-    }
-  ],
+  "funFacts2": [{ "id": "553734", "fact": "Viking men wore makeup." }],
   "idiom": {
     "id": "all-over-but-the-shouting",
     "term": "all over but the shouting",

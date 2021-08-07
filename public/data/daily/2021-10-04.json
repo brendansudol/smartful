@@ -1,0 +1,115 @@
+{
+  "artist": {
+    "id": "mark-rothko",
+    "name": "Mark Rothko",
+    "dates": "Sep 25, 1903 - Feb 25, 1970",
+    "mainImg": "img/art/artists/mark-rothko.jpg",
+    "artworkImgs": [
+      {
+        "name": "No. 5 (Untitled)",
+        "path": "img/art/artworks/mark-rothko-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/no-5-untitled-mark-rothko/nQHi-UnfYzuQbA"
+      },
+      {
+        "name": "No. 5 (Untitled)",
+        "path": "img/art/artworks/mark-rothko-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/no-5-untitled-mark-rothko/JQGlL-8KAY5uHw"
+      },
+      {
+        "name": "Untitled",
+        "path": "img/art/artworks/mark-rothko-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-mark-rothko/VAGPTaOeQaL0ig"
+      },
+      {
+        "name": "Untitled (White, Pink and Mustard)",
+        "path": "img/art/artworks/mark-rothko-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-white-pink-and-mustard-mark-rothko/mgHle1xJPDDFGQ"
+      }
+    ],
+    "summary": [
+      "Mark Rothko, born Markus Yakovlevich Rothkowitz, was an American painter of Lithuanian Jewish descent. Rothko did not personally subscribe to any art movement, but he is generally identified as an abstract expressionist."
+    ],
+    "quote": "“There is only one thing I fear in life, my friend: One day, the black will swallow the red.”",
+    "movements": ["Abstract expressionism", "Modern art", "Color field", "Contemporary art"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Mark_Rothko",
+    "urlGoogle": "https://artsandculture.google.com/entity/mark-rothko/m0yd4t"
+  },
+  "event": {
+    "id": "1954-geneva-conference",
+    "name": "1954 Geneva Conference",
+    "dates": "Apr 26, 1954 - Jul 21, 1954",
+    "mainImg": "img/events/1954-geneva-conference.jpg",
+    "summary": [
+      "The Geneva Conference was a conference involving several nations that took place in Geneva, Switzerland, from April 26 to July 20, 1954. It was intended to settle outstanding issues resulting from the Korean War and the First Indochina War. The part of the conference on the Korean question ended without adopting any declarations or proposals, so is generally considered less relevant. The Geneva Accords that dealt with the dismantling of French Indochina proved to have long-lasting repercussions, however. The crumbling of the French Empire in Southeast Asia would create the eventual states of the Democratic Republic of Vietnam, the State of Vietnam, the Kingdom of Cambodia, and the Kingdom of Laos.",
+      "Diplomats from South Korea, North Korea, the People's Republic of China, the Union of Soviet Socialist Republics, and the United States of America dealt with the Korean side of the Conference. For the Indochina side, the Accords were between France, the Viet Minh, the USSR, the PRC, the U.S., the United Kingdom, and the future states being made from French Indochina."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1954_Geneva_Conference",
+    "urlGoogle": "https://artsandculture.google.com/entity/1954-geneva-conference/m02x42w"
+  },
+  "funFacts": [
+    { "id": "15", "fact": "All porcupines float in water.", "category": ["Animals"] },
+    {
+      "id": "185",
+      "fact": "A male kangaroo is called a boomer.",
+      "category": ["Animals", "Definitions"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553810",
+      "fact": "Trained pigeons can differentiate between the paintings of Pablo Picasso and Claude Monet."
+    }
+  ],
+  "idiom": {
+    "id": "thumbs-up",
+    "term": "thumbs up",
+    "definition": "An expression of approval or hopefulness, as in *The town said thumbs up on building the elderly housing project.* The antonym *thumbs down* indicates disapproval or rejection, as in *Mother gave us thumbs down on serving beer at our party.* Alluding to crowd signals used in Roman amphitheaters, these idioms were first recorded in English about 1600. In ancient times the meaning of the gestures was opposite that of today. Thumbs down indicated approval; thumbs up, rejection. Exactly when the reveral occurred is not known, but the present conventions were established by the early 1900s."
+  },
+  "person": {
+    "id": "ferdinand-foch",
+    "name": "Ferdinand Foch",
+    "dates": "Oct 2, 1851 - Mar 20, 1929",
+    "mainImg": "img/people/ferdinand-foch.jpg",
+    "summary": [
+      "Ferdinand Foch was a French general and military theorist who served as the Supreme Allied Commander during the First World War. An aggressive, even reckless commander at the First Marne, Flanders, and Artois campaigns of 1914–1916, Foch became the Allied Commander-in-Chief in late March 1918 in the face of the all-out German spring offensive, which pushed the Allies back using fresh soldiers and new tactics that trenches could not contain. He successfully coordinated the French, British and American efforts into a coherent whole, deftly handling his strategic reserves. He stopped the German offensive and launched a war-winning counterattack. In November 1918, Marshal Foch accepted the German cessation of hostilities and was present at the armistice of 11 November 1918.",
+      "At the outbreak of war in August 1914, Foch's XX Corps participated in the brief invasion of Germany before retreating in the face of a German counter-attack and successfully blocking the Germans short of Nancy. Ordered west to defend Paris, Foch's prestige soared as a result of the victory at the Marne, for which he was widely credited as a chief protagonist while commanding the French Ninth Army."
+    ],
+    "quote": "“The will to conquer is the first condition of victory.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ferdinand_Foch",
+    "urlGoogle": "https://artsandculture.google.com/entity/ferdinand-foch/m01w_xd"
+  },
+  "place": {
+    "id": "tonga",
+    "name": "Tonga",
+    "mainImg": "img/places/tonga.jpg",
+    "summary": [
+      "Tonga, officially named the Kingdom of Tonga, is a Polynesian sovereign state and archipelago comprising 169 islands, of which 36 are inhabited. The total surface area is about 750 square kilometres scattered over 700,000 square kilometres of the southern Pacific Ocean. The state has a population of 100,651 people, of whom 70% reside on the main island of Tongatapu.",
+      "Tonga stretches across approximately 800 kilometres in a north–south line. It is surrounded by Fiji and Wallis and Futuna to the northwest, Samoa to the northeast, Niue to the east, Kermadec to the southwest, and New Caledonia and Vanuatu to the farther west. It is about 1,800 kilometres from New Zealand's North Island.",
+      "From 1900 to 1970, Tonga had British protected state status, with the United Kingdom looking after its foreign affairs under a Treaty of Friendship. The country never relinquished its sovereignty to any foreign power. In 2010, Tonga took a decisive path towards becoming a constitutional monarchy rather than a traditional absolute kingdom, after legislative reforms passed a course for the first partial representative elections."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Tonga",
+    "urlGoogle": "https://artsandculture.google.com/entity/tonga/m07fb6"
+  },
+  "wiki": {
+    "id": "the-entombment-bouts",
+    "name": "The Entombment (Bouts)",
+    "summary": "The Entombment is a glue-size painting on linen attributed to the Early Netherlandish painter Dirk Bouts. It shows a scene from the biblical entombment of Christ, probably completed between 1440 and 1455 as a wing panel for a large hinged polyptych altarpiece. The now lost altarpiece is thought to have contained a central crucifixion scene flanked by four wing panel works half its length (two either side) depicting scenes from the life of Christ. The larger work was probably commissioned for export, possibly to a Venetian patron whose identity is lost. The Entombment was first recorded in a mid-19th century Milan inventory and has been in the National Gallery, London since its purchase on the gallery's behalf by Charles Eastlake in 1861. The Entombment is renowned for its austere but affecting portrayal of sorrow and grief. It shows four female and three male mourners grieving over the body of Christ. It is one of the few surviving 15th-century paintings created using glue-size, an extremely fragile medium lacking durability.",
+    "url": "https://en.wikipedia.org/wiki/The_Entombment_(Bouts)"
+  },
+  "word": {
+    "id": "anathematize",
+    "word": "anathematize",
+    "url": "https://www.merriam-webster.com/dictionary/anathematize",
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-NATH-uh-muh-tyze",
+    "audioPath": "audio/words/anathematize.mp3",
+    "definitions": ["curse, denounce"],
+    "examples": [
+      "The biography presents a balanced account of the life of a writer whose work was beloved by the masses and anathematized by critics."
+    ],
+    "origin": "When 16th-century English speakers needed a verb meaning \"to condemn by anathema\" (that is, by an official curse from church authority), \"anathematize\" proved to be just the right word. But \"anathematize\" didn't originate in English as a combination of the noun \"anathema\" and the suffix \"-ize.\" Rather, our verb is based on forebears in Late Latin (\"anathematizare\") and Greek (\"anathematizein\"). \"Anathematize\" can still indicate solemn, formal condemnation, but today it can also have milder applications. The same is true of \"anathema,\" which now often means simply \"a vigorous denunciation.\""
+  }
+}

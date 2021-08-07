@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "rachel-ruysch",
+    "name": "Rachel Ruysch",
+    "dates": "Jun 3, 1664 - Aug 12, 1750",
+    "mainImg": "img/art/artists/rachel-ruysch.jpg",
+    "artworkImgs": [
+      {
+        "name": "Flowers in a Glass Vase",
+        "path": "img/art/artworks/rachel-ruysch-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/flowers-in-a-glass-vase-rachel-ruysch/3gE4dahtU52FYg"
+      },
+      {
+        "name": "Roses, Convolvulus, Poppies, and Other Flowers in an Urn on a Stone Ledge",
+        "path": "img/art/artworks/rachel-ruysch-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/roses-convolvulus-poppies-and-other-flowers-in-an-urn-on-a-stone-ledge-rachel-ruysch/GQEBqDkl0_2urQ"
+      },
+      {
+        "name": "Still Life with Flowers on a Marble Tabletop",
+        "path": "img/art/artworks/rachel-ruysch-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-flowers-on-a-marble-tabletop-rachel-ruysch/SAGyT5CyIJuATQ"
+      },
+      {
+        "name": "Still Life of Exotic Flowers on a Marble Ledge",
+        "path": "img/art/artworks/rachel-ruysch-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-of-exotic-flowers-on-a-marble-ledge-rachel-ruysch/5wGzADmsS88iHg"
+      },
+      {
+        "name": "Still-Life with Flowers",
+        "path": "img/art/artworks/rachel-ruysch-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-flowers-rachel-ruysch/FgFwiMlaanBF3w"
+      },
+      {
+        "name": "Vase with Flowers",
+        "path": "img/art/artworks/rachel-ruysch-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/vase-with-flowers-ruysch-rachel/PgHK2z3C15Cytw"
+      }
+    ],
+    "summary": [
+      "Rachel Ruysch was a still-life painter from the Northern Netherlands. She specialized in flowers, inventing her own style and achieving international fame in her lifetime. Due to a long and successful career that spanned over six decades, she became the best documented woman painter of the Dutch Golden Age, being followed by Jan van Huysum, who took flower painting to another degree of popularity."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Rachel_Ruysch",
+    "urlGoogle": "https://artsandculture.google.com/entity/rachel-ruysch/m05mcs5"
+  },
+  "event": {
+    "id": "bay-of-pigs-invasion",
+    "name": "Bay of Pigs Invasion",
+    "dates": "Apr 17, 1961 - Apr 19, 1961",
+    "mainImg": "img/events/bay-of-pigs-invasion.jpg",
+    "summary": [
+      "The Bay of Pigs invasion was a failed landing operation on the southwestern coast of Cuba in 1961 by Cuban exiles who opposed Fidel Castro's Cuban Revolution. Covertly financed and directed by the U.S. government, the operation took place at the height of the Cold War and its failure led to major shifts in international relations between Cuba, the United States, and the Soviet Union.",
+      "In 1952, American ally General Fulgencio Batista led a coup against President Carlos Prio, and forced Prio into exile in Miami. Prio's exile inspired the creation of the 26th July Movement by Castro. The Movement successfully completed the Cuban Revolution in December 1958. Castro nationalized American businesses—including banks, oil refineries, and sugar and coffee plantations—then severed Cuba's formerly-close relations with the United States and reached out to its Cold War rival, the Soviet Union. In response, US President Dwight D. Eisenhower allocated $13.1 million to the Central Intelligence Agency in March 1960, for use against Castro. With the aid of Cuban counter-revolutionaries, the CIA proceeded to organize an invasion operation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion",
+    "urlGoogle": "https://artsandculture.google.com/entity/bay-of-pigs-invasion/m0196jd"
+  },
+  "funFacts": [
+    {
+      "id": "992",
+      "fact": "The patent for the fire hydrant was destroyed in a fire.",
+      "category": ["History", "Hodgepodge"]
+    },
+    {
+      "id": "198",
+      "fact": "The U.S. is the largest country named after a real person (Amerigo Vespucci).",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554103",
+      "fact": "Ray Bradbury wrote the first draft \u0003of Fahrenheit 451 on a rented typewriter in the basement of the UCLA library in just nine days."
+    }
+  ],
+  "idiom": {
+    "id": "albatross-around-ones-neck",
+    "term": "albatross around one's neck",
+    "definition": "A heavy burden of guilt that becomes an obstacle to success, as in *The failed real estate scheme became an albatross around her neck, for now she could not interest other investors in a new project.* This idiom comes from Samuel Coleridge's narrative poem, *The Rime of the Ancient Mariner* (1798), which is based on the widespread superstition that it is unlucky to kill this large white sea bird. In the poem a sailor does kill an albatross, and when the ship then is becalmed near the equator and runs out of water, his shipmates blame him and force him to wear the dead bird around his neck."
+  },
+  "person": {
+    "id": "adolphe-thiers",
+    "name": "Adolphe Thiers",
+    "dates": "Apr 15, 1797 - Sep 3, 1877",
+    "mainImg": "img/people/adolphe-thiers.jpg",
+    "summary": [
+      "Marie Joseph Louis Adolphe Thiers was a French statesman and historian. He was the second elected President of France, and the first President of the French Third Republic.",
+      "Thiers was a key figure in the July Revolution of 1830, which overthrew the Bourbon monarchy, and the French Revolution of 1848, which established the Second French Republic. He served as a prime minister in 1836, 1840 and 1848, dedicated the Arc de Triomphe, and arranged the return to France of the ashes of Napoleon from Saint-Helena. He was first a supporter, then a vocal opponent of Louis-Napoléon Bonaparte. When Napoleon III seized power, Thiers was arrested and briefly expelled from France. He then returned and became an opponent of the government.",
+      "Following the defeat of France in the Franco-German War, which Thiers opposed, he was elected chief executive of the new French government and negotiated the end of the war. When the Paris Commune seized power in March 1871, Thiers gave the orders to the army for its suppression. At the age of seventy-four, he was named President of the Republic by the French National Assembly in August 1871."
+    ],
+    "quote": "“The king reigns but does not govern.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Adolphe_Thiers",
+    "urlGoogle": "https://artsandculture.google.com/entity/adolphe-thiers/m01b81x"
+  },
+  "place": {
+    "id": "lebanon",
+    "name": "Lebanon",
+    "mainImg": "img/places/lebanon.jpg",
+    "summary": [
+      "Lebanon, officially known as the Lebanese Republic, is a country in Western Asia. It is bordered by Syria to the north and east and Israel to the south, while Cyprus is west across the Mediterranean Sea. Lebanon's location at the crossroads of the Mediterranean Basin and the Arabian hinterland had contributed to its rich history and shaped a cultural identity of religious and ethnic diversity. At just 10,452 km², it is the smallest recognized sovereign state on the mainland Asian continent.",
+      "The earliest evidence of civilization in Lebanon dates back more than seven thousand years, predating recorded history. Lebanon was home to the Phoenicians, a maritime culture that flourished for almost three thousand years. In 64 BC, the region came under the rule of the Roman Empire, and eventually became one of its leading centers of Christianity. The Mount Lebanon range saw the emergence of a monastic tradition known as the Maronite Church. As the Arab Muslims conquered the region, the Maronites held onto their religion and identity. However, a new religious group, the Druze, established themselves in Mount Lebanon as well, generating a religious divide that has lasted for centuries."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Lebanon",
+    "urlGoogle": "https://artsandculture.google.com/entity/lebanon/m04hqz"
+  },
+  "wiki": {
+    "id": "treaty-of-devol",
+    "name": "Treaty of Devol",
+    "summary": "The Treaty of Devol was an agreement made in 1108 between Bohemund I of Antioch and Byzantine Emperor Alexius I, in the wake of the First Crusade. Although it was not initially enforced, it was intended to make the Principality of Antioch a vassal state of the Byzantine Empire. It is a typical example of the Byzantine tendency to settle disputes through diplomacy rather than warfare, and was both a result of and a cause for the distrust between the Byzantines and their Western European neighbors. The question of the status of Antioch and the adjacent Cilician cities troubled the Empire for many years afterwards. The Treaty of Devol seems to have been considered void after Bohemund's death, but Alexius' son, John, attempted to impose his authority in Antioch. It was not until 1158, during the reign of Manuel I Comnenus, that Antioch truly became a vassal of the empire, after Manuel forced Prince Raynald of Chatillon to swear fealty to him in punishment for Raynald's attack on Byzantine Cyprus.",
+    "url": "https://en.wikipedia.org/wiki/Treaty_of_Devol"
+  },
+  "word": {
+    "id": "xylography",
+    "word": "xylography",
+    "url": "https://www.merriam-webster.com/dictionary/xylography",
+    "partOfSpeech": "noun",
+    "pronunciation": "zye-LAH-gruh-fee",
+    "audioPath": "audio/words/xylography.mp3",
+    "definitions": ["the art of making engravings on wood especially for printing"],
+    "examples": [
+      "Francine uses a rubber-stamping technique in her art that is reminiscent of Chinese _xylography_.",
+      "\"Also known as wood block printing, _xylography_ proved to be cheaper and more efficient for printing Chinese, with its thousands of characters, so movable type did not supplant it there until modern times.\" -- From Christopher I. Beckwith's 2011 book _Empires of the Silk Road_"
+    ],
+    "origin": "\"Xylography\" didn't appear in print in English until 1816, but it is linked to printing practices that are much older. In fact, the oldest known printed works (from Japan and China in the 8th and 9th centuries) were made by xylography, a printing technique that involves carving text in relief upon a wooden block, which is then inked and applied to paper. This method of wood-block printing appeared in Europe in the 14th century, and eventually inspired Johannes Gutenberg to create individual and reusable pieces of type out of metal. These days, \"xylography\" can also describe the technique of engraving wood for purely artistic purposes. English speakers picked up the word from French, where it was formed as a combination of \"xyl-,\" meaning \"wood,\" and \"-graphie,\" which denotes writing in a specified manner."
+  }
+}

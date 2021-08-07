@@ -66,21 +66,12 @@
       "fact": "New York taxi drivers collectively speak about 60 languages.",
       "category": ["Hodgepodge"]
     },
-    { "id": "468", "fact": "Camels have three eyelids.", "category": ["Animals"] },
-    {
-      "id": "943",
-      "fact": "George Washington had false teeth made of gold, ivory, and lead - but never wood.",
-      "category": ["History"]
-    }
+    { "id": "468", "fact": "Camels have three eyelids.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "522228",
       "fact": "Bones found at Seymour Island indicate that, 37 to 40 million years ago, penguins stood at a formidable 6 feet tall and weighed 250 pounds."
-    },
-    {
-      "id": "551313",
-      "fact": "<span>A double rainbow occurs when sunlight is reflected twice inside a raindrop. If you look closely, you can see that the colors of the secondary rainbow appear in reverse order.</span>"
     }
   ],
   "idiom": {

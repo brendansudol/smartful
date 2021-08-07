@@ -70,19 +70,13 @@
       "id": "63",
       "fact": "The average human produces 10,000 gallons of saliva in a lifetime.",
       "category": ["Anatomy"]
-    },
-    {
-      "id": "812",
-      "fact": "111,111,111 x 111,111,111 = 12,345,678,987,654,321",
-      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
     {
       "id": "553826",
       "fact": "Since founding the Imagination Library in 1995, Dolly Parton has donated 100 million books to children."
-    },
-    { "id": "553507", "fact": "According to a 2015 study, sarcasm can promote creative thinking." }
+    }
   ],
   "idiom": {
     "id": "like-pigs-in-clover",

@@ -72,19 +72,13 @@
       "fact": "Stepping out for a walk every day can actually help you sleep better at night.",
       "category": ["Anatomy"]
     },
-    { "id": "12", "fact": "Emus and kangaroos cannot walk backward.", "category": ["Animals"] },
-    {
-      "id": "40",
-      "fact": "It is possible to lead a cow up stairs but not down.",
-      "category": ["Animals"]
-    }
+    { "id": "12", "fact": "Emus and kangaroos cannot walk backward.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "504589",
       "fact": "“Q” is the only letter of the alphabet that does not appear in any U.S. territory or state name."
-    },
-    { "id": "522153", "fact": "On Scooby-Doo, Shaggy’s real name is Norville Rogers." }
+    }
   ],
   "idiom": {
     "id": "left-handed-compliment",

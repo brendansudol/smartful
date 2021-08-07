@@ -67,20 +67,9 @@
       "id": "101",
       "fact": "About half of all Americans are on a diet on any given day.",
       "category": ["Habits"]
-    },
-    {
-      "id": "423",
-      "fact": "U.S. paper currency isn't made of paper - it's actually a blend of cotton and linen.",
-      "category": ["Hodgepodge"]
     }
   ],
-  "funFacts2": [
-    { "id": "553824", "fact": "Sleeping through summer is called estivation." },
-    {
-      "id": "553502",
-      "fact": "Family Feud host Richard Dawson met his second wife, Gretchen Johnson, when she was a contestant on the show in 1981. And yes, he kissed her."
-    }
-  ],
+  "funFacts2": [{ "id": "553824", "fact": "Sleeping through summer is called estivation." }],
   "idiom": {
     "id": "ones-ears-are-burning",
     "term": "one's ears are burning",

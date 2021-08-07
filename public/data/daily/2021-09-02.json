@@ -1,0 +1,129 @@
+{
+  "artist": {
+    "id": "william-johnson",
+    "name": "William Johnson",
+    "dates": "Mar 18, 1901 - Apr 13, 1970",
+    "mainImg": "img/art/artists/william-johnson.jpg",
+    "artworkImgs": [
+      {
+        "name": "Man in a Vest",
+        "path": "img/art/artworks/william-johnson-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/man-in-a-vest/NAFEpTWPytfIHA"
+      },
+      {
+        "name": "William H Johnson - Marian Anderson",
+        "path": "img/art/artworks/william-johnson-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/william-h-johnson-marian-anderson-william-h-johnson/XwFysV-m5MYFtQ"
+      },
+      {
+        "name": "Jitterbugs II",
+        "path": "img/art/artworks/william-johnson-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/jitterbugs-ii-william-henry-johnson/xgEg0FPCfu8TvA"
+      },
+      {
+        "name": "Sowing",
+        "path": "img/art/artworks/william-johnson-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/sowing-william-h-johnson/QwEo2-bRGz1vEA"
+      },
+      {
+        "name": "Café",
+        "path": "img/art/artworks/william-johnson-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/café/4QHFaIK1QecCrw"
+      },
+      {
+        "name": "Street Musicians",
+        "path": "img/art/artworks/william-johnson-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/street-musicians-william-henry-johnson/nwFJNVNViVQpfw"
+      }
+    ],
+    "summary": [
+      "William Henry Johnson was an American painter. Born in Florence, South Carolina, he became a student at the National Academy of Design in New York City, working with Charles Webster Hawthorne. He later lived and worked in France, where he was exposed to modernism. After Johnson married Danish textile artist Holcha Krake, the couple lived for some time in Scandinavia. There he was influenced by the strong folk art tradition. The couple moved to the United States in 1938. Johnson eventually found work as a teacher at the Harlem Community Art Center, through the Federal Art Project.",
+      "Johnson's style evolved from realism to expressionism to a powerful folk style, for which he is best known. A substantial collection of his paintings, watercolors, and prints is held by the Smithsonian American Art Museum, which has organized and circulated major exhibitions of his works."
+    ],
+    "quote": null,
+    "movements": ["Harlem Renaissance", "Modern art", "Naïve art", "Folk art"],
+    "mediums": ["Oil paint", "Hessian fabric", "Watercolor painting", "Cardboard", "Gouache"],
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Johnson_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-johnson/m0f8fcj"
+  },
+  "event": {
+    "id": "super-bowl-xxxviii",
+    "name": "Super Bowl XXXVIII",
+    "dates": null,
+    "mainImg": "img/events/super-bowl-xxxviii.jpg",
+    "summary": [
+      "Super Bowl XXXVIII was an American football game between the National Football Conference champion Carolina Panthers and the American Football Conference champion New England Patriots to decide the National Football League champion for the 2003 season. The Patriots defeated the Panthers by a score of 32–29. The game was played at Reliant Stadium in Houston, Texas, on February 1, 2004. At the time, this was the most watched Super Bowl ever with 144.4 million viewers.",
+      "The Panthers were making their first ever Super Bowl appearance after posting an 11–5 regular season record. They also made it the second straight year that a team from the NFC South division made the Super Bowl, with the Tampa Bay Buccaneers winning Super Bowl XXXVII. The Patriots were seeking their second Super Bowl title in three years after posting a 14–2 record.",
+      "NFL fans and sports writers widely consider this game one of the most well-played and thrilling Super Bowls; Sports Illustrated writer Peter King hailed it as the \"Greatest Super Bowl of all time.\" Although neither team could score in the first and third quarters, they ended up with a combined total of 868 yards and 61 points."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Super_Bowl_XXXVIII",
+    "urlGoogle": "https://artsandculture.google.com/entity/super-bowl-xxxviii/m0277y8"
+  },
+  "funFacts": [
+    {
+      "id": "208",
+      "fact": "Add up opposing sides of a dice cue and you'll always get seven.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "925",
+      "fact": "The White House was originally called the President's Palace. It became The White House in 1901.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553688",
+      "fact": "The Mobile Phone Throwing World Championships are held in Finland.  A recent winner said he prepared for the event by “mainly drinking.”"
+    }
+  ],
+  "idiom": {
+    "id": "kangaroo-court",
+    "term": "kangaroo court",
+    "definition": "A self-appointed tribunal that violates established legal procedure; also, a dishonest or incompetent court of law. For example, *The rebels set up a kangaroo court and condemned the prisoners to summary execution,* or *That judge runs a kangaroo court---he tells rape victims they should have been more careful.* This expression is thought to liken the jumping ability of kangaroos to a court that jumps to conclusions on an invalid basis. [Mid-1800s]"
+  },
+  "person": {
+    "id": "galerius",
+    "name": "Galerius",
+    "dates": "250 AD - 311 AD",
+    "mainImg": "img/people/galerius.jpg",
+    "summary": [
+      "Galerius was Roman emperor from 305 to 311. During his reign he campaigned, aided by Diocletian, against the Sassanid Empire, sacking their capital Ctesiphon in 299. He also campaigned across the Danube against the Carpi, defeating them in 297 and 300. Although he was a staunch opponent of Christianity, Galerius ended the Diocletianic Persecution when he issued an Edict of Toleration in Serdica in 311."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Galerius",
+    "urlGoogle": "https://artsandculture.google.com/entity/galerius/m0jxbb"
+  },
+  "place": {
+    "id": "dayton",
+    "name": "Dayton",
+    "mainImg": "img/places/dayton.jpg",
+    "summary": [
+      "Dayton is the sixth-largest city in the state of Ohio and the county seat of Montgomery County. A small part of the city extends into Greene County. The 2019 U.S. census estimate put the city population at 140,407, while Greater Dayton was estimated to be at 803,416 residents. This makes Dayton the fourth-largest metropolitan area in Ohio and 63rd in the United States. Dayton is within Ohio's Miami Valley region, just north of Greater Cincinnati.",
+      "Ohio's borders are within 500 miles of roughly 60 percent of the country's population and manufacturing infrastructure, making the Dayton area a logistical centroid for manufacturers, suppliers, and shippers. Dayton also hosts significant research and development in fields like industrial, aeronautical, and astronautical engineering that have led to many technological innovations. Much of this innovation is due in part to Wright-Patterson Air Force Base and its place in the community. With the decline of heavy manufacturing, Dayton's businesses have diversified into a service economy that includes insurance and legal sectors as well as healthcare and government sectors."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Dayton,_Ohio",
+    "urlGoogle": "https://artsandculture.google.com/entity/dayton/m029cr"
+  },
+  "wiki": {
+    "id": "colley-cibber",
+    "name": "Colley Cibber",
+    "summary": "Colley Cibber was an English actor-manager, playwright, and Poet Laureate. His colorful Apology for the Life of Colley Cibber (1740) started a British tradition of personal, anecdotal, and even rambling autobiography. He wrote some plays for performance by his own company at the Theatre Royal, Drury Lane, and adapted many more from various sources, receiving frequent criticism for \"miserable mutilation\" of dramatists like Shakespeare and Molière. He regarded himself as first and foremost an actor and had great popular success in comical fop parts. Cibber's brash, extroverted personality did not sit well with his contemporaries, and he was frequently accused of tasteless theatrical productions, social and political opportunism, and shady business methods. He rose to herostratic fame when he became the chief target, the head Dunce, of Alexander Pope's satirical poem The Dunciad. Cibber's importance in British theatre history rests on his being the first in a long line of actor-managers, and on the value of his autobiography as a source for our knowledge of the 18th-century London stage.",
+    "url": "https://en.wikipedia.org/wiki/Colley_Cibber"
+  },
+  "word": {
+    "id": "gadzookery",
+    "word": "gadzookery",
+    "url": "https://www.merriam-webster.com/dictionary/gadzookery",
+    "partOfSpeech": "noun",
+    "pronunciation": "gad-ZOO-kuh-ree",
+    "audioPath": "audio/words/gadzookery.mp3",
+    "definitions": ["the use of archaisms (as in a historical novel)"],
+    "examples": [
+      "Bridget’s novel, set in colonial Virginia, features an engaging and cohesive plot, but the dialogue contains so much gadzookery that it doesn’t sound realistic."
+    ],
+    "origin": "\"Gadzooks . . . you astonish me!\" cries Mr. Lenville in Charles Dickens' _Nicholas Nickleby_. We won't accuse Dickens of gadzookery (\"the bane of historical fiction,\" as historical novelist John Vernon called it in _Newsday_), because we assume people actually said \"gadzooks\" back in the 1830s. That mild oath is an old-fashioned euphemism, so it is thought, for \"God's hooks\" (a reference, supposedly, to the nails of the Crucifixion). Today's historical novelists must toe a fine line, avoiding expressions like \"zounds\" and \"pshaw\" and \"tush\" (\"tushery\" is a synonym of the newer \"gadzookery,\" which first cropped up in the 1950s), as well as \"gadzooks,\" while at the same time rejecting modern expressions such as \"okay\" and \"nice.\""
+  }
+}

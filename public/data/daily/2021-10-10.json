@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "theodore-chasseriau",
+    "name": "Théodore Chassériau",
+    "dates": "Sep 20, 1819 - Oct 8, 1856",
+    "mainImg": "img/art/artists/theodore-chasseriau.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait de Mademoiselle de Cabarrus",
+        "path": "img/art/artworks/theodore-chasseriau-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-de-mademoiselle-de-cabarrus-théodore-chassériau/QQEMGKx9ZmTNBg"
+      },
+      {
+        "name": "Arab Horsemen Carrying Away Their Dead",
+        "path": "img/art/artworks/theodore-chasseriau-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/arab-horsemen-carrying-away-their-dead/EQEeSRbi1wXTfA"
+      },
+      {
+        "name": "Scene in the Jewish Quarter of Constantine",
+        "path": "img/art/artworks/theodore-chasseriau-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/scene-in-the-jewish-quarter-of-constantine-théodore-chassériau/4gF6e_zPz8oKaA"
+      },
+      {
+        "name": "Jewish Woman of Algiers Seated on the Ground",
+        "path": "img/art/artworks/theodore-chasseriau-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/jewish-woman-of-algiers-seated-on-the-ground-théodore-chassériau/BAFoW2IeqTLMdw"
+      },
+      {
+        "name": "Woman and Little Girl of Constantine with a Gazelle",
+        "path": "img/art/artworks/theodore-chasseriau-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-and-little-girl-of-constantine-with-a-gazelle-théodore-chassériau/8gFOc6B-CVyJDw"
+      },
+      {
+        "name": "Tepidarium",
+        "path": "img/art/artworks/theodore-chasseriau-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/tepidarium/YwHsuGePx1qpWg"
+      }
+    ],
+    "summary": [
+      "Théodore Chassériau was a Dominican-born French Romantic painter noted for his portraits, historical and religious paintings, allegorical murals, and Orientalist images inspired by his travels to Algeria. Early in his career he painted in a Neoclassical style close to that of his teacher Jean-Auguste-Dominique Ingres, but in his later works he was strongly influenced by the Romantic style of Eugène Delacroix. He was a prolific draftsman, and made a suite of prints to illustrate Shakespeare's Othello."
+    ],
+    "quote": null,
+    "movements": ["Romanticism"],
+    "mediums": ["Drawing", "Graphite", "Oil paint", "Etching", "Ink", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Chass%C3%A9riau",
+    "urlGoogle": "https://artsandculture.google.com/entity/théodore-chassériau/m03j8xy"
+  },
+  "event": {
+    "id": "hurricane-sandy",
+    "name": "Hurricane Sandy",
+    "dates": "Oct 22, 2012 - Nov 2, 2012",
+    "mainImg": "img/events/hurricane-sandy.jpg",
+    "summary": [
+      "Hurricane Sandy was the deadliest and most destructive, as well as the strongest, hurricane of the 2012 Atlantic hurricane season. Inflicting nearly $70 billion in damage, it was the second-costliest hurricane on record in the United States until surpassed by Hurricanes Harvey and Maria in 2017. The eighteenth named storm, tenth hurricane, and second major hurricane of the year, Sandy was a Category 3 storm at its peak intensity when it made landfall in Cuba. While it was a Category 2 hurricane off the coast of the Northeastern United States, the storm became the largest Atlantic hurricane on record. At least 233 people were killed along the path of the storm in eight countries.",
+      "Sandy developed from a tropical wave in the western Caribbean Sea on October 22, quickly strengthened, and was upgraded to Tropical Storm Sandy six hours later. Sandy moved slowly northward toward the Greater Antilles and gradually intensified. On October 24, Sandy became a hurricane, made landfall near Kingston, Jamaica, re-emerged a few hours later into the Caribbean Sea and strengthened into a Category 2 hurricane."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hurricane_Sandy",
+    "urlGoogle": "https://artsandculture.google.com/entity/hurricane-sandy/m0n9fbyf"
+  },
+  "funFacts": [
+    { "id": "811", "fact": "The dots on a domino are called pips.", "category": ["Definitions"] },
+    {
+      "id": "237",
+      "fact": "The number of times a cricket chirps in 15 seconds, plus 37, will give you the current air temperature.",
+      "category": ["Animals", "Make-it-Easies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554040",
+      "fact": "All newspapers in the British \u0003Library were ironed by hand to ensure a clear image before they were microfilmed."
+    }
+  ],
+  "idiom": {
+    "id": "roll-the-bones",
+    "term": "roll the bones",
+    "definition": "Cast dice, especially in the game of craps, as in *Let's go to the casino and roll the bones tonight.* This slangy term was first recorded in 1897, but the noun *bones* has referred to dice since the late 1300s (Chaucer used it in *The Pardoner's Tale*)."
+  },
+  "person": {
+    "id": "frederick-lugard-1-st-baron-lugard",
+    "name": "Frederick Lugard, 1st Baron Lugard",
+    "dates": "Jan 22, 1858 - Apr 11, 1945",
+    "mainImg": "img/people/frederick-lugard-1-st-baron-lugard.jpg",
+    "summary": [
+      "Frederick John Dealtry Lugard, 1st Baron Lugard, GCMG, CB, DSO, PC, known as Sir Frederick Lugard between 1901 and 1928, was a British soldier, mercenary, explorer of Africa and colonial administrator. He was Governor of Hong Kong, the last Governor of the Southern Nigeria Protectorate, the first High Commissioner and last Governor of the Northern Nigeria Protectorate and the first Governor-General of Nigeria."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_Lugard,_1st_Baron_Lugard",
+    "urlGoogle": "https://artsandculture.google.com/entity/frederick-lugard-1st-baron-lugard/m01w5vt"
+  },
+  "place": {
+    "id": "lima",
+    "name": "Lima",
+    "mainImg": "img/places/lima.jpg",
+    "summary": [
+      "Lima is the capital and the largest city of Peru. It is located in the valleys of the Chillón, Rímac and Lurín rivers, in the central coastal part of the country, overlooking the Pacific Ocean. Together with the seaport of Callao, it forms a contiguous urban area known as the Lima Metropolitan Area. With a population of more than 9 million, Lima is the most populous metropolitan area of Peru and the seventh-largest metropolitan area in the Americas.",
+      "Lima was named by natives in the agricultural region known by native Peruvians as Limaq. It became the capital and most important city in the Viceroyalty of Peru. Following the Peruvian War of Independence, it became the capital of the Republic of Peru. Around one-third of the national population lives in the metropolitan area.",
+      "Lima is home to one of the oldest institutions of higher learning in the New World. The National University of San Marcos, founded on 12 May 1551, during the Spanish colonial empire, is the first officially established and the oldest continuously functioning university in the Americas.",
+      "Nowadays the city is considered to be the political, cultural, financial and commercial center of the country."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Lima",
+    "urlGoogle": "https://artsandculture.google.com/entity/lima/m0lpfh"
+  },
+  "wiki": {
+    "id": "swedish-language",
+    "name": "Swedish language",
+    "summary": "Swedish is a North Germanic language spoken predominantly in Sweden, part of Finland, and on the autonomous Åland islands, by a total of over 9 million speakers. Standard Swedish is the national language that evolved from the Central Swedish dialects in the 19th century and was well-established by the first decades of the 20th century. While distinct regional varieties still exist, influenced by the older rural dialects, the spoken and written language is uniform and standardized, with a 99% literacy rate among adults. Some of the genuine dialects differ considerably from the standard language in grammar and vocabulary and are not always mutually intelligible with Standard Swedish. These dialects are confined to rural areas and spoken by a rather limited group of people of low education and social mobility. Swedish is distinguished by its prosody, which differs considerably between varieties. It includes both lexical stress and some tonal qualities. Swedish is also notable for the voiceless dorso-palatal velar fricative, a sound found in many dialects, including the more prestigious forms of the standard language.",
+    "url": "https://en.wikipedia.org/wiki/Swedish_language"
+  },
+  "word": {
+    "id": "undulate",
+    "word": "undulate",
+    "url": "https://www.merriam-webster.com/dictionary/undulate",
+    "partOfSpeech": "verb",
+    "pronunciation": "UN-juh-layt",
+    "audioPath": "audio/words/undulate.mp3",
+    "definitions": [
+      "to form or move in waves : fluctuate",
+      "to rise and fall in volume, pitch, or cadence",
+      "to present a wavy appearance"
+    ],
+    "examples": [
+      "From the window of our bed-and-breakfast, we had a gorgeous view of the green hills _undulating_ into the distance.",
+      "\"Seeded with drought-tolerant California native plants, the 1.5-acre surface gently _undulates_, mimicking the surrounding hillsides.\" - From an article by Paul Sisson in the _North County Times_ (Escondido, California), July 26, 2012"
+    ],
+    "origin": "\"Undulate\" and \"inundate\" are word cousins, sharing \"unda,\" the Latin word for \"wave,\" as their common ancestor. No surprise there. But would you have guessed that \"abound,\" \"surround,\" and \"redound\" are also \"unda\" offspring? The connection between \"unda\" and these words is easier to see when you learn that at some point in their early histories each of them essentially had the meaning of \"to overflow\"-a meaning that \"inundate\" still carries, along with its \"overwhelm\" sense."
+  }
+}

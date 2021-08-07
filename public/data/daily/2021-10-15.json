@@ -1,0 +1,129 @@
+{
+  "artist": {
+    "id": "francisco-de-zurbaran",
+    "name": "Francisco de Zurbarán",
+    "dates": "Nov 7, 1598 - Aug 27, 1664",
+    "mainImg": "img/art/artists/francisco-de-zurbaran.jpg",
+    "artworkImgs": [
+      {
+        "name": "Saint Francis of Assisi according to Pope Nicholas V's Vision",
+        "path": "img/art/artworks/francisco-de-zurbaran-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-francis-of-assisi-according-to-pope-nicholas-v-s-vision-francisco-de-zurbarán/EAEFyC-FDSFm8g"
+      },
+      {
+        "name": "The Young Virgin",
+        "path": "img/art/artworks/francisco-de-zurbaran-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-young-virgin-francisco-de-zurbarán/-QGrNSJcV3f_EA"
+      },
+      {
+        "name": "Still Life with Four Vessels",
+        "path": "img/art/artworks/francisco-de-zurbaran-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-four-vessels-francisco-de-zurbarán/WAGOLfzQ40GWZA"
+      },
+      {
+        "name": "The Virgin and Child with the Infant St John the Baptist",
+        "path": "img/art/artworks/francisco-de-zurbaran-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-with-the-infant-st-john-the-baptist-francisco-de-zurbarán/CQE535MFNxKDhw"
+      },
+      {
+        "name": "San Lorenzo",
+        "path": "img/art/artworks/francisco-de-zurbaran-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/san-lorenzo-francisco-de-zurbarán/2QFA4RqANlOqZg"
+      },
+      {
+        "name": "Saint Elizabeth of Thuringia",
+        "path": "img/art/artworks/francisco-de-zurbaran-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-elizabeth-of-thuringia-francisco-de-zurbarán/5QFWzdSLq7NP0g"
+      }
+    ],
+    "summary": [
+      "Francisco de Zurbarán was a Spanish painter. He is known primarily for his religious paintings depicting monks, nuns, and martyrs, and for his still-lifes. Zurbarán gained the nickname \"Spanish Caravaggio,\" owing to the forceful use of chiaroscuro in which he excelled."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Caravaggisti", "Renaissance"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Francisco_de_Zurbar%C3%A1n",
+    "urlGoogle": "https://artsandculture.google.com/entity/francisco-de-zurbarán/m02_6nk"
+  },
+  "event": {
+    "id": "assassination-of-martin-luther-king-jr",
+    "name": "Assassination of Martin Luther King Jr.",
+    "dates": "Apr 4, 1968",
+    "mainImg": "img/events/assassination-of-martin-luther-king-jr.jpg",
+    "summary": [
+      "Martin Luther King Jr., an American clergyman and civil rights leader, was fatally shot at the Lorraine Motel in Memphis, Tennessee, on April 4, 1968, at 6:01 p.m. CST. He was rushed to St. Joseph's Hospital, where he died at 7:05 p.m. He was a prominent leader of the Civil Rights Movement and a Nobel Peace Prize laureate who was known for his use of nonviolence and civil disobedience.",
+      "James Earl Ray, a fugitive from the Missouri State Penitentiary, was arrested on June 8, 1968, in London at Heathrow Airport, extradited to the United States, and charged with the crime. On March 10, 1969, he pleaded guilty and was sentenced to 99 years in the Tennessee State Penitentiary. He later made many attempts to withdraw his guilty plea and be tried by a jury, but was unsuccessful; he died in prison in 1998.",
+      "The King family and others believe the assassination was the result of a conspiracy involving the U.S. government, Mafia and Memphis police, as alleged by Loyd Jowers in 1993. They believe that Ray was a scapegoat. In 1999, the family filed a wrongful death lawsuit against Jowers for the sum of $10 million."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Assassination_of_Martin_Luther_King_Jr.",
+    "urlGoogle": "https://artsandculture.google.com/entity/assassination-of-martin-luther-king-jr/m03hm37s"
+  },
+  "funFacts": [
+    {
+      "id": "252",
+      "fact": "There is a town in Alaska called Chicken.",
+      "category": ["Animals", "Geography"]
+    },
+    {
+      "id": "87",
+      "fact": "A mile on the ocean and a mile on land are not the same distance.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554051",
+      "fact": "According to legend, and the official story from Nathan's, four immigrants held the first hot dog eating contest at Nathan's Famous stand on Coney Island on July 4, 1916 to prove who was the most patriotic."
+    }
+  ],
+  "idiom": {
+    "id": "leave-in-the-lurch",
+    "term": "leave in the lurch",
+    "definition": "Abandon or desert someone in difficult straits. For example, *Jane was angry enough to quit without giving notice, leaving her boss in the lurch.* This expression alludes to a 16th-century French dice game, *lourche,* where to incur a *lurch* meant to be far behind the other players. It later was used in cribbage and other games, as well as being used in its present figurative sense by about 1600."
+  },
+  "person": {
+    "id": "robert-smalls",
+    "name": "Robert Smalls",
+    "dates": "Apr 5, 1839 - Feb 23, 1915",
+    "mainImg": "img/people/robert-smalls.jpg",
+    "summary": [
+      "Robert Smalls was an American businessman, publisher, and politician. Born into slavery in Beaufort, South Carolina, he freed himself, his crew, and their families during the American Civil War by commandeering a Confederate transport ship, CSS Planter, in Charleston harbor, on May 13, 1862, and sailing it from Confederate-controlled waters of the harbor to the U.S. blockade that surrounded it. He then piloted the ship to the Union-controlled enclave in Beaufort-Port Royal-Hilton Head area, where it became a Union warship. His example and persuasion helped convince President Abraham Lincoln to accept African-American soldiers into the Union Army.",
+      "After the American Civil War he returned to Beaufort and became a politician, winning election as a Republican to the South Carolina State legislature and the United States House of Representatives during the Reconstruction era. Smalls authored state legislation providing for South Carolina to have the first free and compulsory public school system in the United States. He founded the Republican Party of South Carolina. Smalls was the last Republican to represent South Carolina's 5th congressional district until 2010."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Smalls",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-smalls/m09vgsz"
+  },
+  "place": {
+    "id": "nikko",
+    "name": "Nikko",
+    "mainImg": "img/places/nikko.jpg",
+    "summary": [
+      "Nikkō is a city located in Tochigi Prefecture, Japan. As of May 2015, the city had an estimated population of 84,197, and a population density of 58.1 persons per km². Its total area is 1,449.83 km². It is a popular destination for Japanese and international tourists. Attractions include the mausoleum of shōgun Tokugawa Ieyasu and that of his grandson Iemitsu, and the Futarasan Shrine, which dates to the year 767. There are also many famous hot springs in the area. Elevations range from 200 to 2,000 m. The Japanese saying \"Never say 'kekkō' until you've seen Nikkō\"—kekkō meaning beautiful, magnificent or \"I am satisfied\"—is a reflection of the beauty and sites in Nikkō."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Nikk%C5%8D,_Tochigi",
+    "urlGoogle": "https://artsandculture.google.com/entity/nikko/m01wh4c"
+  },
+  "wiki": {
+    "id": "school-rumble",
+    "name": "School Rumble",
+    "summary": "School Rumble is a Japanese shōnen manga series written and illustrated by Jin Kobayashi. First serialized in 345 chapters in Weekly Shōnen Magazine between 2002 and 2008, it is a romance comedy centering on relationships between three Japanese high school students. The series often discards realism in favor of comedic effect. Its popularity resulted in television adaptations, video games, novels and guidebooks. It has also been translated into English and other languages. The manga was well received by Japanese-language readers; the North American English translations were less popular, and ranked 145th for overall manga series sales in 2008. Some critics of the English-language translation praised Kobayashi for his art style and overall use of humor, while others disliked some of the jokes and repetitive plot. The anime adaptation sold well in Japan and was praised by Kobayashi and—for the English-language translation—critics. The decision by Media Factory to aggressively pursue its intellectual property rights for School Rumble is believed by proponents of fansubs to have had a negative impact on the franchise's release and sales in the North American market.",
+    "url": "https://en.wikipedia.org/wiki/School_Rumble"
+  },
+  "word": {
+    "id": "ephemeral",
+    "word": "ephemeral",
+    "url": "https://www.merriam-webster.com/dictionary/ephemeral",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-FEM-uh-rul",
+    "audioPath": "audio/words/ephemeral.mp3",
+    "definitions": ["lasting a very short time"],
+    "examples": [
+      "The young pop star's fame turned out to be _ephemeral_.",
+      "\"During the creation of the _ephemeral_ show-the walls will be erased for a new exhibition later this month, leaving only a series of framed drawings behind-Ms. Dary visited the local library and copied pages from a 100-year-old local directory.\" - From an article by Tammy La Gorce in the _New York Times_, January 4, 2013"
+    ],
+    "origin": "The mayfly (order Ephemeroptera) typically hatches, matures, mates, and dies within the span of a few short hours (though the longest-lived species may survive a record two days); poets sometimes use this insect to symbolize life's ephemeral nature. When \"ephemeral\" (from the Greek word \"ephēmeros,\" meaning \"lasting a day\") first appeared in print in English in the late 16th century, it was a scientific term applied to short-term fevers, and later, to organisms (such as insects and flowers) with very short life spans. Soon after that, it acquired an extended sense referring to anything fleeting and short-lived (as in \"ephemeral pleasures\")."
+  }
+}

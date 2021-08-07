@@ -1,0 +1,131 @@
+{
+  "artist": {
+    "id": "martin-van-meytens",
+    "name": "Martin van Meytens",
+    "dates": "Jun 24, 1695 - Mar 23, 1770",
+    "mainImg": "img/art/artists/martin-van-meytens.jpg",
+    "artworkImgs": [
+      {
+        "name": "Maria Theresa with Joseph II as Child",
+        "path": "img/art/artworks/martin-van-meytens-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/maria-theresa-with-joseph-ii-as-child-martin-van-meytens/2gHYZDOYbDWEww"
+      },
+      {
+        "name": "The children of Maria Theresa",
+        "path": "img/art/artworks/martin-van-meytens-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-children-of-maria-theresa-martin-van-meytens-circle/gAEKpaSh9CYWCA"
+      },
+      {
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/martin-van-meytens-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-martin-van-meytens-the-younger/BAGWfvwy2q40pw"
+      },
+      {
+        "name": "Wedding Supper",
+        "path": "img/art/artworks/martin-van-meytens-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/wedding-supper/8wGaVfLW0exl6A"
+      },
+      {
+        "name": "Entry of the Bride",
+        "path": "img/art/artworks/martin-van-meytens-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/entry-of-the-bride/CgHeNTtvSqve9Q"
+      },
+      {
+        "name": "Maria Theresa in a Blue Gown",
+        "path": "img/art/artworks/martin-van-meytens-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/maria-theresa-in-a-blue-gown/WgFeV_tonz7LOw"
+      }
+    ],
+    "summary": [
+      "Martin van Meytens was a Dutch-Swedish painter who painted members of the Royal Court of Austria such as Marie Antoinette, Maria Theresa of Austria, Francis I, Holy Roman Emperor, the Emperor's family and members of the local aristocracy. His painting style inspired many other painters to paint in a similar format."
+    ],
+    "quote": null,
+    "movements": ["Baroque"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Martin_van_Meytens",
+    "urlGoogle": "https://artsandculture.google.com/entity/martin-van-meytens/m05s_yzw"
+  },
+  "event": {
+    "id": "battle-of-palo-alto",
+    "name": "Battle of Palo Alto",
+    "dates": null,
+    "mainImg": "img/events/battle-of-palo-alto.jpg",
+    "summary": [
+      "The Battle of Palo Alto was the first major battle of the Mexican–American War and was fought on May 8, 1846, on disputed ground five miles from the modern-day city of Brownsville, Texas. A force of some 3,700 Mexican troops – most of the Army of The North – led by General Mariano Arista engaged a force of approximately 2,300 United States troops – the Army of Occupation led by General Zachary Taylor.",
+      "On April 30, following the Thornton Affair, Mexican General Mariano Arista's troops began to cross the Rio Grande. On May 3, the troops began to besiege the American outpost at Fort Texas. Taylor marched his Army of Occupation south to relieve the siege. Arista, upon learning of his approach, diverted many of his units away from the siege to meet Taylor's force. The battle took place on May 8, three days before the formal declaration of war on Mexico by the United States. Arista ordered two cavalry charges, first against the American right flank and later against the left. Both were unsuccessful. The American victory is widely attributed to superior artillery, while the U.S. \"light\" artillery was much more mobile and accurate than that of the Mexican forces."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Palo_Alto",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-palo-alto/m01gpz2"
+  },
+  "funFacts": [
+    {
+      "id": "100",
+      "fact": "In a year, the average person walks four miles making his or her bed.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "804",
+      "fact": "There are 293 ways to make change for a dollar.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554013",
+      "fact": "Murmurations are the graceful, undulating patterns starlings create when they flock together in the sky. Scientists are still unsure how the birds coordinate their movements \u0003so quickly."
+    }
+  ],
+  "idiom": {
+    "id": "a-flea-in-ones-ear",
+    "term": "a flea in one's ear",
+    "definition": "An annoying hint or a stinging rebuke, as in *He has a flea in his ear about their relationship,* or *If he doesn't bring the right equipment, I'll put a flea in his ear.* This expression originated in French and has been used in English since the 1400s."
+  },
+  "person": {
+    "id": "ashoka",
+    "name": "Ashoka",
+    "dates": "303 BC - 231 BC",
+    "mainImg": "img/people/ashoka.jpg",
+    "summary": [
+      "Ashoka, also known as Ashoka the Great, was an Indian emperor of the Maurya Dynasty, who ruled almost all of the Indian subcontinent from c. 268 to 232 BCE. The grandson of the founder of the Maurya Dynasty, Chandragupta Maurya, Ashoka promoted the spread of Buddhism across ancient Asia. Considered by many to be one of India's greatest emperors, Ashoka expanded Chandragupta's empire to reign over a realm stretching from present-day Afghanistan in the west to Bangladesh in the east. It covered the entire Indian subcontinent except for parts of present-day Tamil Nadu, Karnataka and Kerala. The empire's capital was Pataliputra, with provincial capitals at Taxila and Ujjain.",
+      "Ashoka waged a destructive war against the state of Kalinga, which he conquered in about 260 BCE. He converted to Buddhism after witnessing the mass deaths of the Kalinga War, which he had waged out of a desire for conquest and which reportedly directly resulted in more than 100,000 deaths and 150,000 deportations."
+    ],
+    "quote": "“No society can prosper if it aims at making things easier-instead it should aim at making people stronger.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ashoka",
+    "urlGoogle": "https://artsandculture.google.com/entity/ashoka/m0n5l"
+  },
+  "place": {
+    "id": "pisa",
+    "name": "Pisa",
+    "mainImg": "img/places/pisa.jpg",
+    "summary": [
+      "Pisa is a city and comune in Tuscany, central Italy, straddling the Arno just before it empties into the Ligurian Sea. It is the capital city of the Province of Pisa. Although Pisa is known worldwide for its leaning tower, the city of over 91,104 residents contains more than 20 other historic churches, several medieval palaces, and various bridges across the Arno. Much of the city's architecture was financed from its history as one of the Italian maritime republics.",
+      "The city is also home of the University of Pisa, which has a history going back to the 12th century and also has the Scuola Normale Superiore di Pisa, founded by Napoleon in 1810, and its offshoot, the Sant'Anna School of Advanced Studies, as the best-sanctioned Superior Graduate Schools in Italy."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pisa",
+    "urlGoogle": "https://artsandculture.google.com/entity/pisa/m064xp"
+  },
+  "wiki": {
+    "id": "armero-tragedy",
+    "name": "Armero tragedy",
+    "summary": "The Armero tragedy was the major consequence of the November 13, 1985, eruption of Nevado del Ruiz in Tolima, Colombia. After 69 years of dormancy the eruption caught nearby towns unaware, even though the government had received warnings to evacuate the area from multiple volcanological organizations when volcanic activity had been detected in September 1985. As pyroclastic flows erupted from the volcano's crater, they melted the mountain's glaciers, sending four enormous lahars (volcanically induced mudslides, landslides, and debris flows) down its slopes at 60 kilometers (37 mi) per hour. The lahars picked up speed in gullies and coursed into the six major rivers at the base of the volcano; they engulfed the town of Armero, killing more than 20,000 of its almost 29,000 inhabitants. Photographs of the lahars and the impact of the disaster captured attention worldwide and led to controversy over the degree to which the Colombian government was responsible for the disaster.",
+    "url": "https://en.wikipedia.org/wiki/Armero_tragedy"
+  },
+  "word": {
+    "id": "jaundiced",
+    "word": "jaundiced",
+    "url": "https://www.merriam-webster.com/dictionary/jaundiced",
+    "partOfSpeech": "adjective",
+    "pronunciation": "JAWN-dist",
+    "audioPath": "audio/words/jaundiced.mp3",
+    "definitions": [
+      "affected with or as if with a disease characterized by yellow pigmentation of the skin",
+      "exhibiting or influenced by envy, distaste, or hostility"
+    ],
+    "examples": [
+      "\"Since I tend to have a jaundiced view toward marriage in general,\" said George, \"I'm not the guy you should be asking for wedding tips.\""
+    ],
+    "origin": "The adjective \"jaundiced,\" which was introduced into English in the mid-17th century, is the direct result of the older noun \"jaundice.\" The physical condition called jaundice involves a yellowish coloring of the skin, tissues, and body fluids caused by the presence of coloring matter from bile. In ages past, people believed that a hostile, irritable temperament indicated an excess of bile in one's body. This belief not only led to the extended use of \"jaundiced,\" but it also resulted in a similar use of the adjective \"bilious,\" which can mean either \"ill-tempered\" or \"marked by or suffering from liver dysfunction and especially excessive secretion of bile.\""
+  }
+}

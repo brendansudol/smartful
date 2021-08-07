@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "sano-di-pietro",
+    "name": "Sano di Pietro",
+    "dates": "1406 - October 1481",
+    "mainImg": "img/art/artists/sano-di-pietro.jpg",
+    "artworkImgs": [
+      {
+        "name": "Saint Benedict",
+        "path": "img/art/artworks/sano-di-pietro-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-benedict-ansano-di-pietro-di-mencio-called-sano-di-pietro/qQG9ueRUEd5ViQ"
+      },
+      {
+        "name": "Madonna and Child with Saints Jerome, John the Baptist, Bernardino and Bartholomew",
+        "path": "img/art/artworks/sano-di-pietro-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-with-saints-jerome-john-the-baptist-bernardino-and-bartholomew-sano-di-pietro/VQFKjpiRfHuPpg"
+      },
+      {
+        "name": "Madonna and Child with Saints James Major and John the Evangelist, altarpiece",
+        "path": "img/art/artworks/sano-di-pietro-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-with-saints-james-major-and-john-the-evangelist-altarpiece/FAHHZVcSzLiAwg"
+      },
+      {
+        "name": "The Massacre of the Innocents",
+        "path": "img/art/artworks/sano-di-pietro-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-massacre-of-the-innocents-sano-di-pietro-ansano-di-pietro-di-mencio/QQFv1Zb2LEBHXQ"
+      },
+      {
+        "name": "Martyrdom of Saint Agatha in an Initial D",
+        "path": "img/art/artworks/sano-di-pietro-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/martyrdom-of-saint-agatha-in-an-initial-d-sano-di-pietro-ansano-di-pietro-di-mencio/qgGis1fzQGjyaQ"
+      },
+      {
+        "name": "Virgin and Child with Saints Jerome and Bernardino of Siena and Six Angels",
+        "path": "img/art/artworks/sano-di-pietro-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-and-child-with-saints-jerome-and-bernardino-of-siena-and-six-angels-sano-di-pietro/PgGSktigpRiyAQ"
+      }
+    ],
+    "summary": [
+      "Sano di Pietro or Ansano di Pietro di Mencio was an Italian painter of the Sienese school of painting. He was active for about half a century during the Quattrocento period, and his contemporaries included Giovanni di Paolo and Sassetta."
+    ],
+    "quote": null,
+    "movements": ["Gothic art", "Sienese School", "Italian Renaissance", "Renaissance"],
+    "mediums": ["Tempera", "Gold", "Metal", "Wood", "Gold leaf"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sano_di_Pietro",
+    "urlGoogle": "https://artsandculture.google.com/entity/sano-di-pietro/m0d5zcd"
+  },
+  "event": {
+    "id": "battle-of-the-bulge",
+    "name": "Battle of the Bulge",
+    "dates": "Dec 16, 1944 - Jan 25, 1945",
+    "mainImg": "img/events/battle-of-the-bulge.jpg",
+    "summary": [
+      "The Battle of the Bulge, also known as the Ardennes Counteroffensive, was the last major German offensive campaign on the Western Front during World War II, and took place from 16 December 1944 to 25 January 1945. It was launched through the densely forested Ardennes region of Wallonia in eastern Belgium, northeast France, and Luxembourg, towards the end of the war in Europe. The offensive was intended to stop Allied use of the Belgian port of Antwerp and to split the Allied lines, allowing the Germans to encircle and destroy four Allied armies and force the Western Allies to negotiate a peace treaty in the Axis powers' favor.",
+      "The Germans achieved a total surprise attack on the morning of 16 December 1944, due to a combination of Allied overconfidence, preoccupation with Allied offensive plans, and poor aerial reconnaissance due to bad weather. American forces bore the brunt of the attack and incurred their highest casualties of any operation during the war. The battle also severely depleted Germany's armored forces, and they were largely unable to replace them. German personnel and, later, Luftwaffe aircraft also sustained heavy losses."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_the_Bulge",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-the-bulge/m0fx4r"
+  },
+  "funFacts": [
+    {
+      "id": "951",
+      "fact": "A pearl can be dissolved by vinegar.",
+      "category": ["Food", "Science"]
+    },
+    {
+      "id": "694",
+      "fact": "Spiny lobsters migrate in groups of 50 or more, forming a conga line on the ocean floor.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554006",
+      "fact": "Dolphin calves are typically born \u0003tail first, rather than head first, so they don’t drown during the birthing process."
+    }
+  ],
+  "idiom": {
+    "id": "absence-makes-the-heart-grow-fonder",
+    "term": "absence makes the heart grow fonder",
+    "definition": "Separation intensifies love, as in *After a year in another country she accepted his proposal, so I guess absence makes the heart grow fonder,* or, used ironically, *The boss leaves earlier every day; oh well, absence makes the heart grow fonder.* Although versions of this saying date from Roman times, it only became popular after Thomas Haynes Bayly used it as the last line of a song in *The Isle of Beauty* (1850)."
+  },
+  "person": {
+    "id": "daniel-inouye",
+    "name": "Daniel Inouye",
+    "dates": "Sep 7, 1924 - Dec 17, 2012",
+    "mainImg": "img/people/daniel-inouye.jpg",
+    "summary": [
+      "Daniel Ken Inouye served as a United States Senator from Hawaii from 1963 until his death in 2012. A member of the Democratic Party, he was President pro tempore of the United States Senate from 2010 until his death, making him the highest-ranking Asian-American politician in U.S. history. Inouye also chaired various Senate Committees, including those on Intelligence, Commerce and Appropriations.",
+      "Inouye fought in World War II as part of the 442nd Infantry Regiment. He lost his right arm to a grenade wound and received several military decorations, including the Medal of Honor. Returning to Hawaii, Inouye earned a law degree, was elected to Hawaii's territorial House of Representatives in 1953, and was elected to the territorial Senate in 1957. When Hawaii achieved statehood in 1959, Inouye was elected as its first member of the U.S. House of Representatives. He was first elected to the U.S. Senate in 1962.",
+      "Inouye never lost an election in 58 years as an elected official, and he exercised an exceptionally large influence on Hawaii politics.",
+      "Inouye was the first Japanese American to serve in the U.S. House of Representatives and the first Japanese American to serve in the U.S."
+    ],
+    "quote": "“The President's speech suggested to me that were we to follow his leadership, we will be in Iraq not for months, but for years. I also hope I am wrong on this.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Daniel_Inouye",
+    "urlGoogle": "https://artsandculture.google.com/entity/daniel-inouye/m021sv1"
+  },
+  "place": {
+    "id": "saint-petersburg",
+    "name": "Saint Petersburg",
+    "mainImg": "img/places/saint-petersburg.jpg",
+    "summary": [
+      "Saint Petersburg, formerly known as Petrograd, then Leningrad, is a city situated on the Neva River, at the head of the Gulf of Finland on the Baltic Sea. It is Russia's second-largest city after Moscow. With over 5.3 million inhabitants as of 2018, it is the fourth-most populous city in Europe, as well as being the northernmost city with over one million people. An important Russian port on the Baltic Sea, it has a status of a federal subject.",
+      "The city was founded by Tsar Peter the Great on 27 May [O.S. 16 May] 1703, on the site of a captured Swedish fortress. It served as a capital of the Russian Tsardom and the subsequent Russian Empire from 1713 to 1918. After the October Revolution, the Bolsheviks moved their government to Moscow.",
+      "In modern times, Saint Petersburg is considered the Northern Capital and serves as a home to some federal government bodies such as the Constitutional Court of Russia and the Heraldic Council of the President of the Russian Federation. It is also a seat for the National Library of Russia and a planned location for the Supreme Court of the Russian Federation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+    "urlGoogle": "https://artsandculture.google.com/entity/saint-petersburg/m06pr6"
+  },
+  "wiki": {
+    "id": "alaska-mental-health-enabling-act",
+    "name": "Alaska Mental Health Enabling Act",
+    "summary": "The Alaska Mental Health Enabling Act of 1956 was an Act of Congress passed to improve mental health care in the United States territory of Alaska. Introduced in the House of Representatives by Alaska Congressional Delegate Bob Bartlett in January 1956, it became the focus of a major political controversy. The legislation was opposed by a variety of far-right, anti-Communist and fringe religious groups, prompting what was said to have been the biggest political controversy seen on Capitol Hill since the early 1940s. Prominent opponents nicknamed it the \"Siberia Bill\" and asserted that it was part of an international Jewish, Roman Catholic or psychiatric conspiracy intended to establish United Nations-run concentration camps in the United States. With the sponsorship of the conservative Republican senator Barry Goldwater, a modified version of the Act was approved unanimously by the United States Senate in July 1956 after only ten minutes of debate.",
+    "url": "https://en.wikipedia.org/wiki/Alaska_Mental_Health_Enabling_Act"
+  },
+  "word": {
+    "id": "esurient",
+    "word": "esurient",
+    "url": "https://www.merriam-webster.com/dictionary/esurient",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-SUR-ee-unt",
+    "audioPath": "audio/words/esurient.mp3",
+    "definitions": ["hungry, greedy"],
+    "examples": [
+      "No one was surprised that the _esurient_ media mogul planned to expand his empire into the social-media marketplace.",
+      "\"She sat opposite him …, as plump and indifferent to his presence as an old tabby cat whose _esurient_ eye was wholly focused on a particularly toothsome mouse.\" - Pamela Aidan, _An Assembly Such as This: A Novel of Fitzwilliam Darcy, Gentleman_, 2006"
+    ],
+    "origin": "If you’re hungry for a new way to express your hunger, you might find that _esurient_ suits your palate. Be forewarned, however, that when used literally _esurient_ has a humorous flavor. This somewhat obscure word first appeared in English in the second half of the 17th century, deriving from the present participle of the Latin verb _esurire_, meaning \"to be hungry.\" It is also related to _edere_, the Latin verb for \"eat,\" which has given us such scrumptious fare as _edible_ and its synonyms _esculent_ and _comestible_. _Esurient_ can be used somewhat playfully to suggest an actual hunger for food, but it is more often applied to such things as wealth or power. In the latter contexts, it takes on the connotation of _greedy_."
+  }
+}

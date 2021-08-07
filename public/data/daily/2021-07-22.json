@@ -62,21 +62,12 @@
       "fact": "In Texas, it is illegal to graffiti someone's cow.",
       "category": ["Laws"]
     },
-    { "id": "425", "fact": "Kangaroos can't walk backwards.", "category": ["Animals"] },
-    {
-      "id": "402",
-      "fact": "Christopher Columbus brought the first lemon seeds to America.",
-      "category": ["Food", "History"]
-    }
+    { "id": "425", "fact": "Kangaroos can't walk backwards.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
       "id": "522229",
       "fact": "The word PEZ comes from the German word for peppermint—PfeffErminZ."
-    },
-    {
-      "id": "554035",
-      "fact": "In 1965, Tommy Cash—Johnny Cash's younger brother—released a song titled \"I Didn't Walk the Line.\""
     }
   ],
   "idiom": {

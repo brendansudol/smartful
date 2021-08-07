@@ -1,0 +1,133 @@
+{
+  "artist": {
+    "id": "franz-xaver-winterhalter",
+    "name": "Franz Xaver Winterhalter",
+    "dates": "Apr 20, 1805 - Jul 8, 1873",
+    "mainImg": "img/art/artists/franz-xaver-winterhalter.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait of Empress Eugénie",
+        "path": "img/art/artworks/franz-xaver-winterhalter-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-empress-eugénie-franz-xaver-winterhalter/MQFuNZHmji9ZOA"
+      },
+      {
+        "name": "Countess Alexander Nikolaevitch Lamsdorff (Maria Ivanovna Beck, 1835–1866)",
+        "path": "img/art/artworks/franz-xaver-winterhalter-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/countess-alexander-nikolaevitch-lamsdorff-maria-ivanovna-beck-1835–1866-franz-xaver-winterhalter/CwFUhIZcPyGgJQ"
+      },
+      {
+        "name": "Florinda",
+        "path": "img/art/artworks/franz-xaver-winterhalter-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/florinda-franz-xaver-winterhalter/cgGFlpirJaHx1g"
+      },
+      {
+        "name": "Franz Xaver and Herman Winterhalter",
+        "path": "img/art/artworks/franz-xaver-winterhalter-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/franz-xaver-and-herman-winterhalter-franz-xaver-winterhalter/hwH2uttzqxJSkw"
+      },
+      {
+        "name": "Empress Eugénie",
+        "path": "img/art/artworks/franz-xaver-winterhalter-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/empress-eugénie-franz-xaver-winterhalter/rAFIV4LaVOr9EA"
+      },
+      {
+        "name": "Portrait of Lydia Schabelsky, Baroness Staël-Holstein",
+        "path": "img/art/artworks/franz-xaver-winterhalter-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-lydia-schabelsky-baroness-staël-holstein-franz-xaver-winterhalter/dwFTXqHNR9ljcQ"
+      }
+    ],
+    "summary": [
+      "Franz Xaver Winterhalter was a German painter and lithographer, known for his flattering portraits of royalty and upper-class society in the mid-19th century. His name has become associated with fashionable court portraiture. Among his best known works are Empress Eugénie Surrounded by her Ladies in Waiting and the portraits he made of Empress Elisabeth of Austria."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Oil paint", "Drawing", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Franz_Xaver_Winterhalter",
+    "urlGoogle": "https://artsandculture.google.com/entity/franz-xaver-winterhalter/m05sy6f"
+  },
+  "event": {
+    "id": "berlin-crisis-of-1961",
+    "name": "Berlin Crisis of 1961",
+    "dates": "Jun 4, 1961 - Nov 9, 1961",
+    "mainImg": "img/events/berlin-crisis-of-1961.jpg",
+    "summary": [
+      "The Berlin Crisis of 1961 occurred between 4 June – 9 November 1961, and was the last major politic-military European incident of the Cold War about the occupational status of the German capital city, Berlin, and of post–World War II Germany. The Berlin Crisis started when the USSR launched an ultimatum demanding the withdrawal of all armed forces from Berlin, including the Western armed forces in West Berlin. The crisis culminated in the city's de facto partition with the East German erection of the Berlin Wall.",
+      "The 22nd Congress of the Communist Party of the Soviet Union—the last to be attended by the Communist Party of China—was held in Moscow during the crisis."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Berlin_Crisis_of_1961",
+    "urlGoogle": "https://artsandculture.google.com/entity/berlin-crisis-of-1961/m04dyv7m"
+  },
+  "funFacts": [
+    {
+      "id": "446",
+      "fact": "You breathe in about 13 pints of air every minute.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "926",
+      "fact": "George Washington was the only unanimously elected President.",
+      "category": ["History", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553552",
+      "fact": "A 150-year-old tree at the Ashikaga Flower Park is believed to be the oldest living wisteria in Japan."
+    }
+  ],
+  "idiom": {
+    "id": "brown-bagger",
+    "term": "brown bagger",
+    "definition": "A person who brings his or her own supplies, as in *The architects of the new office designed a space for brown baggers to eat lunch.* The term originated in the 1930s in Britain for very serious students who carried their books about with them in brown briefcases or bags. That usage crossed the Atlantic within a few decades. However, in America from the 1960s on, it has primarily been used for persons who brought their own liquor in a brown paper bag, either legitimately or surreptitiously, to a public place or restaurant not licensed to sell it, or for those who took their lunch to work."
+  },
+  "person": {
+    "id": "shelley-winters",
+    "name": "Shelley Winters",
+    "dates": "Aug 18, 1920 - Jan 14, 2006",
+    "mainImg": "img/people/shelley-winters.jpg",
+    "summary": [
+      "Shelley Winters was an American actress whose career spanned almost six decades.",
+      "She appeared in numerous films, and won Academy Awards for The Diary of Anne Frank and A Patch of Blue, and received nominations for A Place in the Sun and The Poseidon Adventure. Other roles Winters appeared in include A Double Life, The Night of the Hunter, Lolita, Alfie, Next Stop, Greenwich Village, and Pete's Dragon.",
+      "In addition to film, Winters also appeared in television, including a years-long tenure on the sitcom Roseanne, and also authored three autobiographical books."
+    ],
+    "quote": "“I'm not overweight. I'm just nine inches too short.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Shelley_Winters",
+    "urlGoogle": "https://artsandculture.google.com/entity/shelley-winters/m019l68"
+  },
+  "place": {
+    "id": "greenland",
+    "name": "Greenland",
+    "mainImg": "img/places/greenland.jpg",
+    "summary": [
+      "Greenland is the world's largest island, located between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago. It is an autonomous territory within the Kingdom of Denmark. Though physiographically a part of the continent of North America, Greenland has been politically and culturally associated with Europe for more than a millennium. The majority of its residents are Inuit, whose ancestors migrated from Alaska through Northern Canada, gradually settling across the island by the 13th century.",
+      "Nowadays, the population is largely concentrated on the southwest coast, while the rest of the island is sparsely populated. Greenland is divided into five municipalities — Sermersooq, Kujalleq, Qeqertalik, Qeqqata, and Avannaata. It has two unincorporated areas — the Northeast Greenland National Park and the Thule Air Base. The last one, even if under Danish control, is administered by the United States Air Force. Three-quarters of Greenland is covered by the only permanent ice sheet outside Antarctica. With a population of 56,081, it is the least densely populated territory in the world. About a third of the population lives in Nuuk, the capital and largest city."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Greenland",
+    "urlGoogle": "https://artsandculture.google.com/entity/greenland/m035v3"
+  },
+  "wiki": {
+    "id": "colditz-castle",
+    "name": "Colditz Castle",
+    "summary": "Colditz Castle is a castle in the town of Colditz near Leipzig, Dresden, and Chemnitz in the state of Saxony in Germany. Used as a workhouse for the indigent and a mental institution for over 100 years, it became notorious as a prisoner-of-war camp for \"incorrigible\" Allied officers who had repeatedly escaped from other camps, as well as for deutschfeindlich (\"anti-Germans\") during World War II. The Nazi Schutzstaffel (SS) made Colditz a Sonderlager (high-security prison), the only one of its type within Germany. Hermann Göring even declared Colditz \"escape-proof.\" This was in part because of its lack of escapes during its term as prison camp in World War I, but mostly due to it being the only German prisoner-of-war camp with more guards than prisoners. Yet despite this audacious claim, there were multiple escapes by British, French, Polish, Dutch, and Belgian inmates.",
+    "url": "https://en.wikipedia.org/wiki/Colditz_Castle"
+  },
+  "word": {
+    "id": "comely",
+    "word": "comely",
+    "url": "https://www.merriam-webster.com/dictionary/comely",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KUM-lee",
+    "audioPath": "audio/words/comely.mp3",
+    "definitions": [
+      "pleasurably conforming to notions of good appearance, suitability, or proportion",
+      "having a pleasing appearance : not homely or plain"
+    ],
+    "examples": [
+      "The audition was filled with _comely_ young men and women hoping to be the next face of the fashion industry.",
+      "\"The woman in black is an assassin, and, although he has no idea why, Langdon is her target. He's on the run before he's even fully conscious, helped by one of his doctors, Sienna Brooks, a _comely_ young blond with a genius IQ and a shadowy past.\" - From a book review by Colette Bancroft in the _Tampa Bay Times_ (Florida), May 17, 2013"
+    ],
+    "origin": "Although \"comely\" is now typically used to describe the appearance of human beings, it was once used more broadly of other appealing things, such as fine clothing. \"Comely\" can be traced back to an Old English word meaning \"lovely, glorious, or fine.\" If you're looking to pretty up your prose or poetry with additional words meaning \"beautiful,\" English is well-supplied with them. Aside from \"beautiful\" itself, we have \"lovely,\" \"handsome,\" \"pretty,\" \"fair,\" \"good-looking,\" \"gorgeous,\" \"ravishing,\" and even \"well-favored.\""
+  }
+}

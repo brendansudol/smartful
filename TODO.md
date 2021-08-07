@@ -1,6 +1,6 @@
 TODO:
 
-- ???
+- better error page if data isn't there
 
 DONE:
 
@@ -16,4 +16,5 @@ DONE:
 
 LATER:
 
+- allow bookmarking entries
 - tooltips for start / end date nav?

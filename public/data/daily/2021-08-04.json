@@ -1,131 +1,135 @@
 {
   "artist": {
-    "id": "yoko-ono",
-    "name": "Yoko Ono",
-    "dates": "Born Feb 18, 1933",
-    "mainImg": "img/art/artists/yoko-ono.jpg",
+    "id": "cornelius-johnson",
+    "name": "Cornelius Johnson",
+    "dates": "Oct 14, 1593 - Aug 5, 1661",
+    "mainImg": "img/art/artists/cornelius-johnson.jpg",
     "artworkImgs": [
       {
-        "name": "Painting to Hammer a Nail",
-        "path": "img/art/artworks/yoko-ono-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/painting-to-hammer-a-nail-yoko-ono/pAEqDOysHPoj6Q"
+        "name": "Portrait of Susanna Temple, Later Lady Lister",
+        "path": "img/art/artworks/cornelius-johnson-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-susanna-temple-later-lady-lister-cornelius-johnson/tgHlN0MphvJyFQ"
       },
       {
-        "name": "A Digital Gallery: Imagine Peace",
-        "path": "img/art/artworks/yoko-ono-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/a-digital-gallery-imagine-peace-yoko-ono/cwGTuceS0gDiPQ"
+        "name": "Portait of a Lady in Blue",
+        "path": "img/art/artworks/cornelius-johnson-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portait-of-a-lady-in-blue/RQFOOU74eqLiBQ"
       },
       {
-        "name": "Untitled",
-        "path": "img/art/artworks/yoko-ono-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/untitled/cAHE_wQWdw6j0Q"
+        "name": "Portrait of a Woman",
+        "path": "img/art/artworks/cornelius-johnson-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-woman-cornelis-jonson-van-ceulen-the-elder/4gHMe-gfk8dqew"
       },
       {
-        "name": "Cloud Piece",
-        "path": "img/art/artworks/yoko-ono-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/cloud-piece-yoko-ono/HgFWsEA5iH0miA"
+        "name": "Portrait of a Man",
+        "path": "img/art/artworks/cornelius-johnson-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-cornelius-johnson-1593–1661-british/QgEnaI1s7-eX-A"
       },
       {
-        "name": "Sky TV (single) for New York",
-        "path": "img/art/artworks/yoko-ono-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/sky-tv-single-for-new-york-yoko-ono/kgFy0k3mic5cVA"
+        "name": "Anna Maria van Schurman",
+        "path": "img/art/artworks/cornelius-johnson-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/anna-maria-van-schurman-cornelis-van-dalen-the-younger-after-cornelis-jonson-van-ceulen/LQGpR4-1s9gDPQ"
       },
       {
-        "name": "Instruction Paintings Workshop",
-        "path": "img/art/artworks/yoko-ono-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/instruction-paintings-workshop-yoko-ono/4QErjRr544E3uw"
+        "name": "Anna Maria van Schurman",
+        "path": "img/art/artworks/cornelius-johnson-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/anna-maria-van-schurman-cornelis-jonson-van-ceulen/kwGdkOBECy_QQg"
       }
     ],
     "summary": [
-      "Yoko Ono Lennon is a Japanese multimedia artist, singer, songwriter and peace activist. Her work also encompasses performance art, which she performs in both English and Japanese, and filmmaking. She was married to English singer-songwriter John Lennon of the Beatles from 1969 until his murder in 1980.",
-      "Ono grew up in Tokyo and also spent several years in New York City. She studied at Gakushuin University, but withdrew from her course after two years and moved to New York in 1953 to live with her family. She spent some time at Sarah Lawrence College and then became involved in New York City's downtown artists scene, which included the Fluxus group. With their performance Bed-Ins for Peace in Amsterdam and Montreal in 1969, Ono and Lennon used their honeymoon at the Hilton Amsterdam as a stage for public protests against the Vietnam War. The feminist themes of her music have influenced musicians as diverse as the B-52s and Meredith Monk. She achieved commercial and critical acclaim in 1980 with the chart-topping album Double Fantasy, a collaboration with Lennon that was released three weeks before his murder."
-    ],
-    "quote": "“I saw that nothing was permanent. You don't want to possess anything that is dear to you because you might lose it.”",
-    "movements": ["Conceptual art", "Contemporary art", "Fluxus"],
-    "mediums": ["Photograph", "Ink", "Sculpture", "Textile", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Yoko_Ono",
-    "urlGoogle": "https://artsandculture.google.com/entity/yoko-ono/m01nz1q6"
-  },
-  "event": {
-    "id": "maundy-thursday",
-    "name": "Maundy Thursday",
-    "dates": null,
-    "mainImg": "img/events/maundy-thursday.jpg",
-    "summary": [
-      "Maundy Thursday is the Christian holy day falling on the Thursday before Easter. It commemorates the Washing of the Feet and Last Supper of Jesus Christ with the Apostles, as described in the canonical gospels.",
-      "It is the fifth day of Holy Week, preceded by Holy Wednesday and followed by Good Friday. \"Maundy\" comes from the Latin word mandatum, or commandment, reflecting Jesus' words \"I give you a new commandment.\"",
-      "The day comes always between March 19 and April 22, inclusive, and will vary according to whether the Gregorian calendar or the Julian calendar is used. Eastern churches generally use the Julian system.",
-      "Maundy Thursday initiates the Easter Triduum, the period which commemorates the passion, death, and resurrection of Jesus; this period includes Good Friday and Holy Saturday, and ends on the evening of Easter. The Mass of the Lord's Supper or service of worship is normally celebrated in the evening, when Friday begins according to Jewish tradition, as the Last Supper was held on the feast of Passover, according to the three Synoptic Gospels."
+      "Cornelius Johnson or Cornelis Janssens van Ceulen was an English painter of portraits of Dutch or Flemish parentage. He was active in England, from at least 1618 to 1643, when he moved to Middelburg in the Netherlands to escape the English Civil War. Between 1646 and 1652 he lived in Amsterdam, before settling in Utrecht, where he died.",
+      "Johnson painted many portraits of emerging new English gentry. His early portraits were panel paintings with \"fictive\" oval frames. His works can be found in major collections in the UK and overseas as well as in private collections in stately homes in Britain.",
+      "He was an accomplished portrait painter, but lacked the flair of a master such as Van Dyck. His style varied considerably over his career, and he was able to assimilate new influences into his own style without any discordant effect. He was particularly accurate and detailed in his depiction of clothing. He was one of the few artists in England at this time who consistently signed and dated their work."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Maundy_Thursday",
-    "urlGoogle": "https://artsandculture.google.com/entity/maundy-thursday/m016v69"
+    "movements": ["Baroque"],
+    "mediums": ["Oil paint", "Wood", "Drawing", "Oak", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Cornelius_Johnson_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/cornelius-johnson/m09f7vw"
+  },
+  "event": {
+    "id": "1968-democratic-national-convention",
+    "name": "1968 Democratic National Convention",
+    "dates": "Aug 26, 1968 - Aug 29, 1968",
+    "mainImg": "img/events/1968-democratic-national-convention.jpg",
+    "summary": [
+      "The 1968 Democratic National Convention was held August 26–29 at the International Amphitheatre in Chicago, Illinois. As President Lyndon B. Johnson had announced he would not seek reelection, the purpose of the convention was to select a new presidential nominee to run as the Democratic Party's candidate for the office. The keynote speaker was Senator Daniel Inouye. Vice President Hubert H. Humphrey and Senator Edmund S. Muskie of Maine were nominated for president and vice president, respectively. The centerpiece of debate was the continuing American military involvement in the Vietnam war and calls to present reforms in the representation by minorities and youth in government and Politics.",
+      "The convention was held during a year of violence, political turbulence, and civil unrest, particularly riots in more than 100 cities following the assassination of Martin Luther King Jr. on April 4. The convention also followed the assassination of Robert F. Kennedy on June 5. Both Kennedy and Senator Eugene McCarthy of Minnesota had been running for the Democratic nomination at the time."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1968_Democratic_National_Convention",
+    "urlGoogle": "https://artsandculture.google.com/entity/1968-democratic-national-convention/m0bq4d"
   },
   "funFacts": [
     {
-      "id": "421",
-      "fact": "Greyhounds can reach speeds of 45 miles per hour.",
-      "category": ["Animals"]
+      "id": "321",
+      "fact": "The word \"purple\" does not rhyme with any other word in the English language.",
+      "category": ["Hodgepodge"]
     },
-    { "id": "408", "fact": "Panda bears eat up to 16 hours a day.", "category": ["Animals"] }
+    {
+      "id": "925",
+      "fact": "The White House was originally called the President's Palace. It became The White House in 1901.",
+      "category": ["History"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "554021",
-      "fact": "Jane Austen didn't publish her first novel under her real name. Instead, Sense and Sensibility was credited as being written \"By a Lady.\""
+      "id": "553528",
+      "fact": "Mr. Rogers always mentioned out loud that he was feeding his fish because a young blind viewer once asked him to do so. She wanted to know the fish were OK."
     }
   ],
   "idiom": {
-    "id": "charity-begins-at-home",
-    "term": "charity begins at home",
-    "definition": "One ought to be generous to one's family before helping others. For example, *She spends hours and hours on volunteer work and neglects the children, forgetting that charity begins at home.* This proverb was first recorded in English, in slightly different form, in John Wycliffe's *Of Prelates* (c. 1380): \"Charity should begin at himself.\""
+    "id": "wet-ones-whistle",
+    "term": "wet one's whistle",
+    "definition": "Have a drink, as in *I'm just going to wet my whistle before I go out on the tennis court.* This expression uses *whistle* in the sense of \"mouth\" and may allude to the fact that it is very hard to whistle with dry lips. [Late 1300s]"
   },
   "person": {
-    "id": "jennifer-carroll",
-    "name": "Jennifer Carroll",
-    "dates": "Born Aug 27, 1959",
-    "mainImg": "img/people/jennifer-carroll.jpg",
+    "id": "gaius-maecenas",
+    "name": "Gaius Maecenas",
+    "dates": "67 BC - 7 BC",
+    "mainImg": "img/people/gaius-maecenas.jpg",
     "summary": [
-      "Jennifer Sandra Carroll is a Trinidadian–American Republican and retired naval officer who served as the 18th Lieutenant Governor of Florida from January 4, 2011 to March 12, 2013. Carroll is the first black person, woman and Trinidadian-American elected to the office; she also is the first black person elected to statewide office in Florida since Reconstruction. Carroll previously served as a Republican member of the Florida House of Representatives. She is the bestselling author of an autobiography entitled When You Get There.",
-      "Although she was later cleared, Carroll came under scrutiny for public relations work for a charity that involved itself in gambling and for $24,000 in income that she failed to report on financial disclosures and tax returns. At the request of Governor Rick Scott, Carroll resigned her post as lieutenant governor on March 12, 2013. The Florida Department of Law Enforcement subsequently concluded that she had not broken any laws."
+      "Gaius Cilnius Maecenas was a friend and political advisor to Octavian, who later reigned as Augustus. He was also an important patron for the new generation of Augustan poets, including both Horace and Virgil. During the reign of Augustus, Maecenas served as a quasi-culture minister to the Emperor but in spite of his wealth and power he chose not to enter the Senate, remaining of equestrian rank."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Jennifer_Carroll",
-    "urlGoogle": "https://artsandculture.google.com/entity/jennifer-carroll/m052_km9"
+    "urlWiki": "https://en.wikipedia.org/wiki/Gaius_Maecenas",
+    "urlGoogle": "https://artsandculture.google.com/entity/gaius-maecenas/m04_5j"
   },
   "place": {
-    "id": "ethiopia",
-    "name": "Ethiopia",
-    "mainImg": "img/places/ethiopia.jpg",
+    "id": "dijon",
+    "name": "Dijon",
+    "mainImg": "img/places/dijon.jpg",
     "summary": [
-      "Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country in the Horn of Africa. It shares borders with Eritrea to the north, Djibouti to the northeast, Somalia to the east, Kenya to the south, South Sudan to the west and Sudan to the northwest. With over 109 million inhabitants as of 2019, Ethiopia is the most populous landlocked country in the world and the second-most populous nation on the African continent. The country has a total area of 1,100,000 square kilometres. Its capital and largest city is Addis Ababa, which lies a few miles west of the East African Rift that splits the country into the Nubian and Somali tectonic plates. Ethiopian national identity is grounded in the historic and contemporary roles of Christianity and Islam, and the independence of Ethiopia from foreign rule, stemming from the various ancient Ethiopian kingdoms of antiquity.",
-      "Some of the oldest skeletal evidence for anatomically modern humans has been found in Ethiopia. It is widely considered as the region from which modern humans first set out for the Middle East and places beyond."
+      "Dijon is a city in Eastern France, the capital of the Côte-d'Or department in the Bourgogne-Franche-Comté region.",
+      "The earliest archaeological finds within the city limits of Dijon date to the Neolithic period. Dijon later became a Roman settlement named Divio, located on the road from Lyon to Paris. The province was home to the Dukes of Burgundy from the early 11th until the late 15th centuries, and Dijon was a place of tremendous wealth and power, one of the great European centres of art, learning, and science. Population: 151,576 within the city limits; 250,516 for the greater Dijon area.",
+      "The city has retained varied architectural styles from many of the main periods of the past millennium, including Capetian, Gothic, and Renaissance. Many still-inhabited town houses in the city's central district date from the 18th century and earlier. Dijon architecture is distinguished by, among other things, toits bourguignons made of tiles glazed in terracotta, green, yellow, and black and arranged in geometric patterns.",
+      "Dijon holds an International and Gastronomic Fair every year in autumn."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ethiopia",
-    "urlGoogle": "https://artsandculture.google.com/entity/ethiopia/m019pcs"
+    "urlWiki": "https://en.wikipedia.org/wiki/Dijon",
+    "urlGoogle": "https://artsandculture.google.com/entity/dijon/m0pbhz"
   },
   "wiki": {
-    "id": "sigi-schmid",
-    "name": "Sigi Schmid",
-    "summary": "Sigi Schmid (born 1953) is a German-American soccer coach. Born in Tübingen, West Germany, he moved to the United States with his family when he was a child. He played college soccer as a midfielder from 1972 to 1975 at the University of California, Los Angeles (UCLA). He coached his former college team between 1980 and 1999 and became one of the most successful collegiate coaches of all time. The UCLA Bruins made 16 consecutive playoff appearances from 1983 to 1998, winning the national championship in 1985, 1990, and 1997. Schmid also worked with US Soccer throughout the 1990s. Schmid has coached the Los Angeles Galaxy and the Columbus Crew in Major League Soccer (MLS). He became the head coach of Seattle Sounders FC in 2009. Throughout his career, Schmid has received praise from critics for his ability to identify new talent. His defensive tactics are also highly regarded in the press, although their deployment in his final two seasons with Los Angeles led directly to the termination of his contract. Despite never having played soccer at a professional level, he has the most coaching wins in MLS history, and was the recipient of the MLS Coach of the Year Award in 1999 and 2008.",
-    "url": "https://en.wikipedia.org/wiki/Sigi_Schmid"
+    "id": "through-the-looking-glass-lost",
+    "name": "Through the Looking Glass (Lost)",
+    "summary": "\"Through the Looking Glass\" is the 22nd episode and season finale of the third season—sixty-ninth episode overall—of the American Broadcasting Company television series Lost. It was written by co-creator/executive producer Damon Lindelof and executive producer Carlton Cuse, and directed by executive producer Jack Bender. Like the previous two season finales, it was two hours long with advertisements, which is twice the length of a normal episode. It was split when released on DVD. The season finale was critically acclaimed and the episode has garnered a number of awards and nominations, including three Emmy nominations. Despite heavy security measures, a synopsis of the episode was leaked online before the episode aired. The episode begins on December 22, 2004, ninety-two days after the crash of Oceanic Airlines Flight 815. The battle between the crash survivors and the dangerous and mysterious island inhabitants referred to as \"The Others\" comes to a head as ten of the Others ambush the survivors' camp and are subsequently killed.",
+    "url": "https://en.wikipedia.org/wiki/Through_the_Looking_Glass_(Lost)"
   },
   "word": {
-    "id": "orotund",
-    "word": "orotund",
-    "url": "https://www.merriam-webster.com/dictionary/orotund",
+    "id": "credulous",
+    "word": "credulous",
+    "url": "https://www.merriam-webster.com/dictionary/credulous",
     "partOfSpeech": "adjective",
-    "pronunciation": "OR-uh-tund",
-    "audioPath": "audio/words/orotund.mp3",
+    "pronunciation": "KREJ-uh-lus",
+    "audioPath": "audio/words/credulous.mp3",
     "definitions": [
-      "marked by fullness, strength, and clarity of sound : sonorous",
-      "pompous, bombastic"
+      "ready to believe especially on slight or uncertain evidence",
+      "proceeding from credulity"
     ],
     "examples": [
-      "Josh cleared his throat dramatically, then did a dead-on impression of the professor's _orotund_, patronizing speech.",
-      "\"Comedian Bob Hope used to tell an anecdote about Franklin D. Roosevelt housetraining his Scottish terrier, Fala, on the _Chicago Tribune_. It was a reference to Roosevelt's greatest hater, _Tribune_ publisher Robert R. McCormick, an _orotund_ aristocrat who considered the New Deal indistinguishable from Communism.\" - From a post by Edward McClellan on NBC Chicago's Ward Room blog, April 23, 2013"
+      "Because she is by nature _credulous_, Ivy didn’t question Bill’s assertion that the castle they stood in had been built in England and shipped across the English Channel to France.",
+      "\"Koolhoven's philosophical probing of human limitation among the good guys -- and of what that complexity might mean to a _credulous_ lad hungry for role models -- is all but overwhelmed by his commercial instincts and undeniable skill at juggling realism with genre.\" -- From a movie review by Ella Taylor in _The Village Voice_, March 16, 2011"
     ],
-    "origin": "The Latin roots of \"orotund\" are related to two more common English words-\"oral\" and \"rotund.\" Latin \"or-\" means \"mouth,\" and \"rotundus\" means \"round\" or \"circular.\" The Roman poet Horace joined forms of those Latin terms to create the phrase \"ore rotundo,\" literally meaning \"with round mouth,\" and figuratively meaning \"with well-turned speech.\" \"Ore rotundo\" was modified to \"orotund\" and adopted into English in the late 18th century. It can indicate either strength of delivery or inflated wording."
+    "origin": "It’s easier to give credit to people who adhere to their creed than to give credence to what miscreants say, or for that matter, to find recreants altogether credible. That sentence contains a half dozen words which, like today’s \"credulous,\" are descendants of \"credere,\" the Latin verb that means \"to believe\" or \"to trust\": \"credit\" (\"honor,\" as well as \"belief\"); \"creed\" (\"guiding principle\"); \"credence\" (\"acceptance as true\"); \"miscreant\" (\"a heretic\" or \"a criminal\"); \"recreant\" (\"coward, deserter\"); and \"credible\" (\"offering reasonable grounds for being believed\"). \"Credulous\" is even more closely allied to the nouns \"credulity\" and \"credulousness\" (both meaning \"gullibility\"), and of course its antonym, \"incredulous\" (\"skeptical,\" also \"improbable\")."
   }
 }

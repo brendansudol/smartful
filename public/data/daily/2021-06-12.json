@@ -1,132 +1,123 @@
 {
   "artist": {
-    "id": "hiroshige",
-    "name": "Hiroshige",
-    "dates": "1797 - Oct 12, 1858",
-    "mainImg": "img/art/artists/hiroshige.jpg",
+    "id": "sadahide",
+    "name": "Sadahide",
+    "dates": "1807 - 1873",
+    "mainImg": "img/art/artists/sadahide.jpg",
     "artworkImgs": [
       {
-        "name": "One Hundred Famous Views of Edo “Sudden Shower over Shin-Ohashi Bridge and Atake”",
-        "path": "img/art/artworks/hiroshige-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-“sudden-shower-over-shin-ohashi-bridge-and-atake”-utagawa-hiroshige/QAFL1JRk6OKiNQ"
+        "name": "America: Van Reed",
+        "path": "img/art/artworks/sadahide-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/america-van-reed-artist-hashimoto-sadahide/4wF2hWKeBCnbkQ"
       },
       {
-        "name": "Evening Snow at Kanbara",
-        "path": "img/art/artworks/hiroshige-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/evening-snow-at-kanbara-utagawa-hiroshige/5wGGlOB0RzCQsw"
+        "name": "Picture of a Parlor in a Foreign Merchantile Firm in Yokohama",
+        "path": "img/art/artworks/sadahide-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/picture-of-a-parlor-in-a-foreign-merchantile-firm-in-yokohama-artist-hashimoto-sadahide/RwF3ihBji_TALA"
       },
       {
-        "name": "One Hundred Famous Views of Edo “Plum Garden in Kameido”",
-        "path": "img/art/artworks/hiroshige-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-“plum-garden-in-kameido”-utagawa-hiroshige/cwEPQk4UO2sF-Q"
+        "name": "Picture of Western Traders at Yokohama Transporting Merchandise",
+        "path": "img/art/artworks/sadahide-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/picture-of-western-traders-at-yokohama-transporting-merchandise-artist-hashimoto-sadahide/YgGMc5JdTxRXLw"
       },
       {
-        "name": "One Hundred Famous Views of Edo;Plum Garden in Kameido",
-        "path": "img/art/artworks/hiroshige-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-plum-garden-in-kameido-utagawa-hiroshige/DgFIyemrWrUgaQ"
+        "name": "「生寫異國人物」|American Woman Playing a Concertina, from the series Life Drawings of People from Foreign Nations",
+        "path": "img/art/artworks/sadahide-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/「生寫異國人物」-american-woman-playing-a-concertina-from-the-series-life-drawings-of-people-from-foreign-nations-utagawa-gountei-sadahide/qQE5s7rEdW4XHw"
       },
       {
-        "name": "Small View of Yedo",
-        "path": "img/art/artworks/hiroshige-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/small-view-of-yedo-utagawa-hiroshige/dwFut16KkjvfFw"
+        "name": "Asaina's Adventure in a Wonder Land",
+        "path": "img/art/artworks/sadahide-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/asaina-s-adventure-in-a-wonder-land-utagawa-sadahide/DwHF55UMRxGDgA"
       },
       {
-        "name": "Fifty-Three Stations of the Tokaido Hoeido Edition “Kanbara (Evening Snow)”",
-        "path": "img/art/artworks/hiroshige-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/fifty-three-stations-of-the-tokaido-hoeido-edition-“kanbara-evening-snow-”-utagawa-hiroshige/CQEfHyVGWJftDA"
+        "name": "Picture of the Newly Opened Port of Yokohama in Kanagawa",
+        "path": "img/art/artworks/sadahide-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/picture-of-the-newly-opened-port-of-yokohama-in-kanagawa-artist-hashimoto-sadahide/vAEv0VfRphZ9EA"
       }
     ],
     "summary": [
-      "Utagawa Hiroshige, born Andō Hiroshige, was a Japanese ukiyo-e artist, considered the last great master of that tradition.",
-      "Hiroshige is best known for his horizontal-format landscape series The Fifty-three Stations of the Tōkaidō and for his vertical-format landscape series One Hundred Famous Views of Edo. The subjects of his work were atypical of the ukiyo-e genre, whose typical focus was on beautiful women, popular actors, and other scenes of the urban pleasure districts of Japan's Edo period. The popular series Thirty-six Views of Mount Fuji by Hokusai was a strong influence on Hiroshige's choice of subject, though Hiroshige's approach was more poetic and ambient than Hokusai's bolder, more formal prints. Subtle use of color was essential in Hiroshige's prints, often printed with multiple impressions in the same area and with extensive use of bokashi, both of which were rather labor-intensive techniques.",
-      "For scholars and collectors, Hiroshige's death marked the beginning of a rapid decline in the ukiyo-e genre, especially in the face of the westernization that followed the Meiji Restoration of 1868."
-    ],
-    "quote": "“I leave my brush in the East And set forth on my journey. I shall see the famous places in the Western Land.”",
-    "movements": ["Ukiyo-e"],
-    "mediums": ["Ink", "Textile", "Silk", "Brocade", "Wood", "Book"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Hiroshige",
-    "urlGoogle": "https://artsandculture.google.com/entity/hiroshige/m07hpgg"
-  },
-  "event": {
-    "id": "1947-1949-palestine-war",
-    "name": "1947–1949 Palestine war",
-    "dates": "Nov 30, 1947 - Jul 20, 1949",
-    "mainImg": "img/events/1947-1949-palestine-war.jpg",
-    "summary": [
-      "The 1947–1949 Palestine war, known in Israel as the War of Independence and in Arabic as The Nakba, was fought in the territory of Palestine under the British Mandate. It is the first war of the Israeli–Palestinian conflict and the broader Arab–Israeli conflict. During this war, the British Empire withdrew from Mandate Palestine, which had been a province of the Ottoman Empire before British occupation in 1917. The war culminated in the establishment of the State of Israel by the Jews, and saw the complete demographic transformation of Palestine, with the displacement of around 700,000 Palestinian Arabs and the complete destruction of most of their villages, towns and cities. The Palestinian Arabs ended up stateless, displaced either to the Palestinian territories captured by Egypt and Jordan or to the surrounding Arab states; many of them, as well as their descendants, remain stateless and in refugee camps."
+      "Utagawa Sadahide, also known as Gountei Sadahide, was a Japanese artist best known for his prints in the ukiyo-e style as a member of the Utagawa school. His prints covered a wide variety of genres; amongst his best known are his Yokohama-e pictures of foreigners in Yokohama in the 1860s, a period when he was a best-selling artist. He was a member of the Tokugawa shogunate's delegation to the International Exposition of 1867 in Paris."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1947%E2%80%931949_Palestine_war",
-    "urlGoogle": "https://artsandculture.google.com/entity/1947–1949-palestine-war/m02r4pf_"
+    "movements": ["Ukiyo-e"],
+    "mediums": ["Ink", "Book", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sadahide",
+    "urlGoogle": "https://artsandculture.google.com/entity/sadahide/m012z23v_"
+  },
+  "event": {
+    "id": "battle-of-hohenlinden",
+    "name": "Battle of Hohenlinden",
+    "dates": null,
+    "mainImg": "img/events/battle-of-hohenlinden.jpg",
+    "summary": [
+      "The Battle of Hohenlinden was fought on 3 December 1800, during the French Revolutionary Wars. A French army under Jean Victor Marie Moreau won a decisive victory over the Austrians and Bavarians led by Archduke John of Austria. After being forced into a disastrous retreat, the allies were compelled to request an armistice that effectively ended the War of the Second Coalition. Hohenlinden is 33 km east of Munich in modern Germany.",
+      "General of Division Moreau's 56,000 strong army engaged some 64,000 Austrians and Bavarians. The Austrians, believing they were pursuing a beaten enemy, moved through heavily wooded terrain in four disconnected columns. Instead, Moreau ambushed the Austrians as they emerged from the Ebersberg forest while launching MG Antoine Richepanse's division in a surprise envelopment of the Austrian left flank. Displaying superb individual initiative, Moreau's generals managed to encircle and smash the largest Austrian column.",
+      "This crushing victory, coupled with First Consul Napoleon Bonaparte's victory at the Battle of Marengo on 14 June 1800, ended the War of the Second Coalition."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Hohenlinden",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-hohenlinden/m014png"
   },
   "funFacts": [
     {
-      "id": "786",
-      "fact": "The brain operates on the same amount of power as a 10-watt light bulb.",
-      "category": ["Anatomy", "Science"]
+      "id": "283",
+      "fact": "A compass needle does not point directly north.",
+      "category": ["Geography"]
     },
     {
-      "id": "442",
-      "fact": "Bees' wings beat about 11,400 times per minute.",
-      "category": ["Animals"]
+      "id": "743",
+      "fact": "A group of geese on the ground is a gaggle, a group of geese in the air is a skein.",
+      "category": ["Animals", "Definitions"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "553638",
-      "fact": "Amelia Earhart and Eleanor Roosevelt once sneaked out of a White House event, commandeered an airplane, and went on a joyride to Baltimore."
-    }
-  ],
+  "funFacts2": [{ "id": "554060", "fact": "Maine is the \u0003U.S. state closest to Africa." }],
   "idiom": {
-    "id": "dog-in-the-manger",
-    "term": "dog in the manger",
-    "definition": "One who prevents others from enjoying something despite having no use for it. For example, *Why be a dog in the manager? If you aren't going to use those tickets, let someone else have them.* This expression alludes to Aesop's fable about a snarling dog that prevents horses from eating fodder that is unpalatable to the dog itself. [Mid-1500s]"
+    "id": "go-to-pot",
+    "term": "go to pot",
+    "definition": "Also, **go to the dogs.** Deteriorate, decline; come to a bad end. For example, *My lawn has gone to pot during the drought,* or *The city schools are going to the dogs.* The first of these colloquial expressions dates from the late 1500s and alludes to inferior pieces of meat being cut up for the stewpot. The second, from the 1600s, alludes to the traditional view of dogs as inferior creatures."
   },
   "person": {
-    "id": "pancho-villa",
-    "name": "Pancho Villa",
-    "dates": "Jun 5, 1878 - Jul 20, 1923",
-    "mainImg": "img/people/pancho-villa.jpg",
+    "id": "marian-spychalski",
+    "name": "Marian Spychalski",
+    "dates": "Dec 6, 1906 - Jun 7, 1980",
+    "mainImg": "img/people/marian-spychalski.jpg",
     "summary": [
-      "Francisco \"Pancho\" Villa was a Mexican revolutionary general and one of the most prominent figures of the Mexican Revolution.",
-      "As commander of the División del Norte, 'Division of the North', in the Constitutionalist Army, he was a military-landowner of the northern Mexican state of Chihuahua. Given the area's size and mineral wealth, it provided him with extensive resources. Villa was provisional governor of Chihuahua in 1913 and 1914. Villa can be credited with decisive military victories leading to the ousting of Victoriano Huerta from the presidency in July 1914. Villa fought his erstwhile leader in the coalition against Huerta, \"First Chief\" of the Constitutionalists Venustiano Carranza. Villa was in alliance with southern revolutionary Emiliano Zapata, who remained fighting in his own region of Morelos. The two revolutionary generals briefly came together to take Mexico City after Carranza's forces retreated from it. Later, Villa's heretofore undefeated División del Norte engaged the military forces of Carranza under Carrancista general Álvaro Obregón and was defeated in the 1915 Battle of Celaya."
-    ],
-    "quote": "“Don't let it end like this. Tell them I said something.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Pancho_Villa",
-    "urlGoogle": "https://artsandculture.google.com/entity/pancho-villa/m012gdw"
-  },
-  "place": {
-    "id": "ames",
-    "name": "Ames",
-    "mainImg": "img/places/ames.jpg",
-    "summary": [
-      "Ames is a city in Story County, Iowa, United States, located approximately 30 miles north of Des Moines in central Iowa. It is best known as the home of Iowa State University, with leading agriculture, design, engineering, and veterinary medicine colleges. A United States Department of Energy national laboratory, Ames Laboratory, is located on the ISU campus.",
-      "In 2019, Ames had a population of 66,258. Iowa State University was home to 33,391 students as of fall 2019, which make up approximately one half of the city's population.",
-      "Ames also hosts United States Department of Agriculture sites: the largest federal animal disease center in the United States, USDA's Agricultural Research Service's National Animal Disease Center., as well as, one of two national USDA sites for the Animal and Plant Health Inspection Service, which comprises the National Veterinary Services Laboratory and the Center for Veterinary Biologics. Ames has the headquarters for the Iowa Department of Transportation.",
-      "In 2010, Ames was ranked ninth on CNNMoney's \"Best Places to Live\" list."
+      "Marian \"Marek\" Spychalski was a Polish architect in pre-war Poland, and later, military commander and communist politician. During World War II he belonged to the communist underground forces operating within Poland and was one of the leaders of the resistance movement Gwardia Ludowa, then Armia Ludowa."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ames,_Iowa",
-    "urlGoogle": "https://artsandculture.google.com/entity/ames/m0nmj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Marian_Spychalski",
+    "urlGoogle": "https://artsandculture.google.com/entity/marian-spychalski/m05rh40"
+  },
+  "place": {
+    "id": "ravenna",
+    "name": "Ravenna",
+    "mainImg": "img/places/ravenna.jpg",
+    "summary": [
+      "Ravenna is the capital city of the Province of Ravenna, in the Emilia-Romagna region of Northern Italy. It was the capital city of the Western Roman Empire from 402 until that empire collapsed in 476. It then served as the capital of the Ostrogothic Kingdom until it was re-conquered in 540 by the Byzantine Empire. Afterwards, the city formed the centre of the Byzantine Exarchate of Ravenna until the invasion of the Lombards in 751, after which it became the seat of the Kingdom of the Lombards.",
+      "Although it is an inland city, Ravenna is connected to the Adriatic Sea by the Candiano Canal. It is known for its well-preserved late Roman and Byzantine architecture, with eight buildings comprising the UNESCO World Heritage Site \"Early Christian Monuments of Ravenna\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ravenna",
+    "urlGoogle": "https://artsandculture.google.com/entity/ravenna/m09b93"
   },
   "wiki": {
-    "id": "new-york-state-route-28",
-    "name": "New York State Route 28",
-    "summary": "New York State Route 28 is a state highway extending for 281.69 miles (453.34 km) in the shape of a \"C\" between the Hudson Valley city of Kingston and southern Warren County in the U.S. state of New York. Along the way, it intersects several major routes, including Interstate 88 (I-88), U.S. Route 20 (US 20), and the New York State Thruway twice. The southern terminus of NY 28 is at NY 32 in Kingston and the northern terminus is US 9 in Warrensburg. NY 28 was originally assigned in 1924 to an alignment extending from Colliersville in the south to Utica in the north via Ilion. From Colliersville to Cooperstown, the highway followed its current routing (excluding minor realignments); north of Cooperstown, NY 28 was routed along several state highways that now have other designations. The route was extended south to Kingston and north to Warrensburg as part of the 1930 renumbering of state highways in New York. At the same time, Route 28 was realigned between Cooperstown and Mohawk to follow its modern routing.",
-    "url": "https://en.wikipedia.org/wiki/New_York_State_Route_28"
+    "id": "cockatoo",
+    "name": "Cockatoo",
+    "summary": "A cockatoo is any of the 21 species belonging to the bird family Cacatuidae. Along with the Psittacoidea (true parrots) and the Strigopoidea (large New Zealand parrots), they make up the parrot order Psittaciformes. Cockatoos are instantly recognisable by their showy crests and curved bills. Their plumage is generally less colourful than that of other parrots, being mainly white, grey, or black, and often with coloured features in the crest, cheeks, or tail. On average they are larger than other parrots. Cockatoos prefer to eat seeds, tubers, corms, fruit, flowers and insects. They often feed in large flocks, particularly when ground-feeding. Cockatoos are monogamous and nest in tree hollows. Some cockatoo species have been adversely affected by habitat loss, particularly from a shortage of suitable nesting hollows after large mature trees are cleared; conversely, some species have adapted well to human changes and are considered agricultural pests. Cockatoos are popular birds in aviculture, but their needs are difficult to cater for. The Cockatiel is the cockatoo species that is easiest to care for and is by far the most frequently kept in captivity.",
+    "url": "https://en.wikipedia.org/wiki/Cockatoo"
   },
   "word": {
-    "id": "nobby",
-    "word": "nobby",
-    "url": "https://www.merriam-webster.com/dictionary/nobby",
-    "partOfSpeech": "adjective",
-    "pronunciation": "NAH-bee",
-    "audioPath": "audio/words/nobby.mp3",
-    "definitions": ["cleverly stylish : chic, smart"],
+    "id": "interdigitate",
+    "word": "interdigitate",
+    "url": "https://www.merriam-webster.com/dictionary/interdigitate",
+    "partOfSpeech": "verb",
+    "pronunciation": "in-ter-DIJ-uh-tayt",
+    "audioPath": "audio/words/interdigitate.mp3",
+    "definitions": ["to become interlocked like the fingers of folded hands"],
     "examples": [
-      "\"\\[Mrs. Vance\\] ... reappeared, stunningly arrayed in a dark-blue walking dress, with a _nobby_ hat to match.\" - From Theodore Dreiser's 1900 novel _Sister Carrie_",
-      "\"This 'Members Only' club was where Chicago's _nobbiest_ \\[people\\] gathered to shut out people who were not like them in order to lead the good life of golf, horses, bathing on a private beach, and social events.\" - From an article by Henry Kisor in the _Chicago Sun-Times_, November 4, 2001"
+      "\"The edges \\[of bridge expansion joints\\] often are shaped like combs, the teeth of one interdigitating with teeth of the other.\" (_The Washington Post_, January 14, 1998)"
     ],
-    "origin": "\"Nobby\" comes from the noun \"nob,\" which is used in British English to mean \"one in a superior position in life.\" (\"Nob\" may have begun as a slang word for \"head,\" but etymologists aren't completely sure. A possible connection to \"noble\" has been suggested as well.) Appearing in English in 1788, \"nobby\" was first used to describe people of strikingly exquisite appearance. It has since extended in usage to describe the places frequented by such people, as well as their genteel customs. Charles Dickens, for example, wrote in Bleak House (1853) of \"\\[r\\]especting this unfortunate family matter, and the nobbiest way of keeping it quiet.\""
+    "origin": "It probably won’t surprise you to learn that \"interdigitate\" comes from the prefix \"inter-,\" as in \"interlock,\" and the Latin word \"digitus,\" meaning \"finger.\" \"Digitus\" also gave us \"digit,\" which is used in English today to refer to (among other things) the finger or toe of any animal. \"Interdigitate\" usually suggests an interlocking of things with fingerlike projections, such as muscle fibers or the teeth of an old-fashioned bear trap. The word can also be used figuratively to imply a smooth interweaving of disparate things, such as the blending of two cultures within a shared region."
   }
 }

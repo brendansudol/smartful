@@ -1,131 +1,130 @@
 {
   "artist": {
-    "id": "ernst-barlach",
-    "name": "Ernst Barlach",
-    "dates": "Jan 2, 1870 - Oct 24, 1938",
-    "mainImg": "img/art/artists/ernst-barlach.jpg",
+    "id": "lygia-clark",
+    "name": "Lygia Clark",
+    "dates": "Oct 23, 1920 - Apr 25, 1988",
+    "mainImg": "img/art/artists/lygia-clark.jpg",
     "artworkImgs": [
       {
-        "name": "Shepherd in a Storm",
-        "path": "img/art/artworks/ernst-barlach-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/shepherd-in-a-storm-ernst-barlach/lQGGEcRDl2icWg"
+        "name": "Planos em superfície modulada no 1",
+        "path": "img/art/artworks/lygia-clark-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/planos-em-superfície-modulada-no-1/DgExR9Ngq_kCuA"
       },
       {
-        "name": "The Singing Man",
-        "path": "img/art/artworks/ernst-barlach-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-singing-man-ernst-barlach/TgG_P1VK_EFIxA"
+        "name": "Bicho - (máquina)",
+        "path": "img/art/artworks/lygia-clark-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/bicho-máquina/4AGadcfkCGxr3w"
       },
       {
-        "name": "The Writing Prophet (Saint John on Patmos)",
-        "path": "img/art/artworks/ernst-barlach-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-writing-prophet-saint-john-on-patmos-ernst-barlach/JQFOXwT9B7Ik7A"
+        "name": "Planos em superfície modulada no. 5",
+        "path": "img/art/artworks/lygia-clark-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/planos-em-superfície-modulada-no-5/FQEJBzYJS4yGzw"
       },
       {
-        "name": "Street in Warsaw",
-        "path": "img/art/artworks/ernst-barlach-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/street-in-warsaw-ernst-barlach/dwGwUg4vwuabjg"
+        "name": "Espaço modulado no. 2",
+        "path": "img/art/artworks/lygia-clark-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/espaço-modulado-no-2/VgEX2r56Prx0ZQ"
       },
       {
-        "name": "The First Day",
-        "path": "img/art/artworks/ernst-barlach-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-first-day-ernst-barlach/kQFZkNFxJgYOMA"
+        "name": "Trepante",
+        "path": "img/art/artworks/lygia-clark-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/trepante/bQHvZSSZuR-eeA"
       },
       {
-        "name": "The Raging Barbarian",
-        "path": "img/art/artworks/ernst-barlach-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-raging-barbarian-ernst-barlach/EgHeg6bW70ju8A"
+        "name": "Ovo",
+        "path": "img/art/artworks/lygia-clark-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/ovo/kwHeEL33sBPdMg"
       }
     ],
     "summary": [
-      "Ernst Barlach was a German expressionist sculptor, printmaker and writer. Although he was a supporter of the war in the years leading to World War I, his participation in the war made him change his position, and he is mostly known for his sculptures protesting against the war. This created many conflicts during the rise of the Nazi Party, when most of his works were confiscated as degenerate art."
+      "Lygia Pimentel Lins, better known as Lygia Clark, was a Brazilian artist best known for her painting and installation work. She was often associated with the Brazilian Constructivist movements of the mid-20th century and the Tropicalia movement. Along with Brazilian artists Amilcar de Castro, Franz Weissmann, Lygia Pape and poet Ferreira Gullar, Clark co-founded the Neo-Concrete movement. Throughout her career, Clark discovered ways for museum-goers to interact with her art works. She sought to redefine the relationship between art and society. Clark's works dealt with inner life and feelings."
     ],
     "quote": null,
-    "movements": ["Expressionism", "German Expressionism"],
-    "mediums": ["Bronze", "Ink", "Metal", "Graphite", "Sculpture", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Ernst_Barlach",
-    "urlGoogle": "https://artsandculture.google.com/entity/ernst-barlach/m03c8k6"
+    "movements": ["Contemporary art", "Modern art", "Constructivism"],
+    "mediums": ["Wood", "Metal", "Sculpture", "Iron", "Steel", "Stainless steel"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lygia_Clark",
+    "urlGoogle": "https://artsandculture.google.com/entity/lygia-clark/m0b7lmj"
   },
   "event": {
-    "id": "battle-of-inkerman",
-    "name": "Battle of Inkerman",
-    "dates": null,
-    "mainImg": "img/events/battle-of-inkerman.jpg",
+    "id": "northeastern-united-states-blizzard-of-1978",
+    "name": "Northeastern United States blizzard of 1978",
+    "dates": "Feb 5, 1978",
+    "mainImg": "img/events/northeastern-united-states-blizzard-of-1978.jpg",
     "summary": [
-      "The Battle of Inkerman was fought during the Crimean War on 5 November 1854 between the allied armies of Britain, France and Ottoman Empire against the Imperial Russian Army. The battle broke the will of the Russian Army to defeat the allies in the field, and was followed by the Siege of Sevastopol. The role of troops fighting mostly on their own initiative due to the foggy conditions during the battle has earned the engagement the name \"The Soldier's Battle\"."
+      "The Northeastern United States blizzard of 1978 was a catastrophic, historic nor'easter that struck New England, New Jersey, and the New York metropolitan area. The Blizzard of '78 formed on Sunday, February 5, 1978, and broke up on February 7. The storm was primarily known as \"Storm Larry\" in Connecticut, following the local convention promoted by the Travelers Weather Service on television and radio stations there. Snow fell mostly from Monday morning, February 6, to the evening of Tuesday, February 7. Connecticut, Rhode Island, and Massachusetts were hit especially hard by this storm.",
+      "Boston received a record-breaking 27.1 inches of snow; Providence also broke a record, with 27.6 inches of snow; Atlantic City broke an all-time storm accumulation, with 20.1 inches. Nearly all economic activity was disrupted in the worst-hit areas. The storm killed about 100 people in the Northeast and injured about 4,500. It caused more than US$520 million in damage."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Inkerman",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-inkerman/m014pp7"
+    "urlWiki": "https://en.wikipedia.org/wiki/Northeastern_United_States_blizzard_of_1978",
+    "urlGoogle": "https://artsandculture.google.com/entity/northeastern-united-states-blizzard-of-1978/m029_nz"
   },
   "funFacts": [
     {
-      "id": "319",
-      "fact": "The name for the space between your eyebrows is \"nasion.\"",
-      "category": ["Anatomy", "Definitions"]
+      "id": "126",
+      "fact": "A pigeon's feathers are heavier than its bones.",
+      "category": ["Animals"]
     },
     {
-      "id": "327",
-      "fact": "Chewing gum was invented in New York City in 1870 by Thomas Adams.",
-      "category": ["Food", "History"]
+      "id": "165",
+      "fact": "Your eye expands up to 45% when looking at something pleasing.",
+      "category": ["Anatomy"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553804",
-      "fact": "Sweden is so efficient, only one percent of its garbage ends up in a landfill."
+      "id": "553837",
+      "fact": "Born in 1844, Edmonia Lewis became one of the first African American artists to earn international acclaim. She sculpted marble busts of abolitionists like Henry Wadsworth Longfellow and Horace Greeley, and her patrons included President Ulysses S. Grant."
     }
   ],
   "idiom": {
-    "id": "cold-turkey",
-    "term": "cold turkey",
-    "definition": "Immediate, complete withdrawal from something, especially an addictive substance; also, without planning or preparation. For example, *My bad shoulder forced me to quit playing tennis cold turkey,* or *I'd never done any rock climbing, but decided to try it cold turkey.* This term may have come from the earlier expression **talk turkey** (for blunt speaking). At first used strictly for abrupt withdrawal from drugs or alcohol, it soon was transferred to quitting any habit or activity. [Early 1900s]"
+    "id": "the-game-is-not-worth-the-candle",
+    "term": "the game is not worth the candle",
+    "definition": "The returns from an activity or enterprise do not warrant the time, money or effort required. For example, *The office he is running for is so unimportant that the game's not worth the candle.* This expression, which began as a translation of a term used by the French essayist Michel de Montaigne in 1580, alludes to gambling by candlelight, which involved the expense of illumination. If the winnings were not sufficient, they did not warrant the expense. Used figuratively, it was a proverb within a century."
   },
   "person": {
-    "id": "manuel-i-komnenos",
-    "name": "Manuel I Komnenos",
-    "dates": "Nov 28, 1118 - Sep 24, 1180",
-    "mainImg": "img/people/manuel-i-komnenos.jpg",
+    "id": "julian-huxley",
+    "name": "Julian Huxley",
+    "dates": "Jun 22, 1887 - Feb 14, 1975",
+    "mainImg": "img/people/julian-huxley.jpg",
     "summary": [
-      "Manuel I Komnenos or Comnenus, also known as Manuel Porphyrogennetos, \"born in the purple\" was a Byzantine Emperor of the 12th century who reigned over a crucial turning point in the history of Byzantium and the Mediterranean. His reign saw the last flowering of the Komnenian restoration, during which the Byzantine Empire had seen a resurgence of its military and economic power, and had enjoyed a cultural revival.",
-      "Eager to restore his empire to its past glories as the superpower of the Mediterranean world, Manuel pursued an energetic and ambitious foreign policy. In the process he made alliances with the Pope and the resurgent West. He invaded the Norman Kingdom of Sicily, although unsuccessfully, being the last Eastern Roman Emperor to attempt reconquests in the western Mediterranean. The passage of the potentially dangerous Second Crusade through his empire was adroitly managed. Manuel established a Byzantine protectorate over the Crusader states of Outremer. Facing Muslim advances in the Holy Land, he made common cause with the Kingdom of Jerusalem and participated in a combined invasion of Fatimid Egypt."
+      "Sir Julian Sorell Huxley FRS was an English evolutionary biologist, eugenicist, and internationalist. He was a proponent of natural selection, and a leading figure in the mid-twentieth century modern synthesis. He was secretary of the Zoological Society of London, the first Director of UNESCO, a founding member of the World Wildlife Fund and the first President of the British Humanist Association.",
+      "Huxley was well known for his presentation of science in books and articles, and on radio and television. He directed an Oscar-winning wildlife film. He was awarded UNESCO's Kalinga Prize for the popularisation of science in 1953, the Darwin Medal of the Royal Society in 1956, and the Darwin–Wallace Medal of the Linnaean Society in 1958. He was also knighted in that same year, 1958, a hundred years after Charles Darwin and Alfred Russel Wallace announced the theory of evolution by natural selection. In 1959 he received a Special Award of the Lasker Foundation in the category Planned Parenthood – World Population. Huxley was a prominent member of the British Eugenics Society and was its president from 1959 to 1962."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Manuel_I_Komnenos",
-    "urlGoogle": "https://artsandculture.google.com/entity/manuel-i-komnenos/m0c6lt"
+    "quote": "“Operationally, God is beginning to resemble not a ruler but the last fading smile of a cosmic Cheshire cat.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Julian_Huxley",
+    "urlGoogle": "https://artsandculture.google.com/entity/julian-huxley/m012km4"
   },
   "place": {
-    "id": "white-plains",
-    "name": "White Plains",
-    "mainImg": "img/places/white-plains.jpg",
+    "id": "guatemala",
+    "name": "Guatemala",
+    "mainImg": "img/places/guatemala.jpg",
     "summary": [
-      "White Plains is a city in Westchester County, New York, United States. An inner suburb of New York City, it is the county seat and commercial hub of Westchester, a densely populated suburban county that is home to approximately one million people. White Plains is located in south-central Westchester, with its downtown 25 miles north of Midtown Manhattan.",
-      "As of 2019, the city's total population was estimated to be 58,109, up from 56,853 at the 2010 census. According to the city government, the daytime weekday population is estimated at 250,000. The city was ranked third in the top 10 places to live in New York for 2014, according to national online real estate brokerage Movoto."
+      "Guatemala, officially the Republic of Guatemala, is a country in Central America bordered by Mexico to the north and west, Belize and the Caribbean to the northeast, Honduras to the east, El Salvador to the southeast and the Pacific Ocean to the south. With an estimated population of around 17.2 million, it is the most populous country in Central America. Guatemala is a representative democracy; its capital and largest city is Nueva Guatemala de la Asunción, also known as Guatemala City.",
+      "The territory of modern Guatemala once formed the core of the Maya civilization, which extended across Mesoamerica. Most of the country was conquered by the Spanish in the 16th century, becoming part of the viceroyalty of New Spain. Guatemala attained independence in 1821 as part of the Federal Republic of Central America, which dissolved by 1841.",
+      "From the mid- to late-19th century, Guatemala experienced chronic instability and civil strife. Beginning in the early 20th century, it was ruled by a series of dictators backed by the United Fruit Company and the United States government."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/White_Plains,_New_York",
-    "urlGoogle": "https://artsandculture.google.com/entity/white-plains/m0ycht"
+    "urlWiki": "https://en.wikipedia.org/wiki/Guatemala",
+    "urlGoogle": "https://artsandculture.google.com/entity/guatemala/m0345_"
   },
   "wiki": {
-    "id": "thomcord",
-    "name": "Thomcord",
-    "summary": "Thomcord is a seedless table grape variety and a hybrid of the popular Thompson Seedless or Sultanina grape (a Vitis vinifera variety) and Concord grape (a Vitis labrusca variety). Thomcord was developed in 1983 by Californian grape breeders working for the Agricultural Research Service (ARS), an agency of the United States Department of Agriculture (USDA), as part of a test to better understand a new seedless grape breeding procedure. Its aromatic, \"labrusca\" flavor is similar to that of Concord, but mellowed by the mild, sweet taste from Thompson Seedless. Thomcord grows well in hot, dry climates, ripens between late July and mid-August, and is tolerant to powdery mildew. It is a productive variety, yielding an average of 15.1 kg (33 lb) of grapes per vine. The plant is not restricted for propagation and distribution. Virus-free propagation material is available from the Foundation Plant Services (FPS) at the University of California, Davis, and its genetic material is archived at the National Plant Germplasm System. After 17 years of testing, it was declared ready for use in 2003. It is expected to appear in supermarkets, possibly as a specialty item.",
-    "url": "https://en.wikipedia.org/wiki/Thomcord"
+    "id": "julia-stiles",
+    "name": "Julia Stiles",
+    "summary": "Julia Stiles is an American stage and screen actress, hailed as \"the thinking teenagers' movie goddess\" by a New York Times critic. After beginning her theater career in small parts, she has moved on to leading roles in plays by writers as diverse as William Shakespeare and David Mamet; her film career has been both a commercial and critical success, ranging from teen romantic comedies such as 10 Things I Hate About You (1999) to dark art house pictures such as The Business of Strangers (2001). When Stiles isn't working she actively supports a variety of progressive and liberal issues.",
+    "url": "https://en.wikipedia.org/wiki/Julia_Stiles"
   },
   "word": {
-    "id": "precipitate",
-    "word": "precipitate",
-    "url": "https://www.merriam-webster.com/dictionary/precipitate",
-    "partOfSpeech": "adjective",
-    "pronunciation": "prih-SIP-uh-tut",
-    "audioPath": "audio/words/precipitate.mp3",
-    "definitions": [
-      "falling, flowing, or rushing with steep descent b: precipitous, steep",
-      "exhibiting violent or unwise speed"
-    ],
+    "id": "bouleversement",
+    "word": "bouleversement",
+    "url": "https://www.merriam-webster.com/dictionary/bouleversement",
+    "partOfSpeech": "noun",
+    "pronunciation": "bool-vair-suh-MAHNG",
+    "audioPath": "audio/words/bouleversement.mp3",
+    "definitions": ["reversal", "a violent disturbance : disorder"],
     "examples": [
-      "Our _precipitate_ decision to invest in the company proved unwise.",
-      "\"'The South Korean government recognises that a _precipitate_ change in the North would present it with immense problems,' says Crisis Group's Asia Program Director, Robert Templer.\" -- From an article in the _State News Service_, July 14, 2011"
+      "The darkening sky prompted a _bouleversement_ of the captain's order to prepare to set sail.",
+      "\"In fact, \\[Susan Sontag\\] had written two novels at the beginning of her career, in the sixties. She didn't like them much, so she became a critic, indeed, the most famous and influential young critic of the sixties and seventies, a central figure in the aesthetic _bouleversement_ of that period.…\" - Joan Acocella, _The New Yorker_, January 10, 2005"
     ],
-    "origin": "Many people, including usage commentators, are insistent about keeping the adjectives \"precipitate\" and \"precipitous\" distinct. \"Precipitate,\" they say, means \"headlong\" or \"impetuous\"; \"precipitous\" means only \"steep.\" And, indeed, \"precipitate\" is used mostly in the \"headlong\" sense, whereas \"precipitous\" usually means \"steep.\" But one shouldn't be too hasty about insisting on the distinction. The truth is that \"precipitate\" and \"precipitous\" have had a tendency to overlap for centuries. Lexicographer Samuel Johnson, in his dictionary of 1755, defined \"precipitate\" as \"steeply falling,\" \"headlong,\" and \"hasty,\" while \"precipitous\" was \"headlong; steep,\" and \"hasty.\" Noah Webster's 1828 dictionary included much the same definitions. The words' etymologies overlap as well. Both ultimately come from Latin \"praeceps,\" which means \"headlong.\""
+    "origin": "English picked up _bouleversement_ from French in the latter part of the 18th century (it ultimately traces to Middle French _boule_, meaning \"ball,\" and _verser_, meaning \"to overturn\"), and while not very common, it has steadily remained in use since that time. F. Scott Fitzgerald, for one, used it in his 1920 novel _This Side of Paradise_: \"For the second time in his life Amory had had a complete bouleversement and was hurrying into line with his generation.\" Both Fitzgerald's use and our first example sentence suggest the idea of turning something around, but as shown in our second example, some usage of _bouleversement_ dispenses with this notion and instead implies a general kind of upheaval or dramatic change, as in a revolution."
   }
 }

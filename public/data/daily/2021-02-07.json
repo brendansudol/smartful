@@ -1,137 +1,137 @@
 {
   "artist": {
-    "id": "gilbert-stuart",
-    "name": "Gilbert Stuart",
-    "dates": "Dec 3, 1755 - Jul 9, 1828",
-    "mainImg": "img/art/artists/gilbert-stuart.jpg",
+    "id": "jon-rafman",
+    "name": "Jon Rafman",
+    "dates": "Born November 1981",
+    "mainImg": "img/art/artists/jon-rafman.jpg",
     "artworkImgs": [
       {
-        "name": "George Washington (Lansdowne Portrait)",
-        "path": "img/art/artworks/gilbert-stuart-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/george-washington-lansdowne-portrait-gilbert-stuart/UQGc8QlQ1ML0kA"
+        "name": "Neon Parallel 1996",
+        "path": "img/art/artworks/jon-rafman-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/neon-parallel-1996-jon-rafman/QAEQ_YH-EN8Rng"
       },
       {
-        "name": "George Washington (The Athenaeum Portrait)",
-        "path": "img/art/artworks/gilbert-stuart-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/george-washington-the-athenaeum-portrait-gilbert-stuart/HgHLrT8wBuO28w"
+        "name": "Brand New Paint Job (Cézanne Train Car)",
+        "path": "img/art/artworks/jon-rafman-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/brand-new-paint-job-cézanne-train-car/BQEbJvyE2TBxOQ"
       },
       {
-        "name": "John Adams",
-        "path": "img/art/artworks/gilbert-stuart-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/john-adams-gilbert-stuart/-QGuHYwHmRo0Ag"
+        "name": "Jon Rafman, Nine Eyes of Google Street View (DC55, Ilfov, Romania)",
+        "path": "img/art/artworks/jon-rafman-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/jon-rafman-nine-eyes-of-google-street-view-dc55-ilfov-romania/lQFys7UACq9Xog"
       },
       {
-        "name": "George Washington [The Constable-Hamilton Portrait]",
-        "path": "img/art/artworks/gilbert-stuart-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/george-washington-the-constable-hamilton-portrait-gilbert-stuart/TAGXVWAeoGDUaA"
+        "name": "Jon Rafman, Nine Eyes of Google Street View (River Rd, Castelton-On-Hudson, New York)",
+        "path": "img/art/artworks/jon-rafman-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/jon-rafman-nine-eyes-of-google-street-view-river-rd-castelton-on-hudson-new-york/JAEFK8h7Z2yTXQ"
       },
       {
-        "name": "James Monroe",
-        "path": "img/art/artworks/gilbert-stuart-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/james-monroe-gilbert-stuart/9wHEcY50qJWMaA"
+        "name": "Brand New Paint Job (Emily Carr Master Bedroom)",
+        "path": "img/art/artworks/jon-rafman-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/brand-new-paint-job-emily-carr-master-bedroom/fwFN0WGWG-oCKw"
       },
       {
-        "name": "James Madison",
-        "path": "img/art/artworks/gilbert-stuart-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/james-madison-gilbert-stuart/xwGDitnj2DS_FA"
+        "name": "Jon Rafman, Nine Eyes of Google Street View (Rua João Robalo, Rua João Rodrigues do Nascimento, Ve. Quatro, São Paulo, Brasile)",
+        "path": "img/art/artworks/jon-rafman-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/jon-rafman-nine-eyes-of-google-street-view-rua-joão-robalo-rua-joão-rodrigues-do-nascimento-ve-quatro-são-paulo-brasile/QQG4EkQ8lECm8Q"
       }
     ],
     "summary": [
-      "Gilbert Charles Stuart was an American painter from Rhode Island Colony who is widely considered one of America's foremost portraitists. His best known work is the unfinished portrait of George Washington, begun in 1796, that is sometimes referred to as the Athenaeum Portrait. Stuart retained the portrait and used it to paint scores of copies that were commissioned by patrons in America and abroad. The image of George Washington featured in the painting has appeared on the United States one-dollar bill for more than a century and on various postage stamps of the 19th century and early 20th century.",
-      "Stuart produced portraits of more than 1,000 people, including the first six Presidents. His work can be found today at art museums throughout the United States and the United Kingdom, most notably the Metropolitan Museum of Art and Frick Collection in New York City, the National Gallery of Art in Washington, D.C., the National Portrait Gallery, London, Worcester Art Museum in Massachusetts, and the Museum of Fine Arts, Boston."
+      "Jon Rafman is an artist, filmmaker, and essayist. His work centers around the emotional, social and existential impact of technology on contemporary life. His artwork has gained international attention and was exhibited in 2015 at Musée d'art contemporain de Montréal. He is widely known for exhibiting found images from Google Street View in his online artwork 9-Eyes."
     ],
     "quote": null,
-    "movements": ["Neoclassicism", "Academic art"],
-    "mediums": ["Oil paint", "Wood", "Engraving", "Etching", "Sanguine", "Chalk"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Gilbert_Stuart",
-    "urlGoogle": "https://artsandculture.google.com/entity/gilbert-stuart/m01xwn8"
+    "movements": [],
+    "mediums": ["Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jon_Rafman",
+    "urlGoogle": "https://artsandculture.google.com/entity/jon-rafman/m0kfx90s"
   },
   "event": {
-    "id": "poor-peoples-campaign",
-    "name": "Poor People's Campaign",
-    "dates": "1968 - June 1968",
-    "mainImg": "img/events/poor-peoples-campaign.jpg",
+    "id": "operation-tempest",
+    "name": "Operation Tempest",
+    "dates": "1943 - 1945",
+    "mainImg": "img/events/operation-tempest.jpg",
     "summary": [
-      "The Poor People's Campaign, or Poor People's March on Washington, was a 1968 effort to gain economic justice for poor people in the United States. It was organized by Martin Luther King, Jr. and the Southern Christian Leadership Conference, and carried out under the leadership of Ralph Abernathy in the wake of King's assassination.",
-      "The campaign demanded economic and human rights for poor Americans of diverse backgrounds. After presenting an organized set of demands to Congress and executive agencies, participants set up a 3,000-person protest camp on the Washington Mall, where they stayed for six weeks in the spring of 1968.",
-      "The Poor People's Campaign was motivated by a desire for economic justice: the idea that all people should have what they need to live. King and the SCLC shifted their focus to these issues after observing that gains in civil rights had not improved the material conditions of life for many African Americans. The Poor People's Campaign was a multiracial effort—including African Americans, white Americans, Asian Americans, Hispanic Americans, and Native Americans—aimed at alleviating poverty regardless of race."
+      "Operation Tempest was a series of anti-Nazi uprisings conducted during World War II by the Polish Home Army, the dominant force in the Polish resistance.",
+      "Operation Tempest was aimed at seizing control of cities and areas occupied by the Germans while they were preparing their defenses against the advancing Soviet Red Army. Polish underground civil authorities aimed at taking power before the arrival of the Soviets."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Poor_People%27s_Campaign",
-    "urlGoogle": "https://artsandculture.google.com/entity/poor-people-s-campaign/m09w4rs"
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Tempest",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-tempest/m02_cch"
   },
   "funFacts": [
     {
-      "id": "457",
-      "fact": "The first traffic light was in use in London in 1868, before the advent of cars.",
+      "id": "197",
+      "fact": "The first person crossed Niagara Falls by tightrope in 1859.",
       "category": ["Firsts"]
     },
     {
-      "id": "153",
-      "fact": "The speed limit in NYC was eight mph in 1895.",
-      "category": ["Geography", "History"]
+      "id": "769",
+      "fact": "If a sheep and a goat mate the offspring is called a geep.",
+      "category": ["Animals", "Definitions"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553536",
-      "fact": "The first Hershey’s chocolate bars with almonds were produced in 1908 because they were cheap to make. The nuts took the place of some of the more expensive milk chocolate, which meant Hershey’s could keep the price of the candy at a nickel."
+      "id": "527095",
+      "fact": "In 1939, Hitler's nephew wrote an article called \"Why I Hate My Uncle.\" He came to the U.S., served in the Navy, and settled on Long Island."
     }
   ],
   "idiom": {
-    "id": "not-have-a-bean",
-    "term": "not have a bean",
-    "definition": "Be destitute or penniless, as in *He doesn't have a bean, but she's set on marrying him. Bean* has been a slang term for a guinea or a sovereign coin since the early 1800s. The precise expression was first recorded in 1928."
+    "id": "johnny-come-lately",
+    "term": "Johnny-come-lately",
+    "definition": "A newcomer, as in *She may be a Johnny-come-lately on the board, but she's doing a fine job with publicity.* [1830s]"
   },
   "person": {
-    "id": "harold-alexander-1-st-earl-alexander-of-tunis",
-    "name": "Harold Alexander, 1st Earl Alexander of Tunis",
-    "dates": "Dec 10, 1891 - Jun 16, 1969",
-    "mainImg": "img/people/harold-alexander-1-st-earl-alexander-of-tunis.jpg",
+    "id": "amin-al-husseini",
+    "name": "Amin al-Husseini",
+    "dates": "1895 - Jul 4, 1974",
+    "mainImg": "img/people/amin-al-husseini.jpg",
     "summary": [
-      "Field Marshal Harold Rupert Leofric George Alexander, 1st Earl Alexander of Tunis, KG, GCB, OM, GCMG, CSI, DSO, MC, CD, PC, PC was a senior British Army officer who served with distinction in both the First World War and the Second World War and, afterwards, as Governor General of Canada, the 17th since Canadian Confederation.",
-      "Alexander was born in London, England, to aristocratic parents and was educated at Harrow before moving on to the Royal Military College, Sandhurst, for training as an army officer of the Irish Guards. He rose to prominence through his service in the First World War, receiving numerous honours and decorations, and continued his military career through various British campaigns across Europe and Asia. In World War II, Alexander oversaw the final stages of the Allied evacuation from Dunkirk and subsequently held high-ranking field commands in Burma, North Africa and Italy, including serving as Commander-in-Chief Middle East and commanding the 18th Army Group in Tunisia. He then commanded the 15th Army Group for the capture of Sicily and again in Italy before receiving his field marshal's baton and being made Supreme Allied Commander Mediterranean."
+      "Mohammed Amin al-Husseini was a Palestinian Arab nationalist and Muslim leader in Mandatory Palestine.",
+      "Al-Husseini was the scion of a family of Jerusalemite Arab notables, who trace their origins to the eponymous grandson of Muhammad. After receiving an education in Islamic, Ottoman, and Catholic schools, he went on to serve in the Ottoman army in World War I. At war's end he stationed himself in Damascus as a supporter of the Arab Kingdom of Syria. Following the Franco-Syrian War and the collapse of Arab Hashemite rule in Damascus, his early position on pan-Arabism shifted to a form of local nationalism for Palestinian Arabs and he moved back to Jerusalem. From as early as 1920 he actively opposed Zionism, and was implicated as a leader of the 1920 Nebi Musa riots. Al-Husseini was sentenced to ten years' imprisonment for incitement but was pardoned by the British. In 1921, Herbert Samuel, the British High Commissioner appointed him Grand Mufti of Jerusalem, a position he used to promote Islam while rallying a non-confessional Arab nationalism against Zionism. During the period 1921–1936 he was wrongly considered an important ally by the British Mandatory authorities."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Harold_Alexander,_1st_Earl_Alexander_of_Tunis",
-    "urlGoogle": "https://artsandculture.google.com/entity/harold-alexander-1st-earl-alexander-of-tunis/m03r8l"
+    "urlWiki": "https://en.wikipedia.org/wiki/Amin_al-Husseini",
+    "urlGoogle": "https://artsandculture.google.com/entity/amin-al-husseini/m01czvz"
   },
   "place": {
-    "id": "quito",
-    "name": "Quito",
-    "mainImg": "img/places/quito.jpg",
+    "id": "macon",
+    "name": "Macon",
+    "mainImg": "img/places/macon.jpg",
     "summary": [
-      "Quito is the capital of Ecuador, the country's most populous city, and at an elevation of 2,850 metres above sea level, it is the second-highest official capital city in the world, after La Paz, and the closest to the equator. It is located in the Guayllabamba river basin, on the eastern slopes of Pichincha, an active stratovolcano in the Andes Mountains.",
-      "In 2008, the city was designated as the headquarters of the Union of South American Nations.",
-      "The historic centre of Quito is one of the largest, least-altered and best-preserved in the Americas. Quito and Kraków, Poland, were the first World Cultural Heritage Sites declared by UNESCO, in 1978. The central square of Quito is located about 25 kilometres south of the equator; the city itself extends to within about 1 kilometre of zero latitude. A monument and museum marking the general location of the equator is known locally as la mitad del mundo, to avoid confusion, as the word Ecuador is Spanish for equator."
+      "Macon, officially Macon–Bibb County, is a consolidated city-county in the U.S. state of Georgia. Macon lies near the state's geographic center, about 85 miles southeast of Atlanta—hence the city's nickname, \"The Heart of Georgia\".",
+      "Located near the fall line of the Ocmulgee River, Macon had a 2019 estimated population of 153,159. It is the principal city of the Macon Metropolitan Statistical Area, which had an estimated population of 228,914 in 2017. Macon is also the largest city in the Macon–Warner Robins Combined Statistical Area, a larger trading area with an estimated 420,693 residents in 2017; the CSA abuts the Atlanta metropolitan area just to the north.",
+      "In a 2012 referendum, voters approved the consolidation of the governments of the City of Macon and Bibb County, and Macon became Georgia's fourth-largest city. The two governments officially merged on January 1, 2014.",
+      "Macon is served by three interstate highways: I-16, I-75, and I-475.",
+      "The city has several institutions of higher education, as well as numerous museums and tourism sites. The area is served by Middle Georgia Regional Airport and Herbert Smart Downtown Airport."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Quito",
-    "urlGoogle": "https://artsandculture.google.com/entity/quito/m01dtq1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Macon,_Georgia",
+    "urlGoogle": "https://artsandculture.google.com/entity/macon/m0rt80"
   },
   "quote": {
-    "id": "59",
-    "quote": "Some men see things as they are and ask why. Others dream things that never were and ask why not.",
-    "author": "George Bernard Shaw"
+    "id": "94",
+    "quote": "Someone is sitting in the shade today because someone planted a tree a long time ago.",
+    "author": "Warren Buffett"
   },
   "wiki": {
-    "id": "toru-takemitsu",
-    "name": "Tōru Takemitsu",
-    "summary": "Tōru Takemitsu (1930–1996) was a Japanese composer and writer on aesthetics and music theory. Though largely self-taught, Takemitsu is recognised for his skill in the subtle manipulation of instrumental and orchestral timbre, drawing from a wide range of influences, including jazz, popular music, avant-garde procedures and traditional Japanese music, in a harmonic idiom largely derived from the music of Claude Debussy and Olivier Messiaen. In 1958, he received international attention for his Requiem for strings which resulted in several commissions from across the world, and settled his reputation as the leading Japanese composer of the 20th century. He was the recipient of numerous awards, commissions and honours; he composed over 100 film scores and about 130 concert works for ensembles of various sizes and combinations. He also found time to write a detective novel and appeared frequently on Japanese television as a celebrity chef. In the foreword to a selection of Takemitsu's writings in English, conductor Seiji Ozawa writes: \"I am very proud of my friend Tōru Takemitsu. He is the first Japanese composer to write for a world audience and achieve international recognition.\"",
-    "url": "https://en.wikipedia.org/wiki/T%C5%8Dru_Takemitsu"
+    "id": "geography-of-ireland",
+    "name": "Geography of Ireland",
+    "summary": "The geography of Ireland reflects its situation as an island in northwest Europe in the north Atlantic Ocean. The ocean is responsible for the rugged western coastline, along which are many islands, peninsulas and headlands. The main geographical feature of Ireland is low central plains surrounded by a ring of coastal mountains. There are a number of sizable lakes along Ireland's rivers, with Lough Neagh the largest in either Britain or Ireland. The island is bisected by the River Shannon, at 259 km (161 mi) with a 113 km (70 mi) estuary the longest river in either Britain or Ireland, which flows south from northwest County Cavan to meet the Atlantic just south of Limerick. The island of Ireland consists of the Republic of Ireland and Northern Ireland. Located west of the island of Britain, it is approximately 53° north of the equator and 8° west of the Greenwich meridian. It has a total area of 84,116 km² (32,477 mi²). Ireland is separated from Britain by the Irish Sea and from mainland Europe by the Celtic Sea.",
+    "url": "https://en.wikipedia.org/wiki/Geography_of_Ireland"
   },
   "word": {
-    "id": "contrite",
-    "word": "contrite",
-    "url": "https://www.merriam-webster.com/dictionary/contrite",
+    "id": "antebellum",
+    "word": "antebellum",
+    "url": "https://www.merriam-webster.com/dictionary/antebellum",
     "partOfSpeech": "adjective",
-    "pronunciation": "kun-TRYTE",
-    "audioPath": "audio/words/contrite.mp3",
-    "definitions": ["feeling or showing sorrow and remorse for a sin or shortcoming"],
+    "pronunciation": "an-tih-BEL-um",
+    "audioPath": "audio/words/antebellum.mp3",
+    "definitions": ["existing before a war; especially : existing before the Civil War"],
     "examples": [
-      "Mom finally let Jamie off the hook for the prank when she believed he understood why she was angry and was truly _contrite_.",
-      "\"A _contrite_, clean-shaven Joaquin Phoenix returned to David Letterman and his 'Late Show' last night to confirm that his February 2009 dead man walking appearance was in fact a stunt. He apologized, and Letterman -- who seemed to suggest that he was not in on the ruse -- happily accepted the apology.\" -- From an article by Verne Gay in _Newsday_ (New York), September 23, 2010"
+      "A guided tour through this old Mississippi mansion, built in the early 1800s, gives you an idea of what life was like in the _antebellum_ South.",
+      "\"From the windows of Laurel Hill, one of eight _antebellum_ homes and businesses among the 11 sites on the 2014 Tour of Homes in Franklin, Tenn., women watched the brave advance of Confederate troops in November 1864….\" - Kay Campbell, AL.com, May 12, 2014"
     ],
-    "origin": "A person who is contrite may have rubbed someone the wrong way and caused bruised feelings -- and there is a hint about the origins of the word in that thought. \"Contrite\" came to English by way of Anglo-French from the Latin verb \"conterere,\" meaning \"to grind\" or \"to bruise.\" \"Conterere,\" in turn, was formed by combining the prefix \"com-\" and \"terere,\" meaning \"to rub.\" If you've guessed that \"trite\" is a cousin of \"contrite\" (through \"terere\"), you are correct. Other \"terere\" descendants in English include \"detriment\" and \"tribulation,\" and very possibly the familiar verb \"try.\""
+    "origin": "\"Antebellum\" means \"before the war,\" but it wasn’t widely associated with the U.S. Civil War (1861-1865) until after that conflict was over. The word comes from the Latin phrase \"ante bellum\" (literally, \"before the war\"), and its earliest known print appearance in English dates back to the 1840s. The term's earliest known association with the Civil War is found in an 1862 diary entry: \"Her face was as placid and unmoved as in antebellum days.\" The author of that line, Mary Boykin Miller Chesnut, recorded her observations of life during the Civil War in _A Diary from Dixie_, often while accompanying her husband, an officer in the Confederate army, on his missions."
   }
 }

@@ -1,138 +1,133 @@
 {
   "artist": {
-    "id": "jan-gossaert",
-    "name": "Jan Gossaert",
-    "dates": "1478 - Oct 1, 1532",
-    "mainImg": "img/art/artists/jan-gossaert.jpg",
+    "id": "rirkrit-tiravanija",
+    "name": "Rirkrit Tiravanija",
+    "dates": "Born Jul 21, 1961",
+    "mainImg": "img/art/artists/rirkrit-tiravanija.jpg",
     "artworkImgs": [
       {
-        "name": "Neptune and Amphitrite",
-        "path": "img/art/artworks/jan-gossaert-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/neptune-and-amphitrite-jan-gossaert/ygGkVB3vs9HNHw"
+        "name": "Untitled (Free/Still)",
+        "path": "img/art/artworks/rirkrit-tiravanija-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-free-still-rirkrit-tiravanija/FwH6NGFAt1tmDw"
       },
       {
-        "name": "St. Luke Painting the Madonna",
-        "path": "img/art/artworks/jan-gossaert-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/st-luke-painting-the-madonna-jan-gossaert/XQHwwliRRSGg4A"
+        "name": "Untitled (state du miroir / the mirror stage), 2 0 1 9",
+        "path": "img/art/artworks/rirkrit-tiravanija-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-state-du-miroir-the-mirror-stage-2-0-1-9-rirkrit-tiravanija/SgFHuFwAmrn6dA"
       },
       {
-        "name": "The Adoration of the Kings",
-        "path": "img/art/artworks/jan-gossaert-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-adoration-of-the-kings-jan-gossaert-jean-gossart/ZAH0NZQjEZrIWg"
+        "name": "Demonstration Drawings",
+        "path": "img/art/artworks/rirkrit-tiravanija-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/demonstration-drawings-rirkrit-tiravanija/6wGGhVeZdunr_A"
       },
       {
-        "name": "Henry III of Nassau-Breda",
-        "path": "img/art/artworks/jan-gossaert-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/henry-iii-of-nassau-breda-jan-gossaert/nwEXG97E_tELKw"
+        "name": "untitled, jed sian samurai",
+        "path": "img/art/artworks/rirkrit-tiravanija-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-jed-sian-samurai-rirkrit-tiravanija/kAER8bP69l10TA"
       },
       {
-        "name": "Danaë",
-        "path": "img/art/artworks/jan-gossaert-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/danaë-jan-gossaert-gen-mabuse/gQHMQiWDp5cHJQ"
+        "name": "AR Mobile Application for Untitled (state du miroir / the mirror stage), 2 0 1 9",
+        "path": "img/art/artworks/rirkrit-tiravanija-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/ar-mobile-application-for-untitled-state-du-miroir-the-mirror-stage-2-0-1-9-rirkrit-tiravanija/wAG8gOBGslLDyA"
       },
       {
-        "name": "Portrait of a Merchant",
-        "path": "img/art/artworks/jan-gossaert-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-merchant/DgFB-ob9Mp03dA"
+        "name": "Untitled 2015 (14,086 unfired)",
+        "path": "img/art/artworks/rirkrit-tiravanija-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-2015-14-086-unfired-rirkrit-tiravanija/oQFilClDBbpesA"
       }
     ],
     "summary": [
-      "Jan Gossaert was a French-speaking painter from the Low Countries also known as Jan Mabuse or Jennyn van Hennegouwe, as he called himself when he matriculated in the Guild of Saint Luke, at Antwerp, in 1503. He was one of the first painters of Dutch and Flemish Renaissance painting to visit Italy and Rome, which he did in 1508–09, and a leader of the style known as Romanism, which brought elements of Italian Renaissance painting to the north, sometimes with a rather awkward effect. He achieved fame across at least northern Europe, and painted religious subjects, including large altarpieces, but also portraits and mythological subjects, including some nudity.",
-      "From at least 1508 he was apparently continuous employed, or at least retained, by quasi-royal patrons, mostly members of the extended Habsburg family, heirs to the Valois Duchy of Burgundy. These were Philip of Burgundy, Adolf of Burgundy, Christian II of Denmark when in exile, and Mencía de Mendoza, Countess of Nassau, third wife of Henry III of Nassau-Breda."
+      "Rirkrit Tiravanija is a Thai contemporary artist residing in New York City, Berlin, and Chiangmai, Thailand. He was born in Buenos Aires, Argentina in 1961. His installations often take the form of stages or rooms for sharing meals, cooking, reading or playing music; architecture or structures for living and socializing are a core element in his work."
     ],
     "quote": null,
-    "movements": [
-      "Renaissance",
-      "Northern Renaissance",
-      "Dutch and Flemish Renaissance painting",
-      "Mannerism"
-    ],
-    "mediums": ["Oil paint", "Wood", "Oak", "Engraving", "Vitreous enamel", "Silver"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jan_Gossaert",
-    "urlGoogle": "https://artsandculture.google.com/entity/jan-gossaert/m03hgqx"
+    "movements": ["Contemporary art"],
+    "mediums": ["Wood", "Rock", "Brick", "Drawing", "Graphite", "Clay"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Rirkrit_Tiravanija",
+    "urlGoogle": "https://artsandculture.google.com/entity/rirkrit-tiravanija/m026rgl2"
   },
   "event": {
-    "id": "indo-pakistani-wars-and-conflicts",
-    "name": "Indo-Pakistani wars and conflicts",
-    "dates": "August 1947",
-    "mainImg": "img/events/indo-pakistani-wars-and-conflicts.jpg",
+    "id": "amia-bombing",
+    "name": "AMIA bombing",
+    "dates": null,
+    "mainImg": "img/events/amia-bombing.jpg",
     "summary": [
-      "Since the partition of British India in 1947 and creation of dominions of India and Pakistan, the two countries have been involved in a number of wars, conflicts and military stand-offs. The Kashmir issue and across the border terrorism have been the cause of conflicts between the two countries mostly with the exception of the Indo-Pakistani War of 1971 where conflict originated due to turmoil in erstwhile East Pakistan."
+      "The AMIA bombing was a suicide van bomb attack on the Asociación Mutual Israelita Argentina building in Buenos Aires, Argentina on 18 July 1994, killing 85 people and injuring hundreds. The bombing is Argentina's deadliest terrorist attack to date. Argentina is home to a Jewish community of 230,000, the largest in Latin America and sixth in the world outside Israel.",
+      "Over the years, the case has been marked by accusations of cover-ups. All suspects in the \"local connection\" were found to be not guilty in September 2004. In August 2005, federal judge Juan José Galeano, in charge of the case, was impeached and removed from his post on a charge of \"serious\" irregularities due to mishandling of the investigation. In 2005, Cardinal Jorge Mario Bergoglio, who would later become Pope Francis, was the first public personality to sign a petition for justice in the AMIA bombing case. He was one of the signatories on a document called \"85 victims, 85 signatures\" as part of the bombing's 11th anniversary."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts",
-    "urlGoogle": "https://artsandculture.google.com/entity/indo-pakistani-wars-and-conflicts/m011x_n"
+    "urlWiki": "https://en.wikipedia.org/wiki/AMIA_bombing",
+    "urlGoogle": "https://artsandculture.google.com/entity/amia-bombing/m027_2d"
   },
   "funFacts": [
     {
-      "id": "332",
-      "fact": "Ohio is the only U.S. state that does not have a rectangular flag.",
-      "category": ["Geography", "Onlies"]
+      "id": "828",
+      "fact": "Every hour more than one billion cells in the body must be replaced.",
+      "category": ["Anatomy"]
     },
-    { "id": "14", "fact": "Camel's milk does not curdle.", "category": ["Animals"] }
+    {
+      "id": "887",
+      "fact": "The Valley of Square Trees in Panama is the only known place in the world where trees have rectangular trunks.",
+      "category": ["Plants", "Onlies"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "522213",
-      "fact": "National Donut Day originally started as a way to honor Salvation Army volunteers who served donuts to soldiers in WWI."
+      "id": "504788",
+      "fact": "Mark Twain was born in 1835, a year in which Halley’s comet was visible from Earth. In 1909, he said, “I came in with Halley’s comet … and I expect to go out with it.” When he died on April 21, 1910, the comet was again visible in the night sky."
     }
   ],
   "idiom": {
-    "id": "chickens-come-home-to-roost",
-    "term": "chickens come home to roost",
-    "definition": "The consequences of doing wrong always catch up with the wrongdoer, as in *Now that you're finally admitting your true age, no one believes you---chickens come home to roost.* The fact that chickens usually come home to rest and sleep has long been known, but the idea was used figuratively only in 1809, when Robert Southey wrote, \"Curses are like young chickens, they always come home to roost\" (*The Curse of Kehama*)."
+    "id": "the-balloon-goes-up",
+    "term": "the balloon goes up",
+    "definition": "The undertaking begins, as in *He's going to announce his candidacy for mayor---the balloon goes up on Monday.* This expression comes from World War I, when British artillery sent up a balloon to notify gunners to open fire, this visual signal being more reliable than courier or telephone. It was soon transferred to signal other kinds of beginning. [1915]"
   },
   "person": {
-    "id": "pim-fortuyn",
-    "name": "Pim Fortuyn",
-    "dates": "Feb 19, 1948 - May 6, 2002",
-    "mainImg": "img/people/pim-fortuyn.jpg",
+    "id": "baudouin-of-belgium",
+    "name": "Baudouin of Belgium",
+    "dates": "Sep 7, 1930 - Jul 31, 1993",
+    "mainImg": "img/people/baudouin-of-belgium.jpg",
     "summary": [
-      "Wilhelmus Simon Petrus Fortuijn, known as Pim Fortuyn, was a Dutch politician, academic, author and businessman who formed his own party, Pim Fortuyn List in 2002.",
-      "Fortuyn prompted controversy in the Netherlands with his views on multiculturalism, immigration and Islam in the Netherlands. He called Islam \"a backward culture\", and was quoted as saying that if it were legally possible, he would close the borders for Muslim immigrants. Fortuyn also supported tougher measures against crime and opposed state bureaucracy, wanting to reduce Dutch financial contribution to the European Union. He was labelled a far-right populist by his opponents and in the media, but he fiercely rejected this label. Fortuyn was openly homosexual and a supporter of gay rights.",
-      "Fortuyn explicitly distanced himself from \"far-right\" politicians such as the Belgian Filip Dewinter, the Austrian Jörg Haider, or Frenchman Jean-Marie Le Pen whenever compared to them. While he compared his own politics to centre-right politicians such as Silvio Berlusconi of Italy and Edmund Stoiber of Germany, he also admired former Dutch Prime Minister Joop den Uyl, a social democrat, and Democratic U.S. president John F."
+      "Baudouin reigned as King of the Belgians, following his father's abdication, from 1951 until his death in 1993. He was the last Belgian king to be sovereign of the Congo.",
+      "He was the elder son of King Leopold III and his first wife, Princess Astrid of Sweden. Because he and his wife, Queen Fabiola, had no children, at Baudouin's death the crown passed to his younger brother, King Albert II."
     ],
-    "quote": "“Muslims have a very bad attitude to homosexuality, they're very intolerant.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Pim_Fortuyn",
-    "urlGoogle": "https://artsandculture.google.com/entity/pim-fortuyn/m0cf98"
+    "quote": "“It takes twenty years or more of peace to make a man; it takes only twenty seconds of war to destroy him.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Baudouin_of_Belgium",
+    "urlGoogle": "https://artsandculture.google.com/entity/baudouin-of-belgium/m0glgm"
   },
   "place": {
-    "id": "colombia",
-    "name": "Colombia",
-    "mainImg": "img/places/colombia.jpg",
+    "id": "kunming",
+    "name": "Kunming",
+    "mainImg": "img/places/kunming.jpg",
     "summary": [
-      "Colombia, officially the Republic of Colombia, is a country largely in the north of South America, with territories in North America. Colombia is bounded on the north by the Caribbean Sea, the northwest by Panama, the south by Ecuador and Peru, the east by Venezuela, the southeast by Brazil, and the west by the Pacific Ocean. It comprises 32 departments and the Capital District of Bogotá, the country's largest city. With an area of 1,141,748 square kilometers, Colombia is the fourth-largest country in South America, after Brazil, Argentina and Peru. It is also the 25th-largest country in the world, the fifth-largest country in Latin America, and the fourth-largest Spanish-speaking country.",
-      "With over 50 million inhabitants Colombia is the third-most-populous country in Latin America, and the world's third-most populous Spanish-speaking country. Its population is ethnically and linguistically diverse, with its rich multicultural heritage reflecting influences by several Amerindian civilizations, Spanish settlement, forced African labor, and immigration from Europe and the greater Middle East. Urban centres are concentrated in the Andean highlands and the Caribbean coast."
+      "Kunming is the capital and largest city of Yunnan province, People's Republic of China. Also known as Yunnan-Fu, today it is a prefecture-level city and the political, economic, communications and cultural centre of the province as well as the seat of the provincial government. The headquarters of many of Yunnan's large businesses are in Kunming. It was important during World War II as a Chinese military center, American air base, and transport terminus for the Burma Road. Located in the middle of the Yunnan–Guizhou Plateau, Kunming is located at an altitude of 1,900 metres above sea level and at a latitude just north of the Tropic of Cancer. As of 2014, Kunming has a population of 6,626,000 with an urban population of 4,575,000, and is located at the northern edge of Dian Lake, surrounded by temples and lake-and-limestone hill landscapes.",
+      "Kunming consists of an old, previously walled city, a modern commercial district, residential zones and university areas. The city has an astronomical observatory, and its institutions of higher learning include Yunnan University, Yunnan Normal University, Kunming University of Science and Technology, and Kunming Medical University."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Colombia",
-    "urlGoogle": "https://artsandculture.google.com/entity/colombia/m01ls2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Kunming",
+    "urlGoogle": "https://artsandculture.google.com/entity/kunming/m01c06d"
   },
   "quote": {
-    "id": "15",
-    "quote": "Nothing is impossible, the word itself says, ‘I'm possible!’",
-    "author": "Audrey Hepburn"
+    "id": "49",
+    "quote": "You don't need to see the whole staircase, just take the first step.",
+    "author": "Martin Luther King Jr."
   },
   "wiki": {
-    "id": "liberal-party-utah",
-    "name": "Liberal Party (Utah)",
-    "summary": "The Liberal Party of Utah, along with the People's Party, was a local political party that flourished in Utah Territory in the latter 19th century before Democrats and Republicans established themselves in Utah in the early 1890s. The Liberal Party was formed in 1870 to oppose The Church of Jesus Christ of Latter-day Saints (the LDS Church; popularly known as the \"Mormons\"), which dominated local politics. Thus, the Liberal Party represented the non-Mormon side in religiously-charged Utah government. Though vastly outnumbered, the Liberal Party offered an opposing voice and successfully won several local elections. Anti-Mormonism was a central theme of the party until it disbanded in 1893 and was absorbed by the national parties.",
-    "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Utah)"
+    "id": "creek-turnpike",
+    "name": "Creek Turnpike",
+    "summary": "The Creek Turnpike is a 33.22-mile-long (53.46 km) freeway-standard toll road that lies entirely in the U.S. state of Oklahoma. The turnpike forms a partial beltway around the south and east sides of Tulsa, Oklahoma's second largest city. The western terminus is at the Turner Turnpike in Sapulpa, while the northeastern terminus is at the Will Rogers Turnpike in Fair Oaks; both ends of the Creek Turnpike connect with Interstate 44 (I-44). Along the way, the highway passes through the cities of Sapulpa, Jenks, Tulsa, and Broken Arrow, and the counties of Creek, Tulsa, Wagoner and Rogers. The first section of the Creek Turnpike, from US-75 in Jenks to US-64/US-169 in Tulsa, was first authorized in 1987. Its construction was controversial. Homeowners along the route of the highway formed a group called Tulsans Against Turnpikes to fight the highway in both the courtroom and the media, and the highway was also challenged on environmental grounds. Nevertheless, the highway opened to traffic in the first half of 1992. Further extensions to both the east and the west followed in later years after several years of false starts under the administrations of two different governors.",
+    "url": "https://en.wikipedia.org/wiki/Creek_Turnpike"
   },
   "word": {
-    "id": "waggish",
-    "word": "waggish",
-    "url": "https://www.merriam-webster.com/dictionary/waggish",
-    "partOfSpeech": "adjective",
-    "pronunciation": "WAG-ish",
-    "audioPath": "audio/words/waggish.mp3",
-    "definitions": [
-      "resembling or characteristic of a wag : displaying good-humored mischief",
-      "done or made for sport : humorous"
-    ],
+    "id": "jehu",
+    "word": "jehu",
+    "url": "https://www.merriam-webster.com/dictionary/jehu",
+    "partOfSpeech": "noun",
+    "pronunciation": "JEE-hyoo",
+    "audioPath": "audio/words/jehu.mp3",
+    "definitions": ["a driver of a coach or cab"],
     "examples": [
-      "Lisa listens to the same waggish DJ every morning, never tiring of his prank phone calls and irreverent impressions of local politicians."
+      "The jehu who picked us up from the hotel got us to the airport in plenty of time, but his reckless driving gave us more of an adventure than we would have liked."
     ],
-    "origin": "One who is waggish acts like a wag. What, then, is a wag? Etymologists think \"wag\" probably came from \"waghalter,\" a word that was once used for a \"gallows bird\" (that is, a person who was going to be, or deserved to be, hanged). \"Waghalter\" was apparently shortened to \"wag\" and used jokingly or affectionately for mischievous pranksters or youths. Hence a wag is a joker, and waggery is merriment or practical joking. \"Waggish\" can describe the prank itself as well as the prankster type; the class clown might be said to have a \"waggish disposition\" or might be said to be prone to \"waggish antics.\""
+    "origin": "Today's word comes from the name of a notoriously speedy chariot driver. Originally a commander of chariots for Ahab, king of Israel, Jehu later led a revolt against the throne and became king himself. In the Bible, it is noted of Jehu that \"he drives furiously\" (_II Kings_ 9:20). In the 17th century, English speakers began using \"jehu\" as a generic term meaning \"coachman\" or, specifically, \"a fast or reckless coachman.\" Today, we are more likely to use the word in reference to reckless cabdrivers. The phrase \"drives like Jehu\" is encountered occasionally, too."
   }
 }

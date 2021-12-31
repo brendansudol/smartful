@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "louis-comfort-tiffany",
+    "name": "Louis Comfort Tiffany",
+    "dates": "Feb 18, 1848 - Jan 17, 1933",
+    "mainImg": "img/art/artists/louis-comfort-tiffany.jpg",
+    "artworkImgs": [
+      {
+        "name": "A Wooded Landscape in Three Panels",
+        "path": "img/art/artworks/louis-comfort-tiffany-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-wooded-landscape-in-three-panels-louis-comfort-tiffany/egH2dNwwMCPBnQ"
+      },
+      {
+        "name": "Peacock Mosaic from entrance hall of the Henry O. Havemeyer house, New York",
+        "path": "img/art/artworks/louis-comfort-tiffany-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/peacock-mosaic-from-entrance-hall-of-the-henry-o-havemeyer-house-new-york-louis-comfort-tiffany/KAEKNjqHmgmbkQ"
+      },
+      {
+        "name": "Vase",
+        "path": "img/art/artworks/louis-comfort-tiffany-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/vase-louis-comfort-tiffany/4gGUHRrmPU4EGA"
+      },
+      {
+        "name": "On the Way between Old and New Cairo, Citadel Mosque of Mohammed Ali, and Tombs of the Mamelukes",
+        "path": "img/art/artworks/louis-comfort-tiffany-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/on-the-way-between-old-and-new-cairo-citadel-mosque-of-mohammed-ali-and-tombs-of-the-mamelukes/-gE3J550P97OuA"
+      },
+      {
+        "name": "Market Day Outside the Walls of Tangiers, Morocco",
+        "path": "img/art/artworks/louis-comfort-tiffany-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/market-day-outside-the-walls-of-tangiers-morocco-louis-comfort-tiffany-born-new-york-city-1848-died-new-york-city-1933/ZAGK3zvtlTJslw"
+      },
+      {
+        "name": "Hanging Head Dragonfly Shade on Mosaic and Turtleback Base",
+        "path": "img/art/artworks/louis-comfort-tiffany-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/hanging-head-dragonfly-shade-on-mosaic-and-turtleback-base-design-attributed-to-clara-pierce-wolcott-driscoll-american-1861-1944-made-by-tiffany-studios-1902–1932-corona-new-york/4AHx9G64WtgGZg"
+      }
+    ],
+    "summary": [
+      "Louis Comfort Tiffany was an American artist and designer who worked in the decorative arts and is best known for his work in stained glass. He is the American artist most associated with the Art Nouveau and Aesthetic movements. He was affiliated with a prestigious collaborative of designers known as the Associated Artists, which included Lockwood de Forest, Candace Wheeler, and Samuel Colman. Tiffany designed stained glass windows and lamps, glass mosaics, blown glass, ceramics, jewelry, enamels, and metalwork. He was the first Design Director at his family company, Tiffany & Co., founded by his father Charles Lewis Tiffany."
+    ],
+    "quote": "“Color is to the eye what music is to the ear.”",
+    "movements": [
+      "Art Nouveau",
+      "Modern art",
+      "Symbolism",
+      "American Impressionism",
+      "Impressionism"
+    ],
+    "mediums": ["Glass", "Metal", "Bronze", "Lead glass", "Stained glass", "Lead"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Louis_Comfort_Tiffany",
+    "urlGoogle": "https://artsandculture.google.com/entity/louis-comfort-tiffany/m0jr3z"
+  },
+  "event": {
+    "id": "first-battle-of-bull-run",
+    "name": "First Battle of Bull Run",
+    "dates": null,
+    "mainImg": "img/events/first-battle-of-bull-run.jpg",
+    "summary": [
+      "The First Battle of Bull Run, also known as the First Battle of Manassas, was the first major battle of the American Civil War and was a Confederate victory. The battle was fought on July 21, 1861 in Prince William County, Virginia, just north of the city of Manassas and about 25 miles west-southwest of Washington, D.C. The Union's forces were slow in positioning themselves, allowing Confederate reinforcements time to arrive by rail. Each side had about 18,000 poorly trained and poorly led troops in their first battle. It was a Confederate victory, followed by a disorganized retreat of the Union forces.",
+      "Just months after the start of the war at Fort Sumter, the Northern public clamored for a march against the Confederate capital of Richmond, Virginia, which was expected to bring an early end to the Confederacy. Yielding to political pressure, Brig. Gen. Irvin McDowell led his unseasoned Union Army across Bull Run against the equally inexperienced Confederate Army of Brig. Gen. P. G. T. Beauregard camped near Manassas Junction."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run",
+    "urlGoogle": "https://artsandculture.google.com/entity/first-battle-of-bull-run/m01h9zd"
+  },
+  "funFacts": [
+    { "id": "718", "fact": "Strawberries have an average of 200 seeds.", "category": ["Food"] },
+    {
+      "id": "722",
+      "fact": "The peach was the first fruit to be eaten on the moon.",
+      "category": ["Food"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553855",
+      "fact": "In the 18th century, wealthy British landowners hired ornamental hermits to live in their gardens."
+    }
+  ],
+  "idiom": {
+    "id": "slick-as-a-whistle",
+    "term": "slick as a whistle",
+    "definition": "Very smooth and neat; also, smoothly, quickly, easily. For example, *That salesman is as slick as a whistle,* or *The fence post went in place slick as a whistle.* The allusion in this simile, first recorded in 1830, is not totally clear, but presumably it refers either to the ease of producing a whistle or to its clear tone."
+  },
+  "person": {
+    "id": "michael-collins",
+    "name": "Michael Collins",
+    "dates": "Oct 16, 1890 - Aug 22, 1922",
+    "mainImg": "img/people/michael-collins.jpg",
+    "summary": [
+      "Michael Collins was an Irish revolutionary, soldier, and politician who was a leading figure in the early-20th-century Irish struggle for independence. He was Chairman of the Provisional Government of the Irish Free State from January 1922 until his assassination in August 1922.",
+      "Collins was born in Woodfield, County Cork, the youngest of eight children, and his family had republican connections reaching back to the 1798 rebellion. He moved to London in 1906, to become a clerk in the Post Office Savings Bank at Blythe House. He was a member of the London GAA, through which he became associated with the Irish Republican Brotherhood and the Gaelic League. He returned to Ireland in 1916 and fought in the Easter Rising. He was subsequently imprisoned in the Frongoch internment camp as a prisoner of war, but was released in December 1916.",
+      "Collins rose through the ranks of the Irish Volunteers and Sinn Féin after his release from Frongoch. He became a Teachta Dála for South Cork in 1918, and was appointed Minister for Finance in the First Dáil. He was present when the Dáil convened on 21 January 1919 and declared the independence of the Irish Republic."
+    ],
+    "quote": "“I knew I was alone in a way that no earthling has ever been before.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Michael_Collins_%28Irish_leader%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/michael-collins/m0p3kb"
+  },
+  "place": {
+    "id": "amiens",
+    "name": "Amiens",
+    "mainImg": "img/places/amiens.jpg",
+    "summary": [
+      "Amiens is a city and commune in northern France, 120 km north of Paris and 100 km south-west of Lille. It is the capital of the Somme department in Hauts-de-France. The city had a population of 136,105 according to the 2006 census, and has one of the biggest university hospitals in France with a capacity of 1,200 beds. Amiens Cathedral is the tallest of the large, classic, Gothic churches of the 13th century and the largest in France of its kind. It is also a World Heritage Site. The author Jules Verne lived in Amiens from 1871 until his death in 1905, and served on the city council for 15 years.",
+      "The town was fought over during both World Wars, suffering significant damage, and was repeatedly occupied by both sides. The 1918 Battle of Amiens was the opening phase of the Hundred Days Offensive which directly led to the Armistice with Germany. The Royal Air Force heavily bombed the town during the Second World War, in the aftermath the city was rebuilt according to Pierre Dufau's plans with wider streets to ease traffic congestion. These newer structures were primarily built of brick, concrete and white stone with slate roofs."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Amiens",
+    "urlGoogle": "https://artsandculture.google.com/entity/amiens/m0l17s"
+  },
+  "quote": {
+    "id": "105",
+    "quote": "Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.",
+    "author": "Roy T. Bennett"
+  },
+  "wiki": {
+    "id": "canon-t-90",
+    "name": "Canon T90",
+    "summary": "The Canon T90, introduced in 1986, was the top of the line in Canon's T series of 35 mm single-lens reflex cameras. It was the last professional-level manual-focus camera from Canon and thus the last to use the Canon FD lens mount. Although it was overtaken by the autofocus revolution and Canon's new, incompatible EOS after only a year in production, the T90 pioneered many concepts seen in high-end Canon cameras up to the present day, particularly the user interface, industrial design, and the high level of automation. The T90 gained the semi-official nickname The Tank from Japanese photojournalists because of its ruggedness. Many still rate it highly even nearly 20 years after its introduction.",
+    "url": "https://en.wikipedia.org/wiki/Canon_T90"
+  },
+  "word": {
+    "id": "gloze",
+    "word": "gloze",
+    "url": "https://www.merriam-webster.com/dictionary/gloze",
+    "partOfSpeech": "verb",
+    "pronunciation": "GLOHZ",
+    "audioPath": "audio/words/gloze.mp3",
+    "definitions": [
+      "to mask the true nature of : give a deceptively attractive appearance to -- often used with \"over\"",
+      "to deal with (a subject or problem) too lightly or not at all -- often used with \"over\""
+    ],
+    "examples": [
+      "\"His modesty and shyness were at any rate proverbial, and it does seem that he went out of his way to conceal or gloze over certain aspects of his career, his military exploits in particular.\" (Eleanor Perenyi, _Green Thoughts_)"
+    ],
+    "origin": "\"Gloze\" and its synonym \"gloss\" have long, intertwined histories. \"Gloze,\" which comes from Middle English \"glose,\" meaning \"flattery,\" \"plausible pretext,\" or \"explanation of a difficult word,\" is the older of the two; it has been used as both a verb and noun since the 14th century. The noun \"gloss,\" referring to an explanation or interpretation, first appeared in the mid-16th century as an alteration of \"gloze,\" and the verb \"gloss\" followed about a century later.\" During the 19th century, \"gloze\" briefly took on the additional meaning \"to brighten\" (adapting the meaning of another, unrelated \"gloss\" referring to luster or brightness), but by the end of that century all uses of \"gloze\" had faded into relative obscurity. \"Gloss,\" on the other hand, flourished and continues to be the more common term by far today."
+  }
+}

@@ -1,127 +1,135 @@
 {
   "artist": {
-    "id": "vittore-carpaccio",
-    "name": "Vittore Carpaccio",
-    "dates": "1465 - 1520",
-    "mainImg": "img/art/artists/vittore-carpaccio.jpg",
+    "id": "daniel-garber",
+    "name": "Daniel Garber",
+    "dates": "Apr 11, 1880 - Jul 5, 1958",
+    "mainImg": "img/art/artists/daniel-garber.jpg",
     "artworkImgs": [
       {
-        "name": "A Bishop Saint Blessing",
-        "path": "img/art/artworks/vittore-carpaccio-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/a-bishop-saint-blessing-vittore-carpaccio/RwGOVnpGFFpwLQ"
+        "name": "Little Girl Knitting",
+        "path": "img/art/artworks/daniel-garber-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/little-girl-knitting-daniel-garber/FgHBLHEpbO0L0g"
       },
       {
-        "name": "Hunting on the Lagoon (recto); Letter Rack (verso)",
-        "path": "img/art/artworks/vittore-carpaccio-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/hunting-on-the-lagoon-recto-letter-rack-verso/tQHyOayJN0upaw"
+        "name": "Lambertville Beach",
+        "path": "img/art/artworks/daniel-garber-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/lambertville-beach-daniel-garber/DwHASuKqlAgPeg"
       },
       {
-        "name": "Preparation of Christ's Tomb",
-        "path": "img/art/artworks/vittore-carpaccio-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/preparation-of-christ-s-tomb-vittore-carpaccio/jQEpYkxk6NooqQ"
+        "name": "Over at Byram",
+        "path": "img/art/artworks/daniel-garber-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/over-at-byram-daniel-garber/mgFU6ZLTR9zXgw"
       },
       {
-        "name": "Young Knight in a Landscape",
-        "path": "img/art/artworks/vittore-carpaccio-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/young-knight-in-a-landscape-vittore-carpaccio/TQHttZDUGn77Hg"
+        "name": "Up the Cuttalossa",
+        "path": "img/art/artworks/daniel-garber-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/up-the-cuttalossa-daniel-garber/vAFpK8dDS1uk8w"
       },
       {
-        "name": "Due dame Veneziane",
-        "path": "img/art/artworks/vittore-carpaccio-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/due-dame-veneziane-vittore-carpaccio/5QEssF9uMskmLA"
+        "name": "Lambertville Holiday",
+        "path": "img/art/artworks/daniel-garber-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lambertville-holiday-daniel-garber/ygGoenFyFwDkZA"
       },
       {
-        "name": "Portrait of a Lady with a Book",
-        "path": "img/art/artworks/vittore-carpaccio-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-lady-with-a-book-vittore-carpaccio/igHu-P0cPZ6inw"
+        "name": "A Wooded Watershed",
+        "path": "img/art/artworks/daniel-garber-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-wooded-watershed-daniel-garber/oAEAyv_UZh1cUg"
       }
     ],
     "summary": [
-      "Vittore Carpaccio was an Italian painter of the Venetian school, who studied under Gentile Bellini. He is best known for a cycle of nine paintings, The Legend of Saint Ursula. His style was somewhat conservative, showing little influence from the Humanist trends that transformed Italian Renaissance painting during his lifetime. He was influenced by the style of Antonello da Messina and Early Netherlandish art. For this reason, and also because so much of his best work remains in Venice, his art has been rather neglected by comparison with other Venetian contemporaries, such as Giovanni Bellini or Giorgione."
+      "Daniel Garber was an American Impressionist landscape painter and member of the art colony at New Hope, Pennsylvania. He is best known today for his large impressionist scenes of the New Hope area, in which he often depicted the Delaware River. He also painted figurative interior works and excelled at etching. In addition to his painting career, Garber taught art at the Pennsylvania Academy of the Fine Arts for over forty years."
     ],
     "quote": null,
-    "movements": ["Italian Renaissance", "Renaissance", "Venetian painting"],
-    "mediums": ["Oil paint", "Tempera", "Drawing", "Ink", "Chalk", "Pigment"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Vittore_Carpaccio",
-    "urlGoogle": "https://artsandculture.google.com/entity/vittore-carpaccio/m03d81g"
+    "movements": [
+      "Impressionism",
+      "American Impressionism",
+      "Realism",
+      "Modern art",
+      "Pennsylvania Impressionism",
+      "American Realism"
+    ],
+    "mediums": ["Oil paint", "Masonite", "Laid paper", "Drawing", "Photograph", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Daniel_Garber",
+    "urlGoogle": "https://artsandculture.google.com/entity/daniel-garber/m0950k3"
   },
   "event": {
-    "id": "battle-of-the-somme",
-    "name": "Battle of the Somme",
-    "dates": "Jul 1, 1916 - Nov 18, 1916",
-    "mainImg": "img/events/battle-of-the-somme.jpg",
+    "id": "the-netherlands-war-of-independence-second-part",
+    "name": "The Netherlands War of Independence (second part)",
+    "dates": "1568 - 1648",
+    "mainImg": "img/events/the-netherlands-war-of-independence-second-part.jpg",
     "summary": [
-      "The Battle of the Somme, also known as the Somme Offensive, was a battle of the First World War fought by the armies of the British Empire and French Third Republic against the German Empire. It took place between 1 July and 18 November 1916 on both sides of the upper reaches of the River Somme in France. The battle was intended to hasten a victory for the Allies. More than three million men fought in the battle and one million men were wounded or killed, making it one of the bloodiest battles in human history.",
-      "The French and British had committed themselves to an offensive on the Somme during Allied discussions at Chantilly, Oise, in December 1915. The Allies agreed upon a strategy of combined offensives against the Central Powers in 1916, by the French, Russian, British and Italian armies, with the Somme offensive as the Franco-British contribution. Initial plans called for the French army to undertake the main part of the Somme offensive, supported on the northern flank by the Fourth Army of the British Expeditionary Force."
+      "The Eighty Years' War or Dutch War of Independence was a revolt of the Seventeen Provinces of what are today the Netherlands, Belgium, and Luxembourg against Philip II of Spain, the sovereign of the Habsburg Netherlands. After the initial stages, Philip II deployed his armies and regained control over most of the rebelling provinces. Under the leadership of the exiled William the Silent, the northern provinces continued their resistance. They eventually were able to oust the Habsburg armies, and in 1581 they established the Republic of the Seven United Netherlands. The war continued in other areas, although the heartland of the republic was no longer threatened. This included the origins of the Dutch colonial empire, which began with Dutch attacks on Portugal's overseas territories, which at the time was conceived as carrying overseas the war with Spain due to Portugal being in a dynastic union with Spain.",
+      "The Dutch Republic was recognized by Spain and the major European powers in 1609 at the start of the Twelve Years' Truce. Hostilities broke out again around 1619, as part of the broader Thirty Years' War."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_the_Somme",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-the-somme/m0gjw_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-netherlands-war-of-independence-second-part/g1215pr1x"
   },
   "funFacts": [
-    { "id": "18", "fact": "A jellyfish is approximately 95% water.", "category": ["Animals"] },
     {
-      "id": "77",
-      "fact": "No piece of paper can be folded more than seven times.",
-      "category": ["Hodgepodge"]
+      "id": "1016",
+      "fact": "Strawberries are grown in every state in the U.S. and every province in Canada.",
+      "category": ["Plants", "Geography"]
+    },
+    {
+      "id": "270",
+      "fact": "Colors like red, yellow and orange make you hungry.",
+      "category": ["Food"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553922",
-      "fact": "“Bloodcurdling” isn’t just an expression: Research shows that watching horror movies can increase a certain clotting protein in our bloodstreams."
+      "id": "553829",
+      "fact": "In 1953, it took 27 hours to create one PEEPS Marshmallow Chick. The same process takes six minutes today."
     }
   ],
   "idiom": {
-    "id": "beyond-the-pale",
-    "term": "beyond the pale",
-    "definition": "Outside the bounds of morality, good behavior or judgment; unacceptable. For example, *She thought taking the boys to a topless show was beyond the pale.* The noun *pale,* from the Latin *palum,* meant \"a stake for fences\" or \"a fence made from such stakes.\" By extension it came to be used for an area confined by a fence and for any boundary, limit, or restriction, both of these meanings dating from the late 1300s. The *pale* referred to in the idiom is usually taken to mean the *English Pale,* the part of Ireland under English rule, and therefore, as perceived by its rulers, within the bounds of civilization. The phrase itself originated in the mid-1600s."
+    "id": "discretion-is-the-better-part-of-valor",
+    "term": "discretion is the better part of valor",
+    "definition": "It is better to be prudent than merely courageous, as in *I'm signing up for the easy course first; discretion is the better part of valor.* This proverb, a synonym of **look before you leap**, was first recorded in 1477. Charles Churchill put it in poetic form: \"Even in a hero's heart, Discretion is the better part\" (*The Ghost,* 1762). Shakespeare also used a form of it: \"The better part of valor is discretion\" (*1 Henry IV,* 5:4)."
   },
   "person": {
-    "id": "orval-faubus",
-    "name": "Orval Faubus",
-    "dates": "Jan 7, 1910 - Dec 14, 1994",
-    "mainImg": "img/people/orval-faubus.jpg",
+    "id": "maria-anna-of-neuburg",
+    "name": "Maria Anna of Neuburg",
+    "dates": "Oct 28, 1667 - Jul 16, 1740",
+    "mainImg": "img/people/maria-anna-of-neuburg.jpg",
     "summary": [
-      "Orval Eugene Faubus was an American politician who served as the 36th Governor of Arkansas from 1955 to 1967, as a member of the Democratic Party. In 1957, he refused to comply with a unanimous decision of the United States Supreme Court in the 1954 case Brown v. Board of Education, and ordered the Arkansas National Guard to prevent black students from attending Little Rock Central High School. This event became known as the Little Rock Crisis."
+      "Maria Anna of Neuburg, was Queen of Spain from 1689 to 1700 as the second wife of Charles II, last Habsburg King of Spain.",
+      "Her marriage was dominated by the political struggle between French and Austrian factions over the Spanish throne, which resulted in the 1701 to 1714 War of the Spanish Succession. When Charles died in 1700, he was succeeded by the French candidate, Philip V and Maria Anna was exiled. She lived largely forgotten until her death in 1740."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Orval_Faubus",
-    "urlGoogle": "https://artsandculture.google.com/entity/orval-faubus/m01q01g"
+    "urlWiki": "https://en.wikipedia.org/wiki/Maria_Anna_of_Neuburg",
+    "urlGoogle": "https://artsandculture.google.com/entity/maria-anna-of-neuburg/m082599"
   },
   "place": {
-    "id": "fort-worth",
-    "name": "Fort Worth",
-    "mainImg": "img/places/fort-worth.jpg",
+    "id": "bilbao",
+    "name": "Bilbao",
+    "mainImg": "img/places/bilbao.jpg",
     "summary": [
-      "Fort Worth is the fifth-largest city in the U.S. state of Texas and the 13th-largest city in the United States. It is the county seat of Tarrant County, covering nearly 350 square miles into three other counties: Denton, Parker, and Wise. According to the 2019 census estimates, Fort Worth's population was 909,585. Fort Worth is the second-largest city in the Dallas–Fort Worth–Arlington metropolitan area, which is the 4th most populous metropolitan area in the United States.",
-      "The city of Fort Worth was established in 1849 as an army outpost on a bluff overlooking the Trinity River. Fort Worth has historically been a center of the longhorn cattle trade. It still embraces its Western heritage and traditional architecture and design. USS Fort Worth is the first ship of the United States Navy named after the city.",
-      "Fort Worth is home to the Van Cliburn International Piano Competition and several world-class museums designed by internationally known contemporary architects. The Kimbell Art Museum, considered to have one of the best art collections in Texas, is housed in what is widely regarded as one of the outstanding architectural achievements of the modern era."
+      "Bilbao is a city in northern Spain, the largest city in the province of Biscay and in the Basque Country as a whole. It is also the largest city proper in northern Spain. Bilbao is the tenth largest city in Spain, with a population of 345,141 as of 2015. The Bilbao metropolitan area has 1,037,847 inhabitants, making it one of the most populous metropolitan areas in northern Spain; with a population of 875,552 the comarca of Greater Bilbao is the fifth-largest urban area in Spain. Bilbao is also the main urban area in what is defined as the Greater Basque region.",
+      "Bilbao is situated in the north-central part of Spain, some 16 kilometres south of the Bay of Biscay, where the economic social development is located, where the estuary of Bilbao is formed. Its main urban core is surrounded by two small mountain ranges with an average elevation of 400 metres. Its climate is shaped by the Bay of Biscay low-pressure systems and mild air, moderating summer temperatures by Iberian standards, with low sunshine and high rainfall. The annual temperature range is low for its latitude."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Fort_Worth,_Texas",
-    "urlGoogle": "https://artsandculture.google.com/entity/fort-worth/m0f2s6"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bilbao",
+    "urlGoogle": "https://artsandculture.google.com/entity/bilbao/m0htqt"
   },
   "wiki": {
-    "id": "order-of-the-thistle",
-    "name": "Order of the Thistle",
-    "summary": "The Order of the Thistle is an order of chivalry associated with Scotland. While its original date of foundation is unknown, James VII instituted the modern Order in 1687. The Order consists of the Sovereign and sixteen Knights and Ladies, as well as certain \"extra\" knights (members of the British Royal Family and foreign monarchs). The Sovereign alone grants membership of the Order; he or she is not advised by the Government, as occurs with most other Orders. The sixteen members are required to be Scottish-born, though not the \"extra\" knights and ladies. The Order's primary emblem is the thistle, the national flower of Scotland. The motto is Nemo me impune lacessit (Latin for \"No one provokes me with impunity\"). The patron saint of the Order is St Andrew. Most British orders of chivalry cover the entire kingdom, but the three most exalted ones each pertain to one constituent country only. The Order of the Thistle, which pertains to Scotland, is the second-most senior in precedence.",
-    "url": "https://en.wikipedia.org/wiki/Order_of_the_Thistle"
+    "id": "tim-duncan",
+    "name": "Tim Duncan",
+    "summary": "Tim Duncan (born 1976) is a Virgin Islander American professional basketball player for the San Antonio Spurs of the National Basketball Association (NBA). The 6'11\" (2.11 m), 260-pound (118 kg) power forward/center is a four-time NBA champion, a three-time NBA Finals Most Valuable Player, and the current captain of the Spurs. He has also won the NBA Most Valuable Player Award twice, and has been voted into 11 NBA All-Star Games, 11 All-NBA Teams, and 11 All-Defensive Teams. Duncan graduated from college before entering the 1997 NBA Draft as the number one pick, and his list of accomplishments and leadership in the Spurs' NBA title runs in 1999, 2003, 2005, and 2007 have led basketball experts to consider him to be one of the greatest power forwards in NBA history. Off the court, Duncan is known for his quiet and unassuming ways, as well as his active philanthropy. He holds an honors degree in psychology and created the Tim Duncan Foundation to raise general health awareness and fund education and youth sports in various parts of the United States.",
+    "url": "https://en.wikipedia.org/wiki/Tim_Duncan"
   },
   "word": {
-    "id": "wyvern",
-    "word": "wyvern",
-    "url": "https://www.merriam-webster.com/dictionary/wyvern",
+    "id": "flibbertigibbet",
+    "word": "flibbertigibbet",
+    "url": "https://www.merriam-webster.com/dictionary/flibbertigibbet",
     "partOfSpeech": "noun",
-    "pronunciation": "WYE-vern",
-    "audioPath": "audio/words/wyvern.mp3",
-    "definitions": [
-      "a mythical animal usually represented as a 2-legged winged creature resembling a dragon"
-    ],
+    "pronunciation": "flib-er-tee-JIB-ut",
+    "audioPath": "audio/words/flibbertigibbet.mp3",
+    "definitions": ["a silly flighty person"],
     "examples": [
-      "Symbols commonly used in heraldry include a number of mythical creatures, among them the winged _wyvern_.",
-      "\"_Wyverns_ keep a silent watch over the people of Leicester from rooftops and steeples across the city. Their coiled, winged bodies, part serpent part dragon, have been entwined in our ancient history for hundreds of years.\" - _Leicester Mercury_ (United Kingdom), June 13, 2014"
+      "She plays a flibbertigibbet on the sitcom, but off the set, she is a no-nonsense woman in full control of her career and family."
     ],
-    "origin": "Wyverns are often depicted as having the tail of a viper-a venomous snake-and that fact is reflected in the etymology of \"wyvern\": it comes ultimately from the Latin word \"vipera,\" which means \"viper.\" (\"Vipera\" is also, of course, the source of our word \"viper.\") The creature the wyvern most closely resembles, however, is the also-mythical dragon. \"Dragon\" is a much older word-it has been in use since the 13th century, while \"wyvern\" dates to the early 17th-but it too has snakes in its history. The word originally referred not to the lizard-like creature we imagine today but to a huge serpent."
+    "origin": "\"Flibbertigibbet\" is one of many incarnations of the Middle English word \"flepergebet,\" meaning \"gossip\" or \"chatterer.\" (Others include \"flybbergybe,\" \"flibber de' Jibb,\" and \"flipperty-gibbet.\") It is a word of onomatopoeic origin, created from sounds that were intended to represent meaningless chatter. Shakespeare apparently saw a devilish aspect to a gossipy chatterer; he used \"flibbertigibbet\" in _King Lear_ as the name of a devil. This use never caught on, but the devilish connotation of the word reappeared over 200 years later when Sir Walter Scott used \"Flibbertigibbet\" as the nickname of an impish urchin in the novel _Kenilworth_. The impish meaning derived from Scott's character was short-lived and was laid to rest by the 19th-century's end, leaving us with only the \"silly flighty person\" meaning."
   }
 }

@@ -1,134 +1,132 @@
 {
   "artist": {
-    "id": "john-singleton-copley",
-    "name": "John Singleton Copley",
-    "dates": "Jul 3, 1738 - Sep 9, 1815",
-    "mainImg": "img/art/artists/john-singleton-copley.jpg",
+    "id": "fra-bartolomeo",
+    "name": "Fra Bartolomeo",
+    "dates": "Mar 28, 1472 - Oct 6, 1517",
+    "mainImg": "img/art/artists/fra-bartolomeo.jpg",
     "artworkImgs": [
       {
-        "name": "John Singleton Copley Self-Portrait",
-        "path": "img/art/artworks/john-singleton-copley-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/john-singleton-copley-self-portrait-john-singleton-copley/BAG7-hq2qMyuQw"
+        "name": "The Nativity",
+        "path": "img/art/artworks/fra-bartolomeo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nativity-fra-bartolommeo-baccio-della-porta-italian-1472–1517/vQFygKf39Q3mdA"
       },
       {
-        "name": "Mrs. John Winthrop",
-        "path": "img/art/artworks/john-singleton-copley-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/mrs-john-winthrop-john-singleton-copley/EQF-E2E1BGwnUA"
+        "name": "The Scene of Christ in the Temple",
+        "path": "img/art/artworks/fra-bartolomeo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-scene-of-christ-in-the-temple-fra-bartolommeo/EAG5zykGKNA5uw"
       },
       {
-        "name": "General Thomas Gage",
-        "path": "img/art/artworks/john-singleton-copley-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/general-thomas-gage-john-singleton-copley-1738–1815-american-active-in-britain-from-1776/VwHXl773J5CbJg"
+        "name": "The Rest on the Flight into Egypt with Saint John the Baptist",
+        "path": "img/art/artworks/fra-bartolomeo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-rest-on-the-flight-into-egypt-with-saint-john-the-baptist/XAHz4mFC77jQ7w"
       },
       {
-        "name": "Young Lady with a Bird and a Dog",
-        "path": "img/art/artworks/john-singleton-copley-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/young-lady-with-a-bird-and-a-dog-john-singleton-copley/swGGJXsAyVaB8A"
+        "name": "The Annunciation (recto); Faint View of Buildings (verso)",
+        "path": "img/art/artworks/fra-bartolomeo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-annunciation-recto-faint-view-of-buildings-verso-fra-bartolomeo-bartolomeo-di-paolo-del-fattorino/JQFtWAb5Wyvbjg"
       },
       {
-        "name": "Watson and the Shark",
-        "path": "img/art/artworks/john-singleton-copley-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/watson-and-the-shark-john-singleton-copley/dAF7hd_3oiVxfw"
+        "name": "Portrait of a Man",
+        "path": "img/art/artworks/fra-bartolomeo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-fra-bartolomeo-bartolomeo-di-paolo-del-fattorino/uQH7yY7ki_e1eQ"
       },
       {
-        "name": "The Return of Neptune",
-        "path": "img/art/artworks/john-singleton-copley-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-return-of-neptune-john-singleton-copley/4AFy05FZgTyduQ"
+        "name": "Madonna and Child with the Young Saint John the Baptist",
+        "path": "img/art/artworks/fra-bartolomeo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-with-the-young-saint-john-the-baptist-fra-bartolomeo-bartolomeo-di-paolo-del-fattorino/DwGbO5YSb2Ex4Q"
       }
     ],
     "summary": [
-      "John Singleton Copley RA was an Anglo-American painter, active in both colonial America and England. He was probably born in Boston, Massachusetts, to Richard and Mary Singleton Copley, both Anglo-Irish. After becoming well-established as a portrait painter of the wealthy in colonial New England, he moved to London in 1774, never returning to America. In London, he met considerable success as a portraitist for the next two decades, and also painted a number of large history paintings, which were innovative in their readiness to depict modern subjects and modern dress. His later years were less successful, and he died heavily in debt."
+      "Fra Bartolomeo or Bartolommeo OP, also known as Bartolommeo di Pagholo, Bartolommeo di S. Marco, and his original name Baccio della Porta, was an Italian Renaissance painter of religious subjects. He spent all his career in Florence until his mid-forties, when he travelled to work in various cities, as far south as Rome. He trained with Cosimo Roselli and in the 1490s fell under the influence of Savonarola, which led him to become a Dominican friar in 1500, renouncing painting for several years.",
+      "He was instructed to resume painting for the benefit of his order in 1504, and then developed an idealized High Renaissance style, seen in his Vision of St Bernard of that year, now in poor condition but whose \"figures and drapery move with a seraphic grace that must have struck the young Raphael with the force of revelation\".",
+      "He remained friends with Raphael, and each influenced the other.",
+      "His portrait of Savonarola remains the best known image of the reformer. Fra Bartolomeo painted both in oils and fresco, and some of his drawings are pure landscape sketches that are the earliest of this type from any Italian artist."
     ],
     "quote": null,
-    "movements": ["Realism", "Neoclassicism", "Romanticism", "Baroque"],
-    "mediums": ["Oil paint", "Chalk", "Pigment", "Drawing", "Laid paper", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/John_Singleton_Copley",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-singleton-copley/m01jl09"
+    "movements": ["Italian Renaissance", "Renaissance", "Florentine painting"],
+    "mediums": ["Ink", "Pen", "Drawing", "Chalk", "Pigment", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Fra_Bartolomeo",
+    "urlGoogle": "https://artsandculture.google.com/entity/fra-bartolomeo/m031bl"
   },
   "event": {
-    "id": "battle-of-dak-to",
-    "name": "Battle of Dak To",
-    "dates": "Nov 3, 1967 - Nov 22, 1967",
-    "mainImg": "img/events/battle-of-dak-to.jpg",
+    "id": "battle-of-steenkerque",
+    "name": "Battle of Steenkerque",
+    "dates": null,
+    "mainImg": "img/events/battle-of-steenkerque.jpg",
     "summary": [
-      "The battle of Dak To in Vietnam was a series of major engagements of the Vietnam War that took place between 3 and 23 November 1967, in Kon Tum Province, in the Central Highlands of the Republic of Vietnam. The action at Đắk Tô was one of a series of People's Army of Vietnam offensive initiatives that began during the second half of the year. PAVN attacks at Lộc Ninh, Song Be and at Con Thien and Khe Sanh, were other actions which, combined with Đắk Tô, became known as \"the border battles\". The post hoc purported objective of the PAVN forces was to distract American and South Vietnamese forces away from cities towards the borders in preparation for the Tet Offensive.",
-      "During the summer of 1967, engagements with PAVN forces in the area prompted the launching of Operation Greeley, a combined search and destroy effort by elements of the U. S. 4th Infantry Division and 173rd Airborne Brigade, along with the Army of the Republic of Vietnam 42nd Infantry Regiment, 22nd Division and Airborne units. The fighting was intense and lasted into late 1967, when the PAVN seemingly withdrew."
+      "The Battle of Steenkerque was fought on 3 August 1692, as a part of the Nine Years' War. It resulted in the victory of the French under Marshal François-Henri de Montmorency, duc de Luxembourg against a joint English-Scottish-Dutch-German army under Prince William of Orange. The battle took place near the village of Steenkerque in the Southern Netherlands, 50 kilometres south-west of Brussels. Steenkerque is now part of the Belgian municipality of Braine-le-Comte."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Dak_To",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-dak-to/m024pgl"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Steenkerque",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-steenkerque/m014rvd"
   },
   "funFacts": [
     {
-      "id": "154",
-      "fact": "Americans spend more than $630 million a year on golf balls.",
-      "category": ["Habits"]
+      "id": "481",
+      "fact": "Over 50 percent of your body heat is lost through your head and neck.",
+      "category": ["Anatomy"]
     },
-    {
-      "id": "323",
-      "fact": "The Lemon-Yellow Tree Frog is only active in the darkness of night.",
-      "category": ["Animals"]
-    }
+    { "id": "372", "fact": "A housefly hums in the key of F.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
-      "id": "553739",
-      "fact": "Melbourne gave some of its trees email addresses so residents could report problems. Instead, the trees received love letters."
+      "id": "554067",
+      "fact": "In the early 20th century, the area now known as Glass Beach in California was used as a trash dump. Decades of ocean tides have cleared the beach and polished the discarded bottles and automobile tail lights into colorful pebbles of sea glass."
     }
   ],
   "idiom": {
-    "id": "manna-from-heaven",
-    "term": "manna from heaven",
-    "definition": "An unexpected aid, advantage, or assistance, as in *After all the criticism in the media, that favorable evaluation was like manna from heaven.* This expression alludes to the food (*manna*) that miraculously appears to feed the Israelites on their journey from Egypt to the Promised Land (Exodus 16:15)."
+    "id": "see-the-elephant",
+    "term": "see the elephant",
+    "definition": "Experience more than one wants to, learn a hard lesson; also, see combat, especially for the first time. For example, *After the expedition lost two climbers in an avalanche, they had seen the elephant and turned back,* or *On his first tour of duty he saw the elephant.* This slangy expression, first recorded in 1835, alludes to having seen all the sights one can see, including that rare beast, and returning home unimpressed or disappointed."
   },
   "person": {
-    "id": "seleucus-i-nicator",
-    "name": "Seleucus I Nicator",
-    "dates": "Died 280 BC",
-    "mainImg": "img/people/seleucus-i-nicator.jpg",
+    "id": "adolf-heusinger",
+    "name": "Adolf Heusinger",
+    "dates": "Aug 4, 1897 - Nov 30, 1982",
+    "mainImg": "img/people/adolf-heusinger.jpg",
     "summary": [
-      "Seleucus I Nicator was one of the Diadochi. Having previously served as an infantry general under Alexander the Great, he eventually assumed the title of basileus and established the Seleucid Empire over the bulk of the territory which Alexander had conquered in Asia.",
-      "After the death of Alexander in June 323 BC, Seleucus initially supported Perdiccas, the regent of Alexander's empire, and was appointed Commander of the Companions and chiliarch at the Partition of Babylon in 323 BC. However, after the outbreak of the Wars of the Diadochi in 322, Perdiccas' military failures against Ptolemy in Egypt led to the mutiny of his troops in Pelusium. Perdiccas was betrayed and assassinated in a conspiracy by Seleucus, Peithon and Antigenes in Pelusium sometime in either 321 or 320 BC. At the Partition of Triparadisus in 321 BC, Seleucus was appointed Satrap of Babylon under the new regent Antipater. But almost immediately, the wars between the Diadochi resumed and Antigonus forced Seleucus to flee Babylon. Seleucus was only able to return to Babylon in 312 BC with the support of Ptolemy."
+      "Adolf Bruno Heinrich Ernst Heusinger was a German military officer, whose career spanned the German Empire, the Weimar Republic, Nazi Germany and West Germany. Heusinger joined the German Army as a volunteer in 1915 and later became a professional soldier. He served as acting Chief of the General Staff of the Army for two weeks in 1944, and was head of the military cartography office when the war ended. He later became a general for West Germany and served as head of the West German military from 1957 to 1961 as well as Chairman of the NATO Military Committee from 1961 to 1964."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Seleucus_I_Nicator",
-    "urlGoogle": "https://artsandculture.google.com/entity/seleucus-i-nicator/m0lj42"
+    "urlWiki": "https://en.wikipedia.org/wiki/Adolf_Heusinger",
+    "urlGoogle": "https://artsandculture.google.com/entity/adolf-heusinger/m07ymyx"
   },
   "place": {
-    "id": "mysuru",
-    "name": "Mysuru",
-    "mainImg": "img/places/mysuru.jpg",
+    "id": "dhaka",
+    "name": "Dhaka",
+    "mainImg": "img/places/dhaka.jpg",
     "summary": [
-      "Mysore, officially Mysuru, is a city in the southern part of the state of Karnataka, India. Mysore city is geographically located between 12° 18′ 26″ north latitude and 76° 38′ 59″ east longitude. It is located at an altitude of 2,427 ft.",
-      "Mysore is located in the foothills of the Chamundi Hills about 145.2 km towards the southwest of Bangalore and spread across an area of 152 km². Mysore City Corporation is responsible for the civic administration of the city, which is also the headquarters of the Mysore district and the Mysore division.",
-      "It served as the capital city of the Kingdom of Mysore for nearly six centuries from 1399 until 1956. The Kingdom was ruled by the Wadiyar dynasty, with a brief period of interregnum in the late 18th century when Hyder Ali and Tipu Sultan were in power. The Wadiyars were patrons of art and culture. Tipu Sultan and Hyder Ali also contributed significantly to the cultural and economic growth of the city and the state by planting mulberry trees introducing silk in the region and fighting 4 Anglo Mysore wars against the British. The cultural ambience and achievements of Mysore earned it the sobriquet Cultural Capital of Karnataka."
+      "Dhaka, formerly known as Dacca, is the capital and the largest city of Bangladesh. It is the ninth-largest, and the sixth-most densely populated city in the world, with a population over 21 million in the Greater Dhaka Area.",
+      "Dhaka is the economic, political and cultural center of Bangladesh. It is one of the major cities of South Asia, the largest city in Eastern South Asia and among the Bay of Bengal countries; and one of the largest cities among OIC countries. As part of the Bengal plain, the city is bounded by the Buriganga River, Turag River, Dhaleshwari River and Shitalakshya River. The city is located in an eponymous district and division.",
+      "The area of Dhaka has been inhabited since the first millennium. The city rose to prominence in the 17th century as a provincial capital and commercial center of the Mughal Empire in South Asia. Dhaka was the capital of the proto-industrialised Mughal Bengal for 75 years. As the center of the muslin trade in Bengal, it was one of the most prosperous cities in the Indian subcontinent. The medieval city was named Jahangirabad in honor of the Mughal Emperor Jahangir and hosted the seat of the Mughal Subahdar, Naib Nazims and Dewans."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Mysore",
-    "urlGoogle": "https://artsandculture.google.com/entity/mysuru/m0j603"
+    "urlWiki": "https://en.wikipedia.org/wiki/Dhaka",
+    "urlGoogle": "https://artsandculture.google.com/entity/dhaka/m0fnb4"
   },
   "quote": {
-    "id": "14",
-    "quote": "What you do speaks so loudly that I cannot hear what you say.",
-    "author": "Ralph Waldo Emerson"
+    "id": "111",
+    "quote": "What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.",
+    "author": "Warren Buffett"
   },
   "wiki": {
-    "id": "tamil-people",
-    "name": "Tamil people",
-    "summary": "The Tamil people are an ethnic group from South Asia with a recorded history going back almost two millennia. The oldest Tamil communities are those of southern India and north-eastern Sri Lanka. Unlike many ethnic groups, the Tamils have at no time been governed by a single political entity; Tamil̲akam, the traditional name for the Tamil lands, has always been under the rule of more than one kingdom or state. Despite this, the Tamil cultural identity has always been strong. Historically, this identity has been primarily linguistic, with Tamils being those whose first language was Tamil. In recent times, however, the definition has been broadened to also include emigrants of Tamil descent who maintain Tamil traditions, even when they no longer speak the language. Tamils are ethnically, linguistically and culturally related to the other Dravidian peoples of South Asia. There are an estimated 74 million Tamils around the world.",
-    "url": "https://en.wikipedia.org/wiki/Tamil_people"
+    "id": "vasa-ship",
+    "name": "Vasa (ship)",
+    "summary": "Vasa is a warship that was built for Gustavus Adolphus of Sweden from 1626 to 1628. The ship foundered and sank on her maiden voyage on August 10 1628 after sailing only about twenty minutes. Vasa fell into obscurity after some initial attempts at recovering her in the 17th century but was relocated in the late 1950s and salvaged with a largely intact hull on April 24 1961. Thousands of artifacts and the remains of 16 people were found inside or near Vasa by marine archaeologists. Among the many items found were clothing, weapons, cannons, tools, coins, cutlery, food, drink and six of the ten sails. The artifacts and the ship itself have provided historians with invaluable insight into details of naval warfare, shipbuilding techniques and everyday life in early 17th-century Sweden. Vasa was housed in a temporary museum called Wasavarvet (\"The Wasa Shipyard\") until 1987, and was then moved to the Vasa Museum in Stockholm. The ship is one of Sweden's most popular tourist attractions and has as of 2008 attracted more than 25 million visitors.",
+    "url": "https://en.wikipedia.org/wiki/Vasa_(ship)"
   },
   "word": {
-    "id": "quaff",
-    "word": "quaff",
-    "url": "https://www.merriam-webster.com/dictionary/quaff",
-    "partOfSpeech": "verb",
-    "pronunciation": "KWAHF",
-    "audioPath": "audio/words/quaff.mp3",
-    "definitions": ["to drink deeply"],
+    "id": "irrefragable",
+    "word": "irrefragable",
+    "url": "https://www.merriam-webster.com/dictionary/irrefragable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-REF-ruh-guh-bul",
+    "audioPath": "audio/words/irrefragable.mp3",
+    "definitions": ["impossible to refute", "impossible to break or alter"],
     "examples": [
-      "\"'Respite and nepenthe from thy memories of Lenore! Quaff, oh quaff this kind nepenthe and forget this lost Lenore!' / Quoth the raven, 'Nevermore.'\" (Edgar Allan Poe, _The Raven_)"
+      "In his opening statement, the prosecutor told the jury that he would be providing them with _irrefragable_ proof that the defendant had committed the crime.",
+      "\"It is an _irrefragable_ truth that each human life has its special needs and unique giftedness.\" -- From an opinion column by Ramnath Subramanian in the _El Paso Times_, June 2, 2011"
     ],
-    "origin": "Nowadays, \"quaff\" has an old-fashioned, literary sound to it. For more contemporary words that suggest drinking a lot of something, especially in big gulps and in large quantity, you might try \"drain,\" \"pound,\" or \"slug.\" If you are a daintier drinker, you might say that you prefer to \"sip,\" \"imbibe\" or \"partake in\" the beverage of your choice. \"Quaff\" is by no means the oldest of these terms -- earliest evidence of it in use is from the early 1500s, whereas \"sip\" dates to the 14th century -- but it is the only one with the mysterious \"origin unknown\" etymology."
+    "origin": "Since at least 1533, \"irrefragable\" has been used as an English adjective modifying things (such as arguments or data) that are impossible to refute. It derives from the Late Latin adjective \"irrefragabilis\" (of approximately the same meaning), which is itself derived from the Latin verb \"refragari,\" meaning \"to oppose or resist.\" \"Irrefragable\" rather quickly developed a second sense referring to things (such as rules, laws, and even objects) that cannot be broken or changed. There was once also a third sense that applied to inflexible or obstinate people."
   }
 }

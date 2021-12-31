@@ -1,129 +1,123 @@
 {
   "artist": {
-    "id": "deng-shiru",
-    "name": "Deng Shiru",
-    "dates": "1743 - 1805",
-    "mainImg": "img/art/artists/deng-shiru.jpg",
+    "id": "jan-miense-molenaer",
+    "name": "Jan Miense Molenaer",
+    "dates": "1610 - Sep 19, 1668",
+    "mainImg": "img/art/artists/jan-miense-molenaer.jpg",
     "artworkImgs": [
       {
-        "name": "Seal script calligraphy",
-        "path": "img/art/artworks/deng-shiru-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/seal-script-calligraphy-artist-deng-shiru/UQH_iXkhGXWdYg"
+        "name": "Woman at the Virginal",
+        "path": "img/art/artworks/jan-miense-molenaer-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-at-the-virginal-jan-miense-molenaer/hAFRd4XtuxcuSA"
       },
       {
-        "name": "Couplet in clerical script",
-        "path": "img/art/artworks/deng-shiru-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/couplet-in-clerical-script-artist-deng-shiru/DQESLwpgX1DywQ"
+        "name": "Self-Portrait with Family Members",
+        "path": "img/art/artworks/jan-miense-molenaer-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-with-family-members-jan-miense-molenaer/LAG_zAV0faspzA"
       },
       {
-        "name": "Commentary on the Book of Changes in seal script",
-        "path": "img/art/artworks/deng-shiru-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/commentary-on-the-book-of-changes-in-seal-script-artist-deng-shiru/QQGd8vuTpDMU4w"
+        "name": "Battle Between Carnival and Lent",
+        "path": "img/art/artworks/jan-miense-molenaer-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/battle-between-carnival-and-lent/EAEaanGWWIKOTQ"
       },
       {
-        "name": "Visiting the Realm of the Immortals",
-        "path": "img/art/artworks/deng-shiru-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/visiting-the-realm-of-the-immortals-artist-deng-shiru/KgHDx5ceDZ816g"
+        "name": "Allegory of Vanity",
+        "path": "img/art/artworks/jan-miense-molenaer-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/allegory-of-vanity-jan-miense-molenaer/8AFlscAn5-aZBg"
       },
       {
-        "name": "Poem on seeing off Adjutant Administrator Zhu in cursive script",
-        "path": "img/art/artworks/deng-shiru-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/poem-on-seeing-off-adjutant-administrator-zhu-in-cursive-script-artist-deng-shiru/cAGt_Yirk-tE8g"
+        "name": "The Five Senses: Taste",
+        "path": "img/art/artworks/jan-miense-molenaer-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-five-senses-taste-molenaer-jan-miense/WwF0ydUUt0hU3w"
+      },
+      {
+        "name": "The Five Senses: Sight",
+        "path": "img/art/artworks/jan-miense-molenaer-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-five-senses-sight-molenaer-jan-miense/KQFYGdID-sV4Rw"
       }
     ],
     "summary": [
-      "Deng Shirú; c. 1739/1743–1805 was a Chinese calligrapher during the Qing Dynasty.",
-      "Deng was born in Huaining 懷寧 in the Anhui 安徽 province. His style name was 'Wanbo' 顽伯 and his sobriquets were 'Wanbai shanren 皖白山人, Wan bai 完白, Guhuan, Gu wanzi 故浣子, Youji daoren 游笈道人, Fengshui yuzhang 鳳水漁長, and Longshan qiaozhang 龍山樵長'. Deng studied at the Shen Chun Academy. He later learned the art of Seal cutting."
+      "Jan Miense Molenaer, was a Dutch Golden Age genre painter whose style was a precursor to Jan Steen's work during Dutch Golden Age painting. He shared a studio with his wife, Judith Leyster, also a genre painter, as well as a portraitist and painter of still-life. Both Molenaer and Leyster may have been pupils of Frans Hals."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Deng_Shiru",
-    "urlGoogle": "https://artsandculture.google.com/entity/deng-shiru/m04f40_1"
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Etching", "Pencil", "Wood", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jan_Miense_Molenaer",
+    "urlGoogle": "https://artsandculture.google.com/entity/jan-miense-molenaer/m02w3218"
   },
   "event": {
-    "id": "battle-of-muhlberg",
-    "name": "Battle of Mühlberg",
-    "dates": null,
-    "mainImg": "img/events/battle-of-muhlberg.jpg",
+    "id": "1912-summer-olympics",
+    "name": "1912 Summer Olympics",
+    "dates": "Jul 6, 1912 - Jul 22, 1912",
+    "mainImg": "img/events/1912-summer-olympics.jpg",
     "summary": [
-      "The Battle of Mühlberg took place near Mühlberg in the Electorate of Saxony in 1547, during the Schmalkaldic War. The Catholic princes of the Holy Roman Empire led by the Holy Roman Emperor Charles V decisively defeated the Lutheran Schmalkaldic League of Protestant princes under the command of Elector John Frederick I of Saxony and Landgrave Philip I of Hesse.",
-      "The battle ended the Schmalkaldic war and led to the dissolution of the Schmalkaldic League."
+      "The 1912 Summer Olympics, officially known as the Games of the V Olympiad, were an international multi-sport event held in Stockholm, Sweden, between 5 May and 22 July 1912.",
+      "Twenty-eight nations and 2,408 competitors, including 48 women, competed in 102 events in 14 sports. With the exception of tennis and football and shooting, the games were held within a month with an official opening on 6 July. It was the last Olympics to issue solid gold medals and, with Japan's debut, the first time an Asian nation participated. Stockholm was the only bid for the games, and was selected in 1909.",
+      "The games were the first to have art competitions, women's diving, women's swimming, and the first to feature both the decathlon and the new pentathlon, both won by Jim Thorpe. Electric timing was introduced in athletics, while the host country disallowed boxing. Figure skating was rejected by the organizers because they wanted to promote the Nordic Games.",
+      "United States won the most gold medals, while Sweden won the most medals overall. These were the final Olympic Games for 8 years due to the disruption of the First World War. The next Olympic Games were held in 1920."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChlberg",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-mühlberg/m026dmp"
+    "urlWiki": "https://en.wikipedia.org/wiki/1912_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/1912-summer-olympics/m018ljb"
   },
   "funFacts": [
-    {
-      "id": "10",
-      "fact": "Mosquitoes are attracted to people who just ate bananas.",
-      "category": ["Animals"]
-    },
-    {
-      "id": "291",
-      "fact": "Africa is divided into more countries than any other continent.",
-      "category": ["Geography"]
-    }
+    { "id": "4", "fact": "Slugs have four noses.", "category": ["Animals"] },
+    { "id": "833", "fact": "Children have more taste buds than adults.", "category": ["Anatomy"] }
   ],
   "funFacts2": [
     {
-      "id": "554074",
-      "fact": "The NASA Vehicle Assembly Building in Florida is so huge it has its own weather."
+      "id": "504663",
+      "fact": "While an Oscar is of unnamed value to someone who wins (or loses) one, the actual trophy has a raw value of about $600."
     }
   ],
   "idiom": {
-    "id": "bright-eyed-and-bushy-tailed",
-    "term": "bright-eyed and bushy-tailed",
-    "definition": "Eager and alert, as in *Here is my new kindergarten class, all bright-eyed and bushy-tailed.* The allusion here is to the appearance of a squirrel, which with its beady eyes and bushy tail looks ready for anything. [1930s]"
+    "id": "a-feather-in-ones-cap",
+    "term": "a feather in one's cap",
+    "definition": "An act or deed to one's credit; a distinctive achievement. For example, *Getting all three factions to the bargaining table would be a feather in his cap.* This expression alludes to the practice of putting a feather on a soldier's cap for every enemy he kills, an early practice of some Native American tribes and many other peoples. [Early 1600s]"
   },
   "person": {
-    "id": "alexandra-kollontai",
-    "name": "Alexandra Kollontai",
-    "dates": "Mar 31, 1872 - Mar 9, 1952",
-    "mainImg": "img/people/alexandra-kollontai.jpg",
+    "id": "henry-kissinger",
+    "name": "Henry Kissinger",
+    "dates": "Born May 27, 1923",
+    "mainImg": "img/people/henry-kissinger.jpg",
     "summary": [
-      "Alexandra Mikhailovna Kollontai was a Marxist revolutionary and theoretician, first as a member of the Mensheviks, then from 1915 on as a Bolshevik. Serving as the People's Commissar for Welfare in the Bolshevik government in 1917–1918, she became the first woman in history to become an official member of a governing cabinet.",
-      "In 1922 Kollontai was appointed as a diplomatic counsellor to the Soviet legation in Norway, and soon received promotion to head the legation, one of the first women to hold such a position."
+      "Henry Alfred Kissinger is an American politician, diplomat, and geopolitical consultant who served as United States Secretary of State and National Security Advisor under the presidential administrations of Richard Nixon and Gerald Ford. A Jewish refugee who fled Nazi Germany with his family in 1938, he became National Security Advisor in 1969 and U.S. Secretary of State in 1973. For his actions negotiating a ceasefire in Vietnam, Kissinger received the 1973 Nobel Peace Prize under controversial circumstances, with two members of the committee resigning in protest.",
+      "A practitioner of Realpolitik, Kissinger played a prominent role in United States foreign policy between 1969 and 1977. During this period, he pioneered the policy of détente with the Soviet Union, orchestrated the opening of relations with the People's Republic of China, engaged in what became known as shuttle diplomacy in the Middle East to end the Yom Kippur War, and negotiated the Paris Peace Accords, ending American involvement in the Vietnam War."
     ],
-    "quote": "“The worker-mother must learn not to differentiate between yours and mine; she must remember that there are only our children, the children of Russia’s communist workers.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Alexandra_Kollontai",
-    "urlGoogle": "https://artsandculture.google.com/entity/alexandra-kollontai/m01q88d"
+    "quote": "“The real distinction is between those who adapt their purposes to reality and those who seek to mold reality in the light of their purposes.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Kissinger",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-kissinger/m03k_f"
   },
   "place": {
-    "id": "montgomery",
-    "name": "Montgomery",
-    "mainImg": "img/places/montgomery.jpg",
+    "id": "mumbai",
+    "name": "Mumbai",
+    "mainImg": "img/places/mumbai.jpg",
     "summary": [
-      "Montgomery is the capital city of the U.S. state of Alabama and the county seat of Montgomery County. Named for Richard Montgomery, it stands beside the Alabama River, on the coastal Plain of the Gulf of Mexico. In the 2010 Census, Montgomery's population was 205,764. It is the second most populous city in Alabama, after Birmingham, and is the 118th most populous in the United States. The Montgomery Metropolitan Statistical Area's population in 2010 was estimated at 374,536; it is the fourth largest in the state and 136th among United States metropolitan areas.",
-      "The city was incorporated in 1819 as a merger of two towns situated along the Alabama River. It became the state capital in 1846, representing the shift of power to the south-central area of Alabama with the growth of cotton as a commodity crop of the Black Belt and the rise of Mobile as a mercantile port on the Gulf Coast. In February 1861, Montgomery was chosen the first capital of the Confederate States of America, which it remained until the Confederate seat of government moved to Richmond, Virginia, in May of that year."
+      "Mumbai is the capital city of the Indian state of Maharashtra. According to United Nations, as of 2018, Mumbai was the second most populous city in India after Delhi and the seventh most populous city in the world with a population of almost 20 million. As per Indian government population census of 2011, Mumbai was the most populous city in India with an estimated city proper population of 12.5 million living under Municipal Corporation of Greater Mumbai. Mumbai is the centre of the Mumbai Metropolitan Region, the sixth most populous metropolitan area in the world with a population of over 23 million. Mumbai lies on the Konkan coast on the west coast of India and has a deep natural harbour. In 2008, Mumbai was named an alpha world city. It has the highest number of millionaires and billionaires among all cities in India. Mumbai is home to three UNESCO World Heritage Sites: the Elephanta Caves, Chhatrapati Shivaji Maharaj Terminus, and the city's distinctive ensemble of Victorian and Art Deco buildings.",
+      "The seven islands that constitute Mumbai were originally home to communities of Marathi language speaking Koli people, who originated in Gujarat in prehistoric times."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Montgomery,_Alabama",
-    "urlGoogle": "https://artsandculture.google.com/entity/montgomery/m0fttg"
-  },
-  "quote": {
-    "id": "98",
-    "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
-    "author": "Thomas Edison"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mumbai",
+    "urlGoogle": "https://artsandculture.google.com/entity/mumbai/m04vmp"
   },
   "wiki": {
-    "id": "uru-ages-beyond-myst",
-    "name": "Uru: Ages Beyond Myst",
-    "summary": "Uru: Ages Beyond Myst is an adventure video game developed by Cyan Worlds and published by Ubisoft. Released in November 2003, the title is the fourth game in the Myst canon. Departing from previous games of the franchise, Uru takes place in the modern era and allows players to customize their onscreen avatars. Players use their avatars to explore the abandoned city of an ancient race known as the D'ni, uncover story clues and solve puzzles. Uru took five years and $12 million to complete. It was initially conceived as a multiplayer game, but the multiplayer component was delayed and eventually canceled, although an online version (Myst Online: Uru Live) was available in 2007 and 2008. Uru was not as well received as previous Myst titles. Critics admired the visuals and new features of the game but criticized the lack of multiplayer in the retail version and clunky controls. Uru sold poorly, while the first three games had sold millions of copies each. The game was a critical and commercial disappointment for Cyan, causing the company financial troubles; nevertheless, it has attracted a cult following.",
-    "url": "https://en.wikipedia.org/wiki/Uru:_Ages_Beyond_Myst"
+    "id": "jogaila",
+    "name": "Jogaila",
+    "summary": "Jogaila was a Grand Duke of Lithuania and King of Poland. He ruled in Lithuania from 1377, at first with his uncle, Kęstutis. In 1386, he converted to Christianity, was baptized as Władysław, married the eleven-year-old Queen Jadwiga of Poland, and was crowned Polish king as Władysław Jagiełło. His reign in Poland lasted a further forty-eight years and laid the foundation for the centuries long Polish-Lithuanian union. He gave his name to the Jagiellon branch of the Gediminids dynasty which ruled both states until 1572, and became one of the most influential dynasties in medieval Europe. Jogaila was the last pagan ruler of medieval Lithuania. He held the title Didysis Kunigaikštis. As King of Poland, he pursued a policy of close alliances with Lithuania against the Teutonic Order. The allied victory at the Battle of Grunwald in 1410, followed by the First Peace of Toruń, secured the Polish and Lithuanian borders and marked the emergence of the Polish-Lithuanian alliance as a major European force. The reign of Władysław II Jagiełło extended Polish frontiers and is often considered the beginning of Poland's \"Golden Age\".",
+    "url": "https://en.wikipedia.org/wiki/Jogaila"
   },
   "word": {
-    "id": "tantivy",
-    "word": "tantivy",
-    "url": "https://www.merriam-webster.com/dictionary/tantivy",
-    "partOfSpeech": "adverb",
-    "pronunciation": "tan-TIV-ee",
-    "audioPath": "audio/words/tantivy.mp3",
-    "definitions": ["in a headlong dash : at a gallop"],
+    "id": "desideratum",
+    "word": "desideratum",
+    "url": "https://www.merriam-webster.com/dictionary/desideratum",
+    "partOfSpeech": "noun, plural desiderata",
+    "pronunciation": "dih-sid-uh-RAH-tum",
+    "audioPath": "audio/words/desideratum.mp3",
+    "definitions": ["something desired as essential"],
     "examples": [
-      "Once the school bell sounded signaling dismissal, the children rose from their desks and headed tantivy for the exits."
+      "\"For … every unknown actor dying for a break, a speaking part in a Woody Allen movie is the _desideratum_.\" - From an article by Tracy Young in _Vogue_, November 1990",
+      "\"200 vendors will offer a wide array of garden-related items…. 'Window-shopping' is welcome, but the event invites you to stock up on your garden _desiderata_.\" - From an article by Tom Karwin in the _Monterey County Herald_ (California), March 16, 2012"
     ],
-    "origin": "\"Tantivy\" is also a noun meaning \"a rapid gallop\" or \"an impetuous rush.\" Although its precise origin isn't known, one theory has it that \"tantivy\" represents the sound of a galloping horse's hooves. The noun does double duty as a word meaning \"the blare of a trumpet or horn.\" The second use probably evolved from confusion with \"tantara,\" a word for the sound of a trumpet that came about as an imitation of that sound. Both \"tantivy\" and \"tantara\" were used during foxhunts; in the heat of the chase people may have jumbled the two."
+    "origin": "We'd like to introduce you to some close cousins of \"desire.\" All trace their roots to the Latin \"sider-,\" meaning \"heavenly body.\" \"Desiderare,\" meaning \"to long for,\" was born when Latin \"de-\" was prefixed to \"sider-.\" \"Desiderare\" begat Anglo-French \"desirer,\" which in turn brought forth English \"desire,\" \"desirous,\" and \"desirable\" in the 13th and 14th centuries. But many years later, in the 17th century, English acquired \"desideration\" (\"longing\"), \"desiderate\" (\"to wish for\"), and finally \"desideratum,\" all of which can lay claim to direct ancestry from \"desiderare.\""
   }
 }

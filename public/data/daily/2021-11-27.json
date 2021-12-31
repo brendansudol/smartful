@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "michael-wolgemut",
+    "name": "Michael Wolgemut",
+    "dates": "1434 - Nov 30, 1519",
+    "mainImg": "img/art/artists/michael-wolgemut.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Virgin and Child with St. Anne, Memorial Painting for Anna Groß",
+        "path": "img/art/artworks/michael-wolgemut-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-with-st-anne-memorial-painting-for-anna-groß-michael-wolgemut/9AH97b4j2BAkwQ"
+      },
+      {
+        "name": "View of Nuremberg from the Southeast, from the Nuremberg Chronicle of Hartmann Schedel",
+        "path": "img/art/artworks/michael-wolgemut-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-nuremberg-from-the-southeast-from-the-nuremberg-chronicle-of-hartmann-schedel-design-by-michael-wolgemut-and-wilhelm-pleydenwurff/ZAFa9swsGGOwwg"
+      },
+      {
+        "name": "Panorama from the Krell Altarpiece",
+        "path": "img/art/artworks/michael-wolgemut-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/panorama-from-the-krell-altarpiece-anonymous-formerly-attributed-to-michael-wolgemut/YQEukuW_p8shNQ"
+      },
+      {
+        "name": "The Fall and Expulsion of Adam and Eve from Paradise",
+        "path": "img/art/artworks/michael-wolgemut-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-fall-and-expulsion-of-adam-and-eve-from-paradise-michel-wolgemut/GwGOFM1EL4euSg"
+      },
+      {
+        "name": "Registrum huius Operis libri cronicarum cum figuris et ymagibus ab inicio mundi",
+        "path": "img/art/artworks/michael-wolgemut-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/registrum-huius-operis-libri-cronicarum-cum-figuris-et-ymagibus-ab-inicio-mundi-hartmann-schedel-anton-koberger-michael-wolgemut-wilhelm-pleydenwurff/fgFo-KZSxtxZdQ"
+      },
+      {
+        "name": "The Judgement of Solomon",
+        "path": "img/art/artworks/michael-wolgemut-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-judgement-of-solomon-anonymous-possibly-michael-wolgemut-and-or-wilhelm-pleydenwurff/mwGtgXniTirBNg"
+      }
+    ],
+    "summary": [
+      "Michael Wolgemut was a German painter and printmaker, who ran a workshop in Nuremberg. He is best known as having taught the young Albrecht Dürer.",
+      "The importance of Wolgemut as an artist rests not only on his own individual works, but also on the fact that he was the head of a large workshop, in which many different branches of the fine arts were carried on by a great number of pupil-assistants, including Albrecht Dürer, who completed an apprenticeship with him between 1486-9. In his atelier large altar-pieces and other sacred paintings were executed, and also elaborate carved painted wood retables, consisting of crowded subjects in high relief, richly decorated with gold and colour.",
+      "Wolgemut was a leader among the artists reviving the standards of German woodcut at this time. The production of woodcuts was a large part of the work of the workshop, the blocks being cut from Wolgemut's designs. They were mostly made to supply the many publishers in Nuremberg with book illustrations, with the most attractive also being sold separately. Wolgemut's woodcuts followed the advances in engraving, depicting volume and shading to a much greater extent than before."
+    ],
+    "quote": null,
+    "movements": ["Renaissance", "German Renaissance", "Northern Renaissance"],
+    "mediums": ["Book", "Wood", "Laid paper", "Vellum"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Michael_Wolgemut",
+    "urlGoogle": "https://artsandculture.google.com/entity/michael-wolgemut/m06r0ky"
+  },
+  "event": {
+    "id": "battle-of-hill-609",
+    "name": "Battle of Hill 609",
+    "dates": "Apr 27, 1943 - May 1, 1943",
+    "mainImg": "img/events/battle-of-hill-609.jpg",
+    "summary": [
+      "The Battle of Hill 609 took place at Djebel Tahent in northwestern Tunisia during the Tunisia Campaign. The battle was for control over the key strategic height Hill 609 and its surrounding area between the American forces of the U.S. II Corps and German units of the Afrika Korps. The battle proved a formative experience for the American forces - in their first clear-cut victory of the campaign, and has been called \"the American Army's coming-of-age.\""
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Hill_609",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-hill-609/m0h3rqn3"
+  },
+  "funFacts": [
+    {
+      "id": "287",
+      "fact": "Wisconsin has points located farther east than parts of Florida.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "276",
+      "fact": "Grizzly bears run as fast as the average horse.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "522227",
+      "fact": "Blood donors in Sweden receive a thank you text when their blood is used."
+    }
+  ],
+  "person": {
+    "id": "koxinga",
+    "name": "Koxinga",
+    "dates": "Aug 27, 1624 - Jun 23, 1662",
+    "mainImg": "img/people/koxinga.jpg",
+    "summary": [
+      "Zheng Chenggong, Prince of Yanping, better known internationally by his Dutch-Romanised Hokkien honorific Koxinga or Coxinga, was a Chinese Ming loyalist who resisted the Qing conquest of China in the 17th century, fighting them on China's southeastern coast.",
+      "In 1661, Koxinga defeated the Dutch outposts on Formosa and established a dynasty, the House of Koxinga, which ruled the island as the Kingdom of Tungning from 1661 to 1683."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Koxinga",
+    "urlGoogle": "https://artsandculture.google.com/entity/koxinga/m017d2_"
+  },
+  "place": {
+    "id": "oaxaca",
+    "name": "Oaxaca",
+    "mainImg": "img/places/oaxaca.jpg",
+    "summary": [
+      "The city and municipality of Oaxaca de Juárez, or simply Oaxaca, is the capital and largest city of the eponymous Mexican state. It is located in the Centro District in the Central Valleys region of the state, on the foothills of the Sierra Madre at the base of the Cerro del Fortín extending to the banks of the Atoyac River. The city relies heavily on tourism, which is based on its large number of colonial-era structures as well as the native Zapotec and Mixtec cultures and archeological sites. The city, together with the archeological site of Monte Albán, was named a World Heritage Site in 1987. It is also the home of the month-long cultural festival called the \"Guelaguetza\", which features Oaxacan dance from the seven regions, music and a beauty pageant for indigenous women.",
+      "It is nicknamed \"la Verde Antequera\" due to its prior name and the variety of structures built from a native green stone. The name Oaxaca is derived from the Nahuatl name for the place, Huaxyacac, which was Hispanicized to Guajaca, later spelled Oaxaca. In 1872, \"de Juárez\" was added in honor of Benito Juárez, who was a native of this state."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Oaxaca_City",
+    "urlGoogle": "https://artsandculture.google.com/entity/oaxaca/m01bl0v"
+  },
+  "wiki": {
+    "id": "utah-state-route-128",
+    "name": "Utah State Route 128",
+    "summary": "State Route 128 is a state highway in the U.S. state of Utah. The road is part of the Utah Scenic Byways program, and also forms part of the Dinosaur Diamond Prehistoric Highway, a National Scenic Byway. Residents of Moab frequently refer to SR-128 as \"the river road\", after the Colorado River, which the highway follows. The highway was originally constructed to connect rural cities in eastern Utah with Grand Junction, Colorado, the largest city in the region. The highway was partially merged into the Utah state highway system in 1931; the rest was taken over by the state and assigned route number 128 in 1933. Today, the highway is used as a scenic drive for visitors to the area. The highway crosses the Colorado River at the site of the Dewey Bridge, listed on the National Register of Historic Places. This bridge was the longest suspension bridge in Utah until April 2008 when it was destroyed by a fire started by a child playing with matches. The future of the bridge is uncertain, with Grand County conducting a study to determine the feasibility of reconstructing it.",
+    "url": "https://en.wikipedia.org/wiki/Utah_State_Route_128"
+  },
+  "word": {
+    "id": "vendetta",
+    "word": "vendetta",
+    "url": "https://www.merriam-webster.com/dictionary/vendetta",
+    "partOfSpeech": "noun",
+    "pronunciation": "ven-DET-uh",
+    "audioPath": "audio/words/vendetta.mp3",
+    "definitions": [
+      "a feud between different families",
+      "an often prolonged series of retaliatory, vengeful, or hostile acts or exchange of such acts"
+    ],
+    "examples": [
+      "The _vendetta_ between the two more powerful families on the island reached new heights when the prominent son of one family and two of his associates suddenly went missing.",
+      "\"Lawyers for the indicted … sheriff are accusing the federal prosecutor of misconduct, saying he has a _vendetta_ against their client and threatened him with arrest during a heated May meeting over U.S. Forest Service patrols in northern New Mexico.\" - Russell Contreras, _Albuquerque Journal_, August 20, 2014"
+    ],
+    "origin": "_Vendetta_ has been getting even in English since the mid-19th century. English speakers borrowed _vendetta_, spelling and all, from Italian, in which it means \"revenge.\" It ultimately traces to the Latin verb _vindicare_, which means \"to lay claim to\" or \"to avenge.\" That Latin word is also in the family tree of many other English terms related to getting even, including _avenge_, _revenge_, _vengeance_, _vindicate_, and _vindictive_."
+  }
+}

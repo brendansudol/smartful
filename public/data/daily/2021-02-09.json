@@ -1,129 +1,129 @@
 {
   "artist": {
-    "id": "zhang-xiaogang",
-    "name": "Zhang Xiaogang",
-    "dates": "Born 1958",
-    "mainImg": "img/art/artists/zhang-xiaogang.jpg",
+    "id": "giuseppe-penone",
+    "name": "Giuseppe Penone",
+    "dates": "Born Apr 3, 1947",
+    "mainImg": "img/art/artists/giuseppe-penone.jpg",
     "artworkImgs": [
       {
-        "name": "The Collapsed Bed",
-        "path": "img/art/artworks/zhang-xiaogang-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-collapsed-bed-zhang-xiaogang/IQHrjtmK_EoDAw"
+        "name": "Lo spazio della scultura",
+        "path": "img/art/artworks/giuseppe-penone-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/lo-spazio-della-scultura-giuseppe-penone/JwF3KbUA-PDjYA"
       },
       {
-        "name": "Bloodline-Big Family Series",
-        "path": "img/art/artworks/zhang-xiaogang-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/bloodline-big-family-series-zhang-xiaogang/aQHHl3GXUSx6yw"
+        "name": "gesto vegetale",
+        "path": "img/art/artworks/giuseppe-penone-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/gesto-vegetale-giuseppe-penone/7wGj5VWLHVq-DA"
       },
       {
-        "name": "Bloodline: Big Family No.3",
-        "path": "img/art/artworks/zhang-xiaogang-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/bloodline-big-family-no-3-zhang-xiaogang/NwH734isnVP8kg"
+        "name": "Spoglia d’oro su spine d’acacia",
+        "path": "img/art/artworks/giuseppe-penone-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/spoglia-d’oro-su-spine-d’acacia-giuseppe-penone/rwFpadfDHWa7ZA"
       },
       {
-        "name": "Heaven No.4",
-        "path": "img/art/artworks/zhang-xiaogang-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/heaven-no-4-zhang-xiaogang/tAGZ5fg-vKdzfg"
+        "name": "Sculture di linfa",
+        "path": "img/art/artworks/giuseppe-penone-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/sculture-di-linfa-giuseppe-penone/JgEUbmQbWgKqow"
       },
       {
-        "name": "Train Window - Red Plum",
-        "path": "img/art/artworks/zhang-xiaogang-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/train-window-red-plum-zhang-xiaogang/bAHFyfr5C0ByzA"
+        "name": "5-meter Tree",
+        "path": "img/art/artworks/giuseppe-penone-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/5-meter-tree-giuseppe-penone/vgFbbIZKYViF8Q"
       },
       {
-        "name": "Painter with Mother as a Young Woman",
-        "path": "img/art/artworks/zhang-xiaogang-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/painter-with-mother-as-a-young-woman-zhang-xiaogang/fAHJOUp7hQ1pDw"
+        "name": "Corteccia di cuoio",
+        "path": "img/art/artworks/giuseppe-penone-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/corteccia-di-cuoio-giuseppe-penone/6AE5AZwFRxakug"
       }
     ],
     "summary": [
-      "Zhang Xiaogang is a contemporary Chinese symbolist and surrealist painter. Paintings in his Bloodline series are predominantly monochromatic, stylized portraits of Chinese people, usually with large, dark-pupiled eyes, posed in a stiff manner deliberately reminiscent of family portraits from the 1950s and 1960s. Recently, he also created sculptures, translating for the first time into three dimensions many characters of the sort seen in his \"Bloodlines—Big Family\" portrait series. These sculptures have featured in many exhibits and continue his work as one of China's leading, and most highly sought-after, contemporary artists."
+      "Giuseppe Penone is an Italian artist and sculptor, known for his large-scale sculptures of trees that are interested in the link between man and the natural world. His early work is often associated with the Arte povera movement. In 2014, Penone was awarded the prestigious Praemium Imperiale award. He currently lives and works in Turin, Italy."
     ],
     "quote": null,
-    "movements": ["Contemporary art"],
-    "mediums": ["Oil paint", "Fiberglass", "Glass", "Textile", "Photograph", "Iron"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Zhang_Xiaogang",
-    "urlGoogle": "https://artsandculture.google.com/entity/zhang-xiaogang/m0chn1c"
+    "movements": ["Contemporary art", "Arte Povera", "Conceptual art"],
+    "mediums": ["Sculpture", "Bronze", "Metal", "Rock", "Leather", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Penone",
+    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-penone/m08wz_z"
   },
   "event": {
-    "id": "battle-of-the-lys",
-    "name": "Battle of the Lys",
-    "dates": "Apr 9, 1918 - Apr 29, 1918",
-    "mainImg": "img/events/battle-of-the-lys.jpg",
+    "id": "allied-invasion-of-italy",
+    "name": "Allied invasion of Italy",
+    "dates": "Sep 3, 1943 - Sep 17, 1943",
+    "mainImg": "img/events/allied-invasion-of-italy.jpg",
     "summary": [
-      "The Battle of the Lys, also known as the Fourth Battle of Ypres, was fought from 7 April to 29 April 1918 and was part of the German Spring Offensive in Flanders during World War I. It was originally planned by General Erich Ludendorff as Operation George but was reduced to Operation Georgette, with the objective of capturing Ypres, forcing the British forces back to the Channel ports and out of the war. In planning, execution and effects, Georgette was similar to Operation Michael, earlier in the Spring Offensive."
+      "The Allied invasion of Italy was the Allied amphibious landing on mainland Italy that took place on 3 September 1943 during the early stages of the Italian Campaign of World War II. The operation was undertaken by General Sir Harold Alexander's 15th Army Group and followed the successful invasion of Sicily. The main invasion force landed around Salerno on 9 September on the western coast in Operation Avalanche, while two supporting operations took place in Calabria and Taranto."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_the_Lys_%281918%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-the-lys/m054ybn"
+    "urlWiki": "https://en.wikipedia.org/wiki/Allied_invasion_of_Italy",
+    "urlGoogle": "https://artsandculture.google.com/entity/allied-invasion-of-italy/m028nhh"
   },
   "funFacts": [
+    { "id": "848", "fact": "Wild camels once roamed Arizona's deserts.", "category": ["Animals"] },
     {
-      "id": "224",
-      "fact": "America's 1st roller coaster was built in 1827 to carry coal from a mine to boats below.",
-      "category": ["Firsts"]
-    },
-    {
-      "id": "248",
-      "fact": "Snoopy is the most common dog name beginning with the letter S.",
-      "category": ["Animals"]
+      "id": "713",
+      "fact": "An egg that is fresh will sink in water, but a stale one won't.",
+      "category": ["Make-it-Easies"]
     }
   ],
   "funFacts2": [
-    { "id": "504749", "fact": "A newborn giant panda is about the size of a stick of butter." }
+    {
+      "id": "504753",
+      "fact": "The office cubicle was invented by Robert Propst in 1968. His original design was called the Action Office System and provided “a social kind of privacy” for the worker."
+    }
   ],
   "idiom": {
-    "id": "theres-no-fool-like-an-old-fool",
-    "term": "there's no fool like an old fool",
-    "definition": "An old fool is the worst kind of fool, as in *He's marrying a woman fifty years his junior---there's no fool like an old fool.* This adage, now considered somewhat offensive for stereotyping old people, appeared in John Heywood's 1546 proverb collection and has been repeated ever since."
+    "id": "stew-in-ones-own-juice",
+    "term": "stew in one's own juice",
+    "definition": "Suffer the consequences of one's actions, as in *He's run into debt again, but this time we're leaving him to stew in his own juice.* This metaphoric term alludes to cooking something in its own liquid. Versions of it, such as *fry in one's own grease,* date from Chaucer's time, but the present term dates from the second half of the 1800s."
   },
   "person": {
-    "id": "julius-caesar",
-    "name": "Julius Caesar",
-    "dates": "Died 43 BC",
-    "mainImg": "img/people/julius-caesar.jpg",
+    "id": "frederick-douglass",
+    "name": "Frederick Douglass",
+    "dates": "February 1818 - Feb 20, 1895",
+    "mainImg": "img/people/frederick-douglass.jpg",
     "summary": [
-      "Gaius Julius Caesar, known simply as Julius Caesar, was a Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. He was also a historian and author of Latin prose.",
-      "In 60 BC, Caesar, Crassus and Pompey formed the First Triumvirate, a political alliance that dominated Roman politics for several years. Their attempts to amass power as Populares were opposed by the Optimates within the Roman Senate, among them Cato the Younger with the frequent support of Cicero. Caesar rose to become one of the most powerful politicians in the Roman Republic through a number of his accomplishments, notably his victories in the Gallic Wars, completed by 51 BC. During this time, Caesar became the first Roman general to cross both the English Channel and the Rhine River, when he built a bridge across the Rhine and crossed the Channel to invade Britain. Caesar's wars extended Rome's territory to Britain and past Gaul. These achievements granted him unmatched military power and threatened to eclipse the standing of Pompey, who had realigned himself with the Senate after the death of Crassus in 53 BC."
+      "Frederick Douglass was an American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his oratory and incisive antislavery writings. In his time, he was described by abolitionists as a living counter-example to slaveholders' arguments that slaves lacked the intellectual capacity to function as independent American citizens. Northerners at the time found it hard to believe that such a great orator had once been a slave.",
+      "Douglass wrote several autobiographies. He described his experiences as a slave in his 1845 autobiography, Narrative of the Life of Frederick Douglass, an American Slave, which became a bestseller, and was influential in promoting the cause of abolition, as was his second book, My Bondage and My Freedom. After the Civil War, Douglass remained an active campaigner against slavery and wrote his last autobiography, Life and Times of Frederick Douglass. First published in 1881 and revised in 1892, three years before his death, it covered events during and after the Civil War."
     ],
-    "quote": "“I have lived long enough to satisfy both nature and glory.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Julius_Caesar",
-    "urlGoogle": "https://artsandculture.google.com/entity/julius-caesar/m041wm"
+    "quote": "“You have seen how a man was made a slave; you shall see how a slave was made a man.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_Douglass",
+    "urlGoogle": "https://artsandculture.google.com/entity/frederick-douglass/m02zg0"
   },
   "place": {
-    "id": "portland",
-    "name": "Portland",
-    "mainImg": "img/places/portland.jpg",
+    "id": "palestinian-territories",
+    "name": "Palestinian territories",
+    "mainImg": "img/places/palestinian-territories.jpg",
     "summary": [
-      "Portland is the most populous city in the U.S. state of Maine and the seat of Cumberland County. Portland's population was 66,215 as of 2019. The Greater Portland metropolitan area is home to over half a million people, more than one-third of Maine's total population, making it the most populous metropolitan area in northern New England and the 106th-largest in the United States. Portland's economy relies mostly on the service sector and tourism. The Old Port district is known for its 19th-century architecture and nightlife. Marine industry still plays an important role in the city's economy, with an active waterfront that supports fishing and commercial shipping. The Port of Portland is the largest tonnage seaport in New England.",
-      "The city seal depicts a phoenix rising from ashes, which is a reference to the recoveries from four devastating fires. Portland was named after the English Isle of Portland, Dorset. In turn, the city of Portland, Oregon was named after Portland, Maine. Portland itself comes from the Old English word Portlanda, which means \"land surrounding a harbor\"."
+      "The term \"Palestinian territories\" has been used for many years to describe the territories occupied by Israel since 1967, namely the West Bank and the Gaza Strip. More recently, the official United Nations terminology has been used, occupied Palestinian territory increasingly replacing other terms since 1999. The European Union also has adopted this usage. The term Occupied Palestinian Territory was used by the UN and other international organizations between October 1999 and December 2012 to refer to areas controlled by the Palestinian National Authority. The EU had utilized a parallel term Palestinian Authority territories occasionally during the same period. The International Court of Justice referred to the West Bank, including East Jerusalem, as \"the Occupied Palestinian Territory\" and this term was used as the legal definition by the ICJ in the ruling in July 2004.",
+      "The Gaza Strip and the West Bank had been occupied by Egypt and Jordan, respectively, since the 1948 war until 1967. Israel occupied the West Bank and the Gaza Strip in the Six-Day War of 1967 and has since maintained control."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Portland,_Maine",
-    "urlGoogle": "https://artsandculture.google.com/entity/portland/m0c4kv"
+    "urlWiki": "https://en.wikipedia.org/wiki/Palestinian_territories",
+    "urlGoogle": "https://artsandculture.google.com/entity/palestinian-territories/m0nyg5"
   },
   "quote": {
-    "id": "114",
-    "quote": "Money is like gasoline during a road trip. You don’t want to run out of gas on your trip, but you’re not doing a tour of gas stations.",
-    "author": "Tim O’Reilly"
+    "id": "108",
+    "quote": "One’s mind, once stretched by a new idea, never regains its original dimensions.",
+    "author": "Oliver Wendell Holmes"
   },
   "wiki": {
-    "id": "battle-of-ticonderoga-1759",
-    "name": "Battle of Ticonderoga (1759)",
-    "summary": "The 1759 Battle of Ticonderoga was a tactically minor confrontation at Fort Carillon (now known as Fort Ticonderoga) on July 26 and 27, 1759, during the French and Indian War (the North American theater of the Seven Years' War). A British military force of more than 11,000 men under the command of General Sir Jeffrey Amherst moved artillery to high ground overlooking the fort, which was defended by a garrison of 400 Frenchmen under the command of Brigadier General François-Charles de Bourlamaque. Rather than defend the fort, Bourlamaque, operating under instructions from General Louis-Joseph de Montcalm and New France's governor, the Marquis de Vaudreuil, withdrew his forces, and attempted to blow the fort up. The fort's powder magazine was destroyed, but its walls were not severely damaged. The British then occupied the fort, which was afterwards known by the name Fort Ticonderoga, and embarked on a series of improvements to the area and the construction of a fleet to conduct military operations on Lake Champlain.",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_Ticonderoga_(1759)"
+    "id": "nirvana-band",
+    "name": "Nirvana (band)",
+    "summary": "Nirvana was a popular American rock band from Aberdeen, Washington. With the lead single \"Smells Like Teen Spirit\" from their 1991 album Nevermind, Nirvana exploded into the mainstream, bringing along with it an offshoot of punk and alternative rock referred to as grunge. As Nirvana's frontman, Kurt Cobain found himself referred to in the media as the \"spokesman of a generation\", with Nirvana the \"flagship band\" of \"Generation X\". Cobain was uncomfortable with the attention, and placed his focus on the band's music, challenging the band's audience with their third studio album In Utero. While Nirvana's mainstream popularity waned in the months following its release, their core audience cherished the band's dark interior, particularly after their 1993 performance on MTV Unplugged. Nirvana's brief run ended with the death of Cobain in 1994, but the band's popularity expanded in the years that followed. Since their debut, the band has sold more than fifty million albums worldwide, including more than ten million copies of Nevermind in the US alone.",
+    "url": "https://en.wikipedia.org/wiki/Nirvana_(band)"
   },
   "word": {
-    "id": "jeremiad",
-    "word": "jeremiad",
-    "url": "https://www.merriam-webster.com/dictionary/jeremiad",
-    "partOfSpeech": "noun",
-    "pronunciation": "jair-uh-MYE-ud",
-    "audioPath": "audio/words/jeremiad.mp3",
-    "definitions": ["a prolonged lamentation or complaint; also : a cautionary or angry harangue"],
+    "id": "laudable",
+    "word": "laudable",
+    "url": "https://www.merriam-webster.com/dictionary/laudable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "LAW-duh-bul",
+    "audioPath": "audio/words/laudable.mp3",
+    "definitions": ["worthy of praise : commendable"],
     "examples": [
-      "\"Siegel's book is a jeremiad against the ills the Internet has visited upon our lives.\" (Ellen Ullman, _The Washington Post_, February 10, 2008)"
+      "Parents, faculty, and members of the community commended the students for their _laudable_ efforts at cleaning up the park and renovating its play structures.",
+      "\"This revision of the school funding formula would align with and enable those _laudable_ reforms to come to full fruition.\" - From an editorial in the _Denver Post_, February 23, 2013"
     ],
-    "origin": "Jeremiah was a naysayer. That Jewish prophet, who lived from about 650 to 570 BC, spent his days lambasting the Hebrews for their false worship and social injustice and denouncing the king for his selfishness, materialism, and inequities. When not calling on his people to quit their wicked ways, he was lamenting his own lot; a portion of the Old Testament's Book of Jeremiah is devoted to his \"confessions,\" a series of lamentations on the hardships endured by a prophet with an unpopular message. Nowadays, English speakers use \"Jeremiah\" for a pessimistic person and \"jeremiad\" for the way these Jeremiahs carry on. The word \"jeremiad\" was actually borrowed from the French, who coined it as \"jérémiade.\""
+    "origin": "Both \"laudable\" and \"laudatory\" derive ultimately from Latin \"laud-\" or \"laus,\" meaning \"praise.\" \"Laudable\" and \"laudatory\" differ in meaning, however, and usage commentators warn against using them interchangeably. \"Laudable\" means \"deserving praise\" or \"praiseworthy,\" as in \"laudable efforts to help the disadvantaged.\" \"Laudatory\" means \"giving praise\" or \"expressing praise,\" as in \"a laudatory book review.\" People occasionally use \"laudatory\" in place of \"laudable,\" but this use is not considered standard."
   }
 }

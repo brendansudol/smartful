@@ -1,86 +1,80 @@
 {
   "artist": {
-    "id": "sophie-taeuber-arp",
-    "name": "Sophie Taeuber-Arp",
-    "dates": "Jan 19, 1889 - Jan 13, 1943",
-    "mainImg": "img/art/artists/sophie-taeuber-arp.jpg",
+    "id": "lesser-ury",
+    "name": "Lesser Ury",
+    "dates": "Nov 7, 1861 - Oct 18, 1931",
+    "mainImg": "img/art/artists/lesser-ury.jpg",
     "artworkImgs": [
       {
-        "name": "Dada Head",
-        "path": "img/art/artworks/sophie-taeuber-arp-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/dada-head-sophie-taeuber-arp/EwH5zrE7AkAOag"
+        "name": "Estaminet - Flemish Tavern",
+        "path": "img/art/artworks/lesser-ury-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/estaminet-flemish-tavern-lesser-ury/vAHK8Lr5izHGnw"
       },
       {
-        "name": "Dada Head",
-        "path": "img/art/artworks/sophie-taeuber-arp-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/dada-head-sophie-taeuber-arp/2wEpP8MhJCOSAg"
+        "name": "Flowers on the fireplace",
+        "path": "img/art/artworks/lesser-ury-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/flowers-on-the-fireplace-lesser-ury/GwHDfAuxvayVOg"
       },
       {
-        "name": "Composition of Circles and Overlapping Angles",
-        "path": "img/art/artworks/sophie-taeuber-arp-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/composition-of-circles-and-overlapping-angles-sophie-taeuber-arp/tgGlWW6yn0E0yg"
+        "name": "Lady in a Café",
+        "path": "img/art/artworks/lesser-ury-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/lady-in-a-café-ury-lesser/UAHYfk0WAzuNwg"
       },
       {
-        "name": "Plate (folio 20) from 10 Origin",
-        "path": "img/art/artworks/sophie-taeuber-arp-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/plate-folio-20-from-10-origin-sophie-taeuber-arp/_AF6fZeBN828yQ"
+        "name": "Berlin Street Scene",
+        "path": "img/art/artworks/lesser-ury-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/berlin-street-scene-lesser-ury/dQEQ7ETKP1ttQA"
       },
       {
-        "name": "Échelonnement désaxé",
-        "path": "img/art/artworks/sophie-taeuber-arp-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/échelonnement-désaxé-sophie-taeuber-arp/lgEC267rQ1Gw2w"
+        "name": "Untitled (Park Scene or Man in the Gray Suit)",
+        "path": "img/art/artworks/lesser-ury-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-park-scene-or-man-in-the-gray-suit-lesser-ury/DwHUJikLqqF83A"
       },
       {
-        "name": "Dada Head",
-        "path": "img/art/artworks/sophie-taeuber-arp-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/dada-head-sophie-taeuber-arp/0AH5GsMh-Miutw"
+        "name": "The Red Carpet",
+        "path": "img/art/artworks/lesser-ury-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-red-carpet-lesser-ury/eQFt8bgigwNqIA"
       }
     ],
     "summary": [
-      "Sophie Henriette Gertrud Taeuber-Arp was a Swiss artist, painter, sculptor, textile designer, furniture and interior designer, architect and dancer. She is considered one of the most important artists of concrete art and geometric abstraction of the 20th century."
+      "Leo Lesser Ury was a German-Jewish Impressionist painter and printmaker, associated with the Düsseldorf school of painting.",
+      "Ury was born in Birnbaum in Prussia, the son of a baker whose death in 1872 was followed by the family's relocation to Berlin. In 1878 Lesser left school to apprentice with a tradesman, and the next year he went to Düsseldorf to study painting at the Kunstakademie. Ury spent time in Brussels, Paris, Stuttgart, and other locations, before returning to Berlin in 1887.",
+      "His first exhibition was in 1889 and met with a hostile reception, although he was championed by Adolph von Menzel whose influence induced the Akademie to award Ury a prize. In 1893 he joined the Munich Secession, one of the several Secessions formed by progressive artists in Germany and Austria in the last years of the 19th century. In 1901 he returned to Berlin, where he exhibited with the Berlin Secession, first in 1915 and notably in 1922, when he had a major exhibition. By this time Ury's critical reputation had grown and his paintings and pastels were in demand."
     ],
     "quote": null,
-    "movements": [
-      "Constructivism",
-      "Dada",
-      "Geometric abstraction",
-      "Modern art",
-      "Abstract art",
-      "De Stijl"
-    ],
-    "mediums": ["Wood", "Glass", "Metal", "Wire", "Watercolor painting", "Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp",
-    "urlGoogle": "https://artsandculture.google.com/entity/sophie-taeuber-arp/m06gdr_"
+    "movements": [],
+    "mediums": ["Oil paint", "Ink", "Drawing", "Cardboard"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lesser_Ury",
+    "urlGoogle": "https://artsandculture.google.com/entity/lesser-ury/m0czbml"
   },
   "event": {
-    "id": "middle-eastern-theatre-of-world-war-i",
-    "name": "Middle Eastern theatre of World War I",
-    "dates": "Nov 2, 1914 - Oct 29, 1918",
-    "mainImg": "img/events/middle-eastern-theatre-of-world-war-i.jpg",
+    "id": "second-battle-of-the-piave-river",
+    "name": "Second Battle of the Piave River",
+    "dates": "Jun 15, 1918 - Jun 23, 1918",
+    "mainImg": "img/events/second-battle-of-the-piave-river.jpg",
     "summary": [
-      "The Middle Eastern theatre of World War I saw action between 29 October 1914 and 30 October 1918. The combatants were, on one side, the Ottoman Empire, with some assistance from the other Central Powers; and on the other side, the British, the Russians and the French from among the Allied Powers. There were five main campaigns: the Sinai and Palestine Campaign, the Mesopotamian Campaign, the Caucasus Campaign, the Persian Campaign, and the Gallipoli Campaign. There were also several minor campaigns: Arab Campaign, and South Arabia Campaign.",
-      "Both sides used local asymmetrical forces in the region. On the Allied side were Arabs who participated in the Arab Revolt and the Armenian militia who participated in the Armenian Resistance during the Armenian Genocide; along with Armenian volunteer units, the Armenian militia formed the Armenian Corps of the First Republic of Armenia in 1918. In addition, the Assyrians joined the Allies following the Assyrian genocide, instigating the Assyrian war of independence. The theatre covered the largest territory of all theatres in the war."
+      "The Second Battle of the Piave River, fought between 15 and 23 June 1918, was a decisive victory for the Italian Army against the Austro-Hungarian Empire during World War I. Though the battle proved to be a decisive blow to the Austro-Hungarian Empire and by extension the Central Powers, its full significance was not initially appreciated in Italy. Yet Erich Ludendorff, on hearing the news, is reported to have said he 'had the sensation of defeat for the first time'. It would later become clear that the battle was in fact the beginning of the end of the Austro-Hungarian Empire."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Middle_Eastern_theatre_of_World_War_I",
-    "urlGoogle": "https://artsandculture.google.com/entity/middle-eastern-theatre-of-world-war-i/m08qz1l"
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Battle_of_the_Piave_River",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-battle-of-the-piave-river/m052hlx"
   },
   "funFacts": [
     {
-      "id": "255",
-      "fact": "Among North Atlantic lobsters, about 1 in 5,000 is born bright blue.",
-      "category": ["Animals"]
+      "id": "339",
+      "fact": "There are more doughnut shops per capita in Canada than in any other country.",
+      "category": ["Geography", "Habits"]
     },
     {
-      "id": "466",
-      "fact": "During the Boston Tea Party, 342 chests of tea were thrown into the harbor.",
-      "category": ["History"]
+      "id": "202",
+      "fact": "The mouth of the Statue of Liberty is 3 feet wide.",
+      "category": ["Geography"]
     }
   ],
   "funFacts2": [
     {
-      "id": "522214",
-      "fact": "Foreign Accent Syndrome is a rare side effect of brain trauma. Patients speak their native language in a foreign dialect."
+      "id": "504555",
+      "fact": "On Good Friday in 1930, the BBC reported, “There is no news.” Instead, they played piano music."
     }
   ],
   "idiom": {
@@ -89,45 +83,48 @@
     "definition": "A fantastic notion or vain hope, as in *I'd love to have one home in the mountains and another at the seashore, but that's just a pipe dream.* Alluding to the fantasies induced by smoking an opium pipe, this term has been used more loosely since the late 1800s."
   },
   "person": {
-    "id": "martin-van-buren",
-    "name": "Martin Van Buren",
-    "dates": "Dec 5, 1782 - Jul 24, 1862",
-    "mainImg": "img/people/martin-van-buren.jpg",
+    "id": "ahitophel",
+    "name": "Ahitophel",
+    "dates": null,
+    "mainImg": "img/people/ahitophel.jpg",
     "summary": [
-      "Martin Van Buren was an American statesman who served as the eighth president of the United States from 1837 to 1841. He was the first president to have English as a second language – his mother tongue was Dutch – and the first born after the United States had declared its independence from Great Britain. A founder of the Democratic Party, he had previously served as the ninth governor of New York, the tenth United States secretary of state, and the eighth vice president of the United States. He won the 1836 presidential election with the endorsement of popular outgoing President Andrew Jackson and the organizational strength of the Democratic Party. He lost his 1840 reelection bid to Whig Party nominee William Henry Harrison, thanks in part to the poor economic conditions surrounding the Panic of 1837. Later in his life, Van Buren emerged as an elder statesman and an important anti-slavery abolitionist leader who led the Free Soil Party ticket in the presidential election of 1848.",
-      "Van Buren was born in Kinderhook, New York, to a family of Dutch Americans; his father was a Patriot during the American Revolution."
-    ],
-    "quote": "“The less government interferes with private pursuits, the better for general prosperity.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
-    "urlGoogle": "https://artsandculture.google.com/entity/martin-van-buren/m04_0m"
-  },
-  "place": {
-    "id": "tucson",
-    "name": "Tucson",
-    "mainImg": "img/places/tucson.jpg",
-    "summary": [
-      "Tucson is a city in and the county seat of Pima County, Arizona, United States, and is home to the University of Arizona. The 2010 United States Census put the population at 520,116, while the 2015 estimated population of the entire Tucson metropolitan statistical area was 980,263. The Tucson MSA forms part of the larger Tucson-Nogales combined statistical area, with a total population of 1,010,025 as of the 2010 Census. Tucson is the second most-populated city in Arizona behind Phoenix, both of which anchor the Arizona Sun Corridor. The city is 108 miles southeast of Phoenix and 60 mi north of the U.S.–Mexico border. Tucson is the 33rd largest city and the 58th largest metropolitan area in the United States.",
-      "Major incorporated suburbs of Tucson include Oro Valley and Marana northwest of the city, Sahuarita south of the city, and South Tucson in an enclave south of downtown. Communities in the vicinity of Tucson include Casas Adobes, Catalina Foothills, Flowing Wells, Midvale Park, Tanque Verde, Tortolita, and Vail. Towns outside the Tucson metro area include Benson to the southeast, Catalina and Oracle to the north, and Green Valley to the south."
+      "Ahitophel or Ahithophel was a counselor of King David and a man greatly renowned for his sagacity. During Absalom's revolt he deserted David and supported Absalom.",
+      "David sent his friend Hushai back to Absalom, in order to counteract the counsel of Ahitophel. Ahitophel had recommended an immediate attack on David's camp at a point where he was weary and vulnerable, whereas Hushai suggested that \"the advice that Ahithophel has given is not good at this time\" and recommended delay while a larger army was assembled to counter David's alleged strength. Perversely, \"for the LORD had purposed to defeat the good advice of Ahithophel\", Hushai's advice was accepted. Seeing that his good advice against David had not been followed due to Hushai's influence, Ahithophel apparently surmised that the revolt would fail. He then left the camp of Absalom at once. He returned to Giloh, his native place, and after arranging his worldly affairs, hanged himself, and was buried in the sepulcher of his fathers.",
+      "A man named Ahitophel is also mentioned in 2 Samuel 23:34, and he is said to be the father of Eliam."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Tucson,_Arizona",
-    "urlGoogle": "https://artsandculture.google.com/entity/tucson/m0fr0t"
+    "urlWiki": "https://en.wikipedia.org/wiki/Ahitophel",
+    "urlGoogle": "https://artsandculture.google.com/entity/ahitophel/m0hy4p"
+  },
+  "place": {
+    "id": "ferrara",
+    "name": "Ferrara",
+    "mainImg": "img/places/ferrara.jpg",
+    "summary": [
+      "Ferrara is a city and comune in Emilia-Romagna, northern Italy, capital of the Province of Ferrara. As of 2016 it had 132,009 inhabitants. It is situated 44 kilometres northeast of Bologna, on the Po di Volano, a branch channel of the main stream of the Po River, located 5 km north. The town has broad streets and numerous palaces dating from the Renaissance, when it hosted the court of the House of Este. For its beauty and cultural importance, it has been designated by UNESCO as a World Heritage Site."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ferrara",
+    "urlGoogle": "https://artsandculture.google.com/entity/ferrara/m0cffd"
   },
   "wiki": {
-    "id": "bruno-maddox",
-    "name": "Bruno Maddox",
-    "summary": "Bruno Maddox is a British literary novelist and journalist who is best known for his critically acclaimed novel My Little Blue Dress (2001) and for his satirical magazine essays. After graduating from Harvard University in 1992, Maddox began his career reviewing books for The New York Times Book Review and The Washington Post Book World. In early 1996, he was appointed to an editorship at SPY magazine and within a few months he was promoted to editor-in-chief, a position he held until the magazine shut down in 1998. Maddox wrote My Little Blue Dress between 1999 and 2001. Since its publication, he has focused on writing satirical essays for magazines such as GEAR and Travel + Leisure; he also contributes a monthly humor column to Discover magazine called \"Blinded by Science\", drawing on his early exposure to science and technology. Maddox is likewise a contributing editor to the American edition of The Week magazine.",
-    "url": "https://en.wikipedia.org/wiki/Bruno_Maddox"
+    "id": "nikolai-rimsky-korsakov",
+    "name": "Nikolai Rimsky-Korsakov",
+    "summary": "Nikolai Rimsky-Korsakov (1844–1908) was a Russian composer, and a member of the group of composers known as The Five. He was a master of orchestration. His best-known orchestral compositions—Capriccio Espagnol, the Russian Easter Festival Overture, and the symphonic suite Scheherazade—are considered staples of the classical music repertoire, along with suites and excerpts from some of his 15 operas. Scheherazade is an example of his frequent use of fairy tale and folk subjects. Rimsky-Korsakov left a considerable body of original Russian nationalist compositions. He prepared works by The Five for performance, which brought them into the active classical repertoire (although there is controversy over his editing of the works of Modest Mussorgsky). He also shaped a generation of younger composers and musicians during his decades as an educator. Rimsky-Korsakov is therefore considered \"the main architect\" of what the classical music public considers the Russian style of composition.",
+    "url": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov"
   },
   "word": {
-    "id": "purfle",
-    "word": "purfle",
-    "url": "https://www.merriam-webster.com/dictionary/purfle",
-    "partOfSpeech": "verb",
-    "pronunciation": "PUR-ful",
-    "audioPath": "audio/words/purfle.mp3",
-    "definitions": ["to ornament the border or edges of"],
-    "examples": ["The luthier used abalone shell to purfle the instrument."],
-    "origin": "Today we use \"purfle\" mostly in reference to setting a decorative inlaid border around the body of a guitar or violin, a process known as \"purfling.\" In the past, \"purfle\" got the most use in connection with adornment of garments. \"The Bishop of Ely . . . wore a robe of scarlet . . . purfled with minever,\" reported an English clergyman in 1840, for example. We embellished our language with \"purfle,\" first as \"purfilen\" in the 1300s, when we took it with its meaning from Middle French \"porfiler.\""
+    "id": "odious",
+    "word": "odious",
+    "url": "https://www.merriam-webster.com/dictionary/odious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "OH-dee-us",
+    "audioPath": "audio/words/odious.mp3",
+    "definitions": ["arousing or deserving hatred or repugnance : hateful"],
+    "examples": [
+      "Martin was an _odious_ person: cruel, violent, and deceitful, willing to do anything to anyone to gain the wealth and power he craved.",
+      "\"The audition process and the testing process is so _odious_ and miserable that you don't want to do it unless there is a prospect of working with great people on the other end.\" -- From an interview with Martha Plimpton in the _Windy City Times_, March 23, 2011"
+    ],
+    "origin": "\"Odious\" has been with us since the days of Middle English. We borrowed it from Anglo-French, which in turn had taken it from Latin \"odiosus.\" The Latin adjective came from the noun \"odium,\" meaning \"hatred.\" \"Odium\" is also an ancestor of the English verb \"annoy\" (another word that came to Middle English via Anglo-French). And, at the beginning of the 17th century, \"odium\" entered English in its unaltered form, giving us a noun meaning \"hatred\" or \"disgrace\" (as in \"ideas that have incurred much odium\")."
   }
 }

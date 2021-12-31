@@ -1,127 +1,132 @@
 {
   "artist": {
-    "id": "pieter-aertsen",
-    "name": "Pieter Aertsen",
-    "dates": "1508 - Jun 3, 1575",
-    "mainImg": "img/art/artists/pieter-aertsen.jpg",
+    "id": "hiram-powers",
+    "name": "Hiram Powers",
+    "dates": "Jun 29, 1805 - Jun 27, 1873",
+    "mainImg": "img/art/artists/hiram-powers.jpg",
     "artworkImgs": [
       {
-        "name": "The Egg Dance",
-        "path": "img/art/artworks/pieter-aertsen-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-egg-dance-pieter-aertsen/OAHpfjNpikwVqg"
+        "name": "California",
+        "path": "img/art/artworks/hiram-powers-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/california-hiram-powers/vwGMjuaJK_kaYA"
       },
       {
-        "name": "The Adoration of the Magi",
-        "path": "img/art/artworks/pieter-aertsen-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-adoration-of-the-magi-pieter-aertsen/LAHmJwzwFE-DPA"
+        "name": "George Washington",
+        "path": "img/art/artworks/hiram-powers-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/george-washington-hiram-powers/-AFfvH3Ei6xZlg"
       },
       {
-        "name": "A Meat Stall with the Holy Family Giving Alms",
-        "path": "img/art/artworks/pieter-aertsen-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/a-meat-stall-with-the-holy-family-giving-alms-pieter-aertsen/fgF8j5tB3UFgAg"
+        "name": "Fisher Boy",
+        "path": "img/art/artworks/hiram-powers-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/fisher-boy-hiram-powers/6wG4PIwo980l0w"
       },
       {
-        "name": "The Fat Kitchen. An Allegory",
-        "path": "img/art/artworks/pieter-aertsen-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-fat-kitchen-an-allegory-pieter-aertsen/MwGNbZwwObkz6Q"
+        "name": "The Last of the Tribes",
+        "path": "img/art/artworks/hiram-powers-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-last-of-the-tribes-hiram-powers/3gEGiDoIf6Cupg"
       },
       {
-        "name": "The Meatstall with the Flight into Egypt",
-        "path": "img/art/artworks/pieter-aertsen-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-meatstall-with-the-flight-into-egypt-workshop-pieter-aertsen/XAGzcGkvzNxg5g"
+        "name": "America",
+        "path": "img/art/artworks/hiram-powers-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/america-hiram-powers/dQFfqVwgfEbjAw"
       },
       {
-        "name": "Christ in the House of Martha and Mary",
-        "path": "img/art/artworks/pieter-aertsen-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/christ-in-the-house-of-martha-and-mary/0QFDb6g5E0YIbg"
+        "name": "The Greek Slave",
+        "path": "img/art/artworks/hiram-powers-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-greek-slave/1QHLO9s7-AAJEg"
       }
     ],
     "summary": [
-      "Pieter Aertsen, called Lange Piet because of his height, was a Dutch painter in the style of Northern Mannerism. He is credited with the invention of the monumental genre scene, which combines still life and genre painting and often also includes a biblical scene in the background. He was active in his native city Amsterdam but also worked for a long period in Antwerp, then the centre of artistic life in the Netherlands.",
-      "His genre scenes were influential on later Flemish Baroque painting, Dutch still life painting and also in Italy. His peasant scenes preceded by a few years the much better-known paintings produced in Antwerp by Pieter Bruegel the Elder."
+      "Hiram Powers was an American neoclassical sculptor. He was one of the first 19th-century American artists to gain an international reputation, largely based on his famous marble sculpture The Greek Slave."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Oil paint", "Pen", "Drawing", "Ink", "Sanguine", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Pieter_Aertsen",
-    "urlGoogle": "https://artsandculture.google.com/entity/pieter-aertsen/m021c0j"
+    "movements": ["Neoclassicism"],
+    "mediums": ["Rock", "Marble", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hiram_Powers",
+    "urlGoogle": "https://artsandculture.google.com/entity/hiram-powers/m039znc"
   },
   "event": {
-    "id": "burma-campaign",
-    "name": "Burma campaign",
-    "dates": "January 1942 - August 1945",
-    "mainImg": "img/events/burma-campaign.jpg",
+    "id": "1976-summer-olympics",
+    "name": "1976 Summer Olympics",
+    "dates": "Jul 17, 1976 - Aug 1, 1976",
+    "mainImg": "img/events/1976-summer-olympics.jpg",
     "summary": [
-      "The Burma campaign was a series of battles fought in the British colony of Burma. It was part of the South-East Asian theatre of World War II and primarily involved forces of the Allies; the British Empire and the Republic of China, with support from the United States. They faced against the invading forces of Imperial Japan, who were supported by the Thai Phayap Army, as well as two collaborationist independence movements and armies, the first being the Burma Independence Army, which spearheaded the initial attacks against the country. Puppet states were established in the conquered areas and territories were annexed, while the international Allied force in British India launched several failed offensives. During the later 1944 offensive into India and subsequent Allied recapture of Burma the Indian National Army, led by revolutionary Subhas C. Bose and his \"Free India\", were also fighting together with Japan. British Empire forces peaked at around 1,000,000 land and air forces, and were drawn primarily from British India, with British Army forces, 100,000 East and West African colonial troops, and smaller numbers of land and air forces from several other Dominions and Colonies."
+      "The 1976 Summer Olympics, officially called the Games of the XXI Olympiad, was an international multi-sport event in Montreal, Quebec, Canada, in 1976, and the first Olympic Games held in Canada.",
+      "Montreal was awarded the rights to the 1976 Games on May 12, 1970, at the 69th IOC Session in Amsterdam, over the bids of Moscow and Los Angeles. It was the first and, so far, only Summer Olympic Games to be held in Canada. Toronto hosted the 1976 Summer Paralympics the same year as the Montreal Olympics, and still remain the only Summer Paralympics to be held in Canada. Calgary and Vancouver later hosted the Winter Olympic Games in 1988 and 2010, respectively.",
+      "Twenty-nine countries, mostly African, boycotted the Montreal Games when the International Olympic Committee refused to ban New Zealand, after the New Zealand national rugby union team had toured South Africa earlier in 1976 in defiance of the United Nations' calls for a sporting embargo. The Soviet Union won the most gold and overall medals."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Burma_campaign",
-    "urlGoogle": "https://artsandculture.google.com/entity/burma-campaign/m02y6s1"
+    "urlWiki": "https://en.wikipedia.org/wiki/1976_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/1976-summer-olympics/m0jkvj"
   },
   "funFacts": [
     {
-      "id": "325",
-      "fact": "75% of people wash from top to bottom in the shower.",
-      "category": ["Habits"]
+      "id": "838",
+      "fact": "Cranberries are sorted for ripeness by bouncing them.",
+      "category": ["Food"]
     },
     {
-      "id": "268",
-      "fact": "One lemon tree will produce about 1,500 lemons a year.",
-      "category": ["Food", "Plants"]
+      "id": "133",
+      "fact": "Honeybees navigate by using the sun as a compass.",
+      "category": ["Animals", "Geography"]
     }
   ],
-  "funFacts2": [{ "id": "553728", "fact": "Humans are the only animals that blush." }],
+  "funFacts2": [
+    {
+      "id": "505073",
+      "fact": "The 1967 Outer Space Treaty forbids any nation from trying to own the Moon."
+    }
+  ],
   "idiom": {
-    "id": "set-ones-cap-for",
-    "term": "set one's cap for",
-    "definition": "Pursue someone romantically, as in *We all thought Anne had set her cap for Joe, but we were wrong.* In the 1700s this term, which may have alluded to donning one's best headgear, was applied to members of either sex, but by the early 1800s it generally described a woman chasing a man. It is probably obsolescent."
+    "id": "spick-and-span",
+    "term": "spick and span",
+    "definition": "Neat and clean, as in *When Ruth has finished cleaning, the whole house is spick and span.* This term combines two nouns that are now obsolete, *spick,* \"a nail\" or \"spike,\" and *span,* \"a wooden chip.\" In the 1500s a sailing ship was considered *spick and span* when every spike and chip was brand-new. The transfer to the current sense took place in the mid-1800s."
   },
   "person": {
-    "id": "nguyễn-cao-kỳ",
-    "name": "Nguyễn Cao Kỳ",
-    "dates": "Sep 8, 1930 - Jul 23, 2011",
-    "mainImg": "img/people/nguyễn-cao-kỳ.jpg",
+    "id": "vidkun-quisling",
+    "name": "Vidkun Quisling",
+    "dates": "Jul 18, 1887 - Oct 24, 1945",
+    "mainImg": "img/people/vidkun-quisling.jpg",
     "summary": [
-      "Nguyễn Cao Kỳ served as the chief of the Republic of Vietnam Air Force in the 1960s, before leading the nation as the prime minister of South Vietnam in a military junta from 1965 to 1967. Then, until his retirement from politics in 1971, he served as vice president to bitter rival General Nguyễn Văn Thiệu, in a nominally civilian administration.",
-      "Born in northern Vietnam, Kỳ joined the Vietnamese National Army of the French-backed State of Vietnam and started as an infantry officer before the French sent him off for pilot training. After the French withdrew from Vietnam and the nation was partitioned, Kỳ moved up the ranks of the Republic of Vietnam Air Force to become its leader. In November 1963, Kỳ participated in the coup that deposed president Ngô Đình Diệm and resulted in Diệm's assassination.",
-      "In 1964 Kỳ became prominent in junta politics, regarded as part of a group of young, aggressive officers dubbed the \"Young Turks\". Over the next two years, there were repeated coup attempts, many of which were successful, and Kỳ was a key player in supporting or defeating them."
-    ],
-    "quote": "“Through leadership of the fight against French colonialism, Ho Chi Minh had made a name for himself in the international political arena.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Cao_K%E1%BB%B3",
-    "urlGoogle": "https://artsandculture.google.com/entity/nguyễn-cao-kỳ/m0283nd"
-  },
-  "place": {
-    "id": "kaluga",
-    "name": "Kaluga",
-    "mainImg": "img/places/kaluga.jpg",
-    "summary": [
-      "Kalúga is a city and the administrative center of Kaluga Oblast, Russia, located on the Oka River 150 kilometers southwest of Moscow. Population: 324,698; 334,751; 311,319.",
-      "Kaluga is known for its most famous resident, Konstantin Tsiolkovsky, a rocket science pioneer who worked here as a school teacher. The Tsiolkovsky State Museum of the History of Cosmonautics in Kaluga is dedicated to his theoretical achievements and their practical implementations for modern space research, hence the motto on the city's coat of arms: \"The Cradle of Space Exploration\"."
+      "Vidkun Abraham Lauritz Jonssøn Quisling was a Norwegian military officer and politician who nominally headed the government of Norway during the occupation of the country by Nazi Germany during World War II. He first came to international prominence as a close collaborator of explorer Fridtjof Nansen, organizing humanitarian relief during the Russian famine of 1921 in Povolzhye. He was posted as a Norwegian diplomat to the Soviet Union, and for some time also managed British diplomatic affairs there. He returned to Norway in 1929, and served as Minister of Defence in the governments of Peder Kolstad and Jens Hundseid, representing the Farmers' Party.",
+      "In 1933, Quisling left the Farmers' Party and founded the fascist party Nasjonal Samling. Although he achieved some popularity after his attacks on the political left, his party failed to win any seats in the Storting and by 1940 it was still little more than peripheral. On 9 April 1940, with the German invasion of Norway in progress, he attempted to seize power in the world's first radio-broadcast coup d'état, but failed after the Germans refused to support his government."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kaluga",
-    "urlGoogle": "https://artsandculture.google.com/entity/kaluga/m0233n3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Vidkun_Quisling",
+    "urlGoogle": "https://artsandculture.google.com/entity/vidkun-quisling/m07z07"
+  },
+  "place": {
+    "id": "salta",
+    "name": "Salta",
+    "mainImg": "img/places/salta.jpg",
+    "summary": [
+      "Salta is the capital and most populous city in the Argentine province of the same name. With a population of 618,375 according to the 2010 census, it is also the 7th most-populous city in Argentina. The city serves as the cultural and economic center of the Valle de Lerma Metropolitan Area, which is home to over 50.9% of the population of Salta Province and also includes the municipalities of La Caldera, Vaqueros, Campo Quijano, Rosario de Lerma, Cerrillos, La Merced and San Lorenzo. Salta is the seat of the Capital Department, the most populous department in the province."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Salta",
+    "urlGoogle": "https://artsandculture.google.com/entity/salta/m02tb5m"
   },
   "wiki": {
-    "id": "second-crusade",
-    "name": "Second Crusade",
-    "summary": "The Second Crusade was the second major crusade launched from Europe, called in 1145 in response to the fall of the County of Edessa the previous year. Edessa was the first of the Crusader states to have been founded during the First Crusade, and was the first to fall. The Second Crusade was announced by Pope Eugenius III, and was the first of the crusades to be led by European kings, namely Louis VII of France and Conrad III of Germany. The armies of the two kings marched separately across Europe and were separately defeated by the Seljuk Turks. Louis and Conrad and the remnants of their armies reached Jerusalem and in 1148 participated in an ill-advised attack on Damascus. The crusade in the east was a failure for the crusaders and a great victory for the Muslims. It would ultimately lead to the fall of Jerusalem and the Third Crusade at the end of the 12th century. The only success came on the opposite end of the Mediterranean, where English crusaders, on the way by ship to the Holy Land, fortuitously stopped and helped capture Lisbon in 1147.",
-    "url": "https://en.wikipedia.org/wiki/Second_Crusade"
+    "id": "goa",
+    "name": "Goa",
+    "summary": "Goa is India's smallest state in terms of area and the second smallest in terms of population after Sikkim. It is located on the west coast of India, in the region known as the Konkan, and is bounded by the state of Maharashtra to the north, and Karnataka to the east and south. The Arabian Sea makes up the state's west coast. Panaji is the state's capital, and Margao the largest town. A former colony of Portugal, Goa was ruled by the Portuguese for almost 450 years until 1961, when it was forcibly taken, after demands for a merger with India failed. Internationally renowned for its beaches, Goa is visited by thousands of foreign and domestic tourists each year. Besides beaches, Goa is also known for its world heritage architecture including the Bom Jesus Basilica. Goa also has rich flora and fauna, owing to its location on the Western Ghats range, which are classified as a biodiversity hotspot, one of only three among the ecoregions of India.",
+    "url": "https://en.wikipedia.org/wiki/Goa"
   },
   "word": {
-    "id": "voluble",
-    "word": "voluble",
-    "url": "https://www.merriam-webster.com/dictionary/voluble",
-    "partOfSpeech": "adjective",
-    "pronunciation": "VAHL-yuh-bul",
-    "audioPath": "audio/words/voluble.mp3",
+    "id": "shibboleth",
+    "word": "shibboleth",
+    "url": "https://www.merriam-webster.com/dictionary/shibboleth",
+    "partOfSpeech": "noun",
+    "pronunciation": "SHIB-uh-luth",
+    "audioPath": "audio/words/shibboleth.mp3",
     "definitions": [
-      "easily rolling or turning : rotating",
-      "characterized by ready or rapid speech : glib, fluent"
+      "catchword, slogan",
+      "a widely held belief or truism",
+      "a custom or usage regarded as distinctive of a particular group"
     ],
     "examples": [
-      "The young man proved to be a voluble informer who would tell stories of bookies, smugglers, and hit men to the detectives for hours."
+      "“Taxpayers beware: Don't buy into the shibboleth that more money automatically translates into better schools.” (_Press Journal_ \\[Vero Beach, FL\\], July 27, 2003)"
     ],
-    "origin": "English has many terms for gabby types, but it's important to choose the right word to get across what kind of chatterbox you mean. \"Talkative\" usually implies a readiness to engage in talk or a disposition to enjoy conversation. \"Loquacious\" generally suggests the power to express oneself fluently, articulately, or glibly, but it can also mean \"talking excessively.\" \"Garrulous\" is even stronger in its suggestion of excessive talkativeness; it is most often used for tedious, rambling talkers. \"Voluble\" describes an individual who speaks easily and often."
+    "origin": "The Bible's Book of Judges (12:4-6) tells the story of the Ephraimites, who, after they were routed by the Gileadite army, tried to retreat by sneaking across a ford of the Jordan River that was held by their enemy. The Gileadites, wary of the ploy, asked every soldier who tried to cross if he was an Ephraimite. When the soldier said \"no,\" he was asked to say \"shibboleth\" (which means \"stream\" in Hebrew). Gileadites pronounced the word \"shibboleth,\" but Ephramites said \"sibboleth.\" Anyone who left out the initial \"sh\" was killed on the spot. When English speakers first borrowed \"shibboleth,\" they used it to mean \"test phrase,\" but it has acquired additional meanings since that time."
   }
 }

@@ -1,0 +1,139 @@
+{
+  "artist": {
+    "id": "john-baldessari",
+    "name": "John Baldessari",
+    "dates": "Jun 17, 1931 - Jan 2, 2020",
+    "mainImg": "img/art/artists/john-baldessari.jpg",
+    "artworkImgs": [
+      {
+        "name": "Penguin",
+        "path": "img/art/artworks/john-baldessari-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/JQEFRHhAzVeTZQ"
+      },
+      {
+        "name": "Penguin",
+        "path": "img/art/artworks/john-baldessari-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/wQFm_Kn0G9hYog"
+      },
+      {
+        "name": "Penguin (detail)",
+        "path": "img/art/artworks/john-baldessari-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-detail-john-baldessari/4gHUU-kLdbqOWA"
+      },
+      {
+        "name": "Kaldor Public Art Project 23: John Baldessari 2011",
+        "path": "img/art/artworks/john-baldessari-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/kaldor-public-art-project-23-john-baldessari-2011-john-baldessari/XAHotYNt5dgf1w"
+      },
+      {
+        "name": "Penguin (detail)",
+        "path": "img/art/artworks/john-baldessari-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-detail-john-baldessari/LAEBu5iozbx2pg"
+      },
+      {
+        "name": "Penguin",
+        "path": "img/art/artworks/john-baldessari-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/wgGlPPn8RdLo0g"
+      }
+    ],
+    "summary": [
+      "John Anthony Baldessari was an American conceptual artist known for his work featuring found photography and appropriated images. He lived and worked in Santa Monica and Venice, California.",
+      "Initially a painter, Baldessari began to incorporate texts and photography into his canvases in the mid-1960s. In 1970 he began working in printmaking, film, video, installation, sculpture and photography. He created thousands of works which demonstrate—and, in many cases, combine—the narrative potential of images and the associative power of language within the boundaries of the work of art. His art has been featured in more than 200 solo exhibitions in the U.S. and Europe. His work influenced that of Cindy Sherman, David Salle, Annette Lemieux, and Barbara Kruger among others."
+    ],
+    "quote": null,
+    "movements": ["Conceptual art", "Contemporary art"],
+    "mediums": ["Acrylic paint", "Epoxy", "Iron", "Metal", "Plastic", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Baldessari",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-baldessari/m06dntc"
+  },
+  "event": {
+    "id": "1950-fifa-world-cup",
+    "name": "1950 FIFA World Cup",
+    "dates": "Jun 24, 1950 - Jul 16, 1950",
+    "mainImg": "img/events/1950-fifa-world-cup.jpg",
+    "summary": [
+      "The 1950 FIFA World Cup, held in Brazil from 24 June to 16 July 1950, was the fourth FIFA World Cup. It was the first World Cup since 1938, the planned 1942 and 1946 competitions having been cancelled due to World War II. It was won by Uruguay, who had won the inaugural competition in 1930. They clinched the cup by beating the hosts Brazil 2–1 in the deciding match of the four-team final group. This was the only tournament not decided by a one-match final. It was also the first tournament where the trophy was referred to as the Jules Rimet Cup, to mark the 25th anniversary of Jules Rimet's presidency of FIFA."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup",
+    "urlGoogle": "https://artsandculture.google.com/entity/1950-fifa-world-cup/m0g9cz"
+  },
+  "funFacts": [
+    {
+      "id": "352",
+      "fact": "Storm clouds hold about 6 trillion raindrops.",
+      "category": ["Science"]
+    },
+    {
+      "id": "695",
+      "fact": "The National Park Service manages over 350 parks on 80 million acres of public land.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504824",
+      "fact": "According to a poll of 11,000 Americans, 84 percent of vegetarians and vegans return to eating meat."
+    }
+  ],
+  "idiom": {
+    "id": "make-bold",
+    "term": "make bold",
+    "definition": "Also, **make so bold as.** Dare, presume, take the liberty of doing something, as in *Let me make bold and ask you to back me as a member,* or *I will not make so bold as to criticize a respected scholar.* This expression was frequently used by Shakespeare but is heard less often today. [Late 1500s]"
+  },
+  "person": {
+    "id": "svetlana-savitskaya",
+    "name": "Svetlana Savitskaya",
+    "dates": "Born Aug 8, 1948",
+    "mainImg": "img/people/svetlana-savitskaya.jpg",
+    "summary": [
+      "Svetlana Yevgenyevna Savitskaya is a retired Soviet aviator and cosmonaut who flew aboard Soyuz T-7 in 1982, becoming the second woman in space. On her 1984 Soyuz T-12 mission she became the first woman to fly to space twice, and the first woman to perform a spacewalk.",
+      "She set several FAI world records as a pilot."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Svetlana_Savitskaya",
+    "urlGoogle": "https://artsandculture.google.com/entity/svetlana-savitskaya/m01b8rj"
+  },
+  "place": {
+    "id": "isle-of-man",
+    "name": "Isle of Man",
+    "mainImg": "img/places/isle-of-man.jpg",
+    "summary": [
+      "The Isle of Man, also known as Mann, is a self-governing British Crown dependency situated in the Irish Sea between Great Britain and Ireland. The head of state, Queen Elizabeth II, holds the title of Lord of Mann and is represented by a lieutenant governor. The United Kingdom has responsibility for the island's defence.",
+      "Humans have lived on the island since before 6500 BC. Gaelic cultural influence began in the 5th century AD, and the Manx language, a branch of the Goidelic languages, emerged. In 627 King Edwin of Northumbria conquered the Isle of Man along with most of Mercia. In the 9th century Norsemen established the thalassocratic Kingdom of the Isles, which included the Isle of Man. Magnus III, King of Norway from 1093 to 1103, reigned also as King of Mann and the Isles between 1099 and 1103.",
+      "In 1266 the island became part of Scotland under the Treaty of Perth, after being ruled by Norway. After a period of alternating rule by the kings of Scotland and England, the island came under the feudal lordship of the English Crown in 1399."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Isle_of_Man",
+    "urlGoogle": "https://artsandculture.google.com/entity/isle-of-man/m03t1s"
+  },
+  "quote": {
+    "id": "96",
+    "quote": "The time to repair the roof is when the sun is shining.",
+    "author": "John F. Kennedy"
+  },
+  "wiki": {
+    "id": "bill-ponsford",
+    "name": "Bill Ponsford",
+    "summary": "Bill Ponsford (1900–1991) was an Australian cricketer, the only player to twice break the world record for the highest individual score in first-class cricket. Predominantly playing as an opening batsman, he formed a successful and long-lived partnership opening the batting for Victoria and Australia with Bill Woodfull, his friend and state and national captain. Aside from Brian Lara, he is the only man to score 400 runs in an innings on two occasions. Ponsford holds the Australian record for a partnership in Test cricket, set in 1934 in combination with Don Bradman—the man who broke many of Ponsford's other individual records. Despite being heavily built, Ponsford was quick on his feet and renowned as one of the finest ever players of spin bowling. His bat, much heavier than the norm and nicknamed \"Big Bertha\", allowed him to drive powerfully and he possessed a strong cut shot. However, critics questioned his ability against fast bowling, and the hostile short-pitched English bowling in the Bodyline series of 1932–33 was a contributing factor in his early retirement from cricket a year and a half later.",
+    "url": "https://en.wikipedia.org/wiki/Bill_Ponsford"
+  },
+  "word": {
+    "id": "presage",
+    "word": "presage",
+    "url": "https://www.merriam-webster.com/dictionary/presage",
+    "partOfSpeech": "verb",
+    "pronunciation": "PRESS-ij",
+    "audioPath": "audio/words/presage.mp3",
+    "definitions": [
+      "to give an omen or warning of : foreshadow",
+      "foretell, predict",
+      "to make or utter a prediction"
+    ],
+    "examples": [
+      "The sudden gloom and ominous dark clouds clearly _presaged_ a nasty storm.",
+      "\"While people debate the merits of building so high so quickly-there's evidence that tall buildings often _presage_ an economic collapse-we wanted to take a look at other buildings that deserve browser time.\" - From a staff article on CNN.com, August 6th, 2013"
+    ],
+    "origin": "The verb \"presage\" was predated by a noun \"presage,\" meaning \"omen.\" Both forms derive from the Latin prefix \"prae-\" combined with the adjective \"sagus,\" meaning \"prophetic.\" \"Foretell,\" \"predict,\" \"forecast,\" \"prophesy,\" and \"presage\" all mean \"to tell beforehand.\" \"Foretell\" applies to telling of a future event by any procedure or any source of information (\"seers foretold the calamity\"). \"Predict\" commonly implies inference from facts or accepted laws of nature (\"astronomers predicted an eclipse\"). \"Forecast\" implies anticipating eventualities and is usually concerned with probabilities (\"to forecast snow\"). \"Prophesy\" connotes inspired or mystic knowledge of the future (\"prophesying a new messiah\"). \"Presage\" may apply to suggesting a coming event or indicating its likelihood."
+  }
+}

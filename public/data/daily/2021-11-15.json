@@ -1,0 +1,124 @@
+{
+  "artist": {
+    "id": "sandro-botticelli",
+    "name": "Sandro Botticelli",
+    "dates": "Mar 1, 1445 - May 17, 1510",
+    "mainImg": "img/art/artists/sandro-botticelli.jpg",
+    "artworkImgs": [
+      {
+        "name": "Virgin and Child with an Angel",
+        "path": "img/art/artworks/sandro-botticelli-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-and-child-with-an-angel-sandro-botticelli/RwEN2DB26-QjXQ"
+      },
+      {
+        "name": "Drawings for Dante´s Divine Comedy",
+        "path": "img/art/artworks/sandro-botticelli-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/drawings-for-dante´s-divine-comedy-sandro-botticelli/1QGejbQRu8ek0w"
+      },
+      {
+        "name": "Madonna with Saints",
+        "path": "img/art/artworks/sandro-botticelli-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-with-saints-sandro-botticelli/oQGX0kbVHnZ-lA"
+      },
+      {
+        "name": "Idealized Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph)",
+        "path": "img/art/artworks/sandro-botticelli-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/idealized-portrait-of-a-lady-portrait-of-simonetta-vespucci-as-nymph-sandro-botticelli/GwFKQCuQs0yvFA"
+      },
+      {
+        "name": "The Virgin and Child (The Madonna of the Book)",
+        "path": "img/art/artworks/sandro-botticelli-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-the-madonna-of-the-book-sandro-botticelli/cgHULpr5dnz9JA"
+      },
+      {
+        "name": "The birth of Venus",
+        "path": "img/art/artworks/sandro-botticelli-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-birth-of-venus-sandro-botticelli/MQEeq50LABEBVg"
+      }
+    ],
+    "summary": [
+      "Alessandro di Mariano di Vanni Filipepi, known as Sandro Botticelli, was an Italian painter of the Early Renaissance. He belonged to the Florentine School under the patronage of Lorenzo de' Medici, a movement that Giorgio Vasari would characterize less than a hundred years later in his Vita of Botticelli as a \"golden age\". Botticelli's posthumous reputation suffered until the late 19th century; since then, his work has been seen to represent the linear grace of Early Renaissance painting.",
+      "As well as the small number of mythological subjects which are his best known works today, he painted a wide range of religious subjects and also some portraits. He and his workshop were especially known for their Madonna and Childs, many in the round tondo shape. Botticelli's best-known works are The Birth of Venus and Primavera, both in the Uffizi in Florence. He lived all his life in the same neighbourhood of Florence, with probably his only significant time elsewhere the months he spent painting in Pisa in 1474 and the Sistine Chapel in Rome in 1481–82."
+    ],
+    "quote": null,
+    "movements": [
+      "Italian Renaissance",
+      "Renaissance",
+      "Florentine painting",
+      "High Renaissance",
+      "Venetian painting"
+    ],
+    "mediums": ["Tempera", "Drawing", "Metal", "Pen", "Vellum", "Feather"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sandro_Botticelli",
+    "urlGoogle": "https://artsandculture.google.com/entity/sandro-botticelli/m0jr3g"
+  },
+  "event": {
+    "id": "the-great-depression",
+    "name": "The Great Depression",
+    "dates": "Oct 29, 1929 - 1939",
+    "mainImg": "img/events/the-great-depression.jpg",
+    "summary": [
+      "The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. The timing of the Great Depression varied across the world; in most countries, it started in 1929 and lasted until the late 1930s. It was the longest, deepest, and most widespread depression of the 20th century. The Great Depression is commonly used as an example of how intensely the global economy can decline.",
+      "The Great Depression started in the United States after a major fall in stock prices that began around September 4, 1929, and became worldwide news with the stock market crash of October 29, 1929. Between 1929 and 1932, worldwide gross domestic product fell by an estimated 15%. By comparison, worldwide GDP fell by less than 1% from 2008 to 2009 during the Great Recession. Some economies started to recover by the mid-1930s. However, in many countries, the negative effects of the Great Depression lasted until the beginning of World War II.",
+      "The Great Depression had devastating effects in both rich and poor countries. Personal income, tax revenue, profits and prices dropped, while international trade fell by more than 50%."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Great_Depression",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-great-depression/m034jx"
+  },
+  "funFacts": [
+    { "id": "11", "fact": "Flamingos turn pink from eating shrimp.", "category": ["Animals"] },
+    { "id": "1031", "fact": "An octopus has three hearts.", "category": ["Animals", "Science"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "554010",
+      "fact": "As comedian Bob Hope lay on his deathbed in 2003, his wife Dolores asked where he’d like to be buried. His reply: “Surprise me.”"
+    }
+  ],
+  "person": {
+    "id": "empedocles",
+    "name": "Empedocles",
+    "dates": "Born 482 BC",
+    "mainImg": "img/people/empedocles.jpg",
+    "summary": [
+      "Empedocles was a Greek pre-Socratic philosopher and a native citizen of Akragas, a Greek city in Sicily. Empedocles' philosophy is best known for originating the cosmogonic theory of the four classical elements. He also proposed forces he called Love and Strife which would mix and separate the elements, respectively.",
+      "Influenced by Pythagoras and the Pythagoreans, Empedocles challenged the practice of animal sacrifice and killing animals for food. He developed a distinctive doctrine of reincarnation. He is generally considered the last Greek philosopher to have recorded his ideas in verse. Some of his work survives, more than is the case for any other pre-Socratic philosopher. Empedocles' death was mythologized by ancient writers, and has been the subject of a number of literary treatments."
+    ],
+    "quote": "“The nature of God is a circle of which the center is everywhere and the circumference is nowhere.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Empedocles",
+    "urlGoogle": "https://artsandculture.google.com/entity/empedocles/m02lvm"
+  },
+  "place": {
+    "id": "st-petersburg",
+    "name": "St. Petersburg",
+    "mainImg": "img/places/st-petersburg.jpg",
+    "summary": [
+      "St. Petersburg is a city in Pinellas County, Florida, United States. As of the 2019 census estimate, the population was 265,351, making it the fifth-most populous city in Florida and the largest in the state that is not a county seat.",
+      "St. Petersburg is the fifth-largest city in Florida and the second-largest city in the Tampa Bay Area, after Tampa. Together with Clearwater, these cities comprise the Tampa–St. Petersburg–Clearwater Metropolitan Statistical Area, the second-largest in Florida with a population of around 2.8 million. St. Petersburg is located on the Pinellas peninsula between Tampa Bay and the Gulf of Mexico, and is connected to mainland Florida to the north.",
+      "St. Petersburg was founded in 1888 by John C. Williams, who purchased the land, and by Peter Demens who brought the railroad industry into the area. A coin toss bet was held between Williams and Demans to name this newly-formed community. Demens won the bet and subsequently named the land after Saint Petersburg, Russia. Williams was then granted the right to name the first hotel built. Both named their winnings after their personal hometowns. St."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/St._Petersburg,_Florida",
+    "urlGoogle": "https://artsandculture.google.com/entity/st-petersburg/m0lhql"
+  },
+  "wiki": {
+    "id": "slayer",
+    "name": "Slayer",
+    "summary": "Slayer is an American thrash metal band, formed in 1981 by guitarists Jeff Hanneman and Kerry King. Slayer rose to fame as a leader of the American thrash metal movement with their 1986 release Reign in Blood, which has been called \"the heaviest album of all time.\" The band is credited as one of the \"Big Four\" thrash metal bands along with Megadeth, Metallica, and Anthrax. Slayer is known for its musical traits, involving fast tremolo picking, guitar solos, double bass drumming, and screaming vocals. The band's lyrics and album art, which cover topics such as serial killers, satanism, religion and warfare have generated album bans, delays, lawsuits and strong criticism from religious groups and the public. Since their debut record in 1983, the band has released two live albums, one box set, two DVDs, two EPs, and ten albums, four of which have received gold certification. The band has received two Grammy nominations, winning one in 2007 for the song \"Eyes of the Insane\", and headlined music festivals worldwide, including Ozzfest, The Unholy Alliance and the Download Festival.",
+    "url": "https://en.wikipedia.org/wiki/Slayer"
+  },
+  "word": {
+    "id": "jocund",
+    "word": "jocund",
+    "url": "https://www.merriam-webster.com/dictionary/jocund",
+    "partOfSpeech": "adjective",
+    "pronunciation": "JAH-kund",
+    "audioPath": "audio/words/jocund.mp3",
+    "definitions": ["marked by or suggestive of high spirits and lively mirthfulness"],
+    "examples": [
+      "I had heard that Perry had been in a sour mood lately, so I was surprised and relieved to discover that he was his usual jocund self when he met me for coffee."
+    ],
+    "origin": "Don't let the etymology of \"jocund\" play tricks on you. The word comes from \"jucundus,\" a Latin word meaning \"agreeable\" or \"delightful,\" and ultimately from the Latin verb \"juvare,\" meaning \"to help.\" But \"jucundus\" looks and sounds a bit like \"jocus,\" the Latin word for \"joke.\" These two roots took a lively romp through many centuries together and along the way the lighthearted \"jocus\" influenced the spelling and meaning of \"jucundus,\" an interaction that eventually produced our Modern English word \"jocund\" in the 14th century."
+  }
+}

@@ -1,131 +1,133 @@
 {
   "artist": {
-    "id": "edouard-vuillard",
-    "name": "Édouard Vuillard",
-    "dates": "Nov 11, 1868 - Jun 21, 1940",
-    "mainImg": "img/art/artists/edouard-vuillard.jpg",
+    "id": "quentin-matsys",
+    "name": "Quentin Matsys",
+    "dates": "Apr 26, 1466 - 1530",
+    "mainImg": "img/art/artists/quentin-matsys.jpg",
     "artworkImgs": [
       {
-        "name": "Woman by the Window",
-        "path": "img/art/artworks/edouard-vuillard-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/woman-by-the-window-edouard-vuillard/SAFhHH7CamewgQ"
+        "name": "The Crucifixion",
+        "path": "img/art/artworks/quentin-matsys-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-crucifixion-quinten-massys/RAErDTWzHxNumQ"
       },
       {
-        "name": "The Tuileries (Les Tuileries)",
-        "path": "img/art/artworks/edouard-vuillard-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-tuileries-les-tuileries-edouard-vuillard/jgG3-EX_LE9j2w"
+        "name": "The Virgin and Child Enthroned, with Four Angels",
+        "path": "img/art/artworks/quentin-matsys-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-enthroned-with-four-angels-quinten-massys/fwFhyfHaRRzegg"
       },
       {
-        "name": "Lucy Hessel Reading (Lucy Hessel lisant)",
-        "path": "img/art/artworks/edouard-vuillard-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/lucy-hessel-reading-lucy-hessel-lisant-edouard-vuillard/zQG9hrP6EsyRHg"
+        "name": "An Old Woman ('The Ugly Duchess')",
+        "path": "img/art/artworks/quentin-matsys-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/an-old-woman-the-ugly-duchess-quinten-massys/pgHyo_q4XgQKNw"
       },
       {
-        "name": "Nature morte au bougeoir",
-        "path": "img/art/artworks/edouard-vuillard-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/nature-morte-au-bougeoir-edouard-vuillard/BwECXwvQw2jQxQ"
+        "name": "Christ as the Man of Sorrows",
+        "path": "img/art/artworks/quentin-matsys-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-as-the-man-of-sorrows-quentin-metsys/9QEXML9865VlVQ"
       },
       {
-        "name": "Two Seamstresses in the Workroom",
-        "path": "img/art/artworks/edouard-vuillard-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/two-seamstresses-in-the-workroom-edouard-vuillard/fwF8M87EfFJsug"
+        "name": "Portrait of a Woman",
+        "path": "img/art/artworks/quentin-matsys-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-woman-quentin-metsys/WAEYJnFie6A2BA"
       },
       {
-        "name": "Deux Femmes dans Interieur",
-        "path": "img/art/artworks/edouard-vuillard-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/deux-femmes-dans-interieur-edouard-vuillard/SQFIQ_4HSEKDsg"
+        "name": "Vierge à l'Enfant entouré d'anges",
+        "path": "img/art/artworks/quentin-matsys-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/vierge-à-l-enfant-entouré-d-anges-quentin-metsys/MQGbtwB3R8NAwg"
       }
     ],
     "summary": [
-      "Jean-Édouard Vuillard was a French painter, decorative artist and printmaker. From 1891 through 1900, he was a prominent member of the Nabis, making paintings which assembled areas of pure color, and interior scenes, influenced by Japanese prints, where the subjects were blended into colors and patterns. He also was a decorative artist, painting theater sets, panels for interior decoration, and designing plates and stained glass. After 1900, when the Nabis broke up, he adopted a more realistic style, painting landscapes and interiors with lavish detail and vivid colors. In the 1920s and 1930s he painted portraits of prominent figures in French industry and the arts in their familiar settings."
+      "Quentin Massys was a Flemish painter in the Early Netherlandish tradition. He was born in Leuven. There is a tradition alleging that he was trained as an ironsmith before becoming a painter. Matsys was active in Antwerp for over 20 years, creating numerous works with religious roots and satirical tendencies. He is regarded as the founder of the Antwerp school of painting, which became the leading school of painting in Flanders in the 16th century. He introduced new techniques and motifs as well as moralising subjects without completely breaking with the tradition."
     ],
     "quote": null,
-    "movements": ["Modern art", "Les Nabis", "Post-Impressionism", "Impressionism", "Art Nouveau"],
-    "mediums": ["Oil paint", "Ink", "Cardboard", "Watercolor painting", "Distemper", "Graphite"],
-    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89douard_Vuillard",
-    "urlGoogle": "https://artsandculture.google.com/entity/édouard-vuillard/m01_lr8"
+    "movements": [
+      "Renaissance",
+      "Dutch and Flemish Renaissance painting",
+      "Antwerp school",
+      "Northern Renaissance",
+      "German Renaissance"
+    ],
+    "mediums": ["Oil paint", "Wood", "Oak", "Metal", "Textile", "Silver"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Quentin_Matsys",
+    "urlGoogle": "https://artsandculture.google.com/entity/quentin-matsys/m0mf02"
   },
   "event": {
-    "id": "hurricane-maria",
-    "name": "Hurricane Maria",
-    "dates": "Sep 16, 2017 - Oct 2, 2017",
-    "mainImg": "img/events/hurricane-maria.jpg",
+    "id": "2000-democratic-national-convention",
+    "name": "2000 Democratic National Convention",
+    "dates": "Aug 14, 2000 - Aug 17, 2000",
+    "mainImg": "img/events/2000-democratic-national-convention.jpg",
     "summary": [
-      "Hurricane Maria was a deadly Category 5 hurricane that devastated Dominica, St Croix, and Puerto Rico in September 2017. It is regarded as the worst natural disaster in recorded history to affect those islands and was also the deadliest Atlantic hurricane since Jeanne in 2004. The tenth-most intense Atlantic hurricane on record and the most intense tropical cyclone worldwide in 2017, Maria was the thirteenth named storm, eighth consecutive hurricane, fourth major hurricane, second Category 5 hurricane, and deadliest storm of the hyperactive 2017 Atlantic hurricane season. At its peak, the hurricane caused catastrophic destruction and numerous fatalities across the northeastern Caribbean, compounding recovery efforts in the areas of the Leeward Islands already struck by Hurricane Irma. Total losses from the hurricane are estimated at upwards of $91.61 billion, mostly in Puerto Rico, ranking it as the third-costliest tropical cyclone on record.",
-      "Originating from a tropical wave, Maria became a tropical storm on September 16, east of the Lesser Antilles. Highly favorable environmental conditions allowed the storm to undergo explosive intensification as it approached the island arc."
+      "The 2000 Democratic National Convention was a quadrennial presidential nominating convention for the Democratic Party. The convention nominated Vice President Al Gore for president and Senator Joe Lieberman from Connecticut for vice president. The convention was held at the Staples Center in Los Angeles, California from August 14 to August 17, 2000. Gore accepted the presidential nomination on August 17, the final night of the convention. This was the second Democratic National Convention hosted by Los Angeles, the first being in 1960."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Hurricane_Maria",
-    "urlGoogle": "https://artsandculture.google.com/entity/hurricane-maria/g11fy_1d36n"
+    "urlWiki": "https://en.wikipedia.org/wiki/2000_Democratic_National_Convention",
+    "urlGoogle": "https://artsandculture.google.com/entity/2000-democratic-national-convention/m02vk6k"
   },
   "funFacts": [
     {
-      "id": "751",
-      "fact": "Flamingos can only eat with their heads upside down.",
+      "id": "235",
+      "fact": "The biggest pig in recorded history weighed almost one ton.",
       "category": ["Animals"]
     },
     {
-      "id": "913",
-      "fact": "The Saturn V moon rocket consumed 15 tons of fuel per second.",
-      "category": ["Science"]
+      "id": "675",
+      "fact": "More than 180 countries celebrate Earth Day together every April 22nd.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "522217",
-      "fact": "Two grandsons of President John Tyler—the 10th president of the United States, who was born in 1790—are still alive."
-    }
+    { "id": "552933", "fact": "Ravens in captivity can learn to talk better than parrots." }
   ],
   "idiom": {
-    "id": "out-to-lunch",
-    "term": "out to lunch",
-    "definition": "Not in touch with the real world, crazy; also, inattentive. For example, *If he believes that story, he's really out to lunch,* or *Anne hasn't heard a word you said---she's out to lunch.* This expression transfers a temporary physical absence for the purpose of eating to a temporary or permanent mental absence. [Slang; mid-1900s]"
+    "id": "cut-capers",
+    "term": "cut capers",
+    "definition": "Also, **cut a caper.** Frolic or romp, as in *The children cut capers in the pile of raked leaves.* The noun *caper* comes from the Latin for \"goat,\" and the allusion is to act in the manner of a young goat clumsily frolicking about. The expression was first recorded in Shakespeare's *Twelfth Night* (1:3): \"Faith, I can cut a caper.\""
   },
   "person": {
-    "id": "severus-alexander",
-    "name": "Severus Alexander",
-    "dates": "Died 235 AD",
-    "mainImg": "img/people/severus-alexander.jpg",
+    "id": "alexander-cambridge-1-st-earl-of-athlone",
+    "name": "Alexander Cambridge, 1st Earl of Athlone",
+    "dates": "Apr 14, 1874 - Jan 16, 1957",
+    "mainImg": "img/people/alexander-cambridge-1-st-earl-of-athlone.jpg",
     "summary": [
-      "Severus Alexander was Roman Emperor from 222 to 235 and the last emperor of the Severan dynasty. He succeeded his cousin Elagabalus upon the latter's assassination in 222. His own assassination marked the epoch event for the Crisis of the Third Century—nearly 50 years of civil wars, foreign invasion, and collapse of the monetary economy.",
-      "Alexander was the heir to his cousin, the 18-year-old Emperor who had been murdered along with his mother Julia Soaemias, by his own guards, who, as a mark of contempt, had their remains cast into the Tiber river. He and his cousin were both grandsons of the influential and powerful Julia Maesa, who had arranged for Elagabalus' acclamation as emperor by the famous Third Gallic Legion. It was the rumor of Alexander's death that triggered the assassination of Elagabalus and his mother. His 13-year reign was the longest reign of a sole emperor since Antoninus Pius. He was also the second-youngest ever sole legal Roman Emperor during the existence of the united empire, the youngest being Gordian III.",
-      "As emperor, Alexander's peacetime reign was prosperous."
+      "Alexander Cambridge, 1st Earl of Athlone, was a British Army commander and major-general who served as the fourth Governor-General of the Union of South Africa and as Governor General of Canada, the 16th since the Canadian Confederation.",
+      "Prince Alexander was born in London to the Duke and Duchess of Teck and was educated at Eton College and the Royal Military College, Sandhurst. In 1904, he married Princess Alice of Albany and rose in the military ranks through his service on the western front of the First World War, receiving numerous honours and decorations.",
+      "A cousin and also brother-in-law of King George V, he relinquished his German titles in 1917, including that of Prince of Teck in the Kingdom of Württemberg, and was elevated to the peerage as the Earl of Athlone. He was in 1923 appointed as South Africa's governor-general by the King, on the recommendation of Prime Minister of the United Kingdom Stanley Baldwin, to replace Prince Arthur of Connaught, and he occupied the viceregal post until succeeded by the Earl of Clarendon in 1930."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Severus_Alexander",
-    "urlGoogle": "https://artsandculture.google.com/entity/severus-alexander/m0rdc"
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_Cambridge,_1st_Earl_of_Athlone",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-cambridge-1st-earl-of-athlone/m01pzn5"
   },
   "place": {
-    "id": "banff",
-    "name": "Banff",
-    "mainImg": "img/places/banff.jpg",
+    "id": "acapulco",
+    "name": "Acapulco",
+    "mainImg": "img/places/acapulco.jpg",
     "summary": [
-      "Banff is a town within Banff National Park in Alberta, Canada. It is located in Alberta's Rockies along the Trans-Canada Highway, approximately 126 km west of Calgary and 58 km east of Lake Louise. At 1,400 to 1,630 m above sea level, Banff is the community with the second highest elevation in Alberta, after Lake Louise.",
-      "The Town of Banff was the first municipality to incorporate within a Canadian national park. The town is a member of the Calgary Regional Partnership.",
-      "Banff is a resort town and one of Canada's most popular tourist destinations. Known for its mountainous surroundings and hot springs, it is a destination for outdoor sports and features extensive hiking, biking, scrambling and skiing destinations within the area. Sunshine Village, Ski Norquay and Lake Louise Ski Resort are the three nearby ski resorts located within the national park."
+      "Acapulco de Juárez, commonly called Acapulco, is a city, municipality and major seaport in the state of Guerrero on the Pacific coast of Mexico, 380 kilometres south of Mexico City. Acapulco is located on a deep, semicircular bay and has been a port since the early colonial period of Mexico's history. It is a port of call for shipping and cruise lines running between Panama and San Francisco, California, United States. The city of Acapulco is the largest in the state, far larger than the state capital Chilpancingo. Acapulco is also Mexico's largest beach and balneario resort city.",
+      "The city is one of Mexico's oldest beach resorts, which came into prominence in the 1940s through the 1960s as a getaway for Hollywood stars and millionaires. Acapulco was once a popular tourist resort, but due to a massive upsurge in gang violence and murder since 2014 it no longer attracts many foreign tourists, and most now only come from Mexico itself. It is both the second deadliest city in Mexico and the second-deadliest city in the world, and the US government has warned its citizens not to travel there."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Banff,_Alberta",
-    "urlGoogle": "https://artsandculture.google.com/entity/banff/m01_60w"
+    "urlWiki": "https://en.wikipedia.org/wiki/Acapulco",
+    "urlGoogle": "https://artsandculture.google.com/entity/acapulco/m0p_f"
   },
   "wiki": {
-    "id": "gamma-ray-burst",
-    "name": "Gamma-ray burst",
-    "summary": "Gamma-ray bursts (GRBs) are flashes of gamma rays associated with extremely energetic explosions in distant galaxies. GRBs are the most luminous electromagnetic events known to occur in the universe. A burst typically lasts 20–40 seconds, but can last from ten milliseconds to several minutes. The initial burst is usually followed by a longer-lived \"afterglow\" emitted at longer wavelengths. Most observed GRBs are believed to be a narrow beam of intense radiation released during a supernova event, as a rapidly rotating, high-mass star collapses to form a neutron star or black hole. The sources of most GRBs are billions of light years from Earth, implying that the explosions are both extremely energetic and extremely rare. GRBs were first detected in 1967 by the Vela satellites, but it was not until 1997 that they were better understood, with the detection of the first X-ray and optical afterglows and the use of optical spectroscopy to directly measure their redshifts.",
-    "url": "https://en.wikipedia.org/wiki/Gamma-ray_burst"
+    "id": "the-legend-of-zelda-majoras-mask",
+    "name": "The Legend of Zelda: Majora's Mask",
+    "summary": "The Legend of Zelda: Majora's Mask is a video game that was released in 2000 for the Nintendo 64 console. Majora's Mask is the sixth release in The Legend of Zelda series and the second 3D release in the series. Although it failed to match the sales success of its predecessor, The Legend of Zelda: Ocarina of Time, Majora's Mask features a broader storyline. The protagonist Link is placed in the land of Termina, rather than the usual Hyrule. A mysterious mask-wearing imp, known as the Skull Kid, has been persuading the moon to abandon its orbit and crash into Termina. The player repeatedly lives three days through time travel in order to prevent this catastrophe. Majora's Mask has been cited as the darkest game in the Zelda series to date, largely due to its plot leading up to an impending apocalypse.",
+    "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask"
   },
   "word": {
-    "id": "acquiesce",
-    "word": "acquiesce",
-    "url": "https://www.merriam-webster.com/dictionary/acquiesce",
-    "partOfSpeech": "verb",
-    "pronunciation": "ak-wee-ESS",
-    "audioPath": "audio/words/acquiesce.mp3",
-    "definitions": ["to accept, comply, or submit tacitly or passively - often used with in or to"],
-    "examples": [
-      "The workers began to threaten a strike once it became clear that the company was unlikely to simply _acquiesce_ to their demands.",
-      "\"It is an uncomfortable truth: Dictatorship often rests on a measure of consent. A people _acquiesce_ in their own servitude, forge their own chains.\" - From an article by Fouad Ajami in _The Wall Street Journal_, August 14, 2013"
+    "id": "carpaccio",
+    "word": "carpaccio",
+    "url": "https://www.merriam-webster.com/dictionary/carpaccio",
+    "partOfSpeech": "noun",
+    "pronunciation": "kar-PAH-chee-oh",
+    "audioPath": "audio/words/carpaccio.mp3",
+    "definitions": [
+      "thinly sliced raw meat or fish served with a sauce -- often used postpositively"
     ],
-    "origin": "\"Acquiesce\" means essentially \"to comply quietly,\" so it should not surprise you to learn that it is ultimately derived from the Latin verb \"quiescere,\" meaning \"to be quiet.\" It arrived in English around 1620, via the French \"acquiescer,\" with the now obsolete sense \"to rest satisfied.\" The earliest known recorded use of the word \"acquiesce\" in the sense of \"to agree or comply\" appeared in the writings of the English philosopher Thomas Hobbes in 1651. In his masterpiece Leviathan, Hobbes argued that people must subject themselves completely to a sovereign and should obey the teachings of the church. Encouraging his readers to adopt his position he wrote, \"Our Beleefe . . . is in the Church; whose word we take, and acquiesce therein.\""
+    "examples": [
+      "\"Though the menu is large, stick with the steaks and the beef carpaccio at this sleek, airy restaurant.\" (_The San Francisco Chronicle_, July 31, 2008)"
+    ],
+    "origin": "Carpaccio is not the only dish named after a person, though its name might have the most artful origin. Created in 1950 by Venetian restaurateur Giuseppe Cipriani, carpaccio is named after Vittore Carpaccio, the Renaissance painter. Cipriani created the dish for the Countess Amalia Nani Mocenigo, who had been under doctor’s orders to avoid cooked meats. According to Cipriani’s memoir, he chose to name the dish after Carpaccio because the red in the beef matched the colors found in Carpaccio’s paintings. Recently, some restaurants have begun using the term for similarly prepared non-meat dishes (such as pear carpaccio)."
   }
 }

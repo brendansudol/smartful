@@ -1,130 +1,129 @@
 {
   "artist": {
-    "id": "sin-saimdang",
-    "name": "Sin Saimdang",
-    "dates": "Dec 5, 1504 - May 17, 1551",
-    "mainImg": "img/art/artists/sin-saimdang.jpg",
+    "id": "max-klinger",
+    "name": "Max Klinger",
+    "dates": "Feb 18, 1857 - Jul 5, 1920",
+    "mainImg": "img/art/artists/max-klinger.jpg",
     "artworkImgs": [
       {
-        "name": "Grass and Insect",
-        "path": "img/art/artworks/sin-saimdang-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/egF3CWb3E5Hcsg"
+        "name": "Kiss from the series A Love, Opus X",
+        "path": "img/art/artworks/max-klinger-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/kiss-from-the-series-a-love-opus-x-max-klinger/gQHIM4VwdpmS9A"
       },
       {
-        "name": "Grass and Insect",
-        "path": "img/art/artworks/sin-saimdang-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/hwEtvSMFNazzog"
+        "name": "Action (Handlung)",
+        "path": "img/art/artworks/max-klinger-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/action-handlung-max-klinger/xAGtf5mw3iI83g"
       },
       {
-        "name": "Grass and Insect",
-        "path": "img/art/artworks/sin-saimdang-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/SgFjigYaClgE5A"
+        "name": "Plague (Pest)",
+        "path": "img/art/artworks/max-klinger-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/plague-pest-max-klinger/UQH_SlaqBJatNA"
       },
       {
-        "name": "Grass and Insect",
-        "path": "img/art/artworks/sin-saimdang-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/ugGr-pRuok1OyQ"
+        "name": "Action",
+        "path": "img/art/artworks/max-klinger-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/action-max-klinger/GQGWQHI2QL3Hhg"
       },
       {
-        "name": "Grass and Insect",
-        "path": "img/art/artworks/sin-saimdang-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/pwEqKAKgZMNGPQ"
+        "name": "Venus in the shell chariot. Part of the wall decoration of the villa of Albers in Berlin-Steglitz",
+        "path": "img/art/artworks/max-klinger-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-in-the-shell-chariot-part-of-the-wall-decoration-of-the-villa-of-albers-in-berlin-steglitz-max-klinger/eAF1eZ2elJNFUw"
       },
       {
-        "name": "Grass and Insect",
-        "path": "img/art/artworks/sin-saimdang-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/grass-and-insect-shin-saimdang/_gHLrksf2KD95g"
+        "name": "Place (Ort)",
+        "path": "img/art/artworks/max-klinger-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/place-ort-max-klinger/twEqmoXUeKouQg"
       }
     ],
     "summary": [
-      "Shin Saimdang was a Korean artist, writer, calligraphist, and poet. She was born in Gangwondo Gangneungbu jugheonli bugpyeongchon on 29 October 1504. Her birth home, Ojukheon, which is also her mother's side home, is well-preserved to this day. She was the mother of the Korean Confucian scholar Yi I. Often held up as a model of Confucian ideals, her respectful nickname was Eojin Eomeoni. Her real name was Shin In Seon. Her pen names were Saim, Saimdang, Inimdang, and Imsajae. She was a contemporary of the poet Heo Nansseolheon, and the two women were considered rivals."
+      "Max Klinger was a German symbolist painter, sculptor, printmaker, and writer.",
+      "Klinger was born in Leipzig and studied in Karlsruhe. An admirer of the etchings of Menzel and Goya, he shortly became a skilled and imaginative engraver in his own right. He began creating sculptures in the early 1880s. From 1883–1893 he lived in Rome, and became increasingly influenced by the Italian Renaissance and antiquity."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Silk", "Textile"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Sin_Saimdang",
-    "urlGoogle": "https://artsandculture.google.com/entity/sin-saimdang/m01y8g2"
+    "movements": ["Modern art", "Symbolism"],
+    "mediums": ["Etching", "Ink", "Engraving", "Sculpture", "Bronze", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Max_Klinger",
+    "urlGoogle": "https://artsandculture.google.com/entity/max-klinger/m02jgsr"
   },
   "event": {
-    "id": "edo-period",
-    "name": "Edo period",
-    "dates": "1603 - 1868",
-    "mainImg": "img/events/edo-period.jpg",
+    "id": "austro-prussian-war",
+    "name": "Austro-Prussian War",
+    "dates": "1866 - Aug 23, 1866",
+    "mainImg": "img/events/austro-prussian-war.jpg",
     "summary": [
-      "The Edo period or Tokugawa period is the period between 1603 and 1868 in the history of Japan, when Japan was under the rule of the Tokugawa shogunate and the country's 300 regional daimyō. The period was characterized by economic growth, strict social order, isolationist foreign policies, a stable population, \"no more wars\", and popular enjoyment of arts and culture. The shogunate was officially established in Edo on March 24, 1603, by Tokugawa Ieyasu. The period came to an end with the Meiji Restoration on May 3, 1868, after the fall of Edo."
+      "The Austro-Prussian War or Seven Weeks' War was a war fought in 1866 between the Austrian Empire and the Kingdom of Prussia, with each also being aided by various allies within the German Confederation. Prussia had also allied with the Kingdom of Italy, linking this conflict to the Third Independence War of Italian unification. The Austro-Prussian War was part of the wider rivalry between Austria and Prussia, and resulted in Prussian dominance over the German states.",
+      "The major result of the war was a shift in power among the German states away from Austrian and towards Prussian hegemony. It resulted in the abolition of the German Confederation and its partial replacement by the unification of all of the northern German states in the North German Confederation that excluded Austria and the other Southern German states, a Kleindeutsches Reich. The war also resulted in the Italian annexation of the Austrian province of Venetia."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Edo_period",
-    "urlGoogle": "https://artsandculture.google.com/entity/edo-period/m015zcw"
+    "urlWiki": "https://en.wikipedia.org/wiki/Austro-Prussian_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/austro-prussian-war/m011xt0"
   },
   "funFacts": [
     {
-      "id": "126",
-      "fact": "A pigeon's feathers are heavier than its bones.",
-      "category": ["Animals"]
+      "id": "445",
+      "fact": "If there are two full moons in a month, the second one is called a blue moon.",
+      "category": ["Definitions"]
     },
     {
-      "id": "384",
-      "fact": "Each year, the average person walks the distance from NY to Miami.",
-      "category": ["Geography", "Habits"]
+      "id": "140",
+      "fact": "Holland is the only country with a national dog.",
+      "category": ["Animals", "Geography"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553436",
-      "fact": "When Hattie McDaniel became the first African American to win an Oscar in 1940, she had to make her way to the stage from a segregated table at the back of the room."
+      "id": "554068",
+      "fact": "In the 1920s and ‘30s, many movie theaters had signs instructing ladies to \"Please Remove Your Hats” to keep their elaborate headwear from blocking anyone's view."
     }
   ],
   "idiom": {
-    "id": "spare-the-rod-and-spoil-the-child",
-    "term": "spare the rod and spoil the child",
-    "definition": "Discipline is necessary for good upbringing, as in *She lets Richard get away with anything---spare the rod, you know.* This adage appears in the Bible (Proverbs 13:24) and made its way into practically every proverb collection. It originally referred to corporal punishment. It is still quoted, often in shortened form, and today does not necessarily mean physical discipline."
+    "id": "star-chamber-proceedings",
+    "term": "star-chamber proceedings",
+    "definition": "An unfair, secret judicial action. The term alludes to an inquisitorial English court that sat without a jury and was famous for its harsh judgments and sentences. Called the Court of the Star Chamber because of the stars gilded on its ceiling, it was abolished in 1641. The name, however, has persisted to the present day."
   },
   "person": {
-    "id": "frederick-burrows",
-    "name": "Frederick Burrows",
-    "dates": "1887 - 1973",
-    "mainImg": "img/people/frederick-burrows.jpg",
+    "id": "giovanni-gronchi",
+    "name": "Giovanni Gronchi",
+    "dates": "Sep 10, 1887 - Oct 17, 1978",
+    "mainImg": "img/people/giovanni-gronchi.jpg",
     "summary": [
-      "Sir Frederick John Burrows, GCSI, GCIE, was a British politician who served as the last British Governor of Bengal during British Raj in India. He was Governor of Bengal from 19 February 1946 to 14 August 1947. Sir Frederick Burrows was against the partition of Bengal. Sir Frederick Burrows was a former Ross railway man and he was the president of the National Union of Railwaymen, the union representing railway workers in England.",
-      "Sir Adrian Carton de Wiart records: \"He had endeared himself to the Burrah Sahibs of Calcutta with one of his first speeches when, alluding to his modest beginning on the railway, he said, 'When you gentlemen were huntin' and shootin', I was shuntin' and hootin'. He seemed to me to be far more proud of having been a sergeant-major in the Grenadier Guards in the First World War than he was of being Governor of Bengal.\""
+      "Giovanni Gronchi OMCA was a Christian Democratic Italian politician who served as the third President of Italy from 1955 to 1962 and was marked by a controversial and failed attempt to bring about an \"opening to the left\" in Italian politics.",
+      "He was reputed the real holder of the executive power in Italy from 1955 to 1962, backward the various Prime Ministers of this time."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_Burrows",
-    "urlGoogle": "https://artsandculture.google.com/entity/frederick-burrows/m02qk1cj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Giovanni_Gronchi",
+    "urlGoogle": "https://artsandculture.google.com/entity/giovanni-gronchi/m06gfjv"
   },
   "place": {
-    "id": "djibouti",
-    "name": "Djibouti",
-    "mainImg": "img/places/djibouti.jpg",
+    "id": "bologna",
+    "name": "Bologna",
+    "mainImg": "img/places/bologna.jpg",
     "summary": [
-      "Djibouti, officially the Republic of Djibouti, is a country located in the Horn of Africa in East Africa. It is bordered by Somalia in the south, Ethiopia in the south and west, Eritrea in the north, and the Red Sea and the Gulf of Aden in the east. Across the Gulf of Aden lies Yemen, which does not share a land border with Djibouti. The country has a total area of 23,200 km². The Republic of Djibouti is predominantly inhabited by two ethnic groups, the Somali and the Afar people, with the former comprising the majority of the population.",
-      "In antiquity, the territory together with Somalia was part of the Land of Punt. Nearby Zeila, now in Somalia, was the seat of the medieval Adal and Ifat Sultanates. In the late 19th century, the colony of French Somaliland was established following treaties signed by the ruling Somali and Afar sultans with the French and its railroad to Dire Dawa allowed it to quickly supersede Zeila as the port for southern Ethiopia and the Ogaden. It was subsequently renamed to the French Territory of the Afars and the Issas in 1967. A decade later, the Djiboutian people voted for independence."
+      "Bologna is the capital and largest city of the Emilia-Romagna region in Northern Italy. It is the seventh most populous city in Italy with about 390,000 inhabitants and 150 different nationalities. Its metropolitan area is home to more than 1,000,000 people.",
+      "Originally Etruscan, the city has been one of the most important urban centres for centuries, first under the Etruscans, then under the Celts as Bona, later under the Romans, then again in the Middle Ages, as a free municipality and signoria, when it was among the largest European cities by population. Famous for its towers, churches and lengthy porticoes, Bologna has a well-preserved historical centre, thanks to a careful restoration and conservation policy which began at the end of the 1970s. Home to the oldest university in the world, the University of Bologna, established in AD 1088, the city has a large student population that gives it a cosmopolitan character. In 2000 it was declared European capital of culture and in 2006, a UNESCO \"City of Music\" and became part of the Creative Cities Network."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Djibouti",
-    "urlGoogle": "https://artsandculture.google.com/entity/djibouti/m027jk"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bologna",
+    "urlGoogle": "https://artsandculture.google.com/entity/bologna/m096g3"
   },
   "wiki": {
-    "id": "startling-stories",
-    "name": "Startling Stories",
-    "summary": "Startling Stories was an American pulp science fiction magazine, published by Standard Magazines from 1939 to 1955. Its first editor was Mort Weisinger, who also edited Thrilling Wonder Stories, Standard's other science fiction title. Startling ran a lead novel in every issue; the first was The Black Flame by Stanley G. Weinbaum. The magazine focused on younger readers, and, when Weisinger was replaced by Oscar J. Friend in 1941, the magazine became even more juvenile in focus. Sam Merwin, Jr., Friend's successor, was able to improve the quality of the fiction substantially, publishing Arthur C. Clarke's Against the Fall of Night and other well-received stories. Earle K. Bergey painted almost every cover between 1942 and 1952, equipping his heroines with brass bras and implausible costumes; the public image of science fiction in his day was partly created by his work. In later years, competition affected the magazine's ability to acquire quality material. In mid-1952, Standard attempted to change Startling's image by adopting a more sober title typeface and reducing the covers' sensationalism, but the pulp magazine market was collapsing and publication ceased in 1955.",
-    "url": "https://en.wikipedia.org/wiki/Startling_Stories"
+    "id": "pan-american-world-airways",
+    "name": "Pan American World Airways",
+    "summary": "Pan American World Airways, most commonly known as \"Pan Am\", was the principal international airline of the United States from the 1930s until its collapse in 1991. Originally founded as a seaplane service out of Key West, Florida, the airline became a major company; it was credited with many innovations that shaped the international airline industry, including the widespread use of jet aircraft, jumbo jets, and computerized reservation systems. Identified by its blue globe logo and the use of \"Clipper\" in aircraft names and call signs, the airline was a cultural icon of the 20th century, and the unofficial flag carrier of the United States. Pan Am went through two incarnations after 1991. The second Pan Am operated from 1996 to 1998 with a focus on low-cost, long-distance flights between the U.S. and the Caribbean. The current incarnation, based in Portsmouth, New Hampshire and known as the Pan Am \"Clipper Connection,\" is operated by Boston-Maine Airways. The airline currently flies to destinations in the northeastern United States, Florida, Dominican Republic, and Puerto Rico.",
+    "url": "https://en.wikipedia.org/wiki/Pan_American_World_Airways"
   },
   "word": {
-    "id": "tare",
-    "word": "tare",
-    "url": "https://www.merriam-webster.com/dictionary/tare",
+    "id": "heliolatry",
+    "word": "heliolatry",
+    "url": "https://www.merriam-webster.com/dictionary/heliolatry",
     "partOfSpeech": "noun",
-    "pronunciation": "TAIR",
-    "audioPath": "audio/words/tare.mp3",
-    "definitions": [
-      "a deduction from the gross weight of a substance and its container made in allowance for the weight of the container; also : the weight of the container",
-      "counterweight"
-    ],
+    "pronunciation": "hee-lee-AH-luh-tree",
+    "audioPath": "audio/words/heliolatry.mp3",
+    "definitions": ["sun worship"],
     "examples": [
-      "Before charging us for the blueberries we'd picked, the attendant at Annie's Fields deducted the tare from the weight of the filled buckets."
+      "The Egyptians, who personified the sun as the god Ra, were one of numerous ancient cultures that practiced heliolatry."
     ],
-    "origin": "\"Tare\" came to English by way of Middle French from the Old Italian term \"tara,\" which is itself from the Arabic word \"ṭarḥa,\" meaning \"that which is removed.\" The first known written record of the word \"tare\" in English is found in the 1489 naval inventories of Britain's King Henry VII. The records show two barrels of gunpowder weighing, \"besides the tare,\" 500 pounds. When used of vehicles, \"tare weight\" refers to a vehicle's weight exclusive of any load. The term \"tare\" is closely tied to \"net weight,\" which is defined as \"weight excluding all tare.\""
+    "origin": "The first half of \"heliolatry\" derives from \"hēlios,\" the Greek word for \"sun.\" In Greek mythology, Hēlios was the god of the sun, imagined as \"driving\" the sun as a chariot across the sky. From \"hēlios\" we also get the word \"helium,\" referring to the very light gas that is found in balloons and airships, and \"heliocentric,\" meaning \"having or relating to the sun as center,\" as in \"a heliocentric orbit.\" The suffix \"-latry,\" meaning \"worship,\" derives via Late Latin and French from the Greek \"latreia,\" and can be found in such words as \"bardolatry\" (\"worship of Shakespeare\") and \"zoolatry\" (\"animal worship\"). A person who worships the sun is called a heliolater."
   }
 }

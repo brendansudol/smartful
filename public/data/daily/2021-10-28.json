@@ -1,130 +1,122 @@
 {
   "artist": {
-    "id": "rachel-ruysch",
-    "name": "Rachel Ruysch",
-    "dates": "Jun 3, 1664 - Aug 12, 1750",
-    "mainImg": "img/art/artists/rachel-ruysch.jpg",
+    "id": "wang-hui",
+    "name": "Wang Hui",
+    "dates": "1632 - 1717",
+    "mainImg": "img/art/artists/wang-hui.jpg",
     "artworkImgs": [
       {
-        "name": "Flowers in a Glass Vase",
-        "path": "img/art/artworks/rachel-ruysch-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/flowers-in-a-glass-vase-rachel-ruysch/3gE4dahtU52FYg"
+        "name": "清 王翬 王時敏 仿古山水圖 冊 紙本|Landscapes after old masters",
+        "path": "img/art/artworks/wang-hui-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/清-王翬-王時敏-仿古山水圖-冊-紙本-landscapes-after-old-masters-wang-hui-wang-shimin/3QGrxmQj1HnEnw"
       },
       {
-        "name": "Roses, Convolvulus, Poppies, and Other Flowers in an Urn on a Stone Ledge",
-        "path": "img/art/artworks/rachel-ruysch-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/roses-convolvulus-poppies-and-other-flowers-in-an-urn-on-a-stone-ledge-rachel-ruysch/GQEBqDkl0_2urQ"
+        "name": "Dwelling in the Fuchun Mountains after Huang Gongwang",
+        "path": "img/art/artworks/wang-hui-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/dwelling-in-the-fuchun-mountains-after-huang-gongwang-artist-wang-hui-artist-after-huang-gongwang/-QEd99uCYDK5lw"
       },
       {
-        "name": "Still Life with Flowers on a Marble Tabletop",
-        "path": "img/art/artworks/rachel-ruysch-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-with-flowers-on-a-marble-tabletop-rachel-ruysch/SAGyT5CyIJuATQ"
+        "name": "Hanging scroll",
+        "path": "img/art/artworks/wang-hui-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/hanging-scroll-wang-hui-unidentified-artist/vgEomlcjf6TEyQ"
       },
       {
-        "name": "Still Life of Exotic Flowers on a Marble Ledge",
-        "path": "img/art/artworks/rachel-ruysch-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-of-exotic-flowers-on-a-marble-ledge-rachel-ruysch/5wGzADmsS88iHg"
+        "name": "Mountains and Rivers Without End",
+        "path": "img/art/artworks/wang-hui-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mountains-and-rivers-without-end-wang-hui/kAFxc3Y7Y_mCgg"
       },
       {
-        "name": "Still-Life with Flowers",
-        "path": "img/art/artworks/rachel-ruysch-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-with-flowers-rachel-ruysch/FgFwiMlaanBF3w"
+        "name": "Album",
+        "path": "img/art/artworks/wang-hui-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/album-chen-rong-danzhirui-jin-dashou-wang-yuan-muqi-guo-xi-zhang-yüehu-luochuang-ren-renfa-luo-xinzhong-wen-tong-xia-yong-fan-anren-cinshan-kongshan-su-xianzu-li-anzhong-xuejian-wang-moji-daisong-zhao-mengfu-kano-tsunenobu-yintuoluo-wang-lipen-po-citing-puming-sheng-mou-yan-ciping/cgF7N_3tkK8xZw"
       },
       {
-        "name": "Vase with Flowers",
-        "path": "img/art/artworks/rachel-ruysch-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/vase-with-flowers-ruysch-rachel/PgHK2z3C15Cytw"
+        "name": "Pavilions in the Mountains of the Immortals",
+        "path": "img/art/artworks/wang-hui-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/pavilions-in-the-mountains-of-the-immortals-artist-wang-hui/3QFD4ZkketKWkA"
       }
     ],
     "summary": [
-      "Rachel Ruysch was a still-life painter from the Northern Netherlands. She specialized in flowers, inventing her own style and achieving international fame in her lifetime. Due to a long and successful career that spanned over six decades, she became the best documented woman painter of the Dutch Golden Age, being followed by Jan van Huysum, who took flower painting to another degree of popularity."
+      "Wang Hui was a Chinese landscape painter, one of the Four Wangs. He, and the three other Wangs, dominated orthodox art in China throughout the late Ming and early Qing periods. Of the Four Wangs, Wang Hui is considered the best-known today.",
+      "Beijing, Shanghai and Taipei museums loaned works for \"Landscapes Clear and Radiant: The Art of Wang Hui\" in 2008 at the Metropolitan Museum of Art in New York."
     ],
     "quote": null,
-    "movements": ["Baroque", "Dutch Golden Age"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Rachel_Ruysch",
-    "urlGoogle": "https://artsandculture.google.com/entity/rachel-ruysch/m05mcs5"
+    "movements": [],
+    "mediums": ["Ink", "Silk", "Textile", "Tin", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Wang_Hui_%28Qing_dynasty%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/wang-hui/m07hs26"
   },
   "event": {
-    "id": "bay-of-pigs-invasion",
-    "name": "Bay of Pigs Invasion",
-    "dates": "Apr 17, 1961 - Apr 19, 1961",
-    "mainImg": "img/events/bay-of-pigs-invasion.jpg",
+    "id": "football-war",
+    "name": "Football War",
+    "dates": "Jul 14, 1969 - Jul 18, 1969",
+    "mainImg": "img/events/football-war.jpg",
     "summary": [
-      "The Bay of Pigs invasion was a failed landing operation on the southwestern coast of Cuba in 1961 by Cuban exiles who opposed Fidel Castro's Cuban Revolution. Covertly financed and directed by the U.S. government, the operation took place at the height of the Cold War and its failure led to major shifts in international relations between Cuba, the United States, and the Soviet Union.",
-      "In 1952, American ally General Fulgencio Batista led a coup against President Carlos Prio, and forced Prio into exile in Miami. Prio's exile inspired the creation of the 26th July Movement by Castro. The Movement successfully completed the Cuban Revolution in December 1958. Castro nationalized American businesses—including banks, oil refineries, and sugar and coffee plantations—then severed Cuba's formerly-close relations with the United States and reached out to its Cold War rival, the Soviet Union. In response, US President Dwight D. Eisenhower allocated $13.1 million to the Central Intelligence Agency in March 1960, for use against Castro. With the aid of Cuban counter-revolutionaries, the CIA proceeded to organize an invasion operation."
+      "The Football War was a brief war fought between El Salvador and Honduras in 1969. Existing tensions between the two countries coincided with rioting during a 1970 FIFA World Cup qualifier. The war began on 14 July 1969, when the Salvadoran military launched an attack against Honduras. The Organization of American States negotiated a cease-fire on the night of 18 July, which took full effect on 20 July. Salvadoran troops were withdrawn in early August."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion",
-    "urlGoogle": "https://artsandculture.google.com/entity/bay-of-pigs-invasion/m0196jd"
+    "urlWiki": "https://en.wikipedia.org/wiki/Football_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/football-war/m0ft23"
   },
   "funFacts": [
     {
-      "id": "992",
-      "fact": "The patent for the fire hydrant was destroyed in a fire.",
-      "category": ["History", "Hodgepodge"]
+      "id": "424",
+      "fact": "The ZIP in the ZIP code stands for Zone Improvement Plan.",
+      "category": ["Definitions"]
     },
     {
-      "id": "198",
-      "fact": "The U.S. is the largest country named after a real person (Amerigo Vespucci).",
-      "category": ["Geography"]
+      "id": "810",
+      "fact": "Australia is the only continent without an active volcano.",
+      "category": ["Geography", "Onlies"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "554103",
-      "fact": "Ray Bradbury wrote the first draft \u0003of Fahrenheit 451 on a rented typewriter in the basement of the UCLA library in just nine days."
-    }
-  ],
-  "idiom": {
-    "id": "albatross-around-ones-neck",
-    "term": "albatross around one's neck",
-    "definition": "A heavy burden of guilt that becomes an obstacle to success, as in *The failed real estate scheme became an albatross around her neck, for now she could not interest other investors in a new project.* This idiom comes from Samuel Coleridge's narrative poem, *The Rime of the Ancient Mariner* (1798), which is based on the widespread superstition that it is unlucky to kill this large white sea bird. In the poem a sailor does kill an albatross, and when the ship then is becalmed near the equator and runs out of water, his shipmates blame him and force him to wear the dead bird around his neck."
-  },
+  "funFacts2": [{ "id": "553685", "fact": "Salvador Dalí designed the Chupa Chups logo." }],
   "person": {
-    "id": "adolphe-thiers",
-    "name": "Adolphe Thiers",
-    "dates": "Apr 15, 1797 - Sep 3, 1877",
-    "mainImg": "img/people/adolphe-thiers.jpg",
+    "id": "chiang-ching-kuo",
+    "name": "Chiang Ching-kuo",
+    "dates": "Apr 27, 1910 - Jan 13, 1988",
+    "mainImg": "img/people/chiang-ching-kuo.jpg",
     "summary": [
-      "Marie Joseph Louis Adolphe Thiers was a French statesman and historian. He was the second elected President of France, and the first President of the French Third Republic.",
-      "Thiers was a key figure in the July Revolution of 1830, which overthrew the Bourbon monarchy, and the French Revolution of 1848, which established the Second French Republic. He served as a prime minister in 1836, 1840 and 1848, dedicated the Arc de Triomphe, and arranged the return to France of the ashes of Napoleon from Saint-Helena. He was first a supporter, then a vocal opponent of Louis-Napoléon Bonaparte. When Napoleon III seized power, Thiers was arrested and briefly expelled from France. He then returned and became an opponent of the government.",
-      "Following the defeat of France in the Franco-German War, which Thiers opposed, he was elected chief executive of the new French government and negotiated the end of the war. When the Paris Commune seized power in March 1871, Thiers gave the orders to the army for its suppression. At the age of seventy-four, he was named President of the Republic by the French National Assembly in August 1871."
-    ],
-    "quote": "“The king reigns but does not govern.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Adolphe_Thiers",
-    "urlGoogle": "https://artsandculture.google.com/entity/adolphe-thiers/m01b81x"
-  },
-  "place": {
-    "id": "lebanon",
-    "name": "Lebanon",
-    "mainImg": "img/places/lebanon.jpg",
-    "summary": [
-      "Lebanon, officially known as the Lebanese Republic, is a country in Western Asia. It is bordered by Syria to the north and east and Israel to the south, while Cyprus is west across the Mediterranean Sea. Lebanon's location at the crossroads of the Mediterranean Basin and the Arabian hinterland had contributed to its rich history and shaped a cultural identity of religious and ethnic diversity. At just 10,452 km², it is the smallest recognized sovereign state on the mainland Asian continent.",
-      "The earliest evidence of civilization in Lebanon dates back more than seven thousand years, predating recorded history. Lebanon was home to the Phoenicians, a maritime culture that flourished for almost three thousand years. In 64 BC, the region came under the rule of the Roman Empire, and eventually became one of its leading centers of Christianity. The Mount Lebanon range saw the emergence of a monastic tradition known as the Maronite Church. As the Arab Muslims conquered the region, the Maronites held onto their religion and identity. However, a new religious group, the Druze, established themselves in Mount Lebanon as well, generating a religious divide that has lasted for centuries."
+      "Chiang Ching-kuo was a Taiwanese politician. The eldest and only biological son of former president Chiang Kai-shek, he held numerous posts in the government of the Republic of China. He served as Premier of the Republic of China between 1972 and 1978, and was the President of the Republic of China from 1978 until his death in 1988.",
+      "Chiang Ching-kuo was sent as a teenager to study in the Soviet Union during the First United Front in 1925, when his father's Nationalist Party and the Chinese Communist Party were in alliance. He attended university there, but when the Chinese Nationalists violently broke with the Communists, Stalin sent him to work in a steel factory in the Ural Mountains. There, Chiang met and married Faina Vakhreva. When war between China and Japan was imminent in 1937, Stalin sent the couple to China. During the war Ching-kuo's father gradually came to trust him, and gave him more and more responsibilities, including administration. After the Japanese surrender Ching-kuo was given the job of ridding Shanghai of corruption, which he attacked with ruthless efficiency. The victory of the Communists in 1949 drove the Chiangs and their government to Taiwan."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Lebanon",
-    "urlGoogle": "https://artsandculture.google.com/entity/lebanon/m04hqz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Chiang_Ching-kuo",
+    "urlGoogle": "https://artsandculture.google.com/entity/chiang-ching-kuo/m0gljh"
+  },
+  "place": {
+    "id": "montreal",
+    "name": "Montreal",
+    "mainImg": "img/places/montreal.jpg",
+    "summary": [
+      "Montreal is the most populous city in the Canadian province of Quebec and the second-most populous city in Canada. Originally founded in 1642 as Ville-Marie, or \"City of Mary\", it is named after Mount Royal, the triple-peaked hill in the heart of the city. The city is centred on the Island of Montreal, which got its name from the same origin as the city, and a few much smaller peripheral islands, the largest of which is Île Bizard. The city is situated 196 km east of the national capital Ottawa, and 258 km south-west of the provincial capital, Quebec City.",
+      "In 2016, the city had a population of 1,704,694, with a population of 1,942,247 in the urban agglomeration, including all of the other municipalities on the Island of Montreal. The broader metropolitan area had a population of 4,098,247. French is the city's official language and in 2016 was the main home language of 49.8% of the population, while English was spoken by 22.8% at home, and 18.3% spoke other languages. In the larger Montreal Census Metropolitan Area, 65.8% of the population spoke French at home, compared to 15.3% who spoke English."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Montreal",
+    "urlGoogle": "https://artsandculture.google.com/entity/montreal/m052p7"
   },
   "wiki": {
-    "id": "treaty-of-devol",
-    "name": "Treaty of Devol",
-    "summary": "The Treaty of Devol was an agreement made in 1108 between Bohemund I of Antioch and Byzantine Emperor Alexius I, in the wake of the First Crusade. Although it was not initially enforced, it was intended to make the Principality of Antioch a vassal state of the Byzantine Empire. It is a typical example of the Byzantine tendency to settle disputes through diplomacy rather than warfare, and was both a result of and a cause for the distrust between the Byzantines and their Western European neighbors. The question of the status of Antioch and the adjacent Cilician cities troubled the Empire for many years afterwards. The Treaty of Devol seems to have been considered void after Bohemund's death, but Alexius' son, John, attempted to impose his authority in Antioch. It was not until 1158, during the reign of Manuel I Comnenus, that Antioch truly became a vassal of the empire, after Manuel forced Prince Raynald of Chatillon to swear fealty to him in punishment for Raynald's attack on Byzantine Cyprus.",
-    "url": "https://en.wikipedia.org/wiki/Treaty_of_Devol"
+    "id": "convention-on-psychotropic-substances",
+    "name": "Convention on Psychotropic Substances",
+    "summary": "The Convention on Psychotropic Substances is a United Nations treaty designed to control psychoactive drugs such as amphetamines, barbiturates and LSD. During the 1960s, drug use and abuse exploded worldwide, especially in the Western developed nations. Availability of stimulants soared as manufacturers and traffickers took advantage of the inconsistent patchwork of national laws to circumvent restrictions on production and trade. The Single Convention on Narcotic Drugs of 1961 could not regulate the plethora of newly-discovered psychotropics, due to its limited scope. On February 21, 1971, plenipotentiaries signed the Convention, which was worded broadly enough to be capable of encompassing almost any mind-altering substance. Today, 175 nations are Parties to the treaty, which contains import and export restrictions and other rules aimed at limiting drug use to scientific and medical purposes. Many laws have been passed to implement the Convention, including the U.S. Controlled Substances Act, the U.K. Misuse of Drugs Act, and the Canadian Controlled Drugs and Substances Act.",
+    "url": "https://en.wikipedia.org/wiki/Convention_on_Psychotropic_Substances"
   },
   "word": {
-    "id": "xylography",
-    "word": "xylography",
-    "url": "https://www.merriam-webster.com/dictionary/xylography",
-    "partOfSpeech": "noun",
-    "pronunciation": "zye-LAH-gruh-fee",
-    "audioPath": "audio/words/xylography.mp3",
-    "definitions": ["the art of making engravings on wood especially for printing"],
-    "examples": [
-      "Francine uses a rubber-stamping technique in her art that is reminiscent of Chinese _xylography_.",
-      "\"Also known as wood block printing, _xylography_ proved to be cheaper and more efficient for printing Chinese, with its thousands of characters, so movable type did not supplant it there until modern times.\" -- From Christopher I. Beckwith's 2011 book _Empires of the Silk Road_"
+    "id": "circuitous",
+    "word": "circuitous",
+    "url": "https://www.merriam-webster.com/dictionary/circuitous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ser-KYOO-uh-tus",
+    "audioPath": "audio/words/circuitous.mp3",
+    "definitions": [
+      "having a circular or winding course",
+      "not being forthright or direct in language or action"
     ],
-    "origin": "\"Xylography\" didn't appear in print in English until 1816, but it is linked to printing practices that are much older. In fact, the oldest known printed works (from Japan and China in the 8th and 9th centuries) were made by xylography, a printing technique that involves carving text in relief upon a wooden block, which is then inked and applied to paper. This method of wood-block printing appeared in Europe in the 14th century, and eventually inspired Johannes Gutenberg to create individual and reusable pieces of type out of metal. These days, \"xylography\" can also describe the technique of engraving wood for purely artistic purposes. English speakers picked up the word from French, where it was formed as a combination of \"xyl-,\" meaning \"wood,\" and \"-graphie,\" which denotes writing in a specified manner."
+    "examples": [
+      "Jenn came up with the same answer I did, but her method was more _circuitous_, so I showed her how she could do the problem a lot faster.",
+      "\"The splashy DeSean Jackson and the serene Jeremy Maclin are the Eagles' starting wide receivers. They could be called the Sod Couple, because both young receivers make big plays. But that's where the similarities really end. Jackson flops and detours along the goal line on his _circuitous_ route to the end zone. Maclin goes straight in for six points, face first and as fast as he can.\" -- From an article in the _Courier-Post_ (Cherry Hill, New Jersey), December 24, 2010"
+    ],
+    "origin": "If you guessed that \"circuitous\" is related to \"circuit,\" you're right -- both words come from Latin \"circuitus,\" the past participle of the verb \"circumire,\" meaning \"to go around.\" \"Circumire\" is derived in turn from Latin \"circum,\" meaning \"around,\" plus \"ire,\" which means “to go.” Other \"circum\" descendants making the rounds in English include \"circumference\" (\"the perimeter of a circle\"), \"circumvent\" (one meaning of which is \"to make a circuit around\"), \"circumlocution\" (the act of \"talking around\" a subject), and \"circumnavigate\" (\"to go around\"). There's also the prefix \"circum-,\" which means \"around\" or \"about,\" and the familiar word \"circumstance,\" which describes a condition or event that \"stands around\" another."
   }
 }

@@ -1,119 +1,116 @@
 {
   "artist": {
-    "id": "mitsuru-adachi",
-    "name": "Mitsuru Adachi",
-    "dates": "Born Feb 9, 1951",
-    "mainImg": "img/art/artists/mitsuru-adachi.jpg",
+    "id": "mr-brainwash",
+    "name": "Mr. Brainwash",
+    "dates": "Born 1966",
+    "mainImg": "img/art/artists/mr-brainwash.jpg",
     "artworkImgs": [
       {
-        "name": "Washoku 3 items of summer",
-        "path": "img/art/artworks/mitsuru-adachi-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/washoku-3-items-of-summer-chef-mitsuru-saiki-jikishinbo-saiki-kyoto/2AEu4UAedKBpJA"
+        "name": "Random Act Pansey, Andrea LaHue",
+        "path": "img/art/artworks/mr-brainwash-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/random-act-pansey-andrea-lahue-random-act/LwHyD1eDRxy55g"
       },
       {
-        "name": "Japanese style marinated summer vegetable",
-        "path": "img/art/artworks/mitsuru-adachi-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/japanese-style-marinated-summer-vegetable-chef-mitsuru-saiki-jikishinbo-saiki-kyoto/VAEiFSTpVLKegw"
+        "name": "Random Act Iris on LaBrea MBW",
+        "path": "img/art/artworks/mr-brainwash-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/random-act-iris-on-labrea-mbw-random-act/JAEhavC67_unCQ"
       },
       {
-        "name": "Hamo Noppei jiru style",
-        "path": "img/art/artworks/mitsuru-adachi-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/hamo-noppei-jiru-style-chef-mitsuru-saiki-jikishinbo-saiki-kyoto/HwEt4-Gr-ZJ0xw"
+        "name": "Einstein",
+        "path": "img/art/artworks/mr-brainwash-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/einstein-mr-brainwash/yQGK8nDATRiabg"
       },
       {
-        "name": "Japanese style Rei-men cold noodles",
-        "path": "img/art/artworks/mitsuru-adachi-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/japanese-style-rei-men-cold-noodles-chef-mitsuru-saiki-jikishinbo-saiki-kyoto/oQHNNYEK7p4zXw"
+        "name": "Lily Reemerges on La Brea with Brainwash Crew, Andrea LaHue",
+        "path": "img/art/artworks/mr-brainwash-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/lily-reemerges-on-la-brea-with-brainwash-crew-andrea-lahue-random-act/1AHIxVufv7x1Rg"
+      },
+      {
+        "name": "Random Act Pansey, Andrea LaHue",
+        "path": "img/art/artworks/mr-brainwash-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/random-act-pansey-andrea-lahue-random-act/AwHuOrEsSKmvpg"
       }
     ],
     "summary": [
-      "Mitsuru Adachi is a Japanese manga artist. After graduating from Gunma Prefectural Maebashi Commercial High School in 1969, Adachi worked as an assistant for Isami Ishii. He made his manga debut in 1970 with Kieta Bakuon, based on a manga originally created by Satoru Ozawa. Kieta was published in Deluxe Shōnen Sunday.",
-      "Adachi is well known for romantic comedy and sports manga such as Touch, H2, Slow Step, Miyuki and Cross Game. He has been described as a writer of \"delightful dialogue\", a genius at portraying everyday life, \"the greatest pure storyteller\", and \"a master manga artist\". He is one of the few manga artists to write for shōnen, shōjo and seinen manga magazines, and be popular in all three.",
-      "His works have been carried in manga magazines such as Weekly Shōnen Sunday, Ciao, Shōjo Comic, Big Comic and Petit Comic, and most of his works are published through Shogakukan and Gakken. He was one of the flagship authors in the new Monthly Shōnen Sunday magazine which began publication in June 2009. Two short story collections, Short Program and Short Program 2, have been released in North America, and Viz Media scheduled to begin publishing Cross Game in October 2010."
+      "Thierry Guetta, best known by his moniker Mr. Brainwash, is a French-born, Los Angeles-based street artist. According to the 2010 Banksy-directed film Exit Through the Gift Shop, Guetta was a proprietor of a used clothing store, and amateur videographer who was first introduced to street art by his cousin, the street artist Invader, and who filmed street artists through the 2000s and became an artist in his own right in a matter of weeks after an off-hand suggestion from Banksy.",
+      "A number of critics have observed that his works strongly emulate the styles and concepts of Banksy, and have speculated that Guetta is an elaborate prank staged by Banksy, who may have created the works himself. Banksy insists on his official website, however, that Exit Through the Gift Shop is authentic and that Guetta is not part of a prank.",
+      "His work sold for five-figure sums at his self-financed debut exhibit Life Is Beautiful, due, it is thought, to a mixture of an overheated and hyped street art market and his endorsements from Banksy and Fairey. The exhibit was held in Los Angeles, California, on June 18, 2008, and was a popular success."
     ],
     "quote": null,
-    "movements": [],
+    "movements": ["Contemporary art", "Pop art", "Street art"],
     "mediums": [],
-    "urlWiki": "https://en.wikipedia.org/wiki/Mitsuru_Adachi",
-    "urlGoogle": "https://artsandculture.google.com/entity/mitsuru-adachi/m0367tg"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mr._Brainwash",
+    "urlGoogle": "https://artsandculture.google.com/entity/mr-brainwash/m0bbxxcl"
   },
   "event": {
-    "id": "siege-of-hulst",
-    "name": "Siege of Hulst",
-    "dates": "Oct 7, 1645 - Nov 4, 1645",
-    "mainImg": "img/events/siege-of-hulst.jpg",
+    "id": "operation-plunder",
+    "name": "Operation Plunder",
+    "dates": "Mar 23, 1945 - Mar 24, 1945",
+    "mainImg": "img/events/operation-plunder.jpg",
     "summary": [
-      "The Siege of Hulst (1645) was the last major siege of the Eighty Years' War. The heavily fortified town of Hulst was conquered by Dutch troops commanded by Frederick Henry after only 28 days. The Spanish were informed of the siege only two days before it started. The Spanish army compromised 2,500 infantrymen and 250 cavalry. The Dutch attacked with a force of 12,500 infantry, 2,500 cavalry and 20 pieces of artillery."
+      "Operation Plunder was a military operation to cross the Rhine on the night of 23 March 1945, launched by the 21st Army Group under Field Marshal Bernard Montgomery. The crossing of the river was at Rees, Wesel, and south of the river Lippe by the British Second Army under Lieutenant General Sir Miles Dempsey, and the United States Ninth Army under Lieutenant General William H. Simpson.",
+      "The First Allied Airborne Army conducted Operation Varsity on the east bank of the Rhine in support of Operation Plunder, consisting of U.S. XVIII Airborne Corps, the British 6th and the U.S. 17th Airborne Divisions."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Hulst_%281645%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-hulst/m0262q3n"
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Plunder",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-plunder/m02mmpb"
   },
   "funFacts": [
+    { "id": "725", "fact": "Only female mosquitoes bite.", "category": ["Animals", "Onlies"] },
     {
-      "id": "832",
-      "fact": "Brain waves can power an electric train.",
-      "category": ["Anatomy", "Science"]
-    },
-    {
-      "id": "695",
-      "fact": "The National Park Service manages over 350 parks on 80 million acres of public land.",
-      "category": ["Geography"]
+      "id": "741",
+      "fact": "Plants, like humans, can run a fever if they are sick.",
+      "category": ["Plants"]
     }
   ],
   "funFacts2": [
     {
-      "id": "506869",
-      "fact": "The MOBA, or the Museum of Bad Art in Somerville, Massachusetts, is pretty much exactly what it sounds like— a collection of really bad art."
+      "id": "554035",
+      "fact": "In 1965, Tommy Cash—Johnny Cash's younger brother—released a song titled \"I Didn't Walk the Line.\""
     }
   ],
-  "idiom": {
-    "id": "typhoid-mary",
-    "term": "typhoid Mary",
-    "definition": "A carrier or spreader of misfortune, as in *I swear he's a typhoid Mary; everything at the office has gone wrong since he was hired.* This expression alludes to a real person, Mary Manson, who died in 1938. A servant, she transmitted typhoid fever to others and was referred to as \"typhoid Mary\" from the early 1900s. The term was broadened to other carriers of calamity in the mid-1900s."
-  },
   "person": {
-    "id": "fritz-bayerlein",
-    "name": "Fritz Bayerlein",
-    "dates": "Jan 14, 1899 - Jan 30, 1970",
-    "mainImg": "img/people/fritz-bayerlein.jpg",
+    "id": "john-adams",
+    "name": "John Adams",
+    "dates": "Oct 30, 1735 - Jul 4, 1826",
+    "mainImg": "img/people/john-adams.jpg",
     "summary": [
-      "Fritz Hermann Michael Bayerlein was a general in the Wehrmacht of Nazi Germany during World War II. He initially served as a staff officer, including with Erwin Rommel in the Afrika Korps. He then commanded the 3rd Panzer Division, the Panzer Lehr Division and LIII Army Corps in the European theatre. Bayerlein was a recipient of the Knight's Cross of the Iron Cross with Oak Leaves and Swords."
+      "John Adams was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States, from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain and served as the first vice president of the United States. Adams was a dedicated diarist and regularly corresponded with many important figures in early American history, including his wife and adviser Abigail Adams, and Thomas Jefferson.",
+      "A lawyer and political activist prior to the revolution, Adams was devoted to the right to counsel and presumption of innocence. He defied anti-British sentiment and successfully defended British soldiers against murder charges arising from the Boston Massacre. Adams was a Massachusetts delegate to the Continental Congress and became a principal leader of the Revolution. He assisted in drafting the Declaration of Independence in 1776 and was its foremost advocate in Congress. As a diplomat in Europe, he helped negotiate the peace treaty with Great Britain and secured vital governmental loans."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Fritz_Bayerlein",
-    "urlGoogle": "https://artsandculture.google.com/entity/fritz-bayerlein/m04n5g7"
+    "quote": "“Fear is the foundation of most governments.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Adams",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-adams/m03_js"
   },
   "place": {
-    "id": "malta",
-    "name": "Malta",
-    "mainImg": "img/places/malta.jpg",
+    "id": "newcastle",
+    "name": "Newcastle",
+    "mainImg": "img/places/newcastle.jpg",
     "summary": [
-      "Malta, officially known as the Republic of Malta and formerly Melita, is a Southern European island country consisting of an archipelago in the Mediterranean Sea. It lies 80 km south of Italy, 284 km east of Tunisia, and 333 km north of Libya. With a population of about 475,000 over an area of 316 km², Malta is the world's tenth smallest country in area and fifth most densely populated sovereign country. Its capital is Valletta, which is the smallest national capital in the European Union by area at 0.8 km². The official and national language is Maltese, which is descended from Sicilian Arabic that developed during the Emirate of Sicily, while English serves as the second official language.",
-      "Malta has been inhabited since approximately 5900 BC. Its location in the centre of the Mediterranean has historically given it great strategic importance as a naval base, with a succession of powers having contested and ruled the islands, including the Phoenicians and Carthaginians, Romans, Greeks, Arabs, Normans, Aragonese, Knights of St. John, French, and British. Most of these foreign influences have left some sort of mark on the country's ancient culture."
+      "The Newcastle metropolitan area is the second most populated area in the Australian state of New South Wales and includes the Newcastle and Lake Macquarie local government areas. It is the hub of the Greater Newcastle area which includes most parts of the local government areas of City of Newcastle, City of Lake Macquarie, City of Cessnock, City of Maitland and Port Stephens Council.",
+      "Located at the mouth of the Hunter River, it is the predominant city within the Hunter Region. Famous for its coal, Newcastle is the largest coal exporting harbour in the world, exporting 159.9 million tonnes of coal in 2017. Beyond the city, the Hunter Region possesses large coal deposits. Geologically, the area is located in the central-eastern part of the Sydney basin."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Malta",
-    "urlGoogle": "https://artsandculture.google.com/entity/malta/m04v3q"
+    "urlWiki": "https://en.wikipedia.org/wiki/Newcastle,_New_South_Wales",
+    "urlGoogle": "https://artsandculture.google.com/entity/newcastle/m0dv9v"
   },
   "wiki": {
-    "id": "carl-friedrich-gauss",
-    "name": "Carl Friedrich Gauss",
-    "summary": "Carl Friedrich Gauss was a German mathematician and scientist who contributed significantly to many fields, including number theory, analysis, differential geometry, geodesy, magnetism, astronomy and optics. Sometimes known as \"the prince of mathematicians\", Gauss introduced concepts which have had a profound impact in many areas and his work is ranked alongside that of Newton and Archimedes. Gauss was a child prodigy, and he made his first ground-breaking mathematical discoveries while still a teenager. He completed Disquisitiones Arithmeticae, his magnum opus, at the age of 24. This work was fundamental in consolidating number theory as a discipline, and it has shaped the direction of modern research up to the present day.",
-    "url": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"
+    "id": "white-dwarf",
+    "name": "White dwarf",
+    "summary": "A white dwarf is a small star composed mostly of electron-degenerate matter. Because a white dwarf's mass is comparable to that of the Sun and its volume is comparable to that of the Earth, it is very dense. Their faint luminosity comes from the emission of stored heat. They comprise roughly 6% of all known stars in the solar neighborhood. The unusual faintness of white dwarfs was first recognized in 1910 by Henry Norris Russell, Edward Charles Pickering and Williamina Fleming. White dwarfs are thought to be the final evolutionary state of all stars whose mass is not too high. The material in a white dwarf no longer undergoes fusion reactions, so the star has no source of energy, nor is it supported against gravitational collapse by the heat generated by fusion. It is supported only by electron degeneracy pressure, causing it to be extremely dense. The physics of degeneracy yields a maximum mass for a nonrotating white dwarf, the Chandrasekhar limit—approximately 1.4 solar masses—beyond which it cannot be supported by degeneracy pressure. Over a very long time, a white dwarf will cool to temperatures at which it will no longer be visible, and become a cold black dwarf.",
+    "url": "https://en.wikipedia.org/wiki/White_dwarf"
   },
   "word": {
-    "id": "inimitable",
-    "word": "inimitable",
-    "url": "https://www.merriam-webster.com/dictionary/inimitable",
+    "id": "garrulous",
+    "word": "garrulous",
+    "url": "https://www.merriam-webster.com/dictionary/garrulous",
     "partOfSpeech": "adjective",
-    "pronunciation": "in-IM-it-uh-bul",
-    "audioPath": "audio/words/inimitable.mp3",
-    "definitions": ["not capable of being imitated : matchless"],
+    "pronunciation": "GAIR-uh-lus",
+    "audioPath": "audio/words/garrulous.mp3",
+    "definitions": ["pointlessly or annoyingly talkative", "wordy"],
     "examples": [
-      "\"He is involved in roughly six projects, most of them part time and some dormant. Each is different from the others and to each, say those who work with him, he adds something _inimitable_.\" - From an article by Timothy Finn in the _Kansas City Star_, July 18, 2012",
-      "\"For decades after '60 Minutes' launched in 1968, Wallace was arguably the best-known news figure on television, after Walter Cronkite. Wallace was to 'the interview' what Cronkite had been to the anchor chair-an authority figure with an _inimitable_ style that was both aggressive and seductive.\" - From an article by Verne Gay in _Newsday_ (Long Island, New York), April 9, 2012"
+      "With a few judicious revisions, a good editor can often transform garrulous writing into elegant prose."
     ],
-    "origin": "Something that is inimitable is, literally, not able to be imitated. In actual usage the word describes things so uniquely extraordinary as to not be copied or equaled, which is why you often hear it used to praise outstanding talents or performances. (The antonym \"imitable\" describes things that are common or ordinary and could easily be replicated or surpassed.) \"Inimitable\" derives via Middle English from Latin \"inimitabilis.\" Be careful not to confuse it with \"inimical\" or \"inimicable,\" two adjectives meaning hostile or harmful; those words derive from the same Latin root that gave us \"enemy\" (\"inimicus\")."
+    "origin": "English has many adjectives that share the meaning \"given to talk\" or \"talking.\" \"Talkative\" may imply a readiness to talk or a disposition to enjoy conversation, while \"loquacious\" suggests the power of expressing oneself articulately, fluently, or glibly. \"Voluble\" suggests a free, easy, and unending talkativeness, and \"garrulous\" implies talkativeness that is dull, rambling, or tedious. \"Garrulous,\" by the way, derives from the Latin verb \"garrire,\" which means (no surprise here) \"to chatter\" or \"to babble.\""
   }
 }

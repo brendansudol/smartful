@@ -1,129 +1,123 @@
 {
   "artist": {
-    "id": "gustave-caillebotte",
-    "name": "Gustave Caillebotte",
-    "dates": "Aug 19, 1848 - Feb 21, 1894",
-    "mainImg": "img/art/artists/gustave-caillebotte.jpg",
+    "id": "urs-fischer",
+    "name": "Urs Fischer",
+    "dates": "Born May 2, 1973",
+    "mainImg": "img/art/artists/urs-fischer.jpg",
     "artworkImgs": [
       {
-        "name": "The Orange Trees",
-        "path": "img/art/artworks/gustave-caillebotte-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-orange-trees-gustave-caillebotte/3QHnQ99LLC7m3A"
+        "name": "Michael Chow Wax Portrait",
+        "path": "img/art/artworks/urs-fischer-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/michael-chow-wax-portrait-urs-fischer/WQE1DcIpcK2MOg"
       },
       {
-        "name": "On the Pont de l’Europe",
-        "path": "img/art/artworks/gustave-caillebotte-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/on-the-pont-de-l’europe-gustave-caillebotte/jAE07Cw-nu4-og"
+        "name": "Kaldor Public Art Project 15: Urs Fischer 2007",
+        "path": "img/art/artworks/urs-fischer-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/kaldor-public-art-project-15-urs-fischer-2007-urs-fischer/vAFYfy7H9NJTRw"
       },
       {
-        "name": "Sunflowers along the Seine",
-        "path": "img/art/artworks/gustave-caillebotte-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/sunflowers-along-the-seine-gustave-caillebotte/rQHfkyvV1zquWQ"
+        "name": "As it Lays—Michael Chow",
+        "path": "img/art/artworks/urs-fischer-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/as-it-lays—michael-chow-urs-fischer/RwH9icEL-3A0UQ"
       },
       {
-        "name": "View from a balcony",
-        "path": "img/art/artworks/gustave-caillebotte-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/view-from-a-balcony-gustave-caillebotte/8gHrHH2Xl-O5cw"
+        "name": "Urs Fischer, Sigh, Sigh, Sherlock!",
+        "path": "img/art/artworks/urs-fischer-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/urs-fischer-sigh-sigh-sherlock-urs-fischer/6AHyD9UHM6RP2w"
       },
       {
-        "name": "Mademoiselle Boissière Knitting",
-        "path": "img/art/artworks/gustave-caillebotte-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/mademoiselle-boissière-knitting-gustave-caillebotte/4AHq9Hh_r7FPrQ"
-      },
-      {
-        "name": "Paris Street; Rainy Day",
-        "path": "img/art/artworks/gustave-caillebotte-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/paris-street-rainy-day-gustave-caillebotte-french-1848–1894/5wEUCOlEf-EaVQ"
+        "name": "Lamp",
+        "path": "img/art/artworks/urs-fischer-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lamp-urs-fischer/kAExx2QkZUiaDQ"
       }
     ],
     "summary": [
-      "Gustave Caillebotte was a French painter who was a member and patron of the Impressionists, although he painted in a more realistic manner than many others in the group. Caillebotte was noted for his early interest in photography as an art form."
+      "Urs Fischer is a Swiss-born contemporary visual artist living in New York City. Fischer’s practice includes sculpture, installation and photography. Fischer is represented by contemporary galleries Gagosian and Sadie Coles HQ."
     ],
     "quote": null,
-    "movements": ["Impressionism", "Modern art", "Realism"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Gustave_Caillebotte",
-    "urlGoogle": "https://artsandculture.google.com/entity/gustave-caillebotte/m019m_t"
+    "movements": ["Contemporary art"],
+    "mediums": ["Fiberglass", "Vitreous enamel", "Enamel paint", "Plaster", "Iron", "Glass"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Urs_Fischer",
+    "urlGoogle": "https://artsandculture.google.com/entity/urs-fischer/m03h5tnv"
   },
   "event": {
-    "id": "chinese-civil-war",
-    "name": "Chinese Civil War",
-    "dates": "April 1927 - May 1, 1950",
-    "mainImg": "img/events/chinese-civil-war.jpg",
+    "id": "second-boer-war",
+    "name": "Second Boer War",
+    "dates": "Oct 11, 1899 - May 31, 1902",
+    "mainImg": "img/events/second-boer-war.jpg",
     "summary": [
-      "The Chinese Civil War was a civil war in China fought between the Kuomintang-led government of the Republic of China and the Communist Party of China lasting intermittently between 1927 and 1949. The war is generally divided into two phases with an interlude: from August 1927 to 1937, the KMT-CPC Alliance collapsed during the Northern Expedition, and the Nationalists controlled most of China. From 1937 to 1945, hostilities were put on hold, and the Second United Front fought the Japanese invasion of China with eventual help from the Allies of World War II. The civil war resumed with the Japanese defeat, and the CPC gained the upper hand in the final phase of the war from 1945–1949, generally referred to as the Chinese Communist Revolution.",
-      "The Communists gained control of mainland China and established the People's Republic of China in 1949, forcing the leadership of the Republic of China to retreat to the island of Taiwan. A lasting political and military standoff between the two sides of the Taiwan Strait ensued, with the ROC in Taiwan and the PRC in mainland China both officially claiming to be the legitimate government of all China."
+      "The Second Boer War was fought between the British Empire and two independent Boer states, the South African Republic and the Orange Free State, over the Empire's influence in South Africa. The trigger of the war was the discovery of diamonds and gold in the Boer states. It is also known variously as the Boer War, Anglo-Boer War, or South African War. Initial Boer attacks were successful, and although British reinforcements later reversed these, the war continued for years with Boer guerrilla warfare, until harsh British counter-measures including a scorched earth policy brought the Boers to terms.",
+      "The war started with the British overconfident and under-prepared. The Boers were well armed and struck first, besieging Ladysmith, Kimberley, and Mafeking in early 1900, and winning important battles at Colenso, Magersfontein and Stormberg. Staggered, the British brought in large numbers of soldiers and fought back. General Redvers Buller was replaced by Lord Roberts and Lord Kitchener. They relieved the three besieged cities, and invaded the two Boer republics in late 1900."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Chinese_Civil_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/chinese-civil-war/m0f6rc"
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Boer_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-boer-war/m0bqtx"
   },
   "funFacts": [
     {
-      "id": "69",
-      "fact": "No word in the English language rhymes with month.",
-      "category": ["Hodgepodge"]
+      "id": "228",
+      "fact": "There is a town in South Dakota named Tea.",
+      "category": ["Food", "Geography"]
     },
     {
-      "id": "73",
-      "fact": "The average person spends 2 weeks over his/her lifetime waiting for a traffic light to change.",
-      "category": ["Habits"]
+      "id": "313",
+      "fact": "\"O\" is the oldest letter of the alphabet, dating back to 3000 B.C.",
+      "category": ["History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553702",
-      "fact": "A baby puffin is called a puffling, and both parents take turns incubating the egg before it hatches."
+      "id": "554023",
+      "fact": "To ensure the Queen receives her food on time, the clocks in the royal kitchen at Windsor Castle are set five minutes ahead."
     }
   ],
   "idiom": {
-    "id": "a-lick-and-a-promise",
-    "term": "a lick and a promise",
-    "definition": "A superficial effort made without care or enthusiasm. For example, *I haven't time to do a good job of vacuuming, just enough for a lick and a promise.* This expression is believed to allude to the quick lick a cat or other animal might give itself and a promise to do more or better at some future time. [Mid-1800s]"
+    "id": "well-heeled",
+    "term": "well heeled",
+    "definition": "Well off, prosperous. In the 1700s this term was used to describe a cock whose spurs had been sharpened prior to a cockfight. In the 1800s it came to mean \"well armed,\" and later in that century it acquired its present sense. For example, *The Coopers must be well heeled to afford two country club memberships.*"
   },
   "person": {
-    "id": "hans-georg-von-friedeburg",
-    "name": "Hans-Georg von Friedeburg",
-    "dates": "Jul 15, 1895 - May 23, 1945",
-    "mainImg": "img/people/hans-georg-von-friedeburg.jpg",
+    "id": "sun-yat-sen",
+    "name": "Sun Yat-sen",
+    "dates": "Nov 12, 1866 - Mar 12, 1925",
+    "mainImg": "img/people/sun-yat-sen.jpg",
     "summary": [
-      "Hans-Georg von Friedeburg was a German admiral, the deputy commander of the U-boat Forces of Nazi Germany and the second-to-last Commander-in-Chief of the Kriegsmarine. He was the only representative of the armed forces to be present at the signing of the German instruments of surrender in Luneburg Heath on 4 May 1945, in Reims on 7 May and in Berlin on 8 May 1945. Generaladmiral von Friedeburg committed suicide shortly afterwards, upon the dissolution of the Flensburg Government."
+      "Sun Yat-sen was a Chinese philosopher, physician, and politician, who served as the provisional first president of the Republic of China and the first leader of the Kuomintang. He is referred as the \"Father of the Nation\" in the Republic of China for his instrumental role in the overthrow of the Qing dynasty during the Xinhai Revolution. Sun is unique among 20th-century Chinese leaders for being widely revered in both mainland China and Taiwan.",
+      "Sun is considered to be one of the greatest leaders of modern China, but his political life was one of constant struggle and frequent exile. After the success of the revolution in which Han Chinese regained power after 268 years of living under the Manchu Qing dynasty, he quickly resigned as President of the newly founded Republic of China and relinquished it to Yuan Shikai. He soon went to exile in Japan for safety but returned to found a revolutionary government in the South as a challenge to the warlords who controlled much of the nation. In 1923, he invited representatives of the Communist International to Canton to re-organize his party and formed a brittle alliance with the Chinese Communist Party."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Hans-Georg_von_Friedeburg",
-    "urlGoogle": "https://artsandculture.google.com/entity/hans-georg-von-friedeburg/m069lf6"
+    "quote": "“An individual should not have too much freedom. A nation should have absolute freedom.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Sun_Yat-sen",
+    "urlGoogle": "https://artsandculture.google.com/entity/sun-yat-sen/m0m56y"
   },
   "place": {
-    "id": "mobile",
-    "name": "Mobile",
-    "mainImg": "img/places/mobile.jpg",
+    "id": "egypt",
+    "name": "Egypt",
+    "mainImg": "img/places/egypt.jpg",
     "summary": [
-      "Mobile is the county seat of Mobile County, Alabama, United States. The population within the city limits was 195,111 as of the 2010 United States Census, making it the third most populous city in Alabama, the most populous in Mobile County, and the largest municipality on the Gulf Coast between New Orleans, Louisiana, and St. Petersburg, Florida.",
-      "Alabama's only saltwater port, Mobile is located on the Mobile River at the head of the Mobile Bay and the north-central Gulf Coast. The Port of Mobile has always played a key role in the economic health of the city, beginning with the settlement as an important trading center between the French colonists and Native Americans, down to its current role as the 12th-largest port in the United States.",
-      "Mobile is the principal municipality of the Mobile metropolitan area. This region of 412,992 residents is composed solely of Mobile County; it is the third-largest metropolitan statistical area in the state. Mobile is the largest city in the Mobile-Daphne−Fairhope CSA, with a total population of 604,726, the second largest in the state. As of 2011, the population within a 60-mile radius of Mobile is 1,262,907."
+      "Egypt, officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and southwest corner of Asia by a land bridge formed by the Sinai Peninsula. Egypt is a Mediterranean country bordered by the Gaza Strip and Israel to the northeast, the Gulf of Aqaba and the Red Sea to the east, Sudan to the south, and Libya to the west. Across the Gulf of Aqaba lies Jordan, across the Red Sea lies Saudi Arabia, and across the Mediterranean lie Greece, Turkey and Cyprus, although none share a land border with Egypt.",
+      "Egypt has one of the longest histories of any country, tracing its heritage back to the 6th–4th millennia BCE. Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, agriculture, urbanisation, organised religion and central government. Iconic monuments such as the Giza Necropolis and its Great Sphinx, as well the ruins of Memphis, Thebes, Karnak, and the Valley of the Kings, reflect this legacy and remain a significant focus of scientific and popular interest."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Mobile,_Alabama",
-    "urlGoogle": "https://artsandculture.google.com/entity/mobile/m058cm"
+    "urlWiki": "https://en.wikipedia.org/wiki/Egypt",
+    "urlGoogle": "https://artsandculture.google.com/entity/egypt/m02k54"
   },
   "wiki": {
-    "id": "m-6-michigan-highway",
-    "name": "M-6 (Michigan highway)",
-    "summary": "M-6 is a 19.7-mile (31.7 km) freeway in Michigan that serves portions of southern Kent and eastern Ottawa counties south of Grand Rapids. Initially opened to traffic on November 20, 2001, the roadway connects Interstate 196 on the west with Interstate 96 on the east while running through several townships on the south side of the Grand Rapids metropolitan area. Each end is in a rural area while the central section has suburban development along the highway. The freeway was originally conceived in the 1960s, and it took 32 years to approve, plan, finance, and build M-6 from the time that the state first authorized funding in 1972 to the time the full highway opened to traffic in 2004. Initial construction started in November 1997, with the first phase opened in 2001 and the remainder in November 2004. The project was built with two firsts: the first single-point urban interchange in the state, and a new technique to apply the pavement markings, embedding them into the concrete to reduce the chance of a snowplow scraping them off.",
-    "url": "https://en.wikipedia.org/wiki/M-6_(Michigan_highway)"
+    "id": "allegro-musical",
+    "name": "Allegro (musical)",
+    "summary": "Allegro is a musical by Richard Rodgers (music) and Oscar Hammerstein II (book and lyrics), their third collaboration for the stage, which premiered on Broadway on October 10, 1947. After the immense successes of the first two Rodgers and Hammerstein musicals, Oklahoma! and Carousel, the pair sought a subject for their next play. Hammerstein had long contemplated a serious work that would deal with the problems of an ordinary man in the fast-moving modern world. Rodgers and he sought to create a work that would be as innovative as their first two stage musicals. To that end, they created a play with a large cast, including a Greek chorus. After a disastrous tryout in New Haven, Connecticut, the musical opened on Broadway to a large advance sale of tickets and very mixed reviews. The Broadway run, directed by Agnes de Mille, ended after nine months; it had no West End production and has rarely been revived.",
+    "url": "https://en.wikipedia.org/wiki/Allegro_(musical)"
   },
   "word": {
-    "id": "zibeline",
-    "word": "zibeline",
-    "url": "https://www.merriam-webster.com/dictionary/zibeline",
+    "id": "interloper",
+    "word": "interloper",
+    "url": "https://www.merriam-webster.com/dictionary/interloper",
     "partOfSpeech": "noun",
-    "pronunciation": "ZIB-uh-leen",
-    "audioPath": "audio/words/zibeline.mp3",
-    "definitions": ["a soft lustrous wool fabric with mohair, alpaca, or camel's hair"],
+    "pronunciation": "in-ter-LOH-per",
+    "audioPath": "audio/words/interloper.mp3",
+    "definitions": ["one that intrudes in a place or sphere of activity"],
     "examples": [
-      "An elegant _zibeline_ scarf was the perfect complement to her outfit.",
-      "\"A single shoulder, ruffled beyond belief with taffeta and organza layers, tops the silk-_zibeline_ A-line gown, which is finished with a sweep train.\" -- From a photo caption in _Brides_ magazine, April 2010"
+      "As he watched the startled doe and her fawn dart off into the woods, Nelson felt like an interloper in the forest world."
     ],
-    "origin": "Though zibeline is woven from the hair of alpacas, camels, or Angora goats, its name actually traces back to a Slavic word for the sable, a small mammal related to the weasel. The Slavic term was adopted into Old Italian, and from there it passed to Middle French, then on to English in the late 1500s. English \"zibeline\" originally referred to the sable or its fur, but in the late 19th century it developed a second sense, applying to a soft, smooth, slightly furry material woven from a mixture of animal hairs. It's especially suited to women's suits and coats, or, as a fashion columnist in the December 6, 1894 issue of _Vogue_ observed, \"Zibeline . . . makes an exceedingly pretty, warm theatre cloak, not too fine to be crushed into the small one-chair space.\""
+    "origin": "When English speakers combined \"inter-\" with \"-loper\" in the late 1500s, they already had a word \"landloper\" (now archaic) for \"a person who runs about the land\" (in other words, a vagrant). The \"-loper\" part of \"interloper\" is related to Middle Dutch and Old English words meaning \"to run\" and \"to leap.\" An \"interloper\" is essentially one who jumps into the midst of things without an invitation to do so. In its earliest uses, \"interloper\" referred specifically to one who interfered in trade illegally -- that is, a trader who trespassed on the rights or charters of others. Sometimes \"interloper\" even referred to a ship employed in illegal trading. But the word quickly took on extended use, coming to refer not just to intrusion in trade but also in personal affairs or other matters."
   }
 }

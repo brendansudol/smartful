@@ -1,134 +1,137 @@
 {
   "artist": {
-    "id": "georgia-o-keeffe",
-    "name": "Georgia O'Keeffe",
-    "dates": "Nov 15, 1887 - Mar 6, 1986",
-    "mainImg": "img/art/artists/georgia-o-keeffe.jpg",
+    "id": "edward-burne-jones",
+    "name": "Edward Burne-Jones",
+    "dates": "Aug 28, 1833 - Jun 17, 1898",
+    "mainImg": "img/art/artists/edward-burne-jones.jpg",
     "artworkImgs": [
       {
-        "name": "Cow's Skull: Red, White, and Blue",
-        "path": "img/art/artworks/georgia-o-keeffe-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/cow-s-skull-red-white-and-blue-georgia-o-keeffe/xgHQhhTs1Zka1A"
+        "name": "King Cophetua and the Beggar Maid",
+        "path": "img/art/artworks/edward-burne-jones-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/king-cophetua-and-the-beggar-maid-edward-coley-sir-burne-jones/_wF2vdPVJvC-1Q"
       },
       {
-        "name": "Abstraction White Rose",
-        "path": "img/art/artworks/georgia-o-keeffe-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/abstraction-white-rose-georgia-o-keeffe/CQFBiref7KWsiA"
+        "name": "The Adoration of the Magi",
+        "path": "img/art/artworks/edward-burne-jones-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-adoration-of-the-magi-edward-burne-jones/uQHHRCrCrHZVdw"
       },
       {
-        "name": "The Black Iris",
-        "path": "img/art/artworks/georgia-o-keeffe-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-black-iris-georgia-o-keeffe/SQHXiSKex5Mw5Q"
+        "name": "The Golden Stairs",
+        "path": "img/art/artworks/edward-burne-jones-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-golden-stairs-sir-edward-coley-burne-jones/wwF-3DqGLFNo_Q"
       },
       {
-        "name": "Petunia No. 2",
-        "path": "img/art/artworks/georgia-o-keeffe-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/petunia-no-2-georgia-o-keeffe/IgGHCUrvVYjLbA"
+        "name": "Vespertina Quies",
+        "path": "img/art/artworks/edward-burne-jones-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/vespertina-quies-sir-edward-coley-burne-jones/MQGgu1wyiUQP4A"
       },
       {
-        "name": "Black Hollyhock Blue Larkspur",
-        "path": "img/art/artworks/georgia-o-keeffe-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/black-hollyhock-blue-larkspur-georgia-o-keeffe/EgFxEbXAdadgwQ"
+        "name": "The garden of Pan",
+        "path": "img/art/artworks/edward-burne-jones-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-garden-of-pan-edward-burne-jones/IAHt01DDUzDzGA"
       },
       {
-        "name": "Ram's Head, Blue Morning Glory",
-        "path": "img/art/artworks/georgia-o-keeffe-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/ram-s-head-blue-morning-glory-georgia-o-keeffe/XQEbG_-lJd-T2w"
+        "name": "The Mirror of Venus",
+        "path": "img/art/artworks/edward-burne-jones-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-mirror-of-venus-sir-edward-burne-jones/UAGu9YowCaBhiw"
       }
     ],
     "summary": [
-      "Georgia Totto O'Keeffe was an American artist. She was known for her paintings of enlarged flowers, New York skyscrapers, and New Mexico landscapes. O'Keeffe has been recognized as the \"Mother of American modernism\".",
-      "In 1905, O'Keeffe began her serious formal art training at the School of the Art Institute of Chicago and then the Art Students League of New York, but she felt constrained by her lessons that focused on recreating or copying what was in nature. In 1908, unable to fund further education, she worked for two years as a commercial illustrator, and then taught in Virginia, Texas, and South Carolina between 1911 and 1918. During that time, she studied art during the summers between 1912 and 1914 and was introduced to the principles and philosophies of Arthur Wesley Dow, who created works of art based upon personal style, design, and interpretation of subjects, rather than trying to copy or represent them."
+      "Sir Edward Coley Burne-Jones, 1st Baronet, ARA was a British artist and designer associated with the phase of the Pre-Raphaelite movement, who worked with William Morris on decorative arts as a founding partner in Morris, Marshall, Faulkner & Co.",
+      "Burne-Jones was involved in the rejuvenation of the tradition of stained glass art in Britain; his works include windows in St. Philip's Cathedral, Birmingham, St Martin in the Bull Ring, Birmingham, Holy Trinity Church, Sloane Square, Chelsea, St Peter and St Paul parish church in Cromer, St Martin's Church in Brampton, Cumbria, St Michael's Church, Brighton, Trinity Church in Frome, All Saints, Jesus Lane, Cambridge, St Edmund Hall and Christ Church, two colleges of the University of Oxford. His stained glass works also feature in St. Anne's Church, Brown Edge, Staffordshire Moorlands and St. Edward the Confessor church at Cheddleton Staffordshire. Burne-Jones's early paintings show the inspiration of Dante Gabriel Rossetti, but by the 1860s Burne-Jones was discovering his own artistic \"voice\".",
+      "In 1877, he was persuaded to show eight oil paintings at the Grosvenor Gallery. These included The Beguiling of Merlin."
     ],
-    "quote": "“To create one's world in any of the arts takes courage.”",
+    "quote": null,
     "movements": [
-      "Modernism",
-      "American modernism",
-      "Modern art",
-      "Abstract art",
-      "Social realism"
+      "Symbolism",
+      "Aestheticism",
+      "Arts and Crafts movement",
+      "Pre-Raphaelite Brotherhood",
+      "Art Nouveau",
+      "Modern art"
     ],
-    "mediums": ["Oil paint", "Drawing", "Charcoal", "Watercolor painting", "Textile", "Newsprint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe",
-    "urlGoogle": "https://artsandculture.google.com/entity/georgia-o-keeffe/m01t807"
+    "mediums": ["Pencil", "Drawing", "Oil paint", "Graphite", "Watercolor painting", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Edward_Burne-Jones",
+    "urlGoogle": "https://artsandculture.google.com/entity/edward-burne-jones/m018dlc"
   },
   "event": {
-    "id": "2002-fifa-world-cup",
-    "name": "2002 FIFA World Cup",
-    "dates": "May 31, 2002 - Jun 30, 2002",
-    "mainImg": "img/events/2002-fifa-world-cup.jpg",
+    "id": "2004-united-states-presidential-election",
+    "name": "2004 United States presidential election",
+    "dates": null,
+    "mainImg": "img/events/2004-united-states-presidential-election.jpg",
     "summary": [
-      "The 2002 FIFA World Cup was the 17th FIFA World Cup, the quadrennial world championship for men's national association football teams organized by FIFA. It was held from 31 May to 30 June 2002 at sites in South Korea and Japan, with its final match hosted by Japan at International Stadium in Yokohama.",
-      "A field of 32 teams qualified for this World Cup, which was the first to be held in Asia, the first to be held outside of the Americas or Europe, as well as the first to be jointly-hosted by more than one nation. China, Ecuador, Senegal and Slovenia made their World Cup debuts.",
-      "The tournament had several upsets and surprise results, which included the defending champions France being eliminated in the group stage after earning a single point and second favourites Argentina also being eliminated in the group stage. South Korea controversially managed to reach the semi-finals, beating Portugal, Italy and Spain en route, thus becoming the first and only team from outside Europe and the Americas to reach the last four of a World Cup."
+      "The 2004 United States presidential election was the 55th quadrennial presidential election, held on Tuesday, November 2, 2004. Incumbent Republican President George W. Bush defeated Democratic nominee John Kerry, a United States Senator from Massachusetts. As of the 2016 election, this was the only time since the 1988 election that a Republican nominee for president won the popular vote.",
+      "Bush and incumbent Vice President Dick Cheney were renominated by their party with no difficulty. Former Governor Howard Dean emerged as the early front-runner in the 2004 Democratic primaries, but Kerry won the first set of primaries in January 2004 and clinched his party's nomination in March after a series of primary victories. Kerry chose Senator John Edwards of North Carolina, who had himself sought the party's 2004 presidential nomination, to be his running mate.",
+      "Bush's popularity had soared early in his first term after the September 11 attacks, but his popularity declined between 2001 and 2004. Foreign policy was the dominant theme throughout the election campaign, particularly Bush's conduct of the War on Terrorism and the aftermath of the 2003 invasion of Iraq."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
-    "urlGoogle": "https://artsandculture.google.com/entity/2002-fifa-world-cup/m0dt_z"
+    "urlWiki": "https://en.wikipedia.org/wiki/2004_United_States_presidential_election",
+    "urlGoogle": "https://artsandculture.google.com/entity/2004-united-states-presidential-election/m04qwhs"
   },
   "funFacts": [
-    { "id": "111", "fact": "Only male turkeys gobble.", "category": ["Animals", "Onlies"] },
     {
-      "id": "1015",
-      "fact": "One is the only number with letters in reverse alphabetical order.",
-      "category": ["Onlies"]
+      "id": "188",
+      "fact": "Antarctica is the driest, coldest, windiest, and highest continent on earth.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "474",
+      "fact": "To temporarily revive your ballpoint pen, dip the tip into hot water for a few seconds.",
+      "category": ["Make-it-Easies"]
     }
   ],
-  "funFacts2": [
-    { "id": "553547", "fact": "Blue whales may weigh up to twice as much as the largest dinosaur." }
-  ],
+  "funFacts2": [{ "id": "506377", "fact": "Say cheese? Victorians said \"prunes\" instead." }],
   "idiom": {
-    "id": "ham-up",
-    "term": "ham up",
-    "definition": "Exaggerate or overdo, especially with extravagant emotion, as in *Hamming up the eulogy was disgraceful, especially since he didn't even know the deceased.* It is also put as **ham it up,** meaning \"overact,\" as in *She loves to ham it up in front of the class.* This idiom probably alludes to the *hamfat* (lard) used to remove stage makeup, mentioned in the minstrel song, \"The Ham-Fat Man.\" From this *hamfatter* came to mean \"an inexpert and flamboyant actor,\" and was in the late 1800s shortened to *ham.* The idiom here was first recorded in 1933."
+    "id": "out-of-the-mouths-of-babes",
+    "term": "out of the mouths of babes",
+    "definition": "Young and inexperienced persons often can be remarkably wise, as in *She's only six but she said, quite rightly, that Harry was afraid of the sitter---out of the mouths of babes, Mother said.* This expression is a shortening and revision of expressions in the Old and New Testaments of the Bible. In Psalms 8:2, God ordains strength out of the mouth of babes and sucklings; in Matthew 21:16, praise comes from this source. Later generations changed strength and praise to wisdom."
   },
   "person": {
-    "id": "robert-mc-namara",
-    "name": "Robert McNamara",
-    "dates": "Jun 9, 1916 - Jul 6, 2009",
-    "mainImg": "img/people/robert-mc-namara.jpg",
+    "id": "masinissa",
+    "name": "Masinissa",
+    "dates": "237 BC - 147 BC",
+    "mainImg": "img/people/masinissa.jpg",
     "summary": [
-      "Robert Strange McNamara was an American business executive and the eighth United States Secretary of Defense, serving from 1961 to 1968 under Presidents John F. Kennedy and Lyndon B. Johnson. He played a major role in escalating the United States' involvement in the Vietnam War. McNamara was responsible for the institution of systems analysis in public policy, which developed into the discipline known today as policy analysis.",
-      "He was born in San Francisco, California, graduated from UC Berkeley and Harvard Business School and served in the United States Army Air Forces during World War II. After the war, Henry Ford II hired McNamara and a group of other Army Air Force veterans to work for Ford Motor Company. These \"Whiz Kids\" helped reform Ford with modern planning, organization, and management control systems. After briefly serving as Ford's president, McNamara accepted appointment as Secretary of Defense.",
-      "McNamara became a close adviser to Kennedy and advocated the use of a blockade during the Cuban Missile Crisis. Kennedy and McNamara instituted a Cold War defense strategy of flexible response, which anticipated the need for military responses short of massive retaliation."
-    ],
-    "quote": "“One cannot fashion a credible deterrent out of an incredible action.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Robert_McNamara",
-    "urlGoogle": "https://artsandculture.google.com/entity/robert-mcnamara/m0ksjc"
-  },
-  "place": {
-    "id": "nantes",
-    "name": "Nantes",
-    "mainImg": "img/places/nantes.jpg",
-    "summary": [
-      "Nantes is a city in Loire-Atlantique on the Loire, 50 km from the Atlantic coast. The city is the sixth-largest in France, with a population of 303,382 in Nantes and a metropolitan area of nearly 950,000 inhabitants. With Saint-Nazaire, a seaport on the Loire estuary, Nantes forms the main north-western French metropolis.",
-      "It is the administrative seat of the Loire-Atlantique department and the Pays de la Loire région, one of 18 regions of France. Nantes belongs historically and culturally to Brittany, a former duchy and province, and its omission from the modern administrative region of Brittany is controversial.",
-      "Nantes was identified during classical antiquity as a port on the Loire. It was the seat of a bishopric at the end of the Roman era before it was conquered by the Bretons in 851. Although Nantes was the primary residence of the 15th-century dukes of Brittany, Rennes became the provincial capital after the 1532 union of Brittany and France. During the 17th century, after the establishment of the French colonial empire, Nantes gradually became the largest port in France and was responsible for nearly half of the 18th-century French Atlantic slave trade."
+      "Masinissa, or Masensen, —also spelled Massinissa and Massena—was the first King of Numidia.",
+      "During his younger years, before he was king, he fought in the Second Punic War, first against the Romans as an ally of Carthage and later switching sides. With Roman support, he united the eastern and western Numidian tribes and founded the Kingdom of Numidia. He is well-known for his role as a Roman ally in the Battle of Zama and as husband of Sophonisba, a Carthaginian noblewoman whom he allowed to poison herself to avoid being paraded in a triumph in Rome.",
+      "He ruled Numidia for some 54 years until dying at about the age of 90. He was vigorous, leading troops until his death and fathering some 44 sons, and a staunch ally of Rome.",
+      "Masinissa's story is told in Livy's Ab Urbe Condita. He is also featured in Cicero's Scipio's Dream.",
+      "His name was found in his tomb of Cirta, modern-day Constantine in Algeria under the form of MSNSN."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Nantes",
-    "urlGoogle": "https://artsandculture.google.com/entity/nantes/m0hqzr"
+    "urlWiki": "https://en.wikipedia.org/wiki/Masinissa",
+    "urlGoogle": "https://artsandculture.google.com/entity/masinissa/m014qk9"
+  },
+  "place": {
+    "id": "lagos",
+    "name": "Lagos",
+    "mainImg": "img/places/lagos.jpg",
+    "summary": [
+      "Lagos is the most populous city in Nigeria and of Sub-Saharan Africa. Lagos is one of the fastest growing cities in the world and one of the most populous urban areas. The economic hub of the state of the same name, Lagos is a major financial centre for all of Africa; the megacity has the fourth-highest GDP in Africa and houses one of the largest and busiest seaports on the continent.",
+      "Lagos initially emerged as a port city that originated on a collection of islands, which are contained in the present day Local Government Areas of Lagos Island, Eti-Osa, Amuwo-Odofin and Apapa. The islands are separated by creeks, fringing the southwest mouth of Lagos Lagoon, while being protected from the Atlantic Ocean by barrier islands and long sand spits such as Bar Beach, which stretch up to 100 km east and west of the mouth. Due to rapid urbanization, the city expanded to the west of the lagoon to include areas in the present day Lagos Mainland, Ajeromi-Ifelodun and Surulere. This led to the classification of Lagos into two main areas: the Island, which was the initial city of Lagos, before it expanded into the area known as the Mainland."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Lagos",
+    "urlGoogle": "https://artsandculture.google.com/entity/lagos/m0lnfy"
   },
   "wiki": {
-    "id": "simeon-i-of-bulgaria",
-    "name": "Simeon I of Bulgaria",
-    "summary": "Simeon I ruled over Bulgaria from 893 to 927, during the First Bulgarian Empire. Simeon's successful campaigns against the Byzantines, Magyars and Serbs led Bulgaria to its greatest territorial expansion ever, making it the most powerful state in contemporary Eastern Europe. His reign was also a period of unmatched cultural prosperity and enlightenment later deemed the Golden Age of Bulgarian culture. During Simeon's rule, Bulgaria spread over a territory between the Aegean, the Adriatic and the Black Sea, and the new Bulgarian capital Preslav was said to rival Constantinople. The newly-independent Bulgarian Orthodox Church became the first new patriarchate besides the Pentarchy and Bulgarian Glagolitic translations of Christian texts spread all over the Slavic world of the time. Halfway through his reign, Simeon assumed the title of Emperor (Tsar), having prior to that been styled Prince (Knyaz).",
-    "url": "https://en.wikipedia.org/wiki/Simeon_I_of_Bulgaria"
+    "id": "libertarianism",
+    "name": "Libertarianism",
+    "summary": "Libertarianism is a political philosophy that holds that individuals should be allowed complete freedom of action as long as they do not infringe on the freedom of others. This is usually taken by libertarians to mean that no one may initiate coercion, which they define as the use of physical force, the threat of such, or the use of fraud to prevent individuals from having willful use of their person or property. In the economic realm, they generally oppose taxation and government regulation of business activities, and aim to reduce the size and scope of government. To the extent that libertarians advocate any government at all, its functions tend to be limited to protecting civil liberties and economic liberties (by protecting private property and a free market) through a police force, a military (with no conscription), and the courts.",
+    "url": "https://en.wikipedia.org/wiki/Libertarianism"
   },
   "word": {
-    "id": "serendipity",
-    "word": "serendipity",
-    "url": "https://www.merriam-webster.com/dictionary/serendipity",
-    "partOfSpeech": "noun",
-    "pronunciation": "sair-un-DIP-uh-tee",
-    "audioPath": "audio/words/serendipity.mp3",
-    "definitions": [
-      "the faculty or phenomenon of finding valuable or agreeable things not sought for; also : an instance of this"
-    ],
+    "id": "nebulous",
+    "word": "nebulous",
+    "url": "https://www.merriam-webster.com/dictionary/nebulous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "NEB-yuh-lus",
+    "audioPath": "audio/words/nebulous.mp3",
+    "definitions": ["of, relating to, or resembling a nebula", "indistinct, vague"],
     "examples": [
-      "We found the restaurant by pure _serendipity_, rather than careful research, but it turned out to be the best deal in town.",
-      "\"Many young people today have never had the experience of getting lost.… They have not experienced the pleasure of wandering while lost and discovering by _serendipity_ interesting new places.\" - From an op-ed by Katie Davis and Howard Gardner in the _Seattle Times_, January 7, 2014"
+      "Charlene's description of the film was so _nebulous_ that I’m still not quite sure what it is about.",
+      "\"We just wish his business model wasn't so reliant on propping up a supposedly free market with huge infusions of tax dollars in return for comparatively meager, completely _nebulous_ new jobs estimates.\" - From an editorial by Matthew Major in _Public Opinion_ (Chambersburg, Pennsylvania), June 8, 2012"
     ],
-    "origin": "In the mid-1700s, English author Horace Walpole stumbled upon an interesting tidbit of information while researching a coat of arms. In a letter to his friend Horace Mann he wrote: \"This discovery indeed is almost of that kind which I call Serendipity, a very expressive word, which as I have nothing better to tell you, I shall endeavor to explain to you: you will understand it better by the derivation than by the definition. I once read a silly fairy tale, called 'The Three Princes of Serendip': as their highnesses travelled, they were always making discoveries, by accidents and sagacity, of things they were not in quest of….\" Walpole's memory of the tale (which, as it turns out, was not quite accurate) gave \"serendipity\" the meaning it retains to this day."
+    "origin": "\"Nebulous\" comes from the Latin word \"nebulosus,\" meaning \"misty,\" which in turn comes from \"nebula,\" meaning \"mist,\" \"fog,\" or \"cloud.\" In the 18th century, English speakers borrowed \"nebula\" and gave it a somewhat more specific meaning than the Latin version. In English, \"nebula\" refers to a cloud of gas or dust in deep space, or in less technical contexts, simply to a galaxy. \"Nebulous\" itself, when it doesn't have interstellar implications, usually means \"cloudy\" or \"foggy\" in a figurative sense. One's memory of a long-past event, for example, will often be nebulous; a teenager might give a nebulous recounting of an evening's events upon coming home; or a politician might make a campaign promise but give only a nebulous description of how he or she would fulfill it."
   }
 }

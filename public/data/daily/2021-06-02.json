@@ -1,140 +1,131 @@
 {
   "artist": {
-    "id": "frank-gehry",
-    "name": "Frank Gehry",
-    "dates": "Born Feb 28, 1929",
-    "mainImg": "img/art/artists/frank-gehry.jpg",
+    "id": "joseph-henry-sharp",
+    "name": "Joseph Henry Sharp",
+    "dates": "Sep 27, 1859 - Aug 29, 1953",
+    "mainImg": "img/art/artists/joseph-henry-sharp.jpg",
     "artworkImgs": [
       {
-        "name": "WALT DISNEY CONCERT HALL: MODEL WITH METAL EXTERIOR (FRONT VIEW)",
-        "path": "img/art/artworks/frank-gehry-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/walt-disney-concert-hall-model-with-metal-exterior-front-view-gehry-and-partners/tgHCbp6jLNASVg"
+        "name": "Chief Flat Iron-Sioux",
+        "path": "img/art/artworks/joseph-henry-sharp-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/chief-flat-iron-sioux-joseph-henry-sharp/5gHG3wG-Qy5sRw"
       },
       {
-        "name": "Serpentine Gallery Pavilion 2008",
-        "path": "img/art/artworks/frank-gehry-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/serpentine-gallery-pavilion-2008-frank-gehry/ZgG1Pn47mGSWiQ"
+        "name": "Indians Fishing, Taos Canyon",
+        "path": "img/art/artworks/joseph-henry-sharp-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/indians-fishing-taos-canyon-joseph-henry-sharp/tAEZ3syGSRyMkw"
       },
       {
-        "name": "Guggenheim Museum Bilbao",
-        "path": "img/art/artworks/frank-gehry-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/guggenheim-museum-bilbao-frank-gehry/zgFB5Hv7amqWXQ"
+        "name": "No Room for Rumors ... Seagram Distillers Corporation.",
+        "path": "img/art/artworks/joseph-henry-sharp-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/no-room-for-rumors-seagram-distillers-corporation-seagram-distillers-corporation-new-york/AgEkXGrORBiw2A"
       },
       {
-        "name": "WALT DISNEY CONCERT HALL: MODEL OF AUDITORIUM INTERIOR",
-        "path": "img/art/artworks/frank-gehry-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/walt-disney-concert-hall-model-of-auditorium-interior-gehry-and-partners/qQGHdbCc3gIc8g"
+        "name": "Even in This Friendly Tavern There May Be Enemy Ears / Stop Loose Talk Rumours ... Seagram Distillers Corporation.",
+        "path": "img/art/artworks/joseph-henry-sharp-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/even-in-this-friendly-tavern-there-may-be-enemy-ears-stop-loose-talk-rumours-seagram-distillers-corporation-seagram-distillers-corporation-new-york/9AGx23GRuAlhNw"
       },
       {
-        "name": "WALT DISNEY CONCERT HALL: LOBBY-INTERIOR MODEL",
-        "path": "img/art/artworks/frank-gehry-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/walt-disney-concert-hall-lobby-interior-model-gehry-and-partners/KgHw6uZun7A4gA"
+        "name": "Making Sweet Grass Medicine, Blackfoot Ceremony",
+        "path": "img/art/artworks/joseph-henry-sharp-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/making-sweet-grass-medicine-blackfoot-ceremony/ZwGSHTajNaskCQ"
       },
       {
-        "name": "WALT DISNEY CONCERT HALL: AXONOMETRIC DRAWING",
-        "path": "img/art/artworks/frank-gehry-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/walt-disney-concert-hall-axonometric-drawing-gehry-and-partners/LQH5mACK7QO3Lw"
+        "name": "The Harvest Dance",
+        "path": "img/art/artworks/joseph-henry-sharp-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-harvest-dance-joseph-henry-sharp-american-b-1859-d-1953/owHdW0EagNQRAg"
       }
     ],
     "summary": [
-      "Frank Owen Gehry, CC, FAIA is a Canadian-born American architect, residing in Los Angeles.",
-      "A number of his buildings, including his private residence, have become world-renowned attractions. His works are cited as being among the most important works of contemporary architecture in the 2010 World Architecture Survey, which led Vanity Fair to label him as \"the most important architect of our age\".",
-      "Gehry's best-known works include the titanium-clad Guggenheim Museum in Bilbao, Spain; Walt Disney Concert Hall in downtown Los Angeles; Louis Vuitton Foundation in Paris, France; MIT Ray and Maria Stata Center in Cambridge, Massachusetts; The Vontz Center for Molecular Studies on the University of Cincinnati campus; Museum of Pop Culture in Seattle; New World Center in Miami Beach; Weisman Art Museum at the University of Minnesota in Minneapolis; Dancing House in Prague; the Vitra Design Museum and the MARTa Herford museum in Germany; the Art Gallery of Ontario in Toronto; the Cinémathèque Française in Paris; and 8 Spruce Street in New York City.",
-      "It was his private residence in Santa Monica, California, that jump-started his career."
-    ],
-    "quote": "“Architecture should speak of its time and place, but yearn for timelessness.”",
-    "movements": [],
-    "mediums": ["Metal", "Glass", "Felt", "Rock", "Lead", "Iron"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Gehry",
-    "urlGoogle": "https://artsandculture.google.com/entity/frank-gehry/m0d_w7"
-  },
-  "event": {
-    "id": "ten-days-campaign",
-    "name": "Ten Days' Campaign",
-    "dates": "Aug 2, 1831 - Aug 12, 1831",
-    "mainImg": "img/events/ten-days-campaign.jpg",
-    "summary": [
-      "The Ten Days' Campaign was a failed military expedition by the United Kingdom of the Netherlands against the secessionist Kingdom of Belgium between 2 and 12 August 1831. The campaign was an attempt by the Dutch King William I to halt the course of the Belgian Revolution which had broken out in August 1830.",
-      "The Dutch army invaded Belgium on 2 August 1831 and defeated Belgian forces in several battles over the course of the next few days, advancing deep into Belgian territory. On 8 August, the Belgian government appealed to France for military support. The French agreed to send reinforcements to assist the Belgians under Marshal Étienne Gérard. Rather than fight the French, the Dutch withdrew from Belgium without achieving their objectives. In November 1832, the French besieged and captured Antwerp, the last Dutch stronghold in Belgium, effectively ending the military confrontation between the Dutch and Belgians."
+      "Joseph Henry Sharp was an American painter and a founding member of the Taos Society of Artists, of which he is considered the \"Spiritual Father\". Sharp was one of the earliest European-American artists to visit Taos, New Mexico, which he saw in 1893 with artist John Hauser. He painted American Indian portraits and cultural life, as well as Western landscapes. President Theodore Roosevelt commissioned him to paint the portraits of 200 Native American warriors who survived the Battle of the Little Bighorn. While working on this project, Sharp lived on land of the Crow Agency, Montana, where he built Absarokee Hut in 1905. Boosted by his sale of 80 paintings to Phoebe Hearst, Sharp quit teaching and began to paint full-time.",
+      "In 1909, he bought a former chapel in Taos to use as a studio, near the house of the artist E. Irving Couse. In 1912 he and his wife moved to the area full-time. He built a house with studio near the chapel. Both artists' homes and studios are part of the Eanger Irving Couse House and Studio—Joseph Henry Sharp Studios, which is listed on the National Register of Historic Places."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ten_Days%27_Campaign",
-    "urlGoogle": "https://artsandculture.google.com/entity/ten-days-campaign/m0gbkr6"
+    "movements": [],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Joseph_Henry_Sharp",
+    "urlGoogle": "https://artsandculture.google.com/entity/joseph-henry-sharp/m026k3q5"
+  },
+  "event": {
+    "id": "spanish-american-war",
+    "name": "Spanish–American War",
+    "dates": "Apr 21, 1898 - Aug 13, 1898",
+    "mainImg": "img/events/spanish-american-war.jpg",
+    "summary": [
+      "The Spanish–American War was an armed conflict between Spain and the United States in 1898. Hostilities began in the aftermath of the internal explosion of USS Maine in Havana Harbor in Cuba, leading to U.S. intervention in the Cuban War of Independence. The war led to emergence of U.S. predominance in the Caribbean region, and resulted in U.S. acquisition of Spain's Pacific possessions. That led to U.S. involvement in the Philippine Revolution and ultimately in the Philippine–American War.",
+      "The main issue was Cuban independence. Revolts had been occurring for some years in Cuba against Spanish rule. The U.S. later backed these revolts upon entering the Spanish–American War. There had been war scares before, as in the Virginius Affair in 1873, but in the late 1890s, American public opinion was agitated by reports of gruesome Spanish atrocities. The business community had just recovered from a deep depression and feared that a war would reverse the gains. It lobbied vigorously against going to war. President William McKinley ignored the exaggerated yellow press and sought a peaceful settlement."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/spanish–american-war/m0700q"
   },
   "funFacts": [
     {
-      "id": "788",
-      "fact": "The average person falls asleep in seven minutes.",
-      "category": ["Habits"]
+      "id": "448",
+      "fact": "The sun evaporates about a trillion tons of water a day.",
+      "category": ["Science"]
     },
-    {
-      "id": "400",
-      "fact": "About 80 women go into labor on NYC subways every year.",
-      "category": ["Habits"]
-    }
+    { "id": "292", "fact": "Heavier, not bigger lemons, produce more juice.", "category": ["Food"] }
   ],
   "funFacts2": [
     {
-      "id": "504865",
-      "fact": "When Texas was its own sovereign nation in the mid-1800s, it briefly had a diplomatic mission in Paris."
+      "id": "554089",
+      "fact": "Over half the world's population lives within a 5000-mile-wide circle in East Asia."
     }
   ],
   "idiom": {
-    "id": "out-of-the-mouths-of-babes",
-    "term": "out of the mouths of babes",
-    "definition": "Young and inexperienced persons often can be remarkably wise, as in *She's only six but she said, quite rightly, that Harry was afraid of the sitter---out of the mouths of babes, Mother said.* This expression is a shortening and revision of expressions in the Old and New Testaments of the Bible. In Psalms 8:2, God ordains strength out of the mouth of babes and sucklings; in Matthew 21:16, praise comes from this source. Later generations changed strength and praise to wisdom."
+    "id": "futz-around",
+    "term": "futz around",
+    "definition": "Also, **futz with.** Waste time or effort on frivolities, play around. For example, *He spent all morning futzing around with the report,* or *No more futzing with the car---we have to go now.* This term may be a shortening and corruption of the Yiddish *arumfartzen,* for \"fart around.\" [Slang; 1920s]"
   },
   "person": {
-    "id": "herbert-von-karajan",
-    "name": "Herbert von Karajan",
-    "dates": "Apr 5, 1908 - Jul 16, 1989",
-    "mainImg": "img/people/herbert-von-karajan.jpg",
+    "id": "joseph-hooker",
+    "name": "Joseph Hooker",
+    "dates": "Nov 13, 1814 - Oct 31, 1879",
+    "mainImg": "img/people/joseph-hooker.jpg",
     "summary": [
-      "Herbert von Karajan was an Austrian conductor. He was principal conductor of the Berlin Philharmonic for 34 years until his death in 1989. During the Nazi era, he debuted at the Salzburg festival, with the Vienna Philharmonic, the Berlin Philharmonic, and during the Second World War he conducted at the Berlin State Opera. Generally regarded as one of the greatest conductors of the 20th century, he was a controversial but dominant figure in European classical music from the mid-1950s until his death. Part of the reason for this was the large number of recordings he made and their prominence during his lifetime. By one estimate he was the top-selling classical music recording artist of all time, having sold an estimated 200 million records."
+      "Joseph Hooker was an American Civil War general, chiefly remembered for his decisive defeat by Confederate General Robert E. Lee at the Battle of Chancellorsville in 1863.",
+      "Hooker had served in the Seminole Wars and the Mexican–American War, receiving three brevet promotions, before resigning from the Army. At the start of the Civil War, he joined the Union side as a brigadier general, distinguishing himself at Williamsburg, Antietam and Fredericksburg, after which he was given command of the Army of the Potomac.",
+      "His ambitious plan for Chancellorsville was thwarted by Lee's bold move in dividing his army and routing a Union corps, as well as by mistakes on the part of Hooker's subordinate generals and his own loss of nerve. The defeat handed Lee the initiative, which allowed him to travel north to Gettysburg.",
+      "Hooker was kept in command, but when General Halleck and Lincoln declined his request for reinforcements, he resigned. George G. Meade was appointed to command the Army of the Potomac three days before Gettysburg.",
+      "Hooker returned to combat in November 1863, helping to relieve the besieged Union Army at Chattanooga, Tennessee, and continuing in the Western Theater under Maj."
     ],
-    "quote": "“If I tell the Berliners to step forward, they do it. If I tell the Viennese to step forward, they do it, but then they ask why.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Herbert_von_Karajan",
-    "urlGoogle": "https://artsandculture.google.com/entity/herbert-von-karajan/m01tbftk"
+    "quote": "“To tell the truth, I just lost confidence in Joe Hooker.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Joseph_Hooker",
+    "urlGoogle": "https://artsandculture.google.com/entity/joseph-hooker/m0170kh"
   },
   "place": {
-    "id": "burnaby",
-    "name": "Burnaby",
-    "mainImg": "img/places/burnaby.jpg",
+    "id": "lviv",
+    "name": "Lviv",
+    "mainImg": "img/places/lviv.jpg",
     "summary": [
-      "Burnaby is a city in British Columbia, Canada, part of Metro Vancouver and immediately to the east of the City of Vancouver. It is the third-largest city in British Columbia by population, following Vancouver and nearby Surrey. Burnaby was incorporated in 1892 and achieved its City status in 1992, 100 years after incorporation. It is the seat of Metro Vancouver's regional government.",
-      "The city is served by the Expo Line and the Millennium Line. Metrotown station in downtown Metrotown is the second-busiest station in regional Vancouver's Skytrain system as of 2018.",
-      "The main campuses of Simon Fraser University and the British Columbia Institute of Technology are located in Burnaby. Metropolis at Metrotown is the largest mall in British Columbia, and second largest in Canada. It is home to high-tech companies such as Ballard Power, Clio, D-Wave, General Fusion, Electronic Arts Vancouver, and Capcom Canada."
+      "Lviv is the largest city in western Ukraine and the seventh-largest city in the country overall, with a population of 755 800 as of 2020. Lviv is one of the main cultural centres of Ukraine.",
+      "Named in honour of Leo, the eldest son of Daniel, King of Ruthenia, it was the capital of the Kingdom of Galicia–Volhynia from 1272 to 1349, when it was conquered by King Casimir III the Great of Poland. From 1434, it was the regional capital of the Ruthenian Voivodeship in the Kingdom of Poland. In 1772, after the First Partition of Poland, the city became the capital of the Habsburg Kingdom of Galicia and Lodomeria. In 1918, for a short time, it was the capital of the West Ukrainian People's Republic. Between the wars, the city was the centre of the Lwów Voivodeship in the Second Polish Republic.",
+      "After the German-Soviet invasion of Poland in 1939, Lviv became part of the Soviet Union, and in 1944–46 there was a population exchange between Poland and Soviet Ukraine. In 1991, it became part of the independent nation of Ukraine.",
+      "Administratively, Lviv serves as the administrative centre of Lviv Oblast and has the status of city of oblast significance."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Burnaby",
-    "urlGoogle": "https://artsandculture.google.com/entity/burnaby/m01d26y"
-  },
-  "quote": {
-    "id": "75",
-    "quote": "Speak less than you know; have more than you show.",
-    "author": "William Shakespeare"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lviv",
+    "urlGoogle": "https://artsandculture.google.com/entity/lviv/m0d7_n"
   },
   "wiki": {
-    "id": "palace-of-westminster",
-    "name": "Palace of Westminster",
-    "summary": "The Palace of Westminster is where the two Houses of the Parliament of the United Kingdom (the House of Lords and the House of Commons) conduct their sittings. The Palace lies on the west bank of the River Thames in the London borough of the City of Westminster. The oldest extant part of the Palace, Westminster Hall, dates to 1097. The Palace originally served as a royal residence; however, no monarch has lived in it since the sixteenth century. One of the Palace's most famous features is the Clock Tower, a notable London tourist attraction that houses Big Ben and is often erroneously referred to by this name. The Palace includes over one thousand rooms, and is the site of important state ceremonies, most notably the State Opening of Parliament. The Palace is very closely associated with the two Houses, as evidenced by the use of \"Westminster\" as a metonym for \"Parliament.\"",
-    "url": "https://en.wikipedia.org/wiki/Palace_of_Westminster"
+    "id": "transit-of-venus",
+    "name": "Transit of Venus",
+    "summary": "A transit of Venus across the Sun takes place when the planet Venus passes directly between the Sun and Earth, becoming visible against the solar disk. During a transit, Venus can be seen from Earth as a small black disk moving slowly across the face of the Sun. A transit is similar to a solar eclipse by the Moon, but while the diameter of Venus is more than three times that of the Moon it is much further from Earth and so appears smaller and generally takes longer (up to eight hours) to travel across the solar disk. Transits of Venus are among the rarest of predictable astronomical phenomena—they occur in a pattern that repeats every 243 years, with pairs of transits eight years apart separated by long gaps of 121.5 years and 105.5 years. The next transit of Venus occurs on 5 and 6 June 2012, and will be the last Venus transit this century. Historically, Venus transits were of great scientific importance as they were used to gain the first realistic estimates of the size of the solar system. A transit of Venus can be safely observed by taking the same precautions used when observing the partial phases of a solar eclipse.",
+    "url": "https://en.wikipedia.org/wiki/Transit_of_Venus"
   },
   "word": {
-    "id": "proselytize",
-    "word": "proselytize",
-    "url": "https://www.merriam-webster.com/dictionary/proselytize",
+    "id": "regurgitate",
+    "word": "regurgitate",
+    "url": "https://www.merriam-webster.com/dictionary/regurgitate",
     "partOfSpeech": "verb",
-    "pronunciation": "PRAH-suh-luh-tyze",
-    "audioPath": "audio/words/proselytize.mp3",
-    "definitions": [
-      "to induce someone to convert to one's faith",
-      "to recruit someone to join one's party, institution, or cause"
-    ],
+    "pronunciation": "ree-GUR-juh-tayt",
+    "audioPath": "audio/words/regurgitate.mp3",
+    "definitions": ["to throw or be thrown back, up, or out"],
     "examples": [
-      "Eliza is a staunch environmentalist who always feels the need to _proselytize_ to anyone who doesn't recycle or drive a hybrid automobile.",
-      "\"There is also no denying that in some of its iterations, the pacifism that \\[John\\] Lennon championed can seem truly beautiful. So long as the world is plagued by hate and war, people are going to look fondly upon those who _proselytize_ for peace and love.\" -- From an article by John McMillian in the _Boston Globe_, December 5, 2010"
+      "Instead of sharing some new ideas, the book _regurgitates_ the same old arguments that other authors have tried before.",
+      "\"Vultures often _regurgitate_ indigestible parts of the things they feed on, which adds to the mess on the ground below the eucalyptus trees.\" -- From an article by Gary Bogue in _San Jose Mercury News_ (California), August 30, 2011"
     ],
-    "origin": "\"Proselytize\" comes from the noun \"proselyte\" (meaning \"a new convert\"), which comes from the Late Latin noun \"proselytus.\" \"Proselytus\" means \"stranger\" or \"alien resident,\" and comes from a similar Greek word (\"prosēlytos\"). When \"proselytize\" entered English in the 17th century, it had a distinctly religious connotation and meant simply \"to recruit religious converts.\" This meaning is still common, but today one can also proselytize in a broader sense -- recruiting converts to one's political party or pet cause, for example."
+    "origin": "Something regurgitated has typically been taken in, at least partially digested, and then spit back out . . . either literally or figuratively. The word often appears in biological contexts (e.g., in describing how some birds feed their chicks by regurgitating incompletely digested food), or in references to ideas or information that have been acquired and restated. A student, for example, might be expected to learn information from a textbook or a teacher and then regurgitate it for a test. \"Regurgitate,\" which entered the English vocabulary in the mid-17th century, is of Latin origin and traces back to the Latin word for \"whirlpool,\" which is \"gurges.\""
   }
 }

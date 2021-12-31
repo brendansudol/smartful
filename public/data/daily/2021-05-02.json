@@ -1,149 +1,137 @@
 {
   "artist": {
-    "id": "frank-lloyd-wright",
-    "name": "Frank Lloyd Wright",
-    "dates": "Jun 8, 1867 - Apr 9, 1959",
-    "mainImg": "img/art/artists/frank-lloyd-wright.jpg",
+    "id": "matthias-grunewald",
+    "name": "Matthias Grünewald",
+    "dates": "1470 - Aug 31, 1528",
+    "mainImg": "img/art/artists/matthias-grunewald.jpg",
     "artworkImgs": [
       {
-        "name": "Design 105",
-        "path": "img/art/artworks/frank-lloyd-wright-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/design-105-frank-lloyd-wright/5wHvPLi1DWFuRQ"
+        "name": "The Small Crucifixion",
+        "path": "img/art/artworks/matthias-grunewald-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-small-crucifixion/vQFwjCut7RnWbg"
       },
       {
-        "name": "Taliesin Line of Decorative Wallpapers",
-        "path": "img/art/artworks/frank-lloyd-wright-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/taliesin-line-of-decorative-wallpapers-frank-lloyd-wright/-wGznJaE8LKAGg"
+        "name": "Head of a Crying Child",
+        "path": "img/art/artworks/matthias-grunewald-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-crying-child-matthias-grünewald/NAHHYJDYhiHRuQ"
       },
       {
-        "name": "Come Now Your Arms Uniform and Accoutrements Are Ready Waiting for You. Lord Kitchener at Guildhall, July, 1915 Be Honest With Yourself",
-        "path": "img/art/artworks/frank-lloyd-wright-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/come-now-your-arms-uniform-and-accoutrements-are-ready-waiting-for-you-lord-kitchener-at-guildhall-july-1915-be-honest-with-yourself-parliamentary-recruiting-committee/kwElwjT_bmTGsw"
+        "name": "Crucifixion",
+        "path": "img/art/artworks/matthias-grunewald-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/crucifixion-matthias-grünewald/7wGPxukSYzdZ1Q"
       },
       {
-        "name": "Wohnzimmer im Vorstadthaus des Herrn B. Harley Bradley. Kankakee, Ills",
-        "path": "img/art/artworks/frank-lloyd-wright-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/wohnzimmer-im-vorstadthaus-des-herrn-b-harley-bradley-kankakee-ills-frank-lloyd-wright/WAF_U38nzpwbIA"
+        "name": "St. Lawrence, St. Cyriacus",
+        "path": "img/art/artworks/matthias-grunewald-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/st-lawrence-st-cyriacus-mathias-gothart-nithart-called-grünewald/RgHl9R31hjdi_w"
       },
       {
-        "name": "Macroceramus blaini antoniensis",
-        "path": "img/art/artworks/frank-lloyd-wright-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/macroceramus-blaini-antoniensis-c-wright/sgGSgeR3huwFfw"
+        "name": "Climbing Man with Outstretched Arms",
+        "path": "img/art/artworks/matthias-grunewald-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/climbing-man-with-outstretched-arms-matthias-grünewald/SAHaeprQhdVLVw"
       },
       {
-        "name": "Another Ship -- Another Victory",
-        "path": "img/art/artworks/frank-lloyd-wright-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/another-ship-another-victory-g-wright/8QEVMy_HXSFp7g"
+        "name": "St. Lawrence, St. Cyriacus",
+        "path": "img/art/artworks/matthias-grunewald-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/st-lawrence-st-cyriacus-mathias-gothart-nithart-called-grünewald/qgHCKXP1LAJO6Q"
       }
     ],
     "summary": [
-      "Frank Lloyd Wright was an American architect, interior designer, writer, and educator, whose creative period spanned more than 70 years, designing more than 1,000 structures, of which 532 were completed. Wright believed in designing structures that were in harmony with humanity and its environment, a philosophy he called organic architecture. This philosophy was best exemplified by Fallingwater, which has been called \"the best all-time work of American architecture.\" As a founder of organic architecture, Wright played a key role in the architectural movements of the twentieth century, influencing three generations of architects worldwide through his works.",
-      "Wright was the pioneer of what came to be called the Prairie School movement of architecture, and he also developed the concept of the Usonian home in Broadacre City, his unique vision for urban planning in the United States. In addition to his houses, Wright designed original and innovative offices, churches, schools, skyscrapers, hotels, museums, and other structures. He often designed interior elements for these buildings, as well, including furniture and stained glass."
-    ],
-    "quote": "“The longer I live, the more beautiful life becomes.”",
-    "movements": [],
-    "mediums": [
-      "Graphite",
-      "Tracing paper",
-      "Colored pencil",
-      "Pencil",
-      "Watercolor painting",
-      "Ink"
-    ],
-    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
-    "urlGoogle": "https://artsandculture.google.com/entity/frank-lloyd-wright/m02wlk"
-  },
-  "event": {
-    "id": "siege-of-warsaw",
-    "name": "Siege of Warsaw",
-    "dates": "Sep 8, 1939 - Sep 28, 1939",
-    "mainImg": "img/events/siege-of-warsaw.jpg",
-    "summary": [
-      "The Siege of Warsaw in 1939 was fought between the Polish Warsaw Army garrisoned and entrenched in Warsaw and the invading German Army.",
-      "It began with huge aerial bombardments initiated by the Luftwaffe starting on September 1, 1939 following the Nazi invasion of Poland. Land fighting started on September 8, when the first German armored units reached the Wola district and south-western suburbs of the city. Despite German radio broadcasts claiming to have captured Warsaw, the initial enemy attack was repelled and soon afterwards Warsaw was placed under siege. The siege lasted until September 28, when the Polish garrison, commanded under General Walerian Czuma, officially capitulated. The following day approximately 140,000 Polish troops left the city and were taken as prisoners of war. On October 1 the Wehrmacht entered Warsaw, which started a period of German occupation that lasted until the devastating Warsaw Uprising and later until January 17, 1945, when the Wehrmacht troops abandoned the city due to the advance of Polish-Soviet forces.",
-      "Around 18,000 civilians of Warsaw perished during the siege."
+      "Matthias Grünewald was a German Renaissance painter of religious works who ignored Renaissance classicism to continue the style of late medieval Central European art into the 16th century. His first name is also given as Mathis and his surname as Gothart or Neithardt. Only ten paintings—several consisting of many panels—and thirty-five drawings survive, all religious, although many others were lost at sea in the Baltic on their way to Sweden as war booty. His reputation was obscured until the late nineteenth century, and many of his paintings were attributed to Albrecht Dürer, who is now seen as his stylistic antithesis. His largest and most famous work is the Isenheim Altarpiece created c 1512 to 1516."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Warsaw_%281939%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-warsaw/m03h2yj"
+    "movements": ["Renaissance", "Northern Renaissance", "German Renaissance", "Gothic art"],
+    "mediums": ["Drawing", "Wood", "Charcoal", "Coal", "Fir", "Pine"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Matthias_Gr%C3%BCnewald",
+    "urlGoogle": "https://artsandculture.google.com/entity/matthias-grünewald/m01slns"
+  },
+  "event": {
+    "id": "ukrainian-war-of-independence",
+    "name": "Ukrainian War of Independence",
+    "dates": "1917 - 1921",
+    "mainImg": "img/events/ukrainian-war-of-independence.jpg",
+    "summary": [
+      "The Ukrainian War of Independence, a period of sustained warlike conflict, lasted from 1917 to 1921 and resulted in the establishment and development of a Ukrainian republic, most of which was later absorbed into the Soviet Union as the Ukrainian Soviet Socialist Republic of 1922–1991.",
+      "The war consisted of a series of military conflicts between different governmental, political and military forces. Belligerents included Ukrainian nationalists, anarchists, Bolsheviks, the forces of Germany and Austria-Hungary, the White Russian Volunteer Army, and Second Polish Republic forces. They struggled for control of Ukraine after the February Revolution in the Russian Empire. The Allied forces of Romania and France also became involved. The struggle lasted from February 1917 to November 1921 and resulted in the division of Ukraine between the Bolshevik Ukrainian SSR, Poland, Romania, and Czechoslovakia.",
+      "The conflict is frequently viewed within the framework of the Southern Front of the Russian Civil War of 1917–1922, as well as the closing stage of the Eastern Front of the First World War of 1914–1918."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ukrainian_War_of_Independence",
+    "urlGoogle": "https://artsandculture.google.com/entity/ukrainian-war-of-independence/m03cr0dr"
   },
   "funFacts": [
     {
-      "id": "337",
-      "fact": "Farmington, Maine celebrates Chester Greenwood Day to honor the inventor of earmuffs.",
-      "category": ["Geography", "History"]
+      "id": "381",
+      "fact": "Baboons were once trained by Egyptians to wait on tables.",
+      "category": ["Animals"]
     },
     {
-      "id": "998",
-      "fact": "Male pups will intentionally let female pups “win“ when they play-fight so they can get to know them better.",
-      "category": ["Animals", "Habits"]
+      "id": "829",
+      "fact": "Women's hearts typically beat faster than men's hearts.",
+      "category": ["Anatomy"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553684",
-      "fact": "“Jay” was slang for “foolish person.”  So when a pedestrian ignored street signs, he was a “jaywalker.”"
+      "id": "554076",
+      "fact": "The first Macy's Thanksgiving Day Parade featured lions, camels, and elephants from the Central Park Zoo."
     }
   ],
   "idiom": {
-    "id": "kill-two-birds-with-one-stone",
-    "term": "kill two birds with one stone",
-    "definition": "Achieve two ends with a single effort, as in *As long as I was in town on business, I thought I'd kill two birds and visit my uncle too.* This expression is so well known that it is often shortened, as in the example. [c. 1600]"
+    "id": "pay-through-the-nose",
+    "term": "pay through the nose",
+    "definition": "Pay an excessive amount for something, as in *We paid through the nose for that vacation.* The origin of this term has been lost. Possibly it alludes to the Danish nose tax, imposed in Ireland in the 9th century, whereby delinquent taxpayers were punished by having their noses slit. [Second half of 1600s]"
   },
   "person": {
-    "id": "hussein-of-jordan",
-    "name": "Hussein of Jordan",
-    "dates": "Nov 14, 1935 - Feb 7, 1999",
-    "mainImg": "img/people/hussein-of-jordan.jpg",
+    "id": "paul-robeson",
+    "name": "Paul Robeson",
+    "dates": "Apr 9, 1898 - Jan 23, 1976",
+    "mainImg": "img/people/paul-robeson.jpg",
     "summary": [
-      "Hussein bin Talal reigned as King of Jordan from 11 August 1952 until his death in 1999. As a member of the Hashemite dynasty, the royal family of Jordan since 1921, Hussein claimed to be a 40th-generation direct descendant of Muhammad.",
-      "Hussein was born in Amman as the eldest child of Talal bin Abdullah and Zein Al-Sharaf. Hussein began his schooling in Amman, continuing his education abroad. After Talal became King of Jordan in 1951, Hussein was named heir apparent. The Parliament forced Talal to abdicate a year later due to his illness, and a regency council was appointed until Hussein came of age. He was enthroned at the age of 17 on 2 May 1953. Hussein was married four separate times and fathered eleven children: Princess Alia from Dina bint Abdul-Hamid; Abdullah II, Prince Faisal, Princess Aisha, and Princess Zein from Antoinette Gardiner; Princess Haya and Prince Ali from Alia Touqan; Prince Hamzah, Prince Hashim, Princess Iman, and Princess Raiyah from Lisa Halaby.",
-      "Hussein, a constitutional monarch, started his rule with what was termed a \"liberal experiment,\" allowing, in 1956, the formation of the only democratically elected government in Jordan's history."
+      "Paul Leroy Robeson was an American bass baritone concert artist and stage and film actor who became famous both for his cultural accomplishments and for his political activism. Educated at Rutgers College and Columbia University, he was also a star athlete in his youth. He also studied Swahili and linguistics at the School of Oriental and African Studies, London in 1934. His political activities began with his involvement with unemployed workers and anti-imperialist students whom he met in Britain and continued with support for the Loyalist cause in the Spanish Civil War and his opposition to fascism. In the United States he also became active in the Civil Rights Movement and other social justice campaigns. His sympathies for the Soviet Union and for communism, and his criticism of the United States government and its foreign policies, caused him to be blacklisted during the McCarthy era.",
+      "In 1915, Robeson won an academic scholarship to Rutgers College, where he was twice named a consensus All-American in football, and was the class valedictorian. Almost 80 years later, he was inducted into the College Football Hall of Fame."
     ],
-    "quote": "“We respect opposition to any position or policy. But we believe that the opinion that should prevail and be respected is that of the majority.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Hussein_of_Jordan",
-    "urlGoogle": "https://artsandculture.google.com/entity/hussein-of-jordan/m0kvhz"
+    "quote": "“As an artist I come to sing, but as a citizen, I will always speak for peace, and no one can silence me in this.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Paul_Robeson",
+    "urlGoogle": "https://artsandculture.google.com/entity/paul-robeson/m01jqr_5"
   },
   "place": {
-    "id": "odesa",
-    "name": "Odesa",
-    "mainImg": "img/places/odesa.jpg",
+    "id": "kampala",
+    "name": "Kampala",
+    "mainImg": "img/places/kampala.jpg",
     "summary": [
-      "Odessa or Odesa is the third most populous city of Ukraine and a major tourism center, seaport and transport hub located on the northwestern shore of the Black Sea. It is also the administrative center of the Odessa Oblast and a multiethnic cultural center. Odessa is sometimes called the \"pearl of the Black Sea\", the \"South Capital\", and \"Southern Palmyra\".",
-      "Before the Tsarist establishment of Odessa, an ancient Greek settlement existed at its location. A more recent Tatar settlement was also founded at the location by Hacı I Giray, the Khan of Crimea in 1440 that was named after him as Hacibey. After a period of Lithuanian Grand Duchy control, Hacibey and surroundings became part of the domain of the Ottomans in 1529 and remained there until the empire's defeat in the Russo-Turkish War of 1792.",
-      "In 1794, the city of Odessa was founded by a decree of the Russian empress Catherine the Great. From 1819 to 1858, Odessa was a free port—a porto-franco. During the Soviet period, it was the most important port of trade in the Soviet Union and a Soviet naval base."
+      "Kampala is the capital and largest city of Uganda. The city proper was estimated to have a population of 1,680,800 people on 31 July 2019 and is divided into the five boroughs of Kampala Central Division, Kawempe Division, Makindye Division, Nakawa Division, and Rubaga Division.",
+      "Kampala's metropolitan area consists of the city proper and the neighboring Wakiso District, Mukono District, Mpigi District, Buikwe District and Luweero District. It has a rapidly growing population that is estimated at 6,709,900 people in 2019 by the Uganda Bureau of Statistics in an area of 8,451.9 km².",
+      "In 2015, this metropolitan area generated an estimated nominal GDP of $13.80221 billion according to Xuantong Wang et al., which was more than half of Uganda's GDP for that year, indicating the importance of Kampala to Uganda's economy.",
+      "Kampala is reported to be among the fastest-growing cities in Africa, with an annual population growth rate of 4.03 percent, by City Mayors. Kampala has been ranked the best city to live in East Africa ahead of Nairobi and Kigali by Mercer, a global development consulting agency based in New York City."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Odessa",
-    "urlGoogle": "https://artsandculture.google.com/entity/odesa/m0ffmp"
+    "urlWiki": "https://en.wikipedia.org/wiki/Kampala",
+    "urlGoogle": "https://artsandculture.google.com/entity/kampala/m0fngy"
   },
   "quote": {
-    "id": "96",
-    "quote": "The time to repair the roof is when the sun is shining.",
-    "author": "John F. Kennedy"
+    "id": "23",
+    "quote": "Criticism is easy; achievement is difficult.",
+    "author": "Winston Churchill"
   },
   "wiki": {
-    "id": "agatha-christie-and-then-there-were-none",
-    "name": "Agatha Christie: And Then There Were None",
-    "summary": "Agatha Christie: And Then There Were None is a 2005 point-and-click adventure game developed by AWE Productions and published by The Adventure Company for the PC. The game is the first in The Adventure Company's Agatha Christie series. The story is focused on a man's journey to the fictional Shipwreck Island, off the coast of Devon, with ten others, and the events that unfold there. And Then There Were None retains the plot elements of Agatha Christie's novel of the same name, with the sole difference being the conclusion. In order to further the connection between the game and its source material, Christie's novel is included in the North American release of the game. Several reviewers of And Then There Were None have harshly criticized its character designs and graphics as being archaic and outdated, whereas others have praised aspects of the game such as character dialogue and an immersive story. Reactions to the game were mixed, with many reviewers polarized in their opinions of the game, calling it either a good adaptation of the novel, or an extremely poor adventure game.",
-    "url": "https://en.wikipedia.org/wiki/Agatha_Christie:_And_Then_There_Were_None"
+    "id": "maraba-coffee",
+    "name": "Maraba Coffee",
+    "summary": "Maraba Coffee is a Fairtrade coffee produced in the Maraba area of southern Rwanda. About 2,000 smallholder farmers grow the coffee plants under the Abahuzamugambi cooperative, founded in 1999. Since 2000, the cooperative has been supported by the National University of Rwanda and the Partnership for Enhancing Agriculture in Rwanda through Linkages. The cooperative, which includes many growers who lost family members in the 1994 Rwandan Genocide, has improved coffee quality and penetrated the specialty market. Farmers' revenues have increased, allowing for livestock investments, affordable medical insurance, and improved education. Maraba's coffee plants are the Bourbon variety of the Coffea arabica species and are grown on fertile volcanic soils on high-altitude hills. The fruit is handpicked, mostly during the rainy season between March and May, and brought to a washing station in Maraba where the coffee beans are extracted and dried. At several stages, the beans are sorted according to quality. The beans are sold to various roasting companies, with the highest quality beans going to Union Coffee Roasters of the United Kingdom and Community Coffee of the United States.",
+    "url": "https://en.wikipedia.org/wiki/Maraba_Coffee"
   },
   "word": {
-    "id": "hew",
-    "word": "hew",
-    "url": "https://www.merriam-webster.com/dictionary/hew",
-    "partOfSpeech": "verb",
-    "pronunciation": "HYOO",
-    "audioPath": "audio/words/hew.mp3",
-    "definitions": [
-      "to cut or fell with blows (as of an ax)",
-      "to give shape to with or as if with an ax",
-      "to conform or to adhere"
-    ],
+    "id": "saponaceous",
+    "word": "saponaceous",
+    "url": "https://www.merriam-webster.com/dictionary/saponaceous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sap-uh-NAY-shus",
+    "audioPath": "audio/words/saponaceous.mp3",
+    "definitions": ["resembling or having the qualities of soap"],
     "examples": [
-      "Josh was never one to _hew_ to policies with which he disagreed.",
-      "\"Typically at this point on the political calendar, a sitting vice president scrupulously downplays his interest in ascending to the top job.... Vice presidents as varied as Walter Mondale, George H.W. Bush, and Al Gore all gamely _hewed_ to this script.\" - From an article by Noam Scheiber in _The New Republic_, August 24, 2012"
+      "\"When boiled or bruised in water, the leaves turn _saponaceous_, and the resulting lather cuts through grease.\" - From an article in _Mountain Xpress_ (Asheville, North Carolina), March 16, 2005 - March 22, 2005",
+      "\"Wilberforce's smooth and slippery manner had led a contemporary to call him _saponaceous_, after the adjective from soap.\" - From an award acceptance speech by British writer Philip Pulman, printed in _The Humanist_, July 1, 2008"
     ],
-    "origin": "\"Hew\" is a strong, simple word of Anglo-Saxon descent. It can suggest actual ax-wielding, or it can be figurative: \"If ... our ambition hews and shapes \\[our\\] new relations, their virtue escapes, as strawberries lose their flavor in garden-beds\" (Ralph Waldo Emerson). It's easy to see how the figurative \"shape\" sense of \"hew\" developed from the literal hacking sense, but what does chopping have to do with adhering and conforming? That sense first appeared in the late 1800s in the phrase \"hew to the line.\" The \"hew line\" is a line marked along the length of a log indicating where to chop in order to shape a beam. \"Hewing to the line,\" literally, is cutting along the mark-adhering to it-until the side of the log is squared."
+    "origin": "\"Saponaceous\" is a New Latin borrowing by scientists that is based on \"sapo,\" the Latin word for \"soap.\" It describes natural substances, like aloe gel or some plant roots, used in making soap or having the properties of soap. It also describes things that feel or appear soapy-for example, some shales and clays, mica, and certain chemical preparations. In the 19th century, \"saponaceous\" began to be used for people having a slippery, evasive, or elusive character. One famous example is the elocutionist Bishop Wilberforce mentioned in our second example sentence, whom British politician Benjamin Disraeli described as \"unctuous, oleaginous, saponaceous.\" In The Devil's Dictionary, author Ambrose Bierce uses Disraeli's quote to illustrate the word \"oleaginous,\" noting that \"the good prelate was ever afterward known as Soapy Sam.\""
   }
 }

@@ -1,85 +1,80 @@
 {
   "artist": {
-    "id": "pedro-figari",
-    "name": "Pedro Figari",
-    "dates": "Jun 29, 1861 - Jul 24, 1938",
-    "mainImg": "img/art/artists/pedro-figari.jpg",
+    "id": "albert-bierstadt",
+    "name": "Albert Bierstadt",
+    "dates": "Jan 7, 1830 - Feb 18, 1902",
+    "mainImg": "img/art/artists/albert-bierstadt.jpg",
     "artworkImgs": [
       {
-        "name": "Off for the Honeymoon",
-        "path": "img/art/artworks/pedro-figari-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/off-for-the-honeymoon-pedro-figari/ggEc2-9TPNSGVA"
+        "name": "The Rocky Mountains, Lander's Peak",
+        "path": "img/art/artworks/albert-bierstadt-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-rocky-mountains-lander-s-peak-albert-bierstadt/2gHyeS2wcvUJeA"
       },
       {
-        "name": "Dancing People: (Candombe) (Personas bailando: [Candombe])",
-        "path": "img/art/artworks/pedro-figari-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/dancing-people-candombe-personas-bailando-candombe-pedro-figari/igE_0O67TB6aiQ"
+        "name": "A Storm in the Rocky Mountains, Mt. Rosalie",
+        "path": "img/art/artworks/albert-bierstadt-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-storm-in-the-rocky-mountains-mt-rosalie-albert-bierstadt/rQFn_yMzurNDsQ"
       },
       {
-        "name": "El Patio",
-        "path": "img/art/artworks/pedro-figari-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/el-patio/QwGQn6G7s4mwQA"
+        "name": "Sunrise on the Matterhorn",
+        "path": "img/art/artworks/albert-bierstadt-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/sunrise-on-the-matterhorn-albert-bierstadt/iAFcqTJHhVQTjg"
       },
       {
-        "name": "Pericón",
-        "path": "img/art/artworks/pedro-figari-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/pericón/rQFnGHKuCOfr9Q"
+        "name": "Looking Down Yosemite Valley, California",
+        "path": "img/art/artworks/albert-bierstadt-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/looking-down-yosemite-valley-california-albert-bierstadt/HQFWCe3luvgeHA"
       },
       {
-        "name": "Pericon at the Estate",
-        "path": "img/art/artworks/pedro-figari-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/pericon-at-the-estate-pedro-figari/lwF3hPBf028Yyg"
+        "name": "Indians Spear Fishing",
+        "path": "img/art/artworks/albert-bierstadt-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/indians-spear-fishing-albert-bierstadt/fwHhNH35l7LbpQ"
       },
       {
-        "name": "Tertulia",
-        "path": "img/art/artworks/pedro-figari-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/tertulia/3gF1wkpUs1kcwA"
+        "name": "The Landing of Columbus",
+        "path": "img/art/artworks/albert-bierstadt-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-landing-of-columbus-albert-bierstadt/LQGTs7-sgRQuuw"
       }
     ],
     "summary": [
-      "Pedro Figari was a Uruguayan painter, lawyer, writer, and politician. Although he did not begin the practice until his later years, he is best known as an early modernist painter who emphasized capturing the everyday aspects of life in his work. In most of his pieces, he attempts to capture the essence of his home by painting local customs that he had observed in his childhood.",
-      "Figari painted primarily from memory, a technique that gives his work a far more personal feeling. With his unique style, which involved painting without the intention to create an illusion, he, along with other prominent Latin-American artists such as Diego Rivera and Tarsila do Amaral, sparked a revolution of identity in the art world of Latin America."
+      "Albert Bierstadt was a German-American painter best known for his lavish, sweeping landscapes of the American West. He joined several journeys of the Westward Expansion to paint the scenes. He was not the first artist to record the sites, but he was the foremost painter of them for the remainder of the 19th century.",
+      "Bierstadt was born in Prussia, but his family moved to the United States when he was 1. He returned to study painting for several years in Düsseldorf. He became part of the second generation of the Hudson River School in New York, an informal group of like-minded painters who started painting along the Hudson River. Their style was based on carefully detailed paintings with romantic, almost glowing lighting, sometimes called luminism. Bierstadt was an important interpreter of the western landscape, and he is also grouped with the Rocky Mountain School."
     ],
     "quote": null,
-    "movements": [
-      "Impressionism",
-      "Modern art",
-      "Post-Impressionism",
-      "American Impressionism",
-      "Primitivism"
-    ],
-    "mediums": ["Oil paint", "Cardboard"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Pedro_Figari",
-    "urlGoogle": "https://artsandculture.google.com/entity/pedro-figari/m02wcw36"
+    "movements": ["Hudson River School", "Luminism", "Romanticism"],
+    "mediums": ["Oil paint", "Drawing", "Graphite", "Leather", "Cardboard", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Albert_Bierstadt",
+    "urlGoogle": "https://artsandculture.google.com/entity/albert-bierstadt/m01q8l6"
   },
   "event": {
-    "id": "battle-of-gembloux",
-    "name": "Battle of Gembloux",
+    "id": "battle-of-palo-alto",
+    "name": "Battle of Palo Alto",
     "dates": null,
-    "mainImg": "img/events/battle-of-gembloux.jpg",
+    "mainImg": "img/events/battle-of-palo-alto.jpg",
     "summary": [
-      "The Battle of Gembloux took place at Gembloux, near Namur, Low Countries, between the Spanish forces led by Don John of Austria, Governor-General of the Spanish Netherlands, and a rebel army composed of Dutch, Flemish, English, Scottish, German, French and Walloon soldiers under Antoine de Goignies, during the Eighty Years' War and the Anglo-Spanish War. On 31 January 1578 the Spanish cavalry commanded by John's nephew, Don Alexander Farnese, Prince of Parma, after pushing back the Netherlandish cavalry, attacked the Netherlandish army, causing an enormous panic amongst the rebel troops. The result was a crushing victory for the Spanish forces. The battle hastened the disintegration of the unity of the rebel provinces, and meant the end of the Union of Brussels."
+      "The Battle of Palo Alto was the first major battle of the Mexican–American War and was fought on May 8, 1846, on disputed ground five miles from the modern-day city of Brownsville, Texas. A force of some 3,700 Mexican troops – most of the Army of The North – led by General Mariano Arista engaged a force of approximately 2,300 United States troops – the Army of Occupation led by General Zachary Taylor.",
+      "On April 30, following the Thornton Affair, Mexican General Mariano Arista's troops began to cross the Rio Grande. On May 3, the troops began to besiege the American outpost at Fort Texas. Taylor marched his Army of Occupation south to relieve the siege. Arista, upon learning of his approach, diverted many of his units away from the siege to meet Taylor's force. The battle took place on May 8, three days before the formal declaration of war on Mexico by the United States. Arista ordered two cavalry charges, first against the American right flank and later against the left. Both were unsuccessful. The American victory is widely attributed to superior artillery, while the U.S. \"light\" artillery was much more mobile and accurate than that of the Mexican forces."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Gembloux_%281578%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-gembloux/m08z980"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Palo_Alto",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-palo-alto/m01gpz2"
   },
   "funFacts": [
     {
-      "id": "405",
-      "fact": "The East Antarctic Ice Sheet is as thick as the Alps Mountains are high.",
-      "category": ["Geography"]
+      "id": "422",
+      "fact": "Apples, peaches and raspberries are all members of the rose family.",
+      "category": ["Food", "Plants"]
     },
     {
-      "id": "713",
-      "fact": "An egg that is fresh will sink in water, but a stale one won't.",
-      "category": ["Make-it-Easies"]
+      "id": "721",
+      "fact": "The pomegranate is one of the oldest fruits known to man.",
+      "category": ["Food"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554024",
-      "fact": "Wax-modeling pioneer Madame Tussaud was nearly executed \u0003by guillotine during the French Revolution."
+      "id": "553841",
+      "fact": "When swallowed by toads, bombardier beetles project hot, noxious chemicals from their anuses, which sometimes forces the predators to puke them back up."
     }
   ],
   "idiom": {
@@ -88,52 +83,49 @@
     "definition": "A quiet person may be very profound, as in *Susie rarely says much, but still waters run deep.* The physical observation in this term dates from ancient times, but it has been used figuratively since about 1400. Anthony Trollope amplified it in *He Knew He Was Right* (1869): \"That's what I call still water. She runs deep enough.... So quiet, but so---clever.\""
   },
   "person": {
-    "id": "habib-bourguiba",
-    "name": "Habib Bourguiba",
-    "dates": "Aug 3, 1903 - Apr 6, 2000",
-    "mainImg": "img/people/habib-bourguiba.jpg",
+    "id": "ferhat-abbas",
+    "name": "Ferhat Abbas",
+    "dates": "Aug 24, 1899 - Dec 24, 1985",
+    "mainImg": "img/people/ferhat-abbas.jpg",
     "summary": [
-      "Habib Bourguiba was a Tunisian lawyer, nationalist leader and statesman who served as the country's leader from independence in 1956-1987. He first served as the second Prime Minister of the Kingdom of Tunisia before proclaiming the Republic of Tunisia in 1957 and thus becoming the first President of Tunisia. Prior to that, he played a major role in obtaining independence from France, ending the 75 year-old protectorate and earning the title of \"Supreme Combatant\".",
-      "Habib Ben Ali Bourguiba was born in Monastir into a modest family. He then moved to Tunis in 1907 in order to pursue his studies in Sadiki College then in Lycée Carnot, before obtaining his baccalaureate in 1924. In 1927, he graduated from the University of Paris and worked as a lawyer, after his return to Tunis, in the late-1920s. Bourguiba showed interest in fighting the protectorate from a young age. However, he only joined the national movement in the early-1930s, when he became a member of the Destour party and wrote articles denouncing the regime and the inequality. Bourguiba did not agree with the party's elders whose methods were outdated."
+      "Ferhat Abbas was an Algerian politician who acted in a provisional capacity as the then yet-to-become independent country's President from 1958 to 1961, as well as the first President of the National Assembly and the first acting President after independence. His political views evolved from pro-French collaboration to those of a revolutionary nationalist, over a period of approximately twenty years."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Habib_Bourguiba",
-    "urlGoogle": "https://artsandculture.google.com/entity/habib-bourguiba/m022rws"
+    "urlWiki": "https://en.wikipedia.org/wiki/Ferhat_Abbas",
+    "urlGoogle": "https://artsandculture.google.com/entity/ferhat-abbas/m02ym8s"
   },
   "place": {
-    "id": "bayonne",
-    "name": "Bayonne",
-    "mainImg": "img/places/bayonne.jpg",
+    "id": "ireland",
+    "name": "Ireland",
+    "mainImg": "img/places/ireland.jpg",
     "summary": [
-      "Bayonne is a city and commune and one of the two sub-prefectures of the department of Pyrénées-Atlantiques, in the Nouvelle-Aquitaine region of southwestern France. It is located at the confluence of the Nive and Adour rivers in the northern part of the cultural region of the Basque Country. This is also the southern part of Gascony, where the Aquitaine basin joins the beginning of the Pre-Pyrenees.",
-      "Together with nearby Anglet, Biarritz, Saint-Jean-de-Luz, and several smaller communes, Bayonne forms an urban area with 288,359 inhabitants at the 2012 census; 45,855 residents lived in the city of Bayonne proper.",
-      "The site on the left bank of the Nive and the Adour was probably occupied before ancient times; a fortified enclosure was attested in the 1st century at the time when the Tarbelli occupied the territory. Archaeological studies have confirmed the presence of a Roman castrum, a stronghold in Novempopulania at the end of the 4th century, before the city was populated by the Vascones.",
-      "In 1023 Bayonne was the capital of Labourd. In the 12th century, it extended to the confluence and beyond of the Nive River. At that time the first bridge was built over the Adour."
+      "Ireland, also known as the Republic of Ireland, is a country in north-western Europe occupying 26 of 32 counties of the island of Ireland. The capital and largest city is Dublin, which is located on the eastern side of the island. Around 40% of the country's population of 4.9 million people resides in the greater Dublin area. The sovereign state shares its only land border with Northern Ireland. It is otherwise surrounded by the Atlantic Ocean, with the Celtic Sea to the south, St George's Channel to the south-east, and the Irish Sea to the east. It is a unitary, parliamentary republic. The legislature, the Oireachtas, consists of a lower house, Dáil Éireann, an upper house, Seanad Éireann, and an elected President who serves as the largely ceremonial head of state, but with some important powers and duties. The head of government is the Taoiseach, who is elected by the Dáil and appointed by the President; the Taoiseach in turn appoints other government ministers.",
+      "The state was created as the Irish Free State in 1922 as a result of the Anglo-Irish Treaty."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bayonne",
-    "urlGoogle": "https://artsandculture.google.com/entity/bayonne/m01hvk"
+    "urlWiki": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+    "urlGoogle": "https://artsandculture.google.com/entity/ireland/m03rt9"
   },
   "wiki": {
-    "id": "nigersaurus",
-    "name": "Nigersaurus",
-    "summary": "Nigersaurus (meaning \"Niger reptile\") is a genus of rebbachisaurid sauropod dinosaur that lived during the middle Cretaceous period, about 115 to 105 million years ago. It was discovered in the Elrhaz Formation in an area called Gadoufaoua, in Niger. Fossils of this dinosaur were first described in 1976, but it was only named in 1999. The genus contains a single species, N. taqueti, named after French palaeontologist Philippe Taquet, who discovered the first remains. At 9 m (30 ft) long—small for a sauropod—it weighed around 4 tonnes, comparable to a modern elephant. It had a wide muzzle filled with more than 500 teeth, which were replaced every 14 days. Unlike other tetrapods, its jaws were wider than the skull, its teeth were located far to the front, and it fed with its head close to the ground. It lived in a riparian habitat, and its diet probably consisted of soft plants, such as ferns, horsetails, and angiosperms. It is one of the most common fossil vertebrates found in the area, and shared its habitat with other dinosaurian megaherbivores, as well as large theropods and crocodylomorphs.",
-    "url": "https://en.wikipedia.org/wiki/Nigersaurus"
+    "id": "jurgen-ehlers",
+    "name": "Jürgen Ehlers",
+    "summary": "Jürgen Ehlers (1929–2008) was a German physicist who contributed to the understanding of Albert Einstein's theory of general relativity. From graduate and postgraduate work in Pascual Jordan's relativity research group at Hamburg University, he held academic posts before joining the Max Planck Institute for Astrophysics in Munich as a director. In 1995, he became the founding director of the newly created Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam, Germany. Ehlers' research focused on the foundations of general relativity as well as on the theory's applications to astrophysics. He formulated a suitable classification of exact solutions to Einstein's field equations and proved the Ehlers–Geren–Sachs theorem that justifies the application of simple, general-relativistic model universes to modern cosmology. He created a spacetime-oriented description of gravitational lensing and clarified the relationship between models formulated within the framework of general relativity and those of Newtonian gravity. He had a keen interest in the history and philosophy of physics and was an ardent popularizer of science.",
+    "url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Ehlers"
   },
   "word": {
-    "id": "anneal",
-    "word": "anneal",
-    "url": "https://www.merriam-webster.com/dictionary/anneal",
-    "partOfSpeech": "verb",
-    "pronunciation": "uh-NEEL",
-    "audioPath": "audio/words/anneal.mp3",
+    "id": "duckboard",
+    "word": "duckboard",
+    "url": "https://www.merriam-webster.com/dictionary/duckboard",
+    "partOfSpeech": "noun",
+    "pronunciation": "DUK-bord",
+    "audioPath": "audio/words/duckboard.mp3",
     "definitions": [
-      "to make (as steel or glass) less brittle by heating and then cooling",
-      "strengthen, toughen"
+      "a boardwalk or slatted flooring laid on a wet, muddy, or cold surface -- usually used in plural"
     ],
     "examples": [
-      "The glassmaker shaped the vase with quick, fluid movements and then placed it in the oven to anneal the glass."
+      "Someone had laid _duckboards_ across the marshy area of the path so that it was passable.",
+      "\"Much of the trail consists of _duckboards_ to protect fragile eco-systems and hikers should be careful not to step off them.\" -- From an advertorial in _The Australian Magazine_, October 8, 2011"
     ],
-    "origin": "If you were looking for a saying to apply to the word \"anneal,\" it might be \"everything old is new again.\" The word was originally associated with one of the oldest technologies of humankind: fire. It derives from the Old English word \"onælan,\" which was formed from the Old English root \"āl,\" meaning \"fire.\" In its earliest known uses, which date from around the year 1000, \"anneal\" meant simply \"to set on fire.\" That sense has become obsolete, however, and nowadays \"anneal\" is associated with a much more recent technological development. It has come to be used in the context of DNA research, in reference to the heating and cooling of double-stranded nucleic acid."
+    "origin": "The word \"duckboard\" was created during the early 20th century to describe the boards or slats of wood laid down to provide safe footing for the soldiers of World War I across wet or muddy ground in trenches or camps. The original duckboards didn't always work as intended though. According to one soldier, duckboards came by their name because someone walking on wet duckboards was liable to slide off them much like water slides off a duck's back. Today's duckboards appear in all kinds of places -- from marshes to the floors of saunas. The word \"duck\" itself has been part of the English language since the days of Old English, when it had the form \"dŪce.\""
   }
 }

@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "nam-june-paik",
+    "name": "Nam June Paik",
+    "dates": "Jul 20, 1932 - Jan 29, 2006",
+    "mainImg": "img/art/artists/nam-june-paik.jpg",
+    "artworkImgs": [
+      {
+        "name": "Kaldor Public Art Project 5: Moorman and Paik 1976",
+        "path": "img/art/artworks/nam-june-paik-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/kaldor-public-art-project-5-moorman-and-paik-1976-charlotte-moorman-and-nam-june-paik/_wHJsSYJo1320g"
+      },
+      {
+        "name": "Elephant Cart (detail)",
+        "path": "img/art/artworks/nam-june-paik-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/elephant-cart-detail-nam-june-paik/twFeKtCMhq-SOg"
+      },
+      {
+        "name": "Three Elements",
+        "path": "img/art/artworks/nam-june-paik-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/three-elements-nam-june-paik/fwF4NX74-AKFFg"
+      },
+      {
+        "name": "Participation TV",
+        "path": "img/art/artworks/nam-june-paik-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/participation-tv-nam-june-paik/ZQEMTqhekZ0Liw"
+      },
+      {
+        "name": "Elephant Cart",
+        "path": "img/art/artworks/nam-june-paik-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/elephant-cart-nam-june-paik/VwEZXFEfLrP71A"
+      },
+      {
+        "name": "Rainbow Stripes I",
+        "path": "img/art/artworks/nam-june-paik-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/rainbow-stripes-i-paik-namjune/2gHH9yJbUAaDpA"
+      }
+    ],
+    "summary": [
+      "Nam June Paik was a Korean American artist. He worked with a variety of media and is considered to be the founder of video art. He is credited with the first use of the term \"electronic super highway\" to describe the future of telecommunications."
+    ],
+    "quote": "“Skin has become inadequate in interfacing with reality. Technology has become the body's new membrane of existence.”",
+    "movements": ["Modern art", "Contemporary art", "Fluxus", "Performance art"],
+    "mediums": ["Metal", "Wood", "Acrylic paint", "Tin", "Sculpture", "Wire"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+    "urlGoogle": "https://artsandculture.google.com/entity/nam-june-paik/m0135lv"
+  },
+  "event": {
+    "id": "dunkirk-evacuation",
+    "name": "Dunkirk evacuation",
+    "dates": "May 27, 1940 - Jun 4, 1940",
+    "mainImg": "img/events/dunkirk-evacuation.jpg",
+    "summary": [
+      "The Dunkirk evacuation, code-named Operation Dynamo and also known as the Miracle of Dunkirk, was the evacuation of Allied soldiers during World War II from the beaches and harbour of Dunkirk, in the north of France, between 26 May and 4 June 1940. The operation commenced after large numbers of Belgian, British, and French troops were cut off and surrounded by German troops during the six-week Battle of France. In a speech to the House of Commons, British Prime Minister Winston Churchill called this \"a colossal military disaster\", saying \"the whole root and core and brain of the British Army\" had been stranded at Dunkirk and seemed about to perish or be captured. In his \"we shall fight on the beaches\" speech on 4 June, he hailed their rescue as a \"miracle of deliverance\".",
+      "After Nazi Germany invaded Poland in September 1939, France and the British Empire declared war on Germany and imposed an economic blockade. The British Expeditionary Force was sent to help defend France. After the Phoney War of October 1939 to April 1940, Germany invaded Belgium, the Netherlands, and France on 10 May 1940."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Dunkirk_evacuation",
+    "urlGoogle": "https://artsandculture.google.com/entity/dunkirk-evacuation/m01lmvf"
+  },
+  "funFacts": [
+    {
+      "id": "990",
+      "fact": "Chicago is named after smelly garlic that once grew in the area.",
+      "category": ["Plants", "Geography", "History"]
+    },
+    {
+      "id": "406",
+      "fact": "The deepest place in the ocean is about seven miles deep.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554072",
+      "fact": "The smell of fresh cut grass comes from the chemicals plants release when in distress."
+    }
+  ],
+  "person": {
+    "id": "james-wilkinson",
+    "name": "James Wilkinson",
+    "dates": "Mar 24, 1757 - Dec 28, 1825",
+    "mainImg": "img/people/james-wilkinson.jpg",
+    "summary": [
+      "James Wilkinson was an American soldier and statesman, who was associated with several scandals and controversies.",
+      "He served in the Continental Army during the American Revolutionary War, but he was twice compelled to resign. He was twice the Senior Officer of the U.S. Army, appointed to be the first Governor of the Louisiana Territory in 1805, and commanded two unsuccessful campaigns in the St. Lawrence River theater during the War of 1812. He died while posted as a diplomat in Mexico City.",
+      "In 1854, following extensive archival research in the Spanish archives in Madrid, Louisiana historian Charles Gayarré exposed Wilkinson as having been a highly paid spy in the service of the Spanish Empire. In the years since Gayarré's research became public, Wilkinson has been savagely condemned by American historians and politicians. According to President Theodore Roosevelt, \"[I]n all our history, there is no more despicable character.\" However, he has been defended, especially in breaking up the Burr conspiracy."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/James_Wilkinson",
+    "urlGoogle": "https://artsandculture.google.com/entity/james-wilkinson/m023j57"
+  },
+  "place": {
+    "id": "solomon-islands",
+    "name": "Solomon Islands",
+    "mainImg": "img/places/solomon-islands.jpg",
+    "summary": [
+      "Solomon Islands is a sovereign state consisting of six major islands and over 900 smaller islands in Oceania lying to the east of Papua New Guinea and northwest of Vanuatu and covering a land area of 28,400 square kilometres.The country has a population of 652,858 and its capital, Honiara, is located on the island of Guadalcanal. The country takes its name from the Solomon Islands archipelago, which is a collection of Melanesian islands that also includes the North Solomon Islands, but excludes outlying islands, such as Rennell and Bellona, and the Santa Cruz Islands.",
+      "In 1568, the Spanish navigator Álvaro de Mendaña was the first European to visit them, naming them the Islas Salomón. Britain defined its area of interest in the Solomon Islands archipelago in June 1893, when Captain Gibson R.N., of HMS Curacoa, declared the southern Solomon Islands a British protectorate. During World War II, the Solomon Islands campaign saw fierce fighting between the United States, Commonwealth forces and the Empire of Japan, such as in the Battle of Guadalcanal."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Solomon_Islands",
+    "urlGoogle": "https://artsandculture.google.com/entity/solomon-islands/m01n8qg"
+  },
+  "wiki": {
+    "id": "single-transferable-vote",
+    "name": "Single Transferable Vote",
+    "summary": "The Single Transferable Vote (STV) is a preferential voting system designed to minimise wasted votes and provide proportional representation in multi-candidate elections while ensuring that votes are explicitly for candidates rather than party lists. STV voting systems achieve this by initially allocating an individual's vote to their most preferred candidate and then subsequently transferring unneeded or unused votes after candidates are either elected or eliminated according to the voter's stated preferences. STV is promoted as a proportional representation method in multi-party multi-seat elections. In Australia, it is known as the Hare-Clark Proportional method, while the same system with parties able to indicate preferences is called simply STV. When STV methods are applied to single-seat elections, they simplify to instant-runoff voting and have different proportionality implications for a similar ballot due to the existence of only one winner.",
+    "url": "https://en.wikipedia.org/wiki/Single_Transferable_Vote"
+  },
+  "word": {
+    "id": "ferrule",
+    "word": "ferrule",
+    "url": "https://www.merriam-webster.com/dictionary/ferrule",
+    "partOfSpeech": "noun",
+    "pronunciation": "FAIR-ul",
+    "audioPath": "audio/words/ferrule.mp3",
+    "definitions": [
+      "a ring or cap usually of metal put around a slender shaft (as a cane or a tool handle) to strengthen it or prevent splitting",
+      "a usually metal sleeve used especially for joining or binding one part to another (as pipe sections or the bristles and handle of a brush)"
+    ],
+    "examples": [
+      "\"A band of metal called a _ferrule_ is glued onto the end of the pencil where a recess has been cut, while at the same time a plunger presses an eraser plug into the ferrule. When the glue dries, everything is bliss.\" - From an article by Steve Ritter in _Chemical & Engineering News_, December 16, 2002",
+      "\"Making a brush is as simple as knotting and gluing bristles to the handle, and holding them in place by slipping a tight metal _ferrule_ over the bond between bristle and handle.\" - From a post at swatchgirl.com on May 15, 2013"
+    ],
+    "origin": "\"Ferrule\" is a word for a simple metal band or cap of great versatility. The ferrule is ubiquitous. It is the cap at the end of a cane or crutch, a chair or table leg; it is the point or knob at the hub of an umbrella; it fits together tubes and pipes and binds paintbrush handles to bristles and pencils to erasers. In Middle English this universal thingamajig was called a \"verrel.\" That word commonly referred to the strengthening bands or rings of iron used to prevent the splitting or wear of the wooden shafts of implements. The name evolved from Middle French \"virelle\" and Old French \"virol\" and ultimately from Latin \"viriola,\" meaning \"small bracelet.\" The \"f\" spelling of today's \"ferrule\" was influenced by \"ferrum,\" the Latin word for \"iron.\""
+  }
+}

@@ -1,134 +1,139 @@
 {
   "artist": {
-    "id": "achille-deveria",
-    "name": "Achille Devéria",
-    "dates": "Feb 6, 1800 - Dec 23, 1857",
-    "mainImg": "img/art/artists/achille-deveria.jpg",
+    "id": "hans-holbein-the-younger",
+    "name": "Hans Holbein the Younger",
+    "dates": "1497 - 1543",
+    "mainImg": "img/art/artists/hans-holbein-the-younger.jpg",
     "artworkImgs": [
       {
-        "name": "L'Inquietude",
-        "path": "img/art/artworks/achille-deveria-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/l-inquietude-achille-deveria/IwFBXXZspJjCdQ"
+        "name": "Jane Seymour, Queen of England",
+        "path": "img/art/artworks/hans-holbein-the-younger-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/jane-seymour-queen-of-england-hans-holbein-the-younger/egE1bExAbnBDgg"
       },
       {
-        "name": "Madame Benoist",
-        "path": "img/art/artworks/achille-deveria-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/madame-benoist/ngEUTkpFgcVv5g"
+        "name": "The Ambassadors",
+        "path": "img/art/artworks/hans-holbein-the-younger-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-ambassadors-hans-holbein-the-younger/bQEWbLB26MG1LA"
       },
       {
-        "name": "[Portrait of a Gentleman]",
-        "path": "img/art/artworks/achille-deveria-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-gentleman/GQF1rIMNyyVRow"
+        "name": "Sir Thomas More",
+        "path": "img/art/artworks/hans-holbein-the-younger-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/sir-thomas-more-hans-holbein/WQEnBYMfBeoSdg"
       },
       {
-        "name": "Le Café",
-        "path": "img/art/artworks/achille-deveria-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/le-café-achille-devéria/LwFwEIqaWjppiw"
+        "name": "Portrait of Henry VIII of England",
+        "path": "img/art/artworks/hans-holbein-the-younger-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-henry-viii-of-england-hans-holbein-the-younger/bwFsEOEPkei3Lw"
       },
       {
-        "name": "Lady with a Parasol",
-        "path": "img/art/artworks/achille-deveria-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/lady-with-a-parasol-achille-jacques-jean-marie-devéria/cgHEqvxLhoLlag"
+        "name": "A Lady with a Squirrel and a Starling (Anne Lovell?)",
+        "path": "img/art/artworks/hans-holbein-the-younger-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-lady-with-a-squirrel-and-a-starling-anne-lovell-hans-holbein-the-younger/6wHKJZAnEKEGiA"
       },
       {
-        "name": "Madame Marie Benoist née Devéria",
-        "path": "img/art/artworks/achille-deveria-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/madame-marie-benoist-née-devéria/hQHcSbo748Rvxw"
+        "name": "Der Ritter",
+        "path": "img/art/artworks/hans-holbein-the-younger-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/der-ritter-hans-holbein-the-younger/4wF0CV8MAdEjBw"
       }
     ],
     "summary": [
-      "Achille Jacques-Jean-Marie Devéria was a French painter and lithographer known for his portraits of famous writers and artists. His younger brother was the Romantic painter Eugène Devéria, and two of his six children were Théodule Devéria and Gabriel Devéria."
+      "Hans Holbein the Younger was a German painter and printmaker who worked in a Northern Renaissance style, and is considered one of the greatest portraitists of the 16th century. He also produced religious art, satire, and Reformation propaganda, and he made a significant contribution to the history of book design. He is called \"the Younger\" to distinguish him from his father Hans Holbein the Elder, an accomplished painter of the Late Gothic school.",
+      "Holbein was born in Augsburg, but he worked mainly in Basel as a young artist. At first, he painted murals and religious works, designed stained glass windows, and printed books. He also painted an occasional portrait, making his international mark with portraits of humanist Desiderius Erasmus of Rotterdam. When the Reformation reached Basel, Holbein worked for reformist clients while continuing to serve traditional religious patrons. His Late Gothic style was enriched by artistic trends in Italy, France, and the Netherlands, as well as by Renaissance humanism. The result was a combined aesthetic uniquely his own.",
+      "Holbein travelled to England in 1526 in search of work, with a recommendation from Erasmus."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Drawing", "Ink", "Pencil", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Achille_Dev%C3%A9ria",
-    "urlGoogle": "https://artsandculture.google.com/entity/achille-devéria/m053ms1"
+    "movements": [
+      "Northern Renaissance",
+      "Renaissance",
+      "German Renaissance",
+      "Gothic art",
+      "French Renaissance"
+    ],
+    "mediums": ["Oil paint", "Wood", "Ink", "Gold", "Drawing", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+    "urlGoogle": "https://artsandculture.google.com/entity/hans-holbein-the-younger/m0cy9m"
   },
   "event": {
-    "id": "battle-of-kursk",
-    "name": "Battle of Kursk",
-    "dates": "Jul 5, 1943 - Aug 23, 1943",
-    "mainImg": "img/events/battle-of-kursk.jpg",
+    "id": "siege-of-hulst",
+    "name": "Siege of Hulst",
+    "dates": "Oct 7, 1645 - Nov 4, 1645",
+    "mainImg": "img/events/siege-of-hulst.jpg",
     "summary": [
-      "The Battle of Kursk was a Second World War engagement between German and Soviet forces on the Eastern Front near Kursk in the Soviet Union, during July and August 1943. The battle began with the launch of the German offensive Operation Citadel, on 5 July, which had the objective of pinching off the Kursk salient with attacks on the base of the salient from north and south simultaneously. After the German offensive stalled on the northern side of the salient, on 12 July the Soviets commenced their Kursk Strategic Offensive Operation with the launch of Operation Kutuzov against the rear of the German forces in the northern side. On the southern side, the Soviets also launched powerful counterattacks the same day, one of which led to a large armoured clash, the Battle of Prokhorovka. On 3 August, the Soviets began the second phase of the Kursk Strategic Offensive Operation with the launch of Operation Polkovodets Rumyantsev against the German forces in the southern side of the Kursk salient.",
-      "The battle was the final strategic offensive that the Germans were able to launch on the Eastern Front."
+      "The Siege of Hulst (1645) was the last major siege of the Eighty Years' War. The heavily fortified town of Hulst was conquered by Dutch troops commanded by Frederick Henry after only 28 days. The Spanish were informed of the siege only two days before it started. The Spanish army compromised 2,500 infantrymen and 250 cavalry. The Dutch attacked with a force of 12,500 infantry, 2,500 cavalry and 20 pieces of artillery."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Kursk",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-kursk/m081xx"
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Hulst_%281645%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-hulst/m0262q3n"
   },
   "funFacts": [
     {
-      "id": "1017",
-      "fact": "The phrase, “You're a real peach“ originated from the tradition of giving peaches to loved ones.",
-      "category": ["Plants", "Definitions", "Hodgepodge", "Firsts"]
+      "id": "66",
+      "fact": "Americans, on average, eat 18 acres of pizza a day.",
+      "category": ["Habits"]
     },
-    {
-      "id": "2",
-      "fact": "Animals that lay eggs don't have belly buttons.",
-      "category": ["Animals"]
-    }
+    { "id": "50", "fact": "Mosquitoes have 47 teeth.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
-      "id": "522175",
-      "fact": "In a 2004 episode of Sesame Street, Cookie Monster revealed that before he started eating cookies his name was Sid."
+      "id": "506182",
+      "fact": "Before he became president, Abraham Lincoln was wrestling champion of his county in Illinois. He fought in nearly 300 matches and lost only one."
     }
   ],
   "idiom": {
-    "id": "a-new-broom-sweeps-clean",
-    "term": "a new broom sweeps clean",
-    "definition": "A fresh leader or administration gets rid of the old and brings in New ideas and personnel. For example, *Once he takes office, you can be sure the President will replace most of the people on the staff---a new broom sweeps clean.* This term was already in John Heywood's 1546 proverb collection, was used figuratively by Shakespeare, and exists in many other languages as well."
+    "id": "warm-as-toast",
+    "term": "warm as toast",
+    "definition": "Comfortably warm, as in *It was freezing outside, but we were warm as toast in front of the fire.* Despite the British custom of serving toasted bread in a rack that rapidly cools it, this idiom originated in England, at first as *hot as toast* (c. 1430) and by the mid-1800s in its present form."
   },
   "person": {
-    "id": "alexander-farnese-duke-of-parma",
-    "name": "Alexander Farnese, Duke of Parma",
-    "dates": "Aug 27, 1545 - Dec 3, 1592",
-    "mainImg": "img/people/alexander-farnese-duke-of-parma.jpg",
+    "id": "cassius-marcellus-clay",
+    "name": "Cassius Marcellus Clay",
+    "dates": "Oct 19, 1810 - Jul 22, 1903",
+    "mainImg": "img/people/cassius-marcellus-clay.jpg",
     "summary": [
-      "Alexander Farnese was an Italian noble and condottiero who was Duke of Parma, Piacenza and Castro from 1586 to 1592, as well as Governor of the Spanish Netherlands from 1578 to 1592. Thanks to a steady influx of troops from Spain, during 1581–1587 Farnese captured more than thirty towns in the south and returned them to the control of Catholic Spain. During the French Wars of Religion he relieved Paris for the Catholics. His talents as a field commander, strategist and organizer earned him the regard of his contemporaries and military historians as the first captain of his age."
+      "Cassius Marcellus Clay, nicknamed the \"Lion of White Hall\", was a Kentucky planter, politician, and emancipationist who worked for the abolition of slavery. He freed the slaves that were handed down as his inheritance from his father. Those freed slaves were allowed to stay and were paid a wage. He was a founding member of the Republican Party in Kentucky, and was appointed by President Abraham Lincoln as the United States minister to Russia. Clay is credited with gaining Russian support for the Union during the American Civil War."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_Farnese,_Duke_of_Parma",
-    "urlGoogle": "https://artsandculture.google.com/entity/alexander-farnese-duke-of-parma/m017n4t"
+    "urlWiki": "https://en.wikipedia.org/wiki/Cassius_Marcellus_Clay_%28politician%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/cassius-marcellus-clay/m078wxg"
   },
   "place": {
-    "id": "canberra",
-    "name": "Canberra",
-    "mainImg": "img/places/canberra.jpg",
+    "id": "kuala-lumpur",
+    "name": "Kuala Lumpur",
+    "mainImg": "img/places/kuala-lumpur.jpg",
     "summary": [
-      "Canberra",
-      "is the capital city of Australia. Founded following the federation of the colonies of Australia as the seat of government for the new nation, it is Australia's largest inland city and the eighth-largest city overall. The city is located at the northern end of the Australian Capital Territory; 280 km south-west of Sydney and 660 km north-east of Melbourne.",
-      "On 1 January 1901, federation of the colonies of Australia was achieved. Section 125 of the new Australian Constitution provided that land, situated in New South Wales and at least 100 miles from Sydney, would be ceded to the new federal government. Following discussion and exploration of various areas within New South Wales, the Seat of Government Act 1908 was passed in 1908 which specified a capital in the Yass-Canberra region. The land was transferred to the Commonwealth by New South Wales in 1911, creating the Australian Capital Territory, two years prior to the capital city being founded and formally named as Canberra in 1913.",
-      "It is unusual among Australian cities, being an entirely planned city outside of any state, similar to Washington, D.C. in the United States or Brasília in Brazil."
+      "Kuala Lumpur, officially the Federal Territory of Kuala Lumpur and commonly known as KL, is the national capital and largest city in Malaysia. As the global city of Malaysia, it covers an area of 243 km² and has an estimated population of 1.73 million as of 2016. Greater Kuala Lumpur, also known as the Klang Valley, is an urban agglomeration of 7.25 million people as of 2017. It is among the fastest growing metropolitan regions in Southeast Asia, in both population and economic development.",
+      "Kuala Lumpur is the cultural, financial and economic centre of Malaysia. It is also home to the Parliament of Malaysia and the official residence of the Malaysian King, the Istana Negara. The city once held the headquarters of the executive and judicial branches of the federal government, but these were relocated to Putrajaya in early 1999. However, some sections of the political bodies still remain in Kuala Lumpur.",
+      "Kuala Lumpur is one of the three federal territories of Malaysia, enclaved within the state of Selangor, on the central west coast of Peninsular Malaysia."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Canberra",
-    "urlGoogle": "https://artsandculture.google.com/entity/canberra/m0dp90"
+    "urlWiki": "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+    "urlGoogle": "https://artsandculture.google.com/entity/kuala-lumpur/m049d1"
   },
   "quote": {
-    "id": "123",
-    "quote": "Energy and persistence conquer all things.",
-    "author": "Benjamin Franklin"
+    "id": "14",
+    "quote": "What you do speaks so loudly that I cannot hear what you say.",
+    "author": "Ralph Waldo Emerson"
   },
   "wiki": {
-    "id": "tulsa-oklahoma",
-    "name": "Tulsa, Oklahoma",
-    "summary": "Tulsa, Oklahoma, is the second-largest city in the state of Oklahoma and 47th-largest city in the United States. With an estimated population of 389,625 in 2009, it is the principal municipality of the Tulsa Metropolitan Area, a region of 929,015 residents projected to reach one million between 2010 and 2012. The city serves as the county seat of Tulsa County, the most densely populated county in Oklahoma, and extends into Osage, Rogers, and Wagoner counties. Tulsa was first settled in the 1830s by the Lachapoka Band of the Creek Native American tribe. In 1921, it was the site of the infamous Tulsa Race Riot, one of the largest and most destructive acts of racial violence in the history of the United States. For most of the 20th century, the city held the nickname \"Oil Capital of the World\" and played a major role as one of the most important hubs for the American oil industry. Tulsa, along with several other cities, claims to be the birthplace of U.S. Route 66 and is also known for its Western Swing music.",
-    "url": "https://en.wikipedia.org/wiki/Tulsa,_Oklahoma"
+    "id": "history-of-merit-badges-boy-scouts-of-america",
+    "name": "History of merit badges (Boy Scouts of America)",
+    "summary": "The history of merit badges in the Boy Scouts of America (BSA) has been tracked by categorizing them into a series of merit badge types. Merit badges have been an integral part of the Scouting program since the start of the movement in the United Kingdom in 1908. Scouting came to the United States in 1910; the BSA quickly issued an initial list of just 14 merit badges, but did not produce or award them. In 1911, the BSA manufactured the first official 57 merit badges and began awarding them. The number of badges available has been as high as 140 and, as of 2006, is 121. Merit badge types are identifiable by the cloth and manufacturing process used to make them. The classification of badges into types came about as a way for collectors to categorize and classify their collections. Merit badge collectors often collect other Scouting memorabilia as well.",
+    "url": "https://en.wikipedia.org/wiki/History_of_merit_badges_(Boy_Scouts_of_America)"
   },
   "word": {
-    "id": "ergogenic",
-    "word": "ergogenic",
-    "url": "https://www.merriam-webster.com/dictionary/ergogenic",
-    "partOfSpeech": "adjective",
-    "pronunciation": "ur-guh-JEN-ik",
-    "audioPath": "audio/words/ergogenic.mp3",
-    "definitions": ["enhancing physical performance"],
-    "examples": [
-      "\"New to this edition are chapters for rowers and a review of ergogenic aids, such as protein supplements and other products….\" (Anne Stein, _Chicago Tribune_, June 3, 2007)"
+    "id": "amalgamate",
+    "word": "amalgamate",
+    "url": "https://www.merriam-webster.com/dictionary/amalgamate",
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-MAL-guh-mayt",
+    "audioPath": "audio/words/amalgamate.mp3",
+    "definitions": [
+      "to unite in or as if in a mixture of elements; especially : to merge into a single body"
     ],
-    "origin": "No matter your profession -- be it office worker, athlete, physicist, or poet -- \"ergon,\" the Greek word for \"work,\" has generated a word for you to work into your vocabulary. There is \"ergonomics,\" which concerns efficiently and safely designing things that people use -- for example, office equipment. Then there is our featured word, \"ergogenic,\" which might crop up in a discussion about improving athletic performance. The physicist's mind is likely to think in \"ergs,\" or centimeter-gram-second units of work. And for those of the literary, or even agricultural, bent, there is \"georgic,\" which combines \"ergon\" with Greek \"geō-,\" meaning \"earth,\" and refers to a poem dealing with agriculture or to the activity of agriculture itself. The most common derivative, however, is \"energy,\" which adds Greek \"en,\" meaning \"in,\" to \"ergon.\""
+    "examples": [
+      "On her latest album, the artist has _amalgamated_ several different styles of music.",
+      "\"Sure enough, in 1999, Congress dutifully went along with Weill's push for repeal, and Wall Street promptly rushed to _amalgamate_ more Citigroups, thus creating the 'too-big-to-fail' system that-only eight years later-did indeed fail.\" - From an article by Jim Hightower in the _Illinois Times_ (Springfield, Illinois), August 9, 2012"
+    ],
+    "origin": "The noun \"amalgam\" derives by way of Middle French from Medieval Latin \"amalgama.\" It was first used in the 15th century with the meaning \"a mixture of mercury and another metal.\" (Today, you are likely to encounter this sense in the field of dentistry; amalgams can be used for filling holes in teeth.) Over time, use of \"amalgam\" broadened to include any mixture of elements.and by the 18th century the word was also being applied figuratively, as in \"an amalgam of citizens.\" The verb \"amalgamate\" has been in use since at least 1617. It too can be used either technically, implying the creation of an alloy of mercury, or more generally for the formation of any compound or combined entity."
   }
 }

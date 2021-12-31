@@ -1,132 +1,131 @@
 {
   "artist": {
-    "id": "charles-willson-peale",
-    "name": "Charles Willson Peale",
-    "dates": "Apr 15, 1741 - Feb 22, 1827",
-    "mainImg": "img/art/artists/charles-willson-peale.jpg",
+    "id": "anne-vallayer-coster",
+    "name": "Anne Vallayer-Coster",
+    "dates": "Dec 21, 1744 - Feb 28, 1818",
+    "mainImg": "img/art/artists/anne-vallayer-coster.jpg",
     "artworkImgs": [
       {
-        "name": "Charles Willson Peale Self-Portrait",
-        "path": "img/art/artworks/charles-willson-peale-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/charles-willson-peale-self-portrait-charles-willson-peale/LgHq2XQEiGi7RA"
+        "name": "Vase of Flowers and Conch Shell",
+        "path": "img/art/artworks/anne-vallayer-coster-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/vase-of-flowers-and-conch-shell-anne-vallayer-coster/7gFyJbSoL5c2YA"
       },
       {
-        "name": "HENRY KNOX",
-        "path": "img/art/artworks/charles-willson-peale-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/henry-knox-charles-willson-peale-from-life/xwH-0y12CGNAxA"
+        "name": "Flowers in a Vase and Two Plums",
+        "path": "img/art/artworks/anne-vallayer-coster-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/flowers-in-a-vase-and-two-plums-manufacture-nationale-des-gobelins-anne-vallayer-coster-deyrolle/5AH7AzAHPvUnwQ"
       },
       {
-        "name": "General Henry Knox",
-        "path": "img/art/artworks/charles-willson-peale-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/general-henry-knox-charles-willson-peale/5AHwS2NCjfeIqQ"
+        "name": "Still Life with Mackerel",
+        "path": "img/art/artworks/anne-vallayer-coster-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-mackerel-anne-vallayer-coster/kwEGDKGJxHJdjA"
       },
       {
-        "name": "Portrait of Thomas Jefferson",
-        "path": "img/art/artworks/charles-willson-peale-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-thomas-jefferson-charles-willson-peale-1741–1827/LAGpBhVQCQaBXA"
+        "name": "Snuffbox",
+        "path": "img/art/artworks/anne-vallayer-coster-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/snuffbox-claude-de-villers-joseph-vallayer/ggH7l-u_vRIHSw"
       },
       {
-        "name": "ALEXANDER HAMILTON",
-        "path": "img/art/artworks/charles-willson-peale-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/alexander-hamilton-by-charles-willson-peale-from-life/_gFWyYrSUuUVOA"
+        "name": "Anne Vallayer-Coster",
+        "path": "img/art/artworks/anne-vallayer-coster-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/anne-vallayer-coster-charles-francois-le-tellier-after-anne-vallayer-coster/1gH3t1hyLhCS_g"
       },
       {
-        "name": "Self-Portrait with Angelica and Portrait of Rachel",
-        "path": "img/art/artworks/charles-willson-peale-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-with-angelica-and-portrait-of-rachel-charles-willson-peale/ggGsowUqXVzGUQ"
+        "name": "Two Roses",
+        "path": "img/art/artworks/anne-vallayer-coster-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/two-roses-anne-vallayer-coster/EAGzUi_DX6Rp_g"
       }
     ],
     "summary": [
-      "Charles Willson Peale was an American painter, soldier, scientist, inventor, politician and naturalist. He is best remembered for his portrait paintings of leading figures of the American Revolution, and for establishing one of the first museums in the United States."
+      "Anne Vallayer-Coster was an 18th-century French painter best known for still lifes. She achieved fame and recognition very early in her career, being admitted to the Académie Royale de Peinture et de Sculpture in 1770, at the age of twenty-six.",
+      "Despite the low status that still life painting had at this time, Vallayer-Coster’s highly developed skills, especially in the depiction of flowers, soon generated a great deal of attention from collectors and other artists. Her “precocious talent and the rave reviews” earned her the attention of the court, where Marie Antoinette took a particular interest in Vallayer-Coster's paintings.",
+      "Her life was determinedly private, dignified and hard-working. She survived the bloodshed of the Reign of Terror, but the fall of the French monarchy, who were her primary patrons, caused her reputation to decline.",
+      "In addition to still lifes, she painted portraits and genre paintings, but because of the restrictions placed on women at the time her success at figure painting was limited."
     ],
     "quote": null,
-    "movements": ["Neoclassicism", "Romanticism"],
-    "mediums": ["Oil paint", "Watercolor painting", "Bone", "Ivory", "Engraving", "Etching"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Charles_Willson_Peale",
-    "urlGoogle": "https://artsandculture.google.com/entity/charles-willson-peale/m01xxvg"
+    "movements": [],
+    "mediums": ["Vitreous enamel", "Gold", "Oil paint", "Metal", "Bone", "Nacre"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Anne_Vallayer-Coster",
+    "urlGoogle": "https://artsandculture.google.com/entity/anne-vallayer-coster/m047q8r_"
   },
   "event": {
-    "id": "yalta-conference",
-    "name": "Yalta Conference",
-    "dates": "Feb 4, 1945 - Feb 11, 1945",
-    "mainImg": "img/events/yalta-conference.jpg",
+    "id": "indo-pakistani-war-of-1971",
+    "name": "Indo-Pakistani War of 1971",
+    "dates": "Dec 3, 1971 - Dec 16, 1971",
+    "mainImg": "img/events/indo-pakistani-war-of-1971.jpg",
     "summary": [
-      "The Yalta Conference, also known as the Crimea Conference and code-named the Argonaut Conference, held February 4–11, 1945, was the World War II meeting of the heads of government of the United States, the United Kingdom, and the Soviet Union to discuss the postwar reorganization of Germany and Europe. The three states were represented by President Franklin D. Roosevelt, Prime Minister Winston Churchill, and Premier Joseph Stalin, respectively. The conference was held near Yalta in Crimea, Soviet Union, within the Livadia, Yusupov, and Vorontsov Palaces.",
-      "The aim of the conference was to shape a post-war peace that represented not just a collective security order but a plan to give self-determination to the liberated peoples of post-Nazi Europe. The meeting was intended mainly to discuss the re-establishment of the nations of war-torn Europe. However, within a few short years, with the Cold War dividing the continent, Yalta became a subject of intense controversy.",
-      "Yalta was the second of three major wartime conferences among the Big Three. It was preceded by the Tehran Conference in November 1943, and was followed by the Potsdam Conference in July 1945."
+      "The Indo-Pakistani War of 1971 was a military confrontation between India and Pakistan that occurred during the liberation war in East Pakistan from 3 December 1971 to the fall of Dacca on 16 December 1971. The war began with preemptive aerial strikes on 11 Indian air stations, which led to the commencement of hostilities with Pakistan and Indian entry into the war of independence in East Pakistan on the side of Bengali nationalist forces. Lasting just 13 days, it is one of the shortest wars in history.",
+      "During the war, Indian and Pakistani militaries simultaneously clashed on the eastern and western fronts; the war ended after the Eastern Command of the Pakistan military signed the Instrument of Surrender on 16 December 1971 in Dhaka, marking the formation of East Pakistan as the new nation of Bangladesh. Officially, East Pakistan had earlier called for its secession from the unity of Pakistan on 26 March 1971. Approximately 90,000 to 93,000 Pakistani servicemen were taken prisoner by the Indian Army, which included 79,676 to 81,000 uniformed personnel of the Pakistan Armed Forces, including some Bengali soldiers who had remained loyal to Pakistan."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Yalta_Conference",
-    "urlGoogle": "https://artsandculture.google.com/entity/yalta-conference/m0n1ly"
+    "urlWiki": "https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1971",
+    "urlGoogle": "https://artsandculture.google.com/entity/indo-pakistani-war-of-1971/m02cnqk"
   },
   "funFacts": [
     {
-      "id": "364",
-      "fact": "Borborygmi is the noise that your stomach makes when you are hungry.",
-      "category": ["Anatomy", "Definitions"]
+      "id": "877",
+      "fact": "People don't sneeze when they are asleep because the nerves involved in the sneeze reflex are also resting.",
+      "category": ["Anatomy"]
     },
     {
-      "id": "86",
-      "fact": "Until the 19th century, solid blocks of tea were used as money in Siberia.",
-      "category": ["History"]
+      "id": "168",
+      "fact": "One brow wrinkle is the result of 200,000 frowns.",
+      "category": ["Anatomy"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504655",
-      "fact": "Golf legend Jack Nicklaus earned his nickname, the Golden Bear, thanks to his size and blond hair. Conveniently, it was also the name of his high school mascot."
+      "id": "522211",
+      "fact": "The German version of the term “Average Joe” is Otto Normalverbraucher, which translates to “Otto normal consumer.”"
     }
   ],
   "idiom": {
-    "id": "warm-as-toast",
-    "term": "warm as toast",
-    "definition": "Comfortably warm, as in *It was freezing outside, but we were warm as toast in front of the fire.* Despite the British custom of serving toasted bread in a rack that rapidly cools it, this idiom originated in England, at first as *hot as toast* (c. 1430) and by the mid-1800s in its present form."
+    "id": "take-down-a-notch",
+    "term": "take down a notch",
+    "definition": "Also, **take down a peg.** Deflate or humble someone, as in *He's so arrogant that I wish someone would take him down a notch,* or *That defeat took them down a peg.* Both *notch* and *peg* in this idiom allude to a series, the former of indentations, the latter of knobs, used to raise or lower something. Specifically, *peg* alludes to the pegs used to lower a ship's colors. Their figurative use dates from the second half of the 1600s."
   },
   "person": {
-    "id": "amrit-kaur",
-    "name": "Amrit Kaur",
-    "dates": "Feb 2, 1889 - Feb 6, 1964",
-    "mainImg": "img/people/amrit-kaur.jpg",
+    "id": "frances-perkins",
+    "name": "Frances Perkins",
+    "dates": "Apr 10, 1880 - May 14, 1965",
+    "mainImg": "img/people/frances-perkins.jpg",
     "summary": [
-      "Rajkumari Bibiji Amrit Kaur DStJ was an Indian activist and politician. Following her long-lasting association with the Indian independence movement, she was appointed the first Health Minister of India in 1947 and remained in office until 1957. During her tenure, Kaur ushered in several healthcare reforms in India and is widely remembered for her contributions to the sector and her advocacy of women's rights. Kaur was also a member of the Indian Constituent Assembly, the body that framed the Constitution of India."
+      "Frances Perkins was an American sociologist and workers-rights advocate who served as the U.S. Secretary of Labor from 1933 to 1945, the longest serving in that position, and the first woman appointed to the U.S. Cabinet. As a loyal supporter of her friend, Franklin D. Roosevelt, she helped pull the labor movement into the New Deal coalition. She and Interior Secretary Harold L. Ickes were the only original members of the Roosevelt cabinet to remain in office for his entire presidency.",
+      "During her term as Secretary of Labor, Perkins executed many aspects of the New Deal, including the Civilian Conservation Corps, the Public Works Administration and its successor the Federal Works Agency, and the labor portion of the National Industrial Recovery Act. With the Social Security Act she established unemployment benefits, pensions for the many uncovered elderly Americans, and welfare for the poorest Americans. She pushed to reduce workplace accidents and helped craft laws against child labor. Through the Fair Labor Standards Act, she established the first minimum wage and overtime laws for American workers, and defined the standard forty-hour workweek."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Amrit_Kaur",
-    "urlGoogle": "https://artsandculture.google.com/entity/amrit-kaur/m09rdwg"
+    "quote": "“Perkins visited the convent whenever she could. “I have discovered the rule of silence is one of the most beautiful things in the world,” she wrote to a friend. “It preserves one from the temptation of the idle world, the fresh remark, the wisecrack, the angry challenge…. It is really quite remarkable what it does.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Frances_Perkins",
+    "urlGoogle": "https://artsandculture.google.com/entity/frances-perkins/m027ygl"
   },
   "place": {
-    "id": "ghent",
-    "name": "Ghent",
-    "mainImg": "img/places/ghent.jpg",
+    "id": "lodz",
+    "name": "Łódź",
+    "mainImg": "img/places/lodz.jpg",
     "summary": [
-      "Ghent is a city and a municipality in the Flemish Region of Belgium. It is the capital and largest city of the East Flanders province, and the third largest in the country, exceeded in size by Brussels and Antwerp.",
-      "The city originally started as a settlement at the confluence of the Rivers Scheldt and Leie and in the Late Middle Ages became one of the largest and richest cities of northern Europe, with some 50,000 people in 1300. It is a port and university city.",
-      "The municipality comprises the city of Ghent proper and the surrounding suburbs of Afsnee, Desteldonk, Drongen, Gentbrugge, Ledeberg, Mariakerke, Mendonk, Oostakker, Sint-Amandsberg, Sint-Denijs-Westrem, Sint-Kruis-Winkel, Wondelgem and Zwijnaarde. With 262,219 inhabitants at the beginning of 2019, Ghent is Belgium's second largest municipality by number of inhabitants. The metropolitan area, including the outer commuter zone, covers an area of 1,205 km² and has a total population of 560,522 as of 1 January 2018, which ranks it as the fourth most populous in Belgium. The current mayor of Ghent, Mathias De Clercq is from the liberal & democratic party Open VLD."
+      "Łódź, written in English as Lodz, is the third-largest city in Poland and a former industrial centre. Located in the central part of the country, it has a population of 682,679. It is the capital of Łódź Voivodeship, and is located approximately 120 kilometres south-west of Warsaw. The city's coat of arms is an example of canting, as it depicts a boat, which alludes to the city's name.",
+      "Łódź was once a small settlement that first appeared in written records in around 1332. In the early 15th century it was granted city rights, but remained a rather small and insubstantial town. It was the property of Kuyavian bishops and clergy until the end of the 18th century, when Łódź was annexed by Prussia as a result of the second partition of Poland. Following the collapse of the independent Duchy of Warsaw, the city became part of Congress Poland, a client state of the Russian Empire. It was then that Łódź experienced a rapid growth in textile manufacturing and in population due to the inflow of migrants, most notably Germans and Jews."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ghent",
-    "urlGoogle": "https://artsandculture.google.com/entity/ghent/m037n3"
+    "urlWiki": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA",
+    "urlGoogle": "https://artsandculture.google.com/entity/łódź/m0c6fz"
   },
   "wiki": {
-    "id": "gas-metal-arc-welding",
-    "name": "Gas metal arc welding",
-    "summary": "Gas metal arc welding is a semi-automatic or automatic arc welding process that utilizes a welding gun through which a continuous and consumable wire electrode and a shielding gas are fed. A constant voltage, direct current power source is most commonly used with GMAW, but constant current systems, as well as alternating current, can be used. Originally developed for welding aluminum and other non-ferrous materials in the 1940s, GMAW was soon applied to steels because it allowed for lower welding time compared to other welding processes. The cost of inert gas limited its use in steels until several years later, when the use of semi-inert gases such as carbon dioxide became common. Further developments during the 1950s and 1960s gave the process more versatility and as a result, it became a highly used industrial process. Today, GMAW is commonly used in industries such as the automobile industry, where it is preferred for its versatility and speed. Unlike welding processes that do not employ a shielding gas, such as shielded metal arc welding, it is rarely used outdoors or in other areas of air volatility.",
-    "url": "https://en.wikipedia.org/wiki/Gas_metal_arc_welding"
+    "id": "reception-history-of-jane-austen",
+    "name": "Reception history of Jane Austen",
+    "summary": "The reception history of Jane Austen follows a path from modest fame to wild popularity; her novels are both the subject of intense scholarly study and the centre of a diverse fan culture. Austen, the author of such works as Pride and Prejudice (1813) and Emma (1815), is one of the best-known and widely read novelists in the English language. During her lifetime, Austen's novels brought her little personal fame; like many women writers, she published anonymously. At the time they were published, her works were considered fashionable by members of high society but received few positive reviews. By the mid-19th century, her novels were admired by members of the literary elite, but it was not until the 1940s that Austen was widely accepted in academia as a \"great English novelist\". The second half of the 20th century saw a proliferation of scholarship exploring artistic, ideological and historical aspects of her works. As of the early 21st century, Austen fandom supports an industry of printed sequels and prequels as well as television and film adaptations, which started with the 1940 Pride and Prejudice and includes the 2004 Bollywood-style production Bride and Prejudice.",
+    "url": "https://en.wikipedia.org/wiki/Reception_history_of_Jane_Austen"
   },
   "word": {
-    "id": "gadfly",
-    "word": "gadfly",
-    "url": "https://www.merriam-webster.com/dictionary/gadfly",
-    "partOfSpeech": "noun",
-    "pronunciation": "GAD-flye",
-    "audioPath": "audio/words/gadfly.mp3",
-    "definitions": [
-      "any of various flies (as a horsefly, botfly, or warble fly) that bite or annoy livestock",
-      "a person who stimulates or annoys especially by persistent criticism"
-    ],
+    "id": "wherefore",
+    "word": "wherefore",
+    "url": "https://www.merriam-webster.com/dictionary/wherefore",
+    "partOfSpeech": "adverb",
+    "pronunciation": "WAIR-for",
+    "audioPath": "audio/words/wherefore.mp3",
+    "definitions": ["for what reason or purpose : why", "therefore"],
     "examples": [
-      "Robert, the self-appointed gadfly of the local paper, would write a scathing letter to the editor whenever he felt the news coverage had been inadequate or inaccurate."
+      "\"O Romeo, Romeo, wherefore art thou Romeo?\" (William Shakespeare, _Romeo and Juliet_)"
     ],
-    "origin": "The history of \"gadfly\" starts with \"gad,\" which now means \"chisel\" but which formerly could designate a spike, spear, or rod for goading cattle. Late in the 16th century, \"gad\" was joined with \"fly\" to designate any of several insects that aggravate livestock. Before too long, we began applying \"gadfly\" to people who annoy or provoke others. One of history's most famous gadflies was the philosopher Socrates, who was known for his constant questioning of his fellow Athenians' ethics, misconceptions, and assumptions. In his _Apology_, Plato describes Socrates' characterization of Athens as a large and sluggish horse and of Socrates himself as the fly that bites and rouses it. Many translations use \"gadfly\" in this portion of the _Apology_, and Socrates is sometimes referred to as the \"gadfly of Athens.\""
+    "origin": "In our example sentence, Juliet is not inquiring into her beloved's whereabouts. Rather she is asking why it is that Romeo must be Romeo, a member of the Montague family and, therefore, an enemy of Juliet's own family, the Capulets. Yet, wherefore does \"wherefore\" mean \"why\"? Starting in the early 13th century, a number of new words were formed by combining \"where\" with a preposition. In such words, \"where\" had the meaning of \"what\" or \"which,\" giving the English language such adverbs as \"wherein\" (\"in what\"), \"whereon\" (\"on what\"), and \"wherefore\" (\"for what\"). English speakers have largely dropped \"wherefore\" in favor of \"why,\" but the noun \"wherefore,\" meaning \"an answer or statement giving an explanation,\" continues to be used, particularly in the phrase \"the whys and wherefores.\""
   }
 }

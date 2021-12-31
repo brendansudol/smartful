@@ -1,128 +1,130 @@
 {
   "artist": {
-    "id": "alfred-sisley",
-    "name": "Alfred Sisley",
-    "dates": "Oct 30, 1839 - Jan 29, 1899",
-    "mainImg": "img/art/artists/alfred-sisley.jpg",
+    "id": "johannes-vermeer",
+    "name": "Johannes Vermeer",
+    "dates": "October 1632 - December 1675",
+    "mainImg": "img/art/artists/johannes-vermeer.jpg",
     "artworkImgs": [
       {
-        "name": "The Bridge at Villeneuve-la-Garenne",
-        "path": "img/art/artworks/alfred-sisley-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-bridge-at-villeneuve-la-garenne-alfred-sisley/6AEoMBEEGYcIRA"
+        "name": "Girl with a Pearl Earring",
+        "path": "img/art/artworks/johannes-vermeer-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/girl-with-a-pearl-earring-johannes-vermeer/3QFHLJgXCmQm2Q"
       },
       {
-        "name": "La Seine au point du jour",
-        "path": "img/art/artworks/alfred-sisley-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/la-seine-au-point-du-jour-alfred-sisley/4AGGTlD8Alx3gg"
+        "name": "The milkmaid",
+        "path": "img/art/artworks/johannes-vermeer-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-milkmaid-johannes-vermeer/9AHrwZ3Av6Zhjg"
       },
       {
-        "name": "Molesey Weir, Hampton Court",
-        "path": "img/art/artworks/alfred-sisley-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/molesey-weir-hampton-court-alfred-sisley/1AHPRPadPs05WQ"
+        "name": "The Art of Painting",
+        "path": "img/art/artworks/johannes-vermeer-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-art-of-painting-jan-vermeer/lAHeqBoLaePtEA"
       },
       {
-        "name": "June Morning in Saint-Mammès",
-        "path": "img/art/artworks/alfred-sisley-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/june-morning-in-saint-mammès-alfred-sisley/wgEU6hw2LyqX6Q"
+        "name": "View of Delft",
+        "path": "img/art/artworks/johannes-vermeer-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-delft-vermeer-johannes/CgGsQh01dnFdDQ"
       },
       {
-        "name": "Le Pont de Moret, effet d’orage",
-        "path": "img/art/artworks/alfred-sisley-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/le-pont-de-moret-effet-d’orage-alfred-sisley/hAH8DtHacv61Yw"
+        "name": "Woman Reading a Letter",
+        "path": "img/art/artworks/johannes-vermeer-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-reading-a-letter-johannes-vermeer/QQF82wPVTRfMPw"
       },
       {
-        "name": "Cows in Pasture, Louveciennes",
-        "path": "img/art/artworks/alfred-sisley-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/cows-in-pasture-louveciennes-sisley-alfred/wwFkc0aGM1-pgw"
+        "name": "Woman Holding a Balance",
+        "path": "img/art/artworks/johannes-vermeer-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-holding-a-balance-johannes-vermeer/-wHFDKu7-mhjtQ"
       }
     ],
     "summary": [
-      "Alfred Sisley was an Impressionist landscape painter who was born and spent most of his life in France, but retained British citizenship. He was the most consistent of the Impressionists in his dedication to painting landscape en plein air. He deviated into figure painting only rarely and, unlike Renoir and Pissarro, found that Impressionism fulfilled his artistic needs.",
-      "Among his important works are a series of paintings of the River Thames, mostly around Hampton Court, executed in 1874, and landscapes depicting places in or near Moret-sur-Loing. The notable paintings of the Seine and its bridges in the former suburbs of Paris are like many of his landscapes, characterized by tranquillity, in pale shades of green, pink, purple, dusty blue and cream. Over the years Sisley's power of expression and colour intensity increased."
-    ],
-    "quote": "“The animation of the canvas is one of the hardest problems of painting.”",
-    "movements": ["Impressionism", "Modern art"],
-    "mediums": ["Oil paint", "Drawing", "Graphite", "Etching", "Crayon"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Alfred_Sisley",
-    "urlGoogle": "https://artsandculture.google.com/entity/alfred-sisley/m01qpyr"
-  },
-  "event": {
-    "id": "mexican-revolution",
-    "name": "Mexican Revolution",
-    "dates": "Nov 20, 1910 - 1924",
-    "mainImg": "img/events/mexican-revolution.jpg",
-    "summary": [
-      "The Mexican Revolution was a major armed struggle, lasting roughly from 1910 to 1920, that transformed Mexican culture and government. Although recent research has focused on local and regional aspects of the revolution, it was a genuinely national revolution. Its outbreak in 1910 resulted from the failure of the 31-year-long regime of Porfirio Díaz to find a managed solution to presidential succession. This meant there was a political crisis among competing elites and the opportunity for agrarian insurrection. Wealthy landowner Francisco I. Madero challenged Díaz in the 1910 presidential election, and following the rigged results, revolted under the Plan of San Luis Potosí. Armed conflict broke out in northern Mexico and Díaz was forced out. In the Treaty of Ciudad Juárez, Díaz resigned and went into exile, new elections were to occur in the fall, and an interim presidency under Francisco León de la Barra was installed. A new election was held in 1911, bringing Madero to the presidency.",
-      "The origins of the conflict were broadly based in opposition to the Díaz regime, with the 1910 election becoming the catalyst for the outbreak of political rebellion."
+      "Johannes Vermeer, in original Dutch Jan Vermeer van Delft, was a Dutch Baroque Period painter who specialized in domestic interior scenes of middle class life. During his lifetime, he was a moderately successful provincial genre painter, recognized in Delft and The Hague. Nonetheless, he produced relatively few paintings and evidently was not wealthy, leaving his wife and children in debt at his death.",
+      "Vermeer worked slowly and with great care, and frequently used very expensive pigments. He is particularly renowned for his masterly treatment and use of light in his work.",
+      "\"Almost all his paintings,\" Hans Koningsberger wrote, \"are apparently set in two smallish rooms in his house in Delft; they show the same furniture and decorations in various arrangements and they often portray the same people, mostly women.\"",
+      "His modest celebrity gave way to obscurity after his death. He was barely mentioned in Arnold Houbraken's major source book on 17th-century Dutch painting and was thus omitted from subsequent surveys of Dutch art for nearly two centuries."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Mexican_Revolution",
-    "urlGoogle": "https://artsandculture.google.com/entity/mexican-revolution/m012gs4"
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Textile", "Photograph", "Wood", "Adhesive"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Johannes_Vermeer",
+    "urlGoogle": "https://artsandculture.google.com/entity/johannes-vermeer/m0bw2x"
+  },
+  "event": {
+    "id": "capture-of-brielle",
+    "name": "Capture of Brielle",
+    "dates": null,
+    "mainImg": "img/events/capture-of-brielle.jpg",
+    "summary": [
+      "The Capture of Brielle by the Watergeuzen, on 1 April 1572 marked a turning point in the uprising of the Low Countries against Spain in the Eighty Years' War. Militarily the success was minor as the port of Brielle was undefended, but it provided the first foothold on land for the rebels at a time when the rebellion was all but crushed, and it offered the sign for a new revolt throughout the Netherlands which led to the formation of the Dutch Republic."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Capture_of_Brielle",
+    "urlGoogle": "https://artsandculture.google.com/entity/capture-of-brielle/m0f_6n4"
   },
   "funFacts": [
     {
-      "id": "844",
-      "fact": "One lump of sugar is equivalent to three feet of sugar cane.",
-      "category": ["Plants"]
+      "id": "218",
+      "fact": "A jackrabbit can travel more than 12 feet in one hop.",
+      "category": ["Animals"]
     },
     {
-      "id": "199",
-      "fact": "The largest cheesecake ever made weighed 57,508 lbs.",
-      "category": ["Food"]
+      "id": "814",
+      "fact": "Tug-of-war was an Olympic sport in the early 1900's.",
+      "category": ["History"]
     }
   ],
-  "funFacts2": [{ "id": "506372", "fact": "Almonds and peaches are members of the same family." }],
+  "funFacts2": [{ "id": "506371", "fact": "Sea cucumbers eat with their feet." }],
   "idiom": {
-    "id": "star-chamber-proceedings",
-    "term": "star-chamber proceedings",
-    "definition": "An unfair, secret judicial action. The term alludes to an inquisitorial English court that sat without a jury and was famous for its harsh judgments and sentences. Called the Court of the Star Chamber because of the stars gilded on its ceiling, it was abolished in 1641. The name, however, has persisted to the present day."
+    "id": "vicious-circle",
+    "term": "vicious circle",
+    "definition": "A series of events in which each problem creates another and worsens the original one. For example, *The fatter I get, the unhappier I am, so I eat to cheer myself up, which makes me fatter yet---it's a vicious circle.* This expression comes from the French *circle vicieux,* which in philosophy means \"a circular proof\"---that is, the proof of one statement depends on a second statement, whose proof in turn depends on the first. One writer suggests that the English meaning of \"vicious\" helped the expression acquire its more pejorative present sense, used since 1839."
   },
   "person": {
-    "id": "dương-van-minh",
-    "name": "Dương Văn Minh",
-    "dates": "Feb 16, 1916 - Aug 6, 2001",
-    "mainImg": "img/people/dương-van-minh.jpg",
+    "id": "richard-wettstein",
+    "name": "Richard Wettstein",
+    "dates": "Jun 30, 1863 - Aug 10, 1931",
+    "mainImg": "img/people/richard-wettstein.jpg",
     "summary": [
-      "Dương Văn Minh, popularly known as Big Minh, was a South Vietnamese politician and a senior general in the Army of the Republic of Vietnam and a politician during the presidency of Ngô Đình Diệm. In 1963, he became chief of a military junta after leading a coup in which Diệm was assassinated. Minh lasted only three months before being toppled by Nguyễn Khánh, but assumed power again as the fourth and last President of South Vietnam in April 1975, two days before surrendering to North Vietnamese forces."
+      "Richard Wettstein was an Austrian botanist. His taxonomic system, the Wettstein system was one of the earliest based on phyletic principles.",
+      "Wettstein studied in Vienna, where he was a disciple of Anton Kerner von Marilaun and married his daughter Adele. He was a professor at the University of Prague from 1892, and at the University of Vienna from 1899. He newly laid out the Botanical Garden of the University of Vienna.",
+      "In 1901 he became president of the Vienna Zoological-Botanical Society, and during the same year took part in a scientific expedition to Brazil. In 1919 he was appointed vice-president of the Vienna Academy of Sciences. During his later years, he traveled with his son, Friedrich, to eastern and southern Africa.",
+      "The mycological genus Wettsteinina is named in his honor. In 1905, he was co-president of the International Botanical Congress, held in Vienna."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/D%C6%B0%C6%A1ng_V%C4%83n_Minh",
-    "urlGoogle": "https://artsandculture.google.com/entity/dương-văn-minh/m0krxf"
+    "urlWiki": "https://en.wikipedia.org/wiki/Richard_Wettstein",
+    "urlGoogle": "https://artsandculture.google.com/entity/richard-wettstein/m0fvvws"
   },
   "place": {
-    "id": "japan",
-    "name": "Japan",
-    "mainImg": "img/places/japan.jpg",
+    "id": "wiesbaden",
+    "name": "Wiesbaden",
+    "mainImg": "img/places/wiesbaden.jpg",
     "summary": [
-      "Japan is an island country in East Asia. Located in the northwest Pacific Ocean, it borders the Sea of Japan to the west, and extends from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. Japan is part of the Pacific Ring of Fire and comprises an archipelago of 6,852 islands covering 377,975 square kilometers; its five main islands, from north to south, are Hokkaido, Honshu, Shikoku, Kyushu, and Okinawa. Tokyo is the country's capital and largest city; other major cities include Osaka and Nagoya.",
-      "Japan is the 11th most populous country in the world, as well as one of the most densely populated and urbanized. About three-fourths of the country's terrain is mountainous, concentrating its population of 126.2 million on narrow coastal plains. Japan is administratively divided into 47 prefectures and traditionally divided into eight regions. The Greater Tokyo Area is the most populous metropolitan area in the world, with more than 37.4 million residents.",
-      "The islands of Japan were inhabited as early as the Upper Paleolithic period, though the first mentions of the archipelago appear in Chinese chronicles from the 1st century AD."
+      "Wiesbaden is a city in central western Germany and the capital of the federal state of Hesse. As of January 2018, it had 289,544 inhabitants, plus approximately 19,000 United States citizens. The Wiesbaden urban area is home to approx. 560,000 people.",
+      "The city, together with nearby Frankfurt am Main, Darmstadt, and Mainz, is part of the Frankfurt Rhine Main Region, a metropolitan area with a combined population of about 5.8 million people.",
+      "Wiesbaden is one of the oldest spa towns in Europe. Its name translates to \"meadow baths\", a reference to its famed hot springs. It is also internationally famous for its architecture and climate—it is also called the \"Nice of the North\" in reference to the city in France. At one time, Wiesbaden boasted 26 hot springs. As of 2008, fourteen of the springs are still flowing.",
+      "In 1970, the town hosted the tenth Hessentag Landesfest.",
+      "The city is considered the tenth richest in Germany boasting 110.3% of the national average gross domestic product in 2017. The average annual buying power per citizen is €24,783."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Japan",
-    "urlGoogle": "https://artsandculture.google.com/entity/japan/m03_3d"
+    "urlWiki": "https://en.wikipedia.org/wiki/Wiesbaden",
+    "urlGoogle": "https://artsandculture.google.com/entity/wiesbaden/m0bp_7"
   },
   "wiki": {
-    "id": "igor-stravinsky",
-    "name": "Igor Stravinsky",
-    "summary": "Igor Stravinsky was a Russian-born composer. Although he composed primitivist, neo-classical and serial works, he is best known for three compositions from his earlier, Russian period: The Firebird, Petrushka, and The Rite of Spring. These daring and innovative ballets practically reinvented the genre. Stravinsky also wrote for a wide range of ensembles in a broad spectrum of classical forms, ranging from opera and symphonies to piano miniatures and works for jazz band. Stravinsky also achieved fame as a pianist and conductor, often at the premieres of his own works. He was also a writer; with the help of Alexis Roland-Manuel, Stravinsky compiled a theoretical work entitled Poetics of Music in which he famously claimed that music was incapable of \"expressing anything but itself.\" A quintessentially cosmopolitan Russian, Stravinsky was one of the most influential composers and artists of 20th century music, both in the West and in his native land. He was named by Time magazine as one of the most influential people of the century.",
-    "url": "https://en.wikipedia.org/wiki/Igor_Stravinsky"
+    "id": "cyclol",
+    "name": "Cyclol",
+    "summary": "The cyclol was the first structural model of a folded, globular protein. It was developed by Dorothy Wrinch in the late 1930s. Although incorrect as a model for the structure of globular proteins, several elements of the cyclol model were later verified, such as the cyclol reaction itself and the hypothesis that hydrophobic interactions are chiefly responsible for protein folding. The cyclol hypothesis stimulated many scientists to research questions in protein structure and chemistry, and was a precursor of the more accurate models hypothesized for the DNA double helix and protein secondary structure. The proposal and testing of the cyclol model also provides an excellent illustration of empirical falsifiability acting as part of the scientific method.",
+    "url": "https://en.wikipedia.org/wiki/Cyclol"
   },
   "word": {
-    "id": "dovecote",
-    "word": "dovecote",
-    "url": "https://www.merriam-webster.com/dictionary/dovecote",
-    "partOfSpeech": "noun",
-    "pronunciation": "DUV-koht",
-    "audioPath": "audio/words/dovecote.mp3",
-    "definitions": [
-      "a small compartmented raised house or box for domestic pigeons",
-      "a settled or harmonious group or organization"
-    ],
+    "id": "obnubilate",
+    "word": "obnubilate",
+    "url": "https://www.merriam-webster.com/dictionary/obnubilate",
+    "partOfSpeech": "verb",
+    "pronunciation": "ahb-NOO-buh-layt",
+    "audioPath": "audio/words/obnubilate.mp3",
+    "definitions": ["becloud, obscure"],
     "examples": [
-      "\"The Sultan of Oman has also been a significant contributor, paying for the magnificent _dovecote_ made from English walnut at the end of the lime walk.\" - Steve Whysall, _Vancouver Sun_, June 26, 2014",
-      "\"A leaked anonymous letter, the so-called Trojan Horse letter, claimed there was a conservative Muslim conspiracy to infiltrate and take over as many as two dozen local schools. It caused fluttering in very many interested _dovecotes_.\" - Mary Dejevsky, _Newsweek_, June 15, 2014"
+      "The essays include a significant amount of digression and extra commentary, all of which tends to obnubilate the author's main point."
     ],
-    "origin": "When Shakespeare's Coriolanus was condemned to die by the Volscians, the doomed general proudly reminded his enemies, \"Like an eagle in a dove-cote, I Flutter'd your Volscians in Corioli.\" (Coriolanus was referring to an earlier victory in which his army had seized the city of Corioli from the Volscians.) When he introduced that eagle into the dovecote, Shakespeare also introduced a new figure of speech, but one that wasn't truly \"discovered\" by most writers until the 19th century-and then from a misquote. English novelist Edward G. Lytton reminded folks about it in 1853 when he wrote about how \"the great Roman general did 'flutter the dove-cots in Corioli.'\" Nowadays, we sometimes \"ruffle\" dovecotes or \"cause a flurry\" in them, in addition to \"fluttering\" them or \"causing a flutter\" in them."
+    "origin": "The meaning of \"obnubilate\" becomes clearer when you know that its ancestors are the Latin terms \"ob-\" (meaning \"in the way\") and \"nubes\" (\"cloud\"). It's a high-flown sounding word, which may be why it often turns up in texts by and about politicians. In fact, when the U.S. Constitution was up for ratification, 18th-century Pennsylvania statesman James Wilson used it to calm fears that the president would have too much power: \"Our first executive magistrate is not obnubilated behind the mysterious obscurity of counsellors. . . . He is the dignified, but accountable magistrate of a free and great people.\""
   }
 }

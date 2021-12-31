@@ -1,126 +1,138 @@
 {
   "artist": {
-    "id": "alexandre-cabanel",
-    "name": "Alexandre Cabanel",
-    "dates": "Sep 28, 1823 - Jan 23, 1889",
-    "mainImg": "img/art/artists/alexandre-cabanel.jpg",
+    "id": "henry-ossawa-tanner",
+    "name": "Henry Ossawa Tanner",
+    "dates": "Jun 21, 1859 - May 25, 1937",
+    "mainImg": "img/art/artists/henry-ossawa-tanner.jpg",
     "artworkImgs": [
       {
-        "name": "Echo",
-        "path": "img/art/artworks/alexandre-cabanel-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/echo-alexandre-cabanel/BAFG98tA9cmgZQ"
+        "name": "The Young Sabot Maker",
+        "path": "img/art/artworks/henry-ossawa-tanner-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-young-sabot-maker-henry-ossawa-tanner/rgFxRApkbU4eYg"
       },
       {
-        "name": "The Birth of Venus",
-        "path": "img/art/artworks/alexandre-cabanel-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-birth-of-venus-alexandre-cabanel/sAG6DpZLGZksTA"
+        "name": "Christ and His Disciples on the Sea of Galilee",
+        "path": "img/art/artworks/henry-ossawa-tanner-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-and-his-disciples-on-the-sea-of-galilee-henry-ossawa-tanner/DQH-Y6aAHjf78A"
       },
       {
-        "name": "Self Portrait",
-        "path": "img/art/artworks/alexandre-cabanel-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-alexandre-cabanel/KQGXbDOHQ2CEkw"
+        "name": "Fishermen at Sea",
+        "path": "img/art/artworks/henry-ossawa-tanner-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/fishermen-at-sea-henry-ossawa-tanner-born-pittsburgh-pa-1859-died-paris-france-1937/KAE3iZh1eQ_IeA"
       },
       {
-        "name": "Catharine Lorillard Wolfe",
-        "path": "img/art/artworks/alexandre-cabanel-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/catharine-lorillard-wolfe-alexandre-cabanel-1823-1889/OAFn8LbTBx4Baw"
+        "name": "Moroccan Scene",
+        "path": "img/art/artworks/henry-ossawa-tanner-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/moroccan-scene-henry-ossawa-tanner/ewFAHeZ8jEY_cw"
       },
       {
-        "name": "The Birth of Venus",
-        "path": "img/art/artworks/alexandre-cabanel-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-birth-of-venus/awEIYqoUcAJ6TA"
+        "name": "The Miraculous Haul of Fishes",
+        "path": "img/art/artworks/henry-ossawa-tanner-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-miraculous-haul-of-fishes-henry-ossawa-tanner/LAHsSESclImgWA"
       },
       {
-        "name": "Florentine Poet",
-        "path": "img/art/artworks/alexandre-cabanel-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/florentine-poet-alexandre-cabanel/owH_luV5PzOq4w"
+        "name": "Sand Dunes at Sunset, Atlantic City",
+        "path": "img/art/artworks/henry-ossawa-tanner-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/sand-dunes-at-sunset-atlantic-city/HQEsrBkvFakSeA"
       }
     ],
     "summary": [
-      "Alexandre Cabanel was a French painter. He painted historical, classical and religious subjects in the academic style. He was also well known as a portrait painter. According to Diccionario Enciclopedico Salvat, Cabanel is the best representative of the L'art pompier and Napoleon III's preferred painter."
+      "Henry Ossawa Tanner was an American artist and the first African-American painter to gain international acclaim. Tanner moved to Paris, France, in 1891 to study, and continued to live there after being accepted in French artistic circles. His painting entitled Daniel in the Lions' Den was accepted into the 1896 Salon, the official art exhibition of the Académie des Beaux-Arts in Paris.",
+      "After his own self-study in art as a young man, Tanner enrolled in 1879 at the Pennsylvania Academy of the Fine Arts in Philadelphia. The only black student, he became a favorite of the painter Thomas Eakins, who had recently begun teaching there. Tanner made other connections among artists, including Robert Henri. In the late 1890s he was sponsored for a trip to the Mutasarrifate of Jerusalem by Rodman Wanamaker, who was impressed by his paintings of biblical themes."
     ],
     "quote": null,
-    "movements": ["Academic art"],
-    "mediums": ["Oil paint", "Drawing", "Wood", "Chalk", "Pigment", "Engraving"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Alexandre_Cabanel",
-    "urlGoogle": "https://artsandculture.google.com/entity/alexandre-cabanel/m022g_8"
+    "movements": [
+      "Realism",
+      "Harlem Renaissance",
+      "Modern art",
+      "Impressionism",
+      "Symbolism",
+      "American Realism"
+    ],
+    "mediums": ["Oil paint", "Cardboard", "Conté", "Pencil", "Crayon", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Ossawa_Tanner",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-ossawa-tanner/m059jrs"
   },
   "event": {
-    "id": "the-holocaust",
-    "name": "The Holocaust",
-    "dates": "1941 - May 8, 1945",
-    "mainImg": "img/events/the-holocaust.jpg",
+    "id": "siege-of-steenwijk",
+    "name": "Siege of Steenwijk",
+    "dates": null,
+    "mainImg": "img/events/siege-of-steenwijk.jpg",
     "summary": [
-      "The Holocaust, also known as the Shoah, was the World War II genocide of the European Jews. Between 1941 and 1945, across German-occupied Europe, Nazi Germany and its collaborators systematically murdered some six million Jews, around two-thirds of Europe's Jewish population. The murders were carried out in pogroms and mass shootings; by a policy of extermination through work in concentration camps; and in gas chambers and gas vans in German extermination camps, chiefly Auschwitz, Bełżec, Chełmno, Majdanek, Sobibór, and Treblinka in occupied Poland.",
-      "Germany implemented the persecution in stages. Following Adolf Hitler's appointment as Chancellor on 30 January 1933, the regime built a network of concentration camps in Germany for political opponents and those deemed \"undesirable\", starting with Dachau on 22 March 1933. After the passing of the Enabling Act on 24 March, which gave Hitler plenary powers, the government began isolating Jews from civil society; this included boycotting Jewish businesses in April 1933 and enacting the Nuremberg Laws in September 1935."
+      "The Siege of Steenwijk was a siege that took place between 30 May - 5 July 1592 as part of the Eighty Years' War and the Anglo–Spanish War by a Dutch and English force under Maurice of Orange. By taking Steenwijk the Republic's army would take out one of the two main transport routes overland to the Drenthe capital of Groningen, the other lay at Coevorden. After a failed bombardment an assault was made in conjunction with the detonation of mines under important bastions and with two out of three successfully assaulted; the Spanish troops surrendered on 5 July 1592 and handed over the city to the Dutch and English army. This siege was one of the first in history to make use of pioneers as a separate military unit although they were still at the time regarded as soldiers."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/The_Holocaust",
-    "urlGoogle": "https://artsandculture.google.com/entity/the-holocaust/m03hzt"
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Steenwijk_%281592%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-steenwijk/g122gfpc2"
   },
   "funFacts": [
     {
-      "id": "935",
-      "fact": "Newborn babies cannot cry tears for at least three weeks.",
-      "category": ["Anatomy", "Science"]
+      "id": "920",
+      "fact": "Buzz Aldrin was one of the first men on the moon. His mother's maiden name was also Moon.",
+      "category": ["Firsts"]
     },
     {
-      "id": "780",
-      "fact": "The indentation between the nose and the upper lip is called the philtrum.",
-      "category": ["Anatomy", "Definitions"]
+      "id": "798",
+      "fact": "Tennessee was previously named Franklin after Benjamin Franklin.",
+      "category": ["History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504875",
-      "fact": "The first use of \"Google\" as a verb in pop culture was on Buffy the Vampire Slayer."
+      "id": "553827",
+      "fact": "According to a 2014 study, the melting properties of mozzarella make it the best cheese for topping pizza."
     }
   ],
   "idiom": {
-    "id": "like-a-drowned-rat",
-    "term": "like a drowned rat",
-    "definition": "Also, **wet as a drowned rat.** Soaking wet and utterly bedraggled, as in *When she came in out of the rain she looked like a drowned rat.* This simile appeared in Latin nearly 2,000 years ago, and in English about the year 1500."
+    "id": "like-pigs-in-clover",
+    "term": "like pigs in clover",
+    "definition": "Extremely contentedly, as in *They had a handsome pension and lived like pigs in clover.* This expression alludes to pigs being allowed to eat as much clover, a favorite food, as they wish. It appeared in the *Boston Gazette* of January 7, 1813: \"Canadians! then in droves come over, And live henceforth like pigs in clover.\" [Early 1800s]"
   },
   "person": {
-    "id": "john-gilbert-winant",
-    "name": "John Gilbert Winant",
-    "dates": "Feb 23, 1889 - Nov 3, 1947",
-    "mainImg": "img/people/john-gilbert-winant.jpg",
+    "id": "jyotirao-phule",
+    "name": "Jyotirao Phule",
+    "dates": "Apr 11, 1827 - Nov 28, 1890",
+    "mainImg": "img/people/jyotirao-phule.jpg",
     "summary": [
-      "John Gilbert Winant OM was an American politician with the Republican party after a brief career as a teacher in Concord, New Hampshire. John Winant held positions in New Hampshire, national, and international politics. He was the first man to serve more than a single two-year term as Governor of New Hampshire, winning election three times. Winant also served as U.S. Ambassador to the United Kingdom during most of World War II. Depressed by career disappointments, a failed marriage and heavy debts, he committed suicide in 1947."
+      "Jyotirao Govindrao Phule was an Indian social activist, thinker, anti-caste social reformer and writer from Maharashtra. His work extended to many fields, including eradication of untouchability and the caste system, and women's emancipation. He is mostly known for his efforts in educating women and lower caste people. He and his wife, Savitribai Phule, were pioneers of women education in India. Phule started his first school for girls in 1848 in Pune at Tatyasaheb Bhide's residence or Bhidewada.",
+      "On 24 September 1873, he, along with his followers, formed the Satyashodhak Samaj to attain equal rights for people from lower castes. People from all religions and castes could become a part of this association which worked for the upliftment of the oppressed classes. Phule is regarded as an important figure in the social reform movement in Maharashtra."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/John_Gilbert_Winant",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-gilbert-winant/m07lp0z"
+    "quote": "“Without education wisdom was lost; without wisdom morals were lost; without morals development was lost; without development wealth was lost; without wealth the shudras were ruined; so much has happened through lack of education.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Jyotirao_Phule",
+    "urlGoogle": "https://artsandculture.google.com/entity/jyotirao-phule/m030jtz"
   },
   "place": {
-    "id": "chartres",
-    "name": "Chartres",
-    "mainImg": "img/places/chartres.jpg",
+    "id": "riga",
+    "name": "Riga",
+    "mainImg": "img/places/riga.jpg",
     "summary": [
-      "Chartres is a commune and capital of the Eure-et-Loir department in France. It is located about 90 km southwest of Paris. Chartres is famous world-wide for its cathedral. Mostly constructed between 1193 and 1250, this Gothic cathedral is in an exceptional state of preservation. The majority of the original stained glass windows survive intact, while the architecture has seen only minor changes since the early 13th century. Much of the old town, including the library associated with the School of Chartres, was destroyed by bombs in 1944."
+      "Riga is the capital of Latvia and is home to 627,487 inhabitants, which is a third of Latvia's population. Being significantly larger than other cities of Latvia, Riga is the country's primate city. It is also the largest city in the three Baltic states and is home to one tenth of the three Baltic states' combined population. The city lies on the Gulf of Riga at the mouth of the Daugava river where it meets the Baltic Sea. Riga's territory covers 307.17 km² and lies 1–10 m above sea level, on a flat and sandy plain.",
+      "Riga was founded in 1201 and is a former Hanseatic League member. Riga's historical centre is a UNESCO World Heritage Site, noted for its Art Nouveau/Jugendstil architecture and 19th century wooden architecture. Riga was the European Capital of Culture in 2014, along with Umeå in Sweden. Riga hosted the 2006 NATO Summit, the Eurovision Song Contest 2003, the 2006 IIHF Men's World Ice Hockey Championships and the 2013 World Women's Curling Championship. It is home to the European Union's office of European Regulators for Electronic Communications. In 2017, it was named the European Region of Gastronomy.",
+      "In 2016, Riga received over 1.4 million visitors."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Chartres",
-    "urlGoogle": "https://artsandculture.google.com/entity/chartres/m0p8hy"
+    "urlWiki": "https://en.wikipedia.org/wiki/Riga",
+    "urlGoogle": "https://artsandculture.google.com/entity/riga/m06cn5"
   },
   "wiki": {
-    "id": "extrasolar-planet",
-    "name": "Extrasolar planet",
-    "summary": "An extrasolar planet is a planet beyond the Solar System. As of 11 November, 2006, 209 extrasolar planets have been discovered. Known exoplanets are members of planetary systems that orbit a star. For centuries, extrasolar planets were a subject of speculation. Astronomers generally supposed that some existed, but it was a mystery how common they were and how similar they were to the planets of the Solar System. The first confirmed detections were finally made in the 1990s. Since 2002, more than twenty have been discovered every year. It is now estimated that at least 10% of sunlike stars have planets, and the true proportion may be much higher. The discovery of extrasolar planets raises the question of whether some might support extraterrestrial life.",
-    "url": "https://en.wikipedia.org/wiki/Extrasolar_planet"
+    "id": "taiwanese-aborigines",
+    "name": "Taiwanese aborigines",
+    "summary": "Taiwanese aborigines are the indigenous peoples of Taiwan. Although each group holds a variety of creation stories, contemporary research suggests their ancestors may have been living on the islands for approximately 8,000 years before major Han Chinese immigration began in the 1600s. The Taiwanese Aborigines are Austronesian peoples, with linguistic and genetic ties to other Austronesian ethnic groups, such as peoples of the Philippines, Malaysia, Indonesia, and Oceania. For centuries Taiwan's Aboriginal peoples experienced economic competition and military conflict with a series of conquering peoples. Centralized government policies designed to foster language shift and cultural assimilation, as well as continued contact with the colonizers through trade, intermarriage and other dispassionate intercultural processes, have resulted in varying degrees of language death and loss of original cultural identity. The bulk of contemporary Taiwanese Aborigines reside in the mountains and the cities. Many Aboriginal groups are actively seeking a higher degree of political self-determination and economic development since the early 1980s.",
+    "url": "https://en.wikipedia.org/wiki/Taiwanese_aborigines"
   },
   "word": {
-    "id": "arcadia",
-    "word": "arcadia",
-    "url": "https://www.merriam-webster.com/dictionary/arcadia",
-    "partOfSpeech": "noun, often capitalized",
-    "pronunciation": "ar-KAY-dee-uh",
-    "audioPath": "audio/words/arcadia.mp3",
-    "definitions": ["a region or scene of simple pleasure and quiet"],
-    "examples": [
-      "Artists and writers view the sleepy community as an arcadia where they can focus on their work."
+    "id": "hale",
+    "word": "hale",
+    "url": "https://www.merriam-webster.com/dictionary/hale",
+    "partOfSpeech": "adjective",
+    "pronunciation": "HAIL",
+    "audioPath": "audio/words/hale.mp3",
+    "definitions": [
+      "free from defect, disease, or infirmity : sound; also : retaining exceptional health and vigor"
     ],
-    "origin": "Arcadia is a mountainous, landlocked region of Greece. The Roman poet Virgil recognized that Arcadia's isolation and bucolic character make it a perfect setting for pastoral poetry, and over the centuries many other writers have agreed. In the poems of Arcadia, naive and ideal innocence is often unaffected by the passions of the larger world. Shepherds play their pipes and sigh with longing for flirtatious nymphs; shepherdesses sing to their flocks; and goat-footed nature gods cavort in the fields and woods. Now English speakers often use \"arcadia\" to designate a place of rustic innocence and simple, quiet pleasure. \"Arcadian\" can mean \"idyllically pastoral\" or \"idyllically innocent, simple, or untroubled.\""
+    "examples": [
+      "\"He was a rich and powerful noble, then in his sixty-second year, but hale and sturdy, a great horseman and hunter and a pious man.\" (Edith Wharton, \"Kerfol\")"
+    ],
+    "origin": "When you need a word to describe someone or something in good health, you might pick \"hale\" or a synonym such as \"healthy,\" \"sound,\" or \"robust.\" Of those terms, \"healthy\" is the most general, implying full strength and vigor or simply freedom from signs of disease. \"Sound\" generally emphasizes the complete absence of defects of mind or body. \"Robust\" implies the opposite of all that is delicate or sickly and usually suggests muscular strength as well as the ability to work or play long and hard. \"Hale\" applies especially to robustness in later life. The phrase \"hale and hearty\" is often used to describe an older person who retains the physical qualities of youth"
   }
 }

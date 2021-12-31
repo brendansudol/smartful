@@ -1,139 +1,132 @@
 {
   "artist": {
-    "id": "joaquin-torres-garcia",
-    "name": "Joaquín Torres-García",
-    "dates": "Jul 28, 1874 - Aug 8, 1949",
-    "mainImg": "img/art/artists/joaquin-torres-garcia.jpg",
+    "id": "alexej-von-jawlensky",
+    "name": "Alexej von Jawlensky",
+    "dates": "Mar 13, 1864 - Mar 15, 1941",
+    "mainImg": "img/art/artists/alexej-von-jawlensky.jpg",
     "artworkImgs": [
       {
-        "name": "Lion sketch",
-        "path": "img/art/artworks/joaquin-torres-garcia-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/lion-sketch-torres-garcía/JQHRdPprFvsEvw"
+        "name": "The Blue Mantilla",
+        "path": "img/art/artworks/alexej-von-jawlensky-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-blue-mantilla-alexej-von-jawlensky/rgGQ79hqlWOOnA"
       },
       {
-        "name": "Birds sketch",
-        "path": "img/art/artworks/joaquin-torres-garcia-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/birds-sketch-torres-garcía/iAEcm8hW9ySrSg"
+        "name": "Portrait of a Girl",
+        "path": "img/art/artworks/alexej-von-jawlensky-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-girl-alexej-jawlensky/CQGbkxuyeuvs-w"
       },
       {
-        "name": "Elephant sketch",
-        "path": "img/art/artworks/joaquin-torres-garcia-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/elephant-sketch-torres-garcía/aQGfpY47ngHEdg"
+        "name": "Portrait of the Dancer Aleksandr Sakharov",
+        "path": "img/art/artworks/alexej-von-jawlensky-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-the-dancer-aleksandr-sakharov-jawlensky-alexej/ogGvLdZg_9FlIQ"
       },
       {
-        "name": "House pencil sketch",
-        "path": "img/art/artworks/joaquin-torres-garcia-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/house-pencil-sketch-torres-garcía/HgE3f47wXzjIgA"
+        "name": "With Red Swallow-Patterned Wallpaper, 1915",
+        "path": "img/art/artworks/alexej-von-jawlensky-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/with-red-swallow-patterned-wallpaper-1915/NwHcGXN9xgacLA"
       },
       {
-        "name": "Grey elephant",
-        "path": "img/art/artworks/joaquin-torres-garcia-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/grey-elephant-torres-garcía/3gFMzrcT0HBcUg"
+        "name": "Head of a Woman",
+        "path": "img/art/artworks/alexej-von-jawlensky-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-woman-alexej-von-jawlensky/0gHlflLW5w6N-w"
       },
       {
-        "name": "Circus Elephants",
-        "path": "img/art/artworks/joaquin-torres-garcia-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/circus-elephants-torres-garcía/qAF3eS1Z0kpOeA"
+        "name": "Young Girl with a Flowered Hat, 1910",
+        "path": "img/art/artworks/alexej-von-jawlensky-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/young-girl-with-a-flowered-hat-1910/3wE7F_o9BSpGzQ"
       }
     ],
     "summary": [
-      "Joaquín Torres García was an Uruguayan artist, son of Catalan father and an Uruguayan mother, born in Montevideo, where he lived through his childhood. As an adolescent he emigrated to Catalunya, Spain, the land of his father, where he initiated himself as an artist in 1891. For the next three decades, he embraced Catalan identity adopting the language, leading Barcelona’s art and culture to its utmost vanguards. A ‘renaissance or universal man’; painter, sculptor, muralist, novelist, writer, teacher and theorist. He was also active in United States, Italy, France and Uruguay from where his influence encompasses a personal presence in European, North American and South American modern art. He dealt the eternal dilemma between the old and the modern, the classical and the avant-garde, reason and feeling, figuration and abstraction with a simple and brilliant metaphor: there is no contradiction or incompatibility. The same brush strokes serve for a primitive composition or for a mural of Renaissance inspiration. Like Goethe, he seeks the integration between classicism and modernity."
+      "Alexej Georgewitsch von Jawlensky was a Russian expressionist painter active in Germany. He was a key member of the New Munich Artist's Association, Der Blaue Reiter group and later the Die Blaue Vier."
     ],
     "quote": null,
-    "movements": ["Modern art", "Constructivism"],
-    "mediums": ["Drawing", "Oil paint", "Watercolor painting", "Tin", "Aluminium", "Graphite"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Torres-Garc%C3%ADa",
-    "urlGoogle": "https://artsandculture.google.com/entity/joaquín-torres-garcía/m04znb1"
+    "movements": [
+      "Der Blaue Reiter",
+      "Expressionism",
+      "Modern art",
+      "German Expressionism",
+      "Modernism"
+    ],
+    "mediums": ["Oil paint", "Cardboard", "Laid paper", "Drawing", "Ink", "Masonite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexej_von_Jawlensky",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexej-von-jawlensky/m012ch6"
   },
   "event": {
-    "id": "the-london-2012-summer-olympics",
-    "name": "The London 2012 Summer Olympics",
-    "dates": "Jul 27, 2012 - Aug 12, 2012",
-    "mainImg": "img/events/the-london-2012-summer-olympics.jpg",
+    "id": "operation-overlord",
+    "name": "Operation Overlord",
+    "dates": "Jun 6, 1944 - Aug 25, 1944",
+    "mainImg": "img/events/operation-overlord.jpg",
     "summary": [
-      "The 2012 Summer Olympics, formally the Games of the XXX Olympiad and commonly known as London 2012, was an international multi-sport event that was held from 27 July to 12 August 2012 in London, United Kingdom. The first event, the group stage in women's football, began on 25 July at the Millennium Stadium in Cardiff, followed by the opening ceremony on 27 July. 10,768 athletes from 204 National Olympic Committees participated.",
-      "Following a bid headed by former Olympic champion Sebastian Coe and then-Mayor of London Ken Livingstone, London was selected as the host city on 6 July 2005 during the 117th IOC Session in Singapore, defeating bids from Moscow, New York City, Madrid, and Paris. London became the first city to host the modern Olympics three times, having previously hosted the Summer Games in 1908 and in 1948.",
-      "Construction for the Games involved considerable redevelopment, with an emphasis on sustainability. The main focus was a new 200-hectare Olympic Park, constructed on a former industrial site at Stratford, East London. The Games also made use of venues that already existed before the bid."
+      "Operation Overlord was the codename for the Battle of Normandy, the Allied operation that launched the successful invasion of German-occupied Western Europe during World War II. The operation was launched on 6 June 1944 with the Normandy landings. A 1,200-plane airborne assault preceded an amphibious assault involving more than 5,000 vessels. Nearly 160,000 troops crossed the English Channel on 6 June, and more than two million Allied troops were in France by the end of August.",
+      "The decision to undertake a cross-channel invasion in 1944 was taken at the Trident Conference in Washington in May 1943. General Dwight D. Eisenhower was appointed commander of Supreme Headquarters Allied Expeditionary Force, and General Bernard Montgomery was named as commander of the 21st Army Group, which comprised all the land forces involved in the invasion. The coast of Normandy of northwestern France was chosen as the site of the invasion, with the Americans assigned to land at sectors codenamed Utah and Omaha, the British at Sword and Gold, and the Canadians at Juno."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/2012_Summer_Olympics",
-    "urlGoogle": "https://artsandculture.google.com/entity/the-london-2012-summer-olympics/m06sks6"
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Overlord",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-overlord/m0ch1lys"
   },
   "funFacts": [
     {
-      "id": "975",
-      "fact": "The letter J is the only letter in the alphabet that does not appear anywhere on the periodic table of the elements.",
-      "category": ["Science", "Onlies"]
+      "id": "677",
+      "fact": "A full-grown tree produces enough oxygen to support a family of four.",
+      "category": ["Plants", "Science"]
     },
-    {
-      "id": "691",
-      "fact": "The archer fish can spit water up to 7 feet to shoot down bugs from overhanging leaves.",
-      "category": ["Animals"]
-    }
+    { "id": "970", "fact": "Dolphins are unable to smell.", "category": ["Animals", "Science"] }
   ],
   "funFacts2": [
     {
-      "id": "504870",
-      "fact": "The modern popped collar originated as a way to keep tennis players’ necks from getting sunburnt."
+      "id": "522214",
+      "fact": "Foreign Accent Syndrome is a rare side effect of brain trauma. Patients speak their native language in a foreign dialect."
     }
   ],
   "idiom": {
-    "id": "three-sheets-to-the-wind",
-    "term": "three sheets to the wind",
-    "definition": "Also, **three sheets in the wind.** Drunk, inebriated, as in *After six beers he's three sheets to the wind.* This expression is generally thought to refer to the sheet---that is, a rope or chain---that holds one or both lower corners of a sail. If the sheet is allowed to go slack in the wind, the sail flaps about and the boat is tossed about much as a drunk staggers. Having three sheets loose would presumably make the situation all the worse. Another explanation holds that with two or four sheets to the wind the boat is balanced, whereas with three it is not. [Mid-1800s]"
+    "id": "a-lick-and-a-promise",
+    "term": "a lick and a promise",
+    "definition": "A superficial effort made without care or enthusiasm. For example, *I haven't time to do a good job of vacuuming, just enough for a lick and a promise.* This expression is believed to allude to the quick lick a cat or other animal might give itself and a promise to do more or better at some future time. [Mid-1800s]"
   },
   "person": {
-    "id": "ahitophel",
-    "name": "Ahitophel",
-    "dates": null,
-    "mainImg": "img/people/ahitophel.jpg",
+    "id": "robert-c-weaver",
+    "name": "Robert C. Weaver",
+    "dates": "Dec 29, 1907 - Jul 17, 1997",
+    "mainImg": "img/people/robert-c-weaver.jpg",
     "summary": [
-      "Ahitophel or Ahithophel was a counselor of King David and a man greatly renowned for his sagacity. During Absalom's revolt he deserted David and supported Absalom.",
-      "David sent his friend Hushai back to Absalom, in order to counteract the counsel of Ahitophel. Ahitophel had recommended an immediate attack on David's camp at a point where he was weary and vulnerable, whereas Hushai suggested that \"the advice that Ahithophel has given is not good at this time\" and recommended delay while a larger army was assembled to counter David's alleged strength. Perversely, \"for the LORD had purposed to defeat the good advice of Ahithophel\", Hushai's advice was accepted. Seeing that his good advice against David had not been followed due to Hushai's influence, Ahithophel apparently surmised that the revolt would fail. He then left the camp of Absalom at once. He returned to Giloh, his native place, and after arranging his worldly affairs, hanged himself, and was buried in the sepulcher of his fathers.",
-      "A man named Ahitophel is also mentioned in 2 Samuel 23:34, and he is said to be the father of Eliam."
+      "Robert Clifton Weaver was an American economist, academic, and political administrator; he served as the first United States Secretary of Housing and Urban Development from 1966 to 1968, in the new agency established in 1965 under President Lyndon B. Johnson. Weaver was the first African American to be appointed to a US cabinet-level position.",
+      "Prior to his appointment as cabinet officer, Weaver had served in the administration of President John F. Kennedy. In addition, he had served in New York State government, and in high-level positions in New York City. During the Franklin D. Roosevelt administration, he was one of 45 prominent African Americans appointed to positions and helped make up the Black Cabinet, an informal group of African-American public policy advisers. Weaver directed federal programs during the administration of the New Deal, at the same time completing his doctorate in economics in 1934 at Harvard University."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ahitophel",
-    "urlGoogle": "https://artsandculture.google.com/entity/ahitophel/m0hy4p"
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_C._Weaver",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-c-weaver/m04fsng"
   },
   "place": {
-    "id": "caceres",
-    "name": "Cáceres‎",
-    "mainImg": "img/places/caceres.jpg",
+    "id": "greensboro",
+    "name": "Greensboro",
+    "mainImg": "img/places/greensboro.jpg",
     "summary": [
-      "Cáceres is a city of Spain located in the autonomous community of Extremadura. It is the capital and most populated municipality of the province of Cáceres.",
-      "Cáceres lies at the feet of the Sierra de la Mosca, a modest hill range. It is part of the Vía de la Plata path of the Camino de Santiago that crosses the west of the Iberian Peninsula in a north–south direction.",
-      "The municipality has a land area of 1,750.33 km², the largest in Spain. In 2014 its population was around 96,000. The medieval walled city has been declared a UNESCO World Heritage Site."
+      "Greensboro is a city in and the county seat of Guilford County, North Carolina, United States. It is the third-most populous city in North Carolina, the 68th-most populous city in the United States, and the largest city in the Piedmont Triad metropolitan region. At the 2010 United States Census the city population was 269,666. In 2019 the estimated population was 296,710. Three major interstate highways in the Piedmont region of central North Carolina were built to intersect at this city.",
+      "In 1808, \"Greensborough\" was planned around a central courthouse square to succeed Guilford Court House as the county seat. The county courts were thus placed closer to the geographical center of the county, a location more easily reached at the time by the majority of the county's citizens, who depended on horse and foot for travel.",
+      "In 2003, the previous Greensboro – Winston-Salem – High Point metropolitan statistical area was re-defined by the U.S. Office of Management and Budget. This region was separated into the Greensboro–High Point MSA and the Winston-Salem MSA. The 2010 population for the Greensboro–High Point MSA was 723,801."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/C%C3%A1ceres,_Spain",
-    "urlGoogle": "https://artsandculture.google.com/entity/cáceres‎/m01253d"
-  },
-  "quote": {
-    "id": "40",
-    "quote": "The great aim of education is not knowledge but action.",
-    "author": "Herbert Spencer"
+    "urlWiki": "https://en.wikipedia.org/wiki/Greensboro,_North_Carolina",
+    "urlGoogle": "https://artsandculture.google.com/entity/greensboro/m0kcw2"
   },
   "wiki": {
-    "id": "john-f-bolt",
-    "name": "John F. Bolt",
-    "summary": "John F. Bolt (1921–2004) was a United States Marine Corps aviator and a decorated flying ace who served during World War II and the Korean War. After dropping out of the University of Florida for financial reasons in 1941, he joined the Marine Corps at the height of World War II. Sent to the Pacific Theater of Operations, he flew an F4U Corsair during the campaigns in the Marshall Islands and New Guinea, claiming six victories against Japanese A6M Zeros. Bolt continued his service through the Korean War, entering combat through an exchange program with the U.S. Air Force in late 1952. Over a period of several weeks in mid-1953, he led flights of F-86 Sabres into combat with MiG-15s of the Chinese Air Force, scoring six victories during fights along the northern border of North Korea, commonly known as \"MiG Alley,\" giving him a total of 12 career victories. Bolt stayed in the Marine Corps until 1962, rising to the rank of lieutenant colonel and serving as an analyst and instructor in his later career. In retirement, he qualified as a lawyer in Florida. He remains the only US Marine to achieve ace status in two wars and was also the only Marine jet fighter ace.",
-    "url": "https://en.wikipedia.org/wiki/John_F._Bolt"
+    "id": "bernard-bosanquet-cricketer",
+    "name": "Bernard Bosanquet (cricketer)",
+    "summary": "Bernard Bosanquet (1877–1936) was an English cricketer best known for inventing the googly, a delivery designed to deceive the batsman. He played first-class cricket for Middlesex County Cricket Club and appeared in seven Test matches for England as an all-rounder. While playing a tabletop game, Bosanquet devised a new technique for delivering a ball, later named the \"googly\", which he practised while attending Oriel College, Oxford. He first used it in cricket matches around 1900, but it was not until 1903, when he had a successful season as a bowler, that his new delivery began to attract attention. He was selected in 1903–04 to tour Australia with England and made his Test debut. Although his batting was unsuccessful, he performed well as a bowler and troubled all the opposing batsmen. His career with the ball peaked when he bowled England to victory in the first Test against Australia in 1905, but he remained an inconsistent performer. In subsequent years, he bowled infrequently and played little first-class cricket.",
+    "url": "https://en.wikipedia.org/wiki/Bernard_Bosanquet_(cricketer)"
   },
   "word": {
-    "id": "kiln",
-    "word": "kiln",
-    "url": "https://www.merriam-webster.com/dictionary/kiln",
+    "id": "nostrum",
+    "word": "nostrum",
+    "url": "https://www.merriam-webster.com/dictionary/nostrum",
     "partOfSpeech": "noun",
-    "pronunciation": "KILN",
-    "audioPath": "audio/words/kiln.mp3",
-    "definitions": [
-      "an oven, furnace, or heated enclosure used for processing a substance by burning, firing, or drying"
-    ],
+    "pronunciation": "NAHSS-trum",
+    "audioPath": "audio/words/nostrum.mp3",
+    "definitions": ["a usually questionable remedy or scheme : panacea"],
     "examples": [
-      "Now that the school has purchased a new _kiln_, it can offer more courses in ceramics.",
-      "\"Neither thin nor delicate, [clinker brick](https://www.merriam-webster.com/dictionary/clinker) is the Marlon Brando of masonry: misshapen, blackened in the _kiln_, historically regarded as trash by brickmakers.\" - From an article by Christopher Gray in _The New York Times_, March 10, 2013"
+      "Critics predict the mayor's plan to revitalize the downtown area by offering tax breaks to businesses will prove a costly and ineffective _nostrum_.",
+      "\"For example, the Internet will likely soon be overflowing with _nostrums_, essential oils, tree bark, eye of toad and essence of newt promising to prevent or cure Ebola. The FDA and FTC should be gathering their lawyers right now to get this claptrap off the web.\" - Arthur Leonard Caplan, _Forbes_, September 30, 2014"
     ],
-    "origin": "\"Kiln\" has been a part of the English language for over 1,000 years, its first known use in Old English (as \"cyline\") dating back to the early 700s. Unlike many words that descend from Old English, however, \"kiln\" is not ultimately Germanic in origin but was borrowed from Latin \"culina,\" meaning \"kitchen,\" an ancestor of the English word \"culinary.\" In the 14th century, speakers of Middle English began to drop the \"n\" at the end of the word, and even to this day some English speakers pronounce \"kiln\" so that it rhymes with \"mill.\" In fact, like \"kiln,\" \"mill\" (from Late Latin \"molina\") was originally spelled and pronounced with a terminal \"n.\" Unlike \"mill,\" however, \"kiln\" has retained the final \"n\" in spelling, if not always in pronunciation."
+    "origin": "\"Whether there was real efficacy in these nostrums, and whether their author himself had faith in them, is more than can safely be said,\" wrote 19th-century American writer Nathaniel Hawthorne, \"but, at all events, the public believed in them.\" The word _nostrum_ has often been linked to quack medicine and false hopes for miracle cures, but there's nothing deceitful about its etymology. It has been a part of English since at least 1602, and comes from the Latin _noster_, meaning \"our\" or \"ours.\" Some think that specially prepared medicinal concoctions came to be called _nostrums_ because their purveyors marketed them as \"our own\" remedy. In other words, the use of nostrum emphasized that such a potion was unique or exclusive to the pitchman peddling it."
   }
 }

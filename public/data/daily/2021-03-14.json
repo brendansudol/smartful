@@ -1,138 +1,138 @@
 {
   "artist": {
-    "id": "kenny-scharf",
-    "name": "Kenny Scharf",
-    "dates": "Born Nov 23, 1958",
-    "mainImg": "img/art/artists/kenny-scharf.jpg",
+    "id": "elizabeth-nourse",
+    "name": "Elizabeth Nourse",
+    "dates": "Oct 26, 1859 - Oct 8, 1938",
+    "mainImg": "img/art/artists/elizabeth-nourse.jpg",
     "artworkImgs": [
       {
-        "name": "Kenny Scharf, Chelsea",
-        "path": "img/art/artworks/kenny-scharf-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/kenny-scharf-chelsea-kenny-scharf/1wHR1FGSR1eM9g"
+        "name": "Normandy Peasant Woman and Her Child",
+        "path": "img/art/artworks/elizabeth-nourse-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/normandy-peasant-woman-and-her-child-elizabeth-nourse-american-b-1859-d-1938/7QG-yp9K7Mj7gw"
       },
       {
-        "name": "Philly Chunk Pack",
-        "path": "img/art/artworks/kenny-scharf-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/philly-chunk-pack-kenny-scharf/RAE-MjGzM7j5kQ"
+        "name": "Venice",
+        "path": "img/art/artworks/elizabeth-nourse-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/venice-elizabeth-nourse-american-b-1859-d-1938/GwGyCTSyf6F9gQ"
       },
       {
-        "name": "Love",
-        "path": "img/art/artworks/kenny-scharf-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/love-kenny-scharf/VgEwl8Tei-0StQ"
+        "name": "Head of a Girl",
+        "path": "img/art/artworks/elizabeth-nourse-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-girl-elizabeth-nourse-american-b-1859-d-1938/DAHWBa69xobU0g"
       },
       {
-        "name": "Kosmic Krylon Garage",
-        "path": "img/art/artworks/kenny-scharf-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/kosmic-krylon-garage-kenny-scharf/7gH2R7hiVXELuA"
+        "name": "Peasant Women of Boršt",
+        "path": "img/art/artworks/elizabeth-nourse-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/peasant-women-of-boršt-elizabeth-nourse-american-b-1859-d-1938/QgFGvEmPCG4_GQ"
       },
       {
-        "name": "Chunk Pack",
-        "path": "img/art/artworks/kenny-scharf-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/chunk-pack-kenny-scharf-x-branded-arts/3gHcWpRfD5ZqYw"
+        "name": "In the High Meadow (Dans le haut pâturage en Suisse)",
+        "path": "img/art/artworks/elizabeth-nourse-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/in-the-high-meadow-dans-le-haut-pâturage-en-suisse-elizabeth-nourse-american-b-1859-d-1938/JQFrjUm5xvFFhQ"
       },
       {
-        "name": "Kosmic Krylon Garage",
-        "path": "img/art/artworks/kenny-scharf-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/kosmic-krylon-garage-kenny-scharf/ZgE27QoHGAVk3A"
+        "name": "Mother and Three Children",
+        "path": "img/art/artworks/elizabeth-nourse-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/mother-and-three-children/PgEdjNgOqA-kjg"
       }
     ],
     "summary": [
-      "Kenny Scharf is an American painter who lives in Los Angeles. California. He was born in Los Angeles and moved to Manhattan, New York City to receive his B.F.A. in 1980 with a major in painting at the School of Visual Arts. He is known for his participation in the interdisciplinary East Village art scene during the 1980s alongside Jean-Michel Basquiat and Keith Haring. His do-it-yourself practice spanned painting, sculpture, fashion, video, performance art, and street art. Growing up in post-World War II Southern California, Scharf was fascinated by television and the futuristic promise of modern design. His works often consist of pop culture icons, such as the Flintstones and the Jetsons, or caricatures of middle-class Americans in an apocalyptic science fiction setting."
+      "Elizabeth Nourse was a realist-style genre, portrait, and landscape painter born in Mt. Healthy, Ohio, in the Cincinnati area. She also worked in decorative painting and sculpture. Described by her contemporaries as \"the first woman painter of America\" and \"the dean of American woman painters in France and one of the most eminent contemporary artists of her sex,\" Nourse was the first American woman to be voted into the Société Nationale des Beaux-Arts. She also had the honor of having one of her paintings purchased by the French government and included in the Luxembourg Museum's permanent collection. Nourse's style was described by Los Angeles critic Henry J. Seldis as a \"forerunner of social realist painting.\"",
+      "Some of Nourse's works are displayed at the Cincinnati Art Museum."
     ],
     "quote": null,
-    "movements": ["Contemporary art", "Street art"],
-    "mediums": ["Spray painting", "Photograph"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Kenny_Scharf",
-    "urlGoogle": "https://artsandculture.google.com/entity/kenny-scharf/m08r5qp"
+    "movements": [],
+    "mediums": ["Oil paint", "Watercolor painting", "Drawing", "Graphite", "Pencil"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Elizabeth_Nourse",
+    "urlGoogle": "https://artsandculture.google.com/entity/elizabeth-nourse/m02x5k0d"
   },
   "event": {
-    "id": "amia-bombing",
-    "name": "AMIA bombing",
-    "dates": null,
-    "mainImg": "img/events/amia-bombing.jpg",
+    "id": "protests-of-1968",
+    "name": "Protests of 1968",
+    "dates": "1968",
+    "mainImg": "img/events/protests-of-1968.jpg",
     "summary": [
-      "The AMIA bombing was a suicide van bomb attack on the Asociación Mutual Israelita Argentina building in Buenos Aires, Argentina on 18 July 1994, killing 85 people and injuring hundreds. The bombing is Argentina's deadliest terrorist attack to date. Argentina is home to a Jewish community of 230,000, the largest in Latin America and sixth in the world outside Israel.",
-      "Over the years, the case has been marked by accusations of cover-ups. All suspects in the \"local connection\" were found to be not guilty in September 2004. In August 2005, federal judge Juan José Galeano, in charge of the case, was impeached and removed from his post on a charge of \"serious\" irregularities due to mishandling of the investigation. In 2005, Cardinal Jorge Mario Bergoglio, who would later become Pope Francis, was the first public personality to sign a petition for justice in the AMIA bombing case. He was one of the signatories on a document called \"85 victims, 85 signatures\" as part of the bombing's 11th anniversary."
+      "The protests of 1968 comprised a worldwide escalation of social conflicts, predominantly characterized by popular rebellions against military and bureaucratic elites, who responded with an escalation of political repression.",
+      "In the United States, these protests marked a turning point for the civil rights movement, which produced revolutionary movements like the Black Panther Party. In reaction to the Tet Offensive, protests also sparked a broad movement in opposition to the Vietnam War all over the United States as well as in London, Paris, Berlin and Rome. Mass socialist movements grew not only in the United States but also in most European countries. The most spectacular manifestation of these was the May 1968 protests in France, in which students linked up with wildcat strikes of up to ten million workers, and for a few days the movement seemed capable of overthrowing the government."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/AMIA_bombing",
-    "urlGoogle": "https://artsandculture.google.com/entity/amia-bombing/m027_2d"
+    "urlWiki": "https://en.wikipedia.org/wiki/Protests_of_1968",
+    "urlGoogle": "https://artsandculture.google.com/entity/protests-of-1968/m0bldzl"
   },
   "funFacts": [
     {
-      "id": "475",
-      "fact": "Wrapping rubber bands around the ends of hangers can prevent clothes from slipping off.",
-      "category": ["Make-it-Easies"]
+      "id": "778",
+      "fact": "Some bears build nests in trees to sunbathe and rest.",
+      "category": ["Animals"]
     },
     {
-      "id": "741",
-      "fact": "Plants, like humans, can run a fever if they are sick.",
-      "category": ["Plants"]
+      "id": "416",
+      "fact": "Many butterflies and moths are able to taste with their feet.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "553435",
-      "fact": "The FBI called Ted Kaczynski \"The Unabomber\" because his early mail bombs were sent to universities (UN) and airlines (A)."
-    }
+    { "id": "504758", "fact": "The Eiffel Tower leans slightly toward the shade on sunny days." }
   ],
   "idiom": {
-    "id": "kith-and-kin",
-    "term": "kith and kin",
-    "definition": "Friends and family, as in *Everyone was invited, kith and kin as well as distant acquaintances.* This expression dates from the 1300s and originally meant \"countrymen\" (*kith* meant \"one's native land\") and \"family members.\" It gradually took on the present looser sense."
+    "id": "kill-two-birds-with-one-stone",
+    "term": "kill two birds with one stone",
+    "definition": "Achieve two ends with a single effort, as in *As long as I was in town on business, I thought I'd kill two birds and visit my uncle too.* This expression is so well known that it is often shortened, as in the example. [c. 1600]"
   },
   "person": {
-    "id": "elizabeth-i-of-england",
-    "name": "Elizabeth I of England",
-    "dates": "Sep 7, 1533 - Mar 24, 1603",
-    "mainImg": "img/people/elizabeth-i-of-england.jpg",
+    "id": "michelle-obama",
+    "name": "Michelle Obama",
+    "dates": "Born Jan 17, 1964",
+    "mainImg": "img/people/michelle-obama.jpg",
     "summary": [
-      "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death on 24 March 1603. Sometimes called the Virgin Queen, Gloriana or Good Queen Bess, Elizabeth was the last of the five monarchs of the House of Tudor.",
-      "Elizabeth was the daughter of Henry VIII and Anne Boleyn, his second wife, who was executed two-and-a-half years after Elizabeth's birth. Anne's marriage to Henry VIII was annulled, and Elizabeth was declared illegitimate. Her half-brother, Edward VI, ruled until his death in 1553, bequeathing the crown to Lady Jane Grey and ignoring the claims of his two half-sisters, the Roman Catholic Mary and the younger Elizabeth, in spite of statute law to the contrary. Edward's will was set aside and Mary became queen, deposing Lady Jane Grey. During Mary's reign, Elizabeth was imprisoned for nearly a year on suspicion of supporting Protestant rebels.",
-      "In 1558 upon Mary's death, Elizabeth succeeded her half-sister to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers, led by William Cecil, 1st Baron Burghley."
+      "Michelle LaVaughn Robinson Obama is an American lawyer and author who was the first lady of the United States from 2009 to 2017. She is married to the 44th President of the United States Barack Obama. She is the first African-American First Lady of the United States.",
+      "Raised on the South Side of Chicago, Illinois, Obama is a graduate of Princeton University and Harvard Law School. In her early legal career, she worked at the law firm Sidley Austin where she met Barack Obama. She subsequently worked in non-profits and as the associate dean of Student Services at the University of Chicago as well as the vice president for Community and External Affairs of the University of Chicago Medical Center. Michelle married Barack in 1992, and they have two daughters.",
+      "Obama campaigned for her husband's presidential bid throughout 2007 and 2008, delivering a keynote address at the 2008 Democratic National Convention. She returned to speak for him at the 2012 Democratic National Convention. During the 2016 Democratic National Convention in Philadelphia, she delivered a speech in support of the Democratic presidential nominee, Hillary Clinton, a former first lady."
     ],
-    "quote": "“I do not so much rejoice that God hath made me to be a Queen, as to be a Queen over so thankful a people.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Elizabeth_I",
-    "urlGoogle": "https://artsandculture.google.com/entity/elizabeth-i-of-england/m02rg_"
+    "quote": "“Together, we can help make sure that every family that walks into a restaurant can make an easy, healthy choice.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Michelle_Obama",
+    "urlGoogle": "https://artsandculture.google.com/entity/michelle-obama/m025s5v9"
   },
   "place": {
-    "id": "ahmedabad",
-    "name": "Ahmedabad",
-    "mainImg": "img/places/ahmedabad.jpg",
+    "id": "joao-pessoa",
+    "name": "João Pessoa",
+    "mainImg": "img/places/joao-pessoa.jpg",
     "summary": [
-      "Ahmedabad is the largest city and former capital of the Indian state of Gujarat. It is the administrative headquarters of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabad's population of 5,633,927 makes it the fifth-most populous city in India, and the encompassing urban agglomeration population estimated at 6,357,693 is the seventh-most populous in India. Ahmedabad is located on the banks of the Sabarmati River, 23 km from the state capital Gandhinagar, which is its twin city.",
-      "Ahmedabad has emerged as an important economic and industrial hub in India. It is the second-largest producer of cotton in India, and its stock exchange is the country's second oldest. Cricket is a popular sport in Ahmedabad. A newly-built Sardar Patel Stadium at Motera can accommodate 110,000 spectators. The effects of liberalisation of the Indian economy have energised the city's economy towards tertiary sector activities such as commerce, communication and construction. Ahmedabad's increasing population has resulted in an increase in the construction and housing industries resulting in recent development of skyscrapers."
+      "João Pessoa is a port city in northeastern Brazil, and is the capital of the state of Paraíba. It is located on the right bank of the Paraiba do Norte river.",
+      "It is the state's largest city, with an estimated population of 800,323 of inhabitants.",
+      "The new \"Estação Ciência, Cultura e Artes\", located at the most eastern point of the Americas, is both an educational and cultural institution as well as a national landmark. The complex, inaugurated in 2008, was created by Brazilian architect Oscar Niemeyer and is one of his last projects.",
+      "The capital of Paraíba received in 2017 the title of creative city by UNESCO, placing João Pessoa, as \"Brazilian city of handicrafts\". Besides the capital of Paraíba, another city in Latin America, it has the same title, with the same category, which is Chordeleg, in Ecuador. The recognition of the capital João Pessoa, places it on the Brazilian tourist route for the richness of its popular art. This recognition had great contribution and influence, due to the mermaids project of Penha; where women artisans perform the manual work, dialoguing with the design, fashion, creative economy, highlighting the art with fish scales in copper wires."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ahmedabad",
-    "urlGoogle": "https://artsandculture.google.com/entity/ahmedabad/m01d88c"
+    "urlWiki": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Pessoa,_Para%C3%ADba",
+    "urlGoogle": "https://artsandculture.google.com/entity/joão-pessoa/m01hy9d"
   },
   "quote": {
-    "id": "65",
-    "quote": "The only road to good shows is bad ones. Just go start having a bad time, and if you don't give up, you will get better.",
-    "author": "Louis C.K."
+    "id": "55",
+    "quote": "The man who does not read has no advantage over the man who cannot read.",
+    "author": "Mark Twain"
   },
   "wiki": {
-    "id": "nikita-khrushchev",
-    "name": "Nikita Khrushchev",
-    "summary": "Nikita Khrushchev (1894–1971) led the Soviet Union during the Cold War. He served as First Secretary of the Communist Party of the Soviet Union from 1953 to 1964, and as Chairman of the Council of Ministers, or Premier, from 1958 to 1964. Khrushchev was responsible for the partial de-Stalinization of the Soviet Union, for backing the progress of the world's early space program, and for several relatively liberal reforms in areas of domestic policy. Khrushchev was born in the Russian village of Kalinovka in 1894. With the help of Lazar Kaganovich, he worked his way up the Soviet hierarchy. He supported Stalin's purges, and approved thousands of arrests. Stalin's political heirs fought for power after his death in 1953, a struggle in which Khrushchev, after several years, emerged triumphant. On February 25, 1956, at the Twentieth Party Congress, he delivered the \"Secret Speech\", vilifying Stalin and ushering in a less repressive era in the Soviet Union. Hoping eventually to rely on missiles for national defense, Khrushchev ordered major cuts in conventional forces. Despite the cuts, Khrushchev's rule saw the tensest years of the Cold War, culminating in the Cuban Missile Crisis.",
-    "url": "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
+    "id": "richard-cantillon",
+    "name": "Richard Cantillon",
+    "summary": "Richard Cantillon (1680s–1734) was an Irish economist and author of Essai Sur La Nature Du Commerce En Général (Essay on the Nature of Trade in General), a book considered by William Stanley Jevons to be the \"cradle of political economy\". Although little information exists on Cantillon's life, it is known that he became a successful banker and merchant at an early age. Essai remains Cantillon's only surviving contribution to economics. It was written around 1730 and circulated widely in manuscript form, but was not published until 1755. Despite having much influence on the early development of the physiocrat and classical schools of thought, Essai was largely forgotten until its rediscovery by Jevons in the late 19th century. During the late 1710s and early 1720s, Cantillon speculated in, and later helped fund, John Law's Mississippi Company, from which he acquired great wealth. Cantillon's entrepreneurial success, however, came at a cost to his debtors, who pursued him with lawsuits, criminal charges, and even murder plots until his death in 1734.",
+    "url": "https://en.wikipedia.org/wiki/Richard_Cantillon"
   },
   "word": {
-    "id": "irrupt",
-    "word": "irrupt",
-    "url": "https://www.merriam-webster.com/dictionary/irrupt",
+    "id": "thimblerig",
+    "word": "thimblerig",
+    "url": "https://www.merriam-webster.com/dictionary/thimblerig",
     "partOfSpeech": "verb",
-    "pronunciation": "ih-RUPT",
-    "audioPath": "audio/words/irrupt.mp3",
+    "pronunciation": "THIM-bul-rig",
+    "audioPath": "audio/words/thimblerig.mp3",
     "definitions": [
-      "to rush in forcibly or violently",
-      "to undergo a sudden upsurge in numbers especially when natural ecological balances and checks are disturbed",
-      "to become active or violent especially suddenly : erupt"
+      "to cheat by trickery",
+      "to swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location"
     ],
     "examples": [
-      "The stadium irrupted in applause for the local high school choir's outstanding rendition of the national anthem."
+      "The appraiser looked closely at the painting and then reluctantly told us that we had been _thimblerigged_ into buying a worthless copy.",
+      "\"_Thimblerigging_ the market was such an accepted practice some traders were even taunted for not stealing enough.\" - From Leah McGrath Goodman's 2011 book _The Asylum: The Renegades Who Hijacked the World's Oil Market_"
     ],
-    "origin": "\"Irrupt\" and \"erupt” have existed as discrete words since the 1800s. Both are descendants of the Latin verb \"rumpere,\" which means \"to break,\" but \"irrupt\" has affixed to it the prefix \"ir-\" (in the sense \"into\") while \"erupt\" begins with the prefix \"e-\" (meaning \"out\"). So \"to irrupt\" was originally to rush in, and \"to erupt\" was to burst out. But it's sometimes hard to distinguish the precise direction of a violent rush, and \"irrupt\" came to be used as a synonym of \"erupt\" in the senses \"to become active or violent especially suddenly\" and \"to break forth,\" as in our example sentence."
+    "origin": "The game of thimblerig seems innocent enough. The thimblerigger places a little ball, pea, or other small object under one of three thimbles or cups. He or she deftly scoots the cups around on a table, then asks the player to bet on which one hides the object. But thimbleriggers are masters of sleight of hand and can move and manipulate the object unfairly-so the guileless player doesn't stand a chance of winning. (The poor bettor is probably unaware that \"rig\" has meant \"to manipulate or control usually by deceptive or dishonest means\" since the 1800s.) When the same sham is played with nutshells, it's called a \"shell game,\" and there's a related game played with cards known as \"three-card monte.\""
   }
 }

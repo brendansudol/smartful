@@ -1,133 +1,130 @@
 {
   "artist": {
-    "id": "frans-floris",
-    "name": "Frans Floris",
-    "dates": "1517 - Oct 1, 1570",
-    "mainImg": "img/art/artists/frans-floris.jpg",
+    "id": "mikhail-vrubel",
+    "name": "Mikhail Vrubel",
+    "dates": "Mar 17, 1856 - Apr 14, 1910",
+    "mainImg": "img/art/artists/mikhail-vrubel.jpg",
     "artworkImgs": [
       {
-        "name": "The Fall of Man",
-        "path": "img/art/artworks/frans-floris-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-fall-of-man/LgEn6FIuAe0Blg"
+        "name": "The portrait of Valery Brusov by Mikhail Vrubel, a renowned Russian painter (1856-1910)",
+        "path": "img/art/artworks/mikhail-vrubel-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-portrait-of-valery-brusov-by-mikhail-vrubel-a-renowned-russian-painter-1856-1910-mikhail-vrubel/hgEP9ixeB9dpuw"
       },
       {
-        "name": "Pomona",
-        "path": "img/art/artworks/frans-floris-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/pomona-frans-floris-de-vriendt/RwH3u1O_DLR_FA"
+        "name": "Demon (sitting)",
+        "path": "img/art/artworks/mikhail-vrubel-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/demon-sitting-mikhail-vrubel/EQFjnAisIfWvAQ"
       },
       {
-        "name": "Cyparissus from set The Rural Gods",
-        "path": "img/art/artworks/frans-floris-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/cyparissus-from-set-the-rural-gods-cornelis-cort-frans-floris-i/DQGs40B8RkvnFg"
+        "name": "Портрет молодой грузинки",
+        "path": "img/art/artworks/mikhail-vrubel-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/портрет-молодой-грузинки-врубель-михаил-александрович/YgFsbw_26SkbCQ"
       },
       {
-        "name": "Triptolemus from The Rural Gods",
-        "path": "img/art/artworks/frans-floris-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/triptolemus-from-the-rural-gods-cornelis-cort-frans-floris-i/RQFmlqmErZM1Eg"
+        "name": "Bogatyr",
+        "path": "img/art/artworks/mikhail-vrubel-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/bogatyr/CQFDRYUF7ShoOw"
       },
       {
-        "name": "Odoratus",
-        "path": "img/art/artworks/frans-floris-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/odoratus-cornelis-cort-after-frans-floris-i/MgHTpG-SA2adDw"
+        "name": "The Princess of the Dream",
+        "path": "img/art/artworks/mikhail-vrubel-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-princess-of-the-dream-mikhail-vrubel/JwGPy8cbj-EJRw"
       },
       {
-        "name": "Venus and Cupid",
-        "path": "img/art/artworks/frans-floris-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/venus-and-cupid-frans-floris-de-vriendt/rQHXhB1vC2KxLw"
+        "name": "Flying Demon",
+        "path": "img/art/artworks/mikhail-vrubel-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/flying-demon/bAFhqr3Dw0C1tQ"
       }
     ],
     "summary": [
-      "Frans Floris, Frans Floris the Elder or Frans Floris de Vriendt was a Flemish painter, draughtsman, print artist and tapestry designer. He is mainly known for his history paintings, allegorical scenes and portraits. He played an important role in the movement in Northern Renaissance painting referred to as Romanism. The Romanists had typically travelled to Italy to study the works of leading Italian High Renaissance artists such as Michelangelo, Raphael and their followers. Their art assimilated these Italian influences into the Northern painting tradition."
+      "Mikhail Vrubel – a 19th-20th century Russian painter who worked in all genres of art, including painting, graphics, decorative sculpture, and theatrical art. In 1896, Vrubel married the famous singer Nadezhda Zabela-Vrubel whom he regularly painted.",
+      "Soviet historian Nina Dmitrieva compared Vrubel’s artistic biography to a three-act drama with prologue and epilogue, while the transition between acts was rapid and unexpected. The “Prologue” refers to his earlier years of studying and choosing a career path. The “first act” peaked in the 1880s when Vrubel was studying at the Imperial Academy of Arts and then moved to Kiev to study Byzantine and Christian art. The “second act” corresponded to the so-called “Moscow period” that started in 1890 with the painting “The Demon Seated” and ended in 1902 with “The Demon Downcast” and the subsequent hospitalization of the artist. The “third act” lasted from 1903 to 1906 when Vrubel was suffering from his mental illness that gradually undermined his physical and intellectual capabilities. For the last four years of his life, already being blind, Vrubel lived only physically."
     ],
     "quote": null,
-    "movements": ["Renaissance", "Northern Renaissance", "Dutch and Flemish Renaissance painting"],
-    "mediums": ["Engraving", "Etching", "Oil paint", "Ink", "Pen", "Laid paper"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Frans_Floris",
-    "urlGoogle": "https://artsandculture.google.com/entity/frans-floris/m03hg_g"
+    "movements": ["Symbolism", "Modernism", "Art Nouveau"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Mikhail_Vrubel",
+    "urlGoogle": "https://artsandculture.google.com/entity/mikhail-vrubel/m04_1zx"
   },
   "event": {
-    "id": "battle-of-turnhout",
-    "name": "Battle of Turnhout",
+    "id": "urartu-assyria-war",
+    "name": "Urartu–Assyria War",
     "dates": null,
-    "mainImg": "img/events/battle-of-turnhout.jpg",
+    "mainImg": "img/events/urartu-assyria-war.jpg",
     "summary": [
-      "The Battle of Turnhout also known as the Battle of Tielenheide was a military engagement which took place on 24 January 1597 in the border area between the Northern and Southern Netherlands at Turnhout during the Eighty Years' War and the Anglo-Spanish War.",
-      "After a small skirmish both armies confronted each other on an area of heathland. The Spanish cavalry was driven off, after which the English and Dutch cavalry fell upon the straggling Spanish infantry who were routed with heavy casualties."
+      "The Urartu–Assyria War was a conflict between the Kingdom of Urartu and the Neo-Assyrian Empire. The war began around 714 BC, with the invasion of Urartu by the Assyrian King Sargon II. Sargon led multiple offensives deep into Urartian territory, amassing numerous victories in the war. Following his death, however, Urartian Kings Argishti II and Rusa II launched many successful counterattacks, reclaiming Urartu's lost territory and gaining some from Assyria. However, their successors suffered multiple major defeats, resulting in Urartu becoming an Assyrian client state."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Turnhout_%281597%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-turnhout/m014sym"
+    "urlWiki": "https://en.wikipedia.org/wiki/Urartu%E2%80%93Assyria_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/urartu–assyria-war/m04lg3tz"
   },
   "funFacts": [
     {
-      "id": "215",
-      "fact": "Tennessee banned the use of a lasso to catch fish.",
-      "category": ["Geography", "Laws"]
+      "id": "709",
+      "fact": "Hybrid cars produce up to 75% less pollution than other vehicles.",
+      "category": ["Science"]
     },
     {
-      "id": "755",
-      "fact": "There are more chickens than people in the world.",
+      "id": "693",
+      "fact": "A male cricket's ear is located on the tibia of its leg.",
       "category": ["Animals"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "504868",
-      "fact": "Abraham Lincoln had the opportunity to populate the United States with elephants. He turned the offer down."
-    }
-  ],
+  "funFacts2": [{ "id": "553697", "fact": "Newborn elephants suck their trunks for comfort." }],
   "idiom": {
-    "id": "put-in-mothballs",
-    "term": "put in mothballs",
-    "definition": "Defer indefinitely or for a very long time, as in *We've put the plans for a new library in mothballs.* This expression alludes to storing woolen clothing or other items with marble-size balls of naphthalene or camphor to prevent them from being damaged by moths. [1940s]"
+    "id": "life-is-just-a-bowl-of-cherries",
+    "term": "life is just a bowl of cherries",
+    "definition": "These are happy circumstances; life is wonderful. This phrase is often used ironically, as in *My husband is about to get laid off--- life is just a bowl of cherries, right?* Originating as the title of a song (1931) by Lew Brown (lyrics) and composer Ray Henderson, this term expressed the idea that everything was going very well. However, its ironical use was established by the 1970s."
   },
   "person": {
-    "id": "stanislaw-maczek",
-    "name": "Stanisław Maczek",
-    "dates": "Mar 31, 1892 - Dec 11, 1994",
-    "mainImg": "img/people/stanislaw-maczek.jpg",
+    "id": "carl-spaatz",
+    "name": "Carl Spaatz",
+    "dates": "Jun 28, 1891 - Jul 14, 1974",
+    "mainImg": "img/people/carl-spaatz.jpg",
     "summary": [
-      "General Stanisław Maczek was a Polish tank commander of World War II, whose division was instrumental in the Allied liberation of France, closing the Falaise pocket, resulting in the destruction of 14 German Wehrmacht and SS divisions. A veteran of World War I, the Polish-Ukrainian and Polish–Soviet Wars, Maczek was the commander of Poland's only major armoured formation during the September 1939 campaign, and later commanded a Polish armoured formation in France in 1940. He was the commander of the famous 1st Polish Armoured Division, and later of the I Polish Army Corps under Allied Command in 1942–45."
+      "Carl Andrew Spaatz, nicknamed \"Tooey\", was an American World War II general. As commander of Strategic Air Forces in Europe in 1944, he successfully pressed for the bombing of the enemy's oil production facilities as a priority over other targets. He became Chief of Staff of the newly formed United States Air Force in 1947."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Maczek",
-    "urlGoogle": "https://artsandculture.google.com/entity/stanisław-maczek/m01xn4z"
+    "urlWiki": "https://en.wikipedia.org/wiki/Carl_Spaatz",
+    "urlGoogle": "https://artsandculture.google.com/entity/carl-spaatz/m01ykjv"
   },
   "place": {
-    "id": "thiruvananthapuram",
-    "name": "Thiruvananthapuram",
-    "mainImg": "img/places/thiruvananthapuram.jpg",
+    "id": "auburn",
+    "name": "Auburn",
+    "mainImg": "img/places/auburn.jpg",
     "summary": [
-      "Thiruvananthapuram, also known by its former name Trivandrum, is the capital of the Indian state of Kerala. It is the most populous city in Kerala with a population of 957,730 as of 2011. The encompassing urban agglomeration population is around 1.68 million. Located on the west coast of India near the extreme south of the mainland, Thiruvananthapuram is a major Information Technology hub in Kerala and contributes 55% of the state's software exports as of 2016. Referred to by Mahatma Gandhi as the \"Evergreen city of India\", the city is characterised by its undulating terrain of low coastal hills.",
-      "The Ays ruled the present region of Thiruvananthapuram until the 10th century. With their fall in the 10th century, the city was taken over by the Chera dynasty. The city was later taken over by the Kingdom of Venad in the 12th century. In the 17th century the king Marthanda Varma expanded the territory and founded the princely state of Travancore and Thiruvananthapuram was made capital of Travancore. Following India's independence in 1947, Thiruvananthapuram became the capital of Travancore-Cochin state and remained capital when the new Indian state of Kerala was formed in 1956."
+      "Auburn is a city in Lee County, Alabama, United States. It is the largest city in eastern Alabama with a 2019 population of 66,259. It is a principal city of the Auburn-Opelika Metropolitan Area. The Auburn-Opelika, AL MSA with a population of 158,991, along with the Columbus, GA-AL MSA and Tuskegee, Alabama, comprises the greater Columbus-Auburn-Opelika, GA-AL CSA, a region home to 501,649 residents.",
+      "Auburn is a historic college town and is the home of Auburn University. It is Alabama's fastest-growing metropolitan area and the nineteenth fastest-growing metro area in the United States since 1990. U.S. News ranked Auburn among its top ten list of best places to live in the United States for the year 2009. The city's unofficial nickname is \"The Loveliest Village On The Plains,\" taken from a line in the poem The Deserted Village by Oliver Goldsmith: \"Sweet Auburn! Loveliest village of the plain...\""
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Thiruvananthapuram",
-    "urlGoogle": "https://artsandculture.google.com/entity/thiruvananthapuram/m0fk98"
+    "urlWiki": "https://en.wikipedia.org/wiki/Auburn,_Alabama",
+    "urlGoogle": "https://artsandculture.google.com/entity/auburn/m0q8p8"
   },
   "quote": {
-    "id": "57",
-    "quote": "Things work out best for those who make the best of how things work out.",
-    "author": "John Wooden"
+    "id": "72",
+    "quote": "Don't sweat the petty things and don't pet the sweaty things.",
+    "author": "George Carlin"
   },
   "wiki": {
-    "id": "2007-uefa-champions-league-final",
-    "name": "2007 UEFA Champions League Final",
-    "summary": "The 2007 UEFA Champions League Final was a football match played at the Olympic Stadium in Athens, Greece, on 23 May 2007, to decide the winner of the 2006–07 UEFA Champions League. English club Liverpool faced Italy's A.C. Milan in a repeat match-up of the 2005 final. A.C. Milan won the match 2–1, after two goals from man of the match Filippo Inzaghi. Before 2007, A.C. Milan's last triumph had been in the 2003 final, while Liverpool's was against Milan in the 2005 final. Liverpool and A.C. Milan started their UEFA Champions League campaigns in the Third Qualifying round, both sides progressed to the group stages, and won their respective groups. Before the match there were ticketing problems. This was due to a large number of fans gaining entry to the stadium, without tickets. After the match, a UEFA spokesman accused Liverpool of having the worst fans in Europe, a claim later denied by the UEFA president, Michel Platini.",
-    "url": "https://en.wikipedia.org/wiki/2007_UEFA_Champions_League_Final"
+    "id": "transformers-film",
+    "name": "Transformers (film)",
+    "summary": "Transformers is a 2007 American science fiction action film based on the Transformers toy line. The film, which combines computer animation with live action, is directed by Michael Bay and produced by Steven Spielberg. It stars Shia LaBeouf as Sam Witwicky, a teenager involved in a war between the heroic Autobots and the evil Decepticons, two factions of alien robots that can disguise themselves by transforming into everyday machinery. The Decepticons desire control of the AllSpark, the object that created their robotic race, with the intention of using it to build an army by giving life to the machines of Earth. Megan Fox, Josh Duhamel, Tyrese Gibson, Jon Voight, Anthony Anderson and John Turturro also star, while actors Peter Cullen and Hugo Weaving voice Optimus Prime and Megatron respectively. Transformers was a box-office success, despite mixed critical reaction. Two sequels have been released: Transformers: Revenge of the Fallen in 2009 and Transformers: Dark of the Moon in 2011.",
+    "url": "https://en.wikipedia.org/wiki/Transformers_(film)"
   },
   "word": {
-    "id": "mantic",
-    "word": "mantic",
-    "url": "https://www.merriam-webster.com/dictionary/mantic",
+    "id": "ephebic",
+    "word": "ephebic",
+    "url": "https://www.merriam-webster.com/dictionary/ephebic",
     "partOfSpeech": "adjective",
-    "pronunciation": "MAN-tik",
-    "audioPath": "audio/words/mantic.mp3",
-    "definitions": ["of or relating to the faculty of divination : prophetic"],
-    "examples": [
-      "Ever since we visited that fortune teller at the carnival, Mary has shown a strong interest in astrology and the other _mantic_ arts.",
-      "\"Like everyone else, I was in awe of her _mantic_ abilities, and I think she looked upon my storytelling endeavors with indulgence, having known both my father and my grandfather in their prime.\" -- From Joydeep Roy-Bhattacharya's 2011 novel _The Storyteller of Marrakesh_"
+    "pronunciation": "ih-FEE-bik",
+    "audioPath": "audio/words/ephebic.mp3",
+    "definitions": [
+      "of, relating to, or characteristic of a youth of ancient Greece or a young man"
     ],
-    "origin": "The adjective \"mantic\" comes from the Greek word \"mantikos,\" which itself derives from \"mantis,\" meaning \"prophet.\" The mantis insect got its name from this same source, supposedly because its posture -- with the forelimbs extended as though in prayer --reminded folks of a prophet. Not surprisingly, the combining form \"-mancy,\" which means \"divination in a (specified) manner\" (as in \"necromancy\" and \"pyromancy\"), is a relative of \"mantic.\" A less expected, and more distant, relative is \"mania,\" meaning \"insanity marked by uncontrollable emotion or excitement\" or \"excessive enthusiasm.\" \"Mania\" descends from Greek \"mainesthai\" (\"to be mad\"), a word akin to \"mantis\" and its offspring. And indeed, prophesying in ancient Greece was sometimes believed to be \"inspired madness.\""
+    "examples": [
+      "\"_Ephebic_ training included athletic instruction in the events which were contested in the Olympics and in the hundreds of other athletic contests of the eastern Mediterranean.\" - From a post by Dr. Jason Koenig at his Ancient and Modern Olympics blog, May 31, 2013",
+      "\"This Old Master didn't disport himself with mistresses or, like Leonardo and Michelangelo, with _ephebic_ young men; most of his surviving correspondence chases unpaid bills.\" - From a book review by Peter Conrad in _The Observer_, December 2, 2012"
+    ],
+    "origin": "An ephebus was a youth in ancient Greece who had reached the age of puberty. The name is from the Greek word \"ephēbos,\" from \"epi-\" (\"upon\") and \"hēbē\" (\"youth\" or \"puberty\"). Ephebi (the plural of \"ephebus\") aged 18 or 19 were at one time required to undergo two years of stringent military training, but the requirement became less compulsory and the training less rigorous and militaristic over time. The youthfulness of the ephebi inspired both the adjective \"ephebic\" and the noun \"ephebe.\" The latter can mean \"a young man,\" as illustrated by John Walsh in the _Independent Extra_, March 23, 2010: \"When you're 40, the sight of your one-time room-mate Philip, once a skinny ephebe with golden ringlets, now transmogrified into a burly renegade with a head like a Sumo bouncer and a body to match, is frightening.\""
   }
 }

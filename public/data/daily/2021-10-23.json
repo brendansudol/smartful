@@ -1,128 +1,119 @@
 {
   "artist": {
-    "id": "ren-bonian",
-    "name": "Ren Bonian",
-    "dates": "1840 - 1896",
-    "mainImg": "img/art/artists/ren-bonian.jpg",
+    "id": "bertel-thorvaldsen",
+    "name": "Bertel Thorvaldsen",
+    "dates": "Nov 19, 1770 - Mar 24, 1844",
+    "mainImg": "img/art/artists/bertel-thorvaldsen.jpg",
     "artworkImgs": [
       {
-        "name": "現代 任頤 鍾馗像 軸|Zhong Kui",
-        "path": "img/art/artworks/ren-bonian-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/現代-任頤-鍾馗像-軸-zhong-kui-ren-yi-ren-bonian/nQE_j9xm32z6-w"
+        "name": "Possibly Lady Georgiana Bingham",
+        "path": "img/art/artworks/bertel-thorvaldsen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/possibly-lady-georgiana-bingham-bertel-thorvaldsen/aQE-rwFgnd3ekA"
       },
       {
-        "name": "清 任頤 軸|Man on a Bridge",
-        "path": "img/art/artworks/ren-bonian-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/清-任頤-軸-man-on-a-bridge-ren-yi-ren-bonian/uwGHlC04eI-73w"
+        "name": "Possibly Lady Louisa Bingham",
+        "path": "img/art/artworks/bertel-thorvaldsen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/possibly-lady-louisa-bingham-bertel-thorvaldsen/ZgGJ6BYCh7Bm0A"
       },
       {
-        "name": "清 任頤 動物花鳥 冊頁八開|Animals, Flowers and Birds",
-        "path": "img/art/artworks/ren-bonian-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/清-任頤-動物花鳥-冊頁八開-animals-flowers-and-birds-ren-yi-ren-bonian/PAFldfs28O3Wlg"
+        "name": "Ganimede and the eagle",
+        "path": "img/art/artworks/bertel-thorvaldsen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/ganimede-and-the-eagle-bertel-thorvaldsen/gQGCtaxaZj6hnQ"
       },
       {
-        "name": "清 任頤 石上讀書 扇面|Scholar on a Rock",
-        "path": "img/art/artworks/ren-bonian-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/清-任頤-石上讀書-扇面-scholar-on-a-rock-ren-yi-ren-bonian/QgFV7Z9XLB2Plg"
+        "name": "Hectors farewell to Andromache and Astyanax",
+        "path": "img/art/artworks/bertel-thorvaldsen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/hectors-farewell-to-andromache-and-astyanax/UQFZSJAa-5axdg"
       },
       {
-        "name": "Portrait of Zhao Dechang and His Wife",
-        "path": "img/art/artworks/ren-bonian-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-zhao-dechang-and-his-wife-ren-bonian/rwFs9xlKzNazmA"
+        "name": "The three Graces",
+        "path": "img/art/artworks/bertel-thorvaldsen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-three-graces-bertel-thorvaldsen/4AEyfWkTsalpBA"
       },
       {
-        "name": "Jingu Garden (hanging scroll)",
-        "path": "img/art/artworks/ren-bonian-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/jingu-garden-hanging-scroll-ren-yi/RQHl2M1MV6VMNg"
+        "name": "Jason with the Golden Fleece",
+        "path": "img/art/artworks/bertel-thorvaldsen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/jason-with-the-golden-fleece/MQHWu_stdpffgw"
       }
     ],
     "summary": [
-      "Ren Yi, also known as Ren Bonian, was a painter and son of a rice merchant who supplemented his income by doing portraits. He was born in Zhejiang, but after the death of his father in 1855 he lived in Shanghai. This move placed him in a more urban world that was exposed to Western thinking. In Shanghai he became a member of the Shanghai School which fused popular and traditional styles. Ren Bonian ranked with Ren Xiong, Ren Xun and Ren Yu as the \"Four Rens.\"",
-      "He was noted for his bold brushstrokes and use of color. In his earlier career the Song Dynasty painters influenced him, but later on he favored a freer style influenced by the works of Zhu Da."
+      "Bertel Thorvaldsen was a Danish sculptor of international fame and medallist, who spent most of his life in Italy. Thorvaldsen was born in Copenhagen into a Danish/Icelandic family of humble means, and was accepted to the Royal Danish Academy of Art when he was eleven years old. Working part-time with his father, who was a wood carver, Thorvaldsen won many honors and medals at the academy. He was awarded a stipend to travel to Rome and continue his education.",
+      "In Rome, Thorvaldsen made a name for himself as a sculptor. Maintaining a large workshop in the city, he worked in a heroic neo-classicist style. His patrons resided all over Europe.",
+      "Upon his return to Denmark in 1838, Thorvaldsen was received as a national hero. The Thorvaldsen Museum was erected to house his works next to Christiansborg Palace. Thorvaldsen is buried within the courtyard of the museum. In his time, he was seen as the successor of master sculptor Antonio Canova. His strict adherence to classical norms has tended to estrange modern audiences."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Bark", "Aluminium", "Metal", "Pigment"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Ren_Bonian",
-    "urlGoogle": "https://artsandculture.google.com/entity/ren-bonian/m08dkqc"
+    "movements": ["Neoclassicism", "Classicism"],
+    "mediums": ["Drawing", "Sculpture", "Rock", "Marble", "Plaster", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Bertel_Thorvaldsen",
+    "urlGoogle": "https://artsandculture.google.com/entity/bertel-thorvaldsen/m0h9x_"
   },
   "event": {
-    "id": "assassination-of-abraham-lincoln",
-    "name": "Assassination of Abraham Lincoln",
-    "dates": null,
-    "mainImg": "img/events/assassination-of-abraham-lincoln.jpg",
+    "id": "battle-of-a-sau",
+    "name": "Battle of A Sau",
+    "dates": "Mar 9, 1966 - Mar 10, 1966",
+    "mainImg": "img/events/battle-of-a-sau.jpg",
     "summary": [
-      "Abraham Lincoln, the 16th President of the United States, was assassinated by well-known stage actor John Wilkes Booth on April 14, 1865, while attending the play Our American Cousin at Ford's Theatre in Washington, D.C.",
-      "Shot in the head as he watched the play, Lincoln died the following day at 7:22 am, in the Petersen House opposite the theater. He was the first U.S. president to be assassinated, with his funeral and burial marking an extended period of national mourning.",
-      "Occurring near the end of the American Civil War, the assassination was part of a larger conspiracy intended by Booth to revive the Confederate cause by eliminating the three most important officials of the United States government.",
-      "Conspirators Lewis Powell and David Herold were assigned to kill Secretary of State William H. Seward, and George Atzerodt was tasked with killing Vice President Andrew Johnson.",
-      "Beyond Lincoln's death, the plot failed: Seward was only wounded and Johnson's would-be attacker lost his nerve. After a dramatic initial escape, Booth was killed at the climax of a 12-day manhunt. Powell, Herold, Atzerodt and Mary Surratt were later hanged for their roles in the conspiracy."
+      "The Battle of A Shau was waged in early 1966 during the Vietnam War between the People's Army of Vietnam and the forces of the United States and South Vietnam. The battle began on March 9 and lasted until March 10 with the fall of the U.S. Army's Special Forces camp of the same name. The battle was a strategic victory for the PAVN in that they were able to take control of the A Shau Valley and use it as a base area for the rest of the war."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln",
-    "urlGoogle": "https://artsandculture.google.com/entity/assassination-of-abraham-lincoln/m0cvfxb"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_A_Sau",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-a-sau/m0gg5y6"
   },
   "funFacts": [
-    { "id": "94", "fact": "Lizards communicate by doing push-ups.", "category": ["Animals"] },
+    { "id": "15", "fact": "All porcupines float in water.", "category": ["Animals"] },
     {
-      "id": "948",
-      "fact": "Early football fields were painted with both horizontal and vertical lines, creating a pattern that resembled a gridiron.",
-      "category": ["History", "Firsts"]
+      "id": "705",
+      "fact": "Every ton of recycled paper saves about 17 trees.",
+      "category": ["Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553838",
-      "fact": "The aurora australis is the southern version of the aurora borealis. Tasmania, New Zealand, and Antarctica are a few of the best places to scope out the Southern Lights from land."
+      "id": "504868",
+      "fact": "Abraham Lincoln had the opportunity to populate the United States with elephants. He turned the offer down."
     }
   ],
-  "idiom": {
-    "id": "see-the-elephant",
-    "term": "see the elephant",
-    "definition": "Experience more than one wants to, learn a hard lesson; also, see combat, especially for the first time. For example, *After the expedition lost two climbers in an avalanche, they had seen the elephant and turned back,* or *On his first tour of duty he saw the elephant.* This slangy expression, first recorded in 1835, alludes to having seen all the sights one can see, including that rare beast, and returning home unimpressed or disappointed."
-  },
   "person": {
-    "id": "robert-f-kennedy",
-    "name": "Robert F. Kennedy",
-    "dates": "Nov 20, 1925 - Jun 6, 1968",
-    "mainImg": "img/people/robert-f-kennedy.jpg",
+    "id": "yael-dayan",
+    "name": "Yael Dayan",
+    "dates": "Born Dec 2, 1939",
+    "mainImg": "img/people/yael-dayan.jpg",
     "summary": [
-      "Robert Francis Kennedy, sometimes referred to by the initials RFK and occasionally Bobby, was an American politician and lawyer who served as the 64th United States Attorney General from January 1961 to September 1964, and as a U.S. Senator from New York from January 1965 until his assassination in June 1968. Kennedy, like his brothers John and Edward, was a prominent member of the Democratic Party and has come to be viewed by some historians as an icon of modern American liberalism.",
-      "Kennedy was born into a wealthy, political family in Brookline, Massachusetts. After serving in the U.S. Naval Reserve as a seaman apprentice from 1944 to 1946, Kennedy returned to his studies at Harvard University, graduating in 1948. He received his law degree from the University of Virginia, and was admitted to the Massachusetts bar in 1951. He began his career as a correspondent for The Boston Post and as a lawyer at the Justice Department, but later resigned to manage his brother John's successful campaign for the U.S. Senate in 1952. The following year, he worked as an assistant counsel to the Senate committee chaired by Senator Joseph McCarthy."
-    ],
-    "quote": "“Tragedy is a tool for the living to gain wisdom, not a guide by which to live.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
-    "urlGoogle": "https://artsandculture.google.com/entity/robert-f-kennedy/m06hx2"
-  },
-  "place": {
-    "id": "pula",
-    "name": "Pula",
-    "mainImg": "img/places/pula.jpg",
-    "summary": [
-      "Pula is the largest city in Istria County, Croatia and the eighth largest city in the country, situated at the southern tip of the Istrian peninsula, with a population of 57,460 in 2011. It is known for its multitude of ancient Roman buildings, the most famous of which is the Pula Arena, one of the best preserved Roman amphitheaters, and its beautiful sea. The city has a long tradition of wine making, fishing, shipbuilding, and tourism. It was the administrative centre of Istria from ancient Roman times until superseded by Pazin in 1991."
+      "Yaël Dayan is an Israeli politician and author. She served as a member of the Knesset between 1992 and 2003, and from 2008 to 2013 was the chair of Tel Aviv city council. Her service on the city council ended with the 2013 election. She is the daughter of Moshe Dayan and sister of Assi Dayan and Udi Dayan."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Pula",
-    "urlGoogle": "https://artsandculture.google.com/entity/pula/m02lw53"
+    "urlWiki": "https://en.wikipedia.org/wiki/Yael_Dayan",
+    "urlGoogle": "https://artsandculture.google.com/entity/yael-dayan/m0584xy"
+  },
+  "place": {
+    "id": "swansea",
+    "name": "Swansea",
+    "mainImg": "img/places/swansea.jpg",
+    "summary": [
+      "Swansea is a coastal city and county, officially known as the City and County of Swansea in Wales. Swansea lies within the historic county boundaries of Glamorgan and the ancient Welsh commote of Gŵyr on the southwest coast. The county area includes Swansea Bay and the Gower Peninsula. Swansea is the second largest city in Wales and the twenty-fifth largest city in the United Kingdom. Swansea had a population of 241,300 in 2014; the second most populous local authority area in Wales after Cardiff. Together with Neath and Port Talbot, Swansea formed a wider Urban Area of 300,352 in 2011.",
+      "During the 19th-century industrial heyday, Swansea was the key centre of the copper-smelting industry, earning the nickname Copperopolis."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Swansea",
+    "urlGoogle": "https://artsandculture.google.com/entity/swansea/m0ck6r"
   },
   "wiki": {
-    "id": "don-valley-parkway",
-    "name": "Don Valley Parkway",
-    "summary": "The Don Valley Parkway is a controlled-access six-lane municipal expressway in Toronto connecting the Gardiner Expressway with Highway 401. North of Highway 401, it continues as Highway 404 to Newmarket. The parkway runs through the parklands of the Don River valley, after which it is named. It was the second expressway to be built by Metropolitan Toronto (Metro). Planning began in 1954, the year of Metro's formation. The first section opened on August 31, 1961, and the final section on November 17, 1966. The parkway operates well beyond its intended capacity of 60,000 vehicles per day and is known for daily traffic jams; some sections carry an average of 100,000 vehicles a day. Planned as part of a larger expressway network within Toronto, it was one of the few expressways built before the public opposition which cancelled many of the others.",
-    "url": "https://en.wikipedia.org/wiki/Don_Valley_Parkway"
+    "id": "if-day",
+    "name": "If Day",
+    "summary": "If Day was a simulated Nazi invasion of the Canadian city of Winnipeg, Manitoba, and surrounding areas on February 19, 1942, during the Second World War. It was an elaborate campaign to promote the purchase of Victory Bonds, loans to the government to allow for increased war spending, and over C$3 million was collected in Winnipeg on If Day. As money came in from those selling Victory Bonds, the sections were \"reclaimed\" from the Nazi invaders. The event was organized by the Greater Winnipeg Victory Loan organization, led by prominent Winnipeg businessman J. D. Perrin. The organizers believed that bringing the war (or, rather, a simulation thereof) to people's homes would result in a change of attitude among those not directly affected by the war. The simulation included 3,500 Canadian Army members, representing all of Winnipeg's units, making it the largest military exercise in Winnipeg to that point. If Day included a staged firefight between Canadian troops and volunteers dressed as German soldiers, the internment of prominent politicians, the imposition of Nazi rule, and a parade. It was the subject of a 2006 documentary, and was included in Guy Maddin's film My Winnipeg.",
+    "url": "https://en.wikipedia.org/wiki/If_Day"
   },
   "word": {
-    "id": "calaboose",
-    "word": "calaboose",
-    "url": "https://www.merriam-webster.com/dictionary/calaboose",
+    "id": "causerie",
+    "word": "causerie",
+    "url": "https://www.merriam-webster.com/dictionary/causerie",
     "partOfSpeech": "noun",
-    "pronunciation": "KAL-uh-booss",
-    "audioPath": "audio/words/calaboose.mp3",
-    "definitions": ["jail; especially : a local jail"],
+    "pronunciation": "kohz-REE",
+    "audioPath": "audio/words/causerie.mp3",
+    "definitions": ["an informal conversation : chat", "a short informal essay"],
     "examples": [
-      "The chief entertainment at our family gatherings is always the stories my uncles tell of their wild youthful antics -- some of which landed them in the _calaboose_ for a night.",
-      "\"Dallas broke the law, according to the lawsuit, because it lied in violation of the False Claims Act. The False Claims Act can be enforced criminally (off to the _calaboose_) or civilly (write a big check).\" -- From an article by Jim Schutze in the _Dallas Observer_, November 24, 2011"
+      "After the table was cleared and coffee was served, the dinner guests rose and continued their causerie in the other room."
     ],
-    "origin": "\"Calaboose\" had been part of the English language for almost a century when John S. Farmer included the term in his 1889 book _Americanisms -- Old & New_, defining it as \"the common gaol or prison.\" Farmer also made mention of a verb \"calaboose,\" meaning \"to imprison,\" but that term was apparently lost in the years between then and now. \"Calaboose\" is Spanish in origin; it's from the Spanish word \"calabozo,\" meaning \"dungeon.\""
+    "origin": "\"Causerie\" first appeared in English in the early 19th century, and it can be traced back to French \"causer\" (\"to chat\") and ultimately to Latin \"causa\" (\"cause, reason\"). The word was originally used to refer to a friendly or informal conversation. Then, in 1849, the author and critic Charles-Augustin Sainte-Beuve began publishing a weekly column devoted to literary topics in the French newspaper _Le Constitutionnel_. These critical essays were called \"Causeries du lundi\" (\"Monday chats\") and were later collected into a series of books of the same name. After that, the word \"causerie\" acquired a second sense in English, referring to a brief, informal article or essay."
   }
 }

@@ -1,131 +1,127 @@
 {
   "artist": {
-    "id": "bernardo-strozzi",
-    "name": "Bernardo Strozzi",
-    "dates": "1581 - Aug 2, 1644",
-    "mainImg": "img/art/artists/bernardo-strozzi.jpg",
+    "id": "tilman-riemenschneider",
+    "name": "Tilman Riemenschneider",
+    "dates": "1460 - Jul 7, 1531",
+    "mainImg": "img/art/artists/tilman-riemenschneider.jpg",
     "artworkImgs": [
       {
-        "name": "The release of St Peter",
-        "path": "img/art/artworks/bernardo-strozzi-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-release-of-st-peter-bernardo-strozzi/AgEyTluBFe2rLw"
+        "name": "Standing Virgin with Child",
+        "path": "img/art/artworks/tilman-riemenschneider-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/standing-virgin-with-child-tilman-riemenschneider/AQGyzc4ralhULg"
       },
       {
-        "name": "The Cook",
-        "path": "img/art/artworks/bernardo-strozzi-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-cook-bernardo-strozzi/YQEdTTOFOX3lfQ"
+        "name": "Christ Appears to Mary Magdalene, from the Münnerstadt Retable",
+        "path": "img/art/artworks/tilman-riemenschneider-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-appears-to-mary-magdalene-from-the-münnerstadt-retable-tilman-riemenschneider/pwHbzVjcLQzrrQ"
       },
       {
-        "name": "Doubting Thomas",
-        "path": "img/art/artworks/bernardo-strozzi-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/doubting-thomas-bernardo-strozzi/7gGtdJAxF2krGQ"
+        "name": "The Four Evangelists, from the Münnerstadt Retable",
+        "path": "img/art/artworks/tilman-riemenschneider-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-four-evangelists-from-the-münnerstadt-retable-tilman-riemenschneider/tgFm2ezcJ1JFRA"
       },
       {
-        "name": "Vanitas (Old Coquette)",
-        "path": "img/art/artworks/bernardo-strozzi-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/vanitas-old-coquette/3QHiHQNOes2mew"
+        "name": "Angels playing Instruments and singing",
+        "path": "img/art/artworks/tilman-riemenschneider-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/angels-playing-instruments-and-singing-tilman-riemenschneider/5gFZfXcTKBR-cA"
       },
       {
-        "name": "St. Lawrence Distributing the Treasures of the Church",
-        "path": "img/art/artworks/bernardo-strozzi-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/st-lawrence-distributing-the-treasures-of-the-church-bernardo-strozzi/3wH8pF09IrWWXw"
+        "name": "St. George Fighting the Dragon",
+        "path": "img/art/artworks/tilman-riemenschneider-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/st-george-fighting-the-dragon-tilman-riemenschneider/4gEIb-GPpMMwtA"
       },
       {
-        "name": "Sleeping Child",
-        "path": "img/art/artworks/bernardo-strozzi-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/sleeping-child-strozzi-bernardo-1581-82–1644/lgGBr4-XqrJHKA"
+        "name": "Virgin and Child on the Crescent Moon",
+        "path": "img/art/artworks/tilman-riemenschneider-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-and-child-on-the-crescent-moon-tilman-riemenschneider/1wHfAs16teuq9Q"
       }
     ],
     "summary": [
-      "Bernardo Strozzi, named il Cappuccino and il Prete Genovese was an Italian Baroque painter and engraver. A canvas and fresco artist, his wide subject range included history, allegorical, genre and portrait paintings as well as still lifes. Born and initially mainly active in Genoa, he worked in Venice in the latter part of his career. His work exercised considerable influence on artistic developments in both cities. He is considered a principal founder of the Venetian Baroque style. His powerful art stands out by its rich and glowing colour and broad, energetic brushstrokes."
+      "Tilman Riemenschneider was a German sculptor and woodcarver active in Würzburg from 1483. He was one of the most prolific and versatile sculptors of the transition period between late Gothic and Renaissance, a master in stone and limewood."
     ],
     "quote": null,
-    "movements": ["Baroque"],
-    "mediums": ["Oil paint", "Chalk", "Pigment", "Ink", "Drawing", "Laid paper"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Bernardo_Strozzi",
-    "urlGoogle": "https://artsandculture.google.com/entity/bernardo-strozzi/m04yrnn"
+    "movements": ["Northern Renaissance", "Renaissance", "German Renaissance", "Gothic art"],
+    "mediums": ["Sculpture", "Wood", "Oak", "Alabaster"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Tilman_Riemenschneider",
+    "urlGoogle": "https://artsandculture.google.com/entity/tilman-riemenschneider/m030dkt"
   },
   "event": {
-    "id": "space-shuttle-challenger-disaster",
-    "name": "Space Shuttle Challenger disaster",
-    "dates": null,
-    "mainImg": "img/events/space-shuttle-challenger-disaster.jpg",
+    "id": "prague-offensive",
+    "name": "Prague Offensive",
+    "dates": "May 6, 1945 - May 11, 1945",
+    "mainImg": "img/events/prague-offensive.jpg",
     "summary": [
-      "The Space Shuttle Challenger disaster was a fatal incident in the United States space program that occurred on Tuesday, January 28, 1986, when the Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members aboard. The crew consisted of five NASA astronauts, one payload specialist, and a civilian schoolteacher. The mission carried the designation STS-51-L and was the tenth flight for the Challenger orbiter.",
-      "The spacecraft disintegrated over the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 11:39 a.m. EST. The disintegration of the vehicle began after a joint in its right solid rocket booster failed at liftoff. The failure was caused by the failure of O-ring seals used in the joint that were not designed to handle the unusually cold conditions that existed at this launch. The seals' failure caused a breach in the SRB joint, allowing pressurized burning gas from within the solid rocket motor to reach the outside and impinge upon the adjacent SRB aft field joint attachment hardware and external fuel tank. This led to the separation of the right-hand SRB's aft field joint attachment and the structural failure of the external tank."
+      "The Prague Offensive was the last major military operation of World War II in Europe. The offensive was fought on the Eastern Front from 6 May to 11 May 1945. Fought concurrently with the Prague uprising, the offensive was one of the last engagements of World War II in Europe and continued after Nazi Germany's unconditional capitulation on 8 May.",
+      "The city of Prague was ultimately liberated by the USSR during the Prague Offensive. All of the German troops of Army Group Centre and many of Army Group Ostmark were killed or captured, or fell into the hands of the Allies after the capitulation."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
-    "urlGoogle": "https://artsandculture.google.com/entity/space-shuttle-challenger-disaster/m0244_r"
+    "urlWiki": "https://en.wikipedia.org/wiki/Prague_Offensive",
+    "urlGoogle": "https://artsandculture.google.com/entity/prague-offensive/m04z5b9"
   },
   "funFacts": [
     {
-      "id": "272",
-      "fact": "At birth a human has 350 bones, but only 206 bones when full grown.",
-      "category": ["Anatomy", "Onlies"]
+      "id": "257",
+      "fact": "The first food eaten in space by a U.S. astronaut was applesauce.",
+      "category": ["Food", "Firsts"]
     },
-    { "id": "970", "fact": "Dolphins are unable to smell.", "category": ["Animals", "Science"] }
-  ],
-  "funFacts2": [
     {
-      "id": "553842",
-      "fact": "In curling, good sportsmanship and politeness are essential. Congratulating opponents on plays and abstaining from trash talk are part of what’s known as the “Spirit of Curling.”"
+      "id": "708",
+      "fact": "Manufacturing recycled goods uses up to 95% less energy than using raw materials.",
+      "category": ["Science"]
     }
   ],
+  "funFacts2": [{ "id": "554102", "fact": "The national animal of Scotland is the unicorn." }],
   "idiom": {
-    "id": "life-is-just-a-bowl-of-cherries",
-    "term": "life is just a bowl of cherries",
-    "definition": "These are happy circumstances; life is wonderful. This phrase is often used ironically, as in *My husband is about to get laid off--- life is just a bowl of cherries, right?* Originating as the title of a song (1931) by Lew Brown (lyrics) and composer Ray Henderson, this term expressed the idea that everything was going very well. However, its ironical use was established by the 1970s."
+    "id": "for-a-song",
+    "term": "for a song",
+    "definition": "Very cheaply, for little money, especially for less than something is worth. For example, \"I know a man ... sold a goodly manor for a song\" (Shakespeare, *All's Well That Ends Well,* 3:2). This idiom alludes to the pennies given to street singers or to the small cost of sheet music. [Late 1500s]"
   },
   "person": {
-    "id": "ruhollah-khomeini",
-    "name": "Ruhollah Khomeini",
-    "dates": "Sep 24, 1902 - Jun 3, 1989",
-    "mainImg": "img/people/ruhollah-khomeini.jpg",
+    "id": "mitt-romney",
+    "name": "Mitt Romney",
+    "dates": "Born Mar 12, 1947",
+    "mainImg": "img/people/mitt-romney.jpg",
     "summary": [
-      "Sayyid Ruhollah Musavi Khomeini, also known in the Western world as Ayatollah Khomeini, was an Iranian politician, revolutionary, and cleric. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution, which saw the overthrow of the last Shah of Iran, Mohammad Reza Pahlavi, and the end of the 2,500 year old Persian monarchy. Following the revolution, Khomeini became the country's Supreme Leader, a position created in the constitution of the Islamic Republic as the highest-ranking political and religious authority of the nation, which he held until his death. He was succeeded by Ali Khamenei on 4 June 1989.",
-      "Khomeini was born in 1902 in Khomeyn, in what is now Iran's Markazi Province. His father was murdered in 1903 when Khomeini was five months old. He began studying the Quran and the Persian language from a young age and was assisted in his religious studies by his relatives, including his mother's cousin and older brother.",
-      "Khomeini was a marja in Twelver Shia Islam, a Mujtahid or faqih and author of more than 40 books, but he is primarily known for his political activities."
+      "Willard Mitt Romney is an American politician, businessman and former presidential candidate who has served as the junior United States senator from Utah since January 2019. He previously served as the 70th Governor of Massachusetts from 2003 to 2007 and was the Republican Party's nominee for President of the United States in the 2012 election.",
+      "Raised in Bloomfield Hills, Michigan, by his parents, George and Lenore Romney, he spent over two years from 1966 in France as a Mormon missionary. He married Ann Davies in 1969; they have five sons. By 1971, he had participated in the political campaigns of both parents. Romney earned a Bachelor of Arts in English from Brigham Young University in 1971 and a joint JD–MBA from Harvard University in 1975. Romney became a management consultant and in 1977 joined Bain & Company in Boston. As Bain's chief executive officer, he later helped lead the company out of a financial crisis. In 1984, he co-founded and led the spin-off company Bain Capital, a highly profitable private equity investment firm that became one of the largest of its kind in the nation."
     ],
-    "quote": "“In Iran's future Islamic system everyone can express their opinion, and the Islamic government will respond to logic with logic”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini",
-    "urlGoogle": "https://artsandculture.google.com/entity/ruhollah-khomeini/m06jsx"
+    "quote": "“Even though I love solar and love wind, like most people do, I like the renewable sources, they alone are not going to get America energy independent.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Mitt_Romney",
+    "urlGoogle": "https://artsandculture.google.com/entity/mitt-romney/m0271_s"
   },
   "place": {
-    "id": "orlando",
-    "name": "Orlando",
-    "mainImg": "img/places/orlando.jpg",
+    "id": "toledo",
+    "name": "Toledo",
+    "mainImg": "img/places/toledo.jpg",
     "summary": [
-      "Orlando is a city in the U.S. state of Florida and the county seat of Orange County. Located in Central Florida, it is the center of the Orlando metropolitan area, which had a population of 2,509,831, according to U.S. Census Bureau figures released in July 2017. These figures make it the 23rd-largest metropolitan area in the United States, the sixth-largest metropolitan area in the Southern United States, and the third-largest metropolitan area in Florida. As of 2019, Orlando had an estimated city-proper population of 287,442, making it the 71st-largest city in the United States, the fourth-largest city in Florida, and the state's largest inland city.",
-      "The City of Orlando is nicknamed \"the City Beautiful,\" and its symbol is the Linton E. Allen Memorial Fountain, commonly referred to as simply the \"Lake Eola fountain\" at Lake Eola Park. The Orlando International Airport is the thirteenth-busiest airport in the United States and the 29th-busiest in the world.",
-      "Orlando is one of the most visited cities in the world primarily driven by tourism, major events, and convention traffic, in 2018 the city drew more than 75 million visitors."
+      "Toledo is a city and municipality located in central Spain; it is the capital of the province of Toledo in the autonomous community of Castile–La Mancha. Toledo was declared a World Heritage Site by UNESCO in 1986 for its extensive monumental and cultural heritage.",
+      "Toledo is known as the \"Imperial City\" because it was the main venue of the court of Charles V, Holy Roman Emperor in Spain, and as the \"City of the Three Cultures\" for the cultural influences of Christians, Muslims, and Jews reflected in its history. It was the capital from 542 to 725 AD of the ancient Visigothic kingdom, which followed the fall of the Roman Empire, and the location of historic events such as the Visigothic Councils of Toledo. The city has a grand Gothic Cathedral, the Catedral Primada de España, and a long history in the production of bladed weapons, which are now common souvenirs of the city.",
+      "People who were born or have lived in Toledo include Brunhilda of Austrasia, Al-Zarqali, Garcilaso de la Vega, Eleanor of Toledo, Alfonso X, Israeli ben Joseph, Halevi, and El Greco. As of 2015, the city had a population of 83,226 and an area of 232.1 km²."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Orlando,_Florida",
-    "urlGoogle": "https://artsandculture.google.com/entity/orlando/m0ply0"
-  },
-  "quote": {
-    "id": "32",
-    "quote": "Kindness is the language which the deaf can hear and the blind can see.",
-    "author": "Mark Twain"
+    "urlWiki": "https://en.wikipedia.org/wiki/Toledo,_Spain",
+    "urlGoogle": "https://artsandculture.google.com/entity/toledo/m07q3s"
   },
   "wiki": {
-    "id": "german-battleship-bismarck",
-    "name": "German battleship Bismarck",
-    "summary": "Bismarck was the first of two Bismarck-class battleships built for the German Kriegsmarine. Named after Chancellor Otto von Bismarck, the primary force behind German unification in 1871, the ship was launched on 14 February 1939 and commissioned in August 1940. Bismarck and her sister ship Tirpitz were the largest battleships ever built by Germany, and two of the largest built by any European power. Bismarck conducted only one offensive operation, in May 1941. The ship, along with the heavy cruiser Prinz Eugen, was to raid Allied shipping from North America to Great Britain. The two ships were detected several times off Scandinavia, and British naval units were deployed to block them. At the Battle of the Denmark Strait, Bismarck destroyed the battlecruiser HMS Hood, the pride of the Royal Navy, and forced the battleship HMS Prince of Wales to retreat. After two days of relentless pursuit by the Royal Navy, she was attacked by torpedo bombers from the aircraft carrier HMS Ark Royal and her steering gear was rendered inoperable. In her final battle the following morning, Bismarck was neutralised by a sustained bombardment, was scuttled by her crew, and sank with heavy loss of life.",
-    "url": "https://en.wikipedia.org/wiki/German_battleship_Bismarck"
+    "id": "chennai",
+    "name": "Chennai",
+    "summary": "Chennai, also known as Madras, is the capital of the state of Tamil Nadu and is India's fourth largest metropolitan city. It is located on the Coromandel Coast of the Bay of Bengal. With an estimated population of 6.90 million, the 367-year-old city is the 31st largest metropolitan area in the world. The city is a large commercial and industrial centre, and is known for its cultural heritage and temple architecture. The city is the automobile capital of India, with around forty percent of the automobile industry having a base there. The 12 kilometre long Marina Beach forms the city's east coast and is one of the longest beaches in the world. The city is also known for its sport venues and hosts India's only ATP tennis event, the Chennai Open.",
+    "url": "https://en.wikipedia.org/wiki/Chennai"
   },
   "word": {
-    "id": "encomium",
-    "word": "encomium",
-    "url": "https://www.merriam-webster.com/dictionary/encomium",
+    "id": "lucubration",
+    "word": "lucubration",
+    "url": "https://www.merriam-webster.com/dictionary/lucubration",
     "partOfSpeech": "noun",
-    "pronunciation": "en-KOH-mee-um",
-    "audioPath": "audio/words/encomium.mp3",
-    "definitions": ["glowing and warmly enthusiastic praise; also : an expression of this"],
-    "examples": [
-      "\"The book is beautifully written and unquestioningly deserves the encomiums of critics who compared it to 'The Great Gatsby' for its elegiac tone.\" (David Milofsky, _The Denver Post_, August 2, 2009)"
+    "pronunciation": "loo-kyuh-BRAY-shun",
+    "audioPath": "audio/words/lucubration.mp3",
+    "definitions": [
+      "laborious or intensive study; also : the product of such study - usually used in plural"
     ],
-    "origin": "\"The love of praise, howe're concealed by art / Reigns more or less, and glows in every heart.\" British writer Edward Young knew how much people love to hear praise -- and so did the ancient Greeks, the originators of \"encomium.\" They formalized that particular expression of praise and named it an \"enkōmion,\" from their terms \"en,\" meaning \"in,\" and \"kōmos,\" meaning \"celebration.\" The original encomiums were eulogies or panegyrics, often ones prepared in honor of a victor in the Olympics. The term was later broadened to refer to any laudatory ode. Since then encomiums have been written praising everyone from Julius Caesar to Elton John, although not all have been entirely serious -- one of the best known is the satirical \"Moriae Encomium\" (\"Praise of Folly\") by Erasmus."
+    "examples": [
+      "The historical archives include handwritten _lucubrations_ from Benjamin Franklin himself.",
+      "\"From introspection, we are all familiar with the mental clutter, the chatter that makes up our daily life. It is a rapid fire of free associations, of jumping from one image, speech fragment or memory to the next. Late-night _lucubrations_ are particularly prone to such erratic zigzagging.\" - From an article by Christof Koch at Salon.com, August 2, 2013."
+    ],
+    "origin": "Imagine someone studying through the night by the light of a dim candle or lamp. That image demonstrates perfectly the most literal sense of \"lucubration.\" Our English word derives from the Latin verb \"lucubrare,\" meaning \"to work by lamplight.\" (Yes, that Latin root is related to \"lux,\" the Latin word for \"light.\") In its earliest known English uses in the late 1500s and early 1600s, \"lucubration\" named both nocturnal study itself and a written product thereof. By the 1800s, however, the term had been broadened to refer to any intensive study (day or night), or a composition, especially a weighty one, generated as a result of such study. Nowadays, \"lucubration\" is most often used as a plural and implies pompous or stuffy scholarly writing."
   }
 }

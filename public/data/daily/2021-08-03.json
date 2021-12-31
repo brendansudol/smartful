@@ -1,131 +1,125 @@
 {
   "artist": {
-    "id": "pieter-bruegel-the-elder",
-    "name": "Pieter Bruegel the Elder",
-    "dates": "1525 - Sep 9, 1569",
-    "mainImg": "img/art/artists/pieter-bruegel-the-elder.jpg",
+    "id": "michiel-sweerts",
+    "name": "Michiel Sweerts",
+    "dates": "Sep 29, 1618 - Jun 1, 1664",
+    "mainImg": "img/art/artists/michiel-sweerts.jpg",
     "artworkImgs": [
       {
-        "name": "The Fall of the Rebel Angels",
-        "path": "img/art/artworks/pieter-bruegel-the-elder-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-fall-of-the-rebel-angels-pieter-bruegel-the-elder/ewEs_8lOXkz7tQ"
+        "name": "Portrait of Joseph Deutz",
+        "path": "img/art/artworks/michiel-sweerts-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-joseph-deutz-michael-sweerts/MQE6Yw8K13OxqQ"
       },
       {
-        "name": "Children’s Games",
-        "path": "img/art/artworks/pieter-bruegel-the-elder-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/children’s-games-pieter-bruegel-the-elder/CQEeZWQPOI2Yjg"
+        "name": "Refreshing the Thirsty",
+        "path": "img/art/artworks/michiel-sweerts-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/refreshing-the-thirsty-michael-sweerts/MQHKcql4GpOkcg"
       },
       {
-        "name": "Hunters in the Snow (Winter)",
-        "path": "img/art/artworks/pieter-bruegel-the-elder-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/hunters-in-the-snow-winter-pieter-bruegel-the-elder/WgFmzFNNN74nUg"
+        "name": "Visiting the Sick",
+        "path": "img/art/artworks/michiel-sweerts-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/visiting-the-sick-michael-sweerts/2AGu0DsBcq3GMQ"
       },
       {
-        "name": "Peasant Wedding",
-        "path": "img/art/artworks/pieter-bruegel-the-elder-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/peasant-wedding-pieter-bruegel-the-elder/hgGvote2WI8P3w"
+        "name": "The Draughts Players",
+        "path": "img/art/artworks/michiel-sweerts-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-draughts-players-michael-sweerts/IAEs9ml-u9682Q"
       },
       {
-        "name": "Proverbs",
-        "path": "img/art/artworks/pieter-bruegel-the-elder-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/proverbs-pieter-bruegel-the-elder/CwGkTFwDGMmq9w"
+        "name": "Feeding the Hungry",
+        "path": "img/art/artworks/michiel-sweerts-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/feeding-the-hungry-michael-sweerts/ZQFdxoX4xyh8pQ"
       },
       {
-        "name": "The Wedding Dance",
-        "path": "img/art/artworks/pieter-bruegel-the-elder-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-wedding-dance-pieter-bruegel-the-elder/pAGKgN6eHENosg"
+        "name": "Clothing the Naked",
+        "path": "img/art/artworks/michiel-sweerts-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/clothing-the-naked-michael-sweerts/8AFEQLC7El0jWA"
       }
     ],
     "summary": [
-      "Pieter Bruegel the Elder was the most significant artist of Dutch and Flemish Renaissance painting, a painter and printmaker from Brabant, known for his landscapes and peasant scenes; he was a pioneer in making both types of subject the focus in large paintings.",
-      "Art historians guess he was either born in Breda or Breugel, both located in the present-day Dutch province of North Brabant. He was a formative influence on Dutch Golden Age painting and later painting in general in his innovative choices of subject matter, as one of the first generation of artists to grow up when religious subjects had ceased to be the natural subject matter of painting. He also painted no portraits, the other mainstay of Netherlandish art. After his training and travels to Italy, he returned in 1555 to settle in Antwerp, where he worked mainly as a prolific designer of prints for the leading publisher of the day. Only towards the end of the decade did he switch to make painting his main medium, and all his famous paintings come from the following period of little more than a decade before his early death, when he was probably in his early forties, and at the height of his powers."
-    ],
-    "quote": "“Because the world is so faithless, I go my way in mourning.”",
-    "movements": ["Northern Renaissance", "Renaissance", "Dutch and Flemish Renaissance painting"],
-    "mediums": ["Engraving", "Etching", "Pen", "Wood", "Oil paint", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder",
-    "urlGoogle": "https://artsandculture.google.com/entity/pieter-bruegel-the-elder/m0h6nl"
-  },
-  "event": {
-    "id": "tunisian-campaign",
-    "name": "Tunisian Campaign",
-    "dates": "Nov 17, 1942 - May 13, 1943",
-    "mainImg": "img/events/tunisian-campaign.jpg",
-    "summary": [
-      "The Tunisian campaign was a series of battles that took place in Tunisia during the North African campaign of the Second World War, between Axis and Allied forces. The Allies consisted of British Imperial Forces, including a Greek contingent, with American and French corps. The battle opened with initial success by the German and Italian forces but the massive supply interdiction efforts led to the decisive defeat of the Axis. Over 250,000 German and Italian troops were taken as prisoners of war, including most of the Afrika Korps."
+      "Michiel Sweerts or Michael Sweerts was a Flemish painter and printmaker of the Baroque period, who is known for his allegorical and genre paintings, portraits and tronies. The artist led an itinerant life and worked in Rome, Brussels, Amsterdam, Persia and India.",
+      "While in Rome Sweerts became linked to the group of Dutch and Flemish painters of low-life scenes known as the Bamboccianti. Sweerts' contributions to the Bamboccianti genre display generally greater stylistic mastery and social-philosophical sensitivity than the other artists working in this manner. While he was successful during his lifetime, Sweerts and his work fell into oblivion until he was rediscovered in the 20th century as one of the most intriguing and enigmatic artists of his time."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Tunisian_campaign",
-    "urlGoogle": "https://artsandculture.google.com/entity/tunisian-campaign/m03mwlq"
+    "movements": ["Baroque"],
+    "mediums": ["Oil paint", "Etching", "Engraving", "Laid paper", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Michiel_Sweerts",
+    "urlGoogle": "https://artsandculture.google.com/entity/michiel-sweerts/m02pml26"
+  },
+  "event": {
+    "id": "great-patriotic-war",
+    "name": "Great Patriotic War",
+    "dates": "Jun 22, 1941 - May 9, 1945",
+    "mainImg": "img/events/great-patriotic-war.jpg",
+    "summary": [
+      "The Great Patriotic War is a term used in Russia and other former republics of the Soviet Union to describe the conflict fought during the period from 22 June 1941 to 9 May 1945 along the many fronts of the Eastern Front of World War II, primarily between the Soviet Union and Nazi Germany. For some legal purposes, this period may be extended to 11 May 1945 to include the end of the Prague Offensive.",
+      "The end of the Great Patriotic War is commemorated on the 9th of May."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Great_Patriotic_War_%28term%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/great-patriotic-war/m025rzfc"
   },
   "funFacts": [
+    { "id": "97", "fact": "A turkey can run at 20 mph.", "category": ["Animals"] },
     {
-      "id": "981",
-      "fact": "President Chester A. Arthur owned 80 pairs of pants, which he changed several times per day.",
-      "category": ["History", "Hodgepodge"]
-    },
-    {
-      "id": "663",
-      "fact": "About 40% of America's population lives within a one day drive to Philadelphia.",
-      "category": ["Geography"]
+      "id": "139",
+      "fact": "Hawaii is the only state with one school district.",
+      "category": ["Geography", "Onlies"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "553841",
-      "fact": "When swallowed by toads, bombardier beetles project hot, noxious chemicals from their anuses, which sometimes forces the predators to puke them back up."
-    }
+    { "id": "505072", "fact": "Paraskavedekatriaphobia is the fear of Friday the 13th." }
   ],
   "idiom": {
-    "id": "might-as-well-be-hanged-for-a-sheep-as-a-lamb",
-    "term": "might as well be hanged for a sheep as a lamb",
-    "definition": "Might just as well be punished for a big misdeed as a small one. For example, *I might as well be hanged for a sheep as a lamb and have a third piece of cake --- I've gone off my diet anyhow.* Already a proverb in John Ray's 1678 collection, this expression alludes to the old punishment for stealing sheep, which was hanging no matter what the age or size of the animal."
+    "id": "without-a-stitch-on",
+    "term": "without a stitch on",
+    "definition": "Naked, as in *They let their baby run around outside without a stitch on.* A related phrase is **not have a stitch on.** These expressions use *stitch* in the sense of \"a piece of clothing,\" a usage dating from the early 1800s."
   },
   "person": {
-    "id": "manuel-azana",
-    "name": "Manuel Azaña",
-    "dates": "Jan 10, 1880 - Nov 3, 1940",
-    "mainImg": "img/people/manuel-azana.jpg",
+    "id": "julius-caesar",
+    "name": "Julius Caesar",
+    "dates": "Died 43 BC",
+    "mainImg": "img/people/julius-caesar.jpg",
     "summary": [
-      "Manuel Azaña Díaz was a Spanish politician who served as Prime Minister of the Second Spanish Republic and the last President of the Republic.",
-      "A collaborator in several publications in the 1910s, he stood out in the pro-Allies camp during World War I. Very critical towards the Generation of '98 and not keen of the reimagination of the Spanish Middle Ages, the Imperial Spain nor the 20th yearnings for a praetorian refurbishment of the country, Azaña followed instead the examples of the French Enlightenment and the Third French Republic, and took a political quest for democracy in the 1920s while defending the notion of homeland as the \"democratic equality of all citizens towards the law\" that made him embrace republicanism.",
-      "After the Proclamation of the Second Spanish Republic in April 1931, Azaña became Minister of War of the Provisional Government and enacted military reform, looking to develop a modern armed forces with fewer army officers. He later became Prime Minister in October 1931.",
-      "The Spanish Civil War broke out while he was President. With the defeat of the Republic in 1939, he fled to France, resigned from office, and died in exile shortly afterwards."
+      "Gaius Julius Caesar, known simply as Julius Caesar, was a Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. He was also a historian and author of Latin prose.",
+      "In 60 BC, Caesar, Crassus and Pompey formed the First Triumvirate, a political alliance that dominated Roman politics for several years. Their attempts to amass power as Populares were opposed by the Optimates within the Roman Senate, among them Cato the Younger with the frequent support of Cicero. Caesar rose to become one of the most powerful politicians in the Roman Republic through a number of his accomplishments, notably his victories in the Gallic Wars, completed by 51 BC. During this time, Caesar became the first Roman general to cross both the English Channel and the Rhine River, when he built a bridge across the Rhine and crossed the Channel to invade Britain. Caesar's wars extended Rome's territory to Britain and past Gaul. These achievements granted him unmatched military power and threatened to eclipse the standing of Pompey, who had realigned himself with the Senate after the death of Crassus in 53 BC."
     ],
-    "quote": "“What does the corpse care who was right and who was wrong?”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Manuel_Aza%C3%B1a",
-    "urlGoogle": "https://artsandculture.google.com/entity/manuel-azaña/m01n__m"
+    "quote": "“I have lived long enough to satisfy both nature and glory.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "urlGoogle": "https://artsandculture.google.com/entity/julius-caesar/m041wm"
   },
   "place": {
-    "id": "indore",
-    "name": "Indore",
-    "mainImg": "img/places/indore.jpg",
+    "id": "stuttgart",
+    "name": "Stuttgart",
+    "mainImg": "img/places/stuttgart.jpg",
     "summary": [
-      "Indore is the most populous and the largest city in the Indian state of Madhya Pradesh. It serves as the headquarters of both Indore District and Indore Division. It is also considered as an education hub of the state and has campuses of both the Indian Institute of Technology and the Indian Institute of Management. Located on the southern edge of Malwa Plateau, at an average altitude of 553 meters above sea level, it has the highest elevation among major cities of Central India. The city is 190 km west of the state capital of Bhopal. Indore had a census-estimated 2011 population of 1,994,397 and 2,170,295. The city is distributed over a land area of just 530 square kilometres, making Indore the most densely populated major city in the central province. It comes under Tier 2 cities in India.",
-      "Indore traces its roots to its 16th century founding as a trading hub between the Deccan and Delhi. The city and its surroundings came under Hindu Maratha Empire on 18 May 1724 after Maratha Peshwa Baji Rao I assumed the full control of Malwa."
+      "Stuttgart is the capital and largest city of the German state of Baden-Württemberg. Stuttgart is located on the Neckar river in a fertile valley known locally as the \"Stuttgart Cauldron\". It lies an hour from the Swabian Jura and the Black Forest. Its area has a population of 634,830, making it the sixth largest city in Germany. 2.8 million people live in the city's administrative region and 5.3 million people in its metropolitan area, making it the fourth largest metropolitan area in Germany. The city and metropolitan area are consistently ranked among the top 20 European metropolitan areas by GDP; Mercer listed Stuttgart as 21st on its 2015 list of cities by quality of living, innovation agency 2thinknow ranked the city 24th globally out of 442 cities and the Globalization and World Cities Research Network ranked the city as a Beta-status world city in their 2014 survey., Stuttgart was one of the host cities of the official tournaments for the 1974 and 2006 FIFA World Cup.",
+      "Since the 7th millennium BC, the Stuttgart area has been an important agricultural area and has been host to a number of cultures seeking to utilize the rich soil of the Neckar valley."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Indore",
-    "urlGoogle": "https://artsandculture.google.com/entity/indore/m01_yvy"
+    "urlWiki": "https://en.wikipedia.org/wiki/Stuttgart",
+    "urlGoogle": "https://artsandculture.google.com/entity/stuttgart/m0727_"
   },
   "wiki": {
-    "id": "margaret-thatcher",
-    "name": "Margaret Thatcher",
-    "summary": "Margaret Thatcher is a British politician and the first female Prime Minister of the United Kingdom, a position she held from 1979 to 1990. She is a member of the Conservative Party and the figurehead of a political ideology known as Thatcherism. Even before coming to power she was nicknamed The Iron Lady in Soviet propaganda, an appellation which stuck. The changes she set in motion between coming to power and 1985 were profound, and altered much of the economic, cultural and commercial landscape of Britain and, by example, the world as a whole. Along the way she also aimed to roll back the welfare state, or \"nanny state\", as she termed it. Her popularity finally declined when she replaced the unpopular local government Rates tax with the even less popular Community Charge. At the same time the Conservative Party began to split over her sceptical approach to Economic and Monetary Union of the European Union. Her leadership was challenged from within and she was forced to resign in 1990, her loss at least partly due to inadequate advice and campaigning.",
-    "url": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
+    "id": "black-seminoles",
+    "name": "Black Seminoles",
+    "summary": "The Black Seminoles are descendants of free African Americans and fugitive slaves traditionally allied with Seminole Indians in the U.S. states of Florida and Oklahoma. Twentieth-century historians popularized the name \"Black Seminoles\" to describe the community, whose members were known in the 19th century as Seminole Negroes, or Seminole maroons. Today Black Seminoles are concentrated in parts of Oklahoma, in Nacimiento in the Mexican state of Coahuila, and along the U.S.-Mexico border near Del Rio and Brackettville, Texas. As early as 1689, African slaves fled from the British American colonies to Spanish Florida seeking freedom. Under an edict from the King of Spain, the black fugitives received liberty in exchange for defending the Spanish settlers at St. Augustine.",
+    "url": "https://en.wikipedia.org/wiki/Black_Seminoles"
   },
   "word": {
-    "id": "farrago",
-    "word": "farrago",
-    "url": "https://www.merriam-webster.com/dictionary/farrago",
+    "id": "bioturbation",
+    "word": "bioturbation",
+    "url": "https://www.merriam-webster.com/dictionary/bioturbation",
     "partOfSpeech": "noun",
-    "pronunciation": "fuh-RAH-goh",
-    "audioPath": "audio/words/farrago.mp3",
-    "definitions": ["a confused mixture : hodgepodge"],
-    "examples": [
-      "The shop is filled with a whimsical _farrago_ of artwork, antiques, and vintage clothing.",
-      "\"So far, the excuses and explanations offered … for this fiasco have been a _farrago_ of misleading and contradictory statements.\" -- From _The Ottawa Sun_, July 21, 2010"
+    "pronunciation": "bye-oh-ter-BAY-shun",
+    "audioPath": "audio/words/bioturbation.mp3",
+    "definitions": [
+      "the restructuring of sedimentary deposits (as in a lake bottom or seabed) by moving organisms (as worms and burrowing clams)"
     ],
-    "origin": "\"Farrago\" might seem an unlikely relative of \"farina\" (the mealy breakfast cereal), but the two terms have their roots in the same Latin noun. Both derive from \"far,\" the Latin name for \"spelt\" (a type of grain). In Latin, \"farrago\" meant \"mixed fodder\" -- cattle feed, that is. It was also used more generally to mean \"mixture.\" When it was adopted into English in the early 1600s, \"farrago\" retained the \"mixture\" sense of its ancestor. Today, we often use it for a jumble or medley of disorganized, haphazard, or even nonsensical ideas or elements."
+    "examples": [
+      "\"Native oysters are likely even more susceptible to _bioturbation_ from shrimp, but it is unclear whether they formed reefs before they were harvested and how stable these were in the face of burrowing shrimp invasions.\" -- From an article in _Journal of Shellfish Research_, April 1, 2011",
+      "\"Many studies have looked at _bioturbation_ -- how plants and animals alter archaeological sites -- but rarely in ground saturated by monsoons.\" -- From an article by Samir S. Patel in _Archaeology_, January 2011"
+    ],
+    "origin": "From about the 1400s to the 1600s, the Latin borrowing \"turbation\" was used to refer to a disturbance or perturbation -- even though both \"disturbance\" and \"perturbation\" were already well-established words in the language. Years later, the word was revived in the International Scientific Vocabulary as the base for \"congeliturbation,\" the churning or heaving of the soil by freezing and thawing,\" and \"bioturbation,\" referring to the activity of organisms disturbing the sediment."
   }
 }

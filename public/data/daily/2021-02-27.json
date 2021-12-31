@@ -1,135 +1,136 @@
 {
   "artist": {
-    "id": "moretto-da-brescia",
-    "name": "Moretto da Brescia",
-    "dates": "1498 - Dec 22, 1554",
-    "mainImg": "img/art/artists/moretto-da-brescia.jpg",
+    "id": "john-tenniel",
+    "name": "John Tenniel",
+    "dates": "Feb 28, 1820 - Feb 25, 1914",
+    "mainImg": "img/art/artists/john-tenniel.jpg",
     "artworkImgs": [
       {
-        "name": "Portrait of a Man",
-        "path": "img/art/artworks/moretto-da-brescia-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-moretto-da-brescia/RgHUR7vADI8L9Q"
+        "name": "How Alice Grew Tall",
+        "path": "img/art/artworks/john-tenniel-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/how-alice-grew-tall-john-tenniel/vgGmadAhzar4lQ"
       },
       {
-        "name": "Portrait of a Young Man",
-        "path": "img/art/artworks/moretto-da-brescia-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-young-man-moretto-da-brescia/PwENiHa-RvZghg"
+        "name": "The inauguration of the Scutari Monument and the Peace Trophy at the Crystal Palace, Sydenham",
+        "path": "img/art/artworks/john-tenniel-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-inauguration-of-the-scutari-monument-and-the-peace-trophy-at-the-crystal-palace-sydenham-sir-john-tenniel/tAF25kYPu4OTwQ"
       },
       {
-        "name": "Portrait of a Gentleman with a Letter",
-        "path": "img/art/artworks/moretto-da-brescia-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-gentleman-with-a-letter-alessandro-bonvicino-known-as-moretto-da-brescia/_QEaLAJ4EnonCQ"
+        "name": "The distribution of Crimean Medals on Horse Guards Parade",
+        "path": "img/art/artworks/john-tenniel-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-distribution-of-crimean-medals-on-horse-guards-parade-sir-john-tenniel/kAFIi6F_ItHYxA"
       },
       {
-        "name": "Praying Man with a Long Beard",
-        "path": "img/art/artworks/moretto-da-brescia-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/praying-man-with-a-long-beard-moretto-da-brescia/fwH2_DsFvwny0g"
+        "name": "Two Forces (Punch, October 29, 1881)",
+        "path": "img/art/artworks/john-tenniel-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/two-forces-punch-october-29-1881-sir-john-tenniel/GgG-7M1V9gF6XA"
       },
       {
-        "name": "The Madonna and Child with Saints",
-        "path": "img/art/artworks/moretto-da-brescia-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-madonna-and-child-with-saints-moretto-da-brescia/wQE1UoJucfv6Vw"
+        "name": "Easing the Curb (Punch, July 24, 1869)",
+        "path": "img/art/artworks/john-tenniel-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/easing-the-curb-punch-july-24-1869-sir-john-tenniel-napoléon-iii/HAFUfKSDiDsMRA"
       },
       {
-        "name": "St. Justina, Venerated by a Patron",
-        "path": "img/art/artworks/moretto-da-brescia-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/st-justina-venerated-by-a-patron-moretto-da-brescia/2gFbl9hjoCBrCg"
+        "name": "The Tempter (Punch, November 27, 1886)",
+        "path": "img/art/artworks/john-tenniel-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-tempter-punch-november-27-1886-sir-john-tenniel/AgGMoNMLkDnhXA"
       }
     ],
     "summary": [
-      "Alessandro Bonvicino, more commonly known as Moretto, or in Italian Il Moretto da Brescia, was an Italian Renaissance painter from Brescia, where he also mostly worked. His dated works span the period from 1524 to 1554, but he was already described as a master in 1516. He was mainly a painter of altarpieces that tend towards sedateness, mostly for churches in and around Brescia, but also in Bergamo, Milan, Verona and Asola; many remain in the churches they were painted for. Most are on canvas, but a number even of large ones are on wood panel. Only a handful of drawings survive.",
-      "He also painted a few portraits, but these are more influential. A full-length Portrait of a Man in the National Gallery, London, dated 1526, seems to be the earliest Italian independent portrait at full-length, all the more unexpected as the \"sitter\", though clearly a wealthy nobleman, shows no sign of being from a princely ruling family. This format, and the background of an exterior largely closed off by a column the man leans on, was taken up by his main assistant Giovanni Battista Moroni, who mainly painted portraits, and was one of the most important portraitists of the mid-16th century."
+      "Sir John Tenniel was an English illustrator, graphic humorist, and political cartoonist prominent in the second half of the 19th century. He was knighted for his artistic achievements in 1893. Tenniel is remembered especially as the principal political cartoonist for Punch magazine for over 50 years, and for his illustrations to Lewis Carroll's Alice's Adventures in Wonderland and Through the Looking-Glass, and What Alice Found There."
     ],
-    "quote": null,
-    "movements": ["Renaissance", "High Renaissance", "Italian Renaissance"],
-    "mediums": ["Oil paint", "Wood", "Drawing", "Ink", "Chalk", "Pigment"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Moretto_da_Brescia",
-    "urlGoogle": "https://artsandculture.google.com/entity/moretto-da-brescia/m03v_4z"
+    "quote": "“By means of tracing-paper I transfer my design to the wood and draw on that.”",
+    "movements": ["Realism"],
+    "mediums": ["Drawing", "Graphite", "Wood", "Engraving", "Watercolor painting", "Pencil"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Tenniel",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-tenniel/m03_ck"
   },
   "event": {
-    "id": "taisho",
-    "name": "Taishō",
-    "dates": "Jul 30, 1912 - Dec 25, 1926",
-    "mainImg": "img/events/taisho.jpg",
+    "id": "coronation-of-elizabeth-ii",
+    "name": "Coronation of Elizabeth II",
+    "dates": null,
+    "mainImg": "img/events/coronation-of-elizabeth-ii.jpg",
     "summary": [
-      "Taishō era is a period in the history of Japan dating from 30 July 1912 to 25 December 1926, coinciding with the reign of the Emperor Taishō. The new emperor was a sickly man, which prompted the shift in political power from the old oligarchic group of elder statesmen to the Imperial Diet of Japan and the democratic parties. Thus, the era is considered the time of the liberal movement known as the \"Taishō democracy\" in Japan; it is usually distinguished from the preceding chaotic Meiji period and the following militaristic-driven first part of the Shōwa period."
+      "The coronation of Elizabeth II took place on 2 June 1953 at Westminster Abbey, London. She acceded to the throne at the age of 25 upon the death of her father, George VI, on 6 February 1952, being proclaimed queen by her privy and executive councils shortly afterwards. The coronation was held more than one year later because of the tradition of allowing an appropriate length of time to pass after a monarch dies before holding such festivals. It also gave the planning committees adequate time to make preparations for the ceremony. During the service, Elizabeth took an oath, was anointed with holy oil, invested with robes and regalia, and crowned Queen of the United Kingdom, Canada, Australia, New Zealand, South Africa, Pakistan, and Ceylon.",
+      "Celebrations took place across the Commonwealth realms and a commemorative medal was issued. It was the first British coronation to be fully televised; television cameras had not been allowed inside the abbey during her father's coronation in 1937. Elizabeth's was the fourth and last British coronation of the 20th century. It was estimated to have cost £1.57 million."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Taish%C5%8D",
-    "urlGoogle": "https://artsandculture.google.com/entity/taishō/m01bg2_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/coronation-of-elizabeth-ii/m076s_5w"
   },
   "funFacts": [
     {
-      "id": "974",
-      "fact": "All gondolas in Venice, Italy must be painted black unless they are carrying an important person.",
-      "category": ["Geography", "Habits", "Laws"]
+      "id": "149",
+      "fact": "Theodore Roosevelt was the only president who was blind in one eye.",
+      "category": ["History", "Onlies"]
     },
     {
-      "id": "798",
-      "fact": "Tennessee was previously named Franklin after Benjamin Franklin.",
-      "category": ["History"]
+      "id": "105",
+      "fact": "You will burn about 7% more calories walking on hard dirt than on pavement.",
+      "category": ["Anatomy", "Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554256",
-      "fact": "The first item sold\u0003on eBay was\u0003a broken\u0003laser pointer."
+      "id": "551315",
+      "fact": "<span>A butt is a real unit of measurement for a cask of wine. A buttload is about 108 Imperial gallons.</span>"
     }
   ],
   "idiom": {
-    "id": "culture-vulture",
-    "term": "culture vulture",
-    "definition": "An individual with a consuming or excessive interest in the arts. For example, *A relentless culture vulture, she dragged her children to every museum in town.* This slangy term may have been originated by Ogden Nash, who wrote: \"There is a vulture Who circles above The carcass of culture\" (*Free Wheeling,* 1931). [1940s]"
+    "id": "hell-bent-for-leather",
+    "term": "hell-bent for leather",
+    "definition": "Moving recklessly fast, as in *Out the door she went, hell- bent for leather.* The use of *hell-bent* in the sense of \"recklessly determined\" dates from the first half of the 1800s. *Leather* alludes to a horse's saddle and to riding on horseback; this colloquial expression may be an American version of the earlier British army jargon **hell for leather,** first recorded in 1889."
   },
   "person": {
-    "id": "john-vorster",
-    "name": "John Vorster",
-    "dates": "Dec 13, 1915 - Sep 10, 1983",
-    "mainImg": "img/people/john-vorster.jpg",
+    "id": "aaron-burr",
+    "name": "Aaron Burr",
+    "dates": "Feb 6, 1756 - Sep 14, 1836",
+    "mainImg": "img/people/aaron-burr.jpg",
     "summary": [
-      "Balthazar Johannes \"B. J.\" Vorster was a South African politician who served as the Prime Minister of South Africa from 1966 to 1978 and as the fourth State President of South Africa from 1978 to 1979. Vorster was known for his staunch adherence to apartheid, overseeing the Rivonia Trial in which Nelson Mandela was sentenced to life imprisonment for sabotage, and the Terrorism Act, the complete abolition of non-white political representation, the Soweto Riots and the Steve Biko crisis. He conducted a more pragmatic foreign policy than his predecessors in an effort to improve relations between the white minority government and South Africa's neighbours, particularly after the break-up of the Portuguese colonial empire. Shortly after the Internal Settlement in Rhodesia, in which he was instrumental, he was implicated in the Muldergate Scandal and resigned the premiership in favour of the ceremonial presidency, which he was forced to give up as well eight months later."
+      "Aaron Burr Jr. was an American politician and lawyer. He was the third vice president of the United States, serving during President Thomas Jefferson's first term.",
+      "Burr served as a Continental Army officer in the American Revolutionary War, after which he became a successful lawyer and politician. He was elected twice to the New York State Assembly, was appointed Attorney General of New York, was chosen as a U.S. senator from the State of New York, and reached the apex of his career as vice president. In the waning months of his tenure as president of the Senate, he oversaw the 1805 impeachment trial of Supreme Court Justice Samuel Chase.",
+      "As campaign manager for the Democratic-Republican Party during the presidential election of 1800, Burr was responsible for the first open, public political campaign in the United States.",
+      "Burr shot his political rival Alexander Hamilton in an 1804 duel, during the last full year of his single term as vice president. He was never tried for the illegal duel and all charges against him were eventually dropped, but Hamilton's death ended Burr's political career."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/John_Vorster",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-vorster/m025qk8"
+    "quote": "“Never do today what you can do tomorrow. Something may occur to make you regret your premature action.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Aaron_Burr",
+    "urlGoogle": "https://artsandculture.google.com/entity/aaron-burr/m0fsc6"
   },
   "place": {
-    "id": "morelia",
-    "name": "Morelia",
-    "mainImg": "img/places/morelia.jpg",
+    "id": "yugoslavia",
+    "name": "Yugoslavia",
+    "mainImg": "img/places/yugoslavia.jpg",
     "summary": [
-      "Morelia is a city and municipality in the north central part of the state of Michoacán in central Mexico. The city is in the Guayangareo Valley and is the capital and largest city of the state. The main pre-Hispanic cultures here were the Purépecha and the Matlatzinca, but no major cities were founded in the valley during this time. The Spanish took control of the area in the 1520s. The Spanish under Viceroy Antonio de Mendoza founded a settlement here in 1541 with the name of Valladolid, which became rival to the nearby city of Pátzcuaro for dominance in Michoacán. In 1580, this rivalry ended in Valladolid's favor and it became the capital of the colonial province. After the Mexican War of Independence, the city was renamed Morelia in honor of José María Morelos, who hailed from the city. In 1991, the city was declared a UNESCO World Heritage Site for its well-preserved colonial buildings and layout of the historic center."
+      "Yugoslavia was a country in Southeastern and Central Europe for most of the 20th century. It came into existence after World War I in 1918 under the name of the Kingdom of Serbs, Croats and Slovenes by the merger of the provisional State of Slovenes, Croats and Serbs with the Kingdom of Serbia, and constituted the first union of the South Slavic people as a sovereign state, following centuries in which the region had been part of the Ottoman Empire and Austria-Hungary. Peter I of Serbia was its first sovereign. The kingdom gained international recognition on 13 July 1922 at the Conference of Ambassadors in Paris. The official name of the state was changed to Kingdom of Yugoslavia on 3 October 1929.",
+      "Yugoslavia was invaded by the Axis powers on 6 April 1941. In 1943, a Democratic Federal Yugoslavia was proclaimed by the Partisan resistance. In 1944 King Peter II, then living in exile, recognised it as the legitimate government. The monarchy was subsequently abolished in November 1945. Yugoslavia was renamed the Federal People's Republic of Yugoslavia in 1946, when a communist government was established. It acquired the territories of Istria, Rijeka, and Zadar from Italy."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Morelia",
-    "urlGoogle": "https://artsandculture.google.com/entity/morelia/m01btsy"
+    "urlWiki": "https://en.wikipedia.org/wiki/Yugoslavia",
+    "urlGoogle": "https://artsandculture.google.com/entity/yugoslavia/m087vz"
   },
   "quote": {
-    "id": "27",
-    "quote": "A happy family is but an earlier heaven.",
-    "author": "George Bernard Shaw"
+    "id": "36",
+    "quote": "Read 500 pages like this every day. That's how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it.",
+    "author": "Warren Buffett"
   },
   "wiki": {
-    "id": "rainilaiarivony",
-    "name": "Rainilaiarivony",
-    "summary": "Rainilaiarivony (1828–1896) was the Prime Minister of Madagascar from 1864 to 1895. Named Commander-in-Chief of the Army by King Radama II upon the death of Queen Ranavalona I in 1861, Rainilaiarivony played a key role in transforming Madagascar's government from an absolute to a constitutional monarchy. He was promoted to Prime Minister in 1864 and remained in power for the next 31 years by marrying three queens in succession: Rasoherina, Ranavalona II and Ranavalona III. As Prime Minister, Rainilaiarivony modernized state administration and legislated the Christianization of the monarchy. His diplomatic and military acumen preserved Madagascar's sovereignty from colonial interests until the French capture of the royal palace in September 1895. Although holding him in high esteem, the French colonial authority deposed the prime minister and exiled him to French Algeria, where he died less than a year later in August 1896.",
-    "url": "https://en.wikipedia.org/wiki/Rainilaiarivony"
+    "id": "otto-becher",
+    "name": "Otto Becher",
+    "summary": "Otto Becher (1908–77) was a senior officer in the Royal Australian Navy. After graduating from the Royal Australian Naval College in 1926, he was posted to a series of staff and training positions prior to specialising in gunnery. He assisted in the extraction of Allied troops from the Namsos region of Norway during the Second World War and was awarded the Distinguished Service Cross. Following service in the Mediterranean theatre, he returned to Australia as officer-in-charge of the gunnery school at HMAS Cerberus for two years. He was given command of HMAS Quickmatch in 1944 and earned a Bar to his Distinguished Service Cross for operations against Japanese forces in the Pacific. After the war he was posted to the Navy Office and later to the aircraft carrier HMAS Sydney; in 1951 he was given command of the destroyer HMAS Warramunga. Warramunga formed part of Australia's contribution to the United Nations forces engaged in the Korean War; he was awarded the Distinguished Service Order for his role. Promoted to rear admiral in 1959, he served as Flag Officer Commanding Australian Fleet and then as Flag Officer-in-Charge East Australia Area before retiring in 1966.",
+    "url": "https://en.wikipedia.org/wiki/Otto_Becher"
   },
   "word": {
-    "id": "tramontane",
-    "word": "tramontane",
-    "url": "https://www.merriam-webster.com/dictionary/tramontane",
+    "id": "addlepated",
+    "word": "addlepated",
+    "url": "https://www.merriam-webster.com/dictionary/addlepated",
     "partOfSpeech": "adjective",
-    "pronunciation": "truh-MAHN-tayn",
-    "audioPath": "audio/words/tramontane.mp3",
-    "definitions": [
-      "situated on the north side of the Alps : transalpine",
-      "lying on or coming from the other side of a mountain range"
-    ],
+    "pronunciation": "AD-ul-pay-tud",
+    "audioPath": "audio/words/addlepated.mp3",
+    "definitions": ["being mixed up : confused", "eccentric"],
     "examples": [
-      "He kept a journal on his journey to the _tramontane_ region of the country.",
-      "\"The lesser known area of Emporda, just across the border from Roussillon in France, is a rugged hilly area where wild herbs have a stronghold. The vines hang on as the _tramontane_ winds whip across the area mixing the aromas of the pollen.\" -- From an article by Colin Pressdee in the _Daily Post_ (Liverpool), August 28, 2010"
+      "The patient was blabbering like an _addlepated_ fool.",
+      "\"She had lost what little ability she ever had to concentrate and her _addlepated_ mind flitted butterflylike from one often unrelated subject to another.\" - From Tessa Harris's 2012 novel _The Anatomist's Apprentice_"
     ],
-    "origin": "The journey of \"tramontane\" into English starts in Latin and begins with the coming together of the prefix \"trans-,\" meaning \"across\" or \"beyond,\" and \"montanus,\" meaning \"of a mountain.\" When the word entered Italian, it did so as \"tramontano\" and referred to people or things on or from the other side of a mountain range -- specifically, the Alps. \"Tramontano\" then traveled into English during the late 16th century as both the adjective \"tramontane,\" with the same meaning as the Italian word, and as the noun \"tramontane,\" meaning \"one dwelling in a tramontane region\" or \"a foreigner.\" During the 18th century, the adjective began carrying the meaning \"barbarous,\" but that meaning is now rarely -- if ever -- used."
+    "origin": "In Middle English an \"adel eye\" was a putrid egg. The stench of such an egg apparently affected the minds of some witty thinkers, who hatched a comparison between the diminished, unsound quality of an \"adel\" (or \"addle\") egg and an empty, confused head-or [pate](https://www.merriam-webster.com/dictionary/pate). \"Your owne imagination, which was no lesse Idle, then your head was addle all that day,\" wrote one 17th-century wit at play with the words \"idle\" and \"addle.\" Today, \"addle\" is often found in combination with words referring to one's noggin, as in \"addlepated,\" \"addlebrained,\" and \"addle-headed.\""
   }
 }

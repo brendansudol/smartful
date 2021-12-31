@@ -1,129 +1,127 @@
 {
   "artist": {
-    "id": "jose-clemente-orozco",
-    "name": "José Clemente Orozco",
-    "dates": "Nov 23, 1883 - Sep 7, 1949",
-    "mainImg": "img/art/artists/jose-clemente-orozco.jpg",
+    "id": "fikret-mualla-saygi",
+    "name": "Fikret Mualla Saygı",
+    "dates": "1903 - Jul 20, 1967",
+    "mainImg": "img/art/artists/fikret-mualla-saygi.jpg",
     "artworkImgs": [
       {
-        "name": "Prometheus",
-        "path": "img/art/artworks/jose-clemente-orozco-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/prometheus-josé-clemente-orozco/tQG5b5L11rcSkA"
+        "name": "Street - Blue",
+        "path": "img/art/artworks/fikret-mualla-saygi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/street-blue-fikret-muallâ-turkish-1903-1967/tgGfA6QG7CJaog"
       },
       {
-        "name": "Prometheus",
-        "path": "img/art/artworks/jose-clemente-orozco-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/prometheus-josé-clemente-orozco/8AHkK7oQDYy05w"
+        "name": "Moda",
+        "path": "img/art/artworks/fikret-mualla-saygi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/moda-fikret-muallâ-turkish-1903-1967/-QF_fGehsjw8wA"
       },
       {
-        "name": "Estado mayor de bufones",
-        "path": "img/art/artworks/jose-clemente-orozco-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/estado-mayor-de-bufones-josé-clemente-orozco/nAH9PH51kUTV7g"
+        "name": "Moda",
+        "path": "img/art/artworks/fikret-mualla-saygi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/moda-fikret-muallâ-turkish-1903-1967/mgGO4u0zB6IaYA"
       },
       {
-        "name": "The People and their False Leaders",
-        "path": "img/art/artworks/jose-clemente-orozco-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-people-and-their-false-leaders-josé-clemente-orozco/LAFKTwl1cEiueA"
+        "name": "Cannes",
+        "path": "img/art/artworks/fikret-mualla-saygi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cannes-fikret-muallâ-turkish-1903-1967/oQGfz3UeLHv4vg"
       },
       {
-        "name": "The Creator and Rebel Man",
-        "path": "img/art/artworks/jose-clemente-orozco-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-creator-and-rebel-man-josé-clemente-orozco/rwFLIH0QZHSRFA"
+        "name": "Still Life with Aubergines",
+        "path": "img/art/artworks/fikret-mualla-saygi-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-aubergines-fikret-muallâ-turkish-1903-1967/rQEVzk2t2lvvpw"
       },
       {
-        "name": "Mexican Landscape [Paisaije Mexicano]",
-        "path": "img/art/artworks/jose-clemente-orozco-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/mexican-landscape-paisaije-mexicano-josé-clemente-orozco/kwH7GlehSOxfKA"
+        "name": "Still-life",
+        "path": "img/art/artworks/fikret-mualla-saygi-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-fikret-muallâ-turkish-1903-1967/JQGvxYBwldHG5Q"
       }
     ],
     "summary": [
-      "José Clemente Orozco was a Mexican caricaturist and painter, who specialized in political murals that established the Mexican Mural Renaissance together with murals by Diego Rivera, David Alfaro Siqueiros, and others. Orozco was the most complex of the Mexican muralists, fond of the theme of human suffering, but less realistic and more fascinated by machines than Rivera. Mostly influenced by Symbolism, he was also a genre painter and lithographer. Between 1922 and 1948, Orozco painted murals in Mexico City, Orizaba, Claremont, California, New York City, Hanover, New Hampshire, Guadalajara, Jalisco, and Jiquilpan, Michoacán. His drawings and paintings are exhibited by the Carrillo Gil Museum in Mexico City, and the Orozco Workshop-Museum in Guadalajara. Orozco was known for being a politically committed artist, and he promoted the political causes of peasants and workers."
+      "Fikret Muallâ Saygı was a 20th-century avant-garde painter of Turkish descent. His work reflects influences from Expressionism and Fauvism, with subject matter focusing on Paris street life, social gatherings such as cafés and circuses."
     ],
-    "quote": "“We could raise prodigious cities and create nations, and explore the universe.”",
-    "movements": ["Social realism", "Modern art"],
-    "mediums": ["Oil paint", "Masonite", "Watercolor painting", "Drawing", "Tempera", "Charcoal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco",
-    "urlGoogle": "https://artsandculture.google.com/entity/josé-clemente-orozco/m01btzc"
+    "quote": null,
+    "movements": ["Modern art", "Expressionism"],
+    "mediums": ["Oil paint", "Gouache", "Watercolor painting", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Fikret_Mualla_Sayg%C4%B1",
+    "urlGoogle": "https://artsandculture.google.com/entity/fikret-mualla-saygı/m05dh8c"
   },
   "event": {
-    "id": "chernobyl-disaster",
-    "name": "Chernobyl disaster",
-    "dates": "Apr 25, 1986 - Apr 25, 1986",
-    "mainImg": "img/events/chernobyl-disaster.jpg",
+    "id": "liberation-of-paris",
+    "name": "Liberation of Paris",
+    "dates": "Aug 19, 1944 - Aug 25, 1944",
+    "mainImg": "img/events/liberation-of-paris.jpg",
     "summary": [
-      "The Chernobyl disaster was caused by a nuclear accident that occurred on Saturday 26 April 1986, at the No. 4 reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR. It is considered the worst nuclear disaster in history and was caused by one of only two nuclear energy accidents rated at seven—the maximum severity—on the International Nuclear Event Scale, the other being the 2011 Fukushima Daiichi nuclear disaster in Japan.",
-      "The accident started during a safety test on an RBMK-type nuclear reactor, which was commonly used throughout the Soviet Union. The test was a simulation of an electrical power outage to aid the development of a safety procedure for maintaining reactor cooling water circulation until the back-up electrical generators could provide power. This gap was about one minute and had been identified as a potential safety problem that could cause the nuclear reactor core to overheat. It was hoped to prove that the residual rotational energy in a turbine generator could provide enough power to cover the gap. Three such tests had been conducted since 1982, but they had failed to provide a solution."
+      "The Liberation of Paris was a military battle that took place during World War II from 19 August 1944 until the German garrison surrendered the French capital on 25 August 1944. Paris had been ruled by Nazi Germany since the signing of the Second Compiègne Armistice on 22 June 1940, after which the Wehrmacht occupied northern and western France.",
+      "The liberation began when the French Forces of the Interior—the military structure of the French Resistance—staged an uprising against the German garrison upon the approach of the US Third Army, led by General George Patton. On the night of 24 August, elements of General Philippe Leclerc's 2nd French Armored Division made their way into Paris and arrived at the Hôtel de Ville shortly before midnight. The next morning, 25 August, the bulk of the 2nd Armored Division and US 4th Infantry Division entered the city. Dietrich von Choltitz, commander of the German garrison and the military governor of Paris, surrendered to the French at the Hôtel Meurice, the newly established French headquarters. General Charles de Gaulle of the French Army arrived to assume control of the city as head of the Provisional Government of the French Republic."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
-    "urlGoogle": "https://artsandculture.google.com/entity/chernobyl-disaster/m07q37w"
+    "urlWiki": "https://en.wikipedia.org/wiki/Liberation_of_Paris",
+    "urlGoogle": "https://artsandculture.google.com/entity/liberation-of-paris/m037g_b"
   },
   "funFacts": [
+    { "id": "905", "fact": "The side of a hammer is called a cheek.", "category": ["Definitions"] },
+    { "id": "217", "fact": "Blackboard chalk contains no chalk.", "category": ["Hodgepodge"] }
+  ],
+  "funFacts2": [
     {
-      "id": "707",
-      "fact": "Most rechargeable batteries can be recharged up to 1,000 times.",
-      "category": ["Science"]
-    },
-    {
-      "id": "682",
-      "fact": "The giant panda can eat up to 83 lbs of bamboo a day.",
-      "category": ["Animals"]
+      "id": "553809",
+      "fact": "The paint that coats the White House and Buckingham Palace is made by the same German company."
     }
   ],
-  "funFacts2": [{ "id": "506371", "fact": "Sea cucumbers eat with their feet." }],
   "idiom": {
-    "id": "browned-off",
-    "term": "browned off",
-    "definition": "Very angry, as in *When she locked me out I was really browned off.* This expression originated as Royal Air Force slang for \"disgusted\" and \"depressed\" in the late 1930s and had crossed the Atlantic by World War II. It gradually came to be used more widely as a slangy synonym for \"infuriated.\" One theory for its origin, mentioned by Eric Partridge in his slang dictionary, is that it alludes to brass buttons on a uniform turning brown from lack of polishing. Partridge noted, however, that the \"predominant Army opinion\" was that the word had the same literal meaning as *buggered.*"
+    "id": "know-which-side-of-ones-bread-is-buttered",
+    "term": "know which side of one's bread is buttered",
+    "definition": "Be aware of where one's best interests lie, as in *Jerry always helps out his boss; he knows which side of his bread is buttered.* This expression alludes to the more favorable, or buttered, side of bread and has been used metaphorically since the early 1500s."
   },
   "person": {
-    "id": "tom-hayden",
-    "name": "Tom Hayden",
-    "dates": "Dec 11, 1939 - Oct 23, 2016",
-    "mainImg": "img/people/tom-hayden.jpg",
+    "id": "sargent-shriver",
+    "name": "Sargent Shriver",
+    "dates": "Nov 9, 1915 - Jan 18, 2011",
+    "mainImg": "img/people/sargent-shriver.jpg",
     "summary": [
-      "Thomas Emmet Hayden was an American social and political activist, author, and politician. Hayden was best known for his major role as an anti-war and civil rights activist in the 1960s, authoring the Port Huron Statement and standing trial in the Chicago Seven case.",
-      "In later years he ran for political office numerous times, winning seats in both the California Assembly and California Senate. At the end of his life he was the director of the Peace and Justice Resource Center in Los Angeles County. He was married to Jane Fonda for 17 years, and was the father of actor Troy Garity."
+      "Robert Sargent Shriver Jr. was an American diplomat, politician and activist. As the husband of Eunice Kennedy Shriver, he was part of the Kennedy family. Shriver was the driving force behind the creation of the Peace Corps, and founded the Job Corps, Head Start, and other programs as the \"architect\" of the 1960s \"War on Poverty.\" He was the Democratic Party's nominee for vice president in the 1972 presidential election.",
+      "Born in Westminster, Maryland, Shriver pursued a legal career after graduating from Yale Law School. An opponent of U.S. entry into World War II, he helped establish the America First Committee but volunteered for the United States Navy before the Japanese attack on Pearl Harbor. During the war, he served in the South Pacific, participating in the naval Battle of Guadalcanal. After being discharged from the navy, he worked as an assistant editor for Newsweek and met Eunice Kennedy, marrying her in 1953.",
+      "He worked on the 1960 presidential campaign of his brother-in-law, John F. Kennedy, and helped establish the Peace Corps after Kennedy's victory. After Kennedy's assassination, Shriver served in the administration of Lyndon B."
     ],
-    "quote": "“The peace and justice movement has to expand and not run away from the plight of gang members.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Tom_Hayden",
-    "urlGoogle": "https://artsandculture.google.com/entity/tom-hayden/m03qd0j"
+    "quote": "“The Peace Corps would give thousands of young Americans a chance to see at first hand the conditions in remote areas of the world.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Sargent_Shriver",
+    "urlGoogle": "https://artsandculture.google.com/entity/sargent-shriver/m01j29r"
   },
   "place": {
-    "id": "moldova",
-    "name": "Moldova",
-    "mainImg": "img/places/moldova.jpg",
+    "id": "lahore",
+    "name": "Lahore",
+    "mainImg": "img/places/lahore.jpg",
     "summary": [
-      "Moldova, officially the Republic of Moldova, is a landlocked country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. The capital city is Chișinău.",
-      "Most of the Moldovan territory was a part of the Principality of Moldavia from the 14th century until 1812, when it was ceded to the Russian Empire by the Ottoman Empire and became known as Bessarabia. In 1856, southern Bessarabia was returned to Moldavia, which three years later united with Wallachia to form Romania, but Russian rule was restored over the whole of the region in 1878. During the 1917 Russian Revolution, Bessarabia briefly became an autonomous state within the Russian Republic, known as the Moldavian Democratic Republic. In February 1918, the Moldavian Democratic Republic declared independence and then integrated into Romania later that year following a vote of its assembly. The decision was disputed by Soviet Russia, which in 1924 established, within the Ukrainian SSR, a Moldavian autonomous republic on partially Moldovan-inhabited territories to the east of Bessarabia."
+      "Lahore is the capital of the Pakistani province of Punjab, and is the country's 2nd largest city after Karachi, as well as the 18th largest city proper in the world. Lahore is one of Pakistan's wealthiest cities, with an estimated GDP of $58.14 billion as of 2015. Lahore is the largest city and historic cultural centre of the wider Punjab region, and is one of Pakistan's most socially liberal, progressive, and cosmopolitan cities.",
+      "Lahore's origins reach into antiquity. The city has been controlled by numerous empires throughout the course of its history, including the Hindu Shahis, Ghaznavids, Ghurids, and Delhi Sultanate by the medieval era. Lahore reached the height of its splendour under the Mughal Empire between the late 16th and early 18th century, and served as its capital city for a number of years. The city was captured by the forces of the Afsharid ruler Nader Shah in 1739, and fell into a period of decay while being contested between the Afghans and the Sikhs. Lahore eventually became capital of the Sikh Empire in the early 19th century, and regained some of its lost grandeur. Lahore was then annexed to the British Empire, and made capital of British Punjab."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Moldova",
-    "urlGoogle": "https://artsandculture.google.com/entity/moldova/m04w4s"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lahore",
+    "urlGoogle": "https://artsandculture.google.com/entity/lahore/m0xnt5"
   },
   "quote": {
-    "id": "62",
-    "quote": "The real voyage of discovery consists not in seeking new lands but seeing with new eyes.",
-    "author": "Marcel Proust"
+    "id": "76",
+    "quote": "A ship in harbor is safe, but that is not what ships are for.",
+    "author": "John A. Shedd"
   },
   "wiki": {
-    "id": "alcohol-laws-of-new-jersey",
-    "name": "Alcohol laws of New Jersey",
-    "summary": "The state laws governing the control of alcoholic beverages in New Jersey are among the most complex in the United States and contain many peculiarities not found in other states. New Jersey law grants individual municipalities substantial discretion in creating ordinances that regulate the sale and consumption of alcoholic beverages. A small percentage of municipalities in the state are \"dry towns\" that do not allow alcoholic beverages to be sold. Other towns permit alcohol sales 24 hours a day. The history of taverns and alcohol production in New Jersey dates to its early colonial period. A local distillery owner was asked by George Washington for his recipe for \"cyder spirits.\" With the rise of the temperance movement, New Jersey's alcohol industry suffered; many breweries, wineries and distilleries either closed or relocated to other states. The legacy of Prohibition restricted and prevented the industry's recovery until the state legislature began loosening restrictions starting in 1981. New Jersey's alcohol industry is experiencing a renaissance, and recently enacted laws provide new opportunities for the state's wineries and breweries.",
-    "url": "https://en.wikipedia.org/wiki/Alcohol_laws_of_New_Jersey"
+    "id": "swedish-allotment-system",
+    "name": "Swedish allotment system",
+    "summary": "The Swedish allotment system was a system used in Sweden for keeping a trained army at all times. The oldest variant of the system came into use in around 1640, and in 1682 an updated system was introduced. Both systems relied on estates and farms that provided housing, salary and some military equipment for a soldier or horseman. In exchange, all other men in households providing soldiers escaped conscription, and households providing a horseman gained a large tax reduction. The system provided a well-trained, fast-mobilized and relatively cheap army that had large success on the battlefields of Europe during the 17th century, but the system also took its toll on the population. The allotment system was not replaced until the early 1900s, when the Swedish Armed Forces started using a conscription system.",
+    "url": "https://en.wikipedia.org/wiki/Swedish_allotment_system"
   },
   "word": {
-    "id": "timorous",
-    "word": "timorous",
-    "url": "https://www.merriam-webster.com/dictionary/timorous",
-    "partOfSpeech": "adjective",
-    "pronunciation": "TIM-uh-rus",
-    "audioPath": "audio/words/timorous.mp3",
-    "definitions": ["of a timid disposition : fearful", "expressing or suggesting timidity"],
+    "id": "philately",
+    "word": "philately",
+    "url": "https://www.merriam-webster.com/dictionary/philately",
+    "partOfSpeech": "noun",
+    "pronunciation": "fuh-LAT-uh-lee",
+    "audioPath": "audio/words/philately.mp3",
+    "definitions": ["the collection and study of postage and imprinted stamps : stamp collecting"],
     "examples": [
-      "The study seems to suggests that _timorous_ people suffer from stress more frequently than their more aggressive peers.",
-      "\"Hwang's quest to prove his daughter died from a workplace-related illness has pitted him against the world's biggest technology company and a largely _timorous_ South Korean media.\" - From an article by Justin McCurry in _The Guardian_ (London), February 6, 2014"
+      "Given his interests in both _philately_ and football, Michael was excited to learn about the post office’s new series of stamps featuring legendary quarterbacks.",
+      "\"Those who imagine _philately_ as boring probably have never examined a stamp, seen the intricacy of the design or researched the story behind the postal issue.\" -- From an article by Mark A. Kellner in _The Washington Times_, August 17, 2010"
     ],
-    "origin": "\"Timid\" and \"timorous\" don't just have similar spellings and meanings; they are etymologically related as well. Both words ultimately derive from the Latin verb \"timēre,\" meaning \"to fear.\" The immediate ancestor of \"timid\" is Latin \"timidus\" (same meaning as \"timid\"), whereas \"timorous\" traveled to Middle English by way of the Latin noun \"timor\" (\"fear\") and the Medieval Latin adjective \"timorosus.\" \"Timid\" may be the more common of the two words, but \"timorous\" is older. It first appeared in English in the mid-15th century; \"timid\" came on the scene a century later. Both words can mean \"easily frightened\" (as in \"a timid mouse\" or \"a timorous child\") as well as \"indicating or characterized by fear\" (as in \"he gave a timid smile\" or \"she took a timorous step forward\")."
+    "origin": "Who wouldn't love something tax free? George Herpin did. He was a French stamp fancier back in the 1860s, when stamps were a fairly new invention. Before stamps, the recipient of a letter -- not the sender -- had to pay the postage. Stamps forced the sender to foot the bill, and created a lot of stamp lovers among folks on the receiving end of the mail -- and a mania for stamp collecting. \"Timbromania\" was toyed with as a term to affix to this new hobby -- from the French word for stamp, \"timbre.\" But when Herpin suggested \"philatélie\" (anglicized to \"philately\"), combining the Greek root \"phil-,\" meaning \"loving,\" with Greek \"ateleia,\" meaning \"tax-exemption,\" stamp lovers everywhere took a fancy to it and the name stuck."
   }
 }

@@ -1,134 +1,127 @@
 {
   "artist": {
-    "id": "pietro-perugino",
-    "name": "Pietro Perugino",
-    "dates": "1446 - 1523",
-    "mainImg": "img/art/artists/pietro-perugino.jpg",
+    "id": "eero-saarinen",
+    "name": "Eero Saarinen",
+    "dates": "Aug 20, 1910 - Sep 1, 1961",
+    "mainImg": "img/art/artists/eero-saarinen.jpg",
     "artworkImgs": [
       {
-        "name": "Portrait of Lorenzo di Credi",
-        "path": "img/art/artworks/pietro-perugino-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-lorenzo-di-credi-pietro-perugino/lQEylmtgtyOJBQ"
+        "name": "Tulip Chair - Pedestal Collection",
+        "path": "img/art/artworks/eero-saarinen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/tulip-chair-pedestal-collection-eero-saarinen/sgH8CW4fG3pDKA"
       },
       {
-        "name": "Madonna and Child",
-        "path": "img/art/artworks/pietro-perugino-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/madonna-and-child-pietro-perugino/DwED40CtAtbe4Q"
+        "name": "Womb Chair, Model No. 70",
+        "path": "img/art/artworks/eero-saarinen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/womb-chair-model-no-70/AgHuJFCVu1kzLA"
       },
       {
-        "name": "Madonna and Child",
-        "path": "img/art/artworks/pietro-perugino-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/madonna-and-child-pietro-perugino/6QG_M_bqtU5peQ"
+        "name": "Saarinen table - Pedestal Collection",
+        "path": "img/art/artworks/eero-saarinen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/saarinen-table-pedestal-collection-eero-saarinen/xQGaT1RwsqjVlg"
       },
       {
-        "name": "The Resurrection",
-        "path": "img/art/artworks/pietro-perugino-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-resurrection-perugino-pietro-di-cristoforo-vannucci/ewHQK3PAQ5mKgg"
+        "name": "Aero Willys sedan outside the Milwaukee County War Memorial",
+        "path": "img/art/artworks/eero-saarinen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/aero-willys-sedan-outside-the-milwaukee-county-war-memorial-brooks-stevens/WwEUlW6oM_QCig"
       },
       {
-        "name": "Portrait of Francesco delle Opere",
-        "path": "img/art/artworks/pietro-perugino-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-francesco-delle-opere-perugino-vannucci/5QGLVFhd_NbMtQ"
+        "name": "Eero Saarinen-designed Milwaukee Art Center",
+        "path": "img/art/artworks/eero-saarinen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/eero-saarinen-designed-milwaukee-art-center-eero-saarinen/0gESOA6d3O2sFA"
       },
       {
-        "name": "Vierge à l'Enfant.",
-        "path": "img/art/artworks/pietro-perugino-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/vierge-à-l-enfant-copie-de-la-vierge-et-l-enfant-d-après-le-tableau-de-jean-fouquet/JwHWlb9Tu-yGng"
+        "name": "Eero Saarinen-designed Milwaukee Art Center",
+        "path": "img/art/artworks/eero-saarinen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/eero-saarinen-designed-milwaukee-art-center-eero-saarinen/3gEz9KosAijdmA"
       }
     ],
     "summary": [
-      "Pietro Perugino, born Pietro Vannucci, was an Italian Renaissance painter of the Umbrian school, who developed some of the qualities that found classic expression in the High Renaissance. Raphael was his most famous pupil."
+      "Eero Saarinen was a Finnish-American architect and industrial designer noted for his neo-futuristic style. Saarinen is known for designing the Washington Dulles International Airport outside Washington, D.C., the TWA Flight Center in New York City, and the Gateway Arch in St. Louis, Missouri. He was the son of noted Finnish architect Eliel Saarinen."
     ],
-    "quote": null,
-    "movements": ["Italian Renaissance", "Renaissance"],
-    "mediums": ["Drawing", "Oil paint", "Ink", "Pen", "Tempera", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Pietro_Perugino",
-    "urlGoogle": "https://artsandculture.google.com/entity/pietro-perugino/m03k9yt"
+    "quote": "“I wanted to clear up the slum of legs… I wanted to make the chair all one thing again.”",
+    "movements": [],
+    "mediums": ["Fiberglass", "Glass", "Plastic", "Textile", "Iron", "Chromium"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Eero_Saarinen",
+    "urlGoogle": "https://artsandculture.google.com/entity/eero-saarinen/m0d_h8"
   },
   "event": {
-    "id": "normandy-campaign",
-    "name": "Normandy Campaign",
-    "dates": "Jun 6, 1944 - Aug 30, 1944",
-    "mainImg": "img/events/normandy-campaign.jpg",
+    "id": "battle-of-chamb",
+    "name": "Battle of Chamb",
+    "dates": null,
+    "mainImg": "img/events/battle-of-chamb.jpg",
     "summary": [
-      "The Battle of Normandy or Normandy Campaign includes the following:",
-      "Operation Overlord – The Western Allied campaign in France from June 6 – August 25, 1944",
-      "The Invasion of Normandy, or \"Operation Neptune\" – The initial part of Overlord, from June 6 – mid-July 1944",
-      "The Normandy landings on June 6, 1944",
-      "Operation Cobra, the breakout from Normandy, starting on July 25, 1944",
-      "The \"Battle of Normandy\" is the official term for the British, French and Canadian military campaign lasting from June 6 – September 1, 1944."
+      "The Battle of Chamb, 1971 was a battle in the Indo-Pakistani War of 1971. The Pakistani Army invaded Chamb on the same principle as the Battle of Chamb. The Pakistan Army's primary objective was to capture the town of Chamb and surrounding areas which had strategic importance for both Pakistan and India.",
+      "Before the capture of Chamb by Pakistan forces, this western sector was under India's control. Similar to 1965, plans were made to capture this strategic town. The reason behind this plan was to deter Indians from attacking the crucial north-south line of communications passing via Gujrat. The 23 Division of Pakistan was given the task of protecting this sector and later attacking the Chamb-Dewa sectors. On the Indian side, the 10th Division was given the task of defence of Chamb; the Indian army believed that by attacking Gujrat and Tanda, they could guarantee the defence of Chamb. In comparison to 1965, the Indians were better prepared in terms of defences and now realized the importance of the town and sector."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Normandy_Campaign_%28disambiguation%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/normandy-campaign/m03bxm2j"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Chamb",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-chamb/m064jxkz"
   },
   "funFacts": [
     {
-      "id": "40",
-      "fact": "It is possible to lead a cow up stairs but not down.",
-      "category": ["Animals"]
+      "id": "109",
+      "fact": "Smelling apples and/or bananas can help you lose weight.",
+      "category": ["Science"]
     },
     {
-      "id": "1022",
-      "fact": "Miami installed the first ATM for inline skaters.",
-      "category": ["Geography", "History", "Make-it-Easies", "Firsts"]
+      "id": "142",
+      "fact": "Hawaii is the only U.S. state never to report a temperature of zero degrees F or below.",
+      "category": ["Geography", "Onlies"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554086",
-      "fact": "The ancestor of the modern chainsaw was invented to facilitate childbirth."
+      "id": "522175",
+      "fact": "In a 2004 episode of Sesame Street, Cookie Monster revealed that before he started eating cookies his name was Sid."
     }
   ],
-  "idiom": {
-    "id": "lead-pipe-cinch",
-    "term": "lead-pipe cinch",
-    "definition": "A certainty, an assured success. For example, \"An engagement ain't always a lead-pipe cinch\" (O. Henry, *The Sphinx Apple,* 1907). This colloquial expression is of disputed origin. It may allude to the *cinch* that tightly holds a horse's saddle in place, which can make it easier for the rider to succeed in a race; or it may allude to a *cinch* in plumbing, in which a lead pipe is fastened with a band of steel to another pipe or a fixture, making a very secure joint. [Late 1800s]"
-  },
   "person": {
-    "id": "artaxerxes-iii",
-    "name": "Artaxerxes III",
-    "dates": "424 BC - 337 BC",
-    "mainImg": "img/people/artaxerxes-iii.jpg",
+    "id": "sarah-kubitschek",
+    "name": "Sarah Kubitschek",
+    "dates": "Oct 5, 1908 - Feb 4, 1996",
+    "mainImg": "img/people/sarah-kubitschek.jpg",
     "summary": [
-      "Ochus, better known by his dynastic name of Artaxerxes III was King of Kings of the Achaemenid Empire from 358 to 338 BC. He was the son and successor of Artaxerxes II and his mother was Stateira.",
-      "Before ascending the throne Artaxerxes was a satrap and commander of his father's army. Artaxerxes came to power after one of his brothers was executed, another committed suicide, the last murdered and his father, Artaxerxes II died. Soon after becoming king, Artaxerxes murdered all of the royal family to secure his place as king. He started two major campaigns against Egypt. The first campaign failed, and was followed up by rebellions throughout the western part of his empire. In 343 BC, Artaxerxes defeated Nectanebo II, the Pharaoh of Egypt, driving him from Egypt, stopping a revolt in Phoenicia on the way.",
-      "In Artaxerxes' later years, Philip II of Macedon's power was increasing in Greece, where he tried to convince the Greeks to revolt against the Achaemenid Empire. His activities were opposed by Artaxerxes, and with his support, the city of Perinthus resisted a Macedonian siege."
+      "Sarah Luísa Lemos Kubitschek de Oliveira GCC • GCIH, known as Dona Sarah Kubitschek was a Brazilian charity worker and First Lady of Brazil from 1956 to 1961, wife of President Juscelino Kubitschek.",
+      "She was the founder of the Organização de Pioneiras Sociais, which carried out charity works in Minas Gerais, including the founding of schools and daycares in the countryside, and distribution of clothing, food, wheelchairs and mechanical devices for the physically disabled. In addition, she set up flying hospitals in most of the states and hospital boats made in Germany to the Amazon."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Artaxerxes_III",
-    "urlGoogle": "https://artsandculture.google.com/entity/artaxerxes-iii/m01s88b"
+    "urlWiki": "https://en.wikipedia.org/wiki/Sarah_Kubitschek",
+    "urlGoogle": "https://artsandculture.google.com/entity/sarah-kubitschek/m0j6cdmy"
   },
   "place": {
-    "id": "suzhou",
-    "name": "Suzhou",
-    "mainImg": "img/places/suzhou.jpg",
+    "id": "los-angeles",
+    "name": "Los Angeles",
+    "mainImg": "img/places/los-angeles.jpg",
     "summary": [
-      "Suzhou, alternately romanized as Soochow, is a major city located in southeastern Jiangsu Province of East China, about 100 km northwest of Shanghai. It is a major economic center and focal point of trade and commerce, and the second largest city in the province, after its capital Nanjing. The city is situated on the lower reaches of the Yangtze River and the shores of Lake Tai and belongs to the Yangtze River Delta region. Administratively, Suzhou is a prefecture-level city with a population of 4.33 million in its city proper, and a total resident population of 10.58 million in its administrative area. Its urban population grew at an unprecedented rate of 6.5% between 2000 and 2014, which is the highest among cities with more than 5 million people.",
-      "Founded in 514 BC, Suzhou has over 2,500 years of history, with an abundant display of relics and sites of historical interest. Around AD 100, during the Eastern Han dynasty, it became one of the ten largest cities in the world mostly due to emigration from Northern China. Since the 10th-century Song dynasty, it has been an important commercial center of China."
+      "Los Angeles, officially the City of Los Angeles and often known by its initials L.A., is the largest city in California. With an estimated population of nearly four million people, it is the country's second most populous city and the third most populous city in North America. Los Angeles is known for its Mediterranean climate, ethnic diversity, Hollywood entertainment industry, and its sprawling metropolis.",
+      "Los Angeles lies in a basin in Southern California, adjacent to the Pacific Ocean, with mountains as high as 10,000 feet, and deserts. The city, which covers about 469 square miles, is the seat of Los Angeles County, the most populous county in the United States. The Los Angeles metropolitan area is home to 13.1 million people, making it the second-largest metropolitan area in the nation after New York. Greater Los Angeles includes metro Los Angeles as well as the Inland Empire and Ventura County. It is the second most populous U.S. combined statistical area, also after New York, with a 2015 estimate of 18.7 million people.",
+      "Home to the Chumash and Tongva, Los Angeles was claimed by Juan Rodríguez Cabrillo for Spain in 1542."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Suzhou",
-    "urlGoogle": "https://artsandculture.google.com/entity/suzhou/m01qq80"
+    "urlWiki": "https://en.wikipedia.org/wiki/Los_Angeles",
+    "urlGoogle": "https://artsandculture.google.com/entity/los-angeles/m030qb3t"
   },
   "wiki": {
-    "id": "kylie-minogue",
-    "name": "Kylie Minogue",
-    "summary": "Kylie Minogue is an Australian singer and actress. She rose to prominence in the late 1980s as a result of her role in the Australian television soap opera Neighbours, before commencing her career as a pop singer and recording artist. Signed to a contract by British songwriters and record producers Stock, Aitken and Waterman, Minogue achieved a string of hit records throughout the world, but her popularity began to decline by the early 1990s, leading her to part company from them in 1992. For several years she attempted to establish herself as an independent performer and songwriter, distancing herself from her earlier work. Her projects were widely publicised, but despite a couple of hit singles, her albums failed to attract a substantial audience, resulting in the lowest sales of her career. In 2000, she returned to popularity as a dance/pop music artist and became well-known for her provocative music videos and expensively mounted stage shows. In Europe and Australia, Minogue has become one of her generation's most recognisable celebrities and sex symbols.",
-    "url": "https://en.wikipedia.org/wiki/Kylie_Minogue"
+    "id": "ian-fleming",
+    "name": "Ian Fleming",
+    "summary": "Ian Fleming (1908–1964) was an English author, journalist and Naval Intelligence Officer, best known for his James Bond series of spy novels. While working in British Naval Intelligence during the Second World War, Fleming was involved in the planning stages of intelligence and military operations, and his wartime service and subsequent career as a journalist provided much of the background, detail and depth of the James Bond novels. Fleming wrote his first Bond novel, Casino Royale, in 1952. It was a success, and eleven Bond novels and two short-story collections followed between 1953 and 1966. The novels revolved around James Bond, an officer in the British Secret Service. The Bond stories rank among the best-selling series of fictional books of all time, having sold over 100 million copies. Fleming's creation has appeared in film twenty-four times, portrayed by seven actors, and the latest screen incarnation, Skyfall, is due to premiere in London on 23 October 2012.",
+    "url": "https://en.wikipedia.org/wiki/Ian_Fleming"
   },
   "word": {
-    "id": "refulgence",
-    "word": "refulgence",
-    "url": "https://www.merriam-webster.com/dictionary/refulgence",
+    "id": "solstice",
+    "word": "solstice",
+    "url": "https://www.merriam-webster.com/dictionary/solstice",
     "partOfSpeech": "noun",
-    "pronunciation": "rih-FULL-junss",
-    "audioPath": "audio/words/refulgence.mp3",
-    "definitions": ["a radiant or resplendent quality or state : brilliance"],
-    "examples": [
-      "The winning photo captured the _refulgence_ of a full moon on a clear autumn night.",
-      "\"The sound the Philadelphia players mustered from the heroic opening bars of Brahms's Third Symphony was the orchestra's own, showing the richness and _refulgence_ that are this institution's legacy.\" - From a review by Steve Smith in _The New York Times_, April 30, 2012"
+    "pronunciation": "SAHL-stiss",
+    "audioPath": "audio/words/solstice.mp3",
+    "definitions": [
+      "the time of year when the sun is farthest north of the equator or farthest south of the equator"
     ],
-    "origin": "\"The full bow of the crescent moon peeps above the plain and shoots its gleaming arrows far and wide, filling the earth with a faint refulgence, as the glow of a good man's deeds shines for a while upon his little world after his sun has set, lighting the fainthearted travellers who follow on towards a fuller dawn.\" So British author Sir Henry Rider Haggard described the light of the moon in _King Solomon's Mines_. Haggard's example reflects both the modern meaning and the history of \"refulgence.\" That word derives from Latin \"refulgēre,\" which means \"to shine brightly\" and which is itself a descendant of the verb \"fulgēre,\" meaning \"to shine.\" By the way, \"fulgēre\" also underlies \"effulgence,\" a shining synonym of \"refulgence.\""
+    "examples": [
+      "People all over the world have observed celebrations linked to the summer and winter _solstices_ since ancient times.",
+      "\"Experts on Mayan culture say that date \\[December 21, 2012\\], the winter _solstice_, simply marks the end of a cycle, no different than flipping the calendar to a new year after Dec. 31.\" - From an article by James Figueroa in the _Pasadena Star-News_ (California), November 25, 2012"
+    ],
+    "origin": "In the Northern Hemisphere, the summer solstice occurs on June 21 or 22 and the winter solstice on December 21 or 22. In the Southern Hemisphere, where the seasons are reversed, the solstices are exactly the opposite. For several days around the time of the solstices, the sun's appearance on the horizon at sunrise and sunset seems to occur at the same spot, before it starts drifting to the north or south again. \"Solstice\" gets its shine from \"sol,\" the Latin word for \"sun.\" The ancients added \"sol\" to \"-stit-\" (\"standing\") and came up with \"solstitium.\" Middle English speakers shortened \"solstitium\" to \"solstice\" in the 13th century."
   }
 }

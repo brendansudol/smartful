@@ -1,137 +1,129 @@
 {
   "artist": {
-    "id": "ludwig-richter",
-    "name": "Ludwig Richter",
-    "dates": "Sep 28, 1803 - Jun 19, 1884",
-    "mainImg": "img/art/artists/ludwig-richter.jpg",
+    "id": "george-stubbs",
+    "name": "George Stubbs",
+    "dates": "Aug 25, 1724 - Jul 10, 1806",
+    "mainImg": "img/art/artists/george-stubbs.jpg",
     "artworkImgs": [
       {
-        "name": "Lake in the Riesengebirge",
-        "path": "img/art/artworks/ludwig-richter-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/lake-in-the-riesengebirge-ludwig-richter/_AHnyRY-pdz5qw"
+        "name": "Horse Frightened by a Lion",
+        "path": "img/art/artworks/george-stubbs-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/horse-frightened-by-a-lion-george-stubbs-1724–1806-british/qAHj1S9wWlZDhw"
       },
       {
-        "name": "Crossing at Schreckenstein",
-        "path": "img/art/artworks/ludwig-richter-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/crossing-at-schreckenstein/qQEEQB30-CjkOw"
+        "name": "Pumpkin with a Stable-lad",
+        "path": "img/art/artworks/george-stubbs-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/pumpkin-with-a-stable-lad-george-stubbs-1724–1806-british/rgFU9LOEVr-aoA"
       },
       {
-        "name": "Richter's Werke (binder's title)",
-        "path": "img/art/artworks/ludwig-richter-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/richter-s-werke-binder-s-title-adrian-ludwig-richter-j-heinrich-richter-georg-wiegand-meyer-richter-gaber-and-richter-johann-christoph-friedrich-von-schiller-breitkopf-härtel-august-gaber-kaspar-oertel-h-gunther-römmler-and-jonas-c-c-meinholdt-and-söhne/cAGsnwWb6DoOzA"
+        "name": "Horse Frightened by a Lion",
+        "path": "img/art/artworks/george-stubbs-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/horse-frightened-by-a-lion-george-stubbs/IgHUdOdTC_mlkg"
       },
       {
-        "name": "View of Milan",
-        "path": "img/art/artworks/ludwig-richter-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-milan-adrian-ludwig-richter/4AHUEfrl68VOOw"
+        "name": "Horse Devoured by a Lion",
+        "path": "img/art/artworks/george-stubbs-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/horse-devoured-by-a-lion-george-stubbs/OwGll0nCCI-GPA"
       },
       {
-        "name": "Civitella (Evening)",
-        "path": "img/art/artworks/ludwig-richter-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/civitella-evening/7wF5mH2VnOWUcw"
+        "name": "Brown and White Norfolk or Water Spaniel",
+        "path": "img/art/artworks/george-stubbs-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/brown-and-white-norfolk-or-water-spaniel-george-stubbs-1724–1806-british/fwHuy4jcPRsTHw"
       },
       {
-        "name": "Genoveva",
-        "path": "img/art/artworks/ludwig-richter-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/genoveva-adrian-ludwig-richter/2gFaJpHDEJa2fQ"
+        "name": "A Saddled Bay Hunter",
+        "path": "img/art/artworks/george-stubbs-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-saddled-bay-hunter-george-stubbs/5gFsuk373TxFug"
       }
     ],
     "summary": [
-      "Adrian Ludwig Richter, a 19th-century German painter and etcher, who was strongly influenced by Erhard and Chodowiecki.",
-      "He was the most popular, and in many ways the most typical German illustrator of the middle of the 19th century. His work is as typically German and homely as are the fairy-tales of Grimm, for whom he produced several woodcuts."
+      "George Stubbs ARA was an English painter, best known for his paintings of horses. Self-trained, Stubbs learnt his skills independently from other great artists of the eighteenth century such as Reynolds or Gainsborough. Stubbs' output includes history paintings, but his greatest skill was in painting animals, perhaps influenced by his love and study of anatomy. His most famous painting, Whistlejacket, hangs in the National Gallery, London."
     ],
     "quote": null,
-    "movements": ["Romanticism", "Academic art"],
-    "mediums": ["Etching", "Drawing", "Graphite", "Watercolor painting", "Book", "Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Ludwig_Richter",
-    "urlGoogle": "https://artsandculture.google.com/entity/ludwig-richter/m070hjn"
+    "movements": ["Naturalism", "Romanticism", "Academic art", "Realism", "Neoclassicism"],
+    "mediums": ["Graphite", "Chalk", "Pigment", "Sanguine", "Ink", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/George_Stubbs",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-stubbs/m01hbvq"
   },
   "event": {
-    "id": "muromachi-period",
-    "name": "Muromachi period",
-    "dates": "1336 - 1573",
-    "mainImg": "img/events/muromachi-period.jpg",
+    "id": "prague-uprising",
+    "name": "Prague uprising",
+    "dates": "May 5, 1945 - May 9, 1945",
+    "mainImg": "img/events/prague-uprising.jpg",
     "summary": [
-      "The Muromachi period is a division of Japanese history running from approximately 1336 to 1573. The period marks the governance of the Muromachi or Ashikaga shogunate, which was officially established in 1338 by the first Muromachi shōgun, Ashikaga Takauji, two years after the brief Kenmu Restoration of imperial rule was brought to a close. The period ended in 1573 when the 15th and last shogun of this line, Ashikaga Yoshiaki, was driven out of the capital in Kyoto by Oda Nobunaga.",
-      "From a cultural perspective, the period can be divided into the Kitayama and Higashiyama periods.",
-      "The early years from 1336 to 1392 of the Muromachi period are known as the Nanboku-chō or Northern and Southern Court period. This period is marked by the continued resistance of the supporters of Emperor Go-Daigo, the emperor behind the Kenmu Restoration. The years from 1465 to the end of the Muromachi period are also known as the Sengoku period or Warring States period."
+      "The Prague uprising of 1945 was a partially successful attempt by the Czech resistance to liberate the city of Prague from German occupation during World War II. The preceding six years of occupation had fuelled anti-German sentiment and the approach of the Soviet Red Army and the US Third Army offered a chance of success.",
+      "On 5 May 1945, in the last moments of the war in Europe, Czech citizens spontaneously attacked the German occupiers and Czech resistance leaders emerged from hiding to join the uprising. The Russian Liberation Army, which had been fighting for the Germans, defected and supported the Czechs. German troops counter-attacked, but their progress was slowed by barricades constructed by the Czech citizenry. On 8 May, the Czech and German leaders signed a ceasefire allowing the German forces to withdraw from the city, but not all Waffen-SS units obeyed. Fighting continued until 9 May, when the Red Army entered the nearly liberated city.",
+      "The uprising was brutal, with both sides committing war crimes."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Muromachi_period",
-    "urlGoogle": "https://artsandculture.google.com/entity/muromachi-period/m01ckyv"
+    "urlWiki": "https://en.wikipedia.org/wiki/Prague_uprising",
+    "urlGoogle": "https://artsandculture.google.com/entity/prague-uprising/m060kkn"
   },
   "funFacts": [
-    {
-      "id": "829",
-      "fact": "Women's hearts typically beat faster than men's hearts.",
-      "category": ["Anatomy"]
-    },
-    {
-      "id": "846",
-      "fact": "An average of three billion cups of tea are consumed daily worldwide.",
-      "category": ["Food", "Habits"]
-    }
+    { "id": "43", "fact": "A cat's lower jaw cannot move sideways.", "category": ["Animals"] },
+    { "id": "1011", "fact": "Norway once knighted a penguin.", "category": ["Animals", "History"] }
   ],
   "funFacts2": [
     {
-      "id": "522157",
-      "fact": "According to NASA, it possibly rains glass on the planet known as HD 189733b."
+      "id": "553918",
+      "fact": "In 19th-century Ireland, jack-o'-lanterns were carved out \r\nof turnips instead of pumpkins."
     }
   ],
   "idiom": {
-    "id": "over-a-barrel",
-    "term": "over a barrel",
-    "definition": "In a weak or difficult position, as in *Once the competitors found a flaw in our product, they had us over a barrel.* This slangy expression, first recorded in 1938, supposedly alludes to reviving a drowning victim by placing the body head down over a barrel and rolling it back and forth, so as to empty the lungs of water. The expression survives, although happily the practice does not."
+    "id": "tickle-the-ivories",
+    "term": "tickle the ivories",
+    "definition": "Play the piano. This colloquial expression may have its roots in a 16th-century tract by Thomas Nashe, which included \"to tickle a citterne\" (an old stringed instrument). It has been used for the piano since the first half of the 1900s, and continues to be so used, even though more piano keys today are made of plastic than expensive ivory. [Slang, c.1900]"
   },
   "person": {
-    "id": "alcide-de-gasperi",
-    "name": "Alcide De Gasperi",
-    "dates": "Apr 3, 1881 - Aug 19, 1954",
-    "mainImg": "img/people/alcide-de-gasperi.jpg",
+    "id": "rutherford-b-hayes",
+    "name": "Rutherford B. Hayes",
+    "dates": "Oct 4, 1822 - Jan 17, 1893",
+    "mainImg": "img/people/rutherford-b-hayes.jpg",
     "summary": [
-      "Alcide Amedeo Francesco De Gasperi was an Italian statesman who founded the Christian Democracy party and served as Prime Minister of Italy in eight successive coalition governments from 1945 to 1953.",
-      "De Gasperi was the last Prime Minister of the Kingdom of Italy, serving under both Victor Emmanuel III and Umberto II. He was also the first Prime Minister of the Italian Republic, and also briefly served as provisional head of state after the Italian people voted to end the monarchy and establish a republic. His eight-year term in office remains a landmark of political longevity for a leader in modern Italian politics. De Gasperi is the fifth longest-serving Prime Minister since the Italian Unification.",
-      "A devout Catholic, he was one of the founding fathers of the European Union along with fellow Italian Altiero Spinelli."
+      "Rutherford Birchard Hayes was the 19th president of the United States from 1877 to 1881, after serving in the U.S. House of Representatives and as governor of Ohio. A lawyer and staunch abolitionist, he had defended refugee slaves in court proceedings during the antebellum years.",
+      "The Republican Party nominated Hayes as its candidate for the presidency in 1876, where he won through the Compromise of 1877 that officially ended Reconstruction by leaving the South to govern itself. In office he withdrew military troops from the South, ending Army support for Republican state governments in the South and for the efforts of African-American freedmen to establish their families as free citizens. Hayes promoted civil-service reform, and attempted to reconcile the divisions left over from the Civil War of 1861–65 and the Reconstruction Era of 1865–77.",
+      "An attorney in Ohio, Hayes served as city solicitor of Cincinnati from 1858 to 1861. When the Civil War began, he left a fledgling political career to join the Union Army as an officer. Hayes was wounded five times, most seriously at the Battle of South Mountain in 1862."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Alcide_De_Gasperi",
-    "urlGoogle": "https://artsandculture.google.com/entity/alcide-de-gasperi/m035pmw"
+    "quote": "“One of the tests of the civilization of people is the treatment of its criminals.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes",
+    "urlGoogle": "https://artsandculture.google.com/entity/rutherford-b-hayes/m06g42"
   },
   "place": {
-    "id": "breda",
-    "name": "Breda",
-    "mainImg": "img/places/breda.jpg",
+    "id": "the-hague",
+    "name": "The Hague",
+    "mainImg": "img/places/the-hague.jpg",
     "summary": [
-      "Breda is a city and municipality in the southern part of the Netherlands, located in the province of North Brabant. The name derived from brede Aa and refers to the confluence of the rivers Mark and Aa.",
-      "As a fortified city, it was of strategic military and political significance. Although a direct Fiefdom of the Holy Roman Emperor, the city obtained a municipal charter; the acquisition of Breda, through marriage, by the House of Nassau ensured that Breda would be at the centre of political and social life in the Low Countries. Breda had a population of 183,873 in 2019; the metropolitan area had a population of 324,812. It is part of the Brabantse Stedenrij."
+      "The Hague is a city on the western coast of the Netherlands on the North Sea and the capital of the province of South Holland. It is also the seat of government of the Netherlands and hosts the International Court of Justice, one of the most important courts in the world.",
+      "With a metropolitan population of more than 1 million, it is the third-largest city in the Netherlands, after Amsterdam and Rotterdam. The Rotterdam–The Hague metropolitan area, with a population of approximately 2.7 million, is the 13th-largest in the European Union and the most populous in the country. Located in the west of the Netherlands, The Hague is in the centre of the Haaglanden conurbation and lies at the southwest corner of the larger Randstad conurbation.",
+      "The Hague is the seat of the Cabinet, the States General, the Supreme Court, and the Council of State of the Netherlands, but the city is not the constitutional capital of the Netherlands, which is Amsterdam. King Willem-Alexander lives in Huis ten Bosch and works at the Noordeinde Palace in The Hague, together with Queen Máxima. Most foreign embassies in the Netherlands are located in the city."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Breda",
-    "urlGoogle": "https://artsandculture.google.com/entity/breda/m045vhb"
+    "urlWiki": "https://en.wikipedia.org/wiki/The_Hague",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-hague/m07g0_"
   },
   "quote": {
-    "id": "122",
-    "quote": "There is no friend as loyal as a book.",
-    "author": "Ernest Hemingway"
+    "id": "12",
+    "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin"
   },
   "wiki": {
-    "id": "h-c-mc-neile",
-    "name": "H. C. McNeile",
-    "summary": "H. C. McNeile, MC (1888–1937) was a British soldier and author best known for his series of Bulldog Drummond novels. McNeile started writing short war stories during the First World War; when these were published in the Daily Mail, they were under his penname, Sapper, which was based on that of his regiment, the Royal Engineers. After the war he left the Army and became a full-time writer, changing from writing war stories to thrillers, and from writing short stories to move increasingly to novels. In 1920 he published Bulldog Drummond, whose hero became his best-known creation: nine further Drummond novels followed, as did three plays and a screenplay. McNeile also wrote works that included two other protagonists, Jim Maitland and Ronald Standish, and sales of his books ensured he was one of the most successful British popular authors of the inter-war period before his death in 1937 from throat cancer, which has been attributed to damage sustained from a gas attack in the war. Although seen by his contemporaries as an \"upstanding Tory\", his work came under criticism after the Second World War for its fascist overtones, xenophobia and anti-semitism.",
-    "url": "https://en.wikipedia.org/wiki/H._C._McNeile"
+    "id": "osiris-myth",
+    "name": "Osiris myth",
+    "summary": "The Osiris myth is the most elaborate and influential story in ancient Egyptian mythology. It concerns the murder of the god Osiris, a primeval king of Egypt, and its consequences. Osiris' murderer, his brother Set, usurps his throne, while Osiris' wife Isis restores her husband's body and posthumously conceives a son, Horus, by him. Horus' triumph over Set restores order to Egypt and completes the process of Osiris' resurrection. The myth is integral to the Egyptian conceptions of kingship and succession, conflict between order and disorder, and especially, death and the afterlife. The Osiris myth reached its essential form in or before the 25th century BC. Parts of the myth appear in a wide variety of Egyptian texts, from funerary texts and magical spells to short stories. The story is, therefore, more detailed and more cohesive than any other ancient Egyptian myth. Greek and Roman writings, particularly De Iside et Osiride by Plutarch, provide more information but may not always accurately reflect Egyptian beliefs.",
+    "url": "https://en.wikipedia.org/wiki/Osiris_myth"
   },
   "word": {
-    "id": "canorous",
-    "word": "canorous",
-    "url": "https://www.merriam-webster.com/dictionary/canorous",
-    "partOfSpeech": "adjective",
-    "pronunciation": "kuh-NOR-us",
-    "audioPath": "audio/words/canorous.mp3",
-    "definitions": ["pleasant sounding : melodious"],
+    "id": "balneology",
+    "word": "balneology",
+    "url": "https://www.merriam-webster.com/dictionary/balneology",
+    "partOfSpeech": "noun",
+    "pronunciation": "bal-nee-AH-luh-jee",
+    "audioPath": "audio/words/balneology.mp3",
+    "definitions": ["the science of the therapeutic use of baths"],
     "examples": [
-      "A _canorous_ chorus of birdsong filled the morning air.",
-      "\"The album features fast and brooding melodies … and standout _canorous_ piano and clean guitar moments….\" - From a post by Caroline Jensen at _Rock Edition_, February 6, 2013"
+      "_Balneology_ is used at the spa as a means of treating injured muscles.",
+      "\"Fortunately, our collection contains a large number of items relating to _balneology_, the science of baths and bathing, including pamphlets from hot spring resorts across the United States from the late 1800s and early 1900s.\" - From an article posted February 12, 2013 at nyamcenterforhistory.org"
     ],
-    "origin": "In _Confessions of an English Opium-Eater_ (1821), the essayist Thomas de Quincey describes a manservant who, after accidentally letting a loaded trunk fall down a flight of stairs, \"sang out a long, loud, and canorous peal of laughter.\" \"Canorous\" typically describes things, such as church choirs or birds in the spring, that are a pleasure to listen to. It derives from the Latin verb \"canere\" (\"to sing\"), a root it shares with a number of words that evoke what is sweet to the ear, such as \"chant,\" \"canticle,\" \"cantor\" (a leader of a choir), \"carmen\" (a song, poem, or incantation) and even \"accent.\""
+    "origin": "\"Sure, the hot water feels good. Sure, the massage is nice. But it goes beyond that, advocates say.\" So wrote Ellen Creager in an article published on February 18, 2001 in the _Detroit Free Press_. The healing powers of mineral baths have long been touted by advocates like those mentioned by Creager. Though we've had the word \"balneology\" for just over 130 years, this method of treating aching muscles, joint pain, and skin ailments goes back to ancient times. Proponents of the science of bath therapy created the name \"balneology\" from the Latin word \"balneum\" (\"bath\") and the combining form \"-logy\" (\"science\"). Today, some medical institutes in Europe have departments of balneology. Modern \"balneologists\" impart their knowledge to, or themselves serve as, \"balneotherapists,\" who apply their \"balneotherapy\" to clients."
   }
 }

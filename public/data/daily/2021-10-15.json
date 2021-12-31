@@ -1,129 +1,128 @@
 {
   "artist": {
-    "id": "francisco-de-zurbaran",
-    "name": "Francisco de Zurbarán",
-    "dates": "Nov 7, 1598 - Aug 27, 1664",
-    "mainImg": "img/art/artists/francisco-de-zurbaran.jpg",
+    "id": "john-ruskin",
+    "name": "John Ruskin",
+    "dates": "Feb 8, 1819 - Jan 20, 1900",
+    "mainImg": "img/art/artists/john-ruskin.jpg",
     "artworkImgs": [
       {
-        "name": "Saint Francis of Assisi according to Pope Nicholas V's Vision",
-        "path": "img/art/artworks/francisco-de-zurbaran-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-francis-of-assisi-according-to-pope-nicholas-v-s-vision-francisco-de-zurbarán/EAEFyC-FDSFm8g"
+        "name": "The Garden of San Miniato near Florence",
+        "path": "img/art/artworks/john-ruskin-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-garden-of-san-miniato-near-florence-john-ruskin/1gGumKt-5euv5Q"
       },
       {
-        "name": "The Young Virgin",
-        "path": "img/art/artworks/francisco-de-zurbaran-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-young-virgin-francisco-de-zurbarán/-QGrNSJcV3f_EA"
+        "name": "The Valley of Lauterbrunnen, Switzerland",
+        "path": "img/art/artworks/john-ruskin-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-valley-of-lauterbrunnen-switzerland-john-ruskin/awFKgQtFKJWH1Q"
       },
       {
-        "name": "Still Life with Four Vessels",
-        "path": "img/art/artworks/francisco-de-zurbaran-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-with-four-vessels-francisco-de-zurbarán/WAGOLfzQ40GWZA"
+        "name": "Tower of the Cathedral at Sens",
+        "path": "img/art/artworks/john-ruskin-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/tower-of-the-cathedral-at-sens-john-ruskin/mwFJHx4o_IHXnQ"
       },
       {
-        "name": "The Virgin and Child with the Infant St John the Baptist",
-        "path": "img/art/artworks/francisco-de-zurbaran-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-with-the-infant-st-john-the-baptist-francisco-de-zurbarán/CQE535MFNxKDhw"
+        "name": "Dawn, Coniston",
+        "path": "img/art/artworks/john-ruskin-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/dawn-coniston-john-ruskin/IwFR6sdehwt3nQ"
       },
       {
-        "name": "San Lorenzo",
-        "path": "img/art/artworks/francisco-de-zurbaran-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/san-lorenzo-francisco-de-zurbarán/2QFA4RqANlOqZg"
+        "name": "Rocks and Ferns in a Wood at Crossmount, Perthshire",
+        "path": "img/art/artworks/john-ruskin-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/rocks-and-ferns-in-a-wood-at-crossmount-perthshire-john-ruskin/1QGCQ3AJRp3TOA"
       },
       {
-        "name": "Saint Elizabeth of Thuringia",
-        "path": "img/art/artworks/francisco-de-zurbaran-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-elizabeth-of-thuringia-francisco-de-zurbarán/5QFWzdSLq7NP0g"
+        "name": "Chamouni, Rocks and Vegetation",
+        "path": "img/art/artworks/john-ruskin-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/chamouni-rocks-and-vegetation-john-ruskin/0wE0SHbRz3_VqQ"
       }
     ],
     "summary": [
-      "Francisco de Zurbarán was a Spanish painter. He is known primarily for his religious paintings depicting monks, nuns, and martyrs, and for his still-lifes. Zurbarán gained the nickname \"Spanish Caravaggio,\" owing to the forceful use of chiaroscuro in which he excelled."
+      "John Ruskin was the leading English art critic of the Victorian era, as well as an art patron, draughtsman, watercolourist, philosopher, prominent social thinker and philanthropist. He wrote on subjects as varied as geology, architecture, myth, ornithology, literature, education, botany and political economy.",
+      "His writing styles and literary forms were equally varied. He penned essays and treatises, poetry and lectures, travel guides and manuals, letters and even a fairy tale. He also made detailed sketches and paintings of rocks, plants, birds, landscapes, and architectural structures and ornamentation.",
+      "The elaborate style that characterised his earliest writing on art gave way in time to plainer language designed to communicate his ideas more effectively. In all of his writing, he emphasised the connections between nature, art and society.",
+      "He was hugely influential in the latter half of the 19th century and up to the First World War. After a period of relative decline, his reputation has steadily improved since the 1960s with the publication of numerous academic studies of his work."
     ],
-    "quote": null,
-    "movements": ["Baroque", "Caravaggisti", "Renaissance"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Francisco_de_Zurbar%C3%A1n",
-    "urlGoogle": "https://artsandculture.google.com/entity/francisco-de-zurbarán/m02_6nk"
+    "quote": "“Large fortunes are all founded either on the occupation of land, or lending or the taxation of labor.”",
+    "movements": ["Romanticism"],
+    "mediums": ["Watercolor painting", "Ink", "Pencil", "Graphite", "Pen", "Gouache"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Ruskin",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-ruskin/m0k5mt"
   },
   "event": {
-    "id": "assassination-of-martin-luther-king-jr",
-    "name": "Assassination of Martin Luther King Jr.",
-    "dates": "Apr 4, 1968",
-    "mainImg": "img/events/assassination-of-martin-luther-king-jr.jpg",
+    "id": "philippines-campaign",
+    "name": "Philippines campaign",
+    "dates": "Oct 20, 1944 - Sep 2, 1945",
+    "mainImg": "img/events/philippines-campaign.jpg",
     "summary": [
-      "Martin Luther King Jr., an American clergyman and civil rights leader, was fatally shot at the Lorraine Motel in Memphis, Tennessee, on April 4, 1968, at 6:01 p.m. CST. He was rushed to St. Joseph's Hospital, where he died at 7:05 p.m. He was a prominent leader of the Civil Rights Movement and a Nobel Peace Prize laureate who was known for his use of nonviolence and civil disobedience.",
-      "James Earl Ray, a fugitive from the Missouri State Penitentiary, was arrested on June 8, 1968, in London at Heathrow Airport, extradited to the United States, and charged with the crime. On March 10, 1969, he pleaded guilty and was sentenced to 99 years in the Tennessee State Penitentiary. He later made many attempts to withdraw his guilty plea and be tried by a jury, but was unsuccessful; he died in prison in 1998.",
-      "The King family and others believe the assassination was the result of a conspiracy involving the U.S. government, Mafia and Memphis police, as alleged by Loyd Jowers in 1993. They believe that Ray was a scapegoat. In 1999, the family filed a wrongful death lawsuit against Jowers for the sum of $10 million."
+      "The Philippines campaign, Operation Musketeer, Battle of the Philippines or the Liberation of the Philippines, was the American and Filipino campaign to defeat and expel the Imperial Japanese forces occupying the Philippines during World War II. The Japanese Army overran all of the Philippines during the first half of 1942. The liberation of the Philippines commenced with amphibious landings on the eastern Philippine island of Leyte on October 20, 1944. United States and Philippine Commonwealth military forces were progressing in liberating territory and islands when the Japanese forces in the Philippines were ordered to surrender by Tokyo on August 15, 1945, after the dropping of the atomic bombs on mainland Japan and the Soviet invasion of Manchuria."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Assassination_of_Martin_Luther_King_Jr.",
-    "urlGoogle": "https://artsandculture.google.com/entity/assassination-of-martin-luther-king-jr/m03hm37s"
+    "urlWiki": "https://en.wikipedia.org/wiki/Philippines_campaign_%281944%E2%80%931945%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/philippines-campaign/m0b_dbz"
   },
   "funFacts": [
     {
-      "id": "252",
-      "fact": "There is a town in Alaska called Chicken.",
-      "category": ["Animals", "Geography"]
+      "id": "386",
+      "fact": "New York City's public school students represent about 188 different countries.",
+      "category": ["Geography"]
     },
     {
-      "id": "87",
-      "fact": "A mile on the ocean and a mile on land are not the same distance.",
-      "category": ["Science"]
+      "id": "58",
+      "fact": "A sneeze travels out of your mouth at over 100 miles an hour.",
+      "category": ["Anatomy"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554051",
-      "fact": "According to legend, and the official story from Nathan's, four immigrants held the first hot dog eating contest at Nathan's Famous stand on Coney Island on July 4, 1916 to prove who was the most patriotic."
+      "id": "553532",
+      "fact": "Like casinos, shopping malls are intentionally designed to disorient visitors. The feeling of losing track of time and geography inside a mall is called the Gruen Transfer."
     }
   ],
-  "idiom": {
-    "id": "leave-in-the-lurch",
-    "term": "leave in the lurch",
-    "definition": "Abandon or desert someone in difficult straits. For example, *Jane was angry enough to quit without giving notice, leaving her boss in the lurch.* This expression alludes to a 16th-century French dice game, *lourche,* where to incur a *lurch* meant to be far behind the other players. It later was used in cribbage and other games, as well as being used in its present figurative sense by about 1600."
-  },
   "person": {
-    "id": "robert-smalls",
-    "name": "Robert Smalls",
-    "dates": "Apr 5, 1839 - Feb 23, 1915",
-    "mainImg": "img/people/robert-smalls.jpg",
+    "id": "patrice-lumumba",
+    "name": "Patrice Lumumba",
+    "dates": "Jul 2, 1925 - Jan 17, 1961",
+    "mainImg": "img/people/patrice-lumumba.jpg",
     "summary": [
-      "Robert Smalls was an American businessman, publisher, and politician. Born into slavery in Beaufort, South Carolina, he freed himself, his crew, and their families during the American Civil War by commandeering a Confederate transport ship, CSS Planter, in Charleston harbor, on May 13, 1862, and sailing it from Confederate-controlled waters of the harbor to the U.S. blockade that surrounded it. He then piloted the ship to the Union-controlled enclave in Beaufort-Port Royal-Hilton Head area, where it became a Union warship. His example and persuasion helped convince President Abraham Lincoln to accept African-American soldiers into the Union Army.",
-      "After the American Civil War he returned to Beaufort and became a politician, winning election as a Republican to the South Carolina State legislature and the United States House of Representatives during the Reconstruction era. Smalls authored state legislation providing for South Carolina to have the first free and compulsory public school system in the United States. He founded the Republican Party of South Carolina. Smalls was the last Republican to represent South Carolina's 5th congressional district until 2010."
+      "Patrice Émery Lumumba was a Congolese politician and independence leader who served as the first Prime Minister of the independent Democratic Republic of the Congo from June until September 1960. He played a significant role in the transformation of the Congo from a colony of Belgium into an independent republic. Ideologically an African nationalist and pan-Africanist, he led the Congolese National Movement party from 1958 until his assassination.",
+      "Shortly after Congolese independence in 1960, a mutiny broke out in the army, marking the beginning of the Congo Crisis. Lumumba appealed to the United States and the United Nations for help to suppress the Belgian-supported Katangan secessionists led by Moise Tshombe. Both refused, so Lumumba turned to the Soviet Union for support. This led to growing differences with President Joseph Kasa-Vubu and chief-of-staff Joseph-Désiré Mobutu, as well as with the United States and Belgium, who opposed the Soviet Union in the Cold War.",
+      "Lumumba was subsequently imprisoned by state authorities under Mobutu and executed by a firing squad under the command of Katangan authorities."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Smalls",
-    "urlGoogle": "https://artsandculture.google.com/entity/robert-smalls/m09vgsz"
+    "quote": "“Without dignity there is no liberty, without justice there is no dignity, and without independence there are no free men.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Patrice_Lumumba",
+    "urlGoogle": "https://artsandculture.google.com/entity/patrice-lumumba/m0d3wd"
   },
   "place": {
-    "id": "nikko",
-    "name": "Nikko",
-    "mainImg": "img/places/nikko.jpg",
+    "id": "cambodia",
+    "name": "Cambodia",
+    "mainImg": "img/places/cambodia.jpg",
     "summary": [
-      "Nikkō is a city located in Tochigi Prefecture, Japan. As of May 2015, the city had an estimated population of 84,197, and a population density of 58.1 persons per km². Its total area is 1,449.83 km². It is a popular destination for Japanese and international tourists. Attractions include the mausoleum of shōgun Tokugawa Ieyasu and that of his grandson Iemitsu, and the Futarasan Shrine, which dates to the year 767. There are also many famous hot springs in the area. Elevations range from 200 to 2,000 m. The Japanese saying \"Never say 'kekkō' until you've seen Nikkō\"—kekkō meaning beautiful, magnificent or \"I am satisfied\"—is a reflection of the beauty and sites in Nikkō."
+      "Cambodia, officially the Kingdom of Cambodia, is a country located in the southern portion of the Indochina peninsula in Southeast Asia. It is 181,035 square kilometres in area, bordered by Thailand to the northwest, Laos to the northeast, Vietnam to the east and the Gulf of Thailand to the southwest.",
+      "The sovereign state of Cambodia has a population of over 15 million. The official religion is Theravada Buddhism, practised by approximately 95 percent of the population. Cambodia's minority groups include Vietnamese, Chinese, Chams and 30 hill tribes. The capital and largest city is Phnom Penh, the political, economic and cultural centre of Cambodia. The kingdom is an elective constitutional monarchy with a monarch, currently Norodom Sihamoni, chosen by the Royal Council of the Throne as head of state. The head of government is the Prime Minister, currently Hun Sen, the longest serving non-royal leader in Southeast Asia, ruling Cambodia since 1985.",
+      "In 802 AD, Jayavarman II declared himself king, uniting the warring Khmer princes of Chenla under the name \"Kambuja\"."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Nikk%C5%8D,_Tochigi",
-    "urlGoogle": "https://artsandculture.google.com/entity/nikko/m01wh4c"
+    "urlWiki": "https://en.wikipedia.org/wiki/Cambodia",
+    "urlGoogle": "https://artsandculture.google.com/entity/cambodia/m01xbgx"
   },
   "wiki": {
-    "id": "school-rumble",
-    "name": "School Rumble",
-    "summary": "School Rumble is a Japanese shōnen manga series written and illustrated by Jin Kobayashi. First serialized in 345 chapters in Weekly Shōnen Magazine between 2002 and 2008, it is a romance comedy centering on relationships between three Japanese high school students. The series often discards realism in favor of comedic effect. Its popularity resulted in television adaptations, video games, novels and guidebooks. It has also been translated into English and other languages. The manga was well received by Japanese-language readers; the North American English translations were less popular, and ranked 145th for overall manga series sales in 2008. Some critics of the English-language translation praised Kobayashi for his art style and overall use of humor, while others disliked some of the jokes and repetitive plot. The anime adaptation sold well in Japan and was praised by Kobayashi and—for the English-language translation—critics. The decision by Media Factory to aggressively pursue its intellectual property rights for School Rumble is believed by proponents of fansubs to have had a negative impact on the franchise's release and sales in the North American market.",
-    "url": "https://en.wikipedia.org/wiki/School_Rumble"
+    "id": "indian-institutes-of-technology",
+    "name": "Indian Institutes of Technology",
+    "summary": "The Indian Institutes of Technology are a group of seven autonomous engineering and technology-oriented institutes of higher education established by the Government of India. These institutes were created to train scientists and engineers, with the aim of developing a skilled workforce to underpin India's economic and social development after independence in 1947. IIT Kharagpur was the first IIT to be established, in 1951. Each IIT is an autonomous university, linked to the others through a common IIT Council, which oversees their administration. They have a common admission process, using the Joint Entrance Examination to select around 4,000 candidates a year. About 15,500 undergraduate and 12,000 graduate students study in the seven IITs, in addition to research scholars. The success of the IITs has led to the creation of similar institutes in other fields, such as the National Institutes of Technology, the Indian Institutes of Management and the Indian Institute of Information Technology.",
+    "url": "https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology"
   },
   "word": {
-    "id": "ephemeral",
-    "word": "ephemeral",
-    "url": "https://www.merriam-webster.com/dictionary/ephemeral",
-    "partOfSpeech": "adjective",
-    "pronunciation": "ih-FEM-uh-rul",
-    "audioPath": "audio/words/ephemeral.mp3",
-    "definitions": ["lasting a very short time"],
+    "id": "goober",
+    "word": "goober",
+    "url": "https://www.merriam-webster.com/dictionary/goober",
+    "partOfSpeech": "noun",
+    "pronunciation": "GOO-ber",
+    "audioPath": "audio/words/goober.mp3",
+    "definitions": ["peanut"],
     "examples": [
-      "The young pop star's fame turned out to be _ephemeral_.",
-      "\"During the creation of the _ephemeral_ show-the walls will be erased for a new exhibition later this month, leaving only a series of framed drawings behind-Ms. Dary visited the local library and copied pages from a 100-year-old local directory.\" - From an article by Tammy La Gorce in the _New York Times_, January 4, 2013"
+      "The children had a tin bucket full of _goobers_, which they were shelling and eating.",
+      "\"18 miles south of Clovis on US 70, \\[Portales\\] is famous for its peanut industry, which supplies roasted _goobers_ to many baseball parks across the nation.\" - From Sharon Niederman's 2012 book _Signs and Shrines: Spiritual Journeys Across New Mexico_"
     ],
-    "origin": "The mayfly (order Ephemeroptera) typically hatches, matures, mates, and dies within the span of a few short hours (though the longest-lived species may survive a record two days); poets sometimes use this insect to symbolize life's ephemeral nature. When \"ephemeral\" (from the Greek word \"ephēmeros,\" meaning \"lasting a day\") first appeared in print in English in the late 16th century, it was a scientific term applied to short-term fevers, and later, to organisms (such as insects and flowers) with very short life spans. Soon after that, it acquired an extended sense referring to anything fleeting and short-lived (as in \"ephemeral pleasures\")."
+    "origin": "We're just nuts about the word \"goober.\" It's a regional term, used mainly in the southern and east-central part of the United States. But the peanut plant didn't originate in the U.S.; it's actually native to South America. It was taken from there to Africa, where the local people gave new names to the high-protein legumes. Peanuts traveled back to North America with slave traders, and there English speakers adopted a term from the Bantu languages of central and southern Africa to form \"goober.\" \"Goober\" isn't the only name for \"peanut\" that has stuck with us. The snack staple is also known as the \"groundnut,\" \"earthnut,\" and, more rarely, the \"pinder,\" another term that originated in the Bantu languages."
   }
 }

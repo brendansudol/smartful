@@ -1,0 +1,122 @@
+{
+  "artist": {
+    "id": "marcel-duchamp",
+    "name": "Marcel Duchamp",
+    "dates": "Jul 28, 1887 - Oct 2, 1968",
+    "mainImg": "img/art/artists/marcel-duchamp.jpg",
+    "artworkImgs": [
+      {
+        "name": "Nu descendant un escalier - Marcel Duchamp, 1912 (conservé au Philadelphia Museum of Art)",
+        "path": "img/art/artworks/marcel-duchamp-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/nu-descendant-un-escalier-marcel-duchamp-1912-conservé-au-philadelphia-museum-of-art-marcel-duchamp/cwF_rw7iWJk_wA"
+      },
+      {
+        "name": "Fresh window",
+        "path": "img/art/artworks/marcel-duchamp-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/fresh-window-marcel-duchamp/MwHOZFw-s_DQ4Q"
+      },
+      {
+        "name": "Fountain",
+        "path": "img/art/artworks/marcel-duchamp-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/fountain-marcel-duchamp/1QGek4Lw6B5sBQ"
+      },
+      {
+        "name": "Roue de bicyclette",
+        "path": "img/art/artworks/marcel-duchamp-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/roue-de-bicyclette-marcel-duchamp/cQHojLcfnuIo3g"
+      },
+      {
+        "name": "de ou par Marcel Duchamp ou Rrose Sélavy (Boîte-en-valise) - series D",
+        "path": "img/art/artworks/marcel-duchamp-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/de-ou-par-marcel-duchamp-ou-rrose-sélavy-boîte-en-valise-series-d/QAFliQJdqkEI6A"
+      },
+      {
+        "name": "Gallic Cock",
+        "path": "img/art/artworks/marcel-duchamp-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/gallic-cock-raymond-duchamp-villon/4AGH5pAs4r4E8g"
+      }
+    ],
+    "summary": [
+      "Henri-Robert-Marcel Duchamp was a French-American painter, sculptor, chess player, and writer whose work is associated with Cubism, Dada, and conceptual art. He was careful about his use of the term Dada and was not directly associated with Dada groups. Duchamp is commonly regarded, along with Pablo Picasso and Henri Matisse, as one of the three artists who helped to define the revolutionary developments in the plastic arts in the opening decades of the 20th century, responsible for significant developments in painting and sculpture. Duchamp has had an immense impact on twentieth-century and twenty first-century art, and he had a seminal influence on the development of conceptual art. By World War I, he had rejected the work of many of his fellow artists as \"retinal\" art, intended only to please the eye. Instead, Duchamp wanted to use art to serve the mind."
+    ],
+    "quote": "“I am still a victim of chess. It has all the beauty of art - and much more. It cannot be commercialized. Chess is much purer than art in its social position.”",
+    "movements": [
+      "Modern art",
+      "Surrealism",
+      "Conceptual art",
+      "Contemporary art",
+      "Cubism",
+      "Dada"
+    ],
+    "mediums": ["Wood", "Metal", "Plaster", "Ink", "Sculpture", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Marcel_Duchamp",
+    "urlGoogle": "https://artsandculture.google.com/entity/marcel-duchamp/m0bqch"
+  },
+  "event": {
+    "id": "sinking-of-the-rms-lusitania",
+    "name": "Sinking of the RMS Lusitania",
+    "dates": null,
+    "mainImg": "img/events/sinking-of-the-rms-lusitania.jpg",
+    "summary": [
+      "The sinking of the Cunard ocean liner RMS Lusitania occurred on Friday, 7 May 1915 during the First World War, as Germany waged submarine warfare against the United Kingdom which had implemented a naval blockade of Germany. The ship was identified and torpedoed by the German U-boat U-20 and sank in 18 minutes, and also took on a heavy starboard list. The vessel went down 11 miles off the Old Head of Kinsale, Ireland, killing 1,198 and leaving 761 survivors. The sinking turned public opinion in many countries against Germany, contributed to the American entry into World War I and became an iconic symbol in military recruiting campaigns of why the war was being fought.",
+      "Lusitania fell victim to torpedo attack relatively early in the First World War, before tactics for evading submarines were properly implemented or understood. The contemporary investigations in both the United Kingdom and the United States into the precise causes of the ship's loss were obstructed by the needs of wartime secrecy and a propaganda campaign to ensure all blame fell upon Germany."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Lusitania",
+    "urlGoogle": "https://artsandculture.google.com/entity/sinking-of-the-rms-lusitania/m071zvfm"
+  },
+  "funFacts": [
+    { "id": "128", "fact": "Dragonflies have six legs but can't walk.", "category": ["Animals"] },
+    { "id": "92", "fact": "Fish can drown.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "553929",
+      "fact": "A black cat crossing your path (from right to left) is considered good luck in Germany."
+    }
+  ],
+  "person": {
+    "id": "william-wellesley-pole-3-rd-earl-of-mornington",
+    "name": "William Wellesley-Pole, 3rd Earl of Mornington",
+    "dates": "May 20, 1763 - Feb 22, 1845",
+    "mainImg": "img/people/william-wellesley-pole-3-rd-earl-of-mornington.jpg",
+    "summary": [
+      "William Wellesley-Pole, 3rd Earl of Mornington, GCH, PC, PC, known as Lord Maryborough between 1821 and 1842, was an Anglo-Irish politician and an elder brother of the Duke of Wellington. His surname changed twice: he was born with the name Wesley, which he changed to Wesley-Pole following an inheritance in 1781. In 1789 the spelling was updated to Wellesley-Pole, just as other members of the family had changed Wesley to Wellesley."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Wellesley-Pole,_3rd_Earl_of_Mornington",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-wellesley-pole-3rd-earl-of-mornington/m03ttlz"
+  },
+  "place": {
+    "id": "west-palm-beach",
+    "name": "West Palm Beach",
+    "mainImg": "img/places/west-palm-beach.jpg",
+    "summary": [
+      "West Palm Beach is a city in and the county seat of Palm Beach County, Florida, United States. It is located immediately to the west of the adjacent Palm Beach, which is situated on a barrier island across the Lake Worth Lagoon. The population was 99,919 at the 2010 census. West Palm Beach is a principal city of the Miami metropolitan area, which was home to an estimated 6,158,824 people in 2017.",
+      "It is the oldest incorporated municipality in the south Florida area, having been incorporated as a city two years before Miami in November 1894. West Palm Beach is located approximately 68 miles north of Downtown Miami."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/West_Palm_Beach,_Florida",
+    "urlGoogle": "https://artsandculture.google.com/entity/west-palm-beach/m0rql_"
+  },
+  "wiki": {
+    "id": "pedro-i-of-brazil",
+    "name": "Pedro I of Brazil",
+    "summary": "Pedro I (1798–1834) was the founder and first ruler of the Empire of Brazil. As King Dom Pedro IV, he reigned over Portugal. Acting as regent on his father's behalf, he declared the independence of Brazil from Portugal on 7 September 1822. His acclamation as Brazilian emperor was followed by a victorious war against Portuguese armies. From the onset his reign was troubled by a long ideological conflict between him and a sizable parliamentary faction over the role of the monarch in the government. Other obstacles arose concurrently. In 1826 he briefly became king of Portugal before abdicating in favor of his eldest daughter, Dona Maria II. Her crown was later usurped by Prince Dom Miguel, Pedro I's younger brother. At the same time the unsuccessful Cisplatine War against the neighboring United Provinces of South America led to the secession of a Brazilian province (later to become Uruguay). Unable to deal with both Brazilian and Portuguese affairs, Pedro I abdicated on 7 April 1831 and immediately departed for Europe to restore his daughter to her throne. He invaded Portugal ahead of an army and defeated his brother, dying soon after of tuberculosis at age 35.",
+    "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil"
+  },
+  "word": {
+    "id": "vermicular",
+    "word": "vermicular",
+    "url": "https://www.merriam-webster.com/dictionary/vermicular",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ver-MIK-yuh-ler",
+    "audioPath": "audio/words/vermicular.mp3",
+    "definitions": ["resembling a worm in form or motion", "of, relating to, or caused by worms"],
+    "examples": [
+      "Students will observe and document the _vermicular_ decomposition of vegetative waste.",
+      "\"I tasted the smallest atoms of life in those few quiet minutes, drinking tea and waiting with the chickens before the rest of the world raised its head…. Despite the dust, the earthy pungency of the chicken manure, the remains of bones and shells and everything else they unearthed in their endless, restless scratching for _vermicular_ treats, the shed and the run was a pleasant place.\" -- From Debra Adelaide's 2008 novel _The Household Guide to Dying_"
+    ],
+    "origin": "What does the word \"vermicular\" have in common with the pasta on your plate? If you're eating vermicelli (a spaghetti-like pasta made in long thin strings) the answer is \"vermis,\" a Latin noun meaning \"worm.\" If you dig deep enough, you'll find that \"vermis\" is the root underlying not only \"vermicular\" and \"vermicelli,\" but also \"vermiculate\" (which can mean either \"full of worms\" or \"tortuous\") and even \"worm\" itself."
+  }
+}

@@ -1,136 +1,143 @@
 {
   "artist": {
-    "id": "jan-davidsz-de-heem",
-    "name": "Jan Davidsz. de Heem",
-    "dates": "Apr 17, 1606 - Apr 26, 1684",
-    "mainImg": "img/art/artists/jan-davidsz-de-heem.jpg",
+    "id": "william-hogarth",
+    "name": "William Hogarth",
+    "dates": "Nov 10, 1697 - Oct 26, 1764",
+    "mainImg": "img/art/artists/william-hogarth.jpg",
     "artworkImgs": [
       {
-        "name": "Festoon of Fruit and Flowers",
-        "path": "img/art/artworks/jan-davidsz-de-heem-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/festoon-of-fruit-and-flowers-jan-davidsz-de-heem/fgHp6nNB0Bg34A"
+        "name": "The Five Orders of Periwigs",
+        "path": "img/art/artworks/william-hogarth-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-five-orders-of-periwigs-william-hogarth/nwGmTYS9EABbaQ"
       },
       {
-        "name": "Garand of Flowers and Fruit",
-        "path": "img/art/artworks/jan-davidsz-de-heem-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/garand-of-flowers-and-fruit-jan-davidsz-de-heem/PQEl_qm-zgoZPQ"
+        "name": "O the Roast Beef of Old England ('The Gate of Calais')",
+        "path": "img/art/artworks/william-hogarth-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/o-the-roast-beef-of-old-england-the-gate-of-calais-william-hogarth/9AHKp0GmC5TJIQ"
       },
       {
-        "name": "Still Life with a Glass and Oysters",
-        "path": "img/art/artworks/jan-davidsz-de-heem-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-with-a-glass-and-oysters-jan-davidsz-de-heem/MwGtHa25AoWtoA"
+        "name": "The Painter and his Pug",
+        "path": "img/art/artworks/william-hogarth-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-painter-and-his-pug-william-hogarth/1AHBHUMVSfHpFg"
       },
       {
-        "name": "Vase of Flowers",
-        "path": "img/art/artworks/jan-davidsz-de-heem-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/vase-of-flowers/VQFZCrP0ROKm2w"
+        "name": "The Five Orders of Periwigs",
+        "path": "img/art/artworks/william-hogarth-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-five-orders-of-periwigs-william-hogarth/RwF0k3SsQVUKGA"
       },
       {
-        "name": "Still Life: A Banqueting Scene",
-        "path": "img/art/artworks/jan-davidsz-de-heem-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-a-banqueting-scene-jan-davidsz-de-heem/KAG2oY43pwPlAQ"
+        "name": "The Enraged Musician",
+        "path": "img/art/artworks/william-hogarth-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-enraged-musician-william-hogarth/kgEKh4cSUPN6zA"
       },
       {
-        "name": "Still Life with Books",
-        "path": "img/art/artworks/jan-davidsz-de-heem-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-with-books-jan-davidsz-de-heem/YQHorAfNmZu3TQ"
+        "name": "The Enraged Musician",
+        "path": "img/art/artworks/william-hogarth-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-enraged-musician-william-hogarth/fAGcqoXfgySQJQ"
       }
     ],
     "summary": [
-      "Jan Davidsz. de Heem or in-full Jan Davidszoon de Heem, also called Johannes de Heem or Johannes van Antwerpen or Jan Davidsz de Hem, was a still life painter who was active in Utrecht and Antwerp. He is a major representative of that genre in both Dutch and Flemish Baroque painting."
+      "William Hogarth FRSA was an English painter, printmaker, pictorial satirist, social critic, and editorial cartoonist. His work ranges from realistic portraiture to comic strip-like series of pictures called \"modern moral subjects\", and he is perhaps best known for his series A Harlot's Progress, A Rake's Progress and Marriage A-la-Mode. Knowledge of his work is so pervasive that satirical political illustrations in this style are often referred to as \"Hogarthian\".",
+      "Hogarth was born in London to a lower-middle-class family. In his youth he took up an apprenticeship with an engraver, but did not complete the apprenticeship. His father underwent periods of mixed fortune, and was at one time imprisoned in lieu of outstanding debts, an event that is thought to have informed William's paintings and prints with a hard edge.",
+      "Influenced by French and Italian painting and engraving, Hogarth's works are mostly satirical caricatures, sometimes bawdily sexual, mostly of the first rank of realistic portraiture. They became widely popular and mass-produced via prints in his lifetime, and he was by far the most significant English artist of his generation."
     ],
-    "quote": null,
-    "movements": ["Baroque"],
-    "mediums": ["Oil paint", "Wood", "Oak", "Terracotta", "Rock", "Clay"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jan_Davidsz._de_Heem",
-    "urlGoogle": "https://artsandculture.google.com/entity/jan-davidsz-de-heem/m03f_7w"
+    "quote": "“All the world is competent to judge my pictures except those who are of my profession.”",
+    "movements": ["Rococo", "Baroque", "Renaissance"],
+    "mediums": ["Engraving", "Etching", "Oil paint", "Laid paper", "Ink", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Hogarth",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-hogarth/m0p_rx"
   },
   "event": {
-    "id": "martial-law-in-poland",
-    "name": "Martial law in Poland",
-    "dates": "Dec 13, 1981 - Jul 22, 1983",
-    "mainImg": "img/events/martial-law-in-poland.jpg",
+    "id": "banana-wars",
+    "name": "Banana Wars",
+    "dates": "1898 - 1934",
+    "mainImg": "img/events/banana-wars.jpg",
     "summary": [
-      "Martial law in Poland refers to the period between 13 December 1981 and 22 July 1983, when the authoritarian communist government of the Polish People's Republic drastically restricted normal life by introducing martial law and a military junta in an attempt to throttle political opposition, in particular the Solidarity Movement. Thousands of opposition activists were imprisoned without charge and as many as 91 killed. Although martial law was lifted in 1983, many of the political prisoners were not released until a general amnesty in 1986.",
-      "Since the 1970s, communist Poland was in a deep economic recession. The First Secretary Edward Gierek made large incessant loans from western creditors to achieve a better economic output that instead resulted in a domestic crisis. Basic goods were being heavily rationed which acted as a stimuli for the establishment of a first anti-communist trade union in the Eastern Bloc, known as Solidarity, in 1980. Gierek, who permitted the trade union to appear per the Gdańsk Agreement, was dismissed from his post less than a month later under pressure from the USSR and confined to house arrest."
+      "The Banana Wars were occupations, police actions, and interventions on the part of the United States in Central America and the Caribbean between the end of the Spanish–American War in 1898 and the inception of the Good Neighbor Policy in 1934. These military interventions were most often carried out by the United States Marine Corps, which developed a manual, The Strategy and Tactics of Small Wars based on its experiences. On occasion, the Navy provided gunfire support and Army troops were also used.",
+      "With the Treaty of Paris, Spain ceded control of Cuba, Puerto Rico, Guam, and the Philippines to the United States. Thereafter, the United States conducted military interventions in Cuba, Panama, Honduras, Nicaragua, Mexico, Haiti, and the Dominican Republic. The series of conflicts ended with the withdrawal of troops from Haiti in 1934 under President Franklin D. Roosevelt.",
+      "The term was popularized in 1983 by writer Lester D. Langley. Langley wrote several books on Latin American history and American interactions including The United States and the Caribbean, 1900–1970 and The Banana Wars: An Inner History of American Empire, 1900–1934."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Martial_law_in_Poland",
-    "urlGoogle": "https://artsandculture.google.com/entity/martial-law-in-poland/m06dv31"
+    "urlWiki": "https://en.wikipedia.org/wiki/Banana_Wars",
+    "urlGoogle": "https://artsandculture.google.com/entity/banana-wars/m0c2gqj"
   },
   "funFacts": [
     {
-      "id": "986",
-      "fact": "In Switzerland, it is illegal to own only one guinea pig because they are prone to loneliness.",
-      "category": ["Animals"]
+      "id": "153",
+      "fact": "The speed limit in NYC was eight mph in 1895.",
+      "category": ["Geography", "History"]
     },
     {
-      "id": "911",
-      "fact": "A cubic mile of fog is made up of less than a gallon of water.",
-      "category": ["Science"]
+      "id": "1028",
+      "fact": "Sound travels up to 15 times faster through steel than air, at speeds up to 19,000 feet per second.",
+      "category": ["Hodgepodge", "Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553500",
-      "fact": "According to a 2017 survey, \"whatever\" tops the list of words Americans find most annoying for the ninth year in a row."
+      "id": "554013",
+      "fact": "Murmurations are the graceful, undulating patterns starlings create when they flock together in the sky. Scientists are still unsure how the birds coordinate their movements \u0003so quickly."
     }
   ],
   "idiom": {
-    "id": "neither-fish-nor-fowl",
-    "term": "neither fish nor fowl",
-    "definition": "Also, **neither fish nor flesh; neither fish, flesh, nor fowl.** Not one or the other, not something fitting any category under discussion. For example, *They felt he was neither fish nor fowl---not qualified to lead the department, yet not appropriate to work as a staff member either.* This expression appeared in slightly different form in John Heywood's 1546 proverb collection (\"Neither fish, nor flesh, nor good red herring\") and is thought to allude to food for monks (*fish,* because they abstained from meat), for the people (*flesh,* or meat), and for the poor (*red herring,* a very cheap fish)."
+    "id": "a-shrinking-violet",
+    "term": "a shrinking violet",
+    "definition": "An extremely shy person, as in *She was a shrinking violet until she went away to college.* This metaphoric idiom refers to the flower, but the precise allusion is unclear, since violets thrive under a variety of conditions and often are considered a garden weed. [Early 1900s]"
   },
   "person": {
-    "id": "isabella-ii-of-spain",
-    "name": "Isabella II of Spain",
-    "dates": "Oct 10, 1830 - Apr 9, 1904",
-    "mainImg": "img/people/isabella-ii-of-spain.jpg",
+    "id": "arthur-st-clair",
+    "name": "Arthur St. Clair",
+    "dates": "Mar 23, 1737 - Aug 31, 1818",
+    "mainImg": "img/people/arthur-st-clair.jpg",
     "summary": [
-      "Isabella II, also known as La de los Tristes Destinos, was Queen of Spain from 1833 until 1868.",
-      "Shortly before her birth, the King issued a Pragmatic Sanction to ensure the succession of his firstborn. She came to the throne a month before her third birthday, but her succession was disputed by her uncle the Infante Carlos, whose refusal to recognize a female sovereign led to the Carlist Wars. Under the regency of her mother, Spain transitioned from an absolute monarchy to a constitutional monarchy adopting the Royal Statute of 1834 and Constitution of 1837. After a troubled reign, she was deposed in the Glorious Revolution of 1868, and formally abdicated in 1870. Her son, Alfonso XII, became king in 1874."
+      "Arthur St. Clair was a Scottish-American soldier and politician. Born in Thurso, Scotland, he served in the British Army during the French and Indian War before settling in Pennsylvania, where he held local office. During the American Revolutionary War, he rose to the rank of major general in the Continental Army, but lost his command after a controversial retreat from Fort Ticonderoga.",
+      "After the war, he served as President of the Continental Congress, which during his term passed the Northwest Ordinance. He was then made governor of the Northwest Territory in 1788, and then the portion that would become Ohio in 1800. In 1791, St. Clair commanded the American forces in what was the United States's worst ever defeat by the American Indians. Politically out-of-step with the Jefferson administration, he was replaced as governor in 1802."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Isabella_II_of_Spain",
-    "urlGoogle": "https://artsandculture.google.com/entity/isabella-ii-of-spain/m013452"
+    "urlWiki": "https://en.wikipedia.org/wiki/Arthur_St._Clair",
+    "urlGoogle": "https://artsandculture.google.com/entity/arthur-st-clair/m0_xz"
   },
   "place": {
-    "id": "shenyang",
-    "name": "Shenyang",
-    "mainImg": "img/places/shenyang.jpg",
+    "id": "murcia",
+    "name": "Murcia",
+    "mainImg": "img/places/murcia.jpg",
     "summary": [
-      "Shenyang, formerly known as Fengtian or by its Manchu name Mukden, is a major sub-provincial city and the provincial capital of Liaoning province, People's Republic of China. Located in central-north Liaoning, it is the province's most populous city as well as the largest city in Northeast China by urban population, with an urban population of 6.3 million, while the total metropolitan population is up to 8.1 million. Shenyang is also the central city of one of the major megalopolises in China, the Greater Shenyang Metropolitan Area, with a total population over 23 million. The city's administrative region includes the ten metropolitan districts of Shenyang proper, the county-level city of Xinmin, and two counties of Kangping and Faku.",
-      "In the 17th century, Shenyang was conquered by the Manchu people and briefly used as the capital of the Qing dynasty. The Battle of Mukden took place in 1905 as part of the Russo-Japanese War. Japan's subsequent victory allowed them to annex the region west of the old city and increase their influence on Shenyang; the Mukden Incident led the Japanese to further invade and occupy the rest of Northeast China, creating the puppet state of Manchukuo."
+      "Murcia is a city in south-eastern Spain, the capital and most populous city of the Autonomous Community of the Region of Murcia, and the seventh largest city in the country, with a population of 447,182 inhabitants in 2018. The population of the metropolitan area was 689,591 in 2010.",
+      "It is located on the Segura River, in the southeast of the Iberian Peninsula; it has a climate with hot summers, mild winters, and relatively low precipitation.",
+      "Murcia was founded by the emir of Cordoba Abd ar-Rahman II in 825 with the name Mursiyah. It is now mainly a services city and a university town. Highlights for visitors include the Cathedral of Murcia and a number of baroque buildings, renowned local cuisine, Holy Week procession works of art by the famous Murcian sculptor Francisco Salzillo, and the Fiestas de Primavera.",
+      "The city, as the capital of the comarca Huerta de Murcia is called Europe's orchard due to its long agricultural tradition and its fruit, vegetable, and flower production and exports.",
+      "Murcia is located near the center of a low-lying fertile plain known as the huerta of Murcia. The Segura River and its right-hand tributary, the Guadalentín, run through the area."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Shenyang",
-    "urlGoogle": "https://artsandculture.google.com/entity/shenyang/m018lwt"
+    "urlWiki": "https://en.wikipedia.org/wiki/Murcia",
+    "urlGoogle": "https://artsandculture.google.com/entity/murcia/m0g83j"
   },
   "quote": {
-    "id": "35",
-    "quote": "Those who keep learning, will keep rising in life.",
-    "author": "Charlie Munger"
+    "id": "104",
+    "quote": "Wisdom tends to grow in proportion to one’s awareness of one’s ignorance.",
+    "author": "Anthony de Mello"
   },
   "wiki": {
-    "id": "parkinsons-disease",
-    "name": "Parkinson's disease",
-    "summary": "Parkinson's disease is an age-related degenerative disorder of the human brain. It rarely arises before the age of 40, but afflicts more than 1% of people over 60 and 4% of people over 80. The most obvious symptoms are movement-related, including shaking, rigidity, slowness of movement and difficulty with walking gait. Cognitive, sensory, sleep and emotional problems may also occur, especially in the later stages. The most noticeable symptoms are brought about by the death of brain cells that produce the chemical dopamine. Some cases are caused by genetic factors, but for most cases the causes are not known. Diagnosis is based on assessment of symptoms. In spite of extensive scientific research, no cure has yet been found. Modern treatments are effective at managing the early motor symptoms of the disease, mainly through the use of levodopa and dopamine agonists. In the later stages, however, these treatments gradually lose their effectiveness. The disease is named after British apothecary James Parkinson, and his birthday, April 11, has been designated Parkinson's Disease Day.",
-    "url": "https://en.wikipedia.org/wiki/Parkinson%27s_disease"
+    "id": "fountain-of-time",
+    "name": "Fountain of Time",
+    "summary": "Fountain of Time is a sculpture by Lorado Taft, measuring 126 feet 10 inches (38.66 m) in length, at the western edge of the Midway Plaisance within Washington Park in Chicago's South Side. Inspired by Henry Austin Dobson's \"Paradox of Time\" and with its 100 figures passing before Father Time, Time is a monument to the first 100 years of peace between the United States and Great Britain, resulting from the Treaty of Ghent in 1814. The fountain began running in 1920 and was dedicated in 1922. It contributes to the National Register of Historic Places Washington Park Historic District. Part of a larger beautification plan for the Midway Plaisance, Time was constructed from a new type of molded, steel-reinforced concrete that was claimed to be more durable and cheaper than alternatives, making it the first of any kind of finished works of art made of concrete. Before Millennium Park, it was considered the most important installation in the Chicago Park District. Time is one of several Chicago works funded by Benjamin Ferguson's trust fund. During the late 1990s and early 21st century it underwent repairs that corrected many of the problems caused by earlier restorations.",
+    "url": "https://en.wikipedia.org/wiki/Fountain_of_Time"
   },
   "word": {
-    "id": "styptic",
-    "word": "styptic",
-    "url": "https://www.merriam-webster.com/dictionary/styptic",
-    "partOfSpeech": "adjective",
-    "pronunciation": "STIP-tik",
-    "audioPath": "audio/words/styptic.mp3",
+    "id": "nativity",
+    "word": "nativity",
+    "url": "https://www.merriam-webster.com/dictionary/nativity",
+    "partOfSpeech": "noun",
+    "pronunciation": "nuh-TIH-vuh-tee",
+    "audioPath": "audio/words/nativity.mp3",
     "definitions": [
-      "tending to contract or bind : astringent; especially : tending to check bleeding"
+      "the process or circumstances of being born; especially capitalized : the birth of Jesus",
+      "a horoscope at or of the time of one's birth",
+      "the place of origin"
     ],
     "examples": [
-      "The vet advised that we keep a _styptic_ agent handy while clipping the cat's claws, just in case.",
-      "\"Alum contains aluminum sulfate and is found in _styptic_ pencils and as astringents.\" - From a column by Pat Shingleton in _The Advocate_ (Florida), April 13, 2013"
+      "On Christmas morning, church bells joyously pealed a reminder that the day marked the anniversary of the Nativity."
     ],
-    "origin": "People long ago recognized the power of certain substances to bind or contract organic tissue-a quality that has various uses and benefits. English speakers weren't original in this knowledge, and they copied speakers of Greek, Latin, and Anglo-French when they designated this quality as \"styptic\" in the Middle Ages. (The word in Greek, \"styptikos,\" is from \"styphein,\" which means \"to contract.\") One thing that a styptic substance can do is stop bleeding, and almost from the start the word \"styptic\" has referred to this quality especially. It has also been applied to things that make your mouth contract, or pucker, as well as to substances that might affect your digestive organs with a \"binding\" effect."
+    "origin": "\"Nativity\" is one of many words born of the Latin verb \"nasci,\" which means \"to be born.\" The gestation of the word was a long one. \"Nasci\" developed in Latin into \"nativitas,\" meaning \"birth,\" which passed through Middle French as \"nativité\" before entering English in the 14th century. \"Nativity\" has many siblings and cousins in our language; other terms of the lineage of \"nasci\" include \"cognate,\" \"innate,\" \"nascent,\" \"native,\" and \"renaissance.\""
   }
 }

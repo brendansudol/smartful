@@ -1,0 +1,127 @@
+{
+  "artist": {
+    "id": "jang-seung-eop",
+    "name": "Jang Seung-eop",
+    "dates": "1843 - 1897",
+    "mainImg": "img/art/artists/jang-seung-eop.jpg",
+    "artworkImgs": [
+      {
+        "name": "Vessel and Branch",
+        "path": "img/art/artworks/jang-seung-eop-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/vessel-and-branch-jang-seung-up/TAFUq1C_EF5AkA"
+      },
+      {
+        "name": "People Asking What Time It Is",
+        "path": "img/art/artworks/jang-seung-eop-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/people-asking-what-time-it-is-jang-seung-eop/AQEnTgQ7fqqSTQ"
+      },
+      {
+        "name": "A Pheasant and a Quail",
+        "path": "img/art/artworks/jang-seung-eop-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-pheasant-and-a-quail-jang-seung-eop/9gGOFnr7rV0CHg"
+      },
+      {
+        "name": "Falcon",
+        "path": "img/art/artworks/jang-seung-eop-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/falcon-jang-seung-eop/tQHHiuz9oaSgkg"
+      },
+      {
+        "name": "Ten-panel Folding Screen Depicting Scenes of Flowers and Animals",
+        "path": "img/art/artworks/jang-seung-eop-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/ten-panel-folding-screen-depicting-scenes-of-flowers-and-animals-jang-seung-eop/2gGllclpOmfMLg"
+      },
+      {
+        "name": "Chicken on a Rock",
+        "path": "img/art/artworks/jang-seung-eop-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/chicken-on-a-rock-jang-seung-eop/IwHC88e8y2iOcw"
+      }
+    ],
+    "summary": [
+      "Jang Seung-eop was a painter of the late Joseon Dynasty in Korea. His life was dramatized in the award-winning 2002 film Chi-hwa-seon directed by Im Kwon-taek. He was one of the few painters to hold a position of rank in the Joseon court."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Silk", "Textile", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jang_Seung-eop",
+    "urlGoogle": "https://artsandculture.google.com/entity/jang-seung-eop/m0749yn"
+  },
+  "event": {
+    "id": "neapolitan-war",
+    "name": "Neapolitan War",
+    "dates": "Mar 15, 1815 - May 20, 1815",
+    "mainImg": "img/events/neapolitan-war.jpg",
+    "summary": [
+      "The Neapolitan War was a conflict between the Napoleonic Kingdom of Naples and the Austrian Empire. It started on 15 March 1815 when King Joachim Murat declared war on Austria and ended on 20 May 1815 with the signing of the Treaty of Casalanza. The war occurred during the Hundred Days between Napoleon's return from exile and before he left Paris to be decisively defeated at the Battle of Waterloo. The war was triggered by a pro-Napoleon uprising in Naples, and ended with a decisive Austrian victory at the Battle of Tolentino after which Bourbon monarch Ferdinand IV was reinstated as King of Naples and Sicily. However, the intervention by Austria caused resentment in Italy, which further spurred on the drive towards Italian unification."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Neapolitan_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/neapolitan-war/m02qrhm"
+  },
+  "funFacts": [
+    {
+      "id": "957",
+      "fact": "In only 7.6 billion years, the sun will reach its maximum size and will shine 3,000 times brighter.",
+      "category": ["Science"]
+    },
+    {
+      "id": "412",
+      "fact": "Two trees can create enough oxygen for a family of four.",
+      "category": ["Plants"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553830",
+      "fact": "Half of the world's geothermal features, and two-thirds of all the world's geysers, are found in Yellowstone National Park."
+    }
+  ],
+  "person": {
+    "id": "manuel-l-quezon",
+    "name": "Manuel L. Quezon",
+    "dates": "Aug 19, 1878 - Aug 1, 1944",
+    "mainImg": "img/people/manuel-l-quezon.jpg",
+    "summary": [
+      "Manuel Luis Quezon y Molina was a Filipino statesman, soldier and politician who served as president of the Commonwealth of the Philippines from 1935 to 1944. He was the first Filipino to head a government of the entire Philippines, and is considered to have been the second president of the Philippines, after Emilio Aguinaldo.",
+      "During his presidency, Quezon tackled the problem of landless peasants in the countryside. His other major decisions include the reorganization of the islands' military defense, approval of a recommendation for government reorganization, the promotion of settlement and development in Mindanao, dealing with the foreign stranglehold on Philippine trade and commerce, proposals for land reform, and opposing graft and corruption within the government. He established a government-in-exile in the U.S. with the outbreak of the war and the threat of Japanese invasion.",
+      "It was during his exile in the U.S. that he died of tuberculosis at Saranac Lake, New York. He was buried in the Arlington National Cemetery until the end of World War II, when his remains were moved to Manila. His final resting place is the Quezon Memorial Circle."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Manuel_L._Quezon",
+    "urlGoogle": "https://artsandculture.google.com/entity/manuel-l-quezon/m015865"
+  },
+  "place": {
+    "id": "hanover",
+    "name": "Hanover",
+    "mainImg": "img/places/hanover.jpg",
+    "summary": [
+      "Hanover is the capital and largest city of the German state of Lower Saxony. Its 535,061 inhabitants make it the thirteenth-largest city in Germany as well as the third-largest city in Northern Germany after Hamburg and Bremen. The city lies at the confluence of the River Leine and its tributary Ihme, in the south of the North German Plain, and is the largest city in the Hannover–Braunschweig–Göttingen–Wolfsburg Metropolitan Region. It is the fifth-largest city in the Low German dialect area after Hamburg, Dortmund, Essen and Bremen.",
+      "Before it became the capital of Lower Saxony in 1946 Hanover was the capital of the Principality of Calenberg, the Electorate of Hanover, the Kingdom of Hanover, the Province of Hanover of the Kingdom of Prussia, the Province of Hanover of the Free State of Prussia and of the State of Hanover. From 1714 to 1837 Hanover was by personal union the family seat of the Hanoverian Kings of the United Kingdom of Great Britain and Ireland, under their title of the dukes of Brunswick-Lüneburg.",
+      "The city is a major crossing point of railway lines and motorways, connecting European main lines in both the east-west and north-south directions."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hanover",
+    "urlGoogle": "https://artsandculture.google.com/entity/hanover/m03pbf"
+  },
+  "wiki": {
+    "id": "w-e-b-du-bois",
+    "name": "W. E. B. Du Bois",
+    "summary": "W. E. B. Du Bois (1868–1963) was an American civil rights activist, author, and editor. After graduating from Harvard, where he was the first African American to earn a doctorate, he became a professor of history, sociology, and economics at Atlanta University. Du Bois, one of the co-founders of the National Association for the Advancement of Colored People, rose to national prominence as the leader of the Niagara Movement, a group of African-American activists who wanted equal rights for blacks. Racism was the main target of Du Bois's polemics, and he strongly protested against lynching, Jim Crow laws, and discrimination in education and employment. He was a proponent of Pan-Africanism and helped organize efforts to free African colonies from European powers. Du Bois wrote several seminal essays and treatises, and published many influential pieces in his role as editor of the NAACP's journal The Crisis. He was an ardent peace activist and advocated nuclear disarmament. The United States' Civil Rights Act, embodying many of the reforms for which Du Bois had campaigned his entire life, was enacted a year after his death.",
+    "url": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
+  },
+  "word": {
+    "id": "simulacrum",
+    "word": "simulacrum",
+    "url": "https://www.merriam-webster.com/dictionary/simulacrum",
+    "partOfSpeech": "noun",
+    "pronunciation": "sim-yuh-LAK-rum",
+    "audioPath": "audio/words/simulacrum.mp3",
+    "definitions": [
+      "image, representation",
+      "an insubstantial form or semblance of something : trace"
+    ],
+    "examples": [
+      "The magazine is still in publication, but, since the change in ownership, it is but a simulacrum of its former self."
+    ],
+    "origin": "It's not a figment of your imagination; there is a similarity between \"simulacrum\" and \"simulate.\" Both of those English words derive from \"simulare,\" a Latin verb meaning \"to copy, represent, or feign.\" In its earliest English uses, \"simulacrum\" named something that provided an image or representation (as, for instance, a portrait, marble statue, or wax figure representing a person). Perhaps because a simulacrum, no matter how skillfully done, is not the real thing, the word gained an extended sense emphasizing the superficiality or insubstantiality of a thing."
+  }
+}

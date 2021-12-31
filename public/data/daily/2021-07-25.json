@@ -1,123 +1,137 @@
 {
   "artist": {
-    "id": "su-shi",
-    "name": "Su Shi",
-    "dates": "Jan 8, 1037 - Aug 24, 1101",
-    "mainImg": "img/art/artists/su-shi.jpg",
+    "id": "julie-mehretu",
+    "name": "Julie Mehretu",
+    "dates": "Born 1970",
+    "mainImg": "img/art/artists/julie-mehretu.jpg",
     "artworkImgs": [
       {
-        "name": "Gongfu Tie Calligraphy",
-        "path": "img/art/artworks/su-shi-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/gongfu-tie-calligraphy-su-shi/zAEfJb6ahP5Wkg"
+        "name": "Mogamma (A Painting in Four Parts): Part 2",
+        "path": "img/art/artworks/julie-mehretu-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/mogamma-a-painting-in-four-parts-part-2-julie-mehretu/PwF8U0kHt3zQ-g"
       },
       {
-        "name": "Hanging scroll mounted as handscroll",
-        "path": "img/art/artworks/su-shi-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/hanging-scroll-mounted-as-handscroll-su-shi-unidentified-artist/AQEyVFXit9zWng"
+        "name": "Entropia: Construction",
+        "path": "img/art/artworks/julie-mehretu-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/entropia-construction-julie-mehretu/TgHKkDRMw8bDUg"
       },
       {
-        "name": "Li Bai's Poem",
-        "path": "img/art/artworks/su-shi-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/li-bai-s-poem-su-shi/LQEwv42_DqvKtw"
+        "name": "Mind Breath Drawings",
+        "path": "img/art/artworks/julie-mehretu-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/mind-breath-drawings-mehretu-julie/NAErf-kzNJWveQ"
       },
       {
-        "name": "blue and white porcelain vase 2",
-        "path": "img/art/artworks/su-shi-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/blue-and-white-porcelain-vase-2-shi-youwen/1gHHzQeScuDtOQ"
+        "name": "Mogamma, A Painting in Four Parts: Part 4",
+        "path": "img/art/artworks/julie-mehretu-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mogamma-a-painting-in-four-parts-part-4-julie-mehretu/jAGlcl-SUNfIYQ"
+      },
+      {
+        "name": "Blue Field",
+        "path": "img/art/artworks/julie-mehretu-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/blue-field-julie-mehretu/FwF6ig_ZgjEX_A"
+      },
+      {
+        "name": "Auguries",
+        "path": "img/art/artworks/julie-mehretu-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/auguries-julie-mehretu/hgHTFkAJwUy99w"
       }
     ],
     "summary": [
-      "Su Shi",
-      ", courtesy name Zizhan, art name Dongpo, was a Chinese calligrapher, gastronome, painter, pharmacologist, poet, politician, and writer of the Song dynasty. A major personality of the Song era, Su was an important figure in Song Dynasty politics, aligning himself with Sima Guang and others, against the New Policy party led by Wang Anshi.",
-      "Su Shi is widely regarded as one of the most accomplished figures in classical Chinese literature, having produced some of the most well-known poems, lyrics, prose, and essays. Su Shi was famed as an essayist, and his prose writings lucidly contribute to the understanding of topics such as 11th-century Chinese travel literature or detailed information on the contemporary Chinese iron industry. His poetry has a long history of popularity and influence in China, Japan, and other areas in the near vicinity and is well known in the English-speaking parts of the world through the translations by Arthur Waley, among others. In terms of the arts, Su Shi has some claim to being \"the pre-eminent personality of the eleventh century.\" Dongpo pork, a prominent dish in Hangzhou cuisine, is named in his honor."
-    ],
-    "quote": "“What a ruler has to rely upon is only the human heart. Human hearts are to the ruler what roots are to a tree, what oil is to a lamp, water to fish, fields to a farmer, or money to a merchant.”",
-    "movements": [],
-    "mediums": ["Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Su_Shi",
-    "urlGoogle": "https://artsandculture.google.com/entity/su-shi/m01sv3f"
-  },
-  "event": {
-    "id": "battle-of-seneffe",
-    "name": "Battle of Seneffe",
-    "dates": null,
-    "mainImg": "img/events/battle-of-seneffe.jpg",
-    "summary": [
-      "The Battle of Seneffe took place on 11 August 1674, during the 1672–1678 Franco-Dutch War near Seneffe in present-day Belgium. It was fought by a French army commanded by Louis II de Bourbon, Prince de Condé and a combined Dutch-Imperial-Spanish force led by William of Orange. While a clear French victory, both sides suffered heavy losses and it had little impact on the outcome of the war in the Low Countries.",
-      "Seneffe was one of three battles in the Spanish Netherlands during the Franco-Dutch War and the only one unconnected to a siege, the dominant form of warfare in the late 17th century; Cassel in 1677 was an attempt to relieve Saint-Omer, while Saint-Denis in 1678 was fought to prevent the fall of Mons."
+      "Julie Mehretu is an American contemporary visual artist, known for her multi-layered paintings of abstracted landscapes on a large scale. Her paintings, drawings, and prints depict the cumulative effects of urban sociopolitical changes through the landscape's alteration of architecture, topography, and iconography."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Seneffe",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-seneffe/m014rry"
+    "movements": [],
+    "mediums": ["Ink", "Acrylic paint", "Satin", "Graphite", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Julie_Mehretu",
+    "urlGoogle": "https://artsandculture.google.com/entity/julie-mehretu/m079xjq"
+  },
+  "event": {
+    "id": "invasion-of-normandy",
+    "name": "Invasion of Normandy",
+    "dates": "Jun 6, 1944 - July 1944",
+    "mainImg": "img/events/invasion-of-normandy.jpg",
+    "summary": [
+      "The Western Allies of World War II launched the largest amphibious invasion in history when they attacked German positions at Normandy, located on the northern coast of France, on 6 June 1944. The invaders were able to establish a beachhead as part of Operation Overlord after a successful \"D-Day\", the first day of the invasion.",
+      "Allied land forces came from the United States, Britain, Canada, and Free French forces. In the weeks following the invasion, Polish forces and contingents from Belgium, Czechoslovakia, Greece and the Netherlands participated in the ground campaign; most also provided air and naval support alongside elements of the Royal Australian Air Force, the Royal New Zealand Air Force, and the Royal Norwegian Navy.",
+      "The Normandy invasion began with overnight parachute and glider landings, massive air attacks and naval bombardments. In the early morning, amphibious landings commenced on five beaches codenamed Sword, Juno, Gold, Omaha and Utah, with troops from the United States landing on Omaha and Utah, Britain landing on Gold and Sword, and Canada landing on Juno. During the evening the remaining elements of the airborne divisions landed."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Invasion_of_Normandy",
+    "urlGoogle": "https://artsandculture.google.com/entity/invasion-of-normandy/m0chhs"
   },
   "funFacts": [
     {
-      "id": "183",
-      "fact": "The Capitol building in Washington, D.C. has 365 steps to represent every day of the year.",
+      "id": "280",
+      "fact": "The amount of concrete used in the Hoover Dam could build a highway from New York to California.",
       "category": ["Geography"]
     },
     {
-      "id": "785",
-      "fact": "The middle finger has the fastest growing nail.",
-      "category": ["Anatomy"]
+      "id": "983",
+      "fact": "Between 1979 and 1999, the planet Neptune was farther from the Sun than Pluto.  This won't happen again until 2227.",
+      "category": ["Geography", "Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "506181",
-      "fact": "Army ants that misinterpret the scent trails left by other ants will sometimes break from the crowd and march in circles. If enough ants join, they can form massive \"death spirals.\""
+      "id": "504707",
+      "fact": "The cubicle did not get its name from its shape, but from the Latin cubiculum,&nbsp;meaning bed chamber."
     }
   ],
   "idiom": {
-    "id": "from-the-sublime-to-the-ridiculous",
-    "term": "from the sublime to the ridiculous",
-    "definition": "From the beautiful to the silly, from great to puny. For example, *They played first Bach and then an ad jingle---from the sublime to the ridiculous.* The reverse, **from the ridiculous to the sublime,** is used with the opposite meaning. Coined by Tom Paine in *The Age of Reason* (1794), in which he said the two are so closely related that it is but one step from one to the other, the phrase has been often repeated in either order."
+    "id": "mad-as-a-hatter",
+    "term": "mad as a hatter",
+    "definition": "Also, **mad as a March hare.** Crazy, demented, as in *She is throwing out all his clothes; she's mad as a hatter.* This expression, dating from the early 1800s, alludes to exposure to the chemicals formerly used in making felt hats, which caused tremors and other nervous symptoms. The variant, dating from the 14th century, alludes to the crazy behavior of hares during rutting season, mistakenly thought to be only in March."
   },
   "person": {
-    "id": "edith-how-martyn",
-    "name": "Edith How-Martyn",
-    "dates": "Jun 7, 1875 - Feb 2, 1954",
-    "mainImg": "img/people/edith-how-martyn.jpg",
+    "id": "theodor-blank",
+    "name": "Theodor Blank",
+    "dates": "Sep 19, 1905 - May 14, 1972",
+    "mainImg": "img/people/theodor-blank.jpg",
     "summary": [
-      "Edith How-Martyn was a British suffragette and a member of the Women's Social and Political Union. She was arrested in 1906 for attempting to make a speech in the House of Commons. This was one of the first acts of suffragette militancy. She met Margaret Sanger in 1915 and they created a conference in Geneva. How-Martyn toured India talking about birth control. She had no children and died in Australia."
+      "Theodor Anton Blank was a German politician of the CDU. He was one of the founders of the CDU in 1945.",
+      "Blank was born in Elz an der Lahn. He was the third of ten children of a carpenter. His family was Roman Catholic. Blank received an apprenticeship as a carpenter. In 1930–33 he worked as a secretary at the Association of Christian transport- and factory employees of the northern and northwestern Ruhr Area. After he was dismissed in 1933 Blank passed his Abitur in 1936 and studied mathematics at the University of Münster and engineering sciences at Leibniz University Hannover. In 1939 he was conscripted to the Wehrmacht and became a first lieutenant at the end of World War II.",
+      "From 1949 to 1972 he was a member of the German Bundestag, in which he served from 1965 to 1969 as deputy chief of CDU/CSU-Bundestagsfraktion.",
+      "From 1950 to 1955 he served as Special Representative of the Chancellor, leading the \"Amt Blank\", officially responsible for affairs relating to the Allied occupying troops, but in reality mainly charged by Chancellor Konrad Adenauer with covertly preparing the re-establishment of the German armed forces."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Edith_How-Martyn",
-    "urlGoogle": "https://artsandculture.google.com/entity/edith-how-martyn/m0f01kt"
+    "urlWiki": "https://en.wikipedia.org/wiki/Theodor_Blank",
+    "urlGoogle": "https://artsandculture.google.com/entity/theodor-blank/m0br2gd"
   },
   "place": {
-    "id": "poznan",
-    "name": "Poznań",
-    "mainImg": "img/places/poznan.jpg",
+    "id": "bath",
+    "name": "Bath",
+    "mainImg": "img/places/bath.jpg",
     "summary": [
-      "Poznań is a city on the Warta River in west-central Poland, in the Greater Poland region. It is best known for its renaissance Old Town and Ostrów Tumski Cathedral. Today, Poznań is an important cultural and business centre and one of Poland's most populous regions with many regional customs such as Saint John's Fair, traditional Saint Martin's croissants and a local dialect.",
-      "Poznań is the fifth-largest and one of the oldest cities in Poland. The city's population is 538,633, while the continuous conurbation with Poznań County and several other communities is inhabited by almost 1.1 million people. The Larger Poznań Metropolitan Area is inhabited by 1.3–1.4 million people and extends to such satellite towns as Nowy Tomyśl, Gniezno and Września, making it the fourth largest metropolitan area in Poland. It is the historical capital of the Greater Poland region and is currently the administrative capital of the province called Greater Poland Voivodeship.",
-      "Poznań is a center of trade, sports, education, technology and tourism. It is an important academic site, with about 130,000 students and Adam Mickiewicz University, the third largest Polish university."
+      "Bath is the largest city in the county of Somerset, England, known for and named after its Roman-built baths. In 2011, the population was 88,859. Bath is in the valley of the River Avon, 97 miles west of London and 11 miles southeast of Bristol. The city became a World Heritage site in 1987.",
+      "The city became a spa with the Latin name Aquae Sulis c. 60 AD when the Romans built baths and a temple in the valley of the River Avon, although hot springs were known even before then.",
+      "Bath Abbey was founded in the 7th century and became a religious centre; the building was rebuilt in the 12th and 16th centuries. In the 17th century, claims were made for the curative properties of water from the springs, and Bath became popular as a spa town in the Georgian era. Georgian architecture, crafted from Bath stone, includes the Royal Crescent, Circus, Pump Room and Assembly Rooms where Beau Nash presided over the city's social life from 1705 until his death in 1761.",
+      "Many of the streets and squares were laid out by John Wood, the Elder, and in the 18th century the city became fashionable and the population grew. Jane Austen lived in Bath in the early 19th century."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Pozna%C5%84",
-    "urlGoogle": "https://artsandculture.google.com/entity/poznań/m05xnv"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bath,_Somerset",
+    "urlGoogle": "https://artsandculture.google.com/entity/bath/m0bdg5"
   },
   "wiki": {
-    "id": "canada",
-    "name": "Canada",
-    "summary": "Canada is the world's second largest country by area, occupying most of northern North America. Extending from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, Canada shares land borders with the United States to the south and to the northwest. Inhabited originally by Aboriginal peoples, Canada was founded as a union of British colonies, some of which had earlier been French colonies. Now a federal dominion of ten provinces and three territories, Canada peacefully obtained sovereignty from Britain in a process spanning from 1867 to 1982. Canada is a parliamentary democracy and constitutional monarchy, and defines itself as a bilingual and multicultural nation; both English and French are official languages.",
-    "url": "https://en.wikipedia.org/wiki/Canada"
+    "id": "arrested-development-tv-series",
+    "name": "Arrested Development (TV series)",
+    "summary": "Arrested Development is a character-driven comedy television series about a formerly wealthy, habitually dysfunctional family. The show is presented like a documentary, complete with narration, archival photos, and historical footage. Although set in Newport Beach and Balboa Island, California, it is primarily filmed on location around Culver City and Marina Del Rey. Created by Mitchell Hurwitz, since debuting on November 2 2003, the series has received six Emmy Awards and a Golden Globe Award. However, despite critical acclaim, Arrested Development has never climbed in the ratings. As a result, the episode orders for the second and third seasons were cut. This has left many critics and fans believing that the show will be cancelled, although Fox is not expected to make an official announcement until next fall's schedule is released in the spring.",
+    "url": "https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)"
   },
   "word": {
-    "id": "sartorial",
-    "word": "sartorial",
-    "url": "https://www.merriam-webster.com/dictionary/sartorial",
-    "partOfSpeech": "adjective",
-    "pronunciation": "sahr-TOR-ee-ul",
-    "audioPath": "audio/words/sartorial.mp3",
+    "id": "temporize",
+    "word": "temporize",
+    "url": "https://www.merriam-webster.com/dictionary/temporize",
+    "partOfSpeech": "verb",
+    "pronunciation": "TEM-puh-ryze",
+    "audioPath": "audio/words/temporize.mp3",
     "definitions": [
-      "of or relating to a tailor or tailored clothes; broadly : of or relating to clothes"
+      "to act to suit the time or occasion : yield to current or dominant opinion",
+      "to draw out discussions or negotiations so as to gain time"
     ],
     "examples": [
-      "Since Daniel was well-known for his impeccable _sartorial_ taste, I asked him for help in upgrading my own wardrobe.",
-      "\"Her truck, specializing in clothes for plus-size women, is one of the mobile fashion retailers-the _sartorial_ cousins to food trucks-that have taken to Washington area streets over the past year and a half.\" - From an article by Stephanie Merry in _The Washington Post_, April 16, 2014"
+      "I hope city council members will take swift action at today’s meeting, but I’m worried that they are more likely to _temporize_.",
+      "\"The more the Security Council _temporizes_, compromises and weakens these resolutions, the more defiant and ambitious Iran becomes.\" -- From a staff editorial in _The New York Times_, February 10, 2011"
     ],
-    "origin": "It's easy to uncover the root of \"sartorial.\" Just strip off the suffix \"-ial\" and you discover the Latin noun \"sartor,\" meaning \"tailor\" (literally, \"one who patches or mends\"). Sartorial splendor has been the stuff of voguish magazines for years, and even \"sartor\" itself has occasionally proven fashionable, as it did in 1843, when Oliver Wendell Holmes wrote of \"coats whose memory turns the sartor pale,\" or in the 1870 title _The Sartor, or British journal of cutting, clothing, and fashion_. \"Sartorial\" has been in style with English speakers since at least 1823."
+    "origin": "\"Temporize\" comes from the Medieval Latin verb \"temporizare\" (\"to pass the time\"), which itself comes from the Latin noun \"tempus,\" meaning \"time.\" \"Tempus\" is also the root of such words as \"tempo,\" \"contemporary,\" and \"temporal.\" If you need to buy some time, you might resort to temporizing -- but you probably won't win admiration for doing so. \"Temporize\" can have a somewhat negative connotation. For instance, a political leader faced with a difficult issue might temporize by talking vaguely about possible solutions without actually doing anything. The point of such temporizing is to avoid taking definite -- and possibly unpopular -- action, in hopes that the problem will somehow go away. But the effect is often just to make matters worse."
   }
 }

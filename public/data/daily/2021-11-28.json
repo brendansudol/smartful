@@ -1,0 +1,125 @@
+{
+  "artist": {
+    "id": "gaston-lachaise",
+    "name": "Gaston Lachaise",
+    "dates": "Mar 19, 1882 - Oct 18, 1935",
+    "mainImg": "img/art/artists/gaston-lachaise.jpg",
+    "artworkImgs": [
+      {
+        "name": "Woman (Elevation)",
+        "path": "img/art/artworks/gaston-lachaise-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-elevation-gaston-lachaise-american-born-france-1882-1935/mQE7dmxpukh2UA"
+      },
+      {
+        "name": "Bas-Relief Woman",
+        "path": "img/art/artworks/gaston-lachaise-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/bas-relief-woman-gaston-lachaise/TAF8M8XRXJwOVw"
+      },
+      {
+        "name": "Elevation, also called Standing Woman",
+        "path": "img/art/artworks/gaston-lachaise-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/elevation-also-called-standing-woman-gaston-lachaise/XwHq1PfCh_7jVQ"
+      },
+      {
+        "name": "Peacocks",
+        "path": "img/art/artworks/gaston-lachaise-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/peacocks-gaston-lachaise/FwE9HeeE1_jSIw"
+      },
+      {
+        "name": "Torso of Elevation",
+        "path": "img/art/artworks/gaston-lachaise-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/torso-of-elevation-gaston-lachaise/NwENjHlzQvMBVw"
+      },
+      {
+        "name": "Head of John Marin",
+        "path": "img/art/artworks/gaston-lachaise-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-john-marin-gaston-lachaise/6QEQZpWg1LkdNQ"
+      }
+    ],
+    "summary": [
+      "Gaston Lachaise was an American sculptor of French birth, active in the early 20th century. A native of Paris, he was most noted for his female nudes such as Standing Woman. Gaston Lachaise was taught the refinement of European sculpture while living in France. He met a young American woman, Isabel Nagel, and the pair moved to America, where his craft reached maturity and he was influenced and inspired by American ways. Lachaise helped redefine the female nude in a new and powerful manner. His drawings also reflected his new style of the female form."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Sculpture", "Bronze", "Metal", "Drawing", "Graphite", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gaston_Lachaise",
+    "urlGoogle": "https://artsandculture.google.com/entity/gaston-lachaise/m033rmk"
+  },
+  "event": {
+    "id": "california-gold-rush",
+    "name": "California Gold Rush",
+    "dates": "Jan 24, 1848 - 1855",
+    "mainImg": "img/events/california-gold-rush.jpg",
+    "summary": [
+      "The California Gold Rush was a gold rush that began on January 24, 1848, when gold was found by James W. Marshall at Sutter's Mill in Coloma, California. The news of gold brought approximately 300,000 people to California from the rest of the United States and abroad. The sudden influx of gold into the money supply reinvigorated the American economy, and the sudden population increase allowed California to go rapidly to statehood, in the Compromise of 1850. The Gold Rush had severe effects on Native Californians and accelerated the Native American population's decline from disease, starvation and the California Genocide. By the time it ended, California had gone from a thinly populated ex-Mexican territory, to having one of its first two U.S. Senators, John C. Frémont, selected to be the first presidential nominee for the new Republican Party, in 1856.",
+      "The effects of the Gold Rush were substantial. Whole indigenous societies were attacked and pushed off their lands by the gold-seekers, called \"forty-niners\". Outside of California, the first to arrive were from Oregon, the Sandwich Islands, and Latin America in late 1848."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/California_Gold_Rush",
+    "urlGoogle": "https://artsandculture.google.com/entity/california-gold-rush/m0fz6v"
+  },
+  "funFacts": [
+    {
+      "id": "456",
+      "fact": "About 85% of the world's population is right-handed.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "99",
+      "fact": "You burn about 20 calories per hour chewing gum.",
+      "category": ["Habits", "Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553810",
+      "fact": "Trained pigeons can differentiate between the paintings of Pablo Picasso and Claude Monet."
+    }
+  ],
+  "person": {
+    "id": "wendell-willkie",
+    "name": "Wendell Willkie",
+    "dates": "Feb 18, 1892 - Oct 8, 1944",
+    "mainImg": "img/people/wendell-willkie.jpg",
+    "summary": [
+      "Wendell Lewis Willkie was an American lawyer, corporate executive, and the 1940 Republican nominee for President of the United States. Willkie appealed to many convention delegates as the Republican field's only interventionist: although the U.S. remained neutral prior to Pearl Harbor, he favored greater U.S. involvement in World War II to support Britain and other Allies. His Democratic opponent, incumbent President Franklin D. Roosevelt, won the 1940 election with about 55% of the popular vote and took the electoral college vote by a wide margin.",
+      "Willkie was born in Elwood, Indiana, in 1892; both his parents were lawyers, and he also became one. He served in World War I but was not sent to France until the final days of the war, and saw no action. Willkie settled in Akron, Ohio, where he was initially employed by Firestone, but left for a law firm, becoming one of the leaders of the Akron Bar Association. Much of his work was representing electric utilities, and in 1929 Willkie accepted a job in New York City as counsel for Commonwealth & Southern Corporation, a utility holding company. He was rapidly promoted, and became corporate president in 1933."
+    ],
+    "quote": "“In no direction that we turn do we find ease or comfort. If we are honest and if we have the will to win we find only danger, hard work and iron resolution.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Wendell_Willkie",
+    "urlGoogle": "https://artsandculture.google.com/entity/wendell-willkie/m0873b"
+  },
+  "place": {
+    "id": "phnom-penh",
+    "name": "Phnom Penh",
+    "mainImg": "img/places/phnom-penh.jpg",
+    "summary": [
+      "Phnom Penh, formerly known as Krong Chaktomuk Serimongkul or shortly known as Krong Chaktomuk, is the capital and most populous city in Cambodia. Phnom Penh has been the national capital since French colonization of Cambodia, and has grown to become the nation's economic, industrial, and cultural center.",
+      "Once known as the \"Pearl of Asia,\" it was considered one of the loveliest French-built cities in Indochina in the 1920s. Phnom Penh, along with Siem Reap and Sihanoukville, are significant global and domestic tourist destinations for Cambodia. Founded in 1372, the city is noted for its historical architecture and attractions. It became the national capital in 1434 following the fall of Angkor, and remained so until 1497. It regained its capital status during the French colonial era in 1865. There are a number of surviving French colonial buildings scattered along the grand boulevards.",
+      "On the banks of the Tonlé Sap, Mekong, and Bassac Rivers, Phnom Penh is home to more than 2 million people, approximately 14% of the Cambodian population."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Phnom_Penh",
+    "urlGoogle": "https://artsandculture.google.com/entity/phnom-penh/m0dlwj"
+  },
+  "wiki": {
+    "id": "emma-watson",
+    "name": "Emma Watson",
+    "summary": "Emma Watson (born 1990) is a French-born British actress who rose to prominence playing Hermione Granger, one of three starring roles in the Harry Potter film series. Watson was cast as Hermione at the age of nine, having previously only acted in school plays. From 2001 to 2007, she starred in five Harry Potter film installments alongside Daniel Radcliffe and Rupert Grint. She will return for the final two installments: Harry Potter and the Half-Blood Prince, due to be released in 2009, and the two parts of Harry Potter and the Deathly Hallows. Watson's work in the Harry Potter series has earned her several awards and more than £10 million. In 2007, she announced her involvement in two non-Harry Potter productions: the made-for-television adaptation of the novel Ballet Shoes and an animated film, The Tale of Despereaux. Ballet Shoes was broadcast on 26 December 2007, to an audience of 5.2 million and The Tale of Despereaux, based on the book by Kate DiCamillo, was released in 2008.",
+    "url": "https://en.wikipedia.org/wiki/Emma_Watson"
+  },
+  "word": {
+    "id": "felicitate",
+    "word": "felicitate",
+    "url": "https://www.merriam-webster.com/dictionary/felicitate",
+    "partOfSpeech": "verb",
+    "pronunciation": "fih-LISS-uh-tayt",
+    "audioPath": "audio/words/felicitate.mp3",
+    "definitions": ["to consider happy or fortunate", "to offer congratulations to"],
+    "examples": [
+      "The other swimmers politely _felicitated_ the winner of the race.",
+      "\"The rising music stars, all of whom are first-prize winners of the All India Radio Competition 2011, will be _felicitated_ in the morning inaugural session.\"-From an article in _Screen_, January 13, 2012"
+    ],
+    "origin": "\"Felix,\" a Latin adjective meaning \"happy\" or \"fruitful,\" is the root of our English words \"felicity\" and \"felicitate.\" The former is the older of the two; it dates back to the 14th century and refers to the state of being happy or to something that makes people happy. When writing _King Lear_, William Shakespeare was probably pleased when he thought of the word \"felicitate\" as an adjective meaning \"made happy,\" but not everyone took a shine to it and it fell into disuse. However, people were happy to pick up \"felicitate\" as a verb meaning \"to make happy.\" That meaning is now considered archaic but it was the seed for other meanings of the word. \"Felicitate\" eventually grew to mean \"to consider happy or fortunate\" and \"to congratulate.\""
+  }
+}

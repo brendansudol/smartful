@@ -1,132 +1,127 @@
 {
   "artist": {
-    "id": "nandalal-bose",
-    "name": "Nandalal Bose",
-    "dates": "Dec 3, 1882 - Apr 16, 1966",
-    "mainImg": "img/art/artists/nandalal-bose.jpg",
+    "id": "lou-reed",
+    "name": "Lou Reed",
+    "dates": "Mar 2, 1942 - Oct 27, 2013",
+    "mainImg": "img/art/artists/lou-reed.jpg",
     "artworkImgs": [
       {
-        "name": "Sabari in her Youth",
-        "path": "img/art/artworks/nandalal-bose-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/sabari-in-her-youth-nandalal-bose/pgEqnn7b7uT97g"
+        "name": "Tri-service parade",
+        "path": "img/art/artworks/lou-reed-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/tri-service-parade/LQHWqJNzPsXPYA"
       },
       {
-        "name": "Tiller of the soil",
-        "path": "img/art/artworks/nandalal-bose-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/tiller-of-the-soil-nandalal-bose/VAGGgFyIWLtZ-Q"
+        "name": "Apiocera (Anypenus) obscura",
+        "path": "img/art/artworks/lou-reed-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/apiocera-anypenus-obscura-e-reed/jgGJmnwvS6KAIA"
       },
       {
-        "name": "Rati with her Bow",
-        "path": "img/art/artworks/nandalal-bose-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/rati-with-her-bow-nandalal-bose/xAHTUKKgLlTLSQ"
+        "name": "Memorandum on UNCG Negro students enrollment",
+        "path": "img/art/artworks/lou-reed-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/memorandum-on-uncg-negro-students-enrollment-tommie-lou-smith/MQEQFGzVenVhWA"
       },
       {
-        "name": "Singawala",
-        "path": "img/art/artworks/nandalal-bose-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/singawala-nandalal-bose/6AGv3J6FHWlcLA"
+        "name": "Xylechinus squamatilis",
+        "path": "img/art/artworks/lou-reed-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/xylechinus-squamatilis-dr-reed/nAERoci4NDqm9A"
       },
       {
-        "name": "Butter milk churner",
-        "path": "img/art/artworks/nandalal-bose-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/butter-milk-churner-nandalal-bose/IwFASUf08MlMAg"
-      },
-      {
-        "name": "A Lady Artist",
-        "path": "img/art/artworks/nandalal-bose-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/a-lady-artist-nandalal-bose/6gHRo6cTH6aPNA"
+        "name": "Bombus (Fervidobombus) dahlbomii",
+        "path": "img/art/artworks/lou-reed-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/bombus-fervidobombus-dahlbomii-e-reed/UAEFCSzKM8dVoA"
       }
     ],
     "summary": [
-      "Nandalal Bose was one of the pioneers of modern Indian art and a key figure of Contextual Modernism.",
-      "A pupil of Abanindranath Tagore, Bose was known for his \"Indian style\" of painting. He became the principal of Kala Bhavan, Santiniketan in 1922. He was influenced by the Tagore family and the murals of Ajanta; his classic works include paintings of scenes from Indian mythologies, women, and village life.",
-      "Today, many critics consider his paintings among India's most important modern paintings. In 1976, the Archaeological Survey of India, Department of Culture, Govt. of India declared his works among the \"nine artists\" whose work, \"not being antiquities\", were to be henceforth considered \"to be art treasures, having regard to their artistic and aesthetic value\".",
-      "He was given the work of illustrating the constitution of India."
+      "Lewis Allan Reed was an American musician, singer, songwriter and poet. He was the rhythm/lead guitarist, singer and principal songwriter for the rock band The Velvet Underground and had a solo career that spanned five decades. The Velvet Underground was not a commercial success during its existence, but became regarded as one of the most influential bands in the history of underground and alternative rock music.",
+      "After leaving the band in 1970, Reed released twenty solo studio albums. His second, Transformer, was produced by David Bowie and arranged by Mick Ronson, and brought mainstream recognition. The album is considered an influential landmark of the glam rock genre, anchored by Reed's most successful single, \"Walk on the Wild Side\". After Transformer, the less commercial but critically acclaimed Berlin reached No. 7 on the UK Albums Chart. Rock 'n' Roll Animal sold strongly, and Sally Can't Dance peaked at No. 10 on the Billboard 200; but for a long period after, Reed's work did not translate into sales, leading him deeper into drug addiction and alcoholism."
     ],
-    "quote": null,
+    "quote": "“I always believed that I have something important to say and I said it.”",
     "movements": [],
-    "mediums": ["Tempera", "Watercolor painting"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Nandalal_Bose",
-    "urlGoogle": "https://artsandculture.google.com/entity/nandalal-bose/m0bsxtb"
+    "mediums": [],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lou_Reed",
+    "urlGoogle": "https://artsandculture.google.com/entity/lou-reed/m03f0fnk"
   },
   "event": {
-    "id": "1981-spanish-coup-detat-attempt",
-    "name": "1981 Spanish coup d'état attempt",
-    "dates": "Feb 23, 1981",
-    "mainImg": "img/events/1981-spanish-coup-detat-attempt.jpg",
+    "id": "battle-of-midway",
+    "name": "Battle of Midway",
+    "dates": "Jun 4, 1942 - Jun 7, 1942",
+    "mainImg": "img/events/battle-of-midway.jpg",
     "summary": [
-      "The 1981 Spanish coup d'état attempt, known in Spain by the numeronym 23-F and also known as the Tejerazo, was an attempted coup d'état in Spain on 23 February 1981. Lieutenant-Colonel Antonio Tejero led 200 armed Civil Guard officers into the Congress of Deputies during the vote to elect a Prime Minister. The officers held the parliamentarians and ministers hostage for 18 hours, during which time King Juan Carlos I denounced the coup in a televised address, calling for rule of law and the democratic government to continue. Though shots were fired, the hostage-takers surrendered the next morning without killing anyone."
+      "The Battle of Midway was a decisive naval battle in the Pacific Theater of World War II that took place on 4–7 June 1942, six months after Japan’s attack on Pearl Harbor and one month after the Battle of the Coral Sea. The United States Navy under Admirals Chester W. Nimitz, Frank J. Fletcher, and Raymond A. Spruance defeated an attacking fleet of the Imperial Japanese Navy under Admirals Isoroku Yamamoto, Chūichi Nagumo, and Nobutake Kondō near Midway Atoll, inflicting devastating damage on the Japanese fleet that proved irreparable. Military historian John Keegan called it \"the most stunning and decisive blow in the history of naval warfare\", while naval historian Craig Symonds called it \"one of the most consequential naval engagements in world history, ranking alongside Salamis, Trafalgar, and Tsushima Strait, as both tactically decisive and strategically influential\".",
+      "The Japanese operation, like the earlier attack on Pearl Harbor, hoped to eliminate the United States as a strategic power in the Pacific, thereby giving Japan a free hand in establishing its Greater East Asia Co-Prosperity Sphere."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1981_Spanish_coup_d%27%C3%A9tat_attempt",
-    "urlGoogle": "https://artsandculture.google.com/entity/1981-spanish-coup-d-état-attempt/m02nq9n"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-midway/m0gc4b"
   },
   "funFacts": [
     {
-      "id": "877",
-      "fact": "People don't sneeze when they are asleep because the nerves involved in the sneeze reflex are also resting.",
-      "category": ["Anatomy"]
+      "id": "686",
+      "fact": "A Pelican can hold more food in its beak than its belly.",
+      "category": ["Animals"]
     },
     {
-      "id": "1008",
-      "fact": "In the state of Arizona, it is illegal for donkeys to sleep in bathtubs.",
-      "category": ["Animals", "Laws"]
+      "id": "189",
+      "fact": "The Sahara Desert stretches farther than the distance from California to New York.",
+      "category": ["Geography"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504591",
-      "fact": "The term “lawn mullet” means having a neatly manicured front yard and an unmowed mess in the back."
+      "id": "554088",
+      "fact": "When a man allegedly found a dead mouse in his can of Mountain Dew, Pepsi had an expert claim in an affidavit that the drink was so acidic it would have dissolved the mouse after 30 days."
     }
   ],
   "idiom": {
-    "id": "naked-as-a-jaybird",
-    "term": "naked as a jaybird",
-    "definition": "Bare, unclothed, as in *I came straight out of the shower, naked as a jaybird.* This simile replaced the 19th-century *naked as a robin* and is equally unclear, since neither bird is normally stripped of its feathers. Further, the bird it refers to is more often called simply \"jay\" rather than \"jaybird,\" yet the latter is always part of the simile. [c. 1940]"
+    "id": "the-exception-proves-the-rule",
+    "term": "the exception proves the rule",
+    "definition": "An instance that does not obey a rule shows that the rule exists. For example, *John's much shorter than average but excels at basketball---the exception proves the rule.* This seemingly paradoxical phrase is the converse of the older idea that every rule has an exception. [Mid-1600s]"
   },
   "person": {
-    "id": "uhuru-kenyatta",
-    "name": "Uhuru Kenyatta",
-    "dates": "Born Oct 26, 1961",
-    "mainImg": "img/people/uhuru-kenyatta.jpg",
+    "id": "hans-mark",
+    "name": "Hans Mark",
+    "dates": "Born Jun 17, 1929",
+    "mainImg": "img/people/hans-mark.jpg",
     "summary": [
-      "Uhuru Muigai Kenyatta is a Kenyan politician, businessman, and the fourth and current President of the Republic of Kenya. He served as the Member of Parliament for Gatundu South from 2002 to 2013. Currently, he is a member and the party leader of the Jubilee Party of Kenya. Uhuru was previously associated with the Kenya Africa National Union before joining The National Alliance, one of the allied parties that campaigned for his reelection during the 2017 general elections.",
-      "He is the son of Jomo Kenyatta, Kenya's first President, and his fourth wife Mama Ngina Kenyatta. Uhuru was re-elected for a second term in the August 2017 general election, winning 54% of the popular vote. The win was formally declared on national television by the Chairman of the Independent Electoral and Boundaries Commission Wafula Chebukati.",
-      "However, Uhuru's election was successfully challenged in the Supreme Court of Kenya by his main competitor, Raila Odinga. On 1 September 2017, the court declared the election invalid and ordered a new presidential election to take place within 60 days from the day of the ruling. A new presidential election was held on 26 October, which he won, with 39% participation."
-    ],
-    "quote": "“The evidence we got is credible. We were shocked”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Uhuru_Kenyatta",
-    "urlGoogle": "https://artsandculture.google.com/entity/uhuru-kenyatta/m02rm5w"
-  },
-  "place": {
-    "id": "pescara",
-    "name": "Pescara",
-    "mainImg": "img/places/pescara.jpg",
-    "summary": [
-      "Pescara is the capital city of the Province of Pescara, in the Abruzzo region of Italy. It is the most populated city in Abruzzo, with 119,217 residents. Located on the Adriatic coast at the mouth of the Aterno-Pescara River, the present-day municipality was formed in 1927 joining the municipalities of the old Pescara fortress, the part of the city to the south of the river, and Castellamare Adriatico, the part of the city to the north of the river. The surrounding area was formed into the province of Pescara.",
-      "The main commercial street of the city is Corso Umberto I, which runs between two squares, starting from Piazza della Repubblica and reaching the seacoast in Piazza Primo Maggio. The rectangle that it forms with Corso Vittorio Emanuele II and Via Nicola Fabrizi is home of the main shopping district, enclosed in a driving restriction zone, where several of the best fashion shops are located. Corso Manthoné, the course of the old Pescara, has, for many years, been the center of the nightlife of the city."
+      "Hans Michael Mark is a former Secretary of the Air Force and a former Deputy Administrator of NASA. He is an expert and consultant in aerospace design and national defense policy. Mark retired from the Department of Aerospace Engineering and Engineering Mechanics at the University of Texas at Austin's Cockrell School of Engineering in July 2014."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Pescara",
-    "urlGoogle": "https://artsandculture.google.com/entity/pescara/m03f2hc"
+    "urlWiki": "https://en.wikipedia.org/wiki/Hans_Mark",
+    "urlGoogle": "https://artsandculture.google.com/entity/hans-mark/m08jk_g"
+  },
+  "place": {
+    "id": "samara",
+    "name": "Samara",
+    "mainImg": "img/places/samara.jpg",
+    "summary": [
+      "Samara, known from 1935 to 1991 as Kuybyshev, is the ninth-largest city in Russia and the administrative center of Samara Oblast. Some statistics indicate that it is the eighth or ninth-largest city by population, rather than sixth. It is in the southeastern part of Western Russia at the confluence of the Volga and Samara rivers, on the east bank of the Volga which acts as the city's western boundary; across the river are the Zhiguli Mountains, after which the local beer is named. The northern boundary is formed by the Sokolyi Hills and by the steppes in the south and east. The city covers 46,597 hectares, with a population of 1,164,685; the metropolitan area of Samara, Tolyatti and Syzran has a population of over 3 million. It is about 300 kilometres from Kazan, 410 kilometres from Ufa, 340 kilometres from Saratov and 235 kilometres from Oral, Kazakhstan.",
+      "Formerly a closed city, Samara is now a large and important social, political, economic, industrial, and cultural centre in Russia and hosted the European Union—Russia Summit in May 2007. It has a continental climate characterised by hot summers and cold winters."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Samara",
+    "urlGoogle": "https://artsandculture.google.com/entity/samara/m0jlsq"
   },
   "wiki": {
-    "id": "flag-of-armenia",
-    "name": "Flag of Armenia",
-    "summary": "The Flag of Armenia consists of three horizontal bands of equal width, red on the top, blue in the middle, and orange on the bottom. The Armenian Supreme Council adopted the current flag on August 24, 1990. On June 15, 2006, the Law on the National Flag of Armenia was passed by the Armenian Parliament. Throughout history, there were many variations of the Armenian flag. In ancient times, Armenian dynasties were represented by different symbolic animals displayed on their flags. In the twentieth century, various Soviet flags represented the Armenian nation.",
-    "url": "https://en.wikipedia.org/wiki/Flag_of_Armenia"
+    "id": "york-city-f-c",
+    "name": "York City F.C.",
+    "summary": "York City F.C. is an English football club based in York, North Yorkshire. The club participates in the Conference National, the fifth tier of English football. Founded in 1922, they joined The Football League in 1929, and have spent the majority of their history in the lower divisions. The club once rose as high as the second tier of English football, spending two seasons in the Second Division in the 1970s. In the 2003–04 season the club lost their League status when they were relegated from the Third Division, and have since remained in the Conference. York have enjoyed more success in cup competitions than in the league, with highlights including an FA Cup semi-final appearance in 1955. In the 1995–96 Coca-Cola Cup, York beat Manchester United 3–0 at Old Trafford; Manchester United went on to win the FA Cup and Premiership double that season. York play their home games at KitKat Crescent in York. This stadium was formerly known as Bootham Crescent, but was renamed KitKat Crescent because of a sponsorship deal with Nestlé, whose confectionery factory, formerly known as Rowntrees, is one of the city's largest employers.",
+    "url": "https://en.wikipedia.org/wiki/York_City_F.C."
   },
   "word": {
-    "id": "lobscouse",
-    "word": "lobscouse",
-    "url": "https://www.merriam-webster.com/dictionary/lobscouse",
-    "partOfSpeech": "noun",
-    "pronunciation": "LAHB-skouss",
-    "audioPath": "audio/words/lobscouse.mp3",
-    "definitions": ["a sailor's dish of stewed or baked meat with vegetables and hardtack"],
-    "examples": [
-      "Tucked away in a box in the attic were old recipes from Grandpa's father, including one for _lobscouse_.",
-      "\"Mam knows that I don’t like _lobscouse_. All those bits of grey meat and white bone and potato and carrot in watery stock with globules of grease floating on top. It reminds me of washing-up water and I can’t eat any of it.\" -- From Mari Strachan's 2009 novel, _The Earth Hums in B Flat_"
+    "id": "augur",
+    "word": "augur",
+    "url": "https://www.merriam-webster.com/dictionary/augur",
+    "partOfSpeech": "verb",
+    "pronunciation": "AW-gur",
+    "audioPath": "audio/words/augur.mp3",
+    "definitions": [
+      "to foretell (something) or to predict the future especially from omens",
+      "to give promise of : presage"
     ],
-    "origin": "The description of \"lobscouse\" in our second example sounds anything but appetizing, but some version of this dish has been around for at least 300 years and it is a specialty of Liverpool, England. (\"Lobscouse\" is also called \"scouse,\" and Liverpudlians are sometimes referred to as \"Scousers.\") The origin of \"lobscouse\" is not known for certain. Although it's been suggested that the first syllable of the word comes from an English dialect word \"lob\" meaning \"to boil,\" the more popular theory is that \"lobscouse\" comes from a Norwegian stew called \"Lapskaus.\""
+    "examples": [
+      "The state's new first-time home-buyer program _augurs_ a healthy jump in home sales this year.",
+      "\"The good news for our area in 2015 is that El Niños usually translate into milder winters for those in the northern part of the United States. It also _augurs_ well for drought-stricken California, which will have a 60 percent chance of double its average rainfall. \" - _The Daily Star_ (Oneonta, New York), March 12, 2014"
+    ],
+    "origin": "Auguring is what augurs did in ancient Rome. These were official diviners whose function it was, not to foretell the future, but to divine whether the gods approved of a proposed undertaking, such as a military move. These augurs did so by various means, among them observing the behavior of birds and examining the intestines of sacrificed animals. Nowadays, the intransitive verb sense of \"foretell\" is often used with an adverb, such as \"well,\" as in our second example above. \"Augur\" comes from Latin and is related to the Latin verb \"augēre,\" which means \"to increase\" and is the source of \"augment,\" \"auction,\" and \"author.\""
   }
 }

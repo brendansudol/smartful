@@ -1,128 +1,133 @@
 {
   "artist": {
-    "id": "renato-guttuso",
-    "name": "Renato Guttuso",
-    "dates": "Dec 26, 1911 - Jan 18, 1987",
-    "mainImg": "img/art/artists/renato-guttuso.jpg",
+    "id": "chaim-soutine",
+    "name": "Chaim Soutine",
+    "dates": "Jan 13, 1893 - Aug 9, 1943",
+    "mainImg": "img/art/artists/chaim-soutine.jpg",
     "artworkImgs": [
       {
-        "name": "Crocifissione",
-        "path": "img/art/artworks/renato-guttuso-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/crocifissione-renato-guttuso/MgFAiky720azYw"
+        "name": "The Chicken",
+        "path": "img/art/artworks/chaim-soutine-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-chicken-chaïm-soutine/CgEfM9DX24RwAg"
       },
       {
-        "name": "Portrait of Alberto Moravia",
-        "path": "img/art/artworks/renato-guttuso-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-alberto-moravia/oQHgHZn0B104LA"
+        "name": "Young Girl with a Doll",
+        "path": "img/art/artworks/chaim-soutine-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/young-girl-with-a-doll-chaïm-soutine/7AEIag1NYIDF5w"
       },
       {
-        "name": "Donna alla finestra",
-        "path": "img/art/artworks/renato-guttuso-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/donna-alla-finestra-renato-guttuso/rgFBL4KcoF8rWw"
+        "name": "Landscape at Céret [Paysage à Céret]",
+        "path": "img/art/artworks/chaim-soutine-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-at-céret-paysage-à-céret-chaïm-soutine/JAF0FftkDrMt_w"
       },
       {
-        "name": "Self-Portrait",
-        "path": "img/art/artworks/renato-guttuso-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-renato-guttuso/xwHWTmnhpGjXTQ"
+        "name": "Carcass of Beef",
+        "path": "img/art/artworks/chaim-soutine-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/carcass-of-beef/LAFza1IYvw51tg"
       },
       {
-        "name": "Portrait of A. Moravia",
-        "path": "img/art/artworks/renato-guttuso-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-moravia/egEEorltiDJXaw"
+        "name": "Le Mas Passe-Temps, Céret",
+        "path": "img/art/artworks/chaim-soutine-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/le-mas-passe-temps-céret-chaim-soutine/sgHGCWhYSgznjg"
       },
       {
-        "name": "Autoritratto",
-        "path": "img/art/artworks/renato-guttuso-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/autoritratto-renato-guttuso/WwE0Ya3QZnzLjw"
+        "name": "View Overlooking Céret",
+        "path": "img/art/artworks/chaim-soutine-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/view-overlooking-céret-chaim-soutine/lQFSeuqxNdYDqQ"
       }
     ],
     "summary": [
-      "Renato Guttuso was an Italian painter. His best-known works include Flight from Etna, Crucifixion and La Vucciria. Guttuso also designed for the theatre and did illustrations for books. Those for Elizabeth David’s Italian Food, introduced him to many in the English-speaking world. A fierce anti-Fascist, \"he developed out of Expressionism and the harsh light of his native land to paint landscapes and social commentary.\""
+      "Chaïm Soutine was a French painter of Lithuanian Jewish origin. Soutine made a major contribution to the expressionist movement while living in Paris.",
+      "Inspired by classic painting in the European tradition, exemplified by the works of Rembrandt, Chardin and Courbet, Soutine developed an individual style more concerned with shape, color, and texture over representation, which served as a bridge between more traditional approaches and the developing form of Abstract Expressionism."
     ],
-    "quote": null,
-    "movements": ["Contemporary art", "Modern art", "Social realism"],
-    "mediums": ["Oil paint", "Drawing", "Watercolor painting", "Graphite", "Ink", "Plywood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Renato_Guttuso",
-    "urlGoogle": "https://artsandculture.google.com/entity/renato-guttuso/m09s0_x"
+    "quote": "“It is the first time in my life that I have not been able to do anything. I am in a bad state of mind and I am demoralized, and that influences me. I have only [made] seven canvases. I am sorry. I wanted to leave Cagnes, this landscape that I cannot endure. I even went for a few days to Cap Martin, where I thought of settling down. It displeased me. I had to rub out the canvases I started.. .I am in Cagnes again, against my will, where, instead of landscapes, I shall be forced to do some miserable still lifes. You will understand in what a state of indecision I am. Can't you suggest some place for me? Because, several times I have had the intention of returning to Paris.”",
+    "movements": ["Modern art", "School of Paris", "Expressionism", "Modernism"],
+    "mediums": ["Oil paint", "Cardboard"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Chaim_Soutine",
+    "urlGoogle": "https://artsandculture.google.com/entity/chaim-soutine/m0gz_k"
   },
   "event": {
-    "id": "battle-of-steenbergen",
-    "name": "Battle of Steenbergen",
-    "dates": null,
-    "mainImg": "img/events/battle-of-steenbergen.jpg",
+    "id": "western-desert-campaign",
+    "name": "Western Desert campaign",
+    "dates": "Jun 11, 1940 - Feb 4, 1943",
+    "mainImg": "img/events/western-desert-campaign.jpg",
     "summary": [
-      "The Battle of Steenbergen, also known as the Capture of Steenbergen of 1583, took place on 17 June 1583 at Steenbergen, Duchy of Brabant, Spanish Netherlands. This was an important victory to the Spanish Army of Flanders led by Don Alexander Farnese, Prince of Parma, Governor-General of the Spanish Netherlands, over the French, English, and Dutch forces led by the French Marshal Armand de Gontaut, Baron de Biron, and the English commander Sir John Norreys, during the Eighty Years' War, the Anglo-Spanish War, and in the context of the French Wars of Religion. The victory of the Spaniards ended the Treaty of Plessis-les-Tours, and Francis, Duke of Anjou, left the Netherlands in late June."
+      "The Western Desert campaign, took place in the deserts of Egypt and Libya and was the main theatre in the North African campaign of the Second World War. Military operations began in June 1940 with the Italian declaration of war and the Italian invasion of Egypt in September. Operation Compass, a British five-day raid in December 1940, led to the destruction of the Italian 10th Army. Benito Mussolini sought help from Adolf Hitler, who sent a small German force to Tripoli under Directive 22. The Afrika Korps was formally under Italian command as Italy was the main Axis power in the Mediterranean and North Africa.",
+      "In the spring of 1941, Rommel led Operation Sonnenblume which pushed the British back to Egypt except for the Siege of Tobruk at the port. At the end of 1941 the Axis forces were defeated in Operation Crusader and retired again to El Agheila. In early 1942 Axis forces drove the British back again, then captured Tobruk after the Battle of Gazala but failed to destroy their opponents."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Steenbergen_%281583%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-steenbergen/m0y6482d"
+    "urlWiki": "https://en.wikipedia.org/wiki/Western_Desert_campaign",
+    "urlGoogle": "https://artsandculture.google.com/entity/western-desert-campaign/m03w6sj"
   },
   "funFacts": [
     {
-      "id": "64",
-      "fact": "Strawberries contain more vitamin C than oranges.",
-      "category": ["Food"]
+      "id": "489",
+      "fact": "To keep an ice cream cone from dripping, stuff a miniature marshmallow into the bottom of the cone.",
+      "category": ["Food", "Make-it-Easies"]
     },
     {
-      "id": "997",
-      "fact": "Gentoo penguins propose to their life mates with a pebble.",
-      "category": ["Animals", "Habits"]
+      "id": "661",
+      "fact": "Pigs were banished from Philadelphia's city streets in 1710.",
+      "category": ["Animals", "History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553928",
-      "fact": "The 100 folds in a chef’s toque are said to represent 100 ways to cook an egg."
+      "id": "554086",
+      "fact": "The ancestor of the modern chainsaw was invented to facilitate childbirth."
     }
   ],
   "idiom": {
-    "id": "run-to-seed",
-    "term": "run to seed",
-    "definition": "Also, **go to seed.** Become devitalized or worn out; deteriorate, as in *I went back to visit my old elementary school, and sadly, it has really run to seed,* or *The gold medalist quickly went to seed after he left competition.* This term alludes to plants that, when allowed to set seed after flowering, either taste bitter, as in the case of lettuce, or do not send out new buds, as is true of annual flowers. Its figurative use dates from the first half of the 1800s."
+    "id": "long-in-the-tooth",
+    "term": "long in the tooth",
+    "definition": "Getting on in years, old, as in *Aunt Aggie's a little long in the tooth to be helping us move.* This expression alludes to a horse's gums receding with age and making the teeth appear longer. [Mid-1800s]"
   },
   "person": {
-    "id": "william-wellesley-pole-3-rd-earl-of-mornington",
-    "name": "William Wellesley-Pole, 3rd Earl of Mornington",
-    "dates": "May 20, 1763 - Feb 22, 1845",
-    "mainImg": "img/people/william-wellesley-pole-3-rd-earl-of-mornington.jpg",
+    "id": "dilip-kumar",
+    "name": "Dilip Kumar",
+    "dates": "Born Dec 11, 1922",
+    "mainImg": "img/people/dilip-kumar.jpg",
     "summary": [
-      "William Wellesley-Pole, 3rd Earl of Mornington, GCH, PC, PC, known as Lord Maryborough between 1821 and 1842, was an Anglo-Irish politician and an elder brother of the Duke of Wellington. His surname changed twice: he was born with the name Wesley, which he changed to Wesley-Pole following an inheritance in 1781. In 1789 the spelling was updated to Wellesley-Pole, just as other members of the family had changed Wesley to Wellesley."
+      "Muhammad Yusuf Khan, known professionally as Dilip Kumar, is an actor, producer and philanthropist, who was later elected to India's parliament. Popularly known as The Tragedy King and The First Khan, he has been credited with bringing realism to film acting since his first film. He is also one of the most successful stars in the history of indian cinema.",
+      "Kumar debuted as an actor in the film Jwar Bhata, produced by Bombay Talkies. In a career spanning over five decades, Kumar worked in over 65 films. Kumar is known for roles in films such as the romantic Andaz, the heartwarming Babul, the impassioned Deedar, the swashbuckling Aan, social drama Daag, the dramatic Devdas, the comical Azaad, Naya Daur, Yahudi, Madhumati, Kohinoor, the epic historical Mughal-e-Azam, the social dacoit crime drama Gunga Jamuna, and the comedy Ram Aur Shyam.",
+      "In 1976, Kumar took a five-year break from film performances and returned with a character role in the film Kranti and continued his career playing leading roles in films such as Shakti, Mashaal, Karma and Saudagar. His last film was Qila.",
+      "He has won nine Filmfare Awards and is the first recipient of the Filmfare Best Actor Award."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/William_Wellesley-Pole,_3rd_Earl_of_Mornington",
-    "urlGoogle": "https://artsandculture.google.com/entity/william-wellesley-pole-3rd-earl-of-mornington/m03ttlz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Dilip_Kumar",
+    "urlGoogle": "https://artsandculture.google.com/entity/dilip-kumar/m023sng"
   },
   "place": {
-    "id": "como",
-    "name": "Como",
-    "mainImg": "img/places/como.jpg",
+    "id": "sierra-leone",
+    "name": "Sierra Leone",
+    "mainImg": "img/places/sierra-leone.jpg",
     "summary": [
-      "Como is a city and comune in Lombardy, Italy. It is the administrative capital of the Province of Como.",
-      "Its proximity to Lake Como and to the Alps has made Como a tourist destination, and the city contains numerous works of art, churches, gardens, museums, theatres, parks and palaces: the Duomo, seat of the Diocese of Como; the Basilica of Sant'Abbondio; the Villa Olmo; the public gardens with the Tempio Voltiano; the Teatro Sociale; the Broletto or the city's medieval town hall; and the 20th century Casa del Fascio.",
-      "With 215,320 overnight guests, in 2013 Como was the fourth most visited city in Lombardy after Milan, Bergamo and Brescia. In 2018, Como surpassed Bergamo becoming the third most visited city in Lombardy with 1.4 million arrivals.",
-      "Como was the birthplace of many historical figures, including the poet Caecilius mentioned by Catullus in the 1st century BCE, writers Pliny the Elder and Pliny the Younger, Pope Innocent XI, scientist Alessandro Volta, and Cosima Liszt, second wife of Richard Wagner and long-term director of the Bayreuth Festival, and Antonio Sant'Elia, Futurist architect and pioneer of the modern movement."
+      "Sierra Leone, officially the Republic of Sierra Leone, informally Salone, is a country on the southwest coast of West Africa. It is bordered by Liberia to the southeast and Guinea to the northeast. Sierra Leone has a tropical climate with a diverse environment ranging from savanna to rainforests, a total area of 71,740 km² and a population of 7,092,113 as of the 2015 census. The capital and largest city is Freetown. The country is divided into five administrative regions which are subdivided into sixteen districts.",
+      "Sierra Leone achieved independence from Britain on 27 April 1961, and Milton Margai became the first Prime Minister. Margai's political party was the Sierra Leone People's Party, under the leadership of Albert Margai, narrowly lost the 1967 Sierra Leone parliamentary elections to the main opposition party of the All People's Congress led by Siaka Stevens.",
+      "Stevens was a political strongman who ruled Sierra Leone from 1967 to 1985 when he retired from politics due to poor health. On 19 April 1971, Stevens' government abolished Sierra Leone's parliamentary system and declared Sierra Leone a presidential republic."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Como",
-    "urlGoogle": "https://artsandculture.google.com/entity/como/m0ggyr"
+    "urlWiki": "https://en.wikipedia.org/wiki/Sierra_Leone",
+    "urlGoogle": "https://artsandculture.google.com/entity/sierra-leone/m06s_2"
   },
   "wiki": {
-    "id": "european-commission",
-    "name": "European Commission",
-    "summary": "The European Commission is the executive branch of the European Union. The body is responsible for proposing legislation, implementing decisions, upholding the Union's treaties and the general day-to-day running of the Union. The Commission operates in the method of cabinet government, with 27 Commissioners. There is one Commissioner per member state, however Commissioners are bound to represent the interests of the EU as a whole rather than their home state. One of the 27 is the Commission President (currently José Manuel Barroso) appointed by the European Council with the approval of the European Parliament. The present Barroso Commission took office in late 2004 and is serving a five-year term. The term \"Commission\" can mean either the college of Commissioners mentioned above, or the larger institution; including the administrative body of about 25,000 European civil servants who are divided into departments called Directorates-General. It is primarily based in the Berlaymont building of Brussels and its internal working languages are English, French and German.",
-    "url": "https://en.wikipedia.org/wiki/European_Commission"
+    "id": "sydney-roosters",
+    "name": "Sydney Roosters",
+    "summary": "The Sydney Roosters are a professional rugby league club based in the Eastern Suburbs of Sydney, Australia. They play in the National Rugby League and are one of the most successful clubs in Australian rugby league, having won twelve New South Wales Rugby League and National Rugby League titles. The side holds the longest winning streak (nineteen) and the second largest margin of victory (87–7) in league history. The club was founded in 1908 in Paddington, Sydney, under the name \"Eastern Suburbs\"; in 1994, the name was changed to the \"Sydney City Roosters\", and in 2000 to just the \"Sydney Roosters\". The Bondi Junction-based Roosters have a long-standing and fierce rivalry with the South Sydney Rabbitohs from Redfern, who are, along with the Sydney Roosters, the only remaining foundation club in the National Rugby League.",
+    "url": "https://en.wikipedia.org/wiki/Sydney_Roosters"
   },
   "word": {
-    "id": "gelid",
-    "word": "gelid",
-    "url": "https://www.merriam-webster.com/dictionary/gelid",
-    "partOfSpeech": "adjective",
-    "pronunciation": "JELL-id",
-    "audioPath": "audio/words/gelid.mp3",
-    "definitions": ["extremely cold : icy"],
+    "id": "incarcerate",
+    "word": "incarcerate",
+    "url": "https://www.merriam-webster.com/dictionary/incarcerate",
+    "partOfSpeech": "verb",
+    "pronunciation": "in-KAHR-suh-rayt",
+    "audioPath": "audio/words/incarcerate.mp3",
+    "definitions": ["to put in prison", "to subject to confinement"],
     "examples": [
-      "The rescue team braved gelid conditions as they searched the mountain for the lost climber."
+      "Because the accused man presented a serious threat to society, the judge ordered that he remain _incarcerated_ while he awaited trial.",
+      "\"In a rare instance of bipartisanship, Congress over the past year called for 'smart criminal justice reform.' To make that happen, Congress must change laws that unnecessarily _incarcerate_ hundreds of thousands of Americans.\" - From an opinion piece by Bill Strizich in the _Great Falls Tribune_ (Montana), September 9, 2013"
     ],
-    "origin": "\"Gelid\" first appeared in English late in the 16th century, coming to our language from Latin \"gelidus,\" which ultimately derives from the noun \"gelu,\" meaning \"frost\" or \"cold.\" (Our noun \"gelatin,\" which can refer to an edible jelly that undergoes a cooling process as part of its formation, comes from a related Latin word: \"gelare,\" meaning \"to freeze.\") \"Gelid\" is used in English to describe anything of extremely cold temperature (as in \"the gelid waters of the Arctic Ocean\"), but the word can also be used figuratively to describe a person with a cold demeanor (as in \"the criminal's gelid stare\")."
+    "origin": "A criminal sentenced to incarceration may wish his or her debt to society could be canceled, but such a wistful felon might be surprised to learn that \"incarcerate\" and \"cancel\" are related. \"Incarcerate\" comes from \"incarcerare,\" a Latin verb meaning \"to imprison.\" That Latin root comes from \"carcer,\" Latin for \"prison.\" Etymologists think that \"cancel\" probably got its start when the spelling of \"carcer\" was modified to \"cancer,\" which means \"lattice\" in Latin-an early meaning of \"cancel\" in English was \"to mark (a passage) for deletion with lines crossed like a lattice.\" Aside from its literal meaning, \"incarcerate\" can also have a figurative application meaning \"to subject to confinement,\" as in \"people who are incarcerated in their obsessions.\""
   }
 }

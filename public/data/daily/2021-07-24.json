@@ -1,139 +1,129 @@
 {
   "artist": {
-    "id": "hieronymus-bosch",
-    "name": "Hieronymus Bosch",
-    "dates": "Died Aug 9, 1516",
-    "mainImg": "img/art/artists/hieronymus-bosch.jpg",
+    "id": "pierre-auguste-renoir",
+    "name": "Pierre-Auguste Renoir",
+    "dates": "Feb 25, 1841 - Dec 3, 1919",
+    "mainImg": "img/art/artists/pierre-auguste-renoir.jpg",
     "artworkImgs": [
       {
-        "name": "Saint Christopher",
-        "path": "img/art/artworks/hieronymus-bosch-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-christopher/MQFoX8Ff_UgzqA"
+        "name": "La Promenade",
+        "path": "img/art/artworks/pierre-auguste-renoir-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/la-promenade-pierre-auguste-renoir/ugEArpShIQma-g"
       },
       {
-        "name": "Christ Mocked (The Crowning with Thorns)",
-        "path": "img/art/artworks/hieronymus-bosch-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/christ-mocked-the-crowning-with-thorns-hieronymus-bosch/tgEYBOMT1BeBzw"
+        "name": "Luncheon of the Boating Party",
+        "path": "img/art/artworks/pierre-auguste-renoir-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/luncheon-of-the-boating-party-pierre-auguste-renoir/mgHsTKDNJVzPAg"
       },
       {
-        "name": "The Pedlar",
-        "path": "img/art/artworks/hieronymus-bosch-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-pedlar/aQEkh0Mf0Pd3mg"
+        "name": "La Grenouillère",
+        "path": "img/art/artworks/pierre-auguste-renoir-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/la-grenouillère-auguste-renoir/HgHrOyFUfcFtLw"
       },
       {
-        "name": "Ecce Homo",
-        "path": "img/art/artworks/hieronymus-bosch-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/ecce-homo-hieronymus-bosch/DQFFBFYxlip-xw"
+        "name": "The Dance in the Country",
+        "path": "img/art/artworks/pierre-auguste-renoir-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-dance-in-the-country-pierre-auguste-renoir/SgGzLuzrtF86Ow"
       },
       {
-        "name": "Saint John the Baptist in the Desert",
-        "path": "img/art/artworks/hieronymus-bosch-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-john-the-baptist-in-the-desert-aeken-hieronymus-van-el-bosco/EwF_G8DKhG3P-A"
+        "name": "Girl Reading",
+        "path": "img/art/artworks/pierre-auguste-renoir-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/girl-reading-pierre-auguste-renoir/ZgEkdK6V-__Dsg"
       },
       {
-        "name": "Death and the Miser",
-        "path": "img/art/artworks/hieronymus-bosch-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/death-and-the-miser/xQFMnR3xQTylpA"
+        "name": "Woman with a Parasol in a Garden",
+        "path": "img/art/artworks/pierre-auguste-renoir-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-with-a-parasol-in-a-garden-pierre-auguste-renoir/QgG22OXaJoXDaw"
       }
     ],
     "summary": [
-      "Hieronymus Bosch was a Dutch/Netherlandish painter from Brabant. He is one of the most notable representatives of the Early Netherlandish painting school. His work contains fantastic illustrations of religious concepts and narratives. Within his lifetime his work was collected in the Netherlands, Austria, and Spain, and widely copied, especially his macabre and nightmarish depictions of hell.",
-      "Little is known of Bosch's life, though there are some records. He spent most of it in the town of 's-Hertogenbosch, where he was born in his grandfather's house. The roots of his forefathers are in Nijmegen and Aachen. His pessimistic and fantastical style cast a wide influence on northern art of the 16th century, with Pieter Bruegel the Elder being his best-known follower. Today he is seen as a hugely individualistic painter with deep insight into humanity's desires and deepest fears. Attribution has been especially difficult; today only about 25 paintings are confidently given to his hand along with eight drawings. About another half dozen paintings are confidently attributed to his workshop."
+      "Pierre-Auguste Renoir, commonly known as Auguste Renoir, was a French artist who was a leading painter in the development of the Impressionist style. As a celebrator of beauty and especially feminine sensuality, it has been said that \"Renoir is the final representative of a tradition which runs directly from Rubens to Watteau.\"",
+      "He was the father of actor Pierre Renoir, filmmaker Jean Renoir and ceramic artist Claude Renoir. He was the grandfather of the filmmaker Claude Renoir, son of Pierre."
     ],
-    "quote": "“For poor is the mind that always uses the ideas of others and invents none of its own”",
-    "movements": [
-      "Renaissance",
-      "Northern Renaissance",
-      "Dutch and Flemish Renaissance painting",
-      "Street art"
-    ],
-    "mediums": ["Oil paint", "Wood", "Ink", "Oak", "Pen", "Drawing"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Hieronymus_Bosch",
-    "urlGoogle": "https://artsandculture.google.com/entity/hieronymus-bosch/m0cdn_"
+    "quote": "“It is after you have lost your teeth that you can afford to buy steaks.”",
+    "movements": ["Modern art", "Impressionism", "Les Nabis"],
+    "mediums": ["Oil paint", "Etching", "Ink", "Drawing", "Laid paper", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir",
+    "urlGoogle": "https://artsandculture.google.com/entity/pierre-auguste-renoir/m06466"
   },
   "event": {
-    "id": "hundred-days-offensive",
-    "name": "Hundred Days Offensive",
-    "dates": "Aug 8, 1918 - Nov 11, 1918",
-    "mainImg": "img/events/hundred-days-offensive.jpg",
+    "id": "dwight-d-eisenhower-1953-presidential-inauguration",
+    "name": "Dwight D. Eisenhower 1953 presidential inauguration",
+    "dates": null,
+    "mainImg": "img/events/dwight-d-eisenhower-1953-presidential-inauguration.jpg",
     "summary": [
-      "The Hundred Days Offensive was a series of massive Allied offensives which ended the First World War. Beginning with the Battle of Amiens on the Western Front, the Allies pushed the Central Powers back, undoing their gains from the Spring Offensive. The Germans retreated to the Hindenburg Line, but the Allies broke through the line with a series of victories, starting with the Battle of St Quentin Canal on 29 September. The offensive, together with a revolution breaking out in Germany, led to the Armistice of 11 November 1918 which ended the war with an Allied victory. The term \"Hundred Days Offensive\" does not refer to a battle or strategy, but rather the rapid series of Allied victories against which the German armies had no reply."
+      "The first inauguration of Dwight D. Eisenhower as the 34th President of the United States was held on Tuesday, January 20, 1953 at the East Portico of the United States Capitol in Washington, D.C. This was the 42nd inauguration and marked the commencement of the first term of Dwight D. Eisenhower as President and of Richard Nixon as Vice President. Chief Justice Fred M. Vinson administered the presidential oath of office to Eisenhower. The vice-presidential oath was administered to Nixon by Senator William Knowland.",
+      "Eisenhower placed his hand on two Bibles when he recited the oath: the Bible used by George Washington in 1789, opened to II Chronicles 7:14; and his own personal \"West Point Bible,\" opened to Psalm 33:12. Afterward, he recited his own prayer, rather than kissing the Bible."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Hundred_Days_Offensive",
-    "urlGoogle": "https://artsandculture.google.com/entity/hundred-days-offensive/m04t4zz"
+    "urlWiki": "https://en.wikipedia.org/wiki/First_inauguration_of_Dwight_D._Eisenhower",
+    "urlGoogle": "https://artsandculture.google.com/entity/dwight-d-eisenhower-1953-presidential-inauguration/m05brw1c"
   },
   "funFacts": [
     {
-      "id": "995",
-      "fact": "A group of flamingos is called a flamboyance.",
-      "category": ["Animals", "Definitions"]
+      "id": "400",
+      "fact": "About 80 women go into labor on NYC subways every year.",
+      "category": ["Habits"]
     },
     {
-      "id": "267",
-      "fact": "Double Dutch jump rope is considered a cross-training sport.",
-      "category": ["Hodgepodge"]
+      "id": "337",
+      "fact": "Farmington, Maine celebrates Chester Greenwood Day to honor the inventor of earmuffs.",
+      "category": ["Geography", "History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554009",
-      "fact": "In Colombia, \u0003dried ants replace popcorn as the typical movie theater snack."
+      "id": "553639",
+      "fact": "A “contronym” is a word that’s its own opposite. For example: If you seed the lawn you add seeds, but if you seed a tomato you remove them."
     }
   ],
   "idiom": {
-    "id": "the-whole-nine-yards",
-    "term": "the whole nine yards",
-    "definition": "Everything that is relevant; the whole thing. For example, *He decided to take everything to college---his books, his stereo, his computer, his skis, the whole nine yards.* The source of this expression is not known, but there are several possibilities: the amount of cloth required to make a complete suit of clothes; the fully set sails of a three-masted ship where each mast carries three yards, that is, spars, to support the sails; or the amount of cement (in cubic yards) contained in a cement mixer for a big construction job. [Colloquial]"
+    "id": "greasy-spoon",
+    "term": "greasy spoon",
+    "definition": "A cheap restaurant, especially one serving short-order fried foods. For example, *College students short of cash tend to eat a lot in that greasy spoon.* This expression also implies that the restaurant is not very clean. [c. 1900]"
   },
   "person": {
-    "id": "melania-trump",
-    "name": "Melania Trump",
-    "dates": "Born Apr 26, 1970",
-    "mainImg": "img/people/melania-trump.jpg",
+    "id": "pachacuti",
+    "name": "Pachacuti",
+    "dates": "1418 - 1471",
+    "mainImg": "img/people/pachacuti.jpg",
     "summary": [
-      "Melania Trump is a Slovenian-American former model and businesswoman and the current first lady of the United States, as the wife of the 45th president of the United States Donald Trump.",
-      "Melanija Knavs was born in Novo Mesto, and grew up in Sevnica, in the Yugoslav republic of Slovenia. She worked as a fashion model through agencies in Milan and Paris, and moved to New York City in 1996. Her modeling career was associated with Irene Marie Models and Trump Model Management.",
-      "In 2001, Knavs became a permanent resident of the United States. She married Donald Trump in 2005 and obtained U.S. citizenship in 2006. She is the second first lady, after Louisa Adams, born outside the United States, the first one to be a naturalized citizen and the first whose native language is not English."
-    ],
-    "quote": "“I don't follow what is in fashion now; I just listen to myself and what I like... I wait for the right occasion or see how I feel each day.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Melania_Trump",
-    "urlGoogle": "https://artsandculture.google.com/entity/melania-trump/m04hfnv"
-  },
-  "place": {
-    "id": "lansing",
-    "name": "Lansing",
-    "mainImg": "img/places/lansing.jpg",
-    "summary": [
-      "Lansing is the capital of the U.S. state of Michigan. It is mostly in Ingham County, although portions of the city extend west into Eaton County and north into Clinton County. The 2010 Census placed the city's population at 114,297, making it the fifth largest city in Michigan. The population of its Metropolitan Statistical Area was 464,036, while the even larger Combined Statistical Area population, which includes Shiawassee County, was 534,684. It was named the new state capital of Michigan in 1847, ten years after Michigan became a state.",
-      "The Lansing metropolitan area, colloquially referred to as \"Mid-Michigan\", is an important center for educational, cultural, governmental, commercial, and industrial functions. Neighboring East Lansing is home to Michigan State University, a public research university with an enrollment of more than 50,000. The area features two medical schools, one veterinary school, two nursing schools, and two law schools. It is the site of the Michigan State Capitol, the state Supreme Court, the Court of Appeals, a federal court, the Library of Michigan and Historical Center, and headquarters of four national insurance companies."
+      "Pachacuti Inca Yupanqui was the ninth Sapa Inca of the Kingdom of Cusco which he transformed into the Inca Empire. Most archaeologists now believe that the famous Inca site of Machu Picchu was built as an estate for Pachacuti.",
+      "In Quechua Pachakutiq means \"he who overturns space and time\", and Yupanki means \"with honor\". During his reign, Cusco grew from a hamlet into an empire that could compete with, and eventually overtake, the Chimú. He began an era of conquest that, within three generations, expanded the Inca dominion from the valley of Cusco to nearly the whole of western South America. According to chronicler Garcilaso de la Vega, Pachacuti created the Inti Raymi to celebrate the new year in the Andes of the Southern Hemisphere. Pachacuti is often linked to the origin and expansion of the Inti Sun Cult."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Lansing,_Michigan",
-    "urlGoogle": "https://artsandculture.google.com/entity/lansing/m04pry"
+    "urlWiki": "https://en.wikipedia.org/wiki/Pachacuti",
+    "urlGoogle": "https://artsandculture.google.com/entity/pachacuti/m02b8cc"
+  },
+  "place": {
+    "id": "vladivostok",
+    "name": "Vladivostok",
+    "mainImg": "img/places/vladivostok.jpg",
+    "summary": [
+      "Vladivostok is a city and the administrative centre of the Far Eastern Federal District and Primorsky Krai, Russia, located around the Golden Horn Bay, not far from Russia's borders with China and North Korea. The population of the city as of 2019 was 605,049 up from 592,034 recorded in the 2010 Russian census. Harbin in China is about 515 kilometres away, while Sapporo in Japan is about 775 kilometres east across the Sea of Japan.",
+      "The city is the home port of the Russian Pacific Fleet and is the largest Russian port on the Pacific coast."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Vladivostok",
+    "urlGoogle": "https://artsandculture.google.com/entity/vladivostok/m0fd_x"
   },
   "wiki": {
-    "id": "guy-bradley",
-    "name": "Guy Bradley",
-    "summary": "Guy Bradley (1870–1905) was an American game warden and deputy sheriff for Monroe County, Florida. Born in Chicago, his family relocated to Florida when he was young. As a boy, he often served as guide to visiting fishermen and plume hunters, although he later denounced poaching after legislation was passed to protect the dwindling number of birds. In 1902, Bradley was hired by the American Ornithologists' Union, at the request of the Florida Audubon Society, to become one of the country's first game wardens. Tasked with protecting the area's wading birds from hunters, he patrolled the area stretching from Florida's west coast, through the Everglades, to Key West, single-handedly enforcing the ban on bird hunting. Bradley was shot and killed in the line of duty, after confronting a man and his two sons who were hunting egrets in the Everglades. His much-publicized death at the age of 35 galvanized conservationists, and served as inspiration for future legislation to protect Florida's bird populations. Several national awards and places have been named in his honor.",
-    "url": "https://en.wikipedia.org/wiki/Guy_Bradley"
+    "id": "tropical-storm-keith-1988",
+    "name": "Tropical Storm Keith (1988)",
+    "summary": "Tropical Storm Keith, the eleventh tropical storm of the 1988 season, was the latest North Atlantic tropical cyclone in the calendar year to strike the Continental United States since the 1925 season. Keith developed out of a tropical wave in the Caribbean Sea on November 17 and reached a peak intensity of 70 mph (110 km/h) shortly before striking the northeastern tip of the Yucatán Peninsula. It turned northeastward in the Gulf of Mexico, and made landfall near Sarasota, Florida, on November 23. Keith became extratropical near Bermuda on November 24. The extratropical remnant persisted for two more days. Keith produced moderate to heavy rainfall in Honduras, Jamaica, and Cuba. Minimal damage was reported in Mexico. The last of four named North Atlantic hurricanes to hit the United States during the season, Keith produced moderate rainfall, rough storm surge, and gusty winds across central Florida. Overall damage was fairly minor but widespread, totaling $7.3 million. Near the coast of Florida, damage occurred mainly from storm surge and beach erosion. Further inland there were floods, downed trees and power lines. No fatalities were reported.",
+    "url": "https://en.wikipedia.org/wiki/Tropical_Storm_Keith_(1988)"
   },
   "word": {
-    "id": "sedentary",
-    "word": "sedentary",
-    "url": "https://www.merriam-webster.com/dictionary/sedentary",
-    "partOfSpeech": "adjective",
-    "pronunciation": "SED-un-tair-ee",
-    "audioPath": "audio/words/sedentary.mp3",
-    "definitions": [
-      "not migratory : settled",
-      "doing or requiring much sitting",
-      "not physically active",
-      "permanently attached"
-    ],
+    "id": "jacquerie",
+    "word": "jacquerie",
+    "url": "https://www.merriam-webster.com/dictionary/jacquerie",
+    "partOfSpeech": "noun",
+    "pronunciation": "zhah-kuh-REE",
+    "audioPath": "audio/words/jacquerie.mp3",
+    "definitions": ["a peasants' revolt"],
     "examples": [
-      "Jerry worried that he was becoming physically unfit after taking a sedentary desk job."
+      "\"In light of inadequate social safety nets and the probability of further economic turndowns, the regime's fear of an anti-government jacquerie is not far-fetched.\" (David Aikman, _The American Spectator_, March 2000)"
     ],
-    "origin": "English speakers borrowed \"sedentary\" in the late 16th century from Middle French \"sedentaire,\" which in turn derives from Latin \"sedentarius.\" \"Sedentarius,\" which means \"of one that sits,\" is from the present participle of the verb \"sedēre,\" meaning \"to sit.\" Other descendants of \"sedēre\" in English include \"dissident,\" \"insidious,\" \"preside,\" \"reside,\" and \"subsidy.\" \"Sedēre\" is also the base of the rare word \"sedens,\" a noun meaning \"a person who remains a resident of the place or region of his birth.\""
+    "origin": "The first jacquerie was an insurrection of peasants against the nobility in northeastern France in 1358, so-named from the nobles' habit of referring contemptuously to any peasant as \"Jacques,\" or \"Jacques Bonhomme.\" It took some time -- 150 years -- for the name of the first jacquerie to become a generalized term for other revolts. The term is also occasionally used to refer to the peasant class, as when Madame Defarge in Dickens' _A Tale of Two Cities_ tells her husband to \"consider the faces of all the world that we know, consider the rage and discontent to which the Jacquerie addresses itself with more and more of certainty every hour.\""
   }
 }

@@ -1,127 +1,134 @@
 {
   "artist": {
-    "id": "diego-velazquez",
-    "name": "Diego Velázquez",
-    "dates": "1599 - Aug 6, 1660",
-    "mainImg": "img/art/artists/diego-velazquez.jpg",
+    "id": "takashi-murakami",
+    "name": "Takashi Murakami",
+    "dates": "Born Feb 1, 1962",
+    "mainImg": "img/art/artists/takashi-murakami.jpg",
     "artworkImgs": [
       {
-        "name": "Infanta Margarita Teresa in a Blue Dress",
-        "path": "img/art/artworks/diego-velazquez-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/infanta-margarita-teresa-in-a-blue-dress-diego-rodriguez-de-silva-y-velázquez/pAHSoRgE1VSx2w"
+        "name": "Untitled (clod)",
+        "path": "img/art/artworks/takashi-murakami-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-clod-hinoda-takashi/jAEOLBDqBUwtkQ"
       },
       {
-        "name": "An Old Woman Cooking Eggs",
-        "path": "img/art/artworks/diego-velazquez-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/an-old-woman-cooking-eggs-diego-velazquez/yAExwHvTwQkv1Q"
+        "name": "Pool of Fingerprints",
+        "path": "img/art/artworks/takashi-murakami-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/pool-of-fingerprints-euclid-masahiko-sato-b-1954-japan-takashi-kiriyama-b-1964-japan-photo-nils-clauss/3QFOuTs1A3KWKg"
       },
       {
-        "name": "The Needlewoman",
-        "path": "img/art/artworks/diego-velazquez-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-needlewoman-diego-velázquez/VwGJCVvaIy-huQ"
+        "name": "Murakami Rigid Box \"Hands\" - hand signed; \"MoCA\"",
+        "path": "img/art/artworks/takashi-murakami-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/murakami-rigid-box-hands-hand-signed-moca-takashi-murakami/4wFPmfe83t8AFw"
       },
       {
-        "name": "Pope Innocent X",
-        "path": "img/art/artworks/diego-velazquez-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/pope-innocent-x-circle-of-diego-velázquez/LgHYIz1SEoTCDw"
+        "name": "Takashi Murakami cosmetic cases with Louis Vuitton",
+        "path": "img/art/artworks/takashi-murakami-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/takashi-murakami-cosmetic-cases-with-louis-vuitton-takashi-murakami/XgGd82Tlso4_DA"
       },
       {
-        "name": "Tavern Scene with Two Men and a Girl",
-        "path": "img/art/artworks/diego-velazquez-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/tavern-scene-with-two-men-and-a-girl-diego-rodríguez-de-silva-y-velázquez/1wH_QdB4p4ALMw"
+        "name": "Pool of Fingerprints/details",
+        "path": "img/art/artworks/takashi-murakami-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/pool-of-fingerprints-details-euclid-masahiko-sato-b-1954-japan-takashi-kiriyama-b-1964-japan-photo-nils-clauss/5wFQwxv-NfIYxw"
       },
       {
-        "name": "The Three Musicians",
-        "path": "img/art/artworks/diego-velazquez-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-three-musicians-diego-velázquez/VgG9uyYlMjQ8DQ"
+        "name": "Hasubi Defeats a Giant Tiger",
+        "path": "img/art/artworks/takashi-murakami-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/hasubi-defeats-a-giant-tiger-takashi-kitamura/LAEAda0je4UWNA"
       }
     ],
     "summary": [
-      "Diego Rodríguez de Silva y Velázquez was a Spanish painter, the leading artist in the court of King Philip IV and of the Spanish Golden Age. He was an individualistic artist of the contemporary Baroque period. He began to paint in a precise tenebrist style, later developing a freer manner characterized by bold brushwork. In addition to numerous renditions of scenes of historical and cultural significance, he painted scores of portraits of the Spanish royal family and commoners, culminating in his masterpiece Las Meninas.",
-      "Velázquez's artwork became a model for 19th century realist and impressionist painters. In the 20th century, artists such as Pablo Picasso, Salvador Dalí and Francis Bacon paid tribute to Velázquez by re-interpreting some of his most iconic images."
+      "Takashi Murakami is a Japanese contemporary artist. He works in fine arts media as well as commercial media and is known for blurring the line between high and low arts. He coined the term \"superflat\", which describes both the aesthetic characteristics of the Japanese artistic tradition and the nature of post-war Japanese culture and society, and is also used for Murakami's artistic style and other Japanese artists he has influenced.",
+      "Murakami is the founder and President of Kaikai Kiki Co., Ltd., through which he manages several younger artists. He was the founder and organizer of the biannual art fair Geisai."
     ],
-    "quote": "“I would rather be the first painter of common things than second in higher art.”",
-    "movements": ["Baroque", "Antwerp school", "Street art"],
-    "mediums": ["Oil paint", "Engraving", "Watercolor painting", "Laid paper", "Drawing", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez",
-    "urlGoogle": "https://artsandculture.google.com/entity/diego-velázquez/m0k92y"
+    "quote": "“I always have stress.”",
+    "movements": ["Contemporary art", "Pop art"],
+    "mediums": ["Rock", "Stoneware", "Leather", "Clay"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Takashi_Murakami",
+    "urlGoogle": "https://artsandculture.google.com/entity/takashi-murakami/m049nxt"
   },
   "event": {
-    "id": "pan-american-exposition",
-    "name": "Pan-American Exposition",
-    "dates": "May 1, 1901 - Nov 2, 1901",
-    "mainImg": "img/events/pan-american-exposition.jpg",
+    "id": "rif-war",
+    "name": "Rif War",
+    "dates": "1920 - 1926",
+    "mainImg": "img/events/rif-war.jpg",
     "summary": [
-      "The Pan-American Exposition was a World's Fair held in Buffalo, New York, United States, from May 1 through November 2, 1901. The fair occupied 350 acres of land on the western edge of what is now Delaware Park, extending from Delaware Avenue to Elmwood Avenue and northward to Great Arrow Avenue. It is remembered today primarily for being the location of the assassination of United States President William McKinley at the Temple of Music on September 6, 1901. The exposition was illuminated at night. Thomas A. Edison, Inc. filmed it during the day and a pan of it at night."
+      "The Rif War was an armed conflict fought from 1911 to 1927 between the colonial power Spain and the Berber tribes of the Rif mountainous region of Morocco. Led by Abd el-Krim, the Riffians at first inflicted several defeats on the Spanish forces by using guerrilla tactics and captured European weapons. After France's military intervention against Abd el-Krim's forces and the major landing of Spanish troops at Al Hoceima, considered the first amphibious landing in history to involve the use of tanks and aircraft, Abd el-Krim surrendered to the French and was taken into exile.",
+      "In 1909, Rifian tribes aggressively confronted Spanish workers of the iron mines of the Rif, near Melilla, which led to the intervention of the Spanish Army. The military operations in Jebala, in the Moroccan West, began in 1911 with the Larache Landing. Spain worked to pacify a large part of the most violent areas until 1914, a slow process of consolidation of frontiers that lasted until 1919 due to World War I.",
+      "The following year, after the signing of the Treaty of Fez, the northern Moroccan area was adjudicated to Spain as a protectorate."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Pan-American_Exposition",
-    "urlGoogle": "https://artsandculture.google.com/entity/pan-american-exposition/m01g83d"
+    "urlWiki": "https://en.wikipedia.org/wiki/Rif_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/rif-war/m0fc6xt"
   },
   "funFacts": [
-    { "id": "61", "fact": "Pigs can get sunburn.", "category": ["Animals"] },
-    { "id": "819", "fact": "Children grow faster during springtime.", "category": ["Anatomy"] }
+    {
+      "id": "834",
+      "fact": "Right handed people tend to chew food on the right side and lefties chew on the left.",
+      "category": ["Habits"]
+    },
+    { "id": "407", "fact": "The largest dog litter was 23 puppies.", "category": ["Animals"] }
   ],
-  "funFacts2": [{ "id": "506377", "fact": "Say cheese? Victorians said \"prunes\" instead." }],
+  "funFacts2": [
+    {
+      "id": "553689",
+      "fact": "Nobel Prize winner Niels Bohr was given a perpetual supply of beer piped into his house."
+    }
+  ],
   "idiom": {
-    "id": "swan-song",
-    "term": "swan song",
-    "definition": "A final accomplishment or performance, one's last work. For example, *I'm resigning tomorrow; this project was my swan song.* This term alludes to the old belief that swans normally are mute but burst into beautiful song moments before they die. Although the idea is much older, the term was first recorded in English only in 1890."
+    "id": "naked-as-a-jaybird",
+    "term": "naked as a jaybird",
+    "definition": "Bare, unclothed, as in *I came straight out of the shower, naked as a jaybird.* This simile replaced the 19th-century *naked as a robin* and is equally unclear, since neither bird is normally stripped of its feathers. Further, the bird it refers to is more often called simply \"jay\" rather than \"jaybird,\" yet the latter is always part of the simile. [c. 1940]"
   },
   "person": {
-    "id": "haakon-vii-of-norway",
-    "name": "Haakon VII of Norway",
-    "dates": "Aug 3, 1872 - Sep 21, 1957",
-    "mainImg": "img/people/haakon-vii-of-norway.jpg",
+    "id": "frank-brogan",
+    "name": "Frank Brogan",
+    "dates": "Born Sep 6, 1953",
+    "mainImg": "img/people/frank-brogan.jpg",
     "summary": [
-      "Haakon VII was the King of Norway from 1905 until his death in 1957.",
-      "Originally a Danish prince, he was born in Copenhagen as the son of the future Frederick VIII of Denmark and Louise of Sweden. Prince Carl was educated at the Royal Danish Naval Academy and served in the Royal Danish Navy. After the 1905 dissolution of the union between Sweden and Norway, Prince Carl was offered the Norwegian crown. Following a November plebiscite, he accepted the offer and was formally elected King of Norway by the Storting. He took the Old Norse name Haakon and ascended to the throne as Haakon VII, becoming the first independent Norwegian monarch since 1387.",
-      "Norway was invaded by Nazi Germany in April 1940. Haakon rejected German demands to legitimise the Quisling regime's puppet government and refused to abdicate after going into exile in Great Britain. As such, he played a pivotal role in uniting the Norwegian nation in its resistance to the invasion and the subsequent five-year-long occupation during the Second World War. He returned to Norway in June 1945 after the defeat of Germany."
+      "Frank T. Brogan is the former Chancellor of the Pennsylvania State System of Higher Education, former Chancellor of the State University System of Florida, and former President of Florida Atlantic University. He was also the 15th Lieutenant Governor of Florida. Brogan is a longtime educator who served eight years in statewide office. On June 25, 2018, Brogan was confirmed by the U.S. Senate as Assistant Secretary of Education. He succeeded Deborah S. Delisle."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Haakon_VII_of_Norway",
-    "urlGoogle": "https://artsandculture.google.com/entity/haakon-vii-of-norway/m0h93f"
+    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Brogan",
+    "urlGoogle": "https://artsandculture.google.com/entity/frank-brogan/m0bkf5q"
   },
   "place": {
-    "id": "kazan",
-    "name": "Kazan",
-    "mainImg": "img/places/kazan.jpg",
+    "id": "aurora",
+    "name": "Aurora",
+    "mainImg": "img/places/aurora.jpg",
     "summary": [
-      "Kazan is the capital and largest city of the Republic of Tatarstan, Russia. With a population of 1,243,500, it is the sixth most populous city in Russia.",
-      "Kazan lies at the confluence of the Volga and Kazanka Rivers in Western Russia, about 715 kilometres east from Moscow. In the Late Middle Ages, Kazan was an important trade and political center within the Golden Horde. In 1438, the city became the capital of the Khanate of Kazan. In 1552, Kazan was captured by Ivan the Terrible and became part of Russia. The city was largely destroyed during Pugachev's Rebellion, but was later rebuilt during the reign of Catherine the Great. In the following centuries, Kazan grew to become a major industrial, cultural and religious center in Russia. Kazan was one of the host cities of the 2018 FIFA World Cup.",
-      "Kazan is renowned for its vibrant mix of Oriental and Russian cultures. In 2015, 2.1 million tourists visited Kazan, and 1.5 million tourists visited the Kazan Kremlin, a World Heritage Site. In April 2009, the Russian Patent Office granted Kazan the right to brand itself as the \"Third Capital\" of Russia."
+      "Aurora is a Home Rule Municipality in the U.S. state of Colorado, spanning Arapahoe and Adams counties, with the extreme southeastern portion of the city extending into Douglas County. Aurora is one of the principal cities of the Denver-Aurora-Lakewood, CO Metropolitan Statistical Area. The city's population was 325,078 in the 2010 census, which made it the third most populous city in the state of Colorado and the 54th most populous city in the United States.",
+      "The Denver-Aurora-Lakewood, CO Metropolitan Statistical Area had an estimated population of 2,645,209 on July 1, 2012. However, Denver and Aurora combined make up less than half of the Denver Metro Area's population and Aurora has approximately half the population of Denver. The estimated population of the Denver-Aurora, CO Combined Statistical Area was 3,214,218 on July 1, 2012."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kazan",
-    "urlGoogle": "https://artsandculture.google.com/entity/kazan/m01cr28"
+    "urlWiki": "https://en.wikipedia.org/wiki/Aurora,_Colorado",
+    "urlGoogle": "https://artsandculture.google.com/entity/aurora/m0r8hc"
   },
   "quote": {
-    "id": "20",
-    "quote": "We make a living by what we get, but we make a life by what we give.",
-    "author": "Winston Churchill"
+    "id": "47",
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle"
   },
   "wiki": {
-    "id": "flea-musician",
-    "name": "Flea (musician)",
-    "summary": "Flea (born 1962) is an Australian American bassist, trumpet player, and occasional actor. He is best known as the bassist and founding member of the alternative rock band Red Hot Chili Peppers. His work with the band incorporates several musical styles, ranging from aggressive slap bass to more subdued and melodic techniques. Aside from the Red Hot Chili Peppers, he has collaborated with many artists, including Jane's Addiction, Nirvana, The Mars Volta and Alanis Morissette. Drawing influences from funk and punk rock, Flea centers his bass playing on simplicity and minimalism, viewing complexity as a device that should be used in moderation. Originally a trumpet prodigy, Flea initially learned to play bass in high school after being taught by close friend and future Red Hot Chili Peppers guitarist Hillel Slovak, who required a bassist for his band Anthym. Flea joined the group, but quit several months subsequent in order to play for the punk rock outfit Fear. He soon rejoined Slovak to form an intended one-off band along with fellow high school alumni Anthony Kiedis and Jack Irons; the impromptu collaboration would ultimately give birth to the Red Hot Chili Peppers.",
-    "url": "https://en.wikipedia.org/wiki/Flea_(musician)"
+    "id": "richard-o-connor",
+    "name": "Richard O'Connor",
+    "summary": "Richard O'Connor was a British Army general who commanded the Western Desert Force (WDF) in the early years of World War II. O'Connor was the field commander for Operation Compass, in which he and the WDF completely destroyed a much larger Italian army. This victory nearly drove the Axis from Africa entirely, and led Adolf Hitler to send the Deutsches Afrikakorps under Erwin Rommel, to try and reverse the situation. O'Connor was later captured and spent over two years in an Italian prisoner of war camp for senior officers. He made a number of escape attempts with General Sir Philip Neame and Lieutenant General Sir Adrian Carton De Wiart, and was eventually successful. O'Connor commanded VIII Corps in Normandy in 1944 and later during Operation Market Garden. In 1945 he was general officer in command, Eastern Command in India, and then headed the North West Army in the closing days of British rule in the subcontinent. He held the highest level of knighthood in four different orders of chivalry.",
+    "url": "https://en.wikipedia.org/wiki/Richard_O%27Connor"
   },
   "word": {
-    "id": "commemorate",
-    "word": "commemorate",
-    "url": "https://www.merriam-webster.com/dictionary/commemorate",
-    "partOfSpeech": "verb",
-    "pronunciation": "kuh-MEM-uh-rayt",
-    "audioPath": "audio/words/commemorate.mp3",
+    "id": "organoleptic",
+    "word": "organoleptic",
+    "url": "https://www.merriam-webster.com/dictionary/organoleptic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "or-guh-noh-LEP-tik",
+    "audioPath": "audio/words/organoleptic.mp3",
     "definitions": [
-      "to call to remembrance",
-      "to mark by some ceremony or observation : observe",
-      "to serve as a memorial of"
+      "being, affecting, or relating to qualities (as taste, color, odor, and feel) of a substance (as a food or drug) that stimulate the sense organs",
+      "involving use of the sense organs"
     ],
     "examples": [
-      "A plaque _commemorates_ the battle that took place on the spot 200 years ago.",
-      "\"Pictorial postmarks are event postmarks offered by the Postal Service to _commemorate_ local community events, such as fairs, conventions or other types of local celebrations.\" - From an article in the _Sun Journal_ (Lewiston, Maine), May 14, 2012"
+      "\"In addition to extra virgin olive oil, there are a number of other grades which define chemical and _organoleptic_ qualities.\" -- From an article posted March 28th, 2011, at oliveoiltimes.com",
+      "\"The goal of beverage distillers is generally a beverage, often very traditional in nature, with very specific _organoleptic_ properties….\" -- From Steven E. Ullrich's 2011 book _Barley: Production, Improvement, and Uses_"
     ],
-    "origin": "When you remember something, you are mindful of it. It's appropriate, therefore, that \"commemorate\" and other related memory-associated words (including \"memorable,\" \"memorial,\" \"remember,\" and \"memory\" itself) come from the Latin root \"memor,\" meaning \"mindful.\" Some distant older relatives are Old English \"gemimor\" (\"well-known\"), Greek \"mermēra\" (\"care\"), and Sanskrit \"smarati\" (\"he remembers\"). English speakers have been marking the memory of important events with \"commemorate\" since the late 16th century."
+    "origin": "English speakers first got a taste of \"organoleptic\" in an 1852 translation of a French chemistry textbook. Its spelling is an Anglicization of the French word \"organoleptique,\" which derives from \"organ\" (same meaning as in English) and Greek \"lēptikos,\" meaning \"disposed to take or accept.\" \"Lēptikos\" is also an ingredient in \"neuroleptic\" (a type of powerful tranquilizer). The parent of \"lēptikos\" -- the verb \"lambanein,\" meaning \"to take or seize\" -- contributed to the formation of several English words, including \"epilepsy\" and \"syllable.\""
   }
 }

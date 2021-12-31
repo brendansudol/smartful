@@ -1,128 +1,138 @@
 {
   "artist": {
-    "id": "john-flaxman",
-    "name": "John Flaxman",
-    "dates": "Jul 6, 1755 - Dec 7, 1826",
-    "mainImg": "img/art/artists/john-flaxman.jpg",
+    "id": "paul-cezanne",
+    "name": "Paul Cézanne",
+    "dates": "Jan 19, 1839 - Oct 22, 1906",
+    "mainImg": "img/art/artists/paul-cezanne.jpg",
     "artworkImgs": [
       {
-        "name": "Apollo Preceding Hector with His Aegis, and Dispersing the Greeks, Fuseli's Lectures",
-        "path": "img/art/artworks/john-flaxman-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/apollo-preceding-hector-with-his-aegis-and-dispersing-the-greeks-fuseli-s-lectures-john-flaxman-1755–1826-british/tgHk_QsRtBybfA"
+        "name": "The Bather",
+        "path": "img/art/artworks/paul-cezanne-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bather-paul-cézanne/4wEd5xlQxCKFCw"
       },
       {
-        "name": "To Phoebus at His Birth, From Aeschylus, Furies",
-        "path": "img/art/artworks/john-flaxman-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/to-phoebus-at-his-birth-from-aeschylus-furies-john-flaxman-1755–1826-british/CgFc_BRQftXafw"
+        "name": "Bathers (Les Grandes Baigneuses)",
+        "path": "img/art/artworks/paul-cezanne-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/bathers-les-grandes-baigneuses-paul-cézanne/5gHEvzxt0pVZCw"
       },
       {
-        "name": "Dancing Hours' Salt",
-        "path": "img/art/artworks/john-flaxman-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/dancing-hours-salt-wedgwood-josiah-wedgwood-sons-ltd-emil-weddige-john-flaxman/pgFLqYIbipaQpw"
+        "name": "Mont Sainte-Victoire and the Viaduct of the Arc River Valley",
+        "path": "img/art/artworks/paul-cezanne-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/mont-sainte-victoire-and-the-viaduct-of-the-arc-river-valley-paul-cézanne/swGoLbnR5ZxJBA"
       },
       {
-        "name": "The Morn, All Beauteous to Behold, from Aeschylus, The Persians",
-        "path": "img/art/artworks/john-flaxman-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-morn-all-beauteous-to-behold-from-aeschylus-the-persians-after-john-flaxman-1755–1826-british/OwGlgvGRlBIehw"
+        "name": "Harlequin",
+        "path": "img/art/artworks/paul-cezanne-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/harlequin-paul-cézanne/6AGiNmOkwf2Ikg"
       },
       {
-        "name": "Illustration to Milton's Paradise Lost: Adam and Eve Guarded by the Angels",
-        "path": "img/art/artworks/john-flaxman-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/illustration-to-milton-s-paradise-lost-adam-and-eve-guarded-by-the-angels-john-flaxman-1755–1826-british/swHSAV--2DKgfA"
+        "name": "Mont Sainte-Victoire Seen from the Bibémus Quarry",
+        "path": "img/art/artworks/paul-cezanne-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/mont-sainte-victoire-seen-from-the-bibémus-quarry-paul-cézanne/AwHpakLM05FIrg"
       },
       {
-        "name": "Coffee Pot on Stand",
-        "path": "img/art/artworks/john-flaxman-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/coffee-pot-on-stand-john-bridge-rundell-bridge-rundell/YAFeNg4cKiK_dQ"
+        "name": "Mont Sainte-Victoire",
+        "path": "img/art/artworks/paul-cezanne-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/mont-sainte-victoire-paul-cézanne/uAHd-5uRTIw_cA"
       }
     ],
     "summary": [
-      "John Flaxman RA was a British sculptor and draughtsman, and a leading figure in British and European Neoclassicism. Early in his career he worked as a modeller for Josiah Wedgwood's pottery. He spent several years in Rome, where he produced his first book illustrations. He was a prolific maker of funerary monuments."
+      "Paul Cézanne was a French artist and Post-Impressionist painter whose work laid the foundations of the transition from the 19th-century conception of artistic endeavor to a new and radically different world of art in the 20th century.",
+      "Cézanne is said to have formed the bridge between late 19th-century Impressionism and the early 20th century's new line of artistic enquiry, Cubism. Cézanne's often repetitive, exploratory brushstrokes are highly characteristic and clearly recognizable. He used planes of colour and small brushstrokes that build up to form complex fields. The paintings convey Cézanne's intense study of his subjects. Both Matisse and Picasso are said to have remarked that Cézanne \"is the father of us all\"."
     ],
-    "quote": null,
-    "movements": ["Neoclassicism", "Classicism"],
-    "mediums": ["Graphite", "Ink", "Laid paper", "Watercolor painting", "Rock", "Stoneware"],
-    "urlWiki": "https://en.wikipedia.org/wiki/John_Flaxman",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-flaxman/m01gh24"
+    "quote": "“You say a new era in art is preparing; you sensed it coming; continue your studies without weakening. God will do the rest.”",
+    "movements": ["Modern art", "Post-Impressionism", "Impressionism", "Cubism", "Les Nabis"],
+    "mediums": ["Oil paint", "Graphite", "Watercolor painting", "Drawing", "Pencil", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne",
+    "urlGoogle": "https://artsandculture.google.com/entity/paul-cézanne/m063mx"
   },
   "event": {
-    "id": "sts-51-l",
-    "name": "STS-51-L",
-    "dates": null,
-    "mainImg": "img/events/sts-51-l.jpg",
+    "id": "franco-prussian-war",
+    "name": "Franco-Prussian War",
+    "dates": "Jul 19, 1870 - May 10, 1871",
+    "mainImg": "img/events/franco-prussian-war.jpg",
     "summary": [
-      "STS-51-L was the disastrous 25th mission of the United States Space Shuttle program, the program to carry out routine transportation for Earth-to-orbit crew and cargo; as well as the final flight of Space Shuttle Challenger.",
-      "Planned as the first Teacher in Space Project in addition to observing Halley's Comet for six days, the mission never achieved orbit; a structural failure during its ascent phase 73 seconds after launch from Kennedy Space Center Launch Complex 39B on January 28, 1986, killed all seven crew members — Commander Dick Scobee, Pilot Michael J. Smith, Mission Specialists Ellison S. Onizuka, Judith A. Resnik and Ronald E. McNair, and Payload Specialists Gregory Jarvis and Christa McAuliffe — and destroyed the orbiter.",
-      "Immediately after the disaster, NASA convened the Rogers Commission to determine the cause of the explosion. The failure of an O-ring seal on the starboard Solid Rocket Booster was determined to have caused the shuttle to break-up in flight. Space Shuttle flights were suspended for 32 months while the hazards with the shuttle were addressed. The Space Shuttle program resumed with STS-26, launched 32 months after the accident."
+      "The Franco-Prussian War or Franco-German War, often referred to in France as the War of 1870, was a conflict between the Second French Empire and the German states of the North German Confederation led by the Kingdom of Prussia. Lasting from 19 July 1870 to 28 January 1871, the conflict was caused by Prussian ambitions to expand German unification and French fears of the shift in the European balance of power that would result if the Prussians succeeded. Some historians argue that the Prussian chancellor Otto von Bismarck deliberately provoked the French into declaring war on Prussia in order to draw the independent southern German states—Baden, Württemberg, Bavaria and Hesse-Darmstadt—into an alliance with the North German Confederation dominated by Prussia, while others contend that Bismarck did not plan anything and merely exploited the circumstances as they unfolded. None, however, dispute the fact that Bismarck must have recognized the potential for new German alliances, given the situation as a whole.",
+      "France mobilised its army on 15 July 1870, leading the North German Confederation to respond with its own mobilisation later that day."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/STS-51-L",
-    "urlGoogle": "https://artsandculture.google.com/entity/sts-51-l/m099xs2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Franco-Prussian_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/franco-prussian-war/m0c0dv"
   },
   "funFacts": [
-    { "id": "132", "fact": "A crocodile cannot move its tongue.", "category": ["Animals"] },
     {
-      "id": "403",
-      "fact": "The largest hailstone ever recorded in the U.S. was 17.5 inches around.",
-      "category": ["Science"]
+      "id": "200",
+      "fact": "The first country to use postcards was Austria.",
+      "category": ["Geography", "Firsts"]
+    },
+    {
+      "id": "459",
+      "fact": "A group of a dozen or more cows is called a 'flink.'",
+      "category": ["Animals", "Definitions"]
     }
   ],
-  "funFacts2": [{ "id": "554036", "fact": "The heads on Easter Island have bodies." }],
+  "funFacts2": [
+    {
+      "id": "522155",
+      "fact": "LEGO is an abbreviation of the Danish phrase leg godt which means “play well.” The company was originally called Billund Maskinsnedkeri."
+    }
+  ],
   "idiom": {
-    "id": "a-feather-in-ones-cap",
-    "term": "a feather in one's cap",
-    "definition": "An act or deed to one's credit; a distinctive achievement. For example, *Getting all three factions to the bargaining table would be a feather in his cap.* This expression alludes to the practice of putting a feather on a soldier's cap for every enemy he kills, an early practice of some Native American tribes and many other peoples. [Early 1600s]"
+    "id": "beyond-the-pale",
+    "term": "beyond the pale",
+    "definition": "Outside the bounds of morality, good behavior or judgment; unacceptable. For example, *She thought taking the boys to a topless show was beyond the pale.* The noun *pale,* from the Latin *palum,* meant \"a stake for fences\" or \"a fence made from such stakes.\" By extension it came to be used for an area confined by a fence and for any boundary, limit, or restriction, both of these meanings dating from the late 1300s. The *pale* referred to in the idiom is usually taken to mean the *English Pale,* the part of Ireland under English rule, and therefore, as perceived by its rulers, within the bounds of civilization. The phrase itself originated in the mid-1600s."
   },
   "person": {
-    "id": "james-k-polk",
-    "name": "James K. Polk",
-    "dates": "Nov 2, 1795 - Jun 15, 1849",
-    "mainImg": "img/people/james-k-polk.jpg",
+    "id": "sean-mac-diarmada",
+    "name": "Seán Mac Diarmada",
+    "dates": "Jan 27, 1883 - May 12, 1916",
+    "mainImg": "img/people/sean-mac-diarmada.jpg",
     "summary": [
-      "James Knox Polk was the 11th president of the United States, serving from 1845 to 1849. He previously was Speaker of the House of Representatives and governor of Tennessee. A protégé of Andrew Jackson, he was a member of the Democratic Party and an advocate of Jacksonian democracy. Polk is chiefly known for extending the territory of the United States during the Mexican–American War; during his presidency, the United States expanded significantly with the annexation of the Republic of Texas, the Oregon Territory, and the Mexican Cession following the American victory in the Mexican–American War.",
-      "After building a successful law practice in Tennessee, Polk was elected to the state legislature and then to the United States House of Representatives in 1825, becoming a strong supporter of Andrew Jackson. After serving as chairman of the Ways and Means Committee, he became Speaker in 1835, the only president to have been Speaker. Polk left Congress to run for governor of Tennessee; he won in 1839, but lost in 1841 and 1843."
-    ],
-    "quote": "“No president who performs his duties faithfully and conscientiously can have any leisure.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/James_K._Polk",
-    "urlGoogle": "https://artsandculture.google.com/entity/james-k-polk/m042f1"
-  },
-  "place": {
-    "id": "pasig",
-    "name": "Pasig",
-    "mainImg": "img/places/pasig.jpg",
-    "summary": [
-      "Pasig, officially the City of Pasig, or simply known as Pasig City, is a 1st class highly urbanized city in Metropolitan Manila, Philippines. According to the 2015 census, it has a population of 755,300 people.",
-      "Located along the eastern border of Metro Manila, Pasig is bordered on the west by Quezon City and Mandaluyong; to the north by Marikina; to the south by Makati, the municipality of Pateros, and Taguig; and to the east by the municipalities of Cainta and Taytay in the province of Rizal.",
-      "The city shares its name with the Pasig River which runs through it and forms its southwestern and southeastern borders with Makati and Taguig respectively, while the Marikina River forms its western border with Quezon City. The artificial Manggahan Floodway, built in 1986, begins at its confluence with the Marikina River in its northeast.",
-      "A formerly rural settlement, Pasig is primarily residential and industrial, but has been becoming increasingly commercial in recent years, particularly after the construction of the Ortigas Center business district in its west."
+      "Seán Mac Diarmada, also known as Seán MacDermott, was an Irish republican political activist and revolutionary leader. He was one of the seven leaders of the Easter Rising of 1916, which he helped to organise as a member of the Military Committee of the Irish Republican Brotherhood and was a signatory of the Proclamation of the Irish Republic. He was executed for his part in the Rising at age 33.",
+      "Brought up in rural County Leitrim, he was a member of many associations which promoted the cause of the Irish language, Gaelic revival and Irish nationalism in general, including the Gaelic League and the Irish Catholic fraternity the Ancient Order of Hibernians. He was national organiser for Sinn Féin, and later manager of the newspaper Irish Freedom, started in 1910 by Bulmer Hobson and others."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Pasig",
-    "urlGoogle": "https://artsandculture.google.com/entity/pasig/m01_9dh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Se%C3%A1n_Mac_Diarmada",
+    "urlGoogle": "https://artsandculture.google.com/entity/seán-mac-diarmada/m02qysz"
+  },
+  "place": {
+    "id": "khartoum",
+    "name": "Khartoum",
+    "mainImg": "img/places/khartoum.jpg",
+    "summary": [
+      "Khartoum or Khartum is the capital of Sudan. With a population of 5,274,321, its metropolitan area is the largest in Sudan, the sixth-largest in Africa, the second-largest in North Africa, and the fourth-largest in the Arab world. Khartoum is located at the confluence of the White Nile, flowing north from Lake Victoria, and the Blue Nile, flowing west from Lake Tana in Ethiopia. The location where the two Niles meet is known as al-Mogran or al-Muqran. From there, the Nile continues to flow north towards Egypt and the Mediterranean Sea.",
+      "Divided by these two parts of the Nile, Khartoum is a tripartite metropolis with an estimated overall population of over five million people, consisting of Khartoum proper, and linked by bridges to Khartoum North and Omdurman to the west.",
+      "Khartoum was founded in 1821 as part of Ottoman Egypt, north of the ancient city of Soba. The Siege of Khartoum in 1884 led to the capture of the city by Mahdist forces and a massacre of the defending Anglo-Egyptian garrison. It was reoccupied by British forces in 1898 and served as the seat of the Anglo-Egyptian Sudan government until 1956, when the city became the capital of an independent Sudan."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Khartoum",
+    "urlGoogle": "https://artsandculture.google.com/entity/khartoum/m04d_m"
   },
   "quote": {
-    "id": "41",
-    "quote": "I don't think much of a man who is not wiser today than he was yesterday.",
-    "author": "Abraham Lincoln"
+    "id": "88",
+    "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    "author": "Robert Louis Stevenson"
   },
   "wiki": {
-    "id": "baltimore-steam-packet-company",
-    "name": "Baltimore Steam Packet Company",
-    "summary": "The Baltimore Steam Packet Company was an American steamship line from 1840 to 1962, providing overnight steamboat service on the Chesapeake Bay, primarily between Baltimore, Maryland, and Norfolk, Virginia. Called a \"packet\" for the mail packets carried on government mail contracts, the term in the 19th century came to mean a steamer line operating on a regular, fixed daily schedule between two or more cities. By the time the venerable packet line ceased operation in 1962 after 122 years of existence, it was the last surviving overnight steamship passenger service in the United States. In addition to regularly calling on Baltimore and Norfolk, the Baltimore Steam Packet Company also provided freight, passenger and vehicle transport to Washington, D.C., Old Point Comfort, and Richmond, Virginia, at various times during its history.",
-    "url": "https://en.wikipedia.org/wiki/Baltimore_Steam_Packet_Company"
+    "id": "sardar-vallabhbhai-patel",
+    "name": "Sardar Vallabhbhai Patel",
+    "summary": "Sardar Vallabhbhai Patel was an Indian political and social leader, who played a major role in the country's struggle for independence, and guided its political integration to a united, independent nation. Raised in the countryside of Gujarat, Vallabhbhai Patel was a self-educated and successful Gujarati lawyer, when he was inspired by the work and philosophy of Mahatma Gandhi. As the first Home Minister and Deputy Prime Minister of India, Patel organized relief efforts for refugees in Punjab and Delhi, and led efforts to restore peace across the nation. Patel took charge of the task to forge a united India from the 565 semi-autonomous princely states and British-era colonial provinces and possessions. Using frank diplomacy backed with the option (and the use) of military action, Patel's leadership enabled the accession of almost every princely state.",
+    "url": "https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel"
   },
   "word": {
-    "id": "conurbation",
-    "word": "conurbation",
-    "url": "https://www.merriam-webster.com/dictionary/conurbation",
+    "id": "periphrasis",
+    "word": "periphrasis",
+    "url": "https://www.merriam-webster.com/dictionary/periphrasis",
     "partOfSpeech": "noun",
-    "pronunciation": "kah-ner-BAY-shun",
-    "audioPath": "audio/words/conurbation.mp3",
-    "definitions": ["an aggregation or continuous network of urban communities"],
-    "examples": [
-      "The _conurbation_ is served by a sophisticated system of trains and subways.",
-      "\"He also questioned whether China needs more cities when most migration has been to the 70 biggest _conurbations_.\" - From an article in the _Pittsburgh Post-Gazette_, August 18, 2013"
+    "pronunciation": "puh-RIFF-ruh-sis",
+    "audioPath": "audio/words/periphrasis.mp3",
+    "definitions": [
+      "use of a longer phrasing in place of a possible shorter form of expression",
+      "an instance of periphrasis"
     ],
-    "origin": "When Sir Patrick Geddes, a Scottish biologist turned sociologist, sat down in 1915 to write Cities in Evolution, a work on urban planning, he needed a word. How should he refer to thickly populated regions consisting of a sprawling range of cities clustered together? \"Some name, then, for these city-regions, these town aggregates, is wanted…. What of 'conurbations'?\" he asked rhetorically early on in his work. For his coinage, Geddes combined \"urbs\" (the Latin word for \"city,\" already familiar in \"urban\" and \"suburb\") with the Latin prefix \"con-\" (\"together\") and the English noun suffix \"-ation.\" It turned out that his word suited English speakers just fine-we've been using it ever since."
+    "examples": [
+      "The college English teacher warned her students against padding their essays with periphrases solely to reach the required length."
+    ],
+    "origin": "It's easy enough to point out the origins of \"periphrasis\": the word was borrowed into English in the early 16th century via Latin from Greek \"periphrazein,\" which in turn comes from the prefix \"peri-,\" meaning \"all around,\" and the verb \"phrazein,\" \"to point out.\" Two common descendants of \"phrazein\" in English are \"phrase\" and \"paraphrase,\" the latter of which combines \"phrazein\" with the prefix \"para-,\" meaning \"closely resembling.\" Another \"phrazein\" descendant is the less familiar word \"holophrasis,\" meaning \"the expression of a complex of ideas in a single word or in a fixed phrase.\" (The prefix \"holo-\" can mean \"completely.\")"
   }
 }

@@ -1,138 +1,124 @@
 {
   "artist": {
-    "id": "palma-il-giovane",
-    "name": "Palma il Giovane",
-    "dates": "1544 - Oct 14, 1628",
-    "mainImg": "img/art/artists/palma-il-giovane.jpg",
+    "id": "francis-picabia",
+    "name": "Francis Picabia",
+    "dates": "Jan 22, 1879 - Nov 30, 1953",
+    "mainImg": "img/art/artists/francis-picabia.jpg",
     "artworkImgs": [
       {
-        "name": "Prudence",
-        "path": "img/art/artworks/palma-il-giovane-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/prudence/BgFFhHUjTsHzag"
+        "name": "Francis Picabia Self-Portrait",
+        "path": "img/art/artworks/francis-picabia-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/francis-picabia-self-portrait-francis-picabia/1wEe9z1iriu7cw"
       },
       {
-        "name": "The Crusaders army attacks Constantinople",
-        "path": "img/art/artworks/palma-il-giovane-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-crusaders-army-attacks-constantinople/EgEeLSgINLDHOg"
+        "name": "Design for a small library: front elevation, section, plan",
+        "path": "img/art/artworks/francis-picabia-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/design-for-a-small-library-front-elevation-section-plan-christian-francis-rosborg-1881-–-1953/wAEuLySczZ6erQ"
       },
       {
-        "name": "Doge Francesco Venier presents to Venice its subject cities",
-        "path": "img/art/artworks/palma-il-giovane-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/doge-francesco-venier-presents-to-venice-its-subject-cities-jacopo-palma-il-giovane/CgGVSNIe1f1CSg"
+        "name": "Le baiser",
+        "path": "img/art/artworks/francis-picabia-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/le-baiser-francis-picabia/TQG8sDltD4wTEw"
       },
       {
-        "name": "The Baptism of Christ",
-        "path": "img/art/artworks/palma-il-giovane-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-baptism-of-christ-jacopo-palma-il-giovane/4gEk7D3U6uAlkA"
+        "name": "Mutatio Shoes",
+        "path": "img/art/artworks/francis-picabia-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mutatio-shoes-bitonti-francis/pwHfsPna7WOPgg"
       },
       {
-        "name": "The Placing of Christ in the Sepulchre",
-        "path": "img/art/artworks/palma-il-giovane-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-placing-of-christ-in-the-sepulchre-titian-tiziano-vecellio-studio-and-palma-the-younger/TgGeR5CAGKSruw"
-      },
-      {
-        "name": "Allegory of the League of Cambrai",
-        "path": "img/art/artworks/palma-il-giovane-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/allegory-of-the-league-of-cambrai-jacopo-palma-il-giovane/AwHCThU9MOlb2g"
+        "name": "Design for main entrance door for the Bankers' Trust Company, New York, NY",
+        "path": "img/art/artworks/francis-picabia-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/design-for-main-entrance-door-for-the-bankers-trust-company-new-york-ny-christian-francis-rosborg-1881-–-1953/WgGHxGAcwokk2g"
       }
     ],
     "summary": [
-      "Iacopo Negretti, best known as Jacopo or Giacomo Palma il Giovane or simply Palma Giovane, was an Italian painter from Venice and a notable exponent of the Venetian school.",
-      "After Tintoretto's death, Palma became Venice's dominant artist perpetuating his style. Outside Venice, he received numerous commissions in the area of Bergamo, then part of the Venetian Domini di Terraferma, and in Central Europe, most prominently from the connoisseur emperor Rudolph II in Prague."
+      "Francis Picabia was a French avant-garde painter, poet and typographist. After experimenting with Impressionism and Pointillism, Picabia became associated with Cubism. His highly abstract planar compositions were colourful and rich in contrasts. He was one of the early major figures of the Dada movement in the United States and in France. He was later briefly associated with Surrealism, but would soon turn his back on the art establishment."
     ],
-    "quote": null,
-    "movements": [
-      "Mannerism",
-      "Renaissance",
-      "Italian Renaissance",
-      "Venetian painting",
-      "High Renaissance"
-    ],
-    "mediums": ["Pen", "Ink", "Etching", "Chalk", "Pigment", "Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Palma_il_Giovane",
-    "urlGoogle": "https://artsandculture.google.com/entity/palma-il-giovane/m0gjxb9"
+    "quote": "“The only way to win is to fight on the side of your adversaries.”",
+    "movements": ["Modern art", "Dada", "Surrealism", "Cubism", "Section d'Or"],
+    "mediums": ["Watercolor painting", "Gold", "Metal", "Oil paint", "Graphite", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Francis_Picabia",
+    "urlGoogle": "https://artsandculture.google.com/entity/francis-picabia/m0q4s_"
   },
   "event": {
-    "id": "1980-summer-olympics",
-    "name": "1980 Summer Olympics",
-    "dates": "Jul 19, 1980 - Aug 3, 1980",
-    "mainImg": "img/events/1980-summer-olympics.jpg",
+    "id": "manstein-plan",
+    "name": "Manstein Plan",
+    "dates": "May 10, 1940",
+    "mainImg": "img/events/manstein-plan.jpg",
     "summary": [
-      "The 1980 Summer Olympics, officially known as the Games of the XXII Olympiad, was an international multi-sport event held in Moscow, Soviet Union, in present-day Russia.",
-      "The 1980 Games were the first Olympic Games to be staged in Eastern Europe, and remain the only Summer Olympics held there, as well as the first Olympic Games to be held in a Slavic language-speaking country. They were also the only Summer Olympic Games to be held in a communist country until 2008 in China. These were the final Olympic Games under the IOC Presidency of Michael Morris, 3rd Baron Killanin.",
-      "Eighty nations were represented at the Moscow Games – the smallest number since 1956. Led by the United States, 66 countries boycotted the games entirely because of the Soviet–Afghan War. Some athletes from some of the boycotting countries participated in the games under the Olympic Flag. The Soviet Union would later boycott the 1984 Summer Olympics. The Soviet Union won the most gold and overall medals, with the USSR and East Germany winning 127 out of 203 available golds."
+      "The Manstein Plan is one of the names used to describe the war plan of the German Army during the Battle of France in 1940. The original invasion plan was an awkward compromise devised by General Franz Halder, the chief of Oberkommando des Heeres staff and satisfied no one. Documents with details of the plan fell into Belgian hands during the Mechelen incident of 10 January 1940 and the plan was revised several times, each giving more emphasis to an attack by Army Group A through the Ardennes, which progressively reduced the offensive by Army Group B through the Low Countries to a diversion.",
+      "In the final version of the plan, the main effort of the German invasion was made against the Ardennes, which by coincidence, was the weakest part of the Allied line, where the defence was left to second-rate French divisions in the Second Army and the Ninth Army, on the assumption that the difficulty of moving masses of men and equipment would give the French plenty of time to send reinforcements if the area was attacked."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1980_Summer_Olympics",
-    "urlGoogle": "https://artsandculture.google.com/entity/1980-summer-olympics/m0l6vl"
+    "urlWiki": "https://en.wikipedia.org/wiki/Manstein_Plan",
+    "urlGoogle": "https://artsandculture.google.com/entity/manstein-plan/m0287b85"
   },
   "funFacts": [
     {
-      "id": "158",
-      "fact": "The first MTV video was \"Video Killed the Radio Star\" by the Buggles.",
-      "category": ["Firsts"]
+      "id": "310",
+      "fact": "The word \"facetious\" features all the vowels in alphabetical order.",
+      "category": ["Hodgepodge"]
     },
     {
-      "id": "194",
-      "fact": "You don't have to be a lawyer to be a Supreme Court Justice.",
-      "category": ["Laws"]
+      "id": "999",
+      "fact": "A cat's nose is ridged with a unique pattern, just like a human fingerprint.",
+      "category": ["Animals", "Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553860",
-      "fact": "Boring, Oregon and Dull, Scotland have been sister cities since 2012. In 2017, they added Bland Shire, Australia to their “League of Extraordinary Communities.”"
+      "id": "553638",
+      "fact": "Amelia Earhart and Eleanor Roosevelt once sneaked out of a White House event, commandeered an airplane, and went on a joyride to Baltimore."
     }
   ],
   "idiom": {
-    "id": "steal-someones-thunder",
-    "term": "steal someone's thunder",
-    "definition": "Use or appropriate another's idea, especially to one's advantage, as in *It was Harold's idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit.* This idiom comes from an actual incident in which playwright and critic John Dennis (1657--1734) devised a \"thunder machine\" (by rattling a sheet of tin backstage) for his play, *Appius and Virginia* (1709), and a few days later discovered the same device being used in a performance of *Macbeth,* whereupon he declared, \"They steal my thunder.\""
+    "id": "vote-with-ones-feet",
+    "term": "vote with one's feet",
+    "definition": "Indicate one's disapproval by walking out or emigrating, as in *The service was so bad that we decided to vote with our feet,* or *Thousands of Hong Kong residents voted with their feet and left before the Chinese takeover.* [Slang; mid-1900s]"
   },
   "person": {
-    "id": "henry-parkes",
-    "name": "Henry Parkes",
-    "dates": "May 27, 1815 - Apr 27, 1896",
-    "mainImg": "img/people/henry-parkes.jpg",
+    "id": "bimbisara",
+    "name": "Bimbisara",
+    "dates": "557 BC - 490 BC",
+    "mainImg": "img/people/bimbisara.jpg",
     "summary": [
-      "Sir Henry Parkes, GCMG was a colonial Australian politician and longest non-consecutive Premier of the Colony of New South Wales, the present-day state of New South Wales in the Commonwealth of Australia. He has been referred to as the \"Father of Federation\" due to his early promotion for the federation of the six colonies of Australia, as an early critic of British convict transportation and as a proponent for the expansion of the Australian continental rail network.",
-      "Parkes delivered his famous Tenterfield Oration in 1889 which led to his instigation of a conference in 1890 and a Constitutional Convention in 1891, the first of a series of meetings that led to the federation of Australia. He died in 1896, five years before this process was completed. He was described during his lifetime by The Times as \"the most commanding figure in Australian politics\". Alfred Deakin described Sir Henry Parkes as having flaws but nonetheless being \"a large-brained self-educated Titan whose natural field was found in Parliament\"."
+      "Bimbisāra also known as Seniya or Shrenika in the Jain histories was a King of Magadha and belonged to the Haryanka dynasty. He was the son of Bhattiya. His expansion of the kingdom, especially his annexation of the kingdom of Anga to the east, is considered to have laid the foundations for the later expansion of the Maurya Empire.",
+      "He is also known for his cultural achievements and was a great friend and protector of the Buddha. Bimbisara—according to Hiuen Tsang—built the city of Rajgir, famous in Buddhist writings. He was succeeded on the throne by his son Ajatashatru."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Parkes",
-    "urlGoogle": "https://artsandculture.google.com/entity/henry-parkes/m01r_4j"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bimbisara",
+    "urlGoogle": "https://artsandculture.google.com/entity/bimbisara/m03dr73"
   },
   "place": {
-    "id": "shiraz",
-    "name": "Shiraz",
-    "mainImg": "img/places/shiraz.jpg",
+    "id": "sheffield",
+    "name": "Sheffield",
+    "mainImg": "img/places/sheffield.jpg",
     "summary": [
-      "Shiraz is the fifth-most-populous city of Iran and the capital of Fars Province also known as Pars and Persis. At the 2016 census, the population of the city was 1,869,001 and its built-up area with \"Shahr-e Jadid-e Sadra\" was home to 1,565,572 inhabitants. Shiraz is located in the southwest of Iran on the \"Rudkhaneye Khoshk\" seasonal river. It has a moderate climate and has been a regional trade center for over a thousand years. Shiraz is one of the oldest cities of ancient Persia.",
-      "The earliest reference to the city, as Tiraziš, is on Elamite clay tablets dated to 2000 BC. The modern city was founded or restored by the Umayyads in 693 and grew prominent under the successive Iranian Saffarid and Buyid dynasties in the 9th and 10th–11th centuries, respectively. In the 13th century, Shiraz became a leading center of the arts and letters, due to the encouragement of its ruler and the presence of many Persian scholars and artists. It was the capital of Persia during the Zand dynasty from 1750 until 1800. Two famous poets of Iran, Hafez and Saadi, are from Shiraz, whose tombs are on the north side of the current city boundaries."
+      "Sheffield is a city and metropolitan borough in South Yorkshire, England. Historically part of the West Riding of Yorkshire, its name derives from the River Sheaf, which runs through the city. With some of its southern suburbs annexed from Derbyshire, the city has grown from its largely industrial roots to encompass a wider economic base. The population of the City of Sheffield is 584,853 and it is one of the eight largest regional English cities that make up the Core Cities Group. Sheffield is the second-largest city in the Yorkshire and the Humber region and the third-largest English district by population. The metropolitan population of Sheffield is 1,569,000.",
+      "The city is in the eastern foothills of the Pennines, and the valleys of the River Don and its four tributaries, the Loxley, the Porter Brook, the Rivelin and the Sheaf. Sixty-one per cent of Sheffield's entire area is green space, and a third of the city lies within the Peak District national park. There are more than 250 parks, woodlands and gardens in the city, which is estimated to contain around 4.5 million trees."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Shiraz",
-    "urlGoogle": "https://artsandculture.google.com/entity/shiraz/m09wc5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Sheffield",
+    "urlGoogle": "https://artsandculture.google.com/entity/sheffield/m0m75g"
   },
   "wiki": {
-    "id": "half-life-2",
-    "name": "Half-Life 2",
-    "summary": "Half-Life 2 is a science fiction first-person shooter computer game and the sequel to Half-Life. It was developed by the Valve Software Corporation and was released on November 16 2004 following a protracted five-year development cycle during which the game's source code was leaked to the Internet. The game garnered near unanimous positive reviews and received critical acclaim, winning over 35 Game of the Year awards for 2005. Originally available only for Windows-based personal computers, the game has since been ported onto the Xbox console, and is due to be released additionally for the Xbox 360 and PlayStation 3 in 2007. Taking place in and around the fictional City 17 sometime in the near future, Half-Life 2 follows the scientist Gordon Freeman. Dr. Freeman is thrust into a dystopian environment in which the aftermath of the Black Mesa Incident has come to bear fully upon human society. The game uses the Source game engine, which includes a heavily modified version of the Havok physics engine. Overall, the Half-Life franchise, including Counter-Strike and Day of Defeat, has seen over 15 million sales.",
-    "url": "https://en.wikipedia.org/wiki/Half-Life_2"
+    "id": "baltimore-steam-packet-company",
+    "name": "Baltimore Steam Packet Company",
+    "summary": "The Baltimore Steam Packet Company was an American steamship line from 1840 to 1962, providing overnight steamboat service on the Chesapeake Bay, primarily between Baltimore, Maryland, and Norfolk, Virginia. Called a \"packet\" for the mail packets carried on government mail contracts, the term in the 19th century came to mean a steamer line operating on a regular, fixed daily schedule between two or more cities. By the time the venerable packet line ceased operation in 1962 after 122 years of existence, it was the last surviving overnight steamship passenger service in the United States. In addition to regularly calling on Baltimore and Norfolk, the Baltimore Steam Packet Company also provided freight, passenger and vehicle transport to Washington, D.C., Old Point Comfort, and Richmond, Virginia, at various times during its history.",
+    "url": "https://en.wikipedia.org/wiki/Baltimore_Steam_Packet_Company"
   },
   "word": {
-    "id": "circadian",
-    "word": "circadian",
-    "url": "https://www.merriam-webster.com/dictionary/circadian",
+    "id": "perfervid",
+    "word": "perfervid",
+    "url": "https://www.merriam-webster.com/dictionary/perfervid",
     "partOfSpeech": "adjective",
-    "pronunciation": "ser-KAY-dee-un",
-    "audioPath": "audio/words/circadian.mp3",
-    "definitions": [
-      "being, having, characterized by, or occurring in approximately 24-hour periods or cycles (as of biological activity or function)"
-    ],
+    "pronunciation": "per-FER-vid",
+    "audioPath": "audio/words/perfervid.mp3",
+    "definitions": ["marked by overwrought or exaggerated emotion : excessively fervent"],
     "examples": [
-      "\"Teenagers, like everyone else, need bright lights in the morning … to synchronize their inner, circadian rhythms with nature's cycles of day and night.\" (Thomas H. Maugh II, _Chicago Tribune_, Feb. 17, 2010)"
+      "The group's leaders have done little to distance themselves from the actions of their angrier and more _perfervid_ followers.",
+      "\"Biron has struggled to make the Dostoevsky apartment a center for the perpetual and _perfervid_ enthusiasm for the author that animates Russians.\" - From an article by Philip Kennicott in _The Washington Post_, October 21, 2012"
     ],
-    "origin": "Just over fifty years ago, no one talked about \"circadian rhythms\" -- because \"circadian\" hadn't even been coined yet. In 1959, a scientist formed the word from the Latin words \"circa\" (\"about\") and \"dies\" (\"day\"), and it caught on quickly. \"Circadian\" appeared in periodicals throughout the sixties, and appeared in a Merriam-Webster dictionary before the decade was up. Most often, it's seen and heard in the term \"circadian rhythm,\" which refers to the inherent cycle of about 24 hours that appears to control various biological processes, such as sleep, wakefulness, and digestive activity. If you want to impress your friends, you can also use the term \"circadian dysrhythmia,\" a fancy synonym of \"jet lag.\""
+    "origin": "The adjectives \"fervent,\" \"fervid,\" and \"perfervid\" all derive from the Latin verb \"fervēre,\" meaning \"to boil,\" and suggest a bubbling up of intense feeling. \"Fervent\" was the first to enter the English language in the 14th century. It stresses sincerity and steadiness of emotional warmth and zeal, as in \"Her colleagues expressed fervent good wishes.\" The next to emerge was \"fervid\" in the late 16th century. It too suggests warmth but adds an element of spontaneity and feverishness. A lover might write a fervid [billet-doux](https://www.merriam-webster.com/dictionary/billet-doux) to his beloved, for example. With its first known appearance in print dating back only to 1833, \"perfervid\" is a relative newcomer to English, but it implies the most extreme or exaggerated expression of emotion. Its intensity comes from \"per-,\" a prefix meaning \"thoroughly.\""
   }
 }

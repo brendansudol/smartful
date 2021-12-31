@@ -1,136 +1,141 @@
 {
   "artist": {
-    "id": "charles-nicolas-cochin",
-    "name": "Charles-Nicolas Cochin",
-    "dates": "Feb 22, 1715 - Apr 29, 1790",
-    "mainImg": "img/art/artists/charles-nicolas-cochin.jpg",
+    "id": "hieronymus-bosch",
+    "name": "Hieronymus Bosch",
+    "dates": "Died Aug 9, 1516",
+    "mainImg": "img/art/artists/hieronymus-bosch.jpg",
     "artworkImgs": [
       {
-        "name": "Portrait of André Danican Philidor",
-        "path": "img/art/artworks/charles-nicolas-cochin-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-andré-danican-philidor-augustin-de-saint-aubin-charles-nicolas-cochin-ii/JAEJwG_jPLnQlw"
+        "name": "Saint Christopher",
+        "path": "img/art/artworks/hieronymus-bosch-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-christopher/MQFoX8Ff_UgzqA"
       },
       {
-        "name": "Portrait of Madame de Pompadour (Madame Le Normant d'Estiolles)",
-        "path": "img/art/artworks/charles-nicolas-cochin-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-madame-de-pompadour-madame-le-normant-d-estiolles-augustin-de-saint-aubin-charles-nicolas-cochin-ii/KAF30zBCEd5asQ"
+        "name": "Christ Mocked (The Crowning with Thorns)",
+        "path": "img/art/artworks/hieronymus-bosch-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-mocked-the-crowning-with-thorns-hieronymus-bosch/tgEYBOMT1BeBzw"
       },
       {
-        "name": "Victory of Khorgos",
-        "path": "img/art/artworks/charles-nicolas-cochin-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/victory-of-khorgos-jacques-philippe-le-bas/MQGZ2Gm23Adarg"
+        "name": "The Pedlar",
+        "path": "img/art/artworks/hieronymus-bosch-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-pedlar/aQEkh0Mf0Pd3mg"
       },
       {
-        "name": "Portrait of P.A. Caron de Beaumarchais",
-        "path": "img/art/artworks/charles-nicolas-cochin-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-p-a-caron-de-beaumarchais-augustin-de-saint-aubin-charles-nicolas-cochin-ii/EAFcA2TSmmBIdQ"
+        "name": "Ecce Homo",
+        "path": "img/art/artworks/hieronymus-bosch-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/ecce-homo-hieronymus-bosch/DQFFBFYxlip-xw"
       },
       {
-        "name": "The Defeat of Chief Uš-Turfan and his City",
-        "path": "img/art/artworks/charles-nicolas-cochin-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-defeat-of-chief-uš-turfan-and-his-city-charles-nicolas-cochin-ii-giovanni-damasceno-salusti-pierre-philippe-choffard/ggFJNkCgNQWE7A"
+        "name": "Saint John the Baptist in the Desert",
+        "path": "img/art/artworks/hieronymus-bosch-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-john-the-baptist-in-the-desert-aeken-hieronymus-van-el-bosco/EwF_G8DKhG3P-A"
       },
       {
-        "name": "Observations sur les Antiquites de la ville d'Herculanum, Avec quelques reflexions sur la Peinture et la Sculpture des Anciens",
-        "path": "img/art/artworks/charles-nicolas-cochin-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/observations-sur-les-antiquites-de-la-ville-d-herculanum-avec-quelques-reflexions-sur-la-peinture-et-la-sculpture-des-anciens-charles-nicolas-cochin-ii-jérôme-charles-bellicard/8AGJoEzJYdjQUw"
+        "name": "Death and the Miser",
+        "path": "img/art/artworks/hieronymus-bosch-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/death-and-the-miser/xQFMnR3xQTylpA"
       }
     ],
     "summary": [
-      "Charles-Nicolas Cochin was a French engraver, designer, writer, and art critic. To distinguish him from his father of the same name, he is variously called Charles-Nicolas Cochin le Jeune, Charles-Nicolas Cochin le fils, or Charles-Nicolas Cochin II."
+      "Hieronymus Bosch was a Dutch/Netherlandish painter from Brabant. He is one of the most notable representatives of the Early Netherlandish painting school. His work contains fantastic illustrations of religious concepts and narratives. Within his lifetime his work was collected in the Netherlands, Austria, and Spain, and widely copied, especially his macabre and nightmarish depictions of hell.",
+      "Little is known of Bosch's life, though there are some records. He spent most of it in the town of 's-Hertogenbosch, where he was born in his grandfather's house. The roots of his forefathers are in Nijmegen and Aachen. His pessimistic and fantastical style cast a wide influence on northern art of the 16th century, with Pieter Bruegel the Elder being his best-known follower. Today he is seen as a hugely individualistic painter with deep insight into humanity's desires and deepest fears. Attribution has been especially difficult; today only about 25 paintings are confidently given to his hand along with eight drawings. About another half dozen paintings are confidently attributed to his workshop."
     ],
-    "quote": null,
-    "movements": ["Neoclassicism", "Renaissance", "Rococo"],
-    "mediums": ["Etching", "Engraving", "Laid paper", "Ink", "Book", "Chalk"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Charles-Nicolas_Cochin",
-    "urlGoogle": "https://artsandculture.google.com/entity/charles-nicolas-cochin/m03nqvw5"
+    "quote": "“For poor is the mind that always uses the ideas of others and invents none of its own”",
+    "movements": [
+      "Renaissance",
+      "Northern Renaissance",
+      "Dutch and Flemish Renaissance painting",
+      "Street art"
+    ],
+    "mediums": ["Oil paint", "Wood", "Ink", "Oak", "Pen", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hieronymus_Bosch",
+    "urlGoogle": "https://artsandculture.google.com/entity/hieronymus-bosch/m0cdn_"
   },
   "event": {
-    "id": "crucifixion-of-jesus",
-    "name": "Crucifixion of Jesus",
-    "dates": null,
-    "mainImg": "img/events/crucifixion-of-jesus.jpg",
+    "id": "north-african-campaign",
+    "name": "North African campaign",
+    "dates": "Jun 10, 1940 - May 16, 1943",
+    "mainImg": "img/events/north-african-campaign.jpg",
     "summary": [
-      "The crucifixion of Jesus occurred in 1st-century Judea, most likely between AD 30 and 33. Jesus' crucifixion is described in the four canonical gospels, referred to in the New Testament epistles, attested to by other ancient sources, and is established as a historical event confirmed by non-Christian sources, although there is no consensus among historians on the exact details.",
-      "According to the canonical gospels, Jesus was arrested and tried by the Sanhedrin, and then sentenced by Pontius Pilate to be scourged, and finally crucified by the Romans. Jesus was stripped of his clothing and offered wine mixed with myrrh or gall to drink after saying I am thirsty. He was then hung between two convicted thieves and, according to the Gospel of Mark, died by the 9th hour of the day. During this time, the soldiers affixed a sign to the top of the cross stating \"Jesus of Nazareth, King of the Jews\" which, according to the Gospel of John, was written in three languages. They then divided his garments among themselves and cast lots for his seamless robe, according to the Gospel of John."
+      "The North African campaign of the Second World War took place in North Africa from 10 June 1940 to 13 May 1943. It included campaigns fought in the Libyan and Egyptian deserts and in Morocco and Algeria, as well as Tunisia.",
+      "The campaign was fought between the Allies, many of whom had colonial interests in Africa dating from the late 19th century, and the Axis Powers. The Allied war effort was dominated by the British Commonwealth and exiles from German-occupied Europe. The United States officially entered the war in December 1941 and began direct military assistance in North Africa on 11 May 1942. Canada provided a small contingent of 348 officers and enlisted.",
+      "Fighting in North Africa started with the Italian declaration of war on 10 June 1940. On 14 June, the British Army's 11th Hussars crossed the border from Egypt into Libya and captured the Italian Fort Capuzzo. This was followed by an Italian counter-offensive into Egypt and the capture of Sidi Barrani in September 1940 and its recapture by the British in December 1940 following a British Commonwealth counteroffensive, Operation Compass."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
-    "urlGoogle": "https://artsandculture.google.com/entity/crucifixion-of-jesus/m063_g3_"
+    "urlWiki": "https://en.wikipedia.org/wiki/North_African_campaign",
+    "urlGoogle": "https://artsandculture.google.com/entity/north-african-campaign/m02h2z_"
   },
   "funFacts": [
     {
-      "id": "692",
-      "fact": "The spotted skunk does a handstand to warn off its enemies before it sprays its stench.",
-      "category": ["Animals"]
+      "id": "338",
+      "fact": "Of all the trees in Australia, 75% are eucalyptus.",
+      "category": ["Plants", "Geography"]
     },
     {
-      "id": "343",
-      "fact": "The term 007 was derived from 20007, the home zip code of many Washington, D.C. agents.",
-      "category": ["History"]
+      "id": "858",
+      "fact": "New Jersey is home to the world's first drive-in movie theater.",
+      "category": ["Firsts"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553840",
-      "fact": "At the Poison Garden of Alnwick Castle in England, many of the plants are so deadly they're grown in cages."
+      "id": "554030",
+      "fact": "The dragon tree of the Canary Islands is famous for its thick, deep-red sap. Called dragon's blood, the resin might be responsible for the intense hue of the famous Stradivarius violins built in the 17th and 18th centuries."
     }
   ],
   "idiom": {
-    "id": "mutual-admiration-society",
-    "term": "mutual admiration society",
-    "definition": "A relationship in which two people have strong feelings of esteem for each other and often exchange lavish compliments. The term may signify either genuine or pretended admiration, as in *Each of them praised the other's book---it was a real mutual admiration society.* The expression was invented by Henry David Thoreau in his journal (1851) and repeated by Oliver Wendell Holmes and others."
+    "id": "shake-the-dust-from-ones-feet",
+    "term": "shake the dust from one's feet",
+    "definition": "Depart in a hurry, especially from an unpleasant situation; also, leave forever. For example, *I couldn't wait to shake the dust from my feet; I never wanted to see either of them again.* This metaphoric term, alluding to moving one's feet fast enough to shake off dust, appears in several books of the Bible. [c. 1600]"
   },
   "person": {
-    "id": "eleftherios-venizelos",
-    "name": "Eleftherios Venizelos",
-    "dates": "Aug 23, 1864 - Mar 18, 1936",
-    "mainImg": "img/people/eleftherios-venizelos.jpg",
+    "id": "henry-l-stimson",
+    "name": "Henry L. Stimson",
+    "dates": "Sep 21, 1867 - Oct 20, 1950",
+    "mainImg": "img/people/henry-l-stimson.jpg",
     "summary": [
-      "Eleftherios Kyriakou Venizelos was a Greek statesman and a prominent leader of the Greek national liberation movement. He is noted for his contribution in the expansion of Greece and promotion of liberal-democratic policies. As leader of the Liberal Party, he was elected eight times as Prime Minister of Greece, serving from 1910 to 1920 and from 1928 to 1933. Venizelos had such profound influence on the internal and external affairs of Greece that he is credited with being \"the maker of modern Greece\", and is still widely known as the \"Ethnarch\".",
-      "His first entry into the international scene was with his significant role in the autonomy of the Cretan State and later in the union of Crete with Greece. Soon, he was invited to Greece to resolve the political deadlock and became the country's Prime Minister. Not only did he initiate constitutional and economic reforms that set the basis for the modernization of Greek society, but also reorganized both army and navy in preparation of future conflicts. Before the Balkan Wars of 1912–1913, Venizelos' catalytic role helped gain Greece entrance to the Balkan League, an alliance of the Balkan states against the Ottoman Empire."
+      "Henry Lewis Stimson was an American statesman, lawyer, and Republican Party politician. Over his long career, he emerged as a leading figure in US foreign policy by serving in both Republican and Democratic administrations. He served as Secretary of War under President William Howard Taft, Secretary of State under President Herbert Hoover, and Secretary of War under Presidents Franklin D. Roosevelt and Harry S. Truman.",
+      "The son of the surgeon Lewis Atterbury Stimson, Stimson became a Wall Street lawyer after he had graduated from Harvard Law School. He served as a United States Attorney under President Theodore Roosevelt and prosecuted several antitrust cases. After he was defeated in the 1910 New York gubernatorial election, Stimson served as Secretary of War under Taft. He continued the reorganization of the United States Army that had begun under his mentor, Elihu Root. After the outbreak of World War I, Stimson became part of the Preparedness Movement. He served as an artillery officer in France after the United States entered the war. From 1927 to 1929, he served as Governor-General of the Philippines under President Calvin Coolidge."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos",
-    "urlGoogle": "https://artsandculture.google.com/entity/eleftherios-venizelos/m01sf8f"
+    "quote": "“Russia will occupy most of the good food lands of central Europe while we have the industrial portions. We must find some way of persuading Russia to play ball.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_L._Stimson",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-l-stimson/m0m6z5"
   },
   "place": {
-    "id": "russian-soviet-federative-socialist-republic",
-    "name": "Russian Soviet Federative Socialist Republic",
-    "mainImg": "img/places/russian-soviet-federative-socialist-republic.jpg",
+    "id": "nancy",
+    "name": "Nancy",
+    "mainImg": "img/places/nancy.jpg",
     "summary": [
-      "The Russian Soviet Federative Socialist Republic, previously known as the Russian Soviet Republic and the Russian Socialist Federative Soviet Republic as well as being unofficially known as Soviet Russia, Russian Federation or simply Russia, was an independent state from 1917 to 1922, and afterwards the largest and most populous of the Soviet socialist republics of the Soviet Union from 1922 to 1991, until becoming a sovereign part of the Soviet Union with priority of Russian laws over Union-level legislation in 1990 and 1991, the last two years of the existence of the USSR. The Russian Republic was composed of sixteen smaller constituent units of autonomous republics, five autonomous oblasts, ten autonomous okrugs, six krais and forty oblasts. Russians formed the largest ethnic group. The capital of the Russian SFSR was Moscow and the other major urban centers included Leningrad, Novosibirsk, Sverdlovsk, Gorky and Kuybishev.",
-      "The economy of Russia became heavily industrialized, accounting for about two-thirds of the electricity produced in the USSR."
+      "Nancy is the capital of the north-eastern French department of Meurthe-et-Moselle, and formerly the capital of the Duchy of Lorraine, and then the French province of the same name. The metropolitan area of Nancy had a population of 434,565 inhabitants at the 2011 census, making it the 20th largest urban area in France. The population of the city of Nancy proper was 104,321 in 2014.",
+      "The motto of the city is Non inultus premor, Latin for '\"I am not injured unavenged\"'—a reference to the thistle, which is a symbol of Lorraine.",
+      "Place Stanislas, a large square built between March 1752 and November 1755 by Stanislaus I of Poland to link the medieval old town of Nancy and the new town built under Charles III in the 17th century, is a UNESCO World Heritage Site, the first place in France and in the top four in the world."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic",
-    "urlGoogle": "https://artsandculture.google.com/entity/russian-soviet-federative-socialist-republic/m01mzwp"
+    "urlWiki": "https://en.wikipedia.org/wiki/Nancy,_France",
+    "urlGoogle": "https://artsandculture.google.com/entity/nancy/m011w4n"
   },
   "quote": {
-    "id": "84",
-    "quote": "People take different roads seeking fulfillment and happiness. Just because they're not on your road doesn't mean they've gotten lost.",
-    "author": "Dalai Lama"
+    "id": "71",
+    "quote": "I'm smart enough to know that I'm dumb.",
+    "author": "Richard Feynman"
   },
   "wiki": {
-    "id": "star-wars-episode-i-the-phantom-menace",
-    "name": "Star Wars Episode I: The Phantom Menace",
-    "summary": "Star Wars Episode I: The Phantom Menace is a 1999 science fantasy film written and directed by George Lucas. It was the fourth film to be released in the Star Wars saga, and the first in terms of internal chronology. The film begins as two Jedi Knights are assigned as ambassadors to a trade dispute that is threatening the planet Naboo. When the situation turns violent, the Jedi, along with Padmé Amidala, the planet's queen, flee Naboo in an attempt to reach the capital world Coruscant in the hope of finding a peaceful end to the dispute. Along the way, the ship must stop for repairs on the planet Tatooine. It is there that the Jedi encounter Anakin Skywalker, a young slave boy who is unusually strong in the Force. When the group returns to Naboo, they realize that the situation is much worse than they thought—the evil Sith have returned. The release of the film on May 19, 1999 came almost 16 years after the previous film in the series, Star Wars Episode VI: Return of the Jedi. The release was accompanied by extensive media coverage and great anticipation. Despite mixed reviews by critics, it grossed US$924.3 million worldwide.",
-    "url": "https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_The_Phantom_Menace"
+    "id": "haflinger",
+    "name": "Haflinger",
+    "summary": "The Haflinger is a horse breed developed in Austria and northern Italy during the late 19th century. Relatively small and chestnut in color, they were developed for use in mountainous terrain and are known for their hardiness. The breed traces its ancestry to the Middle Ages, and their current conformation and appearance come from infusions of bloodlines from Arabian and various European breeds into the original native Tyrolean ponies. All Haflingers can trace their lineage to a foundation sire born in 1874. The two World Wars and the Great Depression had a detrimental effect on the breed. In the postwar era the Haflinger was indiscriminately crossed with other breeds, but from 1946 breeders focused on producing purebred Haflingers. Interest in the breed increased in other countries, and numbers grew. In 2003 a Haflinger became the first horse to be cloned, resulting in a filly named Prometea. Haflingers have many uses, including light draft, harness work, and various under-saddle disciplines. They are also used by the Austrian and German armies in rough terrain. The World Haflinger Federation, a confederation of 22 national registries, controls breed standards.",
+    "url": "https://en.wikipedia.org/wiki/Haflinger"
   },
   "word": {
-    "id": "amalgamate",
-    "word": "amalgamate",
-    "url": "https://www.merriam-webster.com/dictionary/amalgamate",
-    "partOfSpeech": "verb",
-    "pronunciation": "uh-MAL-guh-mayt",
-    "audioPath": "audio/words/amalgamate.mp3",
-    "definitions": [
-      "to unite in or as if in a mixture of elements; especially : to merge into a single body"
-    ],
+    "id": "bardolater",
+    "word": "bardolater",
+    "url": "https://www.merriam-webster.com/dictionary/bardolater",
+    "partOfSpeech": "noun",
+    "pronunciation": "bar-DAH-luh-ter",
+    "audioPath": "audio/words/bardolater.mp3",
+    "definitions": ["a person who idolizes Shakespeare"],
     "examples": [
-      "On her latest album, the artist has _amalgamated_ several different styles of music.",
-      "\"Sure enough, in 1999, Congress dutifully went along with Weill's push for repeal, and Wall Street promptly rushed to _amalgamate_ more Citigroups, thus creating the 'too-big-to-fail' system that-only eight years later-did indeed fail.\" - From an article by Jim Hightower in the _Illinois Times_ (Springfield, Illinois), August 9, 2012"
+      "\"\\[Abraham\\] Lincoln was a lifelong Bardolater and serial Shakespeare-quoter, as Mr. \\[Barack\\] Obama noted in remarks at the recent reopening of Ford's Theater.\" (Barry Edelstein, _The New York Times_, April 26, 2009)"
     ],
-    "origin": "The noun \"amalgam\" derives by way of Middle French from Medieval Latin \"amalgama.\" It was first used in the 15th century with the meaning \"a mixture of mercury and another metal.\" (Today, you are likely to encounter this sense in the field of dentistry; amalgams can be used for filling holes in teeth.) Over time, use of \"amalgam\" broadened to include any mixture of elements.and by the 18th century the word was also being applied figuratively, as in \"an amalgam of citizens.\" The verb \"amalgamate\" has been in use since at least 1617. It too can be used either technically, implying the creation of an alloy of mercury, or more generally for the formation of any compound or combined entity."
+    "origin": "George Bernard Shaw once described a Shakespeare play as \"stagy trash.\" Another time, Shaw said he'd like to dig Shakespeare from the grave and throw stones at him. Shaw could be equally scathing toward Shakespeare's adoring fans. He called them \"foolish Bardolaters,\" wrote of \"Bardolatrous\" ignoramuses, and called blind Shakespeare worship \"Bardolatry.\" Oddly enough, Shaw didn't despise Shakespeare or his work (on the contrary, he was, by his own admission, an admirer), but he disdained those who placed the man beyond reproach. The word \"bardolater,\" which Shaw coined by blending Shakespeare's epithet -- \"the Bard\" -- with an affix that calls to mind \"idolater,\" has stuck with us to this day, though it has lost some of its original critical sting."
   }
 }

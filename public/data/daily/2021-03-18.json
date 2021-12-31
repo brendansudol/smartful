@@ -1,133 +1,132 @@
 {
   "artist": {
-    "id": "fornasetti",
-    "name": "Fornasetti",
-    "dates": "Nov 10, 1913 - Oct 9, 1988",
-    "mainImg": "img/art/artists/fornasetti.jpg",
+    "id": "eugene-von-guerard",
+    "name": "Eugene von Guerard",
+    "dates": "Nov 17, 1811 - Apr 17, 1901",
+    "mainImg": "img/art/artists/eugene-von-guerard.jpg",
     "artworkImgs": [
       {
-        "name": "IX Triennale, Trumeau in legno stampato, Mostra Arredamenteo e mobili isolati, sezione Mobili isolati",
-        "path": "img/art/artworks/fornasetti-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/ix-triennale-trumeau-in-legno-stampato-mostra-arredamenteo-e-mobili-isolati-sezione-mobili-isolati-piero-fornasetti/ywFXLazuwgf2fw"
+        "name": "North-east view from the northern top of Mount Kosciusko",
+        "path": "img/art/artworks/eugene-von-guerard-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/north-east-view-from-the-northern-top-of-mount-kosciusko-eugene-von-guérard/GAFIpLZ8ttoqGQ"
       },
       {
-        "name": "IX Triennale, Trumeau in legno stampato, Mostra Arredamento e mobili isolati, sezione mobili isolati",
-        "path": "img/art/artworks/fornasetti-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/ix-triennale-trumeau-in-legno-stampato-mostra-arredamento-e-mobili-isolati-sezione-mobili-isolati-piero-fornasetti/PwEfrfhTKVyoqw"
+        "name": "Jebel Cherib",
+        "path": "img/art/artworks/eugene-von-guerard-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/jebel-cherib-eugene-von-guérard/7wFNjNw91lfbOQ"
       },
       {
-        "name": "View of Varenna from the Castle of Vezio",
-        "path": "img/art/artworks/fornasetti-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-varenna-from-the-castle-of-vezio-piero-fornasetti/8AHIaosVCQh1Tg"
+        "name": "Purrumbete from across the lake",
+        "path": "img/art/artworks/eugene-von-guerard-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/purrumbete-from-across-the-lake-eugene-von-guérard/hwFqkckRMkuCdA"
       },
       {
-        "name": "VII Triennale, Disegno per specchio in vetro inciso, Produzione Salir, Mostra dei metalli e dei vetri",
-        "path": "img/art/artworks/fornasetti-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/vii-triennale-disegno-per-specchio-in-vetro-inciso-produzione-salir-mostra-dei-metalli-e-dei-vetri-piero-fornasetti/MAHeFJN1HcyCdA"
+        "name": "Yalla-y-Poora",
+        "path": "img/art/artworks/eugene-von-guerard-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/yalla-y-poora-eugène-von-guérard/eQFmGkJp46j7Og"
       },
       {
-        "name": "VII Triennale, Tovaglietta americana in pizzo, Mostra dei tessuti e dei ricami, Sezione dei merletti e dei ricami",
-        "path": "img/art/artworks/fornasetti-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/vii-triennale-tovaglietta-americana-in-pizzo-mostra-dei-tessuti-e-dei-ricami-sezione-dei-merletti-e-dei-ricami-piero-fornasetti/DgGhmst27q41bw"
+        "name": "Ferntree Gully in the Dandenong Ranges",
+        "path": "img/art/artworks/eugene-von-guerard-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/ferntree-gully-in-the-dandenong-ranges-eugene-von-guérard/7QFRQegI7i332w"
       },
       {
-        "name": "VII Triennale, Studio per un vaso in vetro inciso, Mostra dei metalli e dei vetri",
-        "path": "img/art/artworks/fornasetti-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/vii-triennale-studio-per-un-vaso-in-vetro-inciso-mostra-dei-metalli-e-dei-vetri-piero-fornasetti/bAGEsV9DTS-NzQ"
+        "name": "Stony Rises, Lake Corangamite",
+        "path": "img/art/artworks/eugene-von-guerard-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/stony-rises-lake-corangamite-eugene-von-guérard/zQFxFBGI8kyx6g"
       }
     ],
     "summary": [
-      "Piero Fornasetti was an Italian versatile and eclectic artist, characterised by an unstoppable creative flair that made him one of the most prolific figures of the 20th century, and difficult to ascribe to a specific movement."
+      "Johann Joseph Eugene von Guérard was an Austrian-born artist, active in Australia from 1852 until 1882. Known for his finely detailed landscapes in the tradition of the Düsseldorf school of painting, he is represented in Australia's major public galleries, and is referred to in the country as Eugene von Guerard."
     ],
     "quote": null,
-    "movements": ["Modernism"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Fornasetti",
-    "urlGoogle": "https://artsandculture.google.com/entity/fornasetti/m09gl3v"
+    "movements": ["Romanticism"],
+    "mediums": ["Oil paint", "Cardboard", "Engraving", "Plywood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Eugene_von_Guerard",
+    "urlGoogle": "https://artsandculture.google.com/entity/eugene-von-guerard/m08j850"
   },
   "event": {
-    "id": "opium-wars",
-    "name": "Opium Wars",
-    "dates": "1839 - 1860",
-    "mainImg": "img/events/opium-wars.jpg",
+    "id": "overland-campaign",
+    "name": "Overland Campaign",
+    "dates": "May 4, 1864 - Jun 24, 1864",
+    "mainImg": "img/events/overland-campaign.jpg",
     "summary": [
-      "The Opium Wars were two wars which were waged between Qing dynasty and Western powers in the mid-19th century. The First Opium War, fought in 1839-1842 between the Qing and Great Britain, was triggered by the dynasty's campaign against the opium trade; the Second Opium War was fought between the Qing and Britain and France, 1856-1860. In each war, the European forces used recently developed warfare technology to defeat the Qing forces and compelled the government to grant favorable tariffs, trade concessions, and territory.",
-      "The wars and the subsequently-imposed treaties weakened the Qing dynasty and Chinese governments, and forced China to open specified treaty ports that handled all trade with imperial powers. The resulting concession of Hong Kong after the wars compromised China's territorial sovereignty.",
-      "Around this time China's economy also contracted slightly, but the sizable Taiping Rebellion and Dungan Revolt had a much larger effect."
+      "The Overland Campaign, also known as Grant's Overland Campaign and the Wilderness Campaign, was a series of battles fought in Virginia during May and June 1864, in the American Civil War. Lt. Gen. Ulysses S. Grant, general-in-chief of all Union armies, directed the actions of the Army of the Potomac, commanded by Maj. Gen. George G. Meade, and other forces against Confederate Gen. Robert E. Lee's Army of Northern Virginia. Although Grant suffered severe losses during the campaign, it was a strategic Union victory. It inflicted proportionately higher losses on Lee's army and maneuvered it into a siege at Richmond and Petersburg, Virginia, in just over eight weeks.",
+      "Crossing the Rapidan River on May 4, 1864, Grant sought to defeat Lee's army by quickly placing his forces between Lee and Richmond and inviting an open battle. Lee surprised Grant by attacking the larger Union army aggressively in the Battle of the Wilderness, resulting in heavy casualties on both sides."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Opium_Wars",
-    "urlGoogle": "https://artsandculture.google.com/entity/opium-wars/m016sml"
+    "urlWiki": "https://en.wikipedia.org/wiki/Overland_Campaign",
+    "urlGoogle": "https://artsandculture.google.com/entity/overland-campaign/m04xsb_"
   },
   "funFacts": [
     {
-      "id": "245",
-      "fact": "The first typewriter was called the \"literary piano.\"",
-      "category": ["Firsts"]
+      "id": "876",
+      "fact": "The youngest U.S. president to be in office was Theodore Roosevelt at age 42.",
+      "category": ["History"]
     },
-    {
-      "id": "914",
-      "fact": "A manned rocket can reach the moon in less time than it took a stagecoach to travel the length of England.",
-      "category": ["Science"]
-    }
+    { "id": "819", "fact": "Children grow faster during springtime.", "category": ["Anatomy"] }
   ],
   "funFacts2": [
-    { "id": "505505", "fact": "A 2013 study suggests that chewing gum boosts concentration." }
+    {
+      "id": "553502",
+      "fact": "Family Feud host Richard Dawson met his second wife, Gretchen Johnson, when she was a contestant on the show in 1981. And yes, he kissed her."
+    }
   ],
   "idiom": {
-    "id": "forever-and-a-day",
-    "term": "forever and a day",
-    "definition": "**1\\.** For a very long time, as in *He's been working on that book forever and a day.* This hyperbolic expression probably originated as a corruption of the now obsolete *for ever and ay.* Shakespeare used it in *The Taming of the Shrew* (4:4): \"Farewell for ever and a day.\" Today it is mainly a substitute for \"very long time.\" [c. 1600] **2\\.** Incessantly, ceaselessly, as in *Will this racket never end? It's been going on forever and a day.* [Colloquial; first half of 1900s]"
+    "id": "ask-for-the-moon",
+    "term": "ask for the moon",
+    "definition": "Make an unreasonable demand, request the unattainable, as in *$1,000 for her birthday? Mary might as well be asking for the moon.* This hyperbolic idiom appeared in the mid-1800s in slightly different form. Charles Dickens had it as **cry for the moon** (in *Bleak House,* 1852) and William Makepeace Thackeray as **wish for the moon** (in *Lovell the Widower,* 1860). Today *ask* is the most common version."
   },
   "person": {
-    "id": "george-armstrong-custer",
-    "name": "George Armstrong Custer",
-    "dates": "Dec 5, 1839 - Jun 25, 1876",
-    "mainImg": "img/people/george-armstrong-custer.jpg",
+    "id": "hideki-tojo",
+    "name": "Hideki Tojo",
+    "dates": "Dec 30, 1884 - Dec 23, 1948",
+    "mainImg": "img/people/hideki-tojo.jpg",
     "summary": [
-      "George Armstrong Custer was a United States Army officer and cavalry commander in the American Civil War and the American Indian Wars.",
-      "Custer graduated from West Point in 1861 at the bottom of his class, but as the Civil War was just starting, trained officers were in immediate demand. He worked closely with General McClellan and the future General Pleasonton, both of whom recognized his qualities as a cavalry leader, and he was brevetted brigadier general of volunteers at age 23. Only a few days after his promotion, he fought at Gettysburg, where he commanded the Michigan Cavalry Brigade and despite being outnumbered, defeated J. E. B. Stuart's attack at what is now known as the East Cavalry Field. In 1864, Custer served in the Overland Campaign and in Sheridan's army in the Shenandoah Valley, defeating Jubal Early at Cedar Creek. His division blocked the Army of Northern Virginia's final retreat and received the first flag of truce from the Confederates, and Custer was present at Robert E. Lee's surrender to Ulysses S. Grant at Appomattox.",
-      "After the war, Custer was appointed a lieutenant colonel in the Regular Army and was sent west to fight in the Indian Wars."
+      "Hideki Tojo was a Japanese politician and general of the Imperial Japanese Army who served as Prime Minister of Japan and President of the Imperial Rule Assistance Association for the majority of World War II. Before becoming Japan's head of government, Tojo was among the most outspoken proponents for preventive war against the United States during deliberations leading to the attack on Pearl Harbor. Upon becoming Prime Minister in October 17, 1941, he presided over the conquest of much of the West's territories in Asia and the Pacific until the defeat of Japanese forces at Midway and Guadalcanal. During his years in power, he also oversaw the perpetration of numerous war crimes including the systematic massacre and starvation of civilians and prisoners of war. As the war's tide increasingly turned against Japan, Tojo was forced to resign as Prime Minister on July 22, 1944. After Japan's surrender in September 1945, Tojo was arrested, convicted by the International Military Tribunal for the Far East, sentenced to death, and hanged on December 23, 1948."
     ],
-    "quote": "“I would be willing, yes glad, to see a battle every day during my life.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/George_Armstrong_Custer",
-    "urlGoogle": "https://artsandculture.google.com/entity/george-armstrong-custer/m0pzgm"
+    "quote": "“I would point out that the cultural advance of these people has been suppressed in the past and continues to be suppressed in the present by policies designed to keep them in ignorance.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Hideki_Tojo",
+    "urlGoogle": "https://artsandculture.google.com/entity/hideki-tojo/m03gtt"
   },
   "place": {
-    "id": "durham",
-    "name": "Durham",
-    "mainImg": "img/places/durham.jpg",
+    "id": "gainesville",
+    "name": "Gainesville",
+    "mainImg": "img/places/gainesville.jpg",
     "summary": [
-      "Durham is a city in and the county seat of Durham County in the U.S. state of North Carolina. Small portions of the city limits extend into Orange County and Wake County.",
-      "The U.S. Census Bureau estimated the city's population to be 278,993 as of July 1, 2019, making it the 4th-most populous city in North Carolina, and the 79th-most populous city in the United States. The city is located in the east-central part of the Piedmont region along the Eno River. Durham is the core of the four-county Durham-Chapel Hill Metropolitan Area, which has a population of 542,710 as of U.S. Census 2014 Population Estimates. The US Office of Management and Budget also includes Durham as a part of the Raleigh-Durham-Chapel Hill Combined Statistical Area, commonly known as the Research Triangle, which has a population of 2,037,430 as of U.S. Census 2014 Population Estimates.",
-      "A railway depot was established on land donated by Bartlett S. Durham in 1849, the namesake of the city. Following the American Civil War, the community of Durham Station expanded rapidly, in part due to the tobacco industry. The town was incorporated by act of the North Carolina General Assembly, on April 1869."
+      "Gainesville is the county seat of, and the largest city in, Alachua County, Florida, and is both the principal city of the Gainesville, Florida, metropolitan statistical area and the largest city in North Central Florida. In 2018 the US Census Bureau estimated Gainesville's population at 133,997, a 7.6% increase from 2010, and the metropolitan statistical area's population at 288,212.",
+      "Gainesville is home to the University of Florida, the fifth-largest university campus by enrollment in the United States."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Durham,_North_Carolina",
-    "urlGoogle": "https://artsandculture.google.com/entity/durham/m013hxv"
+    "urlWiki": "https://en.wikipedia.org/wiki/Gainesville,_Florida",
+    "urlGoogle": "https://artsandculture.google.com/entity/gainesville/m0rh7t"
   },
   "quote": {
-    "id": "54",
-    "quote": "A reader lives a thousand lives before he dies. The man who never reads lives only one.",
-    "author": "George R.R. Martin"
+    "id": "95",
+    "quote": "Early to bed and early to rise probably indicates unskilled labor.",
+    "author": "John Ciardi"
   },
   "wiki": {
-    "id": "uss-lexington-cv-2",
-    "name": "USS Lexington (CV-2)",
-    "summary": "USS Lexington (CV-2) was an early aircraft carrier built for the United States Navy during the 1920s. Originally designed as a battlecruiser, she was converted into an aircraft carrier during construction to comply with the terms of the 1922 Washington Naval Treaty. Lexington was at sea when the Pacific War began in 1941, ferrying fighter aircraft to Midway Island. She was sent to the Coral Sea in February 1942 to block any Japanese advances into the area. Together with the carrier Yorktown, she successfully attacked Japanese shipping off the east coast of New Guinea in early March. Lexington rendezvoused with Yorktown in the Coral Sea in early May. A few days later the Japanese began Operation Mo, the invasion of Port Moresby, Papua New Guinea, and the two American carriers attempted to stop the invasion. Aircraft from Lexington and Yorktown succeeded in badly damaging the carrier Shōkaku, but Japanese aircraft crippled Lexington. Vapors from leaking aviation gasoline tanks sparked a series of explosions and fires that could not be controlled, and the carrier had to be scuttled by an American destroyer during the evening of 8 May to prevent her capture.",
-    "url": "https://en.wikipedia.org/wiki/USS_Lexington_(CV-2)"
+    "id": "mordechai-vanunu",
+    "name": "Mordechai Vanunu",
+    "summary": "Mordechai Vanunu is a former Israeli nuclear technician who publicly exposed Israel's possession of nuclear weapons. When Israel learned of this, he was abducted by Mossad (although upon release Vanunu claimed it was the CIA) from Italy and tried in secret. Convicted of treason, he was sentenced to 18 years in prison, more than 11 years of which were served in solitary confinement. Vanunu was released from prison on April 21, 2004, and is subject to a broad array of speech and travel restrictions. On November 11, 2004, following multiple alleged violations of those restrictions, he was arrested again after an interview by the media.",
+    "url": "https://en.wikipedia.org/wiki/Mordechai_Vanunu"
   },
   "word": {
-    "id": "scupper",
-    "word": "scupper",
-    "url": "https://www.merriam-webster.com/dictionary/scupper",
-    "partOfSpeech": "verb",
-    "pronunciation": "SKUP-er",
-    "audioPath": "audio/words/scupper.mp3",
-    "definitions": ["British : to defeat or put an end to : do in"],
-    "examples": [
-      "The latest information could _scupper_ the peace talks.\"Greece faces weeks of political turmoil that could _scupper_ its financial bailout after voters angry at crippling income cuts punished mainstream politicians, let a far-right extremist group into Parliament and gave no party enough votes to govern alone.\" - From an article in _Associated Press Online_, May 7, 2012"
+    "id": "piquant",
+    "word": "piquant",
+    "url": "https://www.merriam-webster.com/dictionary/piquant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PEE-kunt",
+    "audioPath": "audio/words/piquant.mp3",
+    "definitions": [
+      "agreeably stimulating to the palate; especially : spicy",
+      "engagingly provocative; also : having a lively arch charm"
     ],
-    "origin": "All efforts to figure out where this verb came from have been defeated, including attempts to connect it to the noun \"scupper,\" a 500-year-old word for a drain opening in the side of a ship. (One conjecture, that the blood of shipboard battle was \"scuppered\" when it was washed down the scuppers, unfortunately lacks backing in the form of any actual evidence of the verb used this way.) All we know for sure is that \"scupper\" meant \"to ambush and massacre\" in 19th-century military slang. Then, just before the century turned, it found its place in a magazine story in the sense of simply \"doing (someone) in.\" The more common modern application to things rather than people being done in or defeated didn't appear until a couple of decades into the 20th century."
+    "examples": [
+      "Reggie's _piquant_ commentary always makes for interesting listening, though sometimes his remarks can go too far.",
+      "\"Our main courses were preceded by green salads, which were bright and crisp with a suitably _piquant_ balsamic vinegar dressing.\"- From a review by Irv Dean in _The Daily Gazette_, February 19, 2012"
+    ],
+    "origin": "Piquant flavors \"sting\" the tongue and piquant words \"prick\" the intellect, arousing interest. These varying senses reflect the etymology of the word \"piquant,\" which first appeared in English in the 17th century and which derives from the Middle French verb \"piquer,\" meaning \"to sting\" or \"to prick.\" Though first used to describe foods with spicy flavors, the word is now often used to describe things that are spicy in other ways, such as engaging conversation. Have we piqued your curiosity about another \"piquer\" offspring? If you’ve already guessed that the verb \"pique,\" meaning \"to offend\" or \"to arouse by provocation,\" comes from \"piquer,\" too, you’ve got a sharp mind."
   }
 }

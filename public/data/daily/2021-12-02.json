@@ -1,0 +1,126 @@
+{
+  "artist": {
+    "id": "sebastiano-del-piombo",
+    "name": "Sebastiano del Piombo",
+    "dates": "1485 - Jun 21, 1547",
+    "mainImg": "img/art/artists/sebastiano-del-piombo.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait of a Man, Said to be Christopher Columbus (born about 1446, died 1506)",
+        "path": "img/art/artworks/sebastiano-del-piombo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-said-to-be-christopher-columbus-born-about-1446-died-1506-sebastiano-del-piombo-sebastiano-luciani/5gGf2jS3DvIv3A"
+      },
+      {
+        "name": "Christopher Columbus",
+        "path": "img/art/artworks/sebastiano-del-piombo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/christopher-columbus-sebastiano-del-piombo-sebastiano-luciani-italian/pwHRNnEI2OT5hQ"
+      },
+      {
+        "name": "Portrait of a Man, Said to be Christopher Columbus (born about 1446, died 1506)",
+        "path": "img/art/artworks/sebastiano-del-piombo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-said-to-be-christopher-columbus-born-about-1446-died-1506-sebastiano-del-piombo-sebastiano-luciani/uQEhW___Kfukrg"
+      },
+      {
+        "name": "Cardinal Bandinello Sauli, His Secretary, and Two Geographers",
+        "path": "img/art/artworks/sebastiano-del-piombo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cardinal-bandinello-sauli-his-secretary-and-two-geographers-sebastiano-del-piombo/NAFANYYyRVoAXA"
+      },
+      {
+        "name": "Salome",
+        "path": "img/art/artworks/sebastiano-del-piombo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/salome-sebastiano-del-piombo/zAG8H8NmrU2tSA"
+      },
+      {
+        "name": "Portrait of Clement VII",
+        "path": "img/art/artworks/sebastiano-del-piombo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-clement-vii-sebastiano-del-piombo-sebastiano-luciani/SwHye1UVsdDZlQ"
+      }
+    ],
+    "summary": [
+      "Sebastiano del Piombo was an Italian painter of the High Renaissance and early Mannerist periods famous as the only major artist of the period to combine the colouring of the Venetian school in which he was trained with the monumental forms of the Roman school. He belongs both to the painting school of his native city, Venice, where he made significant contributions before he left for Rome in 1511, and that of Rome, where he stayed for the rest of his life, and whose style he thoroughly adopted.",
+      "Born Sebastiano Luciani, after coming to Rome he became known as \"Sebastiano Veneziano\" or \"Viniziano\", until in 1531 he became the Keeper of the Seal to the Papacy, and so got the nickname del Piombo thereafter, meaning \"of the lead\", from his new job title of Piombatore. Friends like Michelangelo and Ariosto called him \"Fra Bastiano\".",
+      "Never a very disciplined or productive painter, his artistic productivity fell still further after becoming piombatore, which committed him to attend on the pope most days, and travel with him. He also had to take holy orders as a friar, despite having a wife and two children."
+    ],
+    "quote": null,
+    "movements": [
+      "Renaissance",
+      "High Renaissance",
+      "Mannerism",
+      "Italian Renaissance",
+      "Venetian painting"
+    ],
+    "mediums": ["Oil paint", "Wood", "Pen", "Drawing", "Ink", "Rock"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sebastiano_del_Piombo",
+    "urlGoogle": "https://artsandculture.google.com/entity/sebastiano-del-piombo/m04p81n"
+  },
+  "event": {
+    "id": "occupy-movement",
+    "name": "Occupy movement",
+    "dates": null,
+    "mainImg": "img/events/occupy-movement.jpg",
+    "summary": [
+      "The Occupy movement was an international progressive socio-political movement that expressed opposition to social and economic inequality and to the lack of \"real democracy\" around the world. It aimed primarily to advance social and economic justice and new forms of democracy. The movement had many different scopes, since local groups often had different focuses, but its prime concerns included how large corporations control the world in a way that disproportionately benefited a minority, undermined democracy and caused instability. It formed part of what Manfred Steger called the \"global justice movement\".",
+      "The first Occupy protest to receive widespread attention, Occupy Wall Street in New York City's Zuccotti Park, began on 17 September 2011. By 9 October, Occupy protests had taken place or were ongoing in over 951 cities across 82 countries, and in over 600 communities in the United States. Although the movement became most active in the United States, by October 2011 Occupy protests and occupations had started in dozens of other countries across every widely inhabited continent."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Occupy_movement",
+    "urlGoogle": "https://artsandculture.google.com/entity/occupy-movement/m0h93zy7"
+  },
+  "funFacts": [
+    {
+      "id": "443",
+      "fact": "The pound sign, or #, is called an octothorp.",
+      "category": ["Definitions"]
+    },
+    { "id": "817", "fact": "Karate originated in India.", "category": ["History"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "553804",
+      "fact": "Sweden is so efficient, only one percent of its garbage ends up in a landfill."
+    }
+  ],
+  "person": {
+    "id": "jerome-bonaparte",
+    "name": "Jérôme Bonaparte",
+    "dates": "Nov 15, 1784 - Jun 24, 1860",
+    "mainImg": "img/people/jerome-bonaparte.jpg",
+    "summary": [
+      "Jérôme-Napoléon Bonaparte was the youngest brother of Napoleon I and reigned as Jerome I, King of Westphalia, between 1807 and 1813. From 1816 onward, he bore the title of Prince of Montfort. After 1848, when his nephew, Louis Napoleon, became President of the French Second Republic, he served in several official roles, including Marshal of France from 1850 onward, and President of the Senate in 1852."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Bonaparte",
+    "urlGoogle": "https://artsandculture.google.com/entity/jérôme-bonaparte/m0gvpd"
+  },
+  "place": {
+    "id": "donostia-san-sebastian",
+    "name": "Donostia-San Sebastian",
+    "mainImg": "img/places/donostia-san-sebastian.jpg",
+    "summary": [
+      "San Sebastián or Donostia is a coastal city and municipality located in the Basque Autonomous Community, Spain. It lies on the coast of the Bay of Biscay, 20 km from the French border. The capital city of Gipuzkoa, the municipality's population is 186,095 as of 2015, with its metropolitan area reaching 436,500 in 2010. Locals call themselves donostiarra, both in Spanish and Basque.",
+      "The main economic activities are commerce and tourism, and it is one of the most famous tourist destinations in Spain. Despite the city's small size, events such as the San Sebastián International Film Festival have given it an international dimension. San Sebastián, along with Wrocław, Poland, was the European Capital of Culture in 2016."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n",
+    "urlGoogle": "https://artsandculture.google.com/entity/donostia-san-sebastian/m02l6l8"
+  },
+  "wiki": {
+    "id": "youngstown-ohio",
+    "name": "Youngstown, Ohio",
+    "summary": "Youngstown is a city in the U.S. state of Ohio and is the county seat of Mahoning County. It also extends into Trumbull County. The municipality is on the Mahoning River, approximately 65 miles (105 km) southeast of Cleveland and 61 miles (100 km) northwest of Pittsburgh, Pennsylvania. Youngstown lies 10 miles (16 km) west of the Pennsylvania state line, midway between New York City and Chicago via Interstate 80. The city was named for John Young, an early settler from Whitestown, New York, who established the community's first sawmill and gristmill. Youngstown is in a region of the United States that is often referred to as the Rust Belt. Traditionally known as a center of steel production, Youngstown was forced to redefine itself when the U.S. steel industry fell into decline in the 1970s, leaving communities throughout the region without a major industry. Youngstown also falls within the Appalachian Ohio region, situated amongst the foothills of the Appalachian Mountains. The 2010 census showed that Youngstown had a total population of 66,982, making it Ohio's ninth largest city.",
+    "url": "https://en.wikipedia.org/wiki/Youngstown,_Ohio"
+  },
+  "word": {
+    "id": "prevenient",
+    "word": "prevenient",
+    "url": "https://www.merriam-webster.com/dictionary/prevenient",
+    "partOfSpeech": "adjective",
+    "pronunciation": "prih-VEEN-yunt",
+    "audioPath": "audio/words/prevenient.mp3",
+    "definitions": ["antecedent, anticipatory"],
+    "examples": [
+      "\"What aroused my hackles when I saw the . . . reports on the Academy's findings was the prevenient sense that here . . . was another propaganda statement.\" (R. Emmett Tyrrell Jr., _The Washington Times_, July 7, 2000)"
+    ],
+    "origin": "It would be quite convenient to know where the word \"prevenient\" comes from. Can you find two relatives of \"prevenient\" in that sentence? You probably guessed that \"convenient\" is a cousin -- and you're right; it derives from the Latin verb \"convenire,\" meaning \"to come together\" or \"to be suitable,\" which is itself from \"venire,\" meaning \"to come.\" \"Prevenient,\" which first appeared in English in the mid-1600s, comes to us from the Latin \"praevenire\" (\"to come before\" or \"to anticipate\"), which is also from \"venire.\" The other (albeit distant) relative of \"prevenient\" in the opening sentence is \"come\"; it shares an ancient ancestor with \"venire.\""
+  }
+}

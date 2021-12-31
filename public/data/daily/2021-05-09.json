@@ -1,126 +1,129 @@
 {
   "artist": {
-    "id": "mi-fu",
-    "name": "Mi Fu",
-    "dates": "1051 - 1107",
-    "mainImg": "img/art/artists/mi-fu.jpg",
+    "id": "pietro-lorenzetti",
+    "name": "Pietro Lorenzetti",
+    "dates": "1280 - 1348",
+    "mainImg": "img/art/artists/pietro-lorenzetti.jpg",
     "artworkImgs": [
       {
-        "name": "Pavilion of Rising Clouds",
-        "path": "img/art/artworks/mi-fu-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/pavilion-of-rising-clouds-artist-traditionally-attributed-to-mi-fu/egFfT_g4TtSPlQ"
+        "name": "Saint Catherine of Alexandria",
+        "path": "img/art/artworks/pietro-lorenzetti-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-catherine-of-alexandria-pietro-lorenzetti/wwFFvb-XSIVsmw"
       },
       {
-        "name": "北宋 米芾 草書吳江舟中詩 卷|Poem Written in a Boat on the Wu River",
-        "path": "img/art/artworks/mi-fu-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/北宋-米芾-草書吳江舟中詩-卷-poem-written-in-a-boat-on-the-wu-river-mi-fu/XAG8S_1drV9vhQ"
+        "name": "Presentation of Jesus in the Temple",
+        "path": "img/art/artworks/pietro-lorenzetti-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/presentation-of-jesus-in-the-temple-ambrogio-lorenzetti-lorenzetti/0gFEBgbfCMyrvA"
       },
       {
-        "name": "Calligraphy",
-        "path": "img/art/artworks/mi-fu-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/calligraphy-mi-fu/FQGQ99735JeFmQ"
+        "name": "Madonna with Chid",
+        "path": "img/art/artworks/pietro-lorenzetti-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-with-chid/iwFdlkFAnYAviA"
       },
       {
-        "name": "Calligraphy in Grass Script",
-        "path": "img/art/artworks/mi-fu-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/calligraphy-in-grass-script-mi-fu/ogGIOttuMa2qZQ"
+        "name": "Madonna and Child Enthroned with Angels",
+        "path": "img/art/artworks/pietro-lorenzetti-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-enthroned-with-angels-pietro-lorenzetti-lorenzetti/3wFuot4bhawurA"
+      },
+      {
+        "name": "Madonna with Chid",
+        "path": "img/art/artworks/pietro-lorenzetti-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-with-chid/DwE0OYm8RxrO8w"
+      },
+      {
+        "name": "Virgin and Child Enthroned and Donor, Angels",
+        "path": "img/art/artworks/pietro-lorenzetti-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-and-child-enthroned-and-donor-angels/HwFzCCWvobz-og"
       }
     ],
     "summary": [
-      "Mi Fu was a Chinese painter, poet, and calligrapher born in Taiyuan during the Song dynasty. He became known for his style of painting misty landscapes. This style would be deemed the \"Mi Fu\" style and involved the use of large wet dots of ink applied with a flat brush. His poetry was influenced by Li Bai and his calligraphy by Wang Xizhi.",
-      "Mi Fu is regarded as one of the four greatest calligraphers of the Song dynasty. His style is derived from calligraphers in earlier dynasties, although he developed unique traits of his own.",
-      "As a personality, Mi Fu was noted as an eccentric. At times, they even deemed him \"Madman Mi\" because he was obsessed with collecting stones. He was also known as a heavy drinker. His son, Mi Youren, also became a well known painter following in his father's artistic style."
+      "Pietro Lorenzetti or Pietro Laurati was an Italian painter, active between c.1306 and 1345. Together with his younger brother Ambrogio, he introduced naturalism into Sienese art. In their artistry and experiments with three-dimensional and spatial arrangements, the brothers foreshadowed the art of the Renaissance."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Silk", "Textile"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Mi_Fu",
-    "urlGoogle": "https://artsandculture.google.com/entity/mi-fu/m087tg9"
+    "movements": ["Gothic art", "Sienese School"],
+    "mediums": ["Tempera", "Gold", "Metal", "Wood", "Gold leaf"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pietro_Lorenzetti",
+    "urlGoogle": "https://artsandculture.google.com/entity/pietro-lorenzetti/m01zxpn"
   },
   "event": {
-    "id": "indo-pakistani-war-of-1965",
-    "name": "Indo-Pakistani War of 1965",
-    "dates": "April 1965 - Sep 23, 1965",
-    "mainImg": "img/events/indo-pakistani-war-of-1965.jpg",
+    "id": "bombing-of-chongqing",
+    "name": "Bombing of Chongqing",
+    "dates": "Feb 18, 1938 - Aug 23, 1943",
+    "mainImg": "img/events/bombing-of-chongqing.jpg",
     "summary": [
-      "The Indo-Pakistani War of 1965 was a culmination of skirmishes that took place between April 1965 and September 1965 between Pakistan and India. The conflict began following Pakistan's Operation Gibraltar, which was designed to infiltrate forces into Jammu and Kashmir to precipitate an insurgency against Indian rule. India retaliated by launching a full-scale military attack on West Pakistan. The seventeen-day war caused thousands of casualties on both sides and witnessed the largest engagement of armored vehicles and the largest tank battle since World War II. Hostilities between the two countries ended after a United Nations-mandated ceasefire was declared following diplomatic intervention by the Soviet Union and the United States, and the subsequent issuance of the Tashkent Declaration. Much of the war was fought by the countries' land forces in Kashmir and along the border between India and Pakistan. This war saw the largest amassing of troops in Kashmir since the Partition of India in 1947, a number that was overshadowed only during the 2001–2002 military standoff between India and Pakistan."
+      "The bombing of Chongqing, from 18 February 1938 to 23 August 1943, was part of a terror bombing operation conducted by the Imperial Japanese Army Air Service and Imperial Japanese Navy Air Service on the Chinese provisional capital of Chongqing, authorized by the Imperial General Headquarters.",
+      "A total of 268 air raids were conducted against Chongqing, with more than 11,500, mainly incendiary, bombs dropped. The targets were usually residential areas, business areas, schools, hospitals and other non-military targets.",
+      "These bombings were probably aimed at cowing the Chinese government, or as part of the planned Sichuan invasion."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1965",
-    "urlGoogle": "https://artsandculture.google.com/entity/indo-pakistani-war-of-1965/m02wgzy"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bombing_of_Chongqing",
+    "urlGoogle": "https://artsandculture.google.com/entity/bombing-of-chongqing/m065zw8"
   },
   "funFacts": [
     {
-      "id": "1030",
-      "fact": "Maine is the closest U.S. state to Africa.",
-      "category": ["Geography"]
+      "id": "1013",
+      "fact": "It is illegal to sing off-key in North Carolina.",
+      "category": ["Geography", "Hodgepodge", "Laws"]
     },
     {
-      "id": "831",
-      "fact": "Adults laugh only about 15 to 100 times a day, while six-year-olds laugh an average of 300 times a day.",
-      "category": ["Habits"]
+      "id": "191",
+      "fact": "Popcorn was invented by the American Indians.",
+      "category": ["Food", "History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "506198",
-      "fact": "Before LeVar Burton signed on, Scott Baio was considered for the hosting role on Reading Rainbow."
+      "id": "554050",
+      "fact": "The Palais Idéal in France is built entirely of stones a postman named Ferdinand Cheval picked up on his mail route."
     }
   ],
   "idiom": {
-    "id": "dull-as-dishwater",
-    "term": "dull as dishwater",
-    "definition": "Boring, tedious, as in *That lecture was dull as dishwater.* The original simile, **dull as ditchwater,** dating from the 1700s, alluded to the muddy water in roadside ditches. In the first half of the 1900s, perhaps through mispronunciation, it became *dishwater,* that is, the dingy, grayish water in which dirty dishes had soaked."
+    "id": "burn-the-candle-at-both-ends",
+    "term": "burn the candle at both ends",
+    "definition": "Exhaust one's energies or resources by leading a hectic life. For example, *Joseph's been burning the candle at both ends for weeks, working two jobs during the week and a third on weekends.* This metaphor originated in France and was translated into English in Randle Cotgrave's *Dictionary* (1611), where it referred to dissipating one's wealth. It soon acquired its present broader meaning."
   },
   "person": {
-    "id": "umberto-i-of-italy",
-    "name": "Umberto I of Italy",
-    "dates": "Mar 14, 1844 - Jul 29, 1900",
-    "mainImg": "img/people/umberto-i-of-italy.jpg",
+    "id": "henry-morgenthau-jr",
+    "name": "Henry Morgenthau Jr.",
+    "dates": "May 11, 1891 - Feb 6, 1967",
+    "mainImg": "img/people/henry-morgenthau-jr.jpg",
     "summary": [
-      "Umberto I, nicknamed the Good, was the King of Italy from 9 January 1878 until his assassination on 29 July 1900.",
-      "Umberto's reign saw Italy attempt colonial expansion into the Horn of Africa, successfully gaining Eritrea and Somalia despite being defeated by Abyssinia at the Battle of Adwa in 1896. In 1882, he approved the Triple Alliance with the German Empire and Austria-Hungary.",
-      "He was deeply loathed in leftist circles because of his conservatism and support of the Bava Beccaris massacre in Milan. He was especially hated by anarchists, who attempted to assassinate him during the first year of his reign. He was killed by another anarchist, Gaetano Bresci, two years after the Bava-Beccaris massacre."
+      "Henry Morgenthau Jr. was the United States Secretary of the Treasury during most of the administration of Franklin D. Roosevelt. He played a major role in designing and financing the New Deal. After 1937, while still in charge of the Treasury, he played the central role in financing United States participation in World War II. He also played an increasingly major role in shaping foreign policy, especially with respect to Lend-Lease, support for China, helping Jewish refugees, and proposing to prevent Germany from again being a military threat by wrecking its industry and mines.",
+      "Morgenthau was the father of Robert M. Morgenthau, who was District Attorney of Manhattan for 35 years and Henry Morgenthau III, an American author and television producer. He continued as treasury secretary through the first few months of Harry Truman's presidency, and from June 27, 1945 to July 3, 1945, following the resignation of Secretary of State Edward Stettinius Jr., was next in line to the presidency. Morgenthau was the first and only Jew to be first in the presidential line of succession."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Umberto_I_of_Italy",
-    "urlGoogle": "https://artsandculture.google.com/entity/umberto-i-of-italy/m0hhfn"
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Morgenthau_Jr.",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-morgenthau-jr/m02sl0c"
   },
   "place": {
-    "id": "new-york",
-    "name": "New York",
-    "mainImg": "img/places/new-york.jpg",
+    "id": "miami-beach",
+    "name": "Miami Beach",
+    "mainImg": "img/places/miami-beach.jpg",
     "summary": [
-      "New York City, often called The City, The Big Apple, or simply New York, is the most populous city in the United States. With an estimated 2019 population of 8,336,817 distributed over about 302.6 square miles, New York is also the most densely populated major city in the United States. Located at the southern tip of the U.S. state of New York, the city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban landmass. With almost 20 million people in its metropolitan statistical area and approximately 23 million in its combined statistical area, it is one of the world's most populous megacities. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and sports. Home to the headquarters of the United Nations, New York is an important center for international diplomacy.",
-      "Situated on one of the world's largest natural harbors, New York City is composed of five boroughs, each of which is a county of the State of New York."
+      "Miami Beach is a coastal resort city in Miami-Dade County, Florida, United States. It was incorporated on March 26, 1915. The municipality is located on natural and man-made barrier islands between the Atlantic Ocean and Biscayne Bay, the latter of which separates the Beach from the mainland city of Miami. The neighborhood of South Beach, comprising the southernmost 2.5 square miles of Miami Beach, along with downtown Miami and the Port of Miami, collectively form the commercial center of South Florida. Miami Beach's estimated population is 88,885 according to the most recent United States census estimates. Miami Beach is the 26th largest city in Florida based on official 2019 estimates from the US Census Bureau. It has been one of America's pre-eminent beach resorts since the early 20th century.",
+      "In 1979, Miami Beach's Art Deco Historic District was listed on the National Register of Historic Places. The Art Deco District is the largest collection of Art Deco architecture in the world and comprises hundreds of hotels, apartments and other structures erected between 1923 and 1943. Mediterranean, Streamline Moderne and Art Deco are all represented in the District."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/New_York_City",
-    "urlGoogle": "https://artsandculture.google.com/entity/new-york/m02_286"
-  },
-  "quote": {
-    "id": "3",
-    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
-    "author": "Albert Einstein"
+    "urlWiki": "https://en.wikipedia.org/wiki/Miami_Beach,_Florida",
+    "urlGoogle": "https://artsandculture.google.com/entity/miami-beach/m0rnmy"
   },
   "wiki": {
-    "id": "ziad-jarrah",
-    "name": "Ziad Jarrah",
-    "summary": "Ziad Jarrah was named by the FBI as one of the hijackers of United Airlines Flight 93 as part of the September 11, 2001 attacks. He is believed to have taken over as the pilot of the aircraft and made an unsuccessful attempt to crash the plane into either the White House or the U.S. Capitol. After a wealthy and secular upbringing, Jarrah became involved in the September 11 conspiracy in college. Unique among the hijackers, he had a girlfriend and was close to his family. There are disputes concerning whether or not Jarrah was actually on Flight 93, although the 9/11 Commission concluded that his was not a case of mistaken identity.",
-    "url": "https://en.wikipedia.org/wiki/Ziad_Jarrah"
+    "id": "yosemite-national-park",
+    "name": "Yosemite National Park",
+    "summary": "Yosemite National Park is a national park largely in Mariposa County, and Tuolumne County, California, United States. The park covers an area of 1,189 mi² (3,081 km²) and reaches across the western slopes of the Sierra Nevada mountain chain. Yosemite is visited by over 3.5 million visitors each year, with most only seeing the seven square miles of Yosemite Valley. Designated a World Heritage Site in 1984, Yosemite is internationally recognized for its spectacular granite cliffs, waterfalls, clear streams, Giant Sequoia groves, and biological diversity. About 89% of the park is designated Wilderness. It was also the first park set aside by the U.S. federal government. Although not the first designated national park, Yosemite was a focal point in the development of the national park idea, largely owing to the work of people like John Muir. Yosemite is one of the largest and least fragmented habitat blocks in the Sierra Nevada, and the park supports a diversity of plants and animals.",
+    "url": "https://en.wikipedia.org/wiki/Yosemite_National_Park"
   },
   "word": {
-    "id": "meshuggener",
-    "word": "meshuggener",
-    "url": "https://www.merriam-webster.com/dictionary/meshuggener",
+    "id": "philippic",
+    "word": "philippic",
+    "url": "https://www.merriam-webster.com/dictionary/philippic",
     "partOfSpeech": "noun",
-    "pronunciation": "muh-SHUG-uhner",
-    "audioPath": "audio/words/meshuggener.mp3",
-    "definitions": ["a foolish or crazy person"],
+    "pronunciation": "fuh-LIP-ik",
+    "audioPath": "audio/words/philippic.mp3",
+    "definitions": ["a discourse or declamation full of bitter condemnation : tirade"],
     "examples": [
-      "Alex wondered what kind of _meshuggener_ would be foolish enough to buy bonds from a known scam artist.",
-      "\"'Take no notice,' she said…. 'The man's a _meshuggener_.'\" -- From Howard Jacobson's 2010 novel _The Finkler Question_"
+      "The columnist's most recent philippic took the governor to task for her neglect of education reform in light of declining test scores throughout the state."
     ],
-    "origin": "From \"bagel\" and \"chutzpah\" to \"shtick\" and \"yenta,\" Yiddish has given English many a colorful term over the years. \"Meshuggener\" is another example of what happens when English interprets that rich Jewish language. \"Meshuggener\" comes from the Yiddish \"meshugener,\" which in turn derives from \"meshuge,\" an adjective that is synonymous with \"crazy\" or \"foolish.\" English speakers have used the adjective form, \"meshuga\" or \"meshugge,\" to mean \"foolish\" since the late 1800s; we've dubbed foolish folk \"meshuggeners\" since at least 1900."
+    "origin": "In 351 B.C., the Greek orator Demosthenes delivered a fiery speech warning his countrymen against the imperialistic designs of Philip II, king of Macedon, and chastising them for their timidity and inaction. In Greek, this and subsequent such speeches on the subject made by Demosthenes were known as \"philippikoi logoi,\" literally, \"speeches relating to Philip.\" Demosthenes is known to have delivered only three Philippics; in contrast, the Philippics of the Roman statesman Marcus Tullius Cicero attacking Marc Antony some 300 years later -- \"orationes philippicae\" in Latin (so-named because of their similarity to Demosthenes' orations) -- numbered fourteen. We still capitalize the word when we refer to these famous diatribes, but ever since 1592, \"philippic\" has been used (usually in lowercase) in a broader sense as well."
   }
 }

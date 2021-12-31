@@ -1,129 +1,133 @@
 {
   "artist": {
-    "id": "jean-etienne-liotard",
-    "name": "Jean-Étienne Liotard",
-    "dates": "Dec 22, 1702 - Jun 12, 1789",
-    "mainImg": "img/art/artists/jean-etienne-liotard.jpg",
+    "id": "qi-baishi",
+    "name": "Qi Baishi",
+    "dates": "Jan 1, 1864 - Sep 16, 1957",
+    "mainImg": "img/art/artists/qi-baishi.jpg",
     "artworkImgs": [
       {
-        "name": "Portrait of Maria Frederike van Reede-Athlone at Seven Years of Age",
-        "path": "img/art/artworks/jean-etienne-liotard-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-jean-étienne-liotard/2wHMXlwUz7puKA"
+        "name": "Shrimps",
+        "path": "img/art/artworks/qi-baishi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/shrimps-qi-baishi/ngGG4yy7P-tGuA"
       },
       {
-        "name": "Portret van Marie Jos¬phe van Saksen (1731-67), dauphine van Frankrijk",
-        "path": "img/art/artworks/jean-etienne-liotard-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/portret-van-marie-jos¬phe-van-saksen-1731-67-dauphine-van-frankrijk-jean-etienne-liotard/sQGS7AmbYhABeg"
+        "name": "Album of Plants and Insects Painting - grasshopper",
+        "path": "img/art/artworks/qi-baishi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-plants-and-insects-painting-grasshopper-qi-baishi/BgHcqNe7aP34rw"
       },
       {
-        "name": "A Woman in Turkish Dress",
-        "path": "img/art/artworks/jean-etienne-liotard-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/a-woman-in-turkish-dress-jean-étienne-liotard/VwFN4ePQflg46A"
+        "name": "Morning Glory and Dragonfly",
+        "path": "img/art/artworks/qi-baishi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/morning-glory-and-dragonfly-qi-baishi/tgGl1MNwPTLbRA"
       },
       {
-        "name": "A Frankish Woman and Her Servant",
-        "path": "img/art/artworks/jean-etienne-liotard-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/a-frankish-woman-and-her-servant-jean-etienne-liotard/NgGm3vmGzGH5xw"
+        "name": "Song-Style Landscape",
+        "path": "img/art/artworks/qi-baishi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/song-style-landscape-qi-baishi/lQHlIBjy1mO0Jg"
       },
       {
-        "name": "Portret van Graaf Francesco Algarotti",
-        "path": "img/art/artworks/jean-etienne-liotard-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/portret-van-graaf-francesco-algarotti-jean-etienne-liotard/DwF97BT1cMoZ9w"
+        "name": "Album of Plants and Insects Painting - winged insects",
+        "path": "img/art/artworks/qi-baishi-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-plants-and-insects-painting-winged-insects-qi-baishi/nAGEmbs0j9a-Cg"
       },
       {
-        "name": "Princess Caroline Louise of Hesse-Darmstadt",
-        "path": "img/art/artworks/jean-etienne-liotard-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/princess-caroline-louise-of-hesse-darmstadt-jean-étienne-liotard/VwEdap0JXfaypQ"
+        "name": "Album of Plants and Insects Painting - cyan moth",
+        "path": "img/art/artworks/qi-baishi-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-plants-and-insects-painting-cyan-moth-qi-baishi/nwGMIc_M-_NI_w"
       }
     ],
     "summary": [
-      "Jean-Étienne Liotard was a Swiss painter, art connoisseur and dealer. He is best known for his portraits in pastel, and for the works from his trip to Turkey. A Huguenot of French origin and citizen of the Republic of Geneva, he was born and died in Geneva, but spent most of his career in stays in the capitals of Europe, where his portraits were much in demand. He worked in Rome, Istanbul, Paris, Vienna, London and other cities."
+      "Qi Baishi was a Chinese painter, noted for the whimsical, often playful style of his watercolor works.",
+      "Born to a peasant family from Xiangtan, Hunan, Qi became a carpenter at 14, and learned to paint by himself. When he came across the Mustard Seed Garden Manual of Painting, that sparked his interest to paint. He did not start learning painting and calligraphy until he was 27. After he turned 40, he traveled, visiting various scenic spots in China. After 1917 he settled in Beijing.",
+      "Some of Qi's major influences include the early Qing dynasty painter Bada Shanren and the Ming dynasty artist Xu Wei.",
+      "His pseudonyms include Qí Huáng and Qí Wèiqīng. The subjects of his paintings include almost everything, commonly animals, scenery, figures, toys, vegetables, and so on. He theorized that \"paintings must be something between likeness and unlikeness, much like today's vulgarians, but not like to cheat popular people\". In his later years, many of his works depict mice, shrimp or birds.",
+      "He was also good at seal carving and called himself \"the rich man of three hundred stone seals\".",
+      "In 1953, he was elected president of the China Artists Association. He died in Beijing in 1957."
     ],
     "quote": null,
     "movements": [],
-    "mediums": ["Etching", "Engraving", "Textile", "Drawing", "Oil paint", "Vellum"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jean-%C3%89tienne_Liotard",
-    "urlGoogle": "https://artsandculture.google.com/entity/jean-étienne-liotard/m07t4v8"
+    "mediums": ["Ink", "Book", "Watercolor painting", "Pigment", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Qi_Baishi",
+    "urlGoogle": "https://artsandculture.google.com/entity/qi-baishi/m033xb6"
   },
   "event": {
-    "id": "apollo-program",
-    "name": "Apollo program",
-    "dates": "1961 - 1975",
-    "mainImg": "img/events/apollo-program.jpg",
+    "id": "first-indochina-war",
+    "name": "First Indochina War",
+    "dates": "Dec 19, 1946 - Aug 1, 1954",
+    "mainImg": "img/events/first-indochina-war.jpg",
     "summary": [
-      "The Apollo program, also known as Project Apollo, was the third United States human spaceflight program carried out by the National Aeronautics and Space Administration, which succeeded in landing the first men on the Moon from 1969 to 1972. It was first conceived during Dwight D. Eisenhower's administration as a three-person spacecraft to follow the one-person Project Mercury, which put the first Americans in space. Apollo was later dedicated to President John F. Kennedy's national goal of \"landing a man on the Moon by the end of this decade and returning him safely to the Earth\" in an address to Congress on May 25, 1961. It was the third US human spaceflight program to fly, preceded by the two-person Project Gemini conceived in 1961 to extend spaceflight capability in support of Apollo.",
-      "Kennedy's goal was accomplished on the Apollo 11 mission when astronauts Neil Armstrong and Buzz Aldrin landed their Apollo Lunar Module on July 20, 1969, and walked on the lunar surface, while Michael Collins remained in lunar orbit in the command and service module, and all three landed safely on Earth on July 24."
+      "The First Indochina War began in French Indochina on December 19, 1946, and lasted until July 20, 1954. Fighting between French forces and their Việt Minh opponents in the south dated from September 1945. The conflict pitted a range of forces, including the French Union's French Far East Expeditionary Corps, led by France and supported by Bảo Đại's Vietnamese National Army against the Việt Minh, led by Hồ Chí Minh and the People's Army of Vietnam led by Võ Nguyên Giáp. Most of the fighting took place in Tonkin in northern Vietnam, although the conflict engulfed the entire country and also extended into the neighboring French Indochina protectorates of Laos and Cambodia.",
+      "At the Potsdam Conference in July 1945, the Combined Chiefs of Staff decided that Indochina south of latitude 16° north was to be included in the Southeast Asia Command under British Admiral Mountbatten. Japanese forces located south of that line surrendered to him and those to the north surrendered to Generalissimo Chiang Kai-shek. In September 1945, Chinese forces entered Tonkin, and a small British task force landed at Saigon."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Apollo_program",
-    "urlGoogle": "https://artsandculture.google.com/entity/apollo-program/m0q3w"
+    "urlWiki": "https://en.wikipedia.org/wiki/First_Indochina_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/first-indochina-war/m01gjd0"
   },
   "funFacts": [
     {
-      "id": "953",
-      "fact": "The longest attack of hiccups ever lasted 68 years.",
-      "category": ["Anatomy", "History", "Science"]
+      "id": "52",
+      "fact": "About 11% of the people in the world are left-handed.",
+      "category": ["Anatomy"]
     },
-    {
-      "id": "137",
-      "fact": "The city of Los Angeles has about 3x more automobiles than people.",
-      "category": ["Geography"]
-    }
+    { "id": "176", "fact": "The first bike was called a hobbyhorse.", "category": ["Firsts"] }
   ],
   "funFacts2": [
     {
-      "id": "554034",
-      "fact": "People walked differently in medieval times. They stepped with the ball of the foot first to check the ground for debris, perhaps because well-soled shoes were hard to come by."
+      "id": "504825",
+      "fact": "Beauty and the Beast was the first animated film to be nominated for Best Picture. It lost to The Silence of the Lambs."
     }
   ],
   "idiom": {
-    "id": "red-letter-day",
-    "term": "red-letter day",
-    "definition": "A special occasion, as in *When Jack comes home from his tour of duty, that'll be a red-letter day.* This term alludes to the practice of marking feast days and other holy days in red on church calendars, dating from the 1400s. [c. 1700]"
+    "id": "three-sheets-to-the-wind",
+    "term": "three sheets to the wind",
+    "definition": "Also, **three sheets in the wind.** Drunk, inebriated, as in *After six beers he's three sheets to the wind.* This expression is generally thought to refer to the sheet---that is, a rope or chain---that holds one or both lower corners of a sail. If the sheet is allowed to go slack in the wind, the sail flaps about and the boat is tossed about much as a drunk staggers. Having three sheets loose would presumably make the situation all the worse. Another explanation holds that with two or four sheets to the wind the boat is balanced, whereas with three it is not. [Mid-1800s]"
   },
   "person": {
-    "id": "erwin-rommel",
-    "name": "Erwin Rommel",
-    "dates": "Nov 15, 1891 - Oct 14, 1944",
-    "mainImg": "img/people/erwin-rommel.jpg",
+    "id": "john-james",
+    "name": "John James",
+    "dates": "Born Jun 8, 1981",
+    "mainImg": "img/people/john-james.jpg",
     "summary": [
-      "Johannes Erwin Eugen Rommel was a German general and military theorist. Popularly known as the Desert Fox, he served as field marshal in the Wehrmacht of Nazi Germany during World War II, as well as serving in the Reichswehr of the Weimar Republic, and the army of Imperial Germany.",
-      "Rommel was a highly decorated officer in World War I and was awarded the Pour le Mérite for his actions on the Italian Front. In 1937 he published his classic book on military tactics, Infantry Attacks, drawing on his experiences in that war. In World War II, he distinguished himself as the commander of the 7th Panzer Division during the 1940 invasion of France. His leadership of German and Italian forces in the North African campaign established his reputation as one of the ablest tank commanders of the war, and earned him the nickname der Wüstenfuchs, \"the Desert Fox\". Among his British adversaries he had a reputation for chivalry, and his phrase \"war without hate\" has been used to describe the North African campaign."
-    ],
-    "quote": "“Don't fight a battle if you don't gain anything by winning.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Erwin_Rommel",
-    "urlGoogle": "https://artsandculture.google.com/entity/erwin-rommel/m02lmk"
-  },
-  "place": {
-    "id": "cameroon",
-    "name": "Cameroon",
-    "mainImg": "img/places/cameroon.jpg",
-    "summary": [
-      "Cameroon, officially the Republic of Cameroon, is a country in Central Africa. It is bordered by Nigeria to the west and north; Chad to the northeast; the Central African Republic to the east; and Equatorial Guinea, Gabon and the Republic of the Congo to the south. Cameroon's coastline lies on the Bight of Biafra, part of the Gulf of Guinea and the Atlantic Ocean. Although Cameroon is not an ECOWAS member state, it is geographically and historically in West Africa with the Southern Cameroons which now form her Nord-Ouest and Sud-Ouest Regions having a strong West African history. However, since 2017, elements within the Sud-Ouest and Nord-Ouest regions have since declared an independent state called Ambazonia. The country is sometimes identified as West African and other times as Central African due to its strategic position at the crossroads between West and Central Africa. Cameroon is home to over 250 native languages spoken by nearly 20 million people.",
-      "Early inhabitants of the territory included the Sao civilisation around Lake Chad and the Baka hunter-gatherers in the southeastern rainforest."
+      "John Edward James is an American politician, businessman, and veteran. He was the Republican candidate for the 2018 United States Senate election in Michigan but lost to the incumbent Democrat, Debbie Stabenow. James is a candidate for the Senate again in 2020.",
+      "From 2004 to 2012, James served in the United States Army. After he was discharged, James joined his family's supply chain business."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cameroon",
-    "urlGoogle": "https://artsandculture.google.com/entity/cameroon/m01nln"
+    "urlWiki": "https://en.wikipedia.org/wiki/John_E._James",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-james/g11f7r6ft_j"
+  },
+  "place": {
+    "id": "timișoara",
+    "name": "Timișoara",
+    "mainImg": "img/places/timișoara.jpg",
+    "summary": [
+      "Timișoara is the capital city of Timiș County, the 3rd largest city in Romania and the main social, economic and cultural centre in western Romania.",
+      "Nicknamed the Little Vienna or the City of Flowers, Timișoara is considered the informal capital city of the historical Banat. The country's third most populous city is the economic hub of the region, with 319,279 inhabitants as of the 2011 census, home to almost a half-million inhabitants in the metropolitan area, as well as ca. 50,000 students from over 50 countries.",
+      "In late contemporary times, Timișoara, like many other large cities in Romania, is a medical tourism service provider especially for dental care. It also offers excellent academic institutions, attracting thousands international students annually mainly at its medical school. As a technology hub, the city has one of the most powerful IT sectors in Romania alongside Bucharest, Cluj-Napoca, Iași, and Brașov, becoming a popular tech destination according to Financial Times. In 2013 Timișoara had the fastest internet download speed in the world. Along with Oradea, Timișoara is part of the Art Nouveau European Route."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Timi%C8%99oara",
+    "urlGoogle": "https://artsandculture.google.com/entity/timișoara/m0gj0x"
   },
   "wiki": {
-    "id": "cirrus-cloud",
-    "name": "Cirrus cloud",
-    "summary": "Cirrus clouds are atmospheric clouds characterized by thin, wispy strands, often bunched into tufts. They range in color from white to a faint gray and form when water vapor undergoes deposition at altitudes above 5,000 m (16,500 ft) in temperate regions and above 6,100 m (20,000 ft) in tropical regions. They also form from the outflow of tropical cyclones or the anvils of cumulonimbus clouds. Since these cirrus clouds arrive in advance of the frontal system or tropical cyclone, they indicate that the weather conditions may soon deteriorate. While they indicate the arrival of precipitation, cirrus clouds themselves produce only fall streaks (falling ice crystals that evaporate before landing on the ground). Jet stream-powered cirrus clouds can grow long enough to stretch across continents, but they remain only a few kilometers deep. When visible light interacts with the ice crystals in cirrus clouds, it produces glories, sundogs, and fire rainbows. Cirrus clouds raise the temperature of the air beneath them by an average of 10 °C (18 °F).",
-    "url": "https://en.wikipedia.org/wiki/Cirrus_cloud"
+    "id": "dawson-creek-british-columbia",
+    "name": "Dawson Creek, British Columbia",
+    "summary": "Dawson Creek is a small city in northeastern British Columbia, Canada. It covers an area of 20.66 square kilometres (7.98 sq mi)* with a 2006 population of 11,615 people. Dubbed \"The Capital of the Peace\", it is a service centre for the rural areas south of the Peace River and the seat of the Peace River Regional District. Dawson Creek turned from a small farming community to a regional centre when the western terminus of the Northern Alberta Railways was extended there in 1932, and the US Army used that terminus as a transshipment point in 1942 during the construction of the Alaska Highway. Most of the city's development occurred between 1942 and 1966 when highways and railways were built connecting the farming area of the Peace River Country to the rest of BC through Dawson Creek. Dawson Creek derived its name from the creek of the same name that runs through the city. The creek was named after George Mercer Dawson by a member of his land survey team when they passed through the area in August 1879. The city, at the southern end of the Alaska Highway, is known as the \"Mile 0 City\" and is also home to a regional fall fair and heritage interpretation village.",
+    "url": "https://en.wikipedia.org/wiki/Dawson_Creek,_British_Columbia"
   },
   "word": {
-    "id": "tucket",
-    "word": "tucket",
-    "url": "https://www.merriam-webster.com/dictionary/tucket",
-    "partOfSpeech": "noun",
-    "pronunciation": "TUCK-ut",
-    "audioPath": "audio/words/tucket.mp3",
-    "definitions": ["a fanfare on a trumpet"],
-    "examples": [
-      "The _tucket_ sounded, and everyone rose as the king and queen entered the courtyard.",
-      "\"Bare unisons of woodwind, trumpets, and horns exchange [sennets](https://www.merriam-webster.com/dictionary/sennet) and _tuckets_.\" -- From a classical music review by Edward Seckerson in _The Independent_ (London), July 25, 1997"
+    "id": "realia",
+    "word": "realia",
+    "url": "https://www.merriam-webster.com/dictionary/realia",
+    "partOfSpeech": "noun plural",
+    "pronunciation": "ree-AL-ee-uh",
+    "audioPath": "audio/words/realia.mp3",
+    "definitions": [
+      "objects or activities used to relate classroom teaching to the real life especially of peoples studied"
     ],
-    "origin": "\"Tucket\" can be found most notably in the stage directions of several of William Shakespeare's plays. In _King Lear_, for example, a tucket sounds to alert the Earl of Gloucester of the arrival of the Duke of Cornwall (Act II, Scene i). The word \"tucket\" is thought to derive from the obsolete English verb \"tuk,\" meaning \"to beat a drum\" or \"to sound a trumpet.\" These days, the word \"fanfare\" itself refers to a sounding of trumpets made in celebration or to alert one of another's arrival. The presence of \"fanfare\" might be the reason that \"tucket\" is rarely used in contemporary English."
+    "examples": [
+      "Among the _realia_ used for the class's lesson on World War II was a helmet and canteen that had belonged to one student’s great-grandfather.",
+      "\"It's common knowledge that eighth grade is one of life's low points. Here, it literally makes Ginny Davis sick. Photo-collages of poems, notes, text and chat messages, comics, _realia_ of all sorts and, especially, food document the descent of Ginny's school year.\" - From a book review in _Kirkus Reviews_, July 15, 2012"
+    ],
+    "origin": "\"Realia,\" as defined above, was first used in the late 19th century, and is still mostly used in the classroom by teachers, especially foreign language teachers. It is also used in library cataloguing (in reference to such bizarre things as an author's hair and teeth donated posthumously) and occasionally finds its way into other contexts as well. You might, for example, hear of someone putting \"realia\"-objects that represent present-day life-in a time capsule. \"Realia\" is also sometimes used philosophically to distinguish real things from the theories about them-a meaning that dates to the early 19th century. \"Realia\" is one of those plural formations without a corresponding singular form. Like \"memorabilia\" (\"memorable things\" or \"mementos\"), \"juvenilia\" (\"works produced in an artist's or author's youth\"), and \"marginalia\" (\"marginal notes or embellishments\"), it incorporates the Latin plural ending \"-ia.\""
   }
 }

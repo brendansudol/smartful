@@ -1,138 +1,133 @@
 {
   "artist": {
-    "id": "rosa-bonheur",
-    "name": "Rosa Bonheur",
-    "dates": "Mar 16, 1822 - May 25, 1899",
-    "mainImg": "img/art/artists/rosa-bonheur.jpg",
+    "id": "simeon-solomon",
+    "name": "Simeon Solomon",
+    "dates": "Oct 9, 1840 - Aug 14, 1905",
+    "mainImg": "img/art/artists/simeon-solomon.jpg",
     "artworkImgs": [
       {
-        "name": "The Horse Fair",
-        "path": "img/art/artworks/rosa-bonheur-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-horse-fair-rosa-bonheur/CQEwn148MFVH9w"
+        "name": "Hosannah! (Dalziels' Bible Gallery)",
+        "path": "img/art/artworks/simeon-solomon-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/hosannah-dalziels-bible-gallery-camden-press-scribner-and-welford-dalziel-brothers-simeon-solomon/6QFEcko0Gb04EQ"
       },
       {
-        "name": "Weaning the Calves",
-        "path": "img/art/artworks/rosa-bonheur-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/weaning-the-calves-rosa-bonheur/GQFWW9BxSiAc1g"
+        "name": "The Mother of Moses",
+        "path": "img/art/artworks/simeon-solomon-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-mother-of-moses/XgFyz6OrGkGBfw"
       },
       {
-        "name": "A Limier Briquet Hound",
-        "path": "img/art/artworks/rosa-bonheur-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/a-limier-briquet-hound-rosa-bonheur/NAGcz0kq5p8cQA"
+        "name": "A Youth Relating Tales to Ladies",
+        "path": "img/art/artworks/simeon-solomon-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-youth-relating-tales-to-ladies-simeon-solomon/ewE8N6iMLOrWiQ"
       },
       {
-        "name": "Highland Raid",
-        "path": "img/art/artworks/rosa-bonheur-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/highland-raid-rosa-bonheur/LgFFs-4LCo8eqw"
+        "name": "Naomi and the Child Obed (Dalziels' Bible Gallery)",
+        "path": "img/art/artworks/simeon-solomon-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/naomi-and-the-child-obed-dalziels-bible-gallery-camden-press-scribner-and-welford-dalziel-brothers-simeon-solomon/TwGEBSuo7rD3-Q"
       },
       {
-        "name": "Sheep by the Sea",
-        "path": "img/art/artworks/rosa-bonheur-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/sheep-by-the-sea-rosa-bonheur/5gHe7NOwPF5ThQ"
+        "name": "Melchizedek Blesses Abram (Dalziels' Bible Gallery)",
+        "path": "img/art/artworks/simeon-solomon-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/melchizedek-blesses-abram-dalziels-bible-gallery-camden-press-scribner-and-welford-dalziel-brothers-simeon-solomon/aQEes6P7t8hjiA"
       },
       {
-        "name": "Ewe, or A Grazing Sheep",
-        "path": "img/art/artworks/rosa-bonheur-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/ewe-or-a-grazing-sheep-rosa-bonheur/qgHBBy6IvjWaYw"
+        "name": "The Infant Moses (Dalziels' Bible Gallery)",
+        "path": "img/art/artworks/simeon-solomon-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-infant-moses-dalziels-bible-gallery-camden-press-scribner-and-welford-dalziel-brothers-simeon-solomon/aQEb3jEhS1YKRg"
       }
     ],
     "summary": [
-      "Rosa Bonheur, born Marie-Rosalie Bonheur, was a French artist, mostly a painter of animals but also a sculptor, in a realist style. Her best-known paintings are Ploughing in the Nivernais, first exhibited at the Paris Salon of 1848, and now at the Musée d'Orsay in Paris, and The Horse Fair, which was exhibited at the Salon of 1853 and is now in the Metropolitan Museum of Art, in New York City. Bonheur was widely considered to be the most famous female painter of the nineteenth century."
+      "Simeon Solomon was an English painter associated with the Pre-Raphaelites who was noted for his depictions of Jewish life and same-sex desire.",
+      "His career was cut short following arrests and convictions for sodomy in 1873 and 1874."
     ],
     "quote": null,
-    "movements": ["Realism"],
-    "mediums": ["Oil paint", "Ink", "Bronze", "Drawing", "Metal", "Chalk"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Rosa_Bonheur",
-    "urlGoogle": "https://artsandculture.google.com/entity/rosa-bonheur/m0jr4v"
+    "movements": ["Pre-Raphaelite Brotherhood"],
+    "mediums": ["Drawing", "Chalk", "Pigment", "Wood", "Engraving", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Simeon_Solomon",
+    "urlGoogle": "https://artsandculture.google.com/entity/simeon-solomon/m07mn5z"
   },
   "event": {
-    "id": "battle-of-buna-gona",
-    "name": "Battle of Buna–Gona",
-    "dates": "Nov 16, 1942 - Jan 22, 1943",
-    "mainImg": "img/events/battle-of-buna-gona.jpg",
+    "id": "2008-summer-olympics",
+    "name": "2008 Summer Olympics",
+    "dates": "Aug 8, 2008 - Aug 24, 2008",
+    "mainImg": "img/events/2008-summer-olympics.jpg",
     "summary": [
-      "The Battle of Buna–Gona was part of the New Guinea campaign in the Pacific Theatre during World War II. It followed the conclusion of the Kokoda Track campaign and lasted from 16 November 1942 until 22 January 1943. The battle was fought by Australian and United States forces against the Japanese beachheads at Buna, Sanananda and Gona. From these, the Japanese had launched an overland attack on Port Moresby. In light of developments in the Solomon Islands campaign, Japanese forces approaching Port Moresby were ordered to withdraw to and secure these bases on the northern coast. Australian forces maintained contact as the Japanese conducted a well-ordered rearguard action. The Allied objective was to eject the Japanese forces from these positions and deny them their further use. The Japanese forces were skillful, well prepared and resolute in their defence. They had developed a strong network of well-concealed defences.",
-      "Operations in Papua and New Guinea were severely hampered by terrain, vegetation, climate, disease and the lack of infrastructure; these imposed significant logistical limitations."
+      "The 2008 Summer Olympics, officially known as the Games of the XXIX Olympiad, and commonly known as Beijing 2008, was an international multi-sport event that was held from 8 to 24 August 2008 in Beijing, China.",
+      "A total of 10,942 athletes from 204 National Olympic Committees competed in 28 sports and 302 events. This was the first time that China had hosted the Summer Olympics, and the third time that the Games had been held in East Asia, following the 1964 Summer Olympics in Tokyo, Japan, and the 1988 Summer Olympics in Seoul, South Korea. These were the third summer Olympic Games staged in a developing country after the Mexico City 1968 Summer Olympics and the 1980 Summer Olympics in the Soviet Union.",
+      "Beijing was awarded the 2008 Games over four competitors on 13 July 2001, having won a majority of votes from members of the International Olympic Committee after two rounds of voting. The Government of the People's Republic of China promoted the Games and invested heavily in new facilities and transport systems. A total of 37 venues were used to host the events, including twelve constructed specifically for the 2008 Olympics."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Buna%E2%80%93Gona",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-buna–gona/m0477nv"
+    "urlWiki": "https://en.wikipedia.org/wiki/2008_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/2008-summer-olympics/m0kbws"
   },
   "funFacts": [
+    { "id": "716", "fact": "There is a museum of strawberries in Belgium.", "category": ["Food"] },
     {
-      "id": "233",
-      "fact": "There are seven letters that look the same upside down as right side up.",
+      "id": "855",
+      "fact": "Oregon has more ghost towns than any other US state.",
       "category": ["Hodgepodge"]
-    },
-    {
-      "id": "418",
-      "fact": "The smallest mammal in the world is the bumblebee bat, which weighs less than a penny.",
-      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554078",
-      "fact": "There's a library in Ankara, Turkey, that's filled with discarded books trash collectors rescued from landfills."
+      "id": "553436",
+      "fact": "When Hattie McDaniel became the first African American to win an Oscar in 1940, she had to make her way to the stage from a segregated table at the back of the room."
     }
   ],
   "idiom": {
-    "id": "right-as-rain",
-    "term": "right as rain",
-    "definition": "In good order or good health, satisfactory, as in *He was very ill, but he's right as rain now,* or *If she'd only worked on it another week everything would have been as right as rain.* The allusion in this simile is unclear, but it originated in Britain, where rainy weather is a normal fact of life, and indeed W.L. Phelps wrote, \"The expression 'right as rain' must have been invented by an Englishman.\" It was first recorded in 1894."
+    "id": "absence-makes-the-heart-grow-fonder",
+    "term": "absence makes the heart grow fonder",
+    "definition": "Separation intensifies love, as in *After a year in another country she accepted his proposal, so I guess absence makes the heart grow fonder,* or, used ironically, *The boss leaves earlier every day; oh well, absence makes the heart grow fonder.* Although versions of this saying date from Roman times, it only became popular after Thomas Haynes Bayly used it as the last line of a song in *The Isle of Beauty* (1850)."
   },
   "person": {
-    "id": "lech-kaczynski",
-    "name": "Lech Kaczyński",
-    "dates": "Jun 18, 1949 - Apr 10, 2010",
-    "mainImg": "img/people/lech-kaczynski.jpg",
+    "id": "hugh-franklin",
+    "name": "Hugh Franklin",
+    "dates": "May 27, 1889 - Oct 21, 1962",
+    "mainImg": "img/people/hugh-franklin.jpg",
     "summary": [
-      "Lech Aleksander Kaczyński was a Polish lawyer and politician who served as the Mayor of Warsaw from 2002 until 2005 and as the President of Poland from 2005 until his death in 2010. Before his tenure as president, he previously served as President of the Supreme Audit Office from 1992 to 1995 and later Minister of Justice and Public Prosecutor General in Jerzy Buzek's cabinet from 2000 until his dismissal in July 2001.",
-      "Born in Warsaw, he starred in a 1962 Polish film, The Two Who Stole the Moon, with his identical twin brother Jarosław. Kaczyński was a graduate of law and administration of Warsaw University. In 1980, he was awarded his PhD by Gdańsk University. In 1990, he completed his habilitation in labour and employment law. He later assumed professorial positions at Gdańsk University and Cardinal Stefan Wyszyński University in Warsaw.",
-      "During the communist period, Kaczyński was an activist in the pro-democratic anti-communist movement in Poland, the Workers' Defence Committee, as well as the Independent Trade Union movement. In August 1980, he became an adviser to the Inter-Enterprise Strike Committee in the Gdańsk Shipyard and the Solidarity movement."
+      "Hugh Arthur Franklin was a British suffragist and politician. Born into a wealthy Anglo-Jewish family, he rejected both his religious and social upbringing to protest for women's suffrage. Joining in with the militant suffragettes, he was sent to prison multiple times, making him one of the few men to be imprisoned for his part in the suffrage movement. His crimes included an attempted attack on Winston Churchill and an act of arson on a train. He was the first person to be released under the Prisoners Act 1913, and he later married the second, Elsie Duval. Following his release, he never returned to prison, but still campaigned for women's rights and penal reform. He stood unsuccessfully for parliament on two occasions, but did win a seat on Middlesex County Council and was a member of the Labour Party executive committee."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Lech_Kaczy%C5%84ski",
-    "urlGoogle": "https://artsandculture.google.com/entity/lech-kaczyński/m02zbg1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Hugh_Franklin_%28suffragist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/hugh-franklin/m0wy66k1"
   },
   "place": {
-    "id": "boca-raton",
-    "name": "Boca Raton",
-    "mainImg": "img/places/boca-raton.jpg",
+    "id": "czechia",
+    "name": "Czechia",
+    "mainImg": "img/places/czechia.jpg",
     "summary": [
-      "Boca Raton, is the southernmost city in Palm Beach County, Florida, United States. It was first incorporated on August 2, 1924, as \"Bocaratone,\" and then incorporated as \"Boca Raton\" in 1925. The 2019 population estimated by the U.S. Census Bureau was 99,805. Known as one of the wealthiest cities in South Florida with common sights of yachts, private jets, exotic cars, and mansions which are concentrated in the Downtown, Coastal, and Gated Country Club Communities. With a multitude of amenities such as golf, tennis, racquetball, polo, swimming pools, spas, gyms, and restaurants, Boca Raton has been consistently highly ranked for fitness and leisure. Outside of the Boca Raton city jurisdiction, there are approximately 200,000 people with a Boca Raton postal address, even though they live outside of municipal boundaries, such as West Boca Raton. As a business center, the city experiences significant daytime population increases. Boca Raton is 43 miles north of Miami and is a principal city of the Miami metropolitan area, which had a population of 6,012,331 people as of 2015."
+      "The Czech Republic, also known by its short-form name, Czechia, is a landlocked country in Central Europe bordered by Austria to the south, Germany to the west, Poland to the northeast and Slovakia to the southeast. The Czech Republic has hilly landscape that covers an area of 78,866 square kilometers with a mostly temperate continental climate and oceanic climate. It is a unitary parliamentary republic, with 10.7 million inhabitants. Its capital and largest city is Prague, with 1.3 million residents; other major cities are Brno, Ostrava, Olomouc and Pilsen.",
+      "The Czech state was formed in the late 9th century as the Duchy of Bohemia under the Great Moravian Empire. In 1002, the duchy was formally recognized as an Imperial State of the Holy Roman Empire, and became the Kingdom of Bohemia in 1198, reaching its greatest territorial extent in the 14th century. Prague was the imperial seat in periods between the 14th and 17th century. The Bohemian Reformation of the 15th century led to the Hussite Wars, which resulted in a period of confessional pluralism and relative religious tolerance."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Boca_Raton,_Florida",
-    "urlGoogle": "https://artsandculture.google.com/entity/boca-raton/m0c5v2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Czech_Republic",
+    "urlGoogle": "https://artsandculture.google.com/entity/czechia/m01mjq"
   },
   "quote": {
-    "id": "70",
-    "quote": "When you talk, you are only repeating what you already know. But if you listen, you may learn something new.",
-    "author": "Dalai Lama"
+    "id": "117",
+    "quote": "Often it isn’t the mountains ahead that wear you out, it’s the little pebble in your shoe.",
+    "author": "Muhammad Ali"
   },
   "wiki": {
-    "id": "aethelred-lord-of-the-mercians",
-    "name": "Æthelred, Lord of the Mercians",
-    "summary": "Æthelred, Lord of the Mercians (died 911) became ruler of English Mercia shortly after the death of its last king, Ceolwulf II, in 879. His rule was confined to the western half, as eastern Mercia was then part of the Viking-ruled Danelaw. Æthelred's origin is unknown, and he was first recorded as the probable leader of an unsuccessful Mercian invasion of Wales in 881. Shortly afterwards, he married Æthelflæd, a daughter of King Alfred the Great of Wessex, and submitted to Alfred's lordship, an important step towards the unification of England in the next century. In the 890s the Vikings renewed their attacks, and in 893 Æthelred led a joint force of Mercians, West Saxons and Welsh to a decisive victory over the Vikings at the Battle of Buttington. He spent much of the decade fighting the Vikings in cooperation with Alfred's son, the future Edward the Elder. Historians disagree whether Æthelred governed Mercia as Alfred's deputy or whether he was a ruler of a semi-independent territory. Æthelred died in 911 and was succeeded by his widow, and then briefly by his daughter, before Mercia was annexed by Edward the Elder in 918.",
-    "url": "https://en.wikipedia.org/wiki/%C3%86thelred,_Lord_of_the_Mercians"
+    "id": "shelton-benjamin",
+    "name": "Shelton Benjamin",
+    "summary": "Shelton Benjamin is an American professional wrestler and former amateur wrestler best known for his tenure in World Wrestling Entertainment. Benjamin has an amateur wrestling background, including wrestling in high school and at the University of Minnesota. In addition, Benjamin has acted as an assistant coach in amateur wrestling. He first spent time in Ohio Valley Wrestling, where he held the Southern Tag Team Championship four times. WWE then moved him to the main roster and put him into an alliance with Kurt Angle and Charlie Haas, known as Team Angle (and later the World's Greatest Tag Team). During his tenure with the company, he has won the Intercontinental Championship three times, the United States Championship once, and the WWE Tag Team Championship twice with Haas. He currently wrestles for Ring of Honor, where he is currently one half of the World Tag Team Champions with Charlie Haas.",
+    "url": "https://en.wikipedia.org/wiki/Shelton_Benjamin"
   },
   "word": {
-    "id": "demotic",
-    "word": "demotic",
-    "url": "https://www.merriam-webster.com/dictionary/demotic",
-    "partOfSpeech": "adjective",
-    "pronunciation": "dih-MAH-tik",
-    "audioPath": "audio/words/demotic.mp3",
+    "id": "greenmail",
+    "word": "greenmail",
+    "url": "https://www.merriam-webster.com/dictionary/greenmail",
+    "partOfSpeech": "noun",
+    "pronunciation": "GREEN-mail",
+    "audioPath": "audio/words/greenmail.mp3",
     "definitions": [
-      "of, relating to, or written in a simplified form of the ancient Egyptian hieratic writing",
-      "common, popular",
-      "of or relating to the form of Modern Greek that is based on everyday speech"
+      "the practice of buying enough of a company's stock to threaten a hostile takeover and reselling it to the company at a price above market value; also : the money paid for such stock"
     ],
     "examples": [
-      "The style of her art work is intentionally _demotic_, aimed at ordinary people rather than the elite of the art world.",
-      "\"The _demotic_ dictionary gives researchers definitions, shows word uses and helps with translating texts. But it also serves as a reference guide for reconstructing and understanding ancient Egyptian culture, whether it's the nuances of government, commerce, politics, religion or male-female relationships.\" - From an article by Dawn Turner Trice in the _Chicago Tribune_, October 22, 2012"
+      "In an astonishing act of _greenmail_, the investor bought up all available shares of the company and leveraged his sale back to the company at triple the purchase price.",
+      "\"We arrived in the middle of great turmoil, with the era of _greenmail_ and leveraged buyouts, when both managers and corporate raiders were abusing shareholders horribly.\" - Nell Minow, interview in _USA TODAY_, October 20, 2014"
     ],
-    "origin": "You may recognize the root of \"demotic\" from words like \"democracy\" and \"demography.\" The source of these words is the Greek word \"dēmos,\" meaning \"people.\" \"Demotic\" is often used of everyday forms of language (as opposed to literary or highbrow versions). It entered English in the early 1800s and originally designated a form of ancient Egyptian cursive script which by the 5th century BCE had come into use everywhere in Egypt for business and literary purposes (in contrast to the more complex, hieratic script retained by the clergy). \"Demotic\" has a newer specialized sense as well, referring to a form of Modern Greek that is based on everyday speech and that since 1976 has been the official language of Greece."
+    "origin": "_Greenmail_ is a recent English coinage, but its history spans a millennium. In the Anglo-Saxon historical records for 1086, we find an early use of a word that still survives in Scottish English as _mail_, meaning \"payment\" or \"rent.\" The 16th century saw the appearance of the compound _blackmail_, which was originally a tribute that [freebooting](https://www.merriam-webster.com/dictionary/freebooting) chiefs at the Scottish border exacted in exchange for immunity from pillage. In 1862, the U.S. government began printing paper money using green ink, and soon the word _green_ came to suggest money. Finally, in the 1980s, _greenmail_ was coined by combining _green_ and _blackmail_ to describe a particular type of financial piracy."
   }
 }

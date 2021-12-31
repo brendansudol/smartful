@@ -1,131 +1,130 @@
 {
   "artist": {
-    "id": "john-everett-millais",
-    "name": "John Everett Millais",
-    "dates": "Jun 8, 1829 - Aug 13, 1896",
-    "mainImg": "img/art/artists/john-everett-millais.jpg",
+    "id": "jose-ferraz-de-almeida-junior",
+    "name": "José Ferraz de Almeida Júnior",
+    "dates": "May 8, 1850 - Nov 13, 1899",
+    "mainImg": "img/art/artists/jose-ferraz-de-almeida-junior.jpg",
     "artworkImgs": [
       {
-        "name": "The Order of Release 1746",
-        "path": "img/art/artworks/john-everett-millais-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-order-of-release-1746-sir-john-everett-millais/cQEhuAQIHc3vIg"
+        "name": "Caipira picando fumo [Caipira Cutting Tobacco]",
+        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/caipira-picando-fumo-caipira-cutting-tobacco-almeida-júnior/6wGSIEmiROgbPQ"
       },
       {
-        "name": "Ophelia",
-        "path": "img/art/artworks/john-everett-millais-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/ophelia-sir-john-everett-millais/-wGU6cT4JixtPA"
+        "name": "Caipira picando fumo (estudo)",
+        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/caipira-picando-fumo-estudo-almeida-júnior/0AFhS4O-Pz0CYw"
       },
       {
-        "name": "The Martyr of the Solway",
-        "path": "img/art/artworks/john-everett-millais-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-martyr-of-the-solway-john-everett-millais/zgHu888n3_dObw"
+        "name": "O violeiro [The Guitar Player]",
+        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/o-violeiro-the-guitar-player-almeida-júnior/QwEK8L0OIq25SA"
       },
       {
-        "name": "Mariana",
-        "path": "img/art/artworks/john-everett-millais-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/mariana-sir-john-everett-millais/6wGvnPEiyH8RFA"
+        "name": "Amolação interrompida [Interrupted Whetting]",
+        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/amolação-interrompida-interrupted-whetting-almeida-júnior/WwEfYoCMcyHiMg"
       },
       {
-        "name": "Isabella",
-        "path": "img/art/artworks/john-everett-millais-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/isabella-john-everett-millais/CwFtBpu0rX8J_w"
+        "name": "Family Scene",
+        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/family-scene-almeida-júnior/OwGQi9iigj2YRA"
       },
       {
-        "name": "Christ in the House of His Parents (`The Carpenter's Shop')",
-        "path": "img/art/artworks/john-everett-millais-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/christ-in-the-house-of-his-parents-the-carpenter-s-shop-sir-john-everett-millais/KgHTjZxC7spFMQ"
+        "name": "Cena de família de Adolfo Augusto Pinto [Scene of Adolfo Augusto Pinto’s Family]",
+        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cena-de-família-de-adolfo-augusto-pinto-scene-of-adolfo-augusto-pinto’s-family-almeida-júnior/kwEdNFroownk5Q"
       }
     ],
     "summary": [
-      "Sir John Everett Millais, 1st Baronet, PRA was an English painter and illustrator who was one of the founders of the Pre-Raphaelite Brotherhood. He was a child prodigy who, aged eleven, became the youngest student to enter the Royal Academy Schools. The Pre-Raphaelite Brotherhood was founded at his family home in London, at 83 Gower Street. Millais became the most famous exponent of the style, his painting Christ in the House of His Parents generating considerable controversy, and he produced a picture that could serve as the embodiment of the historical and naturalist focus of the group, Ophelia, in 1851–52.",
-      "By the mid-1850s, Millais was moving away from the Pre-Raphaelite style to develop a new form of realism in his art. His later works were enormously successful, making Millais one of the wealthiest artists of his day, but some former admirers including William Morris saw this as a sell-out."
-    ],
-    "quote": "“Man was not intended to live alone... marriage is the best cure for that wretched lingering over one's work. I think I must feel more settled than you all. I would immensely like to see you all married like myself and anchored.”",
-    "movements": ["Pre-Raphaelite Brotherhood"],
-    "mediums": ["Oil paint", "Wood", "Engraving", "Graphite", "Ink", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/John_Everett_Millais",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-everett-millais/m0q0f4"
-  },
-  "event": {
-    "id": "third-anglo-dutch-war",
-    "name": "Third Anglo-Dutch War",
-    "dates": "1672 - 1674",
-    "mainImg": "img/events/third-anglo-dutch-war.jpg",
-    "summary": [
-      "The Third Anglo-Dutch War or the Third Dutch War was a military conflict between the Kingdom of England and the Dutch Republic that lasted from 7 April 1672 to 19 February 1674. It was part of the Franco-Dutch War between the Dutch Republic and her allies—the Quadruple Alliance—and France.",
-      "In comparison to First and Second Anglo-Dutch War, political reasons were more important as causes for this war than economic ones. In 1667, Charles II of England had been humiliated by the Dutch Raid on the Medway, and in 1668, Louis XIV of France had been offended by the Dutch preventing his conquest of the Spanish Netherlands through the Triple Alliance. In 1670, the two kings concluded the Secret Treaty of Dover, intending to destroy the Dutch Republic. This outcome seemed achievable as the Dutch land army was weak and, although their navy was strong, the combined English and French fleets outnumbered it. The prospect of war was unpopular in England, so Charles had difficulty obtaining the necessary money. He relied on secret French subsidies, deceiving Parliament and refusing to pay the Crown debts and fabricated diplomatic incidents to justify a conflict."
+      "José Ferraz de Almeida Júnior, commonly known as Almeida Júnior, was a Brazilian artist and designer; one of the first there to paint in the Realistic tradition of Gustave Courbet and Jean-François Millet. The \"Dia do Artista Plástico\" is celebrated on his birthday."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/third-anglo-dutch-war/m0m0r1"
+    "movements": ["Academic art", "Realism", "Modern art", "American Realism"],
+    "mediums": ["Oil paint", "Wood", "Adhesive"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior",
+    "urlGoogle": "https://artsandculture.google.com/entity/josé-ferraz-de-almeida-júnior/m08yzsc"
+  },
+  "event": {
+    "id": "hungarian-revolution-of-1956",
+    "name": "Hungarian Revolution of 1956",
+    "dates": "Oct 23, 1956 - Nov 10, 1956",
+    "mainImg": "img/events/hungarian-revolution-of-1956.jpg",
+    "summary": [
+      "The Hungarian Revolution of 1956, or the Hungarian Uprising, was a nationwide revolution against the Hungarian People's Republic and its Soviet-imposed policies, lasting from 23 October until 10 November 1956. Leaderless at the beginning, it was the first major threat to Soviet control since the Red Army drove Nazi Germany from its territory at the End of World War II in Europe.",
+      "The revolt began as a student protest, which attracted thousands as they marched through central Budapest to the Hungarian Parliament building, calling out on the streets using a van with loudspeakers. A student delegation, entering the radio building to try to broadcast the students' demands, was detained. When the delegation's release was demanded by the protesters outside, they were fired upon from within the building by the State Security Police, known as the ÁVH. Multiple students died and one was wrapped in a flag and held above the crowd. This was the start of the next phase of the revolution. As the news spread, disorder and violence erupted throughout the capital.",
+      "The revolt spread quickly and the government collapsed."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+    "urlGoogle": "https://artsandculture.google.com/entity/hungarian-revolution-of-1956/m01zd7d"
   },
   "funFacts": [
     {
-      "id": "371",
-      "fact": "Grapes are the most popular fruit in the world.",
-      "category": ["Food", "Plants"]
+      "id": "428",
+      "fact": "There are 118 ridges on the edge of a United States dime.",
+      "category": ["Hodgepodge"]
     },
-    { "id": "214", "fact": "Giraffes can lick their own eyes.", "category": ["Animals"] }
+    {
+      "id": "143",
+      "fact": "\"Q\" is the only letter in the alphabet not appearing in the name of any U.S. state.",
+      "category": ["Geography", "Onlies"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "506903",
-      "fact": "A British man changed his name to Tim Pppppppppprice to make it harder for telemarketers to pronounce."
+      "id": "506910",
+      "fact": "There's a basketball court above the Supreme Court. It's known as the Highest Court in the Land."
     }
   ],
   "idiom": {
-    "id": "one-can-catch-more-flies-with-honey-than-vinegar",
-    "term": "one can catch more flies with honey than vinegar",
-    "definition": "One accomplishes more by being nice than by being nasty. This saying dates from the 1600s and has appeared in numerous languages, among them Spanish (in Cervantes's *Don Quixote)* and French. Even Abraham Lincoln quoted a version of it in his 1842 speech to the Washingtonian Temperance Society: \"It is an old and true maxim that a drop of honey catches more flies than a gallon of gall.\""
+    "id": "make-no-bones-about",
+    "term": "make no bones about",
+    "definition": "Act or speak frankly about something, without hesitation or evasion. For example, *Tom made no bones about wanting to be promoted,* or *Make no bones about it---she's very talented.* Versions of this expression date back to the mid-1400s and the precise allusion is no longer known. Some believe it meant a boneless stew or soup that one could eat without hesitation; others relate it to dice, originally made from bones, that were thrown without hesitation or fuss."
   },
   "person": {
-    "id": "vladimir-lenin",
-    "name": "Vladimir Lenin",
-    "dates": "Apr 22, 1870 - Jan 21, 1924",
-    "mainImg": "img/people/vladimir-lenin.jpg",
+    "id": "jan-kwapinski",
+    "name": "Jan Kwapiński",
+    "dates": "Nov 12, 1885 - Nov 4, 1964",
+    "mainImg": "img/people/jan-kwapinski.jpg",
     "summary": [
-      "Vladimir Ilyich Ulyanov, better known by his alias Lenin, was a Russian revolutionary, politician, and political theorist. He served as head of government of Soviet Russia from 1917 to 1924 and of the Soviet Union from 1922 to 1924. Under his administration, Russia and then the wider Soviet Union became a one-party communist state governed by the Russian Communist Party. Ideologically a communist, he developed a variant of Marxism known as Leninism.",
-      "Born to a moderately prosperous middle-class family in Simbirsk, Lenin embraced revolutionary socialist politics following his brother's 1887 execution. Expelled from Kazan Imperial University for participating in protests against the Russian Empire's Tsarist government, he devoted the following years to a law degree. He moved to Saint Petersburg in 1893 and became a senior Marxist activist. In 1897, he was arrested for sedition and exiled to Shushenskoye for three years, where he married Nadezhda Krupskaya. After his exile, he moved to Western Europe, where he became a prominent theorist in the Marxist Russian Social Democratic Labour Party."
-    ],
-    "quote": "“To rely upon conviction, devotion, and other excellent spiritual qualities; that is not to be taken seriously in politics.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
-    "urlGoogle": "https://artsandculture.google.com/entity/vladimir-lenin/m05wh0sh"
-  },
-  "place": {
-    "id": "palau",
-    "name": "Palau",
-    "mainImg": "img/places/palau.jpg",
-    "summary": [
-      "Palau, officially the Republic of Palau, is an island country located in the western Pacific Ocean. The country contains approximately 340 islands, and together with parts of the Federated States of Micronesia, forms the western chain of the Caroline Islands. Its area is 466 square kilometers. The most populous island is Koror. The capital Ngerulmud is located on the nearby island of Babeldaob, in Melekeok State. Palau shares maritime boundaries with Japan to the north, Micronesia to the east, Indonesia to the south, and the Philippines to the west.",
-      "The country was originally settled approximately 3,000 years ago by migrants from Insular Southeast Asia. Spain was the first European nation to explore the islands in the 16th century, and they were made part of the Spanish East Indies in 1574. Following Spain's defeat in the Spanish–American War in 1898, the islands were sold to Imperial Germany in 1899 under the terms of the German–Spanish Treaty, where they were administered as part of German New Guinea. After World War I, the islands were made a part of the Japanese-ruled South Seas Mandate by the League of Nations."
+      "Jan Kwapiński, born Piotr Chałupka was a Polish independence activist and politician. A member of Combat Organization of the Polish Socialist Party, he was imprisoned by Russian Empire authorities in Warsaw Citadel. After Poland regained independence following the First World War, he became a member of Polish parliament after being elected in 1922 Polish legislative election. He then went on to serve as mayor of Łódź. After being Soviet invasion of Poland arrested by the NKVD, then freed after the Sikorski-Mayski Agreement, he joined the London-based Polish government-in-exile as Vice-Premier and Minister of Industry, Trade and Shipping, later Minister of Treasury."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Palau",
-    "urlGoogle": "https://artsandculture.google.com/entity/palau/m05tr7"
+    "urlWiki": "https://en.wikipedia.org/wiki/Jan_Kwapi%C5%84ski",
+    "urlGoogle": "https://artsandculture.google.com/entity/jan-kwapiński/m02rhpcl"
   },
-  "quote": {
-    "id": "56",
-    "quote": "Don't let yesterday take up too much of today.",
-    "author": "Will Rogers"
+  "place": {
+    "id": "arequipa",
+    "name": "Arequipa",
+    "mainImg": "img/places/arequipa.jpg",
+    "summary": [
+      "Arequipa is a city located in the province and the eponymous department of Peru. It is the seat of the Constitutional Court of Peru and often dubbed the \"legal capital of Peru.\" It is the second most populated city in Peru, after Lima, with an urban population of 1,008,290 inhabitants according to the 2017 national census.",
+      "Its metropolitan area integrates twenty-one districts, including the foundational central area, which it is the seat of the city government. The city has a Nominal GDP of 9,445 million and a nominal GDP per capita of US$10,277, which represents a GDP per capita PPP of US$18,610 in the period 2015, being the second city with the highest economic activity in Peru.",
+      "Arequipa is also an important industrial and commercial center of Peru, and is considered as the second industrial city of the country. Within its industrial activity the manufactured products and the textile production of wool of camelids. The town maintains close commercial links with Chile, Bolivia, and Brazil and with the cities connected by the South trainway, as well as with the port of Matarani."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Arequipa",
+    "urlGoogle": "https://artsandculture.google.com/entity/arequipa/m01py87"
   },
   "wiki": {
-    "id": "battle-of-ceresole",
-    "name": "Battle of Ceresole",
-    "summary": "The Battle of Ceresole was fought outside the village of Ceresole d'Alba in the Piedmont on April 11, 1544, during the Italian War of 1542. In a lengthy engagement that historian Bert Hall characterized as \"marvelously confused\", a French army under François de Vendôme, Count of Enghien, defeated the Spanish-Imperial army of Alfonso d'Avalos d'Aquino, Marquis del Vasto. Despite inflicting massive casualties on the Imperial troops, the French failed to exploit the victory, as Enghien was unable to take Milan after much of his army was recalled to face an Anglo-Imperial invasion of France. Ceresole was one of the few pitched battles during the latter half of the Italian Wars. Known among military historians chiefly for the \"great slaughter\" that occurred when columns of intermingled arquebusiers and pikemen met in the center, it also demonstrates the continuing role of traditional heavy cavalry on a battlefield largely dominated by the emerging pike and shot infantry.",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_Ceresole"
+    "id": "menstrual-cycle",
+    "name": "Menstrual cycle",
+    "summary": "The menstrual cycle is the recurring physiological changes in a female's body that are under the control of the reproductive hormone system and necessary for reproduction. In women, menstrual cycles occur typically on a monthly basis between puberty and menopause. Besides humans, only other members of great apes exhibit menstrual cycles, in contrast to the estrus cycle of most mammalian species. During the menstrual cycle, the sexually mature female body releases one egg (or occasionally two, which might result in non-identical twins) at the time of ovulation. The lining of the uterus, the endometrium, builds up in a synchronised fashion. After ovulation, this lining changes to prepare for potential implantation of the fertilized egg to establish a pregnancy. If fertilisation and pregnancy do not ensue, the uterus sheds the lining and a new menstrual cycle begins.",
+    "url": "https://en.wikipedia.org/wiki/Menstrual_cycle"
   },
   "word": {
-    "id": "booboisie",
-    "word": "booboisie",
-    "url": "https://www.merriam-webster.com/dictionary/booboisie",
-    "partOfSpeech": "noun",
-    "pronunciation": "boob-wah-ZEE",
-    "audioPath": "audio/words/booboisie.mp3",
-    "definitions": ["the general public regarded as consisting of boobs"],
+    "id": "hoodwink",
+    "word": "hoodwink",
+    "url": "https://www.merriam-webster.com/dictionary/hoodwink",
+    "partOfSpeech": "verb",
+    "pronunciation": "HOOD-wink",
+    "audioPath": "audio/words/hoodwink.mp3",
+    "definitions": ["to deceive by false appearance : dupe"],
     "examples": [
-      "\"'Elitism' was always the sneer of the _booboisie_ against opera….\" - From an article by Stephanie Von Buchau in _Opera News_, July 1998",
-      "\"\\[Simon\\] Doonan's silliness is a delight. This is not a rote throwback to the 'Queer Eye for the Straight Guy' advice of yore. There's no dumbing down for the _booboisie_.\" - From a book review by Christopher Muther in the _Boston Globe_, January 7, 2012"
+      "By making it look like a fun, enjoyable privilege instead of an exhausting chore, Tom Sawyer _hoodwinks_ Ben Rogers into helping him whitewash Aunt Polly's fence.",
+      "\"In Moliére's classic comedy, the religious fraud Tartuffe has _hoodwinked_ rich merchant Orgon and is poised to marry his host's teenage daughter, to seduce his lovely wife and to take over his gullible patron’s fortune-unless someone stops him.\" - From an article in _The Edmond Sun_ (Oklahoma), June 25, 2013"
     ],
-    "origin": "Journalist and critic H. L. Mencken is often credited with coining \"booboisie,\" a blend of \"boob,\" as it refers to someone who cares too much about things and too little about ideas and art, and \"bourgeoisie,\" that French-origin term for the middle class. Mencken may have indeed coined the word, but it seems likely that he wasn't the word's only inventor. According to the 2006 Yale Book of Quotations, Mencken was quoted using \"booboisie\" in an August 1922 issue of _The Dial_ before it appeared in any of his writings. But a February 22, 1922 _Washington Post_ article opens with the following line: \"A plot to [mulct](https://www.merriam-webster.com/dictionary/mulct) the 'booboisie' which might have been invented by an author of get-rich-quick fiction ….\" The booboisie, of course, couldn't care less."
+    "origin": "A now-obsolete sense of the word \"wink\" is \"to close one's eyes,\" and \"hoodwink\" once meant to cover the eyes of someone, such as a prisoner, with a hood or blindfold. (\"Hoodwink\" was also once a name for the game of blindman's buff.) This 16th-century term soon came to be used figuratively for veiling the truth. \"The Public is easily hood-winked,\" wrote the Irish physician Charles Lucas in 1756, by which time the figurative use had been around for almost a century and a half. Over two hundred and fifty years later, this meaning of the word hasn't changed a wink."
   }
 }

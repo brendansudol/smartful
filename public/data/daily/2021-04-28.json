@@ -1,106 +1,104 @@
 {
   "artist": {
-    "id": "giuseppe-castiglione",
-    "name": "Giuseppe Castiglione",
-    "dates": "Jul 19, 1688 - Jul 17, 1766",
-    "mainImg": "img/art/artists/giuseppe-castiglione.jpg",
+    "id": "daniel-hopfer",
+    "name": "Daniel Hopfer",
+    "dates": "1470 - 1536",
+    "mainImg": "img/art/artists/daniel-hopfer.jpg",
     "artworkImgs": [
       {
-        "name": "Beautiful Ladies Riding",
-        "path": "img/art/artworks/giuseppe-castiglione-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/beautiful-ladies-riding-artist-attributed-to-giuseppe-castiglione-lang-shining/iAEiXDFzafbtCQ"
+        "name": "Vlakdecoraties, links de helft van een kandelaber, rechts een trofee van wapentuig",
+        "path": "img/art/artworks/daniel-hopfer-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/vlakdecoraties-links-de-helft-van-een-kandelaber-rechts-een-trofee-van-wapentuig-daniel-hopfer-i/TQG70Yk2lWFBqg"
       },
       {
-        "name": "The Qianlong Emperor in Ceremonial Armor on Horseback",
-        "path": "img/art/artworks/giuseppe-castiglione-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-qianlong-emperor-in-ceremonial-armor-on-horseback-giuseppe-castiglione-1688-1766-chinese-name-lang-shining/EQFRaJ6Q0Tyhjg"
+        "name": "Five German Soldiers",
+        "path": "img/art/artworks/daniel-hopfer-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/five-german-soldiers-daniel-hopfer/zAGCQ0l8iuMu5w"
       },
       {
-        "name": "清 郎世寧 百駿圖白描稿 卷|One Hundred Horses",
-        "path": "img/art/artworks/giuseppe-castiglione-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/清-郎世寧-百駿圖白描稿-卷-one-hundred-horses-giuseppe-castiglione/DwEjeNn1Qz_FSA"
+        "name": "Christ Denouncing False Prophets and Pharisees: Illustration to Matthew 7: 15-21",
+        "path": "img/art/artworks/daniel-hopfer-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-denouncing-false-prophets-and-pharisees-illustration-to-matthew-7-15-21-daniel-hopfer/PwEJ3LGPUJS5_g"
       },
       {
-        "name": "The Qianlong Emperor as Manjusri, the Bodhisattva of Wisdom",
-        "path": "img/art/artworks/giuseppe-castiglione-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-qianlong-emperor-as-manjusri-the-bodhisattva-of-wisdom-artist-imperial-workshop-artist-emperor-s-face-painted-by-giuseppe-castiglione-lang-shining/BwGUY_fTviUD7A"
+        "name": "Candelabra Grotesque with Heads of Dolphins and Dragons in the Center",
+        "path": "img/art/artworks/daniel-hopfer-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/candelabra-grotesque-with-heads-of-dolphins-and-dragons-in-the-center-lambrecht-hopfer/RwEvv_QVnJ18aw"
       },
       {
-        "name": "Imperial Procession",
-        "path": "img/art/artworks/giuseppe-castiglione-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/imperial-procession-artist-giuseppe-castiglione-lang-shining/VQEDz8_NKdyvJg"
+        "name": "Virgin on a Crescent, Title-page from Pelbartus de Temesvar: Stellarium corone (Schr. 2869)",
+        "path": "img/art/artworks/daniel-hopfer-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-on-a-crescent-title-page-from-pelbartus-de-temesvar-stellarium-corone-schr-2869-daniel-hopfer-johann-otmar/VAEKB4-FdGtxzw"
+      },
+      {
+        "name": "Five German Soldiers",
+        "path": "img/art/artworks/daniel-hopfer-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/five-german-soldiers-daniel-hopfer-erhard-schön/SQHAiYijeWsNGg"
       }
     ],
     "summary": [
-      "Giuseppe Castiglione, S.J., was an Italian Jesuit brother and missionary in China, where he served as an artist at the imperial court of three emperors – the Kangxi, Yongzheng and Qianlong emperors. He painted in a style that is a fusion of European and Chinese traditions."
+      "Daniel Hopfer was a German artist who is widely believed to have been the first to use etching in printmaking, at the end of the fifteenth century. He also worked in woodcut. Although his etchings were widely ignored by art historians for years, more recent scholarship is crediting him and his work with \"single-handedly establishing the salability of etchings\" and introducing the print publisher business model."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Silk", "Textile", "Gold", "Metal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Castiglione_%28Jesuit_painter%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-castiglione/m01nt06"
+    "movements": ["Renaissance", "German Renaissance", "Northern Renaissance"],
+    "mediums": ["Etching", "Iron", "Metal", "Laid paper", "Ink", "Book"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Daniel_Hopfer",
+    "urlGoogle": "https://artsandculture.google.com/entity/daniel-hopfer/m0278wby"
   },
   "event": {
-    "id": "2001-gujarat-earthquake",
-    "name": "2001 Gujarat earthquake",
-    "dates": "Jan 26, 2001",
-    "mainImg": "img/events/2001-gujarat-earthquake.jpg",
+    "id": "barack-obama-2009-presidential-inauguration",
+    "name": "Barack Obama 2009 presidential inauguration",
+    "dates": null,
+    "mainImg": "img/events/barack-obama-2009-presidential-inauguration.jpg",
     "summary": [
-      "The 2001 Gujarat earthquake, also known as the Bhuj earthquake, occurred on 26 January, India's 52nd Republic Day, at 08:46 am IST. The epicentre was about 9 km south-southwest of the village of Chobari in Bhachau Taluka of Kutch District of Gujarat, India.",
-      "The intraplate earthquake reached 7.7 on the moment magnitude scale and had a maximum felt intensity of X on the Mercalli intensity scale. The earthquake killed between 13,805 and 20,023 people, injured another 167,000 and destroyed nearly 340,000 buildings."
+      "The first inauguration of Barack Obama as the 44th President of the United States took place on Tuesday, January 20, 2009 at the West Front of the United States Capitol in Washington, D.C. The 56th inauguration, which set a record attendance for any event held in Washington, D.C., marked the commencement of the first term of Barack Obama as President and Joe Biden as Vice President. Based on combined attendance numbers, television viewership, and Internet traffic, it was one of the most-observed events ever by the global audience.",
+      "\"A New Birth of Freedom\", a phrase from the Gettysburg Address, served as the inaugural theme to commemorate the 200th anniversary of the birth year of Abraham Lincoln. In his speeches to the crowds, Obama referred to ideals expressed by Lincoln about renewal, continuity and national unity. Obama mentioned these ideals in his speech to stress the need for shared sacrifice and a new sense of responsibility to answer America's challenges at home and abroad."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/2001_Gujarat_earthquake",
-    "urlGoogle": "https://artsandculture.google.com/entity/2001-gujarat-earthquake/m03_z3p"
+    "urlWiki": "https://en.wikipedia.org/wiki/First_inauguration_of_Barack_Obama",
+    "urlGoogle": "https://artsandculture.google.com/entity/barack-obama-2009-presidential-inauguration/m057l6lw"
   },
   "funFacts": [
-    {
-      "id": "167",
-      "fact": "You'd have to play ping-pong for about 12 hours to lose one pound.",
-      "category": ["Anatomy", "Science"]
-    },
-    {
-      "id": "908",
-      "fact": "In Athens, Greece, a driver's license can be taken away by law if the driver is deemed either unbathed or poorly dressed.",
-      "category": ["Laws"]
-    }
+    { "id": "767", "fact": "Honeybees have hair on their eyes.", "category": ["Animals"] },
+    { "id": "145", "fact": "Lake Superior is the world's largest lake.", "category": ["Geography"] }
   ],
   "funFacts2": [
     {
-      "id": "505450",
-      "fact": "The original version of Monopoly was a cautionary tale against the perils of capitalism."
+      "id": "504590",
+      "fact": "In 1917, the Seattle Metropolitans hockey team became the first American team to win the Stanley Cup."
     }
   ],
   "idiom": {
-    "id": "ships-that-pass-in-the-night",
-    "term": "ships that pass in the night",
-    "definition": "Individuals who are rarely in the same place at the same time. For example, *Jan works the early shift and Paula the late shift--- they're two ships that pass in the night.* This metaphoric expression comes from Henry Wadsworth Longfellow's poem \"The Theologian's Tale\" (published in *Tales of a Wayside Inn,* 1873)."
+    "id": "out-to-lunch",
+    "term": "out to lunch",
+    "definition": "Not in touch with the real world, crazy; also, inattentive. For example, *If he believes that story, he's really out to lunch,* or *Anne hasn't heard a word you said---she's out to lunch.* This expression transfers a temporary physical absence for the purpose of eating to a temporary or permanent mental absence. [Slang; mid-1900s]"
   },
   "person": {
-    "id": "mamie-eisenhower",
-    "name": "Mamie Eisenhower",
-    "dates": "Nov 14, 1896 - Nov 1, 1979",
-    "mainImg": "img/people/mamie-eisenhower.jpg",
+    "id": "henri-giraud",
+    "name": "Henri Giraud",
+    "dates": "Jan 18, 1879 - Mar 11, 1949",
+    "mainImg": "img/people/henri-giraud.jpg",
     "summary": [
-      "Mamie Geneva Eisenhower was the wife of United States President Dwight D. Eisenhower and thereby First Lady of the United States from 1953 to 1961.",
-      "Mamie married Dwight Eisenhower at age 19 in 1916. The young couple moved frequently between military quarters in many postings, from Panama to the Philippines. As First Lady, she entertained a wide range of foreign dignitaries, who reacted well to her confident style and clothing choices.",
-      "Mamie Eisenhower spent her retirement and widowhood at the family farm in Gettysburg, Pennsylvania."
+      "Henri Honoré Giraud was a French general and a leader of the Free French Forces during the Second World War until he was forced to retire in 1944.",
+      "Born to an Alsatian family in Paris, Giraud graduated from the Saint-Cyr military academy and served in French North Africa. He was wounded and captured by the Germans during the First World War, but managed to escape from his prisoner-of-war camp. During the interwar period, Giraud returned to North Africa and fought in the Rif War, for which he was awarded the Légion d'honneur.",
+      "Early in the Second World War, Giraud fought in the Netherlands. In May 1940, he was again captured by the Germans, but made another successful escape from captivity in April 1942 after two years of careful planning. From within Vichy France he worked with the Allies in secret, and assumed command of French troops in North Africa after Operation Torch following the assassination of François Darlan. In January 1943, he took part in the Casablanca Conference along with Charles de Gaulle, Winston Churchill and Franklin D. Roosevelt."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Mamie_Eisenhower",
-    "urlGoogle": "https://artsandculture.google.com/entity/mamie-eisenhower/m025pp3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Henri_Giraud",
+    "urlGoogle": "https://artsandculture.google.com/entity/henri-giraud/m01ph9m"
   },
   "place": {
-    "id": "medan",
-    "name": "Medan",
-    "mainImg": "img/places/medan.jpg",
+    "id": "comoros",
+    "name": "Comoros",
+    "mainImg": "img/places/comoros.jpg",
     "summary": [
-      "Medan is the capital and largest city of the Indonesian province of North Sumatra. A regional hub and financial centre of Sumatra, it is regarded as one of the four main central cities of Indonesia, alongside Jakarta, Surabaya, and Makassar. Medan has a population of over 2.2 million within its city limits, and over 3.4 million in its built-up urban area, making it the fourth largest urban area in Indonesia. The Medan metropolitan area—which includes neighbouring Binjai, Deli Serdang Regency, and a part of Karo Regency—is the largest metropolitan area outside of Java, with 4.6 million residents. Medan is a multicultural metropolis and a busy trading city bordered by the Strait of Malacca. A gateway to the western part of Indonesia, Medan is supported by the Port of Belawan and Kualanamu International Airport, both of which are connected to the city centre via toll road and railway.",
-      "The city was founded by Guru Patimpus, a Karonese man who named a swampy land in confluence of Deli River and Babura river as Kampung Medan Putri. It later became a part of the Deli Sultanate which was established by Tuanku Gocah Pahlawan in 1632."
+      "The Comoros, officially the Union of the Comoros, is an island country in the Indian Ocean located at the northern end of the Mozambique Channel off the eastern coast of Africa between northeastern Mozambique, the French region of Mayotte, and northwestern Madagascar. The capital and largest city in Comoros is Moroni. The religion of the majority of the population, and the official state religion, is Sunni Islam. As a member of the Arab League, the Comoros is the only country in the Arab world which is entirely in the Southern Hemisphere.",
+      "At 1,660 km², excluding the contested island of Mayotte, the Comoros is the fourth-smallest African nation by area. The population, excluding Mayotte, is estimated at 832,322. As a nation formed at a crossroads of different civilisations, the archipelago is noted for its diverse culture and history. The archipelago was first settled by Bantu speakers who came from East Africa, Arabs and Austronesians.",
+      "The sovereign state is an archipelago consisting of three major islands and numerous smaller islands, all in the volcanic Comoro Islands."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Medan",
-    "urlGoogle": "https://artsandculture.google.com/entity/medan/m01_d_n"
+    "urlWiki": "https://en.wikipedia.org/wiki/Comoros",
+    "urlGoogle": "https://artsandculture.google.com/entity/comoros/m01n6c"
   },
   "quote": {
     "id": "81",
@@ -108,22 +106,22 @@
     "author": "Thomas Jefferson"
   },
   "wiki": {
-    "id": "elliott-smith",
-    "name": "Elliott Smith",
-    "summary": "Elliott Smith was an American singer-songwriter and musician. His primary instrument was the guitar, but he was also proficient at piano, clarinet, bass, harmonica and drums. Smith had a distinctive vocal style characterized by his \"whispery, spiderweb-thin delivery\", and use of multi-tracking to create vocal harmonies. Although born in Omaha, Nebraska and raised primarily in Texas, Smith spent the majority of his life in Portland, Oregon. After playing in the rock band Heatmiser for several years, Smith began his solo career in 1994 with releases on the independent record labels Cavity Search and Kill Rock Stars. He eventually signed a major label contract with DreamWorks Records in 1997, for which he recorded two albums. Smith rose to mainstream prominence when his song \"Miss Misery\", written for the film Good Will Hunting, was nominated for an Oscar in the Best Original Song category in 1998. Smith battled with depression, alcohol and drug addiction for years, and these topics would often appear in his lyrics. In 2003, at age 34, he died from two apparently self-inflicted stab wounds to the chest; the autopsy evidence was, however, inconclusive.",
-    "url": "https://en.wikipedia.org/wiki/Elliott_Smith"
+    "id": "mary-of-teck",
+    "name": "Mary of Teck",
+    "summary": "Mary of Teck (1867–1953) was Queen of the United Kingdom and the British Dominions and Empress of India as the consort of King-Emperor George V. At the age of 24 she was betrothed to Prince Albert Victor, Duke of Clarence and Avondale, the heir to the British throne, but six weeks after the engagement was announced he unexpectedly died of pneumonia. The following year she became engaged to the new heir, Albert Victor's brother, George. As his queen consort from 1910, she supported her husband through World War I, his ill health, and major political changes arising from the aftermath of the war and the rise of socialism and nationalism. After George's death in 1936, her eldest son Edward became King-Emperor, but to her dismay he abdicated the same year in order to marry twice-divorced American socialite Mrs. Wallis Simpson. She supported her second son, Albert, who succeeded to the throne as George VI, until his death in 1952. She died the following year, at the beginning of the reign of her granddaughter, Elizabeth II. Queen Mary was known for setting the tone of the British Royal Family, as a model of regal formality and propriety, especially during state occasions.",
+    "url": "https://en.wikipedia.org/wiki/Mary_of_Teck"
   },
   "word": {
-    "id": "esemplastic",
-    "word": "esemplastic",
-    "url": "https://www.merriam-webster.com/dictionary/esemplastic",
-    "partOfSpeech": "adjective",
-    "pronunciation": "es-em-PLAS-tik",
-    "audioPath": "audio/words/esemplastic.mp3",
-    "definitions": ["shaping or having the power to shape disparate things into a unified whole"],
+    "id": "predilection",
+    "word": "predilection",
+    "url": "https://www.merriam-webster.com/dictionary/predilection",
+    "partOfSpeech": "noun",
+    "pronunciation": "pred-uh-LEK-shun",
+    "audioPath": "audio/words/predilection.mp3",
+    "definitions": ["an established preference for something"],
     "examples": [
-      "\"The prison walls of self had closed entirely round him; he was walled completely by the esemplastic power of his imagination -- he had learned by now to project mechanically, before the world, an acceptable counterfeit of himself….\" (Thomas Wolfe, _Look Homeward, Angel_)"
+      "Aware of Kim's predilection for Italian food, Theo brought her to a quaint trattoria on the east side of town that was highly recommended by his boss."
     ],
-    "origin": "\"Unusual and new-coined words are, doubtless, an evil; but vagueness, confusion, and imperfect conveyance of our thoughts, are a far greater,\" wrote English poet Samuel Taylor Coleridge in _Biographia Literaria_, 1817. True to form, in that same work, he assembled \"esemplastic\" by melding the Greek phrase \"es hen,\" meaning \"into one,\" with \"plastic\" to fulfill his need for a word that accurately described the imagination's ability to shape disparate experiences into a unified whole (e.g., the poet's imaginative ability to communicate a variety of images, sensations, emotions, and experiences in the unifying framework of a poem). The verb \"intensify\" was another word that Coleridge was compelled to mint while writing _Biographia_. Coinages found in his other writings include \"clerisy\" and \"psychosomatic,\" among others."
+    "origin": "Do you have a predilection for words whose histories conjure up colorful images of Wild West heroes, medieval knaves, Arabian princes, and intemperate gods, or are words with straightforward Latin roots more your style? If you favor the latter, you'll love \"predilection.\" It's based on the Latin verb \"legere,\" which means \"to gather\" or \"to read.\" That versatile root is also the source of many other familiar English words, including \"collect,\" \"lesson,\" \"sacrilege,\" and \"legume.\""
   }
 }

@@ -1,0 +1,127 @@
+{
+  "artist": {
+    "id": "john-everett-millais",
+    "name": "John Everett Millais",
+    "dates": "Jun 8, 1829 - Aug 13, 1896",
+    "mainImg": "img/art/artists/john-everett-millais.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Order of Release 1746",
+        "path": "img/art/artworks/john-everett-millais-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-order-of-release-1746-sir-john-everett-millais/cQEhuAQIHc3vIg"
+      },
+      {
+        "name": "Ophelia",
+        "path": "img/art/artworks/john-everett-millais-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ophelia-sir-john-everett-millais/-wGU6cT4JixtPA"
+      },
+      {
+        "name": "The Martyr of the Solway",
+        "path": "img/art/artworks/john-everett-millais-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-martyr-of-the-solway-john-everett-millais/zgHu888n3_dObw"
+      },
+      {
+        "name": "Mariana",
+        "path": "img/art/artworks/john-everett-millais-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mariana-sir-john-everett-millais/6wGvnPEiyH8RFA"
+      },
+      {
+        "name": "Isabella",
+        "path": "img/art/artworks/john-everett-millais-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/isabella-john-everett-millais/CwFtBpu0rX8J_w"
+      },
+      {
+        "name": "Christ in the House of His Parents (`The Carpenter's Shop')",
+        "path": "img/art/artworks/john-everett-millais-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-in-the-house-of-his-parents-the-carpenter-s-shop-sir-john-everett-millais/KgHTjZxC7spFMQ"
+      }
+    ],
+    "summary": [
+      "Sir John Everett Millais, 1st Baronet, PRA was an English painter and illustrator who was one of the founders of the Pre-Raphaelite Brotherhood. He was a child prodigy who, aged eleven, became the youngest student to enter the Royal Academy Schools. The Pre-Raphaelite Brotherhood was founded at his family home in London, at 83 Gower Street. Millais became the most famous exponent of the style, his painting Christ in the House of His Parents generating considerable controversy, and he produced a picture that could serve as the embodiment of the historical and naturalist focus of the group, Ophelia, in 1851–52.",
+      "By the mid-1850s, Millais was moving away from the Pre-Raphaelite style to develop a new form of realism in his art. His later works were enormously successful, making Millais one of the wealthiest artists of his day, but some former admirers including William Morris saw this as a sell-out."
+    ],
+    "quote": "“Man was not intended to live alone... marriage is the best cure for that wretched lingering over one's work. I think I must feel more settled than you all. I would immensely like to see you all married like myself and anchored.”",
+    "movements": ["Pre-Raphaelite Brotherhood"],
+    "mediums": ["Oil paint", "Wood", "Engraving", "Graphite", "Ink", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Everett_Millais",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-everett-millais/m0q0f4"
+  },
+  "event": {
+    "id": "last-battle-of-the-battleship-bismarck",
+    "name": "Last battle of the battleship Bismarck",
+    "dates": "May 26, 1941 - May 27, 1941",
+    "mainImg": "img/events/last-battle-of-the-battleship-bismarck.jpg",
+    "summary": [
+      "The last battle of the German battleship Bismarck took place in the Atlantic Ocean approximately 300 nmi west of Brest, France, on 26–27 May 1941. Although it was a decisive action between capital ships, it has no generally accepted name.",
+      "On 24 May, before the final action, Bismarck's fuel tanks were damaged and several machinery compartments, including a boiler room, were flooded in the Battle of the Denmark Strait. Her captain's intention was to reach the port of Brest for repair. Late in the day Bismarck briefly turned on her pursuers to cover the escape of her companion, the heavy cruiser Prinz Eugen to continue further into the Atlantic. Early on 25 May the British forces lost contact with Bismarck, which headed ESE towards France while the British searched NE, presuming she was returning to Norway. Later on 25 May Admiral Lütjens, apparently unaware that he had lost his pursuers, broke radio silence to send a coded message to Germany. This allowed the British to triangulate the approximate position of Bismarck and aircraft were dispatched to hunt for the German battleship. She was rediscovered in the late morning of 26 May by a Catalina flying boat from No."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Last_battle_of_the_battleship_Bismarck",
+    "urlGoogle": "https://artsandculture.google.com/entity/last-battle-of-the-battleship-bismarck/m0cq17b"
+  },
+  "funFacts": [
+    {
+      "id": "101",
+      "fact": "About half of all Americans are on a diet on any given day.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "473",
+      "fact": "Antarctica has as much ice as the Atlantic Ocean has water.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553546",
+      "fact": "According to a Japanese study, looking at cute animal pictures can boost your focus."
+    }
+  ],
+  "person": {
+    "id": "henri-d-orleans-duke-of-aumale",
+    "name": "Henri d'Orléans, Duke of Aumale",
+    "dates": "Jan 16, 1822 - May 7, 1897",
+    "mainImg": "img/people/henri-d-orleans-duke-of-aumale.jpg",
+    "summary": [
+      "Henri Eugène Philippe Louis d'Orléans, Duke of Aumale was a leader of the Orleanists, a political faction in 19th-century France associated with constitutional monarchy. He was born in Paris, the fifth son of King Louis-Philippe I of the French and Maria Amalia of Naples and Sicily. He used the title Duke of Aumale. He retired from public life in 1883."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Henri_d%27Orl%C3%A9ans,_Duke_of_Aumale",
+    "urlGoogle": "https://artsandculture.google.com/entity/henri-d-orléans-duke-of-aumale/m03zc8h"
+  },
+  "place": {
+    "id": "algiers",
+    "name": "Algiers",
+    "mainImg": "img/places/algiers.jpg",
+    "summary": [
+      "Algiers is the capital and largest city of Algeria. The city's population at the 2008 Census was 2,988,145 and in 2011 was estimated to be around 3,500,000. An estimate puts the population of the larger metropolitan city to be around 5,000,000. Algiers is located on the Mediterranean Sea and in the north-central portion of Algeria.",
+      "Algiers is situated on the west side of a bay of the Mediterranean Sea. The modern part of the city is built on the level ground by the seashore; the old part, the ancient city of the deys, climbs the steep hill behind the modern town and is crowned by the casbah or citadel, 122 metres above the sea. The casbah and the two quays form a triangle."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Algiers",
+    "urlGoogle": "https://artsandculture.google.com/entity/algiers/m0rtv"
+  },
+  "wiki": {
+    "id": "history-of-arsenal-f-c-1886-1966",
+    "name": "History of Arsenal F.C. (1886–1966)",
+    "summary": "The history of Arsenal Football Club between 1886 and 1966 covers the time from the club's foundation, through the first two major periods of success and their subsequent decline to mid-table status. Arsenal were founded in 1886 as a workers' team from Woolwich, in present-day South East London. They turned professional in 1891 and joined the Football League two years later, winning promotion into the First Division in 1904. Arsenal were bought out in 1910 by Sir Henry Norris, and he moved the team to Arsenal Stadium in Highbury, North London, in 1913 to improve their financial standing. It was not until the appointment of Herbert Chapman as manager that Arsenal had their first period of major success; under him and his successor George Allison, Arsenal won five First Division titles and two FA Cups in the 1930s. After the Second World War, Tom Whittaker continued the success, leading the club to two First Division titles and another FA Cup. Arsenal's fortunes gradually declined; by 1966, they were in mid-table obscurity and had not won a trophy in thirteen years. This led to the dismissal of Billy Wright as manager, and with it the appointment of Bertie Mee.",
+    "url": "https://en.wikipedia.org/wiki/History_of_Arsenal_F.C._(1886%E2%80%931966)"
+  },
+  "word": {
+    "id": "impetuous",
+    "word": "impetuous",
+    "url": "https://www.merriam-webster.com/dictionary/impetuous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-PECH-uh-wus",
+    "audioPath": "audio/words/impetuous.mp3",
+    "definitions": [
+      "marked by impulsive vehemence or passion",
+      "marked by force and violence of movement or action"
+    ],
+    "examples": [
+      "After graduating college, rather than embark on a career, Tom made the _impetuous_ decision to hitchhike across the country.",
+      "\"And it's when he's on the radio one day that he's interrupted by a wild-eyed, _impetuous_ and fetching young woman named Baya Benmahmoud….\" -- From a film review by David Fellerath in _The Independent Weekly_ (Durham, N.C.), September 21, 2011"
+    ],
+    "origin": "When we borrowed \"impetuous\" in the late 14th century, we used it of people and their actions. About a hundred years later, we added another sense to describe physical things like wind or storms or seas. (We don't use this second sense much anymore.) The word comes via Middle French from Late Latin \"impetuosus,\" which is from \"impetus.\" Latin \"impetus\" (which of course gave us our own \"impetus,\" meaning \"driving force\") essentially means \"assault,\" but it also has figurative senses ranging from \"violence\" to \"ardor.\" Our \"impetuous\" has a similar range of meaning, from \"violent\" to \"passionate.\" It also carries the suggestion of impulsiveness. Often, we put a light touch on the word, as when we refer (somewhat longingly, perhaps) to our \"impetuous youth.\""
+  }
+}

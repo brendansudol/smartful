@@ -1,0 +1,120 @@
+{
+  "artist": {
+    "id": "paula-modersohn-becker",
+    "name": "Paula Modersohn-Becker",
+    "dates": "Feb 8, 1876 - Nov 20, 1907",
+    "mainImg": "img/art/artists/paula-modersohn-becker.jpg",
+    "artworkImgs": [
+      {
+        "name": "Self-portrait on the 6th wedding anniversary",
+        "path": "img/art/artworks/paula-modersohn-becker-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-on-the-6th-wedding-anniversary-paula-modersohn-becker/vwGzxtfrdiuFDA"
+      },
+      {
+        "name": "Self-portrait with hat and veil",
+        "path": "img/art/artworks/paula-modersohn-becker-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-with-hat-and-veil-paula-modersohn-becker/agFvsAYicUFPdQ"
+      },
+      {
+        "name": "Girl with child",
+        "path": "img/art/artworks/paula-modersohn-becker-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/girl-with-child-paula-modersohn-becker/SAF-EjSbpQCauQ"
+      },
+      {
+        "name": "Mother and Child Reclining",
+        "path": "img/art/artworks/paula-modersohn-becker-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mother-and-child-reclining-paula-modersohn-becker/SAFFJ5m8KNlzzg"
+      },
+      {
+        "name": "Self-Portrait before a Green Background with Blue Iris",
+        "path": "img/art/artworks/paula-modersohn-becker-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-before-a-green-background-with-blue-iris-paula-modersohn-becker/bwHrFElNgG9afg"
+      },
+      {
+        "name": "Self Portrait with Camellia Branch",
+        "path": "img/art/artworks/paula-modersohn-becker-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-with-camellia-branch-paula-modersohn-becker/jgEDGgvRFA4KzQ"
+      }
+    ],
+    "summary": [
+      "Paula Modersohn-Becker was a German painter and one of the most important representatives of early expressionism. Her brief career was cut short when she died from postpartum embolism at the age of 31. She is recognized as the first known female painter to paint nude self-portraits. She was an important member of the artistic movement of modernism at the start of the twentieth century."
+    ],
+    "quote": null,
+    "movements": ["Modernism", "Expressionism", "Modern art"],
+    "mediums": ["Oil paint", "Drawing", "Charcoal", "Coal", "Cardboard", "Tempera"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Paula_Modersohn-Becker",
+    "urlGoogle": "https://artsandculture.google.com/entity/paula-modersohn-becker/m06k_6_"
+  },
+  "event": {
+    "id": "sinking-of-the-rms-titanic",
+    "name": "Sinking of the RMS Titanic",
+    "dates": "Apr 14, 1912 - Apr 15, 1912",
+    "mainImg": "img/events/sinking-of-the-rms-titanic.jpg",
+    "summary": [
+      "The RMS Titanic sank in the early morning hours of 15 April 1912 in the North Atlantic Ocean, four days into the ship's maiden voyage from Southampton to New York City. The largest ocean liner in service at the time, Titanic had an estimated 2,224 people on board when she struck an iceberg at around 23:40 on Sunday, 14 April 1912. Her sinking two hours and forty minutes later at 02:20 on Monday, 15 April, resulted in the deaths of more than 1,500 people, making it one of the deadliest peacetime marine disasters in history.",
+      "Titanic received six warnings of sea ice on 14 April but was travelling about 22 knots when her lookouts sighted the iceberg. Unable to turn quickly enough, the ship suffered a glancing blow that buckled her starboard side and opened six of her sixteen compartments to the sea. Titanic had been designed to stay afloat with four of her forward compartments flooded but no more, and the crew soon realised that the ship would sink. They used distress flares and radio messages to attract help as the passengers were put into lifeboats."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Titanic",
+    "urlGoogle": "https://artsandculture.google.com/entity/sinking-of-the-rms-titanic/m011b977w"
+  },
+  "funFacts": [
+    {
+      "id": "20",
+      "fact": "Broccoli is the only vegetable that is also a flower.",
+      "category": ["Food", "Plants"]
+    },
+    {
+      "id": "84",
+      "fact": "Oysters can change from one gender to another and back again.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [{ "id": "522176", "fact": "A group of clowns is sometimes called a giggle." }],
+  "person": {
+    "id": "blas-de-lezo",
+    "name": "Blas de Lezo",
+    "dates": "Feb 3, 1689 - Sep 7, 1741",
+    "mainImg": "img/people/blas-de-lezo.jpg",
+    "summary": [
+      "Admiral Blas de Lezo y Olavarrieta was a Spanish navy officer best remembered for the Battle of Cartagena de Indias in modern-day Colombia, where Spanish imperial forces under his command decisively defeated a large British invasion fleet under Admiral Edward Vernon.",
+      "Throughout his naval career, Lezo sustained many severe wounds; he lost his left eye, left hand, complete mobility of the right arm, and had his left leg amputated in situ after being hit by the projectile of a cannon. There is ample documented evidence in medical records of the wounds he sustained, and he was known as Captain Pegleg and Half-man. Lezo perceived his wounds and physical limitations as medals and refused to wear an eye patch to hide his blind eye. Displaying his past battles' history on his flesh won the respect of his peers and soldiers.",
+      "Lezo's defense of Cartagena de Indias against an exponentially larger British fleet consolidated his legacy as one of the most heroic figures in the history of Spain. He is often recognized as one of the greatest strategists in naval history."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Blas_de_Lezo",
+    "urlGoogle": "https://artsandculture.google.com/entity/blas-de-lezo/m0gh5m6"
+  },
+  "place": {
+    "id": "belgrade",
+    "name": "Belgrade",
+    "mainImg": "img/places/belgrade.jpg",
+    "summary": [
+      "Belgrade is the capital and largest city of Serbia. It is located at the confluence of the Sava and Danube rivers and the crossroads of the Pannonian Plain and the Balkan Peninsula. The urban area of Belgrade has a population of 1.23 million, while nearly 1.7 million people live within the administrative limits of the City of Belgrade, a quarter of the total population of Serbia.",
+      "One of the most important prehistoric cultures of Europe, the Vinča culture, evolved within the Belgrade area in the 6th millennium BC. In antiquity, Thraco-Dacians inhabited the region and, after 279 BC, Celts settled the city, naming it Singidūn. It was conquered by the Romans under the reign of Augustus and awarded Roman city rights in the mid-2nd century. It was settled by the Slavs in the 520s, and changed hands several times between the Byzantine Empire, the Frankish Empire, the Bulgarian Empire, and the Kingdom of Hungary before it became the seat of the Serbian king Stefan Dragutin in 1284. In 1521, Belgrade was conquered by the Ottoman Empire and became the seat of the Sanjak of Smederevo."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Belgrade",
+    "urlGoogle": "https://artsandculture.google.com/entity/belgrade/m0fhzf"
+  },
+  "wiki": {
+    "id": "ficus-aurea",
+    "name": "Ficus aurea",
+    "summary": "Ficus aurea is a tree in the family Moraceae that is native to Florida, the northern and western Caribbean, southern Mexico and Central America south to Panama. The specific epithet aurea was coined by English botanist Thomas Nuttall who described the species in 1846; older names applied to this species have been ruled invalid. Ficus aurea is a strangler fig; seed germination usually takes place in the canopy of a host tree and the seedling lives as an epiphyte until its roots establish contact with the ground. It then enlarges and strangles its host, eventually becoming a freestanding tree in its own right. Individuals may reach 30 m (100 ft) in height. Like all figs, it has an obligate mutualism with fig wasps; figs are only pollinated by fig wasps, and fig wasps can only reproduce in fig flowers. The tree provides habitat, food and shelter for a host of tropical lifeforms including epiphytes in cloud forests and birds, mammals, reptiles and invertebrates. F. aurea is used in traditional medicine, for live fencing, as an ornamental and as a bonsai.",
+    "url": "https://en.wikipedia.org/wiki/Ficus_aurea"
+  },
+  "word": {
+    "id": "sangfroid",
+    "word": "sangfroid",
+    "url": "https://www.merriam-webster.com/dictionary/sangfroid",
+    "partOfSpeech": "noun",
+    "pronunciation": "SAHNG-FRWAH",
+    "audioPath": "audio/words/sangfroid.mp3",
+    "definitions": ["self-possession or imperturbability especially under strain"],
+    "examples": [
+      "The lecturer's _sangfroid_ never faltered, even in the face of some tough questions from the audience.",
+      "\"Daniel Craig portrays a vulnerability far removed from the glib _sangfroid_ of his celluloid predecessors and has retired to an exotic [bolt-hole](https://www.merriam-webster.com/dictionary/bolt-hole) after he is assumed to have died during a botched operation.\" - From a movie review by Des O' Neill in the _Irish Times_, January 2, 2013"
+    ],
+    "origin": "If you're a lizard, \"cold-blooded\" means your body temperature is strongly influenced by your environment. If you're an English-speaking human, it means you are callous and unfeeling. If you're a French speaker, it means that you're calm, cool, and collected in stressful situations. By the mid-1700s, English speakers had already been using \"cold-blooded\" for more than a century, but they must have liked the more positive spin the French put on having \"cold blood\" because they borrowed the French \"sang-froid\" (literally, \"cold blood\") for someone who is imperturbable under strain. The French term, by the way, developed from the Latin words \"sanguis\" (\"blood\") and \"frigidus\" (\"cold\")."
+  }
+}

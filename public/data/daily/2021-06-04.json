@@ -1,129 +1,133 @@
 {
   "artist": {
-    "id": "shibata-zeshin",
-    "name": "Shibata Zeshin",
-    "dates": "Mar 15, 1807 - Jul 13, 1891",
-    "mainImg": "img/art/artists/shibata-zeshin.jpg",
+    "id": "nikos-hadjikyriakos-ghikas",
+    "name": "Nikos Hadjikyriakos-Ghikas",
+    "dates": "Feb 26, 1906 - Sep 3, 1994",
+    "mainImg": "img/art/artists/nikos-hadjikyriakos-ghikas.jpg",
     "artworkImgs": [
       {
-        "name": "Waterfall and Monkeys",
-        "path": "img/art/artworks/shibata-zeshin-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/waterfall-and-monkeys-shibata-zeshin/XAHJ5LseJx0OeA"
+        "name": "Two friends",
+        "path": "img/art/artworks/nikos-hadjikyriakos-ghikas-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/two-friends-hadjikyriakos-ghika-nikos/ngFVcIm8P9NZxw"
       },
       {
-        "name": "Album leaf",
-        "path": "img/art/artworks/shibata-zeshin-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/album-leaf-shibata-zeshin/ngE3fpQetilXgQ"
+        "name": "Stage design for \"Don Juan\" by André Obey",
+        "path": "img/art/artworks/nikos-hadjikyriakos-ghikas-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/stage-design-for-don-juan-by-andré-obey-hadjikyriakos-ghika-nikos/aQFv2ExpSFf8LQ"
       },
       {
-        "name": "The Seven Gods, en route to Western Paradise",
-        "path": "img/art/artworks/shibata-zeshin-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-seven-gods-en-route-to-western-paradise-artist-shibata-zeshin/nAGBRew_0KSLJw"
+        "name": "Paris roofs ΙΙ",
+        "path": "img/art/artworks/nikos-hadjikyriakos-ghikas-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/paris-roofs-ιι-hadjikyriakos-ghika-nikos/FwGmwpArER1OOQ"
       },
       {
-        "name": "Crows at twilight",
-        "path": "img/art/artworks/shibata-zeshin-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/crows-at-twilight-artist-shibata-zeshin/BQH6AyI8PZqvDg"
+        "name": "Studio in Paris",
+        "path": "img/art/artworks/nikos-hadjikyriakos-ghikas-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/studio-in-paris-hadjikyriakos-ghika-nikos/YgHbkVsF23iFpw"
       },
       {
-        "name": "Six Rats",
-        "path": "img/art/artworks/shibata-zeshin-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/six-rats-shibata-zeshin/oQHB-5RK4lJ7iw"
+        "name": "Genii Loci II",
+        "path": "img/art/artworks/nikos-hadjikyriakos-ghikas-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/genii-loci-ii-hadjikyriakos-ghika-nikos/_AETu8bJjT4OFQ"
       },
       {
-        "name": "Album leaf",
-        "path": "img/art/artworks/shibata-zeshin-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/album-leaf-shibata-zeshin/9gG3Xpeymbf5Zg"
+        "name": "London roofs Ι",
+        "path": "img/art/artworks/nikos-hadjikyriakos-ghikas-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/london-roofs-ι-hadjikyriakos-ghika-nikos/4QEDV-4dtoZxWA"
       }
     ],
     "summary": [
-      "Shibata Zeshin was a Japanese lacquer, painter and print artist of the late Edo period and early Meiji era. He has been called \"Japan's greatest lacquerer\", but his reputation as painter and print artist is more complex: In Japan, he is known as both too modern, a panderer to the Westernization movement, and also an overly conservative traditionalist who did nothing to stand out from his contemporaries. Despite holding this complicated reputation in Japan, Zeshin has come to be well regarded and much studied among the art world of the West, in Britain and the United States in particular."
+      "Nikos Hadjikyriakos-Ghikas, also known as Niko Ghika, was a leading Greek painter, sculptor, engraver, writer and academic. He was a founding member of the Association of Greek Art Critics, AICA-Hellas, International Association of Art Critics.",
+      "He studied ancient and Byzantine art as well as folk art due to his adoration for the Greek landscape. During his youth he was exposed in Paris to the avant-garde European artistic trends and he gained recognition as the leading Greek cubist artist.",
+      "His aim was to focus on the harmony and purity of Greek art and to deconstruct the Greek landscape and intense natural light into simple geometric shapes and interlocking planes.",
+      "His works are featured in the National Gallery, the Musée d'Art Moderne de la Ville de Paris, the Tate Gallery in London, the Metropolitan Museum of New York and in private collections worldwide."
     ],
     "quote": null,
-    "movements": ["Ukiyo-e", "Shin-hanga"],
-    "mediums": ["Ink", "Lacquer", "Metal", "Silk", "Textile", "Gold"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Shibata_Zeshin",
-    "urlGoogle": "https://artsandculture.google.com/entity/shibata-zeshin/m0bs_sp"
+    "movements": ["Modern art", "Cubism", "Contemporary art"],
+    "mediums": ["Drawing", "Acrylic paint", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Nikos_Hadjikyriakos-Ghikas",
+    "urlGoogle": "https://artsandculture.google.com/entity/nikos-hadjikyriakos-ghikas/m0d47pq"
   },
   "event": {
-    "id": "international-geophysical-year",
-    "name": "International Geophysical Year",
-    "dates": "Jul 1, 1957 - Dec 31, 1958",
-    "mainImg": "img/events/international-geophysical-year.jpg",
+    "id": "election-recount",
+    "name": "Election recount",
+    "dates": null,
+    "mainImg": "img/events/election-recount.jpg",
     "summary": [
-      "The International Geophysical Year was an international scientific project that lasted from 1 July 1957 to 31 December 1958. It marked the end of a long period during the Cold War when scientific interchange between East and West had been seriously interrupted. Sixty-seven countries participated in IGY projects, although one notable exception was the mainland People's Republic of China, which was protesting against the participation of the Republic of China. East and West agreed to nominate the Belgian Marcel Nicolet as secretary general of the associated international organization.",
-      "The IGY encompassed eleven Earth sciences: aurora and airglow, cosmic rays, geomagnetism, gravity, ionospheric physics, longitude and latitude determinations, meteorology, oceanography, seismology, and solar activity. The timing of the IGY was particularly suited for studying some of these phenomena, since it covered the peak of solar cycle 19.",
-      "Both the Soviet Union and the U.S. launched artificial satellites for this event; the Soviet Union's Sputnik 1, launched on October 4, 1957, was the first successful artificial satellite."
+      "An election recount is a repeat tabulation of votes cast in an election that is used to determine the correctness of an initial count. Recounts will often take place if the initial vote tally during an election is extremely close. Election recounts will often result in changes in contest tallies. Errors can be found or introduced from human factors, such as transcription errors, or machine errors, such as misreads of paper ballots. Alternately, tallies may change because of a reinterpretation of voter intent."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/International_Geophysical_Year",
-    "urlGoogle": "https://artsandculture.google.com/entity/international-geophysical-year/m0kfgv"
+    "urlWiki": "https://en.wikipedia.org/wiki/Election_recount",
+    "urlGoogle": "https://artsandculture.google.com/entity/election-recount/m02q164j"
   },
   "funFacts": [
     {
-      "id": "395",
-      "fact": "It is impossible to sneeze with your eyes open.",
-      "category": ["Anatomy"]
+      "id": "809",
+      "fact": "French author Michel Thayer published a 233 page novel which has no verbs.",
+      "category": ["Hodgepodge"]
     },
-    { "id": "756", "fact": "Penguins can jump 6 feet.", "category": ["Animals"] }
+    {
+      "id": "380",
+      "fact": "It is illegal for a portrait of a living person to appear on U.S. postage stamps.",
+      "category": ["Laws"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "554031",
-      "fact": "The Hass avocado was patented in 1935 by Rudolph Hass, a mailman from California."
+      "id": "553703",
+      "fact": "Female bats give birth while hanging upside down, catching the baby in their wings as it drops."
     }
   ],
   "idiom": {
-    "id": "without-a-stitch-on",
-    "term": "without a stitch on",
-    "definition": "Naked, as in *They let their baby run around outside without a stitch on.* A related phrase is **not have a stitch on.** These expressions use *stitch* in the sense of \"a piece of clothing,\" a usage dating from the early 1800s."
+    "id": "make-a-clean-breast-of",
+    "term": "make a clean breast of",
+    "definition": "Confess fully; as in *Caught shoplifting, the girls decided to make a clean breast of it to their parents.* This expression, first recorded in 1752, uses *clean breast* in the sense of baring of one's heart, the breast having long been considered the seat of private or secret feelings."
   },
   "person": {
-    "id": "ahilyabai-holkar",
-    "name": "Ahilyabai Holkar",
-    "dates": "May 31, 1725 - Aug 13, 1795",
-    "mainImg": "img/people/ahilyabai-holkar.jpg",
+    "id": "edward-lord",
+    "name": "Edward Lord",
+    "dates": "Born Jan 13, 1972",
+    "mainImg": "img/people/edward-lord.jpg",
     "summary": [
-      "Maharani Ahilyabai Holkar was the Holkar Queen of the Maratha Malwa kingdom, India. Rajmata Ahilyabai was born in the village of Chondi in Jamkhed, Ahmednagar, Maharashtra. She moved the capital to Maheshwar south of Indore on the Narmada River.",
-      "Ahilyabai's husband Khanderao Holkar was killed in the battle of Kumbher in 1754. Twelve years later, her father-in-law, Malhar Rao Holkar, died. A year after that she was crowned as the queen of the Malwa kingdom. She tried to protect her kingdom from plundering invaders. She personally led armies into battle. She appointed Tukoji Rao Holkar as the Chief of Army.",
-      "Rani Ahilyabai was a great pioneer and builder of Hindu temples. She built hundreds of temples and Dharmashalas throughout India."
+      "Charles Edward Lord OBE JP is a politician, non-executive director, consultant, and a sports administrator. They have been an elected member of the City of London Court of Common Council since February 2001, most recently re-elected in March 2017. They are currently chair of the City's Establishment Committee, leading on workforce and inclusion policy and member of the powerful Policy and Resources Committee. Lord was Chair of Local Partnerships LLP from 2009 to 2012 and served on Executive of the Local Government Association from 2008 to 2012 and the LGA Improvement and Innovation Board from 2004 to 2013, where",
+      "he led on equality and social inclusion. From February 2011 to July 2018 Lord was chair of Capital Ambition in which role they served of the Leaders' Committee of London Councils. Lord was Group Board Chair of the Amateur Swimming Association, the English national governing body for swimming, diving and water polo from 2013 to 2015 and has held a number of appointments within the Football Association. Lord was appointed an OBE for public service in June 2011."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ahilyabai_Holkar",
-    "urlGoogle": "https://artsandculture.google.com/entity/ahilyabai-holkar/m070bhh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Edward_Lord",
+    "urlGoogle": "https://artsandculture.google.com/entity/edward-lord/m04gwbld"
   },
   "place": {
-    "id": "donostia-san-sebastian",
-    "name": "Donostia-San Sebastian",
-    "mainImg": "img/places/donostia-san-sebastian.jpg",
+    "id": "dortmund",
+    "name": "Dortmund",
+    "mainImg": "img/places/dortmund.jpg",
     "summary": [
-      "San Sebastián or Donostia is a coastal city and municipality located in the Basque Autonomous Community, Spain. It lies on the coast of the Bay of Biscay, 20 km from the French border. The capital city of Gipuzkoa, the municipality's population is 186,095 as of 2015, with its metropolitan area reaching 436,500 in 2010. Locals call themselves donostiarra, both in Spanish and Basque.",
-      "The main economic activities are commerce and tourism, and it is one of the most famous tourist destinations in Spain. Despite the city's small size, events such as the San Sebastián International Film Festival have given it an international dimension. San Sebastián, along with Wrocław, Poland, was the European Capital of Culture in 2016."
+      "Dortmund is with a population of 603,609 inhabitants as of 2020, the third-largest city of Germany's most populous federal state of North Rhine-Westphalia and Germany's eighth-largest city. It is the largest city of the Ruhr, Germany's largest urban area with some 5.1 million inhabitants, as well as the largest city of Westphalia. On the Emscher and Ruhr rivers, it lies in the Rhine-Ruhr Metropolitan Region and is considered the administrative, commercial, and cultural centre of the eastern Ruhr. Dortmund is the second largest city in the Low German dialect area after Hamburg.",
+      "Founded around 882, Dortmund became an Imperial Free City. Throughout the 13th to 14th centuries, it was the \"chief city\" of the Rhine, Westphalia, the Netherlands Circle of the Hanseatic League. During the Thirty Years' War, the city was destroyed and decreased in significance until the onset of industrialization. The city then became one of Germany's most important coal, steel and beer centres. Dortmund consequently was one of the most heavily bombed cities in Germany during World War II. The devastating bombing raids of 12 March 1945 destroyed 230% of buildings in the inner city center."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n",
-    "urlGoogle": "https://artsandculture.google.com/entity/donostia-san-sebastian/m02l6l8"
-  },
-  "quote": {
-    "id": "124",
-    "quote": "I am always doing that which I cannot do, in order that I may learn how to do it.",
-    "author": "Pablo Picasso"
+    "urlWiki": "https://en.wikipedia.org/wiki/Dortmund",
+    "urlGoogle": "https://artsandculture.google.com/entity/dortmund/m0135k2"
   },
   "wiki": {
-    "id": "abu-musab-al-zarqawi",
-    "name": "Abu Musab al-Zarqawi",
-    "summary": "Abu Musab al-Zarqawi was the leader of Al-Qaeda in Iraq. Zarqawi took responsibility, on several audiotapes, for numerous acts of terrorism in Iraq and Jordan. These acts include suicide bombings, and the killing of soldiers, police officers, and civilians. As an Islamist identified with the Salafi movement, Zarqawi opposed the presence of United States and Western military forces in the Islamic world and opposed the West's support for and the existence of Israel. In September 2005, he reportedly declared \"all-out war\" on Shia Muslims in Iraq and is believed responsible for dispatching numerous Al-Qaeda suicide bombers throughout Iraq, especially to areas with large concentrations of Shia civilians. As the leader of Al-Qaeda in Iraq he is suspected of responsibility for thousands of deaths. Zarqawi was killed in a US airstrike in June 2006.",
-    "url": "https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi"
+    "id": "nicolo-giraud",
+    "name": "Nicolo Giraud",
+    "summary": "Nicolo Giraud (born c. 1795 – unknown) was a friend and possibly lover of the English Romantic poet Lord Byron. The two met in 1809 while Byron was staying in Athens. Giraud was reported to have taught him Italian, and was his travel companion in Greece. Byron paid for Giraud's education and left him £7,000 in his will. Years after they parted company, Byron changed his will to exclude Giraud. Other than his involvement with Byron, little is known of Giraud's life. The friendship between Byron and Giraud has become a topic of interest among scholars and biographers of Byron. Many believe that the pair's relationship was platonic, but correspondence between Byron and his friends has been used since the late 20th century to argue that the two were engaged in a love affair. The earliest claim of a sexual relationship between them comes from George Colman's poem Don Leon, published in 1833, in which Byron is the principal character and Giraud is portrayed as his liberator from the sexual prejudices in Britain. One modern writer says that the poem and the fictional discussion of their relationship provide insights into 19th-century British views on homosexuality.",
+    "url": "https://en.wikipedia.org/wiki/Nicolo_Giraud"
   },
   "word": {
-    "id": "inexorable",
-    "word": "inexorable",
-    "url": "https://www.merriam-webster.com/dictionary/inexorable",
-    "partOfSpeech": "adjective",
-    "pronunciation": "i-NEK-suh-ruh-bul",
-    "audioPath": "audio/words/inexorable.mp3",
-    "definitions": ["not to be persuaded, moved, or stopped : relentless"],
-    "examples": ["These ancient ruins have slowly succumbed to the inexorable ravages of time."],
-    "origin": "The Latin antecedent of \"inexorable\" is \"inexorabilis,\" which is itself a combination of the prefix \"in-,\" meaning \"not,\" plus \"exorabilis,\" meaning \"pliant\" or \"capable of being moved by entreaty.\" \"Exorabilis\" in turn derives ultimately from the Latin verb \"orare,\" meaning \"to speak or plead.\" It's a fitting etymology for \"inexorable.\" You can beseech and implore until you're blue in the face, but that won't have any effect on something that's inexorable. \"Inexorable\" has been a part of the English language since the 1500s. Originally, it was often applied to persons, or sometimes to personified things (\"deaf and inexorable laws\"). These days, it is usually applied to things, as in \"inexorable monotony\" or \"an inexorable trend.\" In such cases, it essentially means \"unyielding\" or \"inflexible.\""
+    "id": "infantilize",
+    "word": "infantilize",
+    "url": "https://www.merriam-webster.com/dictionary/infantilize",
+    "partOfSpeech": "verb",
+    "pronunciation": "IN-fun-tye-lyze",
+    "audioPath": "audio/words/infantilize.mp3",
+    "definitions": [
+      "to cause to be or remain like an infant or young child",
+      "to treat like an infant or young child"
+    ],
+    "examples": [
+      "Stanley still lives with his parents, who are inclined to infantilize him to such a degree that he'll probably never make it on his own."
+    ],
+    "origin": "\"Infantilize\" is just a baby, relatively speaking, in the English language family. It first saw the light of day in the early 1940s, when social scientists started using it to discuss ways that humans or human activity can prolong or encourage dependency in other humans by treating them as helpless. The adjective \"infantile,\" which gave birth to \"infantilize,\" is far more mature, however -- it's over 300 years old. \"Infantile\" sometimes literally means \"relating to infants\" -- that is, to children in the first year of life -- but it also has a broader meaning; if I chide someone for his or her infantile behavior I simply mean that the person is acting immature or childish."
   }
 }

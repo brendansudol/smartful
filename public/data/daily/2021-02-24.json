@@ -1,132 +1,136 @@
 {
   "artist": {
-    "id": "david-teniers-the-younger",
-    "name": "David Teniers the Younger",
-    "dates": "Dec 15, 1610 - Apr 25, 1690",
-    "mainImg": "img/art/artists/david-teniers-the-younger.jpg",
+    "id": "victor-vasarely",
+    "name": "Victor Vasarely",
+    "dates": "Apr 9, 1906 - Mar 15, 1997",
+    "mainImg": "img/art/artists/victor-vasarely.jpg",
     "artworkImgs": [
       {
-        "name": "A peasant with his wife and child in front of the farmhouse",
-        "path": "img/art/artworks/david-teniers-the-younger-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/a-peasant-with-his-wife-and-child-in-front-of-the-farmhouse-david-teniers-ii/GQHbUrkWNqd91g"
+        "name": "KAGLO II",
+        "path": "img/art/artworks/victor-vasarely-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/kaglo-ii-victor-vasarely/PwHfsgpVbVuzHA"
       },
       {
-        "name": "Guardroom with the Deliverance of Saint Peter",
-        "path": "img/art/artworks/david-teniers-the-younger-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/guardroom-with-the-deliverance-of-saint-peter-david-teniers-the-younger/bwF5bs0-KMQ44Q"
+        "name": "Fieka",
+        "path": "img/art/artworks/victor-vasarely-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/fieka-victor-vasarely/-AFQ-pcWcYmZwQ"
       },
       {
-        "name": "Female Pilgrim",
-        "path": "img/art/artworks/david-teniers-the-younger-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/female-pilgrim/AQHQ7aL-_KvF3g"
+        "name": "TAU CETI (fond bleu)",
+        "path": "img/art/artworks/victor-vasarely-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/tau-ceti-fond-bleu-victor-vasarely/zgHmE8Oi03VXLA"
       },
       {
-        "name": "The Consultation",
-        "path": "img/art/artworks/david-teniers-the-younger-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-consultation-david-teniers-the-younger/XgFYDKNYHrc4vg"
+        "name": "ZETT KSZ",
+        "path": "img/art/artworks/victor-vasarely-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/zett-ksz-victor-vasarely/aQEd6J7kXeyS8Q"
       },
       {
-        "name": "The Prodigal Son",
-        "path": "img/art/artworks/david-teniers-the-younger-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-prodigal-son-david-teniers-the-younger/RQFObqFeZKbtDw"
+        "name": "TEKE",
+        "path": "img/art/artworks/victor-vasarely-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/teke-victor-vasarely/EQGZZ0TDtG-R_Q"
       },
       {
-        "name": "Archduke Leopold William in his Gallery at Brussels",
-        "path": "img/art/artworks/david-teniers-the-younger-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/archduke-leopold-william-in-his-gallery-at-brussels-david-teniers-the-younger/DAFg0iBJKZDQHw"
+        "name": "Uran",
+        "path": "img/art/artworks/victor-vasarely-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/uran-victor-vasarely/gwH2eiqahxkD9Q"
       }
     ],
     "summary": [
-      "David Teniers the Younger or David Teniers II was a Flemish Baroque painter, printmaker, draughtsman, miniaturist painter, staffage painter, copyist and art curator. He was an extremely versatile artist known for his prolific output. He was an innovator in a wide range of genres such as history painting, genre painting, landscape painting, portrait and still life. He is now best remembered as the leading Flemish genre painter of his day. Teniers is particularly known for developing the peasant genre, the tavern scene, pictures of collections and scenes with alchemists and physicians.",
-      "He was court painter and the curator of the collection of Archduke Leopold Wilhelm, the art loving Governor General of the Habsburg Netherlands. He created a printed catalogue of the collections of the Archduke. He was the founder of the Antwerp Academy, where young artists were trained to draw and sculpt in the hope of reviving Flemish art after its decline following the death of the leading Flemish artists Rubens and Anthony van Dyck in the early 1640s. He influenced the next generation of Northern genre painters as well as French Rococo painters such as Antoine Watteau."
+      "Victor Vasarely, was a Hungarian-French artist, who is widely accepted as a \"grandfather\" and leader of the Op art movement.",
+      "His work entitled Zebra, created in the 1930s, is considered by some to be one of the earliest examples of Op art."
     ],
-    "quote": null,
-    "movements": ["Baroque", "Dutch Golden Age", "Antwerp school"],
-    "mediums": ["Oil paint", "Etching", "Wood", "Pencil", "Engraving", "Oak"],
-    "urlWiki": "https://en.wikipedia.org/wiki/David_Teniers_the_Younger",
-    "urlGoogle": "https://artsandculture.google.com/entity/david-teniers-the-younger/m03h0s3"
+    "quote": "“The art of tomorrow will be a collective treasure, or it will not be art at all.”",
+    "movements": ["Modern art", "Op art", "Contemporary art", "Cubism"],
+    "mediums": ["Sculpture", "Engraving", "Acrylic paint", "Porcelain", "Rock", "Ceramic"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Victor_Vasarely",
+    "urlGoogle": "https://artsandculture.google.com/entity/victor-vasarely/m01t5yr"
   },
   "event": {
-    "id": "ottoman-wars-in-europe",
-    "name": "Ottoman wars in Europe",
-    "dates": "1356 - Jul 28, 1858",
-    "mainImg": "img/events/ottoman-wars-in-europe.jpg",
+    "id": "operation-market-garden",
+    "name": "Operation Market Garden",
+    "dates": "Sep 17, 1944 - Sep 25, 1944",
+    "mainImg": "img/events/operation-market-garden.jpg",
     "summary": [
-      "The Ottoman wars in Europe were a series of military conflicts between the Ottoman Empire and various European states dating from the Late Middle Ages up through the early 20th century. The earliest conflicts began during the Byzantine–Ottoman wars, waged in Anatolia in the late 13th century before entering Europe in the mid 14th century, followed by the Bulgarian–Ottoman wars and the Serbian–Ottoman wars waged beginning in the mid 14th century. Much of this period was characterized by Ottoman expansion into the Balkans. The Ottoman Empire made further inroads into Central Europe in the 15th and 16th centuries, culminating in the peak of Ottoman territorial claims in Europe.",
-      "The Ottoman–Venetian Wars spanned four centuries, starting in 1423 and lasting until 1718. This period witnessed the fall of Negroponte in 1470, the fall of Famagusta in 1571, the defeat of the Ottoman fleet at the Battle of Lepanto in 1571, the fall of Candia in 1669, the Venetian reconquest of Morea in the 1680s and its loss again in 1715. The island of Corfu under Venetian rule remained the only Greek island not conquered by the Ottomans."
+      "Operation Market Garden was a failed World War II military operation fought in the Netherlands from 17 to 25 September 1944. It was the brainchild of Field Marshal Sir Bernard Law Montgomery and strongly supported by Winston Churchill and Franklin Roosevelt. The airborne part of the operation was undertaken by the First Allied Airborne Army with the land operation by XXX Corps of the British Second Army. The objective was to create a 64 mi salient into German territory with a bridgehead over the River Rhine, creating an Allied invasion route into northern Germany. This was to be achieved by seizing a series of nine bridges by Airborne forces with land forces swiftly following over the bridges. The operation succeeded in liberating the Dutch cities of Eindhoven and Nijmegen along with many towns, creating a 60 mi salient into German-held territory limiting V-2 rocket launching sites. It failed, however, to secure a bridgehead over the Rhine, with the advance being halted at the river.",
+      "Market Garden consisted of two sub-operations:",
+      "Market – an airborne assault to seize key bridges, and;",
+      "Garden – a ground attack moving over the seized bridges creating the salient."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe",
-    "urlGoogle": "https://artsandculture.google.com/entity/ottoman-wars-in-europe/m03jqfx"
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Market_Garden",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-market-garden/m0flsy"
   },
   "funFacts": [
-    { "id": "112", "fact": "At birth, a Dalmation is always pure white.", "category": ["Animals"] },
     {
-      "id": "60",
-      "fact": "The tongue is the fastest healing part of the body.",
-      "category": ["Anatomy"]
+      "id": "396",
+      "fact": "The dragonfly can reach speeds of up to 36 mph.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "10",
+      "fact": "Mosquitoes are attracted to people who just ate bananas.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553845",
-      "fact": "Madam C.J. Walker is thought to be America’s first self-made female millionaire. Born to sharecroppers in 1867, she made her fortune selling beauty products for black women."
+      "id": "554092",
+      "fact": "Jeannette Rankin became the first female member of Congress in 1916, four years before the 19th Amendment was ratified."
     }
   ],
   "idiom": {
-    "id": "bring-home-the-bacon",
-    "term": "bring home the bacon",
-    "definition": "1\\. Earn a living, provide the necessities of life, as in *Now that she had a job, Patricia could bring home the bacon.* 2\\. Be successful, accomplish something of value, as in *George went to Washington and brought home the bacon---he got the funding we needed.* Although the earliest citation for this phrase in the *Oxford English Dictionary* dates from 1924, the term is widely believed to come from the much older game of catching a greased pig, a popular competition at country fairs in which the winner was awarded the pig."
+    "id": "by-hook-or-crook",
+    "term": "by hook or crook",
+    "definition": "By any means possible, in one way or another. For example, *The car broke down, but I'll get there by hook or crook.* This term has a disputed origin. A widely held theory is that it comes from the custom of allowing commoners to take as much wood from royal forests as they could reach with a shepherd's crook and cut down with a billhook. [1300s]"
   },
   "person": {
-    "id": "empress-jingu",
-    "name": "Empress Jingū",
-    "dates": "169 AD - 269 AD",
-    "mainImg": "img/people/empress-jingu.jpg",
+    "id": "desmond-tutu",
+    "name": "Desmond Tutu",
+    "dates": "Born Oct 7, 1931",
+    "mainImg": "img/people/desmond-tutu.jpg",
     "summary": [
-      "Empress consort Jingū was a Japanese empress who ruled as a regent following her husband's death in 200 AD. Both the Kojiki, and the Nihon Shoki record events that took place during Jingū's alleged lifetime. Legends say that after seeking revenge on the people who murdered her husband, she then turned her attention to a \"promised land\". Jingū is thus considered to be a controversial monarch by historians in terms of her alleged invasion of the Korean Peninsula. This was in turn possibly used as justification for imperial expansion during the Meiji period. The records state that Jingū gave birth to a baby boy whom she named Homutawake three years after he was conceived by her late husband.",
-      "Jingū's reign is conventionally considered to have been from 201 to 269 AD, and was considered to be the 15th Japanese imperial ruler until the Meiji period. Modern historians have come to the conclusion that the name \"Jingū\" was used by later generations to describe this legendary Empress. It has also been proposed that Jingū actually reigned later than she is attested. While the location of Jingū's grave is unknown, she is traditionally venerated at a kofun and at a shrine."
+      "Desmond Mpilo Tutu OMSG CH GCStJ is a South African Anglican cleric and theologian known for his work as an anti-apartheid and human rights activist. He was the Bishop of Johannesburg from 1985 to 1986 and then the Archbishop of Cape Town from 1986 to 1996, in both cases being the first black African to hold the position. Theologically, he sought to fuse ideas from black theology with African theology.",
+      "Tutu was born of mixed Xhosa and Motswana heritage to a poor family in Klerksdorp, Union of South Africa. Entering adulthood, he trained as a teacher and married Nomalizo Leah Tutu, with whom he had several children. In 1960, he was ordained as an Anglican priest and in 1962 moved to the United Kingdom to study theology at King's College London. In 1966 he returned to southern Africa, teaching at the Federal Theological Seminary and then the University of Botswana, Lesotho and Swaziland. In 1972, he became the Theological Education Fund's director for Africa, a position based in London but necessitating regular tours of the African continent."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Empress_Jing%C5%AB",
-    "urlGoogle": "https://artsandculture.google.com/entity/empress-jingū/m01v441"
+    "quote": "“Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Desmond_Tutu",
+    "urlGoogle": "https://artsandculture.google.com/entity/desmond-tutu/m02d5w"
   },
   "place": {
-    "id": "amritsar",
-    "name": "Amritsar",
-    "mainImg": "img/places/amritsar.jpg",
+    "id": "west-germany",
+    "name": "West Germany",
+    "mainImg": "img/places/west-germany.jpg",
     "summary": [
-      "Amritsar, historically also known as Rāmdāspur and colloquially as Ambarsar, is a city in state of Punjab, northwestern India which is the administrative headquarters of the Amritsar district and is located in the Majha region of Punjab.",
-      "According to the 2011 census, the population of Amritsar was 1,132,761. It is one of the ten Municipal Corporations in the state and Karamjit Singh Rintu is the current mayor of the city. The city is situated 217 km northwest of state capital Chandigarh and 455 km northwest of New Delhi, the national capital. It is near Pakistan, with the Wagah Border being only 28 km away.",
-      "Amritsar has been chosen as one of the heritage cities for HRIDAY - Heritage City Development and Augmentation Yojana scheme of Government of India. Amritsar is home to Harmandir Sahib, popularly known as \"the Golden Temple,\" one of Sikhism's most spiritually significant and most-visited gurudwaras. The city is also known for its wooden chessboards and chess pieces manufacturing industry."
+      "West Germany, officially the Federal Republic of Germany and retrospectively designated the Bonn Republic, was a state that existed between its formation on 23 May 1949 and German reunification on 3 October 1990. During this Cold War period, the western portion of Germany was part of the Western Bloc. The FRG was created during the Allied occupation of Germany after World War II, established from eleven states formed in the three Allied zones of occupation held by the United States, the United Kingdom and France. Its capital was the city of Bonn.",
+      "At the onset of the Cold War, Europe was divided among the Western and Eastern blocs. Germany was de facto divided into two countries and two special territories, the Saarland and a divided Berlin. Initially, the FRG claimed an exclusive mandate for all of Germany, considering itself to be the sole democratically reorganised continuation of the 1871–1945 German Reich. It took the line that the German Democratic Republic, commonly referred to as East Germany, was an illegally constituted puppet state. Although the GDR did hold regular elections, these were neither free nor fair and West Germany considered them illegitimate."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Amritsar",
-    "urlGoogle": "https://artsandculture.google.com/entity/amritsar/m029kpy"
+    "urlWiki": "https://en.wikipedia.org/wiki/West_Germany",
+    "urlGoogle": "https://artsandculture.google.com/entity/west-germany/m082fr"
   },
   "quote": {
-    "id": "101",
-    "quote": "Today a reader, tomorrow a leader.",
-    "author": "Margaret Fuller"
+    "id": "32",
+    "quote": "Kindness is the language which the deaf can hear and the blind can see.",
+    "author": "Mark Twain"
   },
   "wiki": {
-    "id": "h-ii-region",
-    "name": "H II region",
-    "summary": "An H II region is a cloud of glowing gas, sometimes several hundred light years across, in which star formation is taking place. Young, hot, blue stars which have formed from the gas emit copious amounts of ultraviolet light, ionising the nebula surrounding them. H II regions may give birth to thousands of stars over a period of several million years. In the end, supernova explosions and strong stellar winds from the most massive stars in the resulting star cluster will evaporate the gases of the H II region, leaving behind a cluster such as the Pleiades. H II (pronounced \"H two\") regions are named for the large amount of ionised atomic hydrogen they contain, referred to as H II by astronomers (H I being neutral atomic hydrogen, and H2 being molecular hydrogen). H II regions can be seen out to considerable distances in the universe, and study of extragalactic H II regions is important in determining the distance and chemical composition of other galaxies.",
-    "url": "https://en.wikipedia.org/wiki/H_II_region"
+    "id": "ant",
+    "name": "Ant",
+    "summary": "Ants are social insects of the family Formicidae and, along with the related families of wasps and bees, belong to the order Hymenoptera. Ants evolved from wasp-like ancestors in the mid-Cretaceous period between 110 and 130 million years ago and diversified after the rise of flowering plants. Today, more than 12,000 species are classified with upper estimates of about 14,000 species. They are easily identified by their elbowed antennae and a distinctive node-like structure that forms a slender waist. Ants form colonies that range in size from a few tens of predatory individuals living in small natural cavities to highly organised colonies which may occupy large territories and consist of millions of individuals that are mostly sterile females forming castes of workers, soldiers, or other specialised groups. Ant colonies also have some fertile males called drones and one or more fertile females called queens. Ants have colonised almost every landmass on Earth. Ants dominate most ecosystems, and form 15–20% of the terrestrial animal biomass. Their success has been attributed to their social organisation, ability to modify their habitats, tap resources and defend themselves.",
+    "url": "https://en.wikipedia.org/wiki/Ant"
   },
   "word": {
-    "id": "haptic",
-    "word": "haptic",
-    "url": "https://www.merriam-webster.com/dictionary/haptic",
-    "partOfSpeech": "adjective",
-    "pronunciation": "HAP-tik",
-    "audioPath": "audio/words/haptic.mp3",
+    "id": "nocebo",
+    "word": "nocebo",
+    "url": "https://www.merriam-webster.com/dictionary/nocebo",
+    "partOfSpeech": "noun",
+    "pronunciation": "noh-SEE-boh",
+    "audioPath": "audio/words/nocebo.mp3",
     "definitions": [
-      "relating to or based on the sense of touch",
-      "characterized by a predilection for the sense of touch"
+      "a harmless substance that when taken by a patient is associated with harmful effects due to negative expectations or the psychological condition of the patient"
     ],
-    "examples": ["Katy could tell one kind of yarn from another purely by haptic clues."],
-    "origin": "\"Haptic\" (from the Greek \"haptesthai,\" meaning \"to touch\") entered English in the late 19th century as a medical synonym for \"tactile.\" By the middle of the 20th century, it had developed a psychological sense, describing individuals whose perception supposedly depended primarily on touch rather than sight. Although almost no one today divides humans into \"haptic\" and \"visual\" personalities, English retains the broadened psychological sense of \"haptic\" as well as the older \"tactile\" sense."
+    "examples": ["Patients given the nocebo reported mild to severe headaches."],
+    "origin": "\"Nocent\" has been in the English language as a word for \"harmful\" since the 15th century. It comes from Latin \"nocēre,\" meaning \"to harm.\" Latin \"nocebo\" is a close relative that means \"I will be harmful\" and that contrasts with \"placebo,\" meaning \"I shall please.\" People in medicine began using \"placebo\" for inert preparations prescribed solely for a patient's mental relief, and not for relieving a disorder, in the late 18th century. As doctors began to observe the effects of placebos, some noticed that the harmless preparations actually sometimes caused detrimental effects on the patient's health. English speakers began using the word \"nocebo\" for substances causing such adverse reactions in patients in 1961."
   }
 }

@@ -1,0 +1,129 @@
+{
+  "artist": {
+    "id": "ogata-gekko",
+    "name": "Ogata Gekkō",
+    "dates": "1859 - Oct 1, 1920",
+    "mainImg": "img/art/artists/ogata-gekko.jpg",
+    "artworkImgs": [
+      {
+        "name": "Sino-Japanese War: The Japanese Navy Victorious Off Takushan",
+        "path": "img/art/artworks/ogata-gekko-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/sino-japanese-war-the-japanese-navy-victorious-off-takushan-ogata-gekko/RwGnlz2Zy7aEhw"
+      },
+      {
+        "name": "Monkey Reaching for the Moon",
+        "path": "img/art/artworks/ogata-gekko-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/monkey-reaching-for-the-moon-artist-ogata-gekko/PwGJXfL0nJrFfw"
+      },
+      {
+        "name": "The Picture Competition",
+        "path": "img/art/artworks/ogata-gekko-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-picture-competition-artist-ogata-gekko/UQG_a6_qNasklg"
+      },
+      {
+        "name": "Picture of Officers and Men Worshiping the Rising Sun While Encamped in the Mountains of Port Arthur",
+        "path": "img/art/artworks/ogata-gekko-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/picture-of-officers-and-men-worshiping-the-rising-sun-while-encamped-in-the-mountains-of-port-arthur-ogata-gekko/qAFsybffl5CaFA"
+      },
+      {
+        "name": "Sino-Japanese War",
+        "path": "img/art/artworks/ogata-gekko-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/sino-japanese-war-artist-ogata-gekko/JAHUwUIsV2SXLg"
+      },
+      {
+        "name": "Tale of the 47 Ronin",
+        "path": "img/art/artworks/ogata-gekko-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/tale-of-the-47-ronin-artist-ogata-gekko/EwFpC6APeBbTyQ"
+      }
+    ],
+    "summary": [
+      "Ogata Gekkō was a Japanese artist best known as a painter and a designer of ukiyo-e woodblock prints. He was self-taught in art, and won numerous national and international prizes and was one of the earliest Japanese artists to win an international audience."
+    ],
+    "quote": null,
+    "movements": ["Ukiyo-e"],
+    "mediums": ["Ink", "Textile", "Silk", "Bone", "Ivory", "Book"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ogata_Gekk%C5%8D",
+    "urlGoogle": "https://artsandculture.google.com/entity/ogata-gekkō/m02vx8jt"
+  },
+  "event": {
+    "id": "battle-of-inchon",
+    "name": "Battle of Inchon",
+    "dates": "Sep 15, 1950 - Sep 19, 1950",
+    "mainImg": "img/events/battle-of-inchon.jpg",
+    "summary": [
+      "The Battle of Inchon was an amphibious invasion and battle of the Korean War that resulted in a decisive victory and strategic reversal in favor of the United Nations Command. The operation involved some 75,000 troops and 261 naval vessels, and led to the recapture of the South Korean capital of Seoul two weeks later. The code name for the operation was Operation Chromite.",
+      "The battle began on 15 September 1950 and ended on 19 September. Through a surprise amphibious assault far from the Pusan Perimeter that UN and Republic of Korea Army forces were desperately defending, the largely undefended city of Incheon was secured after being bombed by UN forces. The battle ended a string of victories by the North Korean Korean People's Army. The subsequent UN recapture of Seoul partially severed the KPA's supply lines in South Korea.",
+      "The UN and ROK forces were commanded by General of the Army Douglas MacArthur of the United States Army. MacArthur was the driving force behind the operation, overcoming the strong misgivings of more cautious generals to a risky assault over extremely unfavorable terrain."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Inchon",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-inchon/m0423nm"
+  },
+  "funFacts": [
+    {
+      "id": "160",
+      "fact": "One alternative title that had been considered for NBC's hit \"Friends\" was \"Insomnia Café.\"",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "685",
+      "fact": "Dogs can make about 10 sounds, cats can make about 100.",
+      "category": [""]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553922",
+      "fact": "“Bloodcurdling” isn’t just an expression: Research shows that watching horror movies can increase a certain clotting protein in our bloodstreams."
+    }
+  ],
+  "person": {
+    "id": "oliver-otis-howard",
+    "name": "Oliver Otis Howard",
+    "dates": "Nov 8, 1830 - Oct 26, 1909",
+    "mainImg": "img/people/oliver-otis-howard.jpg",
+    "summary": [
+      "Oliver Otis Howard was a career United States Army officer and a Union general in the American Civil War. As a brigade commander in the Army of the Potomac, Howard lost his right arm while leading his men against Confederate forces at the Battle of Fair Oaks/Seven Pines in June 1862, an action which later earned him the Medal of Honor. As a corps commander, he suffered two humiliating defeats at Chancellorsville and Gettysburg in May and July 1863, but recovered from the setbacks as a successful corps and later army commander in the Western Theater.",
+      "Known as the \"Christian general\" because he tried to base his policy decisions on his deep, evangelical piety, he was given charge of the Freedmen's Bureau in mid-1865, with the mission of integrating the former slaves into Southern society and politics during the second phase of the Reconstruction Era. Howard took charge of labor policy, setting up a system that required freed people to work on former plantation land under pay scales fixed by the Bureau, on terms negotiated by the Bureau with white land owners. Howard's Bureau was primarily responsible for the legal affairs of the freedmen."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Oliver_Otis_Howard",
+    "urlGoogle": "https://artsandculture.google.com/entity/oliver-otis-howard/m01p9tm"
+  },
+  "place": {
+    "id": "nicosia",
+    "name": "Nicosia",
+    "mainImg": "img/places/nicosia.jpg",
+    "summary": [
+      "Nicosia is the largest city, capital, and seat of government of Cyprus. It is located near the centre of the Mesaoria plain, on the banks of the River Pedieos.",
+      "Nicosia is the southeasternmost of all EU member states' capitals. It has been continuously inhabited for over 4,500 years and has been the capital of Cyprus since the 10th century. The Greek Cypriot and Turkish Cypriot communities of Nicosia segregated into the south and north of the city respectively in early 1964, following the fighting of the Cyprus crisis of 1963–64 that broke out in the city. This separation became a militarised border between the Republic of Cyprus and Northern Cyprus after Turkey invaded the island of Cyprus in 1974, occupying the north of the island, including northern Nicosia. Today North Nicosia is the capital of Northern Cyprus, a state recognized only by Turkey, that is considered to be occupied Cypriot territory by the international community.",
+      "Apart from its legislative and administrative functions, Nicosia has established itself as the island's financial capital and its main international business centre. In 2018, Nicosia was the 32nd richest city in the world in relative purchasing power."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Nicosia",
+    "urlGoogle": "https://artsandculture.google.com/entity/nicosia/m0fqg8"
+  },
+  "wiki": {
+    "id": "libya",
+    "name": "Libya",
+    "summary": "Libya is a country in North Africa. Bordering the Mediterranean Sea to the north, it lies between Egypt to the east, Sudan to the southeast, Chad and Niger to the south and Algeria and Tunisia to the west. With an area of 1.8 million square kilometres, 90% of which is desert, Libya is the fourth largest nation-state in Africa by area, and the 17th largest in the world. The capital, Tripoli, is home to 1.7 million of Libya's 5.8 million people. The three traditional parts of the country are Tripolitania, the Fezzan and Cyrenaica. Libya's name is derived from the ancient Egyptian term \"Lebu\", referring to Berber peoples living west of the Nile. With one of the largest proven oil reserves in the world, Libya has one of the largest gross domestic products per capita in Africa. Libya is led by revolutionary Colonel Muammar al-Gaddafi, whose foreign policy has often brought him into conflict with the West.",
+    "url": "https://en.wikipedia.org/wiki/Libya"
+  },
+  "word": {
+    "id": "pippin",
+    "word": "pippin",
+    "url": "https://www.merriam-webster.com/dictionary/pippin",
+    "partOfSpeech": "noun",
+    "pronunciation": "PIP-in",
+    "audioPath": "audio/words/pippin.mp3",
+    "definitions": [
+      "a crisp tart apple having usually yellow or greenish-yellow skin strongly flushed with red and used especially for cooking",
+      "a highly admired or very admirable person or thing"
+    ],
+    "examples": [
+      "The CEO's retirement speech was a _pippin_.",
+      "\"\\[Judge Len Goodman of 'Dancing with the Stars'\\] said … that the dance was 'first class.... It was crisp, it was sharp, it was like a _pippin_.'\" - From an article by Allyssa Lee in the _Los Angeles Times_, September 27, 2011"
+    ],
+    "origin": "Since the late Middle Ages, English speakers have experimented with the use of the word \"pippin,\" which germinated from the Anglo-French word \"pepin,\" meaning \"seed\" or \"pip of a fruit.\" \"Pippin\" has been used to refer to a part of a pea embryo, a grain of gold, and a grape, but those uses were not hardy enough to become firmly rooted in the English language. The word did take root, however, in the soil of the northern regions of England, where it is used to describe a small fruit seed. In addition, it has widespread use as the name of a crisp, tart apple and of a person who is unique, usually in a pleasant way."
+  }
+}

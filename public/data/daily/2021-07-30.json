@@ -1,136 +1,112 @@
 {
   "artist": {
-    "id": "george-caleb-bingham",
-    "name": "George Caleb Bingham",
-    "dates": "Mar 20, 1811 - Jul 7, 1879",
-    "mainImg": "img/art/artists/george-caleb-bingham.jpg",
+    "id": "alexander-andreyevich-ivanov",
+    "name": "Alexander Andreyevich Ivanov",
+    "dates": "Jul 16, 1806 - Jul 3, 1858",
+    "mainImg": "img/art/artists/alexander-andreyevich-ivanov.jpg",
     "artworkImgs": [
       {
-        "name": "Washington Crossing the Delaware",
-        "path": "img/art/artworks/george-caleb-bingham-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/washington-crossing-the-delaware-george-caleb-bingham/DAEgZIU76ylwJw"
+        "name": "Via Appia at Sunset",
+        "path": "img/art/artworks/alexander-andreyevich-ivanov-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/via-appia-at-sunset-aleksander-ivanov/AAENJNp6EAhfrQ"
       },
       {
-        "name": "Canvassing for a Vote",
-        "path": "img/art/artworks/george-caleb-bingham-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/canvassing-for-a-vote-george-caleb-bingham/HAGRavI9ENmDAA"
+        "name": "Christ's Appearance to Mary Magdalene after the Resurrection",
+        "path": "img/art/artworks/alexander-andreyevich-ivanov-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-s-appearance-to-mary-magdalene-after-the-resurrection/pwE-qeOqtCvCTg"
       },
       {
-        "name": "Mississippi Boatman",
-        "path": "img/art/artworks/george-caleb-bingham-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/mississippi-boatman-george-caleb-bingham/NwGxa3tIPVQvoQ"
+        "name": "Water and Stones near Palazzuola",
+        "path": "img/art/artworks/alexander-andreyevich-ivanov-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/water-and-stones-near-palazzuola/XAGBPqDoCK919Q"
       },
       {
-        "name": "View of Pike's Peak",
-        "path": "img/art/artworks/george-caleb-bingham-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-pike-s-peak-george-caleb-bingham/5AFwH11Sv9kY0A"
-      },
-      {
-        "name": "The Trappers' Return",
-        "path": "img/art/artworks/george-caleb-bingham-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-trappers-return-george-caleb-bingham/oAG5UeY3bHW46Q"
-      },
-      {
-        "name": "Boatmen on the Missouri",
-        "path": "img/art/artworks/george-caleb-bingham-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/boatmen-on-the-missouri-george-caleb-bingham-1811–1879/9gHmwL9aHbDR1w"
+        "name": "The Apparition of Christ to the People (The Apparition of the Messiah)",
+        "path": "img/art/artworks/alexander-andreyevich-ivanov-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-apparition-of-christ-to-the-people-the-apparition-of-the-messiah-aleksander-ivanov/lgGqUffODe21kA"
       }
     ],
     "summary": [
-      "George Caleb Bingham was an American artist, soldier and politician known in his lifetime as \"the Missouri Artist\". Initially a Whig, he was elected as a delegate to the Missouri legislature before the American Civil War where he fought the extension of slavery westward. During that war, although born in Virginia, Bingham was dedicated to the Union cause and became captain of a volunteer company which helped keep the state from joining the Confederacy, and then served four years as Missouri's Treasurer. During his final years, Bingham held several offices in Kansas City, while also serving as Missouri's Adjutant General. His paintings of American frontier life along the Missouri River exemplify the Luminist style."
+      "Alexander Andreyevich Ivanov was a Russian painter who adhered to the waning tradition of Neoclassicism but found little sympathy with his contemporaries. He was born and died in St. Petersburg. He has been called the master of one work, for it took 20 years to complete his magnum opus The Appearance of Christ Before the People."
     ],
     "quote": null,
-    "movements": [
-      "Hudson River School",
-      "American Realism",
-      "Realism",
-      "Luminism",
-      "Neoclassicism"
-    ],
-    "mediums": ["Oil paint", "Textile", "Drawing", "Ink", "India ink", "Pencil"],
-    "urlWiki": "https://en.wikipedia.org/wiki/George_Caleb_Bingham",
-    "urlGoogle": "https://artsandculture.google.com/entity/george-caleb-bingham/m01jj7m"
+    "movements": [],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_Andreyevich_Ivanov",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-andreyevich-ivanov/m06dsrq"
   },
   "event": {
-    "id": "gettysburg-campaign",
-    "name": "Gettysburg campaign",
-    "dates": "Jun 9, 1863 - Jul 23, 1863",
-    "mainImg": "img/events/gettysburg-campaign.jpg",
+    "id": "mercury-atlas-9",
+    "name": "Mercury-Atlas 9",
+    "dates": "May 15, 1963 - May 16, 1963",
+    "mainImg": "img/events/mercury-atlas-9.jpg",
     "summary": [
-      "The Gettysburg campaign was a military invasion of Pennsylvania by the main Confederate army under General Robert E. Lee in summer 1863. The Union won a decisive victory at Gettysburg, July 1–3, with heavy casualties on both sides. Lee managed to escape back to Virginia with most of his army. It was a turning point in the American Civil War, with Lee increasingly pushed back toward Richmond until his surrender in April 1865. After his victory in the Battle of Chancellorsville, Lee's Army of Northern Virginia moved north for a massive raid designed to obtain desperately needed supplies, to undermine civilian morale in the North, and to encourage anti-war elements. The Union Army of the Potomac was commanded by Maj. Gen. Joseph Hooker and then by Maj. Gen. George G. Meade.",
-      "Lee's army slipped away from Federal contact at Fredericksburg, Virginia, on June 3, 1863. The largest predominantly cavalry battle of the war was fought at Brandy Station on June 9. The Confederates crossed the Blue Ridge Mountains and moved north through the Shenandoah Valley, capturing the Union garrison at Winchester, Virginia, in the Second Battle of Winchester, June 13–15."
+      "Mercury-Atlas 9 was the final crewed space mission of the U.S. Mercury program, launched on May 15, 1963 from Launch Complex 14 at Cape Canaveral, Florida. The spacecraft, named Faith 7, completed 22 Earth orbits before splashing down in the Pacific Ocean, piloted by astronaut Gordon Cooper, then a United States Air Force major. The Atlas rocket was No. 130-D, and the Mercury spacecraft was No. 20. This mission marks the last time an American was launched alone to conduct an entirely solo orbital mission."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Gettysburg_campaign",
-    "urlGoogle": "https://artsandculture.google.com/entity/gettysburg-campaign/m05740w"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mercury-Atlas_9",
+    "urlGoogle": "https://artsandculture.google.com/entity/mercury-atlas-9/m01f7g2"
   },
   "funFacts": [
+    { "id": "61", "fact": "Pigs can get sunburn.", "category": ["Animals"] },
+    { "id": "57", "fact": "You blink over 10,000,000 times a year.", "category": ["Anatomy"] }
+  ],
+  "funFacts2": [
     {
-      "id": "479",
-      "fact": "Knots come out easier if you sprinkle talcum powder on them.",
-      "category": ["Make-it-Easies"]
-    },
-    {
-      "id": "730",
-      "fact": "The fear of vegetables is called lachanophobia.",
-      "category": ["Food", "Definitions"]
+      "id": "554012",
+      "fact": "Fern collecting was such a hot fad in the Victorian era that it even had a name: pteridomania."
     }
   ],
-  "funFacts2": [{ "id": "506391", "fact": "Lobsters' bladders are in their heads." }],
   "idiom": {
-    "id": "beard-the-lion",
-    "term": "beard the lion",
-    "definition": "Confront a danger, take a risk, as in *I went straight to my boss, bearding the lion.* This term was originally a Latin proverb based on a Bible story (I Samuel 17:35) about the shepherd David, who pursued a lion that had stolen a lamb, caught it by its beard, and killed it. By Shakespeare's time it was being used figuratively, as it is today. Sometimes the term is amplified to **beard the lion in his den,** which may combine the allusion with another Bible story, that of Daniel being shut in a lions' den for the night (Daniel 6:16--24)."
+    "id": "box-the-compass",
+    "term": "box the compass",
+    "definition": "Make a complete turnabout or reversal, as in *With a change of ownership, the editorial page boxed the compass politically, now supporting the Senator.* Originally this was (and continues to be) a nautical term, meaning \"repeat the 32 points of the compass in order.\" In the early 1800s it began to be used figuratively."
   },
   "person": {
-    "id": "maurice-gamelin",
-    "name": "Maurice Gamelin",
-    "dates": "Sep 20, 1872 - Apr 18, 1958",
-    "mainImg": "img/people/maurice-gamelin.jpg",
+    "id": "carlos-prio-socarras",
+    "name": "Carlos Prío Socarrás",
+    "dates": "Jul 14, 1903 - Apr 5, 1977",
+    "mainImg": "img/people/carlos-prio-socarras.jpg",
     "summary": [
-      "Maurice Gustave Gamelin was a French army general in the French Army. Gamelin is remembered for his disastrous command of the French military during the Battle of France in World War II and his steadfast defence of republican values.",
-      "The Commander-in-chief of the French Armed Forces at the start of World War II, Gamelin was viewed as a man with significant intellectual ability. He was respected, even in Germany, for his intelligence and \"subtle mind\", though he was viewed by some German generals as stiff and predictable. Despite this, and his competent service in World War I, his command of the French armies during the critical days of May 1940 proved to be disastrous. Historian and journalist William L. Shirer presented the view that Gamelin used World War I methods to fight World War II, but with less vigor and slower response.",
-      "Gamelin served with distinction under Joseph Joffre in World War I. He is often credited with being responsible for devising the outline of the French counter-attack in 1914 which led to victory during the First Battle of the Marne."
+      "Carlos Prío Socarrás was the President of Cuba from 1948 until he was deposed by a military coup led by Fulgencio Batista on March 10, 1952, three months before new elections were to be held. He was the first president of Cuba to be born in an independent Cuba and the last to gain his post through universal, contested elections. He is sometimes called Charles Prio Socarras in English."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Maurice_Gamelin",
-    "urlGoogle": "https://artsandculture.google.com/entity/maurice-gamelin/m029lm4"
+    "urlWiki": "https://en.wikipedia.org/wiki/Carlos_Pr%C3%ADo_Socarr%C3%A1s",
+    "urlGoogle": "https://artsandculture.google.com/entity/carlos-prío-socarrás/m0l1l3"
   },
   "place": {
-    "id": "parma",
-    "name": "Parma",
-    "mainImg": "img/places/parma.jpg",
+    "id": "lansing",
+    "name": "Lansing",
+    "mainImg": "img/places/lansing.jpg",
     "summary": [
-      "Parma is a city in the northern Italian region of Emilia-Romagna famous for its architecture, music, art, prosciutto, cheese and surrounding countryside. It is home to the University of Parma, one of the oldest universities in the world.",
-      "Parma is divided into two parts by the stream of the same name. The district on the far side of the river is Oltretorrente. Parma's Etruscan name was adapted by Romans to describe the round shield called Parma.",
-      "The Italian poet Attilio Bertolucci wrote: \"As a capital city it had to have a river. As a little capital it received a stream, which is often dry\"."
+      "Lansing is the capital of the U.S. state of Michigan. It is mostly in Ingham County, although portions of the city extend west into Eaton County and north into Clinton County. The 2010 Census placed the city's population at 114,297, making it the fifth largest city in Michigan. The population of its Metropolitan Statistical Area was 464,036, while the even larger Combined Statistical Area population, which includes Shiawassee County, was 534,684. It was named the new state capital of Michigan in 1847, ten years after Michigan became a state.",
+      "The Lansing metropolitan area, colloquially referred to as \"Mid-Michigan\", is an important center for educational, cultural, governmental, commercial, and industrial functions. Neighboring East Lansing is home to Michigan State University, a public research university with an enrollment of more than 50,000. The area features two medical schools, one veterinary school, two nursing schools, and two law schools. It is the site of the Michigan State Capitol, the state Supreme Court, the Court of Appeals, a federal court, the Library of Michigan and Historical Center, and headquarters of four national insurance companies."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Parma",
-    "urlGoogle": "https://artsandculture.google.com/entity/parma/m061k5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lansing,_Michigan",
+    "urlGoogle": "https://artsandculture.google.com/entity/lansing/m04pry"
   },
   "wiki": {
-    "id": "formula-one",
-    "name": "Formula One",
-    "summary": "Formula One is regarded as the highest class of single-seat open-wheel formula auto racing. It is based around a series of races, known as Grands Prix, held on purpose-built circuits or closed-off city streets, whose results determine two annual World Championships, one for drivers and one for constructors. Europe is Formula One's traditional centre and remains its leading market; however, Grands Prix have been held all over the world, and with new races in Bahrain, China and Turkey, its scope is continually expanding. As the world's most expensive sport, its economic impact is significant, and its financial and political battles are widely observed. The sport is regulated by the Fédération Internationale de l'Automobile and is generally promoted and controlled by Bernie Ecclestone through a variety of corporate entities.",
-    "url": "https://en.wikipedia.org/wiki/Formula_One"
+    "id": "grey-cup",
+    "name": "Grey Cup",
+    "summary": "The Grey Cup is the name of both the championship game of the Canadian Football League (CFL) and the trophy awarded to the victorious team. It is contested between the winners of the CFL's East and West Divisional playoffs and is one of Canadian television's largest annual sporting events. It was commissioned by Governor General Albert Grey, 4th Earl Grey, to serve as the national championship of Canadian football. The trophy has been broken several times, stolen twice, held for ransom and survived a fire. The University of Toronto won the inaugural title in 1909. Typically played in late November, inclement weather has periodically impacted the Grey Cup game, notably the 1962 \"Fog Bowl\" when the contest was postponed due to a lack of visibility. The Toronto Argonauts have the most Grey Cup victories with 15, while the Edmonton Eskimos formed the longest dynasty with five consecutive titles between 1978 and 1982. Competition for the Grey Cup has been limited exclusively to Canadian teams, except for a brief period in the 1990s which saw the Baltimore Stallions become the only American Grey Cup champion in 1995. The 100th Grey Cup is being held in Toronto in 2012.",
+    "url": "https://en.wikipedia.org/wiki/Grey_Cup"
   },
   "word": {
-    "id": "dreadnought",
-    "word": "dreadnought",
-    "url": "https://www.merriam-webster.com/dictionary/dreadnought",
+    "id": "pastiche",
+    "word": "pastiche",
+    "url": "https://www.merriam-webster.com/dictionary/pastiche",
     "partOfSpeech": "noun",
-    "pronunciation": "DRED-nawt",
-    "audioPath": "audio/words/dreadnought.mp3",
+    "pronunciation": "pass-TEESH",
+    "audioPath": "audio/words/pastiche.mp3",
     "definitions": [
-      "a warm garment of thick cloth; also : the cloth",
-      "battleship",
-      "one that is among the largest or most powerful of its kind"
+      "a musical, literary, or artistic work that imitates the style of previous work or is made up of selections from different works",
+      "hodgepodge"
     ],
     "examples": [
-      "\"In 1941, the German battleship Bismarck sank the British _dreadnought_ HMS Hood in the North Atlantic, killing all but three of the 1,418 men on board.\" -- From a \"This Day in History\" article by the Associated Press, May 24, 2011",
-      "\"But a plain old Pontiac Bonneville, dating from the mid-'60s, is more impressive for its latent historical integrity…. In my neighborhood, this _dreadnought_ from the V-8 era of pre-EPA profligacy has been haunting the curb for months.\" -- From an article by Brian Miller in the _Seattle Weekly_, March 23, 2011"
+      "The director's new murder mystery is a clever _pastiche_ of the 1950s noir films he watched as a boy.",
+      "\"Chicano art is a _pastiche_ of post-Mexican Revolution art blended with current-day social and political activism that borrows from the likes of Diego Rivera and the gritty, West Coast street art scene.\" - From a review by Kyle Roerink in the _Billings Gazette_ (Montana), September 3, 2013"
     ],
-    "origin": "\"Fear nothing\" -- that is essentially what \"dread\" plus \"nought\" means. The name might seem a strange one for a garment, but if you consider that dreadnoughts were worn onboard ships, you can appreciate the colorful name perhaps as much as the seafaring men must have appreciated the thick protection dreadnoughts offered from the elements. The clothes and the cloth, first called \"fearnought\" in the late 18th century, came long before the battleship. Not until 1906 did the British Navy launch _HMS Dreadnought_, the first battleship to have a main armament consisting entirely of big guns all of the same caliber. All ships of this type were then called \"dreadnoughts.\" That particular type of battleship soon became obsolete, but their legacy lives on in the extended third sense of \"dreadnought.\""
+    "origin": "It all began with macaroni. Our word \"pastiche\" is from French, but the French word was in turn borrowed from Italian, where the word is \"pasticcio.\" \"Pasticcio\" is what the Italians called a kind of \"macaroni pie\" (from the word \"pasta\"). English-speakers familiar with this multilayered dish had begun to apply the name to various sorts of potpourris or hodgepodges (musical, literary, or otherwise) by the 18th century. For over a hundred years English speakers were happy with \"pasticcio,\" until we discovered the French word \"pastiche\" sometime in the latter part of the 1800s. Although we still occasionally use \"pasticcio\" in its extended meaning, \"pastiche\" is now much more common."
   }
 }

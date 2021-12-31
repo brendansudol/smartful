@@ -1,135 +1,131 @@
 {
   "artist": {
-    "id": "lin-fengmian",
-    "name": "Lin Fengmian",
-    "dates": "Nov 22, 1900 - Aug 12, 1991",
-    "mainImg": "img/art/artists/lin-fengmian.jpg",
+    "id": "veit-stoss",
+    "name": "Veit Stoss",
+    "dates": "1447 - Sep 20, 1533",
+    "mainImg": "img/art/artists/veit-stoss.jpg",
     "artworkImgs": [
       {
-        "name": "Autumn landscape",
-        "path": "img/art/artworks/lin-fengmian-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/autumn-landscape/DwHXvROwJnA6LQ"
+        "name": "Christ Child",
+        "path": "img/art/artworks/veit-stoss-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-child-ascribed-to-veit-stoss/KQGb-cAMpuKB9A"
       },
       {
-        "name": "Autumn Heron",
-        "path": "img/art/artworks/lin-fengmian-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/autumn-heron-lin-fengmian/lwGdFTvSsQU9Pw"
+        "name": "Engelsgruss of St. Lawrence Church in Nuremberg",
+        "path": "img/art/artworks/veit-stoss-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/engelsgruss-of-st-lawrence-church-in-nuremberg-veit-stoß/2gG-KdKK6932mw"
       },
       {
-        "name": "Reading Lady",
-        "path": "img/art/artworks/lin-fengmian-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/reading-lady-lin-fengmian/wQEX036bCVjttQ"
+        "name": "Baptism of Christ",
+        "path": "img/art/artworks/veit-stoss-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/baptism-of-christ-veit-stoss/GwGLr-DBQno4Ig"
       },
       {
-        "name": "Ladies in a garden",
-        "path": "img/art/artworks/lin-fengmian-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/ladies-in-a-garden/vQHHZgu0FveqZA"
+        "name": "Wooden crucifix",
+        "path": "img/art/artworks/veit-stoss-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/wooden-crucifix-wit-stwosz/AwEyperRUKY4cQ"
       },
       {
-        "name": "Landscape",
-        "path": "img/art/artworks/lin-fengmian-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/landscape-lin-fengmian/VQEItCPAJNYd5A"
+        "name": "Antler Chandelier in the Shape of a Dragon",
+        "path": "img/art/artworks/veit-stoss-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/antler-chandelier-in-the-shape-of-a-dragon-veit-stoß/VwHiqa0dgo4LPA"
       },
       {
-        "name": "Whistling of the Wind in the Pines",
-        "path": "img/art/artworks/lin-fengmian-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/whistling-of-the-wind-in-the-pines-lin-fengmian/7wE0wJat7PbuPw"
+        "name": "The Presentation in the Temple",
+        "path": "img/art/artworks/veit-stoss-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-presentation-in-the-temple-veit-stoß/MgEITT5Jf_vA3Q"
       }
     ],
     "summary": [
-      "Lin Fengmian, originally Lin Fengming, was a Chinese painter and is considered a pioneer of modern Chinese painting for blending Chinese and Western styles, he was one of the earliest Chinese painters to study in Europe. He was also an important innovator in the area of Chinese art education. He was one of the pioneers of Chinese modern art, who earned the title of \"The Four Great Academy Presidents\"."
+      "Veit Stoss was a leading German sculptor, mostly in wood, whose career covered the transition between the late Gothic and the Northern Renaissance. His style emphasized pathos and emotion, helped by his virtuoso carving of billowing drapery; it has been called \"late Gothic Baroque\". He had a large workshop and in addition to his own works there are a number by pupils. He is best known for the altarpiece in St. Mary's Basilica in Kraków, Poland."
     ],
     "quote": null,
-    "movements": ["Contemporary art", "Modern art"],
-    "mediums": ["Ink", "Watercolor painting", "Pigment"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Lin_Fengmian",
-    "urlGoogle": "https://artsandculture.google.com/entity/lin-fengmian/m02rbbyc"
+    "movements": ["Northern Renaissance", "Renaissance"],
+    "mediums": ["Wood", "Drawing", "Ink", "Sculpture", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Veit_Stoss",
+    "urlGoogle": "https://artsandculture.google.com/entity/veit-stoss/m080f8"
   },
   "event": {
-    "id": "american-frontier",
-    "name": "American frontier",
-    "dates": "1607 - 1920",
-    "mainImg": "img/events/american-frontier.jpg",
+    "id": "war-on-drugs",
+    "name": "War on drugs",
+    "dates": "Jun 18, 1971",
+    "mainImg": "img/events/war-on-drugs.jpg",
     "summary": [
-      "The American frontier includes the geography, history, folklore, and cultural expression of life in the forward wave of American expansion that began with English colonial settlements in the early 17th century and ended with the admission of the last remaining western territories as states in 1912. This era of massive migration and settlement was particularly encouraged by President Thomas Jefferson following the Louisiana Purchase, giving rise to the expansionist philosophy known as \"Manifest Destiny\".",
-      "A frontier is a zone of contact at the edge of a line of settlement. Leading theorist Frederick Jackson Turner went deeper, arguing that the frontier was the defining process of American civilization: \"The frontier,\" he asserted, \"promoted the formation of a composite nationality for the American people.\" He theorized it was a process of development: \"This perennial rebirth, this fluidity of American life, this expansion westward...furnish[es] the forces dominating American character.\""
+      "The war on drugs is a campaign, led by the U.S. federal government, of drug prohibition, military aid, and military intervention, with the aim being the reduction of the illegal drug trade in the United States. The initiative includes a set of drug policies that are intended to discourage the production, distribution, and consumption of psychoactive drugs that the participating governments and the UN have made illegal. The term was popularized by the media shortly after a press conference given on June 18, 1971, by President Richard Nixon—the day after publication of a special message from President Nixon to the Congress on Drug Abuse Prevention and Control—during which he declared drug abuse \"public enemy number one\". That message to the Congress included text about devoting more federal resources to the \"prevention of new addicts, and the rehabilitation of those who are addicted\", but that part did not receive the same public attention as the term \"war on drugs\". However, two years prior to this, Nixon had formally declared a \"war on drugs\" that would be directed toward eradication, interdiction, and incarceration."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/American_frontier",
-    "urlGoogle": "https://artsandculture.google.com/entity/american-frontier/m01lgb6"
+    "urlWiki": "https://en.wikipedia.org/wiki/War_on_drugs",
+    "urlGoogle": "https://artsandculture.google.com/entity/war-on-drugs/m04f3p_"
   },
   "funFacts": [
     {
-      "id": "728",
-      "fact": "The planet Saturn's density is lower than water; in fact, it would float if placed in water.",
-      "category": ["Science"]
+      "id": "754",
+      "fact": "An alligator can go through 3,000 teeth in a lifetime.",
+      "category": ["Animals"]
     },
     {
-      "id": "244",
-      "fact": "The watermelon seed-spitting world record is about 70 feet.",
-      "category": ["Food"]
+      "id": "158",
+      "fact": "The first MTV video was \"Video Killed the Radio Star\" by the Buggles.",
+      "category": ["Firsts"]
     }
   ],
   "funFacts2": [
-    { "id": "554066", "fact": "The wood frog can hold its pee for up to eight months." }
+    {
+      "id": "554021",
+      "fact": "Jane Austen didn't publish her first novel under her real name. Instead, Sense and Sensibility was credited as being written \"By a Lady.\""
+    }
   ],
   "idiom": {
-    "id": "spick-and-span",
-    "term": "spick and span",
-    "definition": "Neat and clean, as in *When Ruth has finished cleaning, the whole house is spick and span.* This term combines two nouns that are now obsolete, *spick,* \"a nail\" or \"spike,\" and *span,* \"a wooden chip.\" In the 1500s a sailing ship was considered *spick and span* when every spike and chip was brand-new. The transfer to the current sense took place in the mid-1800s."
+    "id": "chew-the-cud",
+    "term": "chew the cud",
+    "definition": "Also, **chew over.** Ponder over, meditate, as in *John tends to chew the cud before he answers,* or *Let me chew that over and let you know.* The first term, first recorded in 1382, transfers the appearance of a patiently ruminating cow to a person deep in thought. The variant was first recorded in 1696."
   },
   "person": {
-    "id": "yongzheng-emperor",
-    "name": "Yongzheng Emperor",
-    "dates": "Dec 13, 1678 - Oct 8, 1735",
-    "mainImg": "img/people/yongzheng-emperor.jpg",
+    "id": "lee-ki-poong",
+    "name": "Lee Ki-poong",
+    "dates": "Dec 20, 1896 - Apr 28, 1960",
+    "mainImg": "img/people/lee-ki-poong.jpg",
     "summary": [
-      "The Yongzheng Emperor, born Yinzhen, was the fifth Emperor of the Qing dynasty, and the third Qing emperor to rule over China proper, reigned from 1722 to 1735. A hard-working ruler, the Yongzheng Emperor's main goal was to create an effective government at minimal expense. Like his father, the Kangxi Emperor, the Yongzheng Emperor used military force to preserve the dynasty's position. His reign was known for being despotic, efficient, and vigorous.",
-      "Although Yongzheng's reign was much shorter than that of both his father and his son, the Yongzheng era was a period of peace and prosperity. The Yongzheng Emperor cracked down on corruption and reformed the financial administration. His reign saw the formation of the Grand Council, an institution which had an enormous impact on the future of the Qing dynasty."
+      "Lee Ki-poong was a South Korean politician and Vice President. He was the Minister of National Defense and Mayor of Seoul. He was the leader of Liberal Party and supporter of Syngman Rhee. The Liberal Party held power from 1948 to 1960.",
+      "In March 15, 1960, South Korea held a presidential election. The Liberal Party, which included Syngman Rhee and Lee Ki-poong, won by a very wide margin and was accused of electoral fraud. As a result, the April Revolution took place in April 1960. President Rhee resigned in April 26, 1960. Lee Ki-poong's family also resigned. In April 28, 1960, in an annex of Rhee's mansion, Lee Ki-poong's first son, Lee Kang-seok shot Lee Ki-poong and his family and then killed himself in a murder–suicide."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Yongzheng_Emperor",
-    "urlGoogle": "https://artsandculture.google.com/entity/yongzheng-emperor/m01ndc6"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lee_Ki-poong",
+    "urlGoogle": "https://artsandculture.google.com/entity/lee-ki-poong/m0kf_2r7"
   },
   "place": {
-    "id": "nairobi",
-    "name": "Nairobi",
-    "mainImg": "img/places/nairobi.jpg",
+    "id": "beijing",
+    "name": "Beijing",
+    "mainImg": "img/places/beijing.jpg",
     "summary": [
-      "Nairobi is the capital and the largest city of Kenya. The name comes from the Maasai phrase Enkare Nairobi, which translates to \"cool water\", a reference to the Nairobi River which flows through the city. The city proper had a population of 4,397,073 in the 2019 census, while the metropolitan area has a population of 9,354,580. The city is popularly referred to as the Green City in the Sun.",
-      "Nairobi was founded in 1899 by the colonial authorities in British East Africa, as a rail depot on the Uganda Railway. The town quickly grew to replace Mombasa as the capital of Kenya in 1907. After independence in 1963, Nairobi became the capital of the Republic of Kenya. During Kenya's colonial period, the city became a centre for the colony's coffee, tea and sisal industry. The city lies on the River Athi in the southern part of the country, and has an elevation of 1,795 metres above sea level.",
-      "According to the 2019 census, in the administrative area of Nairobi, 4,397,073 inhabitants lived within 696 km²."
+      "Beijing, alternatively romanized as Peking, is the capital of the People's Republic of China. It is the world's most populous capital city, with over 21 million residents within an administrative area of 16,410.5 km². The city, located in North China, is governed as a municipality under the direct administration of the central government with 16 urban, suburban, and rural districts. Beijing is mostly surrounded by Hebei Province with the exception of neighboring Tianjin to the southeast; together, the three divisions form the Jingjinji megalopolis and the national capital region of China.",
+      "Beijing is an important world capital and global power city, and one of the world's leading centers for culture, diplomacy and politics, business and economy, education, language, and science and technology. A megacity, Beijing is the second largest Chinese city by urban population after Shanghai and is the nation's cultural, educational, and political center. It is home to the headquarters of most of China's largest state-owned companies and houses the largest number of Fortune Global 500 companies in the world, as well as the world's four biggest financial institutions."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Nairobi",
-    "urlGoogle": "https://artsandculture.google.com/entity/nairobi/m05d49"
-  },
-  "quote": {
-    "id": "66",
-    "quote": "Eighty percent of success is showing up.",
-    "author": "Woody Allen"
+    "urlWiki": "https://en.wikipedia.org/wiki/Beijing",
+    "urlGoogle": "https://artsandculture.google.com/entity/beijing/m01914"
   },
   "wiki": {
-    "id": "middle-ages",
-    "name": "Middle Ages",
-    "summary": "The Middle Ages of European history lasted from the 5th to the 15th century. It began with the collapse of the Western Roman Empire and the subsequent formation of new kingdoms by barbarian invaders. The Franks, under the Carolingian dynasty, established an empire covering much of Western Europe; the Carolingian Empire endured until the 9th century. During the High Middle Ages, which began after AD 1000, the population of Europe increased as technological and agricultural innovations allowed trade to flourish and crop yields to increase. Western European Christians attempted to regain control of the Holy Land in the Crusades. Intellectual life was marked by scholasticism and the founding of universities. The philosophy of Thomas Aquinas, the paintings of Giotto, the poetry of Dante and Chaucer, the travels of Marco Polo, and the architecture of Gothic cathedrals are among the outstanding achievements of this period. The Late Middle Ages was marked by famine, plague, and war; between 1347 and 1350, the Black Death killed about a third of Europeans. Cultural and technological developments transformed European society, leading to the early modern period.",
-    "url": "https://en.wikipedia.org/wiki/Middle_Ages"
+    "id": "sigi-schmid",
+    "name": "Sigi Schmid",
+    "summary": "Sigi Schmid (born 1953) is a German-American soccer coach. Born in Tübingen, West Germany, he moved to the United States with his family when he was a child. He played college soccer as a midfielder from 1972 to 1975 at the University of California, Los Angeles (UCLA). He coached his former college team between 1980 and 1999 and became one of the most successful collegiate coaches of all time. The UCLA Bruins made 16 consecutive playoff appearances from 1983 to 1998, winning the national championship in 1985, 1990, and 1997. Schmid also worked with US Soccer throughout the 1990s. Schmid has coached the Los Angeles Galaxy and the Columbus Crew in Major League Soccer (MLS). He became the head coach of Seattle Sounders FC in 2009. Throughout his career, Schmid has received praise from critics for his ability to identify new talent. His defensive tactics are also highly regarded in the press, although their deployment in his final two seasons with Los Angeles led directly to the termination of his contract. Despite never having played soccer at a professional level, he has the most coaching wins in MLS history, and was the recipient of the MLS Coach of the Year Award in 1999 and 2008.",
+    "url": "https://en.wikipedia.org/wiki/Sigi_Schmid"
   },
   "word": {
-    "id": "baroque",
-    "word": "baroque",
-    "url": "https://www.merriam-webster.com/dictionary/baroque",
-    "partOfSpeech": "adjective, often capitalized",
-    "pronunciation": "buh-ROHK",
-    "audioPath": "audio/words/baroque.mp3",
+    "id": "plangent",
+    "word": "plangent",
+    "url": "https://www.merriam-webster.com/dictionary/plangent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PLAN-junt",
+    "audioPath": "audio/words/plangent.mp3",
     "definitions": [
-      "of or relating to a style of art and music marked by complex forms and bold ornamentation",
-      "characterized by grotesqueness, extravagance, complexity, or flamboyance",
-      "irregularly shaped"
+      "having a loud reverberating sound",
+      "having an expressive and especially plaintive quality"
     ],
     "examples": [
-      "She’s an immensely talented writer, but her baroque prose style is too grandiose for my taste."
+      "The campers were awoken by the _plangent_ howl of a coyote off in the distance.",
+      "\"Mr. Packard is the finest Candide I’ve seen, singing with rich, _plangent_ tone and acting with an un-self-conscious sincerity that never falters.\" -- From a theater review by Charles Isherwood in the _New York Times_, October 27, 2010"
     ],
-    "origin": "\"Baroque\" came to English from a French word meaning \"irregularly shaped.\" At first, the word in French was used mostly to refer to pearls. Eventually, it came to describe an extravagant style of art characterized by curving lines, gilt, and gold. This type of art, which was prevalent especially in the 17th century, was sometimes considered to be excessively decorated and overly complicated. It makes sense, therefore, that the meaning of the word \"baroque\" has broadened to include anything that seems excessively ornate or elaborate."
+    "origin": "\"Plangent\" adds power to our poetry and prose: the pounding of waves, the beat of wings, the tolling of a bell, the throbbing of the human heart, a lover's knocking at the door -- all have been described as plangent. The word \"plangent\" traces back to the Latin verb \"plangere,\" which has two meanings. The first of those meanings, \"to strike or beat,\" was sometimes used by Latin speakers in reference to striking one's breast in grief. This, in turn, led to the verb's second meaning: \"to lament.\" The sense division carried over to the Latin adjective \"plangens\" and then into English, giving us the two distinct meanings of \"plangent\": \"pounding\" and \"expressive of melancholy.\""
   }
 }

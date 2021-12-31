@@ -1,0 +1,120 @@
+{
+  "artist": {
+    "id": "lavinia-fontana",
+    "name": "Lavinia Fontana",
+    "dates": "Aug 24, 1552 - Aug 11, 1614",
+    "mainImg": "img/art/artists/lavinia-fontana.jpg",
+    "artworkImgs": [
+      {
+        "name": "Het martelaarschap van de Heilige Stefanus",
+        "path": "img/art/artworks/lavinia-fontana-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/het-martelaarschap-van-de-heilige-stefanus-jacques-callot-lavinia-fontana/GwFvU3BRISpKEg"
+      },
+      {
+        "name": "Self-portrait at the Spinet",
+        "path": "img/art/artworks/lavinia-fontana-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-at-the-spinet-lavinia-fontana/_gH8Qmx8fVJNgA"
+      },
+      {
+        "name": "Portrait of Costanza Alidosi",
+        "path": "img/art/artworks/lavinia-fontana-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-costanza-alidosi-lavinia-fontana/GwG_pmUiAhyKLw"
+      },
+      {
+        "name": "Double Marriage Portrait also known as Self-Portrait of Lavinia Fontana (Doble retrato de matrimonio—Autorretrato de Lavinia Fontana)",
+        "path": "img/art/artworks/lavinia-fontana-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/double-marriage-portrait-also-known-as-self-portrait-of-lavinia-fontana-doble-retrato-de-matrimonio—autorretrato-de-lavinia-fontana-lavinia-fontana/9QGIqppzeHmytQ"
+      },
+      {
+        "name": "The Holy Family with Saint Catherine of Alexandria",
+        "path": "img/art/artworks/lavinia-fontana-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-holy-family-with-saint-catherine-of-alexandria-lavinia-fontana/wgGPO7QCdDElYw"
+      },
+      {
+        "name": "Portrait of a Lady with a Dog",
+        "path": "img/art/artworks/lavinia-fontana-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-lady-with-a-dog-lavinia-fontana/hgHdLNktbrM0Dg"
+      }
+    ],
+    "summary": [
+      "Lavinia Fontana was a Bolognese Mannerist painter best known for her portraiture. She was trained by her father Prospero Fontana and was active in Bologna and Rome. She is regarded as the first female career artist in Western Europe as she relied on commissions for her income. Her family relied on her career as a painter, and her husband served as her agent and raised their eleven children. She was perhaps the first woman artist to paint female nudes, but this is a topic of controversy among art historians."
+    ],
+    "quote": null,
+    "movements": ["Italian Renaissance", "Renaissance", "Mannerism"],
+    "mediums": ["Oil paint", "Copper", "Metal", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lavinia_Fontana",
+    "urlGoogle": "https://artsandculture.google.com/entity/lavinia-fontana/m07575v"
+  },
+  "event": {
+    "id": "american-indian-wars",
+    "name": "American Indian Wars",
+    "dates": "1622 - 1924",
+    "mainImg": "img/events/american-indian-wars.jpg",
+    "summary": [
+      "The American Indian Wars is the collective name for the various armed conflicts that were fought by European governments and colonists, and later by the governments and settlers, against various American Indian and First Nation tribes. These conflicts occurred in North America from the time of the earliest colonial settlements in the 17th century until the early 20th century. The various wars resulted from a wide variety of factors, including cultural clashes, land disputes, and criminal acts committed by both sides. The European powers and their colonies also enlisted Indian tribes to help them conduct warfare against each other's colonial settlements. After the American Revolution, many conflicts were local to specific states or regions and frequently involved disputes over land use; some entailed cycles of violent reprisal.",
+      "As settlers spread westward across North America after 1780, armed conflicts increased in size, duration, and intensity between settlers and various Indian and First Nation tribes. The climax came in the War of 1812, when major Indian coalitions in the Midwest and the South fought against the United States and lost."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/American_Indian_Wars",
+    "urlGoogle": "https://artsandculture.google.com/entity/american-indian-wars/m022840"
+  },
+  "funFacts": [
+    {
+      "id": "135",
+      "fact": "A single coffee tree produces only about a pound of coffee beans per year.",
+      "category": ["Food", "Plants"]
+    },
+    { "id": "220", "fact": "Porcupines each have 30,000 quills.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "553733",
+      "fact": "The boiling point for water at the top of Mt. Everest is 162°F, about 50 degrees below the boiling point at sea level."
+    }
+  ],
+  "person": {
+    "id": "antonio-sabato-jr",
+    "name": "Antonio Sabàto, Jr.",
+    "dates": "Born Feb 29, 1972",
+    "mainImg": "img/people/antonio-sabato-jr.jpg",
+    "summary": [
+      "Antonio Sabàto Jr. is an Italian-American former model, actor, and politician. Sabàto first found fame in the 1990s as an underwear model for Calvin Klein and playing Jagger Cates on the soap opera General Hospital from 1992 to 1995. By the early 2000s, most of his acting credits were guest appearances, reality television, and budget films. Sabàto ran unsuccessfully as the Republican candidate for U.S. Congress against incumbent Democratic Congresswoman Julia Brownley for California's 26th district in the 2018 elections."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Antonio_Sab%C3%A0to_Jr.",
+    "urlGoogle": "https://artsandculture.google.com/entity/antonio-sabàto-jr/m027fflx"
+  },
+  "place": {
+    "id": "valladolid",
+    "name": "Valladolid",
+    "mainImg": "img/places/valladolid.jpg",
+    "summary": [
+      "Valladolid is a city in Spain and the capital of the autonomous community of Castile and León. It has a population of 309,714 people, making it Spain's 13th most populous municipality and northwestern Spain's biggest city. Its metropolitan area ranks 20th in Spain with a population of 414,244 people in 23 municipalities.",
+      "The city is situated at the confluence of the Pisuerga and Esgueva rivers 15 km before they join the Duero, and located within five winegrowing regions: Ribera del Duero, Rueda, Toro, Tierra de León, and Cigales.",
+      "Valladolid was originally settled in pre-Roman times by the Celtic Vaccaei people, and later the Romans themselves. It remained a small settlement until being re-established by King Alfonso VI of Castile as a Lordship for the Count Pedro Ansúrez in 1072. It grew to prominence in the Middle Ages as the seat of the Court of Castile and being endowed with fairs and different institutions as a collegiate church, University, Royal Court and Chancery and the Royal Mint. The Catholic Monarchs, Isabel I of Castile and Ferdinand II of Aragon, married in Valladolid in 1469 and established it as the capital of the Kingdom of Castile and later of united Spain."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Valladolid",
+    "urlGoogle": "https://artsandculture.google.com/entity/valladolid/m0j1tm"
+  },
+  "wiki": {
+    "id": "amanita-muscaria",
+    "name": "Amanita muscaria",
+    "summary": "Amanita muscaria, commonly known as the fly agaric, is a poisonous and psychoactive basidiomycete fungus, one of many in the genus Amanita. Native throughout the temperate and boreal regions of the Northern Hemisphere, Amanita muscaria has been unintentionally introduced to many countries in the southern hemisphere, generally as a symbiont with pine plantations, and is now a true cosmopolitan species. The quintessential toadstool, it is a large white-gilled, white-spotted, usually deep red mushroom, one of the most recognizable and widely encountered in popular culture. Although it is generally considered poisonous, deaths from its consumption are extremely rare, and it is eaten as a food in parts of Europe, Asia, and North America after parboiling. Amanita muscaria is noted for its hallucinogenic properties, with its main psychoactive constituent being the compound muscimol. It was used as an intoxicant and entheogen by the peoples of Siberia and has a religious significance in these cultures. There has been much speculation on traditional use of this mushroom as an intoxicant in places other than Siberia; however, such traditions are far less well documented.",
+    "url": "https://en.wikipedia.org/wiki/Amanita_muscaria"
+  },
+  "word": {
+    "id": "cadge",
+    "word": "cadge",
+    "url": "https://www.merriam-webster.com/dictionary/cadge",
+    "partOfSpeech": "verb",
+    "pronunciation": "KAJ",
+    "audioPath": "audio/words/cadge.mp3",
+    "definitions": ["beg, sponge"],
+    "examples": [
+      "Mike tried to _cadge_ a cigarette from Paula, but she told him to get his own pack.",
+      "\"With a straight face I actually said that I was still hungry and tried to _cadge_ a second half-pound burrito. I failed.\" - From a blog post by Karl Wilder at HuffingtonPost.com, March 4, 2014"
+    ],
+    "origin": "As long ago as the 1400s, peddlers traveled the British countryside, each with a packhorse or a horse and cart, first carrying produce from rural farms to town markets, then returning with small wares to sell to country folk. The Middle English name for such traders was \"cadgear\"; Scottish dialects rendered the term as \"cadger.\" Etymologists are pretty sure the verb \"cadge\" was created as a back-formation of \"cadger\" (which is to say, it was formed by removal of the \"-er\" suffix). At its most general, \"cadger\" meant \"carrier,\" and the verb \"cadge\" meant \"to carry.\" More specifically, the verb meant to go about as a cadger or peddler. By the 1800s, it was used when someone who posed as a peddler turned out to be more of a beggar-and that use led to our present-day one."
+  }
+}

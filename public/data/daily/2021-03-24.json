@@ -1,134 +1,130 @@
 {
   "artist": {
-    "id": "arnulf-rainer",
-    "name": "Arnulf Rainer",
-    "dates": "Born Dec 8, 1929",
-    "mainImg": "img/art/artists/arnulf-rainer.jpg",
+    "id": "willem-claesz-heda",
+    "name": "Willem Claesz. Heda",
+    "dates": "Dec 14, 1594 - 1680",
+    "mainImg": "img/art/artists/willem-claesz-heda.jpg",
     "artworkImgs": [
       {
-        "name": "Cross",
-        "path": "img/art/artworks/arnulf-rainer-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/cross-arnulf-rainer/NAEMFfYlOFvCAw"
+        "name": "Still Life with Oysters, a Silver Tazza, and Glassware",
+        "path": "img/art/artworks/willem-claesz-heda-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-oysters-a-silver-tazza-and-glassware-willem-claesz-heda/AAHLJ6TM-7l_hg"
       },
       {
-        "name": "Centralisation",
-        "path": "img/art/artworks/arnulf-rainer-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/centralisation-arnulf-rainer/2QHUm9Vaz8GsXA"
+        "name": "Still Life with a Gilt Cup",
+        "path": "img/art/artworks/willem-claesz-heda-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-a-gilt-cup-willem-claesz-heda/AgEXHatuN_lk7A"
       },
       {
-        "name": "Bartwuchs",
-        "path": "img/art/artworks/arnulf-rainer-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/bartwuchs-arnulf-rainer/IwHhTvt9ShZ62A"
+        "name": "Still Life with Oysters, a Rummer, a Lemon and a Silver Bowl",
+        "path": "img/art/artworks/willem-claesz-heda-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-oysters-a-rummer-a-lemon-and-a-silver-bowl/KwHWpG2mxO0CTQ"
       },
       {
-        "name": "[o. T.]",
-        "path": "img/art/artworks/arnulf-rainer-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/o-t/rQH3cPfAilSm8Q"
+        "name": "Banquet Piece with Mince Pie",
+        "path": "img/art/artworks/willem-claesz-heda-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/banquet-piece-with-mince-pie/vwGyjkxzEJ1Z6Q"
       },
       {
-        "name": "Splitter",
-        "path": "img/art/artworks/arnulf-rainer-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/splitter-arnulf-rainer/8gE5Aa42zzkdXg"
+        "name": "Still Life with a gilded Beer Tankard",
+        "path": "img/art/artworks/willem-claesz-heda-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-a-gilded-beer-tankard-willem-claesz-heda/RwE4XbFLkM3Vdg"
       },
       {
-        "name": "Untitled (Body Pose)",
-        "path": "img/art/artworks/arnulf-rainer-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/untitled-body-pose-arnulf-rainer/CQFNNS6KJN-cKA"
+        "name": "Still Life with Oysters, a Silver Tazza, and Glassware",
+        "path": "img/art/artworks/willem-claesz-heda-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-oysters-a-silver-tazza-and-glassware-willem-claesz-heda/iAHQrYMbCIugew"
       }
     ],
     "summary": [
-      "Arnulf Rainer is an Austrian painter noted for his abstract informal art.",
-      "Rainer was born in Baden, Austria. During his early years, Rainer was influenced by Surrealism. In 1950, he founded the Hundsgruppe together with Ernst Fuchs, Arik Brauer, and Josef Mikl. After 1954, Rainer's style evolved towards Destruction of Forms, with blackenings, overpaintings, and maskings of illustrations and photographs dominating his later work. He was close to the Vienna Actionism, featuring body art and painting under the influence of drugs. He painted extensively on the subject of Hiroshima such as it relates to the nuclear bombing of the Japanese city and the inherent political and physical fallout.",
-      "In 1978, he received the Grand Austrian State Prize. In the same year, and in 1980, he became the Austrian representative at the Venice Biennale. From 1981 to 1995, Rainer held a professorship at the Academy of Fine Arts in Vienna - the same place where he aborted his own studies after three days, unsatisfied.",
-      "His works are shown in the Museum of Modern Art and the Solomon R. Guggenheim Museum."
+      "Willem Claesz. Heda was a Dutch Golden Age artist from the city of Haarlem devoted exclusively to the painting of still life. He is known for his innovation of the late breakfast genre of still life painting."
     ],
     "quote": null,
-    "movements": ["Contemporary art", "Surrealism", "Abstract art"],
-    "mediums": ["Oil paint", "Photograph", "Oil pastel", "Wood", "Crayon", "Jute"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Arnulf_Rainer",
-    "urlGoogle": "https://artsandculture.google.com/entity/arnulf-rainer/m033yc5"
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Wood", "Oak"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Willem_Claesz._Heda",
+    "urlGoogle": "https://artsandculture.google.com/entity/willem-claesz-heda/m03f_6c"
   },
   "event": {
-    "id": "polish-muscovite-war",
-    "name": "Polish–Muscovite War",
-    "dates": "1605 - 1618",
-    "mainImg": "img/events/polish-muscovite-war.jpg",
+    "id": "raid-on-scarborough-hartlepool-and-whitby",
+    "name": "Raid on Scarborough, Hartlepool and Whitby",
+    "dates": "Dec 16, 1914",
+    "mainImg": "img/events/raid-on-scarborough-hartlepool-and-whitby.jpg",
     "summary": [
-      "The Polish–Muscovite War, also known as the Polish–Russian War of 1605–1618 or the Dimitriads, was a conflict fought between the Tsardom of Russia and the Polish-Lithuanian Commonwealth from 1605 to 1618.",
-      "Russia had been experiencing the Time of Troubles since the death of Tsar Feodor I in 1598, causing political instability and a violent succession crisis upon the extinction of the Rurik dynasty, and was ravaged by the major famine of 1601 to 1603. Poland exploited Russia's civil wars when members of the Polish szlachta aristocracy began influencing Russian boyars and supporting False Dmitris for the title of Tsar of Russia against the crowned Boris Godunov and Vasili IV Shuysky. In 1605, King Sigismund III Vasa informally invaded Russia until the death of False Dmitry I in 1606, and invaded again in 1607 until Russia formed a military alliance with Sweden in 1609. Sigismund formally declared war on Russia in response, aiming to gain territorial concessions and weaken Sweden's ally, winning many early victories such as the Battle of Klushino. In 1610, Polish forces entered Moscow and Sweden withdrew from the military alliance with Russia, instead triggering the Ingrian War."
+      "The Raid on Scarborough, Hartlepool and Whitby on 16 December 1914, was an attack by the Imperial German Navy on the British ports of Scarborough, Hartlepool, West Hartlepool and Whitby. The attack resulted in 592 casualties, many of them civilians, of whom 137 died. The attack caused public outrage towards the German Navy for the attack, and against the Royal Navy for its failure to prevent the raid."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Polish%E2%80%93Muscovite_War_%281605%E2%80%931618%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/polish–muscovite-war/m04yqp0"
+    "urlWiki": "https://en.wikipedia.org/wiki/Raid_on_Scarborough,_Hartlepool_and_Whitby",
+    "urlGoogle": "https://artsandculture.google.com/entity/raid-on-scarborough-hartlepool-and-whitby/m0g9sl4"
   },
   "funFacts": [
-    { "id": "90", "fact": "The average raindrop falls at seven mph.", "category": ["Science"] },
     {
-      "id": "33",
-      "fact": "Termites eat through wood two times faster when listening to rock music!",
-      "category": ["Animals"]
-    }
+      "id": "28",
+      "fact": "Chewing gum while peeling onions will prevent you from crying.",
+      "category": ["Food", "Make-it-Easies"]
+    },
+    { "id": "762", "fact": "A duck has three eyelids.", "category": ["Animals"] }
   ],
   "funFacts2": [
-    { "id": "553920", "fact": "Bela Lugosi was buried in full Dracula costume—cape and all." }
+    {
+      "id": "504746",
+      "fact": "Fredric Baur invented the Pringles can. When he passed away in 2008, his ashes were buried in one."
+    }
   ],
   "idiom": {
-    "id": "burn-the-candle-at-both-ends",
-    "term": "burn the candle at both ends",
-    "definition": "Exhaust one's energies or resources by leading a hectic life. For example, *Joseph's been burning the candle at both ends for weeks, working two jobs during the week and a third on weekends.* This metaphor originated in France and was translated into English in Randle Cotgrave's *Dictionary* (1611), where it referred to dissipating one's wealth. It soon acquired its present broader meaning."
+    "id": "the-whole-kit-and-caboodle",
+    "term": "the whole kit and caboodle",
+    "definition": "Everything, every part, as in *He packed up all his gear, the whole kit and caboodle, and walked out.* This expression is a redundancy, for *kit* has meant \"a collection or group\" since the mid-1700s (though this meaning survives only in the full idiom today), and *caboodle* has been used with the same meaning since the 1840s. In fact *caboodle* is thought to be a corruption of the phrase *kit and boodle,* another redundant phrase, since *boodle* also meant \"a collection.\""
   },
   "person": {
-    "id": "diosdado-p-macapagal",
-    "name": "Diosdado P. Macapagal",
-    "dates": "Sep 28, 1910 - Apr 21, 1997",
-    "mainImg": "img/people/diosdado-p-macapagal.jpg",
+    "id": "mikhail-kalinin",
+    "name": "Mikhail Kalinin",
+    "dates": "Nov 19, 1875 - Jun 3, 1946",
+    "mainImg": "img/people/mikhail-kalinin.jpg",
     "summary": [
-      "Diosdado Pangan Macapagal Sr. GCrM was the ninth President of the Philippines, serving from 1961 to 1965, and the sixth Vice-President, serving from 1957 to 1961. He also served as a member of the House of Representatives, and headed the Constitutional Convention of 1970. He was the father of Gloria Macapagal Arroyo, who followed his path as President of the Philippines from 2001 to 2010.",
-      "A native of Lubao, Pampanga, Macapagal graduated from the University of the Philippines and University of Santo Tomas, both in Manila, after which he worked as a lawyer for the government. He first won election in 1949 to the House of Representatives, representing a district in his home province of Pampanga. In 1957, he became vice president under the rule of President Carlos P. Garcia, whom he later defeated in the 1961 election.",
-      "As President, Macapagal worked to suppress graft and corruption and to stimulate the Philippine economy. He introduced the country's first land reform law, placed the peso on the free currency exchange market, and liberalized foreign exchange and import controls. Many of his reforms, however, were crippled by a Congress dominated by the rival Nacionalista Party."
+      "Mikhail Ivanovich Kalinin, known familiarly by Soviet citizens as \"Kalinych\", was a Bolshevik revolutionary and a Soviet politician. He served as head of state of the Russian Soviet Federative Socialist Republic and later of the Soviet Union from 1919 to 1946. From 1926, he was a member of the Politburo of the Communist Party of the Soviet Union.",
+      "Born to a peasant family, Kalinin worked as a metal worker in Saint Petersburg and took part in the 1905 Russian Revolution as an early member of the Bolsheviks. During and after the October Revolution, he served as mayor of Petrograd. After the revolution, Kalinin became the head of the new Soviet state, as well as a member of the Central Committee of the Communist Party and the Politburo.",
+      "Kalinin remained head of the Soviet Union after the rise of Joseph Stalin, but held little real power or influence. He retired in 1946 and died in the same year. The former East-Prussian city of Königsberg was renamed Kaliningrad after him. The city of Tver was also known as Kalinin until the end of the Soviet Union in 1991."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Diosdado_Macapagal",
-    "urlGoogle": "https://artsandculture.google.com/entity/diosdado-p-macapagal/m02qkny"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mikhail_Kalinin",
+    "urlGoogle": "https://artsandculture.google.com/entity/mikhail-kalinin/m022d26"
   },
   "place": {
-    "id": "cadiz",
-    "name": "Cádiz",
-    "mainImg": "img/places/cadiz.jpg",
+    "id": "houston",
+    "name": "Houston",
+    "mainImg": "img/places/houston.jpg",
     "summary": [
-      "Cádiz is a city and port in southwestern Spain. It is the capital of the Province of Cádiz, one of eight which make up the autonomous community of Andalusia.",
-      "Cádiz, one of the oldest continuously inhabited cities in Western Europe, with archaeological remains dating to 3100 years, was founded by the Phoenicians. It has been a principal home port of the Spanish Navy since the accession of the Spanish Bourbons in the 18th century. The city is a member of the Most Ancient European Towns Network. It is also the site of the University of Cádiz.",
-      "Situated on a narrow slice of land surrounded by the sea‚ Cádiz is, in most respects, a typically Andalusian city with a wealth of attractive vistas and well-preserved historical landmarks. The older part of Cádiz within the remnants of the city walls is commonly referred to as the Old Town. It is characterized by the antiquity of its various quarters, among them El Pópulo, La Viña, and Santa María, which present a marked contrast to the newer areas of town. While the Old City's street plan consists of narrow winding alleys connecting large plazas, newer areas of Cádiz typically have wide avenues and more modern buildings."
+      "Houston is the most populous city in the U.S. state of Texas, fourth most populous city in the United States, most populous city in the Southern United States, as well as the sixth most populous in North America, with an estimated 2019 population of 2,320,268. Located in Southeast Texas near Galveston Bay and the Gulf of Mexico, it is the seat of Harris County and the principal city of the Greater Houston metropolitan area, which is the fifth most populous metropolitan statistical area in the United States and the second most populous in Texas after the Dallas-Fort Worth metroplex, with a population of 6,997,384 in 2018.",
+      "Comprising a total area of 637.4 square miles, Houston is the eighth most expansive city in the United States. It is the largest city in the United States by total area, whose government is not consolidated with that of a county, parish or borough. Though primarily in Harris County, small portions of the city extend into Fort Bend and Montgomery counties, bordering other principal communities of Greater Houston such as Sugar Land and The Woodlands."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/C%C3%A1diz",
-    "urlGoogle": "https://artsandculture.google.com/entity/cádiz/m0dvt0"
+    "urlWiki": "https://en.wikipedia.org/wiki/Houston",
+    "urlGoogle": "https://artsandculture.google.com/entity/houston/m03l2n"
   },
   "quote": {
-    "id": "25",
-    "quote": "The difference between ordinary and extraordinary is that little extra.",
-    "author": "Jimmy Johnson"
+    "id": "109",
+    "quote": "You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.",
+    "author": "Richard Feynman"
   },
   "wiki": {
-    "id": "bc-rail",
-    "name": "BC Rail",
-    "summary": "BC Rail was a railway that operated in the Canadian province of British Columbia between 1912 and 2004. It was a class II regional railway and the third largest in Canada, operating 1,441 miles (2,320 kilometres) of mainline track. It was owned by the provincial government from 1918 until 2004, when it was sold to Canadian National Railway. Chartered in 1912, the railway was acquired by the provincial government in 1918 after running into financial difficulties. A railway that ran from \"nowhere to nowhere\" for over 30 years, neither passing through any major city nor interchanging with any other railway, it expanded significantly between 1949 and 1984. Primarily a freight railway, it also offered passenger service, as well as some excursion services, most notably the Royal Hudson excursion train. The railway's operations have not always been profitable, and its debts have made it the centre of political controversy on multiple occasions.",
-    "url": "https://en.wikipedia.org/wiki/BC_Rail"
+    "id": "l-ron-hubbard",
+    "name": "L. Ron Hubbard",
+    "summary": "L. Ron Hubbard (1911–1986) was an American pulp fiction author and religious leader who founded the Church of Scientology. After establishing a career as a writer of pulp fiction, becoming best known for his science fiction and fantasy stories, he developed a self-help system called Dianetics which was first published in 1950. He subsequently developed his ideas into a wide-ranging set of doctrines and rituals as part of a new religious movement that he called Scientology. His writings became the guiding texts for the Church of Scientology and a number of affiliated organizations that address such diverse topics as business administration, literacy and drug rehabilitation. The Church of Scientology depicts Hubbard in hagiographic terms, drawing on his legacy as its ultimate source of doctrine and legitimacy. His critics have characterized him as a liar, a charlatan and a madman, and many of his autobiographical statements have been proven to be fictitious.",
+    "url": "https://en.wikipedia.org/wiki/L._Ron_Hubbard"
   },
   "word": {
-    "id": "adjure",
-    "word": "adjure",
-    "url": "https://www.merriam-webster.com/dictionary/adjure",
-    "partOfSpeech": "verb",
-    "pronunciation": "uh-JOOR",
-    "audioPath": "audio/words/adjure.mp3",
-    "definitions": [
-      "to command solemnly under or as if under oath or penalty of a curse",
-      "to urge or advise earnestly"
-    ],
+    "id": "megillah",
+    "word": "megillah",
+    "url": "https://www.merriam-webster.com/dictionary/megillah",
+    "partOfSpeech": "noun",
+    "pronunciation": "muh-GHIH-luh",
+    "audioPath": "audio/words/megillah.mp3",
+    "definitions": ["slang a long involved story or account"],
     "examples": [
-      "\"Byron fled the country, adjuring Annabella to 'be kind' to his beloved sister.\" (Merle Rubin, _Los Angeles Times_, September 16, 2002)"
+      "Instead of just saying she was running late, Lynette went into the whole _megillah_ of why her appointment would have to be rescheduled.",
+      "\"It takes place far below the surface of the earth, among dripping stalactites, and if you're a fan of Tolkien's mythos in any of its versions, you know it's perhaps the most pivotal moment in the whole _megillah_: the scene where Bilbo gets his paws on That Ring.\" - Ty Burr, _The Boston Globe_, December 13, 2012"
     ],
-    "origin": "\"Adjure\" and its synonyms \"entreat,\" \"importune,\" and \"implore\" all mean \"to ask earnestly.\" \"Entreat\" implies an effort to persuade or overcome resistance. \"Importune\" goes further, adding a sense of annoying persistence in trying to break down resistance to a request. \"Implore,\" on the other hand, suggests a great urgency or anguished appeal on the part of the speaker. \"Adjure\" implies advising as well as pleading, and is sometimes accompanied by the invocation of something sacred. Be careful not to confuse \"adjure\" with \"abjure,\" meaning \"to renounce solemnly\" or \"to abstain from.\" Both words are rooted in Latin \"jurare,\" meaning \"to swear,\" but \"adjure\" includes the prefix \"ad-,\" meaning \"to\" or \"toward,\" whereas \"abjure\" draws on \"ab-,\" meaning \"from\" or \"away.\""
+    "origin": "Although _megillah_ is a slang word in English, it has perfectly respectable Hebrew origins. _Megillah_ derives from the Yiddish _megile_, which itself comes from the Hebrew word _mĕgillāh_, meaning \"scroll\" or \"volume.\" (_Mĕgillāh_ is especially likely to be used in reference to the Book of Esther, which is read aloud at Purim celebrations.) It makes sense, then, that when _megillah_ first appeared in English in the mid-20th century, it referred to a story that was so long (and often tedious or complicated) that it was reminiscent of the length of the _mĕgillāh_ scrolls. The Hebrew word is serious, but the Yiddish _megile_ can be somewhat playful, and our _megillah_ has also inherited that lightheartedness."
   }
 }

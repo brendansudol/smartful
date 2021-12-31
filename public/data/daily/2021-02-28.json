@@ -1,134 +1,132 @@
 {
   "artist": {
-    "id": "emile-galle",
-    "name": "Émile Gallé",
-    "dates": "May 8, 1846 - Sep 23, 1904",
-    "mainImg": "img/art/artists/emile-galle.jpg",
+    "id": "andre-charles-boulle",
+    "name": "André Charles Boulle",
+    "dates": "Nov 10, 1642 - Feb 29, 1732",
+    "mainImg": "img/art/artists/andre-charles-boulle.jpg",
     "artworkImgs": [
       {
-        "name": "Hand with Seaweed and Shells",
-        "path": "img/art/artworks/emile-galle-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/hand-with-seaweed-and-shells-emile-gallé/3QH1q7j-jzvqaw"
+        "name": "Cabinet on Stand",
+        "path": "img/art/artworks/andre-charles-boulle-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/cabinet-on-stand/GQGy01HXWwOfsA"
       },
       {
-        "name": "Dragonfly Lamp",
-        "path": "img/art/artworks/emile-galle-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/dragonfly-lamp-émile-gallé/xgHm37sEHZROlQ"
+        "name": "Wandkandelaars",
+        "path": "img/art/artworks/andre-charles-boulle-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/wandkandelaars-andré-charles-boulle/RAGd3YhJp0zWJQ"
       },
       {
-        "name": "Elephant Vase",
-        "path": "img/art/artworks/emile-galle-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/elephant-vase-emile-gallé/TQEGbP67tbmZCA"
+        "name": "Commode",
+        "path": "img/art/artworks/andre-charles-boulle-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/commode-andré-charles-boulle/ZwGbWVy1jo13zg"
       },
       {
-        "name": "Clematis Émile Gallé",
-        "path": "img/art/artworks/emile-galle-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/clematis-émile-gallé-émile-gallé/kgEC-1jrOmPB-w"
+        "name": "Boulle table",
+        "path": "img/art/artworks/andre-charles-boulle-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/boulle-table-andré-charles-boulle/SQGGsp5G_dGKJw"
       },
       {
-        "name": "Prunus Émile Gallé",
-        "path": "img/art/artworks/emile-galle-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/prunus-émile-gallé-émile-gallé/cQGdsb-24qM4Tg"
+        "name": "Cabinet",
+        "path": "img/art/artworks/andre-charles-boulle-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/cabinet-andré-charles-boulle/DQG1R3siIbKMIg"
       },
       {
-        "name": "Vase decorated with dragonflies and irises",
-        "path": "img/art/artworks/emile-galle-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/vase-decorated-with-dragonflies-and-irises-émile-gallé/RAF3C9N1hGW2bA"
+        "name": "Clock with pedestal",
+        "path": "img/art/artworks/andre-charles-boulle-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/clock-with-pedestal-andré-charles-boulle-jacques-iii-thuret-jean-berain-isaac-ii-thuret/jwEZPphgFvxeqg"
       }
     ],
     "summary": [
-      "Émile Gallé was a French artist and designer who worked in glass, and is considered to be one of the major innovators in the French Art Nouveau movement. He was noted for his designs of Art Nouveau glass art and Art Nouveau furniture, and was a founder of the École de Nancy or Nancy School, a movement of design in the city of Nancy, France."
+      "André-Charles Boulle, le joailler du meuble, became the most famous French cabinetmaker and the preeminent artist in the field of marquetry, also known as \"inlay\". Boulle was \"the most remarkable of all French cabinetmakers\". Jean-Baptiste Colbert recommended him to Louis XIV of France, the \"Sun King\", as \"the most skilled craftsman in his profession\". Over the centuries since his death, his name and that of his family has become associated with the art he perfected, the inlay of tortoiseshell, brass and pewter into ebony. It has become known as Boulle Work,",
+      "and the École Boulle, a college of fine arts and crafts and applied arts in Paris, continues today to bear testimony to his enduring art, the art of inlay."
     ],
     "quote": null,
-    "movements": ["Art Nouveau"],
-    "mediums": ["Glass", "Lead glass", "Metal", "Vitreous enamel", "Etching", "Silver"],
-    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89mile_Gall%C3%A9",
-    "urlGoogle": "https://artsandculture.google.com/entity/émile-gallé/m01gtzn"
+    "movements": ["Rococo", "Baroque"],
+    "mediums": ["Metal", "Bronze", "Brass", "Wood", "Oak", "Tortoiseshell"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Andr%C3%A9_Charles_Boulle",
+    "urlGoogle": "https://artsandculture.google.com/entity/andré-charles-boulle/m087q0f"
   },
   "event": {
-    "id": "sukhoi",
-    "name": "Sukhoi",
-    "dates": null,
-    "mainImg": "img/events/sukhoi.jpg",
+    "id": "kofun-period",
+    "name": "Kofun period",
+    "dates": "250 AD - 538 AD",
+    "mainImg": "img/events/kofun-period.jpg",
     "summary": [
-      "The JSC Sukhoi Company is a major Soviet and now Russian aircraft manufacturer, headquartered in Begovoy District, Northern Administrative Okrug, Moscow, that designs both civilian and military aircraft. It was founded by Pavel Sukhoi in 1939 as the Sukhoi Design Bureau. During February 2006, the Russian government merged Sukhoi with Mikoyan, Ilyushin, Irkut, Tupolev, and Yakovlev as a new company named United Aircraft Corporation."
+      "The Kofun period is an era in the history of Japan from about 300 to 538 AD, following the Yayoi period. The Kofun and the subsequent Asuka periods are sometimes collectively called the Yamato period. This period is the earliest era of recorded history in Japan, but studies depend heavily on archaeology since the chronology of historical sources tends to be distorted.",
+      "It was a period of cultural import. Continuing from the Yayoi period, the Kofun period is characterized by a strong influence from the Korean Peninsula; archaeologists consider it a shared culture across the southern Korean Peninsula, Kyūshū and Honshū. The word kofun is Japanese for the type of burial mound dating from this era, and archaeology indicates that the mound tombs and material culture of the elite were similar throughout the region. From China, Buddhism and the Chinese writing system were introduced near the end of the period. The Kofun period recorded Japan's earliest political centralization, when the Yamato clan rose to power in southwestern Japan, established the Imperial House, and helped control trade routes across the region."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Sukhoi",
-    "urlGoogle": "https://artsandculture.google.com/entity/sukhoi/m02rm8f"
+    "urlWiki": "https://en.wikipedia.org/wiki/Kofun_period",
+    "urlGoogle": "https://artsandculture.google.com/entity/kofun-period/m0166fj"
   },
   "funFacts": [
     {
-      "id": "987",
-      "fact": "The first American gold rush happened in North Carolina, not California.",
-      "category": ["Geography", "History", "Firsts"]
+      "id": "776",
+      "fact": "Ferret comes from the Latin word for little thief.",
+      "category": ["Animals"]
     },
-    {
-      "id": "1014",
-      "fact": "Forty is the only number whose letters are in alphabetical order.",
-      "category": ["Onlies"]
-    }
+    { "id": "353", "fact": "The weight of the moon is 81 billion tons.", "category": ["Science"] }
   ],
   "funFacts2": [
     {
-      "id": "505507",
-      "fact": "There's only one Blockbuster still operating in the U.S.—it's located in Bend, Oregon."
+      "id": "505069",
+      "fact": "In Queensland, Australia, it's illegal to own a pet rabbit unless you're a magician."
     }
   ],
   "idiom": {
-    "id": "rain-check",
-    "term": "rain check",
-    "definition": "A promise that an unaccepted offer will be renewed in the future, as in *I can't come to dinner Tuesday but hope you'll give me a rain check.* This term comes from baseball, where in the 1880s it became the practice to offer paying spectators a rain check entitling them to future admission for a game that was postponed or ended early owing to bad weather. By the early 1900s the term was transferred to tickets for other kinds of entertainment, and later to a coupon entitling a customer to buy, at a later date and at the same price, a sale item temporarily out of stock."
+    "id": "vent-ones-spleen",
+    "term": "vent one's spleen",
+    "definition": "Express one's anger, as in *Some people see town council meetings as a place where they can vent their spleen.* This expression uses *vent* in the sense of \"air,\" and *spleen* in the sense of \"anger,\" alluding to the fact that this organ was once thought to be the seat of ill humor and melancholy. [First half of 1600s]"
   },
   "person": {
-    "id": "rudolf-hess",
-    "name": "Rudolf Hess",
-    "dates": "Apr 26, 1894 - Aug 17, 1987",
-    "mainImg": "img/people/rudolf-hess.jpg",
+    "id": "ben-carson",
+    "name": "Ben Carson",
+    "dates": "Born Sep 18, 1951",
+    "mainImg": "img/people/ben-carson.jpg",
     "summary": [
-      "Rudolf Walter Richard Hess was a German politician and a leading member of the Nazi Party in Nazi Germany. Appointed Deputy Führer to Adolf Hitler in 1933, Hess served in that position until 1941, when he flew solo to Scotland in an attempt to negotiate peace with the United Kingdom during World War II. He was taken prisoner and eventually convicted of crimes against peace, serving a life sentence until his suicide in 1987.",
-      "Hess enlisted as an infantryman at the outbreak of World War I. He was wounded several times over the course of the war and was awarded the Iron Cross, 2nd Class in 1915. Shortly before the war ended, Hess enrolled to train as an aviator, but he saw no action in that role. He left the armed forces in December 1918 with the rank of Leutnant der Reserve. In 1919 Hess enrolled in the University of Munich, where he studied geopolitics under Karl Haushofer, a proponent of the concept of Lebensraum, which became one of the pillars of Nazi ideology. Hess joined the Nazi Party on 1 July 1920 and was at Hitler's side on 8 November 1923 for the Beer Hall Putsch, a failed Nazi attempt to seize control of the government of Bavaria."
+      "Benjamin Solomon Carson Sr. is an American politician, public servant, author and retired neurosurgeon serving as the 17th United States Secretary of Housing and Urban Development since 2017. Prior to his cabinet position under the Trump Administration, Carson was a candidate for President of the United States in the Republican primaries in 2016, at times leading nationwide polls of Republicans.",
+      "Born in Detroit, Michigan, and a graduate of Yale University and the University of Michigan Medical School, Carson has authored numerous books on his medical career and political stances. He was portrayed by Cuba Gooding Jr. in a 2009 biographical television drama film.",
+      "Carson was the Director of Pediatric Neurosurgery at the Johns Hopkins Hospital from 1984 until his retirement in 2013."
     ],
-    "quote": "“You take an oath to a man whom you know follows the laws of providence, which he obeys independently of the influence of earthly powers, who leads the German people rightly, and who will guide Germany's fate. Through your oath you bind yourselves to a man who — that is our faith — was sent to us by higher powers. Do not seek Adolf Hitler with your mind. You will find him through the strength of your hearts!”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Rudolf_Hess",
-    "urlGoogle": "https://artsandculture.google.com/entity/rudolf-hess/m025bs7"
+    "quote": "“There is so much potential out there in young people and they aren't getting the right information or being encouraged in the right ways. This is our duty as a society.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ben_Carson",
+    "urlGoogle": "https://artsandculture.google.com/entity/ben-carson/m03znkl"
   },
   "place": {
-    "id": "nagpur",
-    "name": "Nagpur",
-    "mainImg": "img/places/nagpur.jpg",
+    "id": "istanbul",
+    "name": "İstanbul",
+    "mainImg": "img/places/istanbul.jpg",
     "summary": [
-      "Nagpur is the third largest city and the winter capital of the Indian state of Maharashtra. It is the 13th largest city in India by population and according to an Oxford Economics report, Nagpur is projected to be the fifth fastest growing city in the world from 2019 to 2035 with an average growth of 8.41%. It has been proposed as one of the Smart Cities in Maharashtra and is one of the top ten cities in India in Smart City Project execution.",
-      "Nagpur is the seat of the annual winter session of the Maharashtra state assembly. It is a major commercial and political centre of the Vidarbha region of Maharashtra. In addition, the city derives unique importance from being the headquarters for the Hindu nationalist organisation RSS and an important location for the Dalit Buddhist movement. Nagpur is also known for Deekshabhoomi, the largest hollow stupa among all the Buddhist stupas in the world.",
-      "According to a survey by ABP News-Ipsos, Nagpur was identified as the best city in India topping in livability, greenery, public transport, and health care indices in 2013. The city was adjudged the 20th cleanest city in India and the top mover in the western zone as per Swachh Sarvekshan 2016."
+      "Istanbul, formerly known as Byzantium and Constantinople, is the most populous city in Turkey and the country's economic, cultural and historic center. Istanbul is a transcontinental city in Eurasia, straddling the Bosporus strait between the Sea of Marmara and the Black Sea. Its commercial and historical center lies on the European side and about a third of its population lives in suburbs on the Asian side of the Bosporus. With a total population of around fifteen million residents in its metropolitan area, Istanbul is one of the world's largest cities by population, ranking as the world's seventh-largest city proper and the largest city in Europe. The city is the administrative centre of the Istanbul Metropolitan Municipality.",
+      "Founded under the name of Byzantion on the Sarayburnu promontory around 660 BCE, the city grew in size and influence, becoming one of the most important cities in history. After its reestablishment as Constantinople in 330 CE, it served as an imperial capital for almost sixteen centuries, during the Roman/Byzantine, Latin, Palaiologos Byzantine and Ottoman empires."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Nagpur",
-    "urlGoogle": "https://artsandculture.google.com/entity/nagpur/m02c98m"
+    "urlWiki": "https://en.wikipedia.org/wiki/Istanbul",
+    "urlGoogle": "https://artsandculture.google.com/entity/i̇stanbul/m09949m"
   },
   "quote": {
-    "id": "87",
-    "quote": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great makes you feel that you, too, can become great.",
-    "author": "Mark Twain"
+    "id": "19",
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb"
   },
   "wiki": {
-    "id": "hannah-primrose-countess-of-rosebery",
-    "name": "Hannah Primrose, Countess of Rosebery",
-    "summary": "Hannah Primrose, Countess of Rosebery was the daughter of Baron Mayer de Rothschild and his wife Juliana, née Cohen. On the death of her father in 1874 she became the richest woman in Britain. Her husband, the 5th Earl of Rosebery, was, during the final quarter of the nineteenth century, one of the most celebrated figures in Britain, an influential millionaire and politician, whose charm, wit, charisma and public popularity gave him such standing that he \"almost eclipsed royalty\". Her marriage into the aristocracy, while controversial at the time, gave her the social cachet in an anti-Semitic society that her vast fortune could not. She subsequently became a political hostess and philanthropist. Her charitable work was principally in the sphere of public health and causes associated with the welfare of working class Jewish women living in the poorer districts of London. Having firmly assisted and supported her husband on his path to political greatness, she suddenly died in 1890, aged 39, leaving him to achieve, bewildered and without her support, the political destiny which she had plotted alone. His premiership of the United Kingdom was shambolic, and lasted barely a year.",
-    "url": "https://en.wikipedia.org/wiki/Hannah_Primrose,_Countess_of_Rosebery"
+    "id": "fairfax-harrison",
+    "name": "Fairfax Harrison",
+    "summary": "Fairfax Harrison (1869–1938) was an American lawyer, businessman, and writer. The son of the secretary to the Confederate President Jefferson Davis, Harrison studied law at Yale University and Columbia University before becoming a lawyer for the Southern Railway Company in 1896. By 1906 he was Southern's vice-president of finance, and in 1907 helped secure funding to keep the company solvent. In 1913 he was elected president of Southern, where he instituted a number of reforms in company operations. By 1916, under Harrison's leadership, the Southern had expanded to an 8,000-mile (13,000 km) network across 13 states, its greatest extent until the 1950s. Following America's entry into World War I the federal government took control of the railroads in December 1917, running them through the United States Railroad Administration, on which Harrison served. Harrison struggled to keep the railroad afloat during the Great Depression, but by 1936 Southern was once again showing a profit. Harrison retired in 1937, intending to focus on his hobby of writing about historical subjects including the roots of the American Thoroughbred horse, but he died three months later in February 1938.",
+    "url": "https://en.wikipedia.org/wiki/Fairfax_Harrison"
   },
   "word": {
-    "id": "canoodle",
-    "word": "canoodle",
-    "url": "https://www.merriam-webster.com/dictionary/canoodle",
-    "partOfSpeech": "verb",
-    "pronunciation": "kuh-NOO-dul",
-    "audioPath": "audio/words/canoodle.mp3",
-    "definitions": ["to engage in amorous embracing, caressing, and kissing"],
+    "id": "apophasis",
+    "word": "apophasis",
+    "url": "https://www.merriam-webster.com/dictionary/apophasis",
+    "partOfSpeech": "noun",
+    "pronunciation": "uh-PAH-fuh-sis",
+    "audioPath": "audio/words/apophasis.mp3",
+    "definitions": ["the raising of an issue by claiming not to mention it"],
     "examples": [
-      "Chaperones watched for couples attempting to sneak under the gymnasium's bleachers to _canoodle_.",
-      "\"The honeymooners are ubiquitous. They cuddle on the beaches, and they maneuver kayaks across the clear, turquoise waterways. They hold hands and _canoodle_ at dinner in dimly lit restaurants.\" -- From an article by Ron Donoho in _San Diego Magazine_, January 2009"
+      "\"I won't bring up that little incident that happened the last time you tried to cook a meal,\" said Laura, in a blatant display of _apophasis_.",
+      "\"The hope is that if people recognize when rhetoric is being used to deceive, they will learn to use more persuasive language themselves. For example, salespeople tell us 'you don't need to decide now.' This is _apophasis_, whereby the negative words do not stick in our minds and appear to reject a point while actually emphasizing it.\" - Nicholas Cole, _Alternatives Journal_, 2014"
     ],
-    "origin": "The origins of \"canoodle\" are obscure. Our best guess is that it may come from an English dialect noun of the same spelling meaning \"donkey, fool, or foolish lover,\" which itself may be an alteration of the word \"noodle,\" meaning \"a foolish person.\" That \"noodle\" in turn may come from \"noddle,\" a word for the head. The guess seems reasonable given that, since its appearance in the language around the mid-19th century, \"canoodle\" has been most often used jocularly for playful public displays of affection by couples who are head over heels in love."
+    "origin": "Apophasis is a sly debater's trick, a way of sneaking an issue into the discussion while maintaining plausible deniability. It should come as no surprise, then, that the roots of \"apophasis\" lie in the concept of denial-the word was adopted into English from Late Latin, where it means \"repudiation,\" and derives from the Greek \"apophanai,\" meaning \"to deny.\" (\"Apophanai,\" in turn, comes from \"apo-,\" meaning \"away from\" or \"off,\" and \"phanai,\" meaning \"to say.\") This particular rhetorical stunt is also known by the labels \"preterition\" and \"paraleipsis\" (which is a Greek word for \"omission\"), but those words are rarer than \"apophasis.\" Incidentally, don’t confuse \"apophasis\" with \"apophysis\"; the latter is a scientific word for an expanded or projecting part of an organism."
   }
 }

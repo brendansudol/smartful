@@ -1,136 +1,140 @@
 {
   "artist": {
-    "id": "titian",
-    "name": "Titian",
-    "dates": "1490 - Aug 27, 1576",
-    "mainImg": "img/art/artists/titian.jpg",
+    "id": "gwen-john",
+    "name": "Gwen John",
+    "dates": "Jun 22, 1876 - Sep 18, 1939",
+    "mainImg": "img/art/artists/gwen-john.jpg",
     "artworkImgs": [
       {
-        "name": "Venus of Urbino",
-        "path": "img/art/artworks/titian-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/venus-of-urbino-tiziano-vecellio/bQGS8pnP5vr2Jg"
+        "name": "Little Girl with a Large Hat",
+        "path": "img/art/artworks/gwen-john-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/little-girl-with-a-large-hat-gwen-john/lAE0IekPoLhN-g"
       },
       {
-        "name": "Bacchus and Ariadne",
-        "path": "img/art/artworks/titian-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/bacchus-and-ariadne-titian/ywE45AsapF2vUw"
+        "name": "La Chambre sur la Cour",
+        "path": "img/art/artworks/gwen-john-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/la-chambre-sur-la-cour-gwen-john-1876–1939-british/LAEG9TAa1NEpPQ"
       },
       {
-        "name": "Portrait of Gerolamo (?) Barbarigo",
-        "path": "img/art/artworks/titian-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-gerolamo-barbarigo-titian/-AECJQExjyEXKg"
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/gwen-john-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-gwen-john/AAH5TZv_xspVkw"
       },
       {
-        "name": "Diana and Actaeon",
-        "path": "img/art/artworks/titian-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/diana-and-actaeon-titian/ggFplMh4sgQ6og"
+        "name": "Head of a Woman",
+        "path": "img/art/artworks/gwen-john-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-woman-gwen-john/nAFGIstvdSJIzQ"
       },
       {
-        "name": "Europa",
-        "path": "img/art/artworks/titian-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/europa-titian/oQEs_uJPItxPdg"
+        "name": "The nun",
+        "path": "img/art/artworks/gwen-john-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nun-gwen-john/_QFH465sYz_5NA"
       },
       {
-        "name": "Venus Rising from the Sea ('Venus Anadyomene')",
-        "path": "img/art/artworks/titian-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/venus-rising-from-the-sea-venus-anadyomene-titian/uQGKnofM6hmw5g"
+        "name": "Bust of a Girl with a Bow Before a Pink Background",
+        "path": "img/art/artworks/gwen-john-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/bust-of-a-girl-with-a-bow-before-a-pink-background-gwen-john/FQHJYEj6WxWjRA"
       }
     ],
     "summary": [
-      "Tiziano Vecelli or Vecellio, known in English as Titian, was an Italian painter during the Renaissance, considered the most important member of the 16th-century Venetian school. He was born in Pieve di Cadore, near Belluno. During his lifetime he was often called da Cadore, 'from Cadore', taken from his native region.",
-      "Recognized by his contemporaries as \"The Sun Amidst Small Stars\", Titian was one of the most versatile of Italian painters, equally adept with portraits, landscape backgrounds, and mythological and religious subjects. His painting methods, particularly in the application and use of colour, exercised a profound influence not only on painters of the late Italian Renaissance, but on future generations of Western art.",
-      "His career was successful from the start, and he became sought after by patrons, initially from Venice and its possessions, then joined by the north Italian princes, and finally the Habsburgs and papacy. Along with Giorgione, he is considered a founder of the Venetian School of Italian Renaissance painting.",
-      "During the course of his long life, Titian's artistic manner changed drastically, but he retained a lifelong interest in colour."
-    ],
-    "quote": "“Not every painter has a gift for painting, in fact, many painters are disappointed when they meet with difficulties in art. Painting done under pressure by artists without the necessary talent can only give rise to formlessness, as painting is a profession that requires peace of mind. The painter must always seek the essence of things, always represent the essential characteristics and emotions of the person he is painting...”",
-    "movements": [
-      "Renaissance",
-      "Italian Renaissance",
-      "High Renaissance",
-      "Venetian painting",
-      "Mannerism"
-    ],
-    "mediums": ["Oil paint", "Engraving", "Laid paper", "Etching", "Drawing", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Titian",
-    "urlGoogle": "https://artsandculture.google.com/entity/titian/m0144mv"
-  },
-  "event": {
-    "id": "panama-pacific-international-exposition",
-    "name": "Panama–Pacific International Exposition",
-    "dates": "Feb 20, 1915 - Dec 4, 1915",
-    "mainImg": "img/events/panama-pacific-international-exposition.jpg",
-    "summary": [
-      "The Panama–Pacific International Exposition was a world's fair held in San Francisco, California, United States, from February 20 to December 4, 1915. Its stated purpose was to celebrate the completion of the Panama Canal, but it was widely seen in the city as an opportunity to showcase its recovery from the 1906 earthquake. The fair was constructed on a 636 acre site along the northern shore, between the Presidio and Fort Mason, now known as the Marina District."
+      "Gwendolen Mary John was a Welsh artist who worked in France for most of her career. Her paintings, mainly portraits of anonymous female sitters, are rendered in a range of closely related tones. Although she was overshadowed during her lifetime by her brother Augustus John and her lover Auguste Rodin, her reputation has grown steadily since her death."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Panama%E2%80%93Pacific_International_Exposition",
-    "urlGoogle": "https://artsandculture.google.com/entity/panama–pacific-international-exposition/m02jmg2"
+    "movements": ["Post-Impressionism"],
+    "mediums": [
+      "Oil paint",
+      "Graphite",
+      "Watercolor painting",
+      "Laid paper",
+      "Drawing",
+      "Cardboard"
+    ],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gwen_John",
+    "urlGoogle": "https://artsandculture.google.com/entity/gwen-john/m0301c5"
+  },
+  "event": {
+    "id": "rhineland-offensive",
+    "name": "Rhineland Offensive",
+    "dates": "Feb 8, 1945 - Mar 27, 1945",
+    "mainImg": "img/events/rhineland-offensive.jpg",
+    "summary": [
+      "The Rhineland Offensive was a series of allied offensive operations by 21st Army Group commanded by Bernard Montgomery from 8 February 1945 to 25 March 1945, at the end of the Second World War. The operations were aimed at occupying the Rhineland and securing a passage over the Rhine river.",
+      "It was part of General Dwight D. Eisenhower's \"broad front\" strategy to occupy the entire west bank of the Rhine before its crossing. The Rhineland Offensive encompassed Operation Veritable, Operation Grenade, Operation Blockbuster, Operation Plunder and Operation Varsity."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Rhineland_Offensive",
+    "urlGoogle": "https://artsandculture.google.com/entity/rhineland-offensive/g11c70237c2"
   },
   "funFacts": [
     {
-      "id": "433",
-      "fact": "The state of Tennessee was originally called Franklin.",
-      "category": ["Geography", "History"]
+      "id": "974",
+      "fact": "All gondolas in Venice, Italy must be painted black unless they are carrying an important person.",
+      "category": ["Geography", "Habits", "Laws"]
     },
     {
-      "id": "806",
-      "fact": "In Albania, nodding your head means no and shaking your head means yes.",
-      "category": ["Hodgepodge"]
+      "id": "478",
+      "fact": "Candles will burn longer and drip less if they are placed in the freezer a few hours before using.",
+      "category": ["Make-it-Easies"]
     }
   ],
-  "funFacts2": [{ "id": "554253", "fact": "IKEA consumes about 1 percent of the world's lumber." }],
+  "funFacts2": [
+    {
+      "id": "553843",
+      "fact": "Ira Aldridge was one of the most famous actors of the 19th century. After leaving his home in New York to pursue an acting career in Europe, he performed for royalty, won numerous awards, and used his platform to speak out against slavery."
+    }
+  ],
   "idiom": {
-    "id": "of-the-first-water",
-    "term": "of the first water",
-    "definition": "Of the finest quality, as in *That was a play of the first water.* This idiom refers to a grading system for diamonds for their color or luster (compared to the shininess of water). The system is no longer used but the term, used figuratively since the early 1800s, has survived it."
+    "id": "old-chestnut",
+    "term": "old chestnut",
+    "definition": "A stale joke, story, or saying, as in *Dad keeps on telling that old chestnut about how many psychiatrists it takes to change a light bulb.* This expression comes from William Dimond's play, *The Broken Sword* (1816), in which one character keeps repeating the same stories, one of them about a cork tree, and is interrupted each time by another character who says \"Chestnut, you mean... I have heard you tell the joke twenty-seven times and I am sure it was a chestnut.\""
   },
   "person": {
-    "id": "mao-zedong",
-    "name": "Mao Zedong",
-    "dates": "Dec 26, 1893 - Sep 9, 1976",
-    "mainImg": "img/people/mao-zedong.jpg",
+    "id": "lyndon-b-johnson",
+    "name": "Lyndon B. Johnson",
+    "dates": "Aug 27, 1908 - Jan 22, 1973",
+    "mainImg": "img/people/lyndon-b-johnson.jpg",
     "summary": [
-      "Mao Zedong, also known as Chairman Mao, was a Chinese communist revolutionary who became the founding father of the People's Republic of China, which he ruled as the chairman of the Communist Party of China from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism.",
-      "Mao was the son of a prosperous peasant in Shaoshan, Hunan. He had a Chinese nationalist and an anti-imperialist outlook early in his life, and was particularly influenced by the events of the Xinhai Revolution of 1911 and May Fourth Movement of 1919. He later adopted Marxism–Leninism while working at Peking University, and became a founding member of the Communist Party of China, leading the Autumn Harvest Uprising in 1927. During the Chinese Civil War between the Kuomintang and the CPC, Mao helped to found the Chinese Workers' and Peasants' Red Army, led the Jiangxi Soviet's radical land policies, and ultimately became head of the CPC during the Long March."
+      "Lyndon Baines Johnson, often referred to by his initials LBJ, was an American politician who served as the 36th president of the United States from 1963 to 1969 and formerly, 37th vice president from 1961 to 1963. He assumed the presidency following the assassination of President John F. Kennedy. A Democrat from Texas, Johnson also served as a United States Representative and as the Majority Leader in the United States Senate. Johnson is one of only four people who have served in all four federal elected positions.",
+      "Born in a farmhouse in Stonewall, Texas, Johnson was a high school teacher and worked as a congressional aide before winning election to the US House of Representatives in 1937. Johnson won election to the United States Senate from Texas in 1948 after winning the Democratic Party's nomination by an extremely narrow margin with fraudulent votes that were manufactured by friendly political machines. He was appointed to the position of Senate Majority Whip in 1951. He became the Senate Minority Leader in 1953 and the Senate Majority Leader in 1955."
     ],
-    "quote": "“In general, any form of exercise, if pursued continuously, will help train us in perseverance. Long-distance running is particularly good training in perseverance.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Mao_Zedong",
-    "urlGoogle": "https://artsandculture.google.com/entity/mao-zedong/m04xzm"
+    "quote": "“This administration here and now declares unconditional war on poverty.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
+    "urlGoogle": "https://artsandculture.google.com/entity/lyndon-b-johnson/m0f7fy"
   },
   "place": {
-    "id": "new-orleans",
-    "name": "New Orleans",
-    "mainImg": "img/places/new-orleans.jpg",
+    "id": "taiwan",
+    "name": "Taiwan",
+    "mainImg": "img/places/taiwan.jpg",
     "summary": [
-      "New Orleans is a consolidated city-parish located along the Mississippi River in the southeastern region of the U.S. state of Louisiana. With an estimated population of 390,144 in 2019, it is the most populous city in Louisiana. Serving as a major port, New Orleans is considered an economic and commercial hub for the broader Gulf Coast region of the United States.",
-      "New Orleans is world-renowned for its distinct music, Creole cuisine, unique dialect, and its annual celebrations and festivals, most notably Mardi Gras. The historic heart of the city is the French Quarter, known for its French and Spanish Creole architecture and vibrant nightlife along Bourbon Street. The city has been described as the \"most unique\" in the United States, owing in large part to its cross-cultural and multilingual heritage. Founded in 1718 by French colonists, New Orleans was once the territorial capital of French Louisiana before being traded to the United States in the Louisiana Purchase of 1803. New Orleans in 1840 was the third-most populous city in the United States, and it was the largest city in the American South from the Antebellum era until after World War II."
+      "Taiwan, officially the Republic of China, is a country in East Asia. Neighbouring states include the People's Republic of China to the north-west, Japan to the north-east, and the Philippines to the south. The island of Taiwan has an area of 35,808 square kilometres, with mountain ranges dominating the eastern two-thirds and plains in the western third, where its highly urbanised population is concentrated. Taipei is the capital and largest metropolitan area. Other major cities include Kaohsiung, Taichung, Tainan and Taoyuan. With 23.7 million inhabitants, Taiwan is among the most densely populated states, and is the most populous state and largest economy that is not a member of the United Nations.",
+      "Taiwanese indigenous peoples settled the island of Taiwan around 6,000 years ago. In the 17th century, Dutch rule opened the island to mass Han immigration. After the brief Kingdom of Tungning in parts of the southern and western areas of the island, the island was annexed in 1683 by the Qing dynasty of China, and ceded to the Empire of Japan in 1895."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/New_Orleans",
-    "urlGoogle": "https://artsandculture.google.com/entity/new-orleans/m0f2tj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Taiwan",
+    "urlGoogle": "https://artsandculture.google.com/entity/taiwan/m06f32"
   },
   "quote": {
-    "id": "6",
-    "quote": "The best way to predict your future is to create it.",
-    "author": "Abraham Lincoln"
+    "id": "93",
+    "quote": "I have never met a man so ignorant that I couldn't learn something from him.",
+    "author": "Galileo"
   },
   "wiki": {
-    "id": "slavery-in-ancient-greece",
-    "name": "Slavery in ancient Greece",
-    "summary": "Slavery in ancient Greece was considered not only necessary but natural; neither the Stoics nor the Early Christians questioned the practice. However, some isolated debate began to appear, notably in Socratic dialogues, as early as the 4th century BC. Although slaves as dependent groups existed, such as the Penestae of Thessaly, the Spartan Helots or even the Klarotes of Crete, these were more like Medieval serfs. Other parts of Greece practiced chattel slavery, where the individual is deprived of liberty and forced to submit to an owner who may buy, sell, or lease him or her as one might any chattel good. The study of slavery in Ancient Greece poses a number of significant methodological problems. Documentation is disjointed and very fragmented, focusing on the city of Athens. No treatise is specifically devoted to the subject. Judicial pleadings of the 4th century BC were interested in slavery only as a source of revenue. Comedy and tragedy represented stereotypes. Iconography made no substantial differentiation between slave and craftsman. Even the terminology is often vague.",
-    "url": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Greece"
+    "id": "atheism",
+    "name": "Atheism",
+    "summary": "Atheism is the philosophical position that either affirms the nonexistence of gods or rejects theism. In its broadest definition, atheism is the absence of belief in deities, sometimes called nontheism. Although atheists are commonly assumed to be irreligious, some religions, such as Buddhism, have been characterized as atheistic. Many self-described atheists share common skeptical concerns regarding supernatural claims, citing a lack of empirical evidence for the existence of deities. Other arguments for atheism are philosophical, social or historical. Although many self-described atheists tend toward secular philosophies such as humanism, rationalism, and naturalism, there is no one ideology or set of behaviors to which all atheists adhere. The term atheism originated as a pejorative epithet applied to any person or belief in conflict with established religion. With the spread of freethought, scientific skepticism, and criticism of religion, the term began to gather a more specific meaning and was sometimes used as a self-description by atheists.",
+    "url": "https://en.wikipedia.org/wiki/Atheism"
   },
   "word": {
-    "id": "subreption",
-    "word": "subreption",
-    "url": "https://www.merriam-webster.com/dictionary/subreption",
-    "partOfSpeech": "noun",
-    "pronunciation": "sub-REP-shun",
-    "audioPath": "audio/words/subreption.mp3",
-    "definitions": ["a deliberate misrepresentation; also : an inference drawn from it"],
+    "id": "indubitable",
+    "word": "indubitable",
+    "url": "https://www.merriam-webster.com/dictionary/indubitable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-DOO-buh-tuh-bul",
+    "audioPath": "audio/words/indubitable.mp3",
+    "definitions": ["too evident to be doubted : unquestionable"],
     "examples": [
-      "Shareholders have filed a class action lawsuit against the company for its subreption of earnings and losses."
+      "He was regarded as a film director of indubitable insight and talent, and his movies were among the most beloved in the history of cinema."
     ],
-    "origin": "In canon law and Scots law, subreption is the obtainment of a dispensation or gift by concealment of the truth, whereas obreption is the obtainment of a dispensation or gift by fraud. Both terms are from Latin nouns: respectively, \"subreptio,\" meaning \"the act of stealing,\" and \"obreptio,\" meaning \"the act of stealing upon.\" The derivation of \"subreption\" also traces to the Latin verb \"surripere,\" meaning \"to take away secretly,\" which is the base of the Anglicized term \"surreptitious,\" a synonym of \"stealthy.\" \"Obreption\" shares an ancestor with the word \"reptile\": Latin \"repere,\" meaning \"to creep.\""
+    "origin": "There's no reason to question the fairly straightforward etymology of \"indubitable\" -- a word that has remained true to its Latin roots. It arrived in Middle English in the 15th century from Latin \"indubitabilis,\" itself a combination of \"in-\" (\"not\") and \"dubitabilis\" (\"open to doubt or question\"). \"Dubitabilis\" is from the verb \"dubitare,\" meaning \"to doubt,\" which also gave us our \"doubt.\" The word \"dubitable\" also exists in English, and of course means \"questionable or doubtable,\" but it is fairly rare."
   }
 }

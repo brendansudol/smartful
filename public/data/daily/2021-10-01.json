@@ -1,127 +1,130 @@
 {
   "artist": {
-    "id": "johann-moritz-rugendas",
-    "name": "Johann Moritz Rugendas",
-    "dates": "Mar 29, 1802 - May 29, 1858",
-    "mainImg": "img/art/artists/johann-moritz-rugendas.jpg",
+    "id": "sonia-delaunay",
+    "name": "Sonia Delaunay",
+    "dates": "Nov 14, 1885 - Dec 5, 1979",
+    "mainImg": "img/art/artists/sonia-delaunay.jpg",
     "artworkImgs": [
       {
-        "name": "Rua Direita no Rio de Janeiro",
-        "path": "img/art/artworks/johann-moritz-rugendas-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/rua-direita-no-rio-de-janeiro-rugendas/iwH2jLRXHt-Zlw"
+        "name": "Illustration for Rythmes et Couleurs",
+        "path": "img/art/artworks/sonia-delaunay-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/illustration-for-rythmes-et-couleurs-sonia-delaunay/ZAG1z47NiNPBCg"
       },
       {
-        "name": "Danse Batuca",
-        "path": "img/art/artworks/johann-moritz-rugendas-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/danse-batuca-rugendas-johann-moritz-1802-1858/IgFrBuf_II3Nxg"
+        "name": "Electric Prisms",
+        "path": "img/art/artworks/sonia-delaunay-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/electric-prisms/CQE0BUzOPgkH1g"
       },
       {
-        "name": "Paisagem com cavaleiro",
-        "path": "img/art/artworks/johann-moritz-rugendas-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/paisagem-com-cavaleiro-johann-moritz-rugendas/vAEb5IoMcGzqlA"
+        "name": "Button",
+        "path": "img/art/artworks/sonia-delaunay-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/button-sonia-delaunay/kgE6826J0xdl8A"
       },
       {
-        "name": "Aldea des Tapuyos",
-        "path": "img/art/artworks/johann-moritz-rugendas-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/aldea-des-tapuyos-rugendas/UwGW9jR_ddgDbg"
+        "name": "Circles in Pastel",
+        "path": "img/art/artworks/sonia-delaunay-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/circles-in-pastel-sonia-delaunay/oAGDMyk69SfcbQ"
       },
       {
-        "name": "Lundu dance",
-        "path": "img/art/artworks/johann-moritz-rugendas-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/lundu-dance-rugendas-johann-moritz-1802-1858/8AHpE_pAGYWI9g"
+        "name": "Greeting Card for Galerie Bing, Paris",
+        "path": "img/art/artworks/sonia-delaunay-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/greeting-card-for-galerie-bing-paris-sonia-delaunay/6gGbCyFWj3I7QQ"
       },
       {
-        "name": "Manners of Rio de Janeiro",
-        "path": "img/art/artworks/johann-moritz-rugendas-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/manners-of-rio-de-janeiro-rugendas-johann-moritz-1802-1858/vAHCVYFQqfXBSA"
+        "name": "Poster for Galerie Bing, Paris",
+        "path": "img/art/artworks/sonia-delaunay-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/poster-for-galerie-bing-paris-sonia-delaunay/vwGixQCoD4ZgHA"
       }
     ],
     "summary": [
-      "Johann Moritz Rugendas was a German painter, famous in the first half of the 19th century for his works depicting landscapes and ethnographic subjects in several countries in the Americas. Rugendas is considered \"by far the most varied and important of the European artists to visit Latin America.\" He was influenced by Alexander von Humboldt. Rugendas is also the subject of César Aira's 2000 novel, An Episode in the Life of a Landscape Painter."
+      "Sonia Delaunay was a Ukrainian-born Russian artist, who spent most of her working life in Paris. She formally trained in Russia and Germany before moving to France and expanding her practice to include textile, fashion, and set design. She co-founded the Orphism art movement, noted for its use of strong colours and geometric shapes, with her husband Robert Delaunay and others. She was the first living female artist to have a retrospective exhibition at the Louvre in 1964, and in 1975 was named an officer of the French Legion of Honor.",
+      "Her work in modern design included the concepts of geometric abstraction, and the integration of furniture, fabrics, wall coverings, and clothing into her art practice."
     ],
     "quote": null,
-    "movements": ["Romanticism"],
-    "mediums": ["Engraving", "Graphite", "Ink", "India ink", "Oil paint", "Watercolor painting"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Johann_Moritz_Rugendas",
-    "urlGoogle": "https://artsandculture.google.com/entity/johann-moritz-rugendas/m05yckf"
+    "movements": ["Modern art"],
+    "mediums": ["Tempera", "Wood", "Textile", "Adhesive", "Yarn", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sonia_Delaunay",
+    "urlGoogle": "https://artsandculture.google.com/entity/sonia-delaunay/m0681zb"
   },
   "event": {
-    "id": "deepwater-horizon-oil-spill",
-    "name": "Deepwater Horizon oil spill",
-    "dates": "Apr 20, 2010",
-    "mainImg": "img/events/deepwater-horizon-oil-spill.jpg",
+    "id": "hindenburg-disaster",
+    "name": "Hindenburg disaster",
+    "dates": null,
+    "mainImg": "img/events/hindenburg-disaster.jpg",
     "summary": [
-      "The Deepwater Horizon oil spill was an industrial disaster that began on April 20, 2010, in the Gulf of Mexico on the BP-operated Macondo Prospect, considered to be the largest marine oil spill in the history of the petroleum industry and estimated to be 8 percent to 31 percent larger in volume than the previous largest, the Ixtoc I oil spill, also in the Gulf of Mexico. The U.S. federal government estimated the total discharge at 4.9 million barrels. After several failed efforts to contain the flow, the well was declared sealed on September 19, 2010. Reports in early 2012 indicated that the well site was still leaking. The Deepwater Horizon oil spill is regarded as one of the largest environmental disasters in American history.",
-      "A massive response ensued to protect beaches, wetlands and estuaries from the spreading oil utilizing skimmer ships, floating booms, controlled burns and 1.84 million US gallons of oil dispersant. Due to the months-long spill, along with adverse effects from the response and cleanup activities, extensive damage to marine and wildlife habitats and fishing and tourism industries was reported."
+      "The Hindenburg disaster occurred on May 6, 1937, in Manchester Township, New Jersey, United States. The German passenger airship LZ 129 Hindenburg caught fire and was destroyed during its attempt to dock with its mooring mast at Naval Air Station Lakehurst. There were 35 fatalities from the 97 people on board, and an additional fatality on the ground.",
+      "The disaster was the subject of newsreel coverage, photographs, and Herbert Morrison's recorded radio eyewitness reports from the landing field, which were broadcast the next day. A variety of hypotheses have been put forward for both the cause of ignition and the initial fuel for the ensuing fire. The event shattered public confidence in the giant, passenger-carrying rigid airship and marked the abrupt end of the airship era."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill",
-    "urlGoogle": "https://artsandculture.google.com/entity/deepwater-horizon-oil-spill/m0bs5k0_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Hindenburg_disaster",
+    "urlGoogle": "https://artsandculture.google.com/entity/hindenburg-disaster/m04czcqh"
   },
   "funFacts": [
-    { "id": "148", "fact": "The tallest man was 8 ft. 11 in.", "category": ["Anatomy"] },
     {
-      "id": "729",
-      "fact": "Twins have a very high occurrence of left handedness.",
-      "category": ["Habits", "Science"]
-    }
+      "id": "728",
+      "fact": "The planet Saturn's density is lower than water; in fact, it would float if placed in water.",
+      "category": ["Science"]
+    },
+    { "id": "845", "fact": "A lemon contains more sugar than a strawberry.", "category": ["Food"] }
   ],
   "funFacts2": [
     {
-      "id": "504746",
-      "fact": "Fredric Baur invented the Pringles can. When he passed away in 2008, his ashes were buried in one."
+      "id": "554083",
+      "fact": "The raven that inspired Edgar Allan Poe's poem was named Grip, and he was Charles Dickens’s beloved pet."
     }
   ],
   "idiom": {
-    "id": "look-a-gift-horse-in-the-mouth",
-    "term": "look a gift horse in the mouth",
-    "definition": "Be critical or suspicious of something received at no cost. For example, *Dad's old car is full of dents, but we shouldn't look a gift horse in the mouth.* This term, generally expressed as a cautionary proverb (*Don't look a gift horse in the mouth*), has been traced to the writings of the 4th-century cleric, St. Jerome, and has appeared in English since about 1500. It alludes to determining the age of a horse by looking at its teeth."
+    "id": "bald-as-a-coot",
+    "term": "bald as a coot",
+    "definition": "Extremely bald, usually applied to a person. The coot is a water bird with a white bill that extends to its forehead, making it appear to be bald. The simile was first recorded in 1430."
   },
   "person": {
-    "id": "shirley-chisholm",
-    "name": "Shirley Chisholm",
-    "dates": "Nov 30, 1924 - Jan 1, 2005",
-    "mainImg": "img/people/shirley-chisholm.jpg",
+    "id": "george-washington",
+    "name": "George Washington",
+    "dates": "Feb 22, 1732 - Dec 14, 1799",
+    "mainImg": "img/people/george-washington.jpg",
     "summary": [
-      "Shirley Anita Chisholm was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress, and she represented New York's 12th congressional district for seven terms from 1969 to 1983. In the 1972 United States presidential election, she became the first black candidate for a major party's nomination for President of the United States, and the first woman to run for the Democratic Party's presidential nomination, as well as the first woman to appear in a United States presidential debate.",
-      "In 2015, Chisholm was posthumously awarded the Presidential Medal of Freedom."
+      "George Washington was an American political leader, military general, statesman, and founding father who served as the first president of the United States from 1789 to 1797. Previously, he led Patriot forces to victory in the nation's War for Independence. He presided at the Constitutional Convention of 1787, which established the U.S. Constitution",
+      "and a federal government. Washington has been called the \"Father of His Country\" for his manifold leadership in the formative days of the new nation.",
+      "Washington received his initial military training and command with the Virginia Regiment during the French and Indian War. He was later elected to the Virginia House of Burgesses and was named a delegate to the Continental Congress, where he was appointed Commanding General of the Continental Army. He commanded American forces, allied with France, in the defeat and surrender of the British during the Siege of Yorktown. He resigned his commission after the Treaty of Paris in 1783.",
+      "Washington played a key role in adopting and ratifying the Constitution and was then elected president by the Electoral College."
     ],
-    "quote": "“At present, our country needs women's idealism and determination, perhaps more in politics than anywhere else.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
-    "urlGoogle": "https://artsandculture.google.com/entity/shirley-chisholm/m02qt3_"
+    "quote": "“I have no other view than to promote the public good, and am unambitious of honors not founded in the approbation of my Country.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/George_Washington",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-washington/m034rd"
   },
   "place": {
-    "id": "lubeck",
-    "name": "Lübeck",
-    "mainImg": "img/places/lubeck.jpg",
+    "id": "lisbon",
+    "name": "Lisbon",
+    "mainImg": "img/places/lisbon.jpg",
     "summary": [
-      "Lübeck, officially the Hanseatic City of Lübeck",
-      ", is a city in Schleswig-Holstein, northern Germany, and one of the major ports of Germany. On the river Trave, it was the leading city of the Hanseatic League, and because of its extensive Brick Gothic architecture, it is listed by UNESCO as a World Heritage Site. In 2015, it had a population of 218,523.",
-      "The old part of Lübeck is on an island enclosed by the Trave. The Elbe–Lübeck Canal connects the Trave with the Elbe River. Another important river near the town centre is the Wakenitz. Autobahn 1 connects Lübeck with Hamburg and Denmark. Travemünde is a sea resort and ferry port on the coast of the Baltic Sea. Lübeck Hauptbahnhof links Lübeck to a number of railway lines, notably the line to Hamburg."
+      "Lisbon is the capital and the largest city of Portugal, with an estimated population of 505,526 within its administrative limits in an area of 100.05 km². Lisbon's urban area extends beyond the city's administrative limits with a population of around 2.8 million people, being the 10th-most populous urban area in the European Union. About 3 million people live in the Lisbon metropolitan area, which represents approximately 27% of the country's population. It is mainland Europe's westernmost capital city and the only one along the Atlantic coast. Lisbon lies in the western Iberian Peninsula on the Atlantic Ocean and the River Tagus. The westernmost portions of its metro area, the Portuguese Riviera, form the westernmost point of Continental Europe, culminating at Cabo da Roca.",
+      "Lisbon is recognised as an alpha-level global city because of its importance in finance, commerce, media, entertainment, arts, international trade, education and tourism. Lisbon is one of two Portuguese cities to be recognised as a global city. It is one of the major economic centres on the continent, with a growing financial sector and one of the largest container ports on Europe's Atlantic coast."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/L%C3%BCbeck",
-    "urlGoogle": "https://artsandculture.google.com/entity/lübeck/m04hhb"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lisbon",
+    "urlGoogle": "https://artsandculture.google.com/entity/lisbon/m04llb"
   },
   "wiki": {
-    "id": "gyeongju",
-    "name": "Gyeongju",
-    "summary": "Gyeongju is a city and prominent tourist destination in eastern South Korea. It lies in the far southeastern corner of North Gyeongsang Province, on the coast of the Sea of Japan. Numerous low mountains, outliers of the Taebaek range, are scattered throughout the city. Gyeongju was the capital of the ancient kingdom of Silla, a fact to which it owes its present-day prominence. The Silla kingdom arose at the turn of the 1st millennium, and ruled most of the Korean Peninsula from the 7th to the 9th centuries. A vast number of sites from this period remain in the city today. After the kingdom fell, the city gradually declined in importance. Today Gyeongju is a typical medium-sized city, having shared in the economic, demographic, and social trends that have shaped modern South Korea. However, amidst these trends the city has retained a distinctive identity. In tourism, it is one of South Korea's most well-known destinations. In manufacturing, it profits from its proximity to major industrial centers such as Ulsan. Gyeongju is connected to nationwide rail and expressway networks, which facilitate both industrial and tourist traffic.",
-    "url": "https://en.wikipedia.org/wiki/Gyeongju"
+    "id": "abdul-karim-the-munshi",
+    "name": "Abdul Karim (the Munshi)",
+    "summary": "Mohammed Abdul Karim (1863–1909) was a Muslim Indian attendant of Queen Victoria who gained her affection during the final fifteen years of her reign. Karim was born near Jhansi in British India, the son of a hospital assistant. In 1887, Victoria's Golden Jubilee year, Karim was one of two Indians selected to become servants to the Queen. Victoria came to like him a great deal and gave him the title of \"Munshi\", a Hindustani word often translated as \"clerk\" or \"teacher\". Victoria appointed him her Indian Secretary, showered him with honours, and obtained a land grant for him in India. The close relationship between Karim and the Queen led to friction within the Royal Household, the other members of which felt themselves to be superior to him. The Queen insisted on taking Karim with her on her travels, which caused angry arguments between her and her attendants. Following Victoria's death in 1901 her successor, Edward VII, returned Karim to India and ordered the confiscation and destruction of the Munshi's correspondence with Victoria. Karim subsequently lived quietly near Agra, on the estate that Victoria had arranged for him, until his death at the age of 46.",
+    "url": "https://en.wikipedia.org/wiki/Abdul_Karim_(the_Munshi)"
   },
   "word": {
-    "id": "veld",
-    "word": "veld",
-    "url": "https://www.merriam-webster.com/dictionary/veld",
+    "id": "inanition",
+    "word": "inanition",
+    "url": "https://www.merriam-webster.com/dictionary/inanition",
     "partOfSpeech": "noun",
-    "pronunciation": "VELT",
-    "audioPath": "audio/words/veld.mp3",
+    "pronunciation": "in-uh-NISH-un",
+    "audioPath": "audio/words/inanition.mp3",
     "definitions": [
-      "a grassland especially of southern Africa usually with scattered shrubs or trees"
+      "the exhausted condition that results from lack of food and water",
+      "the absence or loss of social, moral, or intellectual vitality or vigor"
     ],
     "examples": [
-      "\"Less than 200 years ago, thousands upon thousands of quaggas roamed the grassy veld of southern Africa.\" (Sharon Begley, _Newsweek_, June 18, 1984)"
+      "The playwright explained that his work reflected the lethargy and inanition of the age."
     ],
-    "origin": "\"Veld\" (also spelled \"veldt\") comes from Afrikaans, the language of the Afrikaners, the descendants of the Dutch and Huguenot people who settled in southern Africa in the 17th century. Literally, \"veld\" means \"field,\" and is akin to \"feld,\" the Old English predecessor of \"field.\" English speakers adopted the Africa-specific sense of \"veld\" in the 19th century. \"Veld\" refers to open country in southern Africa. Different regions of \"veld\" are distinguished by their elevations. There is the Highveld, the Lowveld, and the Middle Veld, each with different geographical characteristics. Another term associated with \"veld\" is \"kopje\" (or “koppie” -- both are pronounced \\\\KAH-pee). This word came to English from Afrikaans (and ultimately from a Dutch word meaning \"small head\" or \"cup\") and refers to a small hill, particularly one on the African veld."
+    "origin": "\"Inanition\" describes a state of suffering from either a literal emptiness (of sustenance) or a metaphorical emptiness (of interest or energy). So it will probably come as no surprise to you to learn that the word ultimately derives from the same idea in Latin. \"Inanition,\" which first appeared in Middle English in the 14th century as \"in-anisioun,\" can be traced back to the Latin verb \"inanire,\" meaning \"to make empty,\" which in turn comes from \"inanis\" (meaning \"empty\" or \"inane\"). Incidentally, the English word \"inane\" was adopted in the mid-17th century directly from \"inanis.\""
   }
 }

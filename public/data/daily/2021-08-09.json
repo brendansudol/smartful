@@ -1,137 +1,118 @@
 {
   "artist": {
-    "id": "sol-le-witt",
-    "name": "Sol LeWitt",
-    "dates": "Sep 9, 1928 - Apr 8, 2007",
-    "mainImg": "img/art/artists/sol-le-witt.jpg",
+    "id": "johannes-gutenberg",
+    "name": "Johannes Gutenberg",
+    "dates": "Died Feb 3, 1468",
+    "mainImg": "img/art/artists/johannes-gutenberg.jpg",
     "artworkImgs": [
       {
-        "name": "Wall Drawing",
-        "path": "img/art/artworks/sol-le-witt-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/wall-drawing-sol-lewitt/vQE5aLIzF257kA"
+        "name": "Gutenberg-Bibel",
+        "path": "img/art/artworks/johannes-gutenberg-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/gutenberg-bibel-johannes-gutenberg/YgHfP2pCCmluVw"
       },
       {
-        "name": "3 x 4 x 6",
-        "path": "img/art/artworks/sol-le-witt-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/3-x-4-x-6-sol-lewitt-atribuído/mAGEpl6JJYEKJw"
+        "name": "Gutenberg Bible (selections), Volume 2",
+        "path": "img/art/artworks/johannes-gutenberg-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/gutenberg-bible-selections-volume-2-johann-gutenberg/WwGOiL8CDiU_xQ"
       },
       {
-        "name": "Wall Drawing #340",
-        "path": "img/art/artworks/sol-le-witt-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/wall-drawing-340-sol-lewitt/1QGtoVGtnea_Jg"
+        "name": "Lettre d’indulgence [pour l’expédition contre les Turcs et la défense de Chypre], [Mayence, Johannes Gutenberg, 1455]",
+        "path": "img/art/artworks/johannes-gutenberg-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/lettre-d’indulgence-pour-l’expédition-contre-les-turcs-et-la-défense-de-chypre-mayence-johannes-gutenberg-1455/-AGY5HuGL5zGpg"
       },
       {
-        "name": "Wal Drawing #999",
-        "path": "img/art/artworks/sol-le-witt-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/wal-drawing-999-sol-lewitt/YQETANakeA4m3Q"
+        "name": "Biblia Latina",
+        "path": "img/art/artworks/johannes-gutenberg-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/biblia-latina-johann-gutenberg/KgE03tLEqjpUfw"
       },
       {
-        "name": "Distorted Cubes Bozuk Küpler",
-        "path": "img/art/artworks/sol-le-witt-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/distorted-cubes-bozuk-küpler-sol-lewitt/qwGPe_hpyiQ1Yw"
-      },
-      {
-        "name": "Eight-Pointed Stars",
-        "path": "img/art/artworks/sol-le-witt-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/eight-pointed-stars-sol-lewitt/FwFOPCQKI19r1Q"
+        "name": "Gutenberg-Bibel",
+        "path": "img/art/artworks/johannes-gutenberg-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/gutenberg-bibel-johannes-gutenberg/2wG0nHh20ZxJpA"
       }
     ],
     "summary": [
-      "Solomon \"Sol\" LeWitt was an American artist linked to various movements, including Conceptual art and Minimalism.",
-      "LeWitt came to fame in the late 1960s with his wall drawings and \"structures\" but was prolific in a wide range of media including drawing, printmaking, photography, painting, installation, and artist's books. He has been the subject of hundreds of solo exhibitions in museums and galleries around the world since 1965. The first biography of the artist, Sol LeWitt: A Life of Ideas, by Lary Bloom, was published by Wesleyan University Press in the spring of 2019."
+      "Johannes Gensfleisch zur Laden zum Gutenberg was a German goldsmith, inventor, printer, and publisher who introduced printing to Europe with the printing press. His introduction of mechanical movable type printing to Europe started the Printing Revolution and is regarded as a milestone of the second millennium, ushering in the modern period of human history. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.",
+      "Gutenberg in 1439 was the first European to use movable type. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink for printing books; adjustable molds; mechanical movable type; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike."
     ],
-    "quote": "“You belong in the most secret part of you. Don’t worry about cool, make your own uncool. Make your own, your own world. If you fear, make it work for you—draw and paint your fear and anxiety.”",
-    "movements": [
-      "Contemporary art",
-      "Minimalism",
-      "Conceptual art",
-      "Modern art",
-      "Abstract art",
-      "Abstract expressionism"
-    ],
-    "mediums": ["Sculpture", "Vitreous enamel", "Metal", "Drawing", "Wood", "Acrylic paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Sol_LeWitt",
-    "urlGoogle": "https://artsandculture.google.com/entity/sol-lewitt/m03v9b1"
+    "quote": "“God suffers in the multitude of souls whom His word can not reach. Religious truth is imprisoned in a small number of manuscript books, which confine instead of spread the public treasure. Let us break the seal which seals up holy things and give wings to Truth in order that she may win every soul that comes into the world by her word no longer written at great expense by hands easily palsied, but multiplied like the wind by an untiring machine.”",
+    "movements": [],
+    "mediums": ["Book"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+    "urlGoogle": "https://artsandculture.google.com/entity/johannes-gutenberg/m04061"
   },
   "event": {
-    "id": "munich-massacre",
-    "name": "Munich massacre",
-    "dates": "Sep 5, 1972 - Sep 6, 1972",
-    "mainImg": "img/events/munich-massacre.jpg",
+    "id": "anglo-spanish-war",
+    "name": "Anglo-Spanish War",
+    "dates": "1762 - 1763",
+    "mainImg": "img/events/anglo-spanish-war.jpg",
     "summary": [
-      "The Munich massacre was an attack during the 1972 Summer Olympics in Munich, West Germany, in which the Palestinian terrorist group Black September took eleven Israeli Olympic team members hostage and killed them along with a West German police officer.",
-      "Shortly after the crisis began, a Black September spokesman demanded that 234 Palestinian prisoners jailed in Israel and the West German-held founders of the Red Army Faction, Andreas Baader and Ulrike Meinhof, be released. Black September called the operation \"Iqrit and Biram\", after two Palestinian Christian villages whose inhabitants were expelled by the Israel Defense Forces during the 1948 Arab-Israeli War. The Black September commander, Luttif Afif, was born to Jewish and Christian parents. His group was associated with secular nationalism, working for the rights of Palestinians in Israel. West German neo-Nazis gave the group logistical assistance.",
-      "Police officers killed five of the eight Black September members during a failed attempt to rescue the hostages. A West German policeman was also killed in the crossfire. The other three Palestinian hijackers were captured."
+      "The Anglo–Spanish War was a military conflict fought between Britain and Spain as part of the Seven Years' War. It lasted from January 1762 until February 1763 when the Treaty of Paris brought it to an end.",
+      "For most of the Seven Years' War, Spain remained neutral, turning down offers from the Kingdom of France to join the war on their side, but during the war's latter stages, the newly crowned King of Spain, Charles III, had signalled his intention to enter the war on the side of the French. After Charles had signed the family compact with France and seized British shipping alongside expelling British merchants, the British declared war on Spain. In August 1762, a British expedition captured Havana, then a month later the British took Manila. The loss of both the capitals of the Spanish West Indies and the Spanish East Indies represented a blow to Spanish prestige. Between May and November, three major Franco-Spanish invasions of Portugal were defeated and they were forced to withdraw with heavy losses inflicted by the Portuguese."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Munich_massacre",
-    "urlGoogle": "https://artsandculture.google.com/entity/munich-massacre/m058p6"
+    "urlWiki": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_%281762%E2%80%9363%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/anglo-spanish-war/m03x_gh9"
   },
   "funFacts": [
     {
-      "id": "472",
-      "fact": "A nautical mile is 800 feet longer than a land mile.",
-      "category": ["Definitions"]
+      "id": "73",
+      "fact": "The average person spends 2 weeks over his/her lifetime waiting for a traffic light to change.",
+      "category": ["Habits"]
     },
-    {
-      "id": "481",
-      "fact": "Over 50 percent of your body heat is lost through your head and neck.",
-      "category": ["Anatomy"]
-    }
+    { "id": "271", "fact": "Dim lights reduce your appetite.", "category": ["Anatomy"] }
   ],
   "funFacts2": [
-    {
-      "id": "553733",
-      "fact": "The boiling point for water at the top of Mt. Everest is 162°F, about 50 degrees below the boiling point at sea level."
-    }
+    { "id": "553539", "fact": "Newborn babies have nearly 100 more bones than full-grown adults." }
   ],
   "idiom": {
-    "id": "take-umbrage",
-    "term": "take umbrage",
-    "definition": "Feel resentment, take offense, as in *Aunt Agatha is quick to take umbrage at any suggestion to do things differently.* This expression features one of the rare surviving uses of *umbrage,* which now means \"resentment\" but comes from the Latin *umbra,* for \"shade,\" and presumably alludes to the \"shadow\" of displeasure. [Late 1600s]"
+    "id": "rule-the-roost",
+    "term": "rule the roost",
+    "definition": "Be in charge, boss others, as in *In our division the chairman's son rules the roost.* This expression originated in the 15th century as *rule the roast,* which was either a corruption of *rooster* or alluded to the person who was in charge of the roast and thus ran the kitchen. In the barnyard a rooster decides which hen should roost near him. Both interpretations persisted for 200 years. Thomas Heywood (c. 1630) put it as \"Her that ruled the roast in the kitchen,\" but Shakespeare had it in *2 Henry VI* (1:1): \"The new-made duke that rules the roast,\" which is more ambiguous. In the mid-1700s *roost* began to compete with *roast,* and in the 1900s *roost* displaced *roast* altogether."
   },
   "person": {
-    "id": "edvard-benes",
-    "name": "Edvard Beneš",
-    "dates": "May 28, 1884 - Sep 3, 1948",
-    "mainImg": "img/people/edvard-benes.jpg",
+    "id": "victor-emmanuel-iii-of-italy",
+    "name": "Victor Emmanuel III of Italy",
+    "dates": "Nov 11, 1869 - Dec 28, 1947",
+    "mainImg": "img/people/victor-emmanuel-iii-of-italy.jpg",
     "summary": [
-      "Edvard Beneš, sometimes anglicised to Edward Benesh, was a Czech politician and statesman who was President of Czechoslovakia from 1935 to 1938 and again from 1945 to 1948. He also led the Czechoslovak government-in-exile 1939 to 1945, during World War II. As President, Beneš faced two major crises which both resulted in his resignation.",
-      "His first resignation came after the Munich Agreement and subsequent German occupation of Czechoslovakia in 1938, which brought his government into exile in the United Kingdom. The second came about with the 1948 communist coup, which created a communist regime. Before his time as President, Beneš was also the first Minister of Foreign Affairs and the fourth Prime Minister of Czechoslovakia. A member of the Czechoslovak National Social Party, he was known as a skilled diplomat."
+      "Victor Emmanuel III reigned as King of Italy from 29 July 1900 until his abdication on 9 May 1946. In addition, he held the thrones of Ethiopia and Albania as Emperor of Ethiopia and King of the Albanians. During his reign of nearly 46 years, which began after the assassination of his father Umberto I, the Kingdom of Italy became involved in two world wars. His reign also encompassed the birth, rise, and fall of Italian Fascism and its regime.",
+      "During the First World War, Victor Emmanuel III accepted the resignation of Prime Minister Paolo Boselli and named Vittorio Emanuele Orlando in his place. Following the March on Rome, he appointed Benito Mussolini as Prime Minister and later deposed him in 1943 during the Allied invasion of Italy of the Second World War.",
+      "Victor Emmanuel abdicated his throne in 1946 in favour of his son Umberto II, hoping to strengthen support for the monarchy against an ultimately successful referendum to abolish it. He then went into exile to Alexandria, Egypt, where he died and was buried the following year in Saint Catherines's Cathedral of Alexandria."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Edvard_Bene%C5%A1",
-    "urlGoogle": "https://artsandculture.google.com/entity/edvard-beneš/m01l0gq"
+    "urlWiki": "https://en.wikipedia.org/wiki/Victor_Emmanuel_III_of_Italy",
+    "urlGoogle": "https://artsandculture.google.com/entity/victor-emmanuel-iii-of-italy/m0j53d"
   },
   "place": {
-    "id": "istanbul",
-    "name": "İstanbul",
-    "mainImg": "img/places/istanbul.jpg",
+    "id": "gdynia",
+    "name": "Gdynia",
+    "mainImg": "img/places/gdynia.jpg",
     "summary": [
-      "Istanbul, formerly known as Byzantium and Constantinople, is the most populous city in Turkey and the country's economic, cultural and historic center. Istanbul is a transcontinental city in Eurasia, straddling the Bosporus strait between the Sea of Marmara and the Black Sea. Its commercial and historical center lies on the European side and about a third of its population lives in suburbs on the Asian side of the Bosporus. With a total population of around fifteen million residents in its metropolitan area, Istanbul is one of the world's largest cities by population, ranking as the world's seventh-largest city proper and the largest city in Europe. The city is the administrative centre of the Istanbul Metropolitan Municipality.",
-      "Founded under the name of Byzantion on the Sarayburnu promontory around 660 BCE, the city grew in size and influence, becoming one of the most important cities in history. After its reestablishment as Constantinople in 330 CE, it served as an imperial capital for almost sixteen centuries, during the Roman/Byzantine, Latin, Palaiologos Byzantine and Ottoman empires."
+      "Gdynia is a city in northern Poland. Located on Gdańsk Bay on the southern coast of the Baltic Sea, it is the second largest city in Pomeranian Voivodeship after Gdańsk and a major seaport. Gdynia has a population of c. 246,000, which makes it the twelfth-largest city in Poland. It is part of a conurbation with the spa town of Sopot, the city of Gdańsk and suburban communities, which together form a metropolitan area called the Tricity, with a population of over 1,000,000 people.",
+      "Historically and culturally part of Kashubia in Eastern Pomerania, Gdynia for centuries remained a small farming and fishing village. At the beginning of the 20th-century Gdynia became a seaside resort town and experienced an inflow of tourists. This triggered an increase in local population. After Poland regained its independence in 1918, a decision was made to construct a Polish seaport in Gdynia, between the Free City of Danzig and German Pomerania, making Gdynia a primary economic hub. In 1926 Gdynia was granted city rights, after which it experienced a rapid demographic and architectural development."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Istanbul",
-    "urlGoogle": "https://artsandculture.google.com/entity/i̇stanbul/m09949m"
+    "urlWiki": "https://en.wikipedia.org/wiki/Gdynia",
+    "urlGoogle": "https://artsandculture.google.com/entity/gdynia/m03b4d"
   },
   "wiki": {
-    "id": "jogaila",
-    "name": "Jogaila",
-    "summary": "Jogaila was a Grand Duke of Lithuania and King of Poland. He ruled in Lithuania from 1377, at first with his uncle, Kęstutis. In 1386, he converted to Christianity, was baptized as Władysław, married the eleven-year-old Queen Jadwiga of Poland, and was crowned Polish king as Władysław Jagiełło. His reign in Poland lasted a further forty-eight years and laid the foundation for the centuries long Polish-Lithuanian union. He gave his name to the Jagiellon branch of the Gediminids dynasty which ruled both states until 1572, and became one of the most influential dynasties in medieval Europe. Jogaila was the last pagan ruler of medieval Lithuania. He held the title Didysis Kunigaikštis. As King of Poland, he pursued a policy of close alliances with Lithuania against the Teutonic Order. The allied victory at the Battle of Grunwald in 1410, followed by the First Peace of Toruń, secured the Polish and Lithuanian borders and marked the emergence of the Polish-Lithuanian alliance as a major European force. The reign of Władysław II Jagiełło extended Polish frontiers and is often considered the beginning of Poland's \"Golden Age\".",
-    "url": "https://en.wikipedia.org/wiki/Jogaila"
+    "id": "zinc",
+    "name": "Zinc",
+    "summary": "Zinc is a metallic chemical element with atomic number 30. It is a first-row transition metal in group 12 of the periodic table. Zinc is, in some respects, chemically similar to magnesium because its ion is of similar size and its only common oxidation state is +2. Zinc is the 24th most abundant element in the Earth's crust and has five stable isotopes. The most exploited zinc ore is sphalerite, a zinc sulfide; the largest exploitable deposits are found in Australia, Canada and the United States. Brass, which is an alloy of copper and zinc, has been used since at least the 10th century BC. German chemist Andreas Sigismund Marggraf is normally given credit for discovering pure metallic zinc in a 1746 experiment. Work by Luigi Galvani and Alessandro Volta uncovered the electrochemical properties of zinc by 1800. Corrosion-resistant zinc plating of steel is the major application for zinc. Other applications are in batteries and alloys, such as brass. Zinc is an essential mineral of \"exceptional biologic and public health importance\". Zinc deficiency affects about two billion people in the developing world and is associated with many diseases.",
+    "url": "https://en.wikipedia.org/wiki/Zinc"
   },
   "word": {
-    "id": "syllabub",
-    "word": "syllabub",
-    "url": "https://www.merriam-webster.com/dictionary/syllabub",
+    "id": "cupidity",
+    "word": "cupidity",
+    "url": "https://www.merriam-webster.com/dictionary/cupidity",
     "partOfSpeech": "noun",
-    "pronunciation": "SILL-uh-bub",
-    "audioPath": "audio/words/syllabub.mp3",
-    "definitions": [
-      "milk or cream that is curdled with an acid beverage (as wine or cider) and often sweetened and served as a drink or topping or thickened with gelatin and served as a dessert"
+    "pronunciation": "kyoo-PID-uh-tee",
+    "audioPath": "audio/words/cupidity.mp3",
+    "definitions": ["inordinate desire for wealth : avarice, greed", "strong desire : lust"],
+    "examples": [
+      "\"This time, developing-world economies far from the pinstriped epicentres of mass cupidity are suffering massive collateral damage as the global downturn cuts heavily into demand for their agricultural and resource commodities.\" (David Olive, _The Toronto Star_, March 29, 2009)"
     ],
-    "examples": ["On special occasions, grandma would serve syllabub for dessert."],
-    "origin": "Syllabub's a concoction whose name has had almost as many variations as there are versions of how to make it: \"solybubbe,\" \"sullabub,\" \"sullibib,\" \"sellibub,\" \"sallibube,\" \"sillie bube,\" \"sillybob\" -- even \"sillibucke\" and \"silly-bauk\" in some dialects. There are theories about the word's origins, but no one knows for sure where the name came from. (There's no connection to \"silly,\" as far as we know, though imbibing it might make one act that way.) We do know that both the name \"syllabub\" and the concoction itself go back to at least the 16th century. Today, we're more likely to encounter \"syllabub\" in a historical novel than on the menu at a local drinking spot, at least in the United States, but those fortunate enough to taste the drink/dessert often give it rave reviews."
+    "origin": "From its verb \"cupere\" (\"to desire\") Latin derived three nouns which have passed with minimal modification into English. \"Cupiditas\" meant \"yearning\" and \"desire\"; English borrowed this as \"cupidity,\" which originally in the 15th century was synonymous with \"lust.\" (The \"greed\" meaning of \"cupidity\" developed very soon after this other now-archaic meaning.) Latin \"cupido\" started out as a near synonym of \"cupiditas,\" but it came to stand for the personification of specifically carnal desire, the counterpart of Greek \"eros\"; this is the source of our familiar (and rather domesticated) Cupid. A strengthened form of \"cupere\" -- \"concupiscere,\" meaning \"to desire ardently\" -- yielded the noun \"concupiscentia\" in the Late Latin of the Christian church. \"Concupiscentia\" came specially to denote sexual desire, a meaning reflected in the English version \"concupiscence,\" meaning \"sexual desire.\""
   }
 }

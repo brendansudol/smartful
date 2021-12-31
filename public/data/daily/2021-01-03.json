@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "alfred-sisley",
+    "name": "Alfred Sisley",
+    "dates": "Oct 30, 1839 - Jan 29, 1899",
+    "mainImg": "img/art/artists/alfred-sisley.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Bridge at Villeneuve-la-Garenne",
+        "path": "img/art/artworks/alfred-sisley-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bridge-at-villeneuve-la-garenne-alfred-sisley/6AEoMBEEGYcIRA"
+      },
+      {
+        "name": "La Seine au point du jour",
+        "path": "img/art/artworks/alfred-sisley-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/la-seine-au-point-du-jour-alfred-sisley/4AGGTlD8Alx3gg"
+      },
+      {
+        "name": "Molesey Weir, Hampton Court",
+        "path": "img/art/artworks/alfred-sisley-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/molesey-weir-hampton-court-alfred-sisley/1AHPRPadPs05WQ"
+      },
+      {
+        "name": "June Morning in Saint-Mammès",
+        "path": "img/art/artworks/alfred-sisley-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/june-morning-in-saint-mammès-alfred-sisley/wgEU6hw2LyqX6Q"
+      },
+      {
+        "name": "Le Pont de Moret, effet d’orage",
+        "path": "img/art/artworks/alfred-sisley-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/le-pont-de-moret-effet-d’orage-alfred-sisley/hAH8DtHacv61Yw"
+      },
+      {
+        "name": "Cows in Pasture, Louveciennes",
+        "path": "img/art/artworks/alfred-sisley-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cows-in-pasture-louveciennes-sisley-alfred/wwFkc0aGM1-pgw"
+      }
+    ],
+    "summary": [
+      "Alfred Sisley was an Impressionist landscape painter who was born and spent most of his life in France, but retained British citizenship. He was the most consistent of the Impressionists in his dedication to painting landscape en plein air. He deviated into figure painting only rarely and, unlike Renoir and Pissarro, found that Impressionism fulfilled his artistic needs.",
+      "Among his important works are a series of paintings of the River Thames, mostly around Hampton Court, executed in 1874, and landscapes depicting places in or near Moret-sur-Loing. The notable paintings of the Seine and its bridges in the former suburbs of Paris are like many of his landscapes, characterized by tranquillity, in pale shades of green, pink, purple, dusty blue and cream. Over the years Sisley's power of expression and colour intensity increased."
+    ],
+    "quote": "“The animation of the canvas is one of the hardest problems of painting.”",
+    "movements": ["Impressionism", "Modern art"],
+    "mediums": ["Oil paint", "Drawing", "Graphite", "Etching", "Crayon"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alfred_Sisley",
+    "urlGoogle": "https://artsandculture.google.com/entity/alfred-sisley/m01qpyr"
+  },
+  "event": {
+    "id": "hurricane-michael",
+    "name": "Hurricane Michael",
+    "dates": "Oct 7, 2018 - Oct 16, 2018",
+    "mainImg": "img/events/hurricane-michael.jpg",
+    "summary": [
+      "Hurricane Michael was a very powerful and destructive tropical cyclone that became the first Category 5 hurricane to strike the contiguous United States since Andrew in 1992. In addition, it was the third-most intense Atlantic hurricane to make landfall in the contiguous United States in terms of pressure, behind the 1935 Labor Day hurricane and Hurricane Camille in 1969. It was the first Category 5 hurricane on record to impact the Florida Panhandle, the fourth-strongest landfalling hurricane in the contiguous United States, in terms of wind speed, and was the most intense hurricane on record to strike the United States in the month of October.",
+      "The thirteenth named storm, seventh hurricane, and second major hurricane of the 2018 Atlantic hurricane season, Michael originated from a broad low-pressure area that formed in the southwestern Caribbean Sea on October 1. The disturbance became a tropical depression on October 7, after nearly a week of slow development. By the next day, Michael had intensified into a hurricane near the western tip of Cuba, as it moved northward. The hurricane rapidly intensified in the Gulf of Mexico, reaching major hurricane status on October 9."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hurricane_Michael",
+    "urlGoogle": "https://artsandculture.google.com/entity/hurricane-michael/g11fd564xxl"
+  },
+  "funFacts": [
+    {
+      "id": "245",
+      "fact": "The first typewriter was called the \"literary piano.\"",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "864",
+      "fact": "Taft was the heaviest U.S. President at 329lbs; Madison was the smallest at 100lbs.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [{ "id": "504872", "fact": "Sharks have existed longer than trees." }],
+  "idiom": {
+    "id": "three-rs",
+    "term": "three R's",
+    "definition": "The fundamentals of education, as in *It's a terrible school; the children are not even taught the three R's.* It is widely believed that Sir William Curtis, an alderman who became Lord Mayor of London, once presented a toast to the three R's---reading, riting, and rithmetic---thereby betraying his illiteracy. In any event, the term was picked up by others and so used from the early 1800s on."
+  },
+  "person": {
+    "id": "salah-al-din-al-bitar",
+    "name": "Salah al-Din al-Bitar",
+    "dates": "Jan 1, 1912 - Jul 21, 1980",
+    "mainImg": "img/people/salah-al-din-al-bitar.jpg",
+    "summary": [
+      "Salah al-Din al-Bitar was a Syrian politician who co-founded the Arab Ba'ath Party with Michel Aflaq in the early 1940s. As students in Paris in the early 1930s, the two formulated a doctrine that combined aspects of nationalism and socialism. Bitar later served as prime minister in several early Ba'athist governments in Syria but became alienated from the party as it grew more radical. In 1966 he fled the country, lived mostly in Europe and remained politically active until he was assassinated in 1980."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Salah_al-Din_al-Bitar",
+    "urlGoogle": "https://artsandculture.google.com/entity/salah-al-din-al-bitar/m05txq5"
+  },
+  "place": {
+    "id": "donetsk",
+    "name": "Donetsk",
+    "mainImg": "img/places/donetsk.jpg",
+    "summary": [
+      "Donetsk, formerly known as Aleksandrovka, Hughesovka, Yuzovka, Stalin and Stalino, is an industrial city located on the Kalmius River in the disputed Donestk region. It is claimed by Ukraine and by the unrecognized Donetsk People's Republic which claims it as its capital city. The population was estimated at 929,063 in the city core, with over 2,000,000 in the metropolitan area. According to the 2001 Ukrainian Census, Donetsk was the fifth-largest city in Ukraine.",
+      "Administratively, Donetsk has been the centre of Donetsk Oblast, while historically, it is the unofficial capital and largest city of the larger economic and cultural Donets Basin region. Donetsk is adjacent to another major city, Makiivka, and along with other surrounding cities forms a major urban sprawl and conurbation in the region. Donetsk has been a major economic, industrial and scientific centre of Ukraine with a high concentration of heavy industries and a skilled workforce. The density of heavy industries determined the city's challenging ecological situation. In 2012 a UN report ranked Donetsk among the world's fastest depopulating cities."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Donetsk",
+    "urlGoogle": "https://artsandculture.google.com/entity/donetsk/m02qbpd"
+  },
+  "quote": {
+    "id": "37",
+    "quote": "The difference between successful people and really successful people is that really successful people say no to almost everything.",
+    "author": "Warren Buffett"
+  },
+  "wiki": {
+    "id": "game-theory",
+    "name": "Game theory",
+    "summary": "Game theory is a branch of applied mathematics that studies strategic situations where players choose different actions in an attempt to maximize their returns. First developed as a tool for understanding economic behavior, game theory is now used in many diverse academic fields, ranging from biology to philosophy. The most famous of game theory games is the prisoner's dilemma, which pits self-interest against mutual benefit. In addition to its academic interest, game theory has received attention in popular culture. A game theorist, John Nash, was the subject of the 2001 film A Beautiful Mind. Several game shows have adopted game theoretic situations, including Friend or Foe and Deal or No Deal.",
+    "url": "https://en.wikipedia.org/wiki/Game_theory"
+  },
+  "word": {
+    "id": "calliope",
+    "word": "calliope",
+    "url": "https://www.merriam-webster.com/dictionary/calliope",
+    "partOfSpeech": "noun",
+    "pronunciation": "kuh-LYE-uh-pee",
+    "audioPath": "audio/words/calliope.mp3",
+    "definitions": [
+      "the Greek Muse of heroic poetry",
+      "a keyboard musical instrument resembling an organ and consisting of a series of whistles sounded by steam or compressed air"
+    ],
+    "examples": [
+      "\"For the first time in 3½ years, the musical tones of a riverboat _calliope_ will be heard on the Henderson riverfront come Monday morning.\" - From an article by Donna B. Stinnett in the _Henderson_ (Kentucky) _Gleaner_, April 29, 2012",
+      "\"Other predictably Beatles-esque touches abound on this handsomely mounted but unexciting effort. You get trumpet squalls, _calliope_ sounds, and [Mellotron](https://www.merriam-webster.com/dictionary/mellotron)\\-ish keyboards in 'The Death of You and Me,' which, ominous title aside, turns out to be 'Penny Lane'-level jaunty.\" - From an album review by Chris Willman on Reuters.com, November 8, 2011"
+    ],
+    "origin": "With a name literally meaning \"beautiful-voiced\" (from \"kallos,\" meaning \"beauty,\" and \"ops,\" meaning \"voice\"), Calliope was the most prominent of the Muses-the nine sister goddesses who in Greek mythology presided over poetry, song, and the arts and sciences. She is represented in art as holding an epic poem in one hand and a trumpet in the other. The musical instrument invented and patented in the 1850s, played by forcing steam or compressed air through a series of whistles, was named after the goddess. Because its sound could be heard for miles around, the calliope was effective in luring patrons to river showboats, circuses, and carnivals, which is why the instrument continues its association with such attractions today."
+  }
+}

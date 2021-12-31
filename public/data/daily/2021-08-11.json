@@ -1,135 +1,128 @@
 {
   "artist": {
-    "id": "georges-de-la-tour",
-    "name": "Georges de La Tour",
-    "dates": "March 1593 - Jan 30, 1652",
-    "mainImg": "img/art/artists/georges-de-la-tour.jpg",
+    "id": "karl-friedrich-schinkel",
+    "name": "Karl Friedrich Schinkel",
+    "dates": "Mar 13, 1781 - Oct 9, 1841",
+    "mainImg": "img/art/artists/karl-friedrich-schinkel.jpg",
     "artworkImgs": [
       {
-        "name": "The Penitent Magdalen",
-        "path": "img/art/artworks/georges-de-la-tour-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-penitent-magdalen-georges-de-la-tour/9AEgVQruXY36cw"
+        "name": "The cupola of the Rotunda in the Altes Museum",
+        "path": "img/art/artworks/karl-friedrich-schinkel-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-cupola-of-the-rotunda-in-the-altes-museum-karl-friedrich-schinkel/TQExBUkTI-yUaQ"
       },
       {
-        "name": "The Fortune-Teller",
-        "path": "img/art/artworks/georges-de-la-tour-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-fortune-teller-georges-de-la-tour/rwFHv6aEIvb0uw"
+        "name": "Gothic Church on a Rock by the Sea",
+        "path": "img/art/artworks/karl-friedrich-schinkel-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/gothic-church-on-a-rock-by-the-sea-karl-friedrich-schinkel/9QEsDwDER2_ubQ"
       },
       {
-        "name": "The Cheat with the Ace of Diamonds",
-        "path": "img/art/artworks/georges-de-la-tour-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-cheat-with-the-ace-of-diamonds-georges-de-la-tour-1493-1652-musée-du-louvre/bgHzypSr-csCyw"
+        "name": "Table",
+        "path": "img/art/artworks/karl-friedrich-schinkel-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/table-karl-friedrich-schinkel-august-von-kloeber-gottfried-wilhelm-voelker-bronzeure-werner-und-neffen-royal-porcelain-manufactory-berlin/WQESezS_-SUbcw"
       },
       {
-        "name": "Smoker",
-        "path": "img/art/artworks/georges-de-la-tour-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/smoker-la-tour-georges-de/PwFjC8tKrzP36A"
+        "name": "Gate in the rocks",
+        "path": "img/art/artworks/karl-friedrich-schinkel-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/gate-in-the-rocks-karl-friedrich-schinkel/xwEjBD-EYxJ9Cg"
       },
       {
-        "name": "The Fortune Teller",
-        "path": "img/art/artworks/georges-de-la-tour-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-fortune-teller/pwH9NtM23f0sQQ"
+        "name": "Castle by the River",
+        "path": "img/art/artworks/karl-friedrich-schinkel-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/castle-by-the-river-karl-friedrich-schinkel/dAHSkGcTVsXo4Q"
       },
       {
-        "name": "The Cheat with the Ace of Clubs",
-        "path": "img/art/artworks/georges-de-la-tour-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-cheat-with-the-ace-of-clubs-georges-de-la-tour/eAHsvdrPzFNGFQ"
+        "name": "Morning",
+        "path": "img/art/artworks/karl-friedrich-schinkel-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/morning-karl-friedrich-schinkel/MQHTxdgNy4_5Gg"
       }
     ],
     "summary": [
-      "Georges de La Tour was a French Baroque painter, who spent most of his working life in the Duchy of Lorraine, which was temporarily absorbed into France between 1641 and 1648. He painted mostly religious chiaroscuro scenes lit by candlelight."
+      "Karl Friedrich Schinkel was a Prussian architect, city planner, and painter who also designed furniture and stage sets. Schinkel was one of the most prominent architects of Germany and designed both neoclassical and neogothic buildings. His most famous buildings are found in and around Berlin."
     ],
     "quote": null,
-    "movements": [
-      "Baroque",
-      "Realism",
-      "Modern art",
-      "Antwerp school",
-      "Impressionism",
-      "Modernism"
-    ],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Georges_de_La_Tour",
-    "urlGoogle": "https://artsandculture.google.com/entity/georges-de-la-tour/m03n0lt"
+    "movements": [],
+    "mediums": ["Drawing", "Graphite", "Ink", "Pen", "Watercolor painting", "Feather"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Karl_Friedrich_Schinkel",
+    "urlGoogle": "https://artsandculture.google.com/entity/karl-friedrich-schinkel/m01snw0"
   },
   "event": {
-    "id": "philadelphia-liberty-loans-parade",
-    "name": "Philadelphia Liberty Loans Parade",
-    "dates": null,
-    "mainImg": "img/events/philadelphia-liberty-loans-parade.jpg",
+    "id": "united-nations-operation-in-the-congo",
+    "name": "United Nations Operation in the Congo",
+    "dates": "Jul 14, 1960",
+    "mainImg": "img/events/united-nations-operation-in-the-congo.jpg",
     "summary": [
-      "The Philadelphia Liberty Loans Parade was a parade in Philadelphia, Pennsylvania, on September 28, 1918, organized to promote government bonds that helped pay for the needs of Allied troops in World War I. More than 200,000 Philadelphians attended the parade, which led to one of the largest outbreaks of the Spanish flu in the United States. It has since been declared the deadliest parade in American history.",
-      "The parade and its aftermath received significant media attention in March 2020 during the COVID-19 pandemic, to exemplify the importance of banning large gatherings and enforcing social distancing during a pandemic."
+      "The United Nations Operation in the Congo was a peacekeeping force established by the United Nations to maintain order in the Republic of the Congo on 14 July 1960 amid the Congo Crisis. ONUC was the UN's first peacekeeping mission with significant military capabilities. It was withdrawn in 1964.",
+      "Following Security Council actions, the United Nations Organisation in the Congo was established. To carry out these tasks, the Secretary-General set up a United Nations Force—at its peak strength numbering nearly 20,000. The UN Force stayed in the Congo between 1960 and 1964, and underwent a transition from a peacekeeping presence to a military force.",
+      "ONUC's main goals stayed consistent from the first to fifth resolution. It aimed to both have Belgian military personnel withdrawn and to provide military assistance to ensure internal stability. The successive Security Council resolutions added to and elaborated on the initial mandate but did not fundamentally change the operation's objectives. These were especially significant because Belgium's invasion violated the norm of sovereignty, and the second objective was set to prevent the country from becoming a Cold War client state."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Philadelphia_Liberty_Loans_Parade",
-    "urlGoogle": "https://artsandculture.google.com/entity/philadelphia-liberty-loans-parade/g11ft3c_vrk"
+    "urlWiki": "https://en.wikipedia.org/wiki/United_Nations_Operation_in_the_Congo",
+    "urlGoogle": "https://artsandculture.google.com/entity/united-nations-operation-in-the-congo/m06vfpl"
   },
   "funFacts": [
     {
-      "id": "184",
-      "fact": "The most used letters in the English language are E, T, A, O, I and N.",
-      "category": ["Hodgepodge"]
+      "id": "88",
+      "fact": "A ten gallon hat holds less than one gallon of liquid.",
+      "category": ["Science"]
     },
     {
-      "id": "178",
-      "fact": "The first ballpoint pens were sold in 1945 for $12.00.",
-      "category": ["Firsts"]
+      "id": "389",
+      "fact": "In the U.S., all interstate highways that run east to west are even-numbered.",
+      "category": ["Geography"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "554050",
-      "fact": "The Palais Idéal in France is built entirely of stones a postman named Ferdinand Cheval picked up on his mail route."
-    }
-  ],
+  "funFacts2": [{ "id": "554036", "fact": "The heads on Easter Island have bodies." }],
   "idiom": {
-    "id": "build-on-sand",
-    "term": "build on sand",
-    "definition": "Use an unstable foundation, as in *If you buy nothing but high-risk stocks, your portfolio will be built on sand.* This metaphor appears in the New Testament, where Jesus likens those who do not heed his sayings to a foolish man who builds his house on sand, which then is washed away by rain, flood, and wind (Matthew 7:24--27). [c. 1600]"
+    "id": "tan-someones-hide",
+    "term": "tan someone's hide",
+    "definition": "Also, **have someone's hide.** Spank or beat someone, as in *Dad said he'd tan Billy's hide if he caught him smoking,* or *I'll have your hide if you take something without paying for it.* This term uses *hide* in the sense of \"skin.\" The allusion in the first expression is to a spanking that will change one's skin just as chemicals tan animal hide (convert it into leather). [Second half of 1600s]"
   },
   "person": {
-    "id": "harriet-lane",
-    "name": "Harriet Lane",
-    "dates": "May 9, 1830 - Jul 3, 1903",
-    "mainImg": "img/people/harriet-lane.jpg",
+    "id": "elizabeth-i-of-england",
+    "name": "Elizabeth I of England",
+    "dates": "Sep 7, 1533 - Mar 24, 1603",
+    "mainImg": "img/people/elizabeth-i-of-england.jpg",
     "summary": [
-      "Harriet Rebecca Lane Johnston acted as First Lady of the United States during the presidency of her uncle, lifelong bachelor James Buchanan, from 1857 to 1861. Lane is among eleven women who have served as First Lady, but were not married to the President, with most of the other women being relatives of widowed presidents.",
-      "In appearance \"Hal\" Lane was of medium height, with masses of light, almost golden-colored hair. She had eyes that were described as \"violet colored\"."
+      "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death on 24 March 1603. Sometimes called the Virgin Queen, Gloriana or Good Queen Bess, Elizabeth was the last of the five monarchs of the House of Tudor.",
+      "Elizabeth was the daughter of Henry VIII and Anne Boleyn, his second wife, who was executed two-and-a-half years after Elizabeth's birth. Anne's marriage to Henry VIII was annulled, and Elizabeth was declared illegitimate. Her half-brother, Edward VI, ruled until his death in 1553, bequeathing the crown to Lady Jane Grey and ignoring the claims of his two half-sisters, the Roman Catholic Mary and the younger Elizabeth, in spite of statute law to the contrary. Edward's will was set aside and Mary became queen, deposing Lady Jane Grey. During Mary's reign, Elizabeth was imprisoned for nearly a year on suspicion of supporting Protestant rebels.",
+      "In 1558 upon Mary's death, Elizabeth succeeded her half-sister to the throne and set out to rule by good counsel. She depended heavily on a group of trusted advisers, led by William Cecil, 1st Baron Burghley."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Harriet_Lane",
-    "urlGoogle": "https://artsandculture.google.com/entity/harriet-lane/m025sh0"
+    "quote": "“I do not so much rejoice that God hath made me to be a Queen, as to be a Queen over so thankful a people.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Elizabeth_I",
+    "urlGoogle": "https://artsandculture.google.com/entity/elizabeth-i-of-england/m02rg_"
   },
   "place": {
-    "id": "galway",
-    "name": "Galway",
-    "mainImg": "img/places/galway.jpg",
+    "id": "kiel",
+    "name": "Kiel",
+    "mainImg": "img/places/kiel.jpg",
     "summary": [
-      "Galway is a city in County Galway in the West of Ireland, in the province of Connacht. It lies on the River Corrib between Lough Corrib and Galway Bay, and is the sixth most populous city in Ireland, with a population at the 2016 Census of 79,934.",
-      "Galway is renowned for its vibrant lifestyle and for hosting numerous festivals, celebrations and events such as The Galway Arts Festival. In 2018, it was named the European Region of Gastronomy. The city is currently the European Capital of Culture for 2020, alongside Rijeka, Croatia."
+      "Kiel is the capital and most populous city in the northern German state of Schleswig-Holstein, with a population of 249,023.",
+      "Kiel lies approximately 90 kilometres north of Hamburg. Due to its geographic location in the north of Germany, the southeast of the Jutland peninsula and the southwestern shore of the Baltic Sea, Kiel has become one of the major maritime centres of Germany. For instance, the city is known for a variety of international sailing events, including the annual Kiel Week, which is the biggest sailing event in the world. Kiel is also known within modern history for the Kiel Mutiny, where German sailors refused to board Navy vessels in protest against Germany's continued fighting in World War I which led to the abdication of the Kaiser and the formation of the Weimar Republic. The Olympic sailing competitions of the 1936 and the 1972 Summer Olympics were held in the Bay of Kiel.",
+      "Kiel has also been one of the traditional homes of the German Navy's Baltic fleet, and continues to be a major high-tech shipbuilding centre. Located in Kiel is the GEOMAR - Helmholtz Centre for Ocean Research Kiel at the University of Kiel."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Galway",
-    "urlGoogle": "https://artsandculture.google.com/entity/galway/m0m__z"
+    "urlWiki": "https://en.wikipedia.org/wiki/Kiel",
+    "urlGoogle": "https://artsandculture.google.com/entity/kiel/m0g7pm"
   },
   "wiki": {
-    "id": "marshall-plan",
-    "name": "Marshall Plan",
-    "summary": "The Marshall Plan was the primary plan of the United States for rebuilding Europe after World War II. The initiative was named for United States Secretary of State George Marshall and was largely the creation of State Department officials, especially William L. Clayton and George F. Kennan. The reconstruction plan was developed at a meeting of the participating European states in July 1947. The Soviet Union and the states of Eastern Europe were invited, but Joseph Stalin saw the plan as a threat and did not allow the participation of any countries under Soviet control. The plan was in operation for four fiscal years beginning in July 1947. During that period some $13 billion of economic and technical assistance — equivalent to around $130 billion in 2006, when adjusted for inflation — was given to help the recovery of the European countries which had joined in the Organization for European Economic Cooperation. By the time the plan had come to completion, the economy of every participant state, with the exception of Germany, had grown well past prewar levels. Over the next two decades Western Europe as a whole would enjoy unprecedented growth and prosperity.",
-    "url": "https://en.wikipedia.org/wiki/Marshall_Plan"
+    "id": "persoonia-lanceolata",
+    "name": "Persoonia lanceolata",
+    "summary": "Persoonia lanceolata, commonly known as lance-leaf geebung, is a shrub native to New South Wales in eastern Australia. It reaches 3 m (9.8 ft) in height and has smooth grey bark and bright green foliage. Its small yellow flowers grow on racemes and appear in the austral summer and autumn (January to April), followed by green fleshy fruit (known as drupes) which ripen the following spring (September to October). Within the genus Persoonia, Persoonia lanceolata belongs to the lanceolata group of 58 closely related species. It interbreeds with several other species found in its range. The species is usually found in dry sclerophyll forest on sandstone-based nutrient-deficient soil. It has adapted to a fire-prone environment; plants lost in bushfires can regenerate through a ground-stored seed bank. Seedlings mostly germinate within two years of fires. Several species of native bee of the genus Leioproctus pollinate the flowers. Swamp wallabies are a main consumer of its fruit, and the seeds are spread in wallaby scat. Its lifespan ranges from 25 to 60 years, though difficulties in propagation have seen low cultivation rates.",
+    "url": "https://en.wikipedia.org/wiki/Persoonia_lanceolata"
   },
   "word": {
-    "id": "soupcon",
-    "word": "soupçon",
-    "url": "https://www.merriam-webster.com/dictionary/soupçon",
+    "id": "prolegomenon",
+    "word": "prolegomenon",
+    "url": "https://www.merriam-webster.com/dictionary/prolegomenon",
     "partOfSpeech": "noun",
-    "pronunciation": "soop-SAWNG (the final NG is not pronounced, but the vowel is nas",
-    "audioPath": "audio/words/soupcon.mp3",
-    "definitions": ["a little bit : trace"],
-    "examples": [
-      "The author makes the protagonist seem more human by infusing a bit of vanity, a touch of greed, and a soupçon of self-doubt into his otherwise exceptional character."
+    "pronunciation": "proh-lih-GAH-muh-nahn",
+    "audioPath": "audio/words/prolegomenon.mp3",
+    "definitions": [
+      "prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work"
     ],
-    "origin": "Culinary enthusiasts may think \"soupçon\" originated with a dash of garlic in the coq au vin or a splash of vanilla in the crème anglaise, but the etymology of the word has more to do with inklings and suspicions than with food. Sometime in the 18th century, English speakers borrowed \"soupçon\" from the French, who were using the word to mean \"drop,\" \"touch,\" or \"suspicion.\" The Old French form of the word was \"sospeçon,\" which in turn comes from the Latin forms \"suspection-\" and \"suspectio.\" Etymologists have further traced the word's Latin ancestry to the verb \"suspicere,\" meaning \"to suspect.\" \"Suspicere,\" as you might expect, is also the source of the English words \"suspect\" and \"suspicion.\""
+    "examples": [
+      "The book is introduced by a lengthy prolegomenon, which is followed by 17 chapters of analysis."
+    ],
+    "origin": "\"Prolegomenon\" is the singular and \"prolegomena\" is the plural of this scholarly word, though people sometimes mistakenly interpret \"prolegomena\" as the singular. The word, which comes from the Greek verb \"prolegein\" (\"to say beforehand\"), first appeared in print around 1652. It has appeared in the titles of noteworthy scholarly and philosophical works, but it has never been as common in general use as its older cousin \"prologue.\" \"Prologue\" usually refers to an introduction to a literary work or to a speech addressed to the audience at the beginning of a play. \"Prolegomenon\" is most often used of the introduction to a work of scholarly analysis. Both words can also be used in a broader sense to refer generally to something that serves as an introduction."
   }
 }

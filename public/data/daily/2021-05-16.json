@@ -1,128 +1,129 @@
 {
   "artist": {
-    "id": "luc-tuymans",
-    "name": "Luc Tuymans",
-    "dates": "Born Jun 14, 1958",
-    "mainImg": "img/art/artists/luc-tuymans.jpg",
+    "id": "tadeusz-kantor",
+    "name": "Tadeusz Kantor",
+    "dates": "Apr 6, 1915 - Dec 8, 1990",
+    "mainImg": "img/art/artists/tadeusz-kantor.jpg",
     "artworkImgs": [
       {
-        "name": "Petrus & Paulus",
-        "path": "img/art/artworks/luc-tuymans-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/petrus-paulus-tuymans-luc/lQGSGGUo1FAG_Q"
+        "name": "The programme for the “Panoramic Sea Happening” with score",
+        "path": "img/art/artworks/tadeusz-kantor-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-programme-for-the-“panoramic-sea-happening”-with-score-tadeusz-kantor/wQEVJFLk5_h66A"
       },
       {
-        "name": "Dough",
-        "path": "img/art/artworks/luc-tuymans-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/dough-luc-tuymans/IAFeNfJ_rMhv0g"
+        "name": "The programme for the “Panoramic Sea Happening” with score",
+        "path": "img/art/artworks/tadeusz-kantor-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-programme-for-the-“panoramic-sea-happening”-with-score-tadeusz-kantor/wwFCUfNW4qQAhw"
       },
       {
-        "name": "Blessing",
-        "path": "img/art/artworks/luc-tuymans-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/blessing-luc-tuymans/OwEqBlflJ3kovg"
+        "name": "The programme for the “Panoramic Sea Happening” with score",
+        "path": "img/art/artworks/tadeusz-kantor-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-programme-for-the-“panoramic-sea-happening”-with-score-tadeusz-kantor/KwGScLyirYKYZA"
       },
       {
-        "name": "The Nose",
-        "path": "img/art/artworks/luc-tuymans-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-nose-luc-tuymans/ZAFjea3WDKl0RQ"
+        "name": "The programme for the “Panoramic Sea Happening” with score",
+        "path": "img/art/artworks/tadeusz-kantor-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-programme-for-the-“panoramic-sea-happening”-with-score-tadeusz-kantor/gAFlrYFwNkcxTA"
+      },
+      {
+        "name": "Operation \"Peace for the Galilee\"",
+        "path": "img/art/artworks/tadeusz-kantor-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/operation-peace-for-the-galilee-yoel-kantor/4wGm1PbDALqOLw"
+      },
+      {
+        "name": "A manifesto for “A Popular Exhibition”",
+        "path": "img/art/artworks/tadeusz-kantor-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-manifesto-for-“a-popular-exhibition”-tadeusz-kantor/UgFLHXVpnn9yMw"
       }
     ],
     "summary": [
-      "Luc Tuymans is a Belgian visual artist best known for his paintings which explore our relationship with history and confront our seeming ability to ignore it. World War II is a recurring theme in his work. He is a key figure of the generation of European figurative painters who gained renown at a time when many believed the medium had lost its relevance due to the new digital age.",
-      "Much of Tuymans' work deals with moral complexity, specifically the coexistence of 'good' and 'evil'. His subjects range from major historical events such as the Holocaust to the seemingly inconsequential or banal: wallpaper, Christmas decorations or everyday objects for example.",
-      "The artist's sparsely-coloured figurative paintings are made up of quick brush strokes of wet paint. Tuymans paints from photographic or cinematic images drawn from the media or public sphere, as well as from his own photographs and drawings. They often appear intentionally out of focus. The blurred effect is, however, created purposefully with painted strokes, it is not the result of a 'wiping away' technique."
+      "Tadeusz Kantor was a Polish painter, assemblage and Happenings artist, set designer and theatre director. Kantor is renowned for his revolutionary theatrical performances in Poland and abroad. Laureate of Witkacy Prize - Critics' Circle Award."
     ],
-    "quote": null,
-    "movements": ["Contemporary art"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Luc_Tuymans",
-    "urlGoogle": "https://artsandculture.google.com/entity/luc-tuymans/m039fgk"
+    "quote": "“It is necessary to recover the primeval force of the shock taking place at the moment when opposite a man (the viewer) there stood for the first time a man (the actor) deceptively similar to us, yet at the same time infinitely foreign, beyond an impassable barrier.”",
+    "movements": [],
+    "mediums": ["Photograph", "Newsprint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Tadeusz_Kantor",
+    "urlGoogle": "https://artsandculture.google.com/entity/tadeusz-kantor/m013myk"
   },
   "event": {
-    "id": "new-york-city-blackout-of-1977",
-    "name": "New York City blackout of 1977",
-    "dates": "Jul 13, 1977 - Jul 14, 1977",
-    "mainImg": "img/events/new-york-city-blackout-of-1977.jpg",
+    "id": "battle-of-dak-to",
+    "name": "Battle of Dak To",
+    "dates": "Nov 3, 1967 - Nov 22, 1967",
+    "mainImg": "img/events/battle-of-dak-to.jpg",
     "summary": [
-      "The New York City blackout of 1977 was an electricity blackout that affected most of New York City on July 13–14, 1977. The only neighborhoods in the city that were not affected were in southern Queens, which were part of the Long Island Lighting Company system, as well as the Pratt Institute campus in Brooklyn, as well as some other large apartment and commercial complexes that operated their own historic power generators.",
-      "Unlike other blackouts that affected the region, namely the Northeast blackouts of 1965 and 2003, the 1977 blackout was confined to New York City and its immediate surrounding areas. Also, in contrast to the 1965 and 2003 blackouts, the 1977 blackout resulted in citywide looting and other acts of criminal activity, including arson."
+      "The battle of Dak To in Vietnam was a series of major engagements of the Vietnam War that took place between 3 and 23 November 1967, in Kon Tum Province, in the Central Highlands of the Republic of Vietnam. The action at Đắk Tô was one of a series of People's Army of Vietnam offensive initiatives that began during the second half of the year. PAVN attacks at Lộc Ninh, Song Be and at Con Thien and Khe Sanh, were other actions which, combined with Đắk Tô, became known as \"the border battles\". The post hoc purported objective of the PAVN forces was to distract American and South Vietnamese forces away from cities towards the borders in preparation for the Tet Offensive.",
+      "During the summer of 1967, engagements with PAVN forces in the area prompted the launching of Operation Greeley, a combined search and destroy effort by elements of the U. S. 4th Infantry Division and 173rd Airborne Brigade, along with the Army of the Republic of Vietnam 42nd Infantry Regiment, 22nd Division and Airborne units. The fighting was intense and lasted into late 1967, when the PAVN seemingly withdrew."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/New_York_City_blackout_of_1977",
-    "urlGoogle": "https://artsandculture.google.com/entity/new-york-city-blackout-of-1977/m02j2gt"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Dak_To",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-dak-to/m024pgl"
   },
   "funFacts": [
     {
-      "id": "821",
-      "fact": "It takes an interaction of 72 muscles to produce human speech.",
-      "category": ["Anatomy"]
+      "id": "930",
+      "fact": "Even though it is nearly twice as far away from the Sun as Mercury, Venus is by far the hottest planet.",
+      "category": ["Science"]
     },
     {
-      "id": "71",
-      "fact": "There is a town called \"Big Ugly\" in West Virginia.",
-      "category": ["Geography"]
+      "id": "80",
+      "fact": "About 18 percent of animal owners share their bed with their pet.",
+      "category": ["Animals", "Habits"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "504704",
-      "fact": "During WWII, La-Z-Boy manufactured seats for tanks, torpedo boats, gun turrets, and armored cars."
-    }
+    { "id": "553923", "fact": "There's a five-story, blood-red waterfall in Antarctica." }
   ],
   "idiom": {
-    "id": "pin-money",
-    "term": "pin money",
-    "definition": "Small amounts of money for incidental expenses, as in *Grandma usually gives the children some pin money whenever she visits.* This expression originally signified money given by a husband to his wife for small personal expenditures such as pins, which were very costly items in centuries past. A will recorded at York in 1542 listed a bequest: \"I give my said daughter Margarett my lease of the parsonage... to buy her pins.\" [Early 1500s]"
+    "id": "manna-from-heaven",
+    "term": "manna from heaven",
+    "definition": "An unexpected aid, advantage, or assistance, as in *After all the criticism in the media, that favorable evaluation was like manna from heaven.* This expression alludes to the food (*manna*) that miraculously appears to feed the Israelites on their journey from Egypt to the Promised Land (Exodus 16:15)."
   },
   "person": {
-    "id": "george-vi",
-    "name": "George VI",
-    "dates": "Dec 14, 1895 - Feb 6, 1952",
-    "mainImg": "img/people/george-vi.jpg",
+    "id": "romulo-betancourt",
+    "name": "Rómulo Betancourt",
+    "dates": "Feb 22, 1908 - Sep 28, 1981",
+    "mainImg": "img/people/romulo-betancourt.jpg",
     "summary": [
-      "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952.",
-      "Known as \"Bertie\" among his family and close friends, George VI was born in the reign of his great-grandmother Queen Victoria and was named after his great-grandfather Albert, Prince Consort. As the second son of King George V, he was not expected to inherit the throne and spent his early life in the shadow of his elder brother, Edward. He attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he never fully overcame. George's elder brother ascended the throne as Edward VIII after their father died in 1936. Later that year, Edward abdicated to marry the American socialite Wallis Simpson, and George became the third monarch of the House of Windsor.",
-      "In September 1939, the British Empire and Commonwealth—except Ireland—declared war on Nazi Germany."
-    ],
-    "quote": "“The highest of distinctions is service to others.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/George_VI",
-    "urlGoogle": "https://artsandculture.google.com/entity/george-vi/m0cm83"
-  },
-  "place": {
-    "id": "sao-luis",
-    "name": "São Luís",
-    "mainImg": "img/places/sao-luis.jpg",
-    "summary": [
-      "São Luís is the capital and largest city of the Brazilian state of Maranhão. The city is located on Upaon-açu Island or Ilha de São Luís, in the Baía de São Marcos, an extension of the Atlantic Ocean which forms the estuary of Pindaré, Mearim, Itapecuru and other rivers. Its coordinates are 2.53° south, 44.30° west. São Luís has the second largest maritime extension within Brazilian states. Its maritime extension is 640 km. The city proper has a population of some 1,094,667 people. The metropolitan area totals 1,605,305, ranked as the 15th largest in Brazil.",
-      "São Luís, created originally as Saint-Louis-de-Maragnan, is the only Brazilian state capital founded by France and it is one of the three Brazilian state capitals located on islands.",
-      "The city has two major sea ports: Madeira Port and Itaqui Port, through which a substantial part of Brazil's iron ore, originating from the-Amazon region, is exported. The city's main industries are metallurgical with Alumar, and Vale. São Luís is home of the Federal University of Maranhão."
+      "Rómulo Ernesto Betancourt Bello, known as \"The Father of Venezuelan Democracy\", was the 47th and 54th President of Venezuela, serving from 1945 to 1948 and again from 1959 to 1964, as well as leader of Acción Democrática, Venezuela's dominant political party in the 20th century.",
+      "Betancourt, one of Venezuela's most important political figures, led a tumultuous and highly controversial career in Latin American politics. Periods of exile brought Betancourt in contact with various Latin American countries as well as the United States, securing his legacy as one of the most prominent international leaders to emerge from 20th-century Latin America. Scholars credit Betancourt as the Founding Father of modern democratic Venezuela."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o",
-    "urlGoogle": "https://artsandculture.google.com/entity/são-luís/m01zpkp"
+    "urlWiki": "https://en.wikipedia.org/wiki/R%C3%B3mulo_Betancourt",
+    "urlGoogle": "https://artsandculture.google.com/entity/rómulo-betancourt/m01tvr9"
   },
-  "quote": {
-    "id": "17",
-    "quote": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
-    "author": "Aristotle"
+  "place": {
+    "id": "wellington",
+    "name": "Wellington",
+    "mainImg": "img/places/wellington.jpg",
+    "summary": [
+      "Wellington is the capital city of New Zealand. It is located at the south-western tip of the North Island, between Cook Strait and the Remutaka Range. Wellington is the major population centre of the southern North Island, and is the administrative centre of the Wellington Region, which also includes the Kapiti Coast and the Wairarapa. It is the world's southernmost capital of a sovereign state. Wellington features a temperate maritime climate, and is the world's windiest city by average wind speed.",
+      "The position of Wellington as capital of New Zealand is not defined in legislation, but established by convention. Its metropolitan area comprises four local authorities: Wellington City, on the peninsula between Cook Strait and Wellington Harbour, contains the central business district; Porirua on Porirua Harbour to the north is notable for its large Māori and Pacific Island communities; Lower Hutt and Upper Hutt are largely suburban areas to the northeast, together known as the Hutt Valley. The Wellington urban area, which only includes urbanised areas within Wellington City, has a population of 215,400 residents as of June 2019."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Wellington",
+    "urlGoogle": "https://artsandculture.google.com/entity/wellington/m0853g"
   },
   "wiki": {
-    "id": "supreme-court-of-the-united-states",
-    "name": "Supreme Court of the United States",
-    "summary": "The Supreme Court of the United States is the highest judicial body in the United States and leads the judicial branch of the United States federal government. The Justices are nominated by the President and confirmed with the \"advice and consent\" of the Senate. They are appointed to serve \"during good behavior,\" which means for life, and leave office only upon death, retirement, resignation, or impeachment and subsequent conviction. The Supreme Court holds both original and appellate jurisdiction, with its appellate jurisdiction accounting for most of the Court's caseload. The Supreme Court meets in Washington, D.C., in the United States Supreme Court building. The Court's yearly terms usually start on the first Monday in October and finish sometime during the following June or July. Each term consists of alternating two week intervals. During the first interval, the court is in session and hears cases, and during the second interval, the court is recessed to consider and write opinions on cases they have heard.",
-    "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"
+    "id": "princess-victoria-of-hesse-and-by-rhine",
+    "name": "Princess Victoria of Hesse and by Rhine",
+    "summary": "Princess Victoria of Hesse and by Rhine (1863–1950) was the eldest daughter of Louis IV, Grand Duke of Hesse and by Rhine, and his first wife Princess Alice of the United Kingdom. Victoria married Prince Louis of Battenberg, her father's first cousin and an officer in the UK's Royal Navy, in a love match and lived most of her married life in various parts of Europe at her husband's naval posts and visiting her many royal relations. She was perceived by her family as liberal in outlook, straightforward, practical and bright. During World War I, two of her sisters who had married into the Russian imperial family were murdered by communist revolutionaries, and she and her husband abandoned their German titles and adopted the British-sounding surname of Mountbatten, which was simply a translation into English of the German \"Battenberg\". She was the maternal grandmother of Prince Philip, Duke of Edinburgh, the consort of Queen Elizabeth II.",
+    "url": "https://en.wikipedia.org/wiki/Princess_Victoria_of_Hesse_and_by_Rhine"
   },
   "word": {
-    "id": "teleological",
-    "word": "teleological",
-    "url": "https://www.merriam-webster.com/dictionary/teleological",
-    "partOfSpeech": "adjective",
-    "pronunciation": "tel-ee-uh-LAH-jih-kul",
-    "audioPath": "audio/words/teleological.mp3",
-    "definitions": ["exhibiting or relating to design or purpose especially in nature"],
-    "examples": [
-      "At dinner, Sandra and Miguel debated whether or not the complex structure of the human eye implied a _teleological_ origin.",
-      "\"There is also something of a _teleological_ aspect to all this urbanization hoopla, one that suggests that man was put on this planet to shop at Whole Foods.\" - Lionel Beehner, _USA Today_, February 25, 2014"
+    "id": "vilipend",
+    "word": "vilipend",
+    "url": "https://www.merriam-webster.com/dictionary/vilipend",
+    "partOfSpeech": "verb",
+    "pronunciation": "VIL-uh-pend",
+    "audioPath": "audio/words/vilipend.mp3",
+    "definitions": [
+      "to hold or treat as of little worth or account",
+      "to express a low opinion of : disparage"
     ],
-    "origin": "_Teleological_ (which comes to us by way of New Latin from the Greek root _tele-_, _telos_, meaning \"end or purpose\") and its close relative _teleology_ both entered English in the 18th century, followed by _teleologist_ in the 19th century. _Teleology_ has the basic meaning of \"the study of ends or purposes.\" A teleologist attempts to understand the purpose of something by looking at its results. A teleological philosopher might argue that we should judge whether an act is good or bad by seeing if it produces a good or bad result, and a teleological explanation of evolutionary changes claims that all such changes occur for a definite purpose."
+    "examples": [
+      "As a women's movement pioneer, Susan B. Anthony fought against the dictums of those who would _vilipend_ women by treating them as second-class citizens.",
+      "\"But many accepted canine breeds began in lowly circumstances. No matter how we may _vilipend_ their names, denying their cuteness is difficult.\" - From Bill Casselman's 2010 book _Where a Dobdob Meets a Dikdik_"
+    ],
+    "origin": "\"Vilipend\" first appeared in English in the 15th century and comes to us through French from the Latin roots \"vilis,\" meaning \"cheap\" or \"vile,\" plus \"pendere,\" meaning \"to weigh\" or \"to estimate.\" These roots work in tandem to form a meaning of \"to deem to be of little worth.\" Both of those roots have weighed in heavily as a source of common English words. Other \"vilis\" offspring include \"vile\" and \"vilify,\" while \"pendere\" has spawned such terms as \"append,\" \"expend,\" and \"dispense.\""
   }
 }

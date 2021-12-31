@@ -1,135 +1,138 @@
 {
   "artist": {
-    "id": "hokusai",
-    "name": "Hokusai",
-    "dates": "Oct 31, 1760 - May 10, 1849",
-    "mainImg": "img/art/artists/hokusai.jpg",
+    "id": "fernando-botero",
+    "name": "Fernando Botero",
+    "dates": "Born Apr 19, 1932",
+    "mainImg": "img/art/artists/fernando-botero.jpg",
     "artworkImgs": [
       {
-        "name": "Thirty-Six Views of Mount Fuji: The Great Wave Off the Coast of Kanagawa",
-        "path": "img/art/artworks/hokusai-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/thirty-six-views-of-mount-fuji-the-great-wave-off-the-coast-of-kanagawa-katsushika-hokusai/3gF011oIXv3kcQ"
+        "name": "Monalisa",
+        "path": "img/art/artworks/fernando-botero-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/monalisa/OwG2Tsb1erVytQ"
       },
       {
-        "name": "Thirty-six Views of Mount Fuji: The Great Wave off Kanagawa",
-        "path": "img/art/artworks/hokusai-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/thirty-six-views-of-mount-fuji-the-great-wave-off-kanagawa-katsushika-hokusai/tQHqK8dFktEsLw"
+        "name": "Una familia",
+        "path": "img/art/artworks/fernando-botero-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/una-familia/SQHd_uZf4mMvng"
       },
       {
-        "name": "The Underwave off Kanagawa",
-        "path": "img/art/artworks/hokusai-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-underwave-off-kanagawa-katsushika-hokusai/JgEdIdn4pME3Mw"
+        "name": "Naturaleza muerta con libros",
+        "path": "img/art/artworks/fernando-botero-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/naturaleza-muerta-con-libros/OwEHdIPF52uVAw"
       },
       {
-        "name": "The Great Wave off the Coast of Kanagawa",
-        "path": "img/art/artworks/hokusai-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-great-wave-off-the-coast-of-kanagawa-katsushika-hokusai/fAFp7yddSAtcTQ"
+        "name": "Guerrilla de Eliseo Velásquez",
+        "path": "img/art/artworks/fernando-botero-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/guerrilla-de-eliseo-velásquez/8AG8rUSjhoAKzA"
       },
       {
-        "name": "The Great Wave off Kanagawa",
-        "path": "img/art/artworks/hokusai-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-great-wave-off-kanagawa-katsushika-hokusai/MgHm0BHMRIT73g"
+        "name": "Niña con flor",
+        "path": "img/art/artworks/fernando-botero-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/niña-con-flor/1AHSVoPJrRjn4Q"
       },
       {
-        "name": "冨嶽三十六景　凱風快晴|South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
-        "path": "img/art/artworks/hokusai-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/冨嶽三十六景　凱風快晴-south-wind-clear-sky-gaifū-kaisei-also-known-as-red-fuji-from-the-series-thirty-six-views-of-mount-fuji-fugaku-sanjūrokkei-katsushika-hokusai/3wE980WqnHL34Q"
+        "name": "Pareja bailando",
+        "path": "img/art/artworks/fernando-botero-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/pareja-bailando/uAENc5haLHz8PA"
       }
     ],
     "summary": [
-      "Katsushika Hokusai was a Japanese artist, ukiyo-e painter and printmaker of the Edo period. Born in Edo, Hokusai is best known as author of the woodblock print series Thirty-six Views of Mount Fuji which includes the internationally iconic print, The Great Wave off Kanagawa.",
-      "Hokusai created the Thirty-Six Views both as a response to a domestic travel boom and as part of a personal obsession with Mount Fuji. It was this series, specifically The Great Wave print and Fine Wind, Clear Morning, that secured Hokusai's fame both in Japan and overseas. As historian Richard Lane concludes, \"if there is one work that made Hokusai's name, both in Japan and abroad, it must be this monumental print-series\". While Hokusai's work prior to this series is certainly important, it was not until this series that he gained broad recognition."
-    ],
-    "quote": "“From the age of six, I had a passion for copying the form of things and since the age of fifty I have published many drawings, yet of all I drew by my seventieth year there is nothing worth taking in to account. At seventy-three years I partly understood the structure of animals, birds, insects and fishes, and the life of grasses and plants. And so, at eighty-six I shall progress further; at ninety I shall even further penetrate their secret meaning, and by one hundred I shall perhaps truly have reached the level of the marvellous and divine. When I am one hundred and ten, each dot, each line will possess a life of its own.”",
-    "movements": ["Ukiyo-e"],
-    "mediums": ["Ink", "Book", "Textile", "Silk", "Drawing", "Metal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Hokusai",
-    "urlGoogle": "https://artsandculture.google.com/entity/hokusai/m0bwf4"
-  },
-  "event": {
-    "id": "moscow-victory-parade-of-1945",
-    "name": "Moscow Victory Parade of 1945",
-    "dates": "Jun 24, 1945",
-    "mainImg": "img/events/moscow-victory-parade-of-1945.jpg",
-    "summary": [
-      "The Moscow Victory Parade of 1945 was a victory parade held by the Soviet Armed Forces after the defeat of Nazi Germany. This, the longest and largest military parade ever held on Red Square in the Soviet capital Moscow, involved 40,000 Red Army soldiers and 1,850 military vehicles and other military hardware. The parade lasted just over two hours on a rainy June 24, 1945, over a month after May 9, the day of Germany's surrender to Soviet commanders."
+      "Fernando Botero Angulo is a Colombian figurative artist and sculptor, born in Medellín. His signature style, also known as \"Boterismo\", depicts people and figures in large, exaggerated volume, which can represent political criticism or humor, depending on the piece. He is considered the most recognized and quoted living artist from Latin America, and his art can be found in highly visible places around the world, such as Park Avenue in New York City and the Champs-Élysées in Paris.",
+      "Self-titled \"the most Colombian of Colombian artists\" early on, Botero came to national prominence when he won the first prize at the Salón de Artistas Colombianos in 1958. He began creating sculptures after moving to Paris in 1973, achieving international recognition with exhibitions across the world by the 1990s. His art is collected by many major international museums, corporations, and private collectors. In 2012, he received the International Sculpture Center's Lifetime Achievement in Contemporary Sculpture Award."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Moscow_Victory_Parade_of_1945",
-    "urlGoogle": "https://artsandculture.google.com/entity/moscow-victory-parade-of-1945/m0c018r"
+    "movements": ["Contemporary art", "Modern art"],
+    "mediums": ["Watercolor painting", "Sculpture", "Pencil", "Drawing", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Fernando_Botero",
+    "urlGoogle": "https://artsandculture.google.com/entity/fernando-botero/m01ry44"
+  },
+  "event": {
+    "id": "iran-saudi-arabia-proxy-conflict",
+    "name": "Iran–Saudi Arabia proxy conflict",
+    "dates": "1979",
+    "mainImg": "img/events/iran-saudi-arabia-proxy-conflict.jpg",
+    "summary": [
+      "The Iran–Saudi Arabia proxy conflict, sometimes also referred to as the Middle Eastern Cold War is the ongoing struggle for influence in the Middle East and surrounding regions between the Islamic Republic of Iran and the Kingdom of Saudi Arabia. The two countries have provided varying degrees of support to opposing sides in nearby conflicts, including the civil wars in Syria, Yemen, and Iraq. The rivalry also extends to disputes in Bahrain, Lebanon, Qatar, Pakistan, Afghanistan, Nigeria, and Morocco, as well as broader competition in North and East Africa, parts of South Asia, Central Asia, and the Caucasus.",
+      "In what has been described as a cold war, the conflict is waged on multiple levels over geopolitical, economic, and sectarian influence in pursuit of regional hegemony. American support for Saudi Arabia and its allies as well as Russian and Chinese support for Iran and its allies have drawn comparisons to the dynamics of the Cold War era, and the proxy conflict has been characterized as a front in what Russian Prime Minister Dmitry Medvedev has referred to as the \"New Cold War\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Iran%E2%80%93Saudi_Arabia_proxy_conflict",
+    "urlGoogle": "https://artsandculture.google.com/entity/iran–saudi-arabia-proxy-conflict/g11bxjb_dlh"
   },
   "funFacts": [
     {
-      "id": "847",
-      "fact": "Until the nineteenth century, solid blocks of tea were used as money in Siberia.",
-      "category": ["History"]
+      "id": "774",
+      "fact": "Koalas only drink water in extreme heat or drought.",
+      "category": ["Animals", "Onlies"]
     },
     {
-      "id": "463",
-      "fact": "The dot over the letter i is called a tittle.",
+      "id": "362",
+      "fact": "\"Arachibutlphobia\" is the fear of peanut butter sticking to the roof of your mouth.",
       "category": ["Definitions"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504707",
-      "fact": "The cubicle did not get its name from its shape, but from the Latin cubiculum,&nbsp;meaning bed chamber."
+      "id": "553834",
+      "fact": "In The Empire Strikes Back, an extra can be seen running with what appears to be an ice cream maker. The character became legendary among fans, and was eventually given a name (Willrow Hood) and a backstory."
     }
   ],
   "idiom": {
-    "id": "from-soup-to-nuts",
-    "term": "from soup to nuts",
-    "definition": "Also, **from A to Z** or **start to finish** or **stem to stern.** From beginning to end, throughout, as in *We went through the whole agenda, from soup to nuts,* or *She had to learn a whole new system from A to Z,* or *It rained from start to finish,* or *We did over the whole house from stem to stern.* The first expression, with its analogy to the first and last courses of a meal, appeared in slightly different forms (such as *from potage to cheese*) from the 1500s on; the precise wording here dates only from the mid-1900s. The second expression alludes to the first and last letters of the Roman alphabet. The third comes from racing and alludes to the entire course of the race; it dates from the mid-1800s. The last variant is nautical, alluding to the front or *stem,* and rear or *stern,* of a vessel."
+    "id": "if-the-mountain-wont-come-to-muhammad-muhammad-must-go-to-the-mountain",
+    "term": "if the mountain won't come to Muhammad, Muhammad must go to the mountain",
+    "definition": "If one can't have one's way, one must give in. For example, *Since you can't come here for the holiday, I'll go to your house---if the mountain won't come to Muhammad, Muhammad must go to the mountain.* This expression is based on a tale that Muhammad once sought proof of his teachings by ordering a mountain to come to him. When it did not move, he maintained that God had been merciful, for if it had indeed moved they all would have been crushed by it. [Late 1500s]"
   },
   "person": {
-    "id": "muammar-al-gaddafi",
-    "name": "Muammar al-Gaddafi",
-    "dates": "Jun 7, 1942 - Oct 20, 2011",
-    "mainImg": "img/people/muammar-al-gaddafi.jpg",
+    "id": "prince-arthur-duke-of-connaught-and-strathearn",
+    "name": "Prince Arthur, Duke of Connaught and Strathearn",
+    "dates": "May 1, 1850 - Jan 16, 1942",
+    "mainImg": "img/people/prince-arthur-duke-of-connaught-and-strathearn.jpg",
     "summary": [
-      "Muammar Mohammed Abu Minyar Gaddafi, commonly known as Colonel Gaddafi, was a Libyan revolutionary, politician and political theorist. He governed Libya as Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977 and then as the \"Brother Leader\" of the Great Socialist People's Libyan Arab Jamahiriya from 1977 to 2011. He was initially ideologically committed to Arab nationalism and Arab socialism but later ruled according to his own Third International Theory.",
-      "Born near Sirte, Italian Libya, to a poor Bedouin family, Gaddafi became an Arab nationalist while at school in Sabha, later enrolling in the Royal Military Academy, Benghazi. Within the military, he founded a revolutionary group which deposed the Western-backed Senussi monarchy of Idris in a 1969 coup. Having taken power, Gaddafi converted Libya into a republic governed by his Revolutionary Command Council. Ruling by decree, he deported Libya's Italian population and ejected its Western military bases. Strengthening ties to Arab nationalist governments—particularly Gamal Abdel Nasser's Egypt—he unsuccessfully advocated pan-Arab political union."
-    ],
-    "quote": "“We are telling the American people to have patience, courage, resolve and determination.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
-    "urlGoogle": "https://artsandculture.google.com/entity/muammar-al-gaddafi/m0dxvs"
-  },
-  "place": {
-    "id": "iași",
-    "name": "Iași",
-    "mainImg": "img/places/iași.jpg",
-    "summary": [
-      "Iași, also referred to as Jassy, is the second largest city in Romania, and the seat of Iași County. Located in the historical region of Moldavia, Iași has traditionally been one of the leading centres of Romanian social, cultural, academic and artistic life. The city was the capital of the Principality of Moldavia from 1564 to 1859, then of the United Principalities from 1859 to 1862, and the capital of Romania from 1916 to 1918.",
-      "Known as The Cultural Capital of Romania, Iași is a symbol in Romanian history. The historian Nicolae Iorga said \"There should be no Romanian who does not know of it\". Still referred to as The Moldavian Capital, Iași is the main economic and business centre of the Moldavian region of Romania. In December 2018, Iași was officially declared Historical capital of Romania.",
-      "At the 2011 census, the city proper had a population of 290,422. With 500,668 residents, the Iași urban area is the second most populous in Romania, whereas more than 500,000 people live within its peri-urban area."
+      "Prince Arthur, Duke of Connaught and Strathearn, was the seventh child and third son of Queen Victoria and Prince Albert. He served as the Governor General of Canada, the tenth since Canadian Confederation and the only British prince to do so. In 1910 he was appointed Grand Prior of the Order of St John and held this position until 1939.",
+      "Arthur was educated by private tutors before entering the Royal Military Academy, Woolwich at the age of 16. Upon graduation, he was commissioned as a lieutenant in the British Army, where he served for some 40 years, seeing service in various parts of the British Empire. During this time he was also created a royal duke, becoming the Duke of Connaught and Strathearn, as well as the Earl of Sussex. In 1911, he was appointed as Governor General of Canada, replacing the Earl Grey as viceroy. He occupied this post until he was succeeded by the Duke of Devonshire in 1916. He acted as the King's, and thus the Canadian Commander-in-Chief's, representative through the first years of the First World War."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ia%C8%99i",
-    "urlGoogle": "https://artsandculture.google.com/entity/iași/m01fhg3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Prince_Arthur,_Duke_of_Connaught_and_Strathearn",
+    "urlGoogle": "https://artsandculture.google.com/entity/prince-arthur-duke-of-connaught-and-strathearn/m01h_sl"
+  },
+  "place": {
+    "id": "galway",
+    "name": "Galway",
+    "mainImg": "img/places/galway.jpg",
+    "summary": [
+      "Galway is a city in County Galway in the West of Ireland, in the province of Connacht. It lies on the River Corrib between Lough Corrib and Galway Bay, and is the sixth most populous city in Ireland, with a population at the 2016 Census of 79,934.",
+      "Galway is renowned for its vibrant lifestyle and for hosting numerous festivals, celebrations and events such as The Galway Arts Festival. In 2018, it was named the European Region of Gastronomy. The city is currently the European Capital of Culture for 2020, alongside Rijeka, Croatia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Galway",
+    "urlGoogle": "https://artsandculture.google.com/entity/galway/m0m__z"
   },
   "quote": {
-    "id": "21",
-    "quote": "Unless you try to do something beyond what you have already mastered, you will never grow.",
-    "author": "Ralph Waldo Emerson"
+    "id": "4",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+    "author": "Steve Jobs"
   },
   "wiki": {
-    "id": "rwanda",
-    "name": "Rwanda",
-    "summary": "Rwanda is a country in central and eastern Africa located a few degrees south of the Equator, bordered by Uganda, Tanzania, Burundi and the Democratic Republic of the Congo. All of Rwanda is at high elevation, with a geography dominated by mountains in the west, savanna in the east, and numerous lakes throughout the country. The climate is temperate. The predominantly rural population of 11.7 million people forms three main groups: the Hutu, Tutsi, and Twa. After Rwanda was first settled by hunter-gatherers in the Stone and Iron Ages, the population coalesced into clans and then into a Tutsi-led kingdom. It was colonised by Europeans in the 19th century and gained independence from Belgium on 1 July 1962 after a Hutu revolt led to massacres of Tutsis and the establishment of a Hutu-dominated republic. In 1990 the Tutsi-led Rwandan Patriotic Front (RPF) launched a civil war, which was followed by the 1994 Rwandan Genocide, in which Hutu extremists killed an estimated 500,000 to 1 million Tutsi and moderate Hutu but were ultimately defeated by the RPF. The economy suffered during the genocide, but has since strengthened and depends heavily on subsistence agriculture.",
-    "url": "https://en.wikipedia.org/wiki/Rwanda"
+    "id": "shei-kra",
+    "name": "SheiKra",
+    "summary": "SheiKra is a steel Dive Coaster roller coaster at the Busch Gardens Tampa Bay amusement park in Tampa, Florida, United States. The name is derived from \"shikra\", an Asian-African hawk that is known to dive vertically for its prey. Manufactured by Bolliger & Mabillard, the ride was planned to reach a height of approximately 160 feet (49 m), but this was later changed to 200 feet (61 m). It reaches a maximum speed of 70 miles per hour (110 km/h), and has a total track length of 3,188 feet (972 m). It opened in 2005, and was converted to a floorless roller coaster in 2007, following the opening of its sister Dive Coaster Griffon at Busch Gardens Williamsburg. SheiKra was the first Dive Coaster to be constructed in North America; it was also the first of its kind to feature a vertical drop, a splashdown and an Immelmann loop. It broke the records for the world's longest, tallest, and fastest Dive Coaster, but has since lost these records. In 2005, Amusement Today's annual Golden Ticket Awards voted it the fourth-best new steel roller coaster of that year (in a three-way tie) and the 28th-best steel roller coaster. It was voted the 30th-best steel roller coaster in 2012.",
+    "url": "https://en.wikipedia.org/wiki/SheiKra"
   },
   "word": {
-    "id": "agog",
-    "word": "agog",
-    "url": "https://www.merriam-webster.com/dictionary/agog",
-    "partOfSpeech": "adjective",
-    "pronunciation": "uh-GAHG",
-    "audioPath": "audio/words/agog.mp3",
-    "definitions": ["full of intense interest or excitement : eager"],
-    "examples": [
-      "Everyone was _agog_ over the rumor that a famous actress would be coming to town to shoot her next movie.",
-      "\"Throughout the hotel dolphins cavort in the details, a popular motif in the mansions of Newport, leaving anyone who appreciates interior design _agog_.\" - From an article by Kathleen Pierce in _The Boston Globe_, April 8, 2012"
+    "id": "irrupt",
+    "word": "irrupt",
+    "url": "https://www.merriam-webster.com/dictionary/irrupt",
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-RUPT",
+    "audioPath": "audio/words/irrupt.mp3",
+    "definitions": [
+      "to rush in forcibly or violently",
+      "to undergo a sudden upsurge in numbers especially when natural ecological balances and checks are disturbed",
+      "to become active or violent especially suddenly : erupt"
     ],
-    "origin": "English speakers have been clamoring over the word \"agog\" for over 450 years; it derives from the Middle French phrase \"en gogues,\" meaning \"in a state of mirth.\" The \"-gog\" part of the word might make one wonder if \"agog\" has a connection to the verb \"goggle,\" meaning \"to stare with wide or protuberant eyes,\" as in the manner of one who is intensely excited about something. That word actually has a different origin: the Middle English \"gogelen,\" meaning \"to squint.\" In many instances, \"agog\" is followed by a preposition, such as \"over\" or \"about.\""
+    "examples": [
+      "The stadium irrupted in applause for the local high school choir's outstanding rendition of the national anthem."
+    ],
+    "origin": "\"Irrupt\" and \"erupt” have existed as discrete words since the 1800s. Both are descendants of the Latin verb \"rumpere,\" which means \"to break,\" but \"irrupt\" has affixed to it the prefix \"ir-\" (in the sense \"into\") while \"erupt\" begins with the prefix \"e-\" (meaning \"out\"). So \"to irrupt\" was originally to rush in, and \"to erupt\" was to burst out. But it's sometimes hard to distinguish the precise direction of a violent rush, and \"irrupt\" came to be used as a synonym of \"erupt\" in the senses \"to become active or violent especially suddenly\" and \"to break forth,\" as in our example sentence."
   }
 }

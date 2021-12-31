@@ -1,0 +1,126 @@
+{
+  "artist": {
+    "id": "william-mulready",
+    "name": "William Mulready",
+    "dates": "Apr 1, 1786 - Jul 7, 1863",
+    "mainImg": "img/art/artists/william-mulready.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Wolf & the Lamb – A Parody on Mr. Mulready's highly popular Picture",
+        "path": "img/art/artworks/william-mulready-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-wolf-the-lamb-–-a-parody-on-mr-mulready-s-highly-popular-picture-alfred-ducôte-henry-peter-1st-baron-brougham-and-vaux-william-mulready-william-lamb-2nd-viscount-melbourne-john-doyle-thomas-mclean-arthur-wellesley-1st-duke-of-wellington-queen-victoria/1QEq7urqBzBudA"
+      },
+      {
+        "name": "An Old Gable",
+        "path": "img/art/artworks/william-mulready-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/an-old-gable-william-mulready-1786–1863-irish/qQGR9oDl4zp63w"
+      },
+      {
+        "name": "The Disobedient Prophet",
+        "path": "img/art/artworks/william-mulready-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-disobedient-prophet-william-mulready-1786–1863-irish/lAEi81DPiHlNAA"
+      },
+      {
+        "name": "Anatomical Study of a Horse, Founded on `Eclipse', Nov. 26, 1832",
+        "path": "img/art/artworks/william-mulready-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/anatomical-study-of-a-horse-founded-on-eclipse-nov-26-1832-william-mulready-1786–1863-irish/pQEA3QM8NTkmDQ"
+      },
+      {
+        "name": "Lock gate",
+        "path": "img/art/artworks/william-mulready-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lock-gate-william-mulready-1786–1863-irish/RQGJ-gbjhDJVkw"
+      },
+      {
+        "name": "Denial and Disappointment",
+        "path": "img/art/artworks/william-mulready-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/denial-and-disappointment-formerly-attributed-to-sir-david-wilkie-1785–1841-british/VgHBo65uY5YSUQ"
+      }
+    ],
+    "summary": [
+      "William Mulready RA was an Irish genre painter living in London. He is best known for his romanticizing depictions of rural scenes, and for creating Mulready stationery letter sheets, issued at the same time as the Penny Black postage stamp."
+    ],
+    "quote": null,
+    "movements": ["Romanticism"],
+    "mediums": ["Graphite", "Ink", "Pen", "Watercolor painting", "Oil paint", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Mulready",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-mulready/m034nd4"
+  },
+  "event": {
+    "id": "german-peasants-war",
+    "name": "German Peasants' War",
+    "dates": "1524 - 1525",
+    "mainImg": "img/events/german-peasants-war.jpg",
+    "summary": [
+      "The German Peasants' War, Great Peasants' War or Great Peasants' Revolt was a widespread popular revolt in some German-speaking areas in Central Europe from 1524 to 1525. It failed because of intense opposition from the aristocracy, who slaughtered up to 100,000 of the 300,000 poorly armed peasants and farmers. The survivors were fined and achieved few, if any, of their goals. Like the preceding Bundschuh movement and the Hussite Wars, the war consisted of a series of both economic and religious revolts in which peasants and farmers, often supported by Anabaptist clergy, took the lead. The German Peasants' War was Europe's largest and most widespread popular uprising prior to the French Revolution of 1789. The fighting was at its height in the middle of 1525.",
+      "The war began with separate insurrections, beginning in the southwestern part of what is now Germany and Alsace, and spread in subsequent insurrections to the central and eastern areas of Germany and present-day Austria. After the uprising in Germany was suppressed, it flared briefly in several Swiss cantons.",
+      "In mounting their insurrection, peasants faced insurmountable obstacles."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/german-peasants-war/m09v1hb5"
+  },
+  "funFacts": [
+    {
+      "id": "879",
+      "fact": "Most Koala bears can sleep up to 22 hours a day.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "1002",
+      "fact": "More energy from the sun hits Earth every hour than the planet uses in a year.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "522216",
+      "fact": "During WWI, German measles were called \"liberty measles\" and dachshunds became \"liberty hounds.\""
+    }
+  ],
+  "person": {
+    "id": "william-tubman",
+    "name": "William Tubman",
+    "dates": "Nov 29, 1895 - Jul 23, 1971",
+    "mainImg": "img/people/william-tubman.jpg",
+    "summary": [
+      "William Vacanarat Shadrach Tubman was a Liberian politician. He was the 19th President of Liberia, serving from his election in 1944 until his death in 1971.",
+      "Tubman is regarded as the \"father of modern Liberia\"; his presidency was marked by attracting sufficient foreign investment to modernize the economy and infrastructure. During his tenure, Liberia experienced a period of prosperity. He also led a policy of national unification in order to reduce the social and political differences between his fellow Americo-Liberians and the indigenous Liberians."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Tubman",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-tubman/m01q_3r"
+  },
+  "place": {
+    "id": "guelph",
+    "name": "Guelph",
+    "mainImg": "img/places/guelph.jpg",
+    "summary": [
+      "Guelph is a city in Southwestern Ontario, Canada. Known as \"The Royal City\", Guelph is roughly 28 km east of Kitchener and 100 km west of Downtown Toronto, at the intersection of Highway 6, Highway 7 and Wellington County Road 124. It is the seat of Wellington County, but is politically independent of it. The city is built on the traditional territory of the Mississaugas of the Credit First Nation.",
+      "Guelph began as a settlement in the 1820s, established by Scotsman John Galt, who was in Upper Canada as the first Superintendent of the Canada Company. He based the headquarters, and his home, in the community. The area – much of which became Wellington County – had been part of the Halton Block, a Crown Reserve for the Six Nations Iroquois. Galt would later be considered as the founder of Guelph.",
+      "For many years, Guelph ranked at or near the bottom of Canada's crime severity list. However, the 2017 Crime Severity Index showed a 15% increase from 2016. Guelph has been noted as having one of the lowest unemployment rates in the country throughout the Great Recession."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Guelph",
+    "urlGoogle": "https://artsandculture.google.com/entity/guelph/m018dcy"
+  },
+  "wiki": {
+    "id": "eagle-scout-boy-scouts-of-america",
+    "name": "Eagle Scout (Boy Scouts of America)",
+    "summary": "An Eagle Scout is a Scout with the highest rank attainable in the Boy Scouts of America. Since its introduction in 1911, the Eagle Scout rank has been earned by over one and a half million Scouts. Requirements include earning a number of merit badges and demonstration of Scout Spirit, service and leadership. Eagle Scouts are presented with a medal and badge that visibly recognizes the accomplishments of the Scout. Additional recognition can be earned through Eagle Palms, awarded for completing additional tenure, leadership and merit badge requirements.",
+    "url": "https://en.wikipedia.org/wiki/Eagle_Scout_(Boy_Scouts_of_America)"
+  },
+  "word": {
+    "id": "mimesis",
+    "word": "mimesis",
+    "url": "https://www.merriam-webster.com/dictionary/mimesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "muh-MEE-sis",
+    "audioPath": "audio/words/mimesis.mp3",
+    "definitions": ["imitation, mimicry"],
+    "examples": [
+      "Later on in her life, the painter became less interested in _mimesis_ and began to experiment in styles of abstraction.",
+      "\"It is four million years ago. The great apes emerged. Their brains were large enough to give them cognitive capacities that exceeded other species of animals. They could teach their young through _mimesis_ and episodic memory.\" - From an article by Don Heath in _The Edmond Sun_ (Oklahoma), October 28, 2013"
+    ],
+    "origin": "\"Mimesis\" is a term with an undeniably classical pedigree. Originally a Greek word, it has been used in aesthetic or artistic theory to refer to the attempt to imitate or reproduce reality since Plato and Aristotle. \"Mimesis\" is derived from the Greek verb \"mimeisthai,\" which means \"to imitate\" and which itself comes from \"mimos,\" meaning \"mime.\" The English word \"mime\" also descends from \"mimos,\" as do \"mimic\" and \"mimicry.\" And what about \"mimeograph,\" the name of the duplicating machine that preceded the photocopier? We can't be absolutely certain what the folks at the A. B. Dick Company had in mind when they came up with \"Mimeograph\" (a trademark name that has since expired), but influence from \"mimos\" and its descendants certainly seems probable."
+  }
+}

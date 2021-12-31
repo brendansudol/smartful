@@ -1,134 +1,127 @@
 {
   "artist": {
-    "id": "victor-hugo",
-    "name": "Victor Hugo",
-    "dates": "Feb 26, 1802 - May 22, 1885",
-    "mainImg": "img/art/artists/victor-hugo.jpg",
+    "id": "charles-andre-van-loo",
+    "name": "Charles-André van Loo",
+    "dates": "Feb 15, 1705 - Jul 15, 1765",
+    "mainImg": "img/art/artists/charles-andre-van-loo.jpg",
     "artworkImgs": [
       {
-        "name": "Victor Hugo on the Rock of the Exiles",
-        "path": "img/art/artworks/victor-hugo-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/victor-hugo-on-the-rock-of-the-exiles/2AGIxT48FRwq9Q"
+        "name": "Theseus Taming the Bull of Marathon",
+        "path": "img/art/artworks/charles-andre-van-loo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/theseus-taming-the-bull-of-marathon-charles-andré-vanloo-called-carle-van-loo/GgEXxAKTX6hU8A"
       },
       {
-        "name": "Vue d’une partie de la meridianale et de la ville de Sydney, prise du côte du nord",
-        "path": "img/art/artworks/victor-hugo-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/vue-d’une-partie-de-la-meridianale-et-de-la-ville-de-sydney-prise-du-côte-du-nord-victor-pillement-and-françois-denis-née-engravers-after-charles-alexandre-lesueur/zgHUqq82CzIgxA"
+        "name": "Four upholstery panels for a settee",
+        "path": "img/art/artworks/charles-andre-van-loo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/four-upholstery-panels-for-a-settee-beauvais-jean-baptiste-oudry-andré-charlemagne-charron-jean-baptiste-oudry/7QHNzjZg_Nn_xg"
       },
       {
-        "name": "Portret van C.A. vanden Broeck op een grafmonument",
-        "path": "img/art/artworks/victor-hugo-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portret-van-c-a-vanden-broeck-op-een-grafmonument-jacob-hugo-hoedt/fAFmmMKxcVIDFA"
+        "name": "Marie Leszczinska, queen of France",
+        "path": "img/art/artworks/charles-andre-van-loo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-leszczinska-queen-of-france-carle-van-loo/0AGLoul4eZBqRw"
       },
       {
-        "name": "Dancer",
-        "path": "img/art/artworks/victor-hugo-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/dancer-hugo-bertazzon/6AHKJwKW2eZ43g"
+        "name": "Four upholstery panels for a settee",
+        "path": "img/art/artworks/charles-andre-van-loo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/four-upholstery-panels-for-a-settee-beauvais-jean-baptiste-oudry-andré-charlemagne-charron-jean-baptiste-oudry/lQFrMVfU4CRrKA"
       },
       {
-        "name": "Contemplation",
-        "path": "img/art/artworks/victor-hugo-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/contemplation-hugo-bertazzon/6QFgqvivRLC0Zg"
+        "name": "The Victory of Alexander over Porus",
+        "path": "img/art/artworks/charles-andre-van-loo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-victory-of-alexander-over-porus-charles-andré-vanloo-called-carle-van-loo/twEKsuXS0WCJ6A"
       },
       {
-        "name": "Hymn written by Victor Hugo for Wimille column opening",
-        "path": "img/art/artworks/victor-hugo-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/hymn-written-by-victor-hugo-for-wimille-column-opening-victor-hugo/RgGh5cNVUiMZhQ"
+        "name": "The Hunt Breakfast",
+        "path": "img/art/artworks/charles-andre-van-loo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-hunt-breakfast-carle-charles-andré-vanloo/bAFgRxdk8HL0mw"
       }
     ],
     "summary": [
-      "Victor Marie Hugo was a French poet, novelist, and dramatist of the Romantic movement. During a literary career that spanned more than sixty years, he wrote abundantly in an exceptional variety of genres: lyrics, satires, epics, philosophical poems, epigrams, novels, history, critical essays, political speeches, funeral orations, diaries, letters public and private, and dramas in verse and prose.",
-      "Hugo is considered to be one of the greatest and best-known French writers. Outside France, his most famous works are the novels Les Misérables, 1862, and The Hunchback of Notre-Dame, 1831. In France, Hugo is renowned for his poetry collections, such as Les Contemplations and La Légende des siècles. Hugo was at the forefront of the Romantic literary movement with his play Cromwell and drama Hernani. Many of his works have inspired music, both during his lifetime and after his death, including the musicals Les Misérables and Notre-Dame de Paris. He produced more than 4,000 drawings in his lifetime, and campaigned for social causes such as the abolition of capital punishment."
-    ],
-    "quote": "“He who does not weep does not see.”",
-    "movements": [],
-    "mediums": ["Bronze", "Iron", "Metal", "Cast iron", "Cardboard", "Etching"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Victor_Hugo",
-    "urlGoogle": "https://artsandculture.google.com/entity/victor-hugo/m01vh096"
-  },
-  "event": {
-    "id": "constitutionalist-revolution",
-    "name": "Constitutionalist Revolution",
-    "dates": "Jul 9, 1932 - Oct 2, 1932",
-    "mainImg": "img/events/constitutionalist-revolution.jpg",
-    "summary": [
-      "The Constitutionalist Revolution of 1932 is the name given to the uprising of the population of the Brazilian state of São Paulo against the 1930 coup d'état when Getúlio Vargas forcibly assumed the nation's Presidency; Vargas was supported by the military and the political elites of Minas Gerais, Rio Grande do Sul and Paraíba. The movement grew out of local resentment from the fact that Vargas ruled by decree, unbound by a Constitution, in a provisional government. The 1930 coup also affected São Paulo by eroding the autonomy that states enjoyed during the term of the 1891 Constitution and preventing the inauguration of the governor of São Paulo Júlio Prestes in the Presidency of the Republic, while simultaneously overthrowing President Washington Luís, who was governor of São Paulo from 1920 to 1924. These events marked the end of the First Republic. Vargas appointed a northeasterner as governor of São Paulo.",
-      "The Revolution's main goal was to press the provisional government headed by Getúlio Vargas to adopt and then abide by a new Constitution, since the elected President Prestes was kept from taking office."
+      "Carle or Charles-André van Loo was a French subject painter, son of the painter Louis-Abraham van Loo, a younger brother of Jean-Baptiste van Loo and grandson of Jacob van Loo. He was the most famous member of a successful dynasty of painters of Dutch origin. His oeuvre includes every category: religion, history painting, mythology, portraiture, allegory, and genre scenes."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Constitutionalist_Revolution",
-    "urlGoogle": "https://artsandculture.google.com/entity/constitutionalist-revolution/m026dch2"
+    "movements": ["Renaissance", "Rococo"],
+    "mediums": ["Textile", "Wool", "Silk", "Etching", "Drawing", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Charles-Andr%C3%A9_van_Loo",
+    "urlGoogle": "https://artsandculture.google.com/entity/charles-andré-van-loo/m05yppx"
+  },
+  "event": {
+    "id": "great-fire-of-london",
+    "name": "Great Fire of London",
+    "dates": "Sep 2, 1666 - Sep 6, 1666",
+    "mainImg": "img/events/great-fire-of-london.jpg",
+    "summary": [
+      "The Great Fire of London swept through the central parts of the English city from Sunday, 2 September to Thursday, 6 September 1666. The fire gutted the medieval City of London inside the old Roman city wall. It threatened but did not reach the City of Westminster, Charles II's Palace of Whitehall, or most of the suburban slums. It destroyed 13,200 houses, 87 parish churches, St Paul's Cathedral, and most of the buildings of the City authorities. It is estimated to have destroyed the homes of 70,000 of the city's 80,000 inhabitants.",
+      "The death toll is unknown but was traditionally thought to have been relatively small, as only six verified deaths were recorded. This reasoning has recently been challenged on the grounds that the deaths of poor and middle-class people were not recorded; moreover, the heat of the fire may have cremated many victims, leaving no recognisable remains. A melted piece of pottery on display at the Museum of London found by archaeologists in Pudding Lane, where the fire started, shows that the temperature reached 1,250 °C."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+    "urlGoogle": "https://artsandculture.google.com/entity/great-fire-of-london/m0374t"
   },
   "funFacts": [
+    { "id": "24", "fact": "The state of Maine has 62 lighthouses.", "category": ["Geography"] },
     {
-      "id": "494",
-      "fact": "Wipe the leaves of your plants with the soft inside of a banana skin to bring up shine and remove dust.",
-      "category": ["Plants", "Make-it-Easies"]
-    },
-    {
-      "id": "941",
-      "fact": "In South Korea, it is against the rules for a professional baseball player to wear cabbage leaves inside of his hat.",
-      "category": ["Food", "Geography", "Laws"]
+      "id": "472",
+      "fact": "A nautical mile is 800 feet longer than a land mile.",
+      "category": ["Definitions"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554032",
-      "fact": "The Kjeragbolten boulder on Norway's \u0003Kjerag mountain was left in a crevasse during the last ice age. It's now a popular spot for \u0003BASE jumpers."
+      "id": "506211",
+      "fact": "Mexico’s full name translates to \"The United States of Mexico.\"&nbsp;"
     }
   ],
   "idiom": {
-    "id": "flash-in-the-pan",
-    "term": "flash in the pan",
-    "definition": "An effort or person that promises great success but fails. For example, *His second novel proved to be a flash in the pan,* or *We had high hopes for the new director, but she was a flash in the pan.* This metaphoric term alludes to the 17th-century flintlock musket, which could be fired only when the flash of the priming powder in the lockpan ignited the charge in the bore. When it failed to ignite, there was only a flash in the pan and the gun did not shoot."
+    "id": "thumbs-up",
+    "term": "thumbs up",
+    "definition": "An expression of approval or hopefulness, as in *The town said thumbs up on building the elderly housing project.* The antonym *thumbs down* indicates disapproval or rejection, as in *Mother gave us thumbs down on serving beer at our party.* Alluding to crowd signals used in Roman amphitheaters, these idioms were first recorded in English about 1600. In ancient times the meaning of the gestures was opposite that of today. Thumbs down indicated approval; thumbs up, rejection. Exactly when the reveral occurred is not known, but the present conventions were established by the early 1900s."
   },
   "person": {
-    "id": "jozef-beck",
-    "name": "Józef Beck",
-    "dates": "Oct 4, 1894 - Jun 5, 1944",
-    "mainImg": "img/people/jozef-beck.jpg",
+    "id": "ahaz",
+    "name": "Ahaz",
+    "dates": "762 BC - 709 BC",
+    "mainImg": "img/people/ahaz.jpg",
     "summary": [
-      "Józef Beck was a Polish statesman who served the Second Republic of Poland as a diplomat and military officer, and was a close associate of Józef Piłsudski. Beck is most famous for being Polish foreign minister in the 1930s, when he largely set Polish foreign policy.",
-      "He tried to fulfill Piłsudski's dream of making Poland the leader of a regional coalition, but he was widely disliked and distrusted by other governments. He was involved in territorial disputes with Lithuania and Czechoslovakia. With his nation caught between two large, hostile powers—Germany and the Soviet Union—Beck sometimes pursued accommodation with them and sometimes defied them, trying to take advantage of their mutual antagonism. As this proved unsuccessful, he formed an alliance with Great Britain and France, but despite mutual agreements, they would not provide effective assistance to Poland. In 1939, when Germany and the Soviet Union both invaded Poland, Beck and the rest of his government evacuated to Romania."
-    ],
-    "quote": "“There is one thing in the life of men,nations and states which is priceless-honour.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/J%C3%B3zef_Beck",
-    "urlGoogle": "https://artsandculture.google.com/entity/józef-beck/m04cz6m"
-  },
-  "place": {
-    "id": "amsterdam",
-    "name": "Amsterdam",
-    "mainImg": "img/places/amsterdam.jpg",
-    "summary": [
-      "Amsterdam is the capital and most populous city of the Netherlands with a population of 872,680 within the city proper, 1,380,872 in the urban area and 2,410,960 in the metropolitan area. Found within the province of North Holland, Amsterdam is colloquially referred to as the \"Venice of the North\", attributed by the large number of canals which form a UNESCO World Heritage Site.",
-      "Amsterdam's name derives from Amstelredamme, indicative of the city's origin around a dam in the river Amstel. Originating as a small fishing village in the late 12th century, Amsterdam became one of the most important ports in the world in the Dutch Golden Age of the 17th century and became the leading centre for finance and trade. In the 19th and 20th centuries, the city expanded, and many new neighbourhoods and suburbs were planned and built. The 17th-century canals of Amsterdam and the 19–20th century Defence Line of Amsterdam are on the UNESCO World Heritage List. Sloten, annexed in 1921 by the municipality of Amsterdam, is the oldest part of the city, dating to the 9th century."
+      "Ahaz an abbreviation of Jehoahaz II, \"Yahweh has held\" was the twelfth king of Judah, and the son and successor of Jotham. Ahaz was 20 when he became king of Judah and reigned for 16 years.",
+      "Ahaz is portrayed as an evil king in the Second Book of Kings.",
+      "Edwin R. Thiele concluded that Ahaz was co-regent with Jotham from 736/735 BC, and that his sole reign began in 732/731 and ended in 716/715 BC. William F. Albright has dated his reign to 744–728 BC.",
+      "The Gospel of Matthew lists Ahaz of Judah in the genealogy of Jesus. He is also mentioned in Isaiah 14:28."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Amsterdam",
-    "urlGoogle": "https://artsandculture.google.com/entity/amsterdam/m0k3p"
+    "urlWiki": "https://en.wikipedia.org/wiki/Ahaz",
+    "urlGoogle": "https://artsandculture.google.com/entity/ahaz/m0hy0s"
+  },
+  "place": {
+    "id": "iloilo-city",
+    "name": "Iloilo City",
+    "mainImg": "img/places/iloilo-city.jpg",
+    "summary": [
+      "Iloilo City, officially the City of Iloilo, is a highly urbanized city on the southeastern tip of Panay island in the Philippines. It is the capital city of the province of Iloilo where it is geographically situated but, in terms of government and administration, it is politically independent. In addition, it is the center of the Iloilo-Guimaras Metropolitan Area, as well as the regional center and primate city of the Western Visayas region. In the 2015 census, Iloilo City had a population of 447,992 inhabitants, with a 1.02% population annual growth rate. For the metropolitan area, the total population is 946,146 inhabitants.",
+      "Iloilo City is bordered by the towns of Oton in the west, Pavia in the north and Leganes in the northeast. Just across the Iloilo Strait in its eastern and southern coastlines, are the towns of Buenavista and Jordan in the island-province of Guimaras. The city was a conglomeration of former towns, which are now the geo-political districts consisting of: Villa Arevalo, Iloilo City Proper, Jaro, La Paz, Mandurriao and Molo. The district of Lapuz, a former part of La Paz, was declared a separate district in 2008."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Iloilo_City",
+    "urlGoogle": "https://artsandculture.google.com/entity/iloilo-city/m04wdb1"
   },
   "wiki": {
-    "id": "liber-eliensis",
-    "name": "Liber Eliensis",
-    "summary": "The Liber Eliensis (\"Book of Ely\") is a 12th-century English chronicle and history, written in Latin. Composed in three books, it was written at Ely Abbey on the island of Ely in the fenlands of eastern Cambridgeshire. Ely Abbey became the cathedral of a newly formed bishopric in 1109. The Liber covers the period from the founding of the abbey in 673 until the middle of the 12th century, building on a number of earlier historical works. It incorporates documents and stories of saints' lives and is a typical example of a kind of local history produced during the latter part of the 12th century. The longest of the contemporary local histories, it describes the devastation caused by the disorders during the reign of King Stephen, as well as the career of Nigel (Bishop of Ely 1133–69) and his disputes with the king. The two surviving complete manuscripts of the work are complemented by a number of partial manuscripts. A printed version of the Latin text appeared in 1963 and an English translation was published in 2005. The Liber Eliensis is an important source of historical information for the region and period it covers, and particularly for the abbey and bishopric of Ely.",
-    "url": "https://en.wikipedia.org/wiki/Liber_Eliensis"
+    "id": "supreme-court-of-the-united-states",
+    "name": "Supreme Court of the United States",
+    "summary": "The Supreme Court of the United States is the highest judicial body in the United States and leads the judicial branch of the United States federal government. The Justices are nominated by the President and confirmed with the \"advice and consent\" of the Senate. They are appointed to serve \"during good behavior,\" which means for life, and leave office only upon death, retirement, resignation, or impeachment and subsequent conviction. The Supreme Court holds both original and appellate jurisdiction, with its appellate jurisdiction accounting for most of the Court's caseload. The Supreme Court meets in Washington, D.C., in the United States Supreme Court building. The Court's yearly terms usually start on the first Monday in October and finish sometime during the following June or July. Each term consists of alternating two week intervals. During the first interval, the court is in session and hears cases, and during the second interval, the court is recessed to consider and write opinions on cases they have heard.",
+    "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"
   },
   "word": {
-    "id": "woebegone",
-    "word": "woebegone",
-    "url": "https://www.merriam-webster.com/dictionary/woebegone",
+    "id": "brummagem",
+    "word": "brummagem",
+    "url": "https://www.merriam-webster.com/dictionary/brummagem",
     "partOfSpeech": "adjective",
-    "pronunciation": "WOH-bih-gahn",
-    "audioPath": "audio/words/woebegone.mp3",
-    "definitions": [
-      "strongly afflicted with woe : woeful",
-      "exhibiting great woe, sorrow, or misery",
-      "being in a sorry state"
-    ],
+    "pronunciation": "BRUM-ih-jum",
+    "audioPath": "audio/words/brummagem.mp3",
+    "definitions": ["not genuine : spurious; also : cheaply showy : tawdry"],
     "examples": [
-      "Jerry's face had the _woebegone_ expression of a man who had just lost a beloved pet.",
-      "\"The Giants also were able to shake off Kevin Boss' early fumble and kept the _woebegone_ Seahawks from gaining any life from it.\" -- From an article by Vinny DiTrani in _The Record_ (Bergen County, NJ), November 9, 2010"
+      "Donald knew better than to pay good money for the _brummagem_ watch that was being falsely advertised as a quality Swiss timepiece.",
+      "\"Just as critics … conceived high culture in some antithetical relationship to 'middlebrow' or 'kitsch,' which imitated the intelligentsia's culture and blurred the distinction between commodity and art, so too, they warned, the spirit of Christianity now had to be preserved from its _brummagem_ versions….\" -- From Jason W. Stevens' 2010 book _God-Fearing and Free: A Spiritual History of America's Cold War_"
     ],
-    "origin": "At first glance, \"woebegone\" looks like a word that has its meaning backwards; after all, if \"begone\" means \"go away,\" shouldn't \"woebegone\" mean \"devoid of woe,\" or \"happy\"? Not exactly. The word derives from the Middle English phrase \"wo begon.\" The \"wo\" in this phrase simply means \"woe,\" but \"begon\" (deriving from Old English \"begān\") is a past participle meaning \"beset.\" Someone who is \"woebegone,\" therefore, is beset with woe. Since the early 19th century, the word has also been used to describe things that appear to express sadness, as in \"a woebegone face.\""
+    "origin": "\"Brummagem\" first appeared in the 17th century as an alteration of \"Birmingham,\" the name of a city in England. At that time Birmingham was notorious for the counterfeit coins made there, and the word \"brummagem\" quickly became associated with things forged or inauthentic. By the 19th century, Birmingham had become a chief manufacturer of cheap trinkets and gilt jewelry, and again the word \"brummagem\" followed suit -- it came to describe that which is showy on the outside but essentially of low quality. Perhaps the term was something of an annoyance to the people of Birmingham way back when, but nowadays \"brummagem\" is usually used without any conscious reference to the British city."
   }
 }

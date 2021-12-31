@@ -1,133 +1,124 @@
 {
   "artist": {
-    "id": "masaccio",
-    "name": "Masaccio",
-    "dates": "Dec 21, 1401 - 1428",
-    "mainImg": "img/art/artists/masaccio.jpg",
+    "id": "e-phillips-fox",
+    "name": "E. Phillips Fox",
+    "dates": "Mar 12, 1865 - Oct 8, 1915",
+    "mainImg": "img/art/artists/e-phillips-fox.jpg",
     "artworkImgs": [
       {
-        "name": "Saint Anne 'Metterza'",
-        "path": "img/art/artworks/masaccio-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-anne-metterza-masaccio-masolino-cassai-fini/3AEld4jAUGSYPg"
+        "name": "Octavius Catto",
+        "path": "img/art/artworks/e-phillips-fox-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/octavius-catto-broadbent-and-phillips/oQHMPGO3he6zjw"
       },
       {
-        "name": "Crucifixion",
-        "path": "img/art/artworks/masaccio-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/crucifixion-masaccio-tommaso-di-ser-giovanni-di-mone-cassai/kwHRfiWPcAMnGw"
+        "name": "Art students",
+        "path": "img/art/artworks/e-phillips-fox-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/art-students-e-phillips-fox/mgEI2w2kdQQiYQ"
       },
       {
-        "name": "Saint Andrew",
-        "path": "img/art/artworks/masaccio-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-andrew/4AEKNkaCT8hsjA"
+        "name": "The milking shed",
+        "path": "img/art/artworks/e-phillips-fox-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-milking-shed-e-phillips-fox/GQFrqfSnNleVog"
       },
       {
-        "name": "Saints Paul and Peter",
-        "path": "img/art/artworks/masaccio-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/saints-paul-and-peter-masaccio-tommaso-di-ser-giovanni-cassai-italian-active-florence-and-rome-1401-1428-29/rwGRZTU26EXaWg"
+        "name": "Al fresco",
+        "path": "img/art/artworks/e-phillips-fox-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/al-fresco-e-phillips-fox/uwGzKX0K-8WdIA"
       },
       {
-        "name": "Free Copy of Giotto's Navicella (recto); Copy of Adam in Masaccio's Expulsion from the Garden of Eden, and other Figure Studies (verso)",
-        "path": "img/art/artworks/masaccio-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/free-copy-of-giotto-s-navicella-recto-copy-of-adam-in-masaccio-s-expulsion-from-the-garden-of-eden-and-other-figure-studies-verso-parri-spinelli-masaccio-tommaso-di-ser-giovanni-di-mone-casai/9QGzV2bybJvy_g"
+        "name": "Ina Gregory",
+        "path": "img/art/artworks/e-phillips-fox-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/ina-gregory-e-phillips-fox/rwES6r5IZQPIVg"
+      },
+      {
+        "name": "Adelaide",
+        "path": "img/art/artworks/e-phillips-fox-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/adelaide-e-phillips-fox/ewFyX7a7E9S_7A"
       }
     ],
     "summary": [
-      "Masaccio, born Tommaso di Ser Giovanni di Simone, was a Florentine artist who is regarded as the first great Italian painter of the Quattrocento period of the Italian Renaissance. According to Vasari, Masaccio was the best painter of his generation because of his skill at imitating nature, recreating lifelike figures and movements as well as a convincing sense of three-dimensionality. He employed nudes and foreshortenings in his figures. This had seldom been done before him.",
-      "The name Masaccio is a humorous version of Maso, meaning \"clumsy\" or \"messy\" Tom. The name may have been created to distinguish him from his principal collaborator, also called Maso, who came to be known as Masolino.",
-      "Despite his brief career, he had a profound influence on other artists and is considered to have started the Early Italian Renaissance in painting with his works in the mid- and late-1420s. He was one of the first to use linear perspective in his painting, employing techniques such as vanishing point in art for the first time."
+      "Emanuel Phillips Fox was an Australian impressionist painter. After studying at the National Gallery of Victoria Art School in Melbourne, Fox travelled to Paris to study in 1886. He remained in Europe until 1892, when he returned to Melbourne and led what is considered the second phase of the Heidelberg School, an impressionist art movement which had grown in the city during his absence. He spent over a decade in Europe in the early 20th century before finally settling in Melbourne, where he died."
     ],
     "quote": null,
-    "movements": ["Italian Renaissance", "Renaissance"],
-    "mediums": ["Tempera", "Gold", "Metal", "Drawing", "Gold leaf", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Masaccio",
-    "urlGoogle": "https://artsandculture.google.com/entity/masaccio/m07n29"
+    "movements": ["Impressionism", "Heidelberg School", "Modern art"],
+    "mediums": ["Oil paint", "Conté", "Pencil", "Charcoal", "Crayon"],
+    "urlWiki": "https://en.wikipedia.org/wiki/E._Phillips_Fox",
+    "urlGoogle": "https://artsandculture.google.com/entity/e-phillips-fox/m08d4b4"
   },
   "event": {
-    "id": "soweto-uprising",
-    "name": "Soweto uprising",
-    "dates": "Jun 16, 1976",
-    "mainImg": "img/events/soweto-uprising.jpg",
+    "id": "battle-of-clavijo",
+    "name": "Battle of Clavijo",
+    "dates": "844 AD",
+    "mainImg": "img/events/battle-of-clavijo.jpg",
     "summary": [
-      "The Soweto uprising was a series of demonstrations and protests led by black school children in South Africa that began on the morning of 16 June 1976.",
-      "Students from numerous Sowetan schools began to protest in the streets of Soweto in response to the introduction of Afrikaans as the medium of instruction in local schools. It is estimated that 20,000 students took part in the protests. They were met with fierce police brutality. The number of protesters killed by police is usually given as 176, but estimates of up to 700 have been made. In remembrance of these events, 16 June is now a public holiday in South Africa, named Youth Day."
+      "The Battle of Clavijo is a mythical battle. \"To a serious historian, the existence of the Battle of Clavijo is not even a topic of discussion\". However, it was believed for centuries to be historical, and it became a popular theme of Spanish traditions regarding the Christian expulsion of the Muslims. The stories about the battle are first found centuries after it allegedly occurred; according to them, it was fought near Clavijo between Christians, led by Ramiro I of Asturias, and Muslims, led by the Emir of Córdoba.",
+      "In the legend, James, son of Zebedee, an Apostle of Jesus, and future Saint James/Santiago, who died 800 years earlier, suddenly appeared and led an outnumbered Christian army to gain its victory. He became the patron saint of Spain and is known to Spaniards as Santiago Matamoros. Aspects of the historical Battle of Monte Laturce were incorporated into this legend, as Claudio Sánchez-Albornoz demonstrated in 1948. The date originally assigned to the battle, 834, was changed in modern times to 844 to suit the inherent contradictions of the account. The day is sometimes given as 23 May."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Soweto_uprising",
-    "urlGoogle": "https://artsandculture.google.com/entity/soweto-uprising/m07s6rd"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Clavijo",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-clavijo/m0dl70x"
   },
   "funFacts": [
     {
-      "id": "727",
-      "fact": "A spider's silk is stronger than steel.",
-      "category": ["Animals", "Science"]
+      "id": "837",
+      "fact": "Bananas are the most widely-eaten fruit in America.",
+      "category": ["Food"]
     },
-    {
-      "id": "333",
-      "fact": "Long Island is the largest island in the Continental U.S.",
-      "category": ["Geography"]
-    }
+    { "id": "417", "fact": "All polar bears are left-handed.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
-      "id": "505074",
-      "fact": "At one time, George Washington was the nation's largest whiskey producer. He made 11,000 gallons in 1799."
+      "id": "553701",
+      "fact": "When Disneyland was opened in 1955, “Tomorrowland” was designed to look like a year in the distant future: 1986."
     }
   ],
   "idiom": {
-    "id": "jack-of-all-trades",
-    "term": "jack of all trades",
-    "definition": "An individual who is adept at everything he or she undertakes. This idiom first appeared in Geffray Mynshul's *Essayes and Characters of a Prison* (1618)*.* Even earlier several writers pointed out that someone who is good at everything is good at nothing. A version appeared in Chaucer's *Troilus and Cressida,* \"He that parted is in every place is no-wher hool, as writen cleryks wyse.\" By 1800 it was put as **jack of all trades, master of none** (Maria Edgeworth, *Popular Tales: Will*)."
+    "id": "true-blue",
+    "term": "true blue",
+    "definition": "Loyal, faithful, as in *You can count on her support; she's true blue.* This expression alludes to the idea of blue being the color of constancy, but the exact allusion is disputed. One theory holds it alludes to the unchanging blue sky, another to the fastness of a blue dye that will not run. Blue has been the identifying color of various factions in history. In the mid-1600s the Scottish Covenanters, who pledged to uphold Presbyterianism, were called *true blue* (as opposed to *red,* the color of the royalists). In the 1800s the same term came to mean \"staunchly Tory,\" and in America, \"politically sound.\""
   },
   "person": {
-    "id": "frederick-william-ii-of-prussia",
-    "name": "Frederick William II of Prussia",
-    "dates": "Sep 25, 1744 - Nov 16, 1797",
-    "mainImg": "img/people/frederick-william-ii-of-prussia.jpg",
+    "id": "franklin-d-roosevelt",
+    "name": "Franklin D. Roosevelt",
+    "dates": "Jan 30, 1882 - Apr 12, 1945",
+    "mainImg": "img/people/franklin-d-roosevelt.jpg",
     "summary": [
-      "Frederick William II was King of Prussia from 1786 until his death. He was in personal union the Prince-elector of Brandenburg and sovereign prince of the Canton of Neuchâtel. Pleasure-loving and indolent, he is seen as the antithesis to his predecessor, Frederick II. Under his reign, Prussia was weakened internally and externally, and he failed to deal adequately with the challenges to the existing order posed by the French Revolution. His religious policies were directed against the Enlightenment and aimed at restoring a traditional Protestantism. However, he was a patron of the arts and responsible for the construction of some notable buildings, among them the Brandenburg Gate in Berlin."
+      "Franklin Delano Roosevelt, often referred to by his initials FDR, was an American politician who served as the 32nd president of the United States from 1933 until his death in 1945. A member of the Democratic Party, he won a record four presidential elections and became a central figure in world events during the first half of the 20th century. Roosevelt directed the federal government during most of the Great Depression, implementing his New Deal domestic agenda in response to the worst economic crisis in U.S. history. As a dominant leader of his party, he built the New Deal Coalition, which realigned American politics into the Fifth Party System and defined American liberalism throughout the middle third of the 20th century. His third and fourth terms were dominated by World War II, which ended shortly after he died in office. He is usually rated by scholars among the nation's greatest presidents, after George Washington and Abraham Lincoln, but has also been subject to substantial criticism."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_William_II_of_Prussia",
-    "urlGoogle": "https://artsandculture.google.com/entity/frederick-william-ii-of-prussia/m01f9fw"
+    "quote": "“Put two or three men in positions of conflicting authority. This will force them to work at loggerheads, allowing you to be the ultimate arbiter.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+    "urlGoogle": "https://artsandculture.google.com/entity/franklin-d-roosevelt/m02yy8"
   },
   "place": {
-    "id": "copenhagen",
-    "name": "Copenhagen",
-    "mainImg": "img/places/copenhagen.jpg",
+    "id": "namur",
+    "name": "Namur",
+    "mainImg": "img/places/namur.jpg",
     "summary": [
-      "Copenhagen is the capital and most populous city of Denmark. As of 1 January 2020, the city had a population of 794,128 with 632,340 in Copenhagen Municipality, 104,305 in Frederiksberg Municipality, 42,989 in Tårnby Municipality, and 14,494 in Dragør Municipality. It forms the core of the wider urban area of Copenhagen and the Copenhagen metropolitan area. Copenhagen is situated on the eastern coast of the island of Zealand; another small portion of the city is located on Amager, and it is separated from Malmö, Sweden, by the strait of Øresund. The Øresund Bridge connects the two cities by rail and road.",
-      "Originally a Viking fishing village established in the 10th century in the vicinity of what is now Gammel Strand, Copenhagen became the capital of Denmark in the early 15th century. Beginning in the 17th century, it consolidated its position as a regional centre of power with its institutions, defences and armed forces. During the renaissance the city served as the de facto capital being the seat of government of the Kalmar Union, governing the entire present day Nordic region in a personal union with Sweden and Norway ruled by the Danish monarch serving as the head of state."
+      "Namur is a city and municipality in Wallonia, Belgium. It is both the capital of the province of Namur and of Wallonia, hosting the Parliament of Wallonia, Walloon Government and administration.",
+      "Namur stands at the confluence of the Sambre and Meuse rivers and straddles three different regions – Hesbaye to the north, Condroz to the south-east, and Entre-Sambre-et-Meuse to the south-west. The city of Charleroi is located to the west. The language spoken is French.",
+      "The City of Namur includes the old communes of Beez, Belgrade, Saint-Servais, Saint-Marc, Bouge, Champion, Daussoulx, Flawinne, Malonne, Suarlée, Temploux, Vedrin, Boninne, Cognelée, Gelbressée, Marche-les-Dames, Dave, Jambes, Naninne, Wépion, Wierde, Erpent, Lives-sur-Meuse, and Loyers."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Copenhagen",
-    "urlGoogle": "https://artsandculture.google.com/entity/copenhagen/m01lfy"
-  },
-  "quote": {
-    "id": "73",
-    "quote": "Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read.",
-    "author": "Groucho Marx"
+    "urlWiki": "https://en.wikipedia.org/wiki/Namur",
+    "urlGoogle": "https://artsandculture.google.com/entity/namur/m017sk9"
   },
   "wiki": {
-    "id": "elias-ashmole",
-    "name": "Elias Ashmole",
-    "summary": "Elias Ashmole was an antiquarian, collector, politician, and student of astrology and alchemy. He supported the royalist side during the English Civil War, and at the restoration of Charles II he was rewarded with several lucrative offices. Throughout his life he was an avid collector of curiosities and other artifacts. Many of these he acquired from the traveller, botanist, and collector John Tradescant the elder and his son, and most he donated to Oxford University to create the Ashmolean Museum. He also donated his library and priceless manuscript collection to Oxford. Apart from his collecting activities, Ashmole illustrates the passing of the pre-scientific world view in the seventeenth century: while he immersed himself in alchemical, magical and astrological studies and was consulted on astrological questions by Charles II and his court, these studies were essentially backward-looking. Although he was one of the founding members of the Royal Society, a key institution in the development of experimental science, he never participated actively.",
-    "url": "https://en.wikipedia.org/wiki/Elias_Ashmole"
+    "id": "sikkim",
+    "name": "Sikkim",
+    "summary": "Sikkim is a landlocked Indian state nestled in the Himalayas. It is the least populous state in India, and the second smallest. Sikkim was an independent state ruled by the Chogyal monarchy until 1975, when a referendum to make it India's twenty-second state succeeded. The thumb-shaped state borders Nepal in the west, Tibet to the north and east, and Bhutan in the south-east. The Indian state of West Bengal borders Sikkim to its south. The official language is Nepali, and the predominant religions are Hinduism and Vajrayana Buddhism. Gangtok is the capital and largest town. Despite its small size, Sikkim is geographically diverse, owing to its location at the Himalayan foothills. Terrain ranges from tropical in the south to tundra in the north. Kanchenjunga, the world's third highest peak, is located in Sikkim, straddling its northern border with Nepal. Sikkim has become one of India's most visited states owing to its reputation for untouched scenic beauty and political stability.",
+    "url": "https://en.wikipedia.org/wiki/Sikkim"
   },
   "word": {
-    "id": "bijou",
-    "word": "bijou",
-    "url": "https://www.merriam-webster.com/dictionary/bijou",
-    "partOfSpeech": "noun",
-    "pronunciation": "BEE-zhoo",
-    "audioPath": "audio/words/bijou.mp3",
-    "definitions": [
-      "a small dainty usually ornamental piece of delicate workmanship : jewel",
-      "something delicate, elegant, or highly prized"
-    ],
+    "id": "copacetic",
+    "word": "copacetic",
+    "url": "https://www.merriam-webster.com/dictionary/copacetic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "koh-puh-SET-ik",
+    "audioPath": "audio/words/copacetic.mp3",
+    "definitions": ["very satisfactory"],
     "examples": [
-      "_Bijoux_ from around the world will be on exhibit and later auctioned off.",
-      "\"Bauble Bar has loads of gorgeous _bijoux_ that won't break the bank…. The Radiant Orchid Collar Necklace is among my favorites….\" - From an article by Gretta Monahan in the _Boston Herald_, January 23, 2014"
+      "Although Julie and Emma were barely on speaking terms last week, they now say that they have patched things up and everything is copacetic."
     ],
-    "origin": "\"Bijou\" (which can be pluralized as either \"bijoux\" or \"bijous\") has adorned English since the late 17th century. We borrowed it from French, but the word ultimately traces to Breton, a Celtic language (one closely related to Cornish and Welsh) spoken by inhabitants of the Brittany region of northwest France. Our modern English word derives from Breton \"bizou,\" which means \"ring.\" That history makes \"bijou\" a rare gem in English because, although the Breton people occupied part of England for many years before they were pushed into France by the Anglo-Saxons in the 5th and 6th centuries, very few Breton-derived words remain in our language. (Another Breton descendant is \"[menhir](https://www.merriam-webster.com/dictionary/menhir),\" a term for a kind of monolith.)"
+    "origin": "Theories about the origin of \"copacetic\" abound. The tap dancer Bill \"Bojangles\" Robinson believed he had coined the word as a boy in Richmond, Virginia. When patrons of his shoeshine stand would ask, \"How’s everything this morning?\" he would reply, \"Oh jes’ copacetic, boss; jes’ copacetic.\" But the word was current in Southern Black English perhaps as early as 1880, so it seems unlikely that Robinson (born in 1878) could have invented the term. Another explanation is that the word is from the Hebrew phrase \"kol be sedher,\" meaning \"everything is in order.\" Possibly it was coined by Harlem blacks working in Jewish businesses. The word’s popularity among Southern blacks, however, points to its originating in one of the Southern cities in which Jewish communities thrived, such as Atlanta."
   }
 }

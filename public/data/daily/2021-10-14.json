@@ -1,134 +1,119 @@
 {
   "artist": {
-    "id": "wojciech-kossak",
-    "name": "Wojciech Kossak",
-    "dates": "Dec 31, 1856 - Jul 29, 1942",
-    "mainImg": "img/art/artists/wojciech-kossak.jpg",
+    "id": "ellsworth-kelly",
+    "name": "Ellsworth Kelly",
+    "dates": "May 31, 1923 - Dec 27, 2015",
+    "mainImg": "img/art/artists/ellsworth-kelly.jpg",
     "artworkImgs": [
       {
-        "name": "Original film programme for “Pan Tadeusz” (1928)",
-        "path": "img/art/artworks/wojciech-kossak-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/original-film-programme-for-“pan-tadeusz”-1928-wojciech-kossak/igHre1lxd05yaw"
+        "name": "East River",
+        "path": "img/art/artworks/ellsworth-kelly-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/east-river-ellsworth-kelly-american-1923–2015/AgED5YocrBXJdA"
       },
       {
-        "name": "Yulianna Avdeeva (Rosja), I nagroda w XVI Konkursie (2010), z Orkiestrą Symfoniczną Filharmonii Narodowej pod dyrekcją Antoniego Wita",
-        "path": "img/art/artworks/wojciech-kossak-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/yulianna-avdeeva-rosja-i-nagroda-w-xvi-konkursie-2010-z-orkiestrą-symfoniczną-filharmonii-narodowej-pod-dyrekcją-antoniego-wita-wojciech-grędziński/CwFnTfsBvyhNfA"
+        "name": "Tableau Vert",
+        "path": "img/art/artworks/ellsworth-kelly-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/tableau-vert-ellsworth-kelly-american-1923–2015/CQEz40WNhx1PeA"
       },
       {
-        "name": "French cuirassier",
-        "path": "img/art/artworks/wojciech-kossak-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/french-cuirassier-wojciech-kossak-1856-1942/7wEILRaLhADbmA"
+        "name": "White Disk III",
+        "path": "img/art/artworks/ellsworth-kelly-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/white-disk-iii-ellsworth-kelly-american-1923–2015/egFKjTVFjrtzzA"
       },
       {
-        "name": "Polski Fiat [Polish Fiat]",
-        "path": "img/art/artworks/wojciech-kossak-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/polski-fiat-polish-fiat-wojciech-kossak/TAF34d0G8XdNRg"
+        "name": "Red Yellow Blue White and Black",
+        "path": "img/art/artworks/ellsworth-kelly-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/red-yellow-blue-white-and-black-ellsworth-kelly-american-1923–2015/8AGo4l1Tvck7jA"
       },
       {
-        "name": "Kościuszko and scythemen",
-        "path": "img/art/artworks/wojciech-kossak-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/kościuszko-and-scythemen-wojciech-kossak/hgEGyGskmE07hA"
-      },
-      {
-        "name": "Jurorzy XVI Konkursu (2010). Od lewej: Nelson Freire, Michie Koyama, Philippe Entremont, Adam Harasiewicz, Martha Argerich, Bella Davidovich, Kevin Kenner, Piotr Paleczny, Fou Ts'Ong, Albert Grudziński, Dang Thai Son, Katarzyna Popowa-Zydroń, Andrzej Jasiński",
-        "path": "img/art/artworks/wojciech-kossak-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/jurorzy-xvi-konkursu-2010-od-lewej-nelson-freire-michie-koyama-philippe-entremont-adam-harasiewicz-martha-argerich-bella-davidovich-kevin-kenner-piotr-paleczny-fou-ts-ong-albert-grudziński-dang-thai-son-katarzyna-popowa-zydroń-andrzej-jasiński-wojciech-grędziński/1wHUvFKrAzf6ig"
+        "name": "Two Blacks and White",
+        "path": "img/art/artworks/ellsworth-kelly-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/two-blacks-and-white-ellsworth-kelly/vwEStKIHqwBQOw"
       }
     ],
     "summary": [
-      "Wojciech Horacy Kossak was a noted Polish painter and member of the celebrated Kossak family of artists and writers. He was the son of painter Juliusz Kossak, and twin brother of freedom fighter Tadeusz Kossak, and the father of two highly talented literary daughters, Maria Pawlikowska-Jasnorzewska and Magdalena Samozwaniec and of a painter son, Jerzy Kossak."
+      "Ellsworth Kelly was an American painter, sculptor, and printmaker associated with hard-edge painting, Color Field painting and minimalism. His works demonstrate unassuming techniques emphasizing line, color and form, similar to the work of John McLaughlin and Kenneth Noland. Kelly often employed bright colors. He lived and worked in Spencertown, New York."
     ],
-    "quote": null,
-    "movements": ["Realism"],
-    "mediums": ["Oil paint", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Wojciech_Kossak",
-    "urlGoogle": "https://artsandculture.google.com/entity/wojciech-kossak/m04v6cm"
+    "quote": "“I think that if you can turn off the mind and look only with the eyes, ultimately everything becomes abstract.”",
+    "movements": ["Minimalism", "Contemporary art", "Color field"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ellsworth_Kelly",
+    "urlGoogle": "https://artsandculture.google.com/entity/ellsworth-kelly/m07sk_z"
   },
   "event": {
-    "id": "great-fire-of-london",
-    "name": "Great Fire of London",
-    "dates": "Sep 2, 1666 - Sep 6, 1666",
-    "mainImg": "img/events/great-fire-of-london.jpg",
+    "id": "revolutions-of-1989",
+    "name": "Revolutions of 1989",
+    "dates": "Jun 4, 1989 - Dec 26, 1991",
+    "mainImg": "img/events/revolutions-of-1989.jpg",
     "summary": [
-      "The Great Fire of London swept through the central parts of the English city from Sunday, 2 September to Thursday, 6 September 1666. The fire gutted the medieval City of London inside the old Roman city wall. It threatened but did not reach the City of Westminster, Charles II's Palace of Whitehall, or most of the suburban slums. It destroyed 13,200 houses, 87 parish churches, St Paul's Cathedral, and most of the buildings of the City authorities. It is estimated to have destroyed the homes of 70,000 of the city's 80,000 inhabitants.",
-      "The death toll is unknown but was traditionally thought to have been relatively small, as only six verified deaths were recorded. This reasoning has recently been challenged on the grounds that the deaths of poor and middle-class people were not recorded; moreover, the heat of the fire may have cremated many victims, leaving no recognisable remains. A melted piece of pottery on display at the Museum of London found by archaeologists in Pudding Lane, where the fire started, shows that the temperature reached 1,250 °C."
+      "The Revolutions of 1989 formed part of a revolutionary wave in the late 1980s and early 1990s that resulted in the end of communist rule in Central and Eastern Europe and beyond. The period is often also called the Fall of Communism and sometimes called the Fall of Nations or the Autumn of Nations, a play on the term Spring of Nations that is sometimes used to describe the Revolutions of 1848.",
+      "The events of the full-blown revolution began in Poland in 1989 and continued in Hungary, East Germany, Bulgaria, Czechoslovakia and Romania. One feature common to most of these developments was the extensive use of campaigns of civil resistance, demonstrating popular opposition to the continuation of one-party rule and contributing to the pressure for change. Romania was the only Eastern Bloc country whose citizens overthrew its Communist regime violently. Protests in Tiananmen Square failed to stimulate major political changes in China, but influential images of courageous defiance during that protest helped to precipitate events in other parts of the globe."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
-    "urlGoogle": "https://artsandculture.google.com/entity/great-fire-of-london/m0374t"
+    "urlWiki": "https://en.wikipedia.org/wiki/Revolutions_of_1989",
+    "urlGoogle": "https://artsandculture.google.com/entity/revolutions-of-1989/m0cb58r"
   },
   "funFacts": [
     {
-      "id": "285",
-      "fact": "In ancient Rome, lemons were used as an antidote to all poisons.",
-      "category": ["Food", "History"]
+      "id": "939",
+      "fact": "The penny was the first U.S. coin to feature the likeness of an actual person.",
+      "category": ["History", "Firsts"]
     },
     {
-      "id": "123",
-      "fact": "Beavers were once the size of bears.",
-      "category": ["Animals", "History"]
+      "id": "715",
+      "fact": "In one day, a full-grown oak tree expels 7 tons of water through its leaves.",
+      "category": ["Plants"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554030",
-      "fact": "The dragon tree of the Canary Islands is famous for its thick, deep-red sap. Called dragon's blood, the resin might be responsible for the intense hue of the famous Stradivarius violins built in the 17th and 18th centuries."
+      "id": "554028",
+      "fact": "F. Scott Fitzgerald's full name is Francis Scott Key Fitzgerald. He was named after his distant relative Francis Scott Key, who wrote the words to \"The Star-Spangled Banner.\""
     }
   ],
-  "idiom": {
-    "id": "couch-potato",
-    "term": "couch potato",
-    "definition": "A person who incessantly watches television to the exclusion of more active pursuits. The potato may either allude to an inert vegetable or be a play on *boob tuber,* slang for a television watcher (a potato being a tuber). It also may allude to the person's consumption of junk food such as potato chips while watching. [1970s]"
-  },
   "person": {
-    "id": "gaston-henry-haye",
-    "name": "Gaston Henry-Haye",
-    "dates": "Feb 6, 1890 - Oct 16, 1983",
-    "mainImg": "img/people/gaston-henry-haye.jpg",
+    "id": "george-mc-govern",
+    "name": "George McGovern",
+    "dates": "Jul 19, 1922 - Oct 21, 2012",
+    "mainImg": "img/people/george-mc-govern.jpg",
     "summary": [
-      "Gaston Henry-Haye was a merchant, French politician and diplomat.",
-      "He served in the French Chamber of Deputies from 1928 to 1935, and in the French Senate from 1935-1944. He was also Mayor of Versailles from 1935-1944. Henry-Haye voted full powers to Marshal Philippe Pétain on 10 July 1940, and was appointed by Petain as Ambassador of Vichy France to the United States in 1940 after the armistice between Vichy France and Germany. His photograph was featured on the cover of Time Magazine on 10 March 1941.",
-      "Henry-Haye was interned by the United States in 1942, following the occupation of Vichy France by Nazi Germany. This internment of a diplomat was unusual, as no state of war existed between Vichy France and the United States. He was allowed to return to Vichy France in 1944, but escaped to South Africa after threats of death by the French Resistance. Henry-Haye returned to France in 1950. He returned to public notice in 1966 when he successfully sued author H. Montgomery Hyde for libel."
+      "George Stanley McGovern was an American historian, author, U.S. representative, U.S. senator, and the Democratic Party presidential nominee in the 1972 presidential election.",
+      "McGovern grew up in Mitchell, South Dakota, where he was a renowned debater. He volunteered for the U.S. Army Air Forces upon the country's entry into World War II and as a B-24 Liberator pilot flew 35 missions over German-occupied Europe from a base in Italy. Among the medals bestowed upon him was a Distinguished Flying Cross for making a hazardous emergency landing of his badly damaged plane and saving his crew. After the war he earned degrees from Dakota Wesleyan University and Northwestern University, culminating in a PhD, and was a history professor. He was elected to the U.S. House of Representatives in 1956 and re-elected in 1958. After a failed bid for the U.S. Senate in 1960, he was a successful candidate in 1962.",
+      "As a senator, McGovern was an example of modern American liberalism. He became most known for his outspoken opposition to the growing U.S. involvement in the Vietnam War. He staged a brief nomination run in the 1968 presidential election as a stand-in for the assassinated Robert F. Kennedy."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Gaston_Henry-Haye",
-    "urlGoogle": "https://artsandculture.google.com/entity/gaston-henry-haye/m0g55rz1"
+    "quote": "“I'm fed up to the ears with old men dreaming up wars for young men to die in.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/George_McGovern",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-mcgovern/m0gz2q"
   },
   "place": {
-    "id": "dublin",
-    "name": "Dublin",
-    "mainImg": "img/places/dublin.jpg",
+    "id": "birmingham",
+    "name": "Birmingham",
+    "mainImg": "img/places/birmingham.jpg",
     "summary": [
-      "Dublin is the capital and largest city of Ireland. Situated on a bay on the east coast, at the mouth of the River Liffey, it lies within the province of Leinster. It is bordered on the south by the Dublin Mountains, a part of the Wicklow Mountains range. It has an urban area population of 1,173,179, while the population of the Dublin Region as of 2016 was 1,347,359. The population of the Greater Dublin Area was 1,904,806 per the 2016 census.",
-      "There is archaeological debate regarding precisely where Dublin was established by the Gaels in or before the 7th century AD. Later expanded as a Viking settlement, the Kingdom of Dublin, the city became Ireland's principal settlement following the Norman invasion. The city expanded rapidly from the 17th century and was briefly the second largest city in the British Empire before the Acts of Union in 1800. Following the partition of Ireland in 1922, Dublin became the capital of the Irish Free State, later renamed Ireland.",
-      "Dublin is a historical and contemporary centre for education, the arts, administration and industry."
+      "Birmingham is a city in the north central region of the U.S. state of Alabama. With an estimated 2019 population of 209,403, it is the most populous city in Alabama. Birmingham is the seat of Jefferson County, Alabama's most populous and fifth largest county. As of 2018, the Birmingham-Hoover Metropolitan Statistical Area had a population of 1,151,801, making it the most populous in Alabama and 49th-most populous in the United States. Birmingham serves as an important regional hub and is associated with the Deep South, Piedmont, and Appalachian regions of the nation.",
+      "Birmingham was founded in 1871, during the post–Civil War Reconstruction era, through the merger of three farm towns, most notably Elyton. The new city was named for Birmingham, England, the United Kingdom's second largest city and then a major industrial city. The Alabama city annexed its smaller neighbors as it developed into a major industrial center based on mining, the iron and steel industry, and rail transport. Most of the original settlers were of English ancestry."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Dublin",
-    "urlGoogle": "https://artsandculture.google.com/entity/dublin/m02cft"
+    "urlWiki": "https://en.wikipedia.org/wiki/Birmingham,_Alabama",
+    "urlGoogle": "https://artsandculture.google.com/entity/birmingham/m0lphb"
   },
   "wiki": {
-    "id": "adi-shankara",
-    "name": "Adi Shankara",
-    "summary": "Adi Shankara was the first philosopher to consolidate the doctrine of Advaita Vedanta, a sub-school of Vedanta. His teachings are based on the unity of the soul and God, in which God is viewed as simultaneously personal and attributeless. In the Smārta tradition, Adi Shankara is regarded as an incarnation of Shiva. Adi Shankara toured India with the purpose of propagating his teachings through discourses and debates with other philosophers. He founded four mathas which played a key role in the historical development and spread of Hinduism and Advaita Vedanta. Adi Shankara was the founder of the Dashanami monastic order and the Shanmata tradition of worship. His works in Sanskrit, all of which are extant today, concern themselves with establishing the doctrine of Advaita (Sanskrit, \"Non-dualism\"). Adi Shankara quotes extensively from the Upanishads and other Hindu scriptures in forming his teachings. He also includes polemics against opposing schools of thought like Samkhya and Buddhism in his works.",
-    "url": "https://en.wikipedia.org/wiki/Adi_Shankara"
+    "id": "love-angel-music-baby",
+    "name": "Love. Angel. Music. Baby.",
+    "summary": "Love. Angel. Music. Baby. is the debut solo album by American pop singer Gwen Stefani, released by Interscope Records in November 2004. The album originally began as a small side project, but grew into a large production with numerous collaborations and producers. The album was designed as an updated version of a 1980s music record, and was influenced by artists such as Madonna, Lisa Lisa and Cult Jam, and Club Nouveau. Most of the songs on the record focus on fashion and wealth. The album introduced the \"Harajuku Girls\", four backup dancers who dress in Stefani's interpretation of the youth fashion trends of Harajuku, a district in Tokyo. Despite gathering mostly positive reviews, L.A.M.B. received criticism for its many collaborations and superficial lyrical content. The album yielded six singles and had high sales, going multi-platinum in several countries, and selling seven million copies. It earned Stefani several Grammy Award nominations in 2005 and 2006.",
+    "url": "https://en.wikipedia.org/wiki/Love._Angel._Music._Baby."
   },
   "word": {
-    "id": "diaphanous",
-    "word": "diaphanous",
-    "url": "https://www.merriam-webster.com/dictionary/diaphanous",
-    "partOfSpeech": "adjective",
-    "pronunciation": "dye-AF-uh-nus",
-    "audioPath": "audio/words/diaphanous.mp3",
-    "definitions": [
-      "of so fine a texture as to be transparent",
-      "characterized by extreme delicacy of form : ethereal",
-      "insubstantial, vague"
-    ],
+    "id": "scapegrace",
+    "word": "scapegrace",
+    "url": "https://www.merriam-webster.com/dictionary/scapegrace",
+    "partOfSpeech": "noun",
+    "pronunciation": "SKAYP-grayss",
+    "audioPath": "audio/words/scapegrace.mp3",
+    "definitions": ["an incorrigible rascal"],
     "examples": [
-      "The honeymoon suite has a balcony overlooking the ocean and is furnished with an antique four-poster bed enveloped in a diaphanous curtain."
+      "Joanna was at a loss for ways to help her teenage brother, a scapegrace who always found himself in trouble with the police."
     ],
-    "origin": "Can you guess which of the following words come from the same Greek root as \"diaphanous\"?"
+    "origin": "At first glance, you might think \"scapegrace\" has something in common with \"scapegoat,\" our word for a person who takes the blame for someone else’s mistake or calamity. Indeed, the words do share a common source -- the verb \"scape,\" a variant of \"escape\" that was once far more common than it is today. \"Scapegrace,\" which first appeared in English in the mid-18th century (over 200 years after \"scapegoat\"), arrived at its meaning through its literal interpretation as \"one who has escaped the grace of God.\" (Two now-obsolete words based on a similar notion are \"scape-thrift,\" meaning \"spendthrift,\" and \"want-grace,\" a synonym of \"scapegrace.\") In ornithological circles, \"scapegrace\" can also refer to a loon with a red throat, but this sense is rare."
   }
 }

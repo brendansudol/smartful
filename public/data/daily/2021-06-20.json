@@ -1,116 +1,135 @@
 {
   "artist": {
-    "id": "sarah-lucas",
-    "name": "Sarah Lucas",
-    "dates": "Born Oct 23, 1962",
-    "mainImg": "img/art/artists/sarah-lucas.jpg",
+    "id": "max-ernst",
+    "name": "Max Ernst",
+    "dates": "Apr 2, 1891 - Apr 1, 1976",
+    "mainImg": "img/art/artists/max-ernst.jpg",
     "artworkImgs": [
       {
-        "name": "Self Portrait With Fried Eggs 1996",
-        "path": "img/art/artworks/sarah-lucas-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-with-fried-eggs-1996-sarah-lucas/JgHDTv8hNHZBaQ"
+        "name": "Les moeurs des feuilles (The Habit of Leaves; Sheet 18 from the folder ›histoire naturelle‹)",
+        "path": "img/art/artworks/max-ernst-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/les-moeurs-des-feuilles-the-habit-of-leaves-sheet-18-from-the-folder-›histoire-naturelle‹-max-ernst/NAFvhWPGybZ2qw"
       },
       {
-        "name": "NUD CYCLADIC 7",
-        "path": "img/art/artworks/sarah-lucas-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/nud-cycladic-7-sarah-lucas/0gEH-gj1kXVzpg"
+        "name": "The weatherman",
+        "path": "img/art/artworks/max-ernst-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-weatherman-max-ernst/5wHk73zuE_Mslg"
       },
       {
-        "name": "Pauline Bunny",
-        "path": "img/art/artworks/sarah-lucas-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/pauline-bunny-sarah-lucas/OAELQ_UH93Nl9Q"
+        "name": "The Bewilered Planet",
+        "path": "img/art/artworks/max-ernst-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bewilered-planet-max-ernst/-AH2uaaA32XFlg"
       },
       {
-        "name": "Perceval",
-        "path": "img/art/artworks/sarah-lucas-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/perceval-sarah-lucas/KAGNgad3bBCnKg"
+        "name": "Sign for a School of Pirates",
+        "path": "img/art/artworks/max-ernst-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/sign-for-a-school-of-pirates-max-ernst/xwFGO3top8YQKw"
+      },
+      {
+        "name": "Peace Through Intra-European Cooperation \"Frieden Durch Intereurop. Zusammenarbeit\"",
+        "path": "img/art/artworks/max-ernst-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/peace-through-intra-european-cooperation-frieden-durch-intereurop-zusammenarbeit-ernst-storch/uQHVlLZYKyo6fA"
+      },
+      {
+        "name": "Moonmad",
+        "path": "img/art/artworks/max-ernst-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/moonmad-max-ernst/nAH7HweWN7pdXQ"
       }
     ],
     "summary": [
-      "Sarah Lucas is an English artist. She is part of the generation of Young British Artists who emerged during the 1990s. Her works frequently employ visual puns and bawdy humour by incorporating photography, collage and found objects."
+      "Max Ernst was a German painter, sculptor, graphic artist, and poet. A prolific artist, Ernst was a primary pioneer of the Dada movement and surrealism. He had no formal artistic training, but his experimental attitude toward the making of art resulted in his invention of frottage—a technique that uses pencil rubbings of objects as a source of images—and grattage, an analogous technique in which paint is scraped across canvas to reveal the imprints of the objects placed beneath. He is also noted for his novels consisting of collages."
     ],
-    "quote": null,
-    "movements": ["Young British Artists", "Contemporary art"],
-    "mediums": ["Metal", "Wire", "Brass", "Watercolor painting", "Bronze", "Concrete"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Sarah_Lucas",
-    "urlGoogle": "https://artsandculture.google.com/entity/sarah-lucas/m04kd9b"
+    "quote": "“Art has nothing to do with taste. Art is not there to be tasted.”",
+    "movements": ["Modern art", "Surrealism", "Dada"],
+    "mediums": ["Oil paint", "Cardboard", "Sculpture", "Colored pencil", "Ink", "India ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Max_Ernst",
+    "urlGoogle": "https://artsandculture.google.com/entity/max-ernst/m0bqb_"
   },
   "event": {
-    "id": "austro-prussian-war",
-    "name": "Austro-Prussian War",
-    "dates": "1866 - Aug 23, 1866",
-    "mainImg": "img/events/austro-prussian-war.jpg",
+    "id": "iraq-war",
+    "name": "Iraq War",
+    "dates": "Mar 20, 2003 - Dec 18, 2011",
+    "mainImg": "img/events/iraq-war.jpg",
     "summary": [
-      "The Austro-Prussian War or Seven Weeks' War was a war fought in 1866 between the Austrian Empire and the Kingdom of Prussia, with each also being aided by various allies within the German Confederation. Prussia had also allied with the Kingdom of Italy, linking this conflict to the Third Independence War of Italian unification. The Austro-Prussian War was part of the wider rivalry between Austria and Prussia, and resulted in Prussian dominance over the German states.",
-      "The major result of the war was a shift in power among the German states away from Austrian and towards Prussian hegemony. It resulted in the abolition of the German Confederation and its partial replacement by the unification of all of the northern German states in the North German Confederation that excluded Austria and the other Southern German states, a Kleindeutsches Reich. The war also resulted in the Italian annexation of the Austrian province of Venetia."
+      "The Iraq War was a protracted armed conflict that began in 2003 with the invasion of Iraq by a United States-led coalition that overthrew the government of Saddam Hussein. The conflict continued for much of the next decade as an insurgency emerged to oppose the occupying forces and the post-invasion Iraqi government. An estimated 151,000 to 600,000 Iraqis were killed in the first three to four years of conflict. US troops were officially withdrawn in 2011. However, following the spread of the Syrian Civil War and the territorial gains of the Islamic State of Iraq and the Levant, the Obama administration decided to redeploy US forces to Iraq in 2014. Many former soldiers are employed by defence contractors and private military companies. The U.S. became re-involved in 2014 at the head of a new coalition; the insurgency and many dimensions of the civil armed conflict continue. The invasion occurred as part of the George W. Bush administration's War on Terror, following the September 11 attacks.",
+      "In October 2002, Congress authorized President Bush to use military force against Iraq should he choose to."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Austro-Prussian_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/austro-prussian-war/m011xt0"
+    "urlWiki": "https://en.wikipedia.org/wiki/Iraq_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/iraq-war/m0d06vc"
   },
   "funFacts": [
     {
-      "id": "228",
-      "fact": "There is a town in South Dakota named Tea.",
-      "category": ["Food", "Geography"]
+      "id": "712",
+      "fact": "100% recyclable, old newspapers are great for washing windows.",
+      "category": ["Make-it-Easies"]
     },
     {
-      "id": "3",
-      "fact": "Beavers can hold their breath for 45 minutes under water.",
-      "category": ["Animals"]
+      "id": "795",
+      "fact": "Hawaii is moving toward Japan at the rate of almost 4 inches per year.",
+      "category": ["Geography"]
     }
   ],
-  "funFacts2": [{ "id": "504748", "fact": "Marie Curie’s notebooks are still radioactive." }],
+  "funFacts2": [
+    {
+      "id": "551309",
+      "fact": "<span>The ampersand symbol is formed from the letters in <em>et</em>—the Latin word for \"and.\"</span>"
+    }
+  ],
   "idiom": {
-    "id": "friend-in-court",
-    "term": "friend in court",
-    "definition": "Also, **friends in high places.** A person or persons who can help by virtue of their important position. For example, *With a friend in court, he has a good chance of getting the contract,* or *Jim thinks he can get out of paying the fine; he has friends in high places.* This expression alludes to the power of a person at the royal court. With the decline of monarchies, *high places* came into more common use. [c. 1400]"
+    "id": "skid-row",
+    "term": "skid row",
+    "definition": "A squalid district inhabited by derelicts and vagrants; also, a life of impoverished dissipation. For example, *That part of town is our skid row,* or *His drinking was getting so bad we thought he was headed for skid row.* This expression originated in the lumber industry, where a *skid road* was a road or track made of logs laid crosswise over which logs were slid. Around 1900 the name *Skid Road* was used for the part of a town frequented by loggers, which had many bars and brothels, and by the 1930s the variant *skid row,* with its current meaning, came into use."
   },
   "person": {
-    "id": "afonso-v-of-portugal",
-    "name": "Afonso V of Portugal",
-    "dates": "Jan 15, 1432 - Aug 28, 1481",
-    "mainImg": "img/people/afonso-v-of-portugal.jpg",
+    "id": "empress-jito",
+    "name": "Empress Jitō",
+    "dates": "645 AD - 703 AD",
+    "mainImg": "img/people/empress-jito.jpg",
     "summary": [
-      "Afonso V, known by the sobriquet the African, was King of Portugal. His sobriquet refers to his conquests in Northern Africa.",
-      "As of 1471, Afonso V was the first king of Portugal to claim dominion over a plural \"Kingdom of the Algarves\", instead of the singular \"Kingdom of the Algarve\". Territories added to the Portuguese crown lands in North Africa during the 15th century came to be referred to as possessions of the Kingdom of the Algarve, not the Kingdom of Portugal. The \"Algarves\" then were considered to be the southern Portuguese territories on both sides of the Strait of Gibraltar."
+      "Empress Jitō was the 41st monarch of Japan, according to the traditional order of succession.",
+      "Jitō's reign spanned the years from 686 through 697.",
+      "In the history of Japan, Jitō was the third of eight women to take on the role of empress regnant. The two female monarchs before Jitō were Suiko and Kōgyoku/Saimei. The five women sovereigns reigning after Jitō were Genmei, Genshō, Kōken/Shōtoku, Meishō, and Go-Sakuramachi."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Afonso_V_of_Portugal",
-    "urlGoogle": "https://artsandculture.google.com/entity/afonso-v-of-portugal/m0s07"
+    "urlWiki": "https://en.wikipedia.org/wiki/Empress_Jit%C5%8D",
+    "urlGoogle": "https://artsandculture.google.com/entity/empress-jitō/m02ts5"
   },
   "place": {
-    "id": "finland",
-    "name": "Finland",
-    "mainImg": "img/places/finland.jpg",
+    "id": "newark",
+    "name": "Newark",
+    "mainImg": "img/places/newark.jpg",
     "summary": [
-      "Finland, officially the Republic of Finland, is a Nordic country in Northern Europe bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Sweden to the west, Russia to the east, Estonia to the south, and north-eastern Norway to the north. The capital and largest city is Helsinki. Other major cities are Espoo, Tampere, Vantaa, Oulu, Turku, Jyväskylä, Lahti and Kuopio.",
-      "Finland's population is 5.53 million as of May 2020, the majority of whom live in the central and south of the country and speak Finnish, a Finnic language from the Uralic language family, unrelated to the Scandinavian languages. Finland is the eighth-largest country in Europe and the most sparsely populated country in the European Union. It is a parliamentary republic of 310 municipalities, and includes an autonomous region, the Åland Islands. Over 1.4 million people live in the Greater Helsinki metropolitan area, which produces one third of the country's GDP. Swedish is the second official language of Finland, which is mainly spoken in certain coastal areas and on Åland. A large majority of Finns are members of the Evangelical Lutheran Church."
+      "Newark is the most populous city in the U.S. state of New Jersey and the seat of Essex County. As one of the nation's major air, shipping, and rail hubs, the city had a census-estimated population of 282,011 in 2019, making it the nation's 73rd-most populous municipality, after being ranked 63rd in the nation in 2000.",
+      "Settled in 1666 by Puritans from New Haven Colony, Newark is one of the oldest cities in the United States. Its location at the mouth of the Passaic River has made the city's waterfront an integral part of the Port of New York and New Jersey. Today, Port Newark–Elizabeth is the primary container shipping terminal of the busiest seaport on the U.S. East Coast. Newark Liberty International Airport was the first municipal commercial airport in the United States, and today is one of its busiest.",
+      "Several leading companies have their headquarters in Newark, including Prudential, PSEG, Panasonic Corporation of North America, Audible.com, IDT Corporation, and Manischewitz. A number of important higher education institutions are also in the city, including the Newark campus of Rutgers University; the New Jersey Institute of Technology; and Seton Hall University's law school."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Finland",
-    "urlGoogle": "https://artsandculture.google.com/entity/finland/m02vzc"
+    "urlWiki": "https://en.wikipedia.org/wiki/Newark,_New_Jersey",
+    "urlGoogle": "https://artsandculture.google.com/entity/newark/m0hptm"
   },
   "wiki": {
-    "id": "ernest-emerson",
-    "name": "Ernest Emerson",
-    "summary": "Ernest Emerson is a custom knifemaker, martial artist, and edged-weapons authority who founded Emerson Knives, Inc in 1996. Once known for making \"art knives\", he later became better known as one of the knifemakers who started the Tactical Knife trend in the early 1990s with his award winning cutlery. Emerson's knives have been displayed as museum pieces, carried by Navy SEALs, used by NASA in outer space, and have been featured in books and films, making them valuable and popular with collectors. Emerson's knifemaking career was born from his experience as an engineer and machinist in the aerospace industry coupled with his lifelong study of martial arts. Drawing on his experience as a craftsman and engineer, Emerson has also begun making custom handmade electric guitars. Emerson's own personally developed fighting technique, Emerson Combat Systems, has been taught to police officers, elite military units, and civilians worldwide; making Emerson a highly sought after combatives instructor, author, and noted authority on edged-weapons in combat.",
-    "url": "https://en.wikipedia.org/wiki/Ernest_Emerson"
+    "id": "invasion-of-tulagi-may-1942",
+    "name": "Invasion of Tulagi (May 1942)",
+    "summary": "The invasion of Tulagi, on 3–4 May 1942, was part of Operation Mo, the Empire of Japan's strategy in the South Pacific and South West Pacific Area in 1942. The plan called for Imperial Japanese Navy troops to capture Tulagi and nearby islands in the Solomon Islands Protectorate. The occupation of Tulagi by the Japanese was intended to cover the flank of and provide reconnaissance support for Japanese forces that were advancing on Port Moresby in New Guinea, provide greater defensive depth for the major Japanese base at Rabaul, and serve as a base for Japanese forces to threaten and interdict the supply and communication routes between the United States and Australia and New Zealand. Without the means to resist the Japanese offensive capably in the Solomons, the British Resident Commissioner and the few Australian troops assigned to defend Tulagi evacuated just before the Japanese forces arrived on 3 May. Despite considerable losses inflicted by carrier-based American planes, the Japanese occupied the islands.",
+    "url": "https://en.wikipedia.org/wiki/Invasion_of_Tulagi_(May_1942)"
   },
   "word": {
-    "id": "complaisant",
-    "word": "complaisant",
-    "url": "https://www.merriam-webster.com/dictionary/complaisant",
-    "partOfSpeech": "adjective",
-    "pronunciation": "kum-PLAY-sunt",
-    "audioPath": "audio/words/complaisant.mp3",
+    "id": "conventicle",
+    "word": "conventicle",
+    "url": "https://www.merriam-webster.com/dictionary/conventicle",
+    "partOfSpeech": "noun",
+    "pronunciation": "kun-VEN-tih-kul",
+    "audioPath": "audio/words/conventicle.mp3",
     "definitions": [
-      "marked by an inclination to please or oblige",
-      "tending to consent to others' wishes"
+      "an assembly of an irregular or unlawful character",
+      "an assembly for religious worship; especially : a meeting for worship not sanctioned by law",
+      "meetinghouse"
     ],
     "examples": [
-      "Derek was a complaisant boy, always happy to oblige whenever his mother or father asked him to go on an errand."
+      "In 18th-century England, it was a capital offense to preach in any _conventicle_.",
+      "\"The radicals tended to meet in small _conventicles_, sometimes in houses and farmsteads but also in cellars, gates, wayside shelters, clearings, water towers, forests, meadows, or 'windstill zones,' border areas where jurisdiction was contested.\" -- From C. Scott Dixon's 2010 book _Protestants: A History from Wittenberg to Pennsylvania 1517-1740_"
     ],
-    "origin": "The homophones \"complaisant\" and \"complacent\" are often confused -- and no wonder. Not only do they look and sound alike, but they also both derive ultimately from Latin \"complacēre,\" meaning \"to please greatly.\" \"Complacent\" usually means \"self-satisfied\" or \"unconcerned,\" but it also shares with \"complaisant\" the sense of \"marked by an inclination to please or oblige.\" This sense of \"complacent\" is an old one, but that hasn't kept language critics from labeling it as an error -- and on the whole, modern writers do prefer \"complaisant\" for this meaning. Conversely, \"complaisant\" is sometimes mistakenly used in contexts such as \"complaisant about injustices,\" where \"complacent,\" with its sense of \"marked by self-satisfaction especially when accompanied by unawareness of actual dangers or deficiencies,\" should go. One aid is to remember that with the preposition \"about,\" you probably want \"complacent.\""
+    "origin": "\"Conventicle\" comes to us from Latin \"conventiculum\" and ultimately from \"convenire,\" meaning \"to assemble.\" \"Conventiculum\" means \"place of assembly\" (it was applied in particular to Roman Christian meetinghouses) or simply \"assembly.\" The English \"conventicle\" also originally meant \"assembly.\" It then developed an application to illegal meetings, which, in turn, led to the arrival of a sense describing secret meetings for worship in a religion proscribed by law. And finally, \"conventicle\" developed a sense of \"meetinghouse,\" echoing the earlier use of \"conventiculum.\""
   }
 }

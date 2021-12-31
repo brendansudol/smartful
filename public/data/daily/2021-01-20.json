@@ -1,0 +1,140 @@
+{
+  "artist": {
+    "id": "damien-hirst",
+    "name": "Damien Hirst",
+    "dates": "Born Jun 7, 1965",
+    "mainImg": "img/art/artists/damien-hirst.jpg",
+    "artworkImgs": [
+      {
+        "name": "DAMIEN HIRST, What Goes Up Must Come Down",
+        "path": "img/art/artworks/damien-hirst-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/damien-hirst-what-goes-up-must-come-down-damien-hirst/EgFWlcpO22vrEQ"
+      },
+      {
+        "name": "Damien Hirst, Hymn",
+        "path": "img/art/artworks/damien-hirst-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/damien-hirst-hymn-damien-hirst/fAGwcZEDuls7cA"
+      },
+      {
+        "name": "Damien Hirst, Black Sheep with Golden Horns",
+        "path": "img/art/artworks/damien-hirst-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/damien-hirst-black-sheep-with-golden-horns-damien-hirst/VgEM3_s6jYJKmA"
+      },
+      {
+        "name": "Damien Hirst, The Virgin Mother",
+        "path": "img/art/artworks/damien-hirst-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/damien-hirst-the-virgin-mother-damien-hirst/TQEhJ0ViJv6ypA"
+      },
+      {
+        "name": "Collective exhibition Intouchable (L'idéal Transparence), Villa Arson, July 1 - September 24 2006 (partial view)",
+        "path": "img/art/artworks/damien-hirst-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/collective-exhibition-intouchable-l-idéal-transparence-villa-arson-july-1-september-24-2006-partial-view-damien-hirst/5wFMlJRzRWedpg"
+      },
+      {
+        "name": "Limited Edition Butterfly Print Hoodie",
+        "path": "img/art/artworks/damien-hirst-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/limited-edition-butterfly-print-hoodie-damien-hirst/9QFHqllCe0c9Jg"
+      }
+    ],
+    "summary": [
+      "Damien Steven Hirst is an English artist, entrepreneur, and art collector. He is one of the Young British Artists, who dominated the art scene in the UK during the 1990s. He is reportedly the United Kingdom's richest living artist, with his wealth valued at £215m in the 2010 Sunday Times Rich List. During the 1990s his career was closely linked with the collector Charles Saatchi, but increasing frictions came to a head in 2003 and the relationship ended.",
+      "Death is a central theme in Hirst's works. He became famous for a series of artworks in which dead animals are preserved—sometimes having been dissected—in formaldehyde. The best-known of these was The Physical Impossibility of Death in the Mind of Someone Living, a 14-foot tiger shark immersed in formaldehyde in a clear display case. He has also made \"spin paintings\", created on a spinning circular surface, and \"spot paintings\", which are rows of randomly coloured circles created by his assistants.",
+      "In September 2008, Hirst made an unprecedented move for a living artist by selling a complete show, Beautiful Inside My Head Forever, at Sotheby's by auction and bypassing his long-standing galleries."
+    ],
+    "quote": "“I always feel like the art's there and I just see it, so it's not really a lot of work.”",
+    "movements": ["Young British Artists", "Contemporary art"],
+    "mediums": ["Glass", "Gold", "Metal", "Plastic", "Photograph", "Polyester"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Damien_Hirst",
+    "urlGoogle": "https://artsandculture.google.com/entity/damien-hirst/m01qwfk"
+  },
+  "event": {
+    "id": "assassination-of-martin-luther-king-jr",
+    "name": "Assassination of Martin Luther King Jr.",
+    "dates": "Apr 4, 1968",
+    "mainImg": "img/events/assassination-of-martin-luther-king-jr.jpg",
+    "summary": [
+      "Martin Luther King Jr., an American clergyman and civil rights leader, was fatally shot at the Lorraine Motel in Memphis, Tennessee, on April 4, 1968, at 6:01 p.m. CST. He was rushed to St. Joseph's Hospital, where he died at 7:05 p.m. He was a prominent leader of the Civil Rights Movement and a Nobel Peace Prize laureate who was known for his use of nonviolence and civil disobedience.",
+      "James Earl Ray, a fugitive from the Missouri State Penitentiary, was arrested on June 8, 1968, in London at Heathrow Airport, extradited to the United States, and charged with the crime. On March 10, 1969, he pleaded guilty and was sentenced to 99 years in the Tennessee State Penitentiary. He later made many attempts to withdraw his guilty plea and be tried by a jury, but was unsuccessful; he died in prison in 1998.",
+      "The King family and others believe the assassination was the result of a conspiracy involving the U.S. government, Mafia and Memphis police, as alleged by Loyd Jowers in 1993. They believe that Ray was a scapegoat. In 1999, the family filed a wrongful death lawsuit against Jowers for the sum of $10 million."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Assassination_of_Martin_Luther_King_Jr.",
+    "urlGoogle": "https://artsandculture.google.com/entity/assassination-of-martin-luther-king-jr/m03hm37s"
+  },
+  "funFacts": [
+    {
+      "id": "731",
+      "fact": "There are over 2,000 different species of cactuses.",
+      "category": ["Plants"]
+    },
+    {
+      "id": "251",
+      "fact": "There are more French restaurants in New York City than in Paris.",
+      "category": ["Food", "Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "505450",
+      "fact": "The original version of Monopoly was a cautionary tale against the perils of capitalism."
+    }
+  ],
+  "idiom": {
+    "id": "roll-the-bones",
+    "term": "roll the bones",
+    "definition": "Cast dice, especially in the game of craps, as in *Let's go to the casino and roll the bones tonight.* This slangy term was first recorded in 1897, but the noun *bones* has referred to dice since the late 1300s (Chaucer used it in *The Pardoner's Tale*)."
+  },
+  "person": {
+    "id": "manuel-azana",
+    "name": "Manuel Azaña",
+    "dates": "Jan 10, 1880 - Nov 3, 1940",
+    "mainImg": "img/people/manuel-azana.jpg",
+    "summary": [
+      "Manuel Azaña Díaz was a Spanish politician who served as Prime Minister of the Second Spanish Republic and the last President of the Republic.",
+      "A collaborator in several publications in the 1910s, he stood out in the pro-Allies camp during World War I. Very critical towards the Generation of '98 and not keen of the reimagination of the Spanish Middle Ages, the Imperial Spain nor the 20th yearnings for a praetorian refurbishment of the country, Azaña followed instead the examples of the French Enlightenment and the Third French Republic, and took a political quest for democracy in the 1920s while defending the notion of homeland as the \"democratic equality of all citizens towards the law\" that made him embrace republicanism.",
+      "After the Proclamation of the Second Spanish Republic in April 1931, Azaña became Minister of War of the Provisional Government and enacted military reform, looking to develop a modern armed forces with fewer army officers. He later became Prime Minister in October 1931.",
+      "The Spanish Civil War broke out while he was President. With the defeat of the Republic in 1939, he fled to France, resigned from office, and died in exile shortly afterwards."
+    ],
+    "quote": "“What does the corpse care who was right and who was wrong?”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Manuel_Aza%C3%B1a",
+    "urlGoogle": "https://artsandculture.google.com/entity/manuel-azaña/m01n__m"
+  },
+  "place": {
+    "id": "leicester",
+    "name": "Leicester",
+    "mainImg": "img/places/leicester.jpg",
+    "summary": [
+      "Leicester is a city and unitary authority area in the East Midlands of England, and the county town of Leicestershire. The city lies on the River Soar and close to the eastern end of the National Forest. It is to the north-east of Birmingham and Coventry, south of Nottingham, and west of Peterborough.",
+      "The 2016 mid year estimate of the population of the City of Leicester unitary authority was 348,300, an increase of approximately 18,500 from the 2011 census figure of 329,839, making it the most populous municipality in the East Midlands region. The associated urban area is also the 11th most populous in England and the 13th most populous in the United Kingdom.",
+      "Leicester is at the intersection of two major railway lines—the north–south Midland Main Line and the east/west Birmingham to London Stansted CrossCountry line; as well as the confluence of the M1/M69 motorways and the A6/A46 trunk routes. Leicester is the home to football club Leicester City and rugby club Leicester Tigers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Leicester",
+    "urlGoogle": "https://artsandculture.google.com/entity/leicester/m0dhdp"
+  },
+  "quote": {
+    "id": "123",
+    "quote": "Energy and persistence conquer all things.",
+    "author": "Benjamin Franklin"
+  },
+  "wiki": {
+    "id": "the-scout-association-of-hong-kong",
+    "name": "The Scout Association of Hong Kong",
+    "summary": "The Scout Association of Hong Kong is the overall Scouting organization in Hong Kong. After the first scouting initiatives in 1909, the Hong Kong branch of The Boy Scout Association of the United Kingdom was started in 1914 by registering the St. Joseph's College Scout Group, and was formally established in July 1915. The Hong Kong branch became an autonomous association and the 111th member of the World Organization of the Scout Movement in 1977. In 2008, the association had 99,591 uniformed members, with approximately 2700 scout groups in the sections Grasshopper, Cubs, Scouts, Venture and Rover Scouts, making it the largest uniformed youth organisation in Hong Kong. The headquarters at the Hong Kong Scout Centre in Tsim Sha Tsui, Kowloon host the administration, headed by the Hong Kong Chief Commissioner. The association runs campsites, including Gilwell Campsite, Tai Tam Scout Centre and Tung Tsz Scout Centre, as well as hostels and Scout Activity Centres. It annually organises the traditional Scout Rally, providing scout competitions and activities. For specific anniversaries, themed Scout Jamborees have been organised.",
+    "url": "https://en.wikipedia.org/wiki/The_Scout_Association_of_Hong_Kong"
+  },
+  "word": {
+    "id": "esurient",
+    "word": "esurient",
+    "url": "https://www.merriam-webster.com/dictionary/esurient",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-SUR-ee-unt",
+    "audioPath": "audio/words/esurient.mp3",
+    "definitions": ["hungry, greedy"],
+    "examples": [
+      "No one was surprised that the _esurient_ media mogul planned to expand his empire into the social-media marketplace.",
+      "\"She sat opposite him …, as plump and indifferent to his presence as an old tabby cat whose _esurient_ eye was wholly focused on a particularly toothsome mouse.\" - Pamela Aidan, _An Assembly Such as This: A Novel of Fitzwilliam Darcy, Gentleman_, 2006"
+    ],
+    "origin": "If you’re hungry for a new way to express your hunger, you might find that _esurient_ suits your palate. Be forewarned, however, that when used literally _esurient_ has a humorous flavor. This somewhat obscure word first appeared in English in the second half of the 17th century, deriving from the present participle of the Latin verb _esurire_, meaning \"to be hungry.\" It is also related to _edere_, the Latin verb for \"eat,\" which has given us such scrumptious fare as _edible_ and its synonyms _esculent_ and _comestible_. _Esurient_ can be used somewhat playfully to suggest an actual hunger for food, but it is more often applied to such things as wealth or power. In the latter contexts, it takes on the connotation of _greedy_."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "artist": {
+    "id": "damia-campeny",
+    "name": "Damià Campeny",
+    "dates": "Apr 12, 1771 - 1855",
+    "mainImg": "img/art/artists/damia-campeny.jpg",
+    "artworkImgs": [
+      {
+        "name": "Diana the Huntress",
+        "path": "img/art/artworks/damia-campeny-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/diana-the-huntress-damià-campeny/LwEIJQe7u-tqMw"
+      },
+      {
+        "name": "Saint Pancras",
+        "path": "img/art/artworks/damia-campeny-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-pancras-damià-campeny/UAHO6IfPo7iuqA"
+      },
+      {
+        "name": "Death of Cleopatra",
+        "path": "img/art/artworks/damia-campeny-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/death-of-cleopatra-damià-campeny/YwGW_p2_jgnnrQ"
+      },
+      {
+        "name": "Death of Cleopatra",
+        "path": "img/art/artworks/damia-campeny-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/death-of-cleopatra-damià-campeny/7AF1oe80PGvvBQ"
+      },
+      {
+        "name": "Allegory of Commerce",
+        "path": "img/art/artworks/damia-campeny-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/allegory-of-commerce-damià-campeny/RAFMtjLCVqUTcA"
+      },
+      {
+        "name": "Neptune",
+        "path": "img/art/artworks/damia-campeny-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/neptune-damià-campeny-i-estrany/VgFbAarcTesofQ"
+      }
+    ],
+    "summary": [
+      "Damià Campeny i Estrany auch Damià Campeny i Estany und Damià Campeny war ein herausragender katalanischer Bildhauer des Klassizismus. Er schuf vorwiegend Werke mit mythologischen Motiven. Mit Campenys Werk hatte die katalanische Kunst wieder Anschluss an die avantgardistische Ästhetik im Europa des frühen 19. Jahrhunderts gefunden."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism"],
+    "mediums": ["Sculpture", "Terracotta", "Clay", "Rock", "Bronze", "Plaster"],
+    "urlWiki": "https://de.wikipedia.org/wiki/Dami%C3%A0_Campeny_i_Estrany",
+    "urlGoogle": "https://artsandculture.google.com/entity/damià-campeny/m0vnnn5r"
+  },
+  "event": {
+    "id": "2002-fifa-world-cup",
+    "name": "2002 FIFA World Cup",
+    "dates": "May 31, 2002 - Jun 30, 2002",
+    "mainImg": "img/events/2002-fifa-world-cup.jpg",
+    "summary": [
+      "The 2002 FIFA World Cup was the 17th FIFA World Cup, the quadrennial world championship for men's national association football teams organized by FIFA. It was held from 31 May to 30 June 2002 at sites in South Korea and Japan, with its final match hosted by Japan at International Stadium in Yokohama.",
+      "A field of 32 teams qualified for this World Cup, which was the first to be held in Asia, the first to be held outside of the Americas or Europe, as well as the first to be jointly-hosted by more than one nation. China, Ecuador, Senegal and Slovenia made their World Cup debuts.",
+      "The tournament had several upsets and surprise results, which included the defending champions France being eliminated in the group stage after earning a single point and second favourites Argentina also being eliminated in the group stage. South Korea controversially managed to reach the semi-finals, beating Portugal, Italy and Spain en route, thus becoming the first and only team from outside Europe and the Americas to reach the last four of a World Cup."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup",
+    "urlGoogle": "https://artsandculture.google.com/entity/2002-fifa-world-cup/m0dt_z"
+  },
+  "funFacts": [
+    {
+      "id": "912",
+      "fact": "Meteorologists claim they're right 85% of the time.",
+      "category": ["Science"]
+    },
+    {
+      "id": "291",
+      "fact": "Africa is divided into more countries than any other continent.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504754",
+      "fact": "The number 4 is the only number with the same number of letters as the meaning of its name."
+    }
+  ],
+  "person": {
+    "id": "alexandra-of-denmark",
+    "name": "Alexandra of Denmark",
+    "dates": "Dec 1, 1844 - Nov 20, 1925",
+    "mainImg": "img/people/alexandra-of-denmark.jpg",
+    "summary": [
+      "Alexandra of Denmark was Queen consort of the United Kingdom and the British Dominions and Empress consort of India from 1901 to 1910 as the wife of King Edward VII.",
+      "Alexandra's family had been relatively obscure until 1852, when her father, Prince Christian of Schleswig-Holstein-Sonderburg-Glücksburg, was chosen with the consent of the major European powers to succeed his distant cousin, Frederick VII of Denmark. At the age of sixteen, she was chosen as the future wife of Albert Edward, Prince of Wales, the heir apparent of Queen Victoria. They married eighteen months later in 1863, the same year her father became king of Denmark as Christian IX and her brother was appointed king of Greece as George I. She was Princess of Wales from 1863 to 1901, the longest anyone has ever held that title, and became generally popular; her style of dress and bearing were copied by fashion-conscious women. Largely excluded from wielding any political power, she unsuccessfully attempted to sway the opinion of British ministers and her husband's family to favour Greek and Danish interests. Her public duties were restricted to uncontroversial involvement in charitable work."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexandra_of_Denmark",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexandra-of-denmark/m0d1pv"
+  },
+  "place": {
+    "id": "san-salvador",
+    "name": "San Salvador",
+    "mainImg": "img/places/san-salvador.jpg",
+    "summary": [
+      "San Salvador is the capital and the most populous city of El Salvador and its eponymous department. It is the country's political, cultural, educational and financial center. The Metropolitan Area of San Salvador, which comprises the capital itself and 13 of its municipalities, has a population of 2,404,097.",
+      "As a \"beta\" global city, San Salvador is also an important financial hub of Central America. The city is home to the Concejo de Ministros de El Salvador, La Asamblea Legislativa, the Corte Suprema de Justicia, and other governmental institutions, as well as the official residence of the president of the Republic. San Salvador is located in the Salvadoran highlands, surrounded by volcanoes and prone to earthquakes. The city is also home to the Catholic Archdiocese, as well as many Protestant branches of Christianity, including Evangelicals, Latter-day Saints, Baptists, and Pentecostals. San Salvador has the second largest Jewish community in Central America and a small Muslim community.",
+      "San Salvador has been the host city for various regional and international sporting, political, and social events."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/San_Salvador",
+    "urlGoogle": "https://artsandculture.google.com/entity/san-salvador/m0ftfw"
+  },
+  "wiki": {
+    "id": "drakengard",
+    "name": "Drakengard",
+    "summary": "Drakengard is an action role-playing video game developed for the PlayStation 2 by Japan-based studio Cavia and published by Square Enix. The first game in the Drakengard series, it was released in Japan in September 2003 and in North America and Europe the following year; a version for mobile phones was also released in Europe. The player controls Caim, a deposed prince, and Angelus, a red dragon who forms a magical pact with Caim to save both their lives. The story follows their involvement in a religious war between the Union and the Empire, and their quest to protect magical seals that keep the world in balance. The game features a mixture of hack-and-slash ground-based missions controlling Caim, aerial combat with Angelus, and role-playing elements. It was conceived as a hybrid between the popular Dynasty Warriors series and the aerial combat game Ace Combat. Drakengard was the debut project for both producer Takamasa Shiba and writer and director Taro Yoko. It sold well in Japan and received mixed to positive reviews in the west: reviewers praised the game's story and music, but were mixed about the graphics and criticized the gameplay for being repetitive.",
+    "url": "https://en.wikipedia.org/wiki/Drakengard"
+  },
+  "word": {
+    "id": "quaff",
+    "word": "quaff",
+    "url": "https://www.merriam-webster.com/dictionary/quaff",
+    "partOfSpeech": "verb",
+    "pronunciation": "KWAHF",
+    "audioPath": "audio/words/quaff.mp3",
+    "definitions": ["to drink deeply"],
+    "examples": [
+      "\"'Respite and nepenthe from thy memories of Lenore! Quaff, oh quaff this kind nepenthe and forget this lost Lenore!' / Quoth the raven, 'Nevermore.'\" (Edgar Allan Poe, _The Raven_)"
+    ],
+    "origin": "Nowadays, \"quaff\" has an old-fashioned, literary sound to it. For more contemporary words that suggest drinking a lot of something, especially in big gulps and in large quantity, you might try \"drain,\" \"pound,\" or \"slug.\" If you are a daintier drinker, you might say that you prefer to \"sip,\" \"imbibe\" or \"partake in\" the beverage of your choice. \"Quaff\" is by no means the oldest of these terms -- earliest evidence of it in use is from the early 1500s, whereas \"sip\" dates to the 14th century -- but it is the only one with the mysterious \"origin unknown\" etymology."
+  }
+}

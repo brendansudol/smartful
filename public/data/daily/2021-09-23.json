@@ -1,124 +1,131 @@
 {
   "artist": {
-    "id": "robert-smithson",
-    "name": "Robert Smithson",
-    "dates": "Jan 2, 1938 - Jul 20, 1973",
-    "mainImg": "img/art/artists/robert-smithson.jpg",
+    "id": "agostino-carracci",
+    "name": "Agostino Carracci",
+    "dates": "Aug 16, 1557 - Mar 22, 1602",
+    "mainImg": "img/art/artists/agostino-carracci.jpg",
     "artworkImgs": [
       {
-        "name": "Three-Sided Vortex",
-        "path": "img/art/artworks/robert-smithson-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/three-sided-vortex-robert-smithson/9wHP1B1j3hs8YQ"
+        "name": "Portait of Titian",
+        "path": "img/art/artworks/agostino-carracci-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portait-of-titian-agostino-carracci/egHJLzjcbPiY3Q"
       },
       {
-        "name": "Non Site - Site Uncertain",
-        "path": "img/art/artworks/robert-smithson-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/non-site-site-uncertain-robert-smithson/BwFsRcVglxe5gw"
+        "name": "A Group of Shepherds, and Other Studies",
+        "path": "img/art/artworks/agostino-carracci-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-group-of-shepherds-and-other-studies-agostino-carracci/9QFeLekXDwIhuA"
       },
       {
-        "name": "Installation View",
-        "path": "img/art/artworks/robert-smithson-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/installation-view-roberth-smithson/hAHld3ityWYGRQ"
+        "name": "Hairy Harry Mad Peter and Tiny Amon",
+        "path": "img/art/artworks/agostino-carracci-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/hairy-harry-mad-peter-and-tiny-amon-agostino-carracci/jAG1vfoX33gZ8A"
       },
       {
-        "name": "Swamp",
-        "path": "img/art/artworks/robert-smithson-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/swamp-nancy-holt-robert-smithson/pwEOBB8mufJJMA"
+        "name": "Democritus",
+        "path": "img/art/artworks/agostino-carracci-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/democritus-agostino-carracci/2QGaJIEwI0QeNA"
+      },
+      {
+        "name": "Omnia Vincit Amor",
+        "path": "img/art/artworks/agostino-carracci-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/omnia-vincit-amor-agostino-carracci/YQE-hQpXnaNzjA"
+      },
+      {
+        "name": "Aeneas and his family fleeing Troy",
+        "path": "img/art/artworks/agostino-carracci-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/aeneas-and-his-family-fleeing-troy-agostino-carracci-federico-barocci-donato-rasicotti/LwFc3jeUrW3tmA"
       }
     ],
     "summary": [
-      "Robert Smithson was an American artist known for sculpture and land art who often used drawing and photography in relation to the spatial arts. His work has been internationally exhibited in galleries and museums and is held in public collections including the Museum of Modern Art, New York, the Smithsonian American Art Museum, Solomon R. Guggenheim Museum, New York, the Tate Modern, London, the",
-      "Whitney Museum of American Art, New York, among others. He was one of the founders of the Land Art movement whose best known work is the Spiral Jetty."
-    ],
-    "quote": "“Painting, sculpture and architecture are finished, but the art habit continues.”",
-    "movements": ["Modern art", "Land art"],
-    "mediums": ["Metal", "Sculpture", "Coal", "Crystal", "Iron", "Chromium"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Smithson",
-    "urlGoogle": "https://artsandculture.google.com/entity/robert-smithson/m013_05"
-  },
-  "event": {
-    "id": "battle-of-kasserine-pass",
-    "name": "Battle of Kasserine Pass",
-    "dates": "Feb 19, 1943 - Feb 25, 1943",
-    "mainImg": "img/events/battle-of-kasserine-pass.jpg",
-    "summary": [
-      "The Battle of Kasserine Pass were a series of battles of the Tunisia Campaign of World War II that took place in February 1943. Covering Kasserine Pass, a 2-mile-wide gap in the Grand Dorsal chain of the Atlas Mountains in west central Tunisia.",
-      "The Axis forces, led by Generalfeldmarschall Erwin Rommel, were primarily from the Afrika Korps Assault Group, elements of the Italian Centauro Armored Division and two Panzer divisions detached from the 5th Panzer Army, while the Allied forces consisted of the U.S. II Corps, the British 6th Armoured Division and other parts of the First Army.",
-      "The battle was the first major engagement between U.S. and Axis forces in Africa. Inexperienced and poorly led American troops suffered many casualties and were quickly pushed back over 50 miles from their positions west of Faïd Pass."
+      "Agostino Carracci was an Italian painter, printmaker, tapestry designer, and art teacher. He was, together with his brother, Annibale Carracci, and cousin, Ludovico Carracci, one of the founders of the Accademia degli Incamminati in Bologna. This teaching academy promoted the Carracci emphasized drawing from life. It promoted progressive tendencies in art and was a reaction to the Mannerist distortion of anatomy and space. The academy helped propel painters of the School of Bologna to prominence."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Kasserine_Pass",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-kasserine-pass/m01vpkf"
+    "movements": ["Baroque", "Renaissance", "Italian Renaissance", "Mannerism"],
+    "mediums": ["Engraving", "Pen", "Ink", "Laid paper", "Drawing", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Agostino_Carracci",
+    "urlGoogle": "https://artsandculture.google.com/entity/agostino-carracci/m0_52"
+  },
+  "event": {
+    "id": "western-front",
+    "name": "Western Front",
+    "dates": "1914 - 1918",
+    "mainImg": "img/events/western-front.jpg",
+    "summary": [
+      "The Western Front was the main theatre of war during the First World War. Following the outbreak of war in August 1914, the German Army opened the Western Front by invading Luxembourg and Belgium, then gaining military control of important industrial regions in France. The tide of the advance was dramatically turned with the Battle of the Marne. Following the Race to the Sea, both sides dug in along a meandering line of fortified trenches, stretching from the North Sea to the Swiss frontier with France, which changed little except during early 1917 and in 1918.",
+      "Between 1915 and 1917 there were several offensives along this front. The attacks employed massive artillery bombardments and massed infantry advances. Entrenchments, machine gun emplacements, barbed wire and artillery repeatedly inflicted severe casualties during attacks and counter-attacks and no significant advances were made. Among the most costly of these offensives were the Battle of Verdun, in 1916, with a combined 700,000 casualties, the Battle of the Somme, also in 1916, with more than a million casualties, and the Battle of Passchendaele, in 1917, with 487,000 casualties."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Western_Front_%28World_War_I%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/western-front/m0dl4z"
   },
   "funFacts": [
     {
-      "id": "858",
-      "fact": "New Jersey is home to the world's first drive-in movie theater.",
-      "category": ["Firsts"]
+      "id": "172",
+      "fact": "The eye makes movements 50 times every second.",
+      "category": ["Anatomy"]
     },
     {
-      "id": "958",
-      "fact": "The state of Alabama once financed the construction of a bridge by holding a rooster auction.",
-      "category": ["Geography", "History"]
+      "id": "219",
+      "fact": "An electric eel can release a charge powerful enough to start 50 cars.",
+      "category": ["Animals", "Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "505478",
-      "fact": "The Woolsey Hall auditorium at Yale contains an extra-wide seat built to fit alumnus and former professor William Howard Taft."
+      "id": "554003",
+      "fact": "During World War II, the United States began rationing shoes. Citizens were allowed three."
     }
   ],
   "idiom": {
-    "id": "as-comfortable-as-an-old-shoe",
-    "term": "as comfortable as an old shoe",
-    "definition": "Familiar and very much at ease, as in *Kathy's really enjoying her third summer at the same camp -- for her it's comfortable as an old shoe.* This simile was once put **as easy as an old shoe,** first recorded in J. T. Brockett's *North Country Glossary* (1825). It was most often applied to friends, as in the proverb **Old shoes are easy, old friends are best,** but today it is used more broadly for easy familiarity in any situation."
+    "id": "cant-get-blood-from-a-stone",
+    "term": "can't get blood from a stone",
+    "definition": "This is a hopeless source of money, comfort, or some other kind of succor. The analogy has been employed since 1660. Charles Dickens used it often, as in *David Copperfield* (1850): *\"*Blood cannot be obtained from a stone, nor can anything of account be obtained at present from Mr. Micawber [a perennially insolvent character]. A 19th-century variant is **can't get blood from a turnip**, but it is heard less often today."
   },
   "person": {
-    "id": "florence-harding",
-    "name": "Florence Harding",
-    "dates": "Aug 15, 1860 - Nov 21, 1924",
-    "mainImg": "img/people/florence-harding.jpg",
+    "id": "pierre-wigny",
+    "name": "Pierre Wigny",
+    "dates": "Apr 18, 1905 - Sep 21, 1986",
+    "mainImg": "img/people/pierre-wigny.jpg",
     "summary": [
-      "Florence Mabel Harding was the First Lady of the United States from 1921 to 1923 as the wife of President Warren G. Harding.",
-      "Florence married Pete DeWolfe at a young age and had a son, Marshall. After divorcing him, she married the somewhat-younger Harding when he was a newspaper publisher in Ohio, and she was acknowledged as the brains behind the business. Known as The Duchess, she adapted well to the White House, where she gave notably elegant parties."
+      "Pierre Wigny was a Belgian politician of the Christian Social Party.",
+      "He was a lawyer and a member of the Chamber of Representatives from 1949 to 1971. He was also a member of the Common Assembly of the European Coal and Steel Community from its establishment in 1952 to 1958, and was the second President of the Christian Democratic group, the predecessor of the European People's Party Group, in 1958.",
+      "He served as Minister of the Colonies from 1947 to 1950, as Foreign Minister from 1958 to 1961, as Minister of Justice from 1965 to 1966 and as Minister of Culture in the Government of the French Community from 1966 to 1968.",
+      "He received the Robert Schuman Medal in 1986."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Florence_Harding",
-    "urlGoogle": "https://artsandculture.google.com/entity/florence-harding/m025prf"
+    "urlWiki": "https://en.wikipedia.org/wiki/Pierre_Wigny",
+    "urlGoogle": "https://artsandculture.google.com/entity/pierre-wigny/g12372849"
   },
   "place": {
-    "id": "helsinki",
-    "name": "Helsinki",
-    "mainImg": "img/places/helsinki.jpg",
+    "id": "nigeria",
+    "name": "Nigeria",
+    "mainImg": "img/places/nigeria.jpg",
     "summary": [
-      "Helsinki is the capital and most populous city of Finland. Located on the shore of the Gulf of Finland, it is the seat of the region of Uusimaa in southern Finland, and has a population of 650,058. The city's urban area has a population of 1,268,296, making it by far the most populous urban area in Finland as well as the country's most important center for politics, education, finance, culture, and research. Helsinki is located 80 kilometres north of Tallinn, Estonia, 400 km east of Stockholm, Sweden, and 300 km west of Saint Petersburg, Russia. It has close historical ties with these three cities.",
-      "Together with the cities of Espoo, Vantaa, and Kauniainen, and surrounding commuter towns, Helsinki forms the Greater Helsinki metropolitan area, which has a population of nearly 1.5 million. Often considered to be Finland's only metropolis, it is the world's northernmost metro area with over one million people as well as the northernmost capital of an EU member state. After Stockholm and Oslo, Helsinki is the third largest municipality in the Nordic countries. Finnish and Swedish are both official languages."
+      "Nigeria, officially the Federal Republic of Nigeria, is a sovereign country located in West Africa bordering Niger in the north, Chad in the northeast, Cameroon in the east, and Benin in the west. Its southern coast is on the Gulf of Guinea in the Atlantic Ocean. A federal republic comprising 36 states and the Federal Capital Territory, where the capital, Abuja, is located.",
+      "A multinational state, Nigeria is inhabited by more than 250 ethnic groups with over 500 distinct languages all identifying with a wide variety of cultures. The three largest ethnic groups are the Hausa–Fulani in the north, Yoruba in the west, and Igbo in the east; comprising over 60% of the total population. The official language of Nigeria is English, chosen to facilitate linguistic unity at the national level. Nigeria is divided roughly in half between Christians, who live mostly in the southern part of the country, and Muslims, who live mostly in the north. Nigeria has respectively, the fifth-largest Muslim population in the world and the sixth-largest Christian population in the world, with the constitution ensuring freedom of religion."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Helsinki",
-    "urlGoogle": "https://artsandculture.google.com/entity/helsinki/m03khn"
+    "urlWiki": "https://en.wikipedia.org/wiki/Nigeria",
+    "urlGoogle": "https://artsandculture.google.com/entity/nigeria/m05cgv"
   },
   "wiki": {
-    "id": "enzyme-kinetics",
-    "name": "Enzyme kinetics",
-    "summary": "Enzyme kinetics is the study of the rates of chemical reactions that are catalysed by enzymes. Enzymes are molecules that manipulate other molecules — the enzymes' substrates. These target molecules bind to an enzyme's active site and are transformed into products through a series of steps known as the enzymatic mechanism. The study of an enzyme's kinetics provides insights into the catalytic mechanism of this enzyme, its role in metabolism, how its activity is controlled in the cell and how drugs and poisons can inhibit its activity. Knowledge of the enzyme's structure is helpful in visualizing the kinetic data.",
-    "url": "https://en.wikipedia.org/wiki/Enzyme_kinetics"
+    "id": "ray-farquharson",
+    "name": "Ray Farquharson",
+    "summary": "Ray Farquharson (1897–1965) was a Canadian doctor, university professor, and medical researcher. Born in Claude, Ontario, he attended and taught at the University of Toronto for most of his life, and was trained and employed at Toronto General Hospital. With co-researcher Arthur Squires, Farquharson was responsible for the discovery of the \"Farquharson phenomenon\", an important principle of endocrinology. He served in the First and Second World Wars, earning appointment as a Member of the Order of the British Empire for his medical work during the latter. He chaired the Penicillin Committee of Canada and served as a medical consultant for the Royal Canadian Air Force. He was awarded the Queen's Coronation Medal in 1953 as a result of his work for the Defence Review Board. As a member of the National Research Council of Canada, his \"Farquharson Report\" led to the establishment of the Medical Research Council of Canada, of which he was the first president. Farquharson was posthumously inducted into the Canadian Medical Hall of Fame in 1998.",
+    "url": "https://en.wikipedia.org/wiki/Ray_Farquharson"
   },
   "word": {
-    "id": "filial",
-    "word": "filial",
-    "url": "https://www.merriam-webster.com/dictionary/filial",
-    "partOfSpeech": "adjective",
-    "pronunciation": "FIL-ee-ul",
-    "audioPath": "audio/words/filial.mp3",
-    "definitions": [
-      "of, relating to, or befitting a son or daughter",
-      "having or assuming the relation of a child or offspring"
-    ],
+    "id": "inspissate",
+    "word": "inspissate",
+    "url": "https://www.merriam-webster.com/dictionary/inspissate",
+    "partOfSpeech": "verb",
+    "pronunciation": "in-SPISS-ayt",
+    "audioPath": "audio/words/inspissate.mp3",
+    "definitions": ["to make or become thick or thicker"],
     "examples": [
-      "Margaret's sense of _filial_ responsibility is only part of her motivation for carrying on her parents' business; she also loves the work.",
-      "\"Confucianism, which emphasizes _filial_ piety, has been the bedrock of Korean society for hundreds of years and, historically, older citizens would rely on their children to take care of them.\" - From an article by Audrey Yoo in _Time_, March 25, 2013"
+      "\"Marmalade of carrots is the juice of yellow carrots, _inspissated_ till it is of the thickness of fluid honey, or treacle, which last it resembles both in taste and color.\" - From Capt. James E. Cook's 1777 book _A Voyage Towards the South Pole and Round the World, Volume 1_",
+      "\"Estrogen and progesterone affect direction and flow of tubal secretions, which may accumulate, _inspissate_, and eventually calcify.\" - From Gary B. Siskin's 2009 book _Interventional Radiology in Women’s Health_"
     ],
-    "origin": "\"Filial\" is descended from Latin \"filius,\" meaning \"son,\" and \"filia,\" meaning \"daughter,\" and in English (where it has been used since at least the 14th century) it has always applied to both sexes. The word has long carried the dutiful sense \"owed to a parent by a child,\" as found in such phrases as \"filial respect\" and \"filial piety.\" These days it can also be used more generally for any emotion or behavior of a child to a parent. You might suspect that \"filia\" is also the source of the word \"filly,\" meaning \"a young female horse\" or \"a young girl,\" but it isn't. Rather, \"filly\" is from Old Norse \"fylja.\""
+    "origin": "\"Inspissate\" is ultimately derived from Latin \"spissus\" (\"slow, dense\") and is related to Greek \"spidnos\" (\"compact\") and Lithuanian \"spisti\" (\"to form a swarm\"). When it appeared in English in the 17th century, \"inspissate\" suggested a literal thickening. Francis Bacon, for example, wrote in 1626 that \"Sugar doth inspissate the Spirits of the Wine, and maketh them not so easie to resolue into Vapour.\" Eventually \"inspissate\" was also used metaphorically. Clive Bell once wrote of \"parties of school children and factory girls inspissating the gloom of the museum atmosphere.\" There is also an adjective \"inspissate,\" meaning \"thickened in consistency\" or \"made thick, heavy, or intense,\" but that word is used even less frequently than the somewhat rare verb."
   }
 }

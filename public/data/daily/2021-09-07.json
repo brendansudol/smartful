@@ -1,130 +1,135 @@
 {
   "artist": {
-    "id": "max-weber",
-    "name": "Max Weber",
-    "dates": "Apr 18, 1881 - Oct 4, 1961",
-    "mainImg": "img/art/artists/max-weber.jpg",
+    "id": "francesco-di-giorgio-martini",
+    "name": "Francesco di Giorgio Martini",
+    "dates": "Sep 23, 1439 - Nov 29, 1502",
+    "mainImg": "img/art/artists/francesco-di-giorgio-martini.jpg",
     "artworkImgs": [
       {
-        "name": "Adoration of the Moon",
-        "path": "img/art/artworks/max-weber-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/adoration-of-the-moon/MAGRK0dAwHa6Cg"
+        "name": "The Nativity",
+        "path": "img/art/artworks/francesco-di-giorgio-martini-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nativity-francesco-di-giorgio-martini/cgFa-0R6cLWi1g"
       },
       {
-        "name": "The Cellist",
-        "path": "img/art/artworks/max-weber-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-cellist/YQGldaggf01Z5Q"
+        "name": "Studiolo from the Ducal Palace in Gubbio",
+        "path": "img/art/artworks/francesco-di-giorgio-martini-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/studiolo-from-the-ducal-palace-in-gubbio-giuliano-da-maiano-francesco-di-giorgio-martini-francesco-di-giorgio-martini-benedetto-da-maiano/6QGyTGPbuWuCtg"
       },
       {
-        "name": "Chinese Restaurant",
-        "path": "img/art/artworks/max-weber-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/chinese-restaurant/8QFd8tjBnxFmUA"
+        "name": "Design for a Wall Monument",
+        "path": "img/art/artworks/francesco-di-giorgio-martini-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/design-for-a-wall-monument-francesco-di-giorgio-martini/wwH2ff4EAx-fwg"
       },
       {
-        "name": "Barreres Wind Orchestra",
-        "path": "img/art/artworks/max-weber-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/barreres-wind-orchestra-max-weber/agFrQ78Ygydrqg"
+        "name": "The Man of Sorrows with Two Angels",
+        "path": "img/art/artworks/francesco-di-giorgio-martini-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-man-of-sorrows-with-two-angels-francesco-di-giorgio-martini/JwGO9dJFC_RxYg"
       },
       {
-        "name": "The Visit",
-        "path": "img/art/artworks/max-weber-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-visit/xQGLbHQ3MG_UDg"
+        "name": "Goddess of Chaste Love",
+        "path": "img/art/artworks/francesco-di-giorgio-martini-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/goddess-of-chaste-love-francesco-di-giorgio-martini/AAGehMNiUhDCmA"
       },
       {
-        "name": "Forest Scene",
-        "path": "img/art/artworks/max-weber-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/forest-scene/pgH6jqpvmfwWJg"
+        "name": "Architectural Veduta",
+        "path": "img/art/artworks/francesco-di-giorgio-martini-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/architectural-veduta-francesco-di-giorgio-martini-attributed/kAGQtjZedrY6Xw"
       }
     ],
     "summary": [
-      "Max Weber was a Jewish-American painter and one of the first American Cubist painters who, in later life, turned to more figurative Jewish themes in his art. He is best known today for Chinese Restaurant, in the collection of the Whitney Museum of American Art, \"the finest canvas of his Cubist phase,\" in the words of art historian Avis Berman."
+      "Francesco di Giorgio Martini was an Italian architect, engineer, painter, sculptor, and writer. As a painter, he belonged to the Sienese School. He was considered a visionary architectural theorist—in Nikolaus Pevsner's terms: \"one of the most interesting later Quattrocento architects\". As a military engineer, he executed architectural designs and sculptural projects and built almost seventy fortifications for the Federico da Montefeltro, Count of Urbino, building city walls and early examples of star-shaped fortifications.",
+      "Born in Siena, he apprenticed as a painter with Vecchietta. In panels painted for cassoni he departed from the traditional representations of joyful wedding processions in frieze-like formulas to express visions of ideal, symmetrical, vast and all but empty urban spaces rendered in perspective.",
+      "He composed an architectural treatise Trattato di architettura, ingegneria e arte militare, the third of the Quattrocento, after Leone Battista Alberti's and Filarete's; he worked on it for decades and finished sometime after 1482; it circulated in manuscript."
     ],
     "quote": null,
-    "movements": ["Modern art", "Cubism", "American modernism", "Expressionism"],
-    "mediums": ["Oil paint", "Watercolor painting", "Drawing", "Oil pastel", "Charcoal", "Crayon"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Max_Weber_%28artist%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/max-weber/m03k5p9"
+    "movements": ["Italian Renaissance", "Renaissance", "Sienese School"],
+    "mediums": ["Tempera", "Metal", "Wood", "Bronze", "Rock", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Francesco_di_Giorgio_Martini",
+    "urlGoogle": "https://artsandculture.google.com/entity/francesco-di-giorgio-martini/m08rv7g"
   },
   "event": {
-    "id": "the-holocaust-in-france",
-    "name": "The Holocaust in France",
-    "dates": "1940 - 1944",
-    "mainImg": "img/events/the-holocaust-in-france.jpg",
+    "id": "warsaw-uprising",
+    "name": "Warsaw Uprising",
+    "dates": "Aug 1, 1944 - Oct 2, 1944",
+    "mainImg": "img/events/warsaw-uprising.jpg",
     "summary": [
-      "The Holocaust in France was the persecution, deportation, and annihilation of Jews and Roma between 1940 and 1944 in occupied France, metropolitan Vichy France, and in Vichy-controlled French North Africa, during the World War II. The persecution began in 1940, and culminated in deportations of Jews from France to Nazi concentration camps in Nazi Germany and Nazi-occupied Poland. The deportation started in 1942 and lasted until July 1944. Of the 340,000 Jews living in metropolitan/continental France in 1940, more than 75,000 were deported to death camps, where about 72,500 were killed. The government of Vichy France and the French police participated in the roundup of Jews. Although most deported Jews died, the survival rate of the Jewish population in France was up to 75%, which is one of the highest survival rates in Europe."
+      "The Warsaw Uprising was a major World War II operation, in the summer of 1944, by the Polish underground resistance, led by the Polish resistance Home Army, to liberate Warsaw from German occupation. The uprising was timed to coincide with the retreat of the German forces from Poland ahead of the Soviet advance. While approaching the eastern suburbs of the city, the Red Army temporarily halted combat operations, enabling the Germans to regroup and defeat the Polish resistance and to destroy the city in retaliation. The Uprising was fought for 63 days with little outside support. It was the single largest military effort taken by any European resistance movement during World War II.",
+      "The Uprising began on 1 August 1944 as part of a nationwide Operation Tempest, launched at the time of the Soviet Lublin–Brest Offensive. The main Polish objectives were to drive the Germans out of Warsaw while helping the Allies defeat Germany. An additional, political goal of the Polish Underground State was to liberate Poland's capital and assert Polish sovereignty before the Soviet-backed Polish Committee of National Liberation could assume control."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/The_Holocaust_in_France",
-    "urlGoogle": "https://artsandculture.google.com/entity/the-holocaust-in-france/m010gnf_t"
+    "urlWiki": "https://en.wikipedia.org/wiki/Warsaw_Uprising",
+    "urlGoogle": "https://artsandculture.google.com/entity/warsaw-uprising/m021349"
   },
   "funFacts": [
     {
-      "id": "339",
-      "fact": "There are more doughnut shops per capita in Canada than in any other country.",
-      "category": ["Geography", "Habits"]
+      "id": "698",
+      "fact": "Stepping out for a walk every day can actually help you sleep better at night.",
+      "category": ["Anatomy"]
     },
     {
-      "id": "465",
-      "fact": "The great white shark can go up to three months between meals.",
-      "category": ["Animals"]
+      "id": "821",
+      "fact": "It takes an interaction of 72 muscles to produce human speech.",
+      "category": ["Anatomy"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554254",
-      "fact": "On average, people in India \u0003spend 10 hours and 42 minutes \u0003a week reading, the most time \u0003of any country on Earth."
+      "id": "553963",
+      "fact": "Citizens of the Soviet Union began celebrating the defeat of Germany in World War II as soon as it was announced. Less than 24 hours later, the entire country was out of vodka."
     }
   ],
   "idiom": {
-    "id": "vote-with-ones-feet",
-    "term": "vote with one's feet",
-    "definition": "Indicate one's disapproval by walking out or emigrating, as in *The service was so bad that we decided to vote with our feet,* or *Thousands of Hong Kong residents voted with their feet and left before the Chinese takeover.* [Slang; mid-1900s]"
+    "id": "a-flea-in-ones-ear",
+    "term": "a flea in one's ear",
+    "definition": "An annoying hint or a stinging rebuke, as in *He has a flea in his ear about their relationship,* or *If he doesn't bring the right equipment, I'll put a flea in his ear.* This expression originated in French and has been used in English since the 1400s."
   },
   "person": {
-    "id": "victor-emmanuel-iii-of-italy",
-    "name": "Victor Emmanuel III of Italy",
-    "dates": "Nov 11, 1869 - Dec 28, 1947",
-    "mainImg": "img/people/victor-emmanuel-iii-of-italy.jpg",
+    "id": "james-connolly",
+    "name": "James Connolly",
+    "dates": "Jun 5, 1868 - May 12, 1916",
+    "mainImg": "img/people/james-connolly.jpg",
     "summary": [
-      "Victor Emmanuel III reigned as King of Italy from 29 July 1900 until his abdication on 9 May 1946. In addition, he held the thrones of Ethiopia and Albania as Emperor of Ethiopia and King of the Albanians. During his reign of nearly 46 years, which began after the assassination of his father Umberto I, the Kingdom of Italy became involved in two world wars. His reign also encompassed the birth, rise, and fall of Italian Fascism and its regime.",
-      "During the First World War, Victor Emmanuel III accepted the resignation of Prime Minister Paolo Boselli and named Vittorio Emanuele Orlando in his place. Following the March on Rome, he appointed Benito Mussolini as Prime Minister and later deposed him in 1943 during the Allied invasion of Italy of the Second World War.",
-      "Victor Emmanuel abdicated his throne in 1946 in favour of his son Umberto II, hoping to strengthen support for the monarchy against an ultimately successful referendum to abolish it. He then went into exile to Alexandria, Egypt, where he died and was buried the following year in Saint Catherines's Cathedral of Alexandria."
+      "James Connolly was a Scottish-born Irish republican and socialist leader.",
+      "Connolly was born in the Cowgate area of Edinburgh, Scotland, to Irish parents. He left school for working life at the age of 11. He also took a role in Scottish and American politics. He was a member of the Industrial Workers of the World and founder of the Irish Socialist Republican Party. With James Larkin, he was centrally involved in the Dublin lock-out of 1913, as a result of which the two men formed the Irish Citizen Army that year. He opposed British rule in Ireland, and was one of the leaders of the Easter Rising of 1916. He was executed by firing squad following the Rising."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Victor_Emmanuel_III_of_Italy",
-    "urlGoogle": "https://artsandculture.google.com/entity/victor-emmanuel-iii-of-italy/m0j53d"
+    "quote": "“The worker is the slave of capitalist society, the female worker is the slave of that slave.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/James_Connolly",
+    "urlGoogle": "https://artsandculture.google.com/entity/james-connolly/m016j74"
   },
   "place": {
-    "id": "riyadh",
-    "name": "Riyadh",
-    "mainImg": "img/places/riyadh.jpg",
+    "id": "berlin",
+    "name": "Berlin",
+    "mainImg": "img/places/berlin.jpg",
     "summary": [
-      "Riyadh is the capital of Saudi Arabia and the largest city on the Arabian Peninsula. With a population of 7.6 million people, Riyadh is the third-largest city in the Arab world, and the 39th-largest in Asia. Riyadh is located on the eastern part of the Najd plateau at about 600 metres above sea level.",
-      "Riyadh is the political and administrative centre of Saudi Arabia and is the headquarters of the country's central government bodies, such as the Saudi Royal Court and the Council of Ministers of Saudi Arabia. Riyadh is of great economic importance, as it is the headquarters of many banks and major companies. It is also the location of the King Abdullah Financial District, one of the world's largest financial centres. Riyadh is one of the world's fastest-growing cities in population, with many immigrants.",
-      "The city is divided into 15 municipal districts, managed by the Municipality of Riyadh headed by the mayor of Riyadh, and the Royal Commission for Riyadh which is chaired by the governor of the Province, Faisal bin Bandar Al Saud. The current mayor is Tariq bin Abdul Aziz Al-Faris. Riyadh has been designated a global city."
+      "Berlin is the capital and largest city of Germany by both area and population. Its 3,769,495 inhabitants make it the most populous city proper of the European Union. The city is one of Germany's 16 federal states. It is surrounded by the state of Brandenburg, and contiguous with Potsdam, Brandenburg's capital. The two cities are at the center of the Berlin-Brandenburg capital region, which is, with about six million inhabitants and an area of more than 30,000 km², Germany's third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions.",
+      "Berlin straddles the banks of the River Spree, which flows into the River Havel in the western borough of Spandau. Among the city's main topographical features are the many lakes in the western and southeastern boroughs formed by the Spree, Havel, and Dahme rivers. Due to its location in the European Plain, Berlin is influenced by a temperate seasonal climate. About one-third of the city's area is composed of forests, parks, gardens, rivers, canals and lakes. The city lies in the Central German dialect area, the Berlin dialect being a variant of the Lusatian-New Marchian dialects."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Riyadh",
-    "urlGoogle": "https://artsandculture.google.com/entity/riyadh/m0dlm_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Berlin",
+    "urlGoogle": "https://artsandculture.google.com/entity/berlin/m0156q"
   },
   "wiki": {
-    "id": "north-road-football-ground",
-    "name": "North Road (football ground)",
-    "summary": "North Road was a football stadium and cricket field in Newton Heath, Manchester, England. It was the first home of Manchester United Football Club, then known as Newton Heath Lancashire and Yorkshire Railway Football Club. The club was formed in 1878 at the request of the railway company's employees at its carriage and wagon works, and the ground (which was owned by Manchester Cathedral) adjoined the works. Initially the ground consisted only of the pitch, around which an estimated 12,000 spectators could congregate, and it was often clouded by steam from passing trains. Players had to get changed at a nearby public house. The addition of stands in 1891 increased the capacity to about 15,000. The football club signed its first professional players in 1886 and began to break from its sponsoring railway company, but without the company's financial support it was unable to afford the rent on the ground and was evicted. In 1893, the club moved to a new ground at Bank Street, Clayton. The North Road site is now part of the North Manchester Business Park, having previously been used as playing fields and as the site of a school.",
-    "url": "https://en.wikipedia.org/wiki/North_Road_(football_ground)"
+    "id": "cape-horn",
+    "name": "Cape Horn",
+    "summary": "Cape Horn is the southernmost headland of the Tierra del Fuego archipelago of southern Chile; it is widely considered to be the southern tip of South America. Cape Horn is the most southerly of the great capes, and marks the northern boundary of the Drake Passage; for many years it was a major milestone on the clipper route, by which sailing ships carried trade around the world. However, the waters around the cape are particularly hazardous, due to strong winds, large waves, and icebergs; these dangers have made it notorious as a sailors' graveyard. Today, the Panama Canal has greatly reduced the need for cargo ships to travel via the Horn. However, sailing around the Horn is widely regarded as one of the major challenges in yachting, and a number of recreational sailors continue to sail this route, sometimes as part of a circumnavigation. Several prominent ocean yacht races sail around the world via the Horn, notably the Vendée Globe, and speed records for round-the-world sailing follow the same route.",
+    "url": "https://en.wikipedia.org/wiki/Cape_Horn"
   },
   "word": {
-    "id": "convalesce",
-    "word": "convalesce",
-    "url": "https://www.merriam-webster.com/dictionary/convalesce",
-    "partOfSpeech": "verb",
-    "pronunciation": "kahn-vuh-LESS",
-    "audioPath": "audio/words/convalesce.mp3",
-    "definitions": ["to recover health and strength gradually after sickness or weakness"],
-    "examples": [
-      "According to the article, the athlete is still _convalescing_ from her recent injury but expects to resume her training schedule by the end of the month.",
-      "\"Kenyon … was 8 years old when he was struck \\[by a car\\]. He had to limit his activities to the quiet kind, so his parents figured piano lessons would give him something to do while he _convalesced_.\" - From an article by Charles Hand in the _San Diego Union-Tribune_, February 24, 2013"
+    "id": "prodigious",
+    "word": "prodigious",
+    "url": "https://www.merriam-webster.com/dictionary/prodigious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "pruh-DIJ-us",
+    "audioPath": "audio/words/prodigious.mp3",
+    "definitions": [
+      "resembling or befitting a prodigy : strange, unusual",
+      "exciting amazement or wonder",
+      "extraordinary in bulk, quantity, or degree : enormous"
     ],
-    "origin": "When you convalesce, you heal or grow strong after illness or injury, often by staying off your feet. (The related adjective \"convalescent\" means \"recovering from sickness or debility,\" and a \"convalescent home\" is a hospital for long-term recuperation and rehabilitation.) The word \"convalesce\" derives from Latin, from the prefix \"com-\" (\"with, together, jointly\") and the verb \"valescere\" (\"to grow strong\"). \"Valescere,\" in turn, is related to the verb \"valēre\" (\"to be strong or be well\"), which is also an ancestor of \"prevail,\" \"valor,\" \"value,\" and \"valid.\""
+    "examples": [
+      "Artisans have begun the _prodigious_ task of restoring the beautiful mosaics that were damaged in the earthquake.",
+      "\"Today she's known for her _prodigious_ work ethic -- although she sells some of Chicago's highest-end properties, she still accepts modest listings -- as well as her independent streak and her charity fundraising.\" -- From an article by Carol Mithers in _Town and Country_, May 2010"
+    ],
+    "origin": "\"Prodigious,\" \"monstrous,\" \"tremendous,\" and \"stupendous\" all mean extremely impressive. \"Prodigious\" suggests something marvelous or extraordinary, whereas \"monstrous\" implies that something is not only large but also ugly or deformed. \"Tremendous\" and \"stupendous\" both imply a power, the former to terrify or awe, the latter to stun or astound. \"Prodigious\" and the related noun \"prodigy\" derive from the Latin \"prodigium,\" meaning \"omen\" or \"monster\"; at one time, both words were used in English to refer to portents, or omens, but these senses are now considered obsolete."
   }
 }

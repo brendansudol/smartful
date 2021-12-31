@@ -1,129 +1,110 @@
 {
   "artist": {
-    "id": "lovis-corinth",
-    "name": "Lovis Corinth",
-    "dates": "Jul 21, 1858 - Jul 17, 1925",
-    "mainImg": "img/art/artists/lovis-corinth.jpg",
+    "id": "felix-gonzalez-torres",
+    "name": "Félix González-Torres",
+    "dates": "Nov 26, 1957 - Jan 9, 1996",
+    "mainImg": "img/art/artists/felix-gonzalez-torres.jpg",
     "artworkImgs": [
       {
-        "name": "Thomas Corinth",
-        "path": "img/art/artworks/lovis-corinth-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/thomas-corinth-lovis-corinth/6wEEPi7YLqKzdw"
+        "name": "\"Untitled\" (Golden)",
+        "path": "img/art/artworks/felix-gonzalez-torres-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-golden-felix-gonzalez-torres/fwG6cQK9ekWdUA"
       },
       {
-        "name": "Selfportrait with skeleton",
-        "path": "img/art/artworks/lovis-corinth-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/selfportrait-with-skeleton-corinth-lovis/vgHTe-VzNrj3FQ"
+        "name": "Untitled",
+        "path": "img/art/artworks/felix-gonzalez-torres-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-felix-gonzalez-torres/3QGNFHbW_3PWhA"
       },
       {
-        "name": "The Blinded Samson",
-        "path": "img/art/artworks/lovis-corinth-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-blinded-samson-lovis-corinth/awErRXFDV49Z3w"
+        "name": "\"Untitled\" (Placebo)",
+        "path": "img/art/artworks/felix-gonzalez-torres-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-placebo-felix-gonzalez-torres/tAF57yiLyWjUpQ"
       },
       {
-        "name": "Woman in Hat with Roses",
-        "path": "img/art/artworks/lovis-corinth-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/woman-in-hat-with-roses-lovis-corinth/HgHdSJ0KH5Twew"
-      },
-      {
-        "name": "The Family of the Painter Fritz Rumpf",
-        "path": "img/art/artworks/lovis-corinth-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-family-of-the-painter-fritz-rumpf-lovis-corinth/zgFFa16k1svocQ"
-      },
-      {
-        "name": "Cain",
-        "path": "img/art/artworks/lovis-corinth-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/cain-lovis-corinth/vwGejBFWToVQqA"
+        "name": "\"Untitled' (1994)",
+        "path": "img/art/artworks/felix-gonzalez-torres-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-1994-felix-gonzalez-torres/awHPgZtTApkjig"
       }
     ],
     "summary": [
-      "Lovis Corinth was a German artist and writer whose mature work as a painter and printmaker realized a synthesis of impressionism and expressionism.",
-      "Corinth studied in Paris and Munich, joined the Berlin Secession group, later succeeding Max Liebermann as the group's president. His early work was naturalistic in approach. Corinth was initially antagonistic towards the expressionist movement, but after a stroke in 1911 his style loosened and took on many expressionistic qualities. His use of color became more vibrant, and he created portraits and landscapes of extraordinary vitality and power. Corinth's subject matter also included nudes and biblical scenes."
+      "Félix González-Torres was a Cuban-born American visual artist. González-Torres's openly gay sexual orientation is often seen as influential in his work as an artist. González-Torres was known for his minimal installations and sculptures in which he used materials such as strings of lightbulbs, clocks, stacks of paper, or packaged hard candies. In 1987, he joined Group Material, a New York-based group of artists whose intention was to work collaboratively, adhering to principles of cultural activism and community education. González-Torres's 1992 piece \"Untitled\" sold for $4.6 million at Phillips de Pury & Company in 2010, a record for the artist at auction."
     ],
     "quote": null,
-    "movements": ["Modern art", "Expressionism", "Impressionism", "Realism", "Symbolism"],
-    "mediums": ["Ink", "Laid paper", "Oil paint", "Etching", "Watercolor painting", "Graphite"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Lovis_Corinth",
-    "urlGoogle": "https://artsandculture.google.com/entity/lovis-corinth/m0346n_"
+    "movements": ["Conceptual art", "Minimalism", "Contemporary art"],
+    "mediums": ["Silver", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/F%C3%A9lix_Gonz%C3%A1lez-Torres",
+    "urlGoogle": "https://artsandculture.google.com/entity/félix-gonzález-torres/m041z0t"
   },
   "event": {
-    "id": "kamakura-period",
-    "name": "Kamakura period",
-    "dates": "1185 - 1333",
-    "mainImg": "img/events/kamakura-period.jpg",
+    "id": "korabl-sputnik-1",
+    "name": "Korabl-Sputnik 1",
+    "dates": "May 15, 1960 - Sep 5, 1962",
+    "mainImg": "img/events/korabl-sputnik-1.jpg",
     "summary": [
-      "The Kamakura period is a period of Japanese history that marks the governance by the Kamakura shogunate, officially established in 1192 in Kamakura by the first shōgun, Minamoto no Yoritomo. The period is known for the emergence of the samurai, the warrior caste, and for the establishment of feudalism in Japan.",
-      "The Kamakura period ended in 1333 with the destruction of the shogunate and the short re-establishment of imperial rule under Emperor Go-Daigo by Ashikaga Takauji, Nitta Yoshisada, and Kusunoki Masashige."
+      "Korabl-Sputnik 1, also known as Sputnik 4 in the West, was the first test flight of the Soviet Vostok programme, and the first Vostok spacecraft. It was launched on May 15, 1960. Though Korabl-Sputnik 1 was unmanned, it was a precursor to the first human spaceflight, Vostok 1. Its mass was 4,540 kilograms, of which 1,477 kilograms was instrumentation. A bug in the guidance system had pointed the capsule in the wrong direction, so instead of dropping into the atmosphere the satellite moved into a higher orbit. The descent module re-entered the atmosphere on September 6, 1962. A 20 pound piece, still warm, was found in the middle of North 8th Street by two city police officers in Manitowoc, Wisconsin in the northern United States. An annual commemoration, \"Sputnikfest\", is now held near the same date each year at the Rahr-West Museum, located within a few dozen feet of the impact site.",
+      "This spacecraft, the first of a series of spacecraft used to investigate the means for manned space flight, contained scientific instruments, a television system, and a self-sustaining biological cabin with a dummy of a man."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kamakura_period",
-    "urlGoogle": "https://artsandculture.google.com/entity/kamakura-period/m01cl2h"
+    "urlWiki": "https://en.wikipedia.org/wiki/Korabl-Sputnik_1",
+    "urlGoogle": "https://artsandculture.google.com/entity/korabl-sputnik-1/m0211h8"
   },
   "funFacts": [
+    { "id": "6", "fact": "A honey bee can fly at 15mph.", "category": ["Animals"] },
+    { "id": "449", "fact": "Sound travels quicker in water than in air.", "category": ["Science"] }
+  ],
+  "funFacts2": [
     {
-      "id": "993",
-      "fact": "Powerful earthquakes can make the Earth spin faster.",
-      "category": ["Hodgepodge", "Science"]
-    },
-    {
-      "id": "988",
-      "fact": "Each year, the Moon moves away from Earth by about four centimeters.",
-      "category": ["Geography", "Science"]
+      "id": "551313",
+      "fact": "<span>A double rainbow occurs when sunlight is reflected twice inside a raindrop. If you look closely, you can see that the colors of the secondary rainbow appear in reverse order.</span>"
     }
   ],
-  "funFacts2": [{ "id": "553862", "fact": "The original title for Scream was Scary Movie." }],
   "idiom": {
-    "id": "on-the-horns-of-a-dilemma",
-    "term": "on the horns of a dilemma",
-    "definition": "Faced with two equally undesirable alternatives. For example, *I'm on the horns of a dilemma: if I sell the house now I have no place to live, but if I wait I may not get as good a price.* This term was first recorded about 1600, but the idea of being caught on either one horn or the other (of an animal) was already expressed in Roman times."
+    "id": "a-new-broom-sweeps-clean",
+    "term": "a new broom sweeps clean",
+    "definition": "A fresh leader or administration gets rid of the old and brings in New ideas and personnel. For example, *Once he takes office, you can be sure the President will replace most of the people on the staff---a new broom sweeps clean.* This term was already in John Heywood's 1546 proverb collection, was used figuratively by Shakespeare, and exists in many other languages as well."
   },
   "person": {
-    "id": "heungseon-daewongun",
-    "name": "Heungseon Daewongun",
-    "dates": "Dec 21, 1820 - Feb 22, 1898",
-    "mainImg": "img/people/heungseon-daewongun.jpg",
+    "id": "albert-gallatin",
+    "name": "Albert Gallatin",
+    "dates": "Jan 29, 1761 - Aug 12, 1849",
+    "mainImg": "img/people/albert-gallatin.jpg",
     "summary": [
-      "Heungseon Daewongun, also known as the Daewongun, Guktaegong or formally Heungseon Heonui Daewonwang and also known to contemporary western diplomats as Prince Gung, was the title of Yi Ha-eung, regent of Joseon during the minority of Emperor Gojong in the 1860s and until his death a key political figure of late Joseon Korea.",
-      "Daewongun literally translates as \"prince of the great court\", a title customarily granted to the father of the reigning monarch when that father did not reign himself. While there had been three other Daewongun during the Joseon dynasty, so dominant a place did Yi Ha-eung have in the history of the late Joseon dynasty that the term Daewongun usually refers specifically to him.",
-      "The Daewongun is remembered for the wide-ranging reforms he attempted during his regency, as well as for his \"vigorous enforcement of the seclusion policy, persecution of Christians, and the killing or driving off of foreigners who landed on Korean soil\"."
+      "Abraham Alfonse Albert Gallatin, born de Gallatin was an American politician, diplomat, ethnologist and linguist. He is known for being the founder of New York University and for serving in the Democratic-Republican Party at various federal elective and appointed positions across four decades. He represented Pennsylvania in the Senate and the House of Representatives before becoming the longest-tenured United States Secretary of the Treasury and serving as a high-ranking diplomat.",
+      "Gallatin was born in Geneva in present-day Switzerland and spoke French as a first language. He immigrated to the United States in the 1780s, settling in western Pennsylvania. He served as a delegate to the 1789 Pennsylvania constitutional convention and won election to the Pennsylvania General Assembly. An opponent of Alexander Hamilton's economic policies, Gallatin was elected to the United States Senate in 1793. However, he was removed from office on a party-line vote after a protest raised by his opponents suggested he did not meet the required nine years of citizenship. Returning to Pennsylvania, Gallatin helped calm many angry farmers during the Whiskey Rebellion."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Heungseon_Daewongun",
-    "urlGoogle": "https://artsandculture.google.com/entity/heungseon-daewongun/m06zf03"
+    "quote": "“I am not wrong in the belief that its public funds are more secure than those of all the European powers.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Albert_Gallatin",
+    "urlGoogle": "https://artsandculture.google.com/entity/albert-gallatin/m01p369"
   },
   "place": {
-    "id": "karlsruhe",
-    "name": "Karlsruhe",
-    "mainImg": "img/places/karlsruhe.jpg",
+    "id": "waco",
+    "name": "Waco",
+    "mainImg": "img/places/waco.jpg",
     "summary": [
-      "Karlsruhe is the second-largest city of the German federal state of Baden-Württemberg after its capital of Stuttgart, and its 309,999 inhabitants make it the 21st largest city of Germany. On the right bank of the Rhine, the city lies near the French-German border, between the Mannheim/Ludwigshafen conurbation to the north, and the Strasbourg/Kehl conurbation to the south. It is the largest city of Baden, a historic region named after Hohenbaden Castle in the city of Baden-Baden. Karlsruhe is also the largest city in the South Franconian dialect area, the only other larger city in that area being Heilbronn. The city is the seat of the Federal Constitutional Court, as well as of the Federal Court of Justice and the Public Prosecutor General of the Federal Court of Justice.",
-      "Karlsruhe was the capital of the Margraviate of Baden-Durlach, the Margraviate of Baden, the Electorate of Baden, the Grand Duchy of Baden, and the Republic of Baden. Its most remarkable building is Karlsruhe Palace, which was built in 1715. There are nine institutions of higher education in the city, most notably the Karlsruhe Institute of Technology."
+      "Waco is a city in central Texas and is the county seat and largest city of McLennan County, Texas, United States. It is situated along the Brazos River and I-35, halfway between Dallas and Austin. The city had a 2010 population of 124,805, making it the 22nd-most populous city in the state. The 2019 US Census population estimate is 139,236. The Waco Metropolitan Statistical Area consists of McLennan and Falls Counties, which had a 2010 population of 234,906. Falls County was added to the Waco MSA in 2013. The 2019 US Census population estimate for the Waco MSA is 273,920."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Karlsruhe",
-    "urlGoogle": "https://artsandculture.google.com/entity/karlsruhe/m0qb1z"
+    "urlWiki": "https://en.wikipedia.org/wiki/Waco,_Texas",
+    "urlGoogle": "https://artsandculture.google.com/entity/waco/m0106dv"
   },
   "wiki": {
-    "id": "doomsday-doctor-who",
-    "name": "Doomsday (Doctor Who)",
-    "summary": "\"Doomsday\" is the thirteenth and final episode in the second series of the revival of the British science fiction television series Doctor Who. It was first broadcast on 8 July 2006 and is the conclusion of a two-part story; the first part, \"Army of Ghosts\", was broadcast on 1 July 2006. The two-part story features the Daleks, presumed extinct after the events of the 2005 series' finale; and the Cybermen, who appeared in \"Rise of the Cybermen\" and \"The Age of Steel\". Both species unexpectedly arrived on Earth at the conclusion of \"Army of Ghosts\". The plot consists mostly of the Daleks and Cybermen waging a global war, with humanity caught in the crossfire. The Doctor and his companions fight for their lives trying to revert the situation. The episode was filmed in December 2005 and January 2006. One of the most popular Doctor Who episodes since the show's revival, \"Doomsday\" is favoured by critics both for the Cyberman–Dalek conflict and for the farewell scene between the Doctor and his companion, Rose Tyler.",
-    "url": "https://en.wikipedia.org/wiki/Doomsday_(Doctor_Who)"
+    "id": "abyssinia-henry",
+    "name": "Abyssinia, Henry",
+    "summary": "\"Abyssinia, Henry\" is the 72nd episode of the M*A*S*H television series, and the final episode of the series' third season. First aired on March 18, 1975, and written by Everett Greenbaum and Jim Fritzell, the highly rated episode was most notable for its shocking and unexpected ending. The plot of the episode centers on the honorable discharge and subsequent departure of the 4077th MASH's commander, Lieutenant Colonel Henry Blake (played by McLean Stevenson). The highly controversial ending to the episode, which has since been referenced and parodied many times, prompted an estimated 1,000-plus letters to series producers Gene Reynolds and Larry Gelbart, and drew fire from both CBS and 20th Century Fox. After the production of this episode, both Stevenson and Wayne Rogers, who played the character of Trapper John McIntyre, left the series to pursue other interests. These combined departures and their subsequent replacements signaled the beginning of a major shift in focus of the M*A*S*H series as a whole.",
+    "url": "https://en.wikipedia.org/wiki/Abyssinia,_Henry"
   },
   "word": {
-    "id": "berceuse",
-    "word": "berceuse",
-    "url": "https://www.merriam-webster.com/dictionary/berceuse",
-    "partOfSpeech": "noun",
-    "pronunciation": "bair-SOOZ",
-    "audioPath": "audio/words/berceuse.mp3",
-    "definitions": [
-      "a musical composition usually in 6/8 time that resembles a lullaby",
-      "lullaby"
-    ],
+    "id": "obsequious",
+    "word": "obsequious",
+    "url": "https://www.merriam-webster.com/dictionary/obsequious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ub-SEE-kwee-us",
+    "audioPath": "audio/words/obsequious.mp3",
+    "definitions": ["marked by or exhibiting a fawning attentiveness"],
     "examples": [
-      "\"After the equally calming signature tune, the _berceuse_ from Faure's Dolly Suite, Oxenford and the other presenters began the programme with a question that became a catchphrase: 'Are you sitting comfortably? Then I'll begin.'\" - From an obituary for Daphne Oxenford by Richard Anthony Baker in _The Stage_ (London), January 17, 2013",
-      "\"David Starobin, a classical guitarist who had contributed the colorful, mildly dissonant '_Berceuse_ Bas de Gamme' ('Cheap Lullaby'), and who runs Bridge Records, offered to release the set.\" - From an article by Allan Kozinn in the _New York Times_, April 2, 2013"
+      "The executive brought with him an entourage of _obsequious_ assistants who would do anything he asked of them.",
+      "\"The staff are amazing, ever-helpful without being _obsequious_, always cheerful (generally) and quick to join in the laughter and banter no matter how juvenile or how often they've heard it before.\" -- From a review of a pub in _The Telegraph_ (London), July 18, 2011"
     ],
-    "origin": "The lullaby is a standard of classical music. German composer Johannes Brahms is perhaps best known for his \"Wiegenlied: Guten Abend, gute Nacht\" (\"Good evening, good night\"), Op. 49, No. 4, published in 1868, purportedly written for a friend to celebrate the birth of her son. Compositionally, a berceuse is similar to a lullaby, particularly in its soothing refrain often set to a rocking rhythm usually in 6/8 time. Among the earliest examples of works known by that name is Frédéric Chopin's Berceuse in D-flat Major (1843-44), written for piano; Franz Liszt, Camille Saint-Saëns, and Maurice Ravel also composed berceuses. The word \"berceuse\" is indicative of its use as an aid to sleep-it derives from the French \"bercer\" (\"to rock\") and ultimately from the Old French \"bers\" (\"cradle\")."
+    "origin": "An obsequious person is more likely to be a follower than a leader. Use that fact to help you remember the meaning of \"obsequious.\" All you need to do is bear in mind that the word comes from the Latin root \"sequi,\" meaning \"to follow.\" (The other contributor is the prefix \"ob-,\" meaning \"toward.\") \"Sequi\" is the source of a number of other English words, too, including \"consequence\" (a result that follows from an action), \"sequel\" (a novel, film, or TV show that follows an original version), and \"non sequitur\" (a conclusion that doesn’t follow from what was said before)."
   }
 }

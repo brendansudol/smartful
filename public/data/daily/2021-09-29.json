@@ -1,132 +1,123 @@
 {
   "artist": {
-    "id": "petrus-christus",
-    "name": "Petrus Christus",
-    "dates": "1410 - 1476",
-    "mainImg": "img/art/artists/petrus-christus.jpg",
+    "id": "anton-mauve",
+    "name": "Anton Mauve",
+    "dates": "Sep 18, 1838 - Feb 5, 1888",
+    "mainImg": "img/art/artists/anton-mauve.jpg",
     "artworkImgs": [
       {
-        "name": "The Virgin of the dry Tree",
-        "path": "img/art/artworks/petrus-christus-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-virgin-of-the-dry-tree-petrus-christus/PwHcUqwJ9BragQ"
+        "name": "De Torenlaan te Laren",
+        "path": "img/art/artworks/anton-mauve-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/de-torenlaan-te-laren-anton-mauve/pAFl69vven2q0A"
       },
       {
-        "name": "Virgin and Child in a Domestic Interior",
-        "path": "img/art/artworks/petrus-christus-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/virgin-and-child-in-a-domestic-interior-petrus-christus/FAFbalnWO_bT_w"
+        "name": "Flock of sheep with shepherd in the snow",
+        "path": "img/art/artworks/anton-mauve-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/flock-of-sheep-with-shepherd-in-the-snow-anton-mauve/gQFpcjrtMyRPbw"
       },
       {
-        "name": "Portrait of a Young Woman",
-        "path": "img/art/artworks/petrus-christus-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-young-woman-petrus-christus/UAGsuoFcmmRiTg"
+        "name": "Trekvaart",
+        "path": "img/art/artworks/anton-mauve-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/trekvaart-anton-mauve/UQGcCxcTeQv3Ew"
       },
       {
-        "name": "A Goldsmith in his Shop",
-        "path": "img/art/artworks/petrus-christus-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/a-goldsmith-in-his-shop-petrus-christus/FAFpoQL1rs4ZIg"
+        "name": "Riders in the Snow in the Haagse Bos",
+        "path": "img/art/artworks/anton-mauve-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/riders-in-the-snow-in-the-haagse-bos-anton-mauve/2AF09whqqd8zxA"
       },
       {
-        "name": "The Falconer",
-        "path": "img/art/artworks/petrus-christus-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-falconer-petrus-christus/2AG7gYBgBPJi9g"
+        "name": "On the Heath near Laren",
+        "path": "img/art/artworks/anton-mauve-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/on-the-heath-near-laren-anton-mauve/2wH4fdFNtaDuSg"
       },
       {
-        "name": "Head of Christ",
-        "path": "img/art/artworks/petrus-christus-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/head-of-christ-petrus-christus/IAHkmnCr5okrTg"
+        "name": "The Return of the Flock, Laren",
+        "path": "img/art/artworks/anton-mauve-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-return-of-the-flock-laren/pwFzB_Atcl0PIQ"
       }
     ],
     "summary": [
-      "Petrus Christus was an Early Netherlandish painter active in Bruges from 1444, where, along with Hans Memling, he became the leading painter after the death of Jan van Eyck. He was influenced by van Eyck and Rogier van der Weyden and is noted for his innovations with linear perspective and a meticulous technique which seems derived from miniatures and manuscript illumination. Today, some 30 works are confidently attributed to him. The best-known include the 1446 Portrait of a Carthusian and c. 1470 Berlin Portrait of a Young Girl, both are highly innovative in presentation of the figure against detailed, rather than flat, backgrounds.",
-      "Christus was an anonymous figure for centuries, his importance not established until the work of modern art historians. Giorgio Vasari barely mentions him in his biographies of painters, written in the Renaissance, and near contemporary records merely list him amongst many others. In the early to mid-nineteenth century, Gustav Waagen and Johann David Passavant were important in establishing Christus's biographical details and in attributing works to him."
+      "Anthonij Rudolf Mauve was a Dutch realist painter who was a leading member of the Hague School. He signed his paintings 'A. Mauve' or with a monogrammed 'A.M.'. A master colorist, he was a very significant early influence on his cousin-in-law Vincent van Gogh.",
+      "His best-known paintings depict peasants working in the fields. His paintings of flocks of sheep were especially popular with American patrons, so popular indeed that a price differential developed between scenes of \"sheep coming\" and \"sheep going\"."
     ],
     "quote": null,
-    "movements": ["Northern Renaissance", "Renaissance", "Dutch and Flemish Renaissance painting"],
-    "mediums": ["Oil paint", "Wood", "Oak"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Petrus_Christus",
-    "urlGoogle": "https://artsandculture.google.com/entity/petrus-christus/m06ns6z"
+    "movements": ["Realism", "Hague School", "Modern art"],
+    "mediums": ["Oil paint", "Pencil", "Etching", "Chalk", "Pigment", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Anton_Mauve",
+    "urlGoogle": "https://artsandculture.google.com/entity/anton-mauve/m05t6y5"
   },
   "event": {
-    "id": "1947-1948-civil-war-in-mandatory-palestine",
-    "name": "1947–1948 civil war in Mandatory Palestine",
-    "dates": "Nov 30, 1947 - May 14, 1948",
-    "mainImg": "img/events/1947-1948-civil-war-in-mandatory-palestine.jpg",
+    "id": "apollo-6",
+    "name": "Apollo 6",
+    "dates": null,
+    "mainImg": "img/events/apollo-6.jpg",
     "summary": [
-      "The 1947–1948 civil war in Mandatory Palestine was the first phase of the 1948 Palestine war. It broke out after the General Assembly of the United Nations adopted a resolution on 29 November 1947 recommending the adoption of the Partition Plan for Palestine.",
-      "During the civil war, the Jewish and Arab communities of Palestine clashed while the British, who had the obligation to maintain order, organized their withdrawal and intervened only on an occasional basis.",
-      "When the British Mandate of Palestine expired on 14 May 1948, and with the Declaration of the Establishment of the State of Israel, the surrounding Arab states—Egypt, Transjordan, Iraq and Syria—invaded what had just ceased to be Mandatory Palestine, and immediately attacked Israeli forces and several Jewish settlements. The conflict thus escalated and became the 1948 Arab–Israeli War."
+      "Apollo 6, launched on April 4, 1968, was the second A-type mission of the United States Apollo program, an uncrewed test of the Saturn V launch vehicle. It was also the final uncrewed Apollo test mission.",
+      "The objectives of the flight test were to demonstrate trans-lunar injection capability of the Saturn V with a simulated payload equal to about 80% of a full Apollo spacecraft, and to repeat demonstration of the command module's heat shield capability to withstand a lunar re-entry. The flight plan called for following trans-lunar injection with a direct return abort using the command and service module's main engine, with a total flight time of about 10 hours.",
+      "A phenomenon known as pogo oscillation damaged some of the Rocketdyne J-2 engines in the second and third stages by rupturing internal fuel lines, causing two second-stage engines to shut down early. The vehicle's onboard guidance system was able to compensate by burning the second and third stages longer, though the resulting parking orbit was more elliptical than planned. The damaged third-stage engine also failed to restart for trans-lunar injection."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1947%E2%80%931948_civil_war_in_Mandatory_Palestine",
-    "urlGoogle": "https://artsandculture.google.com/entity/1947–1948-civil-war-in-mandatory-palestine/m02qkyk2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Apollo_6",
+    "urlGoogle": "https://artsandculture.google.com/entity/apollo-6/m01hnw4"
   },
   "funFacts": [
     {
-      "id": "254",
-      "fact": "The only bird who can see the color blue is the owl.",
-      "category": ["Animals", "Onlies"]
+      "id": "469",
+      "fact": "454 U.S. dollar bills weigh exactly one pound.",
+      "category": ["Hodgepodge"]
     },
-    {
-      "id": "676",
-      "fact": "At 5 feet, the whooping crane is the tallest bird in North America.",
-      "category": ["Animals"]
-    }
+    { "id": "842", "fact": "Vanilla is used to make chocolate.", "category": ["Food"] }
   ],
-  "funFacts2": [
-    {
-      "id": "551311",
-      "fact": "<span><em>The Starry Night</em> depicts Vincent Van Gogh's view from the Saint Paul-de-Mausole asylum.</span>"
-    }
-  ],
+  "funFacts2": [{ "id": "553734", "fact": "Viking men wore makeup." }],
   "idiom": {
-    "id": "footloose-and-fancy-free",
-    "term": "footloose and fancy-free",
-    "definition": "Having no attachments, especially romantic ones, and free to do as one pleases. For example, *When I was in my twenties, footloose and fancy-free, I would travel at the drop of a hat.* Both of these words have long been used separately; their pairing dates only from the 1900s."
+    "id": "more-fun-than-a-barrel-of-monkeys",
+    "term": "more fun than a barrel of monkeys",
+    "definition": "Very amusing or diverting, as in *That video game was more fun than a barrel of monkeys.* This expression, first recorded in 1895, alludes to the playful behavior of these primates. The synonymous colloquialism *barrel of laughs* dates from 1915."
   },
   "person": {
-    "id": "mary-kom",
-    "name": "Mary Kom",
-    "dates": "Born Mar 1, 1983",
-    "mainImg": "img/people/mary-kom.jpg",
+    "id": "mitch-landrieu",
+    "name": "Mitch Landrieu",
+    "dates": "Born Aug 16, 1960",
+    "mainImg": "img/people/mitch-landrieu.jpg",
     "summary": [
-      "Mangte Chungneijang Mary Kom is an Indian Olympic boxer and incumbent Member of Parliament, Rajya Sabha. She is the only woman to become World Amateur Boxing champion for a record six times, the only woman boxer to have won a medal in each one of the first seven World Championships, and the only boxer to win eight World Championship medals. Nicknamed Magnificent Mary, she is the only Indian woman boxer to have qualified for the 2012 Summer Olympics, competing in the flyweight category and winning the bronze medal. She had also been ranked as No. 1 AIBA World Women's Ranking Light Flyweight category. She became the first Indian woman boxer to get a Gold Medal in the Asian Games in 2014 at Incheon, South Korea and is the first Indian woman boxer to win gold at the 2018 Commonwealth Games. She is also the only boxer to become Asian Amateur Boxing Champion for record six times.",
-      "On 25 April 2016, the President of India nominated Kom as a member of the Rajya Sabha, the upper house of the Indian parliament. In March 2017, the Ministry of Youth Affairs and Sports, Government of India, appointed Mary Kom along with Akhil Kumar as national observers for boxing."
-    ],
-    "quote": "“I do not only rely on my technique or strength but also on my mind.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Mary_Kom",
-    "urlGoogle": "https://artsandculture.google.com/entity/mary-kom/m051wzcl"
-  },
-  "place": {
-    "id": "salt-lake-city",
-    "name": "Salt Lake City",
-    "mainImg": "img/places/salt-lake-city.jpg",
-    "summary": [
-      "Salt Lake City is the capital and most populous municipality of the U.S. state of Utah, as well as the seat of Salt Lake County, the most populous county in Utah. With an estimated population of 200,567 in 2019, the city is the core of the Salt Lake City metropolitan area, which has a population of 1,222,540. Salt Lake City is further situated within a larger metropolis known as the Salt Lake City–Ogden–Provo Combined Statistical Area, a corridor of contiguous urban and suburban development stretched along a 120-mile segment of the Wasatch Front, comprising a population of 2,606,548. It is one of only two major urban areas in the Great Basin.",
-      "Salt Lake City is the world headquarters of The Church of Jesus Christ of Latter-day Saints. The city was founded in 1847 by followers of the church, led by Brigham Young, who were seeking to escape persecution they had experienced while living farther east. The Mormon pioneers, as they would come to be known, entered an arid valley and immediately began building, planning, and extending an extensive irrigation network which could feed the population and foster future growth."
+      "Mitchell Joseph Landrieu is an American attorney and politician who was Mayor of New Orleans from 2010 to 2018. A Democrat, Landrieu served as Lieutenant Governor of Louisiana from 2004 to 2010.",
+      "He is the son of former New Orleans mayor and Secretary of the United States Department of Housing and Urban Development Moon Landrieu and the brother of former U.S. Senator Mary Landrieu. In 2007, he won a second term as lieutenant governor in the October 20, 2007 nonpartisan blanket primary by defeating two Republicans: State Representative Gary J. Beard and singer Sammy Kershaw.",
+      "He was elected Mayor of New Orleans on February 6, 2010, garnering 66 percent of the citywide vote and claiming victory in 365 of the city's 366 voting precincts. He was reelected mayor on February 1, 2014, with nearly 64 percent of the vote in a three-candidate field and became the first Mayor to win both elections without a runoff and to be elected by majorities of both white and African-American voters."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Salt_Lake_City",
-    "urlGoogle": "https://artsandculture.google.com/entity/salt-lake-city/m0f2r6"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mitch_Landrieu",
+    "urlGoogle": "https://artsandculture.google.com/entity/mitch-landrieu/m05xdp5"
+  },
+  "place": {
+    "id": "jackson",
+    "name": "Jackson",
+    "mainImg": "img/places/jackson.jpg",
+    "summary": [
+      "Jackson, officially the City of Jackson, is the capital and most populous city of the U.S. state of Mississippi. It is one of two county seats of Hinds County, along with Raymond, Mississippi. The city of Jackson also includes around 3,000 acres comprising Jackson-Medgar Evers International Airport in Rankin County and a small portion of Madison County. The city's population was estimated to be 160,628 in 2019, a decline from 173,514 in 2010. The city sits on the Pearl River and is located in the greater Jackson Prairie region of Mississippi.",
+      "Founded in 1821 as the site for a new state capital, the city is named after General Andrew Jackson, who was honored for his role in the Battle of New Orleans during the War of 1812 and would later serve as U.S. president. Following the nearby Battle of Vicksburg in 1863 during the American Civil War, Union forces under the command of General William Tecumseh Sherman began the Siege of Jackson and the city was subsequently burned.",
+      "During the 1920s, Jackson surpassed Meridian to become the most populous city in the state following a speculative natural gas boom in the region. The current slogan for the city is \"The City with Soul\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Jackson,_Mississippi",
+    "urlGoogle": "https://artsandculture.google.com/entity/jackson/m043yj"
   },
   "wiki": {
-    "id": "sargon-of-akkad",
-    "name": "Sargon of Akkad",
-    "summary": "Sargon of Akkad was an Akkadian emperor famous for his conquest of the Sumerian city-states in the 24th and 23rd centuries BC. The founder of the Dynasty of Akkad, Sargon reigned from 2334 to 2279 BC. He became a prominent member of the royal court of Kish, ultimately overthrowing its king before embarking on the conquest of Mesopotamia. Sargon's vast empire is known to have extended from Elam to the Mediterranean Sea, including Mesopotamia, parts of modern-day Iran and Syria, and possibly parts of Anatolia and the Arabian peninsula. He ruled from a new capital, Akkad (Agade), which the Sumerian king list claims he built (or possibly renovated), on the left bank of the Euphrates. Sargon is the first individual in recorded history to create a multiethnic, centrally ruled empire, and his dynasty controlled Mesopotamia for around a century and a half.",
-    "url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad"
+    "id": "century-link-field",
+    "name": "CenturyLink Field",
+    "summary": "CenturyLink Field is a multi-purpose stadium in Seattle, Washington, United States. The stadium was designed for both American football and soccer. It serves as the home field for the Seattle Seahawks of the National Football League (NFL) and Seattle Sounders FC of Major League Soccer (MLS). CenturyLink Field hosted the U.S. Open Cup championship matches in 2010 and 2011, with both occasions setting an attendance record for the tournament final and seeing a Sounders FC victory. The venue also hosts concerts, trade shows, and consumer shows along with sporting events. Located within a mile (1.6 km) of Seattle's central business district, it is accessible by multiple freeways and forms of mass transit. It was built between 2000 and 2002 after voters approved funding for the construction in a statewide election. This vote created the Washington State Public Stadium Authority to oversee public ownership of the venue. CenturyLink Field is a modern facility with views of the skyline of Downtown Seattle and can seat 67,000 people.",
+    "url": "https://en.wikipedia.org/wiki/CenturyLink_Field"
   },
   "word": {
-    "id": "cloying",
-    "word": "cloying",
-    "url": "https://www.merriam-webster.com/dictionary/cloying",
-    "partOfSpeech": "adjective",
-    "pronunciation": "KLOY-ing",
-    "audioPath": "audio/words/cloying.mp3",
-    "definitions": [
-      "disgusting or distasteful by reason of excess; also : excessively sweet or sentimental"
-    ],
+    "id": "dodgery",
+    "word": "dodgery",
+    "url": "https://www.merriam-webster.com/dictionary/dodgery",
+    "partOfSpeech": "noun",
+    "pronunciation": "DAH-juh-ree",
+    "audioPath": "audio/words/dodgery.mp3",
+    "definitions": ["evasion, trickery"],
     "examples": [
-      "Although Kelsey usually likes romantic novels, she found this one so cloying that she couldn’t even finish it."
+      "Mitch thought his clever act of dodgery would spare him from paying taxes on the money he earned from the sale of his vacation home, until an audit notice came in the mail from the IRS."
     ],
-    "origin": "\"Can one desire too much of a good thing?\" asks Rosalind in William Shakespeare's play _As You Like It_. \"Cloying\" suggests that you can, because it implies a repugnant excess of something that might be pleasing in smaller doses. An exploration into the history of \"cloying,\" however, leads us eventually to roots that are neither sweet nor excessive, but rather tough as nails. \"Cloying\" derives from the verb \"cloy,\" which now means \"to supply or indulge to excess,\" but which once meant \"to clog\" and earlier \"to prick a horse with a nail in shoeing.\" \"Cloy\" itself traces via Middle English to Anglo-French \"encloer\" (which also meant \"to prick a horse with a nail in shoeing\") and ultimately to the Latin \"clavus,\" meaning \"nail.\""
+    "origin": "In \"dodgery\" one can see the verb \"dodge,\" meaning \"to evade by a sudden or repeated shift of position.\" That verb entered English in the 17th century, but the noun form of \"dodge,\" referring to the act of evading something by such a motion, is over a hundred years older. \"Dodgery\" entered English around the same time. You can dodge things physically -- as in getting out of the way of the ball in the popular schoolyard game -- or figuratively, as in shirking one's responsibilities, often by some kind of deceitful action. From there the use of \"dodgery\" to mean \"evasion\" or \"trickery\" is hardly an elusive connection."
   }
 }

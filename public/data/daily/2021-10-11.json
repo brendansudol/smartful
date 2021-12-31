@@ -1,126 +1,129 @@
 {
   "artist": {
-    "id": "luca-carlevarijs",
-    "name": "Luca Carlevarijs",
-    "dates": "Jan 20, 1663 - Feb 12, 1730",
-    "mainImg": "img/art/artists/luca-carlevarijs.jpg",
+    "id": "juan-luna",
+    "name": "Juan Luna",
+    "dates": "Oct 23, 1857 - Dec 7, 1899",
+    "mainImg": "img/art/artists/juan-luna.jpg",
     "artworkImgs": [
       {
-        "name": "Venedig: Der Markusplatz",
-        "path": "img/art/artworks/luca-carlevarijs-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/venedig-der-markusplatz-luca-carlevaris/2QFrw48sl6ATZg"
+        "name": "España y Filipinas (Spain and the Philippines)",
+        "path": "img/art/artworks/juan-luna-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/españa-y-filipinas-spain-and-the-philippines-juan-luna/SwG1IQeJYIZaWA"
       },
       {
-        "name": "The Bucintoro Departing from the Bacino di San Marco",
-        "path": "img/art/artworks/luca-carlevarijs-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-bucintoro-departing-from-the-bacino-di-san-marco-luca-carlevarijs/hQEE7DgSGdelOQ"
+        "name": "Universal Chart",
+        "path": "img/art/artworks/juan-luna-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/universal-chart-juan-vespuccio/VQHi0n0Pk4v8ZQ"
       },
       {
-        "name": "Regatta on the Grand Canal in Honor of Frederick IV, King of Denmark",
-        "path": "img/art/artworks/luca-carlevarijs-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/regatta-on-the-grand-canal-in-honor-of-frederick-iv-king-of-denmark-luca-carlevarijs/ywG9bEAUtQbQ9Q"
+        "name": "Femenine figure",
+        "path": "img/art/artworks/juan-luna-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/femenine-figure-juan-luna-novicio/fAEa2fGmJnWRxg"
       },
       {
-        "name": "The highly ornamented second gondola of Ambassador Giovanni Battista Colloreado entering Venice",
-        "path": "img/art/artworks/luca-carlevarijs-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-highly-ornamented-second-gondola-of-ambassador-giovanni-battista-colloreado-entering-venice-luca-carlevaris-giovanni-antonio-faldoni/DgH-rNjszBKq8Q"
+        "name": "Mestiza",
+        "path": "img/art/artworks/juan-luna-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mestiza-juan-luna-novicio/2gGB0jK-kSj_JA"
       },
       {
-        "name": "Plate 37: Side view of the school of St. Roch at left and view of facade of the church of St. Roch, Venice, 1703 from the series 'The buildings and views of Venice' (Le fabriche e vedute di Venezia)",
-        "path": "img/art/artworks/luca-carlevarijs-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/plate-37-side-view-of-the-school-of-st-roch-at-left-and-view-of-facade-of-the-church-of-st-roch-venice-1703-from-the-series-the-buildings-and-views-of-venice-le-fabriche-e-vedute-di-venezia-luca-carlevaris-sebastiano-serlio/jgFSe_3xQCUZVg"
+        "name": "Nude",
+        "path": "img/art/artworks/juan-luna-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/nude-juan-luna-novicio/5QHH2m3jlrNmig"
       },
       {
-        "name": "The Molo, Venice, from the Bacino di San Marco",
-        "path": "img/art/artworks/luca-carlevarijs-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-molo-venice-from-the-bacino-di-san-marco-luca-carlevaris/qAERKmSnKaNhrg"
+        "name": "Steamship Montserrat",
+        "path": "img/art/artworks/juan-luna-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/steamship-montserrat-juan-luna-y-novivio/sAHYwUy4DfMhsg"
       }
     ],
     "summary": [
-      "Luca Carlevarijs or Carlevaris was an Italian painter and engraver working mainly in Venice. He pioneered the genre of the cityscapes of Venice, a genre that was later widely followed by artists such as Canaletto and Francesco Guardi."
+      "Juan Luna de San Pedro y Novicio Ancheta, better known as Juan Luna, was a Filipino painter, sculptor and a political activist of the Philippine Revolution during the late 19th century. He became one of the first recognized Philippine artists.",
+      "His winning the gold medal in the 1884 Madrid Exposition of Fine Arts, along with the silver win of fellow Filipino painter Félix Resurrección Hidalgo, prompted a celebration which was a major highlight in the memoirs of members of the Propaganda Movement, with the fellow Ilustrados toasting to the two painters' good health and to the brotherhood between Spain and the Philippines.",
+      "Regarded for work done in the manner of European academies of his time, Luna painted literary and historical scenes, some with an underscore of political commentary. His allegorical works were inspired with classical balance, and often showed figures in theatrical poses."
     ],
     "quote": null,
-    "movements": ["Baroque"],
-    "mediums": ["Oil paint", "Etching", "Engraving", "Book"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Luca_Carlevarijs",
-    "urlGoogle": "https://artsandculture.google.com/entity/luca-carlevarijs/m026mrqx"
+    "movements": ["Realism", "Impressionism", "Romanticism"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Juan_Luna",
+    "urlGoogle": "https://artsandculture.google.com/entity/juan-luna/m049l1p"
   },
   "event": {
-    "id": "atomic-bombings-of-hiroshima-and-nagasaki",
-    "name": "Atomic bombings of Hiroshima and Nagasaki",
-    "dates": "Aug 6, 1945 - Aug 9, 1945",
-    "mainImg": "img/events/atomic-bombings-of-hiroshima-and-nagasaki.jpg",
+    "id": "philippine-revolution",
+    "name": "Philippine Revolution",
+    "dates": "Aug 23, 1896 - Jun 12, 1898",
+    "mainImg": "img/events/philippine-revolution.jpg",
     "summary": [
-      "The United States detonated two nuclear weapons over the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945, respectively, with the consent of the United Kingdom, as required by the Quebec Agreement. The two bombings killed between 129,000 and 226,000 people, most of whom were civilians, and remain the only uses of nuclear weapons in armed conflict.",
-      "In the final year of World War II, the Allies prepared for a very costly invasion of the Japanese mainland. This undertaking was preceded by a conventional and firebombing campaign which devastated 67 Japanese cities. The war in Europe had concluded when Germany signed its instrument of surrender on May 8, 1945, and the Allies turned their full attention to the Pacific theater. The Allies called for the unconditional surrender of the Imperial Japanese armed forces in the Potsdam Declaration on July 26, 1945, the alternative being \"prompt and utter destruction\". Japan ignored the ultimatum and the war continued."
+      "The Philippine Revolution, called the Tagalog War by the Spanish, was a revolution and subsequent conflict fought between the people and insurgents of the Philippines and the Spanish colonial authorities of the Spanish East Indies, under the Spanish Empire.",
+      "The Philippine Revolution began in August 1896, when the Spanish authorities discovered the Katipunan, an anti-colonial secret organization. The Katipunan, led by Andrés Bonifacio, began to influence much of the Philippines. During a mass gathering in Caloocan, the leaders of the Katipunan organized themselves into a revolutionary government, named the newly established government \"Haring Bayang Katagalugan\", and openly declared a nationwide armed revolution. Bonifacio called for an attack on the capital city of Manila. This attack failed; however, the surrounding provinces began to revolt. In particular, rebels in Cavite led by Mariano Álvarez and Emilio Aguinaldo won early major victories. A power struggle among the revolutionaries led to Bonifacio's death in 1897, with command shifting to Aguinaldo, who led the newly formed revolutionary government."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
-    "urlGoogle": "https://artsandculture.google.com/entity/atomic-bombings-of-hiroshima-and-nagasaki/m035jnk"
+    "urlWiki": "https://en.wikipedia.org/wiki/Philippine_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/philippine-revolution/m04jl_j"
   },
   "funFacts": [
     {
-      "id": "342",
-      "fact": "California and Arizona grow approximately 95% of the fresh lemons in the U.S.",
-      "category": ["Plants", "Geography"]
+      "id": "684",
+      "fact": "Manhattan Island was once home to as many different species as Yellowstone National Park.",
+      "category": ["History"]
     },
     {
-      "id": "960",
-      "fact": "There are 21 \"secret\" highways that are part of the Interstate Highway System.  They are not identified as such by road signs.",
-      "category": ["Hodgepodge"]
+      "id": "955",
+      "fact": "A bolt of lightning can reach temperatures hotter than 50,000 degrees Fahrenheit - five times hotter than the sun.",
+      "category": ["Science"]
     }
   ],
   "funFacts2": [
-    { "id": "522154", "fact": "A newborn giant panda is about the size of a stick of butter." }
+    {
+      "id": "554040",
+      "fact": "All newspapers in the British \u0003Library were ironed by hand to ensure a clear image before they were microfilmed."
+    }
   ],
-  "idiom": {
-    "id": "hang-out-ones-shingle",
-    "term": "hang out one's shingle",
-    "definition": "Open an office, especially a professional practice, as in *Bill's renting that office and hanging out his shingle next month.* This American colloquialism dates from the first half of the 1800s, when at first lawyers, and later also doctors and business concerns, used shingles for signboards."
-  },
   "person": {
-    "id": "napoleon-iii",
-    "name": "Napoleon III",
-    "dates": "Apr 20, 1808 - Jan 9, 1873",
-    "mainImg": "img/people/napoleon-iii.jpg",
+    "id": "william-christian-bullitt-jr",
+    "name": "William Christian Bullitt Jr.",
+    "dates": "Jan 25, 1891 - Feb 15, 1967",
+    "mainImg": "img/people/william-christian-bullitt-jr.jpg",
     "summary": [
-      "Napoleon III, the nephew of Napoleon I and cousin of Napoleon II, was the first president of France from 1848 to 1852, and the last French monarch from 1852 to 1870. First elected president of the French Second Republic in 1848, he seized power in 1851, when he could not constitutionally be re-elected, and became the Emperor of the French. He founded the Second French Empire and was its only emperor until the defeat of the French army and his capture by Prussia and its allies in the Franco-Prussian War in 1870. He worked to modernize the French economy, rebuilt the center of Paris, expanded the French overseas empire, and engaged in the Crimean War and the Second Italian War of Independence.",
-      "Napoleon III commissioned a grand reconstruction of Paris carried out by his prefect of the Seine, Baron Georges-Eugène Haussmann, and launched similar public works projects in Marseille, Lyon and other French cities. Napoleon III modernized the French banking system, expanded and consolidated the French railway system, and made the French merchant marine the second largest in the world."
-    ],
-    "quote": "“In politics evils should be remedied not revenged.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Napoleon_III",
-    "urlGoogle": "https://artsandculture.google.com/entity/napoleon-iii/m0gxct"
-  },
-  "place": {
-    "id": "saint-kitts-and-nevis",
-    "name": "Saint Kitts and Nevis",
-    "mainImg": "img/places/saint-kitts-and-nevis.jpg",
-    "summary": [
-      "Saint Kitts and Nevis, officially known as the Federation of Saint Christopher and Nevis, is an island country in the West Indies. Located in the Leeward Islands chain of the Lesser Antilles, it is the smallest sovereign state in the Western Hemisphere, in both area and population. The country is a Commonwealth realm, with Elizabeth II as queen and head of state.",
-      "The capital city is Basseterre on the larger island of Saint Kitts and on the smaller island, Nevis, the capital city is Charlestown. The smaller island of Nevis lies approximately 3 km to the southeast across a shallow channel called The Narrows.",
-      "The British dependency of Anguilla was historically also a part of this union, which was then known collectively as Saint Christopher-Nevis-Anguilla. However, it chose to secede from the union and remains a British overseas territory. To the north-northwest lie the islands of Sint Eustatius, Saba, Saint Barthélemy, Saint-Martin/Sint Maarten and Anguilla. To the east and northeast are Antigua and Barbuda, and to the southeast is the small uninhabited island of Redonda and the island of Montserrat."
+      "William Christian Bullitt Jr. was an American diplomat, journalist, and novelist. He is known for his special mission to negotiate with Lenin on behalf of the Paris Peace Conference, often recalled as a missed opportunity to normalize relations with the Bolsheviks. He was also the first US ambassador to the Soviet Union and the US ambassador to France during World War II. In his youth, he was considered a radical, but he later became an outspoken anticommunist."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
-    "urlGoogle": "https://artsandculture.google.com/entity/saint-kitts-and-nevis/m06ryl"
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Christian_Bullitt_Jr.",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-christian-bullitt-jr/m05sk82"
+  },
+  "place": {
+    "id": "heraklion",
+    "name": "Heraklion",
+    "mainImg": "img/places/heraklion.jpg",
+    "summary": [
+      "Heraklion or Iraklion is the largest city and the administrative capital of the island of Crete and capital of Heraklion regional unit. It is the fifth largest city in Greece with a population of 140,730 according to the 2011 census. The population of the municipality was 173,993.",
+      "The Bronze Age palace of Knossos, also known as the Palace of Minos, is located nearby.",
+      "Heraklion was Europe's fastest growing tourism destination for 2017, according to Euromonitor, with an 11.2% growth in international arrivals. According to the ranking, Heraklion was ranked as the 20th most visited region in Europe, as the 66th area on the Planet and as the 2nd in Greece for the year 2017, with 3.2 million visitors and the 19th in Europe for 2018, with 3.4 million visitors."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Heraklion",
+    "urlGoogle": "https://artsandculture.google.com/entity/heraklion/m0g87b"
   },
   "wiki": {
-    "id": "makuria",
-    "name": "Makuria",
-    "summary": "Makuria was a kingdom located in what is today Southern Egypt and Northern Sudan. It was one of a group of Nubian kingdoms that emerged in the centuries after the fall of the Kingdom of Meroë, which had dominated the region from around 800 BCE to 350 CE. Makuria originally covered the area along the Nile River from the Third Cataract to somewhere between the Fifth and Sixth Cataracts. Its capital was Dongola. By the end of the 6th century it had converted to Christianity, but in the 7th century Egypt was conquered by the Islamic armies, and Nubia was cut off from the rest of Christendom. In 651 an Arab army invaded, but it was repulsed and a treaty known as the baqt was signed creating a relative peace between the two sides that lasted until the 13th century. Makuria expanded, annexing its northern neighbour Nobatia either at the time of the Arab invasion or during the reign of King Merkurios. The period from roughly 750 to 1150 saw the kingdom stable and prosperous, in what has been called the \"Golden Age\". However, increased aggression from Egypt, the Islamization and Arabization of the populace, and internal discord saw the state collapse in the 14th century.",
-    "url": "https://en.wikipedia.org/wiki/Makuria"
+    "id": "western-ganga-dynasty",
+    "name": "Western Ganga Dynasty",
+    "summary": "The Western Ganga Dynasty was an important ruling dynasty of ancient Karnataka in India which lasted from about 350 to 1000 CE. They are known as Western Gangas to distinguish them from the Eastern Gangas who in later centuries ruled over modern Orissa. Though territorially a small kingdom, the Western Ganga contribution to polity, culture and literature of the modern south Karnataka region is considered important. The Western Ganga kings showed benevolent tolerance to all faiths but are most famous for their patronage towards Jainism resulting in the construction of monuments in places such as Shravanabelagola and Kambadahalli. The kings of this dynasty encouraged the fine arts due to which literature in Kannada and Sanskrit flourished. Chavundaraya's writing, Chavundaraya Purana of 978 CE, is an important work in Kannada prose. Many classics were written on various subjects ranging from religion to elephant management.",
+    "url": "https://en.wikipedia.org/wiki/Western_Ganga_Dynasty"
   },
   "word": {
-    "id": "luftmensch",
-    "word": "luftmensch",
-    "url": "https://www.merriam-webster.com/dictionary/luftmensch",
+    "id": "rechauffe",
+    "word": "réchauffé",
+    "url": "https://www.merriam-webster.com/dictionary/réchauffé",
     "partOfSpeech": "noun",
-    "pronunciation": "LOOFT-mensh (the \"OO\" is as in \"foot\")",
-    "audioPath": "audio/words/luftmensch.mp3",
-    "definitions": ["an impractical contemplative person having no definite business or income"],
-    "examples": [
-      "I worry that my nephew, who has several advanced degrees but no practical skills, will be a luftmensch all his life."
+    "pronunciation": "ray-shoh-FAY",
+    "audioPath": "audio/words/rechauffe.mp3",
+    "definitions": [
+      "something presented in a new form without change of substance : rehash",
+      "a warmed-over dish of food"
     ],
-    "origin": "Are you someone who always seems to have your head in the clouds? Do you have trouble getting down to the lowly business of earning a living? If so, you may deserve to be labeled a \"luftmensch.\" That airy appellation is an adaptation of the Yiddish \"luftmentsh,\" which breaks down into \"luft\" (a Germanic root meaning \"air\" that is also related to the English words \"loft\" and \"lofty\") plus \"mentsh,\" meaning \"human being.\" \"Luftmensch\" was first introduced to English prose in 1907, when Israel Zangwill wrote, \"The word 'Luftmensch' flew into Barstein's mind. Nehemiah was not an earth-man. . .. He was an air-man, floating on facile wings.\""
+    "examples": [
+      "The day after the holiday, it was traditional to serve _réchauffés_ and snacks rather than cook a full meal.",
+      "\"\\[It\\] is a _réchauffé_, … lifted and stitched from 'The Gastronomical Me' and other books.\" - Victoria Glendinning, _New York Times Book Review_, June 9, 1991"
+    ],
+    "origin": "We borrowed _réchauffé_ in the early 19th century from the French; it is the past participle of their verb _réchauffer_, which means \"to reheat.\" Nineteenth-century French speakers were using it figuratively to designate something that was already old hat-you might say, \"warmed over.\" English speakers adopted that same meaning, which is still our most common. But within decades someone had apparently decided that leftovers would seem more appealing with a French name. The notion caught on. A recipe for \"Réchauffé of Beef a la Jardiniere,\" for example, instructs the cook to reheat \"yesterday's piece of meat\" in a little water with some tomatoes added, and serve it on a platter with peas and carrots and potatoes. _Réchauffé_ shares its root with another English word, _chafing dish_, the name of a receptacle for keeping food warm at the table."
   }
 }

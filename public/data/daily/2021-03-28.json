@@ -1,133 +1,129 @@
 {
   "artist": {
-    "id": "giorgio-morandi",
-    "name": "Giorgio Morandi",
-    "dates": "Jul 20, 1890 - Jun 18, 1964",
-    "mainImg": "img/art/artists/giorgio-morandi.jpg",
+    "id": "l-s-lowry",
+    "name": "L. S. Lowry",
+    "dates": "Nov 1, 1887 - Feb 23, 1976",
+    "mainImg": "img/art/artists/l-s-lowry.jpg",
     "artworkImgs": [
       {
-        "name": "Natura morta (con scatola)",
-        "path": "img/art/artworks/giorgio-morandi-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/natura-morta-con-scatola-giorgio-morandi/TQHMWfAEi5IXCw"
+        "name": "Coming from the Mill",
+        "path": "img/art/artworks/l-s-lowry-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/coming-from-the-mill-ls-lowry/CgHDlsWICwQAvQ"
       },
       {
-        "name": "Still life (vases and bottles)",
-        "path": "img/art/artworks/giorgio-morandi-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-vases-and-bottles-giorgio-morandi/6QE9mt70cROzbw"
+        "name": "The Cripples",
+        "path": "img/art/artworks/l-s-lowry-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-cripples-ls-lowry/3QEUI4K6UzI6Ww"
       },
       {
-        "name": "Paese",
-        "path": "img/art/artworks/giorgio-morandi-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/paese-giorgio-morandi/PQFhjeO_5QbkEA"
+        "name": "Portrait of Ann",
+        "path": "img/art/artworks/l-s-lowry-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-ann-ls-lowry/FgGeanu3MI-iiA"
       },
       {
-        "name": "Autoritratto",
-        "path": "img/art/artworks/giorgio-morandi-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/autoritratto-giorgio-morandi/6QEHMXREbDlVsw"
+        "name": "Market Scene, Northern Town",
+        "path": "img/art/artworks/l-s-lowry-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/market-scene-northern-town-ls-lowry/8wH_RxS1pbJvjg"
       },
       {
-        "name": "Still Life",
-        "path": "img/art/artworks/giorgio-morandi-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-giorgio-morandi/5AFSUS27aKgZ9w"
+        "name": "Man Lying on a Wall",
+        "path": "img/art/artworks/l-s-lowry-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/man-lying-on-a-wall-ls-lowry/_gFc2rrNxaNxGA"
       },
       {
-        "name": "Natura morta",
-        "path": "img/art/artworks/giorgio-morandi-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/natura-morta-giorgio-morandi/CgHn1UExbC3Sew"
+        "name": "Gentleman Looking at Something",
+        "path": "img/art/artworks/l-s-lowry-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/gentleman-looking-at-something-ls-lowry/SQGgzxA0A7R-Xg"
       }
     ],
     "summary": [
-      "Giorgio Morandi was an Italian painter and printmaker who specialized in still life. His paintings are noted for their tonal subtlety in depicting apparently simple subjects, which were limited mainly to vases, bottles, bowls, flowers and landscapes."
-    ],
-    "quote": "“One can travel this world and see nothing. To achieve understanding it is necessary not to see many things, but to look hard at what you do see.”",
-    "movements": ["Modern art", "Futurism", "Metaphysical art"],
-    "mediums": ["Oil paint", "Drawing"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Giorgio_Morandi",
-    "urlGoogle": "https://artsandculture.google.com/entity/giorgio-morandi/m04rywx"
-  },
-  "event": {
-    "id": "sts-95",
-    "name": "STS-95",
-    "dates": "Oct 29, 1998 - Nov 7, 1998",
-    "mainImg": "img/events/sts-95.jpg",
-    "summary": [
-      "STS-95 was a Space Shuttle mission launched from Kennedy Space Center, Florida on 29 October 1998, using the orbiter Discovery. It was the 25th flight of Discovery and the 92nd mission flown since the start of the Space Shuttle program in April 1981. It was a highly publicized mission due to former Project Mercury astronaut and United States Senator John H. Glenn Jr.'s return to space for his second space flight. At age 77, Glenn became the oldest person, to date, to go into space. This mission is also noted for inaugurating ATSC HDTV broadcasting in the U.S., with live coast-to-coast coverage of the launch. In another first, Pedro Duque became the first Spaniard in space.",
-      "The mission's objectives involved investigating life-sciences experiments, using the SpaceHab module to perform these experiments on Senator Glenn. Scientific objectives on this mission were not limited to furthering an understanding of the human body, but also to increase astronomical understanding with regards to the Sun, and how it affects life on Earth."
+      "Laurence Stephen Lowry RBA RA was an English artist. Many of his drawings and paintings depict Pendlebury, Lancashire, where he lived and worked for more than 40 years, Salford and its vicinity.",
+      "Lowry is famous for painting scenes of life in the industrial districts of North West England in the mid-20th century. He developed a distinctive style of painting and is best known for his urban landscapes peopled with human figures, often referred to as \"matchstick men\". He painted mysterious unpopulated landscapes, brooding portraits and the unpublished \"marionette\" works, which were only found after his death.",
+      "His use of stylised figures, which cast no shadows, and lack of weather effects in many of his landscapes led critics to label him a naïve \"Sunday painter\"",
+      "Lowry holds the record for rejecting the most number of British honours: he rejected five honours during his life, including a knighthood. A collection of his work is on display in The Lowry, a purpose-built art gallery on Salford Quays. On 26 June 2013, a major retrospective opened at the Tate Britain in London, his first at the gallery, in 2014 his first solo exhibition outside the UK was held in Nanjing, China."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/STS-95",
-    "urlGoogle": "https://artsandculture.google.com/entity/sts-95/m02pt8p"
+    "movements": [],
+    "mediums": ["Drawing", "Oil paint", "Pencil", "Watercolor painting", "Ink", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/L._S._Lowry",
+    "urlGoogle": "https://artsandculture.google.com/entity/l-s-lowry/m01djtd"
+  },
+  "event": {
+    "id": "nigerian-civil-war",
+    "name": "Nigerian Civil War",
+    "dates": "Jul 6, 1967 - Jan 15, 1970",
+    "mainImg": "img/events/nigerian-civil-war.jpg",
+    "summary": [
+      "The Nigerian Civil War was a civil war in Nigeria fought between the government of Nigeria and the secessionist state of Biafra from 6 July 1967 to 15 January 1970. Biafra represented nationalist aspirations of the Igbo people, whose leadership felt they could no longer coexist with the Northern-dominated federal government. The conflict resulted from political, economic, ethnic, cultural and religious tensions which preceded Britain's formal decolonization of Nigeria from 1960 to 1963. Immediate causes of the war in 1966 included ethno-religious riots in Northern Nigeria, a military coup, a counter-coup and persecution of Igbo living in Northern Nigeria. Control over the lucrative oil production in the Niger Delta also played a vital strategic role.",
+      "Within a year, the Federal Government troops surrounded Biafra, capturing coastal oil facilities and the city of Port Harcourt. The blockade imposed during the ensuing stalemate led to mass starvation. During the two and half years of the war, there were about 100,000 overall military casualties, while between 500,000 and 3 million Biafran civilians died of starvation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Nigerian_Civil_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/nigerian-civil-war/m02yr8w"
   },
   "funFacts": [
     {
-      "id": "392",
-      "fact": "Three out of every six Americans live within fifty miles of where they were born.",
-      "category": ["Geography", "Habits"]
+      "id": "995",
+      "fact": "A group of flamingos is called a flamboyance.",
+      "category": ["Animals", "Definitions"]
     },
+    { "id": "110", "fact": "Frogs never drink.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
     {
-      "id": "982",
-      "fact": "Cows do not have upper front teeth.",
-      "category": ["Animals", "Science"]
+      "id": "504752",
+      "fact": "Cleopatra had a special lipstick made for her, consisting of a crushed mixture of ants and deep red carmine beetles."
     }
   ],
-  "funFacts2": [{ "id": "506383", "fact": "Queen Elizabeth II is a trained mechanic." }],
   "idiom": {
-    "id": "have-ants-in-ones-pants",
-    "term": "have ants in one's pants",
-    "definition": "**1\\.** Be extremely restless, uneasy, impatient, or anxious, as in *This child just can't sit still; she must have ants in her pants.* This rhyming idiom calls up a vivid image of what might cause one to be jumpy. [Slang; 1920s] **2\\.** Be eager for sexual activity, as in *Bill's got ants in his pants for Rita.* This usage is less common today. [Slang; 1920s]"
+    "id": "castles-in-the-air",
+    "term": "castles in the air",
+    "definition": "Dreams about future success, as in *Musing about the bestseller list, she was apt to build castles in the air.* The idiom dates from the late 1500s. A variant, **castles in Spain** (or *chateaux en Espagne*), was recorded in the *Roman de la Rose* in the 1200s and translated into English about 1365."
   },
   "person": {
-    "id": "jawaharlal-nehru",
-    "name": "Jawaharlal Nehru",
-    "dates": "Nov 14, 1889 - May 27, 1964",
-    "mainImg": "img/people/jawaharlal-nehru.jpg",
+    "id": "jay-c-buckey",
+    "name": "Jay C. Buckey",
+    "dates": "Born Jun 6, 1956",
+    "mainImg": "img/people/jay-c-buckey.jpg",
     "summary": [
-      "Jawaharlal Nehru was an Indian independence activist, and subsequently, the first Prime Minister of India and a central figure in Indian politics before and after independence. He emerged as an eminent leader of the Indian independence movement and served India as Prime Minister from its establishment as an independent nation in 1947 until his death in 1964. He was also known as Pandit Nehru due to his roots with the Kashmiri Pandit community while Indian children knew him as Chacha Nehru.",
-      "The son of Motilal Nehru, a prominent lawyer and nationalist statesman and Swaroop Rani, Nehru was a graduate of Trinity College, Cambridge and the Inner Temple, where he trained to be a barrister. Upon his return to India, he enrolled at the Allahabad High Court and took an interest in national politics, which eventually replaced his legal practice. A committed nationalist since his teenage years, he became a rising figure in Indian politics during the upheavals of the 1910s. He became the prominent leader of the left-wing factions of the Indian National Congress during the 1920s, and eventually of the entire Congress, with the tacit approval of his mentor, Gandhi."
-    ],
-    "quote": "“Culture is the widening of the mind and of the spirit.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
-    "urlGoogle": "https://artsandculture.google.com/entity/jawaharlal-nehru/m044js"
-  },
-  "place": {
-    "id": "tyler",
-    "name": "Tyler",
-    "mainImg": "img/places/tyler.jpg",
-    "summary": [
-      "Tyler is a city in the U.S. state of Texas and the largest city and county seat of Smith County. It is also the largest city in Northeast Texas and second largest city of the Ark-La-Tex. With a 2019 census-estimated population of 106,985, Tyler was the thirty-eighth most populous city in Texas and 292nd in the United States. It is the principal city of the Tyler metropolitan statistical area, which is the 199th most populous metropolitan area in the U.S. and 16th in Texas after Waco and the College Station–Bryan areas, with a population of 230,221 in 2018.",
-      "The city is named for John Tyler, the tenth President of the United States. In 1985, the international Adopt-a-Highway movement originated in Tyler. After appeals by local Texas Department of Transportation officials, the local Civitan International chapter adopted a two-mile stretch of U.S. Route 69 to maintain. Drivers and other motorists traveling on this segment of U.S. 69 will notice brown road signs that read, \"First Adopt-A-Highway in the World\".",
-      "Tyler is known as the \"Rose Capital of America\", a nickname it earned from a long history of rose production, cultivation, and processing."
+      "Jay Clark Buckey, Jr. is an American physician and astronaut who flew aboard one Space Shuttle mission as a Payload Specialist. Buckey briefly ran for the Democratic nomination to challenge New Hampshire Senator John E. Sununu, a first term Republican, when he was up for re-election in 2008. Buckey withdrew from the race when former Governor Jeanne Shaheen entered the race."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Tyler,_Texas",
-    "urlGoogle": "https://artsandculture.google.com/entity/tyler/m0108xl"
+    "urlWiki": "https://en.wikipedia.org/wiki/Jay_C._Buckey",
+    "urlGoogle": "https://artsandculture.google.com/entity/jay-c-buckey/m030dq3"
   },
-  "quote": {
-    "id": "61",
-    "quote": "The most wasted of days is one without laughter.",
-    "author": "E.E. Cummings"
+  "place": {
+    "id": "kathmandu",
+    "name": "Kathmandu",
+    "mainImg": "img/places/kathmandu.jpg",
+    "summary": [
+      "Kathmandu is the capital and largest city of Nepal, with a population of around 2.5 million. Also known as the city of temples, with one of the oldest pagoda design, known with Pashupatinath Temple, the city stands at an elevation of approximately 1,400 metres above sea level in the bowl-shaped Kathmandu valley in central Nepal. The valley is historically called the \"Nepal Mandala\" and has been the home of Newar people, a cosmopolitan urban civilization in the Himalayas foothills. The city was the royal capital of the Kingdom of Nepal and hosts palaces, mansions and gardens of the Nepalese aristocracy. It has been home to the headquarters of the South Asian Association for Regional Cooperation since 1985. Today, it is the seat of government of the Nepalese republic, established in 2008, and is part of the Bagmati Pradesh.",
+      "Kathmandu is and has been for many years the centre of Nepal's history, art, culture, and economy. It has a multi-ethnic population within a Hindu and Buddhist majority. Religious and cultural festivities form a major part of the lives of people residing in Kathmandu.",
+      "Tourism is an important part of the economy."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kathmandu",
+    "urlGoogle": "https://artsandculture.google.com/entity/kathmandu/m04cx5"
   },
+  "quote": { "id": "53", "quote": "Everything is hard before it is easy.", "author": "Goethe" },
   "wiki": {
-    "id": "harold-larwood",
-    "name": "Harold Larwood",
-    "summary": "Harold Larwood (1904–1995) was a professional cricketer for Nottinghamshire and England between 1924 and 1938. A right-arm fast bowler, he was considered by many commentators to be the finest bowler of his generation. He was the main exponent of the bowling style known as \"bodyline\", developed under the guidance of England's combative captain Douglas Jardine as a response to the domination of Australia's leading batsman, Don Bradman. The tactic was used with considerable success in the 1932–33 Test series, but the Australians' description of the method as \"unsportsmanlike\" soured cricketing relations between the two countries. Larwood refused to apologise for his bowling, as he was carrying out his captain's instructions, and never played for England again. In retirement after the Second World War, he and his family emigrated to Australia, where he was warmly welcomed, in contrast to his cricketing days. He paid several subsequent visits to England, and was honoured at his old county ground, Trent Bridge, where a stand was named after him. In 1993 he was appointed a Member of the Order of the British Empire (MBE), in delayed recognition of his services to cricket.",
-    "url": "https://en.wikipedia.org/wiki/Harold_Larwood"
+    "id": "alfred-russel-wallace",
+    "name": "Alfred Russel Wallace",
+    "summary": "Alfred Russel Wallace (1823–1913) was a British naturalist, explorer, geographer, anthropologist, and biologist. He is best known for independently proposing a theory of natural selection which prompted Charles Darwin to publish on his own theory. Wallace did extensive fieldwork, first in the Amazon River basin and then in the Malay Archipelago, where he identified the Wallace Line that divides Indonesia into two distinct parts, one with animals more closely related to those of Australia and the other with animals more closely related to those found in Asia. He was considered the 19th century's leading expert on the geographical distribution of animal species and is sometimes called the \"father of biogeography\". Wallace was one of the leading evolutionary thinkers of the 19th century who made a number of other contributions to the development of evolutionary theory besides being co-discoverer of natural selection. These included the concept of warning colouration in animals, and the Wallace effect, a hypothesis on how natural selection could contribute to speciation by encouraging the development of barriers against hybridization.",
+    "url": "https://en.wikipedia.org/wiki/Alfred_Russel_Wallace"
   },
   "word": {
-    "id": "sylph",
-    "word": "sylph",
-    "url": "https://www.merriam-webster.com/dictionary/sylph",
+    "id": "kegler",
+    "word": "kegler",
+    "url": "https://www.merriam-webster.com/dictionary/kegler",
     "partOfSpeech": "noun",
-    "pronunciation": "SILF",
-    "audioPath": "audio/words/sylph.mp3",
-    "definitions": [
-      "an elemental being in the theory of Paracelsus that inhabits air",
-      "a slender graceful woman or girl"
-    ],
+    "pronunciation": "KEG-ler",
+    "audioPath": "audio/words/kegler.mp3",
+    "definitions": ["a person who bowls : bowler"],
     "examples": [
-      "The dancer was a lovely, elegant _sylph_ upon the stage.",
-      "\"By the time \\[Whitney Houston's\\] first album came out, in 1985, she'd been given a thorough makeover: the cover photo showed a sleek-haired, golden-skinned _sylph_ wearing an elegantly-draped white gown.\" -- From an article by Caroline Sullivan in _Guardian Unlimited_, February 12, 2012"
+      "\"Five _keglers_ … brought home money from the recent Oregon Bowlers Association tournament sponsored by Striking Image Pro Shop at Wilsonville Lanes in Wilsonville, Ore.\" -- From an article by Rick McCorkle in the Longview Daily News (Washington), November 3, 2011",
+      "\"_Kegler_ alert: For all other bowlers (_keglers_ in bowling lingo), the grand opening of the 24-lane, smoke-free complex is today.\" -- From an article in the _Idaho Statesman_, November 18, 2011"
     ],
-    "origin": "Paracelsus was a man with a vivid imagination. He concocted an elaborate theory of ruling \"elemental spirits\": gnomes controlled the earth, salamanders fire, undines water, and sylphs (graceful beings whose name in English is from New Latin \"sylphus\") the air. You would hardly believe this 16th-century German-Swiss physician had his feet on the ground, but those fantastic ideas were balanced with an impressive array of solid medical discoveries. In fact, many of his scientific contributions are still highly respected, but his sylph idea has long since been discounted as fairy-tale fantasy. The creatures remain only as romantic figures of literature, art, and ballet, where diaphanous woodland sylphs are often depicted enchanting unwary males."
+    "origin": "Some historians trace the game of bowling back to the Stone Age (that information may conjure up images of Fred Flintstone on the lanes), but it was a medieval version of the game that gave us the word \"kegler.\" In medieval Germany, the game was practiced as a test of religious faith and purity. The \"Kegel\" (bowling pin) represented a heathen, and those who could topple it with a round stone proved that they were free of sin. \"Kegel\" gave English the nouns \"kegling\" (meaning \"bowling\") and \"kegler,\" by way of the German verb \"kegeln\" (\"to bowl\"). Nowadays, both words tend to be used humorously by writers referring to the modern game."
   }
 }

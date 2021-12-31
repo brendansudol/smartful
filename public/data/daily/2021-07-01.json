@@ -1,130 +1,127 @@
 {
   "artist": {
-    "id": "sava-sumanovic",
-    "name": "Sava Šumanović",
-    "dates": "Jan 22, 1896 - Aug 30, 1942",
-    "mainImg": "img/art/artists/sava-sumanovic.jpg",
+    "id": "adam-elsheimer",
+    "name": "Adam Elsheimer",
+    "dates": "Mar 18, 1578 - Dec 11, 1610",
+    "mainImg": "img/art/artists/adam-elsheimer.jpg",
     "artworkImgs": [
       {
-        "name": "Englishwomen in Paris; Gallery of Matica Srpska",
-        "path": "img/art/artworks/sava-sumanovic-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/englishwomen-in-paris-gallery-of-matica-srpska-sava-šumanović-vinkovci-1896-–-sremska-mitrovica-1942/nwHoK27xYwnKLA"
+        "name": "The Flight into Egypt",
+        "path": "img/art/artworks/adam-elsheimer-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-flight-into-egypt-adam-elsheimer/bQFeP3djNLB4dQ"
       },
       {
-        "name": "Šid under Snow",
-        "path": "img/art/artworks/sava-sumanovic-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/šid-under-snow-sava-šumanović/2QGK8DS-Bcfs5w"
+        "name": "The Sack of Troy",
+        "path": "img/art/artworks/adam-elsheimer-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-sack-of-troy-adam-elsheimer/-wHc86l69lPa2A"
       },
       {
-        "name": "Luncheon on the Grass",
-        "path": "img/art/artworks/sava-sumanovic-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/luncheon-on-the-grass/rQEQoaJx4CjmGg"
+        "name": "Apollo and Coronis",
+        "path": "img/art/artworks/adam-elsheimer-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/apollo-and-coronis-adam-elsheimer/YgH4p5cImVq9eQ"
       },
       {
-        "name": "Nude Woman",
-        "path": "img/art/artworks/sava-sumanovic-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/nude-woman-sava-šumanović/SQFGXEmvmI_X6Q"
+        "name": "Tobias and the Angel (The Little Tobias)",
+        "path": "img/art/artworks/adam-elsheimer-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/tobias-and-the-angel-the-little-tobias-hendrik-goudt-after-adam-elsheimer/IQGZaIl2bIOs4Q"
       },
       {
-        "name": "The Painter in his Atelier; Gallery of Matica Srpska",
-        "path": "img/art/artworks/sava-sumanovic-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-painter-in-his-atelier-gallery-of-matica-srpska-sava-šumanović-vinkovci-1896-–-sremska-mitrovica-1942/xwG4AUotqFE8Gg"
+        "name": "Tobias and the Angel (small plate)",
+        "path": "img/art/artworks/adam-elsheimer-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/tobias-and-the-angel-small-plate-hendrick-goudt-adam-elsheimer/XgHB6jUscK5NNA"
       },
       {
-        "name": "Sailor on the Pier; Gallery of Matica Srpska",
-        "path": "img/art/artworks/sava-sumanovic-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/sailor-on-the-pier-gallery-of-matica-srpska-sava-šumanović-vinkovci-1896-–-sremska-mitrovica-1942/MAGbrFbudh2Y8Q"
+        "name": "The Flight into Egypt",
+        "path": "img/art/artworks/adam-elsheimer-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-flight-into-egypt-adam-elsheimer/zwGDF2Jj60zX7g"
       }
     ],
     "summary": [
-      "Sava Šumanović was a painter from modern-day Serbia. He is considered to be one of the most important Serbian painters of the 20th century. Šumanović's opus includes around 800 paintings as well as 400 drawings and sketches. He was executed during the Genocide of Serbs in the Independent State of Croatia."
+      "Adam Elsheimer was a German artist working in Rome who died at only thirty-two, but was very influential in the early 17th century in the field of Baroque paintings. His relatively few paintings were small scale, nearly all painted on copper plates, of the type often known as cabinet paintings. They include a variety of light effects, and an innovative treatment of landscape. He was an influence on many other artists, including Rembrandt and Peter Paul Rubens."
     ],
     "quote": null,
-    "movements": ["Modern art"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Sava_%C5%A0umanovi%C4%87",
-    "urlGoogle": "https://artsandculture.google.com/entity/sava-šumanović/m06fkhd"
+    "movements": ["Baroque", "Dutch Golden Age", "Utrecht Caravaggism", "Mannerism"],
+    "mediums": ["Engraving", "Pen", "Oil paint", "Etching", "Ink", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Adam_Elsheimer",
+    "urlGoogle": "https://artsandculture.google.com/entity/adam-elsheimer/m073l6b"
   },
   "event": {
-    "id": "air-raid-on-bari",
-    "name": "Air raid on Bari",
-    "dates": null,
-    "mainImg": "img/events/air-raid-on-bari.jpg",
+    "id": "landing-at-saidor",
+    "name": "Landing at Saidor",
+    "dates": "Jan 2, 1944 - Feb 10, 1944",
+    "mainImg": "img/events/landing-at-saidor.jpg",
     "summary": [
-      "The air raid on Bari was an air attack by German bombers on Allied forces and shipping in Bari, Italy, on 2 December 1943, during World War II. 105 German Junkers Ju 88 bombers of Luftflotte 2 achieved surprise and bombed shipping and personnel operating in support of the Allied Italian Campaign, sinking 27 cargo and transport ships, as well as a schooner, in Bari harbour.",
-      "The attack lasted a little more than an hour and put the port out of action until February 1944. The release of mustard gas from one of the wrecked cargo ships added to the loss of life. The British and US governments covered up the presence of mustard gas and its effects on victims of the raid."
+      "The Landing at Saidor was an Allied amphibious landing at Saidor, Papua New Guinea on 2 January 1944 as part of Operation Dexterity during World War II. In Allied hands, Saidor was a stepping stone towards Madang, the ultimate objective of General Douglas MacArthur's Huon Peninsula campaign. The capture of the airstrip at Saidor also allowed construction of an airbase to assist Allied air forces to conduct operations against Japanese bases at Wewak and Hollandia. But MacArthur's immediate objective was to cut off the 6,000 Imperial Japanese troops retreating from Sio in the face of the Australian advance from Finschhafen.",
+      "Following the landing at Saidor, the Japanese elected to retreat rather than fight, and withdrew over the foothills of the rugged Finisterre Range. For the Japanese soldiers involved, the march was a nightmare, as they struggled through the jungles, across the swollen rivers, and over cliffs and mountains. Men succumbed to fatigue, disease, starvation, drowning, and even exposure, the nights in the Finisterres being bitterly cold."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Air_raid_on_Bari",
-    "urlGoogle": "https://artsandculture.google.com/entity/air-raid-on-bari/m03hhb43"
+    "urlWiki": "https://en.wikipedia.org/wiki/Landing_at_Saidor",
+    "urlGoogle": "https://artsandculture.google.com/entity/landing-at-saidor/m04jkvx2"
   },
   "funFacts": [
     {
-      "id": "674",
-      "fact": "The oldest living animal ever found was a 405 year-old clam, named Ming by researchers.",
-      "category": ["Animals"]
+      "id": "256",
+      "fact": "There are more saunas than cars in Finland.",
+      "category": ["Geography"]
     },
     {
-      "id": "860",
-      "fact": "Cleveland, OH is home to the first electric traffic lights.",
-      "category": ["Firsts"]
+      "id": "227",
+      "fact": "Tsiology is anything written about tea.",
+      "category": ["Food", "Definitions"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553811",
-      "fact": "Steve Carell worked as a postal carrier in the small town of Littleton, Massachusetts. (Though he only did it for a few months, he said it was the hardest job he's ever had.)"
+      "id": "553737",
+      "fact": "Staff members of the Slovak and Slovenian embassies meet once a month to exchange incorrectly addressed mail."
     }
   ],
   "idiom": {
-    "id": "pay-through-the-nose",
-    "term": "pay through the nose",
-    "definition": "Pay an excessive amount for something, as in *We paid through the nose for that vacation.* The origin of this term has been lost. Possibly it alludes to the Danish nose tax, imposed in Ireland in the 9th century, whereby delinquent taxpayers were punished by having their noses slit. [Second half of 1600s]"
+    "id": "back-to-the-salt-mines",
+    "term": "back to the salt mines",
+    "definition": "Resume work, usually with some reluctance, as in *With my slavedriver of a boss, even on Saturdays it's back to the salt mines.* This term alludes to the Russian practice of punishing prisoners by sending them to work in the salt mines of Siberia. Today the term is only used ironically. [Late 1800s]"
   },
   "person": {
-    "id": "denis-kendall",
-    "name": "Denis Kendall",
-    "dates": "May 27, 1903 - Jul 19, 1995",
-    "mainImg": "img/people/denis-kendall.jpg",
+    "id": "gaspar-de-guzman-count-duke-of-olivares",
+    "name": "Gaspar de Guzmán, Count-Duke of Olivares",
+    "dates": "Jan 6, 1587 - Jul 22, 1645",
+    "mainImg": "img/people/gaspar-de-guzman-count-duke-of-olivares.jpg",
     "summary": [
-      "William Denis Kendall, known as Denis Kendall, was an engineer, businessman, and politician. During World War II he was Managing Director of the armaments firm British Manufacture and Research Co, and from 1942-1950, he was the Member of Parliament for Grantham. In 1952 he emigrated to United States and set up American Manufacture and Research Co to build small diesel engines."
+      "Gaspar de Guzmán y Pimentel, 1st Duke of Sanlúcar, 3rd Count of Olivares, GE, KOA, known as the Count-Duke of Olivares, was a Spanish royal favourite of Philip IV and minister. As prime minister from 1621 to 1643, he over-exerted Spain in foreign affairs and unsuccessfully attempted domestic reform. His policy of committing Spain to recapture Holland led to a renewal of the Eighty Years' War while Spain was also embroiled in the Thirty Years' War. In addition, his attempts to centralise power and increase wartime taxation led to revolts in Catalonia and in Portugal, which brought about his downfall."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Denis_Kendall",
-    "urlGoogle": "https://artsandculture.google.com/entity/denis-kendall/m03qnrb6"
+    "urlWiki": "https://en.wikipedia.org/wiki/Gaspar_de_Guzm%C3%A1n,_Count-Duke_of_Olivares",
+    "urlGoogle": "https://artsandculture.google.com/entity/gaspar-de-guzmán-count-duke-of-olivares/m01qwgh"
   },
   "place": {
-    "id": "vancouver",
-    "name": "Vancouver",
-    "mainImg": "img/places/vancouver.jpg",
+    "id": "nanjing",
+    "name": "Nanjing",
+    "mainImg": "img/places/nanjing.jpg",
     "summary": [
-      "Vancouver is a city on the north bank of the Columbia River in the U.S. state of Washington. It is the largest suburb of Portland, Oregon. Incorporated in 1857, Vancouver had a population of 161,791 as of the 2010 U.S. census, making it the fourth-largest city in Washington state. Vancouver is the county seat of Clark County and forms part of the Portland-Vancouver metropolitan area, the 23rd largest metropolitan area in the United States. Originally established in 1825 around Fort Vancouver, a fur-trading outpost, the city is located on the Washington/Oregon border along the Columbia River, directly north of Portland. In 2005, Money magazine named it No. 91 on its list of best places in America to live. In 2016, WalletHub ranked Vancouver the 89th best place in the U.S. for families to live."
+      "Nanjing, alternatively romanized as Nanking and Nankin, is the capital of Jiangsu province of the People's Republic of China and the second largest city in the East China region, with 11 districts, an administrative area of 6,600 km² and a total population of 8,505,500 as of 2019. The inner area of Nanjing enclosed by the city wall is Nanjing City.",
+      "Situated in the Yangtze River Delta region, Nanjing has a prominent place in Chinese history and culture, having served as the capital of various Chinese dynasties, kingdoms and republican governments dating from the 3rd century to 1949, and has thus long been a major center of culture, education, research, politics, economy, transport networks and tourism, being the home to one of the world's largest inland ports. The city is also one of the fifteen sub-provincial cities in the People's Republic of China's administrative structure, enjoying jurisdictional and economic autonomy only slightly less than that of a province."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Vancouver,_Washington",
-    "urlGoogle": "https://artsandculture.google.com/entity/vancouver/m0ckhc"
+    "urlWiki": "https://en.wikipedia.org/wiki/Nanjing",
+    "urlGoogle": "https://artsandculture.google.com/entity/nanjing/m05gqy"
   },
   "wiki": {
-    "id": "graffiti",
-    "name": "Graffiti",
-    "summary": "Graffiti is a type of deliberate human markings on property. Graffiti can take the form of art, drawings, or words, and is illegal vandalism when done without the property owner's consent. Its origin can be traced back to ancient civilizations such as the Roman Empire and Ancient Greece. Graffiti originally was the term used for inscriptions, figure drawings, etc., found on the walls of ancient sepulchers or ruins, as in the Catacombs, or at Pompeii. It has evolved to include any decorations inscribed on any surface that are considered to be vandalism or pictures or writing placed on surfaces, usually outside walls and sidewalks, without the permission of the owner. Thus, inscriptions made by the authors of a monument are not considered graffiti.",
-    "url": "https://en.wikipedia.org/wiki/Graffiti"
+    "id": "hurricane-gloria",
+    "name": "Hurricane Gloria",
+    "summary": "Hurricane Gloria was a powerful Cape Verde-type hurricane that formed during the 1985 Atlantic hurricane season and prowled the Atlantic Ocean from September 16 to September 28. Gloria reached Category 4 on the Saffir-Simpson Hurricane Scale near the Bahamas, but weakened significantly by the time it made landfall on North Carolina's Outer Banks. From there, Gloria closely followed the Mid-Atlantic coastline and made a second landfall on Long Island, New York, and, after crossing the Long Island Sound, it made a third landfall in Connecticut. Overall, the storm caused extensive damage along the East Coast of the United States, amounting to $900 million ($1.6 billion in 2005 USD), and was responsible for eight fatalities. The storm was the first significant system to impact the northeastern United States since Hurricane Agnes in 1972 and the first major storm to affect New York and Long Island directly since Hurricane Donna in 1960. It was the last storm to hit the northeast until Hurricane Bob in 1991.",
+    "url": "https://en.wikipedia.org/wiki/Hurricane_Gloria"
   },
   "word": {
-    "id": "malversation",
-    "word": "malversation",
-    "url": "https://www.merriam-webster.com/dictionary/malversation",
-    "partOfSpeech": "noun",
-    "pronunciation": "mal-ver-SAY-shun",
-    "audioPath": "audio/words/malversation.mp3",
-    "definitions": [
-      "misbehavior and especially corruption in an office, trust, or commission",
-      "corrupt administration"
-    ],
+    "id": "fructuous",
+    "word": "fructuous",
+    "url": "https://www.merriam-webster.com/dictionary/fructuous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FRUK-chuh-wus",
+    "audioPath": "audio/words/fructuous.mp3",
+    "definitions": ["fruitful"],
     "examples": [
-      "The city council impeached the mayor for administrative misconduct and _malversation_, charging that he has used his office primarily for personal gain.",
-      "\"The Office of the Ombudsman is still evaluating the plunder cases filed three months ago by the Department of Justice…. Included in the first batch of cases were 34 respondents, while at least 10 more legislators were charged, this time with _malversation_, early last month.\" - From an article by Christian V. Esguerra in the _Philippines Daily Inquirer_, December 30, 2013"
+      "\"The parents in our 1924 drama, like most parents past and forevermore, are praying mainly for a sound baby, with all the stuff for a long, fructuous life.\" (Ed Hayes, _Orlando Sentinel_, May 11, 2008)"
     ],
-    "origin": "The form \"mal-\" is often a bad sign in a word, and \"malversation\" is no exception. In Middle French, \"mal-\" (meaning \"bad,\" from the Latin word for \"bad,\" \"malus\") teamed up with \"verser\" (\"to turn, handle,\" from the Latin verb \"vertere,\" \"to turn \") to create \"malverser,\" a verb meaning \"to be corrupt.\" This in turn led to the French noun \"malversation,\" which was adopted by English speakers in the mid-16th century. Some other \"mal-\" words that entered English from Middle French are \"maladroit\" (\"inept\"), \"malcontent\" (\"discontented\"), and \"maltreat\" (\"to treat badly\")."
+    "origin": "In Latin the word \"fructus\" means both \"fruit\" and \"enjoyment\" or \"use.\" A rich crop of English derivatives grew from that root, including \"fructuous,\" \"fructose\" (a sugar found in fruits), \"fruition\" (\"the state of bearing fruit\"), \"usufruct\" (\"the right to use or enjoy something\"), and even \"fruit\" itself. \"Fructuous\" comes from the Middle French adjective \"fructueux\" and the Latin adjective \"fructuosus,\" both ultimately derived from \"fructus.\""
   }
 }

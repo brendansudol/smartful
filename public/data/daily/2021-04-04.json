@@ -1,109 +1,112 @@
 {
   "artist": {
-    "id": "frank-rinehart",
-    "name": "Frank Rinehart",
-    "dates": "Feb 12, 1861 - Dec 17, 1928",
-    "mainImg": "img/art/artists/frank-rinehart.jpg",
+    "id": "odilon-redon",
+    "name": "Odilon Redon",
+    "dates": "Apr 22, 1840 - Jul 6, 1916",
+    "mainImg": "img/art/artists/odilon-redon.jpg",
     "artworkImgs": [
       {
-        "name": "Brushing Against and Little Squint Eyes, San Carlos Apaches",
-        "path": "img/art/artworks/frank-rinehart-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/brushing-against-and-little-squint-eyes-san-carlos-apaches/5AEfdZXJy5Rgxg"
+        "name": "Muse on Pegasus",
+        "path": "img/art/artworks/odilon-redon-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/muse-on-pegasus-odilon-redon/mAGZ99AKVTHnNw"
       },
       {
-        "name": "John Hollow Horn Bear, Sioux",
-        "path": "img/art/artworks/frank-rinehart-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/john-hollow-horn-bear-sioux/SgE0p55nVeaXVw"
+        "name": "To Edgar Poe (The Eye, Like a Strange Balloon, Mounts toward Infinity) [À Edgar Poe (L'oeil, comme un ballon bizarre se dirige vers l'infini)]",
+        "path": "img/art/artworks/odilon-redon-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/to-edgar-poe-the-eye-like-a-strange-balloon-mounts-toward-infinity-à-edgar-poe-l-oeil-comme-un-ballon-bizarre-se-dirige-vers-l-infini-odilon-redon/CQHTxKYrM1sGCA"
       },
       {
-        "name": "Geronimo, (Guyatle), Apache",
-        "path": "img/art/artworks/frank-rinehart-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/geronimo-guyatle-apache-frank-a-rinehart/jQEuhKmeMQLxxg"
+        "name": "The Chariot of Apollo",
+        "path": "img/art/artworks/odilon-redon-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-chariot-of-apollo-odilon-redon/1gHvb12pom3h6A"
       },
       {
-        "name": "Geo. Little Wound, Sioux",
-        "path": "img/art/artworks/frank-rinehart-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/geo-little-wound-sioux/xwEJG_VfQNccuQ"
+        "name": "The Celestial Art",
+        "path": "img/art/artworks/odilon-redon-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-celestial-art-odilon-redon/HAEJXeQ2eR9F7w"
       },
       {
-        "name": "Afraid of Eagle, Sioux",
-        "path": "img/art/artworks/frank-rinehart-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/afraid-of-eagle-sioux/0AFS-9uNDaswLQ"
+        "name": "Yeux Clos (Closed Eyes)",
+        "path": "img/art/artworks/odilon-redon-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/yeux-clos-closed-eyes-odilon-redon/YgHKCBkqycuUMA"
       },
       {
-        "name": "White Buffalo, Cheyennes",
-        "path": "img/art/artworks/frank-rinehart-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/white-buffalo-cheyennes/DQED8ahhEmk5zw"
+        "name": "Bell-Tower Keeper",
+        "path": "img/art/artworks/odilon-redon-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/bell-tower-keeper-odilon-redon/FwFrHTGzpewD4w"
       }
     ],
     "summary": [
-      "Frank Albert Rinehart was famous for his photography capturing Native American personalities and scenes, especially portrait settings of leaders and members of the delegations who attended the 1898 Indian Congress in Omaha."
+      "Odilon Redon was a French symbolist painter, printmaker, draughtsman and pastellist.",
+      "Early in his career, both before and after fighting in the Franco-Prussian War, he worked almost exclusively in charcoal and lithography, works referred to as noirs. He started gaining recognition after his drawings were mentioned in the 1884 novel À rebours by Joris-Karl Huysmans. During the 1890s he began working in pastel and oils, which quickly became his favourite medium, abandoning his previous style of noirs completely after 1900. He also developed a keen interest in Hindu and Buddhist religion and culture, which increasingly showed in his work.",
+      "He is perhaps best known today for the \"dreamlike\" paintings created in the first decade of the 20th century, which were heavily inspired by Japanese art and which, while continuing to take inspiration from nature, heavily flirted with abstraction. His work is considered a precursor to both Dadaism and Surrealism."
     ],
-    "quote": null,
-    "movements": [],
-    "mediums": ["Platinum", "Metal", "Photograph"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Rinehart",
-    "urlGoogle": "https://artsandculture.google.com/entity/frank-rinehart/m0fhwk6"
+    "quote": "“While I recognize the necessity for a basis of observed reality... true art lies in a reality that is felt.”",
+    "movements": ["Symbolism", "Post-Impressionism", "Modern art", "Naturalism", "Impressionism"],
+    "mediums": ["Etching", "Oil paint", "Drawing", "Charcoal", "Ink", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Odilon_Redon",
+    "urlGoogle": "https://artsandculture.google.com/entity/odilon-redon/m015ymr"
   },
   "event": {
-    "id": "south-east-asian-theatre-of-world-war-ii",
-    "name": "South-East Asian theatre of World War II",
-    "dates": "Dec 6, 1941 - Sep 9, 1945",
-    "mainImg": "img/events/south-east-asian-theatre-of-world-war-ii.jpg",
+    "id": "polish-muscovite-war",
+    "name": "Polish–Muscovite War",
+    "dates": "1605 - 1618",
+    "mainImg": "img/events/polish-muscovite-war.jpg",
     "summary": [
-      "The South-East Asian Theatre of World War II was the name given to the campaigns of the Pacific War in Burma, Ceylon, India, Thailand, the Philippines, Indochina, Malaya and Singapore. Conflict in this theatre began when the Empire of Japan invaded French Indochina in September 1940 and rose to a new level following the raid on Pearl Harbor, and simultaneous attacks on Hong Kong, the Philippines, Thailand, Singapore and Malaya on 7 and 8 December 1941. The main landing at Singora on the east side of the Isthmus of Kra preceded the bombing of Pearl Harbor by several hours. Action in the theatre officially ended on 9 September 1945."
+      "The Polish–Muscovite War, also known as the Polish–Russian War of 1605–1618 or the Dimitriads, was a conflict fought between the Tsardom of Russia and the Polish-Lithuanian Commonwealth from 1605 to 1618.",
+      "Russia had been experiencing the Time of Troubles since the death of Tsar Feodor I in 1598, causing political instability and a violent succession crisis upon the extinction of the Rurik dynasty, and was ravaged by the major famine of 1601 to 1603. Poland exploited Russia's civil wars when members of the Polish szlachta aristocracy began influencing Russian boyars and supporting False Dmitris for the title of Tsar of Russia against the crowned Boris Godunov and Vasili IV Shuysky. In 1605, King Sigismund III Vasa informally invaded Russia until the death of False Dmitry I in 1606, and invaded again in 1607 until Russia formed a military alliance with Sweden in 1609. Sigismund formally declared war on Russia in response, aiming to gain territorial concessions and weaken Sweden's ally, winning many early victories such as the Battle of Klushino. In 1610, Polish forces entered Moscow and Sweden withdrew from the military alliance with Russia, instead triggering the Ingrian War."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/South-East_Asian_theatre_of_World_War_II",
-    "urlGoogle": "https://artsandculture.google.com/entity/south-east-asian-theatre-of-world-war-ii/m03n99_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Polish%E2%80%93Muscovite_War_%281605%E2%80%931618%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/polish–muscovite-war/m04yqp0"
   },
   "funFacts": [
     {
-      "id": "717",
-      "fact": "Mangoes are the most-consumed fruit in the world.",
-      "category": ["Food"]
+      "id": "125",
+      "fact": "Pigeons have been trained by the U.S. Coast Guard to spot people lost at sea.",
+      "category": ["Animals"]
     },
     {
-      "id": "201",
-      "fact": "The only one-syllabled U.S. state is Maine.",
-      "category": ["Geography", "Onlies"]
+      "id": "962",
+      "fact": "John Wilkes Booth's brother saved the life of Abraham Lincoln's son.",
+      "category": ["History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554101",
-      "fact": "A solar eclipse helped end a six-year war in 585 BCE. When the sky suddenly darkened during a battle between the Lydians and the Medes in modern Turkey, soldiers took it as a sign to cease fighting."
+      "id": "504755",
+      "fact": "In 1907, an ad campaign for Kellogg's Corn Flakes offered a free sample of cereal to any woman who would wink at her grocer."
     }
   ],
   "idiom": {
-    "id": "take-the-cake",
-    "term": "take the cake",
-    "definition": "Be the most outstanding in some respect, either the best or the worst. For example, *That advertising slogan really took the cake,* or *What a mess they made of the concert---that takes the cake!* This expression alludes to a contest called a *cakewalk,* in which a cake is the prize. Its figurative use, for something either excellent or outrageously bad, dates from the 1880s."
+    "id": "champ-at-the-bit",
+    "term": "champ at the bit",
+    "definition": "Show impatience at being held back or delayed, as in *The dismissal bell hadn't rung, but they were champing at the bit to leave.* This term transfers the action of a horse that impatiently bites the bit in its mouth to human behavior. [Mid-1600s]"
   },
   "person": {
-    "id": "ngo-dinh-diem",
-    "name": "Ngo Dinh Diem",
-    "dates": "Jan 3, 1901 - Nov 2, 1963",
-    "mainImg": "img/people/ngo-dinh-diem.jpg",
+    "id": "francois-guizot",
+    "name": "François Guizot",
+    "dates": "Oct 4, 1787 - Sep 12, 1874",
+    "mainImg": "img/people/francois-guizot.jpg",
     "summary": [
-      "Ngô Đình Diệm was a Vietnamese politician. He was the final prime minister of the State of Vietnam, and then served as President of South Vietnam from 1955 until he was deposed and assassinated during the 1963 military coup.",
-      "Diệm was born into a prominent Catholic family, the son of a high-ranking civil servant, Ngô Đình Khả. He was educated at French-speaking schools and considered following his brother Ngô Đình Thục into the priesthood, but eventually chose to pursue a civil-service career. He progressed rapidly in the court of Emperor Bảo Đại, becoming governor of Bình Thuận Province in 1929 and interior minister in 1933. However, he resigned the latter position after three months and publicly denounced the emperor as a tool of the French. Diệm came to support Vietnamese nationalism, promoting an anti-communist and anti-colonialist \"third way\" opposed to both Bảo Đại and communist leader Hồ Chí Minh. He established the Can Lao Party to support his political doctrine of Person Dignity Theory.",
-      "After several years in exile, Diệm returned home in July 1954 and was appointed prime minister by Bảo Đại, the head of the Western-backed State of Vietnam."
+      "François Pierre Guillaume Guizot was a French historian, orator, and statesman. Guizot was a dominant figure in French politics prior to the Revolution of 1848. A moderate liberal who opposed the attempt by King Charles X to usurp legislative power, he worked to sustain a constitutional monarchy following the July Revolution of 1830.",
+      "He then served the \"citizen king\" Louis Philippe, as Minister of Education, 1832–37, ambassador to London, Foreign Minister 1840–1847, and finally Prime Minister of France from 19 September 1847 to 23 February 1848. Guizot's influence was critical in expanding public education, which under his ministry saw the creation of primary schools in every French commune. But as a leader of the \"Doctrinaires\", committed to supporting the policies of Louis Phillipe and limitations on further expansion of the political franchise, he earned the hatred of more left-leaning liberals and republicans through his unswerving support for restricting suffrage to propertied men, advising those who wanted the vote to \"enrich yourselves\" through hard work and thrift."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem",
-    "urlGoogle": "https://artsandculture.google.com/entity/ngo-dinh-diem/m0f3xv"
+    "quote": "“Much misconstruction and bitterness are spared to him who thinks naturally upon what he owes to others rather than what he ought to expect from them.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Guizot",
+    "urlGoogle": "https://artsandculture.google.com/entity/françois-guizot/m0192kt"
   },
   "place": {
-    "id": "bermuda",
-    "name": "Bermuda",
-    "mainImg": "img/places/bermuda.jpg",
+    "id": "denmark",
+    "name": "Denmark",
+    "mainImg": "img/places/denmark.jpg",
     "summary": [
-      "Bermuda is a British Overseas Territory in the North Atlantic Ocean. It is approximately 1,035.26 km east-southeast of Cape Hatteras, North Carolina; 1,236 km south of Cape Sable Island, Nova Scotia; 1,759 km northeast of Cuba, and 1,538 km due north of the British Virgin Islands. Though it is typically referred to in the singular, Bermuda consists of 181 islands; the largest of these islands is known as Main Island. The capital city of Bermuda is Hamilton. Bermuda is internally self-governing, with its own constitution and cabinet of ministers selected from the elected Members of the lower house of a Parliament that enacts local laws. As the national government, the Government of the United Kingdom is ultimately responsible for ensuring good governance within British Overseas Territories, and retains responsibility for defence and foreign relations. As of July 2018, it has a population of 71,176, making it the most populous of the British overseas territories. Bermuda's largest economic sectors are offshore insurance, reinsurance, and tourism. Bermuda had one of the world's highest GDP per capita for most of the 20th century."
+      "Denmark is a Scandinavian country in Europe. The southernmost and smallest of the Nordic countries, it is south-west of Sweden and south of Norway, and bordered to the south by Germany. The Kingdom of Denmark is a sovereign state that comprises Denmark proper and two autonomous constituent countries in the North Atlantic Ocean: the Faroe Islands and Greenland. Denmark has a total area of 42,924 square kilometres, and a population of 5.7 million. The country consists of a peninsula, Jutland, and an archipelago of 443 named islands, with the largest being Zealand and Funen. The islands are characterised by flat, arable land and sandy coasts, low elevation and a temperate climate.",
+      "The unified kingdom of Denmark emerged in the 10th century as a proficient seafaring nation in the struggle for control of the Baltic Sea. Denmark, Sweden and Norway were ruled together under the Kalmar Union, established in 1397 and ending with Swedish secession in 1523. Denmark and Norway remained under the same monarch until outside forces dissolved the union in 1814. The union with Norway made it possible for Denmark to inherit the Faroe Islands, Iceland, and Greenland."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bermuda",
-    "urlGoogle": "https://artsandculture.google.com/entity/bermuda/m0165b"
+    "urlWiki": "https://en.wikipedia.org/wiki/Denmark",
+    "urlGoogle": "https://artsandculture.google.com/entity/denmark/g121p5z1h"
   },
   "quote": {
     "id": "9",
@@ -111,26 +114,23 @@
     "author": "Winston Churchill"
   },
   "wiki": {
-    "id": "battle-of-aljubarrota",
-    "name": "Battle of Aljubarrota",
-    "summary": "The Battle of Aljubarrota took place on August 14 1385, between Portuguese forces commanded by King João I and his general Nuno Alvares Pereira, and the Castilian army of King Juan I. The place was Aljubarrota, between the towns of Leiria and Alcobaça in central Portugal. The result was a decisive defeat for the Castilians and the end of the 1383–1385 Crisis, establishing João as King of Portugal. Independence was assured and a new dynasty, the House of Aviz, was established. Scattered border clashes with Castilian troops would persist until the death of Juan I in 1390, but these posed no real threat to the Portuguese monarchy. To celebrate his victory and acknowledge divine help, João I ordered the construction of the Monastery of Santa Maria of Batalha and the founding of the town of Batalha (the Portuguese word for \"battle\"). The king, his wife, Philippa of Lancaster, and several of his sons are buried in this monastery, which is an important part of Portuguese heritage.",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_Aljubarrota"
+    "id": "wesley-clark",
+    "name": "Wesley Clark",
+    "summary": "Wesley Clark is a retired four-star general in the U.S. Army. He spent thirty-four years in the Army and the Department of Defense, receiving many military decorations, several honorary knighthoods, and a Presidential Medal of Freedom. Clark was valedictorian of his class at West Point, was awarded a Rhodes Scholarship to Oxford University where he earned a master's degree in Economics, and later graduated from the Command and General Staff College with a master's degree in military science. Clark commanded Operation Allied Force in the Kosovo War during his term as the Supreme Allied Commander Europe of NATO from 1997 to 2000. Clark joined the 2004 race for the Democratic Party presidential nomination as a drafted candidate on September 17, 2003, but withdrew from the primary race on February 11, 2004, in favor of campaigning for the eventual Democratic nominee, John Kerry.",
+    "url": "https://en.wikipedia.org/wiki/Wesley_Clark"
   },
   "word": {
-    "id": "patagium",
-    "word": "patagium",
-    "url": "https://www.merriam-webster.com/dictionary/patagium",
-    "partOfSpeech": "noun",
-    "pronunciation": "puh-TAY-jee-um",
-    "audioPath": "audio/words/patagium.mp3",
-    "definitions": [
-      "the fold of skin connecting the forelimbs and hind limbs of some tetrapods (as flying squirrels)",
-      "the fold of skin in front of the main segments of a bird's wing"
-    ],
+    "id": "festinate",
+    "word": "festinate",
+    "url": "https://www.merriam-webster.com/dictionary/festinate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FESS-tuh-nut",
+    "audioPath": "audio/words/festinate.mp3",
+    "definitions": ["hasty"],
     "examples": [
-      "The flying squirrel uses its two _patagia_ to glide from tree to tree.",
-      "\"One of the key identification marks is the dark leading edge of the wing, called the _patagium_. These marks on the under wing are only found on the red-tailed hawk.\" - From an article by Bill Fenimore, _The Salt Lake Tribune_, February 6, 2012"
+      "\"I assure you,\" said the Ambassador, \"I am all too aware of the dangers inherent in a festinate decision.\"",
+      "\"Novell's proxy servers, caching and firewalls may not be such utter failures, but growth in crowded fields dominated by companies with better track records is just as illusory. Even successes like GroupWise, ManageWise and ZENworks are vestiges of 1990s thinking. They may halt a festinate death, but you don't build a company around them.\" - From an article by Fritz Nelson in _Network Computing_, August 21, 2000"
     ],
-    "origin": "In Latin, \"patagium\" referred to a gold edging or border on a woman's tunic, but in English its uses have been primarily scientific. It entered the English language in the early 19th century and was used by entomologists to refer to a process on the back of the foremost segment of an insect. Zoologists borrowed it as a word for the fold of skin of \"flying\" mammals and reptiles. Then ornithologists took the word to higher heights by the century's end, applying it to the forward part of the wings of birds."
+    "origin": "\"Festinate\" is one among many in the category of words whose first recorded use is in the works of Shakespeare (\"Advise the Duke where you are going, to a most festinate preparation.\" - King Lear, III.vii.10). Perhaps the Bard knew about \"festinatus,\" the Latin predecessor of \"festinate,\" or was familiar with the Latin proverb \"festina lente\"-\"make haste slowly.\" Shakespeare also gets credit for the adverb \"festinately\" (first seen in Love’s Labour’s Lost, III.i.6: \"Bring him festinately hither.\"), but another writer beat him to the verb \"festinate\" (pronounced \\\\FESS-tuh-nayt), meaning \"to hasten.\""
   }
 }

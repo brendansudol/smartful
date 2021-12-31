@@ -1,140 +1,135 @@
 {
   "artist": {
-    "id": "elisabeth-vigee-le-brun",
-    "name": "Élisabeth Vigée Le Brun",
-    "dates": "Apr 16, 1755 - Mar 30, 1842",
-    "mainImg": "img/art/artists/elisabeth-vigee-le-brun.jpg",
+    "id": "t-c-steele",
+    "name": "T. C. Steele",
+    "dates": "Sep 11, 1847 - Jul 24, 1926",
+    "mainImg": "img/art/artists/t-c-steele.jpg",
     "artworkImgs": [
       {
-        "name": "Marie-Antoinette, Queen of France",
-        "path": "img/art/artworks/elisabeth-vigee-le-brun-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/marie-antoinette-queen-of-france-elisabeth-vigée-le-brun/tAEhw_2KvIWeXQ"
+        "name": "Sunrise",
+        "path": "img/art/artworks/t-c-steele-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/sunrise/mgENHznxvUUiAQ"
       },
       {
-        "name": "Marie-Antoinette with the Rose",
-        "path": "img/art/artworks/elisabeth-vigee-le-brun-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/marie-antoinette-with-the-rose-louise-elisabeth-vigée-lebrun/qwHgKqLoAQb9FQ"
+        "name": "Late Afternoon, Dachau Moor",
+        "path": "img/art/artworks/t-c-steele-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/late-afternoon-dachau-moor-t-c-steele-american-1847-1926/1gGEdS47sLnMlA"
       },
       {
-        "name": "Marie-Antoinette de Lorraine-Habsbourg, queen of France, and her children",
-        "path": "img/art/artworks/elisabeth-vigee-le-brun-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/marie-antoinette-de-lorraine-habsbourg-queen-of-france-and-her-children-elisabeth-louise-vigée-lebrun/RQE3s9ANo6GnTg"
+        "name": "Munich Girl",
+        "path": "img/art/artworks/t-c-steele-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/munich-girl-t-c-steele-american-1847-1926/gQF2Hgb5KjTi4w"
       },
       {
-        "name": "Madame Grand (Noël Catherine Vorlée, 1761–1835)",
-        "path": "img/art/artworks/elisabeth-vigee-le-brun-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/madame-grand-noël-catherine-vorlée-1761–1835-élisabeth-louise-vigée-le-brun/WgH6erQsCpS08A"
+        "name": "Morning--Old Schofield's Mill",
+        "path": "img/art/artworks/t-c-steele-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/morning-old-schofield-s-mill-t-c-steele-american-1847-1926/FwGfX-p0tjiKjQ"
       },
       {
-        "name": "Madame Grand (Noël Catherine Vorlée, 1761–1835)",
-        "path": "img/art/artworks/elisabeth-vigee-le-brun-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/madame-grand-noël-catherine-vorlée-1761–1835-élisabeth-louise-vigée-le-brun/VgGVzbNUlGoZmQ"
+        "name": "Winter in Munich",
+        "path": "img/art/artworks/t-c-steele-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/winter-in-munich-t-c-steele-american-1847-1926/ZgGlHuMBhqyZoQ"
       },
       {
-        "name": "Marie-Antoinette, Queen of France",
-        "path": "img/art/artworks/elisabeth-vigee-le-brun-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/marie-antoinette-queen-of-france-anonymous-after-elisabeth-louise-vigée-le-brun/UgFU_zbdIEfGkA"
+        "name": "The Bloom of the Grape",
+        "path": "img/art/artworks/t-c-steele-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bloom-of-the-grape/HQEsACYHte794Q"
       }
     ],
     "summary": [
-      "Élisabeth Louise Vigée Le Brun, also known as Madame Le Brun, was a prominent French portrait painter of the late 18th century.",
-      "Her artistic style is generally considered part of the aftermath of Rococo with elements of an adopted Neoclassical style. Her subject matter and color palette can be classified as Rococo, but her style is aligned with the emergence of Neoclassicism. Vigée Le Brun created a name for herself in Ancien Régime society by serving as the portrait painter to Marie Antoinette. She enjoyed the patronage of European aristocrats, actors, and writers, and was elected to art academies in ten cities.",
-      "Vigée Le Brun created some 660 portraits and 200 landscapes. In addition to many works in private collections, her paintings are owned by major museums, such as the Louvre, Hermitage Museum, National Gallery in London, Metropolitan Museum of Art in New York, and many other collections in continental Europe and the United States."
+      "Theodore Clement Steele was an American Impressionist painter known for his Indiana landscapes. Steele was an innovator and leader in American Midwest painting and is one of the most famous of Indiana's Hoosier Group painters. In addition to painting, Steele contributed writings, public lectures, and hours of community service on art juries that selected entries for national and international exhibitions, most notably the Universal Exposition in Paris, France, and the Louisiana Purchase Exposition in Saint Louis, Missouri. He was also involved in organizing pioneering art associations, such as the Society of Western Artists.",
+      "Steele’s work has appeared in a number of prestigious exhibitions, including the World’s Columbian Exposition in Chicago, Illinois; the Five Hoosier Painters exhibition in Chicago; the Louisiana Purchase Exposition in Saint Louis; the International Exhibit of Fine Arts in Buenos Aires, Argentina, and Santiago, Chile; and at the Panama-Pacific International Exposition in San Francisco, California.",
+      "Steele’s work is widely collected by museums and individuals."
     ],
     "quote": null,
-    "movements": ["Neoclassicism", "Rococo", "Renaissance"],
-    "mediums": ["Oil paint", "Etching", "Engraving", "Wood", "Ink", "Oak"],
-    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun",
-    "urlGoogle": "https://artsandculture.google.com/entity/élisabeth-vigée-le-brun/m02q0w"
+    "movements": ["Impressionism", "American Impressionism", "Modern art"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/T._C._Steele",
+    "urlGoogle": "https://artsandculture.google.com/entity/t-c-steele/m026bb3p"
   },
   "event": {
-    "id": "the-netherlands-war-of-independence-second-part",
-    "name": "The Netherlands War of Independence (second part)",
-    "dates": "1568 - 1648",
-    "mainImg": "img/events/the-netherlands-war-of-independence-second-part.jpg",
+    "id": "battle-of-balaclava",
+    "name": "Battle of Balaclava",
+    "dates": null,
+    "mainImg": "img/events/battle-of-balaclava.jpg",
     "summary": [
-      "The Eighty Years' War or Dutch War of Independence was a revolt of the Seventeen Provinces of what are today the Netherlands, Belgium, and Luxembourg against Philip II of Spain, the sovereign of the Habsburg Netherlands. After the initial stages, Philip II deployed his armies and regained control over most of the rebelling provinces. Under the leadership of the exiled William the Silent, the northern provinces continued their resistance. They eventually were able to oust the Habsburg armies, and in 1581 they established the Republic of the Seven United Netherlands. The war continued in other areas, although the heartland of the republic was no longer threatened. This included the origins of the Dutch colonial empire, which began with Dutch attacks on Portugal's overseas territories, which at the time was conceived as carrying overseas the war with Spain due to Portugal being in a dynastic union with Spain.",
-      "The Dutch Republic was recognized by Spain and the major European powers in 1609 at the start of the Twelve Years' Truce. Hostilities broke out again around 1619, as part of the broader Thirty Years' War."
+      "The Battle of Balaclava, fought on 25 October 1854 during the Crimean War, was part of the Siege of Sevastopol, an Allied attempt to capture the port and fortress of Sevastopol, Russia's principal naval base on the Black Sea. The engagement followed the earlier Allied victory in September at the Battle of the Alma, where the Russian General Menshikov had positioned his army in an attempt to stop the Allies progressing south towards their strategic goal. Alma was the first major encounter fought in the Crimean Peninsula since the Allied landings at Kalamita Bay on 14 September, and was a clear battlefield success; but a tardy pursuit by the Allies failed to gain a decisive victory, allowing the Russians to regroup, recover and prepare their defence.",
+      "The Russians split their forces. Defending within the allied siege lines was primarily the Navy manning the considerable static defenses of the city and threatening the allies from without was the mobile Army under General Menshikov.",
+      "The Allies decided against a slow assault on Sevastopol and instead prepared for a protracted siege."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/the-netherlands-war-of-independence-second-part/g1215pr1x"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Balaclava",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-balaclava/m01d5yd"
   },
   "funFacts": [
     {
-      "id": "202",
-      "fact": "The mouth of the Statue of Liberty is 3 feet wide.",
-      "category": ["Geography"]
+      "id": "175",
+      "fact": "In 1634, tulip bulbs were a form of currency in Holland.",
+      "category": ["Geography", "History"]
     },
     {
-      "id": "304",
-      "fact": "In 1900, 1/3 of all automobiles in New York City were powered by electricity.",
-      "category": ["History", "Science"]
+      "id": "39",
+      "fact": "An ant's sense of smell is stronger than a dog's.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554053",
-      "fact": "During World War II, the term security blanket was slang for measures meant to keep military information secret, or covered up."
+      "id": "504706",
+      "fact": "President Jefferson hated formal affairs so much that he would often greet foreign dignitaries while wearing pajamas."
     }
   ],
   "idiom": {
-    "id": "on-ones-uppers",
-    "term": "on one's uppers",
-    "definition": "Poor, in reduced circumstances, as in as in *The Smiths try to hide the fact that they're on their uppers.* First recorded in 1886, this metaphoric term alludes to having worn out the soles of one's shoes so badly that only the top portions remain."
+    "id": "whistle-in-the-dark",
+    "term": "whistle in the dark",
+    "definition": "Summon up courage in a frightening situation, make a show of bravery. For example, *They knew they were lost and were just whistling in the dark.* This expression alludes to a literal attempt to keep up one's courage. [First half of 1900s]"
   },
   "person": {
-    "id": "ahmed-sekou-toure",
-    "name": "Ahmed Sékou Touré",
-    "dates": "Jan 9, 1922 - Mar 26, 1984",
-    "mainImg": "img/people/ahmed-sekou-toure.jpg",
+    "id": "ivanoe-bonomi",
+    "name": "Ivanoe Bonomi",
+    "dates": "Oct 18, 1873 - Apr 20, 1951",
+    "mainImg": "img/people/ivanoe-bonomi.jpg",
     "summary": [
-      "Ahmed Sékou Touré was a Guinean political leader who was the first President of Guinea, serving from 1958 until his death in 1984. Touré was among the primary Guinean nationalists involved in gaining independence of the country from France.",
-      "A devout Muslim from the Mandinka ethnic group, Sékou Touré was the great grandson of the powerful Mandinka Muslim cleric Samori Toure who established an independent Islamic rule in part of West Africa. In 1960, he declared his Democratic Party of Guinea the only legal party in the state, and ruled from then on as a virtual dictator. He was re-elected unopposed to four seven-year terms in the absence of any legal opposition. Under his rule many people were killed including at the notorious Camp Boiro."
-    ],
-    "quote": "“We prefer poverty in liberty than riches in slavery.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9",
-    "urlGoogle": "https://artsandculture.google.com/entity/ahmed-sékou-touré/m022rvj"
-  },
-  "place": {
-    "id": "madagascar",
-    "name": "Madagascar",
-    "mainImg": "img/places/madagascar.jpg",
-    "summary": [
-      "Madagascar, officially the Republic of Madagascar, and previously known as the Malagasy Republic, is an island country in the Indian Ocean, approximately 400 kilometres off the coast of East Africa. At 592,800 square kilometres Madagascar is the world's second-largest island country. The nation comprises the island of Madagascar and numerous smaller peripheral islands. Following the prehistoric breakup of the supercontinent Gondwana, Madagascar split from the Indian subcontinent around 88 million years ago, allowing native plants and animals to evolve in relative isolation. Consequently, Madagascar is a biodiversity hotspot; over 90% of its wildlife is found nowhere else on Earth. The island's diverse ecosystems and unique wildlife are threatened by the encroachment of the rapidly growing human population and other environmental threats.",
-      "The archaeological evidence of the earliest human foraging on Madagascar may date up to 10,000 years ago. Human settlement of Madagascar occurred between 350 BC and 550 AD by Indianized Austronesian peoples, arriving on outrigger canoes from Indonesia."
+      "Ivanoe Bonomi was an Italian statesman before and after World War II and ruled Italy as the 25th Prime Minister of Italy.",
+      "Bonomi was born in Mantua, Italy. He was elected to the Italian Chamber of Deputies in 1909, representing Mantua as a member of the Italian Socialist Party. He was among those expelled from the party in 1912, for his advocacy of reformism and moderation, as well as his support for the Italian invasion of Libya. Bonomi joined the Italian Reformist Socialist Party, and supported Italy's participation in World War I on the side of the Triple Entente.",
+      "Bonomi served as Minister of Public Works from 1916 until 1917, and as Minister of War from 1920 until 1921 - helping to negotiate a treaty with Yugoslavia. Later in 1921 he became Treasury Minister. A few months later, he became Prime Minister of Italy for the first time, in a coalition government—the first socialist to hold the post. Early in 1922, his government collapsed, and he was replaced as Prime Minister by Luigi Facta, amidst the Fascist insurgency led by Benito Mussolini. In October 1922, Mussolini gained power through the March on Rome, and Bonomi withdrew from politics."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Madagascar",
-    "urlGoogle": "https://artsandculture.google.com/entity/madagascar/m04sj3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Ivanoe_Bonomi",
+    "urlGoogle": "https://artsandculture.google.com/entity/ivanoe-bonomi/m03xm7_"
   },
-  "quote": {
-    "id": "79",
-    "quote": "The way to get started is to quit talking and begin doing.",
-    "author": "Walt Disney"
+  "place": {
+    "id": "udaipur",
+    "name": "Udaipur",
+    "mainImg": "img/places/udaipur.jpg",
+    "summary": [
+      "Udaipur, also known as the \"City of Lakes\" is a city in the state of Rajasthan in India. It is the historic capital of the kingdom of Mewar in the former Rajputana Agency. It was founded in 1558 by Udai Singh II of the Sisodia clan of Rajput, when he shifted his capital from the city of Chittorgarh to Udaipur after Chittorgarh was besieged by Akbar. It remained as the capital city till 1818 when it became a British princely state, and thereafter the Mewar province became a part of Rajasthan when India gained independence in 1947.",
+      "The city is located in the southernmost part of Rajasthan, near the Gujarat border. It is surrounded by the Aravali Range, which separates it from the Thar Desert. It is around 660 km from Delhi and approximately 800 km from Mumbai, placed almost in the middle of two major Indian metro cities. Besides, connectivity with Gujarat ports provide Udaipur a strategic geographical advantage. Udaipur is well connected with nearby cities and states by means of road, rail and air transportation facilities, including Maharana Pratap Airport. Common languages spoken include Hindi, English and Rajasthani."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Udaipur",
+    "urlGoogle": "https://artsandculture.google.com/entity/udaipur/m0b_kfy"
   },
   "wiki": {
-    "id": "hurricane-grace-1991",
-    "name": "Hurricane Grace (1991)",
-    "summary": "Hurricane Grace was a short-lived Category 2 hurricane that contributed to the formation of the powerful 1991 \"Perfect Storm\". Forming on October 26, Grace initially had subtropical origins, meaning it was partially tropical and partially extratropical in nature. It became a tropical cyclone on October 27, and ultimately peaked with winds of 100 mph (155 km/h). The storm had minor effects on the island of Bermuda as it passed to the south. A developing extratropical storm to the north turned Grace eastward; the hurricane was eventually absorbed into the large circulation of the larger low pressure system. Fed by the contrast between cold air to the northwest and warm air from the remnants of Hurricane Grace, this storm became a large and powerful nor'easter that caused extremely high waves and resulted in severe coastal damage along the U.S. East Coast.",
-    "url": "https://en.wikipedia.org/wiki/Hurricane_Grace_(1991)"
+    "id": "sms-scharnhorst",
+    "name": "SMS Scharnhorst",
+    "summary": "SMS Scharnhorst was an armored cruiser of the Imperial German Navy and the lead ship of her class. Named after the Prussian reformer General Gerhard von Scharnhorst, the ship entered service on 24 October 1907. After brief service with the High Seas Fleet in Germany in 1908, she was assigned in 1909 to the German East Asia Squadron based in Tsingtao, China, becoming the squadron flagship. Over the next five years, she went on several tours of Asian ports and was present in Japan for the coronation of the Taishō Emperor in 1912. After the outbreak of World War I, Scharnhorst and her sister ship SMS Gneisenau, accompanied by three light cruisers and several colliers, sailed across the Pacific Ocean—in the process evading the various Allied naval forces sent to intercept them—before arriving off the southern coast of South America. On 1 November 1914, Scharnhorst and the rest of the East Asia Squadron encountered and overpowered a British squadron at the Battle of Coronel. The stinging defeat prompted the British Admiralty to dispatch two battlecruisers to hunt down and destroy Scharnhorst's flotilla, which they accomplished at the Battle of the Falkland Islands on 8 December 1914.",
+    "url": "https://en.wikipedia.org/wiki/SMS_Scharnhorst"
   },
   "word": {
-    "id": "foliage",
-    "word": "foliage",
-    "url": "https://www.merriam-webster.com/dictionary/foliage",
+    "id": "armistice",
+    "word": "armistice",
+    "url": "https://www.merriam-webster.com/dictionary/armistice",
     "partOfSpeech": "noun",
-    "pronunciation": "FOH-lee-ij",
-    "audioPath": "audio/words/foliage.mp3",
+    "pronunciation": "AHR-muh-stus",
+    "audioPath": "audio/words/armistice.mp3",
     "definitions": [
-      "a representation of leaves, flowers, and branches for architectural ornamentation",
-      "the aggregate of leaves of one or more plants",
-      "a cluster of leaves, flowers, and branches"
+      "temporary suspension of hostilities by agreement between the opponents : truce"
     ],
     "examples": [
-      "The autumn _foliage_ is often a resplendent display of reds, oranges, and yellows.",
-      "\"The Virginia Tech football team's success has become a rite of autumn in Blacksburg, with victories accumulating as consistently as the _foliage_ that falls over the Blue Ridge Mountains.\" -- From an article by Adam Himmelsbach in the _New York Times_, September 6, 2010"
+      "The Korean War ended with an _armistice_ signed in July of 1953, though a permanent peace accord was never reached.",
+      "\"Most of us learned in school that WWI ended either with the 1918 _armistice_ agreement or the 1919 Treaty of Versailles. But the _Telegraph_ points out that, technically, the war will not come to a formal conclusion until this Sunday, when Germany makes its final reparation payment.\" -- From an article by Max Fisher on _The Atlantic Wire_, September 29, 2010"
     ],
-    "origin": "The English language has its share of common but disputed usages. One such example is the pronunciation of \"foliage\" as FOH-lij or, even more irksome to some, FOY-lij. The first of these two pronunciations, though frequently disparaged, is consistent with the pronunciation of the \"-iage\" ending in \"marriage\" and \"carriage,\" as well the less common but widely accepted pronunciation of \"verbiage\" as VER-bij. The second of these is often more fiercely denounced, in part because of its association with the nonstandard spelling \"foilage.\" Oddly enough, \"foliage\" traces back to Middle French \"foille\" (\"leaf\"), which is also the source of the English word \"foil.\" (When adopted by Middle English speakers, \"foil\" originally meant \"leaf.\")"
+    "origin": "\"Armistice\" descends from Latin \"sistere,\" meaning \"to come to a stand\" or \"to cause to stand or stop,\" combined with \"arma,\" meaning \"weapons.\" An armistice, therefore, is literally a cessation of arms. Armistice Day is the name that was given to the holiday celebrated in the United States on November 11 before it was renamed Veterans Day by Congress in 1954. The original name refers to the agreement between the Allied Powers and Germany to end hostilities that constituted the first World War, designated to take effect on the eleventh hour of the eleventh day of the eleventh month. Other armistices, involving Romania, Bulgaria, Turkey, and Austria-Hungary, were effected on other dates before and after November 11."
   }
 }

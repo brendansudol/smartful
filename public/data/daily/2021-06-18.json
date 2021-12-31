@@ -1,126 +1,127 @@
 {
   "artist": {
-    "id": "tomioka-tessai",
-    "name": "Tomioka Tessai",
-    "dates": "Jan 27, 1837 - Dec 31, 1924",
-    "mainImg": "img/art/artists/tomioka-tessai.jpg",
+    "id": "rafael-lozano-hemmer",
+    "name": "Rafael Lozano-Hemmer",
+    "dates": "Born Nov 17, 1967",
+    "mainImg": "img/art/artists/rafael-lozano-hemmer.jpg",
     "artworkImgs": [
       {
-        "name": "Abe-no-Nakamaro Writing a Nostalgic Poem while Viewing the Moon",
-        "path": "img/art/artworks/tomioka-tessai-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/abe-no-nakamaro-writing-a-nostalgic-poem-while-viewing-the-moon/hwH-3EVzlxPO_w"
+        "name": "Pulse Index",
+        "path": "img/art/artworks/rafael-lozano-hemmer-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/pulse-index-rafael-lozano-hemmer/tAH8uYK8QIkJJQ"
       },
       {
-        "name": "Twenty miniature masks",
-        "path": "img/art/artworks/tomioka-tessai-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/twenty-miniature-masks-kano-tessai/ywEp9schMN3pRw"
+        "name": "Make Out 2009 Shadow Box 8",
+        "path": "img/art/artworks/rafael-lozano-hemmer-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/make-out-2009-shadow-box-8-rafael-lozano-hemmer/ZgEQx64Lwj8E1A"
       },
       {
-        "name": "Mt.Penglai (Mountain of Immortals)",
-        "path": "img/art/artworks/tomioka-tessai-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/mt-penglai-mountain-of-immortals/MQGqnAhhplmcpA"
+        "name": "\"The Year's Midnight\"",
+        "path": "img/art/artworks/rafael-lozano-hemmer-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-year-s-midnight-rafael-lozano-hemmer/pwF9IPwAzxr23A"
       },
       {
-        "name": "Taoist Immortals Celebrating Longevity",
-        "path": "img/art/artworks/tomioka-tessai-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/taoist-immortals-celebrating-longevity/nAElEuGML3JFBw"
+        "name": "Flatsun, Photo by: Antimodular Research.",
+        "path": "img/art/artworks/rafael-lozano-hemmer-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/flatsun-photo-by-antimodular-research-rafael-lozano-hemmer/BgG9W_AhsxEYCg"
       },
       {
-        "name": "Kōrin moyō",
-        "path": "img/art/artworks/tomioka-tessai-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/kōrin-moyō-artist-furuya-korin-calligrapher-tomioka-tessai/6AH_bPY5eGJylQ"
+        "name": "Please Empty Your Pockets",
+        "path": "img/art/artworks/rafael-lozano-hemmer-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/please-empty-your-pockets-rafael-lozano-hemmer/RgHj1u5i-vRvHQ"
       },
       {
-        "name": "Brokaten uit de hoofdstad",
-        "path": "img/art/artworks/tomioka-tessai-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/brokaten-uit-de-hoofdstad-takeuchi-seihō-tomioka-tessai-mori-kansai/CQG1LNgXHjLrvA"
+        "name": "The Year's Midnight",
+        "path": "img/art/artworks/rafael-lozano-hemmer-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-year-s-midnight-rafael-lozano-hemmer/rQFQR_6c6eyLjA"
       }
     ],
     "summary": [
-      "Tomioka Tessai was the pseudonym for a painter and calligrapher in imperial Japan. He is regarded as the last major artist in the Bunjinga tradition and one of the first major artists of the Nihonga style. His real name was Yusuke, which he later changed to Hyakuren."
+      "Rafael Lozano-Hemmer is a Mexican-Canadian electronic artist who works with ideas from architecture, technological theater and performance. He holds a Bachelor of Science in physical chemistry from Concordia University in Montreal. Currently, Lozano-Hemmer lives and works in Montreal and Madrid."
     ],
     "quote": null,
-    "movements": ["Nihonga"],
-    "mediums": ["Ink", "Book", "Pigment", "Silk", "Textile", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Tomioka_Tessai",
-    "urlGoogle": "https://artsandculture.google.com/entity/tomioka-tessai/m06s2yp"
+    "movements": ["Contemporary art"],
+    "mediums": ["Iron", "Metal", "Steel"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Rafael_Lozano-Hemmer",
+    "urlGoogle": "https://artsandculture.google.com/entity/rafael-lozano-hemmer/m02mlx_"
   },
   "event": {
-    "id": "battle-of-dien-bien-phu",
-    "name": "Battle of Dien Bien Phu",
-    "dates": "Mar 13, 1954 - May 7, 1954",
-    "mainImg": "img/events/battle-of-dien-bien-phu.jpg",
+    "id": "contour",
+    "name": "CONTOUR",
+    "dates": "Jul 3, 2002",
+    "mainImg": "img/events/contour.jpg",
     "summary": [
-      "The Battle of Dien Bien Phu was a climactic confrontation of the First Indochina War that took place between 13 March and 7 May 1954. It was fought between the French Union's French Far East Expeditionary Corps and Viet Minh communist revolutionaries.",
-      "It was, from the French view before the event, a set piece battle to draw out the Vietnamese and destroy them with superior firepower. As a result of blunders in French decision-making, however, the French began an operation to insert, then support, their soldiers at Điện Biên Phủ, deep in the hills of northwestern Vietnam. The operation's purpose was to cut off Viet Minh supply lines into the neighboring Kingdom of Laos, and draw the Viet Minh into a major confrontation in order to cripple them. The plan was to resupply the French position by air, and was based on the belief that the Viet Minh had no anti-aircraft capability. The Viet Minh, however, under General Võ Nguyên Giáp, surrounded and besieged the French. They brought in vast amounts of heavy artillery and managed to move these bulky weapons through difficult terrain up the rear slopes of the mountains."
+      "The COmet Nucleus TOUR was a NASA Discovery-class space probe that failed shortly after its July 2002 launch. It had as its primary objective close flybys of two comet nuclei with the possibility of a flyby of a third known comet or an as-yet-undiscovered comet.",
+      "The two comets scheduled to be visited were Encke and Schwassmann-Wachmann-3, and the third target was d'Arrest. It was hoped that a new comet would have been discovered in the inner Solar System between 2006 and 2008, in which case the spacecraft trajectory would have been changed if possible to rendezvous with the new comet. Scientific objectives included imaging the nuclei at resolutions of up to 4 meters, performing spectral mapping of the nuclei at resolutions of up to 100 meters, and obtaining detailed compositional data on gas and dust in the near-nucleus environment, with the goal of improving knowledge of the characteristics of comet nuclei.",
+      "After the solid rocket motor intended to inject the spacecraft into solar orbit was ignited on August 15, 2002, contact with the probe could not be re-established."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-dien-bien-phu/m0hjtz"
+    "urlWiki": "https://en.wikipedia.org/wiki/CONTOUR",
+    "urlGoogle": "https://artsandculture.google.com/entity/contour/m0lb8r"
   },
   "funFacts": [
     {
-      "id": "701",
-      "fact": "It takes more water to fill a bathtub than it does to enjoy a nice, warm shower.",
-      "category": ["Habits"]
+      "id": "915",
+      "fact": "At room temperature, the average air molecule travels at the speed of a rifle bullet.",
+      "category": ["Science"]
     },
     {
-      "id": "869",
-      "fact": "Theodore Roosevelt had a pet bear while in office.",
-      "category": ["History"]
+      "id": "249",
+      "fact": "The 1st public message to be transmitted via Morse code was \"A patient waiter is no loser.\"",
+      "category": ["Firsts"]
     }
   ],
   "funFacts2": [
-    { "id": "504661", "fact": "The first pair of Nike running shoes was made in a waffle iron." }
+    { "id": "553806", "fact": "Modern brunch was first proposed in 1895 as a post-hangover meal." }
   ],
   "idiom": {
-    "id": "from-the-horses-mouth",
-    "term": "from the horse's mouth",
-    "definition": "From a reliable source, on the best authority. For example, *I have it from the horse's mouth that he plans to retire next month.* Also put as **straight from the horse's mouth,** this expression alludes to examining a horse's teeth to determine its age and hence its worth. [1920s]"
+    "id": "philadelphia-lawyer",
+    "term": "Philadelphia lawyer",
+    "definition": "A shrewd attorney, adept at dealing with legal technicalities, as in *It would take a Philadelphia lawyer to get him off.* This expression dates from the late 1700s and, as lexicographer Richard H. Thornton observed: \"Why members of the Philadelphia bar should be credited with superhuman sagacity has never been satisfactorily explained.\""
   },
   "person": {
-    "id": "eldridge-cleaver",
-    "name": "Eldridge Cleaver",
-    "dates": "Aug 31, 1935 - May 1, 1998",
-    "mainImg": "img/people/eldridge-cleaver.jpg",
+    "id": "pope-pius-xii",
+    "name": "Pope Pius XII",
+    "dates": "Mar 2, 1876 - Oct 9, 1958",
+    "mainImg": "img/people/pope-pius-xii.jpg",
     "summary": [
-      "Leroy Eldridge Cleaver was an American writer, and political activist who became an early leader of the Black Panther Party.",
-      "In 1968, Cleaver wrote Soul on Ice, a collection of essays that, at the time of its publication, was praised by The New York Times Book Review as \"brilliant and revealing\". Cleaver stated in Soul on Ice: \"If a man like Malcolm X could change and repudiate racism, if I myself and other former Muslims can change, if young whites can change, then there is hope for America.\"",
-      "Cleaver went on to become a prominent member of the Black Panthers, having the titles Minister of Information and Head of the International Section of the Panthers, while a fugitive from the United States criminal justice system in Cuba and Algeria. He became a fugitive after leading an ambush on Oakland police officers, during which two officers were wounded. Cleaver was also wounded during the ambush and Black Panther member Bobby Hutton was killed. As editor of the official Panthers' newspaper, The Black Panther, Cleaver's influence on the direction of the Party was rivaled only by founders Huey P. Newton and Bobby Seale."
+      "Pope Pius XII, born Eugenio Maria Giuseppe Giovanni Pacelli, was head of the Catholic Church and sovereign of the Vatican City State from 2 March 1939 to 1958 when he died. Before his election to the papacy, he served as secretary of the Department of Extraordinary Ecclesiastical Affairs, papal nuncio to Germany, and Cardinal Secretary of State, in which capacity he worked to conclude treaties with European and Latin American nations, such as the Reichskonkordat with Nazi Germany.",
+      "While the Vatican was officially neutral during World War II, the Reichskonkordat and his leadership of the Catholic Church during the war remain the subject of controversy—including allegations of public silence and inaction about the fate of the Jews. After the war, he advocated peace and reconciliation, including lenient policies towards former Axis and Axis-satellite nations.",
+      "During his papacy, the Church issued the Decree against Communism, declaring that Catholics who profess Communist doctrine are to be excommunicated as apostates from the Christian faith. The Church experienced severe persecution and mass deportations of Catholic clergy in the Eastern Bloc."
     ],
-    "quote": "“History could pass for a scarlet text, its jot and title graven red in human blood.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Eldridge_Cleaver",
-    "urlGoogle": "https://artsandculture.google.com/entity/eldridge-cleaver/m018v_8"
+    "quote": "“Feeding the birds is also a form of prayer.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Pope_Pius_XII",
+    "urlGoogle": "https://artsandculture.google.com/entity/pope-pius-xii/m05yhb"
   },
   "place": {
-    "id": "opole",
-    "name": "Opole",
-    "mainImg": "img/places/opole.jpg",
+    "id": "russian-soviet-federative-socialist-republic",
+    "name": "Russian Soviet Federative Socialist Republic",
+    "mainImg": "img/places/russian-soviet-federative-socialist-republic.jpg",
     "summary": [
-      "Opole is a city located in southern Poland on the Oder River and the historical capital of Upper Silesia. With a population of approximately 128,137, it is the capital of Opole Voivodeship and the seat of Opole County. With its long history dating back to the 8th century, Opole is one of the oldest cities in Poland. It is also the smallest city in Poland to be the largest city in the province.",
-      "The origins of the first settlement are connected with the town being granted Magdeburg Rights in 1217 by Casimir I of Opole, the great-grandson of Polish Duke Bolesław III Wrymouth. During the Medieval Period and the Renaissance the city was known as a centre of commerce due to its position on the intersection of several main trade routes, which helped to generate steady profits from transit trade. The rapid development of the town was also caused by the establishment of a seat of regency in Opole in 1816. The first railway connection between Oppeln, Brieg and Breslau was opened in 1843 and the first manufacturing plants were constructed in 1859, which greatly contributed to the city's regional significance."
+      "The Russian Soviet Federative Socialist Republic, previously known as the Russian Soviet Republic and the Russian Socialist Federative Soviet Republic as well as being unofficially known as Soviet Russia, Russian Federation or simply Russia, was an independent state from 1917 to 1922, and afterwards the largest and most populous of the Soviet socialist republics of the Soviet Union from 1922 to 1991, until becoming a sovereign part of the Soviet Union with priority of Russian laws over Union-level legislation in 1990 and 1991, the last two years of the existence of the USSR. The Russian Republic was composed of sixteen smaller constituent units of autonomous republics, five autonomous oblasts, ten autonomous okrugs, six krais and forty oblasts. Russians formed the largest ethnic group. The capital of the Russian SFSR was Moscow and the other major urban centers included Leningrad, Novosibirsk, Sverdlovsk, Gorky and Kuybishev.",
+      "The economy of Russia became heavily industrialized, accounting for about two-thirds of the electricity produced in the USSR."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Opole",
-    "urlGoogle": "https://artsandculture.google.com/entity/opole/m0jx51"
+    "urlWiki": "https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic",
+    "urlGoogle": "https://artsandculture.google.com/entity/russian-soviet-federative-socialist-republic/m01mzwp"
   },
   "wiki": {
-    "id": "cutthroat-trout",
-    "name": "Cutthroat trout",
-    "summary": "The cutthroat trout (Oncorhynchus clarki) is a fish species of the family Salmonidae native to cold-water tributaries of the Pacific Ocean, Rocky Mountains and Great Basin in North America. Cutthroat trout are popular gamefish, especially among anglers who enjoy fly fishing. The common name \"cutthroat\" refers to the distinctive red coloration on the underside of the lower jaw. The specific name clarki was given to honor explorer William Clark, coleader of the Lewis and Clark Expedition. Cutthroat trout usually inhabit and spawn in small to moderately large, clear, well-oxygenated, shallow rivers with gravel bottoms. They also reproduce in clear, cold, moderately deep lakes. They are native to the alluvial or freestone streams that are typical tributaries of the Pacific basin, Great Basin and Rocky Mountains. Cutthroat trout spawn in the spring and may inadvertently but naturally hybridize with rainbow trout, producing fertile cutbows. Several subspecies of cutthroat trout are currently listed as threatened due to habitat loss and the introduction of non-native species. The cutthroat trout type species and several subspecies are the official state fish of seven western U.S. states.",
-    "url": "https://en.wikipedia.org/wiki/Cutthroat_trout"
+    "id": "johannesburg",
+    "name": "Johannesburg",
+    "summary": "Johannesburg is the most populous city in South Africa and the second-most populous city in Sub-Saharan Africa, behind Lagos. Johannesburg is the provincial capital of Gauteng Province, the wealthiest province in South Africa, and the site of the South African Constitutional Court. It is one of the newest major cities in the world, and is one of the few major cities in the world not along a coast or near a large river. Johannesburg is the site of a large-scale gold and diamond trade due to its location on the mineral-rich Witwatersrand. Johannesburg is also served by Johannesburg International Airport, the largest and busiest airport in Africa and the gateway for international air travel to and from the rest of South Africa. According to the 2001 Census, the population of the city is more than three million in a land area of 1,644 km². The city is one of the 35 largest metropolitan areas in the world.",
+    "url": "https://en.wikipedia.org/wiki/Johannesburg"
   },
   "word": {
-    "id": "glom",
-    "word": "glom",
-    "url": "https://www.merriam-webster.com/dictionary/glom",
-    "partOfSpeech": "verb",
-    "pronunciation": "GLAHM",
-    "audioPath": "audio/words/glom.mp3",
-    "definitions": ["take, steal", "seize, catch"],
+    "id": "gadarene",
+    "word": "gadarene",
+    "url": "https://www.merriam-webster.com/dictionary/gadarene",
+    "partOfSpeech": "adjective",
+    "pronunciation": "GAD-uh-reen",
+    "audioPath": "audio/words/gadarene.mp3",
+    "definitions": ["headlong, precipitate"],
     "examples": [
-      "“She signed an affidavit of confession attesting she glommed more than $284,000, the company contends.” (Frank Donnelly, _Staten Island Advance_, September 15, 2008)"
+      "Ross has criticized his company for joining the gadarene rush into the global market."
     ],
-    "origin": "It's a classic case of glomming: Americans seized on \"glaum\" (a term from Scots dialect that basically means \"grab\") and appropriated it as our own, changing it to \"glom\" in the process. \"Glom\" first meant \"steal\" (as in the purse-snatching, robber kind of stealing), but over time that meaning got stretched. Today, \"glom\" often figuratively extends that original \"steal\" sense. A busy professional might glom a weekend getaway, for example. \"Glom\" also appears frequently in the phrase \"glom on to,\" which can mean \"to appropriate for one's own use\" (\"glom on to another's idea\"); \"to grab hold of\" (\"glom on to the last cookie\"); or \"to latch on to\" (\"glom on to an opinion\" or \"glom on to an influential friend\")."
+    "origin": "Gadara, in Biblical times, was a steep hill town just southeast of the Sea of Galilee. In the account given in the book of Matthew (8:28), Jesus, on a visit there, exorcised the demons from two possessed people and sent the demons into some nearby swine. The possessed swine ran in a mad dash down a steep bank into the Sea and drowned. “Gadarene,” an adjective used to describe a headlong rush (and often capitalized in recognition of its origin), made its first known plunge into our lexicon in the 1920s. The swine sometimes make an appearance as well, as when an imprudently hasty act is compared to “the rush of the Gadarene swine.”"
   }
 }

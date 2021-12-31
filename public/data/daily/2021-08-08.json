@@ -1,135 +1,132 @@
 {
   "artist": {
-    "id": "odilon-redon",
-    "name": "Odilon Redon",
-    "dates": "Apr 22, 1840 - Jul 6, 1916",
-    "mainImg": "img/art/artists/odilon-redon.jpg",
+    "id": "ferdinand-bol",
+    "name": "Ferdinand Bol",
+    "dates": "Jun 24, 1616 - Aug 24, 1680",
+    "mainImg": "img/art/artists/ferdinand-bol.jpg",
     "artworkImgs": [
       {
-        "name": "Muse on Pegasus",
-        "path": "img/art/artworks/odilon-redon-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/muse-on-pegasus-odilon-redon/mAGZ99AKVTHnNw"
+        "name": "Michiel de Ruyter as Lieutenant-Admiral",
+        "path": "img/art/artworks/ferdinand-bol-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/michiel-de-ruyter-as-lieutenant-admiral-ferdinand-bol/XAGCyCudu8g6Xw"
       },
       {
-        "name": "To Edgar Poe (The Eye, Like a Strange Balloon, Mounts toward Infinity) [À Edgar Poe (L'oeil, comme un ballon bizarre se dirige vers l'infini)]",
-        "path": "img/art/artworks/odilon-redon-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/to-edgar-poe-the-eye-like-a-strange-balloon-mounts-toward-infinity-à-edgar-poe-l-oeil-comme-un-ballon-bizarre-se-dirige-vers-l-infini-odilon-redon/CQHTxKYrM1sGCA"
+        "name": "Consul Titus Manlius Torquatus Orders the Beheading of his Son",
+        "path": "img/art/artworks/ferdinand-bol-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/consul-titus-manlius-torquatus-orders-the-beheading-of-his-son-ferdinand-bol/7QEgBB09erXRZw"
       },
       {
-        "name": "The Chariot of Apollo",
-        "path": "img/art/artworks/odilon-redon-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-chariot-of-apollo-odilon-redon/1gHvb12pom3h6A"
+        "name": "Roelof Meulenaer (1618/19-1691). Amsterdam Mercantile Courier or Postmaster on the Antwerp Route",
+        "path": "img/art/artworks/ferdinand-bol-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/roelof-meulenaer-1618-19-1691-amsterdam-mercantile-courier-or-postmaster-on-the-antwerp-route-ferdinand-bol/YAG6FoqgygYZRA"
       },
       {
-        "name": "The Celestial Art",
-        "path": "img/art/artworks/odilon-redon-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-celestial-art-odilon-redon/HAEJXeQ2eR9F7w"
+        "name": "Portrait of a Young Man, presumably Louis Trip Jr (1638-1655)",
+        "path": "img/art/artworks/ferdinand-bol-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-young-man-presumably-louis-trip-jr-1638-1655-bol-ferdinand/-gE31k7OZDMjQQ"
       },
       {
-        "name": "Yeux Clos (Closed Eyes)",
-        "path": "img/art/artworks/odilon-redon-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/yeux-clos-closed-eyes-odilon-redon/YgHKCBkqycuUMA"
+        "name": "Aeneas at the Court of Latinus",
+        "path": "img/art/artworks/ferdinand-bol-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/aeneas-at-the-court-of-latinus-ferdinand-bol/7QEdHirCaItWKQ"
       },
       {
-        "name": "Bell-Tower Keeper",
-        "path": "img/art/artworks/odilon-redon-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/bell-tower-keeper-odilon-redon/FwFrHTGzpewD4w"
+        "name": "Portrait of the Three Regentesses of the Leprozenhuis, Amsterdam",
+        "path": "img/art/artworks/ferdinand-bol-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-the-three-regentesses-of-the-leprozenhuis-amsterdam-ferdinand-bol/RwEcb8XtE8cInw"
       }
     ],
     "summary": [
-      "Odilon Redon was a French symbolist painter, printmaker, draughtsman and pastellist.",
-      "Early in his career, both before and after fighting in the Franco-Prussian War, he worked almost exclusively in charcoal and lithography, works referred to as noirs. He started gaining recognition after his drawings were mentioned in the 1884 novel À rebours by Joris-Karl Huysmans. During the 1890s he began working in pastel and oils, which quickly became his favourite medium, abandoning his previous style of noirs completely after 1900. He also developed a keen interest in Hindu and Buddhist religion and culture, which increasingly showed in his work.",
-      "He is perhaps best known today for the \"dreamlike\" paintings created in the first decade of the 20th century, which were heavily inspired by Japanese art and which, while continuing to take inspiration from nature, heavily flirted with abstraction. His work is considered a precursor to both Dadaism and Surrealism."
-    ],
-    "quote": "“While I recognize the necessity for a basis of observed reality... true art lies in a reality that is felt.”",
-    "movements": ["Symbolism", "Post-Impressionism", "Modern art", "Naturalism", "Impressionism"],
-    "mediums": ["Etching", "Oil paint", "Drawing", "Charcoal", "Ink", "Watercolor painting"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Odilon_Redon",
-    "urlGoogle": "https://artsandculture.google.com/entity/odilon-redon/m015ymr"
-  },
-  "event": {
-    "id": "interwar-period",
-    "name": "Interwar period",
-    "dates": "Nov 11, 1918 - Sep 1, 1939",
-    "mainImg": "img/events/interwar-period.jpg",
-    "summary": [
-      "In the context of the history of the 20th century, the interwar period was the period between the end of the First World War on November 11, 1918 and the beginning of the Second World War on September 1, 1939. This period is also colloquially referred to as Between the Wars.",
-      "Despite the relatively short period of time, this period represented an era of significant changes worldwide. Petroleum-based energy production and associated mechanisation expanded dramatically leading to the Roaring Twenties, a period of economic prosperity and growth for the middle class in North America, Europe, Asia, and many other parts of the world. Automobiles, electric lighting, radio broadcasts and more became commonplace among populations in the developed world. The indulgences of this era subsequently were followed by the Great Depression, an unprecedented worldwide economic downturn which severely damaged many of the world's largest economies.",
-      "Politically, this era coincided with the rise of communism, starting in Russia with the October Revolution and Russian Civil War, at the end of World War I, and ended with the rise of fascism, particularly in Germany and in Italy."
+      "Ferdinand Bol was a Dutch painter, etcher and draftsman. Although his surviving work is rare, it displays Rembrandt's influence; like his master, Bol favored historical subjects, portraits, numerous self-portraits, and single figures in exotic finery."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Interwar_period",
-    "urlGoogle": "https://artsandculture.google.com/entity/interwar-period/m03n2nw"
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Etching", "Oil paint", "Pen", "Ink", "Laid paper", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ferdinand_Bol",
+    "urlGoogle": "https://artsandculture.google.com/entity/ferdinand-bol/m072zsf"
+  },
+  "event": {
+    "id": "doolittle-raid",
+    "name": "Doolittle Raid",
+    "dates": null,
+    "mainImg": "img/events/doolittle-raid.jpg",
+    "summary": [
+      "The Doolittle Raid, also known as the Tokyo Raid, was an air raid on 18 April 1942 by the United States on the Japanese capital Tokyo and other places on Honshu during World War II. It was the first air operation to strike the Japanese archipelago. It demonstrated that the Japanese mainland was vulnerable to American air attack, served as retaliation for the attack on Pearl Harbor, and provided an important boost to American morale. The raid was planned, led by, and named after Lieutenant Colonel James Doolittle, later General of the United States Air Force.",
+      "Sixteen B-25B Mitchell medium bombers were launched without fighter escort from the U.S. Navy's aircraft carrier USS Hornet deep in the Western Pacific Ocean, each with a crew of five men. The plan called for them to bomb military targets in Japan and to continue westward to land in China. The bombing raid killed about 50 people, including civilians, and injured 400. Fifteen aircraft reached China but all crashed, while the 16th landed at Vladivostok in the Soviet Union. Of the 80 crew members, 77 survived the mission. Eight airmen were captured by Japanese Army troops in China; three were later executed."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Doolittle_Raid",
+    "urlGoogle": "https://artsandculture.google.com/entity/doolittle-raid/m015381"
   },
   "funFacts": [
     {
-      "id": "746",
-      "fact": "The only insect that can turn its head is a praying mantis",
-      "category": ["Animals"]
+      "id": "831",
+      "fact": "Adults laugh only about 15 to 100 times a day, while six-year-olds laugh an average of 300 times a day.",
+      "category": ["Habits"]
     },
     {
-      "id": "22",
-      "fact": "Alaska has the highest percentage of people who walk to work.",
-      "category": ["Geography", "Habits"]
+      "id": "333",
+      "fact": "Long Island is the largest island in the Continental U.S.",
+      "category": ["Geography"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554004",
-      "fact": "Nostrils take turns receiving the majority of the air you breathe, which explains why one is usually stuffier than the other."
+      "id": "522157",
+      "fact": "According to NASA, it possibly rains glass on the planet known as HD 189733b."
     }
   ],
   "idiom": {
-    "id": "cheesed-off",
-    "term": "cheesed off",
-    "definition": "Angry, fed up, annoyed, as in *I'm cheesed off about watering their plants twice a week.* This term was originally military slang and sometimes put simply as **cheesed.** [Slang; mid-1900s]"
+    "id": "clean-someones-clock",
+    "term": "clean someone's clock",
+    "definition": "Beat, thrash, or defeat someone decisively, as in *He's much bigger than you and could easily clean your clock.* This term originated in the military. The use of *clock* is unclear but possibly alludes to hitting someone in the face (for \"clockface\"). [Slang; mid-1900s]"
   },
   "person": {
-    "id": "henry-morgenthau-jr",
-    "name": "Henry Morgenthau Jr.",
-    "dates": "May 11, 1891 - Feb 6, 1967",
-    "mainImg": "img/people/henry-morgenthau-jr.jpg",
+    "id": "robert-jenkinson-2-nd-earl-of-liverpool",
+    "name": "Robert Jenkinson, 2nd Earl of Liverpool",
+    "dates": "Jun 7, 1770 - Dec 4, 1828",
+    "mainImg": "img/people/robert-jenkinson-2-nd-earl-of-liverpool.jpg",
     "summary": [
-      "Henry Morgenthau Jr. was the United States Secretary of the Treasury during most of the administration of Franklin D. Roosevelt. He played a major role in designing and financing the New Deal. After 1937, while still in charge of the Treasury, he played the central role in financing United States participation in World War II. He also played an increasingly major role in shaping foreign policy, especially with respect to Lend-Lease, support for China, helping Jewish refugees, and proposing to prevent Germany from again being a military threat by wrecking its industry and mines.",
-      "Morgenthau was the father of Robert M. Morgenthau, who was District Attorney of Manhattan for 35 years and Henry Morgenthau III, an American author and television producer. He continued as treasury secretary through the first few months of Harry Truman's presidency, and from June 27, 1945 to July 3, 1945, following the resignation of Secretary of State Edward Stettinius Jr., was next in line to the presidency. Morgenthau was the first and only Jew to be first in the presidential line of succession."
+      "Robert Banks Jenkinson, 2nd Earl of Liverpool, KG, PC, FRS, was a British statesman and Prime Minister.",
+      "As Prime Minister, Liverpool called for repressive measures at domestic level to maintain order after the Peterloo Massacre of 1819. He dealt smoothly with the Prince Regent when King George III was incapacitated. He also steered the country through the period of radicalism and unrest that followed the Napoleonic Wars. He favoured commercial and manufacturing interests as well as the landed interest. He sought a compromise of the heated issue of Catholic emancipation. The revival of the economy strengthened his political position. By the 1820s he was the leader of a reform faction of \"Liberal Tories\" who lowered the tariff, abolished the death penalty for many offences, and reformed the criminal law. By the time of his death, however, the Tory Party was ripping itself apart.",
+      "Historian John Derry says he was:",
+      "[A] capable and intelligent statesman, whose skill in building up his party, leading the country to victory in the war against Napoleon, and laying the foundations for prosperity outweighed his unpopularity in the immediate post-Waterloo years."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Morgenthau_Jr.",
-    "urlGoogle": "https://artsandculture.google.com/entity/henry-morgenthau-jr/m02sl0c"
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Jenkinson,_2nd_Earl_of_Liverpool",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-jenkinson-2nd-earl-of-liverpool/m01hvy0"
   },
   "place": {
-    "id": "lucknow",
-    "name": "Lucknow",
-    "mainImg": "img/places/lucknow.jpg",
+    "id": "lowell",
+    "name": "Lowell",
+    "mainImg": "img/places/lowell.jpg",
     "summary": [
-      "Lucknow is the capital city of the Indian state of Uttar Pradesh, and is also the administrative headquarters of the eponymous district and division. It is the fourteenth-most populous city and the twelfth-most populous urban agglomeration of India. Lucknow has always been a multicultural city that flourished as a North Indian cultural and artistic hub, and the seat of power of Nawabs in the 18th and 19th centuries. It continues to be an important centre of governance, administration, education, commerce, aerospace, finance, pharmaceuticals, technology, design, culture, tourism, music and poetry.",
-      "The city stands at an elevation of approximately 123 metres above sea level. Lucknow district covers an area of 2,528 square kilometres. Bounded on the east by Barabanki, on the west by Unnao, on the south by Raebareli and in the north by Sitapur and Hardoi, Lucknow sits on the northwestern shore of the Gomti River.",
-      "Historically, Lucknow was the capital of the Awadh region, controlled by the Delhi Sultanate and later the Mughal Empire. It was transferred to the Nawabs of Awadh."
+      "Lowell is a city in the U.S. Commonwealth of Massachusetts. Located in Middlesex County, Lowell was a county seat until Massachusetts disbanded county government in 1999. With an estimated population of 110,997 in 2019, it was the fourth-largest city in Massachusetts as of the last census and is estimated to be the fifth-largest as of 2018, and the second-largest in the Boston metropolitan statistical area. The city is also part of a smaller Massachusetts statistical area called Greater Lowell, as well as New England's Merrimack Valley region.",
+      "Incorporated in 1826 to serve as a mill town, Lowell was named after Francis Cabot Lowell, a local figure in the Industrial Revolution. The city became known as the cradle of the American Industrial Revolution, due to a large series of textile mills and factories. Many of the Lowell's historic manufacturing sites were later preserved by the National Park Service to create Lowell National Historical Park. During the Cambodian genocide, the city took in an influx of refugees, leading to a Cambodia Town and America's second-largest Cambodian-American population.",
+      "Lowell is home to two institutions of higher education."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Lucknow",
-    "urlGoogle": "https://artsandculture.google.com/entity/lucknow/m022tq4"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lowell,_Massachusetts",
+    "urlGoogle": "https://artsandculture.google.com/entity/lowell/m0t_3w"
   },
   "wiki": {
-    "id": "kochi-india",
-    "name": "Kochi (India)",
-    "summary": "Kochi is a city in the Indian state of Kerala, and one of the principal seaports of the country. Kochi is located in the district of Ernakulam, about 220 km north of the state capital Thiruvananthapuram. The city has an estimated population of 650,000, with an extended metropolitan population of over 1.6 million, making it the largest urban agglomeration and the second largest city in Kerala. Since 1102, the city of Kochi was the seat of an eponymous princely state which traces its lineages to the Kulasekhara empire. Occupied by the Portuguese since 1503, Kochi was the site of the first European colonial settlement in India. It remained the capital of Portuguese India till 1530, before Goa became the capital. A growing centre of information technology, tourism and international trade, Kochi is the commercial hub of Kerala, and one of the fastest growing second-tier metros in India. Like other large cities in the developing world, Kochi continues to struggle with urbanisation problems like poor sanitation and traffic congestion.",
-    "url": "https://en.wikipedia.org/wiki/Kochi_(India)"
+    "id": "waddesdon-road-railway-station",
+    "name": "Waddesdon Road railway station",
+    "summary": "Waddesdon Road railway station was a small halt in open countryside in Buckinghamshire, England. It was opened in 1871 as part of a short horse-drawn tramway to assist with the transport of goods from and around the Duke of Buckingham's extensive estates in Buckinghamshire and to connect the Duke's estates to the Aylesbury and Buckingham Railway at Quainton Road. In 1872 the line was expanded and converted for passenger use, becoming known as the Brill Tramway. In 1899 the operation of the line was taken over by the London-based Metropolitan Railway. In 1933 the Metropolitan Railway was taken into public ownership to become the Metropolitan Line of the London Underground, and despite its rural setting Waddesdon Road station became a part of the London Transport system. The new management could not see a future for the line as a financially viable passenger route, and Waddesdon Road, along with the rest of the former Brill Tramway, was closed in late 1935.",
+    "url": "https://en.wikipedia.org/wiki/Waddesdon_Road_railway_station"
   },
   "word": {
-    "id": "pleonasm",
-    "word": "pleonasm",
-    "url": "https://www.merriam-webster.com/dictionary/pleonasm",
-    "partOfSpeech": "noun",
-    "pronunciation": "PLEE-uh-naz-um",
-    "audioPath": "audio/words/pleonasm.mp3",
-    "definitions": [
-      "the use of more words than those necessary to denote mere sense : redundancy",
-      "an instance or example of pleonasm"
-    ],
+    "id": "virescent",
+    "word": "virescent",
+    "url": "https://www.merriam-webster.com/dictionary/virescent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "vuh-RESS-unt",
+    "audioPath": "audio/words/virescent.mp3",
+    "definitions": ["beginning to be green : greenish"],
     "examples": [
-      "\"One pleonasm that bugs me is 'free gift,'\" said Donna. \"After all, how can anything be a gift if it isn't free?\""
+      "Buds formed on the bare trees, infusing the stark branches with a slight _virescent_ tint.",
+      "\"While Heisman Trophy winner and National Football League quarterback Tim Tebow read 'Green Eggs and Ham,' during Dr. Seuss Week, Lincoln Elementary kindergarten teacher Mary Jo Bures quietly slipped away to a meeting. None of the kindergartners noticed, their eyes fixated on the screen, their ears absorbing the story of Sam I Am and his never wavering quest to get the narrator to try the _virescent_ foods.\" - From an article by Chris Dunker in the _Beatrice Daily Sun_ (Nebraska), February 25, 2014"
     ],
-    "origin": "\"Pleonasm,\" which stems via Late Latin from the Greek verb \"pleonazein\" (\"to be excessive\"), is a fancy word for \"redundancy.\" It's related to our words \"plus\" and \"plenty,\" and ultimately it goes back to the Greek word for \"more,\" which is \"pleōn.\" Pleonasm is commonly considered a fault of style, but it can also serve a useful function. \"Extra\" words can sometimes be helpful to a speaker or writer in getting a message across, adding emphasis, or simply adding an appealing sound and rhythm to a phrase -- as, for example, with the pleonasm \"I saw it with my own eyes!\""
+    "origin": "\"Virescent\" first appeared in English in 1826. It derives from the present participle of \"virescere,\" a Latin verb meaning \"to become green\" and a form of another verb, \"virēre,\" meaning \"to be green.\" \"Virēre\" also gave us another adjective meaning green, \"verdant,\" only the route to that adjective takes a stop at Old French \"verdoier\" (\"to be green\"). \"Virescent\" has seen occasional general use, as when Thomas Hardy wrote, in his 1881 novel _A Laodicean_, of \"\\[t\\]he summer … tipping every twig with a virescent yellow.\" But it is nowadays found most frequently in scientific contexts, especially those pertaining to botany."
   }
 }

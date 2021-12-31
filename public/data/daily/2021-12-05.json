@@ -1,0 +1,122 @@
+{
+  "artist": {
+    "id": "orazio-gentileschi",
+    "name": "Orazio Gentileschi",
+    "dates": "Jul 9, 1563 - Feb 7, 1639",
+    "mainImg": "img/art/artists/orazio-gentileschi.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Stigmatization of Saint Francis",
+        "path": "img/art/artworks/orazio-gentileschi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-stigmatization-of-saint-francis-orazio-gentileschi/FgGpJOf7c76dBQ"
+      },
+      {
+        "name": "Portrait of a Young Woman as a Sibyl",
+        "path": "img/art/artworks/orazio-gentileschi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-young-woman-as-a-sibyl-orazio-gentileschi/lwGEYDqyr4GbQw"
+      },
+      {
+        "name": "Saint Cecilia and an Angel",
+        "path": "img/art/artworks/orazio-gentileschi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-cecilia-and-an-angel-orazio-gentileschi-and-giovanni-lanfranco/_wFbSo5r7FpO1A"
+      },
+      {
+        "name": "David and Goliath",
+        "path": "img/art/artworks/orazio-gentileschi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/david-and-goliath-orazio-gentileschi/YgFa-eKWnyKuHA"
+      },
+      {
+        "name": "The Finding of Moses",
+        "path": "img/art/artworks/orazio-gentileschi-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-finding-of-moses-orazio-gentileschi/NQFw7Rt79dfmGQ"
+      },
+      {
+        "name": "Lot and His Daughters",
+        "path": "img/art/artworks/orazio-gentileschi-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/lot-and-his-daughters-orazio-gentileschi/LgF4whTmt04asw"
+      }
+    ],
+    "summary": [
+      "Orazio Lomi Gentileschi was an Italian painter. Born in Tuscany, he began his career in Rome, painting in a Mannerist style, much of his work consisting of painting the figures within the decorative schemes of other artists. After 1600, he came under the influence of the more naturalistic style of Caravaggio. He received important commissions in Fabriano and Genoa before moving to Paris to the court of Marie de Medici. He spent the last part of his life at the court of Charles I of England. He was the father of the painter Artemisia Gentileschi."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Mannerism", "Renaissance", "Caravaggisti"],
+    "mediums": ["Oil paint", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Orazio_Gentileschi",
+    "urlGoogle": "https://artsandculture.google.com/entity/orazio-gentileschi/m05jzyn"
+  },
+  "event": {
+    "id": "watergate-scandal",
+    "name": "Watergate scandal",
+    "dates": null,
+    "mainImg": "img/events/watergate-scandal.jpg",
+    "summary": [
+      "The Watergate scandal was a political scandal in the United States involving the administration of U.S. President Richard Nixon from 1972 to 1974 that led to Nixon's resignation. The scandal stemmed from the Nixon administration's continuous attempts to cover up its involvement in the June 17, 1972 failed break-in of the Democratic National Committee headquarters at the Washington, D.C. Watergate Office Building. After the five perpetrators were arrested, the press and the U.S. Justice Department connected the cash found on them at the time to the Nixon re-election campaign committee. Further investigations, along with revelations during subsequent trials of the burglars, led the U.S. House of Representatives to grant its judiciary committee additional investigation authority to probe into \"certain matters within its jurisdiction\", and the U.S. Senate to create a special investigative committee. The resultant Senate Watergate hearings commenced were broadcast \"gavel-to-gavel\" nationwide by PBS and aroused public interest."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Watergate_scandal",
+    "urlGoogle": "https://artsandculture.google.com/entity/watergate-scandal/m0ds0x"
+  },
+  "funFacts": [
+    {
+      "id": "166",
+      "fact": "Before mercury, brandy was used to fill thermometers.",
+      "category": ["Science"]
+    },
+    {
+      "id": "901",
+      "fact": "The quartz crystal in your wristwatch vibrates 32,768 times a second.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "504760", "fact": "Goldfish can distinguish the music of one composer from another." }
+  ],
+  "person": {
+    "id": "jean-parisot-de-valette",
+    "name": "Jean Parisot de Valette",
+    "dates": "1494 - Aug 21, 1568",
+    "mainImg": "img/people/jean-parisot-de-valette.jpg",
+    "summary": [
+      "Fra' Jean \"Parisot\" de la Valette was a French nobleman and 49th Grand Master of the Order of Malta, from 21 August 1557 to his death in 1568. As a Knight Hospitaller, joining the order in the Langue de Provence, he fought with distinction against the Turks at Rhodes. As Grand Master, Valette became the Order's hero and most illustrious leader, commanding the resistance against the Ottomans at the Great Siege of Malta in 1565, sometimes regarded as one of the greatest sieges of all time.",
+      "The foundation stone of Valletta was laid by Grandmaster La Valette in 1566. He did not live to see Valletta completed, as he died in 1568 and was succeeded by Grandmaster Pierre de Monte."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean_Parisot_de_Valette",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-parisot-de-valette/m06b4rs"
+  },
+  "place": {
+    "id": "morelia",
+    "name": "Morelia",
+    "mainImg": "img/places/morelia.jpg",
+    "summary": [
+      "Morelia is a city and municipality in the north central part of the state of Michoacán in central Mexico. The city is in the Guayangareo Valley and is the capital and largest city of the state. The main pre-Hispanic cultures here were the Purépecha and the Matlatzinca, but no major cities were founded in the valley during this time. The Spanish took control of the area in the 1520s. The Spanish under Viceroy Antonio de Mendoza founded a settlement here in 1541 with the name of Valladolid, which became rival to the nearby city of Pátzcuaro for dominance in Michoacán. In 1580, this rivalry ended in Valladolid's favor and it became the capital of the colonial province. After the Mexican War of Independence, the city was renamed Morelia in honor of José María Morelos, who hailed from the city. In 1991, the city was declared a UNESCO World Heritage Site for its well-preserved colonial buildings and layout of the historic center."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Morelia",
+    "urlGoogle": "https://artsandculture.google.com/entity/morelia/m01btsy"
+  },
+  "wiki": {
+    "id": "oriel-college",
+    "name": "Oriel College",
+    "summary": "Oriel College is the fifth-oldest of the constituent colleges of the University of Oxford in the United Kingdom. Oriel has the distinction of being the oldest royal foundation in Oxford, a title formerly claimed by University College, whose claim of being founded by King Alfred is no longer promoted. The original medieval foundation set up by Adam de Brome, under the patronage of Edward II, was called the House of the Blessed Mary at Oxford. The first design allowed for a Provost and ten Fellows, called 'scholars', and the College remained a small body of graduate Fellows until the sixteenth century, when it started to admit undergraduates. During the English Civil War, Oriel played host to high-ranking members of the King's Oxford Parliament. The College has nearly 40 Fellows, about 300 undergraduates and some 160 graduates, the student body having roughly equal numbers of men and women. Oriel's notable alumni include two Nobel laureates; prominent Fellows have included John Keble and John Henry Newman, founders of the Oxford Movement. As of 2003, the college's estimated financial endowment is £63.5m.",
+    "url": "https://en.wikipedia.org/wiki/Oriel_College"
+  },
+  "word": {
+    "id": "jalousie",
+    "word": "jalousie",
+    "url": "https://www.merriam-webster.com/dictionary/jalousie",
+    "partOfSpeech": "noun",
+    "pronunciation": "JAL-uh-see",
+    "audioPath": "audio/words/jalousie.mp3",
+    "definitions": [
+      "a blind with adjustable horizontal slats for admitting light and air while excluding direct sun and rain",
+      "a window made of adjustable glass louvers that control ventilation"
+    ],
+    "examples": [
+      "The rooms of the little bungalow were protected from the brutal tropical heat by wooden _jalousies_.",
+      "\"The striated world visible through the slanted _jalousies_ above the queen-size beds is bright and green.\" -- Donovan Hohn's 2011 book _Moby-Duck: The True Story of 28,800 Bath Toys Lost at Sea and of the Beachcombers, Oceanographers, Environmentalists and Fools, Including the Author, Who Went in Search of Them_"
+    ],
+    "origin": "Etymologists are clear on the source of the word \"jalousie\" -- it's French for \"jealousy\" -- but the relationship between the emotion and the window treatments originally referred to as jalousies is not something they've speculated much about. Is it that those peering out through the original jalousie blinds were jealous of the people outside? Or is it more likely that the jealousy festered in the hearts of those outside, who could see the blinds but not the faces and lives of the people they hid? This excerpt from the October 23, 1766 entry in the Duchess of Northumberland's diary perhaps provides a clue: \"Rows of Seats with Jalousies in Front that \\[the women\\] may not be seen.\""
+  }
+}

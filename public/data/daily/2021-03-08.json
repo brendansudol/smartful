@@ -1,130 +1,132 @@
 {
   "artist": {
-    "id": "alessandro-magnasco",
-    "name": "Alessandro Magnasco",
-    "dates": "Feb 4, 1667 - Mar 12, 1749",
-    "mainImg": "img/art/artists/alessandro-magnasco.jpg",
+    "id": "gunter-brus",
+    "name": "Günter Brus",
+    "dates": "Born Sep 27, 1938",
+    "mainImg": "img/art/artists/gunter-brus.jpg",
     "artworkImgs": [
       {
-        "name": "Saint Carlo Borromeo Receiving the Oblates",
-        "path": "img/art/artworks/alessandro-magnasco-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-carlo-borromeo-receiving-the-oblates-alessandro-magnasco/-QGTxIqmXWahvQ"
+        "name": "Untitled",
+        "path": "img/art/artworks/gunter-brus-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-brus/MQGvOfI-UPo5yw"
       },
       {
-        "name": "The Tame Magpie",
-        "path": "img/art/artworks/alessandro-magnasco-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-tame-magpie-alessandro-magnasco/4QGJiQ3lYaHDkw"
+        "name": "A Walk in Vienna",
+        "path": "img/art/artworks/gunter-brus-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-walk-in-vienna-günter-brus/fwFJIGKaZANUng"
       },
       {
-        "name": "The Raising of Lazarus",
-        "path": "img/art/artworks/alessandro-magnasco-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-raising-of-lazarus-magnasco-alessandro/kAHEFExZ8Ybi3A"
+        "name": "Viennese Walk",
+        "path": "img/art/artworks/gunter-brus-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/viennese-walk/ZwFY7mk9xZ5I-Q"
       },
       {
-        "name": "Hermit in the Desert",
-        "path": "img/art/artworks/alessandro-magnasco-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/hermit-in-the-desert-magnasco-alessandro/vAHbO_WYBJQxQg"
+        "name": "Untitle",
+        "path": "img/art/artworks/gunter-brus-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/untitle-brus/ZQEroxQiFTyYrg"
       },
       {
-        "name": "The Raising of Lazarus",
-        "path": "img/art/artworks/alessandro-magnasco-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-raising-of-lazarus-alessandro-magnasco/gAEfHrdi45lMkQ"
+        "name": "Untitle",
+        "path": "img/art/artworks/gunter-brus-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/untitle-brus/xwEr-0y_SdzfRw"
       },
       {
-        "name": "Garden Party in Albaro",
-        "path": "img/art/artworks/alessandro-magnasco-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/garden-party-in-albaro-alessandro-magnasco/MAHXZp-pEusujA"
+        "name": "Padiglione Roma",
+        "path": "img/art/artworks/gunter-brus-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/padiglione-roma-writers/2gEClhYJaX1rNw"
       }
     ],
     "summary": [
-      "Alessandro Magnasco, also known as il Lissandrino, was an Italian late-Baroque painter active mostly in Milan and Genoa. He is best known for stylized, fantastic, often phantasmagoric genre or landscape scenes. Magnasco's distinctive style is characterized by fragmented forms rendered with swift brushstrokes and darting flashes of light."
+      "Günter Brus is an Austrian painter, performance artist, graphic artist, experimental filmmaker and writer.",
+      "Brus was a co-founder in 1964 of Viennese Actionism German: Wiener Aktionismus with Otto Muehl, Hermann Nitsch, and Rudolf Schwarzkogler. His aggressively presented actionism intentionally disregarded conventions and taboos, with the intent of shocking the viewer. Sentenced to 6 months in prison after the Kunst und Revolution event at the University of Vienna in 1968, he fled to Berlin with his family and returned to Austria in 1976. Brus urinated into a glass then proceeded to cover his body in his own excrement, and ended the piece by drinking his own urine. During the performance Brus also sang the Austrian National Anthem while masturbating. Brus ended the piece by vomiting and was subsequently arrested. Through this piece and his other performance works, Brus hoped to reveal the still fascist essence of the nation. Brus also was editor of the Schastrommel (author's edition) from 1969 on. He was involved into the NO!Art movement."
     ],
     "quote": null,
-    "movements": ["Baroque", "Rococo", "Renaissance"],
-    "mediums": ["Oil paint", "Drawing", "Ink", "Chalk", "Pigment", "Watercolor painting"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Alessandro_Magnasco",
-    "urlGoogle": "https://artsandculture.google.com/entity/alessandro-magnasco/m0bb7ls"
+    "movements": ["Street art"],
+    "mediums": ["Acrylic paint", "Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/G%C3%BCnter_Brus",
+    "urlGoogle": "https://artsandculture.google.com/entity/günter-brus/m08mt58"
   },
   "event": {
-    "id": "british-colonization-of-the-americas",
-    "name": "British colonization of the Americas",
-    "dates": "1607",
-    "mainImg": "img/events/british-colonization-of-the-americas.jpg",
+    "id": "hebrew-benevolent-congregation-temple-bombing",
+    "name": "Hebrew Benevolent Congregation Temple bombing",
+    "dates": null,
+    "mainImg": "img/events/hebrew-benevolent-congregation-temple-bombing.jpg",
     "summary": [
-      "The British colonization of the Americas describes the history of the establishment of control, settlement, and decolonization of the continents of the Americas by the Kingdom of England, the Kingdom of Scotland, and, after the union of those two countries in 1707, the Kingdom of Great Britain. Colonization efforts began in the 16th century with efforts by the Kingdom of England to establish colonies in North America, but the first permanent British colony was established in Jamestown in 1607. Over the next several centuries more colonies were established in North America, Central America, South America, and the Caribbean. Though most British colonies in the Americas eventually gained independence, some colonies have opted to remain under Britain's jurisdiction as British Overseas Territories.",
-      "North America had been inhabited by indigenous peoples for thousands of years of prior to 1492, but European exploration of North America began after Christopher Columbus's 1492 expedition across the Atlantic Ocean. English exploration of the continent commenced in the late 15th century, and Sir Walter Raleigh established short-lived Roanoke Colony in 1585."
+      "The Hebrew Benevolent Congregation Temple bombing occurred on October 12, 1958. The Hebrew Benevolent Congregation Temple, on Peachtree Street in Atlanta, Georgia, housed a Reform Jewish congregation. The building was damaged extensively by the dynamite-fueled explosion, although no one was injured. Five suspects were arrested almost immediately after the bombing. One of them, George Bright, was tried twice. His first trial ended with a hung jury and his second with an acquittal. As a result of Bright's acquittal the other suspects were not tried, and no one was ever convicted of the bombing."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/British_colonization_of_the_Americas",
-    "urlGoogle": "https://artsandculture.google.com/entity/british-colonization-of-the-americas/m0dt56"
+    "urlWiki": "https://en.wikipedia.org/wiki/Hebrew_Benevolent_Congregation_Temple_bombing",
+    "urlGoogle": "https://artsandculture.google.com/entity/hebrew-benevolent-congregation-temple-bombing/m0dtlww"
   },
   "funFacts": [
     {
-      "id": "980",
-      "fact": "When grazing or resting, cows tend to align their bodies with the magnetic north and south poles.",
-      "category": ["Animals"]
+      "id": "758",
+      "fact": "The only lizard that has a voice is the Gecko.",
+      "category": ["Animals", "Onlies"]
     },
-    { "id": "868", "fact": "Thomas Jefferson invented the coat hanger.", "category": ["History"] }
+    {
+      "id": "3",
+      "fact": "Beavers can hold their breath for 45 minutes under water.",
+      "category": ["Animals"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "522189",
-      "fact": "Norman Lloyd is Hollywood’s oldest working actor. The 104-year-old has worked with Charlie Chaplin, Robin Williams, and Amy Schumer."
+      "id": "554051",
+      "fact": "According to legend, and the official story from Nathan's, four immigrants held the first hot dog eating contest at Nathan's Famous stand on Coney Island on July 4, 1916 to prove who was the most patriotic."
     }
   ],
   "idiom": {
-    "id": "lock-the-barn-door-after-the-horse-has-bolted",
-    "term": "lock the barn door after the horse has bolted",
-    "definition": "Also, **lock the stable door after the horse is stolen.** Take precautions after damage has occurred. For example, *After the burglary they installed an alarm system, but it's locking the barn door,* or *Deciding to negotiate now after they've been fired---that's a matter of locking the stable door after the horse is stolen.* These expressions of action that is useless because it comes too late have long been proverbs in many languages and first appeared in English in the mid-1300s."
+    "id": "swan-song",
+    "term": "swan song",
+    "definition": "A final accomplishment or performance, one's last work. For example, *I'm resigning tomorrow; this project was my swan song.* This term alludes to the old belief that swans normally are mute but burst into beautiful song moments before they die. Although the idea is much older, the term was first recorded in English only in 1890."
   },
   "person": {
-    "id": "ludwig-erhard",
-    "name": "Ludwig Erhard",
-    "dates": "Feb 4, 1897 - May 5, 1977",
-    "mainImg": "img/people/ludwig-erhard.jpg",
+    "id": "harold-alexander-1-st-earl-alexander-of-tunis",
+    "name": "Harold Alexander, 1st Earl Alexander of Tunis",
+    "dates": "Dec 10, 1891 - Jun 16, 1969",
+    "mainImg": "img/people/harold-alexander-1-st-earl-alexander-of-tunis.jpg",
     "summary": [
-      "Ludwig Wilhelm Erhard was a German politician affiliated with the CDU, and the second Chancellor of the Federal Republic of Germany from 1963 until 1966. He is often famed for leading the West German postwar economic reforms and economic recovery in his role as Minister of Economic Affairs under Chancellor Konrad Adenauer from 1949 to 1963. During that period he promoted the concept of the social market economy, on which Germany's economic policy in the 21st century continues to be based. In his tenure as Chancellor, however, Erhard lacked support from Adenauer, who remained chairman of the party until 1966, and failed to win the public's confidence in his handling of a budget deficit and his direction of foreign policy. His popularity waned, and he resigned his chancellorship on 30 November 1966."
-    ],
-    "quote": "“A compromise is the art of dividing a cake in such a way that everyone believes he has the biggest piece.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Ludwig_Erhard",
-    "urlGoogle": "https://artsandculture.google.com/entity/ludwig-erhard/m0bj8n"
-  },
-  "place": {
-    "id": "india",
-    "name": "India",
-    "mainImg": "img/places/india.jpg",
-    "summary": [
-      "India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia.",
-      "Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago.",
-      "Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity. Settled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE."
+      "Field Marshal Harold Rupert Leofric George Alexander, 1st Earl Alexander of Tunis, KG, GCB, OM, GCMG, CSI, DSO, MC, CD, PC, PC was a senior British Army officer who served with distinction in both the First World War and the Second World War and, afterwards, as Governor General of Canada, the 17th since Canadian Confederation.",
+      "Alexander was born in London, England, to aristocratic parents and was educated at Harrow before moving on to the Royal Military College, Sandhurst, for training as an army officer of the Irish Guards. He rose to prominence through his service in the First World War, receiving numerous honours and decorations, and continued his military career through various British campaigns across Europe and Asia. In World War II, Alexander oversaw the final stages of the Allied evacuation from Dunkirk and subsequently held high-ranking field commands in Burma, North Africa and Italy, including serving as Commander-in-Chief Middle East and commanding the 18th Army Group in Tunisia. He then commanded the 15th Army Group for the capture of Sicily and again in Italy before receiving his field marshal's baton and being made Supreme Allied Commander Mediterranean."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/India",
-    "urlGoogle": "https://artsandculture.google.com/entity/india/m03rk0"
+    "urlWiki": "https://en.wikipedia.org/wiki/Harold_Alexander,_1st_Earl_Alexander_of_Tunis",
+    "urlGoogle": "https://artsandculture.google.com/entity/harold-alexander-1st-earl-alexander-of-tunis/m03r8l"
+  },
+  "place": {
+    "id": "guinea-bissau",
+    "name": "Guinea-Bissau",
+    "mainImg": "img/places/guinea-bissau.jpg",
+    "summary": [
+      "Guinea-Bissau, officially the Republic of Guinea-Bissau, is a country in West Africa that covers 36,125 square kilometres with an estimated population of 1,604,528. It borders Senegal to the north and Guinea to the south-east.",
+      "Guinea-Bissau was once part of the kingdom of Kaabu, as well as part of the Mali Empire. Parts of this kingdom persisted until the 18th century, while a few others were under some rule by the Portuguese Empire since the 16th century. In the 19th century, it was colonised as Portuguese Guinea. Upon independence, declared in 1973 and recognised in 1974, the name of its capital, Bissau, was added to the country's name to prevent confusion with Guinea. Guinea-Bissau has a history of political instability since independence, and only one elected president has successfully served a full five-year term.",
+      "Only about 2% of the population speaks Portuguese, the official language, as a first language, and 33% speak it as a second language. However, Creole is the national language and also considered the language of unity. According to a 2012 study, 54% of the population speak Creole as a first language and about 52% speak it as a second language."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Guinea-Bissau",
+    "urlGoogle": "https://artsandculture.google.com/entity/guinea-bissau/m036b_"
   },
   "quote": {
-    "id": "89",
-    "quote": "Yesterday's home runs don't win today's games.",
-    "author": "Babe Ruth"
+    "id": "91",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller"
   },
   "wiki": {
-    "id": "first-crusade",
-    "name": "First Crusade",
-    "summary": "The First Crusade was a crusade launched in 1095 by Pope Urban II to regain control of the sacred city of Jerusalem and the Christian Holy Land from Muslims. What started as a minor call for aid quickly turned into a wholesale migration and conquest of territory outside of Europe. Both knights and peasants from many different nations of western Europe, with little central leadership, travelled overland and by sea towards Jerusalem and captured the city in July 1099, establishing the Kingdom of Jerusalem and the other Crusader states. Although these gains lasted for fewer than 200 years, the Crusade was a major turning point in the expansion of Western power, and was the only crusade out of the many that followed to achieve its stated goal.",
-    "url": "https://en.wikipedia.org/wiki/First_Crusade"
+    "id": "canadian-senate",
+    "name": "Canadian Senate",
+    "summary": "The Canadian Senate is a component of the Parliament of Canada, which also includes the Sovereign and the House of Commons. The Senate is an unelected body, consisting of 105 members appointed by the Governor General on the advice of the Prime Minister. Senate seats are divided among the provinces, so that Ontario, Quebec, the Maritime provinces, and the Western provinces are equally represented. The Senate was established in 1867, when the British North America Act 1867 created the Dominion of Canada. Known as the \"Upper House\", the Senate, which meets at Parliament Hill, in Ottawa, Ontario, is far less powerful than the House of Commons (the \"Lower House\"). Although the approval of both Houses is necessary for legislation, the Senate very rarely rejects bills passed by the democratically elected Commons.",
+    "url": "https://en.wikipedia.org/wiki/Canadian_Senate"
   },
   "word": {
-    "id": "repugn",
-    "word": "repugn",
-    "url": "https://www.merriam-webster.com/dictionary/repugn",
+    "id": "inhere",
+    "word": "inhere",
+    "url": "https://www.merriam-webster.com/dictionary/inhere",
     "partOfSpeech": "verb",
-    "pronunciation": "rih-PYOON",
-    "audioPath": "audio/words/repugn.mp3",
-    "definitions": ["to contend against : oppose"],
-    "examples": [
-      "Over 450 students signed the petition _repugning_ the school board's decision to fire the popular teacher.",
-      "\"Still to come, bad blood between Bloom and Bieber. Will we ever know what happened when the movie star _repugns_ the pop star?\" - Lester Holt, _NBC News Transcripts_, August 2, 2014"
-    ],
-    "origin": "_Repugn_ is a word that was relatively common in English in the 16th and 17th centuries. These days, however, English speakers are more likely to be familiar with one of its close relatives, namely, the adjective _repugnant_, which formerly meant \"hostile\" but today most commonly means \"exciting distaste or aversion.\" The Latin root for both of these words is _pugnare_, meaning \"to fight.\" Other English derivatives from this root are _pugnacious_, meaning \"belligerent,\" and _impugn_, meaning \"to assail with words or arguments.\" Even _pungent_ is a relative of _pugnare_. Therefore, don’t try to _repugn_, or _impugn_ for that matter, the influence of _pugnare_ on our language-lest you appear pugnacious!"
+    "pronunciation": "in-HEER",
+    "audioPath": "audio/words/inhere.mp3",
+    "definitions": ["to be inherent : to be a fixed element or attribute"],
+    "examples": ["Competitiveness inheres in the successful athlete's nature."],
+    "origin": "You're probably familiar with \"inherent,\" the adjective meaning \"part of the constitution or natural character of something,\" but were you aware of its less common relative \"inhere\"? This verb looks like it could be a back-formation of \"inherent\" (a back-formation is a word created by removing a prefix or suffix from an existing word). But \"inhere\" is actually the older word. It first appeared in print in the 15th century, while \"inherent\" didn't show up until the late 16th century. Both are derived from the Latin verb \"inhaerēre\" (\"to inhere\"), which was itself formed by combining \"in-\" with \"haerēre,\" a verb meaning \"to adhere.\""
   }
 }

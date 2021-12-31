@@ -1,145 +1,134 @@
 {
   "artist": {
-    "id": "august-macke",
-    "name": "August Macke",
-    "dates": "Jan 3, 1887 - Sep 26, 1914",
-    "mainImg": "img/art/artists/august-macke.jpg",
+    "id": "shitao",
+    "name": "Shitao",
+    "dates": "1642 - 1707",
+    "mainImg": "img/art/artists/shitao.jpg",
     "artworkImgs": [
       {
-        "name": "Türkisches Café",
-        "path": "img/art/artworks/august-macke-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/türkisches-café-macke-august/TwFqXFVo-u_1Mw"
+        "name": "Music of Mountains and Waters",
+        "path": "img/art/artworks/shitao-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/music-of-mountains-and-waters-shi-tao/mwFUEwtNXYPoeg"
       },
       {
-        "name": "Four Girls",
-        "path": "img/art/artworks/august-macke-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/four-girls-august-macke/UAHsHa4eyw6w8g"
+        "name": "清 石濤(朱若極) 遊張公洞圖 卷|Outing to Zhang Gong's Grotto",
+        "path": "img/art/artworks/shitao-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/清-石濤-朱若極-遊張公洞圖-卷-outing-to-zhang-gong-s-grotto-shitao-zhu-ruoji/_gFQtDsZLGWJzQ"
       },
       {
-        "name": "Little Walter's Toys",
-        "path": "img/art/artworks/august-macke-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/little-walter-s-toys-august-macke/mAGBrBvNUnYDgg"
+        "name": "Album of Flowers and Portrait of Shitao - Peonies",
+        "path": "img/art/artworks/shitao-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/album-of-flowers-and-portrait-of-shitao-peonies-artist-attributed-to-shitao-seal-of-zhang-daqian-chang-dai-chien/TwGSpH8VZ2ldwQ"
       },
       {
-        "name": "Portrait with Apples",
-        "path": "img/art/artworks/august-macke-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-with-apples-macke-august/lgF1uQAGHxeaEA"
+        "name": "清 石濤(朱若極) 風雨竹圖 軸|Bamboo in Wind and Rain",
+        "path": "img/art/artworks/shitao-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/清-石濤-朱若極-風雨竹圖-軸-bamboo-in-wind-and-rain-shitao-zhu-ruoji/qQG3ZA-CutUwPA"
       },
       {
-        "name": "Milliner's Shop",
-        "path": "img/art/artworks/august-macke-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/milliner-s-shop-august-macke/7QGi6LO9tghIsw"
+        "name": "清 石濤 (朱若極) 山水圖 扇頁|Landscape",
+        "path": "img/art/artworks/shitao-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/清-石濤-朱若極-山水圖-扇頁-landscape-shitao-zhu-ruoji/5gEb9QoPyBYYFw"
       },
       {
-        "name": "People by the Blue Lake",
-        "path": "img/art/artworks/august-macke-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/people-by-the-blue-lake-august-macke/kAEMDazNS4IX9A"
+        "name": "清 石濤(朱若極) 四季山水圖 冊|Landscapes of the Four Seasons",
+        "path": "img/art/artworks/shitao-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/清-石濤-朱若極-四季山水圖-冊-landscapes-of-the-four-seasons-shitao-zhu-ruoji/gwFBcCBwOYvVEg"
       }
     ],
     "summary": [
-      "August Macke was a German Expressionist painter. He was one of the leading members of the German Expressionist group Der Blaue Reiter. He lived during a particularly innovative time for German art: he saw the development of the main German Expressionist movements as well as the arrival of the successive avant-garde movements which were forming in the rest of Europe. Like a true artist of his time, Macke knew how to integrate into his painting the elements of the avant-garde which most interested him."
+      "Shitao or Shi Tao, born into the Ming dynasty imperial clan as Zhu Ruoji, was a Chinese landscape painter in the early Qing Dynasty.",
+      "Born in Quanzhou County in Guangxi province, Shitao was a member of the royal house descended from the elder brother of Zhu Yuanzhang. He narrowly avoided catastrophe in 1644 when the Ming Dynasty fell to invading Manchus and civil rebellion. Having escaped by chance from the fate to which his lineage would have assigned him, He assumed the name Yuanji Shitao no later than 1651 when he became a Buddhist monk.",
+      "He moved from Wuchang, where he began his religious instruction, to Anhui in the 1660s. Throughout the 1680s he lived in Nanjing and Yangzhou, and in 1690 he moved to Beijing to find patronage for his promotion within the monastic system. Frustrated by his failure to find a patron, Shitao converted to Daoism in 1693 and returned to Yangzhou where he remained until his death in 1707. In his late years, he is said to have greeted Kangxi Emperor visiting Yangzhou. Geyuan Garden grows Chinese bamboo variations that Shitao himself loved."
     ],
     "quote": null,
-    "movements": [
-      "Modern art",
-      "Luminism",
-      "Expressionism",
-      "Der Blaue Reiter",
-      "German Expressionism",
-      "Cubism"
-    ],
-    "mediums": ["Oil paint", "Cardboard", "Watercolor painting", "Drawing", "Pencil", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/August_Macke",
-    "urlGoogle": "https://artsandculture.google.com/entity/august-macke/m02_dfv"
+    "movements": [],
+    "mediums": ["Ink", "Gold", "Metal", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Shitao",
+    "urlGoogle": "https://artsandculture.google.com/entity/shitao/m06blwm"
   },
   "event": {
-    "id": "yugoslav-wars",
-    "name": "Yugoslav Wars",
-    "dates": "1991 - 2001",
-    "mainImg": "img/events/yugoslav-wars.jpg",
+    "id": "velvet-revolution",
+    "name": "Velvet Revolution",
+    "dates": "Nov 17, 1989 - Dec 29, 1989",
+    "mainImg": "img/events/velvet-revolution.jpg",
     "summary": [
-      "The Yugoslav Wars were a series of separate but related ethnic conflicts, wars of independence and insurgencies fought in the former Yugoslavia from 1991 to 2001, which led to the breakup of the Yugoslav state. Its constituent republics declared independence, despite unresolved tensions between ethnic minorities in the new countries, fueling the wars.",
-      "Most of the wars ended through peace accords, involving full international recognition of new states, but with a massive human cost and economic damage to the region. Initially the Yugoslav People's Army sought to preserve the unity of the whole of Yugoslavia by crushing the secessionist governments, but it increasingly came under the influence of the Serbian government of Slobodan Milošević, which evoked Serbian nationalist rhetoric and was willing to use the Yugoslav cause to preserve the unity of Serbs in one state. As a result, the JNA began to lose Slovenes, Croats, Kosovar Albanians, Bosniaks, and ethnic Macedonians, and effectively became a Serb army. According to a 1994 United Nations report, the Serb side did not aim to restore Yugoslavia, but to create a \"Greater Serbia\" from parts of Croatia and Bosnia."
+      "The Velvet Revolution or Gentle Revolution was a non-violent transition of power in what was then Czechoslovakia, occurring from 17 November to 29 December 1989. Popular demonstrations against the one-party government of the Communist Party of Czechoslovakia included students and older dissidents. The result was the end of 41 years of one-party rule in Czechoslovakia, and the subsequent dismantling of the command economy and conversion to a parliamentary republic.",
+      "On 17 November 1989, riot police suppressed a student demonstration in Prague. The event marked the 50th anniversary of a violently suppressed demonstration against the Nazi storming of Prague University in 1939 where 1,200 students were arrested and 9 killed. The 1989 event sparked a series of demonstrations from 17 November to late December and turned into an anti-communist demonstration. On 20 November, the number of protesters assembled in Prague grew from 200,000 the previous day to an estimated 500,000. The entire top leadership of the Communist Party, including General Secretary Miloš Jakeš, resigned on 24 November. On 27 November, a two-hour general strike involving all citizens of Czechoslovakia was held."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
-    "urlGoogle": "https://artsandculture.google.com/entity/yugoslav-wars/m0286jd"
+    "urlWiki": "https://en.wikipedia.org/wiki/Velvet_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/velvet-revolution/m012_z5"
   },
   "funFacts": [
     {
-      "id": "748",
-      "fact": "A dog's average body temperature is 101 degrees Fahrenheit.",
-      "category": ["Animals"]
+      "id": "961",
+      "fact": "The aphid insect is born pregnant.",
+      "category": ["Animals", "Science"]
     },
     {
-      "id": "1010",
-      "fact": "Rats and mice are ticklish, and even laugh when tickled.",
-      "category": ["Animals", "Geography"]
+      "id": "807",
+      "fact": "Shakespeare invented the word assassination and bump.",
+      "category": ["History"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "553847",
-      "fact": "Green Eggs and Ham was banned in China from 1965 to 1991 for its “portrayal of early Marxism.”"
-    }
+    { "id": "553861", "fact": "There are beaches in the Maldives that glow in the dark." }
   ],
   "idiom": {
-    "id": "philadelphia-lawyer",
-    "term": "Philadelphia lawyer",
-    "definition": "A shrewd attorney, adept at dealing with legal technicalities, as in *It would take a Philadelphia lawyer to get him off.* This expression dates from the late 1700s and, as lexicographer Richard H. Thornton observed: \"Why members of the Philadelphia bar should be credited with superhuman sagacity has never been satisfactorily explained.\""
+    "id": "stuff-and-nonsense",
+    "term": "stuff and nonsense",
+    "definition": "Utter foolishness or absurdity, as in *Stuff and nonsense, of course I can pack a suitcase.* Often used as an interjection, this idiom employs *stuff* in the sense of \"rubbish.\" It was first recorded in 1749."
   },
   "person": {
-    "id": "simone-veil",
-    "name": "Simone Veil",
-    "dates": "Jul 13, 1927 - Jun 30, 2017",
-    "mainImg": "img/people/simone-veil.jpg",
+    "id": "dedan-kimathi",
+    "name": "Dedan Kimathi",
+    "dates": "Oct 31, 1920 - Feb 18, 1957",
+    "mainImg": "img/people/dedan-kimathi.jpg",
     "summary": [
-      "Simone Annie Liline Veil, Grand-croix; DBE was a French lawyer and politician who served as Minister of Health under Valéry Giscard d'Estaing, President of the European Parliament and member of the Constitutional Council of France.",
-      "A survivor of the Auschwitz-Birkenau concentration camp where she lost part of her family during the Holocaust; she served as the first president of the Fondation pour la Mémoire de la Shoah, from 2000 to 2007, and subsequently as honorary president. She was elected to the Académie française in November 2008. She was best known for ministerially pushing forward the law legalizing abortion in France on 17 January 1975. She and her husband were buried in the Panthéon on 1 July 2018. Only the fifth woman in history to be accorded this burial honor, she was eulogized during the reinterment ceremony by President Emmanuel Macron."
+      "Dedan Kimathi Waciuri, born Kimathi wa Waciuri, was the senior military and spiritual leader of the Mau Mau Uprising. Widely regarded as a revolutionary leader, he led the armed military struggle against the British colonial regime in Kenya in the 1950s until his execution in 1957.",
+      "Kimathi is credited with leading efforts to create formal military structures within the Mau Mau, and convening a war council in 1953. He along with Musa Mwariama and Muthoni Kirima was one of three Field Marshals. His capture in 1956 and execution the next year led to the decline of the uprising against the British colonial government. Before his execution, he wrote that he was \"...so busy and so happy preparing for heaven tomorrow.\"",
+      "Kenyan nationalists view him as the heroic figurehead of the Kenyan freedom struggle against British colonial rule, while the British government saw him as a terrorist. Despite being viewed with disdain by the Jomo Kenyatta and Daniel arap Moi governments, Kimathi and his fellow Mau Mau rebels have been officially recognised as heroes in the struggle for Kenyan independence since the Mwai Kibaki administration, culminating in the unveiling of a Kimathi statue in 2007."
     ],
-    "quote": "“The poet produces the beautiful by fixing his attention on something real.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Simone_Veil",
-    "urlGoogle": "https://artsandculture.google.com/entity/simone-veil/m02rl4t"
+    "quote": "“I would rather die on my legs than live on my knees”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Dedan_Kimathi",
+    "urlGoogle": "https://artsandculture.google.com/entity/dedan-kimathi/m03drp7"
   },
   "place": {
-    "id": "mecca",
-    "name": "Mecca",
-    "mainImg": "img/places/mecca.jpg",
+    "id": "amherst",
+    "name": "Amherst",
+    "mainImg": "img/places/amherst.jpg",
     "summary": [
-      "Mecca, also spelled Makkah, is a city in the Hejazi region of Saudi Arabia. The city is located 70 km inland from Jeddah, in a narrow valley 277 m above sea level and 340 kilometres south of Medina. Its population in 2012 was 2 million, although visitors more than triple this number every year during the Ḥajj, held in the twelfth Muslim lunar month of Dhūl-Ḥijjah.",
-      "It is the birthplace of Muhammad. A cave 3 km from Mecca was the site of Muhammad's first revelation of the Quran, and a pilgrimage to it, known as the Hajj, is obligatory for all able Muslims. Mecca is home to the Kaaba, one of Islam's holiest sites and the direction of Muslim prayer, and thus Mecca is regarded as the holiest city in Islam.",
-      "Mecca was long ruled by Muhammad's descendants, the sharifs, acting either as independent rulers or as vassals to larger polities."
+      "Amherst is a town in Hampshire County, Massachusetts, United States, in the Connecticut River valley. As of the 2010 census, the population was 37,819, making it the highest populated municipality in Hampshire County. The town is home to Amherst College, Hampshire College, and the University of Massachusetts Amherst, three of the Five Colleges. The name of the town is pronounced without the h by natives and long-time residents, giving rise to the local saying, \"only the 'h' is silent\", in reference both to the pronunciation and to the town's politically active populace.",
+      "Amherst has three census-designated places; Amherst Center, North Amherst, and South Amherst.",
+      "Amherst is part of the Springfield, Massachusetts Metropolitan Statistical Area. Lying 22 miles north of the city of Springfield, Amherst is considered the northernmost town in the Hartford-Springfield Metropolitan Region, \"The Knowledge Corridor\"."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Mecca",
-    "urlGoogle": "https://artsandculture.google.com/entity/mecca/m058wp"
+    "urlWiki": "https://en.wikipedia.org/wiki/Amherst,_Massachusetts",
+    "urlGoogle": "https://artsandculture.google.com/entity/amherst/m0d739"
   },
   "quote": {
-    "id": "76",
-    "quote": "A ship in harbor is safe, but that is not what ships are for.",
-    "author": "John A. Shedd"
+    "id": "64",
+    "quote": "I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name.",
+    "author": "Larry Page"
   },
   "wiki": {
-    "id": "monarchy-of-the-united-kingdom",
-    "name": "Monarchy of the United Kingdom",
-    "summary": "The monarchy of the United Kingdom is a system of government in which a hereditary monarch is the sovereign of the United Kingdom and its overseas territories. The terms British monarch and British monarchy may mean different things in different contexts beyond the United Kingdom. The present monarch is Queen Elizabeth II, who has reigned since 6 February, 1952. The heir apparent is her eldest son, Charles, Prince of Wales and Duke of Rothesay. They and the Queen's husband and consort, Prince Philip, Duke of Edinburgh, undertake various public duties in accordance with their positions. Elizabeth II is Head of the Commonwealth and also reigns as head of state of 15 other Commonwealth countries. This developed from the former colonial relationship of these countries to Britain, but they are now independent and the monarchy of each is legally distinct.",
-    "url": "https://en.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom"
+    "id": "restoration-literature",
+    "name": "Restoration literature",
+    "summary": "Restoration literature is the literature written in English during the period commonly referred to as the English Restoration, corresponding with the last years of the direct Stuart reign in England, Scotland, Wales, and Ireland. In general, the term is used to denote roughly homogeneous styles of literature that centre on a celebration of or reaction to the restored court of Charles II. It is a literature that includes extremes, for it encloses both Paradise Lost and the Earl of Rochester's Sodom, the high-spirited sexual comedy of The Country Wife and the moral wisdom of Pilgrim's Progress. It saw Locke's Treatises on Government, the founding of the Royal Society, the experiments and holy meditations of Robert Boyle, the hysterical attacks on theatres from Jeremy Collier, and the pioneering of literary criticism from John Dryden and John Dennis. It saw news become a commodity, the essay develop into a periodical artform, the beginnings of textual criticism, and the emergence of the stock market.",
+    "url": "https://en.wikipedia.org/wiki/Restoration_literature"
   },
   "word": {
-    "id": "parochial",
-    "word": "parochial",
-    "url": "https://www.merriam-webster.com/dictionary/parochial",
-    "partOfSpeech": "adjective",
-    "pronunciation": "puh-ROH-kee-ul",
-    "audioPath": "audio/words/parochial.mp3",
-    "definitions": [
-      "of or relating to a church parish",
-      "limited in range or scope (as to a narrow area or region) : provincial, narrow"
-    ],
+    "id": "flack",
+    "word": "flack",
+    "url": "https://www.merriam-webster.com/dictionary/flack",
+    "partOfSpeech": "verb",
+    "pronunciation": "FLACK",
+    "audioPath": "audio/words/flack.mp3",
+    "definitions": ["to provide publicity : engage in press-agentry"],
     "examples": [
-      "The book is marred by the _parochial_ viewpoint of its author, who fails to take into account the interplay between local and global economies.",
-      "\"Once a largely _parochial_ issue mainly of interest to Nebraskans, the pipeline's national profile has risen steadily to the point where it became the linchpin in a much broader, high-stakes deal affecting millions of families from coast to coast.\" -- From an article by Joseph Morton in the _Omaha World-Herald_, December 18, 2011"
+      "The billionaire's former mistress has been in the tabloids and on the talk-show circuit as of late, flacking for her juicy tell-all."
     ],
-    "origin": "In the Greek New Testament, the word \"paroikia\" means \"temporary residence.\" (It's from the Greek word for \"stranger\" -- \"paroikos.\") Early Christians used this designation for their colonies because they considered heaven their real home. But temporary or not, these Christian colonies became more organized as time went on. Thus, in Late Latin, \"parochia\" became the designation for a group of Christians in a given area under the leadership of one pastor -- what we came to call a \"parish\" in the 14th century. Both \"parish\" and its related adjective \"parochial\" were borrowed at that time directly from Middle French terms that had been derived from the Late Latin. We didn't begin to use \"parochial\" in its \"narrow\" sense until the mid-19th century."
+    "origin": "The word \"flack\" was first used as a noun meaning \"publicity agent\" during the late 1930s. According to one rumor, the word was coined in tribute to a well-known movie publicist of the time, Gene Flack. Another rumor holds that \"flack\" derives from a similar-sounding Yiddish word for someone who talks about someone else's affairs. The editors of Merriam-Webster dictionaries remain skeptical about these claims and have listed the etymology of \"flack\" as \"unknown.\" We can say with confidence, however, that the verb form of the word appeared in _Maclean's_ in 1963. You may also be familiar with another \"flack\" -- a noun meaning \"criticism\" or \"opposition.\" This unrelated homograph stems from a misspelling of \"flak,\" a German acronym and English word for antiaircraft guns."
   }
 }

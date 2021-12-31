@@ -1,0 +1,125 @@
+{
+  "artist": {
+    "id": "simone-cantarini",
+    "name": "Simone Cantarini",
+    "dates": "Apr 12, 1612 - Oct 15, 1648",
+    "mainImg": "img/art/artists/simone-cantarini.jpg",
+    "artworkImgs": [
+      {
+        "name": "Our Lady of the Rosary",
+        "path": "img/art/artworks/simone-cantarini-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/our-lady-of-the-rosary-simone-cantarini/kAGSTiynC4ahVQ"
+      },
+      {
+        "name": "Adam and Eve",
+        "path": "img/art/artworks/simone-cantarini-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/_AFsj4t7g7KabA"
+      },
+      {
+        "name": "Adam and Eve",
+        "path": "img/art/artworks/simone-cantarini-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/ZAGm84YM2p_17w"
+      },
+      {
+        "name": "Adam and Eve",
+        "path": "img/art/artworks/simone-cantarini-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/gQFIfKujvyn-qQ"
+      },
+      {
+        "name": "Adam and Eve",
+        "path": "img/art/artworks/simone-cantarini-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/ZAGMPW-wHQ3k8Q"
+      },
+      {
+        "name": "Adam and Eve",
+        "path": "img/art/artworks/simone-cantarini-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/aAF21zFM5aFu6Q"
+      }
+    ],
+    "summary": [
+      "Simone Cantarini or Simone da Pesaro, called il Pesarese was an Italian painter and etcher. He is mainly known for his history paintings and portraits executed in an original style, which united aspects of Bolognese classicism with a bold naturalism.",
+      "Cantarini was also a gifted etcher who achieved extraordinary delicacy and a vibrant and luminous quality in his graphic work."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Bolognese School"],
+    "mediums": ["Etching", "Chalk", "Pigment", "Sanguine", "Pen", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Simone_Cantarini",
+    "urlGoogle": "https://artsandculture.google.com/entity/simone-cantarini/m0735jq"
+  },
+  "event": {
+    "id": "british-colonization-of-the-americas",
+    "name": "British colonization of the Americas",
+    "dates": "1607",
+    "mainImg": "img/events/british-colonization-of-the-americas.jpg",
+    "summary": [
+      "The British colonization of the Americas describes the history of the establishment of control, settlement, and decolonization of the continents of the Americas by the Kingdom of England, the Kingdom of Scotland, and, after the union of those two countries in 1707, the Kingdom of Great Britain. Colonization efforts began in the 16th century with efforts by the Kingdom of England to establish colonies in North America, but the first permanent British colony was established in Jamestown in 1607. Over the next several centuries more colonies were established in North America, Central America, South America, and the Caribbean. Though most British colonies in the Americas eventually gained independence, some colonies have opted to remain under Britain's jurisdiction as British Overseas Territories.",
+      "North America had been inhabited by indigenous peoples for thousands of years of prior to 1492, but European exploration of North America began after Christopher Columbus's 1492 expedition across the Atlantic Ocean. English exploration of the continent commenced in the late 15th century, and Sir Walter Raleigh established short-lived Roanoke Colony in 1585."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/British_colonization_of_the_Americas",
+    "urlGoogle": "https://artsandculture.google.com/entity/british-colonization-of-the-americas/m0dt56"
+  },
+  "funFacts": [
+    {
+      "id": "233",
+      "fact": "There are seven letters that look the same upside down as right side up.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "1005",
+      "fact": "A soup can full of neutron star material would have more mass than the Moon.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553506",
+      "fact": "Veterans Stadium, former home of the Philadelphia Eagles, featured a courtroom for handling rowdy fans."
+    }
+  ],
+  "person": {
+    "id": "ferdinand-foch",
+    "name": "Ferdinand Foch",
+    "dates": "Oct 2, 1851 - Mar 20, 1929",
+    "mainImg": "img/people/ferdinand-foch.jpg",
+    "summary": [
+      "Ferdinand Foch was a French general and military theorist who served as the Supreme Allied Commander during the First World War. An aggressive, even reckless commander at the First Marne, Flanders, and Artois campaigns of 1914–1916, Foch became the Allied Commander-in-Chief in late March 1918 in the face of the all-out German spring offensive, which pushed the Allies back using fresh soldiers and new tactics that trenches could not contain. He successfully coordinated the French, British and American efforts into a coherent whole, deftly handling his strategic reserves. He stopped the German offensive and launched a war-winning counterattack. In November 1918, Marshal Foch accepted the German cessation of hostilities and was present at the armistice of 11 November 1918.",
+      "At the outbreak of war in August 1914, Foch's XX Corps participated in the brief invasion of Germany before retreating in the face of a German counter-attack and successfully blocking the Germans short of Nancy. Ordered west to defend Paris, Foch's prestige soared as a result of the victory at the Marne, for which he was widely credited as a chief protagonist while commanding the French Ninth Army."
+    ],
+    "quote": "“The will to conquer is the first condition of victory.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ferdinand_Foch",
+    "urlGoogle": "https://artsandculture.google.com/entity/ferdinand-foch/m01w_xd"
+  },
+  "place": {
+    "id": "cleveland",
+    "name": "Cleveland",
+    "mainImg": "img/places/cleveland.jpg",
+    "summary": [
+      "Cleveland, officially the City of Cleveland, is a major city in the U.S. state of Ohio, and the county seat of Cuyahoga County. The city proper has a population of 381,009, making it the 53rd-largest city in the United States and the second-largest city in Ohio. Greater Cleveland is ranked as the 33rd-largest metropolitan area in the U.S., with 2,057,009 people in 2018. A Gamma + city, Cleveland anchors the Cleveland–Akron–Canton Combined Statistical Area, which had a population of 3,515,646 in 2010 and is ranked 15th in the United States.",
+      "The city is located on the southern shore of Lake Erie, across the U.S. maritime border with Canada and approximately 60 miles west of the Ohio-Pennsylvania state border. It was founded in 1796 near the mouth of the Cuyahoga River by General Moses Cleaveland. It became a manufacturing center due to its location on both the river and the lake shore, as well as being connected to numerous canals and railroad lines. Cleveland's economy relies on diversified sectors such as manufacturing, financial services, healthcare, biomedicals, and higher education, and the city ranks 31st in the nation per economic output, with a GDP of $134 billion in 2018."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Cleveland",
+    "urlGoogle": "https://artsandculture.google.com/entity/cleveland/m01sn3"
+  },
+  "wiki": {
+    "id": "jordan-river-utah",
+    "name": "Jordan River (Utah)",
+    "summary": "The Jordan River is a stream, about 51 miles (82 km) long, in the U.S. state of Utah. Regulated by pumps at its headwaters at Utah Lake, it flows northward through the Salt Lake Valley and empties into the Great Salt Lake. Four of Utah's five largest cities—Salt Lake City, West Valley City, West Jordan and Sandy—border the river. More than a million people live in the Jordan Subbasin, which is the part of the Jordan River watershed that lies within Salt Lake and Davis counties. During the Pleistocene, the area was part of Lake Bonneville. Members of the Desert Archaic Culture were the earliest known inhabitants of the region; an archaeological site found along the river dates back 3,000 years. Mormon pioneers led by Brigham Young were the first European-American settlers, arriving in July 1847 and establishing farms and settlements along the river and its tributaries. The growing population, needing water for drinking, irrigation, and industrial use in an arid climate, dug ditches and canals, built dams, and installed pumps to create a highly regulated river.",
+    "url": "https://en.wikipedia.org/wiki/Jordan_River_(Utah)"
+  },
+  "word": {
+    "id": "comestible",
+    "word": "comestible",
+    "url": "https://www.merriam-webster.com/dictionary/comestible",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kuh-MESS-tuh-bul",
+    "audioPath": "audio/words/comestible.mp3",
+    "definitions": ["edible"],
+    "examples": [
+      "The November issue of the magazine was filled with recipes for an old-fashioned Thanksgiving feast, including candied yams, homemade cranberry sauce, mincemeat pie, and other _comestible_ delights.",
+      "\"This year's delegates (that's what people who attend the Oct. 25-29 \\[culinary\\] festival are called) will find a focus on _comestible_ diversity across regions....\" - From an article by Jamila Robinson in _The Atlanta Journal-Constitution_, September 30, 2012"
+    ],
+    "origin": "Did you expect \"comestible\" to be a noun meaning \"food\"? You're probably not alone. As it happens, \"comestible\" is used both as an adjective and a noun. The adjective is by far the older of the two; it has been part of English since at least the 1400s. (In fact, one of its earliest known uses was in a text printed in 1483 by William Caxton, the man who established England's first printing press.) The noun (which is most often used in the plural form, \"comestibles\") dates only from 1837. It made its first appearance in a novel in which a character fortified himself with \"a strong reinforcement of comestibles.\""
+  }
+}

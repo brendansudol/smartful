@@ -1,136 +1,131 @@
 {
   "artist": {
-    "id": "j-alden-weir",
-    "name": "J. Alden Weir",
-    "dates": "Aug 30, 1852 - Dec 8, 1919",
-    "mainImg": "img/art/artists/j-alden-weir.jpg",
+    "id": "akseli-gallen-kallela",
+    "name": "Akseli Gallen-Kallela",
+    "dates": "Apr 26, 1865 - Mar 7, 1931",
+    "mainImg": "img/art/artists/akseli-gallen-kallela.jpg",
     "artworkImgs": [
       {
-        "name": "An Alsatian Girl",
-        "path": "img/art/artworks/j-alden-weir-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/an-alsatian-girl-julian-alden-weir/xwEV5X1kKK-ZOA"
+        "name": "Great Black Woodpecker",
+        "path": "img/art/artworks/akseli-gallen-kallela-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/great-black-woodpecker-akseli-gallen-kallela/_AFTzc2TcEZ4YQ"
       },
       {
-        "name": "Woodland Rocks",
-        "path": "img/art/artworks/j-alden-weir-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/woodland-rocks-julian-alden-weir/IwFOa4UcQ2xhEw"
+        "name": "In the Sauna",
+        "path": "img/art/artworks/akseli-gallen-kallela-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/in-the-sauna-akseli-gallen-kallela/rwENFcZSThz6Jg"
       },
       {
-        "name": "Knitting for Soldiers",
-        "path": "img/art/artworks/j-alden-weir-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/knitting-for-soldiers-julian-alden-weir/4wFmnoGTRzOxgg"
+        "name": "The Fratricide",
+        "path": "img/art/artworks/akseli-gallen-kallela-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-fratricide-akseli-gallen-kallela/HgHNa6D4ZMbPNQ"
       },
       {
-        "name": "Pan and the Wolf",
-        "path": "img/art/artworks/j-alden-weir-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/pan-and-the-wolf-julian-alden-weir/nAE2Q5oW-_9gAQ"
+        "name": "Boy with a Crow",
+        "path": "img/art/artworks/akseli-gallen-kallela-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/boy-with-a-crow-akseli-gallen-kallela/sQH3iQTrNnez8A"
       },
       {
-        "name": "Afternoon by the Pond",
-        "path": "img/art/artworks/j-alden-weir-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/afternoon-by-the-pond-julian-alden-weir/NQFVZLH7NbWC0g"
+        "name": "Démasquée",
+        "path": "img/art/artworks/akseli-gallen-kallela-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/démasquée-akseli-gallen-kallela/fwE0w5T_rcybzA"
       },
       {
-        "name": "New England Barnyard",
-        "path": "img/art/artworks/j-alden-weir-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/new-england-barnyard-julian-alden-weir/kAFvFGvgyAn43A"
+        "name": "Flower of Death",
+        "path": "img/art/artworks/akseli-gallen-kallela-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/flower-of-death-akseli-gallen-kallela/gAGFxb6H3IMlOg"
       }
     ],
     "summary": [
-      "Julian Alden Weir was an American impressionist painter and member of the Cos Cob Art Colony near Greenwich, Connecticut. Weir was also one of the founding members of \"The Ten\", a loosely allied group of American artists dissatisfied with professional art organizations, who banded together in 1898 to exhibit their works as a stylistically unified group."
+      "Akseli Gallen-Kallela was a Finnish painter who is best known for his illustrations of the Kalevala, the Finnish national epic. His work is considered very important for the Finnish national identity. He changed his name from Gallén to Gallen-Kallela in 1907."
     ],
     "quote": null,
-    "movements": [
-      "Impressionism",
-      "American Impressionism",
-      "Hudson River School",
-      "Modern art",
-      "Tonalism"
-    ],
-    "mediums": ["Oil paint", "Etching", "Wood", "Engraving", "Laid paper", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/J._Alden_Weir",
-    "urlGoogle": "https://artsandculture.google.com/entity/j-alden-weir/m02nl2l"
+    "movements": ["Symbolism", "Modern art", "Realism", "Romanticism", "Art Nouveau"],
+    "mediums": ["Oil paint", "Tempera", "Watercolor painting", "Gouache"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Akseli_Gallen-Kallela",
+    "urlGoogle": "https://artsandculture.google.com/entity/akseli-gallen-kallela/m0151pn"
   },
   "event": {
-    "id": "battle-of-st-quentin-canal",
-    "name": "Battle of St Quentin Canal",
-    "dates": "Sep 29, 1918 - Oct 10, 1918",
-    "mainImg": "img/events/battle-of-st-quentin-canal.jpg",
+    "id": "siege-of-breda",
+    "name": "Siege of Breda",
+    "dates": "Aug 28, 1624 - Jun 5, 1625",
+    "mainImg": "img/events/siege-of-breda.jpg",
     "summary": [
-      "The Battle of St. Quentin Canal was a pivotal battle of World War I that began on 29 September 1918 and involved British, Australian and American forces operating as part of the British Fourth Army under the overall command of General Sir Henry Rawlinson. Further north, part of the British Third Army also supported the attack. South of the Fourth Army's 19 km front, the French First Army launched a coordinated attack on a 9.5 km front. The objective was to break through one of the most heavily defended stretches of the German Siegfriedstellung, which in this sector utilised the St Quentin Canal as part of its defences. The assault achieved its objectives, resulting in the first full breach of the Hindenburg Line, in the face of heavy German resistance. In concert with other attacks of the Grand Offensive along the length of the line, Allied success convinced the German high command that there was little hope of an ultimate German victory."
+      "The siege of Breda of 1624–25 occurred during the Eighty Years' War. The siege resulted in Breda, a Dutch fortified city, falling into the control of the Army of Flanders.",
+      "Following the orders of Ambrogio Spinola, Philip IV's army laid siege to Breda in August 1624. The siege was contrary to the wishes of Philip IV's government because of the already excessive burdens of the concurrent Eighty and Thirty Years' wars. The strategically located city was heavily fortified and strongly defended by a large and well prepared garrison of 7,000 men, that the Dutch were confident would hold out long enough to wear down besiegers while awaiting a relief force to disrupt the siege. Yet despite the Spanish government's opposition to major sieges in the Low Countries and the obstacles confronting any attack on such a strongly fortified and defended city, Spinola launched his Breda campaign, rapidly blocking the city's defences and driving off a Dutch relief army under the leadership of Maurice of Nassau that had attempted to cut off the Spanish army's access to supplies."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_St_Quentin_Canal",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-st-quentin-canal/m0bz19j"
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Breda_%281624%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-breda/m0b9tj5"
   },
   "funFacts": [
     {
-      "id": "241",
-      "fact": "The only cactus plantation in the world is in Mississippi.",
-      "category": ["Plants", "Geography"]
+      "id": "216",
+      "fact": "TV dinners originated in the Arctic.",
+      "category": ["Food", "Geography"]
     },
     {
-      "id": "200",
-      "fact": "The first country to use postcards was Austria.",
-      "category": ["Geography", "Firsts"]
+      "id": "952",
+      "fact": "Queen Isabella I of Spain, who funded Columbus' voyage across the ocean, claimed to have only bathed twice in her life.",
+      "category": ["Animals", "Habits", "History", "Make-it-Easies", "Onlies"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553833",
-      "fact": "Alice in Wonderland&nbsp;was once banned in parts of China. “Bears, lions, and other beasts cannot use human language,” said the Governor of the Hunan Province in 1931. “To attribute to them such a power is an insult to the human race.”"
+      "id": "553845",
+      "fact": "Madam C.J. Walker is thought to be America’s first self-made female millionaire. Born to sharecroppers in 1867, she made her fortune selling beauty products for black women."
     }
   ],
   "idiom": {
-    "id": "know-the-ropes",
-    "term": "know the ropes",
-    "definition": "Be informed about the details of a situation or task. For example, *Don't worry about Sara's taking over that reporter's job---she already knows the ropes.* This expression alludes to sailors learning the rigging so as to handle a sailing vessel's ropes. It was being used figuratively by the late 1800s. The same allusion is present in **show someone the ropes,** meaning \"to familiarize someone with the details,\" as in *Tom's very experienced---he'll show you the ropes.*"
+    "id": "who-will-bell-the-cat",
+    "term": "who will bell the cat",
+    "definition": "Who has enough courage to do a dangerous job? For example, *Someone has to tell the teacher that her own son started the fire, but who will bell the cat?* This expression originated in one of Aesop's fables as retold by William Langland in *Piers Ploughman* (c. 1377), in which the mice decide to put a bell around the cat's neck as a warning device but then can find none among them who will actually do it."
   },
   "person": {
-    "id": "aristide-briand",
-    "name": "Aristide Briand",
-    "dates": "Mar 28, 1862 - Mar 7, 1932",
-    "mainImg": "img/people/aristide-briand.jpg",
+    "id": "marcus-licinius-crassus",
+    "name": "Marcus Licinius Crassus",
+    "dates": "Died 52 BC",
+    "mainImg": "img/people/marcus-licinius-crassus.jpg",
     "summary": [
-      "Aristide Pierre Henri Briand was a French statesman who served eleven terms as Prime Minister of France during the French Third Republic. He is mainly remembered for his focus on international issues and reconciliation politics during the interwar period.",
-      "In 1926, he received the Nobel Peace Prize along with German Foreign minister Gustav Stresemann for the realization of the Locarno Treaties, which aimed at reconciliation between France and Germany after the First World War. To avoid another worldwide conflict, he was instrumental in the agreement known as the Kellogg–Briand Pact of 1929, as well to establish a \"European Union\" in 1929. However, all his efforts were compromised by the rise of nationalistic and revanchist ideas like Nazism and Fascism following the Great Depression."
+      "Marcus Licinius Crassus was a Roman general and politician who played a key role in the transformation of the Roman Republic into the Roman Empire. He is often called \"The richest man in Rome\".",
+      "Crassus began his public career as a military commander under Lucius Cornelius Sulla during his civil war. Following Sulla's assumption of the dictatorship, Crassus amassed an enormous fortune through real estate speculation. Crassus rose to political prominence following his victory over the slave revolt led by Spartacus, sharing the consulship with his rival Pompey the Great.",
+      "A political and financial patron of Julius Caesar, Crassus joined Caesar and Pompey in the unofficial political alliance known as the First Triumvirate. Together the three men dominated the Roman political system. The alliance did not last long, due to the ambitions, egos, and jealousies of the three men. While Caesar and Crassus were lifelong allies, Crassus and Pompey disliked each other and Pompey grew increasingly envious of Caesar's spectacular successes in the Gallic Wars. The alliance was re-stabilized at the Lucca Conference in 56 BC, after which Crassus and Pompey again served jointly as consuls."
     ],
-    "quote": "“This means that the search for a formula of European cooperation in connection with the League of Nations, far from weakening the authority of this latter must and can only tend to strengthen it, for it is closely connected with its aims.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Aristide_Briand",
-    "urlGoogle": "https://artsandculture.google.com/entity/aristide-briand/m01b990"
+    "quote": "“My taste includes both snails and oysters.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
+    "urlGoogle": "https://artsandculture.google.com/entity/marcus-licinius-crassus/m0cntx"
   },
   "place": {
-    "id": "leeds",
-    "name": "Leeds",
-    "mainImg": "img/places/leeds.jpg",
+    "id": "memphis",
+    "name": "Memphis",
+    "mainImg": "img/places/memphis.jpg",
     "summary": [
-      "Leeds is the largest city in the county of West Yorkshire in Northern England, approximately 170 miles north of central London. Leeds has one of the most diverse economies of all the UK's main employment centres and has seen the fastest rate of private-sector jobs growth of any UK city. It also has the highest ratio of private to public sector jobs of all the UK's Core Cities, with 77% of its workforce working in the private sector. Leeds has the third-largest jobs total by local authority area, with 480,000 in employment and self-employment at the beginning of 2015. Leeds is ranked as a High Sufficiency level city by the Globalization and World Cities Research Network. Leeds is the cultural, financial and commercial heart of the West Yorkshire Urban Area. Leeds is served by five universities, it has the UK's fourth largest student population and the country's fourth largest urban economy."
+      "Memphis is a city along the Mississippi River in southwestern Shelby County, Tennessee, United States. The 2019 population was 651,073, making Memphis the largest city on the Mississippi River, the second most populous in Tennessee, as well as the 26th largest city in the United States. Greater Memphis is the 42nd largest metropolitan area in the United States, with a population of 1,348,260 in 2017. The city is the anchor of West Tennessee and the greater Mid-South region, which includes portions of neighboring Arkansas, Mississippi, and the Missouri Bootheel. Memphis is the seat of Shelby County, Tennessee's most populous county. One of the more historic and culturally significant cities of the southern United States, Memphis has a wide variety of landscapes and distinct neighborhoods.",
+      "The first European explorer to visit the area of present-day Memphis was Spanish conquistador Hernando de Soto in 1541 with his expedition into the New World. The high Chickasaw Bluffs protecting the location from the waters of the Mississippi was then contested by the Spanish, French, and the English as Memphis took shape."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Leeds",
-    "urlGoogle": "https://artsandculture.google.com/entity/leeds/m04p3c"
+    "urlWiki": "https://en.wikipedia.org/wiki/Memphis,_Tennessee",
+    "urlGoogle": "https://artsandculture.google.com/entity/memphis/m0c_m3"
   },
   "wiki": {
-    "id": "2000-sri-lanka-cyclone",
-    "name": "2000 Sri Lanka cyclone",
-    "summary": "The 2000 Sri Lanka cyclone was the strongest tropical cyclone to strike the country of Sri Lanka since 1978. The fourth tropical storm and second cyclone of the 2000 North Indian Ocean cyclone season, the cyclone developed out of an area of disturbed weather on December 25. It moved westward, and quickly strengthened under favorable conditions to reach peak winds of 75 mph (120 km/h). The cyclone hit eastern Sri Lanka at peak strength, and weakened slightly while crossing the island before hitting and dissipating over southern India on December 28. The storm was the first cyclone to hit Sri Lanka with winds of at least hurricane strength since a 110 mph (175 km/h) cyclone hit in the 1978 season, as well as the first tropical storm to hit the island since 1992. The storm was also the first December tropical cyclone of hurricane intensity in the Bay of Bengal since 1996. It produced heavy rainfall and strong winds, damaging or destroying tens of thousands of houses and leaving up to 500,000 homeless. Nine died as a result of the cyclone.",
-    "url": "https://en.wikipedia.org/wiki/2000_Sri_Lanka_cyclone"
+    "id": "star-wars-episode-iii-revenge-of-the-sith",
+    "name": "Star Wars Episode III: Revenge of the Sith",
+    "summary": "Star Wars Episode III: Revenge of the Sith is a 2005 science fantasy film written and directed by George Lucas. It was the sixth and final film released in the Star Wars saga, and the third in terms of chronology. Three years after the onset of the Clone Wars, the noble Jedi Knights have been leading a massive clone army into a galaxy-wide battle against the Separatists. After the kidnapping of Supreme Chancellor Palpatine, Jedi Master Obi-Wan Kenobi is dispatched to kill the evil General Grievous, while Jedi Knight Anakin Skywalker's growing friendship with the Chancellor suddenly becomes frowned upon by the Jedi order, and dangerous to the Jedi Knight himself. The film was released on May 19, 2005, and received generally positive reviews from critics, especially in contrast to the previous two prequels. It broke several box office records in its opening week, and went on to earn over US$850 million worldwide, making it the highest grossing film of 2005 in the U.S., the second highest grossing film of 2005 worldwide (behind Harry Potter and the Goblet of Fire), and the 12th highest grossing worldwide film of all time.",
+    "url": "https://en.wikipedia.org/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith"
   },
   "word": {
-    "id": "harbinger",
-    "word": "harbinger",
-    "url": "https://www.merriam-webster.com/dictionary/harbinger",
-    "partOfSpeech": "noun",
-    "pronunciation": "HAHR-bun-jer",
-    "audioPath": "audio/words/harbinger.mp3",
+    "id": "eponymous",
+    "word": "eponymous",
+    "url": "https://www.merriam-webster.com/dictionary/eponymous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-PAH-nuh-mus",
+    "audioPath": "audio/words/eponymous.mp3",
     "definitions": [
-      "one that pioneers in or initiates a major change : precursor",
-      "one that presages or foreshadows what is to come"
+      "of, relating to, or being one for whom or which something is or is believed to be named"
     ],
     "examples": [
-      "The February thaw is a _harbinger_ of spring -- even if it's followed by a few more snowstorms.",
-      "\"When Packers outside linebacker Clay Matthews had three sacks against Philadelphia in the opener, it was a _harbinger_ of things to come for the Eagles. They allowed 50 sacks on the season, the most in the 12-year Andy Reid era.\" -- From an article by Jim Polzin in the _Wisconsin State Journal_, January 9, 2011"
+      "Fans of _The Steve Mapplethorpe Comedy Hour_ waited outside the studio exit in hopes of catching a glimpse of its eponymous host."
     ],
-    "origin": "When medieval travelers needed lodging for the night, they went looking for a harbinger. As long ago as the 12th century, \"harbinger\" was used to mean \"one who provides lodging\" or \"a host,\" but that meaning is now obsolete. By the late 1300s, \"harbinger\" was also being used for a person sent ahead of a main party to seek lodgings, often for royalty or a campaigning army, but that old sense has largely been left in the past, too. Both of those historical senses are true to the Anglo-French parent of \"harbinger,\" the word \"herberge,\" meaning \"lodgings.\" The most common sense of the word nowadays, the \"forerunner\" sense, has been with us since the mid-1500s."
+    "origin": "It's no coincidence that \"eponymous\" has to do with naming -- it comes to us from the Greek adjective \"epōnymos,\" which is itself from \"onyma,\" meaning \"name.\" \"Onyma\" has lent its name to a number of English words, including \"synonymous,\" \"pseudonym,\" and \"anonymous.\" Traditionally, an eponymous person or thing (i.e., an \"eponym\") might be a mythical ancestor or totem believed to be the source of a clan's name. Today, however, \"eponymous\" more typically refers to such individuals as the front man of \"Theo's Trio\" or the owner of \"Sally's Restaurant\"(Theo and Sally, respectively, of course). The things that are named for such name-providers are also \"eponymous.\" For example, we can speak of \"the eponymous 'Ed Sullivan Show'\" as well as \"the eponymous Ed Sullivan.\""
   }
 }

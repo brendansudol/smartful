@@ -1,119 +1,125 @@
 {
   "artist": {
-    "id": "pietro-rotari",
-    "name": "Pietro Rotari",
-    "dates": "Sep 30, 1707 - Aug 31, 1762",
-    "mainImg": "img/art/artists/pietro-rotari.jpg",
+    "id": "jean-tinguely",
+    "name": "Jean Tinguely",
+    "dates": "May 22, 1925 - Aug 30, 1991",
+    "mainImg": "img/art/artists/jean-tinguely.jpg",
     "artworkImgs": [
       {
-        "name": "A Young Woman with a Book",
-        "path": "img/art/artworks/pietro-rotari-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/a-young-woman-with-a-book-pietro-rotari/kwHlkrdfLNOaIA"
+        "name": "Peut-être No. 11",
+        "path": "img/art/artworks/jean-tinguely-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/peut-être-no-11-jean-tinguely/mwHayNUhjfadnA"
       },
       {
-        "name": "A young Woman",
-        "path": "img/art/artworks/pietro-rotari-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/a-young-woman-pietro-rotari/eAEr9-vq9nDHyQ"
+        "name": "Santana",
+        "path": "img/art/artworks/jean-tinguely-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/santana-jean-tinguely/YQGUBp1VSy9ZYw"
       },
       {
-        "name": "Venus Appearing to Achilles",
-        "path": "img/art/artworks/pietro-rotari-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/venus-appearing-to-achilles-pietro-rotari-after-antonio-balestra/qAEDKtL-bQFNWA"
+        "name": "Cascade 3",
+        "path": "img/art/artworks/jean-tinguely-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/cascade-3-jean-tinguely/wQGj2bECr_1gWw"
       },
       {
-        "name": "Saint Francis",
-        "path": "img/art/artworks/pietro-rotari-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-francis-pietro-rotari/SwGzIG0GlFKN0g"
+        "name": "Cascade",
+        "path": "img/art/artworks/jean-tinguely-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cascade-jean-tingley/vwFZCKxaLf4s_A"
       },
       {
-        "name": "Saint Jerome",
-        "path": "img/art/artworks/pietro-rotari-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-jerome-pietro-rotari-after-antonio-balestra/JwFSK2UUtej0sw"
+        "name": "La Cascade",
+        "path": "img/art/artworks/jean-tinguely-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/la-cascade-jean-tinguely/PwEmLAeh29jM7w"
+      },
+      {
+        "name": "L'exécution",
+        "path": "img/art/artworks/jean-tinguely-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/l-exécution-jean-tinguely/kgHV-SC242ueJQ"
       }
     ],
     "summary": [
-      "Pietro Antonio Rotari was an Italian painter of the Baroque period. Born in Verona, he led a peripatetic career, and died in Saint Petersburg, where he had traveled to paint for the Russian court. His portraits, mostly of women, are renowned for being beautiful and realistic. Rotari's works were generally limited to royal portraits held by notables such as emperors and court ladies."
+      "Jean Tinguely was a Swiss sculptor best known for his kinetic art sculptural machines that extended the Dada tradition into the later part of the 20th century. Tinguely's art satirized automation and the technological overproduction of material goods."
     ],
     "quote": null,
-    "movements": ["Baroque", "Rococo"],
-    "mediums": ["Etching", "Oil paint", "Engraving", "Laid paper"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Pietro_Rotari",
-    "urlGoogle": "https://artsandculture.google.com/entity/pietro-rotari/m02qs8_w"
+    "movements": ["Surrealism", "Modern art", "Nouveau réalisme", "Contemporary art", "Dada"],
+    "mediums": ["Sculpture", "Metal", "Silver", "Ink", "Iron", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean_Tinguely",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-tinguely/m025zb2n"
   },
   "event": {
-    "id": "charge-of-the-light-brigade",
-    "name": "Charge of the Light Brigade",
-    "dates": null,
-    "mainImg": "img/events/charge-of-the-light-brigade.jpg",
+    "id": "steel-strike-of-1919",
+    "name": "Steel strike of 1919",
+    "dates": "Sep 21, 1919 - Jan 8, 1920",
+    "mainImg": "img/events/steel-strike-of-1919.jpg",
     "summary": [
-      "The Charge of the Light Brigade was a failed military action involving the British light cavalry led by Lord Cardigan against Russian forces during the Battle of Balaclava on 25 October 1854 in the Crimean War. British commander Lord Raglan had intended to send the Light Brigade to prevent the Russians from removing captured guns from overrun Turkish positions, a task for which the light cavalry were well-suited. However, there was miscommunication in the chain of command, and the Light Brigade was instead sent on a frontal assault against a different artillery battery, one well-prepared with excellent fields of defensive fire. The Light Brigade reached the battery under withering direct fire and scattered some of the gunners, but they were forced to retreat immediately, and the assault ended with very high British casualties and no decisive gains.",
-      "The events were the subject of Alfred, Lord Tennyson's narrative poem \"The Charge of the Light Brigade\", published just six weeks after the event. Its lines emphasise the valour of the cavalry in bravely carrying out their orders, regardless of the nearly inevitable outcome."
+      "The steel strike of 1919 was an attempt by the weakened Amalgamated Association of Iron, Steel and Tin Workers to organize the United States steel industry in the wake of World War I. The strike began on September 22, 1919, and collapsed on January 8, 1920.",
+      "The AA had formed in 1876. It was a union of skilled steel and iron workers which was deeply committed to craft unionism. However, technological advances had slashed the number of skilled workers in both industries."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Charge_of_the_Light_Brigade",
-    "urlGoogle": "https://artsandculture.google.com/entity/charge-of-the-light-brigade/m0h5wm"
+    "urlWiki": "https://en.wikipedia.org/wiki/Steel_strike_of_1919",
+    "urlGoogle": "https://artsandculture.google.com/entity/steel-strike-of-1919/m0f1jrg"
   },
   "funFacts": [
     {
-      "id": "223",
-      "fact": "The Basenji is the only type of dog that does not bark.",
-      "category": ["Animals", "Onlies"]
+      "id": "882",
+      "fact": "In 1859, 24 rabbits were released in Australia. Within 6 years, the population grew to 2 million.",
+      "category": ["Animals"]
     },
     {
-      "id": "253",
-      "fact": "The first TV remote control, introduced in 1950, was called Lazy Bones.",
-      "category": ["Firsts"]
+      "id": "131",
+      "fact": "Penguins have an organ above their eyes that converts seawater to fresh water.",
+      "category": ["Animals"]
     }
   ],
-  "funFacts2": [
-    { "id": "504559", "fact": "The second largest country by area is Canada, after Russia." }
-  ],
+  "funFacts2": [{ "id": "506391", "fact": "Lobsters' bladders are in their heads." }],
   "idiom": {
-    "id": "stuff-and-nonsense",
-    "term": "stuff and nonsense",
-    "definition": "Utter foolishness or absurdity, as in *Stuff and nonsense, of course I can pack a suitcase.* Often used as an interjection, this idiom employs *stuff* in the sense of \"rubbish.\" It was first recorded in 1749."
+    "id": "whats-sauce-for-the-goose-is-sauce-for-the-gander",
+    "term": "what's sauce for the goose is sauce for the gander",
+    "definition": "What applies to one applies to both, especially to both male and female. For example, *After her husband went off with his fishing buddies for a week, she decided to take a vacation without him---what's sauce for the goose, you know.* This proverbial expression, often shortened as in the example, was cited and described as \"a woman's proverb\" in John Ray's *English Proverbs* (1678)."
   },
   "person": {
-    "id": "robert-brooke-popham",
-    "name": "Robert Brooke-Popham",
-    "dates": "Sep 18, 1878 - Oct 20, 1953",
-    "mainImg": "img/people/robert-brooke-popham.jpg",
+    "id": "wilhelmina-of-prussia-princess-of-orange",
+    "name": "Wilhelmina of Prussia, Princess of Orange",
+    "dates": "Aug 7, 1751 - Jun 9, 1820",
+    "mainImg": "img/people/wilhelmina-of-prussia-princess-of-orange.jpg",
     "summary": [
-      "Air Chief Marshal Sir Henry Robert Moore Brooke-Popham, GCVO, KCB, CMG, DSO, AFC was a senior commander in the Royal Air Force. During the First World War he served in the Royal Flying Corps as a wing commander and senior staff officer. Remaining in the new Royal Air Force after the war, Brooke-Popham was the first commandant of its Staff College at Andover and later held high command in the Middle East. He was Governor of Kenya in the late 1930s. Most notably, Brooke-Popham was Commander-in-Chief of the British Far East Command only months before Singapore fell to Japanese troops."
+      "Princess Wilhelmina of Prussia was the consort of William V of Orange and the de facto leader of the dynastic party and counter-revolution in the Netherlands. She was the daughter of Prince Augustus William of Prussia and Luise of Brunswick-Wolfenbüttel. Wilhelmina was the longest-serving Princess consort of Orange."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Brooke-Popham",
-    "urlGoogle": "https://artsandculture.google.com/entity/robert-brooke-popham/m0404vk"
+    "urlWiki": "https://en.wikipedia.org/wiki/Wilhelmina_of_Prussia,_Princess_of_Orange",
+    "urlGoogle": "https://artsandculture.google.com/entity/wilhelmina-of-prussia-princess-of-orange/m08rkg8"
   },
   "place": {
-    "id": "chicago",
-    "name": "Chicago",
-    "mainImg": "img/places/chicago.jpg",
+    "id": "mobile",
+    "name": "Mobile",
+    "mainImg": "img/places/mobile.jpg",
     "summary": [
-      "Chicago, officially the City of Chicago, is the most populous city in the U.S. state of Illinois, and the third-most-populous city in the United States. With an estimated population of 2,693,976 in 2019, it is also the most populous city in the Midwestern United States. Chicago is the county seat of Cook County, the second-most-populous county in the US, with a small portion of the northwest side of the city extending into DuPage County near O'Hare Airport. Chicago is the principal city of the Chicago metropolitan area, often referred to as Chicagoland. At nearly 10 million people, the metropolitan area is the third most populous in the United States.",
-      "Located on the shores of freshwater Lake Michigan, Chicago was incorporated as a city in 1837 near a portage between the Great Lakes and the Mississippi River watershed and grew rapidly in the mid-19th century. After the Great Chicago Fire of 1871, which destroyed several square miles and left more than 100,000 homeless, the city made a concerted effort to rebuild."
+      "Mobile is the county seat of Mobile County, Alabama, United States. The population within the city limits was 195,111 as of the 2010 United States Census, making it the third most populous city in Alabama, the most populous in Mobile County, and the largest municipality on the Gulf Coast between New Orleans, Louisiana, and St. Petersburg, Florida.",
+      "Alabama's only saltwater port, Mobile is located on the Mobile River at the head of the Mobile Bay and the north-central Gulf Coast. The Port of Mobile has always played a key role in the economic health of the city, beginning with the settlement as an important trading center between the French colonists and Native Americans, down to its current role as the 12th-largest port in the United States.",
+      "Mobile is the principal municipality of the Mobile metropolitan area. This region of 412,992 residents is composed solely of Mobile County; it is the third-largest metropolitan statistical area in the state. Mobile is the largest city in the Mobile-Daphne−Fairhope CSA, with a total population of 604,726, the second largest in the state. As of 2011, the population within a 60-mile radius of Mobile is 1,262,907."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Chicago",
-    "urlGoogle": "https://artsandculture.google.com/entity/chicago/m01_d4"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mobile,_Alabama",
+    "urlGoogle": "https://artsandculture.google.com/entity/mobile/m058cm"
   },
   "wiki": {
-    "id": "amanita-muscaria",
-    "name": "Amanita muscaria",
-    "summary": "Amanita muscaria, commonly known as the fly agaric, is a poisonous and psychoactive basidiomycete fungus, one of many in the genus Amanita. Native throughout the temperate and boreal regions of the Northern Hemisphere, Amanita muscaria has been unintentionally introduced to many countries in the southern hemisphere, generally as a symbiont with pine plantations, and is now a true cosmopolitan species. The quintessential toadstool, it is a large white-gilled, white-spotted, usually deep red mushroom, one of the most recognizable and widely encountered in popular culture. Although it is generally considered poisonous, deaths from its consumption are extremely rare, and it is eaten as a food in parts of Europe, Asia, and North America after parboiling. Amanita muscaria is noted for its hallucinogenic properties, with its main psychoactive constituent being the compound muscimol. It was used as an intoxicant and entheogen by the peoples of Siberia and has a religious significance in these cultures. There has been much speculation on traditional use of this mushroom as an intoxicant in places other than Siberia; however, such traditions are far less well documented.",
-    "url": "https://en.wikipedia.org/wiki/Amanita_muscaria"
+    "id": "tony-blair",
+    "name": "Tony Blair",
+    "summary": "Tony Blair is a former Prime Minister of the United Kingdom. He led the Labour Party from July 1994 through 2007, and brought Labour into power with a landslide victory in the 1997 general election, replacing John Major as Prime Minister and ending 18 years of Conservative government. He was the Labour Party's longest-serving Prime Minister. He moved the Labour Party towards the centre of British politics, using the term \"New Labour\" to distinguish what he calls \"modern social democracy\" and his party's refusal to reverse privatisation and support for a market economy from its past belief in nationalisation and Fabian socialism. After the advent of the \"War on Terror\" much of his agenda was dominated by foreign affairs and he supported many aspects of the foreign policy of George W. Bush. His party won an unprecedented third term in the 2005 general election, but its majority in the House of Commons was reduced considerably.",
+    "url": "https://en.wikipedia.org/wiki/Tony_Blair"
   },
   "word": {
-    "id": "scrumptious",
-    "word": "scrumptious",
-    "url": "https://www.merriam-webster.com/dictionary/scrumptious",
+    "id": "implacable",
+    "word": "implacable",
+    "url": "https://www.merriam-webster.com/dictionary/implacable",
     "partOfSpeech": "adjective",
-    "pronunciation": "SKRUMP-shus",
-    "audioPath": "audio/words/scrumptious.mp3",
-    "definitions": ["delightful, excellent; especially : delicious"],
-    "examples": [
-      "To celebrate their first Thanksgiving in their new home, Ilene and Paul prepared a scrumptious feast for 12 guests."
+    "pronunciation": "im-PLAK-uh-bul",
+    "audioPath": "audio/words/implacable.mp3",
+    "definitions": [
+      "not placable : not capable of being appeased, significantly changed, or mitigated"
     ],
-    "origin": "First appearing in English in 1830, \"scrumptious\" is a mouth-watering word that is used to describe what is delightful and delectable. It probably originated as an alteration of \"sumptuous,\" and it carries the elegant and wonderful connotations of its parent. (\"Sumptuous\" derives via Middle English from the Latin verb \"sumere,\" meaning \"to take or spend.\") British author Roald Dahl had some fun with “scrumptious,” and created a delightful coinage, when he inserted the infix “-diddly-” into the word to make “scrumdiddlyumptious,” the word that chocolate magnate Willy Wonka uses to name his best-selling treats in his novel _Charlie and the Chocolate Factory_ (1964)."
+    "examples": [
+      "The convict made his plea for an early release to the implacable members of the parole board, who remained skeptical that he felt remorse for his crimes."
+    ],
+    "origin": "\"Implacable\" comes from the Latin word \"implacabilis,\" with which it shares the meaning \"not easily placated.\" Ultimately, it comes from the verb \"placare,\" meaning \"to calm\" or \"to soothe.\" \"Implacable\" adds the negative \"im-\" to the root to describe something that cannot be calmed or soothed or altered. The root \"placare\" also gave us \"placate.\" You may ask, what about similar-looking words \"placid\" and \"placebo\"? These words are related to \"implacable\" and \"placate,\" but not as closely as you might suspect. They come from the Latin verb \"placēre,\" a relative of \"placare\" that means \"to please.\""
   }
 }

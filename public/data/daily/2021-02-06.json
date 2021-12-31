@@ -1,132 +1,133 @@
 {
   "artist": {
-    "id": "giovanni-paolo-panini",
-    "name": "Giovanni Paolo Panini",
-    "dates": "Jun 17, 1691 - Oct 21, 1765",
-    "mainImg": "img/art/artists/giovanni-paolo-panini.jpg",
+    "id": "theodore-gericault",
+    "name": "Théodore Géricault",
+    "dates": "Sep 26, 1791 - Jan 26, 1824",
+    "mainImg": "img/art/artists/theodore-gericault.jpg",
     "artworkImgs": [
       {
-        "name": "Fantasy View with the Pantheon and other Monuments of Ancient Rome",
-        "path": "img/art/artworks/giovanni-paolo-panini-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/fantasy-view-with-the-pantheon-and-other-monuments-of-ancient-rome-giovanni-pauolo-panini/5QFDjeR4Hr6k-A"
+        "name": "Evening: Landscape with an Aqueduct",
+        "path": "img/art/artworks/theodore-gericault-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-landscape-with-an-aqueduct-théodore-gericault/NgHnFPxggSbVGw"
       },
       {
-        "name": "Interior of Saint Peter's, Rome",
-        "path": "img/art/artworks/giovanni-paolo-panini-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/interior-of-saint-peter-s-rome-giovanni-paolo-panini/vwFQcbQe_NVL_Q"
+        "name": "Mounted Trumpeters of Napoleon's Imperial Guard",
+        "path": "img/art/artworks/theodore-gericault-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mounted-trumpeters-of-napoleon-s-imperial-guard-théodore-gericault/GwGt2Optud1S9g"
       },
       {
-        "name": "Interior of the Pantheon, Rome",
-        "path": "img/art/artworks/giovanni-paolo-panini-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/interior-of-the-pantheon-rome/1AHJFNF8OkfG9Q"
+        "name": "The Boxers",
+        "path": "img/art/artworks/theodore-gericault-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-boxers-théodore-géricault/rQHJttqfDgtVdA"
       },
       {
-        "name": "Picture Gallery with Views of Modern Rome",
-        "path": "img/art/artworks/giovanni-paolo-panini-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/picture-gallery-with-views-of-modern-rome/9wFekPNz5fsIGA"
+        "name": "Alfred Dedreux (1810–1860) as a Child",
+        "path": "img/art/artworks/theodore-gericault-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/alfred-dedreux-1810–1860-as-a-child-théodore-gericault/7gFbekiEaaTOEQ"
       },
       {
-        "name": "View of Castello di Rivoli",
-        "path": "img/art/artworks/giovanni-paolo-panini-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-castello-di-rivoli-giovanni-paolo-pannini/-AE3ILgtOID7ww"
+        "name": "The Giaour",
+        "path": "img/art/artworks/theodore-gericault-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-giaour-théodore-gericault-françois-de-villain/AgHm3uyJq9CJWQ"
       },
       {
-        "name": "Roman Capriccio: The Colosseum and Other Monuments",
-        "path": "img/art/artworks/giovanni-paolo-panini-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/roman-capriccio-the-colosseum-and-other-monuments-giovanni-paolo-panini-italian-1691-1765/ogE98tG1-9-4EQ"
+        "name": "Retour de Russie",
+        "path": "img/art/artworks/theodore-gericault-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/retour-de-russie-théodore-gericault/LgGI3KE5VNRHHw"
       }
     ],
     "summary": [
-      "Giovanni Paolo Panini or Pannini was a painter and architect who worked in Rome and is primarily known as one of the vedutisti. As a painter, Panini is best known for his vistas of Rome, in which he took a particular interest in the city's antiquities. Among his most famous works are his view of the interior of the Pantheon, and his vedute—paintings of picture galleries containing views of Rome. Most of his works, especially those of ruins, have a fanciful and unreal embellishment characteristic of capriccio themes. In this they resemble the capricci of Marco Ricci. Panini also painted portraits, including one of Pope Benedict XIV."
+      "Jean-Louis André Théodore Géricault was an influential French painter and lithographer, whose best-known painting is The Raft of the Medusa. Although he died young, he was one of the pioneers of the Romantic movement."
     ],
-    "quote": null,
-    "movements": [],
-    "mediums": ["Oil paint", "Drawing", "Pen", "Ink", "Graphite", "Chalk"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Giovanni_Paolo_Panini",
-    "urlGoogle": "https://artsandculture.google.com/entity/giovanni-paolo-panini/m032h4l"
+    "quote": "“With the brush we merely tint, while the imagination alone produces colour.”",
+    "movements": ["Romanticism", "Realism"],
+    "mediums": ["Oil paint", "Drawing", "Ink", "Graphite", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault",
+    "urlGoogle": "https://artsandculture.google.com/entity/théodore-géricault/m02k2xv"
   },
   "event": {
-    "id": "cuban-missile-crisis",
-    "name": "Cuban Missile Crisis",
-    "dates": "Oct 16, 1962 - Oct 28, 1962",
-    "mainImg": "img/events/cuban-missile-crisis.jpg",
+    "id": "sts-41-b",
+    "name": "STS-41-B",
+    "dates": "Feb 3, 1984 - Feb 11, 1984",
+    "mainImg": "img/events/sts-41-b.jpg",
     "summary": [
-      "The Cuban Missile Crisis, also known as the October Crisis of 1962, the Caribbean Crisis, or the Missile Scare, was a 13-day confrontation between the United States and the Soviet Union initiated by Soviet ballistic missile deployment in Cuba. The confrontation is often considered the closest the Cold War came to escalating into a full-scale nuclear war.",
-      "In response to the failed Bay of Pigs Invasion of 1961 and the presence of American Jupiter ballistic missiles in Italy and Turkey, Soviet leader Nikita Khrushchev agreed to Cuba's request to place nuclear missiles on the island to deter a future invasion. An agreement was reached during a secret meeting between Khrushchev and Fidel Castro in July 1962, and construction of a number of missile launch facilities started later that summer.",
-      "Meanwhile, the 1962 United States elections were under way, and the White House had denied charges for months that it was ignoring dangerous Soviet missiles 90 miles from Florida. The missile preparations were confirmed when an Air Force U-2 spy plane produced clear photographic evidence of medium-range and intermediate-range ballistic missile facilities.",
-      "When this was reported to President John F."
+      "STS-41-B was the tenth NASA Space Shuttle mission and the fourth flight of the Space Shuttle Challenger. It launched on February 3, 1984, and landed on February 11 after deploying two communications satellites. It was also notable for including the first untethered spacewalk.",
+      "Following STS-9, the flight numbering system for the Space Shuttle program was changed. Thus, the next flight, instead of being designated STS-11, became STS-41-B; the original successor to STS-9, STS-10, was cancelled due to payload delays."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
-    "urlGoogle": "https://artsandculture.google.com/entity/cuban-missile-crisis/m01zxx"
+    "urlWiki": "https://en.wikipedia.org/wiki/STS-41-B",
+    "urlGoogle": "https://artsandculture.google.com/entity/sts-41-b/m0279b6"
   },
   "funFacts": [
     {
-      "id": "281",
-      "fact": "The original name of Nashville, Tennessee was Big Salt Lick.",
-      "category": ["Geography", "History"]
+      "id": "360",
+      "fact": "Mexican jumping beans jump to get out of sunlight.",
+      "category": ["Animals", "Plants"]
     },
-    { "id": "42", "fact": "Frogs cannot swallow with their eyes open.", "category": ["Animals"] }
-  ],
-  "funFacts2": [
     {
-      "id": "504706",
-      "fact": "President Jefferson hated formal affairs so much that he would often greet foreign dignitaries while wearing pajamas."
+      "id": "815",
+      "fact": "The name of the city we call Bangkok is 115 letters long in the Thai language.",
+      "category": ["Hodgepodge"]
     }
   ],
+  "funFacts2": [
+    { "id": "504871", "fact": "When feeding, a hummingbird can lick 10 to 15 times per second." }
+  ],
   "idiom": {
-    "id": "vent-ones-spleen",
-    "term": "vent one's spleen",
-    "definition": "Express one's anger, as in *Some people see town council meetings as a place where they can vent their spleen.* This expression uses *vent* in the sense of \"air,\" and *spleen* in the sense of \"anger,\" alluding to the fact that this organ was once thought to be the seat of ill humor and melancholy. [First half of 1600s]"
+    "id": "holy-cow",
+    "term": "holy cow",
+    "definition": "Also, **holy mackerel** or **Moses** or **moly** or **smoke.** An exclamation of surprise, astonishment, delight, or dismay, as in *Holy cow, I forgot the wine,* or *Holy mackerel, you won!* or *Holy Moses, here comes the teacher!* or *Holy smoke, I didn't know you were here too.* The oldest of these slangy expletives uses *mackerel,* dating from about 1800; the one with *Moses* dates from about 1850 and *cow* from about 1920. None has any literal significance, and *moly* is a neologism devised to rhyme with \"holy\" and possibly a euphemism for \"Moses.\""
   },
   "person": {
-    "id": "harold-pinter",
-    "name": "Harold Pinter",
-    "dates": "Oct 10, 1930 - Dec 24, 2008",
-    "mainImg": "img/people/harold-pinter.jpg",
+    "id": "al-smith",
+    "name": "Al Smith",
+    "dates": "Dec 30, 1873 - Oct 4, 1944",
+    "mainImg": "img/people/al-smith.jpg",
     "summary": [
-      "Harold Pinter CH CBE was a British playwright, screenwriter, director and actor. A Nobel Prize winner, Pinter was one of the most influential modern British dramatists with a writing career that spanned more than 50 years. His best-known plays include The Birthday Party, The Homecoming, and Betrayal, each of which he adapted for the screen. His screenplay adaptations of others' works include The Servant, The Go-Between, The French Lieutenant's Woman, The Trial, and Sleuth. He also directed or acted in radio, stage, television, and film productions of his own and others' works.",
-      "Pinter was born and raised in Hackney, east London, and educated at Hackney Downs School. He was a sprinter and a keen cricket player, acting in school plays and writing poetry. He attended the Royal Academy of Dramatic Art but did not complete the course. He was fined for refusing national service as a conscientious objector. Subsequently, he continued training at the Central School of Speech and Drama and worked in repertory theatre in Ireland and England. In 1956 he married actress Vivien Merchant and had a son, Daniel, born in 1958. He left Merchant in 1975 and married author Lady Antonia Fraser in 1980."
+      "Alfred Emanuel Smith was an American politician who served four terms as Governor of New York and was the Democratic Party's candidate for president in 1928.",
+      "Smith was the foremost urban leader of the Efficiency Movement in the United States and was noted for achieving a wide range of reforms as governor in the 1920s. The son of an Irish-American mother and a Civil War veteran father, he was raised in the Lower East Side of Manhattan near the Brooklyn Bridge, where he resided for his entire life. Like many other New York politicians of his era, he was also linked to the notorious Tammany Hall political machine that controlled New York City's politics, although he remained personally untarnished by corruption. Smith was a strong opponent of Prohibition, which he did not think could be enforced, and viewed it as an over-extension of the government's constitutional power. He was also the first Catholic to be nominated by a major party. His candidacy mobilized Catholic votes, especially from women, who had only recently received federal suffrage."
     ],
-    "quote": "“One way of looking at speech is to say it is a constant stratagem to cover nakedness.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Harold_Pinter",
-    "urlGoogle": "https://artsandculture.google.com/entity/harold-pinter/m0mb5x"
+    "quote": "“No sane local official who has hung up an empty stocking over the municipal fireplace, is going to shoot Santa Claus just before a hard Christmas.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Al_Smith",
+    "urlGoogle": "https://artsandculture.google.com/entity/al-smith/m0173z4"
   },
   "place": {
-    "id": "bradford",
-    "name": "Bradford",
-    "mainImg": "img/places/bradford.jpg",
+    "id": "philippines",
+    "name": "Philippines",
+    "mainImg": "img/places/philippines.jpg",
     "summary": [
-      "Bradford is a city in West Yorkshire, England, in the foothills of the Pennines, 8.6 miles west of Leeds, and 16 miles north-west of Wakefield. Bradford became a municipal borough in 1847, and received its charter as a city in 1897. Following local government reform in 1974, city status was bestowed upon the City of Bradford metropolitan borough.",
-      "Bradford forms part of the West Yorkshire Urban Area, which in 2001 had a population of 1.5 million and is the fourth largest in the United Kingdom. Bradford itself has a population of 529,870, which makes it the seventh-largest city in the United Kingdom and the third-largest city in Yorkshire and the Humber after Leeds and Sheffield.",
-      "Historically part of the West Riding of Yorkshire, Bradford rose to prominence in the 19th century as an international centre of textile manufacture, particularly wool. It was a boomtown of the Industrial Revolution, and amongst the earliest industrialised settlements, rapidly becoming the \"wool capital of the world\"."
+      "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas and Mindanao. The capital city of the Philippines is Manila and the most populous city is Quezon City, both within the single urban area of Metro Manila. Bounded by the South China Sea on the west, the Philippine Sea on the east and the Celebes Sea on the southwest, the Philippines shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east, Indonesia to the south, Malaysia and Brunei to the southwest, Vietnam to the west, and China to the northwest.",
+      "The Philippines' location on the Pacific Ring of Fire and close to the equator makes the country prone to earthquakes and typhoons, but also endows it with abundant natural resources and some of the world's greatest biodiversity. The Philippines is the world's fifth-largest island country with an area of 300,000 km². As of 2015, it had a population of at least 100 million."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bradford",
-    "urlGoogle": "https://artsandculture.google.com/entity/bradford/m020d8d"
+    "urlWiki": "https://en.wikipedia.org/wiki/Philippines",
+    "urlGoogle": "https://artsandculture.google.com/entity/philippines/m05v8c"
   },
   "quote": {
-    "id": "112",
-    "quote": "All of humanity’s problems stem from man’s inability to sit quietly in a room alone.",
-    "author": "Blaise Pascal"
+    "id": "126",
+    "quote": "The farther backward you can look, the farther forward you can see.",
+    "author": "Winston Churchill"
   },
   "wiki": {
-    "id": "golden-sun",
-    "name": "Golden Sun",
-    "summary": "Golden Sun is the first installment of a series of fantasy role-playing video games developed by Camelot Software Planning and published by Nintendo. It was released in November 2001 for Nintendo's Game Boy Advance, followed by a sequel, Golden Sun: The Lost Age, in 2003. The game is notable for certain unique game elements, such as the use of special \"Djinn\" that empower the player and can be used against enemies. Golden Sun's story follows a band of magic-attuned \"adepts\" who are sent from their home town into the wide world of Weyard to prevent the potentially destructive power of alchemy from being released as it was in the past. Along the way the adepts gain new abilities, help out the local populations, and learn more about why alchemy was sealed away. The story continues in The Lost Age. Upon its release, the game was highly praised; IGN's Craig Harris wrote that Golden Sun could \"arguably be one of the best 2D-based Japanese RPGs created for any system.\" The game went on to sell over one million copies in Japan and the United States. A second sequel, Golden Sun: Dark Dawn, is scheduled for release in 2010.",
-    "url": "https://en.wikipedia.org/wiki/Golden_Sun"
+    "id": "right-whale",
+    "name": "Right whale",
+    "summary": "Right whales are baleen whales belonging to the family Balaenidae. There are four species in two genera: Eubalaena (three species) and Balaena (one species, the Bowhead Whale, also called the Greenland Right Whale). Right whales can grow to 18 m (60 ft) long and weigh up to 100 metric tons. Their rotund bodies are mostly black, with distinctive white callosities (skin abrasions) on their heads. They are called \"right whales\" because whalers thought the whales were the \"right\" ones to catch, as they float when killed and often swim within sight of the shore. Populations were vastly reduced by intensive harvesting during the active years of the whaling industry. Nowadays, instead of hunting them, people often watch this acrobatic family for pleasure. The three right whale species live in geographically distinct locations. Around 300 Atlantic Northern Right Whales live in the North Atlantic, while the North Pacific has approximately 200 Pacific Northern Right Whales. Finally, about 7,500 Southern Right Whales are spread throughout the southern part of the Southern Hemisphere.",
+    "url": "https://en.wikipedia.org/wiki/Right_whale"
   },
   "word": {
-    "id": "wanderlust",
-    "word": "wanderlust",
-    "url": "https://www.merriam-webster.com/dictionary/wanderlust",
-    "partOfSpeech": "noun",
-    "pronunciation": "WAHN-der-lust",
-    "audioPath": "audio/words/wanderlust.mp3",
-    "definitions": ["strong longing for or impulse towards wandering"],
-    "examples": [
-      "After years of traveling, Philip accepted a job in Minnesota and announced his intention to settle down, but once the first cold snap hit, it didn’t take long for wanderlust to set in again."
+    "id": "miscible",
+    "word": "miscible",
+    "url": "https://www.merriam-webster.com/dictionary/miscible",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MISS-uh-bul",
+    "audioPath": "audio/words/miscible.mp3",
+    "definitions": [
+      "capable of being mixed; specifically : capable of mixing in any ratio without separation of two phases"
     ],
-    "origin": "\"For my part,\" writes Robert Louis Stevenson in _Travels with a Donkey_, \"I travel not to go anywhere, but to go. I travel for travel's sake. The great affair is to move.\" Sounds like a case of wanderlust if we ever heard one. Those with \"wanderlust\" don't necessarily need to go anywhere in particular; they just don't care to stay in one spot. The etymology of \"wanderlust\" is a very simple one that you can probably figure out yourself. \"Wanderlust\" is lust (or \"desire\") for wandering. The word comes from German, in which \"wandern\" means \"to wander,\" and \"Lust\" means \"desire.\""
+    "examples": [
+      "Mr. Remington's class demonstration showed that, to paraphrase an old saying, oil and water are indeed not _miscible_.",
+      "\"Joseph is determined to make it on his own, and succeeds in inventing the first laundry detergent _miscible_ in both oil and water.\" - From a book review by Wingate Packard in _The Seattle Times_, September 8, 2006"
+    ],
+    "origin": "\"Miscible\" isn't simply a lesser-known synonym of \"mixable\"-it's also a cousin. It comes to us from the Medieval Latin adjective \"miscibilis,\" which has the same meaning as \"miscible\" and which derives in turn from Latin \"miscēre,\" meaning \"to mix.\" \"Miscēre\" is also the ultimate source of our \"mix\"; its past participle \"mixtus\" (meaning \"mixed\") spawned \"mixte\" in Anglo-French and Middle English, and \"mix\" came about as a back-formation of \"mixte.\" The suffix \"-able\" gives us \"mixable,\" thereby completing its link to \"miscible.\" \"Miscible\" turns up most frequently in scientific discussions where it is used especially to describe fluids that don't separate when they are combined."
   }
 }

@@ -1,128 +1,118 @@
 {
   "artist": {
-    "id": "hanabusa-itcho",
-    "name": "Hanabusa Itchō",
-    "dates": "1652 - Feb 7, 1724",
-    "mainImg": "img/art/artists/hanabusa-itcho.jpg",
+    "id": "maurice-de-vlaminck",
+    "name": "Maurice de Vlaminck",
+    "dates": "Apr 4, 1876 - Oct 11, 1958",
+    "mainImg": "img/art/artists/maurice-de-vlaminck.jpg",
     "artworkImgs": [
       {
-        "name": "Building Poetry: waka",
-        "path": "img/art/artworks/hanabusa-itcho-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/building-poetry-waka-hanabusa-itchō-japanese-1652-1724/pgFkiYrTdit2Hg"
+        "name": "Button",
+        "path": "img/art/artworks/maurice-de-vlaminck-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/button-maurice-vlaminck/9gEVUQyCRkMIHQ"
       },
       {
-        "name": "Wang Ziqiao",
-        "path": "img/art/artworks/hanabusa-itcho-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/wang-ziqiao-iccho-hanabusa/FgHP5LTZuqvX2g"
+        "name": "The Seine at Nanterre",
+        "path": "img/art/artworks/maurice-de-vlaminck-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-seine-at-nanterre-maurice-de-vlaminck/PQE4GBYpAZZ7Ww"
       },
       {
-        "name": "Temple bell",
-        "path": "img/art/artworks/hanabusa-itcho-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/temple-bell-artist-hanabusa-itcho/1gGG-wbSYH1MYQ"
+        "name": "Vase with flowers",
+        "path": "img/art/artworks/maurice-de-vlaminck-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/vase-with-flowers-maurice-de-vlaminck/7wHT1mCyktaL0g"
       },
       {
-        "name": "A Pagoda",
-        "path": "img/art/artworks/hanabusa-itcho-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/a-pagoda-artist-hanabusa-itcho/6gGtI-ao8kFEtw"
+        "name": "Village Street",
+        "path": "img/art/artworks/maurice-de-vlaminck-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/village-street-maurice-vlaminck/RwFq4cw2mZ4fGg"
       },
       {
-        "name": "Pastimes and occupations of the twelve months",
-        "path": "img/art/artworks/hanabusa-itcho-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/pastimes-and-occupations-of-the-twelve-months-artist-hanabusa-itcho/-QGgNUzMdT0yOg"
-      },
-      {
-        "name": "Page from an illustrated book, Hanabusa Itcho gafu",
-        "path": "img/art/artworks/hanabusa-itcho-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/page-from-an-illustrated-book-hanabusa-itcho-gafu-artist-hanabusa-itcho/HQHQPopznH8ApA"
+        "name": "House and Road",
+        "path": "img/art/artworks/maurice-de-vlaminck-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/house-and-road-vlaminck-maurice-de/FQGQTj8aDWPAbw"
       }
     ],
     "summary": [
-      "Hanabusa Itchō was a Japanese painter, calligrapher, and haiku poet. He originally trained in the Kanō style, under Kanō Yasunobu, but ultimately rejected that style and became a literati. He was also known as Hishikawa Waō and by a number of other art-names."
+      "Maurice de Vlaminck was a French painter. Along with André Derain and Henri Matisse he is considered one of the principal figures in the Fauve movement, a group of modern artists who from 1904 to 1908 were united in their use of intense colour. Vlaminck was one of the Fauves at the controversial Salon d'Automne exhibition of 1905."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Silk", "Textile", "Gold", "Metal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Hanabusa_Itch%C5%8D",
-    "urlGoogle": "https://artsandculture.google.com/entity/hanabusa-itchō/m0g_c5c"
+    "movements": ["Modern art", "Fauvism"],
+    "mediums": ["Oil paint", "Rock", "Ceramic", "Clay"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Maurice_de_Vlaminck",
+    "urlGoogle": "https://artsandculture.google.com/entity/maurice-de-vlaminck/m0342rt"
   },
   "event": {
-    "id": "second-sino-japanese-war",
-    "name": "Second Sino-Japanese War",
-    "dates": "Jul 7, 1937 - Sep 9, 1945",
-    "mainImg": "img/events/second-sino-japanese-war.jpg",
+    "id": "kamakura-period",
+    "name": "Kamakura period",
+    "dates": "1185 - 1333",
+    "mainImg": "img/events/kamakura-period.jpg",
     "summary": [
-      "The Second Sino-Japanese War was a military conflict that was primarily waged between the Republic of China and the Empire of Japan from July 7, 1937, to September 2, 1945. The start of the war is typically considered to be the Marco Polo Bridge Incident in 1937, in which a dispute between Japanese and Chinese troops escalated into a full-scale invasion. Some sources in the modern People's Republic of China date the beginning of the war to the Japanese invasion of Manchuria in 1931. In China, it is known as the War of Resistance against Japanese Aggression.",
-      "China fought Japan with aid from the Soviet Union and the United States. After the Japanese attacks on Malaya and Pearl Harbor in 1941, the war merged with other conflicts of World War II as a major sector known as the China Burma India Theater. Some scholars consider the start of the full-scale Second Sino-Japanese War in 1937 to have been the beginning of World War II. The Second Sino-Japanese War was the largest Asian war in the 20th century."
+      "The Kamakura period is a period of Japanese history that marks the governance by the Kamakura shogunate, officially established in 1192 in Kamakura by the first shōgun, Minamoto no Yoritomo. The period is known for the emergence of the samurai, the warrior caste, and for the establishment of feudalism in Japan.",
+      "The Kamakura period ended in 1333 with the destruction of the shogunate and the short re-establishment of imperial rule under Emperor Go-Daigo by Ashikaga Takauji, Nitta Yoshisada, and Kusunoki Masashige."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/second-sino-japanese-war/m0j5ym"
+    "urlWiki": "https://en.wikipedia.org/wiki/Kamakura_period",
+    "urlGoogle": "https://artsandculture.google.com/entity/kamakura-period/m01cl2h"
   },
   "funFacts": [
+    { "id": "398", "fact": "Hippos can open their mouths 180 degrees.", "category": ["Animals"] },
     {
-      "id": "912",
-      "fact": "Meteorologists claim they're right 85% of the time.",
-      "category": ["Science"]
-    },
-    {
-      "id": "108",
-      "fact": "Licking a stamp burns 10 calories.",
-      "category": ["Anatomy", "Science"]
+      "id": "173",
+      "fact": "Chinese is the most spoken language in the world.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504558",
-      "fact": "The Margherita pizza was likely named after Margherita of Savoy, Queen consort of Italy from 1878 to 1900."
+      "id": "554038",
+      "fact": "Hollywood starlet Hedy Lamarr is often called the “mother of Wi-Fi.” She helped invent a version of the frequency-hopping system that led to the creation of GPS, Bluetooth, and wireless internet."
     }
   ],
   "idiom": {
-    "id": "paint-the-town-red",
-    "term": "paint the town red",
-    "definition": "Go on a spree, as in *Whenever they go to New York they want to paint the town red.* The precise allusion of this term is disputed. Some believe it refers to setting something on fire; others point to a vague association of the color red with violence. [Late 1800s]"
+    "id": "sleep-like-a-log",
+    "term": "sleep like a log",
+    "definition": "Also, **sleep like a top.** Sleep very soundly, as in *I slept like a log,* or *She said she slept like a top.* Both of these similes transfer the immobility of an object to that of a person who is sound asleep (since a top spinning quickly looks immobile). The first dates from the late 1600s; the variant is newer."
   },
   "person": {
-    "id": "arthur-st-clair",
-    "name": "Arthur St. Clair",
-    "dates": "Mar 23, 1737 - Aug 31, 1818",
-    "mainImg": "img/people/arthur-st-clair.jpg",
+    "id": "dudley-j-le-blanc",
+    "name": "Dudley J. LeBlanc",
+    "dates": "Aug 16, 1894 - Oct 22, 1971",
+    "mainImg": "img/people/dudley-j-le-blanc.jpg",
     "summary": [
-      "Arthur St. Clair was a Scottish-American soldier and politician. Born in Thurso, Scotland, he served in the British Army during the French and Indian War before settling in Pennsylvania, where he held local office. During the American Revolutionary War, he rose to the rank of major general in the Continental Army, but lost his command after a controversial retreat from Fort Ticonderoga.",
-      "After the war, he served as President of the Continental Congress, which during his term passed the Northwest Ordinance. He was then made governor of the Northwest Territory in 1788, and then the portion that would become Ohio in 1800. In 1791, St. Clair commanded the American forces in what was the United States's worst ever defeat by the American Indians. Politically out-of-step with the Jefferson administration, he was replaced as governor in 1802."
+      "Dudley J. LeBlanc was an American entrepreneur and politician. He created the patent medicine Hadacol and promoted it through the 'Hadacol Caravan' which featured major celebrities of the day including Mickey Rooney, Ava Gardner, Cesar Romero, Hank Williams, and many others. Williams began writing the song 'Jambalaya' while traveling on the Hadacol bus, listening to the Cajun conversation.",
+      "Leblanc served in the Louisiana House of Representatives from 1924 to 1928. In 1932 he ran for governor, losing to the Huey Long candidate Oscar K. Allen. He served in the Louisiana Senate from 1940 to 1944, 1948 to 1952, and 1964 to 1972.",
+      "In his gubernatorial campaign, one of Leblanc's planks was to pay a monthly stipend to the elderly. Huey Long subsequently adopted the idea in his nascent campaign for President. Franklin D. Roosevelt got the idea from Long, and it became the modern Social Security system.",
+      "He was posthumously inducted into the Louisiana Political Museum and Hall of Fame in 1993."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Arthur_St._Clair",
-    "urlGoogle": "https://artsandculture.google.com/entity/arthur-st-clair/m0_xz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Dudley_J._LeBlanc",
+    "urlGoogle": "https://artsandculture.google.com/entity/dudley-j-leblanc/m0dhxyt"
   },
   "place": {
-    "id": "springfield",
-    "name": "Springfield",
-    "mainImg": "img/places/springfield.jpg",
+    "id": "freiburg-im-breisgau",
+    "name": "Freiburg im Breisgau",
+    "mainImg": "img/places/freiburg-im-breisgau.jpg",
     "summary": [
-      "Springfield is the third largest city in the state of Missouri and the county seat of Greene County. As of the 2010 census, the city's population was 159,498. As of 2019, the Census Bureau estimated its population at 167,882. It is the principal city of the Springfield metropolitan area, which has a population of 462,369 and includes the counties of Christian, Dallas, Greene, Polk, and Webster.",
-      "Springfield's nickname is \"Queen City of the Ozarks\" as well as “The 417” after the area code for the city. it is also known as the \"Birthplace of Route 66\". It is home to three universities, Missouri State University, Drury University, and Evangel University."
+      "Freiburg im Breisgau is an independent city in Baden-Württemberg, Germany. With a population of about 230,000, Freiburg is the fourth largest city in Baden-Württemberg after Stuttgart, Karlsruhe, and Mannheim. In the south-west of the country, it straddles the Dreisam river, at the foot of the Schlossberg. Historically, the city has acted as the hub of the Breisgau region on the western edge of the Black Forest in the Upper Rhine Plain. A famous old German university town, and archiepiscopal seat, Freiburg was incorporated in the early twelfth century and developed into a major commercial, intellectual, and ecclesiastical center of the upper Rhine region. The city is known for its medieval minster and Renaissance university, as well as for its high standard of living and advanced environmental practices. The city is situated in the heart of the major Baden wine-growing region and serves as the primary tourist entry point to the scenic beauty of the Black Forest. According to meteorological statistics, the city is the sunniest and warmest in Germany, and held the all-time German temperature record of 40.2 °C from 2003 to 2015."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Springfield,_Missouri",
-    "urlGoogle": "https://artsandculture.google.com/entity/springfield/m013gwb"
+    "urlWiki": "https://en.wikipedia.org/wiki/Freiburg_im_Breisgau",
+    "urlGoogle": "https://artsandculture.google.com/entity/freiburg-im-breisgau/m0ptj2"
   },
   "wiki": {
-    "id": "stanley-bruce",
-    "name": "Stanley Bruce",
-    "summary": "Stanley Bruce (1883–1967) was the eighth Prime Minister of Australia, serving from 1923 to 1929. He was a barrister and businessman before being wounded in the Gallipoli Campaign of World War I. Elected to parliament in 1918 as a member of the Nationalist Party, he served as treasurer in the government of Billy Hughes before replacing him as prime minister in 1923. Bruce overhauled federal government administration and oversaw its transfer to the new capital, Canberra. His \"men, money and markets\" scheme was an ambitious attempt to rapidly expand Australia's population and economic potential through massive government investment and closer ties with Great Britain and the rest of the British Empire. But his heavy-handed response to industrial unrest and attempts to overhaul labour laws led to a landslide defeat in 1929. After politics, Bruce became involved with the League of Nations until the outbreak of World War II. After the war, he was a leading advocate of development aid, a founder of the Food and Agriculture Organization, the first chancellor of the Australian National University and the first Australian to sit in the House of Lords (as Viscount Bruce of Melbourne).",
-    "url": "https://en.wikipedia.org/wiki/Stanley_Bruce"
+    "id": "alloxylon-flammeum",
+    "name": "Alloxylon flammeum",
+    "summary": "Alloxylon flammeum, commonly known as the Queensland tree waratah or red silky oak, is a medium-sized tree of the family Proteaceae found in the Queensland tropical rain forests. It has shiny green elliptical leaves up to 18 cm (7.2 in) long, and prominent orange-red inflorescences that appear from August to October, followed by rectangular woody seed pods that ripen in February and March. Juvenile plants have large (up to 25 cm (10 in) long) deeply lobed pinnate leaves. Previously known as Oreocallis wickhamii, the initial specimen turned out to be a different species to the one cultivated and hence a new scientific name was required. Described formally in 1991, A. flammeum was designated the type species of the genus Alloxylon. Alloxylon flammeum is a canopy or emergent tree of the Mabi rainforest community of north Queensland. It is readily adaptable to cultivation, and prefers a site with good drainage. The tree's terminal tubular flowers indicate that the species is pollinated by birds. It is listed nationally as vulnerable under the Australian Environment Protection and Biodiversity Conservation Act 1999 as most of its habitat has been cleared for agriculture and logging.",
+    "url": "https://en.wikipedia.org/wiki/Alloxylon_flammeum"
   },
   "word": {
-    "id": "crwth",
-    "word": "crwth",
-    "url": "https://www.merriam-webster.com/dictionary/crwth",
+    "id": "equanimity",
+    "word": "equanimity",
+    "url": "https://www.merriam-webster.com/dictionary/equanimity",
     "partOfSpeech": "noun",
-    "pronunciation": "KROOTH (rhymes with \"booth\")",
-    "audioPath": "audio/words/crwth.mp3",
-    "definitions": ["an ancient Celtic stringed instrument that is plucked or bowed"],
-    "examples": [
-      "\"He intricately rhymes, to the music of crwth and pibgorn, all night long.\" (Dylan Thomas, _Under Milk Wood_)"
-    ],
-    "origin": "\"Crwth\" is the Welsh name for an ancient Celtic instrument that is similar to a violin. In Middle English, the instrument's name was spelled \"crouth\" before metamorphosing to \"crowd,\" a word still used in some dialects of England to refer to a violin. The Welsh word can also refer to a swelling or bulging body, and we can speculate that it came to be used for the instrument because of the violin's bulging shape. Other Celtic words for \"violin\" also have meanings referring to rounded appearances. In Gaelic, for example, \"cruit\" can mean \"harp\" or \"violin\" as well as \"hump\" or \"hunch.\" As a final note, we would like to mention (in case you were wondering) that a pibgorn is an ancient wind instrument similar to the hornpipe; its name comes from the Welsh word \"pib,\" meaning \"pipe,\" and \"corn,\" meaning \"horn.\""
+    "pronunciation": "ee-kwuh-NIM-uh-tee",
+    "audioPath": "audio/words/equanimity.mp3",
+    "definitions": ["evenness of mind especially under stress", "right disposition : balance"],
+    "examples": ["Carol's famous equanimity didn't desert her, even in the midst of the crisis."],
+    "origin": "If you think \"equanimity\" looks like it has something to do with \"equal,\" you've guessed correctly. Both \"equanimity\" and \"equal\" are derived from \"aequus,\" a Latin adjective meaning \"level\" or \"equal.\" \"Equanimity\" comes from the combination of \"aequus\" and \"animus\" (\"soul\" or \"mind\") in the Latin phrase \"aequo animo,\" which means \"with even mind.\" English speakers began using \"equanimity\" early in the 17th century with the now obsolete sense \"fairness or justness of judgment,\" which was in keeping with the meaning of the Latin phrase. \"Equanimity\" quickly came to suggest keeping a cool head under any sort of pressure, not merely when presented with a problem, and eventually it developed an extended sense for general balance and harmony."
   }
 }

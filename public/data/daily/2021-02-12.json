@@ -1,137 +1,137 @@
 {
   "artist": {
-    "id": "rembrandt",
-    "name": "Rembrandt",
-    "dates": "Jul 15, 1606 - Oct 4, 1669",
-    "mainImg": "img/art/artists/rembrandt.jpg",
+    "id": "ito-jakuchu",
+    "name": "Itō Jakuchū",
+    "dates": "Mar 1, 1716 - Oct 27, 1800",
+    "mainImg": "img/art/artists/ito-jakuchu.jpg",
     "artworkImgs": [
       {
-        "name": "Return of the Prodigal Son",
-        "path": "img/art/artworks/rembrandt-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/return-of-the-prodigal-son-rembrandt-harmensz-van-rijn/5QFIEhic3owZ-A"
+        "name": "Elephant",
+        "path": "img/art/artworks/ito-jakuchu-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/elephant-ito-jyakuchu/VwGwrz0SexYogw"
       },
       {
-        "name": "Christ in the Storm on the Sea of Galilee",
-        "path": "img/art/artworks/rembrandt-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/christ-in-the-storm-on-the-sea-of-galilee-rembrandt-van-rijn/HAFJC4JVXYbUBg"
+        "name": "Elephant",
+        "path": "img/art/artworks/ito-jakuchu-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/elephant-ito-jakuchu/9QGN-n373lK9pg"
       },
       {
-        "name": "The Night Watch",
-        "path": "img/art/artworks/rembrandt-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-night-watch-rembrandt-harmensz-van-rijn/eQEojRwTdypUKA"
+        "name": "Two Gibbons Reaching for the Moon",
+        "path": "img/art/artworks/ito-jakuchu-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/two-gibbons-reaching-for-the-moon-ito-jakuchu/aAGGZdu3IeIYdA"
       },
       {
-        "name": "The Syndics",
-        "path": "img/art/artworks/rembrandt-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-syndics-rembrandt-harmensz-van-rijn/ZgHt6DZhk-6SVw"
+        "name": "Rooster, Hen and Chickens",
+        "path": "img/art/artworks/ito-jakuchu-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/rooster-hen-and-chickens-itô-jakuchû/sgEopzA7bjUFhQ"
       },
       {
-        "name": "Isaac and Rebecca, known as 'The Jewish Bride'",
-        "path": "img/art/artworks/rembrandt-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/isaac-and-rebecca-known-as-the-jewish-bride-rembrandt-harmensz-van-rijn/hAERFV8rdOOssw"
+        "name": "Animals in the Flower garden (Right-hand screen)",
+        "path": "img/art/artworks/ito-jakuchu-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/animals-in-the-flower-garden-right-hand-screen-ito-jakuchu/8QGBpHoNA3IkNg"
       },
       {
-        "name": "Moses with the Ten Commandments",
-        "path": "img/art/artworks/rembrandt-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/moses-with-the-ten-commandments-rembrandt/kQHX7sr3-DlCHA"
+        "name": "月下白梅図|White Plum Blossoms and Moon",
+        "path": "img/art/artworks/ito-jakuchu-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/月下白梅図-white-plum-blossoms-and-moon-itō-jakuchū/DgHtxDrnoZeVAw"
       }
     ],
     "summary": [
-      "Rembrandt Harmenszoon van Rijn was a Dutch draughtsman, painter, and printmaker. An innovative and prolific master in three media, he is generally considered one of the greatest visual artists in the history of art and the most important in Dutch art history. Unlike most Dutch masters of the 17th century, Rembrandt's works depict a wide range of style and subject matter, from portraits and self-portraits to landscapes, genre scenes, allegorical and historical scenes, and biblical and mythological themes as well as animal studies. His contributions to art came in a period of great wealth and cultural achievement that historians call the Dutch Golden Age, when Dutch art, although in many ways antithetical to the Baroque style that dominated Europe, was extremely prolific and innovative and gave rise to important new genres. Like many artists of the Dutch Golden Age, such as Jan Vermeer of Delft, Rembrandt was also an avid art collector and dealer.",
-      "Rembrandt never went abroad, but he was considerably influenced by the work of the Italian masters and Netherlandish artists who had studied in Italy, like Pieter Lastman, the Utrecht Caravaggists, Flemish Baroque, and Peter Paul Rubens."
-    ],
-    "quote": "“Old age is a hindrance to creativity but cannot crush my youthful spirit.”",
-    "movements": ["Baroque", "Dutch Golden Age"],
-    "mediums": ["Etching", "Oil paint", "Pen", "Laid paper", "Ink", "Engraving"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Rembrandt",
-    "urlGoogle": "https://artsandculture.google.com/entity/rembrandt/m0bskv2"
-  },
-  "event": {
-    "id": "apollo-6",
-    "name": "Apollo 6",
-    "dates": null,
-    "mainImg": "img/events/apollo-6.jpg",
-    "summary": [
-      "Apollo 6, launched on April 4, 1968, was the second A-type mission of the United States Apollo program, an uncrewed test of the Saturn V launch vehicle. It was also the final uncrewed Apollo test mission.",
-      "The objectives of the flight test were to demonstrate trans-lunar injection capability of the Saturn V with a simulated payload equal to about 80% of a full Apollo spacecraft, and to repeat demonstration of the command module's heat shield capability to withstand a lunar re-entry. The flight plan called for following trans-lunar injection with a direct return abort using the command and service module's main engine, with a total flight time of about 10 hours.",
-      "A phenomenon known as pogo oscillation damaged some of the Rocketdyne J-2 engines in the second and third stages by rupturing internal fuel lines, causing two second-stage engines to shut down early. The vehicle's onboard guidance system was able to compensate by burning the second and third stages longer, though the resulting parking orbit was more elliptical than planned. The damaged third-stage engine also failed to restart for trans-lunar injection."
+      "Itō Jakuchū was a Japanese painter of the mid-Edo period when Japan had closed its doors to the outside world. Many of his paintings concern traditionally Japanese subjects, particularly chickens and other birds. Many of his otherwise traditional works display a great degree of experimentation with perspective, and with other very modern stylistic elements.",
+      "Compared to Soga Shōhaku and other exemplars of the mid-Edo period eccentric painters, Jakuchū is said to have been very calm, restrained, and professional. He held strong ties to Zen Buddhist ideals, and was considered a lay brother; but he was also keenly aware of his role within a Kyoto society that was becoming increasingly commercial."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Apollo_6",
-    "urlGoogle": "https://artsandculture.google.com/entity/apollo-6/m01hnw4"
+    "movements": [],
+    "mediums": ["Ink", "Silk", "Textile", "Book", "Watercolor painting", "Gold"],
+    "urlWiki": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
+    "urlGoogle": "https://artsandculture.google.com/entity/itō-jakuchū/m0g4p75"
+  },
+  "event": {
+    "id": "crimean-war",
+    "name": "Crimean War",
+    "dates": "Oct 5, 1853 - Mar 30, 1856",
+    "mainImg": "img/events/crimean-war.jpg",
+    "summary": [
+      "The Crimean War was a military conflict fought from October 1853 to February 1856 in which Russia lost to an alliance made up of the Ottoman Empire, France, the United Kingdom and Sardinia. The immediate cause of the war involved the rights of Christian minorities in the Holy Land, which was a part of the Ottoman Empire. The French promoted the rights of Roman Catholics, while Russia promoted those of the Eastern Orthodox Church. The longer-term causes involved the decline of the Ottoman Empire and the unwillingness of Britain and France to allow Russia to gain territory and power at the Ottoman Empire's expense. It has widely been noted that the causes, in one case involving an argument over a key, have never revealed a \"greater confusion of purpose\", yet they led to a war noted for its \"notoriously incompetent international butchery\".",
+      "While the Churches worked out their differences with the Ottomans and came to an agreement, Nicholas I of Russia and the French Emperor Napoleon III refused to back down. Nicholas issued an ultimatum that the Orthodox subjects of the Ottoman Empire be placed under his protection."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Crimean_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/crimean-war/m0cmc2"
   },
   "funFacts": [
     {
-      "id": "669",
-      "fact": "In the game Monopoly, the properties are named after streets in Atlantic City.",
-      "category": ["Hodgepodge"]
+      "id": "748",
+      "fact": "A dog's average body temperature is 101 degrees Fahrenheit.",
+      "category": ["Animals"]
     },
     {
-      "id": "52",
-      "fact": "About 11% of the people in the world are left-handed.",
+      "id": "791",
+      "fact": "The average person takes 23,000 breaths a day.",
       "category": ["Anatomy"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554081",
-      "fact": "The position dogs assume when they're inviting other pets to play is called a play bow."
+      "id": "553531",
+      "fact": "Long before rap battles, there was \"flyting\": the exchange of witty, insulting verses. The verbal throwdowns were popular in England and Scotland from the 5th to 16th centuries."
     }
   ],
   "idiom": {
-    "id": "wet-behind-the-ears",
-    "term": "wet behind the ears",
-    "definition": "Also, **not dry behind the ears.** Immature, inexperienced, as in *How can you take instructions from Tom? He's still wet behind the ears,* or *Jane's not dry behind the ears yet.* This term alludes to the fact that the last place to dry in a newborn colt or calf is the indentation behind its ears. [Early 1900s]"
+    "id": "in-two-shakes",
+    "term": "in two shakes",
+    "definition": "Also, **in two shakes of a lamb's tail** Very quickly, very soon, as in *I'll be with you in two shakes,* or *She'll be finished in two shakes of a lamb's tail.* The longer idiom alludes to the friskiness of lambs; the shorter one may be an abbreviation of the longer one, or it may refer to the shaking of dice or any two quick movements. [Early 1800s]"
   },
   "person": {
-    "id": "joseph-pulitzer",
-    "name": "Joseph Pulitzer",
-    "dates": "Apr 10, 1847 - Oct 29, 1911",
-    "mainImg": "img/people/joseph-pulitzer.jpg",
+    "id": "pedro-pomar",
+    "name": "Pedro Pomar",
+    "dates": "Sep 23, 1913 - Dec 16, 1976",
+    "mainImg": "img/people/pedro-pomar.jpg",
     "summary": [
-      "Joseph Pulitzer was a newspaper publisher of the St. Louis Post-Dispatch and the New York World. He became a leading national figure in the Democratic Party and was elected congressman from New York. He crusaded against big business and corruption, and helped keep the Statue of Liberty in New York.",
-      "In the 1890s the fierce competition between his World and William Randolph Hearst's New York Journal caused both to develop the techniques of yellow journalism, which won over readers with sensationalism, sex, crime and graphic horrors. The wide appeal reached a million copies a day and opened the way to mass-circulation newspapers that depended on advertising revenue and appealed to readers with multiple forms of news, gossip, entertainment and advertising.",
-      "Today, his name is best known for the Pulitzer Prizes, which were established in 1917 as a result of his endowment to Columbia University. The prizes are given annually to recognize and reward excellence in American journalism, photography, literature, history, poetry, music and drama. Pulitzer founded the Columbia School of Journalism by his philanthropic bequest; it opened in 1912."
-    ],
-    "quote": "“Publicity, publicity, publicity is the greatest moral factor and force in our public life.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Joseph_Pulitzer",
-    "urlGoogle": "https://artsandculture.google.com/entity/joseph-pulitzer/m019541"
-  },
-  "place": {
-    "id": "darwin",
-    "name": "Darwin",
-    "mainImg": "img/places/darwin.jpg",
-    "summary": [
-      "Darwin is the capital city of the Northern Territory of Australia, situated on the Timor Sea. It is the largest city in the sparsely populated Northern Territory, with a population of 148,564. It is the smallest, wettest, and most northerly of the Australian capital cities and acts as the Top End's regional centre.",
-      "Darwin's proximity to Southeast Asia makes it a link between Australia and countries such as Indonesia and East Timor. The Stuart Highway begins in Darwin, extends southerly across central Australia through Tennant Creek and Alice Springs, concluding in Port Augusta, South Australia. The city is built upon a low bluff overlooking the harbour. Its suburbs begin at Lee Point in the north and stretch to Berrimah in the east. Past Berrimah, the Stuart Highway goes on to Darwin's satellite city Palmerston and its suburbs.",
-      "The Darwin region, like much of the Top End, experiences a tropical climate with a wet and dry season. A period known locally as \"the build up\" leading up to Darwin's wet season sees temperature and humidity increase."
+      "Pedro Ventura Felipe de Araújo Pomar foi um político brasileiro, fundador do Partido Comunista do Brasil.",
+      "Foi assassinado durante o ataque a tiros à casa 767 da Rua Pio XI, no bairro da Lapa, onde o Comitê Central do PC do B esteve reunido entre os dias 11 e 15 de dezembro de 1976. Este episódio ficaria conhecido como Chacina da Lapa.",
+      "É um dos casos investigados pela Comissão da Verdade, que apura mortes e desaparecimentos na ditadura militar brasileira."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Darwin,_Northern_Territory",
-    "urlGoogle": "https://artsandculture.google.com/entity/darwin/m02bm8"
+    "urlWiki": "https://pt.wikipedia.org/wiki/Pedro_Pomar",
+    "urlGoogle": "https://artsandculture.google.com/entity/pedro-pomar/g1210gsns"
+  },
+  "place": {
+    "id": "kharkiv",
+    "name": "Kharkiv",
+    "mainImg": "img/places/kharkiv.jpg",
+    "summary": [
+      "Kharkiv, also known as Kharkov is the second largest city in Ukraine. In the northeast of the country, it is the largest city of the Slobozhanshchyna historical region. Kharkiv is the administrative centre of Kharkiv Oblast and of the surrounding Kharkiv Raion, though administratively it is incorporated as a city of oblast significance and does not belong to the raion.",
+      "The city was founded in 1654 and after a humble beginning as a small fortress grew to be a major centre of Ukrainian industry, trade and culture in the Russian Empire. Kharkiv was the first capital of the Ukrainian Soviet Socialist Republic, from December 1919 to January 1934, after which the capital relocated to Kiev.",
+      "Presently, Kharkiv is a major cultural, scientific, educational, transport and industrial centre of Ukraine, with numerous museums, theatres and libraries, including the Annunciation and Dormition Cathedrals, the Derzhprom building in Freedom Square, and the National University of Kharkiv. Kharkiv was a host city for UEFA Euro 2012.",
+      "Industry plays a large role in Kharkiv's economy. Kharkiv's industry specializes primarily in machinery and in electronics."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kharkiv",
+    "urlGoogle": "https://artsandculture.google.com/entity/kharkiv/m082sy9"
   },
   "quote": {
-    "id": "55",
-    "quote": "The man who does not read has no advantage over the man who cannot read.",
-    "author": "Mark Twain"
+    "id": "35",
+    "quote": "Those who keep learning, will keep rising in life.",
+    "author": "Charlie Munger"
   },
   "wiki": {
-    "id": "second-malaysia-plan",
-    "name": "Second Malaysia Plan",
-    "summary": "The Second Malaysia Plan was an economic development plan set out by the government of Malaysia, with the goal of implementing the aims of the New Economic Policy. It aimed to \"restructure\" Malaysian society and overturn Chinese Malaysian and foreign hegemony in the economy of Malaysia so that the Malays would not be disadvantaged economically. Although the First Malaysia Plan had also set out to tackle the problem of poverty, especially among the Malays, it had not been very successful, and may have been a factor in the May 13 Incident when racial rioting broke out in Kuala Lumpur. The Second Malaysia Plan was regarded by some as excessive in its zeal to increase Malay participation in the economy, and the government accordingly scaled back the emphasis on restructuring the economy when the plan ended.",
-    "url": "https://en.wikipedia.org/wiki/Second_Malaysia_Plan"
+    "id": "tuck-school-of-business",
+    "name": "Tuck School of Business",
+    "summary": "The Tuck School of Business is the graduate business school of Dartmouth College in Hanover, New Hampshire, United States. Founded in 1900, Tuck is the oldest graduate school of business in the world, and was the first institution to offer master's degrees in business administration. It is one of six Ivy League business schools, and it consistently ranks in the top ten of national business school rankings. Tuck grants only one degree, the Master of Business Administration, alongside shorter programs for executives and recent college graduates, as well as opportunities for dual degrees with other institutions. The school places a heavy emphasis on its tight-knit and residential character, and has a student population typically in the region of 500 students and a full-time teaching staff of 46. Tuck currently enjoys the highest rate of alumni donation of any business school in the United States.",
+    "url": "https://en.wikipedia.org/wiki/Tuck_School_of_Business"
   },
   "word": {
-    "id": "gallimaufry",
-    "word": "gallimaufry",
-    "url": "https://www.merriam-webster.com/dictionary/gallimaufry",
-    "partOfSpeech": "noun",
-    "pronunciation": "gal-uh-MAW-free",
-    "audioPath": "audio/words/gallimaufry.mp3",
-    "definitions": ["hodgepodge"],
+    "id": "impecunious",
+    "word": "impecunious",
+    "url": "https://www.merriam-webster.com/dictionary/impecunious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-pih-KYOO-nee-uss",
+    "audioPath": "audio/words/impecunious.mp3",
+    "definitions": ["having very little or no money usually habitually : penniless"],
     "examples": [
-      "I was ready to leave the flea market, when, on one table, among a gallimaufry of undistinguished objects, I caught sight of an exquisite silver spoon engraved with my initials."
+      "My impecunious uncle, who could not afford to buy his own books, usually ended up borrowing mine."
     ],
-    "origin": "If the word \"gallimaufry\" doesn't make your mouth water, it may be because you don't know its history. In the 16th century, Middle-French speaking cooks made a meat stew called \"galimafree.\" It must have been a varied dish, because English speakers chose its name for any mix or jumble of things. If \"gallimaufry\" isn't to your taste, season your speech with one of its synonyms: \"hash\" (which can be a muddle or chopped meat and potatoes), \"hotchpotch\" (a stew or a hodgepodge), or \"potpourri\" (another stew turned medley)."
+    "origin": "If \"impecunious\" means \"penniless,\" then it stands to reason that \"pecunious\" can describe someone who has a lot of money. That is true, but \"pecunious\" is used with far less frequency in English than its opposite and is not found in many dictionaries. What's more, on the rare occasion when \"pecunious\" is put to use in English, it often means not \"wealthy\" but \"miserly or ungenerous,\" as in \"a pecunious attitude toward the less fortunate.\" \"Impecunious\" describes somebody who lacks the money to buy necessities, but it does not carry the connotation of desperation found in such words as \"indigent\" or \"destitute.\" Both \"pecunious\" and \"impecunious\" derive via Middle English from the Latin \"pecunia,\" meaning \"money.\""
   }
 }

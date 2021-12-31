@@ -1,118 +1,112 @@
 {
   "artist": {
-    "id": "jan-van-de-velde",
-    "name": "Jan van de Velde",
-    "dates": "1593 - Nov 1, 1641",
-    "mainImg": "img/art/artists/jan-van-de-velde.jpg",
+    "id": "giovanni-battista-moroni",
+    "name": "Giovanni Battista Moroni",
+    "dates": "1520 - Feb 5, 1578",
+    "mainImg": "img/art/artists/giovanni-battista-moroni.jpg",
     "artworkImgs": [
       {
-        "name": "Heks",
-        "path": "img/art/artworks/jan-van-de-velde-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/heks-jan-van-de-velde-ii/rgFYMDKJskolqA"
+        "name": "Portrait of a Lady ('La Dama in Rosso')",
+        "path": "img/art/artworks/giovanni-battista-moroni-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-lady-la-dama-in-rosso-giovanni-battista-moroni/IAF3_FR5r_gMyA"
       },
       {
-        "name": "Heks",
-        "path": "img/art/artworks/jan-van-de-velde-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/heks-jan-van-de-velde-ii-monogrammist-iab/JQHP15S1YTsnYg"
+        "name": "The Tailor ('Il Tagliapanni')",
+        "path": "img/art/artworks/giovanni-battista-moroni-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-tailor-il-tagliapanni-giovanni-battista-moroni/JgF-G077K0WAjQ"
       },
       {
-        "name": "The Sorceress",
-        "path": "img/art/artworks/jan-van-de-velde-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-sorceress-jan-van-de-velde-ii/aAEdDysJxPgaOQ"
+        "name": "Bust Portrait of a Young Man with an Inscription",
+        "path": "img/art/artworks/giovanni-battista-moroni-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/bust-portrait-of-a-young-man-with-an-inscription-giovanni-battista-moroni/OAFW7OAVnz_Fzg"
       },
       {
-        "name": "Waadplaats",
-        "path": "img/art/artworks/jan-van-de-velde-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/waadplaats-jan-van-de-velde-ii/3AF7kaClsfcoTQ"
+        "name": "The Sculptor Alessandro Vittoria",
+        "path": "img/art/artworks/giovanni-battista-moroni-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-sculptor-alessandro-vittoria-giovanni-battista-moroni/cAFWBPlmalJprw"
       },
       {
-        "name": "Gezicht op de Grote Markt met het stadhuis te Haarlem",
-        "path": "img/art/artworks/jan-van-de-velde-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/gezicht-op-de-grote-markt-met-het-stadhuis-te-haarlem-jan-van-de-velde-ii/BQGdgGA5cflVqg"
+        "name": "Canon Ludovico di Terzi",
+        "path": "img/art/artworks/giovanni-battista-moroni-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/canon-ludovico-di-terzi-giovanni-battista-moroni/ogGH6oq_XEdiBg"
       },
       {
-        "name": "De uitvinding van de boekdrukkunst door Laurens Jansz. Coster te Haarlem, ca. 1440",
-        "path": "img/art/artworks/jan-van-de-velde-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/de-uitvinding-van-de-boekdrukkunst-door-laurens-jansz-coster-te-haarlem-ca-1440-jan-van-de-velde-ii-petrus-scriverius/CgFtuTAH6gt_Ww"
+        "name": "A Knight with his Jousting Helmet",
+        "path": "img/art/artworks/giovanni-battista-moroni-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-knight-with-his-jousting-helmet-giovanni-battista-moroni/FgGr2B1nDe1Khg"
       }
     ],
     "summary": [
-      "Jan van de Velde the younger was a Dutch Golden Age painter and engraver of animal, landscape and still-life subjects. He was the son of Jan van de Velde the Elder and the father of the still life painter Jan Jansz van de Velde."
+      "Giovanni Battista Moroni was an Italian painter of the Late Renaissance period. He also is called, Giambattista Moroni. Best known for his elegantly realistic portraits of the local nobility and clergy, he is considered one of the great portrait painters of sixteenth century Italy."
     ],
     "quote": null,
-    "movements": ["Baroque", "Dutch Golden Age"],
-    "mediums": ["Etching", "Engraving", "Pen", "Ink", "Laid paper", "Silver"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jan_van_de_Velde",
-    "urlGoogle": "https://artsandculture.google.com/entity/jan-van-de-velde/m04f57y5"
+    "movements": ["Mannerism", "Renaissance", "Italian Renaissance"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giovanni_Battista_Moroni",
+    "urlGoogle": "https://artsandculture.google.com/entity/giovanni-battista-moroni/m02kb23"
   },
   "event": {
-    "id": "operation-boomerang",
-    "name": "Operation Boomerang",
-    "dates": "Aug 11, 1944",
-    "mainImg": "img/events/operation-boomerang.jpg",
+    "id": "battle-of-antietam",
+    "name": "Battle of Antietam",
+    "dates": null,
+    "mainImg": "img/events/battle-of-antietam.jpg",
     "summary": [
-      "Operation Boomerang was a partially successful air raid conducted by the United States Army Air Forces' XX Bomber Command against oil refining facilities in Japanese-occupied Palembang on the night of 10/11 August 1944 during World War II. The attack involved attempts to bomb an oil refinery and lay mines to block a river.",
-      "The raid formed part of a series of attacks on Japanese-occupied cities in South East Asia which XX Bomber Command conducted as an adjunct to its primary mission of bombing Japan. The command raided the Japanese city of Nagasaki on the same night as Operation Boomerang.",
-      "A total of 54 heavy bombers were dispatched from an airfield in Ceylon on 10 August, of which 39 reached the Palembang area. Attempts to bomb the oil refinery were unsuccessful, with only a single small building being confirmed destroyed. Mines dropped in the river which connects Palembang to the sea sank three ships and damaged two others. British forces provided search and rescue support for the American bombers. The Japanese defenders of Palembang failed to destroy any of the American bombers, but one was forced to ditch when it ran out of fuel."
+      "The Battle of Antietam, also known as the Battle of Sharpsburg, particularly in the Southern United States, was a battle of the American Civil War, fought on September 17, 1862, between Confederate General Robert E. Lee's Army of Northern Virginia and Union General George B. McClellan's Army of the Potomac, near Sharpsburg, Maryland and Antietam Creek. Part of the Maryland Campaign, it was the first field army–level engagement in the Eastern Theater of the American Civil War to take place on Union soil. It was the bloodiest day in United States military history, with a combined tally of 22,717 dead, wounded, or missing.",
+      "After pursuing the Confederate general Robert E. Lee into Maryland, Maj. Gen. George B. McClellan of the Union Army launched attacks against Lee's army, in defensive positions behind Antietam Creek. At dawn on September 17, Maj. Gen. Joseph Hooker's corps mounted a powerful assault on Lee's left flank. Attacks and counterattacks swept across Miller's Cornfield, and fighting swirled around the Dunker Church. Union assaults against the Sunken Road eventually pierced the Confederate center, but the Federal advantage was not followed up. In the afternoon, Union Maj."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Boomerang",
-    "urlGoogle": "https://artsandculture.google.com/entity/operation-boomerang/g11f7r5xty0"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Antietam",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-antietam/m0lkxb"
   },
   "funFacts": [
+    { "id": "447", "fact": "A gallon of water weighs 8.34 pounds.", "category": ["Science"] },
     {
-      "id": "719",
-      "fact": "A strawberry is not an actual berry, but a banana is.",
-      "category": ["Food"]
-    },
-    {
-      "id": "265",
-      "fact": "About 90% of all garlic consumed in the U.S. comes from Gilroy, CA.",
-      "category": ["Food", "Geography"]
+      "id": "734",
+      "fact": "Potatoes have more chromosomes than humans.",
+      "category": ["Anatomy", "Food"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "553963",
-      "fact": "Citizens of the Soviet Union began celebrating the defeat of Germany in World War II as soon as it was announced. Less than 24 hours later, the entire country was out of vodka."
-    }
+    { "id": "505505", "fact": "A 2013 study suggests that chewing gum boosts concentration." }
   ],
   "idiom": {
-    "id": "call-on-the-carpet",
-    "term": "call on the carpet",
-    "definition": "Summon for a scolding or rebuke, as in *Suspecting a leak to the press, the governor called his press secretary on the carpet.* This term began as **on the carpet,** which in the early 1700s referred to a cloth (carpet) covering a conference table and therefore came to mean \"under consideration or discussion.\" In 19th-century America, however, *carpet* meant \"floor covering,\" and the expression, first recorded in 1902, alluded to being called before or reprimanded by a person rich or powerful enough to have a carpet."
+    "id": "sow-ones-wild-oats",
+    "term": "sow one's wild oats",
+    "definition": "Behave foolishly, immoderately, or promiscuously when young, as in *Brad has spent the last couple of years sowing his wild oats, but now he seems ready to settle down.* This expression alludes to sowing inferior wild oats instead of good cultivated grain, the verb *sowing* ---that is, \"planting seed\"---in particular suggesting sexual promiscuity. [Mid-1500s]"
   },
   "person": {
-    "id": "svetlana-savitskaya",
-    "name": "Svetlana Savitskaya",
-    "dates": "Born Aug 8, 1948",
-    "mainImg": "img/people/svetlana-savitskaya.jpg",
+    "id": "hugo-black",
+    "name": "Hugo Black",
+    "dates": "Feb 27, 1886 - Sep 25, 1971",
+    "mainImg": "img/people/hugo-black.jpg",
     "summary": [
-      "Svetlana Yevgenyevna Savitskaya is a retired Soviet aviator and cosmonaut who flew aboard Soyuz T-7 in 1982, becoming the second woman in space. On her 1984 Soyuz T-12 mission she became the first woman to fly to space twice, and the first woman to perform a spacewalk.",
-      "She set several FAI world records as a pilot."
+      "Hugo Lafayette Black was an American lawyer, politician, and jurist who served as a U.S. Senator from 1927 to 1937 and as an Associate Justice of the Supreme Court of the United States from 1937 to 1971. A member of the Democratic Party and a devoted New Dealer, Black endorsed Franklin D. Roosevelt in both the 1932 and 1936 presidential elections. Having gained a reputation in the Senate as a reformer, Black was nominated to the Supreme Court by President Roosevelt and confirmed by the Senate by a vote of 63 to 16. He was the first of nine Roosevelt nominees to the Court, and he outlasted all except for William O. Douglas.",
+      "The fifth longest-serving justice in Supreme Court history, Black was one of the most influential Supreme Court justices in the 20th century.",
+      "He is noted for his advocacy of a textualist reading of the United States Constitution and of the position that the liberties guaranteed in the Bill of Rights were imposed on the states by the Fourteenth Amendment. During his political career Black was regarded as a staunch supporter of liberal policies and civil liberties.",
+      "However, Black wrote the majority opinion in Korematsu v."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Svetlana_Savitskaya",
-    "urlGoogle": "https://artsandculture.google.com/entity/svetlana-savitskaya/m01b8rj"
+    "quote": "“In revealing the workings of government that led to the Vietnam War, the newspapers nobly did precisely that which the Founders hoped and trusted they would do.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Hugo_Black",
+    "urlGoogle": "https://artsandculture.google.com/entity/hugo-black/m0139rh"
   },
   "place": {
-    "id": "puerto-rico",
-    "name": "Puerto Rico",
-    "mainImg": "img/places/puerto-rico.jpg",
+    "id": "brussels",
+    "name": "Brussels",
+    "mainImg": "img/places/brussels.jpg",
     "summary": [
-      "Puerto Rico, officially the Commonwealth of Puerto Rico and in previous centuries called Porto Rico in English, is an unincorporated territory of the United States located in the northeast Caribbean Sea, approximately 1,000 miles southeast of Miami, Florida.",
-      "Puerto Rico is an archipelago among the Greater Antilles located between the Dominican Republic and the US Virgin Islands, and includes the eponymous main island and several smaller islands, such as Mona, Culebra, and Vieques. The capital and most populous city is San Juan. The territory's total population is approximately 3.2 million, more than 20 U.S. states. Spanish and English are the official languages of the executive branch of government, though Spanish predominates.",
-      "Originally populated by the indigenous Taíno people, Puerto Rico was colonized by Spain following the arrival of Christopher Columbus in 1493. It was contested by various other European powers, but remained a Spanish possession for the next four centuries."
+      "The City of Brussels is the largest municipality and historical centre of the Brussels-Capital Region, and the capital of Belgium. Besides the strict centre, it also covers the immediate northern outskirts where it borders municipalities in Flanders. It is the administrative centre of the European Union, thus often dubbed, along with the region, the EU's capital city.",
+      "The City of Brussels is a municipality consisting of the central historic town and certain additional areas within the greater Brussels-Capital Region, namely Haren, Laeken and Neder-Over-Heembeek to the north, as well as Avenue Louise/Louizalaan and the Bois de la Cambre/Ter Kamerenbos park to the south.",
+      "As of 1 January 2017, the City of Brussels had a total population of 176,545. The total area is 32.61 km² which gives a population density of 5,475 inhabitants per square kilometre. As of 2007, there were approximately 50,000 registered non-Belgians in the City of Brussels. In common with all of Brussels' municipalities, it is legally bilingual."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Puerto_Rico",
-    "urlGoogle": "https://artsandculture.google.com/entity/puerto-rico/m05r7t"
+    "urlWiki": "https://en.wikipedia.org/wiki/City_of_Brussels",
+    "urlGoogle": "https://artsandculture.google.com/entity/brussels/m02rnbv"
   },
   "wiki": {
-    "id": "jurgen-ehlers",
-    "name": "Jürgen Ehlers",
-    "summary": "Jürgen Ehlers (1929–2008) was a German physicist who contributed to the understanding of Albert Einstein's theory of general relativity. From graduate and postgraduate work in Pascual Jordan's relativity research group at Hamburg University, he held academic posts before joining the Max Planck Institute for Astrophysics in Munich as a director. In 1995, he became the founding director of the newly created Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam, Germany. Ehlers' research focused on the foundations of general relativity as well as on the theory's applications to astrophysics. He formulated a suitable classification of exact solutions to Einstein's field equations and proved the Ehlers–Geren–Sachs theorem that justifies the application of simple, general-relativistic model universes to modern cosmology. He created a spacetime-oriented description of gravitational lensing and clarified the relationship between models formulated within the framework of general relativity and those of Newtonian gravity. He had a keen interest in the history and philosophy of physics and was an ardent popularizer of science.",
-    "url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Ehlers"
+    "id": "holden-ve-commodore",
+    "name": "Holden VE Commodore",
+    "summary": "The Holden VE Commodore is the fourteenth and current model of the Holden Commodore, a full-size car produced by Holden, the Australian subsidiary of General Motors. Full-scale production commenced on July 13 2006, with the official unveiling being held at a media launch in Melbourne on July 16 2006. The VE is the first Commodore model designed entirely in Australia, with previous generations based on Opel-sourced platforms that had been adapted both mechanically and in size for the local market. To date the annualised sales of the VE have failed to match those of the record-breaking VT Commodore. Prior to the release of the VE model, Holden confirmed that they would manufacture two parallel generations of Commodores, until the launch of station wagon and utility body styles. This announcement came not long before Holden announced that engines and transmissions would largely be carried over from the previous VZ model.",
+    "url": "https://en.wikipedia.org/wiki/Holden_VE_Commodore"
   },
   "word": {
     "id": "revanche",

@@ -1,123 +1,135 @@
 {
   "artist": {
-    "id": "israel-silvestre",
-    "name": "Israel Silvestre",
-    "dates": "Aug 13, 1621 - Oct 11, 1691",
-    "mainImg": "img/art/artists/israel-silvestre.jpg",
+    "id": "william-orpen",
+    "name": "William Orpen",
+    "dates": "Nov 27, 1878 - Sep 29, 1931",
+    "mainImg": "img/art/artists/william-orpen.jpg",
     "artworkImgs": [
       {
-        "name": "Plate from “Seconde Journee”",
-        "path": "img/art/artworks/israel-silvestre-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/plate-from-“seconde-journee”-israël-silvestre/WAEvxm1wGmzVLw"
+        "name": "Thiepval",
+        "path": "img/art/artworks/william-orpen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/thiepval-william-orpen/9wF1hsdD4DnG9w"
       },
       {
-        "name": "Design for a theater set created by Giacomo Torelli da Fano for the ballet 'Les Noces de Thétis', from 'Décorations et machines aprestées aux nopces de Tétis, Ballet Royal'",
-        "path": "img/art/artworks/israel-silvestre-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/design-for-a-theater-set-created-by-giacomo-torelli-da-fano-for-the-ballet-les-noces-de-thétis-from-décorations-et-machines-aprestées-aux-nopces-de-tétis-ballet-royal-f-francart-giacomo-torelli-da-fano-israel-silvestre/hgE9moZFWKbzPw"
+        "name": "The Manchesters, Arras. 'Just out of the trenches near Arras. Been through the battles of Ypres and Somme untouched. Going home to Sheffield to be married.'",
+        "path": "img/art/artworks/william-orpen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-manchesters-arras-just-out-of-the-trenches-near-arras-been-through-the-battles-of-ypres-and-somme-untouched-going-home-to-sheffield-to-be-married-orpen-william-sir-ra/VwH5G-gXkWgkLQ"
       },
       {
-        "name": "Veues des Plus Beaux Lieux de France et d'Italie & Les Places, Portes, Fontaines de Paris & Veue de Rome et des Environs",
-        "path": "img/art/artworks/israel-silvestre-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/veues-des-plus-beaux-lieux-de-france-et-d-italie-les-places-portes-fontaines-de-paris-veue-de-rome-et-des-environs-israel-silvestre-adam-perelle-nicolas-langlois/xAGMVMWxWpKETg"
+        "name": "Zonnebeke",
+        "path": "img/art/artworks/william-orpen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/zonnebeke-sir-william-orpen/DAG_Evr5TvN3Yg"
       },
       {
-        "name": "View of the facade of the Hôtel de Ville, Paris, in the foreground a cross on a stepped platform and a freestanding domed building",
-        "path": "img/art/artworks/israel-silvestre-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-the-facade-of-the-hôtel-de-ville-paris-in-the-foreground-a-cross-on-a-stepped-platform-and-a-freestanding-domed-building-israel-silvestre-jean-marot-stefano-della-bella-israel-silvestre/AAEMvRQ6aSNy-w"
+        "name": "Dead Germans in a Trench",
+        "path": "img/art/artworks/william-orpen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/dead-germans-in-a-trench-orpen-william-sir-ra/NQEwQRucOTSGeg"
       },
       {
-        "name": "Veue du chasteau de Versailles (View of Versailles, garden facade)",
-        "path": "img/art/artworks/israel-silvestre-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/veue-du-chasteau-de-versailles-view-of-versailles-garden-facade-israel-silvestre-nicolas-langlois-adam-perelle/IAHImvUjEIlmTQ"
+        "name": "The Artist: Self Portrait",
+        "path": "img/art/artworks/william-orpen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-artist-self-portrait-william-orpen/HAE50yESB4dwZw"
       },
       {
-        "name": "View of Luxembourg from the garden side of the Palais d'Orleans, from 'Various views of remarkable places in Italy and France' (Diverses vues d'endroits remarquables d'Italie et de France)",
-        "path": "img/art/artworks/israel-silvestre-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-luxembourg-from-the-garden-side-of-the-palais-d-orleans-from-various-views-of-remarkable-places-in-italy-and-france-diverses-vues-d-endroits-remarquables-d-italie-et-de-france-stefano-della-bella-israel-silvestre-jean-marot/oQENVLsupWp7jg"
+        "name": "A view of the interior of the Hall of Mirrors at Versailles during the Paris Peace Conference 1919, with the heads of state sitting and standing before a long table.",
+        "path": "img/art/artworks/william-orpen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-view-of-the-interior-of-the-hall-of-mirrors-at-versailles-during-the-paris-peace-conference-1919-with-the-heads-of-state-sitting-and-standing-before-a-long-table-william-orpen/jgEWdTQgxmjybQ"
       }
     ],
     "summary": [
-      "Israel Silvestre, called the Younger to distinguish him from his father, was a prolific French draftsman, etcher and print dealer who specialized in topographical views and perspectives of famous buildings.",
-      "Orphaned at an early age, he was taken in by his uncle in Paris, Israel Henriet, an etcher and print-seller, and friend of Jacques Callot. Between 1630 and 1650 Silvestre travelled widely in France, Spain and Italy, which he visited three times, and later worked up his sketches as etchings, which were sold singly and in series. His work, especially of Venetian subjects published in the 1660s, influenced eighteenth-century painters of vedute such as Luca Carlevaris and Canaletto, who adapted his compositions.",
-      "In 1661 he inherited the stock of plates of his uncle, the printseller Israel Henriet, among which was a large part of the works of Callot, and many of those of Stefano della Bella. In 1662 he was appointed dessinateur et graveur du Roi and in 1673 he was appointed drawing-master to Louis, le Grand Dauphin."
+      "Major Sir William Newenham Montague Orpen, KBE, RA, RHA was an Irish artist who worked mainly in London. Orpen was a fine draughtsman and a popular, commercially successful, painter of portraits for the well-to-do in Edwardian society, though many of his most striking paintings are self-portraits.",
+      "During World War I, he was the most prolific of the official war artists sent by Britain to the Western Front. There he produced drawings and paintings of ordinary soldiers, dead men, and German prisoners of war, as well as portraits of generals and politicians. Most of these works, 138 in all, he donated to the British government; they are now in the collection of the Imperial War Museum. His connections to the senior ranks of the British Army allowed him to stay in France longer than any of the other official war artists, and although he was made a Knight Commander of the Order of the British Empire in the 1918 King's birthday honours list, and also elected a member of the Royal Academy of Arts, his determination to serve as a war artist cost him both his health and his social standing in Britain."
     ],
     "quote": null,
-    "movements": ["Baroque"],
-    "mediums": ["Etching", "Ink", "Engraving", "Book", "Drawing", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Israel_Silvestre",
-    "urlGoogle": "https://artsandculture.google.com/entity/israel-silvestre/m0f_q_j"
+    "movements": [],
+    "mediums": ["Oil paint", "Drawing", "Charcoal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Orpen",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-orpen/m04rb6k"
   },
   "event": {
-    "id": "laotian-civil-war",
-    "name": "Laotian Civil War",
-    "dates": "1962 - 1975",
-    "mainImg": "img/events/laotian-civil-war.jpg",
+    "id": "german-occupation-of-latvia-during-world-war-ii",
+    "name": "German occupation of Latvia during World War II",
+    "dates": "Jul 10, 1941 - May 8, 1945",
+    "mainImg": "img/events/german-occupation-of-latvia-during-world-war-ii.jpg",
     "summary": [
-      "The Laotian Civil War was a civil war in Laos fought between the Communist Pathet Lao and the Royal Lao Government from 23 May 1959 to 2 December 1975. It is associated with the Cambodian Civil War and the Vietnam War, with both sides receiving heavy external support in a proxy war between the global Cold War superpowers. It is called the Secret War among the CIA Special Activities Division and Hmong veterans of the conflict.",
-      "The Kingdom of Laos was a covert theater for other belligerents during the Vietnam War. The Franco–Lao Treaty of Amity and Association transferred remaining French powers to the Royal Lao Government, establishing Laos as an independent member of the French Union. However, this government did not include representatives from the Lao Issara anti-colonial armed nationalist movement.",
-      "The following years were marked by a rivalry between the neutralists under Prince Souvanna Phouma, the right wing under Prince Boun Oum of Champassak, and the left-wing Lao Patriotic Front under Prince Souphanouvong and half-Vietnamese future Prime Minister Kaysone Phomvihane."
+      "The occupation of Latvia by Nazi Germany was completed on July 10, 1941 by Germany's armed forces. Latvia became a part of Nazi Germany's Reichskommissariat Ostland—the Province General of Latvia. Anyone not racially acceptable or who opposed the German occupation, as well as those who had cooperated with the Soviet Union, were killed or sent to concentration camps in accordance with the Nazi Generalplan Ost."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Laotian_Civil_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/laotian-civil-war/m01dsy2"
+    "urlWiki": "https://en.wikipedia.org/wiki/German_occupation_of_Latvia_during_World_War_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/german-occupation-of-latvia-during-world-war-ii/m0btdrh"
   },
   "funFacts": [
     {
-      "id": "453",
-      "fact": "Raindrops can fall as fast as 20 miles per hour.",
-      "category": ["Science"]
+      "id": "890",
+      "fact": "The number 1 or the word One appears on the dollar bill 16 times.",
+      "category": ["Hodgepodge"]
     },
-    { "id": "110", "fact": "Frogs never drink.", "category": ["Animals"] }
+    {
+      "id": "403",
+      "fact": "The largest hailstone ever recorded in the U.S. was 17.5 inches around.",
+      "category": ["Science"]
+    }
   ],
-  "funFacts2": [{ "id": "522176", "fact": "A group of clowns is sometimes called a giggle." }],
+  "funFacts2": [
+    {
+      "id": "505507",
+      "fact": "There's only one Blockbuster still operating in the U.S.—it's located in Bend, Oregon."
+    }
+  ],
   "idiom": {
-    "id": "a-horse-of-a-different-color",
-    "term": "a horse of a different color",
-    "definition": "Also, **a horse of another color.** Another matter entirely, something else. For example, *I thought that was her boyfriend but it turned out to be her brother---that's a horse of a different color.* This term probably derives from a phrase coined by Shakespeare, who wrote \"a horse of that color\" (*Twelfth Night,* 2:3), meaning \"the same matter\" rather than a different one. By the mid-1800s the term was used to point out difference rather than likeness."
+    "id": "over-a-barrel",
+    "term": "over a barrel",
+    "definition": "In a weak or difficult position, as in *Once the competitors found a flaw in our product, they had us over a barrel.* This slangy expression, first recorded in 1938, supposedly alludes to reviving a drowning victim by placing the body head down over a barrel and rolling it back and forth, so as to empty the lungs of water. The expression survives, although happily the practice does not."
   },
   "person": {
-    "id": "henry-kissinger",
-    "name": "Henry Kissinger",
-    "dates": "Born May 27, 1923",
-    "mainImg": "img/people/henry-kissinger.jpg",
+    "id": "sandra-day-o-connor",
+    "name": "Sandra Day O'Connor",
+    "dates": "Born Mar 26, 1930",
+    "mainImg": "img/people/sandra-day-o-connor.jpg",
     "summary": [
-      "Henry Alfred Kissinger is an American politician, diplomat, and geopolitical consultant who served as United States Secretary of State and National Security Advisor under the presidential administrations of Richard Nixon and Gerald Ford. A Jewish refugee who fled Nazi Germany with his family in 1938, he became National Security Advisor in 1969 and U.S. Secretary of State in 1973. For his actions negotiating a ceasefire in Vietnam, Kissinger received the 1973 Nobel Peace Prize under controversial circumstances, with two members of the committee resigning in protest.",
-      "A practitioner of Realpolitik, Kissinger played a prominent role in United States foreign policy between 1969 and 1977. During this period, he pioneered the policy of détente with the Soviet Union, orchestrated the opening of relations with the People's Republic of China, engaged in what became known as shuttle diplomacy in the Middle East to end the Yom Kippur War, and negotiated the Paris Peace Accords, ending American involvement in the Vietnam War."
+      "Sandra Day O'Connor is an American attorney, politician, and jurist who served as an Associate Justice of the Supreme Court of the United States from 1981 until her retirement in 2006. She was the first woman to serve on the Court.",
+      "Prior to O'Connor's tenure on the Court, she was a judge and an elected official in Arizona, serving as the first female Majority Leader of a state senate as the Republican leader in the Arizona Senate. Upon her nomination to the Court, O'Connor was confirmed unanimously by the Senate. On July 1, 2005, she announced her intention to retire effective upon the confirmation of a successor. Samuel Alito was nominated to take her seat in October 2005 and joined the Court on January 31, 2006.",
+      "As a moderate Republican, O'Connor tended to approach each case narrowly without seeking to establish sweeping precedents. She most frequently sided with the Court's conservative bloc, having the swing opinion in many decisions. She often wrote concurring opinions that limited the reach of the majority holding. Her majority opinions in landmark cases include Grutter v. Bollinger and Hamdi v. Rumsfeld. She also wrote in part the per curiam majority opinion in Bush v."
     ],
-    "quote": "“The real distinction is between those who adapt their purposes to reality and those who seek to mold reality in the light of their purposes.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Kissinger",
-    "urlGoogle": "https://artsandculture.google.com/entity/henry-kissinger/m03k_f"
+    "quote": "“It is difficult to discern a serious threat to religious liberty from a room of silent, thoughtful schoolchildren.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor",
+    "urlGoogle": "https://artsandculture.google.com/entity/sandra-day-o-connor/m0bq7m"
   },
   "place": {
-    "id": "united-arab-emirates",
-    "name": "United Arab Emirates",
-    "mainImg": "img/places/united-arab-emirates.jpg",
+    "id": "zurich",
+    "name": "Zürich",
+    "mainImg": "img/places/zurich.jpg",
     "summary": [
-      "The United Arab Emirates, sometimes simply called the Emirates, is a country in Western Asia at the northeast end of the Arabian Peninsula on the Persian Gulf, bordering Oman to the east and Saudi Arabia to the south and west, as well as sharing maritime borders with Qatar to the west and Iran to the north. The sovereign constitutional monarchy is a federation of seven emirates consisting of Abu Dhabi, Ajman, Dubai, Fujairah, Ras Al Khaimah, Sharjah and Umm Al Quwain. Their boundaries are complex, with numerous enclaves within the various emirates. Each emirate is governed by a ruler; together, they jointly form the Federal Supreme Council. One of the rulers serves as the President of the United Arab Emirates. In 2013, the UAE's population was 9.2 million, of which 1.4 million are Emirati citizens and 7.8 million are expatriates.",
-      "Human occupation of the present UAE has been traced back to the emergence of anatomically modern humans from Africa some 125,000 BCE through finds at the Faya-1 site in Mleiha, Sharjah. Burial sites dating back to the Neolithic Age and the Bronze Age include the oldest known such inland site at Jebel Buhais."
+      "Zürich is the largest city in Switzerland and the capital of the canton of Zürich. It is located in north-central Switzerland at the northwestern tip of Lake Zürich. As of January 2020 the municipality has 434,335 inhabitants, the urban area 1.315 million and the Zürich metropolitan area 1.83 million. Zürich is a hub for railways, roads, and air traffic. Both Zurich Airport and railway station are the largest and busiest in the country.",
+      "Permanently settled for over 2,000 years, Zürich was founded by the Romans, who, in 15 BC, called it Turicum. However, early settlements have been found dating back more than 6,400 years. During the Middle Ages, Zürich gained the independent and privileged status of imperial immediacy and, in 1519, became a primary centre of the Protestant Reformation in Europe under the leadership of Huldrych Zwingli.",
+      "The official language of Zürich is German, but the main spoken language is the local variant of the Alemannic Swiss German dialect, Zürich German.",
+      "Many museums and art galleries can be found in the city, including the Swiss National Museum, the Kunsthaus and newer Theater 11 in Oerlikon."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
-    "urlGoogle": "https://artsandculture.google.com/entity/united-arab-emirates/m0j1z8"
+    "urlWiki": "https://en.wikipedia.org/wiki/Z%C3%BCrich",
+    "urlGoogle": "https://artsandculture.google.com/entity/zürich/m08966"
   },
   "wiki": {
-    "id": "the-well-of-loneliness",
-    "name": "The Well of Loneliness",
-    "summary": "The Well of Loneliness is a 1928 lesbian novel by the British author Radclyffe Hall. It follows the life of Stephen Gordon, an Englishwoman from an upper-class family whose \"sexual inversion\" (homosexuality) is apparent from an early age. She finds love with Mary Llewellyn, whom she meets while serving as an ambulance driver in World War I, but their happiness together is marred by social isolation and rejection, which Hall depicts as having a debilitating effect on inverts. The novel portrays inversion as a natural, God-given state and makes an explicit plea: \"Give us also the right to our existence\". The novel became the target of a campaign by James Douglas, editor of the Sunday Express newspaper, who wrote \"I would rather give a healthy boy or a healthy girl a phial of prussic acid than this novel.\" Although its only sexual reference consists of the words \"and that night, they were not divided\", a British court judged it obscene because it defended \"unnatural practices between women\". In the United States the book survived legal challenges in New York state and in Customs Court.",
-    "url": "https://en.wikipedia.org/wiki/The_Well_of_Loneliness"
+    "id": "norwich-city-f-c",
+    "name": "Norwich City F.C.",
+    "summary": "Norwich City Football Club is an English professional football club based in Norwich, Norfolk. Norwich play in the Football League Championship, last appearing in the FA Premier League in 2004–05, having first been promoted to the top flight in 1972. Norwich have won the League Cup twice, in 1962 and 1985. The club was founded in 1902. Since 1935, Norwich have played their home games at Carrow Road and have a long-standing and fierce rivalry with East Anglian rivals Ipswich Town, with whom they have contested the East Anglian Derby 134 times since 1902. The fans' song \"On The Ball, City\" is regarded as being the oldest football song in the world.",
+    "url": "https://en.wikipedia.org/wiki/Norwich_City_F.C."
   },
   "word": {
-    "id": "aleatory",
-    "word": "aleatory",
-    "url": "https://www.merriam-webster.com/dictionary/aleatory",
+    "id": "tutelary",
+    "word": "tutelary",
+    "url": "https://www.merriam-webster.com/dictionary/tutelary",
     "partOfSpeech": "adjective",
-    "pronunciation": "AY-lee-uh-tor-ee",
-    "audioPath": "audio/words/aleatory.mp3",
-    "definitions": ["characterized by chance or random elements"],
-    "examples": [
-      "Tom and Renee's romance had an _aleatory_ beginning-for without the sudden rainstorm that led to their introduction beneath the shop's awning, would they ever have met?",
-      "\"Pollard had learned the 'cut-up' technique from Burroughs, in which the song (or poem) is completed, then spliced, then rearranged in random order. This writing technique is _aleatory_: in other words, it deposits chance directly into the creative process. What’s produced as a result of the technique is completely random ….\" - Brian Burlage, _The Michigan Daily_, July 30, 2014"
+    "pronunciation": "TOO-tuh-lair-ee",
+    "audioPath": "audio/words/tutelary.mp3",
+    "definitions": [
+      "having the guardianship of a person or a thing",
+      "of or relating to a guardian"
     ],
-    "origin": "If you're the gambling type, then chances are good you've come across _aleatory_ in your travels. Deriving from the Latin noun _alea_, which refers to a kind of dice game, _aleatory_ was first used in English in the late 17th century to describe things that are dependent on uncertain odds, much like a roll of the dice. The term now describes things that occur by sheer chance or accident, such as the unlucky bounce of a golf shot or the unusual shape of an ink blot. Going a bit further, the term _aleatory music_, or _chance music_, describes a musical composition in which certain parts are left for the performer to concoct through improvisation."
+    "examples": [
+      "The ancient Romans revered certain gods and goddesses as _tutelary_ deities.",
+      "\"You can see a similar restlessness in the range of C.K.'s influences.... Indie film pioneer John Cassavettes may be another _tutelary_ spirit.\" - From a review by Adam Wilson in Salon.com, September 25, 2012"
+    ],
+    "origin": "\"Tutelary\" derives from the Latin noun \"tutelarius,\" meaning \"guardian.\" \"Tutelarius,\" in turn, was formed by combining the word \"tutela\" (\"protection\" or \"guardian\") and \"-arius,\" a suffix that implies belonging and connection. A more familiar descendant of \"tutela\" in English might be \"tutelage,\" which initially described an act or process of serving as a guardian or protector but has also come to refer to teaching or influence. If you suspect that \"tutor\" is also related, you are correct. \"Tutelary\" can also be a noun referring to a power (such as a deity) who acts as a guardian."
   }
 }

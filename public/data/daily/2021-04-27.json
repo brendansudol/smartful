@@ -1,139 +1,131 @@
 {
   "artist": {
-    "id": "marc-chagall",
-    "name": "Marc Chagall",
-    "dates": "Jul 7, 1887 - Mar 28, 1985",
-    "mainImg": "img/art/artists/marc-chagall.jpg",
+    "id": "willard-metcalf",
+    "name": "Willard Metcalf",
+    "dates": "Jul 1, 1858 - Mar 9, 1925",
+    "mainImg": "img/art/artists/willard-metcalf.jpg",
     "artworkImgs": [
       {
-        "name": "Estudo do vitral Juda",
-        "path": "img/art/artworks/marc-chagall-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/estudo-do-vitral-juda-marc-chagall/kQHbq-IpiAO-gQ"
+        "name": "A Family of Birches",
+        "path": "img/art/artworks/willard-metcalf-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-family-of-birches/XQGBmVEbaBK08Q"
       },
       {
-        "name": "Rabbi No. 2",
-        "path": "img/art/artworks/marc-chagall-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/rabbi-no-2-marc-chagall/9AE0jclzlvm16A"
+        "name": "Summer Day, Gloucester, Massachusetts",
+        "path": "img/art/artworks/willard-metcalf-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/summer-day-gloucester-massachusetts-willard-leroy-metcalf/XwFa9cevFNRUhQ"
       },
       {
-        "name": "Dans mon pays",
-        "path": "img/art/artworks/marc-chagall-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/dans-mon-pays-marc-chagall/pwGQGdh1RVuLfA"
+        "name": "Sunlight and Shadow",
+        "path": "img/art/artworks/willard-metcalf-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/sunlight-and-shadow-willard-leroy-metcalf/dAFSj3SHUYHkKg"
       },
       {
-        "name": "Double Portrait with a Glass of Wine",
-        "path": "img/art/artworks/marc-chagall-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/double-portrait-with-a-glass-of-wine-marc-chagall-1887-1985-paris-centre-pompidou-musée-national-d-art-moderne-©-adagp-paris-2018/1QGSkW67ciQ8Gw"
+        "name": "A Young Girl",
+        "path": "img/art/artworks/willard-metcalf-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/a-young-girl-willard-leroy-metcalf-american-1858-1925/igG_pEe0jQfzIw"
       },
       {
-        "name": "Cena de circo",
-        "path": "img/art/artworks/marc-chagall-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/cena-de-circo-marc-chagall/1gFVm99WjeRTng"
+        "name": "October Morning: Deerfield, Mass",
+        "path": "img/art/artworks/willard-metcalf-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/october-morning-deerfield-mass-artist-willard-leroy-metcalf/CgHsh-_wdcjNPA"
       },
       {
-        "name": "Champs de mars (Field of Mars)",
-        "path": "img/art/artworks/marc-chagall-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/champs-de-mars-field-of-mars-marc-chagall/NwF64Vv4J7aL3Q"
+        "name": "The Ten Cent Breakfast",
+        "path": "img/art/artworks/willard-metcalf-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-ten-cent-breakfast-willard-leroy-metcalf/gAHep4av-hxhrg"
       }
     ],
     "summary": [
-      "Marc Chagall was a Russian-French artist of Belarusian Jewish origin. An early modernist, he was associated with several major artistic styles and created works in a wide range of artistic formats, including painting, drawings, book illustrations, stained glass, stage sets, ceramic tapestries and fine art prints.",
-      "Art critic Robert Hughes referred to Chagall as \"the quintessential Jewish artist of the twentieth century\". According to art historian Michael J. Lewis, Chagall was considered to be \"the last survivor of the first generation of European modernists\". For decades, he \"had also been respected as the world's pre-eminent Jewish artist\". Using the medium of stained glass, he produced windows for the cathedrals of Reims and Metz, windows for the UN and the Art Institute of Chicago and the Jerusalem Windows in Israel. He also did large-scale paintings, including part of the ceiling of the Paris Opéra.",
-      "Before World War I, he travelled between Saint Petersburg, Paris, and Berlin. During this period he created his own mixture and style of modern art based on his idea of Eastern European Jewish folk culture."
-    ],
-    "quote": "“Only love interests me, and I am only in contact with things that revolve around love.”",
-    "movements": ["Symbolism", "Modern art", "Modernism", "Surrealism", "Expressionism", "Cubism"],
-    "mediums": ["Oil paint", "Watercolor painting", "Gouache", "Rock", "Faience", "Stoneware"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Marc_Chagall",
-    "urlGoogle": "https://artsandculture.google.com/entity/marc-chagall/m0g_j0"
-  },
-  "event": {
-    "id": "un-retreat-from-north-korea",
-    "name": "UN retreat from North Korea",
-    "dates": "Dec 2, 1950 - Dec 25, 1950",
-    "mainImg": "img/events/un-retreat-from-north-korea.jpg",
-    "summary": [
-      "The UN retreat from North Korea was the withdrawal of United Nations forces from North Korea that took place from 2–25 December 1950.",
-      "On 30 September Republic of Korea Army forces crossed the 38th Parallel, the de facto border between North and South Korea on the east coast of the Korean peninsula and this was followed by a general UN offensive into North Korea to pursue the shattered North Korean Korean People's Army. Within one month UN forces were approaching the Yalu River prompting Chinese intervention in the war. Despite the initial attacks by the Chinese People's Volunteer Army in late October-early November, the UN renewed their offensive on 24 November before it was abruptly halted by massive Chinese intervention in the Second Phase Offensive starting on 25 November. Following their defeats by the PVA in the Battle of the Ch'ongch'on River and the Battle of Chosin Reservoir in eastern Korea, UN forces withdrew from North Korea completing their withdrawal on 25 December. UN forces then prepared new defensive lines above Seoul for an expected renewal of the PVA offensive."
+      "Willard Leroy Metcalf was an American artist born in Lowell, Massachusetts. He studied at the School of the Museum of Fine Arts, Boston, and later attended Académie Julian, Paris. After early figure-painting and illustration, he became prominent as a landscape painter. He was one of the Ten American Painters who in 1897 seceded from the Society of American Artists. For some years he was an instructor in the Women's Art School, Cooper Union, New York, and in the Art Students League, New York. In 1893 he became a member of the American Watercolor Society, New York. Generally associated with American Impressionism, he is also remembered for his New England landscapes and involvement with the Old Lyme Art Colony at Old Lyme, Connecticut and his influential years at the Cornish Art Colony."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/UN_retreat_from_North_Korea",
-    "urlGoogle": "https://artsandculture.google.com/entity/un-retreat-from-north-korea/g11h106s87n"
+    "movements": ["Impressionism", "American Impressionism", "Modern art"],
+    "mediums": ["Oil paint", "Wood", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Willard_Metcalf",
+    "urlGoogle": "https://artsandculture.google.com/entity/willard-metcalf/m03p484"
+  },
+  "event": {
+    "id": "louisiana-purchase-exposition",
+    "name": "Louisiana Purchase Exposition",
+    "dates": "Apr 30, 1904 - Dec 1, 1904",
+    "mainImg": "img/events/louisiana-purchase-exposition.jpg",
+    "summary": [
+      "The Louisiana Purchase Exposition, informally known as the St. Louis World's Fair, was an international exposition held in St. Louis, Missouri, United States, from April 30 to December 1, 1904. Local, state, and federal funds totaling $15 million were used to finance the event. More than 60 countries and 43 of the then-45 American states maintained exhibition spaces at the fair, which was attended by nearly 19.7 million people.",
+      "Historians generally emphasize the prominence of themes of race and empire, and the fair's long-lasting impact on intellectuals in the fields of history, art history, architecture and anthropology. From the point of view of the memory of the average person who attended the fair, it primarily promoted entertainment, consumer goods and popular culture."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Louisiana_Purchase_Exposition",
+    "urlGoogle": "https://artsandculture.google.com/entity/louisiana-purchase-exposition/m0d9j1"
   },
   "funFacts": [
     {
-      "id": "216",
-      "fact": "TV dinners originated in the Arctic.",
-      "category": ["Food", "Geography"]
+      "id": "182",
+      "fact": "A rainbow can only be seen in the morning or late afternoon.",
+      "category": ["Science", "Onlies"]
     },
-    {
-      "id": "879",
-      "fact": "Most Koala bears can sleep up to 22 hours a day.",
-      "category": ["Animals"]
-    }
+    { "id": "269", "fact": "Horseback riding can improve your posture.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
-      "id": "553921",
-      "fact": "Ornithologists often use Cheetos to study behavior in crows. Along with being easy to spot, they’re also one of the birds’ favorite snacks."
+      "id": "506908",
+      "fact": "Wendy's founder Dave Thomas dropped out of high school but picked up his GED in 1993. His GED class voted him Most Likely to Succeed."
     }
   ],
   "idiom": {
-    "id": "grasp-at-straws",
-    "term": "grasp at straws",
-    "definition": "Also, **clutch at straws.** Make a desperate attempt at saving oneself. For example, *He had lost the argument, but he kept grasping at straws, naming numerous previous cases that had little to do with this one.* This metaphoric expression alludes to a drowning person trying to save himself by grabbing at flimsy reeds. First recorded in 1534, the term was used figuratively by the late 1600s."
+    "id": "if-the-shoe-fits-wear-it",
+    "term": "if the shoe fits, wear it",
+    "definition": "Also, **if the cap fits, wear it.** If something applies to you, accept it, as in *These problems are hard to solve, and most people would need help, so if the shoe fits, wear it!* This expression originated as *if the cap fits,* which alluded to a fool's cap and dates from the early 1700s. Although this version has not died out entirely, *shoe* today is more common and probably gained currency through the Cinderella fairy tale, in which the prince sought her out by means of the slipper she lost at the ball."
   },
   "person": {
-    "id": "dwight-d-eisenhower",
-    "name": "Dwight D. Eisenhower",
-    "dates": "Oct 14, 1890 - Mar 28, 1969",
-    "mainImg": "img/people/dwight-d-eisenhower.jpg",
+    "id": "john-j-pershing",
+    "name": "John J. Pershing",
+    "dates": "Sep 13, 1860 - Jul 15, 1948",
+    "mainImg": "img/people/john-j-pershing.jpg",
     "summary": [
-      "Dwight David \"Ike\" Eisenhower, GCB, OM was an American army general and statesman who served as the 34th president of the United States from 1953 to 1961. During World War II, he became a five-star general in the Army and served as Supreme Commander of the Allied Expeditionary Force in Europe. He was responsible for planning and supervising the invasion of North Africa in Operation Torch in 1942–43 and the successful invasion of Normandy in 1944–45 from the Western Front.",
-      "Eisenhower was born David Dwight Eisenhower, and raised in Abilene, Kansas, in a large family of mostly Pennsylvania Dutch ancestry. His family had a strong religious background. His mother was a Lutheran, married as a River Brethren, and later became a Jehovah's Witness. Eisenhower, however, did not belong to any organized church until 1952. He cited constant relocation during his military career as one reason. He graduated from West Point in 1915 and later married Mamie Doud, with whom he had two sons. During World War I, he was denied a request to serve in Europe and instead commanded a unit that trained tank crews."
+      "General of the Armies John Joseph \"Black Jack\" Pershing GCB was a senior United States Army officer. He served most famously as the commander of the American Expeditionary Forces on the Western Front in World War I, 1917–18.",
+      "Pershing rejected British and French demands that American forces be integrated with their armies, and insisted that the AEF would operate as a single unit under his command, although some American divisions fought under British command, and he also allowed all-black units to be integrated with the French army.",
+      "Pershing's soldiers first saw serious battle at Cantigny, Chateau-Thierry, Belleau Wood, and Soissons. To speed up the arrival of American troops, they embarked for France leaving heavy equipment behind, and used British and French tanks, artillery, airplanes and other munitions. In September 1918 at St. Mihiel, the First Army was directly under Pershing's command; it overwhelmed the salient – the encroachment into Allied territory – that the German Army had held for three years."
     ],
-    "quote": "“I have found out in later years that we were very poor, but the glory of America is that we didn't know it then.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
-    "urlGoogle": "https://artsandculture.google.com/entity/dwight-d-eisenhower/m028rk"
+    "quote": "“The representatives of business interests are the men to start this enterprise among our people and bring them to a full realization of the very grave seriousness of this war, to make them feel that we are in this war to win, and the probability is that our entering this war is going to be the deciding factor, and that the burden of the success is going to rest upon the United States.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/John_J._Pershing",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-j-pershing/m098gy"
   },
   "place": {
-    "id": "stavanger",
-    "name": "Stavanger",
-    "mainImg": "img/places/stavanger.jpg",
+    "id": "wolverhampton",
+    "name": "Wolverhampton",
+    "mainImg": "img/places/wolverhampton.jpg",
     "summary": [
-      "Stavanger is a city and municipality in Norway. It is the fourth largest city and third largest metropolitan area in Norway and the administrative centre of Rogaland county. The municipality is the fourth most populous in Norway. Located on the Stavanger Peninsula in Southwest Norway, Stavanger counts its official founding year as 1125, the year the Stavanger Cathedral was completed. Stavanger's core is to a large degree 18th- and 19th-century wooden houses that are protected and considered part of the city's cultural heritage. This has caused the town centre and inner city to retain a small-town character with an unusually high ratio of detached houses, and has contributed significantly to spreading the city's population growth to outlying parts of Greater Stavanger.",
-      "The city's rapid population growth in the late 20th century was primarily a result of Norway's booming offshore oil industry. Today the oil industry is a key industry in the Stavanger region and the city is widely referred to as the Oil Capital of Norway. Norwegian energy company Equinor, the largest company in the Nordic region, is headquartered in Stavanger."
+      "Wolverhampton is a city, administrative centre and metropolitan borough in the West Midlands, England. At the 2011 census, it had a population of 249,470. The demonym for people from the city is 'Wulfrunian.'",
+      "Historically part of Staffordshire, the city grew initially as a market town specialising in the woollen trade. In the Industrial Revolution, it became a major centre for coal mining, steel production, lock making, and the manufacture of cars and motorcycles. The economy of the city is still based on engineering, including a large aerospace industry, as well as the service sector."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Stavanger",
-    "urlGoogle": "https://artsandculture.google.com/entity/stavanger/m01773g"
+    "urlWiki": "https://en.wikipedia.org/wiki/Wolverhampton",
+    "urlGoogle": "https://artsandculture.google.com/entity/wolverhampton/m0k5p1"
   },
   "quote": {
-    "id": "86",
-    "quote": "If you're not making mistakes, then you're not making decisions.",
-    "author": "Catherine Cook"
+    "id": "57",
+    "quote": "Things work out best for those who make the best of how things work out.",
+    "author": "John Wooden"
   },
   "wiki": {
-    "id": "jack-marsh",
-    "name": "Jack Marsh",
-    "summary": "Jack Marsh (c. 1874 – 1916) was a first-class cricketer of Australian aboriginal descent whose career was curtailed by continual controversy surrounding the legality of his bowling action. Born into the Bundjalung people at Yulgilbar in New South Wales, he first made an impression as a professional runner before playing club cricket in Sydney. In a trial match against the New South Wales state team in 1900, he dismissed two Test cricketers but was called for throwing; he then bowled with his arm in splints to prove that his action was legitimate. Having topped the bowling averages in the local competition, Marsh was selected to make his debut in the Sheffield Shield. He made an immediate impression and led the first-class bowling averages for the season after three matches. He was no-balled in his second match and then seventeen times in his fourth match, leading to angry crowd demonstrations. Marsh only played in two more first-class matches and he was passed over for selection for Australia because of his action. Regarded as one of the outstanding talents of his era, his lack of opportunities has often been attributed to racial discrimination.",
-    "url": "https://en.wikipedia.org/wiki/Jack_Marsh"
+    "id": "youngstown-ohio-works",
+    "name": "Youngstown Ohio Works",
+    "summary": "The Youngstown Ohio Works baseball team was a minor league club that was known for winning the premier championship of the Ohio–Pennsylvania League in 1905, and for launching the professional career of pitcher Roy Castleton a year later (second row, second from left, in a 1906 team photograph). A training ground for several players and officials who later established careers in Major League Baseball, the team proved a formidable regional competitor and also won the 1906 league championship. During its brief span of activity, the Ohio Works team faced challenges that reflected common difficulties within the Ohio–Pennsylvania League, including weak financial support for teams. Following a dispute over funding, the team's owners sold the club to outside investors, just a few months before the opening of the 1907 season. The club's strong record and regional visibility spurred the growth of amateur and minor league baseball in the Youngstown area, and the community's minor league teams produced notable players throughout the first half of the 20th century.",
+    "url": "https://en.wikipedia.org/wiki/Youngstown_Ohio_Works"
   },
   "word": {
-    "id": "heterodox",
-    "word": "heterodox",
-    "url": "https://www.merriam-webster.com/dictionary/heterodox",
-    "partOfSpeech": "adjective",
-    "pronunciation": "HET-uh-ruh-dahks",
-    "audioPath": "audio/words/heterodox.mp3",
-    "definitions": [
-      "contrary to or different from an acknowledged standard, a traditional form, or an established religion : unorthodox, unconventional",
-      "holding unorthodox opinions or doctrines"
-    ],
+    "id": "tutoyer",
+    "word": "tutoyer",
+    "url": "https://www.merriam-webster.com/dictionary/tutoyer",
+    "partOfSpeech": "verb",
+    "pronunciation": "tew-twah-YAY",
+    "audioPath": "audio/words/tutoyer.mp3",
+    "definitions": ["to address familiarly"],
     "examples": [
-      "A lifelong contrarian, Alexa was known for putting forth _heterodox_ opinions in her weekly culture column.",
-      "\"Levy is an intellectual descendant of the economist Hyman Minsky, a _heterodox_ thinker who spent many years working at the Jerome Levy Economic Institute and whose theories were largely ignored by economists up until the latest financial crisis.\" - Chris Matthews, _Fortune_, October 28, 2014"
+      "\"Yes, now (to the outside world) we were on first-name terms, now to anyone within earshot I _tutoyered_ him.\" -- From Marie Brenner's 1976 book _Tell Me Everything_",
+      "\"Perfect strangers _tutoyer_ us or attempt to perpetrate socialite air-kisses near our faces.\" -- From Glenn O'Brien's 2011 book _How to Be a Man_"
     ],
-    "origin": "\"Orthodoxy ... is my doxy-heterodoxy is another man's doxy,\" quipped 18th-century bishop William Warburton. He was only punning, but it is true that individuals often see other people's ideas as unconventional while regarding their own as beyond reproach. The antonyms _orthodox_ and _heterodox_ developed from the same root, the Greek _doxa_, which means \"opinion.\" _Heterodox_ derives from _doxa_ plus _heter-_, a combining form meaning \"other\" or \"different\"; _orthodoxy_ pairs _doxa_ with _orth-_, meaning \"correct\" or \"straight.\""
+    "origin": "In conversational French, the pronoun \"vous\" (\"you\") is used for formal address of individuals (as well as plural addressees familiar or otherwise), while the singular pronoun \"tu\" (also \"you,\" a relative of Middle English \"thou\") is reserved for use among intimate friends. A person who uses \"tu\" to address his or her elders, for example, is committing a breach of etiquette. The French verb \"tutoyer\" -- literally, \"to address with the pronoun 'tu'\" -- was borrowed into English in the late 17th century to refer to this concept. In many cases, the English verb is still used in reference to people speaking French (as English does not discriminate between intimate and formal address in its pronouns), but it is occasionally used to describe casual address among close English speakers."
   }
 }

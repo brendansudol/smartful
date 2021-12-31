@@ -1,0 +1,122 @@
+{
+  "artist": {
+    "id": "osamu-tezuka",
+    "name": "Osamu Tezuka",
+    "dates": "Nov 3, 1928 - Feb 9, 1989",
+    "mainImg": "img/art/artists/osamu-tezuka.jpg",
+    "artworkImgs": [
+      {
+        "name": "The program for \"A Thousand and One Nights\"",
+        "path": "img/art/artworks/osamu-tezuka-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-program-for-a-thousand-and-one-nights-tezuka-productions/BAEq6ji5s_UYfA"
+      },
+      {
+        "name": "\"Phoenix\"",
+        "path": "img/art/artworks/osamu-tezuka-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/phoenix-tezuka-productions/gAFH8ND_RmxBFg"
+      },
+      {
+        "name": "TV animation series \"Astro Boy\"",
+        "path": "img/art/artworks/osamu-tezuka-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/tv-animation-series-astro-boy-tezuka-productions/WAGr4yc80NplIA"
+      },
+      {
+        "name": "Tezuka chased the Yokai boom.",
+        "path": "img/art/artworks/osamu-tezuka-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/tezuka-chased-the-yokai-boom-tezuka-productions/1QGEe-ZJkFWRLw"
+      },
+      {
+        "name": "Astro Boy and his family members",
+        "path": "img/art/artworks/osamu-tezuka-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/astro-boy-and-his-family-members-tezuka-productions/ZgFL1-ytZ2Xu3A"
+      },
+      {
+        "name": "\"Black Jack\"",
+        "path": "img/art/artworks/osamu-tezuka-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/black-jack-tezuka-productions/mQEa3g8Tonhy7w"
+      }
+    ],
+    "summary": [
+      "Osamu Tezuka was a Japanese manga artist, cartoonist, and animator. Born in Osaka Prefecture, his prolific output, pioneering techniques, and innovative redefinitions of genres earned him such titles as \"the Father of Manga\", \"the Godfather of Manga\" and \"the God of Manga\". Additionally, he is often considered the Japanese equivalent to Walt Disney, who served as a major inspiration during Tezuka's formative years. Though this phrase praises the quality of his early manga works for children and animations, it also blurs the significant influence of his later, more literary, gekiga works.",
+      "Tezuka began what was known as the manga revolution in Japan with his New Treasure Island published in 1947. His legendary output would spawn some of the most influential, successful, and well received manga series including the children mangas Astro Boy, Princess Knight and Kimba the White Lion, and the adult oriented series Black Jack, Phoenix, and Buddha, all of which won several awards.",
+      "Tezuka died of stomach cancer in 1989. His death had an immediate impact on the Japanese public and other cartoonists."
+    ],
+    "quote": "“Manga is virtual. Manga is sentiment. Manga is resistance. Manga is bizarre. Manga is pathos. Manga is destruction. Manga is arrogance. Manga is love. Manga is kitsch. Manga is sense of wonder. Manga is … there is no conclusion yet.”",
+    "movements": [],
+    "mediums": ["Drawing", "Newsprint", "Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Osamu_Tezuka",
+    "urlGoogle": "https://artsandculture.google.com/entity/osamu-tezuka/m01vl17"
+  },
+  "event": {
+    "id": "battle-of-the-yellow-sea",
+    "name": "Battle of the Yellow Sea",
+    "dates": null,
+    "mainImg": "img/events/battle-of-the-yellow-sea.jpg",
+    "summary": [
+      "The Battle of the Yellow Sea was a major naval battle of the Russo-Japanese War, fought on 10 August 1904. In the Russian Navy, it was referred to as the Battle of 10 August. The battle foiled an attempt by the Russian fleet at Port Arthur to break out and form up with counterparts from Vladivostok, forcing them to return to port. Four days later, the Battle off Ulsan similarly ended the Vladivostok group's sortie, forcing both fleets to remain at anchor."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_the_Yellow_Sea",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-the-yellow-sea/m059c1j"
+  },
+  "funFacts": [
+    {
+      "id": "81",
+      "fact": "Alaska has more caribou than people.",
+      "category": ["Animals", "Geography"]
+    },
+    {
+      "id": "331",
+      "fact": "The area code in Cape Canaveral, Fl, is 321.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [{ "id": "506372", "fact": "Almonds and peaches are members of the same family." }],
+  "person": {
+    "id": "nikita-khrushchev",
+    "name": "Nikita Khrushchev",
+    "dates": "Apr 15, 1894 - Sep 11, 1971",
+    "mainImg": "img/people/nikita-khrushchev.jpg",
+    "summary": [
+      "Nikita Sergeyevich Khrushchev was a Soviet politician who led the Soviet Union during part of the Cold War as the first secretary of the Communist Party of the Soviet Union from 1953 to 1964 and as chairman of the Council of Ministers from 1958 to 1964. Khrushchev was responsible for the de-Stalinization of the Soviet Union, for backing the progress of the early Soviet space program, and for several relatively liberal reforms in areas of domestic policy. Khrushchev's party colleagues removed him from power in 1964, replacing him with Leonid Brezhnev as First Secretary and Alexei Kosygin as Premier.",
+      "Khrushchev was born in 1894 in the village of Kalinovka, in western Russia, close to the present-day border between Russia and Ukraine. He was employed as a metal worker during his youth, and he was a political commissar during the Russian Civil War. With the help of Lazar Kaganovich, he worked his way up the Soviet hierarchy. He supported Joseph Stalin's purges, and approved thousands of arrests. In 1938, Stalin sent him to govern the Ukrainian SSR, and he continued the purges there."
+    ],
+    "quote": "“If one cannot catch the bird of paradise, better take a wet hen.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Nikita_Khrushchev",
+    "urlGoogle": "https://artsandculture.google.com/entity/nikita-khrushchev/m0bphp"
+  },
+  "place": {
+    "id": "heidelberg",
+    "name": "Heidelberg",
+    "mainImg": "img/places/heidelberg.jpg",
+    "summary": [
+      "Heidelberg is a university town in the German state of Baden-Württemberg, situated on the river Neckar in south-west Germany. In the 2016 census, its population was 159,914, of which roughly a quarter consisted of students.",
+      "Located about 78 km south of Frankfurt, Heidelberg is the fifth-largest city in Baden-Württemberg. Heidelberg is part of the densely populated Rhine-Neckar Metropolitan Region.",
+      "Heidelberg University, founded in 1386, is Germany's oldest and one of Europe's most reputable universities. Heidelberg is a scientific hub in Germany and home to several internationally renowned research facilities adjacent to its university, including the European Molecular Biology Laboratory and four Max Planck Institutes. The city has also been a hub for the arts, especially literature, throughout the centuries, and it was designated a \"City of Literature\" by the UNESCO Creative Cities Network.",
+      "Heidelberg was a seat of government of the former Electorate of the Palatinate and is a popular tourist destination due to its romantic cityscape, including Heidelberg Castle, the Philosophers' Walk, and the Baroque old town."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Heidelberg",
+    "urlGoogle": "https://artsandculture.google.com/entity/heidelberg/m0cm5m"
+  },
+  "wiki": {
+    "id": "waveguide-filter",
+    "name": "Waveguide filter",
+    "summary": "A waveguide filter is an electronic filter that is constructed in waveguide technology. Waveguides are hollow metal tubes inside which an electromagnetic wave may be transmitted. Filters are a basic component of electronic engineering designs and have numerous applications. Waveguide filters are most useful in the microwave band of frequencies, where they are a convenient size and have low loss. Examples are found in satellite communications, telephone networks, and television broadcasting. Waveguide filters were developed during World War II for radar and electronic countermeasures, but afterwards soon found civilian applications. Post-war development was concerned with reducing size, first with new analysis techniques that eliminated unnecessary components, then by innovations such as dual-mode cavities and ceramic resonators. Waveguides can support a variety of electromagnetic wave modes: both a disadvantage, spurious modes frequently cause problems, and an advantage; dual-mode designs can be much smaller. The chief advantages of waveguide filters are ability to handle high power and low loss. The chief disadvantages are bulk and cost compared to technologies like microstrip.",
+    "url": "https://en.wikipedia.org/wiki/Waveguide_filter"
+  },
+  "word": {
+    "id": "jabberwocky",
+    "word": "jabberwocky",
+    "url": "https://www.merriam-webster.com/dictionary/jabberwocky",
+    "partOfSpeech": "noun",
+    "pronunciation": "JAB-er-wah-kee",
+    "audioPath": "audio/words/jabberwocky.mp3",
+    "definitions": ["meaningless speech or writing"],
+    "examples": [
+      "\"The salesman started spewing computer _jabberwocky_ at me like an auctioneer. I understood about every sixth word he uttered.\"- From an article by Larry D. Clifton in _The Tampa Tribune_, September 6, 1998",
+      "\"When LeBron James, Dwyane Wade and Chris Bosh stepped into the crowded room, fashionably late, _jabberwocky_ ceased and the only sound you heard was the whir and click of cameras.\"- From an article by Greg Cote in _The Miami Herald_, September 28, 2010"
+    ],
+    "origin": "In a poem titled \"Jabberwocky\" in the book _Through the Looking-Glass and What Alice Found There_ (1872), Lewis Carroll warned his readers about a frightful beast:"
+  }
+}

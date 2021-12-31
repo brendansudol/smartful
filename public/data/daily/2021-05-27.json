@@ -1,139 +1,132 @@
 {
   "artist": {
-    "id": "jan-toorop",
-    "name": "Jan Toorop",
-    "dates": "Dec 20, 1858 - Mar 3, 1928",
-    "mainImg": "img/art/artists/jan-toorop.jpg",
+    "id": "frederick-sandys",
+    "name": "Frederick Sandys",
+    "dates": "May 1, 1829 - Jun 25, 1904",
+    "mainImg": "img/art/artists/frederick-sandys.jpg",
     "artworkImgs": [
       {
-        "name": "De schelpenvisser",
-        "path": "img/art/artworks/jan-toorop-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/de-schelpenvisser-jan-toorop/_AEajsyjP8p8_g"
+        "name": "Morgan-le-Fay",
+        "path": "img/art/artworks/frederick-sandys-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/morgan-le-fay/bQG4hil-9FMmYA"
       },
       {
-        "name": "The three brides",
-        "path": "img/art/artworks/jan-toorop-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-three-brides-jan-toorop/oAErSY0w6SoBAg"
+        "name": "Portrait of a Lady, probably Anne Simms Reeve of Brancaster Hall, Norfolk",
+        "path": "img/art/artworks/frederick-sandys-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-lady-probably-anne-simms-reeve-of-brancaster-hall-norfolk-frederick-sandys/OwGI8ZWV2gKekg"
       },
       {
-        "name": "The Sea near Katwijk",
-        "path": "img/art/artworks/jan-toorop-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-sea-near-katwijk-jan-toorop/cQGv01mna5XkLA"
+        "name": "Medea",
+        "path": "img/art/artworks/frederick-sandys-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/medea/KgFfi1wPKa6Bmg"
       },
       {
-        "name": "Poster for Delft Salad Oil",
-        "path": "img/art/artworks/jan-toorop-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/poster-for-delft-salad-oil-jan-toorop/igFfVCebcODyMw"
+        "name": "Grace Rose",
+        "path": "img/art/artworks/frederick-sandys-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/grace-rose-frederick-sandys-1829–1904-british/FwHcx0AM-jmIhw"
       },
       {
-        "name": "The Schelde near Veere",
-        "path": "img/art/artworks/jan-toorop-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-schelde-near-veere-jan-toorop/IQHJzTOd4RXL2w"
+        "name": "Ysoude with the Love Philtre",
+        "path": "img/art/artworks/frederick-sandys-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/ysoude-with-the-love-philtre-frederick-sandys/aQEstywC5ijhnw"
       },
       {
-        "name": "Broek in Waterland",
-        "path": "img/art/artworks/jan-toorop-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/broek-in-waterland-jan-toorop-dutch-1858-1928/0AHU6P1cyiJ2bQ"
+        "name": "A Nightmare",
+        "path": "img/art/artworks/frederick-sandys-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-nightmare-frederick-augustus-sandys/GgFPEZKybSNp-g"
       }
     ],
     "summary": [
-      "Johannes Theodorus 'Jan' Toorop was a Dutch-Indonesian painter, who worked in various styles, including Symbolism, Art Nouveau, and Pointillism. His early work was influenced by the Amsterdam Impressionism movement."
+      "Anthony Frederick Augustus Sandys, usually known as Frederick Sandys, was an English painter, illustrator and draughtsman, associated with the Pre-Raphaelites. He was also associated with the Norwich School of painters."
     ],
     "quote": null,
-    "movements": [
-      "Symbolism",
-      "Amsterdam Impressionism",
-      "Art Nouveau",
-      "Neo-Impressionism",
-      "Modern art",
-      "Post-Impressionism"
-    ],
-    "mediums": ["Pencil", "Pen", "Chalk", "Pigment", "Oil paint", "Crayon"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jan_Toorop",
-    "urlGoogle": "https://artsandculture.google.com/entity/jan-toorop/m0187ss"
+    "movements": ["Pre-Raphaelite Brotherhood"],
+    "mediums": ["Wood", "Engraving", "Oil paint", "Drawing", "Sanguine", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_Sandys",
+    "urlGoogle": "https://artsandculture.google.com/entity/frederick-sandys/m0cljbc"
   },
   "event": {
-    "id": "last-battle-of-the-battleship-bismarck",
-    "name": "Last battle of the battleship Bismarck",
-    "dates": "May 26, 1941 - May 27, 1941",
-    "mainImg": "img/events/last-battle-of-the-battleship-bismarck.jpg",
+    "id": "un-retreat-from-north-korea",
+    "name": "UN retreat from North Korea",
+    "dates": "Dec 2, 1950 - Dec 25, 1950",
+    "mainImg": "img/events/un-retreat-from-north-korea.jpg",
     "summary": [
-      "The last battle of the German battleship Bismarck took place in the Atlantic Ocean approximately 300 nmi west of Brest, France, on 26–27 May 1941. Although it was a decisive action between capital ships, it has no generally accepted name.",
-      "On 24 May, before the final action, Bismarck's fuel tanks were damaged and several machinery compartments, including a boiler room, were flooded in the Battle of the Denmark Strait. Her captain's intention was to reach the port of Brest for repair. Late in the day Bismarck briefly turned on her pursuers to cover the escape of her companion, the heavy cruiser Prinz Eugen to continue further into the Atlantic. Early on 25 May the British forces lost contact with Bismarck, which headed ESE towards France while the British searched NE, presuming she was returning to Norway. Later on 25 May Admiral Lütjens, apparently unaware that he had lost his pursuers, broke radio silence to send a coded message to Germany. This allowed the British to triangulate the approximate position of Bismarck and aircraft were dispatched to hunt for the German battleship. She was rediscovered in the late morning of 26 May by a Catalina flying boat from No."
+      "The UN retreat from North Korea was the withdrawal of United Nations forces from North Korea that took place from 2–25 December 1950.",
+      "On 30 September Republic of Korea Army forces crossed the 38th Parallel, the de facto border between North and South Korea on the east coast of the Korean peninsula and this was followed by a general UN offensive into North Korea to pursue the shattered North Korean Korean People's Army. Within one month UN forces were approaching the Yalu River prompting Chinese intervention in the war. Despite the initial attacks by the Chinese People's Volunteer Army in late October-early November, the UN renewed their offensive on 24 November before it was abruptly halted by massive Chinese intervention in the Second Phase Offensive starting on 25 November. Following their defeats by the PVA in the Battle of the Ch'ongch'on River and the Battle of Chosin Reservoir in eastern Korea, UN forces withdrew from North Korea completing their withdrawal on 25 December. UN forces then prepared new defensive lines above Seoul for an expected renewal of the PVA offensive."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Last_battle_of_the_battleship_Bismarck",
-    "urlGoogle": "https://artsandculture.google.com/entity/last-battle-of-the-battleship-bismarck/m0cq17b"
+    "urlWiki": "https://en.wikipedia.org/wiki/UN_retreat_from_North_Korea",
+    "urlGoogle": "https://artsandculture.google.com/entity/un-retreat-from-north-korea/g11h106s87n"
   },
   "funFacts": [
     {
-      "id": "219",
-      "fact": "An electric eel can release a charge powerful enough to start 50 cars.",
-      "category": ["Animals", "Science"]
+      "id": "799",
+      "fact": "The official color of California's Golden Gate Bridge is International Orange.",
+      "category": ["Hodgepodge"]
     },
-    { "id": "128", "fact": "Dragonflies have six legs but can't walk.", "category": ["Animals"] }
+    {
+      "id": "844",
+      "fact": "One lump of sugar is equivalent to three feet of sugar cane.",
+      "category": ["Plants"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "554046",
-      "fact": "According to the record holder for tallest waffle stack, Guinness World Records has a 40-page document \u0003defining what a waffle is."
+      "id": "554093",
+      "fact": "When Facebook introduced the News Feed in 2006, people freaked out. TIME called it “Gen Y’s first official revolution.”"
     }
   ],
   "idiom": {
-    "id": "go-berserk",
-    "term": "go berserk",
-    "definition": "Erupt in furious rage, become crazily violent. For example, *When they announced the gymnast's score, her coach went berserk.* This expression is believed to allude to the name of Norse warriors renowned for their ferocity in battle and for wearing no armor but a bearskin shirt (or *berserkar*). [Late 1800s]"
+    "id": "beard-the-lion",
+    "term": "beard the lion",
+    "definition": "Confront a danger, take a risk, as in *I went straight to my boss, bearding the lion.* This term was originally a Latin proverb based on a Bible story (I Samuel 17:35) about the shepherd David, who pursued a lion that had stolen a lamb, caught it by its beard, and killed it. By Shakespeare's time it was being used figuratively, as it is today. Sometimes the term is amplified to **beard the lion in his den,** which may combine the allusion with another Bible story, that of Daniel being shut in a lions' den for the night (Daniel 6:16--24)."
   },
   "person": {
-    "id": "juan-bosch",
-    "name": "Juan Bosch",
-    "dates": "Jun 30, 1909 - Nov 1, 2001",
-    "mainImg": "img/people/juan-bosch.jpg",
+    "id": "elpidio-quirino",
+    "name": "Elpidio Quirino",
+    "dates": "Nov 16, 1890 - Feb 29, 1956",
+    "mainImg": "img/people/elpidio-quirino.jpg",
     "summary": [
-      "Juan Emilio Bosch Gaviño was a Dominican politician, historian, writer, essayist, educator, and the first democratically elected president of the Dominican Republic for a brief time in 1963. Previously, he had been the leader of the Dominican opposition in exile to the dictatorial regime of Rafael Trujillo for over 25 years. To this day he is remembered as an honest politician and regarded as one of the most prominent writers in Dominican literature. He founded both the Dominican Revolutionary Party in 1939 and the Dominican Liberation Party in 1973."
+      "Elpidio Rivera Quirino was a Filipino politician of ethnic Ilocano descent who served as the sixth President of the Philippines from 1948 to 1953.",
+      "A lawyer by profession, Quiríno entered politics when he became a representative of Ilocos Sur from 1919 to 1925. He was then elected as senator from 1925–1931. In 1934, he became a member of the Philippine independence commission that was sent to Washington, D.C., which secured the passage of Tydings–McDuffie Act to American Congress. In 1935, he was also elected to the convention that drafted the 1935 constitution for the newly established Commonwealth. In the new government, he served as secretary of the interior and finance under President Manuel Quezon's cabinet.",
+      "After World War II, Quiríno was elected vice-president in the 1946 election, consequently the second and last for the Commonwealth and first for the third republic. After the death of the incumbent president Manuel Roxas in 1948, he succeeded the presidency. He won the president's office under Liberal Party ticket, defeating Nacionalista vice president and former president José P. Laurel as well as fellow Liberalista and former Senate President José Avelino."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Juan_Bosch_%28politician%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/juan-bosch/m01wzrh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Elpidio_Quirino",
+    "urlGoogle": "https://artsandculture.google.com/entity/elpidio-quirino/m02bmxs"
   },
   "place": {
-    "id": "montenegro",
-    "name": "Montenegro",
-    "mainImg": "img/places/montenegro.jpg",
+    "id": "bahrain",
+    "name": "Bahrain",
+    "mainImg": "img/places/bahrain.jpg",
     "summary": [
-      "Montenegro is a country of South and Southeast Europe on the coast of the Balkans. It borders Bosnia-Herzegovina to the northwest, Serbia to the northeast, Kosovo to the east, Albania to the southeast, the Adriatic Sea to the southwest, and Croatia to the west. Montenegro has an area of 13,812 square kilometres and a population of 620,079. Its capital, Podgorica, is one of the twenty-three municipalities in the country. Cetinje is designated as the Old Royal Capital.",
-      "During the Early Medieval period, three principalities were located on the territory of modern-day Montenegro: Duklja, roughly corresponding to the southern half; Travunia, the west; and Rascia proper, the north. In 1042, archon Stefan Vojislav led a revolt that resulted in the independence of Duklja from the Byzantine Empire and the establishment of the Vojislavljević dynasty. After being ruled by the Nemanjić dynasty for two centuries, the independent Principality of Zeta emerged in the 14th and 15th centuries, ruled by the House of Balšić between 1356 and 1421, and by the House of Crnojević between 1431 and 1498, when the name Montenegro started being used for the country."
+      "Bahrain, officially the Kingdom of Bahrain, is a sovereign state in the Persian Gulf. The island nation comprises a small archipelago made up of 33 natural islands and an additional 51 artificial islands, centered around Bahrain Island which makes up around 83 percent of the country's landmass. The country is situated between the Qatar peninsula and the north eastern coast of Saudi Arabia, to which it is connected by the 25-kilometre King Fahd Causeway. According to the 2010 census, Bahrain's population is over 1.2 million, of which around half are non-nationals. At 780 square kilometres in size, it is the third-smallest nation in Asia after the Maldives and Singapore. The capital and largest city is Manama.",
+      "Bahrain is the site of the ancient Dilmun civilization. It has been famed since antiquity for its pearl fisheries, which were considered the best in the world into the 19th century. Bahrain was one of the earliest areas to convert to Islam, during the lifetime of the Prophet Muhammad in 628 CE. Following a period of Arab rule, Bahrain was ruled by the Portuguese Empire from 1521 until 1602, following the conquest by Shah Abbas I of the Safavid dynasty under the Persian Empire."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Montenegro",
-    "urlGoogle": "https://artsandculture.google.com/entity/montenegro/m056vv"
-  },
-  "quote": {
-    "id": "44",
-    "quote": "Simplicity is the ultimate sophistication.",
-    "author": "Leonardo da Vinci"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bahrain",
+    "urlGoogle": "https://artsandculture.google.com/entity/bahrain/m0161c"
   },
   "wiki": {
-    "id": "hurricane-iniki",
-    "name": "Hurricane Iniki",
-    "summary": "Hurricane Iniki was the most powerful hurricane to strike the state of Hawaii and the Hawaiian Islands in recorded history. Forming during the strong El Niño of 1991-1994, Iniki was one of eleven Central Pacific tropical cyclones during the 1992 season. The eye of Hurricane Iniki passed directly over the island of Kauai on September 11, 1992 as a Category 4 hurricane on the Saffir-Simpson Hurricane Scale. It was the first hurricane to hit the state since Iwa in the 1982 season, and the first major hurricane since Hurricane Dot in 1959. Iniki caused around $1.8 billion (1992 US dollars) in damage and 6 deaths. At the time, Iniki was among the costliest United States hurricanes and remains one of the costliest hurricanes on record in the eastern Pacific.",
-    "url": "https://en.wikipedia.org/wiki/Hurricane_Iniki"
+    "id": "second-crusade",
+    "name": "Second Crusade",
+    "summary": "The Second Crusade was the second major crusade launched from Europe, called in 1145 in response to the fall of the County of Edessa the previous year. Edessa was the first of the Crusader states to have been founded during the First Crusade, and was the first to fall. The Second Crusade was announced by Pope Eugenius III, and was the first of the crusades to be led by European kings, namely Louis VII of France and Conrad III of Germany. The armies of the two kings marched separately across Europe and were separately defeated by the Seljuk Turks. Louis and Conrad and the remnants of their armies reached Jerusalem and in 1148 participated in an ill-advised attack on Damascus. The crusade in the east was a failure for the crusaders and a great victory for the Muslims. It would ultimately lead to the fall of Jerusalem and the Third Crusade at the end of the 12th century. The only success came on the opposite end of the Mediterranean, where English crusaders, on the way by ship to the Holy Land, fortuitously stopped and helped capture Lisbon in 1147.",
+    "url": "https://en.wikipedia.org/wiki/Second_Crusade"
   },
   "word": {
-    "id": "commensal",
-    "word": "commensal",
-    "url": "https://www.merriam-webster.com/dictionary/commensal",
-    "partOfSpeech": "adjective",
-    "pronunciation": "kuh-MEN-sul",
-    "audioPath": "audio/words/commensal.mp3",
+    "id": "interrobang",
+    "word": "interrobang",
+    "url": "https://www.merriam-webster.com/dictionary/interrobang",
+    "partOfSpeech": "noun",
+    "pronunciation": "in-TAIR-uh-bang",
+    "audioPath": "audio/words/interrobang.mp3",
     "definitions": [
-      "of or relating to those who habitually eat together",
-      "of, relating to, or living in a relationship in which one organism obtains food or other benefits from another without damaging or benefiting it"
+      "a punctuation mark ‽ designed for use especially at the end of an exclamatory rhetorical question"
     ],
     "examples": [
-      "\"Florentines in the 1980s still valued their families and insisted on eating together every day, even as they recognized that several forces including television, restaurants, and the rapid pace of work undermined _commensal_ meals.\" - From Carole M. Counihan's 2004 book _Around the Tuscan Table: Food, Family, and Gender in Twentieth Century Florence_",
-      "\"Nunez's work on bacteria that invade the gut focuses on competition between the naturally occurring, or _commensal_, bacteria that live in the intestinal tract, and invading pathogens.\" - From a press release from the University of Michigan Health System, November 1, 2012"
+      "The essay was peppered with _interrobangs_ and exclamation points, communicating-intentionally or not-an incredulity and outrage that didn't feel very hospitable.",
+      "\"Inevitably, however, you'll cheat on the Period with the Ampersand, Semi-Colon, or possibly the _Interrobang_.\" - From an [article](http://www.theatlanticwire.com/entertainment/2012/08/imagined-lives-punctuation-marks/56023/) by Jen Doll in the _Atlantic Wire_, August 21, 2012"
     ],
-    "origin": "Commensal types, be they human or beast, often \"break bread\" together. When they do, they are reflecting the etymology of \"commensal,\" which derives from the Latin prefix \"com-,\" meaning \"with, together, jointly\" and the Latin adjective \"mensalis,\" meaning \"of the table.\" In its earliest English uses, \"commensal\" referred to people who ate together, but around 1870, biologists started using it for organisms that have no use for a four-piece table setting. Since then, the scientific sense has almost completely displaced the dining one."
+    "origin": "Most punctuation marks have been around for centuries, but not the interrobang: it's a product of the 1960s. The mark gets its name from the punctuation that it is intended to combine. \"Interro\" is from \"interrogation point,\" the technical name for the question mark, and \"bang\" is printers' slang for the exclamation point. The interrobang is not commonly used-its absence from standard keyboards can explain its paucity in print perhaps just as well as its paucity in print can explain its absence from standard keyboards. Most writers who want to communicate what the interrobang communicates continue to do as they did before the advent of the mark, throwing in !? or ?! as they feel so moved."
   }
 }

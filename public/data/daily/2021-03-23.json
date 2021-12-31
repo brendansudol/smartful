@@ -1,135 +1,139 @@
 {
   "artist": {
-    "id": "bernardo-bellotto",
-    "name": "Bernardo Bellotto",
-    "dates": "Jan 30, 1721 - Nov 17, 1780",
-    "mainImg": "img/art/artists/bernardo-bellotto.jpg",
+    "id": "lajos-kassak",
+    "name": "Lajos Kassák",
+    "dates": "Mar 21, 1887 - Jul 22, 1967",
+    "mainImg": "img/art/artists/lajos-kassak.jpg",
     "artworkImgs": [
       {
-        "name": "The Fortress of Königstein",
-        "path": "img/art/artworks/bernardo-bellotto-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-fortress-of-königstein-bernardo-bellotto/XgHH497MUvjiLw"
+        "name": "Kassák Lajos: Dynamic Construction",
+        "path": "img/art/artworks/lajos-kassak-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/kassák-lajos-dynamic-construction/UQEOxH_xgmdSHg"
       },
       {
-        "name": "The Ruins of the Kreuzkirche in Dresden",
-        "path": "img/art/artworks/bernardo-bellotto-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-ruins-of-the-kreuzkirche-in-dresden-bernardo-bellotto/MwGFEGKLmmoojQ"
+        "name": "Cover of MA, 1924. 3-4.",
+        "path": "img/art/artworks/lajos-kassak-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/cover-of-ma-1924-3-4/sQFH50gOSJtIIQ"
       },
       {
-        "name": "View of the Grand Canal and the Dogana",
-        "path": "img/art/artworks/bernardo-bellotto-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-the-grand-canal-and-the-dogana/DQEafe-pDCcpiw"
+        "name": "Catalog cover of Lajos Kassák's exhibition",
+        "path": "img/art/artworks/lajos-kassak-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/catalog-cover-of-lajos-kassák-s-exhibition/FgEGJDCQMqkixA"
       },
       {
-        "name": "The Campo di SS. Giovanni e Paolo, Venice",
-        "path": "img/art/artworks/bernardo-bellotto-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-campo-di-ss-giovanni-e-paolo-venice-bernardo-bellotto/NQHeZy9JPlCJkw"
+        "name": "Cover of MA, 15. Nov. 1921.",
+        "path": "img/art/artworks/lajos-kassak-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cover-of-ma-15-nov-1921/pwGE2nRtxPeqVw"
       },
       {
-        "name": "The Piazza della Signoria in Florence",
-        "path": "img/art/artworks/bernardo-bellotto-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-piazza-della-signoria-in-florence-bernardo-bellotto/fwG76CONgysT8Q"
+        "name": "Lajos Kassák: Family Members",
+        "path": "img/art/artworks/lajos-kassak-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lajos-kassák-family-members/XQHWx65smybCZg"
       },
       {
-        "name": "The Clock Tower in the Piazza San Marco",
-        "path": "img/art/artworks/bernardo-bellotto-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-clock-tower-in-the-piazza-san-marco-giovanni-antoni-canal-called-canaletto-italian-venetian/oQFuEdppx_dJPw"
+        "name": "Cover of Lajos Kassák: MA Buch - Kassák Gedichte",
+        "path": "img/art/artworks/lajos-kassak-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cover-of-lajos-kassák-ma-buch-kassák-gedichte/FQFoMEuukGXIJg"
       }
     ],
     "summary": [
-      "Bernardo Bellotto, was an Italian urban landscape painter or vedutista, and printmaker in etching famous for his vedute of European cities. He was the student and nephew of the famous Giovanni Antonio Canal Canaletto and sometimes used the latter's illustrious name, signing himself as Bernardo Canaletto. In Germany and Poland, Bellotto called himself by his uncle's name, Canaletto.",
-      "Bellotto's style was characterized by elaborate representation of architectural and natural vistas, and by the specific quality of each place's lighting. It is plausible that Bellotto, and other Venetian masters of vedute, may have used the camera obscura in order to achieve superior precision of urban views."
+      "Lajos Kassák was a Hungarian poet, novelist, painter, essayist, editor, theoretician of the avant-garde, and occasional translator. Self-taught, he became a writer within the socialist movement and published journals important to the radical intellectual culture of Budapest in the early 1900s.",
+      "Although he cannot be fully identified with any single avant-garde movement, he adopted elements of expressionism, futurism and dadaism."
     ],
-    "quote": null,
-    "movements": ["Rococo", "Renaissance"],
-    "mediums": ["Oil paint", "Pen", "Drawing", "Ink", "Etching", "Graphite"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Bernardo_Bellotto",
-    "urlGoogle": "https://artsandculture.google.com/entity/bernardo-bellotto/m04_nhc9"
+    "quote": "“The father of every good work is discontent, and its mother is diligence.”",
+    "movements": ["Modern art", "Constructivism", "Modernism", "Dada", "Abstract art"],
+    "mediums": ["Book", "Cardboard", "Tempera"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lajos_Kass%C3%A1k",
+    "urlGoogle": "https://artsandculture.google.com/entity/lajos-kassák/m0gh3d5"
   },
   "event": {
-    "id": "1980-united-states-presidential-election",
-    "name": "1980 United States presidential election",
-    "dates": null,
-    "mainImg": "img/events/1980-united-states-presidential-election.jpg",
+    "id": "italian-campaign",
+    "name": "Italian campaign",
+    "dates": "Jul 10, 1943 - May 8, 1945",
+    "mainImg": "img/events/italian-campaign.jpg",
     "summary": [
-      "The 1980 United States presidential election was the 49th quadrennial presidential election. It was held on Tuesday, November 4, 1980. Republican nominee Ronald Reagan defeated incumbent Democrat Jimmy Carter. Carter was the second incumbent president to be denied a second term since Herbert Hoover in 1932. Due to the rise of conservatism following Reagan's victory, some historians consider the election to be a realigning election that marked the start of the Reagan Era.",
-      "Carter's unpopularity and poor relations with Democratic leaders encouraged an intra-party challenge by Senator Ted Kennedy, a younger brother of former President John F. Kennedy. Carter defeated Kennedy in the majority of the Democratic primaries, but Kennedy remained in the race until Carter was officially nominated at the 1980 Democratic National Convention. The Republican primaries were contested between Reagan, who had previously served as the Governor of California, former Congressman George H. W. Bush of Texas, Congressman John B. Anderson of Illinois, and several other candidates."
+      "The Italian campaign of World War II consisted of Allied and Axis operations in and around Italy, from 1943 to 1945. The Joint Allied Forces Headquarters was operationally responsible for all Allied land forces in the Mediterranean theatre and it planned and led the invasion of Sicily in July 1943, followed in September by the invasion of the Italian mainland and the campaign in Italy until the surrender of the German Armed Forces in Italy in May 1945.",
+      "It is estimated that between September 1943 and April 1945, 60,000–70,000 Allied and 38,805–150,660 German soldiers died in Italy. The number of Allied casualties was about 320,000 and the German figure was over 330,000. Fascist Italy, prior to its collapse, suffered about 200,000 casualties, mostly POWs taken in the invasion of Sicily, including more than 40,000 killed or missing. Over 150,000 Italian civilians died, as did 35,828 anti-fascist partisans and some 35,000 troops of the Italian Social Republic."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
-    "urlGoogle": "https://artsandculture.google.com/entity/1980-united-states-presidential-election/m0b3h2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Italian_campaign_%28World_War_II%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/italian-campaign/m02h2_g"
   },
   "funFacts": [
     {
-      "id": "777",
-      "fact": "Cats have 2 sets of vocal cords: one for purring and one for meowing.",
-      "category": ["Animals"]
+      "id": "1022",
+      "fact": "Miami installed the first ATM for inline skaters.",
+      "category": ["Geography", "History", "Make-it-Easies", "Firsts"]
     },
     {
-      "id": "966",
-      "fact": "Tennis was originally played with bare hands.",
-      "category": ["History", "Hodgepodge", "Make-it-Easies", "Firsts"]
+      "id": "804",
+      "fact": "There are 293 ways to make change for a dollar.",
+      "category": ["Hodgepodge"]
     }
   ],
-  "funFacts2": [{ "id": "554095", "fact": "J.K. Rowling invented Quidditch in a pub." }],
+  "funFacts2": [
+    {
+      "id": "553833",
+      "fact": "Alice in Wonderland&nbsp;was once banned in parts of China. “Bears, lions, and other beasts cannot use human language,” said the Governor of the Hunan Province in 1931. “To attribute to them such a power is an insult to the human race.”"
+    }
+  ],
   "idiom": {
-    "id": "weasel-word",
-    "term": "weasel word",
-    "definition": "A word used to deprive a statement of its force or evade a direct commitment, as in *Calling it \"organized spontaneity\" is using a weasel word; \"organized\" has sucked the meaning out of \"spontaneity.\"* This idiom may allude to the weasel's habit of sucking the contents out of a bird's egg, so that only the shell remains. [Late 1800s]"
+    "id": "not-have-a-bean",
+    "term": "not have a bean",
+    "definition": "Be destitute or penniless, as in *He doesn't have a bean, but she's set on marrying him. Bean* has been a slang term for a guinea or a sovereign coin since the early 1800s. The precise expression was first recorded in 1928."
   },
   "person": {
-    "id": "palmiro-togliatti",
-    "name": "Palmiro Togliatti",
-    "dates": "Mar 26, 1893 - Aug 21, 1964",
-    "mainImg": "img/people/palmiro-togliatti.jpg",
+    "id": "hillary-clinton",
+    "name": "Hillary Clinton",
+    "dates": "Born Oct 26, 1947",
+    "mainImg": "img/people/hillary-clinton.jpg",
     "summary": [
-      "Palmiro Togliatti was an Italian politician and leader of the Italian Communist Party from 1927 until his death. He was nicknamed Il Migliore by his supporters. In 1930 he became a citizen of the Soviet Union and later he had a city in that country named after him: Tolyatti.",
-      "Togliatti was a founding member of the Communist Party of Italy, and from 1927 until his death, he was the Secretary and the undisputed leader of the Italian Communist Party, except for the period from 1934 to 1938, during which he served as representative to the Comintern, the international organization of communist parties. After the dissolution of the Comintern in 1943 and the formation of the Cominform in 1947, he refused the post of Secretary General, offered to him directly by Stalin in 1951, preferring to remain at the head of the PCI.",
-      "From 1944 to 1945 Togliatti held the post of Deputy Prime Minister and from 1945 to 1946 he was appointed Minister of Justice in the governments that ruled Italy after the fall of Fascism. He was also a member of the Constituent Assembly of Italy.",
-      "Togliatti survived an assassination attempt in 1948, and died in 1964, during a holiday in Crimea on the Black Sea."
+      "Hillary Diane Rodham Clinton is an American politician, diplomat, lawyer, writer, and public speaker. She served as the 67th United States Secretary of State from 2009 to 2013, as United States senator from New York from 2001 to 2009, and as First Lady of the United States from 1993 to 2001. Clinton became the first woman to be nominated for president of the United States by a major political party when she won the Democratic Party nomination in 2016. She was the first woman to win the popular vote in an American presidential election, which she lost to Donald Trump.",
+      "Raised in the Chicago suburb of Park Ridge, Clinton graduated from Wellesley College in 1969, and earned a Juris Doctor from Yale Law School in 1973. After serving as a congressional legal counsel, she moved to Arkansas and married future president Bill Clinton in 1975; the two had met at Yale. In 1977, she co-founded Arkansas Advocates for Children and Families. She was appointed the first female chair of the Legal Services Corporation in 1978, and became the first female partner at Little Rock's Rose Law Firm the following year. Clinton was the first lady of Arkansas from 1979 to 1981 and again from 1983 to 1992."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Palmiro_Togliatti",
-    "urlGoogle": "https://artsandculture.google.com/entity/palmiro-togliatti/m02lzdb"
+    "quote": "“What we have to do... is to find a way to celebrate our diversity and debate our differences without fracturing our communities.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Hillary_Clinton",
+    "urlGoogle": "https://artsandculture.google.com/entity/hillary-clinton/m0d06m5"
   },
   "place": {
-    "id": "bochum",
-    "name": "Bochum",
-    "mainImg": "img/places/bochum.jpg",
+    "id": "beverly-hills",
+    "name": "Beverly Hills",
+    "mainImg": "img/places/beverly-hills.jpg",
     "summary": [
-      "Bochum is the sixth largest city of the most populous German federal state of North Rhine-Westphalia after Cologne, Düsseldorf, Dortmund, Essen and Duisburg, and its 364,920 inhabitants make it the 16th largest city of Germany. On the Ruhr Heights hill chain, between the rivers Ruhr to the south and Emscher to the north, it is the second largest city of Westphalia after Dortmund, and the fourth largest city of the Ruhr after Dortmund, Essen and Duisburg. It lies at the centre of the Ruhr, Germany's largest urban area, in the Rhine-Ruhr Metropolitan Region, and belongs to the region of Arnsberg. It is surrounded by the cities of Herne, Castrop-Rauxel, Dortmund, Witten, Hattingen, Essen and Gelsenkirchen. Bochum is the sixth largest and one of the southernmost cities in the Low German dialect area. There are nine institutions of higher education in the city, most notably the Ruhr University Bochum, one of the ten largest universities in Germany, and the Bochum University of Applied Sciences."
+      "Beverly Hills is a city in Los Angeles County, California. Located within 5.7 square miles and surrounded by the cities of Los Angeles and West Hollywood, it had a population of 34,109 at the 2010 census and an estimated population of 33,792 in 2019.",
+      "The city is home to many celebrities, luxury hotels, and the Rodeo Drive shopping district.",
+      "Originally a Spanish ranch where lima beans were grown, Beverly Hills was incorporated in 1914 by a group of investors who had failed to find oil, but found water instead and eventually decided to develop it into a town."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bochum",
-    "urlGoogle": "https://artsandculture.google.com/entity/bochum/m018f94"
+    "urlWiki": "https://en.wikipedia.org/wiki/Beverly_Hills,_California",
+    "urlGoogle": "https://artsandculture.google.com/entity/beverly-hills/m0k049"
   },
   "quote": {
-    "id": "28",
-    "quote": "Better three hours too soon than a minute too late.",
-    "author": "William Shakespeare"
+    "id": "61",
+    "quote": "The most wasted of days is one without laughter.",
+    "author": "E.E. Cummings"
   },
   "wiki": {
-    "id": "kargil-war",
-    "name": "Kargil War",
-    "summary": "The Kargil War was an armed conflict between India and Pakistan that took place between May and July 1999 in Kashmir. The cause of the war was the infiltration of Pakistani soldiers and Kashmiri militants into positions on the Indian side of the Line of Control, which serves as the de facto border between the two nations. The Indian Army, supported by the air force, attacked the Pakistani positions and, with international diplomatic support, eventually forced a Pakistani withdrawal across the Line of Control. The war is one of the most recent examples of high altitude warfare, in mountainous terrain, and posed significant logistics problems for the combating sides. This was the first ground war between the two nuclear armed countries. (India and Pakistan both test-detonated fission devices in May 1998, though the first Indian nuclear test was conducted in 1974.) The conflict led to heightened tensions between the two nations and increased defense spending on the part of India. In Pakistan, the aftermath caused instability to the government and the economy, and on October 12 1999, a coup d'etat by the military placed army chief Pervez Musharraf in power.",
-    "url": "https://en.wikipedia.org/wiki/Kargil_War"
+    "id": "justus",
+    "name": "Justus",
+    "summary": "Justus (died between 627 and 631) was the fourth Archbishop of Canterbury. He was sent from Italy to England by Pope Gregory the Great, on a mission to Christianize the Anglo-Saxons from their native Anglo-Saxon paganism, probably arriving with the second group of missionaries despatched in 601. Justus became the first Bishop of Rochester in 604, and attended a church council in Paris in 614. Following the death of King Æthelberht of Kent in 616, Justus was forced to flee to Gaul, but was reinstated in his diocese the following year. In 624 Justus became Archbishop of Canterbury, overseeing the despatch of missionaries to Northumbria. After his death, he was revered as a saint, and had a shrine in St Augustine's Abbey, Canterbury.",
+    "url": "https://en.wikipedia.org/wiki/Justus"
   },
   "word": {
-    "id": "uncouth",
-    "word": "uncouth",
-    "url": "https://www.merriam-webster.com/dictionary/uncouth",
-    "partOfSpeech": "adjective",
-    "pronunciation": "un-KOOTH",
-    "audioPath": "audio/words/uncouth.mp3",
+    "id": "apercu",
+    "word": "aperçu",
+    "url": "https://www.merriam-webster.com/dictionary/aperçu",
+    "partOfSpeech": "noun",
+    "pronunciation": "ap-er-SOO",
+    "audioPath": "audio/words/apercu.mp3",
     "definitions": [
-      "strange or clumsy in shape or appearance : outlandish",
-      "lacking in polish and grace : rugged",
-      "awkward and uncultivated in appearance, manner, or behavior : rude"
+      "a brief survey or sketch : outline",
+      "an immediate impression; especially : an intuitive insight"
     ],
     "examples": [
-      "Stacy realized it would be _uncouth_ to show up to the party without a gift, so she picked up a bottle of wine on the way.",
-      "\"For starters, Buckingham Palace isn't a great place to be fussy about food -- the hosts have gone to a lot of trouble to prepare dinner and it would be _uncouth_ not to sample everything that's served….\" -- From an article by Jessica Allen and Patricia Treble in _Maclean's_, May 2, 2011"
+      "\"On every other page, there's a nice _apercu_: breath is 'cooked air'; perfume is 'liquid memory'; when astronauts are weightless in their spaceship, they lose their sense of smell….\" - Anatole Broyard, _New York Times Book Review_, 29 July 1990",
+      "\"As a poet, Mr. Lehman has always been conversational in style, given to seemingly casual _aperçus_ that take on a larger resonance….\" - Sarah Douglas, _New York Observer_, October 29, 2013"
     ],
-    "origin": "\"Uncouth\" comes from the Old English word \"uncŪth,\" which joins the prefix \"un-\" with \"cŪth,\" meaning \"familiar\" or \"known.\" How did a word that meant \"unfamiliar\" come to mean \"outlandish,\" \"rugged,\" or \"rude\"? Some examples from literature illustrate that the transition happened quite naturally. In _Captain Singleton_, Daniel Defoe refers to \"a strange noise more uncouth than any they had ever heard.\" In William Shakespeare’s _As You Like It_, Orlando tells Adam, \"If this uncouth forest yield anything savage, I will either be food for it or bring it for food to thee.\" In Washington Irving’s _The Legend of Sleepy Hollow_, Ichabod Crane fears \"to look over his shoulder, lest he should behold some uncouth being tramping close behind him!\" So, that which is unfamiliar is often perceived as strange, wild, or unpleasant. Meanings such as \"outlandish,\" \"rugged,\" or \"rude\" naturally follow."
+    "origin": "In French, \"aperçu\" is the past participle of the verb \"apercevoir\" (\"to perceive\" or \"to comprehend\"), which in turn comes from Latin \"percipere\" (\"to perceive\"). (The same verb also gave us \"apperceive,\" meaning \"to have consciousness of oneself,\" and the noun \"apperception,\" meaning \"introspective self-consciousness\" or \"mental perception.\") \"Aperçu\" in French is also a noun meaning \"glimpse\" or \"outline, general idea.\" English speakers borrowed the noun \"aperçu,\" meaning and all, in the early 19th century."
   }
 }

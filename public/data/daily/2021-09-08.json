@@ -1,127 +1,134 @@
 {
   "artist": {
-    "id": "wang-yuanqi",
-    "name": "Wang Yuanqi",
-    "dates": "1642 - 1715",
-    "mainImg": "img/art/artists/wang-yuanqi.jpg",
+    "id": "arne-jacobsen",
+    "name": "Arne Jacobsen",
+    "dates": "Feb 11, 1902 - Mar 24, 1971",
+    "mainImg": "img/art/artists/arne-jacobsen.jpg",
     "artworkImgs": [
       {
-        "name": "清 王原祁 倣吳鎮山水圖 軸|Landscape after Wu Zhen",
-        "path": "img/art/artworks/wang-yuanqi-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/清-王原祁-倣吳鎮山水圖-軸-landscape-after-wu-zhen-wang-yuanqi/hwED5OyWGV9AbQ"
+        "name": "Series 7",
+        "path": "img/art/artworks/arne-jacobsen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/series-7-arne-jacobsen/fAEpfIqGMYBTUw"
       },
       {
-        "name": "清 王原祁 江國垂綸圖 卷|Fishing in River Country at Blossom Time",
-        "path": "img/art/artworks/wang-yuanqi-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/清-王原祁-江國垂綸圖-卷-fishing-in-river-country-at-blossom-time-wang-yuanqi/cwHc_7CJCfCxzA"
+        "name": "Jacobsen's Bella Vista Estate. Side view",
+        "path": "img/art/artworks/arne-jacobsen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/jacobsen-s-bella-vista-estate-side-view-arne-jacobsen/0gG7oPAtNZyW3Q"
       },
       {
-        "name": "清 王原祁 倣黃公望高克恭山水圖 軸|Landscape in the Styles of Huang Gongwang and Gao Kegong",
-        "path": "img/art/artworks/wang-yuanqi-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/清-王原祁-倣黃公望高克恭山水圖-軸-landscape-in-the-styles-of-huang-gongwang-and-gao-kegong-wang-yuanqi/PgHUIjwS2gs-2g"
+        "name": "Radisson Blu Royal Hotel",
+        "path": "img/art/artworks/arne-jacobsen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/radisson-blu-royal-hotel-arne-jacobsen/TgHtHrGH5dhdFg"
       },
       {
-        "name": "Landscape in the Style of Ni Zan",
-        "path": "img/art/artworks/wang-yuanqi-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/landscape-in-the-style-of-ni-zan-wang-yuanqi/gwFU7PG-1fNU0w"
+        "name": "Side view. Petrol Station",
+        "path": "img/art/artworks/arne-jacobsen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/side-view-petrol-station-arne-jacobsen/nwHpojQnyNAfHQ"
       },
       {
-        "name": "Free Spirits Among Streams and Mountains",
-        "path": "img/art/artworks/wang-yuanqi-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/free-spirits-among-streams-and-mountains/DgFakGqvMAFpog"
+        "name": "Arne Jacobsen's Petrol Station",
+        "path": "img/art/artworks/arne-jacobsen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/arne-jacobsen-s-petrol-station-arne-jacobsen/bQH8PbZyi9-rVw"
       },
       {
-        "name": "The Fuchun Mountians",
-        "path": "img/art/artworks/wang-yuanqi-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-fuchun-mountians-wang-yuanqi/qgE84ecmDogruw"
+        "name": "Inside view. Bellevue theatre roof",
+        "path": "img/art/artworks/arne-jacobsen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/inside-view-bellevue-theatre-roof-arne-jacobsen/ZAHNOQ5uh1nmuA"
       }
     ],
     "summary": [
-      "Wang Yuanqi was a Chinese painter of the Qing dynasty.",
-      "Wang was born in Taicang in the Jiangsu province and tutored in painting by his grandfather Wang Shimin. His style name was 'Mao-ching' and his sobriquet was 'Lu-t'ai'. Wang is a member of the Six Masters of the early Qing period, also known as the 'Four Wangs, a Wu and a Yun'. They are also often regarded as the principal figures of the 'Orthodox School' of Chinese landscape painting.",
-      "Wang Yuanqi was two years old when the New Qing Dynasty was founded. He rose to prominence as a court official and eventually was appointed curator of the imperial collection during the reign of the Kangxi Emperor. He remained a court official throughout his long career and died at age 73 in 1715.",
-      "His landscapes followed the model of the Yuan Dynasty artists who broke away from the Northern Song tradition of rendering landscapes \"real enough to walk through\" to more personal abstractions."
+      "Arne Emil Jacobsen, Hon. FAIA 11 February 1902 – 24 March 1971 was a Danish architect and designer. He is remembered for his contribution to architectural Functionalism as well as for the worldwide success he enjoyed with simple but effective chair designs."
     ],
-    "quote": null,
+    "quote": "“When I travel, I draw and paint sketches which is great fun. And as long as you are fully aware that it has nothing to do with actual art, I think that's all right.”",
     "movements": [],
-    "mediums": ["Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Wang_Yuanqi",
-    "urlGoogle": "https://artsandculture.google.com/entity/wang-yuanqi/m0466lsv"
+    "mediums": [],
+    "urlWiki": "https://en.wikipedia.org/wiki/Arne_Jacobsen",
+    "urlGoogle": "https://artsandculture.google.com/entity/arne-jacobsen/m0lxh0"
   },
   "event": {
-    "id": "russian-invasion-of-east-prussia",
-    "name": "Russian invasion of East Prussia",
-    "dates": "Aug 17, 1914 - Sep 14, 1914",
-    "mainImg": "img/events/russian-invasion-of-east-prussia.jpg",
+    "id": "battle-of-taegu",
+    "name": "Battle of Taegu",
+    "dates": "Aug 5, 1950 - Aug 20, 1950",
+    "mainImg": "img/events/battle-of-taegu.jpg",
     "summary": [
-      "The Russian invasion of East Prussia occurred during World War I, lasting from August to September 1914. As well as being the natural course for the Russian Empire to take upon the declaration of war on the German Empire, it was also an attempt to focus the German Army on the Eastern Front, as opposed to the Western Front. Despite having an overwhelming superiority over the Germans in numbers, the invading Imperial Russian Army spread its forces thin and was defeated in the battles of Tannenberg and the Masurian Lakes."
+      "The Battle of Taegu was an engagement between United Nations Command and North Korean forces early in the Korean War, with fighting continuing from August 5–20, 1950 around the city of Taegu, South Korea. It was a part of the Battle of Pusan Perimeter, and was one of several large engagements fought simultaneously. The battle ended in a victory for the UN after their forces were able to drive off an offensive by Korean People's Army divisions attempting to cross the Naktong River and assault the city.",
+      "Five KPA divisions massed around the city preparing to cross the Naktong River and assault it from the north and west. Defending the city were the US 1st Cavalry Division and Republic of Korea Army II Corps. In a series of engagements, each of the KPA divisions attempted to cross the Naktong and attack the defending forces. The success of these attacks varied by region, but attacks in the 1st Cavalry Division sector were repulsed and the attacks in the ROK sector were more successful.",
+      "During the battle, however, KPA troops were able to surprise US troops on Hill 303 and capture them. Late in the battle, these troops were machine gunned in the Hill 303 massacre."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Russian_invasion_of_East_Prussia_%281914%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/russian-invasion-of-east-prussia/m02qdt78"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Taegu",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-taegu/m0ch39qf"
   },
   "funFacts": [
     {
-      "id": "256",
-      "fact": "There are more saunas than cars in Finland.",
-      "category": ["Geography"]
+      "id": "757",
+      "fact": "There are approximately 7,000 feathers on an eagle.",
+      "category": ["Animals"]
     },
     {
-      "id": "861",
-      "fact": "South Carolina is home to the first tea farm in the U.S.",
+      "id": "457",
+      "fact": "The first traffic light was in use in London in 1868, before the advent of cars.",
       "category": ["Firsts"]
     }
   ],
-  "funFacts2": [{ "id": "522200", "fact": "\"Huh?\" is understood in all languages." }],
+  "funFacts2": [
+    {
+      "id": "504558",
+      "fact": "The Margherita pizza was likely named after Margherita of Savoy, Queen consort of Italy from 1878 to 1900."
+    }
+  ],
   "idiom": {
-    "id": "cleanliness-is-next-to-godliness",
-    "term": "cleanliness is next to godliness",
-    "definition": "Being clean is a sign of spiritual purity or goodness, as in *Don't forget to wash your ears---cleanliness is next to godliness.* This phrase was first recorded in a sermon by John Wesley in 1778, but the idea is ancient, found in Babylonian and Hebrew religious tracts. It is still invoked, often as an admonition to wash or clean up."
+    "id": "the-spirit-is-willing-but-the-flesh-is-weak",
+    "term": "the spirit is willing but the flesh is weak",
+    "definition": "One would like to undertake something but hasn't the energy or strength to do so. For example, *Another set of tennis? The spirit is willing but the flesh is weak.* Today often used as a rueful admission of weariness or other physical weakness, this idiom was first recorded in the New Testament (Matthew 26:41), where Jesus tells his disciples: \"Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.\" A modern equivalent is **I would if I could but I can't.**"
   },
   "person": {
-    "id": "edward-frederick-lindley-wood-1-st-earl-of-halifax",
-    "name": "Edward Frederick Lindley Wood, 1st Earl of Halifax",
-    "dates": "Apr 16, 1881 - Dec 23, 1959",
-    "mainImg": "img/people/edward-frederick-lindley-wood-1-st-earl-of-halifax.jpg",
+    "id": "william-i-of-the-netherlands",
+    "name": "William I of the Netherlands",
+    "dates": "Aug 24, 1772 - Dec 12, 1843",
+    "mainImg": "img/people/william-i-of-the-netherlands.jpg",
     "summary": [
-      "Edward Frederick Lindley Wood, 1st Earl of Halifax, KG, OM, GCSI, GCMG, GCIE, TD, PC, styled The 1st Baron Irwin from 1925 until 1934 and The 3rd Viscount Halifax from 1934 until 1944, was a senior British Conservative politician of the 1930s. He held several senior ministerial posts during this time, most notably those of Viceroy of India from 1925 to 1931 and of Foreign Secretary between 1938 and 1940. He was one of the architects of the policy of appeasement of Adolf Hitler in 1936–38, working closely with Prime Minister Neville Chamberlain. However, after the German occupation of Czechoslovakia in March 1939 he was one of those who pushed for a new policy of attempting to deter further German aggression by promising to go to war to defend Poland.",
-      "On Chamberlain's resignation early in May 1940, Halifax effectively declined the position of Prime Minister as he felt that Churchill would be a more suitable war leader. A few weeks later, with the Allies facing apparently catastrophic defeat and British forces falling back to Dunkirk, Halifax favoured approaching Italy to see if acceptable peace terms could be negotiated."
-    ],
-    "quote": "“Anger is seldom without argument but seldom with a good one.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Edward_Wood,_1st_Earl_of_Halifax",
-    "urlGoogle": "https://artsandculture.google.com/entity/edward-frederick-lindley-wood-1st-earl-of-halifax/m01grww"
-  },
-  "place": {
-    "id": "patras",
-    "name": "Patras",
-    "mainImg": "img/places/patras.jpg",
-    "summary": [
-      "Patras is Greece's third-largest city and the regional capital of Western Greece, in the northern Peloponnese, 215 km west of Athens. The city is built at the foot of Mount Panachaikon, overlooking the Gulf of Patras.",
-      "As of the 2011 census, the city of Patras has a population of 167,446 and the municipal unit has 170,896 inhabitants; the municipality has 213,984 inhabitants. The Metropolitan Area of Patras has a number of approximately 300,000 inhabitants. The core settlement has a history spanning four millennia. In the Roman period, it had become a cosmopolitan center of the eastern Mediterranean whilst, according to the Christian tradition, it was also the place of Saint Andrew's martyrdom.",
-      "Dubbed as Greece's 'Gate to the West', Patras is a commercial hub, while its busy port is a nodal point for trade and communication with Italy and the rest of Western Europe. The city has two public universities and one technological institute, hosting a large student population and rendering Patras an important scientific centre with a field of excellence in technological education."
+      "William I was a Prince of Orange and the first King of the Netherlands and Grand Duke of Luxembourg.",
+      "He was the ruler of the Principality of Nassau-Orange-Fulda from 1803 until 1806 and of the Principality of Orange-Nassau in the year 1806 and from 1813 until 1815. In 1813 he proclaimed himself Sovereign Prince of the United Netherlands. He proclaimed himself King of the Netherlands and Duke of Luxembourg on 16 March 1815. In the same year on 9 June William I became also the Grand Duke of Luxembourg and after 1839 he was furthermore the Duke of Limburg. After his abdication in 1840 he styled himself King William Frederick, Count of Nassau."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Patras",
-    "urlGoogle": "https://artsandculture.google.com/entity/patras/m02dflv"
+    "urlWiki": "https://en.wikipedia.org/wiki/William_I_of_the_Netherlands",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-i-of-the-netherlands/m098q8"
+  },
+  "place": {
+    "id": "almaty",
+    "name": "Almaty",
+    "mainImg": "img/places/almaty.jpg",
+    "summary": [
+      "Almaty, formerly known as Alma-Ata and Verniy, is the largest city in Kazakhstan, with a population of about 2,000,000 people, about 11% of the country's total population, and more than 2.7 million in its built-up area that encompasses Talgar, Boraldai, Otegen Batyr and many other suburbs. It served as capital of the Soviet and later independent Kazakhstan from 1929 to 1997. In 1997, the government relocated the capital to Astana in the north of the country.",
+      "Almaty is still the major commercial and cultural centre of Kazakhstan, as well as its most populous and most cosmopolitan city. The city is located in the mountainous area of southern Kazakhstan near the border with Kyrgyzstan in the foothills of the Trans-Ili Alatau at an elevation of 700–900 m, where the Large and Small Almatinka rivers run into the plain.",
+      "The city has been part of the UNESCO Creative Cities Network in the area of music since November 2017. The city was the host for a 1978 international conference on Primary Health Care where the Alma Ata Declaration was adopted, marking a paradigm shift in global public health."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Almaty",
+    "urlGoogle": "https://artsandculture.google.com/entity/almaty/m0151s1"
   },
   "wiki": {
-    "id": "henry-moore",
-    "name": "Henry Moore",
-    "summary": "Henry Moore was a British artist and sculptor. Born into a poor mining family in the Yorkshire town of Castleford, he became well-known for his large-scale abstract cast bronze and carved marble sculptures; substantially supported by the British art establishment, Moore helped to introduce a particular form of modernism into Britain. His ability to satisfy large-scale commissions made him exceptionally wealthy towards the end of his life. However, he lived frugally and most of his wealth went to endow the Henry Moore Foundation, which continues to support education and promotion of the arts. His signature form is a pierced reclining figure, first influenced by a Toltec-Maya sculpture known as \"Chac Mool\", which he had seen as a plaster cast in Paris in 1925. Early versions are pierced conventionally as a bent arm reconnects with the body. Later, more abstract versions, are pierced directly through the body in order to explore the concave and convex shapes. These more extreme piercings developed in parallel with Barbara Hepworth's sculptures. Hepworth first pierced a torso after misreading a review of one of Henry Moore's early shows.",
-    "url": "https://en.wikipedia.org/wiki/Henry_Moore"
+    "id": "suzanne-lenglen",
+    "name": "Suzanne Lenglen",
+    "summary": "Suzanne Lenglen was a French tennis player, who dominated the women's game from 1919 to 1926, winning 25 Grand Slam titles. A flamboyant player, she was the first female tennis celebrity, and one of the first international female sport stars, named La Divine (the divine one) by the French press. Prior to Lenglen, female tennis matches drew little fan interest but she quickly became her sport's greatest drawing card. Tennis devotees and new fans to the game began lining up in droves to buy tickets to her matches. Temperamental, flamboyant, she was a passionate player whose intensity on court could lead to an unabashed display of tears. But for all her flamboyance, she was a gifted and brilliant player who used extremely agile footwork, speed and a deadly accurate shot to dominate female tennis for seven straight years. Her excellent play and introduction of glamour to the tennis court increased the interest in women's tennis, and women's sport in general.",
+    "url": "https://en.wikipedia.org/wiki/Suzanne_Lenglen"
   },
   "word": {
-    "id": "cathexis",
-    "word": "cathexis",
-    "url": "https://www.merriam-webster.com/dictionary/cathexis",
+    "id": "chicanery",
+    "word": "chicanery",
+    "url": "https://www.merriam-webster.com/dictionary/chicanery",
     "partOfSpeech": "noun",
-    "pronunciation": "kuh-THEK-sis",
-    "audioPath": "audio/words/cathexis.mp3",
-    "definitions": ["investment of mental or emotional energy in a person, object, or idea"],
-    "examples": [
-      "\"The veil that hides Laura and her eyes, her hair, her smile (and its counterpart, the glove that veils her hand) becomes the object of Petrarch's _cathexis_....\" - From an essay by Margaret Brose in the 2010 book _The Body in Early Modern Italy_",
-      "\"The plot of this French film diverges from ... most American film we are force-fed in that it deals powerfully with subject matter that counts. It treats an almost unrecognized aspect of WWII in Europe, eliciting a strong _cathexis_ from the viewer, who learns so much that he never knew before this celluloid feast.\" - From an article by Marion DS Dreyfus in _American Thinker_, April 8, 2012"
+    "pronunciation": "shih-KAY-nuh-ree",
+    "audioPath": "audio/words/chicanery.mp3",
+    "definitions": [
+      "deception by artful subterfuge or sophistry : trickery",
+      "a piece of sharp practice (as at law) : trick"
     ],
-    "origin": "You might suspect that \"cathexis\" derives from a word for \"emotion,\" but in actuality the key concept is \"holding.\" \"Cathexis\" comes to us by way of New Latin (Latin as used after the medieval period in scientific description or classification) from the Greek word \"kathexis,\" meaning \"holding.\" It can ultimately be traced back (through \"katechein,\" meaning \"to hold fast, occupy\") to the Greek verb \"echein,\" meaning \"to have\" or \"to hold.\" \"Cathexis\" first appeared in print in 1922 in a book about Freud's psychological theories (which also established the plural as \"cathexes,\" as is consistent with Latin), and it is still often used in scientific and specifically psychological contexts."
+    "examples": [
+      "The mayor's spokeswoman quickly denied the charges of nepotism, financial indiscretions, and political _chicanery_.",
+      "\"\\[The film\\] _Now You See Me_ tries to mystify you with its cinematic _chicanery_ while constantly reminding you that you're not paying attention to what's truly going down.\" - From a movie review by Craig D. Lindsey at nashvillescene.com, June 6, 2013"
+    ],
+    "origin": "\"We have hardly any words that do so fully expresse the French _clinquant, naiveté … chicaneries._\" So lamented English writer John Evelyn in a letter to Sir Peter Wyche in 1665. Evelyn and Wyche were members of a group called the Royal Society, which had formed a committee emulating the French Academy for the purpose of \"improving the English language.\" We can surmise that, in Evelyn's estimation, the addition of \"chicanery\" to English from French was an improvement. What he apparently didn't realize was that English speakers had adopted the word from the French \"chicanerie\" before he wished for it; the term appears in English manuscripts dating from 1609. Similarly, \"clinquant\" (\"glittering with gold or tinsel\") dates from 1591. \"Naïveté,\" on the other hand, waited until 1673 to appear."
   }
 }

@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "pietro-perugino",
+    "name": "Pietro Perugino",
+    "dates": "1446 - 1523",
+    "mainImg": "img/art/artists/pietro-perugino.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait of Lorenzo di Credi",
+        "path": "img/art/artworks/pietro-perugino-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-lorenzo-di-credi-pietro-perugino/lQEylmtgtyOJBQ"
+      },
+      {
+        "name": "Madonna and Child",
+        "path": "img/art/artworks/pietro-perugino-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-pietro-perugino/DwED40CtAtbe4Q"
+      },
+      {
+        "name": "Madonna and Child",
+        "path": "img/art/artworks/pietro-perugino-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-pietro-perugino/6QG_M_bqtU5peQ"
+      },
+      {
+        "name": "The Resurrection",
+        "path": "img/art/artworks/pietro-perugino-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-resurrection-perugino-pietro-di-cristoforo-vannucci/ewHQK3PAQ5mKgg"
+      },
+      {
+        "name": "Portrait of Francesco delle Opere",
+        "path": "img/art/artworks/pietro-perugino-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-francesco-delle-opere-perugino-vannucci/5QGLVFhd_NbMtQ"
+      },
+      {
+        "name": "Vierge à l'Enfant.",
+        "path": "img/art/artworks/pietro-perugino-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/vierge-à-l-enfant-copie-de-la-vierge-et-l-enfant-d-après-le-tableau-de-jean-fouquet/JwHWlb9Tu-yGng"
+      }
+    ],
+    "summary": [
+      "Pietro Perugino, born Pietro Vannucci, was an Italian Renaissance painter of the Umbrian school, who developed some of the qualities that found classic expression in the High Renaissance. Raphael was his most famous pupil."
+    ],
+    "quote": null,
+    "movements": ["Italian Renaissance", "Renaissance"],
+    "mediums": ["Drawing", "Oil paint", "Ink", "Pen", "Tempera", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pietro_Perugino",
+    "urlGoogle": "https://artsandculture.google.com/entity/pietro-perugino/m03k9yt"
+  },
+  "event": {
+    "id": "korean-war",
+    "name": "Korean War",
+    "dates": "Jun 25, 1950 - Jul 27, 1953",
+    "mainImg": "img/events/korean-war.jpg",
+    "summary": [
+      "The Korean War was a war between North Korea and South Korea. The war began on 25 June 1950 when North Korea invaded South Korea.",
+      "At the end of World War II, the Soviet Union and the United States liberated Korea from imperial Japanese colonial control on 15 August 1945. After the war had ended, Korea was divided at the 38th parallel into two zones of occupation, the Soviets administered the northern half and the Americans administered the southern half. With the border set at the 38th parallel in 1948, two sovereign states were established as a result of geopolitical tensions of the Cold War. A socialist state was established in the north under the communist leadership of Kim Il-sung and a capitalist state in the south under the anti-communist leadership of Syngman Rhee. Both governments of the two new Korean states claimed to be the sole legitimate government of all of Korea, and neither accepted the border as permanent.",
+      "The conflict escalated into warfare when North Korean military forces—supported by the Soviet Union and China—crossed the border and advanced into South Korea on 25 June 1950."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Korean_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/korean-war/m048n7"
+  },
+  "funFacts": [
+    {
+      "id": "277",
+      "fact": "Today's \"modern\" wrestling moves have been seen in tomb drawings from ancient Egypt.",
+      "category": ["History"]
+    },
+    {
+      "id": "788",
+      "fact": "The average person falls asleep in seven minutes.",
+      "category": ["Habits"]
+    }
+  ],
+  "funFacts2": [{ "id": "522215", "fact": "Chinese checkers was invented in Germany." }],
+  "idiom": {
+    "id": "cant-see-beyond-the-end-of-ones-nose",
+    "term": "can't see beyond the end of one's nose",
+    "definition": "Also, **can't see farther than the end of one's nose.** Lack foresight, envisioning only immediate events or problems, as in *Thomas hasn't hired an orchestra for the Christmas concert; he just can't see beyond the end of his nose.* This expression originated as a French proverb that was frequently cited in English from about 1700 on. Alexander Pope used a similar expression in his *Essay on Man* (1734): \"Onward still he goes, Yet ne'er looks forward further than his nose.\""
+  },
+  "person": {
+    "id": "whittaker-chambers",
+    "name": "Whittaker Chambers",
+    "dates": "Apr 1, 1901 - Jul 9, 1961",
+    "mainImg": "img/people/whittaker-chambers.jpg",
+    "summary": [
+      "Whittaker Chambers, born Jay Vivian Chambers, was an American writer-editor and former Communist spy who, in 1948, testified about Communist espionage, thereafter earning respect from the American Conservative movement. After early years as a Communist Party member and Soviet spy, he defected from the Soviet underground and joined Time magazine. Under subpoena in 1948, he testified about the Ware group in what became the Hiss case for perjury, all described in his 1952 memoir Witness. Afterwards, he worked as a senior editor at National Review. President Ronald Reagan awarded him the Presidential Medal of Freedom posthumously in 1984."
+    ],
+    "quote": "“A nation's life is about as long as its reverential memory.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Whittaker_Chambers",
+    "urlGoogle": "https://artsandculture.google.com/entity/whittaker-chambers/m018l4f"
+  },
+  "place": {
+    "id": "long-beach",
+    "name": "Long Beach",
+    "mainImg": "img/places/long-beach.jpg",
+    "summary": [
+      "Long Beach is a city in the U.S. state of California located within the Los Angeles metropolitan area. It is the 39th most populous city in the United States with a population of 462,257 in 2010. A charter city, Long Beach is the 7th most populous city in California.",
+      "Incorporated in 1897, Long Beach lies in Southern California in southern Los Angeles County. Long Beach is approximately 20 miles south of downtown Los Angeles, and is part of the Gateway Cities region. The Port of Long Beach is the second busiest container port in the United States and is among the world's largest shipping ports. The city is over an oilfield with minor wells both directly beneath the city as well as offshore.",
+      "The city is known for its waterfront attractions, including the permanently docked RMS Queen Mary and the Aquarium of the Pacific. Long Beach also hosts the Grand Prix of Long Beach, currently an IndyCar race. The California State University, Long Beach, one of the largest universities in California by enrollment, is located in the city."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Long_Beach,_California",
+    "urlGoogle": "https://artsandculture.google.com/entity/long-beach/m0nbwf"
+  },
+  "quote": {
+    "id": "75",
+    "quote": "Speak less than you know; have more than you show.",
+    "author": "William Shakespeare"
+  },
+  "wiki": {
+    "id": "miss-meyers",
+    "name": "Miss Meyers",
+    "summary": "Miss Meyers (1949 – March 1963) was a chestnut-colored American Quarter Horse racehorse and broodmare. Her sire was American Quarter Horse Association (AQHA) Hall of Fame member Leo, and her dam was Star's Lou. Miss Meyers raced from 1952 until 1955 and started 59 times. She was also the 1953 World Champion Quarter Running Horse. In her career she won $28,725 (equivalent to about $249,000 as of 2012) on the racetrack as well as 17 races. As a broodmare, she produced the first AQHA Supreme Champion, Kid Meyers, with AQHA Hall of Fame member Three Bars, a Thoroughbred. Miss Meyers was the mother of three other foals and was inducted into the AQHA Hall of Fame in 2009.",
+    "url": "https://en.wikipedia.org/wiki/Miss_Meyers"
+  },
+  "word": {
+    "id": "trumpery",
+    "word": "trumpery",
+    "url": "https://www.merriam-webster.com/dictionary/trumpery",
+    "partOfSpeech": "noun",
+    "pronunciation": "TRUMP-uh-ree",
+    "audioPath": "audio/words/trumpery.mp3",
+    "definitions": ["worthless nonsense", "trivial or useless articles : junk"],
+    "examples": [
+      "Moving to a new house has given me an excuse to toss out years of accumulated knickknacks and _trumpery_.",
+      "\"But there's so much _trumpery_ on parade, including a relentless air of self-importance, that it's even hard to simply enjoy the performances of the two stars, who give more than the film deserves.\" - From a review by Walter Addiego in the _San Francisco Chronicle_, September 6, 2013"
+    ],
+    "origin": "\"Trumpery\" derives from the Middle English \"trumpery\" and ultimately from the Middle French \"tromper,\" meaning \"to deceive.\" (You can see the meaning of this root reflected in the French phrase \"trompe-l'oeil\"-literally, \"deceives the eye\"-which in English refers to a style of painting with photographically realistic detail.) \"Trumpery\" first appeared in English in the mid-15th century with the meanings \"deceit or fraud\" (a sense that is now obsolete) and \"worthless nonsense.\" Less than 100 years later, it was being applied to material objects of little or no value. The verb phrase \"trump up\" means \"to concoct with the intent to deceive,\" but there is most likely no etymological connection between this phrase and \"trumpery.\""
+  }
+}

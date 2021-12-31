@@ -1,128 +1,133 @@
 {
   "artist": {
-    "id": "wu-bin",
-    "name": "Wu Bin",
-    "dates": "1573 - 1620",
-    "mainImg": "img/art/artists/wu-bin.jpg",
+    "id": "tintoretto",
+    "name": "Tintoretto",
+    "dates": "1519 - May 31, 1594",
+    "mainImg": "img/art/artists/tintoretto.jpg",
     "artworkImgs": [
       {
-        "name": "Pine Lodge amid Tall Mountains",
-        "path": "img/art/artworks/wu-bin-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/pine-lodge-amid-tall-mountains-wu-bin-chinese-1573-1620/eAFSfcA-qwo3JA"
+        "name": "Portrait of Vincenzo Morosini",
+        "path": "img/art/artworks/tintoretto-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-vincenzo-morosini-jacopo-tintoretto/uAEZLv-geEoZKw"
       },
       {
-        "name": "Folding fan mounted as an album leaf",
-        "path": "img/art/artworks/wu-bin-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/folding-fan-mounted-as-an-album-leaf-wu-bin/DgHWjOz0l0q5Xg"
+        "name": "Mary with the Child, Venerated by Two Evangelists",
+        "path": "img/art/artworks/tintoretto-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mary-with-the-child-venerated-by-two-evangelists-tintoretto/7wGeux5OJ3XCPg"
       },
       {
-        "name": "Eighteen Luohans Scroll (handscroll)",
-        "path": "img/art/artworks/wu-bin-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/eighteen-luohans-scroll-handscroll-wu-bin/WwHwomtIL8eV-Q"
+        "name": "Susanna and the Elders",
+        "path": "img/art/artworks/tintoretto-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/susanna-and-the-elders-jacopo-robusti-called-tintoretto/oQElxVov8NZf2g"
       },
       {
-        "name": "Washing Elephants",
-        "path": "img/art/artworks/wu-bin-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/washing-elephants-wu-bin/OAFR7wa1dWryDQ"
+        "name": "Penitent Magdalene",
+        "path": "img/art/artworks/tintoretto-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/penitent-magdalene/0AHbPoDZ5B-25w"
       },
       {
-        "name": "明 吳彬 十六羅漢圖 卷|The Sixteen Luohans",
-        "path": "img/art/artworks/wu-bin-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/明-吳彬-十六羅漢圖-卷-the-sixteen-luohans-wu-bin/XwEa-X9LIYvoZA"
+        "name": "The Origin of the Milky Way",
+        "path": "img/art/artworks/tintoretto-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-origin-of-the-milky-way-jacopo-tintoretto/ZQEexGM2Z5VjLQ"
       },
       {
-        "name": "Eighteen Luohans Scroll (handscroll)－2",
-        "path": "img/art/artworks/wu-bin-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/eighteen-luohans-scroll-handscroll-－2-wu-bin/QwFaeE7bp27HZg"
+        "name": "Head of Giuliano de' Medici",
+        "path": "img/art/artworks/tintoretto-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-giuliano-de-medici-jacopo-tintoretto/9QGqt4_mkjE5NQ"
       }
     ],
     "summary": [
-      "Wu Bin was a Ming dynasty Chinese landscape painter during the reign of the Wanli Emperor. His courtesy name was \"Wenzhong\" and his art name \"Zhiyin Toutuo\" means \"Mendicant monk at the temple hidden by tree branches\". His specific dates of birth and death are not known. Wu was born in Putian in the Fujian province. The local relation linked him to Ōbaku Buddhism sect. He painted a large Nirvana scene painting for them.",
-      "He was educated as one of the literati and skilled as a painter. He worked mainly in Nanjing about 1590-1610. He became a devout follower of Buddhism and lived and worked in a Buddhist temple. In Nanjing, he often depicted Buddhist arhats behaving as magicians, performing superstitious rituals and healing practices to satisfy requests made by religious men and women. These are colorful portraits where irony and sarcasm prevail. He produced 500 arhat hanging scrolls in Qixia Temple in Nanjing in about 1601. Some of these hanging scrolls have survived. It is uncertain whether he worked for the vice imperial government in Nanjing. Mi Wanzong, a high ranking government officer, calligrapher, and painter, was his patron from about ACE1600."
+      "Tintoretto was an Italian painter and a notable exponent of the Venetian school. His contemporaries both admired and criticized the speed with which he painted, and the unprecedented boldness of his brushwork. For his phenomenal energy in painting he was termed Il Furioso. His work is characterised by his muscular figures, dramatic gestures and bold use of perspective, in the Mannerist style."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Wu_Bin_%28painter%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/wu-bin/m04dzw0m"
+    "movements": [
+      "Renaissance",
+      "Mannerism",
+      "Italian Renaissance",
+      "Venetian painting",
+      "Baroque"
+    ],
+    "mediums": ["Oil paint", "Drawing", "Chalk", "Pigment", "Ink", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Tintoretto",
+    "urlGoogle": "https://artsandculture.google.com/entity/tintoretto/m01xtzs"
   },
   "event": {
-    "id": "trojan-war",
-    "name": "Trojan War",
-    "dates": "1259 BC - 1179 BC",
-    "mainImg": "img/events/trojan-war.jpg",
+    "id": "suez-crisis",
+    "name": "Suez Crisis",
+    "dates": "October 1956 - March 1957",
+    "mainImg": "img/events/suez-crisis.jpg",
     "summary": [
-      "In Greek mythology, the Trojan War was waged against the city of Troy by the Achaeans after Paris of Troy took Helen from her husband Menelaus, king of Sparta. The war is one of the most important events in Greek mythology and has been narrated through many works of Greek literature, most notably Homer's Iliad. The core of the Iliad describes a period of four days and two nights in the tenth year of the decade-long siege of Troy; the Odyssey describes the journey home of Odysseus, one of the war's heroes. Other parts of the war are described in a cycle of epic poems, which have survived through fragments. Episodes from the war provided material for Greek tragedy and other works of Greek literature, and for Roman poets including Virgil and Ovid.",
-      "The war originated from a quarrel between the goddesses Hera, Athena, and Aphrodite, after Eris, the goddess of strife and discord, gave them a golden apple, sometimes known as the Apple of Discord, marked \"for the fairest\". Zeus sent the goddesses to Paris, who judged that Aphrodite, as the \"fairest\", should receive the apple."
+      "The Suez Crisis, or the Second Arab–Israeli war, also called the tripartite aggression in the Arab world and Sinai War in Israel,",
+      "was an invasion of Egypt in late 1956 by Israel, followed by the United Kingdom and France. The aims were to regain Western control of the Suez Canal and to remove Egyptian president Gamal Abdel Nasser, who had just nationalised the canal. After the fighting had started, political pressure from the United States, the Soviet Union and the United Nations led to a withdrawal by the three invaders. The episode humiliated the United Kingdom and France and strengthened Nasser.",
+      "On 29 October, Israel invaded the Egyptian Sinai. Britain and France issued a joint ultimatum to cease fire, which was ignored. On 5 November, Britain and France landed paratroopers along the Suez Canal. The Egyptian forces were defeated, but they did block the canal to all shipping. It later became clear that Israel, France and Britain had conspired to plan out the invasion. The three allies had attained a number of their military objectives, but the canal was useless. Heavy political pressure from the United States and the USSR led to a withdrawal. U.S. president Dwight D."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Trojan_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/trojan-war/m07dg1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Suez_Crisis",
+    "urlGoogle": "https://artsandculture.google.com/entity/suez-crisis/m0f_tp"
   },
   "funFacts": [
     {
-      "id": "121",
-      "fact": "The only bird that can swim and not fly is a penguin.",
-      "category": ["Animals", "Onlies"]
+      "id": "673",
+      "fact": "The average turtle can't reproduce until it's 25 years old.",
+      "category": ["Animals"]
     },
     {
-      "id": "815",
-      "fact": "The name of the city we call Bangkok is 115 letters long in the Thai language.",
-      "category": ["Hodgepodge"]
+      "id": "60",
+      "fact": "The tongue is the fastest healing part of the body.",
+      "category": ["Anatomy"]
     }
   ],
   "funFacts2": [
-    { "id": "554100", "fact": "Winston Churchill's mother was born \u0003in Brooklyn." }
+    {
+      "id": "553540",
+      "fact": "Theodore Roosevelt's daughter Alice had a pet snake named Emily Spinach. She liked to carry it around the White House in her purse and take it out at unexpected moments."
+    }
   ],
   "idiom": {
-    "id": "sing-for-ones-supper",
-    "term": "sing for one's supper",
-    "definition": "Work for one's pay or reward, as in *Entertaining visiting scientists is part of the job; you know I have to sing for my supper:* This metaphoric term alludes to wandering minstrels who performed in taverns and were paid with a meal. First recorded in 1609, it gained currency with the familiar nursery rhyme, \"Little Tommy Tucker, sings for his supper\" (c. 1744)."
+    "id": "squirrel-away",
+    "term": "squirrel away",
+    "definition": "Hide or store, as in *She squirreled away her savings in at least four different banks.* This expression alludes to the squirrel's habit of hiding nuts and acorns in the ground. [First half of 1900s]"
   },
   "person": {
-    "id": "joseph-fesch",
-    "name": "Joseph Fesch",
-    "dates": "Jan 3, 1763 - May 13, 1839",
-    "mainImg": "img/people/joseph-fesch.jpg",
+    "id": "joseph-stilwell",
+    "name": "Joseph Stilwell",
+    "dates": "Mar 19, 1883 - Oct 12, 1946",
+    "mainImg": "img/people/joseph-stilwell.jpg",
     "summary": [
-      "Joseph Fesch, Prince of France was a French cardinal and diplomat, Prince of France and a member of the Imperial House of the First French Empire, Peer of France, Roman Prince, and the half-uncle of Napoleon Bonaparte. He was also one of the most famous art collectors of his period, remembered for having established the Musée Fesch in Ajaccio, which remains one of the most important Napoleonic collections of art.",
-      "Born in Corsica, he was the son of Swiss-born Franz Faesch and Angela Maria Pietrasanta, and belonged on his father's side to the Faesch family, one of the most prominent patrician families of Basel, which had been ennobled in the Holy Roman Empire in 1562. Like other of Napoleon's family members, he rose to great prominence in France following Napoleon's coup d'état of 1799. Fesch became Archbishop of Lyon in 1802, was named a Cardinal in 1803, became French Ambassador to Rome in 1804, became a French senator and count in 1805, became Grand Almoner of France in 1805, obtained the rank of a sovereign prince in 1806, was named a Prince of France in 1807, became a Peer of France in 1815 and was named a Prince of the Papal States by the Pope."
+      "Joseph Warren Stilwell was a United States Army general who served in the China Burma India Theater during World War II. His caustic personality was reflected in the nickname \"Vinegar Joe\".",
+      "Distrust of his Allies and a lack of resources meant Stilwell was continually forced to improvise. He famously differed as to strategy, ground troops versus air power, with his subordinate, Claire Chennault, who had the ear of Generalissimo Chiang Kai-shek. General George Marshall, the Army Chief of Staff, acknowledged he had given Stilwell \"one of the most difficult\" assignments of any theater commander."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Joseph_Fesch",
-    "urlGoogle": "https://artsandculture.google.com/entity/joseph-fesch/m01fc42"
+    "quote": "“Don't let the bastards grind you down.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Joseph_Stilwell",
+    "urlGoogle": "https://artsandculture.google.com/entity/joseph-stilwell/m017fj_"
   },
   "place": {
-    "id": "heidelberg",
-    "name": "Heidelberg",
-    "mainImg": "img/places/heidelberg.jpg",
+    "id": "georgia",
+    "name": "Georgia",
+    "mainImg": "img/places/georgia.jpg",
     "summary": [
-      "Heidelberg is a university town in the German state of Baden-Württemberg, situated on the river Neckar in south-west Germany. In the 2016 census, its population was 159,914, of which roughly a quarter consisted of students.",
-      "Located about 78 km south of Frankfurt, Heidelberg is the fifth-largest city in Baden-Württemberg. Heidelberg is part of the densely populated Rhine-Neckar Metropolitan Region.",
-      "Heidelberg University, founded in 1386, is Germany's oldest and one of Europe's most reputable universities. Heidelberg is a scientific hub in Germany and home to several internationally renowned research facilities adjacent to its university, including the European Molecular Biology Laboratory and four Max Planck Institutes. The city has also been a hub for the arts, especially literature, throughout the centuries, and it was designated a \"City of Literature\" by the UNESCO Creative Cities Network.",
-      "Heidelberg was a seat of government of the former Electorate of the Palatinate and is a popular tourist destination due to its romantic cityscape, including Heidelberg Castle, the Philosophers' Walk, and the Baroque old town."
+      "Georgia is a country in the Caucasus region of Eurasia. Located at the crossroads of Western Asia and Eastern Europe, it is bounded to the west by the Black Sea, to the north by Russia, to the south by Turkey and Armenia, and to the southeast by Azerbaijan. The capital and largest city is Tbilisi. Georgia covers a territory of 69,700 square kilometres, and its approximate population is about 3.718 million. Georgia is a unitary parliamentary republic, with the government elected through a representative democracy.",
+      "During the classical era, several independent kingdoms became established in what is now Georgia, such as Colchis and Iberia. The Georgians officially adopted Christianity in the early 4th century. The Georgian Orthodox Church had enormous importance for the spiritual and political unification of early Georgian states. The unified Kingdom of Georgia reached its Golden Age during the reign of King David the Builder and Queen Tamar the Great in the 12th and early 13th centuries. Thereafter, the kingdom declined and eventually disintegrated under the hegemony of various regional powers, including the Mongols, the Ottoman Empire and successive dynasties of Iran."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Heidelberg",
-    "urlGoogle": "https://artsandculture.google.com/entity/heidelberg/m0cm5m"
+    "urlWiki": "https://en.wikipedia.org/wiki/Georgia_%28country%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/georgia/m0d0kn"
   },
   "wiki": {
-    "id": "last-voyage-of-the-karluk",
-    "name": "Last voyage of the Karluk",
-    "summary": "The last voyage of the Karluk, flagship of the Canadian Arctic Expedition of 1913–16, ended in a disaster which led to the deaths of almost half the ship's complement. In August 1913 the ship became trapped by ice in the Arctic Ocean. The expedition's leader, Vilhjalmur Stefansson, then left with a hunting party; while he was away the ship began to drift, preventing his return. When after many weeks the ship was crushed by ice and sunk, its captain, Robert Bartlett, led the 25 crew and expedition personnel across the sea ice to Wrangel Island, 80 miles (130 km) away. In the dangerous conditions, eight men were lost on the march. From the island Bartlett and an Inuk companion set out for the Siberian coast to seek help; they eventually reached Alaska, but weather conditions delayed the organisation of a rescue. On Wrangel Island the stranded party were short of food and troubled by internal dissent; before their rescue in September 1914 three more of the party had died. Some of the voyage's survivors were critical of Stefansson for leaving the ship, although he escaped official censure. Bartlett was hailed as a hero by the public and by his former Karluk shipmates.",
-    "url": "https://en.wikipedia.org/wiki/Last_voyage_of_the_Karluk"
+    "id": "java-programming-language",
+    "name": "Java programming language",
+    "summary": "Java is an object-oriented programming language developed initially by James Gosling and colleagues at Sun Microsystems. It was intended to replace C++, although the feature set better resembles that of Objective-C. Sun Microsystems currently maintains and updates Java regularly. Specifications of the Java language, the Java Virtual Machine (JVM) and the Java API are community-maintained through the Sun-managed Java Community Process. Java was developed in 1991 by Gosling and other Sun engineers, as part of the Green Project. After first being made public in 1994, it achieved prominence following the announcement at 1995's SunWorld that Netscape would be including support for it in their Navigator browser.",
+    "url": "https://en.wikipedia.org/wiki/Java_programming_language"
   },
   "word": {
-    "id": "callow",
-    "word": "callow",
-    "url": "https://www.merriam-webster.com/dictionary/callow",
-    "partOfSpeech": "adjective",
-    "pronunciation": "KAL-oh",
-    "audioPath": "audio/words/callow.mp3",
-    "definitions": ["lacking adult sophistication : immature"],
-    "examples": [
-      "\"Back when I was a callow college student,\" said Emma, \"I paid little attention to the advice given to me by my professors.\""
-    ],
-    "origin": "You might not expect a relationship between \"callow\" and baldness, but that connection does in fact exist. \"Callow\" comes from \"calu,\" a word that meant \"bald\" in Middle English and Old English. By the 17th century, \"callow\" had come to mean \"without feathers\" and was applied to young birds not yet ready for flight. The term was also used for those who hadn't yet spread their wings in a figurative sense. \"Callow\" continues to mean \"inexperienced\" or \"unsophisticated\" today."
+    "id": "glower",
+    "word": "glower",
+    "url": "https://www.merriam-webster.com/dictionary/glower",
+    "partOfSpeech": "verb",
+    "pronunciation": "GLOW-er (the OW is as in \"cow\")",
+    "audioPath": "audio/words/glower.mp3",
+    "definitions": ["to look or stare with sullen annoyance or anger"],
+    "examples": ["I could sense Katherine glowering at me after I took her usual parking spot."],
+    "origin": "Do words of uncertain origin make you scowl? If so, \"glower\" may put a frown on your face, because only part of its history can be validated. The well-established part of its story leads us to Scotland, where \"glower\" (or \"glowren,\" to use the older Scottish form of the word) has been used since the late Middle Ages. Originally, the word meant simply \"to look intently\" or \"to stare in amazement,\" but by the late 1700s, glowering stares were being associated with anger instead of astonishment. Beyond that, however, the history of the word is murky. The most we can say is that \"glower\" is a distant relative of Middle Low German \"glŪren,\" which means \"to be overcast,\" and of Middle Dutch \"gloeren,\" meaning \"to leer.\""
   }
 }

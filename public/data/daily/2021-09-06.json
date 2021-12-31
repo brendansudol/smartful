@@ -1,116 +1,128 @@
 {
   "artist": {
-    "id": "gerard-david",
-    "name": "Gerard David",
-    "dates": "1460 - Aug 13, 1523",
-    "mainImg": "img/art/artists/gerard-david.jpg",
+    "id": "vittore-carpaccio",
+    "name": "Vittore Carpaccio",
+    "dates": "1465 - 1520",
+    "mainImg": "img/art/artists/vittore-carpaccio.jpg",
     "artworkImgs": [
       {
-        "name": "Virgin and Child with Four Angels",
-        "path": "img/art/artworks/gerard-david-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/virgin-and-child-with-four-angels-gerard-david/OgHRoT5T6JNZEQ"
+        "name": "A Bishop Saint Blessing",
+        "path": "img/art/artworks/vittore-carpaccio-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-bishop-saint-blessing-vittore-carpaccio/RwGOVnpGFFpwLQ"
       },
       {
-        "name": "Virgin and Child with Female Saints",
-        "path": "img/art/artworks/gerard-david-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/virgin-and-child-with-female-saints/-gF4gFj6hAeqxg"
+        "name": "Hunting on the Lagoon (recto); Letter Rack (verso)",
+        "path": "img/art/artworks/vittore-carpaccio-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/hunting-on-the-lagoon-recto-letter-rack-verso/tQHyOayJN0upaw"
       },
       {
-        "name": "The Virgin and Child with Saints and Donor",
-        "path": "img/art/artworks/gerard-david-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-with-saints-and-donor-gerard-david/aQEsMGJ7vyk7dg"
+        "name": "Preparation of Christ's Tomb",
+        "path": "img/art/artworks/vittore-carpaccio-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/preparation-of-christ-s-tomb-vittore-carpaccio/jQEpYkxk6NooqQ"
       },
       {
-        "name": "The Nativity with Donors and Saints Jerome and Leonard",
-        "path": "img/art/artworks/gerard-david-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-nativity-with-donors-and-saints-jerome-and-leonard-gerard-david/0wFe_n-OR8Fwmg"
+        "name": "Young Knight in a Landscape",
+        "path": "img/art/artworks/vittore-carpaccio-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/young-knight-in-a-landscape-vittore-carpaccio/TQHttZDUGn77Hg"
       },
       {
-        "name": "Canon Bernardijn Salviati and Three Saints",
-        "path": "img/art/artworks/gerard-david-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/canon-bernardijn-salviati-and-three-saints-gerard-david/OwEjEorJm3RlOw"
+        "name": "Due dame Veneziane",
+        "path": "img/art/artworks/vittore-carpaccio-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/due-dame-veneziane-vittore-carpaccio/5QEssF9uMskmLA"
       },
       {
-        "name": "The Rest on the Flight into Egypt",
-        "path": "img/art/artworks/gerard-david-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-rest-on-the-flight-into-egypt-gerard-david/lwFgEwlSID2dOg"
+        "name": "Portrait of a Lady with a Book",
+        "path": "img/art/artworks/vittore-carpaccio-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-lady-with-a-book-vittore-carpaccio/igHu-P0cPZ6inw"
       }
     ],
     "summary": [
-      "Gerard David was an Early Netherlandish painter and manuscript illuminator known for his brilliant use of color. Only a bare outline of his life survives, although some facts are known. He may have been the Meester gheraet van brugghe who became a master of the Antwerp guild in 1515. He was very successful in his lifetime and probably ran two workshops, in Antwerp and Bruges. Like many painters of his period, his reputation diminished in the 17th century until he was rediscovered in the 19th century."
+      "Vittore Carpaccio was an Italian painter of the Venetian school, who studied under Gentile Bellini. He is best known for a cycle of nine paintings, The Legend of Saint Ursula. His style was somewhat conservative, showing little influence from the Humanist trends that transformed Italian Renaissance painting during his lifetime. He was influenced by the style of Antonello da Messina and Early Netherlandish art. For this reason, and also because so much of his best work remains in Venice, his art has been rather neglected by comparison with other Venetian contemporaries, such as Giovanni Bellini or Giorgione."
     ],
     "quote": null,
-    "movements": ["Northern Renaissance", "Renaissance", "Dutch and Flemish Renaissance painting"],
-    "mediums": ["Oil paint", "Wood", "Oak", "Tempera", "Walnut", "Gold"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Gerard_David",
-    "urlGoogle": "https://artsandculture.google.com/entity/gerard-david/m03c50"
+    "movements": ["Italian Renaissance", "Renaissance", "Venetian painting"],
+    "mediums": ["Oil paint", "Tempera", "Drawing", "Ink", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Vittore_Carpaccio",
+    "urlGoogle": "https://artsandculture.google.com/entity/vittore-carpaccio/m03d81g"
   },
   "event": {
-    "id": "kristallnacht",
-    "name": "Kristallnacht",
-    "dates": "Nov 9, 1938 - Nov 10, 1938",
-    "mainImg": "img/events/kristallnacht.jpg",
+    "id": "muromachi-period",
+    "name": "Muromachi period",
+    "dates": "1336 - 1573",
+    "mainImg": "img/events/muromachi-period.jpg",
     "summary": [
-      "Kristallnacht or the Night of Broken Glass, also called the November Pogrom, was a pogrom against Jews carried out by SA paramilitary forces and civilians throughout Nazi Germany on 9–10 November 1938. The German authorities looked on without intervening. The name Kristallnacht comes from the shards of broken glass that littered the streets after the windows of Jewish-owned stores, buildings and synagogues were smashed. The pretext for the attacks was the assassination of the German diplomat Ernst vom Rath by Herschel Grynszpan, a 17-year-old German-born Polish Jew living in Paris.",
-      "Jewish homes, hospitals and schools were ransacked as attackers demolished buildings with sledgehammers. Rioters destroyed 267 synagogues throughout Germany, Austria and the Sudetenland. Over 7,000 Jewish businesses were damaged or destroyed, and 30,000 Jewish men were arrested and incarcerated in concentration camps. British historian Martin Gilbert wrote that no event in the history of German Jews between 1933 and 1945 was so widely reported as it was happening, and the accounts from foreign journalists working in Germany sent shockwaves around the world."
+      "The Muromachi period is a division of Japanese history running from approximately 1336 to 1573. The period marks the governance of the Muromachi or Ashikaga shogunate, which was officially established in 1338 by the first Muromachi shōgun, Ashikaga Takauji, two years after the brief Kenmu Restoration of imperial rule was brought to a close. The period ended in 1573 when the 15th and last shogun of this line, Ashikaga Yoshiaki, was driven out of the capital in Kyoto by Oda Nobunaga.",
+      "From a cultural perspective, the period can be divided into the Kitayama and Higashiyama periods.",
+      "The early years from 1336 to 1392 of the Muromachi period are known as the Nanboku-chō or Northern and Southern Court period. This period is marked by the continued resistance of the supporters of Emperor Go-Daigo, the emperor behind the Kenmu Restoration. The years from 1465 to the end of the Muromachi period are also known as the Sengoku period or Warring States period."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kristallnacht",
-    "urlGoogle": "https://artsandculture.google.com/entity/kristallnacht/m0lcbg"
+    "urlWiki": "https://en.wikipedia.org/wiki/Muromachi_period",
+    "urlGoogle": "https://artsandculture.google.com/entity/muromachi-period/m01ckyv"
   },
   "funFacts": [
-    { "id": "38", "fact": "Fish cough.", "category": ["Animals"] },
-    { "id": "827", "fact": "Your skull is made up of 29 different bones.", "category": ["Anatomy"] }
+    {
+      "id": "717",
+      "fact": "Mangoes are the most-consumed fruit in the world.",
+      "category": ["Food"]
+    },
+    {
+      "id": "40",
+      "fact": "It is possible to lead a cow up stairs but not down.",
+      "category": ["Animals"]
+    }
   ],
-  "funFacts2": [{ "id": "553698", "fact": "Wombat poop is cube-shaped." }],
+  "funFacts2": [
+    { "id": "553538", "fact": "Africa is the only continent with land in all four hemispheres." }
+  ],
   "idiom": {
-    "id": "the-spirit-is-willing-but-the-flesh-is-weak",
-    "term": "the spirit is willing but the flesh is weak",
-    "definition": "One would like to undertake something but hasn't the energy or strength to do so. For example, *Another set of tennis? The spirit is willing but the flesh is weak.* Today often used as a rueful admission of weariness or other physical weakness, this idiom was first recorded in the New Testament (Matthew 26:41), where Jesus tells his disciples: \"Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.\" A modern equivalent is **I would if I could but I can't.**"
+    "id": "red-herring",
+    "term": "red herring",
+    "definition": "Something that draws attention away from the central issue, as in *Talking about the new plant is a red herring to keep us from learning about downsizing plans.* The *herring* in this expression is red and strong-smelling from being preserved by smoking. The idiom alludes to dragging a smoked herring across a trail to cover up the scent and throw off tracking dogs. [Late 1800s]"
   },
   "person": {
-    "id": "frederick-iii-elector-of-saxony",
-    "name": "Frederick III, Elector of Saxony",
-    "dates": "Jan 17, 1463 - May 5, 1525",
-    "mainImg": "img/people/frederick-iii-elector-of-saxony.jpg",
+    "id": "abimelech",
+    "name": "Abimelech",
+    "dates": null,
+    "mainImg": "img/people/abimelech.jpg",
     "summary": [
-      "Frederick III, also known as Frederick the Wise, was Elector of Saxony from 1486 to 1525, who is mostly remembered for the worldly protection of his subject Martin Luther.",
-      "Frederick was the son of Ernest, Elector of Saxony and his wife Elisabeth, daughter of Albert III, Duke of Bavaria. He is notable as being one of the most powerful early defenders of Martin Luther. He successfully protected Luther from the Holy Roman Emperor, the Pope and other hostile figures. He was led not by religious conviction but rather by his personal belief in a fair trial for any of his subjects and the rule of law. The elector had little personal contact with Luther himself. Frederick's treasurer Degenhart Pfaffinger spoke on his behalf to Luther. Pfaffinger had supported Frederick since their pilgrimage to the holy land together. Frederick is considered to have remained a Roman Catholic all his life, yet gradually inclining toward doctrines of the Reformation and supposedly converting on his deathbed.",
-      "Frederick III is commemorated as a Christian ruler in the Calendar of Saints of the Lutheran Church–Missouri Synod on 5 May."
+      "Abimelech was the King of Shechem and a son of Biblical judge Gideon. His name can best be interpreted as \"my father is king\", claiming the inherited right to rule. He is introduced in Judges 8:31 as the son of Gideon and his Shechemite concubine, and the biblical account of his reign is described in chapter nine of the Book of Judges. According to the Bible, he was an unprincipled, ambitious ruler, often engaged in war with his own subjects."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_III,_Elector_of_Saxony",
-    "urlGoogle": "https://artsandculture.google.com/entity/frederick-iii-elector-of-saxony/m01m04z"
+    "urlWiki": "https://en.wikipedia.org/wiki/Abimelech_%28Judges%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/abimelech/m036ffv"
   },
   "place": {
-    "id": "vatican-city",
-    "name": "Vatican City",
-    "mainImg": "img/places/vatican-city.jpg",
+    "id": "reykjavik",
+    "name": "Reykjavík",
+    "mainImg": "img/places/reykjavik.jpg",
     "summary": [
-      "Vatican City, officially Vatican City State, is the Holy See's independent city-state enclaved within Rome, Italy. Established with the Lateran Treaty, it is a distinct territory under \"full ownership, exclusive dominion, and sovereign authority and jurisdiction\" of the Holy See, itself a sovereign entity of international law, which maintains the city state's temporal, diplomatic, and spiritual independence. With an area of 49 hectares and a population of about 825, it is the smallest sovereign state in the world by both area and population.",
-      "As governed by the Holy See, the Vatican City is an ecclesiastical or sacerdotal-monarchical state ruled by the pope who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various national origins. Except the Avignon Papacy, the popes have generally resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere."
+      "Reykjavík is the capital and largest city of Iceland. It is located in southwestern Iceland, on the southern shore of Faxaflói bay. Its latitude is 64°08' N, making it the world's northernmost capital of a sovereign state. With a population of around 131,136, it is the center of Iceland's cultural, economic, and governmental activity, and is a popular tourist destination.",
+      "Reykjavík is believed to be the location of the first permanent settlement in Iceland, which, according to Landnámabók, was established by Ingólfr Arnarson in AD 874. Until the 19th century, there was no urban development in the city location. The city was founded in 1785 as an official trading town and grew steadily over the following decades, as it transformed into a regional and later national centre of commerce, population, and governmental activities. It is among the cleanest, greenest, and safest cities in the world."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Vatican_City",
-    "urlGoogle": "https://artsandculture.google.com/entity/vatican-city/m07ytt"
+    "urlWiki": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+    "urlGoogle": "https://artsandculture.google.com/entity/reykjavík/m06flg"
   },
   "wiki": {
-    "id": "chat-moss",
-    "name": "Chat Moss",
-    "summary": "Chat Moss is a large area of peat bog that makes up 30 per cent of the City of Salford, in Greater Manchester, England. North of the River Irwell, 5 miles (8 km) to the west of Manchester, it occupies an area of about 10.6 square miles (27.5 km2). Peat development seems to have begun there at the end of the last ice age, about 10,000 years ago, and the depth of peat ranges from 24 to 30 feet (7 to 9 m). A great deal of reclamation work has been carried out, but a large network of drainage channels is required to keep it from reverting to bog. In 1958 peat extractors discovered the severed head of what is believed to be a Romano-British Celt, possibly a sacrificial victim. Much of Chat Moss is now prime agricultural land, although farming in the area is in decline. A 228-acre (92 ha) area of Chat Moss, notified as Astley and Bedford Mosses, has been designated a Site of Special Scientific Interest. Chat Moss threatened the completion of the Liverpool and Manchester Railway, until George Stephenson succeeded in constructing a railway line through it in 1829; his solution was to \"float\" the line on a bed of bound heather and branches topped with tar and covered with rubble stone.",
-    "url": "https://en.wikipedia.org/wiki/Chat_Moss"
+    "id": "beorhtwulf-of-mercia",
+    "name": "Beorhtwulf of Mercia",
+    "summary": "Beorhtwulf (died 852) was King of the Mercians from 839 or 840 to 852. His ancestry is unknown, though he may have been connected to Beornwulf, who ruled Mercia in the 820s. Beorhtwulf restarted a Mercian coinage early in his reign, initially with strong similarities to the coins of Æthelwulf of Wessex, and later with independent designs. The Vikings attacked soon after Beorhtwulf's accession: the province of Lindsey was raided in 841, and London, a key centre of Mercian commerce, was attacked the following year. Another Viking assault on London in 851 \"put Beorhtwulf to flight\", according to the Anglo-Saxon Chronicle; the Vikings were subsequently defeated by Æthelwulf. Berkshire appears to have passed from Mercian to West Saxon control during Beorhtwulf's reign. The Welsh are recorded to have rebelled against Beorhtwulf's successor, Burgred, shortly after Beorhtwulf's death, suggesting that Beorhtwulf had been their overlord. Charters from his reign show a strained relationship with the church, as he seized land and subsequently returned it. Beorhtwulf and his wife, Sæthryth, may have had two sons, Beorhtfrith and Beorhtric. Beorhtwulf's death is not recorded.",
+    "url": "https://en.wikipedia.org/wiki/Beorhtwulf_of_Mercia"
   },
   "word": {
-    "id": "marplot",
-    "word": "marplot",
-    "url": "https://www.merriam-webster.com/dictionary/marplot",
-    "partOfSpeech": "noun",
-    "pronunciation": "MAHR-plaht",
-    "audioPath": "audio/words/marplot.mp3",
-    "definitions": ["one who frustrates or ruins a plan or undertaking by meddling"],
-    "examples": [
-      "\"If Will hadn't been such a nosy _marplot_,\" said Darlene, \"our plan to surprise Brenda with a party for her birthday might have gone off without a hitch.\""
+    "id": "jaundiced",
+    "word": "jaundiced",
+    "url": "https://www.merriam-webster.com/dictionary/jaundiced",
+    "partOfSpeech": "adjective",
+    "pronunciation": "JAWN-dist",
+    "audioPath": "audio/words/jaundiced.mp3",
+    "definitions": [
+      "affected with or as if with a disease characterized by yellow pigmentation of the skin",
+      "exhibiting or influenced by envy, distaste, or hostility"
     ],
-    "origin": "Beginning in the 17th century, people liked to prefix \"mar-\" to nouns to create a term for someone who mars, or spoils, something. A mar-joy was bad enough, but even worse was a mar-all. Although today the word \"plot\" often carries an implication of secrecy or ill intent, the \"plot\" used in the formation of \"marplot\" simply meant \"a plan for the accomplishment of something.\" A marplot, therefore, can really mess up a perfectly good thing. The word may not have been invented by English playwright Susannah Centlivre, but it first surfaces in print in her 1709 play _The Busy Body_. That title refers to a character named Marplot, who misguidedly gets in the way of the lovers in the play."
+    "examples": [
+      "\"Since I tend to have a jaundiced view toward marriage in general,\" said George, \"I'm not the guy you should be asking for wedding tips.\""
+    ],
+    "origin": "The adjective \"jaundiced,\" which was introduced into English in the mid-17th century, is the direct result of the older noun \"jaundice.\" The physical condition called jaundice involves a yellowish coloring of the skin, tissues, and body fluids caused by the presence of coloring matter from bile. In ages past, people believed that a hostile, irritable temperament indicated an excess of bile in one's body. This belief not only led to the extended use of \"jaundiced,\" but it also resulted in a similar use of the adjective \"bilious,\" which can mean either \"ill-tempered\" or \"marked by or suffering from liver dysfunction and especially excessive secretion of bile.\""
   }
 }

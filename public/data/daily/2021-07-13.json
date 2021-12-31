@@ -1,132 +1,125 @@
 {
   "artist": {
-    "id": "sonia-delaunay",
-    "name": "Sonia Delaunay",
-    "dates": "Nov 14, 1885 - Dec 5, 1979",
-    "mainImg": "img/art/artists/sonia-delaunay.jpg",
+    "id": "stanford-white",
+    "name": "Stanford White",
+    "dates": "Nov 9, 1853 - Jun 25, 1906",
+    "mainImg": "img/art/artists/stanford-white.jpg",
     "artworkImgs": [
       {
-        "name": "Illustration for Rythmes et Couleurs",
-        "path": "img/art/artworks/sonia-delaunay-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/illustration-for-rythmes-et-couleurs-sonia-delaunay/ZAG1z47NiNPBCg"
+        "name": "Frame for Thayer's Diana",
+        "path": "img/art/artworks/stanford-white-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/frame-for-thayer-s-diana-artist-designed-by-stanford-white/7gFkAro9dt07Pw"
       },
       {
-        "name": "Electric Prisms",
-        "path": "img/art/artworks/sonia-delaunay-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/electric-prisms/CQE0BUzOPgkH1g"
+        "name": "Frame for Thayer's Portrait of the Artist's Eldest Daughter",
+        "path": "img/art/artworks/stanford-white-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/frame-for-thayer-s-portrait-of-the-artist-s-eldest-daughter-artist-designed-by-stanford-white-frame-maker-alexander-j-cabus/zAEWwYOkGM8WeA"
       },
       {
-        "name": "Button",
-        "path": "img/art/artworks/sonia-delaunay-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/button-sonia-delaunay/kgE6826J0xdl8A"
+        "name": "Frame for Dewing's After Sunset",
+        "path": "img/art/artworks/stanford-white-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/frame-for-dewing-s-after-sunset-artist-designed-by-stanford-white-frame-maker-alexander-j-cabus/iwE08Huy17_qnw"
       },
       {
-        "name": "Circles in Pastel",
-        "path": "img/art/artworks/sonia-delaunay-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/circles-in-pastel-sonia-delaunay/oAGDMyk69SfcbQ"
+        "name": "Frame for Dewing's The Mirror",
+        "path": "img/art/artworks/stanford-white-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/frame-for-dewing-s-the-mirror-designer-stanford-white-frame-maker-alexander-j-cabus/xwE23-ZMT7JEhA"
       },
       {
-        "name": "Greeting Card for Galerie Bing, Paris",
-        "path": "img/art/artworks/sonia-delaunay-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/greeting-card-for-galerie-bing-paris-sonia-delaunay/6gGbCyFWj3I7QQ"
+        "name": "Frame for Dewing's In White",
+        "path": "img/art/artworks/stanford-white-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/frame-for-dewing-s-in-white-designer-stanford-white-frame-maker-alexander-j-cabus/PQGbUmjPm7Gf7Q"
       },
       {
-        "name": "Poster for Galerie Bing, Paris",
-        "path": "img/art/artworks/sonia-delaunay-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/poster-for-galerie-bing-paris-sonia-delaunay/vwGixQCoD4ZgHA"
+        "name": "Frame for Thayer's \"A Virgin\"",
+        "path": "img/art/artworks/stanford-white-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/frame-for-thayer-s-a-virgin-designer-stanford-white-frame-maker-alexander-j-cabus/7QEMhRf1_0o3qA"
       }
     ],
     "summary": [
-      "Sonia Delaunay was a Ukrainian-born Russian artist, who spent most of her working life in Paris. She formally trained in Russia and Germany before moving to France and expanding her practice to include textile, fashion, and set design. She co-founded the Orphism art movement, noted for its use of strong colours and geometric shapes, with her husband Robert Delaunay and others. She was the first living female artist to have a retrospective exhibition at the Louvre in 1964, and in 1975 was named an officer of the French Legion of Honor.",
-      "Her work in modern design included the concepts of geometric abstraction, and the integration of furniture, fabrics, wall coverings, and clothing into her art practice."
+      "Stanford White was an American architect. He was also a partner in the architectural firm McKim, Mead & White, the frontrunner among Beaux-Arts firms. He designed many houses for the rich as well as numerous civic, institutional, and religious buildings. His design principles embodied the \"American Renaissance\".",
+      "In 1906, White was shot and killed by the mentally unstable millionaire Harry Kendall Thaw, who had become obsessed about White's previous relationship with Thaw's wife, actress Evelyn Nesbit. This led to a court case which was dubbed \"The Trial of the Century\" by contemporary reporters."
     ],
     "quote": null,
-    "movements": ["Modern art"],
-    "mediums": ["Tempera", "Wood", "Textile", "Adhesive", "Yarn", "Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Sonia_Delaunay",
-    "urlGoogle": "https://artsandculture.google.com/entity/sonia-delaunay/m0681zb"
+    "movements": ["Modern art", "Tonalism", "American Renaissance", "Barbizon school"],
+    "mediums": ["Graphite", "Drawing", "Oil paint", "Wood", "Laid paper", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Stanford_White",
+    "urlGoogle": "https://artsandculture.google.com/entity/stanford-white/m01gwg3"
   },
   "event": {
-    "id": "raid-on-the-medway",
-    "name": "Raid on the Medway",
-    "dates": "Jun 9, 1667 - Jun 14, 1667",
-    "mainImg": "img/events/raid-on-the-medway.jpg",
+    "id": "die-wende",
+    "name": "Die Wende",
+    "dates": "1989 - 1990",
+    "mainImg": "img/events/die-wende.jpg",
     "summary": [
-      "The Raid on the Medway, during the Second Anglo-Dutch War in June 1667, was a successful attack conducted by the Dutch navy on English battleships laid up in the fleet anchorages off Chatham Dockyard and Gillingham in the county of Kent. At the time, the fortress of Upnor Castle and a barrier chain called the \"Gillingham Line\" were supposed to protect the English ships.",
-      "The Dutch, under nominal command of Willem Joseph van Ghent and Lieutenant-Admiral Michiel de Ruyter, over several days bombarded and captured the town of Sheerness, sailed up the Thames estuary to Gravesend, then sailed into the River Medway to Chatham and Gillingham, where they engaged fortifications with cannon fire, burned or captured three capital ships and ten more ships of the line, and captured and towed away the flagship of the English fleet, HMS Royal Charles.",
-      "Politically, the raid was disastrous for King Charles' war plans and led to a quick end to the war and a favourable peace for the Dutch. It was one of the worst defeats in the Royal Navy's history, and one of the worst suffered by the British military. Horace George Franks called it the \"most serious defeat it has ever had in its home waters.\""
+      "The Peaceful Revolution was the process of sociopolitical change that led to the opening of East Germany's borders with the west, the end of the Socialist Unity Party of Germany in the German Democratic Republic and the transition to a parliamentary democracy, which enabled the reunification of Germany in October 1990. This happened through non-violent initiatives and demonstrations. This period of change is also referred to in German as Die Wende.",
+      "These events were closely linked to Soviet leader Mikhail Gorbachev's decision to abandon Soviet hegemony in Eastern Europe as well as the reformist movements that spread through Eastern Bloc countries. In addition to the Soviet Union's shift in foreign policy, the GDR's lack of competitiveness in the global market, as well as its sharply rising national debt, hastened the destabilization of the SED's one-party state.",
+      "Those driving the reform process within the GDR included intellectuals and church figures who had been in underground opposition for several years, people attempting to flee the country, and peaceful demonstrators who were no longer willing to yield to the threat of violence and repression."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Raid_on_the_Medway",
-    "urlGoogle": "https://artsandculture.google.com/entity/raid-on-the-medway/m036232"
+    "urlWiki": "https://en.wikipedia.org/wiki/Peaceful_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/die-wende/m0271f6y"
   },
   "funFacts": [
     {
-      "id": "667",
-      "fact": "The shoreline at Wildwood grows almost 100 feet per year.",
-      "category": ["Geography"]
+      "id": "410",
+      "fact": "Bald eagles can swim using a stroke similar to the butterfly stroke.",
+      "category": ["Animals"]
     },
     {
-      "id": "139",
-      "fact": "Hawaii is the only state with one school district.",
-      "category": ["Geography", "Onlies"]
+      "id": "322",
+      "fact": "In the U.S., there are about 15,000 vacuum cleaner-related accidents each year.",
+      "category": ["Habits"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "553535",
-      "fact": "The AMC Gremlin was released on April 1, 1970. AMC advertised it saying “competitors will find there is nothing ‘April Fool like’ about this car.”"
-    }
-  ],
+  "funFacts2": [{ "id": "505506", "fact": "Frank Sinatra was offered the lead role in Die Hard." }],
   "idiom": {
-    "id": "born-with-a-silver-spoon",
-    "term": "born with a silver spoon",
-    "definition": "Born wealthy, or fortunate, or both, as in *Paul can afford to go to medical school; he was born with a silver spoon.* Although some authorities believe this phrase alludes to the custom of godparents giving their godchild a silver spoon, affordable only by rich persons, it is more likely that the spoon has come to symbolize wealth. [c. 1700]"
+    "id": "get-someones-goat",
+    "term": "get someone's goat",
+    "definition": "Annoy or anger someone, as in *By teasing me about that article I wrote, he's trying to get my goat, but I won't let him.* The origin of this expression is disputed. H.L. Mencken held it came from using a goat as a calming influence in a racehorse's stall and removing it just before the race, thereby making the horse nervous. However, there is no firm evidence for this origin. [c. 1900]"
   },
   "person": {
-    "id": "christabel-pankhurst",
-    "name": "Christabel Pankhurst",
-    "dates": "Sep 22, 1880 - Feb 13, 1958",
-    "mainImg": "img/people/christabel-pankhurst.jpg",
+    "id": "justin-madden",
+    "name": "Justin Madden",
+    "dates": "Born May 31, 1961",
+    "mainImg": "img/people/justin-madden.jpg",
     "summary": [
-      "Dame Christabel Harriette Pankhurst, DBE was a British suffragette born in Manchester, England. A co-founder of the Women's Social and Political Union, she directed its militant actions from exile in France from 1912 to 1913. In 1914 she supported the war against Germany. After the war she moved to the United States, where she worked as an evangelist for the Second Adventist movement."
+      "Justin Mark Madden AM is an Australian politician and former Australian rules footballer. He rose to prominence as a highly successful player with the Carlton Football Club, after an early stint with Essendon. He entered politics after retiring in 1997 from AFL. He has held seven Ministerial portfolios since the Victorian Labor Party took government at the 1999 election. Madden was Minister for Youth Affairs and Minister Assisting the Minister for Planning from 1999–2002, Minister for Sport and Recreation from October 1999 to December 2006, Minister for Commonwealth Games from February 2002 to December 2006, Minister for Planning from 2006 - December 2010 and Minister for the Respect Agenda from January 2010 to December of the same year. Madden retired from politics in 2014."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Christabel_Pankhurst",
-    "urlGoogle": "https://artsandculture.google.com/entity/christabel-pankhurst/m01__cj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Justin_Madden",
+    "urlGoogle": "https://artsandculture.google.com/entity/justin-madden/m01z882"
   },
   "place": {
-    "id": "iraq",
-    "name": "Iraq",
-    "mainImg": "img/places/iraq.jpg",
+    "id": "australia",
+    "name": "Australia",
+    "mainImg": "img/places/australia.jpg",
     "summary": [
-      "Iraq, officially the Republic of Iraq, is a country in Western Asia, bordered by Turkey to the north, Iran to the east, Kuwait to the southeast, Saudi Arabia to the south, Jordan to the southwest and Syria to the west. The capital, and largest city, is Baghdad. Iraq is home to diverse ethnic groups including Arabs, Kurds, Assyrians, Turkmen, Shabakis, Yazidis, Armenians, Mandeans, Circassians, Sabians and Kawliya. Around 99% of the country's 38 million citizens are Muslims, with tiny minorities of Christians, Yarsans, Yezidis and Mandeans also present. The official languages of Iraq are Arabic and Kurdish.",
-      "Iraq has a coastline measuring 58 km on the northern Persian Gulf and encompasses the Mesopotamian Alluvial Plain, the northwestern end of the Zagros mountain range and the eastern part of the Syrian Desert. Two major rivers, the Tigris and Euphrates, run south through Iraq and into the Shatt al-Arab near the Persian Gulf. These rivers provide Iraq with significant amounts of fertile land. The region between the Tigris and Euphrates rivers, historically known as Mesopotamia, is often referred to as the cradle of civilisation."
+      "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country in Oceania and the world's sixth-largest country by total area. The population of 26 million is highly urbanised and heavily concentrated on the eastern seaboard. Australia's capital is Canberra, though its largest city is Sydney. The country's other major metropolitan areas are Melbourne, Brisbane, Perth, and Adelaide.",
+      "Indigenous Australians inhabited the continent for about 65,000 years prior to the first arrival of Dutch explorers in the early 17th century, who named it New Holland. In 1770, Australia's eastern half was claimed by Great Britain and initially settled through penal transportation to the colony of New South Wales from 26 January 1788, a date which became Australia's national day. The population grew steadily in subsequent decades, and by the time of an 1850s gold rush, most of the continent had been explored and an additional five self-governing crown colonies established. On 1 January 1901, the six colonies federated, forming the Commonwealth of Australia."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Iraq",
-    "urlGoogle": "https://artsandculture.google.com/entity/iraq/m0d05q4"
+    "urlWiki": "https://en.wikipedia.org/wiki/Australia",
+    "urlGoogle": "https://artsandculture.google.com/entity/australia/m0chghy"
   },
   "wiki": {
-    "id": "autostereogram",
-    "name": "Autostereogram",
-    "summary": "An autostereogram is a single-image stereogram, designed to trick human eyes and brains into seeing a three-dimensional scene in a two-dimensional image. In order to \"see\" 3D shapes in these autostereograms, the brain must decouple focusing operations of the eyes from convergence. The simplest type of autostereogram consists of horizontally repeating patterns and is known as a wallpaper autostereogram. When viewed with proper convergence, the repeating patterns appear to float in the air above the background. The Magic Eye series of books features another type of autostereogram called a random dot autostereogram. In this type of autostereogram, every pixel in the image is computed from a pattern strip and a depth map. Usually, a hidden 3D scene emerges when the image is viewed with proper viewing technique. There are two ways an autostereogram can be viewed: wall-eyed and cross-eyed. Most autostereograms are designed to be viewed in only one way. Wall-eyed viewing requires that the two eyes adopt a relatively divergent angle, while cross-eyed viewing requires a relatively convergent angle.",
-    "url": "https://en.wikipedia.org/wiki/Autostereogram"
+    "id": "cock-lane-ghost",
+    "name": "Cock Lane ghost",
+    "summary": "Fanny scratching in 18th-century London's Cock Lane was so notorious that interested bystanders often blocked the street. It became the focus of a religious controversy between Methodists and orthodox Anglicans, and was reported on by celebrities of the period such as Samuel Johnson. Charles Dickens referred to the phenomenon in several of his books, including Nicholas Nickleby and A Tale of Two Cities, and other Victorian authors also alluded to it in their work. One enterprising resident diverted the crowds that gathered in Cock Lane by allowing them to converse with a ghost he claimed was haunting his home, to which he charged an entrance fee. Fanny scratching eventually resulted in several prosecutions, and the pillorying of a father.",
+    "url": "https://en.wikipedia.org/wiki/Cock_Lane_ghost"
   },
   "word": {
-    "id": "pianistic",
-    "word": "pianistic",
-    "url": "https://www.merriam-webster.com/dictionary/pianistic",
-    "partOfSpeech": "adjective",
-    "pronunciation": "pee-uh-NISS-tik",
-    "audioPath": "audio/words/pianistic.mp3",
-    "definitions": [
-      "of, relating to, or characteristic of the piano",
-      "skilled in or well adapted to piano playing"
-    ],
+    "id": "roue",
+    "word": "roué",
+    "url": "https://www.merriam-webster.com/dictionary/roué",
+    "partOfSpeech": "noun",
+    "pronunciation": "roo-AY",
+    "audioPath": "audio/words/roue.mp3",
+    "definitions": ["a man devoted to a life of sensual pleasure : rake"],
     "examples": [
-      "“\\[Pianist Yuja\\] Wang performed as if she were claiming ownership of some of Prokofiev's pianistic ideas.” (Edward Ortiz, _Sacramento Bee_ \\[California\\], May 23, 2009)"
+      "\"So when maidenhood has wandered into the moil of the city, when it is brought within the circle of the 'rounder' and the _roué_, even though it be at the outermost rim, they can come forth and use their alluring arts.\" -- From Theodore Dreiser's 1900 novel _Sister Carrie_",
+      "\"Girls run off with bad boys all the time, always have and always will. But in the past, when deemed press-worthy, he was likely a notorious _roué_ or dangerous musician, not a dropout trying to muster enough gumption for a GED.\" -- From an article by Bridget Foley in _Women's Wear Daily_, July 16, 2010"
     ],
-    "origin": "The origin of \"pianistic\" won’t surprise anyone -- it’s ultimately from \"piano,\" of course. But the \"-istic” suffix is less than ubiquitous and bears some attention. It is used from time to time to create adjectives that correspond to nouns ending primarily in \"-ism\" or \"-ist.\" (In this case, both \"pianism\" and \"pianist\" outdate \"pianistic,\" although only by a few years.) The pedigree of \"-istic\" isn’t too surprising; etymologists report that it comes from Middle French (\"-istique\"), Latin (\"-isticus\"), and ultimately Greek (\"-istikos\"). As with words formed from the suffix \"-ic,\" words ending in \"-istic\" can sometimes find life as nouns -- for example, \"autistic\" and \"characteristic.\""
+    "origin": "\"Roué\" originated as a French word and gained momentum when it began to be used in reference to the libertine companions of Philippe II, France's regent from 1715-1723. \"Roué\" means \"broken on the wheel\" in French and ultimately derives from Latin \"rota,\" meaning \"wheel.\" Since the wheel being referred to was an instrument of punishment, the French were implying that such dissolute beings deserved this punishment. By the end of the 18th century, English-speakers added \"roué\" to its list of synonyms for a rake, libertine, debaucher, lecher, etc."
   }
 }

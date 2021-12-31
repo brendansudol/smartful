@@ -1,0 +1,136 @@
+{
+  "artist": {
+    "id": "piero-di-cosimo",
+    "name": "Piero di Cosimo",
+    "dates": "Jan 2, 1462 - Apr 12, 1522",
+    "mainImg": "img/art/artists/piero-di-cosimo.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait of Giuliano da Sangallo (1445-1516), Son of Francesco Giamberti",
+        "path": "img/art/artworks/piero-di-cosimo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-giuliano-da-sangallo-1445-1516-son-of-francesco-giamberti-cosimo-piero-di/AgEc3mmHPthg8Q"
+      },
+      {
+        "name": "Portraits of Giuliano and Francesco Giamberti da Sangallo",
+        "path": "img/art/artworks/piero-di-cosimo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portraits-of-giuliano-and-francesco-giamberti-da-sangallo-piero-di-cosimo/XwGC0k7YS0wUTw"
+      },
+      {
+        "name": "The Young Saint John the Baptist",
+        "path": "img/art/artworks/piero-di-cosimo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-young-saint-john-the-baptist-piero-di-cosimo-piero-di-lorenzo-di-piero-d-antonio/uwEDv3WW2Sln2A"
+      },
+      {
+        "name": "Posthumous Portrait of Francesco Giamberti (1405-c.1482), Father of Giuliano da Sangallo",
+        "path": "img/art/artworks/piero-di-cosimo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/posthumous-portrait-of-francesco-giamberti-1405-c-1482-father-of-giuliano-da-sangallo-cosimo-piero-di/_QGf34yKFz0YHg"
+      },
+      {
+        "name": "Portraits of Giuliano and Francesco Giamberti da Sangallo",
+        "path": "img/art/artworks/piero-di-cosimo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portraits-of-giuliano-and-francesco-giamberti-da-sangallo-piero-di-cosimo/mgHIifsCz1ifSw"
+      },
+      {
+        "name": "The Return from the Hunt",
+        "path": "img/art/artworks/piero-di-cosimo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-return-from-the-hunt-piero-di-cosimo-piero-di-lorenzo-di-piero-d-antonio/uQEFF5oXrVuLyg"
+      }
+    ],
+    "summary": [
+      "Piero di Cosimo, also known as Piero di Lorenzo, was an Italian painter of the Renaissance.",
+      "He is most famous for the mythological and allegorical subjects he painted in the late Quattrocento; he is said to have abandoned these to return to religious subjects under the influence of Savonarola, the preacher who exercised a huge sway in Florence in the 1490s, and had a similar effect on Botticelli. The High Renaissance style of the new century had little influence on him, and he retained the straightforward realism of his figures, which combines with an often whimsical treatment of his subjects to create the distinctive mood of his works. Vasari has many stories of his eccentricity, and the mythological subjects have an individual and quirky fascination.",
+      "He trained under Cosimo Rosselli, whose daughter he married, and assisted him in his Sistine Chapel frescos. He was also influenced by Early Netherlandish painting, and busy landscapes feature in many works, often forests seen close at hand. Several of his most striking secular works are in the long \"landscape\" format used for paintings inset into cassone wedding chests or spalliera headboards or panelling."
+    ],
+    "quote": null,
+    "movements": ["Italian Renaissance", "Renaissance", "Florentine painting"],
+    "mediums": ["Oil paint", "Tempera", "Wood", "Pen", "Watercolor painting", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Piero_di_Cosimo",
+    "urlGoogle": "https://artsandculture.google.com/entity/piero-di-cosimo/m01gvzz"
+  },
+  "event": {
+    "id": "the-holocaust-in-france",
+    "name": "The Holocaust in France",
+    "dates": "1940 - 1944",
+    "mainImg": "img/events/the-holocaust-in-france.jpg",
+    "summary": [
+      "The Holocaust in France was the persecution, deportation, and annihilation of Jews and Roma between 1940 and 1944 in occupied France, metropolitan Vichy France, and in Vichy-controlled French North Africa, during the World War II. The persecution began in 1940, and culminated in deportations of Jews from France to Nazi concentration camps in Nazi Germany and Nazi-occupied Poland. The deportation started in 1942 and lasted until July 1944. Of the 340,000 Jews living in metropolitan/continental France in 1940, more than 75,000 were deported to death camps, where about 72,500 were killed. The government of Vichy France and the French police participated in the roundup of Jews. Although most deported Jews died, the survival rate of the Jewish population in France was up to 75%, which is one of the highest survival rates in Europe."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/The_Holocaust_in_France",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-holocaust-in-france/m010gnf_t"
+  },
+  "funFacts": [
+    {
+      "id": "137",
+      "fact": "The city of Los Angeles has about 3x more automobiles than people.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "298",
+      "fact": "The sail fish has been clocked at speeds of over 60 miles per hour.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [{ "id": "553548", "fact": "We invented booze before we invented the wheel." }],
+  "idiom": {
+    "id": "mind-ones-ps-and-qs",
+    "term": "mind one's p's and q's",
+    "definition": "Practice good manners, be precise and careful in one's behavior and speech, as in *Their grandmother often told the children to mind their p's and q's.* The origin of this expression, first recorded in 1779, is disputed. Among the more interesting theories advanced is that bartenders kept track of customers' consumption in terms of *pints* (*p's*) and *quarts* (*q's*) and the phrase referred to an honest accounting; that school-children were taught to be careful in distinguishing the letters *p* and *q;* and that French dancing masters cautioned pupils about the correct performance of the figures *pieds* and *queues* (either abbreviated or mispronounced in English as *p's* and *q's*)."
+  },
+  "person": {
+    "id": "raul-roa-garcia",
+    "name": "Raúl Roa García",
+    "dates": "Apr 18, 1907 - Jul 6, 1982",
+    "mainImg": "img/people/raul-roa-garcia.jpg",
+    "summary": [
+      "Raúl Roa García",
+      "was a Cuban intellectual, politician and diplomat. He served as Foreign Minister of Cuba from 1959 to 1976. He was a lawyer and was also a university professor in the 1940s and 1950s. He was also Director of Culture of the Ministry of Education from 1949 to 1951.",
+      "Born in Havana, he was 18 he wrote his first article Ensayo sobre José Martí. In 1926, while studying law he was jailed for protesting the U.S. intervention in Nicaragua.",
+      "In 1927, he met Rubén Martínez Villena who instructed him more on social problems. Additionally, he participated with other anti-imperialist youths and revolutionaries at Universidad Popular José Martí and the Liga Antimperialista. He was also writing for the magazine Revista Avance and the weekly paper Otro.",
+      "In the 1930s, he wrote for Directorio Estudiantil Revolucionario where he crystallized his Marxist-Leninist beliefs.",
+      "Roa entered the Ala Izquierda Estudiantil in 1931. In this organization, much more radical, he positions himself more clearly on the necessity of the fight for the sovereignty of Cuba and against imperialism. His writings at this time reflect his firm idea in an armed rebellion. He is arrested and sent to prison."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Roa_Garc%C3%ADa",
+    "urlGoogle": "https://artsandculture.google.com/entity/raúl-roa-garcía/m02rn9y3"
+  },
+  "place": {
+    "id": "rijeka",
+    "name": "Rijeka",
+    "mainImg": "img/places/rijeka.jpg",
+    "summary": [
+      "Rijeka is the principal seaport and the third-largest city in Croatia. It is located in Primorje-Gorski Kotar County on Kvarner Bay, an inlet of the Adriatic Sea and has a population of 128,624 inhabitants.",
+      "Historically, because of its strategic position and its excellent deep-water port, the city was fiercely contested, especially among Italy, Hungary, and Croatia, changing hands and demographics many times over centuries. According to the 2011 census data, the majority of its citizens are Croats, along with a large minority of Serbs, and smaller numbers of Bosniaks and Italians.",
+      "Rijeka is the main city and county seat of the Primorje-Gorski Kotar County. The city's economy largely depends on shipbuilding and maritime transport. Rijeka hosts the Croatian National Theatre Ivan pl. Zajc, first built in 1765, as well as the University of Rijeka, founded in 1973 but with roots dating back to 1632 School of Theology.",
+      "Apart from Croatian and Italian, linguistically the city is home to its own unique dialect of the Venetian language, Fiuman, with an estimated 20,000 speakers among the autochthonous Italians, Croats and other minorities."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Rijeka",
+    "urlGoogle": "https://artsandculture.google.com/entity/rijeka/m01r3s5"
+  },
+  "quote": {
+    "id": "38",
+    "quote": "It's better to hang out with people better than you. Pick out associates whose behavior is better than yours and you'll drift in that direction.",
+    "author": "Warren Buffett"
+  },
+  "wiki": {
+    "id": "john-francis-jackson",
+    "name": "John Francis Jackson",
+    "summary": "John Jackson (1908–42) was an Australian fighter ace and squadron commander of World War II. He was credited with eight aerial victories, and led No. 75 Squadron during the Battle of Port Moresby in 1942. A grazier and businessman who operated his own private plane, he joined the Royal Australian Air Force Reserve in 1936. Called up for active service in 1939, Jackson served with No. 23 Squadron in Australia before he was posted to the Middle East in November 1940. As a fighter pilot with No. 3 Squadron he flew Gloster Gladiators, Hawker Hurricanes and P-40 Tomahawks during the North African and Syria–Lebanon campaigns. Jackson was awarded the Distinguished Flying Cross and Mentioned in Despatches for his actions in the Middle East. Subsequently posted to the South West Pacific theatre, he was promoted to squadron leader in March 1942 and given command of No. 75 Squadron at Port Moresby, Papua, operating P-40 Kittyhawks. He earned praise for his leadership during the defence of Port Moresby before his death in combat on 28 April. Jacksons International Airport, Port Moresby, is named in his honour. His younger brother Les took over No. 75 Squadron, and also became a fighter ace.",
+    "url": "https://en.wikipedia.org/wiki/John_Francis_Jackson"
+  },
+  "word": {
+    "id": "gormandize",
+    "word": "gormandize",
+    "url": "https://www.merriam-webster.com/dictionary/gormandize",
+    "partOfSpeech": "verb",
+    "pronunciation": "GOR-mun-dyze",
+    "audioPath": "audio/words/gormandize.mp3",
+    "definitions": ["to eat gluttonously or ravenously"],
+    "examples": [
+      "Lady Baleforth watched in horror as Lord Hoggwood _gormandized_ the hors d'oeuvres, polishing off the entire lot before any of the other guests even arrived.",
+      "\"People stuff themselves, they gorge, they _gormandize_; their fingers are greasy from morning to night.\" -- From Philippe Sagant's 2008 book _The Dozing Shaman_"
+    ],
+    "origin": "\"Gormandize\" entered English in the mid-1500s as a modification of \"gourmand,\" a term borrowed from the French that served as a synonym for \"glutton.\" The meanings of both \"gourmand\" and \"gormandize\" were clearly disparaging until the 19th century, when \"gourmet\" came into use to refer to a connoisseur of food and drink. Since then, the meaning of \"gourmand\" has softened, so that it now suggests someone who likes good food in large quantities but not in a way that is disgusting or gluttonous. \"Gormandize\" still carries such negative connotations, but it can also imply that a big eater has a discriminating palate as well as a generous appetite."
+  }
+}

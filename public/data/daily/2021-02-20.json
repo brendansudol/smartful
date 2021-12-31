@@ -1,137 +1,136 @@
 {
   "artist": {
-    "id": "alexander-mc-queen",
-    "name": "Alexander McQueen",
-    "dates": "Mar 17, 1969 - Feb 11, 2010",
-    "mainImg": "img/art/artists/alexander-mc-queen.jpg",
+    "id": "barbara-kruger",
+    "name": "Barbara Kruger",
+    "dates": "Born Jan 26, 1945",
+    "mainImg": "img/art/artists/barbara-kruger.jpg",
     "artworkImgs": [
       {
-        "name": "Alexander McQueen Birds Nest Headdress, Autumn / Winter 2006",
-        "path": "img/art/artworks/alexander-mc-queen-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-birds-nest-headdress-autumn-winter-2006-lee-alexander-mcqueen/VQGCcYhT_5QBKQ"
+        "name": "Plenty LA",
+        "path": "img/art/artworks/barbara-kruger-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/plenty-la-barbara-kruger/2AFCFtoorsE6UA"
       },
       {
-        "name": "Knucklebag",
-        "path": "img/art/artworks/alexander-mc-queen-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/knucklebag-alexander-mcqueen/OgHCVCuyzAqM8g"
+        "name": "Untitled (Inserts)",
+        "path": "img/art/artworks/barbara-kruger-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-inserts-kruger-barbara/rwHJ7OYEGOCF8g"
       },
       {
-        "name": "Evening dress, \"In memory of Elizabeth Howe, Salem 1692\"",
-        "path": "img/art/artworks/alexander-mc-queen-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/evening-dress-in-memory-of-elizabeth-howe-salem-1692-alexander-mcqueen/dgF4WFiyOH3dcw"
+        "name": "Fate",
+        "path": "img/art/artworks/barbara-kruger-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/fate-barbara-kruger/ZQGup86cxfSzkQ"
       },
       {
-        "name": "Alexander McQueen, Spring / Summer 2001",
-        "path": "img/art/artworks/alexander-mc-queen-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-spring-summer-2001-lee-alexander-mcqueen/mwEAkK6rM8eCVw"
+        "name": "Bus",
+        "path": "img/art/artworks/barbara-kruger-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/bus-kruger-barbara/ngE6PIx1B9u0cQ"
       },
       {
-        "name": "Evening Dress",
-        "path": "img/art/artworks/alexander-mc-queen-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/evening-dress-alexander-mcqueen/1QFhXmFyxMfejw"
+        "name": "Untitled (Who does the crime? Who does the time?)",
+        "path": "img/art/artworks/barbara-kruger-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-who-does-the-crime-who-does-the-time-barbara-kruger/zgEzuL3lPCOT_w"
       },
       {
-        "name": "Alexander McQueen, Autumn / Winter 1998",
-        "path": "img/art/artworks/alexander-mc-queen-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-autumn-winter-1998-lee-alexander-mcqueen/nAGIsA06tW8sXg"
+        "name": "Untitled (You Invest in the Divinity of the Masterpiece)",
+        "path": "img/art/artworks/barbara-kruger-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-you-invest-in-the-divinity-of-the-masterpiece-barbara-kruger/igFqR7FR-33_hg"
       }
     ],
     "summary": [
-      "Lee Alexander McQueen, CBE was a British fashion designer and couturier. He worked as chief designer at Givenchy from 1996 to 2001, and founded his own Alexander McQueen label in 1992. His achievements in fashion earned him four British Designer of the Year awards, as well as the CFDA's International Designer of the Year award in 2003. McQueen died by suicide in 2010, at the age of 40, at his home in Mayfair, London."
+      "Barbara Kruger is an American conceptual artist and collagist. Most of her work consists of black-and-white photographs, overlaid with declarative captions, stated in white-on-red Futura Bold Oblique or Helvetica Ultra Condensed text. The phrases in her works often include pronouns such as \"you\", \"your\", \"I\", \"we\", and \"they\", addressing cultural constructions of power, identity, consumerism, and sexuality. Kruger lives and works in New York and Los Angeles. Kruger is a Distinguished Professor of New Genres at the UCLA School of the Arts and Architecture."
     ],
-    "quote": "“I always wanted to be a designer. I read books on fashion from the age of 12.”",
-    "movements": [],
-    "mediums": ["Textile", "Silk", "Satin", "Metal", "Velvet", "Rayon"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_McQueen",
-    "urlGoogle": "https://artsandculture.google.com/entity/alexander-mcqueen/m023hms"
+    "quote": "“Although my art work was heavily informed by my design work on a formal and visual level, as regards meaning and content the two practices parted ways.”",
+    "movements": ["Contemporary art"],
+    "mediums": ["Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Barbara_Kruger",
+    "urlGoogle": "https://artsandculture.google.com/entity/barbara-kruger/m059jlg"
   },
   "event": {
-    "id": "1950-fifa-world-cup",
-    "name": "1950 FIFA World Cup",
-    "dates": "Jun 24, 1950 - Jul 16, 1950",
-    "mainImg": "img/events/1950-fifa-world-cup.jpg",
+    "id": "warsaw-pact-invasion-of-czechoslovakia",
+    "name": "Warsaw Pact invasion of Czechoslovakia",
+    "dates": "Aug 20, 1968 - Sep 20, 1968",
+    "mainImg": "img/events/warsaw-pact-invasion-of-czechoslovakia.jpg",
     "summary": [
-      "The 1950 FIFA World Cup, held in Brazil from 24 June to 16 July 1950, was the fourth FIFA World Cup. It was the first World Cup since 1938, the planned 1942 and 1946 competitions having been cancelled due to World War II. It was won by Uruguay, who had won the inaugural competition in 1930. They clinched the cup by beating the hosts Brazil 2–1 in the deciding match of the four-team final group. This was the only tournament not decided by a one-match final. It was also the first tournament where the trophy was referred to as the Jules Rimet Cup, to mark the 25th anniversary of Jules Rimet's presidency of FIFA."
+      "The Warsaw Pact invasion of Czechoslovakia, officially known as Operation Danube, was a joint invasion of Czechoslovakia by five Warsaw Pact countries – the Soviet Union, Poland, Bulgaria, East Germany and Hungary – on the night of 20–21 August 1968. Approximately 250,000 Warsaw pact troops attacked Czechoslovakia that night, with Romania and Albania refusing to participate. East German forces, except for a small number of specialists, did not participate in the invasion because they were ordered from Moscow not to cross the Czechoslovak border just hours before the invasion. 137 Czechoslovakian civilians were killed and 500 seriously wounded during the occupation.",
+      "The invasion successfully stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authority of the authoritarian wing within the Communist Party of Czechoslovakia. The foreign policy of the Soviet Union during this era was known as the Brezhnev Doctrine.",
+      "Public reaction to the invasion was widespread and divided."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup",
-    "urlGoogle": "https://artsandculture.google.com/entity/1950-fifa-world-cup/m0g9cz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+    "urlGoogle": "https://artsandculture.google.com/entity/warsaw-pact-invasion-of-czechoslovakia/m03hmf8l"
   },
   "funFacts": [
     {
-      "id": "143",
-      "fact": "\"Q\" is the only letter in the alphabet not appearing in the name of any U.S. state.",
-      "category": ["Geography", "Onlies"]
+      "id": "663",
+      "fact": "About 40% of America's population lives within a one day drive to Philadelphia.",
+      "category": ["Geography"]
     },
     {
-      "id": "999",
-      "fact": "A cat's nose is ridged with a unique pattern, just like a human fingerprint.",
-      "category": ["Animals", "Science"]
+      "id": "2",
+      "fact": "Animals that lay eggs don't have belly buttons.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553736",
-      "fact": "The Mayflower landed at Plymouth Rock in 1620. A journal from the ship reads, “We could not now take time for further search or consideration; our victuals being much spent especially our Beere.”"
+      "id": "504711",
+      "fact": "Editor Bennett Cerf challenged Dr. Seuss to write a book using no more than 50 different words. The result? Green Eggs and Ham."
     }
   ],
   "idiom": {
-    "id": "well-heeled",
-    "term": "well heeled",
-    "definition": "Well off, prosperous. In the 1700s this term was used to describe a cock whose spurs had been sharpened prior to a cockfight. In the 1800s it came to mean \"well armed,\" and later in that century it acquired its present sense. For example, *The Coopers must be well heeled to afford two country club memberships.*"
+    "id": "spit-and-polish",
+    "term": "spit and polish",
+    "definition": "Close attention to appearance and order, as in *With a little spit and polish this house will sell very quickly.* This expression originated in the military, presumably alluding to literally shining up something with the aid of a little saliva. There it also came to mean \"too much attention to appearance, and not enough to more important concerns,\" as in *The commander is so concerned with spit and polish that he overlooks the crew's morale.* [Late 1800s]"
   },
   "person": {
-    "id": "chiang-kai-shek",
-    "name": "Chiang Kai-shek",
-    "dates": "Oct 31, 1887 - Apr 5, 1975",
-    "mainImg": "img/people/chiang-kai-shek.jpg",
+    "id": "hugh-dowding",
+    "name": "Hugh Dowding",
+    "dates": "Apr 24, 1882 - Feb 15, 1970",
+    "mainImg": "img/people/hugh-dowding.jpg",
     "summary": [
-      "Chiang Kai-shek,",
-      "also known as Chiang Chung-cheng and romanized via Mandarin as Chiang Chieh-shih and Jiang Jieshi, was a Chinese nationalist politician, revolutionary and military leader who served as the leader of the Republic of China between 1928 and 1975, first in mainland China until 1949 and then in Taiwan until his death.",
-      "Born in Chekiang Province, Chiang was a member of the Kuomintang and a lieutenant of Sun Yat-sen in the revolution to overthrow the Beiyang government and reunify China. With Soviet and communist help, Chiang organized the military for Sun's Canton Nationalist Government and headed the Whampoa Military Academy. Commander in chief of the National Revolutionary Army, he led the Northern Expedition from 1926 to 1928, before defeating a coalition of warlords and nominally reunifying China under a new Nationalist government. Midway through the campaign, the KMT–CPC alliance broke down and Chiang purged the communists inside the party, triggering a civil war with the CPC, which he eventually lost in 1949."
-    ],
-    "quote": "“My good health is due to a soup made of white doves. It is simply wonderful as a tonic.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
-    "urlGoogle": "https://artsandculture.google.com/entity/chiang-kai-shek/m01_4z"
-  },
-  "place": {
-    "id": "marseille",
-    "name": "Marseille",
-    "mainImg": "img/places/marseille.jpg",
-    "summary": [
-      "Marseille is the prefecture of the department of Bouches-du-Rhône and region of Provence-Alpes-Côte d'Azur in France. It is located on the Mediterranean coast near the mouth of the Rhône. The city covers an area of 241 km² and had a population of 870,018 in 2016. Its metropolitan area, which extends over 3,173 km² is the third-largest in France after those of Paris and Lyon, with a population of 1,831,500 as of 2010.",
-      "It was known to the ancient Greeks as Massalia and Romans as Massilia. Marseille is now France's largest city on the Mediterranean coast and the largest port for commerce, freight and cruise ships. The city was European Capital of Culture in 2013 and European Capital of Sport in 2017; it hosted matches at the 1998 World Cup and Euro 2016. It is home to Aix-Marseille University."
+      "Air Chief Marshal Hugh Caswall Tremenheere Dowding, 1st Baron Dowding, GCB, GCVO, CMG was an officer in the Royal Air Force. He served as a fighter pilot and then as commanding officer of No. 16 Squadron during the First World War. During the inter-war years he became Air Officer Commanding Fighting Area, Air Defence of Great Britain and then joined the Air Council as Air Member for Supply and Research. He was Air Officer Commanding RAF Fighter Command during the Battle of Britain and is generally credited with playing a crucial role in Britain's defence, and hence, the defeat of Adolf Hitler's plan to invade Britain. He was replaced in command in November 1940 against his wishes with Big Wings advocate Sholto Douglas."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Marseille",
-    "urlGoogle": "https://artsandculture.google.com/entity/marseille/m0jdtt"
+    "urlWiki": "https://en.wikipedia.org/wiki/Hugh_Dowding",
+    "urlGoogle": "https://artsandculture.google.com/entity/hugh-dowding/m0bt_8"
+  },
+  "place": {
+    "id": "greenland",
+    "name": "Greenland",
+    "mainImg": "img/places/greenland.jpg",
+    "summary": [
+      "Greenland is the world's largest island, located between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago. It is an autonomous territory within the Kingdom of Denmark. Though physiographically a part of the continent of North America, Greenland has been politically and culturally associated with Europe for more than a millennium. The majority of its residents are Inuit, whose ancestors migrated from Alaska through Northern Canada, gradually settling across the island by the 13th century.",
+      "Nowadays, the population is largely concentrated on the southwest coast, while the rest of the island is sparsely populated. Greenland is divided into five municipalities — Sermersooq, Kujalleq, Qeqertalik, Qeqqata, and Avannaata. It has two unincorporated areas — the Northeast Greenland National Park and the Thule Air Base. The last one, even if under Danish control, is administered by the United States Air Force. Three-quarters of Greenland is covered by the only permanent ice sheet outside Antarctica. With a population of 56,081, it is the least densely populated territory in the world. About a third of the population lives in Nuuk, the capital and largest city."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Greenland",
+    "urlGoogle": "https://artsandculture.google.com/entity/greenland/m035v3"
   },
   "quote": {
-    "id": "1",
-    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-    "author": "Thomas Edison"
+    "id": "116",
+    "quote": "The best people possess a feeling for beauty, the courage to take risks, the discipline to tell the truth, the capacity for sacrifice. Ironically, their virtues make them vulnerable; they are often wounded, sometimes destroyed.",
+    "author": "Ernest Hemingway"
   },
   "wiki": {
-    "id": "rabindranath-tagore",
-    "name": "Rabindranath Tagore",
-    "summary": "Rabindranath Tagore was a Bengali poet, Brahmo philosopher, visual artist, playwright, composer, and novelist whose avant-garde works reshaped Bengali literature and music in the late 19th and early 20th centuries. A celebrated cultural icon of Bengal, he became Asia's first Nobel laureate when he won the 1913 Nobel Prize in Literature. His home schooling, life in Shelidah, and extensive travels made Tagore an iconoclastic pragmatist; however, growing disillusionment with the British Raj caused the internationalist Tagore to back the Indian Independence Movement and befriend Mahatma Gandhi. Despite the loss of virtually his entire family and his regrets regarding Bengal's decline, his life's work — Visva-Bharati University — endured. Tagore's major works included Gitanjali and Ghare-Baire, while his verse, short stories, and novels — many defined by rhythmic lyricism, colloquial language, meditative naturalism, and philosophical contemplation — received worldwide acclaim.",
-    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+    "id": "2002-bouin-zahra-earthquake",
+    "name": "2002 Bou'in-Zahra earthquake",
+    "summary": "The 2002 Bou'in-Zahra earthquake occurred on June 22, 2002, in a region of northwestern Iran which is crossed by several major fault lines. The earthquake's epicenter was near the settlement of Bou'in-Zahra in Qazvin Province, an area known for destructive earthquakes. Measuring 6.5 on the Richter scale and 6.3 on the moment magnitude scale, the earthquake killed at least 261 people and injured 1,500 more. Over 20 aftershocks followed the earthquake. According to the International Institute of Earthquake Engineering and Seismology (IIEES), the earthquake was felt as far away as the capital city of Tehran, approximately 290 kilometres (180 mi) east of the epicenter, although no damage was reported there. Most houses in the region were single-story masonry buildings, and virtually all of these collapsed. The public became angry due to the slow official response to victims who needed supplies.",
+    "url": "https://en.wikipedia.org/wiki/2002_Bou%27in-Zahra_earthquake"
   },
   "word": {
-    "id": "ensconce",
-    "word": "ensconce",
-    "url": "https://www.merriam-webster.com/dictionary/ensconce",
-    "partOfSpeech": "verb",
-    "pronunciation": "in-SKAHNSS",
-    "audioPath": "audio/words/ensconce.mp3",
+    "id": "banshee",
+    "word": "banshee",
+    "url": "https://www.merriam-webster.com/dictionary/banshee",
+    "partOfSpeech": "noun",
+    "pronunciation": "BAN-shee",
+    "audioPath": "audio/words/banshee.mp3",
     "definitions": [
-      "to place or hide securely : conceal",
-      "to establish or settle firmly, comfortably, or snugly"
+      "a female spirit in Gaelic folklore whose appearance or wailing warns a family that one of them will soon die"
     ],
     "examples": [
-      "Rather than _ensconce_ the discouraging news in falsely hopeful language, the doctor imparted the diagnosis in a clear, straightforward manner.",
-      "\"From Wednesday morning through Sunday night, nine men and one woman along with assorted helpers and facilitators will be sequestered on the 15th floor of The Westin hotel in Indianapolis. _Ensconced_ in a luxury bunker, they won't come out for good until they've decided the 68 NCAA men's tournament teams, seeded them and placed them in the brackets.\" -- From an article by Rusty Miller for the Associated Press, March 7, 2011"
+      "Barbara screamed like a _banshee_ when she saw the spider slowly crawling up her leg.",
+      "\"Wednesday's audience howled like _banshees_.\" -- From a theater review by Chris Silk in Florida's _Naples Daily News_, April 8, 2011"
     ],
-    "origin": "You might think of \"sconce\" as a type of candleholder or lamp, but the word can also refer to a defensive fortification, usually one made of earth. Originally, then, a person who was \"ensconced\" was enclosed in or concealed by such a structure, out of harm's way. The earliest writer to apply the verb \"ensconce\" with the general sense of \"hide\" was William Shakespeare. In _The Merry Wives of Windsor_, the character Falstaff, hoping to avoid detection when he is surprised during an amorous moment with Mrs. Ford, says \"She shall not see me; I will ensconce me behind the arras.\" (An arras is a tapestry or wall hanging.)"
+    "origin": "In Irish folklore, a \"bean sidhe\" (literally \"woman of fairyland\") was not a welcome guest. When she was seen combing her hair or heard wailing beneath a window, it was considered a sign that a family member was about to die. English speakers modified the mournful fairy's Irish name into the modern word \"banshee\" -- a term we now most often use to evoke her woeful or terrible or earsplitting cry, as in \"to scream like a banshee,\" or attributively, \"a banshee wail.\""
   }
 }

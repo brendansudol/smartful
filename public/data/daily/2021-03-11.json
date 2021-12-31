@@ -1,130 +1,137 @@
 {
   "artist": {
-    "id": "giorgio-vasari",
-    "name": "Giorgio Vasari",
-    "dates": "Jul 30, 1511 - Jun 27, 1574",
-    "mainImg": "img/art/artists/giorgio-vasari.jpg",
+    "id": "frank-brangwyn",
+    "name": "Frank Brangwyn",
+    "dates": "May 12, 1867 - Jun 11, 1956",
+    "mainImg": "img/art/artists/frank-brangwyn.jpg",
     "artworkImgs": [
       {
-        "name": "Allegory of Justice",
-        "path": "img/art/artworks/giorgio-vasari-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/allegory-of-justice-giorgio-vasari/RQFFF1t3q01n0g"
+        "name": "The Zeppelin Raids: The Vow of Vengeance Drawn for the Daily Chronicle' by Frank Brangwyn A.R.A. Daily Chronicle' Readers Are Covered Against the Risks of Bombardment by Zeppelin or Aeroplane",
+        "path": "img/art/artworks/frank-brangwyn-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-zeppelin-raids-the-vow-of-vengeance-drawn-for-the-daily-chronicle-by-frank-brangwyn-a-r-a-daily-chronicle-readers-are-covered-against-the-risks-of-bombardment-by-zeppelin-or-aeroplane-daily-chronicle/8AE8c3TkLDpARw"
       },
       {
-        "name": "The battle of Marciano in Val di Chiana",
-        "path": "img/art/artworks/giorgio-vasari-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-battle-of-marciano-in-val-di-chiana/uQHjYZRy60234g"
+        "name": "\"Look After My Folks\" Navy Relief Society Official Relief Organization of the U.S. Navy Cares for the Navy's Widows and Orphans Subsciptions Received by Any Bank",
+        "path": "img/art/artworks/frank-brangwyn-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/look-after-my-folks-navy-relief-society-official-relief-organization-of-the-u-s-navy-cares-for-the-navy-s-widows-and-orphans-subsciptions-received-by-any-bank-navy-relief-society/vAEoMYFPtxM5JA"
       },
       {
-        "name": "The Garden of Gethsemane",
-        "path": "img/art/artworks/giorgio-vasari-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-garden-of-gethsemane/gAEsFmG2aloBJQ"
+        "name": "Old Houses (Gant)",
+        "path": "img/art/artworks/frank-brangwyn-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/old-houses-gant-frank-brangwyn/jwEBzJg4k60P6A"
       },
       {
-        "name": "Cosimo il Vecchio as San Cosma",
-        "path": "img/art/artworks/giorgio-vasari-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/cosimo-il-vecchio-as-san-cosma-giorgio-vasari/zwE0xte3eoSf2g"
+        "name": "The Zeppelin Raids: The Vow of Vengeance Drawn for the Daily Chronicle' by Frank Brangwyn A.R.A. Daily Chronicle' Readers Are Covered Against the Risks of Bombardment by Zeppelin or Aeroplane",
+        "path": "img/art/artworks/frank-brangwyn-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-zeppelin-raids-the-vow-of-vengeance-drawn-for-the-daily-chronicle-by-frank-brangwyn-a-r-a-daily-chronicle-readers-are-covered-against-the-risks-of-bombardment-by-zeppelin-or-aeroplane-daily-chronicle/ZwHbDD66jFsKhA"
       },
       {
-        "name": "Monumental stair",
-        "path": "img/art/artworks/giorgio-vasari-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/monumental-stair-filippo-juvarra/TAE7R6VT7xC8cA"
+        "name": "Do Your Duty to Our Boys as They Are Doing Theirs to You the 1914 War Society Wants to Give Every Disabled Man a Fair Chance of Honourable Independence in Healthy Rural Surroundings ... 1914 War Society.",
+        "path": "img/art/artworks/frank-brangwyn-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/do-your-duty-to-our-boys-as-they-are-doing-theirs-to-you-the-1914-war-society-wants-to-give-every-disabled-man-a-fair-chance-of-honourable-independence-in-healthy-rural-surroundings-1914-war-society-brangwyn-frank-sir-1867-1956/ZgEoMpPKZC7IYg"
       },
       {
-        "name": "The First Fruits of the Earth Offered to Saturn",
-        "path": "img/art/artworks/giorgio-vasari-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-first-fruits-of-the-earth-offered-to-saturn-giorgio-vasari/MgGPfN1abcvVBQ"
+        "name": "\"Look After My Folks\" Navy Relief Society Official Relief Organization of the U.S. Navy Caruso and 1000 Sailors Monster Musical and Military Program ... (November 3, 1918)",
+        "path": "img/art/artworks/frank-brangwyn-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/look-after-my-folks-navy-relief-society-official-relief-organization-of-the-u-s-navy-caruso-and-1000-sailors-monster-musical-and-military-program-november-3-1918-navy-relief-society/QgGWd1E39vk8oQ"
       }
     ],
     "summary": [
-      "Giorgio Vasari was an Italian painter, architect, writer, and historian, best known for his Lives of the Most Excellent Painters, Sculptors, and Architects, considered the ideological foundation of art-historical writing. He was also the first to use the term \"Renaissance\" in print."
-    ],
-    "quote": "“These rough sketches, which are born in an instant in the heat of inspiration, express the idea of their author in a few strokes, while on the other hand too much effort and diligence sometimes saps the vitality and powers of those who never know when to leave off.”",
-    "movements": ["Renaissance", "Mannerism", "Italian Renaissance"],
-    "mediums": ["Oil paint", "Wood", "Pen", "Ink", "Drawing", "Chalk"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Giorgio_Vasari",
-    "urlGoogle": "https://artsandculture.google.com/entity/giorgio-vasari/m0pvnq"
-  },
-  "event": {
-    "id": "april-2015-nepal-earthquake",
-    "name": "April 2015 Nepal earthquake",
-    "dates": "Apr 25, 2015",
-    "mainImg": "img/events/april-2015-nepal-earthquake.jpg",
-    "summary": [
-      "The April 2015 Nepal earthquake killed nearly 9,000 people and injured nearly 22,000. It occurred at 11:56 Nepal Standard Time on 25 April 2015, with a magnitude of 7.8Mw or 8.1Mₛ and a maximum Mercalli Intensity of VIII. Its epicenter was east of Gorkha District at Barpak, Gorkha, and its hypocenter was at a depth of approximately 8.2 km. It was the worst natural disaster to strike Nepal since the 1934 Nepal–Bihar earthquake. The ground motion recorded in the capital of Nepal was of low frequency, which, along with its occurrence at an hour where many people in rural areas were working outdoors, decreased the loss of property and human lives.",
-      "The earthquake triggered an avalanche on Mount Everest, killing 21, making 25 April 2015 the deadliest day on the mountain in history. The earthquake triggered another huge avalanche in the Langtang valley, where 250 people were reported missing.",
-      "Hundreds of thousands of Nepalese were made homeless with entire villages flattened, across many districts of the country."
+      "Sir Frank William Brangwyn RA RWS RBA was an Anglo-Welsh artist, painter, watercolourist, printmaker, illustrator, and designer.",
+      "Brangwyn was an artistic jack-of-all-trades. As well as paintings and drawings, he produced designs for stained glass, furniture, ceramics, table glassware, buildings and interiors, was a lithographer and woodcutter and was a book illustrator. It has been estimated that during his lifetime Brangwyn produced over 12,000 works. His mural commissions would cover over 22,000 sq ft of canvas, he painted over 1,000 oils, over 660 mixed media works, over 500 etchings, about 400 wood-engravings and woodcuts, 280 lithographs, 40 architectural and interior designs, 230 designs for items of furniture and 20 stained glass panels and windows.",
+      "Brangwyn received some artistic training, probably from his father, and later from Arthur Heygate Mackmurdo and in the workshops of William Morris, but he was largely an autodidact without a formal artistic education. When, at the age of seventeen, one of his paintings was accepted at the Royal Academy Summer Exhibition, he was strengthened in his conviction to become an artist."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
-    "urlGoogle": "https://artsandculture.google.com/entity/april-2015-nepal-earthquake/m0134qynr"
+    "movements": ["Art Nouveau"],
+    "mediums": ["Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Brangwyn",
+    "urlGoogle": "https://artsandculture.google.com/entity/frank-brangwyn/m04vx3b"
+  },
+  "event": {
+    "id": "2004-summer-olympics",
+    "name": "2004 Summer Olympics",
+    "dates": "Aug 13, 2004 - Aug 29, 2004",
+    "mainImg": "img/events/2004-summer-olympics.jpg",
+    "summary": [
+      "The 2004 Summer Olympics, officially known as the Games of the XXVIII Olympiad and commonly known as Athens 2004, was a premier international multi-sport event held in Athens, Greece, from 13 to 29 August 2004 with the motto Welcome Home.",
+      "The Games saw 10,625 athletes compete, some 600 more than expected, accompanied by 5,501 team officials from 201 countries. There were 301 medal events in 28 different sports. Athens 2004 marked the first time since the 1996 Summer Olympics that all countries with a National Olympic Committee were in attendance. 2004 also marked the return of the Olympic Games to the city where they began. Having previously hosted the Olympics in 1896, Athens became one of only four cities to have hosted the Summer Olympic Games on two separate occasions at the time.",
+      "A new medal obverse was introduced at these Games, replacing the design by Giuseppe Cassioli that had been used since the 1928 Games. This rectified the long lasting mistake of using a depiction of the Roman Colosseum rather than a Greek venue. The new design features the Panathenaic Stadium."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2004_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/2004-summer-olympics/m0kbvb"
   },
   "funFacts": [
     {
-      "id": "1003",
-      "fact": "If two pieces of the same type of metal touch in outer space, they will bond together permanently.",
-      "category": ["Science"]
+      "id": "62",
+      "fact": "The life span of a taste bud is about ten days.",
+      "category": ["Anatomy"]
     },
+    { "id": "756", "fact": "Penguins can jump 6 feet.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
     {
-      "id": "434",
-      "fact": "In the U.S. a pig has to weigh more than 180 lbs to be called a hog.",
-      "category": ["Animals", "Definitions"]
+      "id": "504713",
+      "fact": "The medical term for ice cream headaches is sphenopalatine ganglioneuralgia."
     }
   ],
-  "funFacts2": [{ "id": "506370", "fact": "The verb \"unfriend\" appeared in 1659." }],
   "idiom": {
-    "id": "clean-someones-clock",
-    "term": "clean someone's clock",
-    "definition": "Beat, thrash, or defeat someone decisively, as in *He's much bigger than you and could easily clean your clock.* This term originated in the military. The use of *clock* is unclear but possibly alludes to hitting someone in the face (for \"clockface\"). [Slang; mid-1900s]"
+    "id": "chickens-come-home-to-roost",
+    "term": "chickens come home to roost",
+    "definition": "The consequences of doing wrong always catch up with the wrongdoer, as in *Now that you're finally admitting your true age, no one believes you---chickens come home to roost.* The fact that chickens usually come home to rest and sleep has long been known, but the idea was used figuratively only in 1809, when Robert Southey wrote, \"Curses are like young chickens, they always come home to roost\" (*The Curse of Kehama*)."
   },
   "person": {
-    "id": "edwin-stanton",
-    "name": "Edwin Stanton",
-    "dates": "Dec 19, 1814 - Dec 24, 1869",
-    "mainImg": "img/people/edwin-stanton.jpg",
+    "id": "ilie-nastase",
+    "name": "Ilie Năstase",
+    "dates": "Born Jul 19, 1946",
+    "mainImg": "img/people/ilie-nastase.jpg",
     "summary": [
-      "Edwin McMasters Stanton was an American lawyer and politician who served as Secretary of War under the Lincoln Administration during most of the American Civil War. Stanton's management helped organize the massive military resources of the North and guide the Union to victory. However, he was criticized by many Union generals for perceived over-cautiousness and micromanagement. He also organized the manhunt for Abraham Lincoln's assassin, John Wilkes Booth.",
-      "After Lincoln's assassination, Stanton remained as the Secretary of War under the new U.S. President Andrew Johnson during the first years of Reconstruction. He opposed the lenient policies of Johnson towards the former Confederate States. Johnson's attempt to dismiss Stanton ultimately led to Johnson being impeached by the Radical Republicans in the House of Representatives. Stanton returned to law after retiring as Secretary of War, and in 1869 was nominated as an Associate Justice of the Supreme Court by Johnson's successor, Ulysses S. Grant; however, he died four days after his nomination was confirmed by the Senate."
+      "Ilie Năstase is a Romanian former world No. 1 professional tennis player, and one of the world's top players of the 1970s. He was ranked world No. 1 from 23 August 1973 to 2 June 1974.",
+      "Năstase is one of the ten players in history who have won more than 100 ATP professional titles. He was inducted into the International Tennis Hall of Fame in 1991. Năstase won seven Grand Slam titles: two in singles, three in men's doubles and two in mixed doubles. He also won four Masters Grand Prix year-end championship titles and seven Grand Prix Super Series titles, the precursors to the current Masters 1000.",
+      "He was the first professional sports figure to sign an endorsement contract with Nike in 1972.",
+      "Năstase wrote several novels in French in the 1980s.",
+      "In 2015, he provided the dubbed Romanian voice of a federal agent in the film G-Force."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Edwin_Stanton",
-    "urlGoogle": "https://artsandculture.google.com/entity/edwin-stanton/m020xtc"
+    "quote": "“My ambition is to do a good job. I never plan anything.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ilie_N%C4%83stase",
+    "urlGoogle": "https://artsandculture.google.com/entity/ilie-năstase/m01ryfl"
   },
   "place": {
-    "id": "papua-new-guinea",
-    "name": "Papua New Guinea",
-    "mainImg": "img/places/papua-new-guinea.jpg",
+    "id": "cali",
+    "name": "Cali",
+    "mainImg": "img/places/cali.jpg",
     "summary": [
-      "Papua New Guinea, officially the Independent State of Papua New Guinea, is a sovereign state in Oceania that occupies the eastern half of the island of New Guinea and its offshore islands in Melanesia, a region of the southwestern Pacific Ocean north of Australia. Its capital, located along its southeastern coast, is Port Moresby. The western half of New Guinea forms the Indonesian provinces of Papua and West Papua. It is the world's third largest island country with 462,840 km².",
-      "At the national level, after being ruled by three external powers since 1884, Papua New Guinea established its sovereignty in 1975. This followed nearly 60 years of Australian administration, which started during World War I. It became an independent Commonwealth realm in 1975 with Elizabeth II as its queen. It also became a member of the Commonwealth of Nations in its own right.",
-      "Papua New Guinea is one of the most culturally diverse countries in the world. It is also one of the most rural, as only 18% of its people live in urban centres. There are 851 known languages in the country, of which 11 now have no known speakers."
+      "Santiago de Cali, or Cali, is the capital of the Valle del Cauca department, and the most populous city in southwest Colombia, with an 2,227,642 residents according to the 2018 census. The city spans 560.3 km² with 120.9 km² of urban area, making Cali the second-largest city in the country by area and the third most populous. As the only major Colombian city with access to the Pacific Coast, Cali is the main urban and economic center in the south of the country, and has one of Colombia's fastest-growing economies. The city was founded on 25 July 1536 by the Spanish explorer Sebastián de Belalcázar.",
+      "Cali is also a center for sports in Colombia, and is the only Colombian city to have hosted the Pan American Games. It hosted the 1992 World Wrestling Championships, the ninth edition of the World Games in 2013, the UCI Track Cycling World Championships in 2014 and the World Youth Championships in Athletics in 2015. The city is to host the first ever Junior Pan American Games in 2021."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
-    "urlGoogle": "https://artsandculture.google.com/entity/papua-new-guinea/m05qkp"
+    "urlWiki": "https://en.wikipedia.org/wiki/Cali",
+    "urlGoogle": "https://artsandculture.google.com/entity/cali/m01pssf"
   },
   "quote": {
-    "id": "109",
-    "quote": "You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.",
-    "author": "Richard Feynman"
+    "id": "79",
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
   },
   "wiki": {
-    "id": "harold-pinter",
-    "name": "Harold Pinter",
-    "summary": "Harold Pinter (1930–2008) was a Nobel Prize-winning English playwright and screenwriter, with a career that spanned more than 50 years. His plays include The Birthday Party, The Homecoming and Betrayal, and his screenplays include The Servant, The French Lieutenant's Woman and Sleuth. Pinter appeared as an actor in productions of his own work on radio and film. He also undertook roles in works by other writers. He directed nearly 50 productions for stage, theatre and screen. He was born and raised in Hackney, east London, trained at the Royal Academy of Dramatic Art and the Central School of Speech and Drama, and worked in repertory theatre before achieving success as a writer. In his later years, he was known for his political activism and his opposition to the war in Afghanistan and the invasion of Iraq. Pinter's last stage performance was as Krapp in Beckett's play Krapp's Last Tape, for the Royal Court Theatre, in 2006.",
-    "url": "https://en.wikipedia.org/wiki/Harold_Pinter"
+    "id": "james-g-blaine",
+    "name": "James G. Blaine",
+    "summary": "James G. Blaine (1830–93) was an American Republican politician who served as U.S. Representative, Speaker of the House of Representatives, U.S. Senator from Maine, and twice as Secretary of State. Blaine was born in western Pennsylvania and moved to Maine where he became a newspaper editor. Nicknamed \"the Magnetic Man\", he was a charismatic speaker in an era that prized oratory. He began his political career as an early supporter of Abraham Lincoln and the Union in the American Civil War. In Reconstruction, Blaine was a supporter of black suffrage, but opposed some of the more coercive measures of the Radical Republicans. Initially a protectionist, he later worked for a reduction in the tariff and an expansion of overseas trade. His efforts at expanding US trade and influence began the shift to a more active American foreign policy. Blaine was a pioneer of tariff reciprocity and urged greater involvement in Latin American affairs. He was nominated for President in 1884, but was narrowly defeated by Democrat Grover Cleveland. Blaine was one of the late 19th century's leading Republicans and champion of the moderate reformist faction of the party known as the \"Half-Breeds\".",
+    "url": "https://en.wikipedia.org/wiki/James_G._Blaine"
   },
   "word": {
-    "id": "incarnadine",
-    "word": "incarnadine",
-    "url": "https://www.merriam-webster.com/dictionary/incarnadine",
-    "partOfSpeech": "adjective",
-    "pronunciation": "in-KAHR-nuh-dyne",
-    "audioPath": "audio/words/incarnadine.mp3",
-    "definitions": ["having the pinkish color of flesh", "red; especially : bloodred"],
-    "examples": [
-      "\"Tavel \\[wine\\] … is noted for its assertive fruit and magnificent rich and brilliant incarnadine color.\" (Vick Knight Jr., _Press Enterprise_ \\[Riverside, CA\\], August 11, 1999)"
+    "id": "cliometrics",
+    "word": "cliometrics",
+    "url": "https://www.merriam-webster.com/dictionary/cliometrics",
+    "partOfSpeech": "noun plural but singular in construction",
+    "pronunciation": "klye-uh-MET-riks",
+    "audioPath": "audio/words/cliometrics.mp3",
+    "definitions": [
+      "the application of methods developed in other fields (as economics, statistics, and data processing) to the study of history"
     ],
-    "origin": "\"Carn-\" is the Latin root for \"flesh,\" and \"incarnates\" is Latin for \"flesh-colored.\" English speakers picked up the \"pinkish\" sense of \"incarnadine\" back in the late 1500s. Since then, the adjective has come to refer to the dark red color of freshly cut, fleshy meat as well as to the pinkish color of the outer skin of some humans. The word can be used as a verb, too, meaning \"to redden.\" Shakespeare used it that way in _Macbeth_: “Will all great Neptune's ocean wash this blood clean from my hand? No, this my hand will rather the multitudinous seas incarnadine, making the green one red.”"
+    "examples": [
+      "For his doctoral thesis, Quentin used cliometrics to examine the impact of universal suffrage on economic development."
+    ],
+    "origin": "\"Cliometrics\" comes from a combination of \"Clio,\" the name of the Greek Muse of history, and \"-metrics,\" as in \"econometrics\" (\"the application of statistical methods to the study of economic data and problems\") or \"biometrics\" (\"the statistical analysis of biological observations and phenomena\"). American economists Douglass North and Robert Fogel developed cliometrics, a highly quantitative means for studying the past. In 1993, North and Fogel won the Nobel Prize in Economics for their pioneering work."
   }
 }

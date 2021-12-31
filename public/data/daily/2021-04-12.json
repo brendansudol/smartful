@@ -1,132 +1,134 @@
 {
   "artist": {
-    "id": "william-holman-hunt",
-    "name": "William Holman Hunt",
-    "dates": "Apr 2, 1827 - Sep 7, 1910",
-    "mainImg": "img/art/artists/william-holman-hunt.jpg",
+    "id": "maurice-prendergast",
+    "name": "Maurice Prendergast",
+    "dates": "Oct 10, 1858 - Feb 1, 1924",
+    "mainImg": "img/art/artists/maurice-prendergast.jpg",
     "artworkImgs": [
       {
-        "name": "The Awakening Conscience",
-        "path": "img/art/artworks/william-holman-hunt-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-awakening-conscience-william-holman-hunt/eAEe8oI1HIMufA"
+        "name": "Central Park, 1901",
+        "path": "img/art/artworks/maurice-prendergast-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/central-park-1901/wgH3i4P6AT0WJA"
       },
       {
-        "name": "Fanny Waugh Hunt",
-        "path": "img/art/artworks/william-holman-hunt-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/fanny-waugh-hunt-william-holman-hunt/igGYThBf6cFv6Q"
+        "name": "Salem Cove",
+        "path": "img/art/artworks/maurice-prendergast-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/salem-cove-maurice-brazil-prendergast/awFcGjubf3DtgA"
       },
       {
-        "name": "Our English Coasts, 1852 (`Strayed Sheep')",
-        "path": "img/art/artworks/william-holman-hunt-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/our-english-coasts-1852-strayed-sheep-william-holman-hunt/_wF_pFx9qFQ8vw"
+        "name": "Flowers in a Vase (Zinnias)",
+        "path": "img/art/artworks/maurice-prendergast-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/flowers-in-a-vase-zinnias/3wFHFVH6CHZ2IQ"
       },
       {
-        "name": "Claudio and Isabella",
-        "path": "img/art/artworks/william-holman-hunt-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/claudio-and-isabella-william-holman-hunt/pwFRjRo5YsAVsA"
+        "name": "Caffè Florian in Venice",
+        "path": "img/art/artworks/maurice-prendergast-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/caffè-florian-in-venice-maurice-brazil-prendergast/IQFQSVw3EUTqmw"
       },
       {
-        "name": "The Triumph of the Innocents",
-        "path": "img/art/artworks/william-holman-hunt-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-triumph-of-the-innocents-william-holman-hunt/bQE4mtQQ0GktNA"
+        "name": "Umbrellas in the Rain",
+        "path": "img/art/artworks/maurice-prendergast-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/umbrellas-in-the-rain/TgHwqcQBjrimhg"
       },
       {
-        "name": "Christ and the two Marys",
-        "path": "img/art/artworks/william-holman-hunt-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/christ-and-the-two-marys-william-holman-hunt/YwFzqhLcdQE4QA"
+        "name": "In Luxembourg Gardens",
+        "path": "img/art/artworks/maurice-prendergast-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/in-luxembourg-gardens-maurice-prendergast/7gEj_7kU9D3OTA"
       }
     ],
     "summary": [
-      "William Holman Hunt OM was an English painter and one of the founders of the Pre-Raphaelite Brotherhood. His paintings were notable for their great attention to detail, vivid colour, and elaborate symbolism. These features were influenced by the writings of John Ruskin and Thomas Carlyle, according to whom the world itself should be read as a system of visual signs. For Hunt it was the duty of the artist to reveal the correspondence between sign and fact. Of all the members of the Pre-Raphaelite Brotherhood, Hunt remained most true to their ideals throughout his career. He was always keen to maximise the popular appeal and public visibility of his works."
+      "Maurice Brazil Prendergast was an American Post-Impressionist artist who worked in oil, watercolor, and monotype. He exhibited as a member of The Eight, though the delicacy of his compositions and mosaic-like beauty of his style differed from the artistic intentions and philosophy of the group."
     ],
     "quote": null,
-    "movements": ["Pre-Raphaelite Brotherhood"],
-    "mediums": ["Oil paint", "Ink", "Pen", "Watercolor painting", "Etching", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/William_Holman_Hunt",
-    "urlGoogle": "https://artsandculture.google.com/entity/william-holman-hunt/m0vh96"
+    "movements": ["Impressionism", "Post-Impressionism"],
+    "mediums": ["Watercolor painting", "Oil paint", "Graphite", "Pencil", "Drawing", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Maurice_Prendergast",
+    "urlGoogle": "https://artsandculture.google.com/entity/maurice-prendergast/m039zxc"
   },
   "event": {
-    "id": "john-f-kennedy-1961-presidential-inauguration",
-    "name": "John F. Kennedy 1961 presidential inauguration",
-    "dates": null,
-    "mainImg": "img/events/john-f-kennedy-1961-presidential-inauguration.jpg",
+    "id": "battle-of-verdun",
+    "name": "Battle of Verdun",
+    "dates": "Feb 21, 1916 - Dec 18, 1916",
+    "mainImg": "img/events/battle-of-verdun.jpg",
     "summary": [
-      "The inauguration of John F. Kennedy as the 35th President of the United States was held on Friday, January 20, 1961 at the East Portico of the United States Capitol in Washington, D.C. This was the 44th inauguration and marked the commencement of the only term of both John F. Kennedy as President and Lyndon B. Johnson as Vice President. Kennedy was assassinated 2 years, 306 days into this term, and Johnson succeeded to the presidency.",
-      "Kennedy took office following the November 1960 presidential election, in which he narrowly defeated Richard Nixon, the incumbent Vice President. He was the first Catholic to become President, and became the youngest person elected to the office.",
-      "His inaugural address encompassed the major themes of his campaign and would define his presidency during a time of economic prosperity, emerging social changes, and diplomatic challenges. This inauguration was the first in which a poet, Robert Frost, participated in the program.",
-      "For this inauguration, the Joint Congressional Committee on Inaugural Ceremonies was chaired by Senator John Sparkman, and included Senators Carl Hayden and Styles Bridges, and Representatives Sam Rayburn, John W."
+      "The Battle of Verdun, was fought from 21 February to 18 December 1916 on the Western Front in France. The battle was the longest of the First World War and took place on the hills north of Verdun-sur-Meuse. The German 5th Army attacked the defences of the Fortified Region of Verdun and those of the French Second Army on the right bank of the Meuse. Using the experience of the Second Battle of Champagne in 1915, the Germans planned to capture the Meuse Heights, an excellent defensive position with good observation for artillery-fire on Verdun. The Germans hoped that the French would commit their strategic reserve to recapture the position and suffer catastrophic losses at little cost to the Germans.",
+      "Poor weather delayed the beginning of the attack until 21 February but the Germans captured Fort Douaumont in the first three days. The advance then slowed for several days, despite inflicting many French casualties. By 6 March, ​20 ¹⁄₂ French divisions were in the RFV and a more extensive defence in depth had been constructed. Philippe Pétain ordered no retreat and that German attacks were to be counter-attacked, despite this exposing French infantry to German artillery-fire."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-f-kennedy-1961-presidential-inauguration/m05br2y1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Verdun",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-verdun/m0dl4g"
   },
   "funFacts": [
     {
-      "id": "125",
-      "fact": "Pigeons have been trained by the U.S. Coast Guard to spot people lost at sea.",
-      "category": ["Animals"]
+      "id": "667",
+      "fact": "The shoreline at Wildwood grows almost 100 feet per year.",
+      "category": ["Geography"]
     },
     {
-      "id": "678",
-      "fact": "Unlike your housecat, the Siberian tiger actually loves to swim!",
-      "category": ["Animals"]
+      "id": "419",
+      "fact": "A jiffy is an actual time measurement equaling 1/100th of a second.",
+      "category": ["Science"]
     }
   ],
   "funFacts2": [
-    { "id": "553839", "fact": "Queen Elizabeth II technically owns all the dolphins in UK waters." }
+    {
+      "id": "504589",
+      "fact": "“Q” is the only letter of the alphabet that does not appear in any U.S. territory or state name."
+    }
   ],
   "idiom": {
-    "id": "shake-the-dust-from-ones-feet",
-    "term": "shake the dust from one's feet",
-    "definition": "Depart in a hurry, especially from an unpleasant situation; also, leave forever. For example, *I couldn't wait to shake the dust from my feet; I never wanted to see either of them again.* This metaphoric term, alluding to moving one's feet fast enough to shake off dust, appears in several books of the Bible. [c. 1600]"
+    "id": "might-as-well-be-hanged-for-a-sheep-as-a-lamb",
+    "term": "might as well be hanged for a sheep as a lamb",
+    "definition": "Might just as well be punished for a big misdeed as a small one. For example, *I might as well be hanged for a sheep as a lamb and have a third piece of cake --- I've gone off my diet anyhow.* Already a proverb in John Ray's 1678 collection, this expression alludes to the old punishment for stealing sheep, which was hanging no matter what the age or size of the animal."
   },
   "person": {
-    "id": "robert-peel",
-    "name": "Robert Peel",
-    "dates": "Feb 5, 1788 - Jul 2, 1850",
-    "mainImg": "img/people/robert-peel.jpg",
+    "id": "julia-gillard",
+    "name": "Julia Gillard",
+    "dates": "Born Sep 29, 1961",
+    "mainImg": "img/people/julia-gillard.jpg",
     "summary": [
-      "Sir Robert Peel, 2nd Baronet, FRS was a British Conservative statesman who served twice as Prime Minister of the United Kingdom and twice as Home Secretary. He is regarded as the father of modern British policing, owing to his founding of the Metropolitan Police Service. Peel was one of the founders of the modern Conservative Party.",
-      "The son of a wealthy textile-manufacturer and politician, Peel was the first prime minister from an industrial business background. He earned a double first in classics and mathematics from Christ Church, Oxford. He entered the House of Commons in 1809, and became a rising star in the Tory Party. Peel entered the Cabinet as Home Secretary, where he reformed and liberalised the criminal law and created the modern police force, leading to a new type of officer known in tribute to him as \"bobbies\" and \"peelers\". After a brief period out of office he returned as Home Secretary under his political mentor the Duke of Wellington, also serving as Leader of the House of Commons."
+      "Julia Eileen Gillard AC is an Australian former politician who served as the 27th Prime Minister of Australia and Leader of the Australian Labor Party from 2010 to 2013. She was previously the 13th Deputy Prime Minister of Australia from 2007 until 2010 and held the cabinet positions of Minister for Education, Minister for Employment and Workplace Relations and Minister for Social Inclusion from 2007 to 2010. She is the first and only woman to hold the positions of Deputy Prime Minister, Prime Minister and leader of a major party in Australia.",
+      "Born in Barry, Wales, Gillard migrated with her family to Adelaide, South Australia, in 1966. She attended Mitcham Demonstration School and Unley High School. Gillard went on to the University of Adelaide, but switched to the University of Melbourne in 1982, where she eventually graduated with Bachelor of Laws and Bachelor of Arts degrees. She worked with the Australian Union of Students during that time and was the organisation's president from 1983 to 1984. In 1987, Gillard joined the law firm Slater & Gordon."
     ],
-    "quote": "“Public opinion is a compound of folly, weakness, prejudice, wrong feeling, right feeling, obstinacy, and newspaper paragraphs.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Peel",
-    "urlGoogle": "https://artsandculture.google.com/entity/robert-peel/m0c9h4"
+    "quote": "“The global economic outlook remains fragile and uncertain. Global economic imbalances persist and we must address them or risk future instability.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Julia_Gillard",
+    "urlGoogle": "https://artsandculture.google.com/entity/julia-gillard/m02kx9r"
   },
   "place": {
-    "id": "peshawar",
-    "name": "Peshawar",
-    "mainImg": "img/places/peshawar.jpg",
+    "id": "zakopane",
+    "name": "Zakopane",
+    "mainImg": "img/places/zakopane.jpg",
     "summary": [
-      "Peshawar is the capital of the Pakistani province of Khyber Pakhtunkhwa and its largest city. It is the sixth-largest in Pakistan. Peshawar is also the largest Pashtun-majority city in Pakistan and is bilingual in Pashto and Hindko. Situated in the broad Valley of Peshawar near the eastern end of the historic Khyber Pass, close to the border with Afghanistan, Peshawar's recorded history dates back to at least 539 BCE, making it the oldest city in Pakistan and one of the oldest cities in South Asia.",
-      "As the center of the ancient Gandhara region, Peshawar became the capital of the Kushan Empire under the rule of Kanishka; and was home to the Kanishka stupa, which was among the tallest buildings in the ancient world. Peshawar was then sacked by the Hephthalites, before the arrival of Muslim empires. The city was an important trading centre during the Mughal era, before becoming part of the Afghan Durrani Empire in December 1747, and serving as the Afghan winter capital from 1776 until the capture of the city by the Sikh Empire in March 1823, who were then followed by the British in 1846."
+      "Zakopane is a town in the extreme south of Poland, in the southern part of the Podhale region at the foot of the Tatra Mountains. From 1975 to 1998, it was part of Nowy Sącz Province; since 1999, it has been part of Lesser Poland Province. As of 2017 its population was 27,266. Zakopane is a center of Goral culture and is often referred to as \"the winter capital of Poland”. It is a popular destination for mountaineering, skiing, and tourism.",
+      "Zakopane lies near Poland's border with Slovakia, in a valley between the Tatra Mountains and Gubałówka Hill. It can be reached by train or bus from the province capital, Kraków, about two hours away. Zakopane lies 800–1,000 meters above sea level and centers on the intersection of its Krupówki and Kościuszko Streets."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Peshawar",
-    "urlGoogle": "https://artsandculture.google.com/entity/peshawar/m0hj6h"
+    "urlWiki": "https://en.wikipedia.org/wiki/Zakopane",
+    "urlGoogle": "https://artsandculture.google.com/entity/zakopane/m0c6d7"
   },
   "quote": {
-    "id": "51",
-    "quote": "Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.",
-    "author": "Margaret Mead"
+    "id": "11",
+    "quote": "If you cannot do great things, do small things in a great way.",
+    "author": "Napoleon Hill"
   },
   "wiki": {
-    "id": "battle-of-arawe",
-    "name": "Battle of Arawe",
-    "summary": "The Battle of Arawe was fought between Allied and Japanese forces during the New Britain Campaign of World War II. The battle was initiated by the Allies to divert Japanese attention away from the Cape Gloucester area of New Britain ahead of a major offensive there in late December 1943. A force built around the U.S. Army's 112th Cavalry Regimental Combat Team landed at Arawe on 15 December 1943 and rapidly overcame the area's small garrison. Japanese air units made large-scale raids against the Arawe area in the following days, and in late December elements of two Imperial Japanese Army battalions unsuccessfully counter-attacked the larger American force. In mid-January 1944 the 112th Cavalry Regimental Combat Team was reinforced with additional infantry and U.S. Marine Corps tanks, and launched a brief offensive that pushed the Japanese back. The Japanese units withdrew from the area towards the end of February as part of a general retreat from western New Britain. There is no consensus among historians on whether the Allied landing at Arawe was needed, with some arguing that it provided a useful diversion while others judge that it formed part of an unnecessary campaign.",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_Arawe"
+    "id": "hip-hop-music",
+    "name": "Hip hop music",
+    "summary": "Hip hop music is a popular style of music. It is composed of two parts: rapping (emceeing) and DJing; along with breakdancing and graffiti art, these are the four components of hip hop, a cultural movement which began among African Americans in New York City in the 1970s. The term rap is sometimes used synonymously with hip hop music, though it is also used to refer specifically to the practice of rapping, which is just one component of hip hop music. Most typically, hip hop consists of one or more rappers who spout semi-autobiographic tales, often relating to a fictionalized counterpart, in an intensely rhythmic lyrical form, making abundant use of techniques like assonance, alliteration and rhyme. Along with the rapper a DJ or a live band plays a beat. This beat is often from the percussion of a different song, usually rock, funk or soul, and is sometimes sampled. In addition to the beat, other sounds are often sampled, synthesized or performed.",
+    "url": "https://en.wikipedia.org/wiki/Hip_hop_music"
   },
   "word": {
-    "id": "peregrination",
-    "word": "peregrination",
-    "url": "https://www.merriam-webster.com/dictionary/peregrination",
+    "id": "bonnyclabber",
+    "word": "bonnyclabber",
+    "url": "https://www.merriam-webster.com/dictionary/bonnyclabber",
     "partOfSpeech": "noun",
-    "pronunciation": "pair-uh-gruh-NAY-shun",
-    "audioPath": "audio/words/peregrination.mp3",
-    "definitions": ["an excursion especially on foot or to a foreign country : journey"],
+    "pronunciation": "BAH-nee-klab-er",
+    "audioPath": "audio/words/bonnyclabber.mp3",
+    "definitions": ["sour milk that has thickened or curdled"],
     "examples": [
-      "The eccentric millionaire set out on a peregrination around the world, in search of the perfect wine to complement his favorite meal."
+      "When Grandma was a little girl, one of her jobs was to feed the _bonnyclabber_ to the chickens.",
+      "\"Robert Hale of Beverly, Massachusetts, washed up at the Cyr place in 1731. After a meal of _bonnyclabber_ (a curdled milk dish akin to yogurt), fish, soup, and bread, he witnessed 'some of the Family on their Knees paying their Devotions to the Almighty.'\" - From Christopher Hodson's 2012 book _The Acadian Diaspora_"
     ],
-    "origin": "We begin our narrative of the linguistic travels of \"peregrination\" with the Latin word \"peregrinus,\" which means \"foreign\" or \"foreigner.\" That term also gave us the words \"pilgrim\" and \"peregrine,\" the latter of which once meant \"alien\" but is now used as an adjective meaning \"tending to wander\" and a noun naming a kind of falcon. (The peregrine falcon is so named because it was traditionally captured during its first flight -- or pilgrimage -- from the nest.) From \"peregrinus\" we travel to the Latin verb \"peregrinari\" (\"to travel in foreign lands\") and its past participle \"peregrinatus.\" Our final destination is the adoption into English in the 16th century of both \"peregrination\" and the verb \"peregrinate\" (\"to travel especially on foot\" or \"to traverse\")."
+    "origin": "In Irish Gaelic, \"bainne clabair\" means \"thickened milk.\" In English, the equivalent word is \"bonnyclabber.\" Whether or not this bonnyclabber is \"the bravest, freshest drink you ever tasted\" (as the English Earl of Strafford enthused in 1635) or \"would make a hungry parson caper\" (to quote English poet Thomas Ward in 1716), it has been a part of country folks' diets for many a year. Today, you might see \"bonnyclabber\" as a recommended substitute for buttermilk in a recipe for Irish soda bread (complete with directions for making your own bonnyclabber). The American version of bonnyclabber, brought to U.S. shores by Scotch-Irish immigrants, often goes one step further in the thickening process to produce something more akin to cottage cheese."
   }
 }

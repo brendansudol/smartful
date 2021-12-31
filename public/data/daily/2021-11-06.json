@@ -1,0 +1,126 @@
+{
+  "artist": {
+    "id": "luis-egidio-melendez",
+    "name": "Luis Egidio Meléndez",
+    "dates": "1716 - 1780",
+    "mainImg": "img/art/artists/luis-egidio-melendez.jpg",
+    "artworkImgs": [
+      {
+        "name": "Still Life with Figs and Bread",
+        "path": "img/art/artworks/luis-egidio-melendez-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-figs-and-bread/DQEmJXBHNIcGUw"
+      },
+      {
+        "name": "The Afternoon Meal (La Merienda)",
+        "path": "img/art/artworks/luis-egidio-melendez-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-afternoon-meal-la-merienda-luis-meléndez/kAHjyLlOaRiR-A"
+      },
+      {
+        "name": "Still Life with Oranges, Jars, and Boxes of Sweets",
+        "path": "img/art/artworks/luis-egidio-melendez-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-oranges-jars-and-boxes-of-sweets-luis-meléndez/pQEe8NmKYsytqg"
+      },
+      {
+        "name": "Still Life with Fruits and Cooking Utensils",
+        "path": "img/art/artworks/luis-egidio-melendez-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-fruits-and-cooking-utensils-meléndez-luis/AAG7hoL3YyBnJA"
+      },
+      {
+        "name": "Still Life with Melon and Pears",
+        "path": "img/art/artworks/luis-egidio-melendez-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-melon-and-pears/5wEVTIgGVo2DMw"
+      },
+      {
+        "name": "Still Life with Apples, Grapes, Melons, Bread, Jug and Bottle",
+        "path": "img/art/artworks/luis-egidio-melendez-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-apples-grapes-melons-bread-jug-and-bottle-luis-meléndez/RAFYTVuHoNBd-g"
+      }
+    ],
+    "summary": [
+      "Luis Egidio Meléndez was a Spanish painter. Though he received little acclaim during his lifetime and died in poverty, Meléndez is recognized as the greatest Spanish still-life painter of the 18th century. His mastery of composition and light, and remarkable ability to convey the volume and texture of individual objects enabled him to transform the most mundane of kitchen fare into powerful images."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Luis_Egidio_Mel%C3%A9ndez",
+    "urlGoogle": "https://artsandculture.google.com/entity/luis-egidio-meléndez/m0gc_2m"
+  },
+  "event": {
+    "id": "dieppe-raid",
+    "name": "Dieppe Raid",
+    "dates": null,
+    "mainImg": "img/events/dieppe-raid.jpg",
+    "summary": [
+      "Operation Jubilee, more commonly referred to as the Dieppe Raid, was an Allied assault on the German-occupied port of Dieppe, France, on 19 August 1942, during the Second World War. The main assault lasted less than six hours until strong German defences and mounting Allied losses forced its commanders to call a retreat.",
+      "Over 6,050 infantrymen, predominantly Canadian, were supported by The Calgary Regiment of the 1st Canadian Tank Brigade and a strong force of Royal Navy and smaller Royal Air Force landing contingents. It involved 5,000 Canadians, 1,000 British troops, and 50 United States Army Rangers.",
+      "Objectives included seizing and holding a major port for a short period, both to prove that it was possible and to gather intelligence. Upon retreat, the Allies also wanted to destroy coastal defences, port structures and all strategic buildings. The raid had the added objectives of boosting morale and demonstrating the firm commitment of the United Kingdom to open a western front in Europe.",
+      "None of these overall objectives were met, with only a single landing force achieving its specific objective."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Dieppe_Raid",
+    "urlGoogle": "https://artsandculture.google.com/entity/dieppe-raid/m01_5rh"
+  },
+  "funFacts": [
+    {
+      "id": "243",
+      "fact": "If you put all the streets in New York City in a straight line, they would stretch to Japan.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "427",
+      "fact": "Lemons ripen after you pick them, but oranges do not.",
+      "category": ["Food"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "504749", "fact": "A newborn giant panda is about the size of a stick of butter." }
+  ],
+  "person": {
+    "id": "howard-dean",
+    "name": "Howard Dean",
+    "dates": "Born Nov 17, 1948",
+    "mainImg": "img/people/howard-dean.jpg",
+    "summary": [
+      "Howard Brush Dean III is an American physician, author, and retired politician who served as Governor of Vermont from 1991 to 2003 and Chair of the Democratic National Committee from 2005 to 2009 and works as a political consultant and commentator. Dean was a candidate for the Democratic nomination in the 2004 presidential election. His implementation of the fifty-state strategy as head of the DNC is credited with the Democratic victories in the 2006 and 2008 elections. Afterward, he became a political commentator and consultant to McKenna Long & Aldridge, a law and lobbying firm.",
+      "Dean was the Lieutenant Governor of Vermont from 1987 to 1991, and a member of the Vermont House of Representatives from 1983 to 1986. In the 2004 election, Dean was the top fundraiser and front runner, prior to the Iowa caucus, for the Democratic Party presidential nomination."
+    ],
+    "quote": "“There's not one person in this crowd who's gonna agree with everything I say. Not one.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Howard_Dean",
+    "urlGoogle": "https://artsandculture.google.com/entity/howard-dean/m0d0gzz"
+  },
+  "place": {
+    "id": "leon",
+    "name": "León",
+    "mainImg": "img/places/leon.jpg",
+    "summary": [
+      "León is the capital of the province of León, located in the northwest of Spain. Its city population of 127,817 makes it the largest municipality in the province, accounting for more than one quarter of the province's population. Including the metropolitan area, the population is estimated at 202,793.",
+      "Founded as the military encampment of the Legio VI Victrix around 29 BC, its standing as an encampment city was consolidated with the definitive settlement of the Legio VII Gemina from 74 AD. Following its partial depopulation due to the Umayyad conquest of the peninsula. 910 saw the beginning of one its most prominent historical periods, when it became the capital of the Kingdom of León, which took active part in the Reconquista against the Moors, and came to be one of the fundamental kingdoms of medieval Spain.",
+      "In 1188, the city hosted the first Parliament in European history under the reign of Alfonso IX, due to which it was named in 2010, by the professor John Keane, the King of Spain and the Junta of Castile and León, as the cradle of Parliamentarism, and the Decreta of León were included in the Memory of the World register by UNESCO in 2013."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Le%C3%B3n,_Spain",
+    "urlGoogle": "https://artsandculture.google.com/entity/león/m01s2b7"
+  },
+  "wiki": {
+    "id": "the-adventures-of-tintin",
+    "name": "The Adventures of Tintin",
+    "summary": "The Adventures of Tintin is a comic book series created by Belgian artist Hergé. The series first appeared in 1929 in a children's supplement to the French-language Belgian newspaper Le Vingtième Siècle. Set in a painstakingly researched world closely mirroring reality, The Adventures of Tintin presents colourful characters in distinctive, well-realised settings. The hero of the series is the eponymous Tintin, a young reporter and traveller aided in his adventures by his faithful dog Snowy. The success of the series saw serialised strips collected into albums, spun into a successful magazine, and adapted for both film and theatre. The series is one of the most popular European comics of the 20th century, with translations published in over 50 languages and more than 200 million copies of the books sold to date. The comic strip series has long been admired for its clean, expressive drawings, done in Hergé's signature ligne claire style. The Adventures of Tintin straddles a variety of genres, from mysteries to political thrillers to science fiction. Stories always feature slapstick humour, offset in later albums by sophisticated satire and political and cultural commentary.",
+    "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tintin"
+  },
+  "word": {
+    "id": "handsel",
+    "word": "handsel",
+    "url": "https://www.merriam-webster.com/dictionary/handsel",
+    "partOfSpeech": "noun",
+    "pronunciation": "HAN-sul",
+    "audioPath": "audio/words/handsel.mp3",
+    "definitions": [
+      "a gift made as a token of good wishes or luck",
+      "money given by a buyer to a seller to bind a bargain"
+    ],
+    "examples": [
+      "Having signed the papers and handed over the agreed-upon handsel of $200, Caroline was now the proud owner of a small sailing skiff."
+    ],
+    "origin": "According to an old custom in the British Isles, the first Monday of the new year is Handsel Monday, a day to give a small gift or good luck charm to children or to those who have served you well. As long ago as the year 1200, English speakers were using the ancestor of \"handsel\" for any good luck charm, especially one given at the start of some new situation or condition. By the 1500s, traders were using \"handsel\" for the first cash they earned in the morning -- to them, an omen of good things to follow. Nowadays, it can also be used for the first use or experience of something, especially when such a use gives a taste of things to come."
+  }
+}

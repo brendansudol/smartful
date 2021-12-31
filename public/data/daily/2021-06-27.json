@@ -1,127 +1,124 @@
 {
   "artist": {
-    "id": "cornelius-krieghoff",
-    "name": "Cornelius Krieghoff",
-    "dates": "Jun 19, 1815 - Apr 8, 1872",
-    "mainImg": "img/art/artists/cornelius-krieghoff.jpg",
+    "id": "henry-fuseli",
+    "name": "Henry Fuseli",
+    "dates": "Feb 7, 1741 - Apr 16, 1825",
+    "mainImg": "img/art/artists/henry-fuseli.jpg",
     "artworkImgs": [
       {
-        "name": "James Bruce, Earl of Elgin",
-        "path": "img/art/artworks/cornelius-krieghoff-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/james-bruce-earl-of-elgin/XgHHEybMCZcksg"
+        "name": "Thor battering the Midgard Serpent",
+        "path": "img/art/artworks/henry-fuseli-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/thor-battering-the-midgard-serpent-henry-fuseli-ra/fQEH7Ro3EE5c7w"
       },
       {
-        "name": "Lumberman's Ferry",
-        "path": "img/art/artworks/cornelius-krieghoff-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/lumberman-s-ferry/7gF09fBikyyrig"
+        "name": "The Nightmare",
+        "path": "img/art/artworks/henry-fuseli-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nightmare-henry-fuseli/IwFwTbrht4QzgA"
       },
       {
-        "name": "Habitant with Blue Tuque and Pipe",
-        "path": "img/art/artworks/cornelius-krieghoff-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/habitant-with-blue-tuque-and-pipe/lgE7WBN9gLWPyg"
+        "name": "Oedipus Cursing His Son, Polynices",
+        "path": "img/art/artworks/henry-fuseli-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/oedipus-cursing-his-son-polynices-henry-fuseli/qQE1GEk6wc8G2Q"
       },
       {
-        "name": "Head of a Habitant",
-        "path": "img/art/artworks/cornelius-krieghoff-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/head-of-a-habitant/KQFhx5rT1M_OTQ"
+        "name": "Titania, Bottom and the Fairies",
+        "path": "img/art/artworks/henry-fuseli-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/titania-bottom-and-the-fairies-henry-fuseli/YAHvPlCkxYnumQ"
       },
       {
-        "name": "Officer's Room in Montreal",
-        "path": "img/art/artworks/cornelius-krieghoff-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/officer-s-room-in-montreal/LgH0DPUHgQ3P4A"
+        "name": "The Night-Hag Visiting Lapland Witches",
+        "path": "img/art/artworks/henry-fuseli-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-night-hag-visiting-lapland-witches-henry-fuseli/ZwF-OkUeFZaqzQ"
       },
       {
-        "name": "Bilking the Toll",
-        "path": "img/art/artworks/cornelius-krieghoff-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/bilking-the-toll/5QHzZXSEXBRGrw"
+        "name": "Percival Delivering Belisane from the Enchantment of Urma",
+        "path": "img/art/artworks/henry-fuseli-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/percival-delivering-belisane-from-the-enchantment-of-urma-henry-fuseli/nwFD1aXVWbikYQ"
       }
     ],
     "summary": [
-      "Cornelius David Krieghoff was a Dutch-Canadian painter of the 19th century. Krieghoff is most famous for his paintings of Canadian landscapes and Canadian life outdoors, which were sought-after in his own time as they are today. He is particularly famous for his winter scenes, some of which he painted in a number of variants."
+      "Henry Fuseli RA was a Swiss painter, draughtsman and writer on art who spent much of his life in Britain. Many of his works, such as The Nightmare, deal with supernatural subject-matter. He painted works for John Boydell's Shakespeare Gallery, and created his own \"Milton Gallery\". He held the posts of Professor of Painting and Keeper at the Royal Academy. His style had a considerable influence on many younger British artists, including William Blake."
     ],
-    "quote": null,
-    "movements": [],
-    "mediums": ["Oil paint", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Cornelius_Krieghoff",
-    "urlGoogle": "https://artsandculture.google.com/entity/cornelius-krieghoff/m01wrvq"
+    "quote": "“Nature is a collective idea, and, though its essence exist in each individual of the species, can never in its perfection inhabit a single object.”",
+    "movements": ["Romanticism", "Sturm und Drang", "Neoclassicism", "Classicism"],
+    "mediums": ["Engraving", "Graphite", "Ink", "Oil paint", "Etching", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Fuseli",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-fuseli/m01djng"
   },
   "event": {
-    "id": "irish-civil-war",
-    "name": "Irish Civil War",
-    "dates": "Jun 28, 1922 - May 24, 1923",
-    "mainImg": "img/events/irish-civil-war.jpg",
+    "id": "battle-of-kursk",
+    "name": "Battle of Kursk",
+    "dates": "Jul 5, 1943 - Aug 23, 1943",
+    "mainImg": "img/events/battle-of-kursk.jpg",
     "summary": [
-      "The Irish Civil War was a conflict that followed the Irish War of Independence and accompanied the establishment of the Irish Free State, an entity independent from the United Kingdom but within the British Empire.",
-      "The civil war was waged between two opposing groups, the pro-treaty Provisional Government and the anti-treaty IRA, over the Anglo-Irish Treaty. The forces of the Provisional Government supported the Treaty, while the anti-treaty opposition saw it as a betrayal of the Irish Republic. Many of those who fought on both sides in the conflict had been members of the Irish Republican Army during the War of Independence.",
-      "The Civil War was won by the pro-treaty Free State forces, who benefited from substantial quantities of weapons provided by the British Government. The conflict may have claimed more lives than the War of Independence that preceded it, and left Irish society divided and embittered for generations. Today, two of the main political parties in the Republic of Ireland, Fine Gael and Fianna Fáil, are direct descendants of the opposing sides of the war."
+      "The Battle of Kursk was a Second World War engagement between German and Soviet forces on the Eastern Front near Kursk in the Soviet Union, during July and August 1943. The battle began with the launch of the German offensive Operation Citadel, on 5 July, which had the objective of pinching off the Kursk salient with attacks on the base of the salient from north and south simultaneously. After the German offensive stalled on the northern side of the salient, on 12 July the Soviets commenced their Kursk Strategic Offensive Operation with the launch of Operation Kutuzov against the rear of the German forces in the northern side. On the southern side, the Soviets also launched powerful counterattacks the same day, one of which led to a large armoured clash, the Battle of Prokhorovka. On 3 August, the Soviets began the second phase of the Kursk Strategic Offensive Operation with the launch of Operation Polkovodets Rumyantsev against the German forces in the southern side of the Kursk salient.",
+      "The battle was the final strategic offensive that the Germans were able to launch on the Eastern Front."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Irish_Civil_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/irish-civil-war/m03xvj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Kursk",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-kursk/m081xx"
   },
   "funFacts": [
     {
-      "id": "146",
-      "fact": "The smallest county in America is New York County, better known as Manhattan.",
-      "category": ["Geography"]
+      "id": "461",
+      "fact": "A fifteen-year-old boy invented earmuffs in 1873.",
+      "category": ["History"]
     },
-    { "id": "759", "fact": "A rhinoceros horn is made of compacted hair.", "category": ["Animals"] }
+    { "id": "361", "fact": "The pineapple is a very big berry.", "category": ["Food", "Plants"] }
   ],
   "funFacts2": [
     {
-      "id": "504867",
-      "fact": "Giraffes have the highest blood pressure of any mammal, although their resting heart rate is about the same as humans."
+      "id": "551314",
+      "fact": "<span>The annual number of worldwide shark bites is 10 times less than the number of people bitten by other people in New York.</span>"
     }
   ],
   "idiom": {
-    "id": "cest-la-vie",
-    "term": "c'est la vie",
-    "definition": "That's life, there's nothing you can do about it. This French expression, often stated with a shrug, frequently is a response to some undesirable occurrence. For example, *You were caught with an expired driver's license; oh well, c'est la vie.* [mid-1800s]"
+    "id": "idiot-box",
+    "term": "idiot box",
+    "definition": "A television set, as in *There they sit in front of the idiot box, hour after hour.* This slangy and pejorative expression dates from about 1960."
   },
   "person": {
-    "id": "alexis-de-tocqueville",
-    "name": "Alexis de Tocqueville",
-    "dates": "Jul 29, 1805 - Apr 16, 1859",
-    "mainImg": "img/people/alexis-de-tocqueville.jpg",
+    "id": "melissa-gilbert",
+    "name": "Melissa Gilbert",
+    "dates": "Born May 8, 1964",
+    "mainImg": "img/people/melissa-gilbert.jpg",
     "summary": [
-      "Alexis Charles Henri Clérel, comte de Tocqueville, colloquially known as Tocqueville, was a French aristocrat, diplomat, political scientist, and historian. He is best known for his works Democracy in America and The Old Regime and the Revolution. In both, he analysed the improved living standards and social conditions of individuals as well as their relationship to the market and state in Western societies. Democracy in America was published after Tocqueville's travels in the United States and is today considered an early work of sociology and political science.",
-      "Tocqueville was active in French politics, first under the July Monarchy and then during the Second Republic which succeeded the February 1848 Revolution. He retired from political life after Louis Napoléon Bonaparte's 2 December 1851 coup and thereafter began work on The Old Regime and the Revolution. Tocqueville argued the importance of the French Revolution was to continue the process of modernizing and centralizing the French state which had begun under King Louis XIV. The failure of the Revolution came from the inexperience of the deputies who were too wedded to abstract Enlightenment ideals."
+      "Melissa Ellen Gilbert is an American actress, television director, producer, politician and former president of the Screen Actors Guild.",
+      "Gilbert began her career as a child actress in the late 1960s, appearing in numerous commercials and guest starring roles on television. From 1974 to 1984, she starred as Laura Ingalls Wilder, the second oldest daughter of Charles Ingalls on the NBC series Little House on the Prairie. During the run of Little House, Gilbert appeared in several popular television films, including The Diary of Anne Frank and The Miracle Worker.",
+      "As an adult, she continued her career mainly in television films. Gilbert has also continued with guest starring roles on television and has done voice work for animation such as Batman: The Animated Series as Barbara Gordon / Batgirl. From 2009 to 2010, Gilbert appeared as Caroline \"Ma\" Ingalls in the touring production of Little House on the Prairie, the Musical. In 2012, she was a contestant on season fourteen of the popular reality dance competition show Dancing with the Stars on ABC.",
+      "Gilbert served as the President of the Screen Actors Guild from 2001 to 2005."
     ],
-    "quote": "“Liberty cannot be established without morality, nor morality without faith.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Alexis_de_Tocqueville",
-    "urlGoogle": "https://artsandculture.google.com/entity/alexis-de-tocqueville/m015v8f"
+    "quote": "“I grew up in a dysfunctional family.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Melissa_Gilbert",
+    "urlGoogle": "https://artsandculture.google.com/entity/melissa-gilbert/m025z7p"
   },
   "place": {
-    "id": "dearborn",
-    "name": "Dearborn",
-    "mainImg": "img/places/dearborn.jpg",
+    "id": "lincoln",
+    "name": "Lincoln",
+    "mainImg": "img/places/lincoln.jpg",
     "summary": [
-      "Dearborn is a city in the State of Michigan. It is located in Wayne County and is part of the Detroit metropolitan area. Dearborn is the eighth largest city in the State of Michigan. As of the 2010 census, it had a population of 98,153 and is home to the largest Muslim population in the United States. First settled in the late 18th century by ethnic French farmers in a series of ribbon farms along the Rouge River and the Sauk Trail, the community grew in the 19th century with the establishment of the Detroit Arsenal on the Chicago Road linking Detroit and Chicago. In the 20th century, it developed as a major manufacturing hub for the automotive industry.",
-      "Henry Ford was born on a farm here and later established an estate in Dearborn, as well as his River Rouge Complex, the largest factory of his Ford empire. He developed mass production of automobiles, and based the world headquarters of the Ford Motor Company here. The city has a campus of the University of Michigan as well as Henry Ford College. The Henry Ford, the United States' largest indoor-outdoor historic museum complex and Metro Detroit's leading tourist attraction, is located here."
+      "Lincoln is the capital city of the U.S. state of Nebraska and the county seat of Lancaster County. The city covers 96.194 square miles with a population of 289,102 in 2019. It is the second-most populous city in Nebraska, after Omaha, and the 70th-largest in the United States. The city is the economic and cultural anchor of a substantially larger metropolitan area in the southeastern part of the state called the Lincoln Metropolitan and Lincoln-Beatrice Combined Statistical Areas. The statistical area is home to 356,083 people, making it the 105th-largest combined statistical area in the United States.",
+      "The city was founded in 1856 as the village of Lancaster on the wild salt marshes of what was to become Lancaster County. Renamed after President Abraham Lincoln, it became Nebraska's state capital in 1869. The Bertram G. Goodhue-designed state capitol building was completed in 1932, and is the second tallest capitol in the United States. As the city is the seat of government for the state of Nebraska, the state and the United States government are major employers. The University of Nebraska was founded in Lincoln in 1869."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Dearborn,_Michigan",
-    "urlGoogle": "https://artsandculture.google.com/entity/dearborn/m0vrmb"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lincoln,_Nebraska",
+    "urlGoogle": "https://artsandculture.google.com/entity/lincoln/m04gxf"
   },
   "wiki": {
-    "id": "autism",
-    "name": "Autism",
-    "summary": "Autism is classified as a neurodevelopmental disorder that manifests itself in markedly abnormal social interaction, communication ability, patterns of interests, and patterns of behavior. Although the specific etiology of autism is unknown, genetic factors appear to be important. By definition, autism must manifest delays in \"social interaction, language as used in social communication, or symbolic or imaginative play,\" with \"onset prior to age 3 years.\" (DSM-IV) There have been large increases in the reported incidence of autism, for reasons that are heavily debated in the scientific community. There are cases of autistic children who have improved their social and other skills to the point where they can fully participate in mainstream education and social events, but there are lingering concerns that an absolute cure from autism is impossible with current technology since it involves aspects of neurological brain structure determined very early in development. However, some autistic children and adults who are able to communicate at a functional level are opposed to attempts to cure their condition.",
-    "url": "https://en.wikipedia.org/wiki/Autism"
+    "id": "girl-scouts-of-the-usa",
+    "name": "Girl Scouts of the USA",
+    "summary": "The Girl Scouts of the United States of America (GSUSA) is a youth organization for girls in the United States and American girls living abroad. The Girl Scout program developed from the concerns of the progressive movement in the United States from people who sought to promote the social welfare of young women and as a female counterpart to the Boy Scouts of America. It was founded by Juliette Gordon Low in 1912 and is based on the Scouting principles developed by Robert Baden-Powell. The GSUSA uses the Scout method to build self-esteem and to teach values such as honesty, fairness, courage, compassion, character, sisterhood, confidence, and citizenship through activities including camping, community service, learning first aid, and earning numerous badges that can teach lifelong skills. Girl Scouts are recognized for their achievements through rank advancement and various special awards. GSUSA has programs for girls with special interests, such as water-based activities. Membership is organized according to age levels with activities appropriate to each age group.",
+    "url": "https://en.wikipedia.org/wiki/Girl_Scouts_of_the_USA"
   },
   "word": {
-    "id": "futhark",
-    "word": "futhark",
-    "url": "https://www.merriam-webster.com/dictionary/futhark",
-    "partOfSpeech": "noun",
-    "pronunciation": "FOO-thahrk",
-    "audioPath": "audio/words/futhark.mp3",
-    "definitions": [
-      "any of several alphabets used by the Germanic peoples from about the 3d to the 13th centuries - called also the runic alphabet"
-    ],
-    "examples": [
-      "The people used futhark, which was divided into three families of eight signs each."
-    ],
-    "origin": "The word \"futhark\" describes an alphabet originally of 24 and later of some 16 angular characters. It is suspected to be derived from both Latin and Greek and was used for inscriptions and magic signs by the Germanic peoples, and especially by the Scandinavians and Anglo-Saxons, from about the third to the 13th centuries. The spelling \"futhark\" is from the first six symbols of the runic alphabet: f, u, th, a, r, k. The alphabet did, however, encounter revision of letters over time resulting in the variants \"futhorc\" and \"futhork.\""
+    "id": "purfle",
+    "word": "purfle",
+    "url": "https://www.merriam-webster.com/dictionary/purfle",
+    "partOfSpeech": "verb",
+    "pronunciation": "PUR-ful",
+    "audioPath": "audio/words/purfle.mp3",
+    "definitions": ["to ornament the border or edges of"],
+    "examples": ["The luthier used abalone shell to purfle the instrument."],
+    "origin": "Today we use \"purfle\" mostly in reference to setting a decorative inlaid border around the body of a guitar or violin, a process known as \"purfling.\" In the past, \"purfle\" got the most use in connection with adornment of garments. \"The Bishop of Ely . . . wore a robe of scarlet . . . purfled with minever,\" reported an English clergyman in 1840, for example. We embellished our language with \"purfle,\" first as \"purfilen\" in the 1300s, when we took it with its meaning from Middle French \"porfiler.\""
   }
 }

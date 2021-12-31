@@ -1,138 +1,140 @@
 {
   "artist": {
-    "id": "simone-cantarini",
-    "name": "Simone Cantarini",
-    "dates": "Apr 12, 1612 - Oct 15, 1648",
-    "mainImg": "img/art/artists/simone-cantarini.jpg",
+    "id": "alexander-mc-queen",
+    "name": "Alexander McQueen",
+    "dates": "Mar 17, 1969 - Feb 11, 2010",
+    "mainImg": "img/art/artists/alexander-mc-queen.jpg",
     "artworkImgs": [
       {
-        "name": "Our Lady of the Rosary",
-        "path": "img/art/artworks/simone-cantarini-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/our-lady-of-the-rosary-simone-cantarini/kAGSTiynC4ahVQ"
+        "name": "Alexander McQueen Birds Nest Headdress, Autumn / Winter 2006",
+        "path": "img/art/artworks/alexander-mc-queen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-birds-nest-headdress-autumn-winter-2006-lee-alexander-mcqueen/VQGCcYhT_5QBKQ"
       },
       {
-        "name": "Adam and Eve",
-        "path": "img/art/artworks/simone-cantarini-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/_AFsj4t7g7KabA"
+        "name": "Knucklebag",
+        "path": "img/art/artworks/alexander-mc-queen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/knucklebag-alexander-mcqueen/OgHCVCuyzAqM8g"
       },
       {
-        "name": "Adam and Eve",
-        "path": "img/art/artworks/simone-cantarini-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/ZAGm84YM2p_17w"
+        "name": "Evening dress, \"In memory of Elizabeth Howe, Salem 1692\"",
+        "path": "img/art/artworks/alexander-mc-queen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-dress-in-memory-of-elizabeth-howe-salem-1692-alexander-mcqueen/dgF4WFiyOH3dcw"
       },
       {
-        "name": "Adam and Eve",
-        "path": "img/art/artworks/simone-cantarini-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/gQFIfKujvyn-qQ"
+        "name": "Alexander McQueen, Spring / Summer 2001",
+        "path": "img/art/artworks/alexander-mc-queen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-spring-summer-2001-lee-alexander-mcqueen/mwEAkK6rM8eCVw"
       },
       {
-        "name": "Adam and Eve",
-        "path": "img/art/artworks/simone-cantarini-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/ZAGMPW-wHQ3k8Q"
+        "name": "Evening Dress",
+        "path": "img/art/artworks/alexander-mc-queen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-dress-alexander-mcqueen/1QFhXmFyxMfejw"
       },
       {
-        "name": "Adam and Eve",
-        "path": "img/art/artworks/simone-cantarini-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/adam-and-eve-simone-cantarini/aAF21zFM5aFu6Q"
+        "name": "Alexander McQueen, Autumn / Winter 1998",
+        "path": "img/art/artworks/alexander-mc-queen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-mcqueen-autumn-winter-1998-lee-alexander-mcqueen/nAGIsA06tW8sXg"
       }
     ],
     "summary": [
-      "Simone Cantarini or Simone da Pesaro, called il Pesarese was an Italian painter and etcher. He is mainly known for his history paintings and portraits executed in an original style, which united aspects of Bolognese classicism with a bold naturalism.",
-      "Cantarini was also a gifted etcher who achieved extraordinary delicacy and a vibrant and luminous quality in his graphic work."
+      "Lee Alexander McQueen, CBE was a British fashion designer and couturier. He worked as chief designer at Givenchy from 1996 to 2001, and founded his own Alexander McQueen label in 1992. His achievements in fashion earned him four British Designer of the Year awards, as well as the CFDA's International Designer of the Year award in 2003. McQueen died by suicide in 2010, at the age of 40, at his home in Mayfair, London."
     ],
-    "quote": null,
-    "movements": ["Baroque", "Bolognese School"],
-    "mediums": ["Etching", "Chalk", "Pigment", "Sanguine", "Pen", "Laid paper"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Simone_Cantarini",
-    "urlGoogle": "https://artsandculture.google.com/entity/simone-cantarini/m0735jq"
+    "quote": "“I always wanted to be a designer. I read books on fashion from the age of 12.”",
+    "movements": [],
+    "mediums": ["Textile", "Silk", "Satin", "Metal", "Velvet", "Rayon"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_McQueen",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-mcqueen/m023hms"
   },
   "event": {
-    "id": "burma-campaign-1944-45",
-    "name": "Burma campaign 1944–45",
-    "dates": "November 1944 - July 1945",
-    "mainImg": "img/events/burma-campaign-1944-45.jpg",
+    "id": "ptolemaic-dynasty",
+    "name": "Ptolemaic dynasty",
+    "dates": "304 BC - 29 BC",
+    "mainImg": "img/events/ptolemaic-dynasty.jpg",
     "summary": [
-      "The Burma campaign in the South-East Asian Theatre of World War II was fought primarily by British Commonwealth, Chinese and United States forces against the forces of Imperial Japan, who were assisted to some degree by Thailand, the Burmese National Army and the Indian National Army. The British Commonwealth land forces were drawn primarily from the United Kingdom, British India and Africa.",
-      "Partly because monsoon rains made effective campaigning possible only for about half of the year, the Burma campaign was almost the longest campaign of the war. During the campaigning season of 1942, the Japanese had conquered Burma, driving British, Indian and Chinese forces from the country and forcing the British administration to flee into India. After scoring some defensive successes during 1943, they then attempted to forestall Allied offensives in 1944 by launching an invasion of India. This failed with disastrous losses.",
-      "During the next campaigning season beginning in December 1944, the Allies launched several offensives into Burma."
+      "The Ptolemaic dynasty, sometimes also known as the Lagids or Lagidae, was a Macedonian Greek royal family, which ruled the Ptolemaic Kingdom in Egypt during the Hellenistic period. Their rule lasted for 275 years, from 305 to 30 BC. They were the last dynasty of ancient Egypt.",
+      "Ptolemy, one of the seven somatophylakes of Macedon who served as Alexander the Great's generals and deputies, was appointed satrap of Egypt after Alexander's death in 323 BC. In 305 BC, he declared himself Ptolemy I, later known as Sōter \"Saviour\". The Egyptians soon accepted the Ptolemies as the successors to the pharaohs of independent Egypt. Ptolemy's family ruled Egypt until the Roman conquest of 30 BC.",
+      "Like the earlier dynasties of ancient Egypt, the Ptolemaic dynasty practiced inbreeding including sibling marriage, but this did not start in earnest until nearly a century into the dynasty's history. All the male rulers of the dynasty took the name Ptolemy, while queens regnant were all called Cleopatra, Arsinoe or Berenice."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Burma_campaign_1944%E2%80%9345",
-    "urlGoogle": "https://artsandculture.google.com/entity/burma-campaign-1944–45/m03wfgp2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Ptolemaic_dynasty",
+    "urlGoogle": "https://artsandculture.google.com/entity/ptolemaic-dynasty/m05_4h"
   },
   "funFacts": [
     {
-      "id": "487",
-      "fact": "Place an apple in the bag with your potatoes to keep them from budding.",
-      "category": ["Food", "Make-it-Easies"]
+      "id": "861",
+      "fact": "South Carolina is home to the first tea farm in the U.S.",
+      "category": ["Firsts"]
     },
     {
-      "id": "444",
-      "fact": "The Statue of Liberty wears a size 879 sandal.",
-      "category": ["Anatomy"]
+      "id": "369",
+      "fact": "On Valentine's Day, there is no charge to get married in the Empire State Building's chapel.",
+      "category": ["Make-it-Easies"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554012",
-      "fact": "Fern collecting was such a hot fad in the Victorian era that it even had a name: pteridomania."
+      "id": "551311",
+      "fact": "<span><em>The Starry Night</em> depicts Vincent Van Gogh's view from the Saint Paul-de-Mausole asylum.</span>"
     }
   ],
   "idiom": {
-    "id": "stool-pigeon",
-    "term": "stool pigeon",
-    "definition": "A decoy or informer, especially a police spy. For example, *Watch out for Doug; I'm sure he's a stool pigeon for the supervisor.* This term alludes to a bird tied to a stool or similar perch in order to attract other birds, which will then be shot. However, one writer believes that *stool* is a variant for *stale* or *stall,* both nouns used for a decoy bird before 1500 or so. [c. 1820]"
+    "id": "ships-that-pass-in-the-night",
+    "term": "ships that pass in the night",
+    "definition": "Individuals who are rarely in the same place at the same time. For example, *Jan works the early shift and Paula the late shift--- they're two ships that pass in the night.* This metaphoric expression comes from Henry Wadsworth Longfellow's poem \"The Theologian's Tale\" (published in *Tales of a Wayside Inn,* 1873)."
   },
   "person": {
-    "id": "kangxi-emperor",
-    "name": "Kangxi Emperor",
-    "dates": "May 4, 1654 - Dec 20, 1722",
-    "mainImg": "img/people/kangxi-emperor.jpg",
+    "id": "septimius-severus",
+    "name": "Septimius Severus",
+    "dates": "145 AD - 211 AD",
+    "mainImg": "img/people/septimius-severus.jpg",
     "summary": [
-      "The Kangxi Emperor, given name Xuanye, was the fourth Emperor of the Qing dynasty, and the second Qing emperor to rule over China properly.",
-      "The Kangxi Emperor's reign of 61 years makes him the longest-reigning emperor in Chinese history and one of the longest-reigning rulers in the world. However, since he ascended the throne at the age of seven, actual power was held for six years by four regents and his grandmother, the Grand Empress Dowager Xiaozhuang.",
-      "The Kangxi Emperor is considered one of China's greatest emperors. He suppressed the Revolt of the Three Feudatories, forced the Kingdom of Tungning in Taiwan and assorted Mongol rebels in the North and Northwest to submit to Qing rule, and blocked Tsarist Russia on the Amur River, retaining Outer Manchuria and Outer Northwest China.",
-      "The Kangxi Emperor's reign brought about long-term stability and relative wealth after years of war and chaos. He initiated the period known as the \"Prosperous Era of Kangxi and Qianlong\" or \"High Qing\", which lasted for several generations after his death. His court also accomplished such literary feats as the compilation of the Kangxi Dictionary."
+      "Septimius Severus was Roman emperor from 193 to 211. He was born in Leptis Magna in the Roman province of Africa. As a young man he advanced through the customary succession of offices under the reigns of Marcus Aurelius and Commodus. Severus seized power after the death of Emperor Pertinax in 193 during the Year of the Five Emperors.",
+      "After deposing and killing the incumbent emperor Didius Julianus, Severus fought his rival claimants, the Roman generals Pescennius Niger and Clodius Albinus. Niger was defeated in 194 at the Battle of Issus in Cilicia. Later that year Severus waged a short punitive campaign beyond the eastern frontier, annexing the Kingdom of Osroene as a new province. Severus defeated Albinus three years later at the Battle of Lugdunum in Gaul.",
+      "After consolidating his rule over the western provinces, Severus waged another brief, more successful war in the east against the Parthian Empire, sacking their capital Ctesiphon in 197 and expanding the eastern frontier to the Tigris. He then enlarged and fortified the Limes Arabicus in Arabia Petraea."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kangxi_Emperor",
-    "urlGoogle": "https://artsandculture.google.com/entity/kangxi-emperor/m01lznw"
+    "urlWiki": "https://en.wikipedia.org/wiki/Septimius_Severus",
+    "urlGoogle": "https://artsandculture.google.com/entity/septimius-severus/m07137"
   },
   "place": {
-    "id": "greenville",
-    "name": "Greenville",
-    "mainImg": "img/places/greenville.jpg",
+    "id": "wilmington",
+    "name": "Wilmington",
+    "mainImg": "img/places/wilmington.jpg",
     "summary": [
-      "Greenville is a city in and the seat of Greenville County, South Carolina, United States. The city's mayor is Knox H. White, who has been in that position since December 1995. With an estimated population of 70,635 as of 2019, it is the sixth-largest city in the state. The population of the surrounding area was 400,492 as of 2010, making it the third-largest urban area in South Carolina as well as the fastest growing. Greenville is the largest city in the Greenville-Anderson-Mauldin Metropolitan Statistical Area. The MSA had a population of 920,477 in 2019, making it the largest in South Carolina and the third largest in the Carolinas.",
-      "Greenville is the largest city in the Greenville-Spartanburg-Anderson Combined Statistical Area, a 10-county region of northwestern South Carolina known as \"The Upstate\". According to United States Census Bureau, the CSA had a population of 1,475,235 as of 2019, making it the largest CSA in the state. Greenville is located approximately halfway between Atlanta and Charlotte, North Carolina, along Interstate 85, and its metropolitan area also includes Interstates 185 and 385."
+      "Wilmington is a port city and the county seat of New Hanover County in coastal southeastern North Carolina, United States.",
+      "Towards the end of the 19th century, Wilmington was a majority-black, racially-integrated prosperous city, and the largest city in North Carolina. In the Wilmington massacre of 1898, white Democrats launched a coup to overthrow the legitimately-elected local Fusionist government. They expelled opposition black and white political leaders from the city, destroyed the property and businesses of black citizens built up since the Civil War, including the only black newspaper in the city, and killed an estimated 60 to more than 300 people. Whereas Wilmington had 125,000 registered black voters in 1896, it had 6,000 by 1902. By 1910, Charlotte overtook Wilmington as the state's largest city.",
+      "With a population of 123,744 in 2019, it is the eighth most populous city in the state. Wilmington is the principal city of the Wilmington Metropolitan Statistical Area, a metropolitan area that includes New Hanover and Pender counties in southeastern North Carolina, which has a population of 263,429 as of the 2012 Census Estimate."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Greenville,_South_Carolina",
-    "urlGoogle": "https://artsandculture.google.com/entity/greenville/m0_lr1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Wilmington,_North_Carolina",
+    "urlGoogle": "https://artsandculture.google.com/entity/wilmington/m0yj9v"
   },
   "quote": {
-    "id": "38",
-    "quote": "It's better to hang out with people better than you. Pick out associates whose behavior is better than yours and you'll drift in that direction.",
-    "author": "Warren Buffett"
+    "id": "42",
+    "quote": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin"
   },
   "wiki": {
-    "id": "styracosaurus",
-    "name": "Styracosaurus",
-    "summary": "Styracosaurus was a genus of herbivorous ceratopsian dinosaur from the Cretaceous Period (Campanian stage), about 76.5 to 75.0 million years ago. It had four to six long horns extending from its neck frill, a smaller horn on each of its cheeks, and a single horn protruding from its nose, which may have reached dimensions of around 60 centimeters (2 ft) long and 15 centimeters (6 in) wide. The function or functions of the horns and frills have been the subject of debate for many years. Styracosaurus was a large dinosaur, reaching lengths of 5.5 meters (18 ft) and weighing nearly 3 tons. It stood about 1.8 meters (6 ft) tall. Styracosaurus possessed four short legs and a bulky body. Its tail was rather short. It also had a beak and flat cheek teeth, indicating that its diet was herbivorous. Like other ceratopsians, this dinosaur may have been a herd animal, traveling in large groups, as suggested by bonebeds. Named by Lawrence Lambe in 1913, Styracosaurus is a member of the Centrosaurinae. Two species, S. albertensis and S. ovatus are currently assigned to Styracosaurus. Other species assigned to the genus have since been reassigned elsewhere.",
-    "url": "https://en.wikipedia.org/wiki/Styracosaurus"
+    "id": "cologne-war",
+    "name": "Cologne War",
+    "summary": "The Cologne War (1583–88) devastated the Electorate of Cologne, a historical ecclesiastical principality of the Holy Roman Empire, present-day North Rhine-Westphalia, in Germany. The war occurred within the context of the Protestant Reformation in Germany and the subsequent Counter-Reformation, and concurrently with the Dutch Revolt and the French Wars of Religion. The conflict tested the principle of ecclesiastical reservation, which had been included in the religious Peace of Augsburg (1555). This principle excluded, or \"reserved\", the ecclesiastical territories of the Holy Roman Empire from the application of cuius regio, eius religio, or \"who rules, his religion\", as the primary means to determine the religion of a territory. The conflict coincided with the Dutch Revolt, 1568–1648, encouraging participation of the rebellious Dutch provinces and the Spanish. The Cologne War caused the consolidation of Wittelsbach authority in northwestern German territories and a Catholic revival on the lower Rhine. Importantly, it also set a precedent for outside intervention in German religious and dynastic conflicts.",
+    "url": "https://en.wikipedia.org/wiki/Cologne_War"
   },
   "word": {
-    "id": "sangfroid",
-    "word": "sangfroid",
-    "url": "https://www.merriam-webster.com/dictionary/sangfroid",
-    "partOfSpeech": "noun",
-    "pronunciation": "SAHNG-FRWAH",
-    "audioPath": "audio/words/sangfroid.mp3",
-    "definitions": ["self-possession or imperturbability especially under strain"],
-    "examples": [
-      "The lecturer's _sangfroid_ never faltered, even in the face of some tough questions from the audience.",
-      "\"Daniel Craig portrays a vulnerability far removed from the glib _sangfroid_ of his celluloid predecessors and has retired to an exotic [bolt-hole](https://www.merriam-webster.com/dictionary/bolt-hole) after he is assumed to have died during a botched operation.\" - From a movie review by Des O' Neill in the _Irish Times_, January 2, 2013"
+    "id": "fusty",
+    "word": "fusty",
+    "url": "https://www.merriam-webster.com/dictionary/fusty",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FUSS-tee",
+    "audioPath": "audio/words/fusty.mp3",
+    "definitions": [
+      "saturated with dust and stale odors : musty",
+      "rigidly old-fashioned or reactionary"
     ],
-    "origin": "If you're a lizard, \"cold-blooded\" means your body temperature is strongly influenced by your environment. If you're an English-speaking human, it means you are callous and unfeeling. If you're a French speaker, it means that you're calm, cool, and collected in stressful situations. By the mid-1700s, English speakers had already been using \"cold-blooded\" for more than a century, but they must have liked the more positive spin the French put on having \"cold blood\" because they borrowed the French \"sang-froid\" (literally, \"cold blood\") for someone who is imperturbable under strain. The French term, by the way, developed from the Latin words \"sanguis\" (\"blood\") and \"frigidus\" (\"cold\")."
+    "examples": [
+      "We opened the windows to air out the _fusty_ room.",
+      "\"Unlike so many _fusty_ historical monuments, her statue appears alive, with the writer’s cloak blowing in the wind, a huge raven flying in his path and a trail of pages … spilling from his briefcase.\" - James Sullivan, _Boston Globe_, September 30, 2014"
+    ],
+    "origin": "_Fusty_ probably derives from the Middle English word _foist_, meaning \"wine cask,\" which in turn traces to the Medieval Latin word _fustis_, meaning \"tree trunk\" or \"wood.\" So how did _fusty_ end up meaning \"old-fashioned\"? Originally, it described wine that had gotten stale from sitting in the cask for too long; _fusty_ literally meant that the wine had the \"taste of the cask.\" Eventually any stale food, especially damp or moldy food, was called \"fusty.\" Those damp and moldy connotations were later applied to musty places, and later still to anything that had lost its freshness and interest-that is, to anything old-fashioned."
   }
 }

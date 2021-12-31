@@ -1,133 +1,137 @@
 {
   "artist": {
-    "id": "wu-zhen",
-    "name": "Wu Zhen",
-    "dates": "1280 - 1354",
-    "mainImg": "img/art/artists/wu-zhen.jpg",
+    "id": "jamini-roy",
+    "name": "Jamini Roy",
+    "dates": "Apr 11, 1887 - Apr 24, 1972",
+    "mainImg": "img/art/artists/jamini-roy.jpg",
     "artworkImgs": [
       {
-        "name": "元 吳鎮 老松圖 軸|Crooked Pine",
-        "path": "img/art/artworks/wu-zhen-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/元-吳鎮-老松圖-軸-crooked-pine-wu-zhen/twENEi-dbcy4aQ"
+        "name": "Painting of Dancing Gopi",
+        "path": "img/art/artworks/jamini-roy-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/painting-of-dancing-gopi-jamini-roy/JAGiSKT8AP-0Qg"
       },
       {
-        "name": "Fishermen, after Jing Hao",
-        "path": "img/art/artworks/wu-zhen-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/fishermen-after-jing-hao-artist-wu-zhen/dAH4YDXhYLMCpQ"
+        "name": "Lady in a pink sari",
+        "path": "img/art/artworks/jamini-roy-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/lady-in-a-pink-sari-jamini-roy/OwFpkFWZ00OV6w"
       },
       {
-        "name": "元 吳鎮 高節凌雲圖 軸|Bamboo, old tree, and rock",
-        "path": "img/art/artworks/wu-zhen-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/元-吳鎮-高節凌雲圖-軸-bamboo-old-tree-and-rock-wu-zhen/UwELQehY6ELZLg"
+        "name": "Krishna Jasoda",
+        "path": "img/art/artworks/jamini-roy-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/krishna-jasoda-jamini-roy/9wFL22RFj56Jhg"
       },
       {
-        "name": "Bamboo in the Wind, after Su Shi",
-        "path": "img/art/artworks/wu-zhen-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/bamboo-in-the-wind-after-su-shi-artist-wu-zhen/YAHjj99WGdAe0Q"
+        "name": "Fawn",
+        "path": "img/art/artworks/jamini-roy-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/fawn-jamini-roy/9wEwld3SBJc08w"
       },
       {
-        "name": "Shooting rapids under high cliffs",
-        "path": "img/art/artworks/wu-zhen-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/shooting-rapids-under-high-cliffs-artist-traditionally-attributed-to-wu-zhen/CwHYftosngLJIw"
+        "name": "Cat and Lobster",
+        "path": "img/art/artworks/jamini-roy-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/cat-and-lobster-jamini-roy-1887-1972/5AHEMcxjvGfZhg"
       },
       {
-        "name": "元 吳鎮 蘆灘釣艇圖 卷|Fisherman",
-        "path": "img/art/artworks/wu-zhen-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/元-吳鎮-蘆灘釣艇圖-卷-fisherman-wu-zhen/KAGVfbmVaFsVbg"
+        "name": "Three Pujarins",
+        "path": "img/art/artworks/jamini-roy-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/three-pujarins-jamini-roy-1887-1972/RQHJNdLg7iG92w"
       }
     ],
     "summary": [
-      "Wu Zhen was a Chinese painter born in Jiaxing, Zhejiang Province, during the Yuan dynasty of China, one of the so-called Four Masters of the Yuan Dynasty. He followed the Dong Yuan school of painting. Following along with trends of the time, Wu's works tended less toward naturalism and more toward abstraction, focusing on dynamic balance of elements, and personifying nature. His painting The Central Mountain, dated 1336, is perhaps his greatest work and shows his style very clearly. It is a symmetrical image, with one large mountain in its center and others to each side. The mountains have rounded tops, and in fact all of Wu's lines in this painting are smooth, curved and flowing. The painting is a reinterpretation of traditional landscape paintings as it brings abstract style and brushwork to landscape, primarily to create a work focused on balance."
+      "Jamini Roy was an Indian painter. He was honoured with the State award of Padma Bhushan in 1955. He was one of the most famous pupils of Abanindranath Tagore, whose artistic originality and contribution to the emergence of modern art in India remains unquestionable."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Silk", "Textile"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Wu_Zhen_%28painter%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/wu-zhen/m064zq5"
+    "movements": ["Modern art", "Modernism", "Folk art", "Post-Impressionism"],
+    "mediums": ["Drawing", "Tempera", "Watercolor painting", "Cardboard", "Gouache", "Tin"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jamini_Roy",
+    "urlGoogle": "https://artsandculture.google.com/entity/jamini-roy/m0bbwgy"
   },
   "event": {
-    "id": "1952-republican-national-convention",
-    "name": "1952 Republican National Convention",
-    "dates": "Jul 7, 1952 - Jul 11, 1952",
-    "mainImg": "img/events/1952-republican-national-convention.jpg",
+    "id": "balkan-wars",
+    "name": "Balkan Wars",
+    "dates": "Oct 8, 1912 - Jul 18, 1913",
+    "mainImg": "img/events/balkan-wars.jpg",
     "summary": [
-      "The 1952 Republican National Convention was held at the International Amphitheatre in Chicago, Illinois from July 7 to 11, 1952, and nominated the popular general and war hero Dwight D. Eisenhower of New York, nicknamed \"Ike,\" for president and the anti-communist crusading Senator from California, Richard M. Nixon, for vice president.",
-      "The Republican platform pledged to end the unpopular war in Korea, supported the development of nuclear weapons as a deterrence strategy, to fire all \"the loafers, incompetents and unnecessary employees\" at the State Department, condemned the Roosevelt and Truman administrations' economic policies, supported retention of the Taft–Hartley Act, opposed \"discrimination against race, religion or national origin\", supported \"Federal action toward the elimination of lynching\", and pledged to bring an end to communist subversion in the United States."
+      "The Balkan Wars consisted of two conflicts that took place in the Balkan Peninsula in 1912 and 1913. Four Balkan states defeated the Ottoman Empire in the first war. In the Second Balkan War, Bulgaria fought against all four original combatants of the first war along with facing a surprise attack from Romania from the north. The conflicts ended catastrophically for the Ottoman Empire, which lost the bulk of its territory in Europe. Austria-Hungary, although not a combatant, became relatively weaker as a much enlarged Serbia pushed for union of the South Slavic peoples. The war set the stage for the Balkan crisis of 1914 and thus served as a \"prelude to the First World War\".",
+      "By the early 20th century, Bulgaria, Greece, Montenegro and Serbia had achieved independence from the Ottoman Empire, but large elements of their ethnic populations remained under Ottoman rule. In 1912, these countries formed the Balkan League. The First Balkan War began on 8 October 1912, when the League member states attacked the Ottoman Empire, and ended eight months later with the signing of the Treaty of London on 30 May 1913."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1952_Republican_National_Convention",
-    "urlGoogle": "https://artsandculture.google.com/entity/1952-republican-national-convention/m04k11b"
+    "urlWiki": "https://en.wikipedia.org/wiki/Balkan_Wars",
+    "urlGoogle": "https://artsandculture.google.com/entity/balkan-wars/m01jgp"
   },
   "funFacts": [
     {
-      "id": "411",
-      "fact": "Lifejackets used to be filled with sunflower seeds for flotation.",
-      "category": ["Plants"]
+      "id": "330",
+      "fact": "The top of the Empire State Building was originally built as a place to anchor blimps.",
+      "category": ["History"]
     },
     {
-      "id": "752",
-      "fact": "A group of twelve or more cows is called a flink.",
-      "category": ["Animals", "Definitions"]
+      "id": "263",
+      "fact": "Bowling pins need to tip over a mere 7 1/2 degrees to fall down.",
+      "category": ["Science"]
     }
   ],
   "funFacts2": [
-    { "id": "553700", "fact": "When asked if Abe had any hobbies, Mary Todd Lincoln said, “Cats.”" }
+    {
+      "id": "522190",
+      "fact": "Londoners in the 1600s were advised to keep \"fart jars\"—consisting of trapped fart odors—on hand to combat bubonic plague. The idea was that the potent smell would somehow purify the air."
+    }
   ],
   "idiom": {
-    "id": "tickle-the-ivories",
-    "term": "tickle the ivories",
-    "definition": "Play the piano. This colloquial expression may have its roots in a 16th-century tract by Thomas Nashe, which included \"to tickle a citterne\" (an old stringed instrument). It has been used for the piano since the first half of the 1900s, and continues to be so used, even though more piano keys today are made of plastic than expensive ivory. [Slang, c.1900]"
+    "id": "stark-raving-mad",
+    "term": "stark raving mad",
+    "definition": "Totally crazy, as in *The constant uncertainty over his job is making him stark raving mad.* This term, meaning \"completely wildly insane,\" is used both hyperbolically and literally. Versions of this expression appear to have sprung from the minds of great literary figures. **Stark mad** was first recorded by poet John Skelton in 1489; **stark raving** was first recorded by playwright John Beaumont in 1648; **stark staring mad** was first used by John Dryden in 1693. The current wording, **stark raving mad,** first appeared in Henry Fielding's *The Intriguing Chambermaid* in 1734."
   },
   "person": {
-    "id": "gray-davis",
-    "name": "Gray Davis",
-    "dates": "Born Dec 26, 1942",
-    "mainImg": "img/people/gray-davis.jpg",
+    "id": "kʼinich-janaabʼ-pakal",
+    "name": "Kʼinich Janaabʼ Pakal",
+    "dates": "603 AD - 683 AD",
+    "mainImg": "img/people/kʼinich-janaabʼ-pakal.jpg",
     "summary": [
-      "Joseph Graham \"Gray\" Davis Jr. is a retired American attorney and Democratic Party politician who served as the 37th Governor of California from 1999 to 2003. In 2003, only a few months into his second term, Davis was recalled and removed from office, the second state governor successfully recalled in U.S. history. Prior to serving as governor, Davis was chief of staff to Governor Jerry Brown, a California State Assemblyman, California State Controller and the 44th Lieutenant Governor of California. Davis holds a B.A. in history from Stanford University and a J.D. from Columbia Law School. He was awarded a Bronze Star for his service as a Captain in the Vietnam War.",
-      "During his time as governor, Davis made education his top priority and California spent eight billion dollars more than was required under Proposition 98 during his first term. Under Davis, California standardized test scores increased for five straight years. Davis signed the nation's first state law requiring automakers to limit auto emissions. Davis supported laws to ban assault weapons and is also credited with improving relations between California and Mexico."
-    ],
-    "quote": "“I don't know why they're doing it. I have to assume that their motives are positive, not negative. But they don't understand the severity of the problem in this state.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Gray_Davis",
-    "urlGoogle": "https://artsandculture.google.com/entity/gray-davis/m0p81w"
-  },
-  "place": {
-    "id": "groningen",
-    "name": "Groningen",
-    "mainImg": "img/places/groningen.jpg",
-    "summary": [
-      "Groningen is the main municipality as well as the capital city of the eponymous province in the Netherlands. It is the largest city in the north of the Netherlands and has 231,037 inhabitants on a total area of 180.21 km², and land area of 168.93 km² with a population density of 1,367 per km². It merged with Ten Boer and Haren municipalities in 1 January 2019. The Groningen-Assen metropolitan area has about half a million inhabitants. Groningen is an old city and was the regional power of the north of the Netherlands, a semi-independent city-state and member of the German Hanseatic League. Groningen is a university city, with an estimated 32,700 students at the University of Groningen, and an estimated 28,432 at the Hanze University of Applied Sciences."
+      "Kʼinich Janaab Pakal I, also known as Pacal, Pacal the Great, 8 Ahau and Sun Shield, was ajaw of the Maya city-state of Palenque in the Late Classic period of pre-Columbian Mesoamerican chronology. He acceded to the throne in July 615 and ruled until his death. During a reign of 68 years—the fifth-longest verified regnal period of any sovereign monarch in history, the longest in world history for more than a millennium, and still the second longest in the history of the Americas—Pakal was responsible for the construction or extension of some of Palenque's most notable surviving inscriptions and monumental architecture. Pakal is perhaps best-known in popular culture for his depiction on the carved lid of his sarcophagus, which has become the subject of pseudoarchaeological speculations."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Groningen",
-    "urlGoogle": "https://artsandculture.google.com/entity/groningen/m0d8s8"
+    "urlWiki": "https://en.wikipedia.org/wiki/K%CA%BCinich_Janaab%CA%BC_Pakal",
+    "urlGoogle": "https://artsandculture.google.com/entity/kʼinich-janaabʼ-pakal/m01wbxf"
+  },
+  "place": {
+    "id": "tehran",
+    "name": "Tehran",
+    "mainImg": "img/places/tehran.jpg",
+    "summary": [
+      "Tehran or Teheran is the capital of Iran and Tehran Province. With a population of around 8.7 million in the city and 15 million in the larger metropolitan area of Greater Tehran, Tehran is the most populous city in Iran and Western Asia, and has the third-largest metropolitan area in the Middle East. It is ranked 24th in the world by the population of its metropolitan area.",
+      "In the Classical era, part of the territory of present-day Tehran was occupied by Rhages, a prominent Median city. It was subject to destruction through the medieval Arab, Turkic, and Mongol invasions. Its modern-day inheritor remains as an urban area absorbed into the metropolitan area of Greater Tehran.",
+      "Tehran was first chosen as the capital of Iran by Agha Mohammad Khan of the Qajar dynasty in 1786, in order to remain within close reach of Iran's territories in the Caucasus, before being separated from Iran as a result of the Russo-Iranian Wars, and to avoid the vying factions of the previously ruling Iranian dynasties. The capital has been moved several times throughout history, and Tehran is the 32nd national capital of Persia."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Tehran",
+    "urlGoogle": "https://artsandculture.google.com/entity/tehran/m0ftlx"
   },
   "quote": {
-    "id": "22",
-    "quote": "Happy is the man who can make a living by his hobby.",
-    "author": "George Bernard Shaw"
+    "id": "3",
+    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein"
   },
   "wiki": {
-    "id": "sid-mc-math",
-    "name": "Sid McMath",
-    "summary": "Sid McMath was a U.S. Marine veteran and progressive Democratic reform Governor of the State of Arkansas from 1949–1953. In defiance of his state's political establishment, he championed rapid extension of rural electric power, massive highway and school construction, the building of the University of Arkansas for Medical Sciences, repeal of the poll tax, open and honest elections and broad expansion of opportunity for black citizens in the decade following World War II. He remained loyal to President Harry S. Truman during the \"Dixiecrat\" rebellion of 1948, campaigning throughout the South for Truman's re-election. As a former governor, McMath led the opposition to segregationist Governor Orval Faubus following the 1957 Little Rock school crisis. He later became one of the nation's foremost trial advocates, representing thousands of injured persons in precedent-setting cases and mentoring several generations of young attorneys.",
-    "url": "https://en.wikipedia.org/wiki/Sid_McMath"
+    "id": "tiananmen-square-self-immolation-incident",
+    "name": "Tiananmen Square self-immolation incident",
+    "summary": "The Tiananmen Square self-immolation incident took place in Tiananmen Square in central Beijing on 23 January 2001. The incident is disputed: the official Chinese press agency, Xinhua News Agency, stated that five members of Falun Gong, a banned spiritual movement, set themselves on fire to protest the unfair treatment of Falun Gong by the Chinese government. The Falun Dafa Information Center stated the incident was a hoax staged by the Chinese government to turn public opinion against the group and to justify the torture and imprisonment of its practitioners. The incident received international news coverage, and video footage was broadcast later in the People's Republic of China by China Central Television. A wide variety of opinions and interpretations of what may have happened emerged: the event may have been set up by the government, it may have been an authentic protest, or the self-immolators may have been \"new or unschooled\" practitioners, among others. The campaign of state propaganda that followed the event eroded public sympathy for Falun Gong, and the government began sanctioning \"systematic use of violence\" against the group.",
+    "url": "https://en.wikipedia.org/wiki/Tiananmen_Square_self-immolation_incident"
   },
   "word": {
-    "id": "slaphappy",
-    "word": "slaphappy",
-    "url": "https://www.merriam-webster.com/dictionary/slaphappy",
-    "partOfSpeech": "adjective",
-    "pronunciation": "SLAP-hap-ee",
-    "audioPath": "audio/words/slaphappy.mp3",
+    "id": "propagate",
+    "word": "propagate",
+    "url": "https://www.merriam-webster.com/dictionary/propagate",
+    "partOfSpeech": "verb",
+    "pronunciation": "PRAH-puh-gayt",
+    "audioPath": "audio/words/propagate.mp3",
     "definitions": [
-      "dazed and confused : punch-drunk",
-      "buoyantly or recklessly carefree or foolish : happy-go-lucky"
+      "to reproduce or cause to reproduce biologically : multiply",
+      "to cause to spread : extend",
+      "to foster growing knowledge of, familiarity with, or acceptance of (as an idea or belief) : publicize"
     ],
     "examples": [
-      "The students were all a little _slaphappy_ after pulling an all-nighter to finish their group project by morning.",
-      "\"Leslie Nielsen, the straight-faced comic, was the master of the one-line joke. As the less-than-suave Lt. Frank Drebin or the _slap-happy_ doctor in 'Airplane,' Nielsen used his droll wordplay to become one of the most memorable comics of all time.\" -- From a blog post by Melissa Bell on WashingonPost.com, November 29, 2010"
+      "Noah Webster endeavored to propagate a new system of spelling, with only limited success."
     ],
-    "origin": "\"Slaphappy\" hits a lot of the same spots as \"punch-drunk\": when you suffer a blow to the head, you become confused and silly for a while. The \"dazed and confused\" sense of \"slaphappy\" first appeared in English in 1936, and by the following year it was being used to describe those who behave with such abandon it’s as though they’ve had the common sense knocked out of them. A 1937 article in the _New York Herald Tribune_ called Ernest Hemingway, a writer known to have had an adventurous lifestyle, \"the slaphappy litterateur.\" Often you will see the word spelled with a hyphen (\"slap-happy\"), but the closed compound is more common."
+    "origin": "The origins of \"propagate\" are firmly rooted in the field of horticulture. The word was borrowed into English in the late 16th century from Latin \"propagatus,\" the past participle of the verb \"propagare,\" which means \"to set (onto a plant) a small shoot or twig cut for planting or grafting.\" \"Propagare,\" in turn, derives from \"propages,\" meaning \"layer (of a plant), slip, offspring.\" It makes sense, therefore, that the earliest uses of \"propagate\" referred to facilitating the reproduction of a plant or animal. Nowadays, however, the meaning of \"propagate\" can extend to the \"reproduction\" of something intangible, such as an idea or belief. Incidentally, \"propaganda\" also comes to us from \"propagare,\" although it took a somewhat different route into English."
   }
 }

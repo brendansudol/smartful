@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "lorenzo-bartolini",
+    "name": "Lorenzo Bartolini",
+    "dates": "Jan 7, 1777 - Jan 20, 1850",
+    "mainImg": "img/art/artists/lorenzo-bartolini.jpg",
+    "artworkImgs": [
+      {
+        "name": "CaritÊ educatrice (Charity the Educator)",
+        "path": "img/art/artworks/lorenzo-bartolini-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/caritê-educatrice-charity-the-educator-lorenzo-bartolini/owHglrUBCrVfSA"
+      },
+      {
+        "name": "The Demidoff Table",
+        "path": "img/art/artworks/lorenzo-bartolini-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-demidoff-table-lorenzo-bartolini-prince-anatole-demidov/wgFFicnqsOZxMQ"
+      },
+      {
+        "name": "Sokkel van de Caritas",
+        "path": "img/art/artworks/lorenzo-bartolini-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/sokkel-van-de-caritas-lorenzo-bartolini/pAGciSZ995YjVg"
+      },
+      {
+        "name": "Bust of Elisa Bonaparte Baciocchi",
+        "path": "img/art/artworks/lorenzo-bartolini-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/bust-of-elisa-bonaparte-baciocchi/qwEPwMdFWIENIQ"
+      },
+      {
+        "name": "Portrait of an Unknown Woman",
+        "path": "img/art/artworks/lorenzo-bartolini-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-an-unknown-woman-lorenzo-bartolini/MgFYo2BrFqgr5w"
+      },
+      {
+        "name": "Portrait of the choreographer Salvatore Viganò (1769-1821)",
+        "path": "img/art/artworks/lorenzo-bartolini-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-the-choreographer-salvatore-viganò-1769-1821-lorenzo-bartolini-1777-1851/AQFNoK_vFgE8fQ"
+      }
+    ],
+    "summary": [
+      "Lorenzo Bartolini was an Italian sculptor who infused his neoclassicism with a strain of sentimental piety and naturalistic detail, while he drew inspiration from the sculpture of the Florentine Renaissance rather than the overpowering influence of Antonio Canova that circumscribed his Florentine contemporaries."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism"],
+    "mediums": ["Rock", "Marble", "Graphite", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lorenzo_Bartolini",
+    "urlGoogle": "https://artsandculture.google.com/entity/lorenzo-bartolini/m06tysb"
+  },
+  "event": {
+    "id": "operation-barbarossa",
+    "name": "Operation Barbarossa",
+    "dates": "Jun 22, 1941 - Dec 5, 1941",
+    "mainImg": "img/events/operation-barbarossa.jpg",
+    "summary": [
+      "Operation Barbarossa was the code name for the Axis invasion of the Soviet Union, which started on Sunday, 22 June 1941, during World War II. The operation put into action Nazi Germany's ideological goal of conquering the western Soviet Union so as to repopulate it with Germans. The German Generalplan Ost aimed to use some of the conquered as slave labour for the Axis war effort, to acquire the oil reserves of the Caucasus and the agricultural resources of Soviet territories, and eventually either through extermination, enslavement or mass deportation to Siberia, remove the Slavic peoples and create Lebensraum for Germany.",
+      "In the two years leading up to the invasion, Germany and the Soviet Union signed political and economic pacts for strategic purposes. Nevertheless, the German High Command began planning an invasion of the Soviet Union in July 1940, which Adolf Hitler authorized on 18 December 1940. Over the course of the operation, about three million personnel of the Axis powers—the largest invasion force in the history of warfare—invaded the western Soviet Union along a 2,900-kilometer front, with 600,000 motor vehicles and over 600,000 horses for non-combat operations."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-barbarossa/m05nqz"
+  },
+  "funFacts": [
+    {
+      "id": "950",
+      "fact": "The first spam message was transmitted over telegraph wires in 1864.",
+      "category": ["History", "Firsts"]
+    },
+    {
+      "id": "49",
+      "fact": "Despite its hump, a camel has a straight spine.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [{ "id": "553824", "fact": "Sleeping through summer is called estivation." }],
+  "idiom": {
+    "id": "the-whole-nine-yards",
+    "term": "the whole nine yards",
+    "definition": "Everything that is relevant; the whole thing. For example, *He decided to take everything to college---his books, his stereo, his computer, his skis, the whole nine yards.* The source of this expression is not known, but there are several possibilities: the amount of cloth required to make a complete suit of clothes; the fully set sails of a three-masted ship where each mast carries three yards, that is, spars, to support the sails; or the amount of cement (in cubic yards) contained in a cement mixer for a big construction job. [Colloquial]"
+  },
+  "person": {
+    "id": "henry-laurens",
+    "name": "Henry Laurens",
+    "dates": "Mar 6, 1724 - Dec 8, 1792",
+    "mainImg": "img/people/henry-laurens.jpg",
+    "summary": [
+      "Henry Laurens was an American merchant, slave trader, and rice planter from South Carolina who became a political leader during the Revolutionary War. A delegate to the Second Continental Congress, Laurens succeeded John Hancock as President of the Congress. He was a signatory to the Articles of Confederation and President of the Continental Congress when the Articles were passed on November 15, 1777.",
+      "Laurens had earned great wealth as a partner in the largest slave-trading house in North America, Austin and Laurens. In the 1750s alone, this Charleston firm oversaw the sale of more than 8,000 enslaved Africans.",
+      "Laurens served for a time as Vice-President of South Carolina, and as the United States Minister to the Netherlands during the Revolutionary War. He was captured at sea by the British, and imprisoned for several years in the Tower of London.",
+      "His oldest son, John Laurens, was an aide-de-camp to George Washington and a colonel in the Continental Army."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Laurens",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-laurens/m03q2v"
+  },
+  "place": {
+    "id": "assisi",
+    "name": "Assisi",
+    "mainImg": "img/places/assisi.jpg",
+    "summary": [
+      "Assisi is a town and comune of Italy in the Province of Perugia in the Umbria region, on the western flank of Monte Subasio.",
+      "It is generally regarded as the birthplace of the Latin poet Propertius, born around 50–45 BC. It is the birthplace of St. Francis, who founded the Franciscan religious order in the town in 1208, and St. Clare, the founder of the Poor Sisters, which later became the Order of Poor Clares after her death. The 19th-century Saint Gabriel of Our Lady of Sorrows was also born in Assisi."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Assisi",
+    "urlGoogle": "https://artsandculture.google.com/entity/assisi/m0l0gl"
+  },
+  "quote": {
+    "id": "85",
+    "quote": "Reality is created by the mind; we can change our reality by changing our mind.",
+    "author": "Plato"
+  },
+  "wiki": {
+    "id": "read-my-lips-no-new-taxes",
+    "name": "Read my lips: no new taxes",
+    "summary": "\"Read my lips: no new taxes\" was a famous phrase spoken by American Republican presidential candidate George H. W. Bush at the 1988 Republican National Convention in his acceptance speech on August 18. Written by speechwriter Peggy Noonan, the line was one of the most prominent soundbites from the speech. The impact of the pledge was considerable, and many believe it helped Bush win the 1988 United States presidential election. Once elected, however, Bush agreed to raise several taxes as part of a 1990 budget agreement. This has been attributed to a declining economy, ballooning budget deficits, and the need to compromise with the Democrat-controlled Congress. This reversal caused great controversy, especially in the more conservative wing of the Republican Party. In the 1992 presidential election campaign, Pat Buchanan made extensive use of the phrase in his surprisingly strong challenge to Bush in the Republican primaries. In the election itself, Bill Clinton also pointed to the quote as evidence of Bush's untrustworthiness, contributing to Bush losing his bid for reelection.",
+    "url": "https://en.wikipedia.org/wiki/Read_my_lips:_no_new_taxes"
+  },
+  "word": {
+    "id": "plumply",
+    "word": "plumply",
+    "url": "https://www.merriam-webster.com/dictionary/plumply",
+    "partOfSpeech": "adverb",
+    "pronunciation": "PLUMP-lee",
+    "audioPath": "audio/words/plumply.mp3",
+    "definitions": [
+      "in a wholehearted manner and without hesitation or circumlocution : forthrightly"
+    ],
+    "examples": [
+      "Having taken offense at the remark, Sir Jeffrey plumply asked the man if his insult was intentional."
+    ],
+    "origin": "In the 14th century, the word \"plump\" was used for a sound like that of something dropping into water (as we use \"plop\" today). Middle English speakers turned the \"plump\" sound into a verb meaning \"to drop.\" The verb spawned a noun meaning \"a sudden drop or fall,\" which in turn generated an adverb \"plump\" meaning \"directly, without qualification.\" English novelist Fanny Burney (1752-1840) used the adverbial \"plump\" in one of her letters when she wrote of \"coming plump against the question.\" But she didn’t stop there. The adverb \"plump\" gave rise to \"plumply,\" and Fanny Burney was one of the first to use the new form, this time in her diary: \"The offer was plumply accepted.\""
+  }
+}

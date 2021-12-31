@@ -1,128 +1,124 @@
 {
   "artist": {
-    "id": "walt-disney",
-    "name": "Walt Disney",
-    "dates": "Dec 5, 1901 - Dec 15, 1966",
-    "mainImg": "img/art/artists/walt-disney.jpg",
+    "id": "aleksei-kruchenykh",
+    "name": "Aleksei Kruchenykh",
+    "dates": "Feb 9, 1886 - Jun 17, 1968",
+    "mainImg": "img/art/artists/aleksei-kruchenykh.jpg",
     "artworkImgs": [
       {
-        "name": "still bank: Darkwing Duck Still Bank",
-        "path": "img/art/artworks/walt-disney-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/still-bank-darkwing-duck-still-bank-disney/ywFa2zKcG1TQOA"
+        "name": "A.Kruchenykh. The Lipstick. Palms by M.Illarionov. Moscow, 1913",
+        "path": "img/art/artworks/aleksei-kruchenykh-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-kruchenykh-the-lipstick-palms-by-m-illarionov-moscow-1913-michail-larionov-alexey-kruchenykh/hwFMxjHXWLAX9Q"
       },
       {
-        "name": "A still from Fantasia",
-        "path": "img/art/artworks/walt-disney-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/a-still-from-fantasia-walt-disyen/1wGUI5IQdvZ71A"
+        "name": "A.Kruchenykh. The Lipstick. Woman Acrobat by M.Illarionov. Moscow, 1913",
+        "path": "img/art/artworks/aleksei-kruchenykh-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-kruchenykh-the-lipstick-woman-acrobat-by-m-illarionov-moscow-1913-michail-larionov-alexey-kruchenykh/OQH9shgTkH_K0Q"
       },
       {
-        "name": "Order of Fifinella Colored Insignia",
-        "path": "img/art/artworks/walt-disney-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/order-of-fifinella-colored-insignia-walt-disney/uAEFcs3_SZkUkg"
+        "name": "A.Kruchenykh. The Lipstick. Orgiastic Scene. Moscow, 1913",
+        "path": "img/art/artworks/aleksei-kruchenykh-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-kruchenykh-the-lipstick-orgiastic-scene-moscow-1913-a-kruchenykh/SAFc8HWCYucVOA"
       },
       {
-        "name": "Poster:101 Dalmatians | One Hundred and One Dalmatians",
-        "path": "img/art/artworks/walt-disney-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/poster-101-dalmatians-one-hundred-and-one-dalmatians-walt-disney/FgG_da-Q_PMr2w"
+        "name": "A.Kruchenykh. ''The Lipstick''. Cover by M.Illarionov. Moscow, 1913.",
+        "path": "img/art/artworks/aleksei-kruchenykh-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/a-kruchenykh-the-lipstick-cover-by-m-illarionov-moscow-1913-michail-larionov-alexey-kruchenykh/bAEkSRG_uoKn1A"
       },
       {
-        "name": "Color Still from Snow White",
-        "path": "img/art/artworks/walt-disney-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/color-still-from-snow-white-disney/rgEtn7YmU7t_eQ"
+        "name": "A.Kruchenykh. The Lipstick. Palms by M.Illarionov. Moscow, 1913",
+        "path": "img/art/artworks/aleksei-kruchenykh-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-kruchenykh-the-lipstick-palms-by-m-illarionov-moscow-1913-michail-larionov-alexey-kruchenykh/1gExwgDnQLUgIA"
       },
       {
-        "name": "figurine: Mickey Mouse",
-        "path": "img/art/artworks/walt-disney-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/figurine-mickey-mouse-disney/wQFjUz4q9mfgRw"
+        "name": "A.Kruchenykh. The Lipstick. Fragment. Moscow, 1913",
+        "path": "img/art/artworks/aleksei-kruchenykh-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-kruchenykh-the-lipstick-fragment-moscow-1913-michail-larionov-alexey-kruchenykh/9AHRmBQlF9rJjQ"
       }
     ],
     "summary": [
-      "Walter Elias Disney was an American entrepreneur, animator, writer, voice actor and film producer. A pioneer of the American animation industry, he introduced several developments in the production of cartoons. As a film producer, Disney holds the record for most Academy Awards earned by an individual, having won 22 Oscars from 59 nominations. He was presented with two Golden Globe Special Achievement Awards and an Emmy Award, among other honors. Several of his films are included in the National Film Registry by the Library of Congress.",
-      "Born in Chicago in 1901, Disney developed an early interest in drawing. He took art classes as a boy and got a job as a commercial illustrator at the age of 18. He moved to California in the early 1920s and set up the Disney Brothers Studio with his brother Roy. With Ub Iwerks, Walt developed the character Mickey Mouse in 1928, his first highly popular success; he also provided the voice for his creation in the early years. As the studio grew, Disney became more adventurous, introducing synchronized sound, full-color three-strip Technicolor, feature-length cartoons and technical developments in cameras."
-    ],
-    "quote": "“Mickey Mouse is, to me, a symbol of independence. He was a means to an end.”",
-    "movements": [],
-    "mediums": ["Plastic"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Walt_Disney",
-    "urlGoogle": "https://artsandculture.google.com/entity/walt-disney/m081nh"
-  },
-  "event": {
-    "id": "siege-of-bergen-op-zoom",
-    "name": "Siege of Bergen op Zoom",
-    "dates": null,
-    "mainImg": "img/events/siege-of-bergen-op-zoom.jpg",
-    "summary": [
-      "The Siege of Bergen op Zoom took place during the Austrian War of Succession, when a French army, under the command of Lowendal and the overall direction of Marshal Maurice de Saxe, laid siege and captured the strategic Dutch border fortress of Bergen op Zoom on the border of Brabant and Zeeland in 1747. The fortress was defended by Dutch, Austrians, British, Hanoverians and Hessians that supported the Pragmatic Sanction.",
-      "After seven years of brutal war, both sides in this conflict were suffering from weariness of the war. Although tentative peace initiatives had been put forward, neither side was yet willing to make meaningful concessions. The capture of Bergen op Zoom would be a signal defeat for the Dutch and would open the door for an invasion of the Dutch Netherlands. The siege was the center of attention in Europe and news of it followed eagerly in numerous reports with the Pragmatic allies confident that the fortress would withstand the French and the French determined it should fall."
+      "Aleksei Yeliseyevich Kruchyonykh, a well-known poet of the Russian \"Silver Age\", was perhaps the most radical poet of Russian Futurism, a movement that included Vladimir Mayakovsky, David Burliuk and others. Together with Velimir Khlebnikov, Kruchenykh is considered the inventor of zaum. Kruchyonykh wrote the libretto for the Futurist opera Victory Over the Sun, with sets provided by Kazimir Malevich. He married Olga Rozanova, an avant-garde artist, in 1912; four years later, in 1916, he created his most famous book, Universal War.",
+      "He is also known for his Declaration of the Word as Such: \"The worn-out, violated word \"lily\" is devoid of all expression. Therefore I call the lily éuy – and original purity is restored.\"",
+      "The Russian punk band Grazhdanskaya Oborona have a reggae-styled song called \"Posveshtenie A. Kruchyonykh\" on their 1990 concept album Instruktsiya po vyzhivaniyu."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Bergen_op_Zoom_%281747%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-bergen-op-zoom/m05f64tj"
+    "movements": ["Cubism"],
+    "mediums": ["Etching", "Natural rubber", "Resin", "Book"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Aleksei_Kruchyonykh",
+    "urlGoogle": "https://artsandculture.google.com/entity/aleksei-kruchenykh/m03pndb"
+  },
+  "event": {
+    "id": "indo-pakistani-war-of-1965",
+    "name": "Indo-Pakistani War of 1965",
+    "dates": "April 1965 - Sep 23, 1965",
+    "mainImg": "img/events/indo-pakistani-war-of-1965.jpg",
+    "summary": [
+      "The Indo-Pakistani War of 1965 was a culmination of skirmishes that took place between April 1965 and September 1965 between Pakistan and India. The conflict began following Pakistan's Operation Gibraltar, which was designed to infiltrate forces into Jammu and Kashmir to precipitate an insurgency against Indian rule. India retaliated by launching a full-scale military attack on West Pakistan. The seventeen-day war caused thousands of casualties on both sides and witnessed the largest engagement of armored vehicles and the largest tank battle since World War II. Hostilities between the two countries ended after a United Nations-mandated ceasefire was declared following diplomatic intervention by the Soviet Union and the United States, and the subsequent issuance of the Tashkent Declaration. Much of the war was fought by the countries' land forces in Kashmir and along the border between India and Pakistan. This war saw the largest amassing of troops in Kashmir since the Partition of India in 1947, a number that was overshadowed only during the 2001–2002 military standoff between India and Pakistan."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1965",
+    "urlGoogle": "https://artsandculture.google.com/entity/indo-pakistani-war-of-1965/m02wgzy"
   },
   "funFacts": [
     {
-      "id": "448",
-      "fact": "The sun evaporates about a trillion tons of water a day.",
-      "category": ["Science"]
+      "id": "441",
+      "fact": "Jousting is the official sport of Maryland",
+      "category": ["Geography"]
     },
-    { "id": "229", "fact": "The Caspian Sea is actually a lake.", "category": ["Geography"] }
-  ],
-  "funFacts2": [
     {
-      "id": "504713",
-      "fact": "The medical term for ice cream headaches is sphenopalatine ganglioneuralgia."
+      "id": "971",
+      "fact": "Charlie Chaplin failed to make the finals of a Charlie Chaplin look-alike contest.",
+      "category": ["History"]
     }
   ],
-  "idiom": {
-    "id": "cool-as-a-cucumber",
-    "term": "cool as a cucumber",
-    "definition": "Calm and composed, self-possessed, as in *Despite the mishap Margaret was cool as a cucumber.* This idiom may be based on the fact that in hot weather the inside of cucumbers remains cooler than the air. [c. 1600]"
-  },
+  "funFacts2": [{ "id": "554095", "fact": "J.K. Rowling invented Quidditch in a pub." }],
   "person": {
-    "id": "karel-englis",
-    "name": "Karel Engliš",
-    "dates": "Aug 17, 1880 - Jun 15, 1961",
-    "mainImg": "img/people/karel-englis.jpg",
+    "id": "joan-of-arc",
+    "name": "Joan of Arc",
+    "dates": "Died May 30, 1431",
+    "mainImg": "img/people/joan-of-arc.jpg",
     "summary": [
-      "Karel Engliš war ein tschechischer Ökonom, Politikwissenschaftler und Begründer der teleologischen Wirtschaftstheorie.",
-      "Engliš war der erste Rektor der Masaryk-Universität Brünn und von 1947 bis 1948 Rektor der Karls-Universität in Prag. Gemeinsam mit Alois Rašín war er als Finanzminister maßgeblich an der tschechoslowakischen Währungsreform nach dem Ersten Weltkrieg beteiligt. Von 1934 bis 1938 war er Gouverneur der Tschechoslowakischen Nationalbank."
+      "Joan of Arc, nicknamed \"The Maid of Orléans\", is considered a heroine of France for her role during the Lancastrian phase of the Hundred Years' War, and was canonized as a Roman Catholic saint. She was born to Jacques d'Arc and Isabelle Romée, a peasant family, at Domrémy in northeast France. Joan claimed to have received visions of the archangel Michael, Saint Margaret, and Saint Catherine of Alexandria instructing her to support Charles VII and recover France from English domination late in the Hundred Years' War. The unanointed King Charles VII sent Joan to the Siege of Orléans as part of a relief army. She gained prominence after the siege was lifted only nine days later. Several additional swift victories led to Charles VII's consecration at Reims. This long-awaited event boosted French morale and paved the way for the final French victory.",
+      "On 23 May 1430, she was captured at Compiègne by the Burgundian faction, a group of French nobles allied with the English. She was later handed over to the English and put on trial by the pro-English bishop Pierre Cauchon on a variety of charges."
     ],
-    "quote": null,
-    "urlWiki": "https://de.wikipedia.org/wiki/Karel_Engli%C5%A1",
-    "urlGoogle": "https://artsandculture.google.com/entity/karel-engliš/m0c47x5k"
+    "quote": "“If I am not, may God put me there; and if I am, may God so keep me.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+    "urlGoogle": "https://artsandculture.google.com/entity/joan-of-arc/m046mm"
   },
   "place": {
-    "id": "jakarta",
-    "name": "Jakarta",
-    "mainImg": "img/places/jakarta.jpg",
+    "id": "u-s-virgin-islands",
+    "name": "U.S. Virgin Islands",
+    "mainImg": "img/places/u-s-virgin-islands.jpg",
     "summary": [
-      "Jakarta, officially the Special Capital Region of Jakarta, is the capital and a province of Indonesia. Situated on the northwest coast of the world's most populous island of Java, it is the centre of economy, culture and politics of Indonesia with a population of more than ten million as of 2014. Although Jakarta only covers 699.5 square kilometres, the smallest among any Indonesian provinces, its metropolitan area covers 6,392 square kilometres; it is the world's second-most populous urban area after Tokyo, with a population of about 30 million as of 2010. Jakarta's business opportunities, as well as its potential to offer a higher standard of living, have attracted migrants from across the Indonesian archipelago, making it a melting pot of numerous cultures. Jakarta is nicknamed the \"Big Durian\", the thorny strongly-odored fruit native to the region, as the city is seen as the Indonesian equivalent of New York.",
-      "Established in the fourth century as Sunda Kelapa, the city became an important trading port for the Sunda Kingdom. It was the de facto capital of the Dutch East Indies when it was known as Batavia."
+      "The United States Virgin Islands, officially the Virgin Islands of the United States, are a group of Caribbean islands and an unincorporated and organized territory of the United States. The islands are geographically part of the Virgin Islands archipelago and are located in the Leeward Islands of the Lesser Antilles to the east of Puerto Rico and west of the British Virgin Islands.",
+      "The U.S. Virgin Islands consists of the main islands of Saint Croix, Saint John, and Saint Thomas, and many other surrounding minor islands. The total land area of the territory is 133.73 square miles. The territory's capital is Charlotte Amalie on the island of St. Thomas.",
+      "Previously known as the Danish West Indies of the Kingdom of Denmark–Norway and the independent Kingdom of Denmark, they were sold to the United States by Denmark in the 1917 Treaty of the Danish West Indies. They are classified by the United Nations as a Non-Self-Governing Territory, and are currently an organized, unincorporated United States territory. The U.S. Virgin Islands are organized under the 1954 Revised Organic Act of the Virgin Islands and have since held five constitutional conventions."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Jakarta",
-    "urlGoogle": "https://artsandculture.google.com/entity/jakarta/m044rv"
+    "urlWiki": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
+    "urlGoogle": "https://artsandculture.google.com/entity/u-s-virgin-islands/m07ww5"
   },
   "wiki": {
-    "id": "river-parrett",
-    "name": "River Parrett",
-    "summary": "The River Parrett flows through the counties of Dorset and Somerset in South West England, from its source in the Thorney Mills springs in the hills around Chedington in Dorset. Flowing northwest through Somerset and the Somerset Levels to its mouth at Burnham-on-Sea, into the Bridgwater Bay Nature Reserve on the Bristol Channel, the Parrett drains about 50 per cent of Somerset's land area. The 37-mile (60 km) long river is tidal for 27 miles (43 km) up to Oath. Because the fall of the river between Langport and Bridgwater is only 1 foot per mile (0.2 m/km), it is prone to frequent flooding in winter and during high tides. During the Roman era the river was crossed by a ford, and in Anglo-Saxon times formed a boundary between Wessex and Dumnonia. From the medieval period the river served the Port of Bridgwater, enabling cargoes to be transported inland. The arrival of the railways led to a decline and commercial shipping now only docks at Dunball. The Parrett along with its connected waterways and network of drains supports an ecosystem that includes several rare species of flora and fauna. The River Parrett Trail has been established along the banks of the river.",
-    "url": "https://en.wikipedia.org/wiki/River_Parrett"
+    "id": "charles-holden",
+    "name": "Charles Holden",
+    "summary": "Charles Holden (1875–1960) was an English architect best known for designing many London Underground stations during the 1920s and 1930s, for Bristol Central Library, the Underground Electric Railways Company of London's headquarters at 55 Broadway and for the University of London's Senate House. He also created many war cemeteries in Belgium and northern France for the Imperial War Graves Commission. Although not without its critics, his architecture is widely appreciated. He was awarded the Royal Institute of British Architects' Royal Gold Medal for architecture in 1936 and was appointed a Royal Designer for Industry in 1943. His station designs for London Underground became the corporation's standard design influencing designs by all architects working for the organisation in the 1930s. Many of his buildings have been granted listed building status, protecting them from unapproved alteration. Modestly believing that architecture was a collaborative effort, he twice declined the offer of a knighthood.",
+    "url": "https://en.wikipedia.org/wiki/Charles_Holden"
   },
   "word": {
-    "id": "synecdoche",
-    "word": "synecdoche",
-    "url": "https://www.merriam-webster.com/dictionary/synecdoche",
+    "id": "cynosure",
+    "word": "cynosure",
+    "url": "https://www.merriam-webster.com/dictionary/cynosure",
     "partOfSpeech": "noun",
-    "pronunciation": "suh-NEK-duh-kee",
-    "audioPath": "audio/words/synecdoche.mp3",
+    "pronunciation": "SYE-nuh-shur",
+    "audioPath": "audio/words/cynosure.mp3",
     "definitions": [
-      "a figure of speech by which a less encompassing term is put for a more encompassing term or vice versa"
+      "the northern constellation Ursa Minor; also : North Star",
+      "one that serves to direct or guide",
+      "a center of attraction or attention"
     ],
     "examples": [
-      "Shakespeare's Macbeth employs _synecdoche_ when he orders a servant out of his presence with the command \"Take thy face hence.\"",
-      "\"At times, Dos Passos suggests that New York City is a _synecdoche_ for a larger, unrepresentable global society, which effectively transgresses any clear boundary between domestic and foreign policies….\" -- From John Carlos Rowe's 2011 book _Afterlives of Modernism_"
+      "The young actress's natural beauty and graceful charm made her a cynosure wherever she went."
     ],
-    "origin": "\"Synecdoche,\" from Greek \"syn-\" (\"together\") and \"ekdochē\" (\"interpretation\"), is a good word to know if you are a budding author. Writers, and especially poets, use synecdoche in several different ways to create vivid imagery. Most frequently, synecdoche involves substituting a part for the whole (\"fifty sail\" for \"fifty ships\"). Less commonly, it involves putting the whole for the part (\"society\" for \"high society\"), the species for the genus (\"cutthroat\" for \"assassin\"), the genus for the species (\"a creature\" for \"a man\"), or the material for the thing made (\"boards\" for \"stage\"). Synecdoche is similar to metonymy, the use of the name of one thing in place of something associated with it (such as \"Shakespeare\" for \"the works of Shakespeare\")."
+    "origin": "Ancient mariners noted that all the stars in the heavens seem to revolve around a particular star, and they relied on it to guide their navigation. The constellation that this bright star appears in is known to English speakers today as Ursa Minor, or the Little Dipper, but the Ancient Greeks called it Kynosoura, a term that comes from a phrase meaning \"dog's tail.\" \"Kynosoura\" passed into Latin and Middle French, becoming \"cynosure.\" When English speakers adopted the term in the mid-16th century, they used it as a name for the constellation and the star (which is also known as the North Star) and also to identify a guide of any kind. By the early 17th century, \"cynosure\" was also being used figuratively for anything or anyone that, like the North Star, was the focus of attention or observation."
   }
 }

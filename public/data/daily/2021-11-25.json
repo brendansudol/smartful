@@ -1,0 +1,129 @@
+{
+  "artist": {
+    "id": "moritz-von-schwind",
+    "name": "Moritz von Schwind",
+    "dates": "Jan 21, 1804 - Feb 8, 1871",
+    "mainImg": "img/art/artists/moritz-von-schwind.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Rose, or the Artist's Journey",
+        "path": "img/art/artworks/moritz-von-schwind-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-rose-or-the-artist-s-journey-moritz-von-schwind/FgFA924vaV3UrA"
+      },
+      {
+        "name": "Farewell at Dawn",
+        "path": "img/art/artworks/moritz-von-schwind-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/farewell-at-dawn-moritz-von-schwind/EQH6eN3pBxxPNA"
+      },
+      {
+        "name": "The Hunter's Funeral Procession",
+        "path": "img/art/artworks/moritz-von-schwind-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-hunter-s-funeral-procession-moritz-von-schwind/6AFgILX2ZuhEkg"
+      },
+      {
+        "name": "The Consecration of Freiburg Minster",
+        "path": "img/art/artworks/moritz-von-schwind-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-consecration-of-freiburg-minster-moritz-von-schwind/DgH_EKLOWZahQQ"
+      },
+      {
+        "name": "The soprano Karoline Hetzenecker in the role of Sesto in La Clemenza di Tito by W.A. Mozart",
+        "path": "img/art/artworks/moritz-von-schwind-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-soprano-karoline-hetzenecker-in-the-role-of-sesto-in-la-clemenza-di-tito-by-w-a-mozart-moritz-von-schwind/ywHomk_bO_EvBw"
+      },
+      {
+        "name": "Cinderella, waying to the ball",
+        "path": "img/art/artworks/moritz-von-schwind-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cinderella-waying-to-the-ball-moritz-von-schwind/3AFzkTDElCK7Fg"
+      }
+    ],
+    "summary": [
+      "Moritz von Schwind was an Austrian painter, born in Vienna. Schwind's genius was lyrical—he drew inspiration from chivalry, folklore, and the songs of the people. Schwind died in Pöcking in Bavaria, and was buried in the Alter Südfriedhof in Munich."
+    ],
+    "quote": null,
+    "movements": ["Romanticism", "Academic art"],
+    "mediums": ["Ink", "Pen", "Drawing", "Etching", "Watercolor painting", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Moritz_von_Schwind",
+    "urlGoogle": "https://artsandculture.google.com/entity/moritz-von-schwind/m04p75_"
+  },
+  "event": {
+    "id": "gulf-war",
+    "name": "Gulf War",
+    "dates": "Aug 2, 1990 - Feb 28, 1991",
+    "mainImg": "img/events/gulf-war.jpg",
+    "summary": [
+      "The Gulf War, codenamed Operation Desert Shield for operations leading to the buildup of troops and defense of Saudi Arabia and Operation Desert Storm in its combat phase, was a war waged by coalition forces from 35 nations led by the United States against Iraq in response to Iraq's invasion and annexation of Kuwait arising from oil pricing and production disputes.",
+      "On 2 August 1990, the Iraqi Army invaded and occupied Kuwait, which was met with international condemnation and brought immediate economic sanctions against Iraq by members of the UN Security Council. Together with the UK prime minister Margaret Thatcher, American President George H. W. Bush deployed US forces into Saudi Arabia, and urged other countries to send their own forces to the scene. An array of nations joined the coalition, forming the largest military alliance since World War II. The great majority of the coalition's military forces were from the US, with Saudi Arabia, the United Kingdom and Egypt as leading contributors, in that order. Kuwait and Saudi Arabia paid around US$32 billion of the US$60 billion cost."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gulf_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/gulf-war/m018w0j"
+  },
+  "funFacts": [
+    {
+      "id": "222",
+      "fact": "Twinkle Twinkle Little Star was composed by Mozart when he was five years old.",
+      "category": ["History"]
+    },
+    {
+      "id": "1012",
+      "fact": "The King of Hearts is the only king without a mustache.",
+      "category": ["Hodgepodge", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504560",
+      "fact": "A cat’s ability to see well at night is due to its tapetum lucidum, a structure that reflects visible light back through the cat’s retina. It’s also what causes the eyes' weird ‘glowing’ effect in the dark."
+    }
+  ],
+  "person": {
+    "id": "a-philip-randolph",
+    "name": "A. Philip Randolph",
+    "dates": "Apr 15, 1889 - May 16, 1979",
+    "mainImg": "img/people/a-philip-randolph.jpg",
+    "summary": [
+      "Asa Philip Randolph was an American labor unionist, civil rights activist, and socialist politician.",
+      "In 1925, he organized and led the Brotherhood of Sleeping Car Porters, the first predominantly African-American labor union. In the early Civil Rights Movement and the Labor Movement, Randolph was a voice that would not be silenced. His continuous agitation with the support of fellow labor rights activists against unfair labor practices in relation to people of color eventually led President Franklin D. Roosevelt to issue Executive Order 8802 in 1941, banning discrimination in the defense industries during World War II. The group then successfully pressured President Harry S. Truman to issue Executive Order 9981 in 1948, ending segregation in the armed services.",
+      "In 1963, Randolph was the head of the March on Washington, which was organized by Bayard Rustin, at which Reverend Martin Luther King, Jr. delivered his \"I Have A Dream\" speech."
+    ],
+    "quote": "“Freedom is never given; it is won.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/A._Philip_Randolph",
+    "urlGoogle": "https://artsandculture.google.com/entity/a-philip-randolph/m01lsst"
+  },
+  "place": {
+    "id": "aleppo",
+    "name": "Aleppo",
+    "mainImg": "img/places/aleppo.jpg",
+    "summary": [
+      "Aleppo is a city in Syria, which serves as the capital of the Aleppo Governorate, the most populous Syrian governorate. With an official population of 4.6 million in 2010, Aleppo was the largest Syrian city before the Syrian Civil War; however, it is now the second-largest city in Syria, after the capital Damascus.",
+      "Aleppo is one of the oldest continuously inhabited cities in the world; it may have been inhabited since the 6th millennium BC. Excavations at Tell as-Sawda and Tell al-Ansari, just south of the old city of Aleppo, show that the area was occupied by Amorites by the latter part of the 3rd millennium BC. That is also the time at which Aleppo is first mentioned in cuneiform tablets unearthed in Ebla and Mesopotamia, which speak of it as part of the Amorite state of Yamhad, and note its commercial and military proficiency. Such a long history is attributed to its strategic location as a trading center midway between the Mediterranean Sea and Mesopotamia.",
+      "For centuries, Aleppo was the largest city in the Syrian region, and the Ottoman Empire's third-largest after Constantinople and Cairo."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Aleppo",
+    "urlGoogle": "https://artsandculture.google.com/entity/aleppo/m01505k"
+  },
+  "wiki": {
+    "id": "the-autobiography-of-malcolm-x",
+    "name": "The Autobiography of Malcolm X",
+    "summary": "The Autobiography of Malcolm X (1965) was the result of a collaboration between the African-American Muslim minister and human rights activist Malcolm X and the journalist Alex Haley. Haley based it on a series of interviews between 1963 and Malcolm X's assassination on February 21, 1965. It is a spiritual conversion narrative outlining Malcolm X's philosophy of black pride, black nationalism, and pan-Africanism. While Malcolm X and scholars contemporary to the book's publication regarded Haley as the book's ghostwriter, modern scholars regard him as an essential collaborator who subsumed his authorial voice to allow readers to feel as though Malcolm X were speaking directly to them. Haley also influenced some of Malcolm X's literary choices and Haley's proactive censorship of antisemitic material significantly influenced the ideological tone of the Autobiography, increasing its popularity although distorting Malcolm X's public persona. A New York Times reviewer described it as a \"brilliant, painful, important book\" and Time named it in 1998 as one of ten \"required reading\" nonfiction books. A screenplay adaptation provided the source material for Spike Lee's 1992 film Malcolm X.",
+    "url": "https://en.wikipedia.org/wiki/The_Autobiography_of_Malcolm_X"
+  },
+  "word": {
+    "id": "abdicate",
+    "word": "abdicate",
+    "url": "https://www.merriam-webster.com/dictionary/abdicate",
+    "partOfSpeech": "verb",
+    "pronunciation": "AB-dih-kayt",
+    "audioPath": "audio/words/abdicate.mp3",
+    "definitions": [
+      "to cast off : discard",
+      "to relinquish (as sovereign power) formally",
+      "to renounce a throne, high office, dignity, or function"
+    ],
+    "examples": [
+      "The school board has been accused of abdicating its responsibilities by failing to provide sufficient oversight of the city's schools."
+    ],
+    "origin": "Give it up. English includes many words for the process of throwing in the towel, especially for relinquishing a job or elected office. \"Abdicate,\" a derivative of the prefix \"ab-\" (meaning \"from,\" \"away,\" or \"off\") and the Latin verb \"dicare\" (meaning to \"proclaim\"), has been used primarily for those who give up sovereign power or who evade a very serious responsibility (such as parental responsibility). \"Renounce\" is often used as a synonym of \"abdicate,\" but it adds to that term the suggestion that an individual is giving up something as a sacrifice to achieve a far greater end. \"Resign\" is another option when you are describing a more matter-of-fact departure from a job, office, or trust."
+  }
+}

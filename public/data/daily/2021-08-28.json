@@ -1,128 +1,133 @@
 {
   "artist": {
-    "id": "alberto-burri",
-    "name": "Alberto Burri",
-    "dates": "Mar 12, 1915 - Feb 13, 1995",
-    "mainImg": "img/art/artists/alberto-burri.jpg",
+    "id": "gerhard-richter",
+    "name": "Gerhard Richter",
+    "dates": "Born Feb 9, 1932",
+    "mainImg": "img/art/artists/gerhard-richter.jpg",
     "artworkImgs": [
       {
-        "name": "Cretto G 1",
-        "path": "img/art/artworks/alberto-burri-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/cretto-g-1-alberto-burri/BgH2ncS1Nta3Mg"
+        "name": "9 Objekte",
+        "path": "img/art/artworks/gerhard-richter-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/9-objekte-richter-gerhard/LAEuG5PcT6qwZQ"
       },
       {
-        "name": "Grande sacco",
-        "path": "img/art/artworks/alberto-burri-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/grande-sacco-alberto-burri/sQEAiV1ygi8nEg"
+        "name": "Abstract Painting (849-2)",
+        "path": "img/art/artworks/gerhard-richter-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/abstract-painting-849-2-gerhard-richter/GQERbT3RiYdaWg"
       },
       {
-        "name": "Grande legno G 59",
-        "path": "img/art/artworks/alberto-burri-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/grande-legno-g-59-alberto-burri/BgGlb7-Ng0TZfg"
+        "name": "Seascape (Seestück)",
+        "path": "img/art/artworks/gerhard-richter-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/seascape-seestück-gerhard-richter/MgHpNvEtvtYtLA"
       },
       {
-        "name": "Grande rosso P. N. 18",
-        "path": "img/art/artworks/alberto-burri-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/grande-rosso-p-n-18-alberto-burri/RgHSVJD9oxJZDQ"
+        "name": "Stadtbild SA (219/1)",
+        "path": "img/art/artworks/gerhard-richter-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/stadtbild-sa-219-1-gerhard-richter/TwFnzM2ldsOiQQ"
       },
       {
-        "name": "Sack",
-        "path": "img/art/artworks/alberto-burri-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/sack-alberto-burri/bAHihGoVObhL0A"
+        "name": "Abstract Picture (Rhombus) (851-1)",
+        "path": "img/art/artworks/gerhard-richter-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/abstract-picture-rhombus-851-1-gerhard-richter/dwEWiDkquBAKfQ"
       },
       {
-        "name": "Ferro SP",
-        "path": "img/art/artworks/alberto-burri-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/ferro-sp-alberto-burri/JQHjeye51xcsuw"
+        "name": "Abstract Pictures (The Rhombus Cycle)",
+        "path": "img/art/artworks/gerhard-richter-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/abstract-pictures-the-rhombus-cycle-gerhard-richter/5wGc0zyuZY4VGQ"
       }
     ],
     "summary": [
-      "Alberto Burri was an Italian visual artist, painter, sculptor and physician based in Città di Castello. He is associated with the matterism of the European informal art movement and described his style as a polymaterialist. He had connections with Lucio Fontana's spatialism and, with Antoni Tàpies, an influence on the revival of the art of post-war assembly in America as in Europe."
+      "Gerhard Richter is a German visual artist. Richter has produced abstract as well as photorealistic paintings, and also photographs and glass pieces. He is widely regarded as one of the most important contemporary German artists and several of his works have set record prices at auction."
     ],
-    "quote": null,
-    "movements": ["Nouveau réalisme", "Contemporary art", "Fluxus", "Arte Povera"],
-    "mediums": ["Oil paint", "Textile", "Vitreous enamel", "Enamel paint", "Jute", "Tin"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Alberto_Burri",
-    "urlGoogle": "https://artsandculture.google.com/entity/alberto-burri/m0blyjc"
+    "quote": "“This time the entire floor is covered with cut-up illustrated journals, a new tic and trick of mine (eight days now): I cut out photos from illustrated journals and dissolve them with a chemical solution and swipe and smear them. That is fabulous fun. I have always loved illustrated magazines, perhaps because of their documentary actuality. I have also already made a few attempts to paint something like that in a larger format. Curious to see how it will continue. I am pursuing something which in a certain way resembles the most recent movement: Pop art (from popular), probably came up in America and is now heating up the minds here.”",
+    "movements": [
+      "Conceptual art",
+      "Contemporary art",
+      "Modern art",
+      "Abstract art",
+      "Photorealism",
+      "Neo-expressionism"
+    ],
+    "mediums": ["Oil paint", "Graphite", "Cardboard", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gerhard_Richter",
+    "urlGoogle": "https://artsandculture.google.com/entity/gerhard-richter/m03dm5p"
   },
   "event": {
-    "id": "iran-saudi-arabia-proxy-conflict",
-    "name": "Iran–Saudi Arabia proxy conflict",
-    "dates": "1979",
-    "mainImg": "img/events/iran-saudi-arabia-proxy-conflict.jpg",
+    "id": "arab-cold-war",
+    "name": "Arab Cold War",
+    "dates": null,
+    "mainImg": "img/events/arab-cold-war.jpg",
     "summary": [
-      "The Iran–Saudi Arabia proxy conflict, sometimes also referred to as the Middle Eastern Cold War is the ongoing struggle for influence in the Middle East and surrounding regions between the Islamic Republic of Iran and the Kingdom of Saudi Arabia. The two countries have provided varying degrees of support to opposing sides in nearby conflicts, including the civil wars in Syria, Yemen, and Iraq. The rivalry also extends to disputes in Bahrain, Lebanon, Qatar, Pakistan, Afghanistan, Nigeria, and Morocco, as well as broader competition in North and East Africa, parts of South Asia, Central Asia, and the Caucasus.",
-      "In what has been described as a cold war, the conflict is waged on multiple levels over geopolitical, economic, and sectarian influence in pursuit of regional hegemony. American support for Saudi Arabia and its allies as well as Russian and Chinese support for Iran and its allies have drawn comparisons to the dynamics of the Cold War era, and the proxy conflict has been characterized as a front in what Russian Prime Minister Dmitry Medvedev has referred to as the \"New Cold War\"."
+      "The Arab Cold War was a period of political rivalry in the Arab world that occurred as part of the broader Cold War between, approximately, the Egyptian Revolution of 1952 that brought President Gamal Abdel Nasser to power in that country, and the 1979 Iranian Revolution which led Arab-Iranian tensions to eclipse intra-Arab strife. On one side were newly-established republics, led by Nasser's Egypt, and on the other side were traditionalist kingdoms led by King Faisal of Saudi Arabia.",
+      "Nasser espoused secular, pan-Arab nationalism and socialism as a response to the Islamism and rentierism of the kingdoms, as well as their perceived complicity in Western meddling in the region. He also established himself as the foremost defender of Arab and Palestinian honor against the humiliation brought on by the independence of Israel and its victory in the 1948 war. Gradually, so-called Nasserism gained the support of other Arab presidents as they replaced monarchies in their countries, notably in Syria, Iraq, Libya, North Yemen, and Sudan. A number of attempts to unite these states in various configurations were made, but all ultimately failed."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Iran%E2%80%93Saudi_Arabia_proxy_conflict",
-    "urlGoogle": "https://artsandculture.google.com/entity/iran–saudi-arabia-proxy-conflict/g11bxjb_dlh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Arab_Cold_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/arab-cold-war/m0brzddj"
   },
   "funFacts": [
     {
-      "id": "302",
-      "fact": "Ketchup was once sold as a medicine.",
+      "id": "327",
+      "fact": "Chewing gum was invented in New York City in 1870 by Thomas Adams.",
       "category": ["Food", "History"]
     },
+    { "id": "425", "fact": "Kangaroos can't walk backwards.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
     {
-      "id": "401",
-      "fact": "The coldest city in the U.S. is International Falls, Minnesota.",
-      "category": ["Geography"]
+      "id": "553925",
+      "fact": "Hay-on-Wye in Wales is the used book capital of the world. It’s home to the famous Honesty Bookshop: an outdoor book market with a collection box in place of a cashier."
     }
   ],
-  "funFacts2": [{ "id": "551312", "fact": "<span>A group of pugs is called a grumble.</span>" }],
   "idiom": {
-    "id": "daisy-chain",
-    "term": "daisy chain",
-    "definition": "**1\\.** A series of connected events, activities, or experiences. For example, *The daisy chain of lectures on art history encompassed the last 200 years.* This metaphorical term alludes to a string of the flowers linked together. [Mid-1800s] **2\\.** A line or circle of three or more persons engaged in simultaneous sexual activity. For example, *A high-class call girl, she drew the line at daisy chains.* [Vulgar slang; 1920s] **3\\.** A series of securities transactions intended to give the impression of active trading so as to drive up the price. For example, *The SEC is on the alert for unscrupulous brokers who are engaging in daisy chains.* [1980s]"
+    "id": "hell-has-no-fury-like-a-woman-scorned",
+    "term": "hell has no fury like a woman scorned",
+    "definition": "No anger is worse than that of a jilted woman. For example, *Nancy has nothing good to say about Tom---hell has no fury, you know.* This term is a shortening of William Congreve's lines, \"Heav'n has no rage, like love to hatred turn'd, nor Hell a fury like a woman scorn'd\" (*The Mourning Bride,* 1697). Today the proverb is often shortened even more, as in the example, and is also often put as **hell hath no fury....**"
   },
   "person": {
-    "id": "alfred-von-tirpitz",
-    "name": "Alfred von Tirpitz",
-    "dates": "Mar 19, 1849 - Mar 6, 1930",
-    "mainImg": "img/people/alfred-von-tirpitz.jpg",
+    "id": "chester-bowles",
+    "name": "Chester Bowles",
+    "dates": "Apr 5, 1901 - May 25, 1986",
+    "mainImg": "img/people/chester-bowles.jpg",
     "summary": [
-      "Alfred Peter Friedrich von Tirpitz was a German Grand Admiral, Secretary of State of the German Imperial Naval Office, the powerful administrative branch of the German Imperial Navy from 1897 until 1916. Prussia never had a major navy, nor did the other German states before the German Empire was formed in 1871. Tirpitz took the modest Imperial Navy and, starting in the 1890s, turned it into a world-class force that could threaten Britain's Royal Navy. However, during World War I, his High Seas Fleet proved unable to end Britain's command of the sea and its chokehold on Germany's economy. The one great engagement at sea, the Battle of Jutland, ended in a narrow German tactical victory but a strategic failure. As the High Seas Fleet's limitations became increasingly apparent during the war, Tirpitz became an outspoken advocate for unrestricted submarine warfare, a policy which would ultimately bring Germany into conflict with the United States. By the beginning of 1916, he was dismissed from office and never regained power."
+      "Chester Bliss Bowles was an American diplomat and ambassador, Governor of Connecticut, Congressman and co-founder of a major advertising agency, Benton & Bowles, now part of Publicis Groupe. Bowles Is best known for his influence on American foreign policy during Cold War years, when he argued that economic assistance to the Third World was not only the best means to fight communism, and even more important, to create a more peaceable world order. During World War II, he held high office in Washington as director of the Office of Price Administration, and control of setting consumer prices. Just after the war, he was the chief of the Office of Economic Stabilization, but had great difficulty controlling inflation. Moving into state politics, he served a term as governor of Connecticut. He promoted liberal programs in education and housing, but was defeated for reelection by conservative backlash.",
+      "As ambassador to India, he established a good relationship with Prime Minister Jawaharlal Nehru, an emerging leader of the nonalignment movement. Bowles promoted rapid economic industrialization in India, and repeatedly called on Washington to help finance it."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Alfred_von_Tirpitz",
-    "urlGoogle": "https://artsandculture.google.com/entity/alfred-von-tirpitz/m01jdnm"
+    "quote": "“Production is the only answer to inflation.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Chester_Bowles",
+    "urlGoogle": "https://artsandculture.google.com/entity/chester-bowles/m01g7jw"
   },
   "place": {
-    "id": "kampala",
-    "name": "Kampala",
-    "mainImg": "img/places/kampala.jpg",
+    "id": "amalfi",
+    "name": "Amalfi",
+    "mainImg": "img/places/amalfi.jpg",
     "summary": [
-      "Kampala is the capital and largest city of Uganda. The city proper was estimated to have a population of 1,680,800 people on 31 July 2019 and is divided into the five boroughs of Kampala Central Division, Kawempe Division, Makindye Division, Nakawa Division, and Rubaga Division.",
-      "Kampala's metropolitan area consists of the city proper and the neighboring Wakiso District, Mukono District, Mpigi District, Buikwe District and Luweero District. It has a rapidly growing population that is estimated at 6,709,900 people in 2019 by the Uganda Bureau of Statistics in an area of 8,451.9 km².",
-      "In 2015, this metropolitan area generated an estimated nominal GDP of $13.80221 billion according to Xuantong Wang et al., which was more than half of Uganda's GDP for that year, indicating the importance of Kampala to Uganda's economy.",
-      "Kampala is reported to be among the fastest-growing cities in Africa, with an annual population growth rate of 4.03 percent, by City Mayors. Kampala has been ranked the best city to live in East Africa ahead of Nairobi and Kigali by Mercer, a global development consulting agency based in New York City."
+      "Amalfi is a town and comune in the province of Salerno, in the region of Campania, Italy, on the Gulf of Salerno. It lies at the mouth of a deep ravine, at the foot of Monte Cerreto, surrounded by dramatic cliffs and coastal scenery. The town of Amalfi was the capital of the maritime republic known as the Duchy of Amalfi, an important trading power in the Mediterranean between 839 and around 1200.",
+      "In the 1920s and 1930s, Amalfi was a popular holiday destination for the British upper class and aristocracy.",
+      "Amalfi is the main town of the coast on which it is located, named Costiera Amalfitana, and is today an important tourist destination together with other towns on the same coast, such as Positano, Ravello and others. Amalfi is included in the UNESCO World Heritage Sites.",
+      "A patron saint of Amalfi is Saint Andrew, the Apostle, whose relics are kept here at Amalfi Cathedral."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kampala",
-    "urlGoogle": "https://artsandculture.google.com/entity/kampala/m0fngy"
+    "urlWiki": "https://en.wikipedia.org/wiki/Amalfi",
+    "urlGoogle": "https://artsandculture.google.com/entity/amalfi/m0cltb"
   },
   "wiki": {
-    "id": "history-of-post-soviet-russia",
-    "name": "History of post-Soviet Russia",
-    "summary": "While Russia has existed as a state for over a thousand years, the history of post-Soviet Russia is brief, dating back only to the collapse of the Soviet Union in late 1991. Since gaining its independence, Russia claimed to be the legal successor to the Soviet Union on the international stage. However, Russia lost its superpower status amid serious economic and political challenges in the 1990s. Scrapping the socialist central planning and state ownership of property of the Soviet era, Russia attempted to build an economy with elements of market capitalism, with often painful results. The development of post-Soviet political institutions has also produced mixed results. By the early-1990s Russia had a system of multiparty electoral politics, but in recent years the presidency has been increasing its already tight control over parliament, regional officeholders, and civil society.",
-    "url": "https://en.wikipedia.org/wiki/History_of_post-Soviet_Russia"
+    "id": "cpu-cache",
+    "name": "CPU cache",
+    "summary": "A CPU cache is a cache used by the central processing unit of a computer to reduce the average time to access memory. The cache is a smaller, faster memory which stores copies of the most frequently used main memory locations. So long as most accesses are to the cached copies, the average latency to memory will be closer to the cache latency than to the latency of main memory. When the processor wishes to read or write a location in main memory, it first checks the main memory address against the tags in the cache. If one of the tag entries matches (a cache hit), the processor reads or writes the corresponding data in that entry rather than doing the same to main memory. If none of the tag entries match, the reference is a miss. Misses are slow because they require the data from main memory, and the slowness of that memory is, of course, the reason for the cache in the first place. The proportion of accesses that result in a cache hit is known as the hit rate.",
+    "url": "https://en.wikipedia.org/wiki/CPU_cache"
   },
   "word": {
-    "id": "gallivant",
-    "word": "gallivant",
-    "url": "https://www.merriam-webster.com/dictionary/gallivant",
+    "id": "demean",
+    "word": "demean",
+    "url": "https://www.merriam-webster.com/dictionary/demean",
     "partOfSpeech": "verb",
-    "pronunciation": "GAL-uh-vant",
-    "audioPath": "audio/words/gallivant.mp3",
-    "definitions": [
-      "to go about usually ostentatiously or indiscreetly with members of the opposite sex",
-      "to travel, roam, or move about for pleasure"
-    ],
+    "pronunciation": "dih-MEEN",
+    "audioPath": "audio/words/demean.mp3",
+    "definitions": ["to conduct or behave (oneself) usually in a proper manner"],
     "examples": [
-      "After graduating from college, Maureen spent a year _gallivanting_ all over Europe before coming back home to find a job.",
-      "\"I never was one to _gallivant_ around in order to be seen. I was much more interested in looking.\" -- From Shirley MacLaine's 2011 book _I'm Over All That: And Other Confessions_"
+      "Sylvia was proud of the polite way her young children demeaned themselves in front of the dinner guests."
     ],
-    "origin": "Back in the 14th century, a young man of fashion (or a ladies' man) was called a \"gallant.\" By the late 1600s, \"gallant\" was being used as a verb to describe the process a paramour used to win a lady's heart; \"to gallant\" became a synonym of \"to court.\" Etymologists think that the spelling of the verb \"gallant\" was altered to create \"gallivant,\" which originally meant \"to act as a gallant\" or \"to go about usually ostentatiously or indiscreetly with members of the opposite sex.\" Nowadays, however, \"gallivant\" is more likely to describe wandering than romancing."
+    "origin": "There are two words spelled \"demean\" in English. The more familiar \"demean\" -- \"to lower in character, status, or reputation\" -- comes straight from \"mean,\" the adjective that means \"spiteful.\" Today's featured word, on the other hand, comes from the Anglo-French verb \"demener\" (\"to conduct\"), which in turn comes from Latin \"minare,\" meaning \"to drive.\" This verb has been with us since the 14th century and is generally used in contexts specifying a type of behavior: \"he demeaned himself in a most unfriendly manner\"; \"she demeaned herself as befitting her station in life\"; \"they knew not how to demean themselves in the king's presence.\" As you may have already guessed, the noun \"demeanor,\" meaning \"behavior,\" comes from this \"demean.\""
   }
 }

@@ -1,121 +1,127 @@
 {
   "artist": {
-    "id": "carl-larsson",
-    "name": "Carl Larsson",
-    "dates": "May 28, 1853 - Jan 22, 1919",
-    "mainImg": "img/art/artists/carl-larsson.jpg",
+    "id": "j-c-leyendecker",
+    "name": "J. C. Leyendecker",
+    "dates": "Mar 23, 1874 - Jul 25, 1951",
+    "mainImg": "img/art/artists/j-c-leyendecker.jpg",
     "artworkImgs": [
       {
-        "name": "Midwinter's Sacrifice",
-        "path": "img/art/artworks/carl-larsson-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/midwinter-s-sacrifice-carl-larsson/FgHwZjBuY9GDjA"
+        "name": "America Calls, Enlist in the Navy",
+        "path": "img/art/artworks/j-c-leyendecker-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/america-calls-enlist-in-the-navy-joseph-christian-leyendecker/EgH0UJpkHOCjlA"
       },
       {
-        "name": "Getting Ready for a Game",
-        "path": "img/art/artworks/carl-larsson-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/getting-ready-for-a-game-carl-larsson/6QH_Y6QiU15luw"
+        "name": "The Century. August",
+        "path": "img/art/artworks/j-c-leyendecker-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-century-august-joseph-christian-leyendecker/zgHWjAWAaC2kdw"
       },
       {
-        "name": "The author August Strindberg",
-        "path": "img/art/artworks/carl-larsson-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-author-august-strindberg-carl-larsson/dgFvBPSM4yKLoQ"
+        "name": "America Calls Enlist in the Navy. U.S. Navy.",
+        "path": "img/art/artworks/j-c-leyendecker-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/america-calls-enlist-in-the-navy-u-s-navy-united-states-navy/hAEWWVN4P-qJ1A"
       },
       {
-        "name": "Open-Air Painter. Winter-Motif from Åsögatan 145, Stockholm",
-        "path": "img/art/artworks/carl-larsson-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/open-air-painter-winter-motif-from-åsögatan-145-stockholm-carl-larsson/bwEJZOVaCQUzfQ"
+        "name": "Usa Bonds / Third Liberty Loan Campaign / Boy Scouts of America / Weapons for Liberty",
+        "path": "img/art/artworks/j-c-leyendecker-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/usa-bonds-third-liberty-loan-campaign-boy-scouts-of-america-weapons-for-liberty-boy-scouts-of-america/lAHlBzp6DJ-Dmw"
       },
       {
-        "name": "Self-Portrait (In the new studio)",
-        "path": "img/art/artworks/carl-larsson-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-in-the-new-studio/awFQqwrFv5MYgA"
+        "name": "U.S. Marines \"Soldiers of the Sea\" ...",
+        "path": "img/art/artworks/j-c-leyendecker-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/u-s-marines-soldiers-of-the-sea-united-states-marine-corps/AgG8cre5FE8AeQ"
       },
       {
-        "name": "Girl and rocking chair",
-        "path": "img/art/artworks/carl-larsson-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/girl-and-rocking-chair/7AGa3s4zcAvy8A"
+        "name": "Usa Bonds Third Liberty Loan Campaign Boy Scouts of America Weapons for Liberty",
+        "path": "img/art/artworks/j-c-leyendecker-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/usa-bonds-third-liberty-loan-campaign-boy-scouts-of-america-weapons-for-liberty-boy-scouts-of-america/ugGSA7dHwTChXA"
       }
     ],
     "summary": [
-      "Carl Olof Larsson was a Swedish painter representative of the Arts and Crafts movement. His many paintings include oils, watercolors, and frescoes. He is principally known for his watercolors of idyllic family life. He considered his finest work to be Midvinterblot, a large painting now displayed inside the Swedish National Museum of Fine Arts."
+      "Joseph Christian Leyendecker was a German-American illustrator. He is considered to be one of the preeminent American illustrators of the early 20th century. He is best known for his poster, book and advertising illustrations, the trade character known as The Arrow Collar Man, and his numerous covers for The Saturday Evening Post. Between 1896 and 1950, Leyendecker painted more than 400 magazine covers. During the Golden Age of American Illustration, for The Saturday Evening Post alone, J. C. Leyendecker produced 322 covers, as well as many advertisement illustrations for its interior pages. No other artist, until the arrival of Norman Rockwell two decades later, was so solidly identified with one publication. Leyendecker \"virtually invented the whole idea of modern magazine design.\""
     ],
     "quote": null,
-    "movements": ["Modern art", "Art Nouveau", "Arts and Crafts movement", "Realism"],
-    "mediums": ["Watercolor painting", "Oil paint", "Drawing"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Carl_Larsson",
-    "urlGoogle": "https://artsandculture.google.com/entity/carl-larsson/m0m431"
+    "movements": [],
+    "mediums": ["Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/J._C._Leyendecker",
+    "urlGoogle": "https://artsandculture.google.com/entity/j-c-leyendecker/m06_sfj"
   },
   "event": {
-    "id": "battle-of-passchendaele",
-    "name": "Battle of Passchendaele",
-    "dates": "Jul 31, 1917 - Nov 10, 1917",
-    "mainImg": "img/events/battle-of-passchendaele.jpg",
+    "id": "war-of-the-first-coalition",
+    "name": "War of the First Coalition",
+    "dates": "1793 - 1797",
+    "mainImg": "img/events/war-of-the-first-coalition.jpg",
     "summary": [
-      "The Third Battle of Ypres, also known as the Battle of Passchendaele, was a campaign of the First World War, fought by the Allies against the German Empire. The battle took place on the Western Front, from July to November 1917, for control of the ridges south and east of the Belgian city of Ypres in West Flanders, as part of a strategy decided by the Allies at conferences in November 1916 and May 1917. Passchendaele lies on the last ridge east of Ypres, 5 mi from Roulers junction of the Bruges to Kortrijk railway. The station at Roulers was on the main supply route of the German 4th Army. Once Passchendaele Ridge had been captured, the Allied advance was to continue to a line from Thourout to Couckelaere.",
-      "Further operations and a British supporting attack along the Belgian coast from Nieuport, combined with an amphibious landing, were to have reached Bruges and then the Dutch frontier. The resistance of the 4th Army, unusually wet weather in August, the beginning of the autumn rains in October and the diversion of British and French resources to Italy, enabled the Germans to avoid the general withdrawal which had seemed inevitable in early October."
+      "The War of the First Coalition is the traditional name of the wars that several European powers fought between 1792 and 1797 against initially the Kingdom of the French and then the French Republic that succeeded it. They were only lightly allied and fought without much apparent coordination or agreement; each power had its eye on a different part of France it wanted to appropriate after a French defeat, which never occurred.",
+      "Relations between the French revolutionaries with neighbouring monarchies had deteriorated following the Declaration of Pillnitz in August 1791. Eight months later, following a vote of the revolutionary-led Legislative Assembly, France declared war on Prussia and Austria on 20 April 1792. In July 1792, an army under the Duke of Brunswick and composed mostly of Prussians joined the Austrian side and invaded France, only to be rebuffed at the Battle of Valmy in September. One day later the new French Republic was proclaimed."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Passchendaele",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-passchendaele/m0c3mz"
+    "urlWiki": "https://en.wikipedia.org/wiki/War_of_the_First_Coalition",
+    "urlGoogle": "https://artsandculture.google.com/entity/war-of-the-first-coalition/m017zn0"
   },
   "funFacts": [
-    { "id": "320", "fact": "There is a town called Jackpot in Nevada.", "category": ["Geography"] },
-    { "id": "51", "fact": "There are 63,360 inches in a mile.", "category": ["Hodgepodge"] }
-  ],
-  "funFacts2": [
     {
-      "id": "504654",
-      "fact": "In early drafts of the Back to the Future script, the time machine was built out of an old refrigerator."
+      "id": "1000",
+      "fact": "A group of porcupines is called a prickle.",
+      "category": ["Animals", "Definitions"]
+    },
+    {
+      "id": "335",
+      "fact": "Maine produces more toothpicks than any other state in the U.S.",
+      "category": ["Geography"]
     }
   ],
+  "funFacts2": [
+    { "id": "522153", "fact": "On Scooby-Doo, Shaggy’s real name is Norville Rogers." }
+  ],
   "idiom": {
-    "id": "red-herring",
-    "term": "red herring",
-    "definition": "Something that draws attention away from the central issue, as in *Talking about the new plant is a red herring to keep us from learning about downsizing plans.* The *herring* in this expression is red and strong-smelling from being preserved by smoking. The idiom alludes to dragging a smoked herring across a trail to cover up the scent and throw off tracking dogs. [Late 1800s]"
+    "id": "footloose-and-fancy-free",
+    "term": "footloose and fancy-free",
+    "definition": "Having no attachments, especially romantic ones, and free to do as one pleases. For example, *When I was in my twenties, footloose and fancy-free, I would travel at the drop of a hat.* Both of these words have long been used separately; their pairing dates only from the 1900s."
   },
   "person": {
-    "id": "george-herbert",
-    "name": "George Herbert",
-    "dates": "Apr 3, 1593 - Mar 1, 1633",
-    "mainImg": "img/people/george-herbert.jpg",
+    "id": "harold-l-ickes",
+    "name": "Harold L. Ickes",
+    "dates": "Mar 15, 1874 - Feb 3, 1952",
+    "mainImg": "img/people/harold-l-ickes.jpg",
     "summary": [
-      "George Herbert was a Welsh-born poet, orator, and priest of the Church of England. His poetry is associated with the writings of the metaphysical poets, and he is recognised as \"one of the foremost British devotional lyricists.\" He was born into an artistic and wealthy family and largely raised in England. He received a good education that led to his admission to Trinity College, Cambridge in 1609. He went there with the intention of becoming a priest, but he became the University's Public Orator and attracted the attention of King James I. He served in the Parliament of England in 1624 and briefly in 1625.",
-      "After the death of King James, Herbert renewed his interest in ordination. He gave up his secular ambitions in his mid-thirties and took holy orders in the Church of England, spending the rest of his life as the rector of the little parish of St Andrew's Church, Lower Bemerton, Salisbury. He was noted for unfailing care for his parishioners, bringing the sacraments to them when they were ill and providing food and clothing for those in need. Henry Vaughan called him \"a most glorious saint and seer.\" He was never a healthy man and died of consumption at age 39."
-    ],
-    "quote": "“Woe be to him that reads but one book.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/George_Herbert",
-    "urlGoogle": "https://artsandculture.google.com/entity/george-herbert/m01h9bc"
-  },
-  "place": {
-    "id": "derby",
-    "name": "Derby",
-    "mainImg": "img/places/derby.jpg",
-    "summary": [
-      "Derby is a city and unitary authority area in Derbyshire, England. It lies on the banks of the River Derwent in the south of Derbyshire, of which it was traditionally the county town. Derby gained city status in 1977, and by the 2011 census its population was 248,700.",
-      "Derby was settled by Romans – who established the town of Derventio – Saxons and Vikings, who made Derby one of the Five Boroughs of the Danelaw. Initially a market town, Derby grew rapidly in the industrial era. Home to Lombe's Mill, an early British factory, Derby has a claim to be one of the birthplaces of the Industrial Revolution. It contains the southern part of the Derwent Valley Mills World Heritage Site. With the arrival of the railways in the 19th century, Derby became a centre of the British rail industry.",
-      "Derby is a centre for advanced transport manufacturing, home to the world's second largest aero-engine manufacturer, Rolls-Royce. Bombardier Transportation are based at the Derby Litchurch Lane Works and were for many years the UK's only train manufacturer. Toyota Manufacturing UK's automobile headquarters is south west of the city at Burnaston. To the east lies Nottingham, separated by the M1 motorway."
+      "Harold LeClair Ickes was an American administrator and politician. He served as United States Secretary of the Interior for 13 years, from 1933 to 1946, the longest tenure of anyone to hold the office, and the second longest-serving Cabinet member in U.S. history after James Wilson. Ickes and Labor Secretary Frances Perkins were the only original members of the Roosevelt cabinet who remained in office for his entire presidency.",
+      "Ickes was responsible for implementing much of President Franklin D. Roosevelt's \"New Deal\". He was in charge of the major relief program, the Public Works Administration, and in charge of the federal government's environmental efforts.",
+      "In his day, he was considered a prominent liberal spokesman, a skillful orator and a noted supporter of many African-American causes, although he was at times politically expedient where state-level segregation was concerned. Before his national-level political career, where he did remove segregation in areas of his direct control, he had been the president of the Chicago NAACP.",
+      "Robert C."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Derby",
-    "urlGoogle": "https://artsandculture.google.com/entity/derby/m025r_t"
+    "urlWiki": "https://en.wikipedia.org/wiki/Harold_L._Ickes",
+    "urlGoogle": "https://artsandculture.google.com/entity/harold-l-ickes/m0374dm"
+  },
+  "place": {
+    "id": "bulgaria",
+    "name": "Bulgaria",
+    "mainImg": "img/places/bulgaria.jpg",
+    "summary": [
+      "Bulgaria, officially the Republic of Bulgaria, is a country in Southeastern Europe. It is bordered by Romania to the north, Serbia and North Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. The capital and largest city is Sofia; other major cities are Plovdiv, Varna and Burgas. With a territory of 110,994 square kilometres, Bulgaria is Europe's sixteenth-largest country.",
+      "One of the earliest societies in the lands of modern-day Bulgaria was the Neolithic Karanovo culture, which dates back to 6,500 BC. In the 6th to 3rd century BC the region was a battleground for ancient Thracians, Persians, Celts and Macedonians; stability came when the Roman Empire conquered the region in AD 45. The Eastern Roman Empire lost some of these territories to Slavic and then Turkic Bulgar invaders in the late 7th century. The Bulgars founded the First Bulgarian Empire in AD 681, which dominated most of the Balkans and significantly influenced Slavic cultures by developing the Cyrillic script. This state lasted until the early 11th century, when Byzantine emperor Basil II conquered and dismantled it."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bulgaria",
+    "urlGoogle": "https://artsandculture.google.com/entity/bulgaria/m015qh"
   },
   "wiki": {
-    "id": "crab-nebula",
-    "name": "Crab Nebula",
-    "summary": "The Crab Nebula is a supernova remnant in the constellation of Taurus. The nebula was first observed by John Bevis in 1731, and is the remnant of a supernova that was recorded by Chinese and Arab astronomers in 1054 as being visible during daylight for 23 days. Located at a distance of about 6,300 light years from Earth, it has a diameter of 6 light years and is expanding at a rate of about 1500 kilometres per second. A pulsar in the centre of the nebula rotates 30 times per second, emitting pulses of radiation across the electromagnetic spectrum from radio waves to gamma rays. Its discovery provided the first conclusive evidence that supernova explosions produce the extremely dense neutron stars which are observed as pulsars. The nebula acts as a source of radiation for studying celestial bodies that occult it. The Sun's corona was mapped in the 1950s and 60s from observations of the Crab's radio waves passing through it, and more recently, the thickness of the atmosphere of Saturn's moon Titan was measured as it blocked out X-rays from the nebula.",
-    "url": "https://en.wikipedia.org/wiki/Crab_Nebula"
+    "id": "washington-quarter",
+    "name": "Washington quarter",
+    "summary": "The Washington quarter is the present quarter dollar or 25-cent piece issued by the United States Mint. The coin was first struck in 1932; the original version was designed by sculptor John Flanagan. The new silver quarters entered circulation on August 1, 1932; they were struck in that metal until the Mint transitioned to copper-nickel clad coinage in 1965. A special reverse commemorating the United States Bicentennial was used in 1975 and 1976, with all pieces bearing the double date 1776–1976; there are no 1975-dated quarters. Since 1999, the original eagle reverse has not been used; instead that side of the quarter has commemorated the 50 states, the nation's other jurisdictions, and National Park Service sites—the last as part of the ongoing America the Beautiful Quarters series, which will continue until 2021. The bust of Washington was made smaller beginning in 1999; in 2010 it was restored to bring out greater detail.",
+    "url": "https://en.wikipedia.org/wiki/Washington_quarter"
   },
   "word": {
-    "id": "nimiety",
-    "word": "nimiety",
-    "url": "https://www.merriam-webster.com/dictionary/nimiety",
-    "partOfSpeech": "noun",
-    "pronunciation": "nih-MYE-uh-tee",
-    "audioPath": "audio/words/nimiety.mp3",
-    "definitions": ["excess, redundancy"],
+    "id": "exculpate",
+    "word": "exculpate",
+    "url": "https://www.merriam-webster.com/dictionary/exculpate",
+    "partOfSpeech": "verb",
+    "pronunciation": "EK-skull-payt",
+    "audioPath": "audio/words/exculpate.mp3",
+    "definitions": ["to clear from alleged fault or guilt"],
     "examples": [
-      "\"To avoid receiving a nimiety of kitchenware,\" advised the bridal guide, \"be sure to register for a wide range of gifts for your guests to choose from.\""
+      "The lawyer claimed to have recently discovered evidence that would exculpate her client."
     ],
-    "origin": "There's no scarcity of English words used for too much of a good thing -- words like \"overkill,\" \"plethora,\" \"superfluity,\" \"surfeit,\" \"surplus,\" and \"preponderance,\" to name a few. In fact, you might just feel that \"nimiety\" itself is a bit superfluous. And it's true -- we've never used the word excessively, though it has been part of our language for nearly 450 years. (We borrowed it from Late Latin \"nimietas,\" a noun taken, in turn, from the Latin adjective \"nimius,\" meaning \"excessive.\") Superfluous or not, \"nimiety\" still turns up occasionally. For example, in his 1991 book _Biblioholism: The Literary Addiction_, about \"the habitual longing to purchase, read, store, admire and consume books in excess,\" author Tom Raabe blames one bookstore's \"nimiety of overstuffed chairs\" for exacerbating this condition."
+    "origin": "You need not take the blame if you're unfamiliar with the origins of \"exculpate,\" but there's a hint in this sentence. The word, which was adopted in the late 17th century from Medieval Latin \"exculpatus,\" traces back to the Latin noun \"culpa,\" meaning \"blame.\" Some other descendants of \"culpa\" in English include \"culpable\" (\"meriting condemnation or blame\") and \"inculpate\" (\"incriminate\"), as well as the considerably rarer \"culpatory\" (\"accusing\") and \"disculpate\" (a synonym of \"exculpate\"). You may also be familiar with the borrowed Latin phrase \"mea culpa,\" which translates directly as \"through my fault\" and is used in English to mean \"a formal acknowledgment of personal fault or error.\""
   }
 }

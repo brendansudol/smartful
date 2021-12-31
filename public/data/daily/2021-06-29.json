@@ -1,129 +1,121 @@
 {
   "artist": {
-    "id": "guo-xi",
-    "name": "Guo Xi",
-    "dates": "1020 - 1090",
-    "mainImg": "img/art/artists/guo-xi.jpg",
+    "id": "sengai",
+    "name": "Sengai",
+    "dates": "1750 - 1837",
+    "mainImg": "img/art/artists/sengai.jpg",
     "artworkImgs": [
       {
-        "name": "Early Spring",
-        "path": "img/art/artworks/guo-xi-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/early-spring-guo-xi/xAHr0j3bdWn7Dw"
+        "name": "Jittoku and Kanzan",
+        "path": "img/art/artworks/sengai-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/jittoku-and-kanzan-priest-sengai-gibon/pgHmjbgxjkg2YA"
       },
       {
-        "name": "Peony Blossoms",
-        "path": "img/art/artworks/guo-xi-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/peony-blossoms-guo-hailong/9AFnDAjdURzwQw"
+        "name": "「天満宮」　渡唐天神図|“Tenmangū,” Sugawara no Michizane as Tenjin Traveling to China",
+        "path": "img/art/artworks/sengai-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/「天満宮」　渡唐天神図-“tenmangū-”-sugawara-no-michizane-as-tenjin-traveling-to-china-sengai-gibon/ugFI0RbYRdInpQ"
       },
       {
-        "name": "A Tibetan Child",
-        "path": "img/art/artworks/guo-xi-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/a-tibetan-child-guo-hailong/-QGmlv8bLp-TZg"
+        "name": "Mt. Fuji with poem",
+        "path": "img/art/artworks/sengai-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/mt-fuji-with-poem-artist-sengai/wwE11-siTfIRbQ"
       },
       {
-        "name": "Home",
-        "path": "img/art/artworks/guo-xi-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/home-guo-hailong/GgE3EEG5sqvxFA"
-      },
-      {
-        "name": "Warmth in Winter",
-        "path": "img/art/artworks/guo-xi-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/warmth-in-winter-guo-hailong/AwHGHV8pBQBFmA"
-      },
-      {
-        "name": "Jingzhe",
-        "path": "img/art/artworks/guo-xi-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/jingzhe-guo-hailong/CQFqSRDCzN056Q"
+        "name": "Entsū zenshi iboku",
+        "path": "img/art/artworks/sengai-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/entsū-zenshi-iboku-artist-sengai/8wHE5BWky-G8xw"
       }
     ],
     "summary": [
-      "Guo Xi was a Chinese landscape painter from Henan Province who lived during the Northern Song dynasty. One text entitled \"The Lofty Message of Forest and Streams\" is attributed to him. The work covers a variety of themes centered on the appropriate way of painting a landscape. He was a court professional, a literatus, well-educated painter who developed an incredibly detailed system of idiomatic brushstrokes which became important for later painters. One of his most famous works is Early Spring, dated 1072. The work demonstrates his innovative techniques for producing multiple perspectives which he called \"the angle of totality.\" This type of visual representation is also called \"Floating Perspective\", a technique which displaces the static eye of the viewer and highlights the differences between Chinese and Western modes of spatial representation.",
-      "The following is an excerpt from his treatise, \"mountains and waters\":",
-      "The clouds and the vapours of real landscapes are not the same at the four seasons. In spring they are light and diffused, in summer rich and dense, in autumn scattered and thin, in winter dark and solitary."
+      "Sengai Gibon was a Japanese monk of the Rinzai school. He was known for his controversial teachings and writings, as well as for his lighthearted sumi-e paintings. After spending half of his life in Nagata near Yokohama, he secluded himself in Shōfuku-ji in Fukuoka, the first Zen temple in Japan, where he spent the rest of his life.",
+      "Though the Rinzai sect is particularly known for its hard-to-understand teachings, Sengai tried to make them accessible to the public."
     ],
     "quote": null,
     "movements": [],
-    "mediums": ["Silk", "Textile"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Guo_Xi",
-    "urlGoogle": "https://artsandculture.google.com/entity/guo-xi/m04mn_9"
+    "mediums": ["Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sengai",
+    "urlGoogle": "https://artsandculture.google.com/entity/sengai/m0c0tp6"
   },
   "event": {
-    "id": "first-battle-of-bull-run",
-    "name": "First Battle of Bull Run",
-    "dates": null,
-    "mainImg": "img/events/first-battle-of-bull-run.jpg",
+    "id": "sts-95",
+    "name": "STS-95",
+    "dates": "Oct 29, 1998 - Nov 7, 1998",
+    "mainImg": "img/events/sts-95.jpg",
     "summary": [
-      "The First Battle of Bull Run, also known as the First Battle of Manassas, was the first major battle of the American Civil War and was a Confederate victory. The battle was fought on July 21, 1861 in Prince William County, Virginia, just north of the city of Manassas and about 25 miles west-southwest of Washington, D.C. The Union's forces were slow in positioning themselves, allowing Confederate reinforcements time to arrive by rail. Each side had about 18,000 poorly trained and poorly led troops in their first battle. It was a Confederate victory, followed by a disorganized retreat of the Union forces.",
-      "Just months after the start of the war at Fort Sumter, the Northern public clamored for a march against the Confederate capital of Richmond, Virginia, which was expected to bring an early end to the Confederacy. Yielding to political pressure, Brig. Gen. Irvin McDowell led his unseasoned Union Army across Bull Run against the equally inexperienced Confederate Army of Brig. Gen. P. G. T. Beauregard camped near Manassas Junction."
+      "STS-95 was a Space Shuttle mission launched from Kennedy Space Center, Florida on 29 October 1998, using the orbiter Discovery. It was the 25th flight of Discovery and the 92nd mission flown since the start of the Space Shuttle program in April 1981. It was a highly publicized mission due to former Project Mercury astronaut and United States Senator John H. Glenn Jr.'s return to space for his second space flight. At age 77, Glenn became the oldest person, to date, to go into space. This mission is also noted for inaugurating ATSC HDTV broadcasting in the U.S., with live coast-to-coast coverage of the launch. In another first, Pedro Duque became the first Spaniard in space.",
+      "The mission's objectives involved investigating life-sciences experiments, using the SpaceHab module to perform these experiments on Senator Glenn. Scientific objectives on this mission were not limited to furthering an understanding of the human body, but also to increase astronomical understanding with regards to the Sun, and how it affects life on Earth."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run",
-    "urlGoogle": "https://artsandculture.google.com/entity/first-battle-of-bull-run/m01h9zd"
+    "urlWiki": "https://en.wikipedia.org/wiki/STS-95",
+    "urlGoogle": "https://artsandculture.google.com/entity/sts-95/m02pt8p"
   },
   "funFacts": [
     {
-      "id": "937",
-      "fact": "Squirrels lose more than half of the nuts they hide.",
-      "category": ["Animals", "Habits"]
+      "id": "460",
+      "fact": "Astronauts actually get taller when in space.",
+      "category": ["Anatomy", "Science"]
     },
     {
-      "id": "493",
-      "fact": "To make a zipper slide up and down more smoothly, rub a bar of soap over the teeth.",
-      "category": ["Make-it-Easies"]
+      "id": "651",
+      "fact": "About 45% of leisure visitors to downtown New York City come from outside the United States.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554071",
-      "fact": "The average American typically eats between 3000 and 5000 calories at Thanksgiving dinner."
+      "id": "554073",
+      "fact": "The swirling blue shades of the Marble Caves in Chile are a reflection of the turquoise lake waters below them. The hues change subtly as sea levels fall and rise."
     }
   ],
   "idiom": {
-    "id": "duck-soup",
-    "term": "duck soup",
-    "definition": "An easily accomplished task or assignment, a cinch to succeed, as in *Fixing this car is going to be duck soup.* This expression gained currency as the title of a hilarious popular movie by the Marx Brothers (1933). The original allusion has been lost. [Early 1900s]"
+    "id": "put-in-mothballs",
+    "term": "put in mothballs",
+    "definition": "Defer indefinitely or for a very long time, as in *We've put the plans for a new library in mothballs.* This expression alludes to storing woolen clothing or other items with marble-size balls of naphthalene or camphor to prevent them from being damaged by moths. [1940s]"
   },
   "person": {
-    "id": "soong-mei-ling",
-    "name": "Soong Mei-ling",
-    "dates": "Mar 4, 1898 - Oct 23, 2003",
-    "mainImg": "img/people/soong-mei-ling.jpg",
+    "id": "hussein-of-jordan",
+    "name": "Hussein of Jordan",
+    "dates": "Nov 14, 1935 - Feb 7, 1999",
+    "mainImg": "img/people/hussein-of-jordan.jpg",
     "summary": [
-      "Soong Mei-ling or, legally, Soong May-ling, also known as Madame Chiang Kai-shek or Madame Chiang, was a Chinese political figure who was First Lady of the Republic of China, the wife of Generalissimo and President Chiang Kai-shek. Soong played a prominent role in the politics of the Republic of China and was the sister-in-law of Sun Yat-sen, the founder and the leader of the Republic of China. She was active in the civic life of her country and held many honorary and active positions, including chairwoman of Fu Jen Catholic University. During the Second Sino-Japanese War, she rallied her people against the Japanese invasion; and in 1943 conducted an eight-month speaking tour of the United States of America to gain support. Her life traversed three centuries."
+      "Hussein bin Talal reigned as King of Jordan from 11 August 1952 until his death in 1999. As a member of the Hashemite dynasty, the royal family of Jordan since 1921, Hussein claimed to be a 40th-generation direct descendant of Muhammad.",
+      "Hussein was born in Amman as the eldest child of Talal bin Abdullah and Zein Al-Sharaf. Hussein began his schooling in Amman, continuing his education abroad. After Talal became King of Jordan in 1951, Hussein was named heir apparent. The Parliament forced Talal to abdicate a year later due to his illness, and a regency council was appointed until Hussein came of age. He was enthroned at the age of 17 on 2 May 1953. Hussein was married four separate times and fathered eleven children: Princess Alia from Dina bint Abdul-Hamid; Abdullah II, Prince Faisal, Princess Aisha, and Princess Zein from Antoinette Gardiner; Princess Haya and Prince Ali from Alia Touqan; Prince Hamzah, Prince Hashim, Princess Iman, and Princess Raiyah from Lisa Halaby.",
+      "Hussein, a constitutional monarch, started his rule with what was termed a \"liberal experiment,\" allowing, in 1956, the formation of the only democratically elected government in Jordan's history."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Soong_Mei-ling",
-    "urlGoogle": "https://artsandculture.google.com/entity/soong-mei-ling/m072ln"
+    "quote": "“We respect opposition to any position or policy. But we believe that the opinion that should prevail and be respected is that of the majority.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Hussein_of_Jordan",
+    "urlGoogle": "https://artsandculture.google.com/entity/hussein-of-jordan/m0kvhz"
   },
   "place": {
-    "id": "nimes",
-    "name": "Nîmes",
-    "mainImg": "img/places/nimes.jpg",
+    "id": "canada",
+    "name": "Canada",
+    "mainImg": "img/places/canada.jpg",
     "summary": [
-      "Nîmes is a city in the Occitanie region of southern France. It is the capital of the Gard department. Nîmes is located between the Mediterranean Sea and the Cévennes mountains. The estimated population of Nîmes is 151,001.",
-      "Dubbed the most Roman city outside Italy, Nîmes has a rich history dating back to the Roman Empire when the city was a regional capital, and home to 50,000–60,000 people. Several famous monuments are in Nîmes, such as the Arena of Nîmes and the Maison Carrée. Because of this, Nîmes is often referred to as the French Rome."
+      "Canada is a country in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres, making it the world's second-largest country by total area. Its southern border with the United States, stretching 8,891 kilometres, is the world's longest bi-national land border. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.",
+      "Various indigenous peoples inhabited what is now Canada for thousands of years before European colonization. Beginning in the 16th century, British and French expeditions explored and later settled along the Atlantic coast. As a consequence of various armed conflicts, France ceded nearly all of its colonies in North America in 1763. In 1867, with the union of three British North American colonies through Confederation, Canada was formed as a federal dominion of four provinces. This began an accretion of provinces and territories and a process of increasing autonomy from the United Kingdom."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/N%C3%AEmes",
-    "urlGoogle": "https://artsandculture.google.com/entity/nîmes/m0pzcv"
+    "urlWiki": "https://en.wikipedia.org/wiki/Canada",
+    "urlGoogle": "https://artsandculture.google.com/entity/canada/m0d060g"
   },
   "wiki": {
-    "id": "thirty-flights-of-loving",
-    "name": "Thirty Flights of Loving",
-    "summary": "Thirty Flights of Loving is a first-person adventure video game developed by Brendon Chung's video game studio, Blendo Games. It was released in August 2012 for Microsoft Windows and in November 2012 for OS X. The game employs a modified version of id Software's id Tech 2 engine—originally used for Quake II—and incorporates music composed by Idle Thumbs member Chris Remo. An indirect sequel to Gravity Bone (2008), it features the same main character, an unnamed spy controlled by the player. The game follows the spy and two other people as they prepare for an alcohol heist and then deal with the aftermath of the failed operation. Unlike Gravity Bone, Thirty Flights of Loving employs non-linear storytelling, forcing the player to piece together the narrative. Thirty Flights of Loving was developed as part of the Kickstarter campaign for the revival of the Idle Thumbs podcast and includes a free copy of Gravity Bone. Thirty Flights of Loving received generally favorable reviews from video game journalists, scoring 88 out of 100 on the review aggregator Metacritic. A follow-up, Quadrilateral Cowboy, is scheduled for release in 2014.",
-    "url": "https://en.wikipedia.org/wiki/Thirty_Flights_of_Loving"
+    "id": "giant-eland",
+    "name": "Giant eland",
+    "summary": "The giant eland is an open-forest savanna antelope. Although it is the largest species of antelope, with a body length ranging from 220–290 cm (87–114 in), the epithet \"giant\" refers to its large horns. It is also called \"Lord Derby's eland\" in honour of Edward Smith-Stanley, 13th Earl of Derby, by whose efforts it was first introduced to England. As a herbivore, it eats grasses, foliage and branches. It usually forms small herds consisting of 15–25 members, both males and females. Giant elands are not territorial, and have large home ranges. They are naturally alert and wary, which makes them difficult to approach and observe. They can run at up to 70 km/h (43 mph) and use speed as a defence against predators. They mostly inhabit broad-leafed savannas, woodlands and glades. The giant eland is native to Cameroon, Central African Republic, Chad, The Democratic Republic of Congo, Guinea, Mali, Senegal, and South Sudan. It is no longer present in Gambia, Ghana, Ivory Coast, and Togo. Its presence is uncertain in Nigeria, Guinea-Bissau, and Uganda. There are two subspecies, which have been given different conservation statuses by the International Union for Conservation of Nature.",
+    "url": "https://en.wikipedia.org/wiki/Giant_eland"
   },
   "word": {
-    "id": "sternutation",
-    "word": "sternutation",
-    "url": "https://www.merriam-webster.com/dictionary/sternutation",
+    "id": "tucket",
+    "word": "tucket",
+    "url": "https://www.merriam-webster.com/dictionary/tucket",
     "partOfSpeech": "noun",
-    "pronunciation": "ster-nyuh-TAY-shun",
-    "audioPath": "audio/words/sternutation.mp3",
-    "definitions": ["the act, fact, or noise of sneezing"],
+    "pronunciation": "TUCK-ut",
+    "audioPath": "audio/words/tucket.mp3",
+    "definitions": ["a fanfare on a trumpet"],
     "examples": [
-      "Julie knew that she had put on too much perfume when she entered the car and immediately heard a chorus of sternutation from the passengers."
+      "The _tucket_ sounded, and everyone rose as the king and queen entered the courtyard.",
+      "\"Bare unisons of woodwind, trumpets, and horns exchange [sennets](https://www.merriam-webster.com/dictionary/sennet) and _tuckets_.\" -- From a classical music review by Edward Seckerson in _The Independent_ (London), July 25, 1997"
     ],
-    "origin": "\"Sternutation\" comes from Latin and is a descendant of the verb \"sternuere,\" meaning \"to sneeze.\" One of the earliest known English uses occurred in a 16th-century edition of a book on midwifery, in a passage about infants suffering from frequent \"sternutation and sneesynge.\" The term has long been used in serious medical contexts, but also on occasion for humorous effect. In 1850, for example, author Grace Greenwood observed that U.S. senators from opposing political parties would often come together to share snuff: \"And all three forget their sectional differences in a delightful concert of sternutation. No business is too grave, no speaker too eloquent, to be 'sneezed at.'\""
+    "origin": "\"Tucket\" can be found most notably in the stage directions of several of William Shakespeare's plays. In _King Lear_, for example, a tucket sounds to alert the Earl of Gloucester of the arrival of the Duke of Cornwall (Act II, Scene i). The word \"tucket\" is thought to derive from the obsolete English verb \"tuk,\" meaning \"to beat a drum\" or \"to sound a trumpet.\" These days, the word \"fanfare\" itself refers to a sounding of trumpets made in celebration or to alert one of another's arrival. The presence of \"fanfare\" might be the reason that \"tucket\" is rarely used in contemporary English."
   }
 }

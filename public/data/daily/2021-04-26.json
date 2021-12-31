@@ -1,135 +1,134 @@
 {
   "artist": {
-    "id": "antoine-bourdelle",
-    "name": "Antoine Bourdelle",
-    "dates": "Oct 31, 1861 - Oct 1, 1929",
-    "mainImg": "img/art/artists/antoine-bourdelle.jpg",
+    "id": "claes-oldenburg",
+    "name": "Claes Oldenburg",
+    "dates": "Born Jan 28, 1929",
+    "mainImg": "img/art/artists/claes-oldenburg.jpg",
     "artworkImgs": [
       {
-        "name": "Hercules the Archer",
-        "path": "img/art/artworks/antoine-bourdelle-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/hercules-the-archer-émile-antoine-bourdelle/CgHFKSEoZqwEcg"
+        "name": "Iron Fragment",
+        "path": "img/art/artworks/claes-oldenburg-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/iron-fragment-claes-oldenburg/7AEohhq0lKtFoQ"
       },
       {
-        "name": "Heracles Killing the Birds of Lake Stymphalia",
-        "path": "img/art/artworks/antoine-bourdelle-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/heracles-killing-the-birds-of-lake-stymphalia-antoine-bourdelle/vgFd8Dcd9jllsA"
+        "name": "Trowel – Scale A 3/3",
+        "path": "img/art/artworks/claes-oldenburg-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/trowel-–-scale-a-3-3-claes-oldenburg/2AHM9oDCO0zcDg"
       },
       {
-        "name": "Adam",
-        "path": "img/art/artworks/antoine-bourdelle-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/adam-emile-antoine-bourdelle/hAFag8rn_U3mSg"
+        "name": "Shuttlecocks",
+        "path": "img/art/artworks/claes-oldenburg-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/shuttlecocks-claes-oldenburg-and-coosje-van-bruggen/0QGRtnVFsCMZIQ"
       },
       {
-        "name": "Monumental Horse without Rider (Horse for Alvear Monument)",
-        "path": "img/art/artworks/antoine-bourdelle-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/monumental-horse-without-rider-horse-for-alvear-monument-émile-antoine-bourdelle/1gH1Lb0j3IdQSQ"
+        "name": "The Nelson-Atkins Museum of Art as a Net, with Shuttlecocks",
+        "path": "img/art/artworks/claes-oldenburg-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nelson-atkins-museum-of-art-as-a-net-with-shuttlecocks-claes-oldenburg-and-coosje-van-bruggen/0wEfRDYXzVxEYg"
       },
       {
-        "name": "Heracles",
-        "path": "img/art/artworks/antoine-bourdelle-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/heracles-antoine-bourdelle/KwH-h1nuDN_mVA"
+        "name": "Floating Three-Way Plug",
+        "path": "img/art/artworks/claes-oldenburg-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/floating-three-way-plug-claes-oldenburg/0gEcGoUHFzSlBg"
       },
       {
-        "name": "Hercules the Archer",
-        "path": "img/art/artworks/antoine-bourdelle-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/hercules-the-archer/4QFgq3IMAZ7COQ"
+        "name": "Spoon Pier",
+        "path": "img/art/artworks/claes-oldenburg-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/spoon-pier-oldenburg-claes/uwETROTshfu_fw"
       }
     ],
     "summary": [
-      "Antoine Bourdelle, born Émile Antoine Bordelles, was an influential and prolific French sculptor and teacher. He was a student of Auguste Rodin, a teacher of Giacometti and Henri Matisse, and an important figure in the Art Deco movement and the transition from the Beaux-Arts style to modern sculpture.",
-      "His studio became the Musée Bourdelle, an art museum dedicated to his work, located at 18, rue Antoine Bourdelle, in the 15th arrondissement of Paris, France."
+      "Claes Oldenburg is an American sculptor, best known for his public art installations typically featuring large replicas of everyday objects. Another theme in his work is soft sculpture versions of everyday objects. Many of his works were made in collaboration with his wife, Coosje van Bruggen, who died in 2009; they had been married for 32 years. Oldenburg lives and works in New York."
     ],
-    "quote": null,
-    "movements": ["Modern art", "Expressionism", "Classicism"],
-    "mediums": ["Sculpture", "Bronze", "Metal", "Rock", "Plaster", "Marble"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Antoine_Bourdelle",
-    "urlGoogle": "https://artsandculture.google.com/entity/antoine-bourdelle/m016ftg"
+    "quote": "“I am for an art that is political-erotical-mystical, that does something other than sit on its ass in a museum.”",
+    "movements": ["Contemporary art", "Pop art", "Modern art", "Public art"],
+    "mediums": ["Sculpture", "Metal", "Concrete", "Plaster", "Iron", "Aluminium"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Claes_Oldenburg",
+    "urlGoogle": "https://artsandculture.google.com/entity/claes-oldenburg/m01zgr1"
   },
   "event": {
-    "id": "winter-war",
-    "name": "Winter War",
-    "dates": "Nov 30, 1939 - Mar 13, 1940",
-    "mainImg": "img/events/winter-war.jpg",
+    "id": "second-matabele-war",
+    "name": "Second Matabele War",
+    "dates": "March 1896 - October 1897",
+    "mainImg": "img/events/second-matabele-war.jpg",
     "summary": [
-      "The Winter War was a war between the Soviet Union and Finland. It began with a Soviet invasion of Finland on 30 November 1939, three months after the outbreak of World War II, and ended three and a half months later with the Moscow Peace Treaty on 13 March 1940. Despite superior military strength, especially in tanks and aircraft, the Soviet Union suffered severe losses and initially made little headway. The League of Nations deemed the attack illegal and expelled the Soviet Union from the organisation.",
-      "The Soviets made several demands, including that Finland cede substantial border territories in exchange for land elsewhere, claiming security reasons—primarily the protection of Leningrad, 32 km from the Finnish border. When Finland refused, the USSR invaded. Most sources conclude that the Soviet Union had intended to conquer all of Finland, and use the establishment of the puppet Finnish Communist government and the Molotov–Ribbentrop Pact's secret protocols as evidence of this, while other sources argue against the idea of the full Soviet conquest."
+      "The Second Matabele War, also known as the Matabeleland Rebellion or part of what is now known in Zimbabwe as the First Chimurenga, was fought between 1896 and 1897 in the area then known as Rhodesia, now Zimbabwe. It pitted the British South Africa Company against the Matabele people, which led to conflict with the Shona people in the rest of Rhodesia.",
+      "In March 1896, the Matabele revolted against the authority of the British South Africa Company. The Mlimo the Matabele spiritual leader, is credited with fomenting much of the anger that led to this confrontation. He convinced the Matabele and the Shona that the settlers were responsible for the drought, locust plagues and the cattle disease rinderpest ravaging the country at the time.",
+      "The Mlimo's call to battle was well-timed. Only a few months earlier, the British South Africa Company's Administrator General for Matabeleland, Leander Starr Jameson, had sent most of his troops and armaments to fight the Transvaal Republic in the ill-fated Jameson Raid. This left the country nearly defenceless. The British immediately sent troops to suppress the Matabele and the Shona, but it cost the lives of many on both sides."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Winter_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/winter-war/m085w4"
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Matabele_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-matabele-war/m0268kl0"
   },
   "funFacts": [
     {
-      "id": "731",
-      "fact": "There are over 2,000 different species of cactuses.",
-      "category": ["Plants"]
+      "id": "487",
+      "fact": "Place an apple in the bag with your potatoes to keep them from budding.",
+      "category": ["Food", "Make-it-Easies"]
     },
-    {
-      "id": "32",
-      "fact": "There are about 1 million ants for every person in the world.",
-      "category": ["Animals"]
-    }
+    { "id": "839", "fact": "A cucumber consists of 96% water.", "category": ["Food"] }
   ],
   "funFacts2": [
     {
-      "id": "504592",
-      "fact": "People didn’t always say “hello” when they answered the phone. When the first regular phone service was established in 1878, Alexander Graham Bell suggested answering the phone with “ahoy.\""
+      "id": "554069",
+      "fact": "Rather than store it, parade officials released a gigantic dachshund balloon into the air at the conclusion of the 1929 Macy’s Thanksgiving Day Parade."
     }
   ],
   "idiom": {
-    "id": "happy-as-the-day-is-long",
-    "term": "happy as the day is long",
-    "definition": "Also, **happy as a lark; happy as a clam (at high tide).** Extremely glad, delighted, very cheerful, as in *He was happy as the day is long,* or *When she heard the news she was happy as a lark,* or *Once I got the test results I was happy as a clam at high tide.* The first of these similes dates from the late 1700s. The second alludes to the lark's beautiful, seemingly very happy, song. The third, from the early 1800s, alludes to the fact that clams can only be dug at low tide and therefore are safe at high tide; it is often shortened to **happy as a clam.**"
+    "id": "from-soup-to-nuts",
+    "term": "from soup to nuts",
+    "definition": "Also, **from A to Z** or **start to finish** or **stem to stern.** From beginning to end, throughout, as in *We went through the whole agenda, from soup to nuts,* or *She had to learn a whole new system from A to Z,* or *It rained from start to finish,* or *We did over the whole house from stem to stern.* The first expression, with its analogy to the first and last courses of a meal, appeared in slightly different forms (such as *from potage to cheese*) from the 1500s on; the precise wording here dates only from the mid-1900s. The second expression alludes to the first and last letters of the Roman alphabet. The third comes from racing and alludes to the entire course of the race; it dates from the mid-1800s. The last variant is nautical, alluding to the front or *stem,* and rear or *stern,* of a vessel."
   },
   "person": {
-    "id": "matyas-rakosi",
-    "name": "Mátyás Rákosi",
-    "dates": "Mar 9, 1892 - Feb 5, 1971",
-    "mainImg": "img/people/matyas-rakosi.jpg",
+    "id": "jose-figueres-ferrer",
+    "name": "José Figueres Ferrer",
+    "dates": "Sep 25, 1906 - Jun 8, 1990",
+    "mainImg": "img/people/jose-figueres-ferrer.jpg",
     "summary": [
-      "Mátyás Rákosi was a Hungarian communist politician. He was born Mátyás Rosenfeld in Ada. He was the leader of Hungary's communist party from 1945 to 1956 — first as General Secretary of the Hungarian Communist Party and later holding the same post with the Hungarian Working People's Party. As such, from 1949 to 1956, he was the de facto ruler of Communist Hungary. An ardent Stalinist, his government was very loyal to the Soviet Union, and he presided over the mass imprisonment of hundreds of thousands of Hungarian people and the deaths of thousands."
+      "José María Hipólito Figueres Ferrer served as President of Costa Rica on three occasions: 1948–1949, 1953–1958 and 1970–1974. During his first term in office he abolished the country's army, nationalized its banking sector, and granted women and Afro-Costa Ricans the right to vote, as well as access to Costa Rican nationality to people of African descent. He was a good friend of the Governor of Puerto Rico, Luis Muñoz Marín, praising his political achievements in one of his essays."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/M%C3%A1ty%C3%A1s_R%C3%A1kosi",
-    "urlGoogle": "https://artsandculture.google.com/entity/mátyás-rákosi/m03gsdj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Figueres_Ferrer",
+    "urlGoogle": "https://artsandculture.google.com/entity/josé-figueres-ferrer/m02884x"
   },
   "place": {
-    "id": "luxembourg",
-    "name": "Luxembourg",
-    "mainImg": "img/places/luxembourg.jpg",
+    "id": "empire-of-japan",
+    "name": "Empire of Japan",
+    "mainImg": "img/places/empire-of-japan.jpg",
     "summary": [
-      "Luxembourg, also known as Luxembourg City, is the capital city of the Grand Duchy of Luxembourg and the country's most populous commune. Standing at the confluence of the Alzette and Pétrusse rivers in southern Luxembourg, the city lies at the heart of Western Europe, situated 213 km by road from Brussels, 372 km from Paris, and 209 km from Cologne. The city contains Luxembourg Castle, established by the Franks in the Early Middle Ages, around which a settlement developed.",
-      "As of 31 December 2019, Luxembourg City has a population of 122,273 inhabitants, which is more than three times the population of the country's second most populous commune. The city's population consists of 160 nationalities. Foreigners represent 70% of the city's population, while Luxembourgers represent 30% of the population, and the number of foreign-born residents in the city rises steadily each year.",
-      "In 2011, Luxembourg was ranked as having the second-highest per capita GDP in the world at $80,119, with the city having developed into a banking and administrative centre."
+      "The Empire of Japan was the historical nation-state and great power that existed from the Meiji Restoration in 1868 to the enactment of the 1947 constitution of modern Japan. At its apex, the Empire of Japan was one of the largest empires in history. Including the home islands, the total amount of land under Japanese sovereignty reached 8,510,000 km² in 1942. By 1943, it accounted for more than 20% of the world's population at the time with 463 million people in its occupied regions and territories, even more populous than the British Empire at its greatest extent.",
+      "Japan's rapid industrialization and militarization under the slogan Fukoku Kyōhei and Shokusan Kōgyō led to its emergence as a world power and the establishment of a colonial empire following the First Sino-Japanese War, the Boxer Rebellion, the Russo-Japanese War, and World War I. Economic and political turmoil in the 1920s led to the rise of militarism, nationalism and totalitarianism, eventually culminating in Japan's membership in the Axis alliance and the conquest of a large part of the Asia-Pacific in World War II."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Luxembourg_City",
-    "urlGoogle": "https://artsandculture.google.com/entity/luxembourg/m0fq8f"
+    "urlWiki": "https://en.wikipedia.org/wiki/Empire_of_Japan",
+    "urlGoogle": "https://artsandculture.google.com/entity/empire-of-japan/m0193qj"
   },
   "quote": {
-    "id": "42",
-    "quote": "An investment in knowledge pays the best interest.",
-    "author": "Benjamin Franklin"
+    "id": "77",
+    "quote": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+    "author": "Charles Darwin"
   },
   "wiki": {
-    "id": "john-vanbrugh",
-    "name": "John Vanbrugh",
-    "summary": "Sir John Vanbrugh was an English architect and dramatist, best known as the designer of Blenheim Palace. He wrote two argumentative and outspoken Restoration comedies, The Relapse (1696) and The Provoked Wife (1697), which have become enduring stage favourites but originally occasioned much controversy. Vanbrugh was in many senses a radical throughout his life. As a young man and a committed Whig, he was part of the scheme to overthrow James II, put William III on the throne and protect English parliamentary democracy, dangerous undertakings which landed him in the dreaded Bastille of Paris as a political prisoner. In his career as a playwright, he offended many sections of Restoration and 18th-century society, not only by the sexual explicitness of his plays, but by their messages in defence of women's rights in marriage. His architectural work was as bold and daring as his early political activism and his marriage-themed plays, and jarred conservative opinions on the subject.",
-    "url": "https://en.wikipedia.org/wiki/John_Vanbrugh"
+    "id": "pakistan",
+    "name": "Pakistan",
+    "summary": "Pakistan is a country located in South Asia that overlaps with the Greater Middle East. It has a thousand-kilometre coastline along the Arabian Sea in the south and borders Afghanistan and Iran to the west, India to the east and the People's Republic of China in the far northeast. The name Pakistan means \"Land of the Pure\" in Urdu and Persian and was coined in 1933 by Choudhary Rahmat Ali, who published it in the pamphlet Now or Never. Pakistan is the sixth-most populous country in the world and the second-most populous Muslim country. Pakistan was established as a modern state in 1947, but the region has a long history of settlement, including by the Indus Valley Civilization. The region was invaded by Afghans, Greeks, Persians, Arabs, and was incorporated into British Raj in the 19th century. Since independence, Pakistan has seen both instability, with the loss of East Pakistan, and significant military and economic growth. Pakistan has the seventh-largest armed forces in the world and is a declared nuclear weapons state.",
+    "url": "https://en.wikipedia.org/wiki/Pakistan"
   },
   "word": {
-    "id": "emprise",
-    "word": "emprise",
-    "url": "https://www.merriam-webster.com/dictionary/emprise",
-    "partOfSpeech": "noun",
-    "pronunciation": "em-PRYZE",
-    "audioPath": "audio/words/emprise.mp3",
-    "definitions": ["an adventurous, daring, or chivalric enterprise"],
-    "examples": [
-      "The poet Rupert Brooke, in an elegy to the passing of youth, lamented the loss of \"high _emprise_ and ventures dear.\"",
-      "\"But perhaps he was the only one courageous enough to voice an opinion that others might have shared, but were afraid to say, that this whole quixotic _emprise_ had been a bad idea, that they had been fools to attempt an escape.\" -- From John D. Lukacs' 2010 book _Escape From Davao_"
+    "id": "untoward",
+    "word": "untoward",
+    "url": "https://www.merriam-webster.com/dictionary/untoward",
+    "partOfSpeech": "adjective",
+    "pronunciation": "un-TOH-erd",
+    "audioPath": "audio/words/untoward.mp3",
+    "definitions": [
+      "difficult to guide, manage, or work with : unruly, intractable",
+      "not favorable : adverse, unpropitious",
+      "improper, indecorous"
     ],
-    "origin": "Someone who engages in emprises undertakes much, so it's no surprise that \"emprise\" descends from the Anglo-French word \"emprendre,\" meaning \"to undertake.\" It's also no surprise that \"emprise\" became established in English during the 13th century, a time when brave knights engaged in many a chivalrous undertaking. Fourteenth-century author Geoffrey Chaucer used \"emprise\" to describe one such knight in \"The Franklin's Tale\" (one of the stories in _The Canterbury Tales_): \"Ther was a knyght that loved and dide his payne / To serve a lady in his beste wise; / And many labour, many a greet emprise, / He for his lady wroghte er she were wonne.\""
+    "examples": [
+      "The coach forewarned the players that any untoward behavior, on or off the field, would not be tolerated.",
+      "\"According to preliminary reports, the voting on Wednesday proceeded smoothly. Other than the usual minor glitches, there were no untoward incidents.\" -- From an article in _The Kansas City Star_, August 5, 2010"
+    ],
+    "origin": "More than 700 years ago, English speakers began using the word \"toward\" for \"forward-moving\" youngsters, the kind who showed promise and were open to listening to their elders. After about 150 years, the use was broadened somewhat to mean simply \"docile\" or \"obliging.\" The opposite of this \"toward\" is \"froward,\" meaning \"perverse\" or \"ungovernable.\" Today, \"froward\" has fallen out of common use, and the cooperative sense of \"toward\" is downright obsolete, but the \"newcomer\" to this series -- \"untoward\" -- has kept its toehold. \"Untoward\" first showed up in the 1400s, and it is still used, just as it was then, as a synonym of \"unruly,\" though it has since acquired other meanings as well."
   }
 }

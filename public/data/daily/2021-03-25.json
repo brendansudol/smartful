@@ -1,145 +1,131 @@
 {
   "artist": {
-    "id": "paul-gauguin",
-    "name": "Paul Gauguin",
-    "dates": "Jun 7, 1848 - May 8, 1903",
-    "mainImg": "img/art/artists/paul-gauguin.jpg",
+    "id": "kleophrades-painter",
+    "name": "Kleophrades Painter",
+    "dates": null,
+    "mainImg": "img/art/artists/kleophrades-painter.jpg",
     "artworkImgs": [
       {
-        "name": "Self-Portrait",
-        "path": "img/art/artworks/paul-gauguin-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-paul-gauguin/KgHdj5f98vdwmA"
+        "name": "Terracotta Panathenaic prize amphora",
+        "path": "img/art/artworks/kleophrades-painter-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/terracotta-panathenaic-prize-amphora-kleophrades-painter/pwHl4H8MXPEb-Q"
       },
       {
-        "name": "Two Tahitian Women",
-        "path": "img/art/artworks/paul-gauguin-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/two-tahitian-women-paul-gauguin/OgG62zk4SoKlnA"
+        "name": "Terracotta Panathenaic prize amphora",
+        "path": "img/art/artworks/kleophrades-painter-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/terracotta-panathenaic-prize-amphora-kleophrades-painter/dQH86CLYXXByyQ"
       },
       {
-        "name": "Vincent van Gogh painting sunflowers",
-        "path": "img/art/artworks/paul-gauguin-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/vincent-van-gogh-painting-sunflowers-paul-gauguin/XgHfqMF7DBqobQ"
+        "name": "Terracotta calyx-krater (bowl for mixing wine and water)",
+        "path": "img/art/artworks/kleophrades-painter-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/terracotta-calyx-krater-bowl-for-mixing-wine-and-water-kleophrades-painter/UgFAXvYgvL_TpQ"
       },
       {
-        "name": "Arii Matamoe (The Royal End)",
-        "path": "img/art/artworks/paul-gauguin-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/arii-matamoe-the-royal-end/tQGYlAKx_uRabQ"
+        "name": "Calyx Krater (mixing bowl for wine and water): Return of Hephaistos to Olympos",
+        "path": "img/art/artworks/kleophrades-painter-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/calyx-krater-mixing-bowl-for-wine-and-water-return-of-hephaistos-to-olympos/aAEvuSD14w5s0w"
       },
       {
-        "name": "The Seed of the Areoi",
-        "path": "img/art/artworks/paul-gauguin-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-seed-of-the-areoi-paul-gauguin/SAFhIKAr_n0oUg"
+        "name": "Terracotta neck-amphora (jar)",
+        "path": "img/art/artworks/kleophrades-painter-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/terracotta-neck-amphora-jar-kleophrades-painter/VQFh8ZUROs8UAg"
       },
       {
-        "name": "Still Life with Three Puppies",
-        "path": "img/art/artworks/paul-gauguin-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-with-three-puppies-paul-gauguin/MQHj7hahHL85Vg"
+        "name": "Terracotta neck-amphora (jar) with twisted handles",
+        "path": "img/art/artworks/kleophrades-painter-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/terracotta-neck-amphora-jar-with-twisted-handles-kleophrades-painter/bgGhzH3cZfyT-w"
       }
     ],
     "summary": [
-      "Eugène Henri Paul Gauguin was a French Post-Impressionist artist. Unappreciated until after his death, Gauguin is now recognized for his experimental use of color and Synthetist style that were distinct from Impressionism. Toward the end of his life, he spent ten years in French Polynesia. The paintings from this time depict people or landscapes from that region.",
-      "His work was influential to the French avant-garde and many modern artists, such as Pablo Picasso and Henri Matisse. Gauguin's art became popular after his death, partially from the efforts of art dealer Ambroise Vollard, who organized exhibitions of his work late in his career and assisted in organizing two important posthumous exhibitions in Paris.",
-      "Gauguin was an important figure in the Symbolist movement as a painter, sculptor, printmaker, ceramist, and writer. His expression of the inherent meaning of the subjects in his paintings, under the influence of the cloisonnist style, paved the way to Primitivism and the return to the pastoral. He was also an influential proponent of wood engraving and woodcuts as art forms."
-    ],
-    "quote": "“Civilization is what makes you sick.”",
-    "movements": [
-      "Symbolism",
-      "Modern art",
-      "Post-Impressionism",
-      "Primitivism",
-      "Synthetism",
-      "Impressionism"
-    ],
-    "mediums": ["Oil paint", "Ink", "Graphite", "Pen", "Crayon", "Pencil"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Paul_Gauguin",
-    "urlGoogle": "https://artsandculture.google.com/entity/paul-gauguin/m0h82x"
-  },
-  "event": {
-    "id": "zhou-dynasty",
-    "name": "Zhou dynasty",
-    "dates": "1121 BC - 255 BC",
-    "mainImg": "img/events/zhou-dynasty.jpg",
-    "summary": [
-      "The Zhou dynasty was a Chinese dynasty that followed the Shang dynasty and preceded the Qin dynasty. The Zhou dynasty lasted longer than any other dynasty in Chinese history. The military control of China by the royal house, surnamed Ji, lasted initially from 1046 until 771 BC for a period known as the Western Zhou and the political sphere of influence it created continued well into the Eastern Zhou period for another 500 years.",
-      "During the Zhou dynasty, centralized power decreased throughout the Spring and Autumn period until the Warring States period in the last two centuries of the dynasty. In the latter period, the Zhou court had little control over its constituent states that were at war with each other until the Qin state consolidated power and formed the Qin dynasty in 221 BC. The Zhou dynasty had formally collapsed only 35 years earlier, although the dynasty had only nominal power at that point.",
-      "This period of Chinese history produced what many consider the zenith of Chinese bronzeware making. The latter period of the Zhou dynasty is also famous for the beginnings of three major Chinese philosophies: Confucianism, Taoism and Legalism."
+      "The Kleophrades Painter is the name given to the anonymous red-figure Athenian vase painter, who was active from approximately 510 – 470 BCE and whose work, considered amongst the finest of the red figure style, is identified by its stylistic traits."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Zhou_dynasty",
-    "urlGoogle": "https://artsandculture.google.com/entity/zhou-dynasty/m0bx4c"
+    "movements": [],
+    "mediums": ["Terracotta", "Rock", "Clay"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Kleophrades_Painter",
+    "urlGoogle": "https://artsandculture.google.com/entity/kleophrades-painter/m06h4ft"
+  },
+  "event": {
+    "id": "gravettian",
+    "name": "Gravettian",
+    "dates": null,
+    "mainImg": "img/events/gravettian.jpg",
+    "summary": [
+      "The Gravettian was an archaeological industry of the European Upper Paleolithic that succeeded the Aurignacian circa 33,000 years BP. It is archaeologically the last European culture many consider unified, and had mostly disappeared by c. 22,000 BP, close to the Last Glacial Maximum, although some elements lasted until c. 17,000 BP. At this point, it was replaced abruptly by the Solutrean in France and Spain, and developed into or continued as the Epigravettian in Italy, the Balkans, Ukraine and Russia.",
+      "They are known for their Venus figurines, which were typically made as either ivory or limestone carvings. The Gravettian culture was first identified at the site of La Gravette in Southwestern France."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gravettian",
+    "urlGoogle": "https://artsandculture.google.com/entity/gravettian/m030nts"
   },
   "funFacts": [
-    { "id": "48", "fact": "Cats can hear ultrasound.", "category": ["Animals"] },
     {
-      "id": "427",
-      "fact": "Lemons ripen after you pick them, but oranges do not.",
+      "id": "289",
+      "fact": "In 1908, the first lollipop-making machine started in New Haven, CT.",
+      "category": ["Food", "Firsts"]
+    },
+    {
+      "id": "67",
+      "fact": "There are 18 different animal shapes in the animal cracker zoo.",
       "category": ["Food"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "504710",
-      "fact": "There's a basketball court above the Supreme Court. It's known as the Highest Court in the Land."
-    }
-  ],
+  "funFacts2": [{ "id": "554045", "fact": "Barbie's full name is Barbara Millicent Roberts." }],
   "idiom": {
-    "id": "pass-muster",
-    "term": "pass muster",
-    "definition": "Meet a required standard, as in *That yard cleanup won't pass muster with Mom.* This expression originally meant \"to undergo a military review without censure,\" *muster* referring to an assembling of troops for inspection or a similar purpose. [Late 1500s]"
+    "id": "dull-as-dishwater",
+    "term": "dull as dishwater",
+    "definition": "Boring, tedious, as in *That lecture was dull as dishwater.* The original simile, **dull as ditchwater,** dating from the 1700s, alluded to the muddy water in roadside ditches. In the first half of the 1900s, perhaps through mispronunciation, it became *dishwater,* that is, the dingy, grayish water in which dirty dishes had soaked."
   },
   "person": {
-    "id": "hugo-black",
-    "name": "Hugo Black",
-    "dates": "Feb 27, 1886 - Sep 25, 1971",
-    "mainImg": "img/people/hugo-black.jpg",
+    "id": "otto-i-holy-roman-emperor",
+    "name": "Otto I, Holy Roman Emperor",
+    "dates": "912 AD - 973 AD",
+    "mainImg": "img/people/otto-i-holy-roman-emperor.jpg",
     "summary": [
-      "Hugo Lafayette Black was an American lawyer, politician, and jurist who served as a U.S. Senator from 1927 to 1937 and as an Associate Justice of the Supreme Court of the United States from 1937 to 1971. A member of the Democratic Party and a devoted New Dealer, Black endorsed Franklin D. Roosevelt in both the 1932 and 1936 presidential elections. Having gained a reputation in the Senate as a reformer, Black was nominated to the Supreme Court by President Roosevelt and confirmed by the Senate by a vote of 63 to 16. He was the first of nine Roosevelt nominees to the Court, and he outlasted all except for William O. Douglas.",
-      "The fifth longest-serving justice in Supreme Court history, Black was one of the most influential Supreme Court justices in the 20th century.",
-      "He is noted for his advocacy of a textualist reading of the United States Constitution and of the position that the liberties guaranteed in the Bill of Rights were imposed on the states by the Fourteenth Amendment. During his political career Black was regarded as a staunch supporter of liberal policies and civil liberties.",
-      "However, Black wrote the majority opinion in Korematsu v."
-    ],
-    "quote": "“In revealing the workings of government that led to the Vietnam War, the newspapers nobly did precisely that which the Founders hoped and trusted they would do.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Hugo_Black",
-    "urlGoogle": "https://artsandculture.google.com/entity/hugo-black/m0139rh"
-  },
-  "place": {
-    "id": "novosibirsk",
-    "name": "Novosibirsk",
-    "mainImg": "img/places/novosibirsk.jpg",
-    "summary": [
-      "Novosibirsk is the administrative center of Novosibirsk Oblast in Russia. Located in the southwestern part of Siberia on the banks of the Ob River, it is the third-most populous city in Russia as well as the most populous city in Asian Russia, with a population of 1,612,833 as of the 2018 census.",
-      "Novosibirsk was founded in 1893 on the Ob River crossing point of the future Trans-Siberian Railway. Originally named Novonikolayevsk, it grew rapidly into a major transport, commercial and industrial hub. The city was ravaged by the Russian Civil War but recovered during the early Soviet period, and gained its present name in 1926. Under Stalin, Novosibirsk became one of the largest industrial centers of Siberia. Following the outbreak of the Great Patriotic War the city hosted many factories relocated from European Russia.",
-      "Novosibirsk is home to the headquarters of numerous Russian corporations, as well as the world-renowned Novosibirsk Zoo. It is served by Tolmachevo Airport, the busiest airport in Siberia."
+      "Otto I, traditionally known as Otto the Great, was German king from 936 and Holy Roman Emperor from 962 until his death in 973. He was the oldest son of Henry I the Fowler and Matilda.",
+      "Otto inherited the Duchy of Saxony and the kingship of the Germans upon his father's death in 936. He continued his father's work of unifying all German tribes into a single kingdom and greatly expanded the king's powers at the expense of the aristocracy. Through strategic marriages and personal appointments, Otto installed members of his family in the kingdom's most important duchies. This reduced the various dukes, who had previously been co-equals with the king, to royal subjects under his authority. Otto transformed the Roman Catholic Church in Germany to strengthen royal authority and subjected its clergy to his personal control.",
+      "After putting down a brief civil war among the rebellious duchies, Otto defeated the Magyars at the Battle of Lechfeld in 955, thus ending the Hungarian invasions of Western Europe. The victory against the pagan Magyars earned Otto a reputation as a savior of Christendom and secured his hold over the kingdom. By 961, Otto had conquered the Kingdom of Italy."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Novosibirsk",
-    "urlGoogle": "https://artsandculture.google.com/entity/novosibirsk/m0gzyb"
+    "urlWiki": "https://en.wikipedia.org/wiki/Otto_I,_Holy_Roman_Emperor",
+    "urlGoogle": "https://artsandculture.google.com/entity/otto-i-holy-roman-emperor/m0b3rj"
+  },
+  "place": {
+    "id": "liechtenstein",
+    "name": "Liechtenstein",
+    "mainImg": "img/places/liechtenstein.jpg",
+    "summary": [
+      "Liechtenstein, officially the Principality of Liechtenstein, is a German-speaking microstate situated in the Alps and in the southwest of Central Europe. The principality is a semi-constitutional monarchy headed by the Prince of Liechtenstein; the Prince's extensive powers are equivalent to those of a President in a semi-presidential system.",
+      "Liechtenstein is bordered by Switzerland to the west and south and Austria to the east and north. It is Europe's fourth-smallest country, with an area of just over 160 square kilometres and a population of 38,749. Divided into 11 municipalities, its capital is Vaduz, and its largest municipality is Schaan. It is also the smallest country to border two countries. Liechtenstein is one of only two doubly landlocked countries in the world, along with Uzbekistan.",
+      "Economically, Liechtenstein has one of the highest gross domestic products per person in the world when adjusted for purchasing power parity. It was once known as a billionaire tax haven, but is no longer on any blacklists of uncooperative tax haven countries.",
+      "An Alpine country, Liechtenstein is mountainous, making it a winter sport destination."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Liechtenstein",
+    "urlGoogle": "https://artsandculture.google.com/entity/liechtenstein/m04j53"
   },
   "quote": {
-    "id": "78",
-    "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
-    "author": "Michelangelo"
+    "id": "119",
+    "quote": "We are not nouns, we are verbs. I am not a thing...an actor, a writer...I am a person who does things...I write, I act...and I never know what I'm going to do next. I think you can be imprisoned if you think of yourself as a noun.",
+    "author": "Stephen Fry"
   },
   "wiki": {
-    "id": "colin-hannah",
-    "name": "Colin Hannah",
-    "summary": "Sir Colin Hannah (1914–1978) was a senior commander in the Royal Australian Air Force (RAAF) and a Governor of Queensland. Born in Western Australia, he joined the RAAF in 1935 and served as a pilot in Nos. 22 and 23 Squadrons. During World War II, he was the RAAF's Deputy Director of Armament, saw action in the South West Pacific as commander of No. 6 Squadron and, later, No. 71 Wing, and ended the war in charge of Western Area Command in Perth. During the Malayan Emergency, he was senior air staff officer at RAF Far East Air Force Headquarters, Singapore. His other post-war appointments included Deputy Chief of the Air Staff, Air Officer Commanding (AOC) Operational Command, and AOC Support Command. In January 1970, he was promoted to air marshal and became Chief of the Air Staff (CAS), the RAAF's senior position. Knighted in 1971, Hannah concluded his three-year appointment as CAS a year early, in March 1972, to become Governor of Queensland, where he attracted controversy by making comments critical of the Federal government. The British government refused to agree to his term being extended. He retired in March 1977, and died the following year.",
-    "url": "https://en.wikipedia.org/wiki/Colin_Hannah"
+    "id": "clements-markham",
+    "name": "Clements Markham",
+    "summary": "Clements Markham (1830–1916) was a British geographer, explorer and writer. He was secretary of the Royal Geographical Society (RGS) between 1863 and 1888, and later served as the Society's president for a further 12 years. In the latter capacity he was mainly responsible for organising the National Antarctic Expedition of 1901–04, and for launching the polar career of Robert Falcon Scott. The main achievement of Markham's RGS presidency was the revival at the end of the 19th century of British interest in Antarctic exploration, after a 50-year interval. All his life Markham was a constant traveller and a prolific writer, his works including histories, travel accounts and biographies. He authored many papers and reports for the RGS, and did much editing and translation work for the Hakluyt Society, of which he also became president. He received public and academic honours, and was recognised as a major influence on the discipline of geography, although it was acknowledged that much of his work was based on enthusiasm rather than scholarship. Among the geographical features bearing his name is Antarctica's Mount Markham, named for him by Scott in 1902.",
+    "url": "https://en.wikipedia.org/wiki/Clements_Markham"
   },
   "word": {
-    "id": "filch",
-    "word": "filch",
-    "url": "https://www.merriam-webster.com/dictionary/filch",
-    "partOfSpeech": "verb",
-    "pronunciation": "FILCH",
-    "audioPath": "audio/words/filch.mp3",
-    "definitions": [
-      "to appropriate furtively or casually : to steal (something that is small or that has little value)"
-    ],
+    "id": "crescent",
+    "word": "crescent",
+    "url": "https://www.merriam-webster.com/dictionary/crescent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KRESS-unt",
+    "audioPath": "audio/words/crescent.mp3",
+    "definitions": ["marked by an increase : increasing"],
     "examples": [
-      "After Devin admitted to _filching_ a candy bar from the convenience store, he apologized to the owner but was not allowed in the store again.",
-      "\"(Shia) LaBeouf directed a 2012 short film, _HowardCantour.com_. Until Dec. 16, one would have imagined that he wrote the film, too. But no, as BuzzFeed revealed (as though the saga lacked intellectual-property intrigue!), he had _filched_ the plot from 'Justin M. Damiano,' a 2007 comic by artist Daniel Clowes.\" - From a post by Jack Dickey on TIME.com, December 23, 2013"
+      "\"The people love me, and the sea is mine; / My powers are crescent, and my auguring hope / Says it will come to th' full.\" (William Shakespeare, _The Tragedy of Antony and Cleopatra_)"
     ],
-    "origin": "\"I am glad I am so acquit of this tinder-box: his thefts were too open; his filching was like an unskilful singer-he kept not time.\" So says Falstaff in Shakespeare's play The Merry Wives of Windsor. The Bard was fond of \"filch\" in both its literal and figurative uses; Iago says to Othello, \"he that filches from me my good name / Robs me of that which not enriches him / And makes me poor indeed.\" \"Filch\" derives from the Middle English word \"filchen\" (\"to attack\" or \"to steal\") and perhaps from Old English \"gefylce\" (\"band of men, troop, army\"). As a noun, \"filch\" once referred to a hooked staff used by thieves to snatch articles out of windows and from similar places, but this use is now obsolete."
+    "origin": "You probably know \"crescent\" as the shape of a moon that is less than half-illuminated. These days, \"crescent\" is generally used of either a waxing or waning moon, but that wasn't always the case. Originally, it referred only to the increasing illumination phase that immediately follows the new moon. That original meaning nicely reflects the meaning of the word's Latin ancestor \"crescere,\" which means \"to grow.\" The meaning of \"crescere\" also shines through when we use \"crescent\" as an adjective meaning \"increasing\" or \"growing.\" English speakers have been using \"crescent\" in this way since the 16th century."
   }
 }

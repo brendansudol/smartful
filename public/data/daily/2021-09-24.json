@@ -1,125 +1,131 @@
 {
   "artist": {
-    "id": "richard-parkes-bonington",
-    "name": "Richard Parkes Bonington",
-    "dates": "Oct 25, 1802 - Sep 23, 1828",
-    "mainImg": "img/art/artists/richard-parkes-bonington.jpg",
+    "id": "zheng-xie",
+    "name": "Zheng Xie",
+    "dates": "Nov 22, 1693 - 1765",
+    "mainImg": "img/art/artists/zheng-xie.jpg",
     "artworkImgs": [
       {
-        "name": "Abbey St-Amand, Rouen",
-        "path": "img/art/artworks/richard-parkes-bonington-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/abbey-st-amand-rouen-richard-parkes-bonington-1802–1828-british/sQG-r1rkdtnhGg"
+        "name": "Orchid and Rockery by Zheng Xie",
+        "path": "img/art/artworks/zheng-xie-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/orchid-and-rockery-by-zheng-xie-zheng-xie/tAGPnzGZGfPMJg"
       },
       {
-        "name": "Bologna",
-        "path": "img/art/artworks/richard-parkes-bonington-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/bologna-richard-parkes-bonington/jAE9T1bugHyDeg"
+        "name": "Bamboo and Rocks",
+        "path": "img/art/artworks/zheng-xie-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/bamboo-and-rocks/XQGrgS0Lu4rtOA"
       },
       {
-        "name": "Beached Vessels and a Wagon near Trouville",
-        "path": "img/art/artworks/richard-parkes-bonington-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/beached-vessels-and-a-wagon-near-trouville-richard-parkes-bonington-1802–1828-british/ggHxQXoGgip7KQ"
+        "name": "Pillar-shaped Rockery",
+        "path": "img/art/artworks/zheng-xie-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/pillar-shaped-rockery-zheng-xie/IAEtPeu677uyVg"
       },
       {
-        "name": "View of Rouen from St. Catherine’s Hill",
-        "path": "img/art/artworks/richard-parkes-bonington-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-rouen-from-st-catherine’s-hill-richard-parkes-bonington/9gFk4iRlepUBSg"
+        "name": "清 鄭燮 遠山煙竹圖 軸|Misty Bamboo on a Distant Mountain",
+        "path": "img/art/artworks/zheng-xie-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/清-鄭燮-遠山煙竹圖-軸-misty-bamboo-on-a-distant-mountain-zheng-xie/MAHQXIBpu04Y1g"
       },
       {
-        "name": "Portia and Bassanio",
-        "path": "img/art/artworks/richard-parkes-bonington-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/portia-and-bassanio-richard-parkes-bonington-1802–1828-british/zwHgN2U0K68rbA"
+        "name": "Hanging scroll",
+        "path": "img/art/artworks/zheng-xie-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/hanging-scroll-zheng-xie/oQGXUKxUHeOWCA"
       },
       {
-        "name": "Roadside Halt",
-        "path": "img/art/artworks/richard-parkes-bonington-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/roadside-halt-richard-parkes-bonington/WgE80pHGA7sqDw"
+        "name": "Five-character Poem in Running Script",
+        "path": "img/art/artworks/zheng-xie-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/five-character-poem-in-running-script-zheng-xie/FAHRtnSjeKMoJg"
       }
     ],
     "summary": [
-      "Richard Parkes Bonington was an English Romantic landscape painter, who moved to France at the age of 14 and can also be considered as a French artist, and an intermediary bringing aspects of English style to France. Becoming, after his very early death, one of the most influential British artists of his time, the facility of his style was inspired by the old masters, yet was entirely modern in its application. His landscapes were mostly of coastal scenes, with a low horizon and large sky, showing a brilliant handling of light and atmosphere. He also painted small historical cabinet paintings in a freely-handled version of the troubadour style."
+      "Zheng Xie, commonly known as Zheng Banqiao was a Chinese painter from Jiangsu. He began life in poverty, but rose in the exam system to become a magistrate at Shandong. However, after 12 years, he became critical of the life of an official as he refused to ingratiate himself with senior officials. When he was reportedly criticized for building a shelter for the poor, he resigned. After that, he expressed himself in art and became one of the Eight Eccentrics of Yangzhou. He was noted for his drawing of orchids, bamboo, and stones. In 1748 he briefly resumed an official career as \"official calligrapher and painter\" for the Qianlong Emperor.",
+      "Zheng was also a calligrapher who created a new calligraphy style influenced by his orchid drawings. Added to this, he had an interest in literature and poetry. He preferred to write about ordinary people in a natural style."
     ],
-    "quote": null,
-    "movements": ["Romanticism"],
-    "mediums": ["Watercolor painting", "Graphite", "Oil paint", "Ink", "Pen", "Drawing"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Richard_Parkes_Bonington",
-    "urlGoogle": "https://artsandculture.google.com/entity/richard-parkes-bonington/m04dxcm"
+    "quote": "“Hold fast to the mountain, take root in a broken-up bluff, grow stronger after tribulations, and withstand the buffering wind from all directions.”",
+    "movements": [],
+    "mediums": ["Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Zheng_Xie",
+    "urlGoogle": "https://artsandculture.google.com/entity/zheng-xie/m087tvk"
   },
   "event": {
-    "id": "potsdam-conference",
-    "name": "Potsdam Conference",
-    "dates": "Jul 17, 1945 - Aug 2, 1945",
-    "mainImg": "img/events/potsdam-conference.jpg",
+    "id": "battle-of-berlin",
+    "name": "Battle of Berlin",
+    "dates": "Apr 16, 1945 - May 2, 1945",
+    "mainImg": "img/events/battle-of-berlin.jpg",
     "summary": [
-      "The Potsdam Conference was held in Potsdam, Germany, from 17 July to 2 August 1945. The participants were the Soviet Union, the United Kingdom, and the United States, represented respectively by Premier Joseph Stalin, Prime Ministers Winston Churchill and Clement Attlee, and President Harry S. Truman.",
-      "They gathered to decide how to administer Germany, which had agreed to unconditional surrender nine weeks earlier on the 8th of May. The goals of the conference also included the establishment of postwar order, peace treaty issues, and countering the effects of the war.",
-      "Additionally, the Foreign Secretaries of the three Governments, James F. Byrnes, V. M. Molotov, and Anthony Eden, the Chief of Staff, with other advisers also participated in the Conference. From July 17 to July 25 there were held nine meetings. After that, the Conference was interrupted for two days, as the results of the British general election were being announced."
+      "The Battle of Berlin, designated the Berlin Strategic Offensive Operation by the Soviet Union, and also known as the Fall of Berlin, was one of the last major offensives of the European theatre of World War II.",
+      "Following the Vistula–Oder Offensive of January–February 1945, the Red Army had temporarily halted on a line 60 km east of Berlin. On 9 March, Germany established its defence plan for the city with Operation Clausewitz. The first defensive preparations at the outskirts of Berlin were made on 20 March, under the newly appointed commander of Army Group Vistula, General Gotthard Heinrici.",
+      "When the Soviet offensive resumed on 16 April, two Soviet fronts attacked Berlin from the east and south, while a third overran German forces positioned north of Berlin. Before the main battle in Berlin commenced, the Red Army encircled the city after successful battles of the Seelow Heights and Halbe."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Potsdam_Conference",
-    "urlGoogle": "https://artsandculture.google.com/entity/potsdam-conference/m0624y"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Berlin",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-berlin/m01qlj2"
   },
   "funFacts": [
     {
-      "id": "1019",
-      "fact": "Interstate 90 is the longest U.S. Interstate Highway with over 3,000 miles from Seattle, WA to Boston, MA.",
-      "category": ["Geography"]
+      "id": "948",
+      "fact": "Early football fields were painted with both horizontal and vertical lines, creating a pattern that resembled a gridiron.",
+      "category": ["History", "Firsts"]
     },
     {
-      "id": "120",
-      "fact": "The only continent without reptiles or snakes is Antarctica.",
-      "category": ["Geography", "Onlies"]
+      "id": "825",
+      "fact": "Our eyes are always the same size from birth, but our nose and ears never stop growing.",
+      "category": ["Anatomy"]
     }
   ],
-  "funFacts2": [{ "id": "553835", "fact": "The feral puppies in Chernobyl are radioactive." }],
+  "funFacts2": [
+    {
+      "id": "554054",
+      "fact": "Female cicadas have been known to confuse the roar of power tools for mating calls, sometimes swarming people using lawn mowers."
+    }
+  ],
   "idiom": {
-    "id": "take-down-a-notch",
-    "term": "take down a notch",
-    "definition": "Also, **take down a peg.** Deflate or humble someone, as in *He's so arrogant that I wish someone would take him down a notch,* or *That defeat took them down a peg.* Both *notch* and *peg* in this idiom allude to a series, the former of indentations, the latter of knobs, used to raise or lower something. Specifically, *peg* alludes to the pegs used to lower a ship's colors. Their figurative use dates from the second half of the 1600s."
+    "id": "occams-razor",
+    "term": "Occam's razor",
+    "definition": "The idea that the simplest explanation is probably the best. William of Occam was a Franciscan friar and philosopher (c. 1280-1349) whose writings so angered the Pope that he was excommunicated. His original statement was *Entia non sunt multiplicanda praeter necessitatem* (Entities should not be multiplied more than necessary). It was a French philosopher, Etienne Bonnot de Condillac, who in 1746 likened the idea to a razor, that is, cutting through complex ideas to reach the truth, and nearly a century later Sir William Hamilton, in an 1836 lecture, coined the present idiom. While it is not often heard today, it is not obsolete. Archer Mayor used it as the title of his 1999 mystery novel."
   },
   "person": {
-    "id": "kathleen-lynn",
-    "name": "Kathleen Lynn",
-    "dates": "Jan 28, 1874 - Sep 14, 1955",
-    "mainImg": "img/people/kathleen-lynn.jpg",
+    "id": "mc-george-bundy",
+    "name": "McGeorge Bundy",
+    "dates": "Mar 30, 1919 - Sep 16, 1996",
+    "mainImg": "img/people/mc-george-bundy.jpg",
     "summary": [
-      "Kathleen Florence Lynn was an Irish Sinn Féin politician, activist and medical doctor.",
-      "Lynn was so greatly affected by the poverty and disease among the poor in the west of Ireland that, at 16, she decided to be a doctor. She was educated in England and Germany, before enrolling in the Royal University of Ireland, a forerunner to the UCD School of Medicine. Following her graduation in 1899, Lynn went to the United States, where she worked for ten years, before returning to Ireland to become the first female doctor at the Royal Victoria Eye and Ear Hospital. In 1919, she founded Saint Ultan's Children's Hospital."
+      "McGeorge \"Mac\" Bundy was an American academic who served as United States National Security Advisor to Presidents John F. Kennedy and Lyndon B. Johnson from 1961 through 1966. He was president of the Ford Foundation from 1966 through 1979. Despite his career as a foreign-policy intellectual, educator, and philanthropist, he is best remembered as one of the chief architects of the United States' escalation of the Vietnam War during the Kennedy and Johnson administrations.",
+      "After World War II, during which Bundy served as an intelligence officer, in 1949 he was selected for the Council on Foreign Relations. He worked with a study team on implementation of the Marshall Plan. He was appointed a professor of government at Harvard University, and in 1953 as its youngest dean of the Faculty of Arts and Sciences, working to develop Harvard as a merit-based university. In 1961 he joined Kennedy's administration. After serving at the Ford Foundation, in 1979 he returned to academia as professor of history at New York University, and later as scholar in residence at the Carnegie Corporation."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kathleen_Lynn",
-    "urlGoogle": "https://artsandculture.google.com/entity/kathleen-lynn/m02q53jd"
+    "urlWiki": "https://en.wikipedia.org/wiki/McGeorge_Bundy",
+    "urlGoogle": "https://artsandculture.google.com/entity/mcgeorge-bundy/m0n1th"
   },
   "place": {
-    "id": "honduras",
-    "name": "Honduras",
-    "mainImg": "img/places/honduras.jpg",
+    "id": "accra",
+    "name": "Accra",
+    "mainImg": "img/places/accra.jpg",
     "summary": [
-      "Honduras, officially the Republic of Honduras, is a country in Central America. The republic of Honduras is bordered to the west by Guatemala, to the southwest by El Salvador, to the southeast by Nicaragua, to the south by the Pacific Ocean at the Gulf of Fonseca, and to the north by the Gulf of Honduras, a large inlet of the Caribbean Sea.",
-      "Honduras was home to several important Mesoamerican cultures, most notably the Maya, before the Spanish Colonization in the sixteenth century. The Spanish introduced Roman Catholicism and the now predominant Spanish language, along with numerous customs that have blended with the indigenous culture. Honduras became independent in 1821 and has since been a republic, although it has consistently endured much social strife and political instability, and remains one of the poorest countries in the Western Hemisphere. In 1960, the northern part of what was the Mosquito Coast was transferred from Nicaragua to Honduras by the International Court of Justice.",
-      "The nation's economy is primarily agricultural, making it especially vulnerable to natural disasters such as Hurricane Mitch in 1998."
+      "Accra is the capital of Ghana covering an area of 225.67 km² with an estimated urban population of 2.27 million as of 2012. It is organized into 12 local government districts – 11 municipal districts and the Accra Metropolitan District, which is the only district within the capital to be granted city status. \"Accra\" usually refers to the Accra Metropolitan Area, which serves as the capital of Ghana, while the district which is within the jurisdiction of the Accra Metropolitan Assembly is distinguished from the rest of the capital as the \"City of Accra\". In common usage, however, the terms \"Accra\" and \"City of Accra\" are used interchangeably.",
+      "The intersection of the Lafa stream and Mallam junction serves as the western border of Accra, the Great Hall of the University of Ghana forms Accra's northern border, while the Nautical College forms the eastern border. The Gulf of Guinea forms the southern border."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Honduras",
-    "urlGoogle": "https://artsandculture.google.com/entity/honduras/m03h2c"
+    "urlWiki": "https://en.wikipedia.org/wiki/Accra",
+    "urlGoogle": "https://artsandculture.google.com/entity/accra/m0fnyc"
   },
   "wiki": {
-    "id": "persoonia-lanceolata",
-    "name": "Persoonia lanceolata",
-    "summary": "Persoonia lanceolata, commonly known as lance-leaf geebung, is a shrub native to New South Wales in eastern Australia. It reaches 3 m (9.8 ft) in height and has smooth grey bark and bright green foliage. Its small yellow flowers grow on racemes and appear in the austral summer and autumn (January to April), followed by green fleshy fruit (known as drupes) which ripen the following spring (September to October). Within the genus Persoonia, Persoonia lanceolata belongs to the lanceolata group of 58 closely related species. It interbreeds with several other species found in its range. The species is usually found in dry sclerophyll forest on sandstone-based nutrient-deficient soil. It has adapted to a fire-prone environment; plants lost in bushfires can regenerate through a ground-stored seed bank. Seedlings mostly germinate within two years of fires. Several species of native bee of the genus Leioproctus pollinate the flowers. Swamp wallabies are a main consumer of its fruit, and the seeds are spread in wallaby scat. Its lifespan ranges from 25 to 60 years, though difficulties in propagation have seen low cultivation rates.",
-    "url": "https://en.wikipedia.org/wiki/Persoonia_lanceolata"
+    "id": "boston-massachusetts",
+    "name": "Boston, Massachusetts",
+    "summary": "Boston is the capital and most populous city of the Commonwealth of Massachusetts, a state in the United States. The largest city in New England, it is considered the unofficial capital of the New England region. The city-proper had an estimated population of 596,638 in 2005, and lies at the center of America's eleventh-largest metropolitan area, Greater Boston, which is home to 4.4 million people. Founded in 1630, Boston was the location of several major events during the American Revolution, including the Boston Massacre and the Boston Tea Party. With many colleges and universities within the city and surrounding area, Boston is a center of higher education and a center for health care. The city's economy is also based on research, finance, and technology — principally biotechnology. Boston is struggling with gentrification issues, and has one of the highest costs of living in the United States.",
+    "url": "https://en.wikipedia.org/wiki/Boston,_Massachusetts"
   },
   "word": {
-    "id": "cosmeticize",
-    "word": "cosmeticize",
-    "url": "https://www.merriam-webster.com/dictionary/cosmeticize",
+    "id": "chicane",
+    "word": "chicane",
+    "url": "https://www.merriam-webster.com/dictionary/chicane",
     "partOfSpeech": "verb",
-    "pronunciation": "kahz-MET-uh-syze",
-    "audioPath": "audio/words/cosmeticize.mp3",
-    "definitions": ["to make (something unpleasant or ugly) superficially attractive"],
+    "pronunciation": "shih-KAYN",
+    "audioPath": "audio/words/chicane.mp3",
+    "definitions": ["to use deception : to trick or cheat"],
     "examples": [
-      "The authors of the legislation have cosmeticized it with tax breaks and tax cuts."
+      "Claiming to be their long-lost grandson, the scammer _chicaned_ the couple into wiring money to him.",
+      "\"There are two related issues here. One being the commercialization of education and the other being that education is regarded as solely a vehicle for job training. They feed on each other and now we are _chicaned_ into discussing education in purely economic terms.\" - Dunstan Chan, _Sound and Silence_, 2013"
     ],
-    "origin": "\"Cosmeticize\" first appeared in print in the early 19th century as a descendant of the noun \"cosmetic.\" Originally, its use was often literal, with the meaning \"to apply a cosmetic to,\" but today it is often used figuratively. \"Cosmeticize\" does occasionally draw criticism; usage commentators are sometimes irritated by verbs coined using \"-ize\" as they can sound like silly, nonce words. \"Cosmeticize\" is fairly well-established, however, in contrast with the two other, rarer verbs that have been derived from \"cosmetic\": \"cosmetize,\" which often turns up in the literal sense (\"cosmetize the face\"), and \"cosmetic,\" which can be literal or figurative (\"cosmeticked with bright rouge\"; \"embellished and cosmeticked\")."
+    "origin": "There's no mystery about the origins of \"chicane.\" It's from the Middle French verb \"chicaner,\" meaning \"to quibble\" or \"to prevent justice,\" and print evidence of its use as a verb in English dates to around 1672. The noun form of \"chicane\" was first used in print in 1686. In addition to referring to \"trickery,\" the noun \"chicane\" is used to refer to an obstacle or a series of tight turns in opposite directions on a racecourse. In card games, \"chicane\" refers to the absence of trumps in a hand of cards. One curiosity of this word set is that the word that would appear to be a derivative of \"chicane\"-\"chicanery\" (a synonym of \"chicane\" in its \"trickery\" sense)-actually appeared in English over 60 years before \"chicane.\""
   }
 }

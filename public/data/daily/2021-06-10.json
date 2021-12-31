@@ -1,138 +1,120 @@
 {
   "artist": {
-    "id": "louis-comfort-tiffany",
-    "name": "Louis Comfort Tiffany",
-    "dates": "Feb 18, 1848 - Jan 17, 1933",
-    "mainImg": "img/art/artists/louis-comfort-tiffany.jpg",
+    "id": "johannes-itten",
+    "name": "Johannes Itten",
+    "dates": "Nov 11, 1888 - Mar 25, 1967",
+    "mainImg": "img/art/artists/johannes-itten.jpg",
     "artworkImgs": [
       {
-        "name": "A Wooded Landscape in Three Panels",
-        "path": "img/art/artworks/louis-comfort-tiffany-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/a-wooded-landscape-in-three-panels-louis-comfort-tiffany/egH2dNwwMCPBnQ"
+        "name": "L'ultima guardia",
+        "path": "img/art/artworks/johannes-itten-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/l-ultima-guardia-iohannes-itten/8wEkm6FKZbLkVw"
       },
       {
-        "name": "Peacock Mosaic from entrance hall of the Henry O. Havemeyer house, New York",
-        "path": "img/art/artworks/louis-comfort-tiffany-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/peacock-mosaic-from-entrance-hall-of-the-henry-o-havemeyer-house-new-york-louis-comfort-tiffany/KAEKNjqHmgmbkQ"
+        "name": "Cerchi",
+        "path": "img/art/artworks/johannes-itten-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/cerchi-johannes-itten/wwGE1iZsLbFhsg"
       },
       {
-        "name": "Vase",
-        "path": "img/art/artworks/louis-comfort-tiffany-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/vase-louis-comfort-tiffany/4gGUHRrmPU4EGA"
+        "name": "Briquette candy",
+        "path": "img/art/artworks/johannes-itten-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/briquette-candy-johannes-schäfer-berlin/_AFLHjBI1BhENg"
       },
       {
-        "name": "On the Way between Old and New Cairo, Citadel Mosque of Mohammed Ali, and Tombs of the Mamelukes",
-        "path": "img/art/artworks/louis-comfort-tiffany-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/on-the-way-between-old-and-new-cairo-citadel-mosque-of-mohammed-ali-and-tombs-of-the-mamelukes/-gE3J550P97OuA"
-      },
-      {
-        "name": "Market Day Outside the Walls of Tangiers, Morocco",
-        "path": "img/art/artworks/louis-comfort-tiffany-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/market-day-outside-the-walls-of-tangiers-morocco-louis-comfort-tiffany-born-new-york-city-1848-died-new-york-city-1933/ZAGK3zvtlTJslw"
-      },
-      {
-        "name": "Hanging Head Dragonfly Shade on Mosaic and Turtleback Base",
-        "path": "img/art/artworks/louis-comfort-tiffany-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/hanging-head-dragonfly-shade-on-mosaic-and-turtleback-base-design-attributed-to-clara-pierce-wolcott-driscoll-american-1861-1944-made-by-tiffany-studios-1902–1932-corona-new-york/4AHx9G64WtgGZg"
+        "name": "Portrait of a Lady",
+        "path": "img/art/artworks/johannes-itten-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-lady-anspach-johannes/gQFZOlysc8wpwA"
       }
     ],
     "summary": [
-      "Louis Comfort Tiffany was an American artist and designer who worked in the decorative arts and is best known for his work in stained glass. He is the American artist most associated with the Art Nouveau and Aesthetic movements. He was affiliated with a prestigious collaborative of designers known as the Associated Artists, which included Lockwood de Forest, Candace Wheeler, and Samuel Colman. Tiffany designed stained glass windows and lamps, glass mosaics, blown glass, ceramics, jewelry, enamels, and metalwork. He was the first Design Director at his family company, Tiffany & Co., founded by his father Charles Lewis Tiffany."
+      "Johannes Itten was a Swiss expressionist painter, designer, teacher, writer and theorist associated with the Bauhaus school. Together with German-American painter Lyonel Feininger and German sculptor Gerhard Marcks, under the direction of German architect Walter Gropius, Itten was part of the core of the Weimar Bauhaus."
     ],
-    "quote": "“Color is to the eye what music is to the ear.”",
-    "movements": [
-      "Art Nouveau",
-      "Modern art",
-      "Symbolism",
-      "American Impressionism",
-      "Impressionism"
-    ],
-    "mediums": ["Glass", "Metal", "Bronze", "Lead glass", "Stained glass", "Lead"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Louis_Comfort_Tiffany",
-    "urlGoogle": "https://artsandculture.google.com/entity/louis-comfort-tiffany/m0jr3z"
+    "quote": "“Colors are forces, radiant energies that affect us positively or negatively, whether we are aware of it or not.”",
+    "movements": ["Expressionism"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Johannes_Itten",
+    "urlGoogle": "https://artsandculture.google.com/entity/johannes-itten/m02b117"
   },
   "event": {
-    "id": "operation-market-garden",
-    "name": "Operation Market Garden",
-    "dates": "Sep 17, 1944 - Sep 25, 1944",
-    "mainImg": "img/events/operation-market-garden.jpg",
+    "id": "battle-of-pusan-perimeter",
+    "name": "Battle of Pusan Perimeter",
+    "dates": "August 1950 - September 1950",
+    "mainImg": "img/events/battle-of-pusan-perimeter.jpg",
     "summary": [
-      "Operation Market Garden was a failed World War II military operation fought in the Netherlands from 17 to 25 September 1944. It was the brainchild of Field Marshal Sir Bernard Law Montgomery and strongly supported by Winston Churchill and Franklin Roosevelt. The airborne part of the operation was undertaken by the First Allied Airborne Army with the land operation by XXX Corps of the British Second Army. The objective was to create a 64 mi salient into German territory with a bridgehead over the River Rhine, creating an Allied invasion route into northern Germany. This was to be achieved by seizing a series of nine bridges by Airborne forces with land forces swiftly following over the bridges. The operation succeeded in liberating the Dutch cities of Eindhoven and Nijmegen along with many towns, creating a 60 mi salient into German-held territory limiting V-2 rocket launching sites. It failed, however, to secure a bridgehead over the Rhine, with the advance being halted at the river.",
-      "Market Garden consisted of two sub-operations:",
-      "Market – an airborne assault to seize key bridges, and;",
-      "Garden – a ground attack moving over the seized bridges creating the salient."
+      "The Battle of the Pusan Perimeter was a large-scale battle between United Nations Command and North Korean forces lasting from August 4 to September 18, 1950. It was one of the first major engagements of the Korean War. An army of 140,000 UN troops, having been pushed to the brink of defeat, were rallied to make a final stand against the invading Korean People's Army, 98,000 men strong.",
+      "UN forces, having been repeatedly defeated by the advancing KPA, were forced back to the \"Pusan Perimeter\", a 140-mile defensive line around an area on the southeastern tip of South Korea that included the port of Busan. The UN troops, consisting mostly of forces from the Republic of Korea Army, United States, and United Kingdom mounted a last stand around the perimeter, fighting off repeated KPA attacks for six weeks as they were engaged around the cities of Daegu, Masan, and Pohang and the Nakdong River. The massive KPA assaults were unsuccessful in forcing the UN troops back further from the perimeter, despite two major pushes in August and September."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Market_Garden",
-    "urlGoogle": "https://artsandculture.google.com/entity/operation-market-garden/m0flsy"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Pusan_Perimeter",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-pusan-perimeter/m09bsc_"
   },
   "funFacts": [
     {
-      "id": "344",
-      "fact": "Leonardo da Vinci discovered that a tree's rings reveal its age.",
-      "category": ["Plants", "History"]
+      "id": "253",
+      "fact": "The first TV remote control, introduced in 1950, was called Lazy Bones.",
+      "category": ["Firsts"]
     },
     {
-      "id": "456",
-      "fact": "About 85% of the world's population is right-handed.",
-      "category": ["Habits"]
+      "id": "409",
+      "fact": "Approximately 16,500 people in the U.S. go by the last name Lemon.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554002",
-      "fact": "Sphenopalatine ganglioneuralgia \u0003is the medical term for brain freeze."
+      "id": "553991",
+      "fact": "It’s a tradition for the post offices \u0003of Romeo, Michigan and Juliette, Georgia to offer a special \u0003dual postmark leading up to Valentine’s Day."
     }
   ],
   "idiom": {
-    "id": "all-wool-and-a-yard-wide",
-    "term": "all wool and a yard wide",
-    "definition": "Genuine, not fake; of excellent quality; also, honorable. For example, *You can count on Ned---he's all wool and a yard wide.* This metaphorical term alludes to a length of highly valued pure-wool cloth that measures exactly a yard (and not an inch less). [Late 1800s]"
+    "id": "kith-and-kin",
+    "term": "kith and kin",
+    "definition": "Friends and family, as in *Everyone was invited, kith and kin as well as distant acquaintances.* This expression dates from the 1300s and originally meant \"countrymen\" (*kith* meant \"one's native land\") and \"family members.\" It gradually took on the present looser sense."
   },
   "person": {
-    "id": "matteo-salvini",
-    "name": "Matteo Salvini",
-    "dates": "Born Mar 9, 1973",
-    "mainImg": "img/people/matteo-salvini.jpg",
+    "id": "leopold-ii-of-belgium",
+    "name": "Leopold II of Belgium",
+    "dates": "Apr 9, 1835 - Dec 17, 1909",
+    "mainImg": "img/people/leopold-ii-of-belgium.jpg",
     "summary": [
-      "Matteo Salvini is an Italian politician who served as Deputy Prime Minister of Italy and Minister of the Interior from 1 June 2018 to 5 September 2019. He has also been Federal Secretary of the Northern League since December 2013. He has been a Senator in the Italian Senate since March 2018. He previously served as a Member of the European Parliament for the constituency of North-West Italy from 2004 to 2018.",
-      "He has been considered a hardline Eurosceptic politician, holding a starkly critical view of the European Union, especially of the euro. Salvini opposes illegal immigration into Italy and the EU as well as the EU's management of asylum seekers. He is also considered one of the main leaders of the populist wave which shook Europe during the 2010s and a member of the neo-nationalist movement, which has a rightist ideology that emphasizes de-globalization, nativist and protectionist stances.",
-      "Salvini is nicknamed \"The Captain\" by his supporters."
+      "Leopold II was King of the Belgians from 1865 to 1909. Born in Brussels as the second but eldest surviving son of Leopold I and Louise of Orléans, he succeeded his father to the Belgian throne in 1865 and reigned for 44 years until his death – the longest reign of any Belgian monarch. He died without surviving legitimate sons. The current Belgian king descends from his nephew and successor, Albert I.",
+      "Leopold was the founder and sole owner of the Congo Free State, a private project undertaken on his own behalf. He used Henry Morton Stanley to help him lay claim to the Congo, the present-day Democratic Republic of the Congo. At the Berlin Conference of 1884–1885, the colonial nations of Europe authorized his claim by committing the Congo Free State to improving the lives of the native inhabitants. Leopold ignored these conditions and ran the Congo using the mercenary Force Publique for his personal gain. He extracted a fortune from the territory, initially by the collection of ivory, and after a rise in the price of rubber in the 1890s, by forced labour from the native population to harvest and process rubber."
     ],
-    "quote": "“The problem isn't Renzi, Renzi is a pawn, Renzi is a dumb slave, at the disposal of some nameless person who wants to control all our lives from Brussels.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Matteo_Salvini",
-    "urlGoogle": "https://artsandculture.google.com/entity/matteo-salvini/m05v8sl"
+    "quote": "“The Congo Free State is unique in its kind. It has nothing to hide and no secrets and is not beholden to anyone except its founder.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium",
+    "urlGoogle": "https://artsandculture.google.com/entity/leopold-ii-of-belgium/m0fv2n"
   },
   "place": {
-    "id": "gurugram",
-    "name": "Gurugram",
-    "mainImg": "img/places/gurugram.jpg",
+    "id": "wichita",
+    "name": "Wichita",
+    "mainImg": "img/places/wichita.jpg",
     "summary": [
-      "Gurgaon, officially Gurugram, is a city located in the northern Indian state of Haryana. It is situated near the Delhi-Haryana border, about 30 kilometres southwest of the national capital New Delhi and 268 km south of Chandigarh, the state capital. It is one of the major satellite cities of Delhi and is part of the National Capital Region of India. As of 2011, Gurgaon had a population of 876,900.",
-      "Gurgaon has become a leading financial and banking centre in India after Mumbai and Chennai. The city's economic growth story started when the leading Indian automobile manufacturer Maruti Suzuki India Limited established a manufacturing plant in Gurgaon in the 1970s. Today, Gurgaon has local offices for more than 250 Fortune 500 companies. Gurgaon is categorised as very high on the Human Development Index, with an HDI of 0.889, which is also the highest in India.",
-      "In March 2019, Gurgaon was named the most polluted city in the world, according to data released by IQ Air Visual and Greenpeace."
+      "Wichita is the largest city in the U.S. state of Kansas and the county seat of Sedgwick County. As of 2019, the estimated population of the city was 389,938. Wichita is the principal city of the Wichita metropolitan area which had an estimated population of 644,888 in 2018.",
+      "Located in south-central Kansas on the Arkansas River, Wichita began as a trading post on the Chisholm Trail in the 1860s and was incorporated as a city in 1870. It became a destination for cattle drives traveling north from Texas to Kansas railroads, earning it the nickname \"Cowtown.\"",
+      "In the 1920s and 1930s, businessmen and aeronautical engineers established aircraft manufacturing companies in Wichita, including Beechcraft, Cessna, and Stearman Aircraft. The city became an aircraft production hub known as \"The Air Capital of the World.\" Textron Aviation, Learjet, Airbus, and Spirit AeroSystems continue to operate design and manufacturing facilities in Wichita, and the city remains a major center of the American aircraft industry. Wichita is also home to McConnell Air Force Base, and Wichita Dwight D. Eisenhower National Airport, the largest airport in Kansas."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Gurgaon",
-    "urlGoogle": "https://artsandculture.google.com/entity/gurugram/m03fymg"
+    "urlWiki": "https://en.wikipedia.org/wiki/Wichita,_Kansas",
+    "urlGoogle": "https://artsandculture.google.com/entity/wichita/m0tbql"
   },
   "wiki": {
-    "id": "convention-on-psychotropic-substances",
-    "name": "Convention on Psychotropic Substances",
-    "summary": "The Convention on Psychotropic Substances is a United Nations treaty designed to control psychoactive drugs such as amphetamines, barbiturates and LSD. During the 1960s, drug use and abuse exploded worldwide, especially in the Western developed nations. Availability of stimulants soared as manufacturers and traffickers took advantage of the inconsistent patchwork of national laws to circumvent restrictions on production and trade. The Single Convention on Narcotic Drugs of 1961 could not regulate the plethora of newly-discovered psychotropics, due to its limited scope. On February 21, 1971, plenipotentiaries signed the Convention, which was worded broadly enough to be capable of encompassing almost any mind-altering substance. Today, 175 nations are Parties to the treaty, which contains import and export restrictions and other rules aimed at limiting drug use to scientific and medical purposes. Many laws have been passed to implement the Convention, including the U.S. Controlled Substances Act, the U.K. Misuse of Drugs Act, and the Canadian Controlled Drugs and Substances Act.",
-    "url": "https://en.wikipedia.org/wiki/Convention_on_Psychotropic_Substances"
+    "id": "andromeda-constellation",
+    "name": "Andromeda (constellation)",
+    "summary": "Andromeda is one of the 48 constellations listed by the 2nd-century astronomer Ptolemy, and remains one of the 88 modern constellations. Located north of the celestial equator, it is named for the princess in the Greek legend, who was chained to a rock to be eaten by the sea monster Cetus. Its brightest star, Alpha Andromedae, is a binary star, as is bright Gamma Andromedae, a colorful binary and a popular target for amateur astronomers. The constellation's most obvious deep-sky object is the naked-eye Andromeda Galaxy (M31, also called the Great Galaxy of Andromeda), the closest spiral galaxy to the Milky Way and one of the brightest Messier objects. In Chinese astronomy, the stars that make up Andromeda were members of four different constellations that had astrological and mythological significance; a constellation related to Andromeda also exists in Hindu mythology. Andromeda is the location of the radiant for the Andromedids, a weak meteor shower that occurs in November.",
+    "url": "https://en.wikipedia.org/wiki/Andromeda_(constellation)"
   },
   "word": {
-    "id": "plagiary",
-    "word": "plagiary",
-    "url": "https://www.merriam-webster.com/dictionary/plagiary",
-    "partOfSpeech": "noun",
-    "pronunciation": "PLAY-jee-air-ee",
-    "audioPath": "audio/words/plagiary.mp3",
-    "definitions": ["one that plagiarizes", "plagiarism"],
+    "id": "eristic",
+    "word": "eristic",
+    "url": "https://www.merriam-webster.com/dictionary/eristic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-RISS-tik",
+    "audioPath": "audio/words/eristic.mp3",
+    "definitions": ["characterized by disputatious and often subtle and specious reasoning"],
     "examples": [
-      "It’s still unclear if the historian was engaged in deliberate plagiary or was simply sloppy with the citation of his sources."
+      "\"Dialectical argument is a cooperative, two-sided truth-seeking art that requires a constructive and balanced attitude, whereas _eristic_ dialogue is one-sided, quarrelsome, and antagonistic.\" - From Douglas Walton's 1999 book _One-Sided Arguments_",
+      "\"Does free speech tend to move toward the truth or away from it? When does it evolve into a better collective understanding? When does it collapse into … the pointless and _eristic_ game of talking the other guy into crying 'uncle'?\" - From an article by Mattathias Schwartz in the _New York Times Magazine_, August 3, 2008"
     ],
-    "origin": "\"Plagiarius,\" the Latin source of \"plagiary,\" literally means \"kidnapper.\" \"Plagiarius\" has its roots in the noun \"plagium,\" meaning both \"kidnapping\" and \"the netting of game,\" and ultimately in the noun \"plaga,\" meaning \"net.\" The literal sense of \"plagiarius\" was adopted into English; in the 17th and early 18th century, a kidnapper might be referred to as a \"plagiary,\" and, in the legalese of the time, kidnapping was \"plagium.\" But \"plagiarius\" also had a couple of figurative meanings -- \"seducer\" and \"literary thief.\" It is the latter that has made the most enduring contribution to the English language. A \"plagiary\" could also be one who commits literary theft (now usually referred to as a \"plagiarist\") or the act or product of such theft (now, more commonly, \"plagiarism\")."
+    "origin": "\"Eristic\" means \"argumentative\" as well as logically invalid. Someone prone to eristic arguments probably causes a fair amount of strife amongst his or her conversational partners. It's no surprise, then, that the word traces its ancestry back to the Greek word for \"strife.\" \"Eristic\" and the variant \"eristical\" come from the Greek word \"eristikos,\" meaning \"fond of wrangling,\" from \"erizein,\" \"to wrangle,\" and ultimately from \"eris,\" which means \"strife.\" The adjective appeared in print in English in 1637. It was followed approximately 20 years later by the noun \"eristic,\" which refers to either a person who is skilled at debates based on formal logic or to the art or practice of argument."
   }
 }

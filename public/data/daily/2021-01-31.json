@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "ludwig-richter",
+    "name": "Ludwig Richter",
+    "dates": "Sep 28, 1803 - Jun 19, 1884",
+    "mainImg": "img/art/artists/ludwig-richter.jpg",
+    "artworkImgs": [
+      {
+        "name": "Lake in the Riesengebirge",
+        "path": "img/art/artworks/ludwig-richter-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/lake-in-the-riesengebirge-ludwig-richter/_AHnyRY-pdz5qw"
+      },
+      {
+        "name": "Crossing at Schreckenstein",
+        "path": "img/art/artworks/ludwig-richter-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/crossing-at-schreckenstein/qQEEQB30-CjkOw"
+      },
+      {
+        "name": "Richter's Werke (binder's title)",
+        "path": "img/art/artworks/ludwig-richter-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/richter-s-werke-binder-s-title-adrian-ludwig-richter-j-heinrich-richter-georg-wiegand-meyer-richter-gaber-and-richter-johann-christoph-friedrich-von-schiller-breitkopf-härtel-august-gaber-kaspar-oertel-h-gunther-römmler-and-jonas-c-c-meinholdt-and-söhne/cAGsnwWb6DoOzA"
+      },
+      {
+        "name": "View of Milan",
+        "path": "img/art/artworks/ludwig-richter-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-milan-adrian-ludwig-richter/4AHUEfrl68VOOw"
+      },
+      {
+        "name": "Civitella (Evening)",
+        "path": "img/art/artworks/ludwig-richter-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/civitella-evening/7wF5mH2VnOWUcw"
+      },
+      {
+        "name": "Genoveva",
+        "path": "img/art/artworks/ludwig-richter-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/genoveva-adrian-ludwig-richter/2gFaJpHDEJa2fQ"
+      }
+    ],
+    "summary": [
+      "Adrian Ludwig Richter, a 19th-century German painter and etcher, who was strongly influenced by Erhard and Chodowiecki.",
+      "He was the most popular, and in many ways the most typical German illustrator of the middle of the 19th century. His work is as typically German and homely as are the fairy-tales of Grimm, for whom he produced several woodcuts."
+    ],
+    "quote": null,
+    "movements": ["Romanticism", "Academic art"],
+    "mediums": ["Etching", "Drawing", "Graphite", "Watercolor painting", "Book", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ludwig_Richter",
+    "urlGoogle": "https://artsandculture.google.com/entity/ludwig-richter/m070hjn"
+  },
+  "event": {
+    "id": "march-on-washington-for-jobs-and-freedom",
+    "name": "March on Washington for Jobs and Freedom",
+    "dates": null,
+    "mainImg": "img/events/march-on-washington-for-jobs-and-freedom.jpg",
+    "summary": [
+      "The March on Washington for Jobs and Freedom, the March on Washington, or The Great March on Washington, was held in Washington, D.C. on Wednesday, August 28, 1963. The purpose of the march was to advocate for the civil and economic rights of African Americans. At the march, Martin Luther King Jr., standing in front of the Lincoln Memorial, delivered his historic \"I Have a Dream\" speech in which he called for an end to racism.",
+      "The march was organized by A. Philip Randolph and Bayard Rustin, who built an alliance of civil rights, labor, and religious organizations that came together under the banner of \"jobs and freedom.\" Estimates of the number of participants varied from 200,000 to 300,000, but the most widely cited estimate is 250,000 people. Observers estimated that 75–80% of the marchers were black. The march was one of the largest political rallies for human rights in United States history. Walter Reuther, president of the United Auto Workers, was the most integral and significant white organizer of the march."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom",
+    "urlGoogle": "https://artsandculture.google.com/entity/march-on-washington-for-jobs-and-freedom/m01lt0z"
+  },
+  "funFacts": [
+    {
+      "id": "393",
+      "fact": "The raised bump reflectors on U.S. roads are named \"Botts dots.\"",
+      "category": ["Definitions"]
+    },
+    {
+      "id": "668",
+      "fact": "Cape May is the oldest seashore resort in America.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "522187",
+      "fact": "Double Stuf Oreos are only 1.86 times as \"stuf’ed\" as classic Oreos."
+    }
+  ],
+  "idiom": {
+    "id": "theres-no-fool-like-an-old-fool",
+    "term": "there's no fool like an old fool",
+    "definition": "An old fool is the worst kind of fool, as in *He's marrying a woman fifty years his junior---there's no fool like an old fool.* This adage, now considered somewhat offensive for stereotyping old people, appeared in John Heywood's 1546 proverb collection and has been repeated ever since."
+  },
+  "person": {
+    "id": "evans-carlson",
+    "name": "Evans Carlson",
+    "dates": "Feb 26, 1896 - May 27, 1947",
+    "mainImg": "img/people/evans-carlson.jpg",
+    "summary": [
+      "Evans Fordyce Carlson was a decorated and retired United States Marine Corps general officer who was the legendary leader of \"Carlson's Raiders\" during World War II. Many credit Carlson with developing the tactics and attitude that would later come to define America's special operations forces. He is renowned for the \"Makin Island raid\" in 1942, and his raiders' \"Long Patrol\" behind Japanese lines on Guadalcanal, in which 488 Japanese were killed. Carlson popularised the phrase \"gung-ho\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Evans_Carlson",
+    "urlGoogle": "https://artsandculture.google.com/entity/evans-carlson/m0d848b"
+  },
+  "place": {
+    "id": "kiribati",
+    "name": "Kiribati",
+    "mainImg": "img/places/kiribati.jpg",
+    "summary": [
+      "Kiribati, officially the Republic of Kiribati, is a country in the central Pacific Ocean. The permanent population is just over 110,000, more than half of whom live on Tarawa atoll. The state comprises 32 atolls and one raised coral island, Banaba. They have a total land area of 800 square kilometres and are dispersed over 3.5 million square kilometres. In terms with its Exclusive Economic Zone in the Pacific, it straddles all three primary geographic regions; Banaba, the Gilbert Islands and the Line and Phoenix Islands.",
+      "Their spread straddles the equator and the 180th meridian, although the International Date Line goes round Kiribati and swings far to the east, almost reaching the 150°W meridian. This brings the Line Islands into the same day as the Kiribati Islands. Kiribati's easternmost islands, the southern Line Islands, south of Hawaii, have the most advanced time on Earth: UTC+14 hours. Kiribati is the only country in the world to be situated in all four hemispheres.",
+      "Kiribati gained its independence from the United Kingdom, becoming a sovereign state in 1979."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kiribati",
+    "urlGoogle": "https://artsandculture.google.com/entity/kiribati/m047t_"
+  },
+  "quote": { "id": "46", "quote": "One day or day one. You decide.", "author": "Unknown" },
+  "wiki": {
+    "id": "frederick-iii-german-emperor",
+    "name": "Frederick III, German Emperor",
+    "summary": "Frederick III (1831–1888) was German Emperor and King of Prussia for 99 days in 1888, the Year of the Three Emperors. Following the unification of Germany in 1871 his father, William I, then King of Prussia, became the German Emperor, and on William's death at the age of 90 on 9 March 1888, the throne passed to Frederick, having by then been the Crown Prince for 27 years. Frederick was suffering from cancer of the larynx and died on 15 June 1888, aged 56, following unsuccessful medical treatments for his condition. The timing of Frederick's death, and the length of his reign, are important topics among historians. The reign of Frederick III is considered a potential turning point in German history; many historians believe that if Frederick had succeeded to the throne sooner, he would have transformed Germany into a liberal state. They argue this would have averted the events preceding World War I. Other historians contend that Frederick's influence and political leanings were greatly exaggerated, noting that he tended to defer to his father and Bismarck when confronted, and would not have dared to challenge their conservatism even as ruler.",
+    "url": "https://en.wikipedia.org/wiki/Frederick_III,_German_Emperor"
+  },
+  "word": {
+    "id": "natant",
+    "word": "natant",
+    "url": "https://www.merriam-webster.com/dictionary/natant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "NAY-tunt",
+    "audioPath": "audio/words/natant.mp3",
+    "definitions": ["swimming or floating in water"],
+    "examples": [
+      "\"Before me natant birds hunker against the teeth of a northerly breeze.\" (Kevin J. Cook, _Fort Collins Coloradoan_, November 29, 2002)"
+    ],
+    "origin": "\"Natant\" and the smattering of other words birthed in the waters of Latin \"natare,\" meaning \"to swim,\" sound unnecessarily formal in most contexts. We could say \"The natant athletes who've done their time at the local natatorium are easily distinguished by their natatorial skills; their natation is markedly better than that of those who have practiced less.\" Most of us, however, would prefer \"The swimmers who've done their time at the local indoor swimming pool are easily distinguished by their swimming skills; their swimming is markedly better than that of those who have practiced less.\" The common German-derived word \"swimming\" suits most of us just fine. Science, though, often prefers Latin, which is why you're most likely to encounter \"natare\" words in scientific contexts."
+  }
+}

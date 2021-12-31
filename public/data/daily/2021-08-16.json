@@ -1,116 +1,129 @@
 {
   "artist": {
-    "id": "jasper-johns",
-    "name": "Jasper Johns",
-    "dates": "Born May 15, 1930",
-    "mainImg": "img/art/artists/jasper-johns.jpg",
+    "id": "miguel-cabrera",
+    "name": "Miguel Cabrera",
+    "dates": "Feb 27, 1695 - May 16, 1768",
+    "mainImg": "img/art/artists/miguel-cabrera.jpg",
     "artworkImgs": [
       {
-        "name": "Four Panels from Untitled C/D",
-        "path": "img/art/artworks/jasper-johns-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/four-panels-from-untitled-c-d-jasper-johns/bwG0tiQx-R-KfQ"
+        "name": "Virgin of the Apocalypse",
+        "path": "img/art/artworks/miguel-cabrera-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-of-the-apocalypse-miguel-cabrera/wwHZ6eVf6zFxEw"
       },
       {
-        "name": "Four Panels from Untitled D/D",
-        "path": "img/art/artworks/jasper-johns-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/four-panels-from-untitled-d-d-jasper-johns/qQG5KVNiexHp-Q"
+        "name": "Altarpiece of the Virgin of Guadalupe with Saint John the Baptist, Fray Juan de Zumárraga and Juan Diego",
+        "path": "img/art/artworks/miguel-cabrera-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/altarpiece-of-the-virgin-of-guadalupe-with-saint-john-the-baptist-fray-juan-de-zumárraga-and-juan-diego/gQEofpNb0tD4ZA"
       },
       {
-        "name": "Four Panels from Untitled B/D",
-        "path": "img/art/artworks/jasper-johns-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/four-panels-from-untitled-b-d-jasper-johns/YAFdk26m4HChNw"
+        "name": "From Spaniard and Mestiza, Castiza",
+        "path": "img/art/artworks/miguel-cabrera-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/from-spaniard-and-mestiza-castiza-miguel-cabrera/wgEPI2G7d0JiAA"
       },
       {
-        "name": "Four Panels from Untitled A/D",
-        "path": "img/art/artworks/jasper-johns-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/four-panels-from-untitled-a-d-jasper-johns/mQEbfMtFAulEYA"
+        "name": "The Virgin of the Apocalypse",
+        "path": "img/art/artworks/miguel-cabrera-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-of-the-apocalypse/OwG7_aevC6DP8A"
       },
       {
-        "name": "It Happened in Baton Rouge, USA: A Real Life Drama of Our Deep South Today",
-        "path": "img/art/artworks/jasper-johns-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/it-happened-in-baton-rouge-usa-a-real-life-drama-of-our-deep-south-today-major-johns/vgFd5bWMer-tCg"
+        "name": "Holy Mother of Light",
+        "path": "img/art/artworks/miguel-cabrera-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/holy-mother-of-light-miguel-cabrera/_gFlTGpuDQki2g"
+      },
+      {
+        "name": "Allegory of the Holy Eucharist",
+        "path": "img/art/artworks/miguel-cabrera-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/allegory-of-the-holy-eucharist-miguel-cabrera/fAFpYMcJHYTi0w"
       }
     ],
     "summary": [
-      "Jasper Johns is an American painter, sculptor and printmaker whose work is associated with abstract expressionism, Neo-Dada, and pop art. He is well known for his depictions of the American flag and other US-related topics. Johns' works regularly sell for millions of dollars at sale and auction, including a reported $110 million sale in 2010. At multiple times works by Johns have held the title of most paid for a work by a living artist.",
-      "Johns has received many honors throughout his career, including receipt of the National Medal of Arts in 1990, and the Presidential Medal of Freedom in 2011. In 2018, The New York Times called him the United States' \"foremost living artist.\""
+      "Miguel Mateo Maldonado y Cabrera was a Mestizo painter born in Oaxaca but moved to Mexico City, the capital of Viceroyalty of New Spain. During his lifetime, he was recognized as the greatest painter in all of New Spain. He created religious and secular art for the Catholic Church and wealthy patrons. His casta paintings, depicting interracial marriage among Amerindians, Spaniards and Africans, are considered among the genre's finest."
     ],
-    "quote": "“When something is new to us, we treat it as an experience. We feel that our senses are awake and clear. We are alive.”",
-    "movements": ["Abstract expressionism", "Modern art", "Contemporary art", "Pop art"],
-    "mediums": [],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jasper_Johns",
-    "urlGoogle": "https://artsandculture.google.com/entity/jasper-johns/m0gcjf"
+    "quote": null,
+    "movements": [],
+    "mediums": ["Oil paint", "Copper", "Metal", "Bone"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Miguel_Cabrera_%28painter%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/miguel-cabrera/m0c5ll2"
   },
   "event": {
-    "id": "warsaw-pact-invasion-of-czechoslovakia",
-    "name": "Warsaw Pact invasion of Czechoslovakia",
-    "dates": "Aug 20, 1968 - Sep 20, 1968",
-    "mainImg": "img/events/warsaw-pact-invasion-of-czechoslovakia.jpg",
+    "id": "taiping-rebellion",
+    "name": "Taiping Rebellion",
+    "dates": "December 1850 - August 1871",
+    "mainImg": "img/events/taiping-rebellion.jpg",
     "summary": [
-      "The Warsaw Pact invasion of Czechoslovakia, officially known as Operation Danube, was a joint invasion of Czechoslovakia by five Warsaw Pact countries – the Soviet Union, Poland, Bulgaria, East Germany and Hungary – on the night of 20–21 August 1968. Approximately 250,000 Warsaw pact troops attacked Czechoslovakia that night, with Romania and Albania refusing to participate. East German forces, except for a small number of specialists, did not participate in the invasion because they were ordered from Moscow not to cross the Czechoslovak border just hours before the invasion. 137 Czechoslovakian civilians were killed and 500 seriously wounded during the occupation.",
-      "The invasion successfully stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authority of the authoritarian wing within the Communist Party of Czechoslovakia. The foreign policy of the Soviet Union during this era was known as the Brezhnev Doctrine.",
-      "Public reaction to the invasion was widespread and divided."
+      "The Taiping Rebellion, which is also known as the Taiping Civil War or the Taiping Revolution, was a massive rebellion or civil war that was waged in China from 1850 to 1864 between the established Manchu-led Qing dynasty and the Hakka-led Taiping Heavenly Kingdom.",
+      "Led by Hong Xiuquan, the self-proclaimed brother of Jesus Christ, the goals of the Taipings were religious, nationalist, and political in nature; they sought the conversion of the Chinese people to the Taiping's syncretic version of Christianity, the overthrow of the ruling Manchus, and a wholesale transformation and reformation of the state. Rather than simply supplanting the ruling class, the Taipings sought to upend the moral and social order of China. To that end, they established the Taiping Heavenly Kingdom as an oppositional state based in Tianjing and gained control of a significant part of southern China, eventually expanding to command a population base of nearly 30 million people.",
+      "For over a decade, the Taiping occupied and fought across much of the mid and lower Yangtze valley."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
-    "urlGoogle": "https://artsandculture.google.com/entity/warsaw-pact-invasion-of-czechoslovakia/m03hmf8l"
+    "urlWiki": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+    "urlGoogle": "https://artsandculture.google.com/entity/taiping-rebellion/m0kx7_"
   },
   "funFacts": [
-    { "id": "883", "fact": "Butterflies can taste with their hind feet.", "category": ["Animals"] },
     {
-      "id": "426",
-      "fact": "The Empire State Building has 73 elevators.",
-      "category": ["Hodgepodge"]
+      "id": "903",
+      "fact": "The first TV toy commercial aired in 1946 for Mr. Potato Head.",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "997",
+      "fact": "Gentoo penguins propose to their life mates with a pebble.",
+      "category": ["Animals", "Habits"]
     }
   ],
-  "funFacts2": [{ "id": "505506", "fact": "Frank Sinatra was offered the lead role in Die Hard." }],
+  "funFacts2": [
+    {
+      "id": "553866",
+      "fact": "Bedding was such a luxury in the Middle Ages that blankets and sheets were written into wills."
+    }
+  ],
   "idiom": {
-    "id": "pyrrhic-victory",
-    "term": "Pyrrhic victory",
-    "definition": "A victory that is offset by staggering losses, as in *The campaign was so divisive that even though he won the election it was a Pyrrhic victory.* This expression alludes to King Pyrrhus of Epirus, who defeated the Romans at Asculum in 279 B.C., but lost his best officers and many of his troops. Pyrrhus then said: \"Another such victory and we are lost.\" In English the term was first recorded (used figuratively) in 1879."
+    "id": "over-the-transom",
+    "term": "over the transom",
+    "definition": "Unasked for, unsolicited. The term comes from publishing, where it describes a manuscript simply sent to a firm in hopes of arousing its interest. It has persisted even though few offices still have a transom, a small opening at the top of a door used for ventilation, and unsolicited manuscripts usually come through the mail or over the Internet rather than being thrown up through a window. [Colloquial, first half of 1900s]"
   },
   "person": {
-    "id": "fuad-chehab",
-    "name": "Fuad Chehab",
-    "dates": "Mar 19, 1902 - Apr 25, 1973",
-    "mainImg": "img/people/fuad-chehab.jpg",
+    "id": "soong-mei-ling",
+    "name": "Soong Mei-ling",
+    "dates": "Mar 4, 1898 - Oct 23, 2003",
+    "mainImg": "img/people/soong-mei-ling.jpg",
     "summary": [
-      "Fuad Abdullah Chehab was the President of the Lebanese Republic from 1958 to 1964 and was Acting President in 1952. He served as Acting Prime Minister of Lebanon in 1952.",
-      "Chehab's mandate was one of the most distinguished in Lebanon's history, due to the important reforms and large scale social development projects that he introduced and initiated, bringing harmony and prosperity to the country, and a mission to build the institutions of the modern state. He was viciously opposed to the sectarian, feudal political leaders."
+      "Soong Mei-ling or, legally, Soong May-ling, also known as Madame Chiang Kai-shek or Madame Chiang, was a Chinese political figure who was First Lady of the Republic of China, the wife of Generalissimo and President Chiang Kai-shek. Soong played a prominent role in the politics of the Republic of China and was the sister-in-law of Sun Yat-sen, the founder and the leader of the Republic of China. She was active in the civic life of her country and held many honorary and active positions, including chairwoman of Fu Jen Catholic University. During the Second Sino-Japanese War, she rallied her people against the Japanese invasion; and in 1943 conducted an eight-month speaking tour of the United States of America to gain support. Her life traversed three centuries."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Fuad_Chehab",
-    "urlGoogle": "https://artsandculture.google.com/entity/fuad-chehab/m02djq0"
+    "urlWiki": "https://en.wikipedia.org/wiki/Soong_Mei-ling",
+    "urlGoogle": "https://artsandculture.google.com/entity/soong-mei-ling/m072ln"
   },
   "place": {
-    "id": "reykjavik",
-    "name": "Reykjavík",
-    "mainImg": "img/places/reykjavik.jpg",
+    "id": "oran",
+    "name": "Oran",
+    "mainImg": "img/places/oran.jpg",
     "summary": [
-      "Reykjavík is the capital and largest city of Iceland. It is located in southwestern Iceland, on the southern shore of Faxaflói bay. Its latitude is 64°08' N, making it the world's northernmost capital of a sovereign state. With a population of around 131,136, it is the center of Iceland's cultural, economic, and governmental activity, and is a popular tourist destination.",
-      "Reykjavík is believed to be the location of the first permanent settlement in Iceland, which, according to Landnámabók, was established by Ingólfr Arnarson in AD 874. Until the 19th century, there was no urban development in the city location. The city was founded in 1785 as an official trading town and grew steadily over the following decades, as it transformed into a regional and later national centre of commerce, population, and governmental activities. It is among the cleanest, greenest, and safest cities in the world."
+      "Oran is a major coastal city located in the north-west of Algeria. It is considered the second most important city of Algeria after the capital Algiers, due to its commercial, industrial, and cultural importance. It is 432 km from Algiers. The total population of the city was 759,645 in 2008, while the metropolitan area has a population of approximately 1,500,000 making it the second largest city in Algeria.",
+      "A legend says that in 900 CE, lions still lived in the area. The last two lions were hunted on a mountain near Oran and are elsewhere referred to as \"mountain lions\"."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
-    "urlGoogle": "https://artsandculture.google.com/entity/reykjavík/m06flg"
+    "urlWiki": "https://en.wikipedia.org/wiki/Oran",
+    "urlGoogle": "https://artsandculture.google.com/entity/oran/m012gg6"
   },
   "wiki": {
-    "id": "pedro-i-of-brazil",
-    "name": "Pedro I of Brazil",
-    "summary": "Pedro I (1798–1834) was the founder and first ruler of the Empire of Brazil. As King Dom Pedro IV, he reigned over Portugal. Acting as regent on his father's behalf, he declared the independence of Brazil from Portugal on 7 September 1822. His acclamation as Brazilian emperor was followed by a victorious war against Portuguese armies. From the onset his reign was troubled by a long ideological conflict between him and a sizable parliamentary faction over the role of the monarch in the government. Other obstacles arose concurrently. In 1826 he briefly became king of Portugal before abdicating in favor of his eldest daughter, Dona Maria II. Her crown was later usurped by Prince Dom Miguel, Pedro I's younger brother. At the same time the unsuccessful Cisplatine War against the neighboring United Provinces of South America led to the secession of a Brazilian province (later to become Uruguay). Unable to deal with both Brazilian and Portuguese affairs, Pedro I abdicated on 7 April 1831 and immediately departed for Europe to restore his daughter to her throne. He invaded Portugal ahead of an army and defeated his brother, dying soon after of tuberculosis at age 35.",
-    "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil"
+    "id": "midtown-madness",
+    "name": "Midtown Madness",
+    "summary": "Midtown Madness is a racing video game developed for Windows by Angel Studios and published by Microsoft. A demo version was released via download on May 1, 1999, and the entire game was released on May 27, 1999. A sequel, Midtown Madness 2, was released in 2000. Set in Chicago, Illinois, the goal of Midtown Madness is to win street races and obtain new cars. Unlike many racing games, which restrict the player to a race track, Midtown Madness offers an open world recreation of Chicago. This setting was developed by Microsoft and described as offering \"an unprecedented degree of freedom to drive around in a virtual city\". Players can explore the city via one of several modes, and can determine the weather and traffic conditions for each race. The game supports multiplayer races over a local area network or the Internet. Overall, the game received positive reviews from gaming websites; reviewers generally praised the gameplay, though some criticized the graphics.",
+    "url": "https://en.wikipedia.org/wiki/Midtown_Madness"
   },
   "word": {
-    "id": "edentulous",
-    "word": "edentulous",
-    "url": "https://www.merriam-webster.com/dictionary/edentulous",
+    "id": "predial",
+    "word": "predial",
+    "url": "https://www.merriam-webster.com/dictionary/predial",
     "partOfSpeech": "adjective",
-    "pronunciation": "ee-DEN-chuh-luss",
-    "audioPath": "audio/words/edentulous.mp3",
-    "definitions": ["having no teeth : toothless"],
+    "pronunciation": "PREE-dee-ul",
+    "audioPath": "audio/words/predial.mp3",
+    "definitions": ["of or relating to land or its products"],
     "examples": [
-      "Thanks to improvements in public health and dental care in the 20th century, far fewer Americans are edentulous when they enter their golden years."
+      "\"The lease of a _predial_ estate, when the time has not been specified, is presumed to be for one year.…\" -- From the 1993 edition of the Louisiana Civil Code",
+      "\"The new rustic servitudes were conceived as property rights attached to the land itself and considered _predial_ servitudes.\" -- From Cynthia Jordan Bannon's 2009 book _Gardens and Neighbors_"
     ],
-    "origin": "\"Edentulous\" comes to English directly from the Latin word \"edentulus,\" which in turn comes from the Latin prefix \"e-,\" meaning \"missing\" or \"absent,\" and the Latin root \"dent-,\" meaning \"tooth.\" This root is at work in many familiar English words that relate to teeth, including \"dental,\" \"dentist,\" and \"denture.\" It is also found in \"edentate,\" a less common word that functions as a noun referring to an order of mammals with few or no teeth (e.g. sloths and armadillos), and as an adjective describing such mammals. \"Edentate\" is also sometimes used as a synonym of \"edentulous.\""
+    "origin": "\"Predial\" is used for land matters; for example, there's \"predial tax\" (real estate tax) or \"predial larceny\" (stealing crops from the fields). The state of Louisiana employs \"predial\" in numerous sections of its Civil Code (and is distinguished from other states by its use of the word). The word derives from the Latin noun for \"landed property,\" \"praedium.\" \"Praedium\" in turn is based on \"praed-,\" meaning \"bondsman\" -- that is, one who is legally liable for the debt of another."
   }
 }

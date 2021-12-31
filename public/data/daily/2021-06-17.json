@@ -1,123 +1,134 @@
 {
   "artist": {
-    "id": "huang-binhong",
-    "name": "Huang Binhong",
-    "dates": "Jan 27, 1865 - Mar 25, 1955",
-    "mainImg": "img/art/artists/huang-binhong.jpg",
+    "id": "sebald-beham",
+    "name": "Sebald Beham",
+    "dates": "1500 - Nov 22, 1550",
+    "mainImg": "img/art/artists/sebald-beham.jpg",
     "artworkImgs": [
       {
-        "name": "Crisp air in mountains and lakes",
-        "path": "img/art/artworks/huang-binhong-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/crisp-air-in-mountains-and-lakes/DgGivd4XEfRlzA"
+        "name": "Patience (Die Geduld)",
+        "path": "img/art/artworks/sebald-beham-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/patience-die-geduld-hans-sebald-beham/VwEqP3AQ6c7bLQ"
       },
       {
-        "name": "Landscape of Lin'an",
-        "path": "img/art/artworks/huang-binhong-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/landscape-of-lin-an-huang-binhong/LgGWUV86SkVyaA"
+        "name": "Hercules Slaying the Hydra",
+        "path": "img/art/artworks/sebald-beham-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/hercules-slaying-the-hydra-hans-sebald-beham/TAEp0Ntf3B_dPQ"
       },
       {
-        "name": "Scenery on Fuchun River",
-        "path": "img/art/artworks/huang-binhong-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/scenery-on-fuchun-river-artist-huang-binhong/gwH79MQBl9kzOQ"
+        "name": "Patience",
+        "path": "img/art/artworks/sebald-beham-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/patience-sebald-beham/WQGzfwowRPhW9A"
       },
       {
-        "name": "Album of Huang Binhong’s Landscape",
-        "path": "img/art/artworks/huang-binhong-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/album-of-huang-binhong’s-landscape-huang-binhong/TQHXditJqD9nFA"
+        "name": "Geduld (Patientia)",
+        "path": "img/art/artworks/sebald-beham-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/geduld-patientia-hans-sebald-beham/1QEuk9iBGRjF7w"
       },
       {
-        "name": "Landscape",
-        "path": "img/art/artworks/huang-binhong-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/landscape-huang-binhong/pwHi5dXwj_JH3Q"
+        "name": "Hercules Killing the Nemean Lion",
+        "path": "img/art/artworks/sebald-beham-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/hercules-killing-the-nemean-lion-sebald-beham/gwHqj7hAHyZjMA"
+      },
+      {
+        "name": "Hercules Capturing Cerberus",
+        "path": "img/art/artworks/sebald-beham-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/hercules-capturing-cerberus-hans-sebald-beham/5wGfuoAyk-YUXg"
       }
     ],
     "summary": [
-      "Huáng Bīnhóng was a Chinese literati painter and art historian born in Jinhua, Zhejiang province. His ancestral home was She County, Anhui province. He was the grandson of artist Huang Fengliu. He would later be associated with Shanghai and finally Hangzhou. He is considered one of the last innovators in the literati style of painting and is noted for his freehand landscapes.",
-      "His early painting style showed the influence of Li Liufang, Cheng Sui, Cheng Zhengkui, Kun Can, Hong Ren and the Yuan and Ming masters. It emphasized on the importance of the unification of positive and negative space; dark and light shades. Each brush line is powerful and precise. The compact touches, the graceful outlines and the elegant styles of Xin’an School of painting had a profound influence on Huang throughout his life. His style before the age of sixty is called the White-period.",
-      "After sixty years old, Huang went to Guichi. The scenery of Guichi not only attracted the artist, but also had a great impact on his style. Huang changed from focusing on brush and line to focusing on ink and wash. He started to practice the painting style of Wu Zhen."
+      "Sebald Beham was a German painter and printmaker, mainly known for his very small engravings. Born in Nuremberg, he spent the later part of his career in Frankfurt. He was one of the most important of the \"Little Masters\", the group of German artists making prints in the generation after Dürer.",
+      "His name is often given as Hans Sebald Beham, although there is no documentary evidence that he ever used this additional forename.",
+      "He produced approximately 252 engravings, 18 etchings and 1500 woodcuts, including woodcut book illustrations. He worked extensively on tiny, highly detailed, engravings, many as small as postage stamps, placing him in the German printmaking school known as the \"Little Masters\" from the size of their prints. These works he printed and published himself, while his much larger woodcuts were mostly commissioned work. The engravings found a ready market among German bourgeois collectors. He also made prints for use as playing cards and wallpaper.",
+      "His engravings cover a range of subjects, but he is especially known for scenes of peasant life, and scenes from classical myth or history, both often with an erotic element."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Huang_Binhong",
-    "urlGoogle": "https://artsandculture.google.com/entity/huang-binhong/m085gyq"
+    "movements": ["Renaissance", "German Renaissance", "Northern Renaissance"],
+    "mediums": ["Engraving", "Etching", "Laid paper", "Pen", "Ink", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sebald_Beham",
+    "urlGoogle": "https://artsandculture.google.com/entity/sebald-beham/m09mstn"
   },
   "event": {
-    "id": "battle-of-hampton-roads",
-    "name": "Battle of Hampton Roads",
-    "dates": "Mar 8, 1862 - Mar 9, 1862",
-    "mainImg": "img/events/battle-of-hampton-roads.jpg",
+    "id": "mexican-revolution",
+    "name": "Mexican Revolution",
+    "dates": "Nov 20, 1910 - 1924",
+    "mainImg": "img/events/mexican-revolution.jpg",
     "summary": [
-      "The Battle of Hampton Roads, also referred to as the Battle of the Monitor and Merrimack or the Battle of Ironclads, was a famous and arguably most important naval battle of the American Civil War. It was fought over two days, March 8–9, 1862, in Hampton Roads, a roadstead in Virginia where the Elizabeth and Nansemond rivers meet the James River just before it enters Chesapeake Bay adjacent to the city of Norfolk. The battle was a part of the effort of the Confederacy to break the Union blockade, which had cut off Virginia's largest cities and major industrial centers, Norfolk and Richmond, from international trade.",
-      "The major significance of the battle is that it was the first meeting in combat of ironclad warships, USS Monitor and CSS Virginia. The Confederate fleet consisted of the ironclad ram Virginia and several supporting vessels. On the first day of battle, they were opposed by several conventional, wooden-hulled ships of the Union Navy. On that day, Virginia was able to destroy two ships of the federal flotilla, USS Congress and USS Cumberland, and was about to attack a third, USS Minnesota, which had run aground."
+      "The Mexican Revolution was a major armed struggle, lasting roughly from 1910 to 1920, that transformed Mexican culture and government. Although recent research has focused on local and regional aspects of the revolution, it was a genuinely national revolution. Its outbreak in 1910 resulted from the failure of the 31-year-long regime of Porfirio Díaz to find a managed solution to presidential succession. This meant there was a political crisis among competing elites and the opportunity for agrarian insurrection. Wealthy landowner Francisco I. Madero challenged Díaz in the 1910 presidential election, and following the rigged results, revolted under the Plan of San Luis Potosí. Armed conflict broke out in northern Mexico and Díaz was forced out. In the Treaty of Ciudad Juárez, Díaz resigned and went into exile, new elections were to occur in the fall, and an interim presidency under Francisco León de la Barra was installed. A new election was held in 1911, bringing Madero to the presidency.",
+      "The origins of the conflict were broadly based in opposition to the Díaz regime, with the 1910 election becoming the catalyst for the outbreak of political rebellion."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Hampton_Roads",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-hampton-roads/m01lb7p"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mexican_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/mexican-revolution/m012gs4"
   },
   "funFacts": [
     {
-      "id": "316",
-      "fact": "It took Leonardo da Vinci 12 years to paint the lips of Mona Lisa.",
-      "category": ["History"]
+      "id": "83",
+      "fact": "Googol is a number (1 followed by 100 zeros).",
+      "category": ["Science"]
     },
     {
-      "id": "109",
-      "fact": "Smelling apples and/or bananas can help you lose weight.",
-      "category": ["Science"]
+      "id": "199",
+      "fact": "The largest cheesecake ever made weighed 57,508 lbs.",
+      "category": ["Food"]
     }
   ],
-  "funFacts2": [{ "id": "553685", "fact": "Salvador Dalí designed the Chupa Chups logo." }],
+  "funFacts2": [
+    {
+      "id": "553857",
+      "fact": "It took the editors of the first Oxford English Dictionary five years to reach the word ant."
+    }
+  ],
   "idiom": {
-    "id": "green-about-the-gills",
-    "term": "green about the gills",
-    "definition": "Also, **green around the gills.** Looking ill or nauseated, as in *After that bumpy ride she looked quite green about the gills.* The use of *green* to describe an ailing person's complexion dates from about 1300, and *gills* has referred to the flesh around human jaws and ears since the 1600s. Although in the 1800s *white* and *yellow* were paired with *gills* to suggest illness, the alliterative *green* has survived them."
+    "id": "hells-half-acre",
+    "term": "hell's half acre",
+    "definition": "A wild, desolate, dangerous place. The term originated in the American West, where numerous localities used it as a place name. It appears in the titles of a number of books, both fiction and nonfiction, about such places in the West. It also has been transferred to other bad situations, as in Avis D. Schorer's book, *A Half Acre of Hell: A Combat Nurse in WWII* (2000). [Slang, 1860s]"
   },
   "person": {
-    "id": "jeff-sessions",
-    "name": "Jeff Sessions",
-    "dates": "Born Dec 24, 1946",
-    "mainImg": "img/people/jeff-sessions.jpg",
+    "id": "kirsty-duncan",
+    "name": "Kirsty Duncan",
+    "dates": "Born Oct 31, 1966",
+    "mainImg": "img/people/kirsty-duncan.jpg",
     "summary": [
-      "Jefferson Beauregard Sessions III is an American politician and lawyer who served as the 84th United States attorney general from 2017 to 2018. A Republican, Sessions previously served as United States senator from Alabama from 1997 to 2017 before resigning that position to serve in the administration of President Donald Trump. In November 2019, Sessions announced that he would run for his previously-held U.S. Senate seat in 2020.",
-      "From 1981 to 1993, Sessions served as the United States attorney for the Southern District of Alabama. In 1986, President Ronald Reagan nominated Sessions to a judgeship on the U.S. District Court for the Southern District of Alabama. After allegations of racism were made against him in testimony before the U.S. Senate Judiciary Committee, the committee voted against advancing his nomination to the Senate floor; the nomination was later withdrawn. Sessions was elected Attorney General of Alabama in 1994. In 1996, he was elected to the U.S. Senate, and was later re-elected in 2002, 2008, and 2014. During his Senate tenure, Sessions was considered one of the most conservative members of the U.S. Senate."
-    ],
-    "quote": "“I certainly believe that improving our intelligence is of important national interest.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Jeff_Sessions",
-    "urlGoogle": "https://artsandculture.google.com/entity/jeff-sessions/m020yjg"
-  },
-  "place": {
-    "id": "kaunas",
-    "name": "Kaunas",
-    "mainImg": "img/places/kaunas.jpg",
-    "summary": [
-      "Kaunas is the second-largest city in Lithuania after Vilnius and an important centre of Lithuanian economic, academic, and cultural life. Kaunas was the biggest city and the centre of a county in the Duchy of Trakai of the Grand Duchy of Lithuania and Trakai Palatinate since 1413. In the Russian Empire, it was the capital of the Kaunas Governorate from 1843 to 1915.",
-      "During the interwar period, it served as the interim capital of Lithuania, when Vilnius was seized by Poland between 1920 and 1939. During that period Kaunas was celebrated for its rich cultural and academic life, fashion, construction of countless Art Deco and Lithuanian National Romanticism architectural-style buildings as well as popular furniture, the interior design of the time, and a widespread café culture. The city interwar architecture is regarded as among the finest examples of European Art Deco and has received the European Heritage Label. It contributed to Kaunas being named as the first city in Central and Eastern Europe to be designated as a UNESCO City of Design. Kaunas has been selected as the European Capital of Culture for 2022, together with Esch-sur-Alzette, Luxembourg."
+      "Kirsty Ellen Duncan PC MP is a Canadian politician and medical geographer from Ontario, Canada. Duncan is the Member of Parliament for the Toronto riding of Etobicoke North and Duncan serves as deputy leader of the government in the House of Commons. Duncan has previously served as minister of science and minister of sport and persons with disabilities. She has published a book about her 1998 expedition to uncover the cause of the 1918 Spanish flu epidemic."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kaunas",
-    "urlGoogle": "https://artsandculture.google.com/entity/kaunas/m0171b8"
+    "urlWiki": "https://en.wikipedia.org/wiki/Kirsty_Duncan",
+    "urlGoogle": "https://artsandculture.google.com/entity/kirsty-duncan/m04jj_b0"
+  },
+  "place": {
+    "id": "chamonix",
+    "name": "Chamonix",
+    "mainImg": "img/places/chamonix.jpg",
+    "summary": [
+      "Chamonix-Mont-Blanc, more commonly known as Chamonix, is a commune in the Haute-Savoie department in the Auvergne-Rhône-Alpes region in south-eastern France. It was the site of the first Winter Olympics in 1924.",
+      "Situated to the north of Mont Blanc, between the peaks of the Aiguilles Rouges and the notable Aiguille du Midi, Chamonix is one of the oldest ski resorts in France. The Chamonix commune is popular with skiers and mountain enthusiasts, and via the cable car lift to the Aiguille du Midi it is possible to access the off-piste ski run of the Vallée Blanche."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Chamonix",
+    "urlGoogle": "https://artsandculture.google.com/entity/chamonix/m0ps3g"
   },
   "wiki": {
-    "id": "red-vs-blue",
-    "name": "Red vs Blue",
-    "summary": "Red vs Blue is a science fiction comedy series created by Rooster Teeth Productions. The series is produced primarily by using the machinima technique of synchronizing video footage from computer and video games to pre-recorded dialogue and other audio. Footage is taken mostly from the multiplayer modes of the first-person shooter (FPS) video games Halo: Combat Evolved and Halo 2 on the Xbox video game console. Chronicling the story of two opposing teams of soldiers fighting a civil war in the middle of a desolate box canyon, the series is an absurdist parody of FPS games, military life, and other science fiction films. Begun in 2003 and having concluded its fourth season, Red vs Blue has won four awards from the Academy of Machinima Arts & Sciences. The series is generally praised for its originality, and has been credited with bringing new popularity to machinima, helping it to gain more mainstream exposure, and attracting more people to the art form.",
-    "url": "https://en.wikipedia.org/wiki/Red_vs_Blue"
+    "id": "red-necked-grebe",
+    "name": "Red-necked Grebe",
+    "summary": "The Red-necked Grebe is a migratory aquatic bird that is found in the temperate regions of the northern hemisphere. Its wintering habitat is largely restricted to calm waters just beyond the waves around ocean coasts, although some birds may winter on large lakes. Grebes prefer shallow bodies of fresh water such as lakes, marshes or fish-ponds as breeding sites. A nondescript dusky-grey bird in winter, it acquires the distinctive red neck, black cap and contrasting pale grey face from which its name is derived during the breeding season. It also has an elaborate courtship display and a variety of loud mating calls. Once paired, it builds a nest from water plants on top of floating vegetation in a shallow lake or bog.",
+    "url": "https://en.wikipedia.org/wiki/Red-necked_Grebe"
   },
   "word": {
-    "id": "lagniappe",
-    "word": "lagniappe",
-    "url": "https://www.merriam-webster.com/dictionary/lagniappe",
+    "id": "instauration",
+    "word": "instauration",
+    "url": "https://www.merriam-webster.com/dictionary/instauration",
     "partOfSpeech": "noun",
-    "pronunciation": "LAN-yap",
-    "audioPath": "audio/words/lagniappe.mp3",
+    "pronunciation": "in-staw-RAY-shun",
+    "audioPath": "audio/words/instauration.mp3",
     "definitions": [
-      "a small gift given a customer by a merchant at the time of a purchase; broadly : something given or obtained gratuitously or by way of good measure"
+      "restoration after decay, lapse, or dilapidation",
+      "an act of instituting or establishing something"
     ],
     "examples": [
-      "Diners will no doubt be pleasantly surprised that such a fine champagne is served with the special holiday menu's first course as _lagniappe_.",
-      "\"That type of service was common in the country stores and small businesses I dealt with when growing up. At a little grocery and feed store near my home, I even got _lagniappe_ dropped from the candy counter into my bag as a boy.\" - From an article by Bob Anderson in _The Advocate_ (Baton Rouge, Louisiana), November 7, 2012"
+      "\"Once, humanity dreamed of the great _instauration_ - a rebirth of ancient wisdom that would compel us into a New Age....\" - From an article by Knute Berger in the _Seattle Weekly_, December 14, 2005",
+      "\"The Thibaut/Savigny conflict, the conflict between two leading professors, led to the _instauration_ of the two law commissions, again composed of professors, which finally paved the way for the adoption of the German Civil Code, some fifty years later.\" - From an introduction by Hans-W. Micklitz to the 2011 book _The Many Concepts of Social Justice in European Private Law_"
     ],
-    "origin": "\"We picked up one excellent word,\" wrote Mark Twain in Life on the Mississippi (1883), \"a word worth traveling to New Orleans to get; a nice limber, expressive, handy word-'lagniappe'.... It is Spanish-so they said.\" Twain encapsulates the history of \"lagniappe\" quite nicely. English speakers learned the word from French-speaking Louisianians, but they in turn had adapted it from the American Spanish word \"la ñapa.\" Twain went on to describe how New Orleanians completed shop transactions by saying \"Give me something for lagniappe,\" to which the shopkeeper would respond with \"a bit of liquorice-root, ... a cheap cigar or a spool of thread.\" It took a while for \"lagniappe\" to catch on throughout the country, but by the mid-20th century, New Yorkers and New Orleanians alike were familiar with this \"excellent word.\""
+    "origin": "\"Instauration\" first appeared in English in the early 17th century, a product of the Latin verb \"instaurare,\" meaning \"to renew or restore.\" This same source gave us our verb \"store,\" by way of Middle English and Anglo-French. Less than 20 years after \"instauration\" broke into English, the philosopher Francis Bacon began writing his _Instauratio Magna_, which translates to _The Great Instauration_. This uncompleted collection of works, which was written in Latin, calls for a restoration to a state of paradise on earth, but one in which mankind is enlightened by knowledge and truth."
   }
 }

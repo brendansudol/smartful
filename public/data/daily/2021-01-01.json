@@ -1,0 +1,135 @@
+{
+  "artist": {
+    "id": "jules-dupre",
+    "name": "Jules Dupré",
+    "dates": "Apr 5, 1811 - Oct 6, 1889",
+    "mainImg": "img/art/artists/jules-dupre.jpg",
+    "artworkImgs": [
+      {
+        "name": "Cows Crossing a Ford",
+        "path": "img/art/artworks/jules-dupre-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/cows-crossing-a-ford-jules-dupré/2QEw2HAWGtdmEw"
+      },
+      {
+        "name": "Sunset on the Coast",
+        "path": "img/art/artworks/jules-dupre-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/sunset-on-the-coast-jules-dupré-french-1811-1889/ZwFTW9sfMtWE4w"
+      },
+      {
+        "name": "A Village by Night",
+        "path": "img/art/artworks/jules-dupre-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-village-by-night-jules-dupré/KgGAQSnEW-yDyw"
+      },
+      {
+        "name": "Landscape with Cattle at Limousin",
+        "path": "img/art/artworks/jules-dupre-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-with-cattle-at-limousin-jules-dupré/-gHjeE8RO3vpIg"
+      },
+      {
+        "name": "Bank of the Somme (Bords de la Somme)",
+        "path": "img/art/artworks/jules-dupre-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/bank-of-the-somme-bords-de-la-somme-jules-dupré/JQHIjEHAMC2G8g"
+      },
+      {
+        "name": "At Sea",
+        "path": "img/art/artworks/jules-dupre-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/at-sea-jules-dupré-french-1811-1889/MgGkXThdZdHx5w"
+      }
+    ],
+    "summary": [
+      "Jules Dupré was a French painter, one of the chief members of the Barbizon school of landscape painters. If Corot stands for the lyric and Rousseau for the epic aspect of the poetry of nature, Dupré is the exponent of its tragic and dramatic aspects."
+    ],
+    "quote": null,
+    "movements": ["Barbizon school"],
+    "mediums": ["Oil paint", "Drawing", "Etching", "Wood", "Charcoal", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jules_Dupr%C3%A9",
+    "urlGoogle": "https://artsandculture.google.com/entity/jules-dupré/m03fvsh"
+  },
+  "event": {
+    "id": "indonesian-national-revolution",
+    "name": "Indonesian National Revolution",
+    "dates": "Aug 17, 1945 - Dec 27, 1949",
+    "mainImg": "img/events/indonesian-national-revolution.jpg",
+    "summary": [
+      "The Indonesian National Revolution, or Indonesian War of Independence, was an armed conflict and diplomatic struggle between the Republic of Indonesia and the Dutch Empire and an internal social revolution during postwar and postcolonial Indonesia. It took place between Indonesia's declaration of independence in 1945 and the Netherlands' recognition of Indonesia's independence at the end of 1949.",
+      "The four-year struggle involved sporadic but bloody armed conflict, internal Indonesian political and communal upheavals, and two major international diplomatic interventions. Dutch military forces were able to control the major towns, cities and industrial assets in Republican heartlands on Java and Sumatra but could not control the countryside. By 1949, international pressure on the Netherlands and the partial military stalemate became such that it recognised Indonesian independence.",
+      "The revolution marked the end of the colonial administration of the Dutch East Indies, except for Netherlands New Guinea. It also significantly changed ethnic castes as well as reducing the power of many of the local rulers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/indonesian-national-revolution/m0hmws"
+  },
+  "funFacts": [
+    {
+      "id": "934",
+      "fact": "Babies are born with about 300 separate bones, but adults have 206.",
+      "category": ["Anatomy", "Science"]
+    },
+    {
+      "id": "851",
+      "fact": "Miami installed the first ATM for rollerbladers.",
+      "category": ["Firsts"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554101",
+      "fact": "A solar eclipse helped end a six-year war in 585 BCE. When the sky suddenly darkened during a battle between the Lydians and the Medes in modern Turkey, soldiers took it as a sign to cease fighting."
+    }
+  ],
+  "idiom": {
+    "id": "browned-off",
+    "term": "browned off",
+    "definition": "Very angry, as in *When she locked me out I was really browned off.* This expression originated as Royal Air Force slang for \"disgusted\" and \"depressed\" in the late 1930s and had crossed the Atlantic by World War II. It gradually came to be used more widely as a slangy synonym for \"infuriated.\" One theory for its origin, mentioned by Eric Partridge in his slang dictionary, is that it alludes to brass buttons on a uniform turning brown from lack of polishing. Partridge noted, however, that the \"predominant Army opinion\" was that the word had the same literal meaning as *buggered.*"
+  },
+  "person": {
+    "id": "edouard-herriot",
+    "name": "Édouard Herriot",
+    "dates": "Jul 5, 1872 - Mar 26, 1957",
+    "mainImg": "img/people/edouard-herriot.jpg",
+    "summary": [
+      "Édouard Marie Herriot was a French Radical politician of the Third Republic who served three times as Prime Minister and for many years as President of the Chamber of Deputies. He was leader of the first Cartel des Gauches.",
+      "Hérriot was born at Troyes, France on 5 July 1872. He served as Mayor of Lyon from 1905 until his death, except for a brief period from 1940 to 1945, when he was exiled to Germany for opposing the Vichy regime. As mayor, Herriot improved relations between municipal government and local unions, increased public assistance funds, and launched an urban renewal programme, amongst other measures. He died in Lyon on 26 March 1957. He is buried at the Cimetière de Loyasse."
+    ],
+    "quote": "“Politics is like a race horse. A good jockey must know how to fall with the least possible damage.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89douard_Herriot",
+    "urlGoogle": "https://artsandculture.google.com/entity/édouard-herriot/m02409j"
+  },
+  "place": {
+    "id": "milan",
+    "name": "Milan",
+    "mainImg": "img/places/milan.jpg",
+    "summary": [
+      "Milan is a city in northern Italy, capital of Lombardy, and the second-most populous city in Italy after Rome. Milan served as the capital of the Western Roman Empire, the Duchy of Milan and the Kingdom of Lombardy–Venetia.",
+      "The city proper has a population of about 1.4 million while its metropolitan city has 3.26 million inhabitants. Its continuously built-up urban area, that stretches well beyond the boundaries of the administrative metropolitan city, is the fourth largest in the EU with 5.27 million inhabitants. The population within the wider Milan metropolitan area, also known as Greater Milan, is estimated at 8.2 million, making it by far the largest metropolitan area in Italy and the 4th largest in the EU.",
+      "Milan is considered a leading alpha global city, with strengths in the field of the art, commerce, design, education, entertainment, fashion, finance, healthcare, media, services, research and tourism. Its business district hosts Italy's stock exchange, and the headquarters of national and international banks and companies. In terms of GDP, it has the second-largest economy among EU cities after Paris, and is the wealthiest among EU non-capital cities."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Milan",
+    "urlGoogle": "https://artsandculture.google.com/entity/milan/m0947l"
+  },
+  "quote": {
+    "id": "24",
+    "quote": "Our lives begin to end the day we become silent about things that matter.",
+    "author": "Martin Luther King Jr."
+  },
+  "wiki": {
+    "id": "whitechapel-murders",
+    "name": "Whitechapel murders",
+    "summary": "The Whitechapel murders are eleven unsolved brutal murders of women, committed in or near the impoverished Whitechapel District in the East End of London between 3 April 1888 and 13 February 1891. At various points some or all of the killings have been ascribed to the notorious, but elusive, individual known as Jack the Ripper. Most, if not all, of the victims were prostitutes. The Metropolitan Police Service, City of London Police, and private organisations such as the Whitechapel Vigilance Committee were involved in the search for the killer or killers. Despite extensive inquiries and several arrests, the culprit or culprits evaded identification and capture. The murders drew attention to the poor living conditions in the East End slums, which were subsequently improved. The enduring mystery of who committed the crimes has captured the imagination of writers to the present day.",
+    "url": "https://en.wikipedia.org/wiki/Whitechapel_murders"
+  },
+  "word": {
+    "id": "peloton",
+    "word": "peloton",
+    "url": "https://www.merriam-webster.com/dictionary/peloton",
+    "partOfSpeech": "noun",
+    "pronunciation": "pel-uh-TAHN",
+    "audioPath": "audio/words/peloton.mp3",
+    "definitions": ["the main body of riders in a bicycle race"],
+    "examples": [
+      "\"The first major splits occur in the peloton at about the 110-mile mark, where many riders find they can no longer keep up.\" (Michael Barry, _The New York Times_, September 26, 2008)"
+    ],
+    "origin": "If you've ever watched the Tour de France on television, you've seen the peloton, the brightly colored pack of riders making up the central group. You may have also gained some inadvertent insight into the word itself, which as you may have guessed is French in origin. In French, \"peloton\" literally means \"ball,\" but it is most often used with the meaning \"group.\" It's frequently used in the bicycling context, just as in English, but it can also refer to a group in a marathon or other sporting event. French \"peloton\" can also mean \"squad\" or \"platoon,\" and since we’ve told you that you probably won’t be too surprised to learn that it is also the source of our word \"platoon.\""
+  }
+}

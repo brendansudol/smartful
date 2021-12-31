@@ -1,0 +1,141 @@
+{
+  "artist": {
+    "id": "clara-peeters",
+    "name": "Clara Peeters",
+    "dates": "Born 1594",
+    "mainImg": "img/art/artists/clara-peeters.jpg",
+    "artworkImgs": [
+      {
+        "name": "Still Life with Cheeses, Artichoke, and Cherries",
+        "path": "img/art/artworks/clara-peeters-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-cheeses-artichoke-and-cherries-clara-peeters/eAHOckcFYWQamg"
+      },
+      {
+        "name": "Still Life of Fish and Cat",
+        "path": "img/art/artworks/clara-peeters-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-of-fish-and-cat-clara-peeters/YwErnEJWYsQZZQ"
+      },
+      {
+        "name": "Still Life with Flowers and Gold Cups of Honour",
+        "path": "img/art/artworks/clara-peeters-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-flowers-and-gold-cups-of-honour-clara-peeters/_gFfECPJGkf0lA"
+      },
+      {
+        "name": "Still Life with Crab, Shrimps and Lobster",
+        "path": "img/art/artworks/clara-peeters-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-crab-shrimps-and-lobster-clara-peeters/XwH9OAdPFN1YKQ"
+      },
+      {
+        "name": "Still life with fish, oysters and shrimps",
+        "path": "img/art/artworks/clara-peeters-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-fish-oysters-and-shrimps-clara-peeters/TAFWvoiIOGvBLA"
+      },
+      {
+        "name": "Still Life with Cheeses, Almonds and Pretzels",
+        "path": "img/art/artworks/clara-peeters-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-cheeses-almonds-and-pretzels-peeters-clara/XwHCwXIzJKP_nw"
+      }
+    ],
+    "summary": [
+      "Clara Peeters was a Flemish still-life painter from Antwerp who worked in both the Spanish Netherlands and Dutch Republic.",
+      "Peeters is the best-known female Flemish artist of this era and one of the few women artists working professionally in seventeenth-century Europe, despite restrictions on women's access to artistic training and membership in guilds. Peeters specialized in still-life paintings with food and was prominent among the artists who shaped the traditions of the Netherlandish ontbijtjes, \"breakfast pieces,\" scenes of food and simple vessels, and banketjes, \"banquet pieces\" with expensive cups and vessels in precious metals."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Wood", "Oak"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Clara_Peeters",
+    "urlGoogle": "https://artsandculture.google.com/entity/clara-peeters/m0266vrh"
+  },
+  "event": {
+    "id": "second-italian-war-of-independence",
+    "name": "Second Italian War of Independence",
+    "dates": "Apr 29, 1859 - Jul 11, 1859",
+    "mainImg": "img/events/second-italian-war-of-independence.jpg",
+    "summary": [
+      "The Second Italian War of Independence, also called the Franco-Austrian War, the Austro-Sardinian War or Italian War of 1859, was fought by the French Empire and the Kingdom of Sardinia against the Austrian Empire in 1859 and played a crucial part in the process of Italian unification.",
+      "The background to the war was the Plombières Agreement between France and Sardinia on 21 July 1858, in which they agreed to carve up Italy between them, and the Franco-Sardinian military alliance signed in January 1859. Sardinia mobilized its army on 9 March 1859, while Austria mobilized on 9 April. On 23 April, Austria delivered an ultimatum to Sardinia, demanding Sardinia's demobilization. Upon Sardinia's refusal, the war began on 26 April. Austria invaded the Kingdom of Sardinia on 29 April and France declared war on Austria on 3 May.",
+      "The Austrian invasion was stopped by the arrival of French troops in Piedmont from 25 April onward. The Austrians were defeated at the Battle of Magenta on 4 June and pushed back to Lombardy, where the Franco-Sardinian victory at the Battle of Solferino on 24 June resulted in the end of the war and the signing of the Armistice of Villafranca on 12 July."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Italian_War_of_Independence",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-italian-war-of-independence/m05t_9c"
+  },
+  "funFacts": [
+    {
+      "id": "466",
+      "fact": "During the Boston Tea Party, 342 chests of tea were thrown into the harbor.",
+      "category": ["History"]
+    },
+    {
+      "id": "787",
+      "fact": "Like fingerprints, everyone's tongue print is different.",
+      "category": ["Anatomy"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554039",
+      "fact": "In 2007, the end of Daylight Saving Time jumped from the last Sunday in October to the first Sunday in November. The decision was reportedly influenced by candy lobbyists pushing to get trick-or-treaters an extra hour of daylight."
+    }
+  ],
+  "idiom": {
+    "id": "cool-as-a-cucumber",
+    "term": "cool as a cucumber",
+    "definition": "Calm and composed, self-possessed, as in *Despite the mishap Margaret was cool as a cucumber.* This idiom may be based on the fact that in hot weather the inside of cucumbers remains cooler than the air. [c. 1600]"
+  },
+  "person": {
+    "id": "ernst-toller",
+    "name": "Ernst Toller",
+    "dates": "Dec 1, 1893 - May 22, 1939",
+    "mainImg": "img/people/ernst-toller.jpg",
+    "summary": [
+      "Ernst Toller was a German left-wing playwright, best known for his Expressionist plays. He served in 1919 for six days as President of the short-lived Bavarian Soviet Republic, after which he became the head of its army. He was imprisoned for five years for his part in the armed resistance by the Soviet Republic to the central government in Berlin. While in prison Toller wrote several plays which gained him international renown. They were performed in London and New York as well as Berlin. In the year 2000, several of his plays were published in an English translation.",
+      "In 1933 Toller was exiled from Germany after the Nazis came to power. He did a lecture tour in 1936-1937 in the United States and Canada, settling in California for a while before going to New York. He joined other exiles there. Struggling financially and depressed at learning his brother and sister had been sent to a concentration camp in Germany, he committed suicide in May 1939."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ernst_Toller",
+    "urlGoogle": "https://artsandculture.google.com/entity/ernst-toller/m05n6ll"
+  },
+  "place": {
+    "id": "versailles",
+    "name": "Versailles",
+    "mainImg": "img/places/versailles.jpg",
+    "summary": [
+      "Versailles is a city in the Yvelines département in the Île-de-France region, renowned worldwide for the Château de Versailles and the gardens of Versailles, designated UNESCO World Heritage Sites. Located in the western suburbs of the French capital, 17.1 km from the centre of Paris, Versailles is in the 21st century a wealthy suburb of Paris with a service-based economy and a major tourist destination as well. According to the 2008 census, the population of the city is 88,641 inhabitants, down from a peak of 94,145 in 1975.",
+      "A new town founded at the will of King Louis XIV, Versailles was the de facto capital of the Kingdom of France for over a century, from 1682 to 1789, before becoming the cradle of the French Revolution. After having lost its status of royal city, it became the préfecture of the Seine-et-Oise département in 1790, then of Yvelines in 1968. It is also a Roman Catholic diocese.",
+      "Versailles is historically known for numerous treaties such as the Treaty of Paris, which ended the American Revolution, and the Treaty of Versailles, after World War I."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Versailles,_Yvelines",
+    "urlGoogle": "https://artsandculture.google.com/entity/versailles/m080g3"
+  },
+  "quote": {
+    "id": "7",
+    "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+    "author": "Dr. Seuss"
+  },
+  "wiki": {
+    "id": "john-f-bolt",
+    "name": "John F. Bolt",
+    "summary": "John F. Bolt (1921–2004) was a United States Marine Corps aviator and a decorated flying ace who served during World War II and the Korean War. After dropping out of the University of Florida for financial reasons in 1941, he joined the Marine Corps at the height of World War II. Sent to the Pacific Theater of Operations, he flew an F4U Corsair during the campaigns in the Marshall Islands and New Guinea, claiming six victories against Japanese A6M Zeros. Bolt continued his service through the Korean War, entering combat through an exchange program with the U.S. Air Force in late 1952. Over a period of several weeks in mid-1953, he led flights of F-86 Sabres into combat with MiG-15s of the Chinese Air Force, scoring six victories during fights along the northern border of North Korea, commonly known as \"MiG Alley,\" giving him a total of 12 career victories. Bolt stayed in the Marine Corps until 1962, rising to the rank of lieutenant colonel and serving as an analyst and instructor in his later career. In retirement, he qualified as a lawyer in Florida. He remains the only US Marine to achieve ace status in two wars and was also the only Marine jet fighter ace.",
+    "url": "https://en.wikipedia.org/wiki/John_F._Bolt"
+  },
+  "word": {
+    "id": "epithet",
+    "word": "epithet",
+    "url": "https://www.merriam-webster.com/dictionary/epithet",
+    "partOfSpeech": "noun",
+    "pronunciation": "EP-uh-thet",
+    "audioPath": "audio/words/epithet.mp3",
+    "definitions": [
+      "a characterizing word or phrase accompanying or occurring in place of the name of a person or thing",
+      "a disparaging or abusive word or phrase",
+      "the part of a taxonomic name identifying a subordinate unit within a genus"
+    ],
+    "examples": [
+      "The online message board’s Terms of Service dictate that abusive language of any kind, including derogatory _epithets_, will result in the termination of the offending party’s account.",
+      "\"The term 'RINO' (Republican In Name Only) has become an _epithet_ of ideological enforcement….\" -- From an op-ed piece by Jonah Goldberg in the _Los Angeles Times_, December 27, 2011"
+    ],
+    "origin": "Nowadays, \"epithet\" is usually used negatively, with the meaning \"a derogatory word or phrase,\" but it wasn't always that way. \"Epithet\" comes to us via Latin from the Greek noun \"epitheton\" and ultimately derives from \"epitithenai,\" meaning \"to put on\" or \"to add.\" In its oldest sense, an \"epithet\" is simply a descriptive word or phrase, especially one joined by fixed association to the name of someone or something (as in \"Peter the Great\" or the stock Homeric phrases \"gray-eyed Athena\" and \"wine-dark sea\"). Alternatively, epithets may be used in place of a name (as in \"the Peacemaker\" or \"the Eternal\"). These neutral meanings of \"epithet\" are still in use, but today the word is more often used in its negative \"term of disparagement\" sense."
+  }
+}

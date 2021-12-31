@@ -1,131 +1,128 @@
 {
   "artist": {
-    "id": "gim-hongdo",
-    "name": "Gim Hongdo",
-    "dates": "1745 - 1806",
-    "mainImg": "img/art/artists/gim-hongdo.jpg",
+    "id": "kerry-james-marshall",
+    "name": "Kerry James Marshall",
+    "dates": "Born Oct 17, 1955",
+    "mainImg": "img/art/artists/kerry-james-marshall.jpg",
     "artworkImgs": [
       {
-        "name": "Album of Genre Paintings",
-        "path": "img/art/artworks/gim-hongdo-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/eAFn6DicWIqnNQ"
+        "name": "Memento #5",
+        "path": "img/art/artworks/kerry-james-marshall-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/memento-5-kerry-james-marshall/ZgGvKUm7eu861Q"
       },
       {
-        "name": "Album of Genre Paintings",
-        "path": "img/art/artworks/gim-hongdo-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/7QGqYlKqXd86dQ"
+        "name": "Our Town",
+        "path": "img/art/artworks/kerry-james-marshall-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/our-town-kerry-james-marshall/VgE9A9cmVSCvXQ"
       },
       {
-        "name": "Album of Genre Paintings",
-        "path": "img/art/artworks/gim-hongdo-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/SgGS_BxJlhm5ZA"
+        "name": "Supermodel",
+        "path": "img/art/artworks/kerry-james-marshall-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/supermodel-kerry-james-marshall/BwFM8-lN_4WMJQ"
       },
       {
-        "name": "Album of Genre Paintings",
-        "path": "img/art/artworks/gim-hongdo-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/iAGYrdPxTLfyNw"
+        "name": "Untitled (Blot)",
+        "path": "img/art/artworks/kerry-james-marshall-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-blot-kerry-james-marshall/RwFqgsBwo1XnFw"
       },
       {
-        "name": "Album of Genre Paintings",
-        "path": "img/art/artworks/gim-hongdo-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/QwEvHt_wSvg0Mw"
+        "name": "Untitled (Blot)",
+        "path": "img/art/artworks/kerry-james-marshall-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-blot-kerry-james-marshall/eQG4Qy3RPehEbQ"
       },
       {
-        "name": "Album of Genre Paintings",
-        "path": "img/art/artworks/gim-hongdo-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/album-of-genre-paintings-kim-hong-do/WgFpqAFTIAN2dA"
+        "name": "As Seen on TV",
+        "path": "img/art/artworks/kerry-james-marshall-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/as-seen-on-tv-kerry-james-marshall/2gHgNn0k1jWqlw"
       }
     ],
     "summary": [
-      "Gim Hong-do, also known as Kim Hong-do, most often styled Danwon, was a full-time painter of the Joseon period of Korea. He was together a pillar of the establishment and a key figure of the new trends of his time, the 'true view painting'. Gim Hong-do was an exceptional artist in every field of traditional painting, even if he is mostly remembered nowadays for his depictions of the everyday life of ordinary people, in a manner analogous to the Dutch Masters."
+      "Kerry James Marshall is an American artist born in Birmingham, Alabama. He grew up in South Central Los Angeles and now lives in Chicago, Illinois, where he previously taught at the School of Art and Design at the University of Illinois at Chicago. He is a 1978 graduate of Otis College of Art and Design. An exhibition of his work, Kerry James Marshall: Mastry, was assembled by the Museum of Contemporary Art in 2016."
     ],
-    "quote": null,
-    "movements": [],
-    "mediums": ["Silk", "Textile", "Ink", "Tin", "India ink", "Metal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Gim_Hongdo",
-    "urlGoogle": "https://artsandculture.google.com/entity/gim-hongdo/m0749cz"
+    "quote": "“I think we need to remember...that a lot of energy was put into changing things to get us to the point where we are now. But being where we are now doesn't mean that we don't have to put in the same kind of energy to get us to a place where we ought to be.”",
+    "movements": ["Contemporary art"],
+    "mediums": [
+      "Acrylic paint",
+      "Photograph",
+      "Sculpture",
+      "Vitreous enamel",
+      "Enamel paint",
+      "Iron"
+    ],
+    "urlWiki": "https://en.wikipedia.org/wiki/Kerry_James_Marshall",
+    "urlGoogle": "https://artsandculture.google.com/entity/kerry-james-marshall/m02rftt7"
   },
   "event": {
-    "id": "battle-of-vigo-bay",
-    "name": "Battle of Vigo Bay",
-    "dates": null,
-    "mainImg": "img/events/battle-of-vigo-bay.jpg",
+    "id": "asian-relations-conference",
+    "name": "Asian Relations Conference",
+    "dates": "April 1947 - May 1947",
+    "mainImg": "img/events/asian-relations-conference.jpg",
     "summary": [
-      "The Battle of Vigo Bay, also known as the Battle of Rande, was a naval engagement fought on 23 October 1702 during the opening years of the War of the Spanish Succession. The engagement followed an Anglo-Dutch attempt to capture the Spanish port of Cádiz in September in an effort to secure a naval base in the Iberian Peninsula. From this station the Allies had hoped to conduct operations in the western Mediterranean Sea, particularly against the French at Toulon. The amphibious assault, however, had proved a disaster, but as Admiral George Rooke retreated home in early October, he received news that the Spanish treasure fleet from America, laden with silver and merchandise, had entered Vigo Bay in northern Spain. Philips van Almonde convinced Rooke to attack the treasure ships, despite the lateness of the year and the fact that the vessels were protected by French ships-of-the-line.",
-      "The engagement was an overwhelming naval success for the Allies: the entire French escort fleet, under the command of Château-Renault, together with the Spanish galleons and transports under Manuel de Velasco, had either been captured or destroyed."
+      "The Asian Relations Conference took place in New Delhi in March–April 1947. It was hosted by Prime Minister Jawaharlal Nehru, who then headed a provisional government that was preparing for India's Independence, which came on 15 August 1947. The Asian Relations Conference brought together many leaders of the independence movements in Asia, and represented a first attempt to assert Asian unity. The objectives of the conference were \"to bring together the leading men and women of Asia on a common platform to study the problems of common concern to the people of the continent, to focus attention on social, economic and cultural problems of the different countries of Asia, and to foster mutual contact and understanding.\"",
+      "In his writings and speeches, Nehru had laid great emphasis on the manner in which post-colonial India would rebuild its Asia connections. At this conference Nehru declared: \"... Asia is again finding herself ... one of the notable consequences of the European domination of Asia has been the isolation of the countries of Asia from one another. ... Today this isolation is breaking down because of many reasons, political and otherwise ..."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Vigo_Bay",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-vigo-bay/m03l0qh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Asian_Relations_Conference",
+    "urlGoogle": "https://artsandculture.google.com/entity/asian-relations-conference/m04gjncc"
   },
   "funFacts": [
     {
-      "id": "335",
-      "fact": "Maine produces more toothpicks than any other state in the U.S.",
+      "id": "438",
+      "fact": "Mount Everest rises a few millimeters every year.",
       "category": ["Geography"]
     },
-    { "id": "278", "fact": "China only has one time zone.", "category": ["Geography"] }
-  ],
-  "funFacts2": [
     {
-      "id": "554080",
-      "fact": "In 1953, Swanson had 260 tons of frozen turkey leftover after Thanksgiving, so they packaged them into trays with peas and potatoes, and the TV Dinner was born."
+      "id": "300",
+      "fact": "Pennsylvania is misspelled on the Liberty Bell, because that is how they spelled it in the 18th century.",
+      "category": ["Geography", "History"]
     }
   ],
-  "idiom": {
-    "id": "sum-and-substance",
-    "term": "sum and substance",
-    "definition": "The essence or gist of something, as in *The sum and substance of their platform is financial conservatism.* This redundant expression---both *sum* and *substance* here mean \"essence\"---has probably survived owing to alliteration. Shakespeare used it in *The Two Gentlemen of Verona* (4:1): \"My riches are these poor habiliments [clothes], Of which if you should here disfurnish me, You take the sum and substance that I have.\""
-  },
+  "funFacts2": [{ "id": "505966", "fact": "Stalin plotted to kill John Wayne." }],
   "person": {
-    "id": "haile-selassie",
-    "name": "Haile Selassie",
-    "dates": "Jul 23, 1892 - Aug 27, 1975",
-    "mainImg": "img/people/haile-selassie.jpg",
+    "id": "simone-veil",
+    "name": "Simone Veil",
+    "dates": "Jul 13, 1927 - Jun 30, 2017",
+    "mainImg": "img/people/simone-veil.jpg",
     "summary": [
-      "Haile Selassie I was an Emperor of Ethiopia from 1930 to 1974. Prior to his coronation in 1930, he had been Regent Plenipotentiary of Ethiopia from 1916. He is a defining figure in modern Ethiopian history. He was a member of the Solomonic dynasty who traced his lineage to Emperor Menelik I.",
-      "Selassie's internationalist views led to Ethiopia becoming a charter member of the United Nations. At the League of Nations in 1936, he condemned Italy's use of chemical weapons against its people during the Second Italo-Ethiopian War. He has been criticized by some historians for his suppression of rebellions among the landed aristocracy, which consistently opposed his reforms; some critics have also criticized Ethiopia's failure to modernize rapidly enough. During his rule the Harari people were persecuted and many left the Harari Region. His regime was also criticized by human rights groups, such as Human Rights Watch, as autocratic and illiberal.",
-      "Among the Rastafari movement, whose followers are estimated to number between 700,000 and one million, Haile Selassie is revered as the returned messiah of the Bible, God incarnate."
+      "Simone Annie Liline Veil, Grand-croix; DBE was a French lawyer and politician who served as Minister of Health under Valéry Giscard d'Estaing, President of the European Parliament and member of the Constitutional Council of France.",
+      "A survivor of the Auschwitz-Birkenau concentration camp where she lost part of her family during the Holocaust; she served as the first president of the Fondation pour la Mémoire de la Shoah, from 2000 to 2007, and subsequently as honorary president. She was elected to the Académie française in November 2008. She was best known for ministerially pushing forward the law legalizing abortion in France on 17 January 1975. She and her husband were buried in the Panthéon on 1 July 2018. Only the fifth woman in history to be accorded this burial honor, she was eulogized during the reinterment ceremony by President Emmanuel Macron."
     ],
-    "quote": "“Outside the kingdom of the Lord there is no nation which is greater than any other. God and history will remember your judgment.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Haile_Selassie",
-    "urlGoogle": "https://artsandculture.google.com/entity/haile-selassie/m0bky0"
+    "quote": "“The poet produces the beautiful by fixing his attention on something real.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Simone_Veil",
+    "urlGoogle": "https://artsandculture.google.com/entity/simone-veil/m02rl4t"
   },
   "place": {
-    "id": "cairns",
-    "name": "Cairns",
-    "mainImg": "img/places/cairns.jpg",
+    "id": "obihiro",
+    "name": "Obihiro",
+    "mainImg": "img/places/obihiro.jpg",
     "summary": [
-      "Cairns is a city in the Cairns Region, Queensland, Australia. It is on the east coast of Far North Queensland. The city is the 5th-most-populous in Queensland and ranks 14th overall in Australia.",
-      "Cairns was founded in 1876 and named after Sir William Wellington Cairns, Governor of Queensland from 1875 to 1877. It was formed to serve miners heading for the Hodgkinson River goldfield, but declined when an easier route was discovered from Port Douglas. It later developed into a railhead and major port for exporting sugar cane, gold and other metals, minerals and agricultural products from surrounding coastal areas and the Atherton Tableland region.",
-      "The population of the Cairns urban area at June 2018 was 152,729, having grown on average 1.1% year-on-year over the preceding five years.",
-      "Based on 2015 data, the associated local government area had experienced an average annual growth rate of 2.3% over the previous 10 years. According to Cairns Regional Council in February 2020, Cairns had experienced an annual growth rate of 1.9% over the previous ten years."
+      "Obihiro is a city in Tokachi Subprefecture, Hokkaido, Japan. Obihiro is the only designated city in the Tokachi area. The next most populous municipality in Tokachi is the adjacent town of Otofuke, with less than a third of Obihiro's population. The city had approximately 500 foreign residents in 2008. The city contains the headquarters of the Fifth Division of the Northern Army of the Japan Ground Self-Defense Force. It also hosts the Rally Japan World Rally Championship-event.",
+      "In 2008, Obihiro was designated a \"model environmental city\" in Japan."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cairns",
-    "urlGoogle": "https://artsandculture.google.com/entity/cairns/m01sgmd"
+    "urlWiki": "https://en.wikipedia.org/wiki/Obihiro,_Hokkaido",
+    "urlGoogle": "https://artsandculture.google.com/entity/obihiro/m01wfgj"
   },
   "wiki": {
-    "id": "virginia",
-    "name": "Virginia",
-    "summary": "Virginia is a U.S. state on the Atlantic Coast of the Southern United States. The state population is over eight million. Its geography and climate are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which are home to much of its flora and fauna. The area's history begins with several indigenous groups, including the Powhatan. In May 1607 the London Company established the Colony of Virginia as the first permanent New World English colony. Virginia was one of the Thirteen Colonies involved in the American Revolution. During the American Civil War, Virginia joined the Confederate States of America, which named Richmond its capital, and the state of West Virginia separated. The Virginia General Assembly is the oldest legislature in the Americas, and the state is unique for prohibiting governors from serving consecutive terms. Virginia's economy is diversified with agriculture in regions like the Shenandoah Valley, federal agencies in Northern Virginia, and military facilities in Hampton Roads. The growth of the media and technology sectors have made computer chips the leading export, with the industry based on the strength of Virginia's public schools and universities.",
-    "url": "https://en.wikipedia.org/wiki/Virginia"
+    "id": "posting-system",
+    "name": "Posting system",
+    "summary": "The posting system is a baseball player transfer system that operates between Japan's Nippon Professional Baseball (NPB) and the United States' Major League Baseball (MLB). Despite the drafting of the United States – Japanese Player Contract Agreement in 1967 designed to regulate NPB players moving to MLB, problems arose in the late 1990s. Some NPB teams lost star players without compensation, an issue highlighted when NPB stars Hideo Nomo and Alfonso Soriano left to play in MLB after using loopholes to void their existing contracts. A further problem was that NPB players had very little negotiating power if their teams decided to deal them to MLB. In 1998, the Agreement was rewritten to address both problems and was dubbed the \"posting system\". Under this system, when an NPB player is \"posted\", MLB holds a four-day-long silent auction during which MLB teams can submit sealed bids in an attempt to win the exclusive rights to negotiate with the player. If the MLB team with the winning bid and the NPB player agree on contract terms before the 30-day period has expired, the NPB team receives the bid amount as a transfer fee, and the player is free to play in MLB.",
+    "url": "https://en.wikipedia.org/wiki/Posting_system"
   },
   "word": {
-    "id": "zoomorphic",
-    "word": "zoomorphic",
-    "url": "https://www.merriam-webster.com/dictionary/zoomorphic",
+    "id": "colubrine",
+    "word": "colubrine",
+    "url": "https://www.merriam-webster.com/dictionary/colubrine",
     "partOfSpeech": "adjective",
-    "pronunciation": "zoh-uh-MOR-fik",
-    "audioPath": "audio/words/zoomorphic.mp3",
+    "pronunciation": "KAHL-yuh-bryne",
+    "audioPath": "audio/words/colubrine.mp3",
     "definitions": [
-      "having the form of an animal",
-      "of, relating to, or being a deity conceived of in animal form or with animal attributes"
+      "of, relating to, or resembling a snake",
+      "of or relating to a large cosmopolitan family (Colubridae) of chiefly nonvenomous snakes"
     ],
     "examples": [
-      "Using her new cookie cutters, Angela baked a batch of _zoomorphic_ cookies to bring to the kids in her niece's classroom.",
-      "\"The historic Lobero Theatre will be transformed into a rain forest for State Street Ballet's matinee production of The Jungle Book, which boasts some of the most dazzling _zoomorphic_ costumes ever made.\" - From a review by Elizabeth Schwyzer in the _Santa Barbara Independent_ (California), January 13-20, 2011"
+      "\"By the time the music starts throbbing at 9, there will undoubtedly be a colubrine line slithering down Mass. Ave.\" (Christopher Muther, _The Boston Globe_, March 2002)"
     ],
-    "origin": "\"Zo-\" (or \"zoo-\") derives from the Greek word \"zōion,\" meaning \"animal,\" and \"-morph\" comes from the Greek \"morphē,\" meaning \"form.\" These two forms combined to give us the adjective \"zoomorphic,\" which was first used in English to describe something that resembles an animal in 1872. English includes other words that were formed from \"zo-\" or \"zoo-,\" such as \"zoology\" (made with \"-logy,\" meaning \"science\"). And there are also other words that were formed from \"-morph,\" such as \"pseudomorph,\" for a mineral having the outward form of another species. (The combining form \"pseud-\" or \"pseudo-\" means \"false.\")"
+    "origin": "\"Colubrine\" may be less common than other animal words, such as \"canine,\" \"feline,\" and \"bovine,\" but it has been around for a good long while. Ultimately derived from the Latin \"colubra\" (\"snake\"), it slithered into the English language in the 16th century. (\"Cobra,\" by the way, comes from the same Latin word, but entered English through Portuguese.) Some other words for \"snakelike\" are \"serpentine\" (a more common alternative) and \"ophidian\" (from the Greek word for snake: \"ophis\")."
   }
 }

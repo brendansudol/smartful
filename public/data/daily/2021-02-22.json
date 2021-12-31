@@ -1,148 +1,133 @@
 {
   "artist": {
-    "id": "felix-bracquemond",
-    "name": "Félix Bracquemond",
-    "dates": "May 22, 1833 - Oct 29, 1914",
-    "mainImg": "img/art/artists/felix-bracquemond.jpg",
+    "id": "sin-yun-bok",
+    "name": "Sin Yun-bok",
+    "dates": "Born 1758",
+    "mainImg": "img/art/artists/sin-yun-bok.jpg",
     "artworkImgs": [
       {
-        "name": "Plate",
-        "path": "img/art/artworks/felix-bracquemond-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/plate-haviland-co-félix-bracquemond/swGVzdgIuITwag"
+        "name": "Scenery on Dano Day",
+        "path": "img/art/artworks/sin-yun-bok-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/scenery-on-dano-day-shin-yun-bok/cQHfga6neefWmA"
       },
       {
-        "name": "Plate",
-        "path": "img/art/artworks/felix-bracquemond-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/plate-félix-bracquemond-haviland-co/mQFHdHjsZ2ysBg"
+        "name": "Two Lovers Under the Moon",
+        "path": "img/art/artworks/sin-yun-bok-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/two-lovers-under-the-moon-shin-yun-bok/jwHq2LExwhozGw"
       },
       {
-        "name": "Soup plate (part of a set of three)",
-        "path": "img/art/artworks/felix-bracquemond-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/soup-plate-part-of-a-set-of-three-félix-bracquemond-lebeuf-et-milliet-eugêne-rousseau/TQH8K6robz8Zyw"
+        "name": "Secret Meeting at Night",
+        "path": "img/art/artworks/sin-yun-bok-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/secret-meeting-at-night-shin-yun-bok/sAH4PqC--9nXqg"
       },
       {
-        "name": "L'arc en ciel",
-        "path": "img/art/artworks/felix-bracquemond-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/l-arc-en-ciel-félix-bracquemond/6gGyJqUCQ6kHZQ"
+        "name": "Enjoying the Geomungo by a Pond",
+        "path": "img/art/artworks/sin-yun-bok-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/enjoying-the-geomungo-by-a-pond-shin-yun-bok/WAEupflMr-Nexw"
       },
       {
-        "name": "La locomotive",
-        "path": "img/art/artworks/felix-bracquemond-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/la-locomotive-félix-bracquemond-joseph-mallord-william-turner/_QEuAcVrad5V_w"
+        "name": "Nothing Happened in a Public House",
+        "path": "img/art/artworks/sin-yun-bok-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/nothing-happened-in-a-public-house-shin-yun-bok/1gEp73jjmhu1yA"
       },
       {
-        "name": "Vanneaux et Sarcelles",
-        "path": "img/art/artworks/felix-bracquemond-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/vanneaux-et-sarcelles-félix-bracquemond/9QFif0X90hp0ug"
+        "name": "Two-Sword Dance",
+        "path": "img/art/artworks/sin-yun-bok-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/two-sword-dance-shin-yun-bok/HwHbBGY4ibtDPw"
       }
     ],
     "summary": [
-      "Félix Henri Bracquemond was a French painter and etcher. He played a key role in the revival of printmaking, encouraging artists such as Édouard Manet, Edgar Degas and Camille Pissaro to use this technique.",
-      "Unusually for a prominent artist of this period, he also designed pottery for a number of French factories, in an innovative style that marks the beginning of Japonisme in France.",
-      "He was the husband of the Impressionist painter Marie Bracquemond."
+      "Shin Yun-bok, better known by his pen name Hyewon, was a Korean painter of the Joseon Dynasty. Like his contemporaries Danwon and Geungjae, he is known for his realistic depictions of daily life in his time. His genre paintings are distinctly more erotic than Danwon's, a fact which contributed to his expulsion from the royal painting institute, Dohwaseo. Painting was frequently a hereditary occupation in the Joseon period, and Hyewon's father and grandfather had both been court painters. Together with Danwon and the later painter Owon, Hyewon is remembered today as one of the \"Three Wons\" of Joseon-period painting.",
+      "He is Shin Mal Joo's descendant who was a scholar of the early Joseon Dynasty."
     ],
     "quote": null,
-    "movements": [
-      "Impressionism",
-      "Modern art",
-      "Symbolism",
-      "Realism",
-      "Romanticism",
-      "Modernism"
-    ],
-    "mediums": ["Etching", "Rock", "Ceramic", "Clay", "Laid paper", "Porcelain"],
-    "urlWiki": "https://en.wikipedia.org/wiki/F%C3%A9lix_Bracquemond",
-    "urlGoogle": "https://artsandculture.google.com/entity/félix-bracquemond/m07n_jf"
+    "movements": [],
+    "mediums": ["Ink", "Silk", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Sin_Yun-bok",
+    "urlGoogle": "https://artsandculture.google.com/entity/sin-yun-bok/m0749t2"
   },
   "event": {
-    "id": "battle-of-ichi-no-tani",
-    "name": "Battle of Ichi-no-Tani",
+    "id": "2008-united-states-presidential-election",
+    "name": "2008 United States presidential election",
     "dates": null,
-    "mainImg": "img/events/battle-of-ichi-no-tani.jpg",
+    "mainImg": "img/events/2008-united-states-presidential-election.jpg",
     "summary": [
-      "Ichi-no-Tani was a Taira defensive position at Suma, to the west of present-day Kobe, Japan. It sat on a very narrow strip of shore, between mountains on the north, and the sea to the south. This made it quite defensible, but also made it difficult to maneuver troops inside the fortress. The Taira suffered a crucial defeat to the forces of Yoshitsune and Noriyori.",
-      "Yoshitsune split his force in two. Noriyori's force attacked the Taira at Ikuta Shrine, in the woods a short distance to the east. A second detachment, no more than a hundred horsemen under Yoshitsune, attacked the Taira at Ichinotani from the mountain ridge to the north. At the chosen hour, the Minamoto forces attacked causing confusion amongst the Taira who neither deploy nor retreat. Only about 3000 Taira escaped to Yashima, while Tadanori was killed and Shigehira captured. Also killed from the Taira clan were Lord Michimori, Tsunemasa, Noritsune, Atsumori, Moromori, Tomoakira, Tsunetoshi, and Moritoshi.",
-      "Ichi-no-Tani is one of the most famous battles of the Genpei War, in large part due to the individual combats that occurred here."
+      "The 2008 United States presidential election was the 56th quadrennial presidential election, held on Tuesday, November 4, 2008. The Democratic ticket of Barack Obama, the junior U.S. Senator from Illinois, and Joe Biden, the senior U.S. Senator from Delaware, defeated the Republican ticket of John McCain, the senior Senator from Arizona, and Sarah Palin, the Governor of Alaska. Obama became the first African American ever to be elected to the presidency as well as being only the third sitting United States Senator elected president, joining Warren G. Harding and John F. Kennedy.",
+      "Incumbent Republican President George W. Bush was ineligible to pursue a third term due to the term limits established by the 22nd Amendment. As neither Bush nor Vice President Dick Cheney sought the presidency, the 2008 election was the first election since 1952 in which neither major party's presidential nominee was the incumbent president or the incumbent vice president. McCain secured the Republican nomination by March 2008, defeating Mitt Romney, Mike Huckabee, and other challengers."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Ichi-no-Tani",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-ichi-no-tani/m04n7lp"
+    "urlWiki": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election",
+    "urlGoogle": "https://artsandculture.google.com/entity/2008-united-states-presidential-election/m024jvz"
   },
   "funFacts": [
+    { "id": "148", "fact": "The tallest man was 8 ft. 11 in.", "category": ["Anatomy"] },
     {
-      "id": "136",
-      "fact": "Strawberries are the only fruits whose seeds grow on the outside.",
-      "category": ["Food", "Plants"]
-    },
-    {
-      "id": "915",
-      "fact": "At room temperature, the average air molecule travels at the speed of a rifle bullet.",
-      "category": ["Science"]
+      "id": "940",
+      "fact": "Forty percent of twins invent their own language.",
+      "category": ["Anatomy", "Science", "Make-it-Easies"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504761",
-      "fact": "At the Wife Carrying World Championships in Finland, first prize is the wife's weight in beer."
+      "id": "553513",
+      "fact": "In 1897, Indiana state legislators tried to pass a bill that would have legally redefined the value of pi as 3.2."
     }
   ],
   "idiom": {
-    "id": "one-picture-is-worth-a-thousand-words",
-    "term": "one picture is worth a thousand words",
-    "definition": "A graphic illustration conveys a stronger message than words, as in *The book jacket is a big selling point---one picture is worth a thousand words.* This saying was invented by an advertising executive, Fred R. Barnard. To promote his agency's ads he took out an ad in *Printer's Ink* in 1921 with the headline \"One Look Is Worth a Thousand Words\" and attributed it to an ancient Japanese philosopher. Six years later he changed it to \"Chinese Proverb: One Picture Is Worth Ten Thousand Words,\" illustrated with some Chinese characters. The attribution in both was invented; Barnard simply believed an Asian origin would give it more credibility."
+    "id": "the-be-all-and-end-all",
+    "term": "the be-all and end-all",
+    "definition": "The most important element or purpose, as in *Buying a house became the be-all and end-all for the newlyweds.* Shakespeare used this idiom in *Macbeth* (1:6), where Macbeth muses that \"this blow might be the be-all and the end-all\" for his replacing Duncan as king. [Late 1500s]"
   },
   "person": {
-    "id": "kuno-von-klebelsberg",
-    "name": "Kuno von Klebelsberg",
-    "dates": "Nov 13, 1875 - Oct 11, 1932",
-    "mainImg": "img/people/kuno-von-klebelsberg.jpg",
+    "id": "sher-shah-suri",
+    "name": "Sher Shah Suri",
+    "dates": "1472 - May 22, 1545",
+    "mainImg": "img/people/sher-shah-suri.jpg",
     "summary": [
-      "Count Kuno von Klebelsberg de Thumburg was a Hungarian politician, who served as Minister of the Interior and Minister of Culture of the Kingdom of Hungary between the two world wars.",
-      "Klebelsberg was born in Magyarpécska, Austria-Hungary. After World War I, the Treaty of Trianon and the ravages of the civil war, Klebelsberg assumed the position of Minister of the Interior in 1921, a post which he filled until the following year. Afterwards, he served as Minister of Culture and introduced many educational reforms throughout Hungary. Klebelsberg helped create elementary schools in the countryside, began the modernisation of numerous universities, and created the foreign Hungarian cultural institute Collegium Hungaricum to create awareness of Hungarian culture in other countries.",
-      "Klebelsberg is also famous for introducing a progressive policy on scholarships for university students.",
-      "Klebelsberg, however, was controversial with his ideology of Hungarian supremacy, which attributed superior value to Hungarian ethnic culture over the minority ethnic cultures of the former Austro-Hungarian Monarchy."
+      "Sher Shah Suri, born Farīd Khān, was the founder of the Suri Empire in the northern part of the Indian subcontinent, with its capital in Sasaram in modern-day Bihar. He introduced the currency of rupee. An ethnic Pashtun, Sher Shah took control of the Mughal Empire in 1538. After his accidental death in 1545, his son Islam Shah became his successor. He first served as a private before rising to become a commander in the Mughal army under Babur and then the governor of Bihar. In 1537, when Babur's son Humayun was elsewhere on an expedition, Sher Shah overran the state of Bengal and established the Suri dynasty. A brilliant strategist, Sher Shah proved himself as a gifted administrator as well as a capable general. His reorganization of the empire laid the foundations for the later Mughal emperors, notably Akbar, son of Humayun.",
+      "During his seven-year rule from 1538 to 1545, he set up a new economic and military administration, issued the first Rupiya from \"Taka\" and organized the postal system of the Indian Subcontinent. Some of his strategies and contributions were later ideolized by the Mughal emperors, most notably Akbar."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kuno_von_Klebelsberg",
-    "urlGoogle": "https://artsandculture.google.com/entity/kuno-von-klebelsberg/m02pqgq5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Sher_Shah_Suri",
+    "urlGoogle": "https://artsandculture.google.com/entity/sher-shah-suri/m03ctz2"
   },
   "place": {
-    "id": "monterrey",
-    "name": "Monterrey",
-    "mainImg": "img/places/monterrey.jpg",
+    "id": "essen",
+    "name": "Essen",
+    "mainImg": "img/places/essen.jpg",
     "summary": [
-      "Monterrey is the capital and largest city of the northeastern state of Nuevo León, Mexico. The city is anchor to the Monterrey metropolitan area, the second most productive in Mexico with a GDP of US$123 billion, and the third largest with an estimated population of 4,689,601 people as of 2015. Monterrey is also considered one of the cities with the best quality of life in the country, actually It has in its metropolitan area San Pedro Garza García which is the area with the best quality of life in Mexico. and serves as a commercial center of northern Mexico and is the base of many significant international corporations. Its purchasing power parity-adjusted GDP per capita is considerably higher than the rest of Mexico's at around US$35,500, compared to the country's US$18,800. It is considered a Beta World City, cosmopolitan and competitive. Rich in history and culture, it is one of the most developed cities in Mexico.",
-      "It is also considered to be the most “Americanized” city in the country."
+      "Essen is the central and second largest city of the Ruhr, the largest urban area in Germany. Its population of 583,109 makes it the ninth largest city of Germany, as well as the fourth largest city of the federal state of North Rhine-Westphalia. On the Ruhr and Emscher rivers, Essen geographically is part of the Rhineland and the larger Rhine-Ruhr Metropolitan Region. The Ruhrdeutsch regiolect spoken in the region has strong influences of both Low German and Low Franconian.",
+      "Essen is seat to several of the region's authorities, as well as to eight of the 100 largest publicly held German corporations by revenue, including two DAX corporations. Essen is often considered the energy capital of Germany with E.ON and RWE, Germany's largest energy providers, both headquartered in the city. Essen is also known for its impact on the arts through the respected Folkwang University of the Arts, its Zollverein School of Management and Design, and the Red Dot industrial product design award. In early 2003, the universities of Essen and the nearby city of Duisburg were merged into the University of Duisburg-Essen with campuses in both cities and a university hospital in Essen."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Monterrey",
-    "urlGoogle": "https://artsandculture.google.com/entity/monterrey/m0b2h3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Essen",
+    "urlGoogle": "https://artsandculture.google.com/entity/essen/m017gry"
   },
   "quote": {
-    "id": "118",
-    "quote": "Be curious. Read widely. Try new things. I think a lot of what people call intelligence boils down to curiosity.",
-    "author": "Aaron Swartz"
+    "id": "63",
+    "quote": "Always forgive your enemies; nothing annoys them so much.",
+    "author": "Oscar Wilde"
   },
   "wiki": {
-    "id": "adrian-cole-raaf-officer",
-    "name": "Adrian Cole (RAAF officer)",
-    "summary": "Adrian Cole (1895–1966) was a founding member of the Royal Australian Air Force (RAAF) in 1921, and became one of its senior commanders. Having joined the army at the outbreak of World War I, Cole transferred to the Australian Flying Corps in 1916 and flew with No. 1 Squadron in the Middle East and No. 2 Squadron on the Western Front. He became an \"ace\", credited with victories over 10 enemy aircraft, and earned the Military Cross and the Distinguished Flying Cross. In 1935, \"King\" Cole gained promotion to group captain. The following year he was appointed as the first commanding officer of Headquarters RAAF Station Richmond. During World War II, Cole led North-Western Area Command in Australia's most northerly city, Darwin, and held a series of overseas posts in North Africa, England, Northern Ireland, and Ceylon. As Forward Air Controller during the Dieppe Raid in 1942, he was wounded in action and was awarded the Distinguished Service Order. Cole died in 1966 at the age of 70.",
-    "url": "https://en.wikipedia.org/wiki/Adrian_Cole_(RAAF_officer)"
+    "id": "naval-battle-of-guadalcanal",
+    "name": "Naval Battle of Guadalcanal",
+    "summary": "The Naval Battle of Guadalcanal took place November 12 – November 15, 1942, and was the decisive battle in a series of naval battles that took place between Allied (primarily U.S.) and Japanese forces during the months-long Guadalcanal campaign in the Solomon Islands. The battle consisted of a sequence of combined air and sea engagements spread over four days, most of them in the vicinity of Guadalcanal. All of the engagements were directly related to a single effort by the Japanese to reinforce their land forces on Guadalcanal, and are all therefore considered to be different parts of the same battle. In two extremely destructive nighttime surface warship engagements, both adversaries lost numerous ships. Also, U.S. daytime air attacks over several days sank or damaged several Japanese warships and transport ships. The sum of these engagements was that the U.S. was successful in turning back Japan's last major attempt to dislodge Allied forces from their positions on Guadalcanal and nearby Tulagi. Thus, the battle resulted in a significant strategic victory for the U.S. and its allies.",
+    "url": "https://en.wikipedia.org/wiki/Naval_Battle_of_Guadalcanal"
   },
   "word": {
-    "id": "kanban",
-    "word": "kanban",
-    "url": "https://www.merriam-webster.com/dictionary/kanban",
-    "partOfSpeech": "noun",
-    "pronunciation": "KAHN-bahn",
-    "audioPath": "audio/words/kanban.mp3",
+    "id": "winkle",
+    "word": "winkle",
+    "url": "https://www.merriam-webster.com/dictionary/winkle",
+    "partOfSpeech": "verb",
+    "pronunciation": "WINK-ul",
+    "audioPath": "audio/words/winkle.mp3",
     "definitions": [
-      "a manufacturing strategy wherein parts are produced or delivered only as needed"
+      "to displace, remove, or evict from a position -- usually used with out",
+      "to obtain or draw out by effort -- usually used with out"
     ],
     "examples": [
-      "\"To stay competitive,\" Rob said, \"we need to reduce our manufacturing costs by switching to a _kanban_ system.\"",
-      "\"The inbox and calendar are used to generate _kanban_ and schedules. This helps to discriminate between what you are doing and what you should be doing.\" - From an article by Marc A. Feldman in the _Quality Progress_, November 2012"
+      "\"In 1483 a new English king, Richard III, tried again to winkle Henry out of Brittany, but he found that the young man was now a significant pawn on the European chessboard.\" (Nigel Calder, _The English Channel_)"
     ],
-    "origin": "Toyota Motor Company is credited with developing the kanban system of manufacturing, which takes its name from the Japanese word for \"sign\" or \"placard.\" In the kanban system, each shipment of parts used in making a product comes with a \"kanban,\" or sign. When the parts are nearly exhausted, the sign is sent to suppliers, who ship new ones to the assembly line. In the early 1980s, \"kanban\" became a buzzword in the American business community-offering a perfect example of how languages often reflect larger societal trends … and how trading partners often trade more than durable goods."
+    "origin": "If you have ever extracted a winkle from its shell, then you understand how the verb \"winkle\" came to be. The word \"winkle\" is short for \"periwinkle,\" the name of a marine or freshwater snail. \"Periwinkle\" is ultimately derived from Latin \"pina,\" the name of a mussel, and Old English \"wincle,\" a snail shell. Evidently the personnel of World War I's Allied Powers found their duty of finding and removing the enemy from the trenches analogous to extracting a well-entrenched snail and began using \"winkle\" to describe their efforts. The action of \"winkling the enemy out\" was later extended to other situations, such as \"winkling information out of someone.\""
   }
 }

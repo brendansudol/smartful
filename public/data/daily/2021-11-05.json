@@ -1,0 +1,130 @@
+{
+  "artist": {
+    "id": "jan-fyt",
+    "name": "Jan Fyt",
+    "dates": "Mar 15, 1611 - Sep 11, 1661",
+    "mainImg": "img/art/artists/jan-fyt.jpg",
+    "artworkImgs": [
+      {
+        "name": "Still Life with Dead Hare and Birds",
+        "path": "img/art/artworks/jan-fyt-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-with-dead-hare-and-birds-jan-fyt/bwF1Sg8ERbU9cA"
+      },
+      {
+        "name": "Two Dogs Copulating",
+        "path": "img/art/artworks/jan-fyt-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/two-dogs-copulating-jan-fyt/UwG4IVP1Tb48UA"
+      },
+      {
+        "name": "Bird Concert",
+        "path": "img/art/artworks/jan-fyt-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/bird-concert-joannes-fijt-antwerp-1611-–-1661/1wE5BdCnNYfZnA"
+      },
+      {
+        "name": "Twee wolven",
+        "path": "img/art/artworks/jan-fyt-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/twee-wolven-jan-fijt/rQHosuuw-MZwTA"
+      },
+      {
+        "name": "Twee wolven",
+        "path": "img/art/artworks/jan-fyt-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/twee-wolven-jan-fijt/TAFoJDu9HF5bWw"
+      },
+      {
+        "name": "Two Mastiffs beside a Fountain",
+        "path": "img/art/artworks/jan-fyt-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/two-mastiffs-beside-a-fountain-jan-fyt/TAFCzFYIHIX6fw"
+      }
+    ],
+    "summary": [
+      "Jan Fijt or Johannes Fijt was a Flemish Baroque painter, draughtsman and etcher. One of the leading animaliers of the 17th century, he was known for his refined depictions of animals and his lush hunting pieces."
+    ],
+    "quote": null,
+    "movements": ["Baroque"],
+    "mediums": ["Etching", "Oil paint", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jan_Fyt",
+    "urlGoogle": "https://artsandculture.google.com/entity/jan-fyt/m05g6tw"
+  },
+  "event": {
+    "id": "battle-of-inkerman",
+    "name": "Battle of Inkerman",
+    "dates": null,
+    "mainImg": "img/events/battle-of-inkerman.jpg",
+    "summary": [
+      "The Battle of Inkerman was fought during the Crimean War on 5 November 1854 between the allied armies of Britain, France and Ottoman Empire against the Imperial Russian Army. The battle broke the will of the Russian Army to defeat the allies in the field, and was followed by the Siege of Sevastopol. The role of troops fighting mostly on their own initiative due to the foggy conditions during the battle has earned the engagement the name \"The Soldier's Battle\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Inkerman",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-inkerman/m014pp7"
+  },
+  "funFacts": [
+    {
+      "id": "383",
+      "fact": "Mount Katahdin in Maine is the first place in the U.S. to get sunlight each morning.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "86",
+      "fact": "Until the 19th century, solid blocks of tea were used as money in Siberia.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504592",
+      "fact": "People didn’t always say “hello” when they answered the phone. When the first regular phone service was established in 1878, Alexander Graham Bell suggested answering the phone with “ahoy.\""
+    }
+  ],
+  "person": {
+    "id": "ignacy-daszynski",
+    "name": "Ignacy Daszyński",
+    "dates": "Oct 26, 1866 - Oct 31, 1936",
+    "mainImg": "img/people/ignacy-daszynski.jpg",
+    "summary": [
+      "Ignacy Ewaryst Daszyński was a Polish socialist politician, journalist, and very briefly Prime Minister of the Second Polish Republic's first government, formed in Lublin in 1918.",
+      "In October 1892 he cofounded the Polish Social Democratic Party, a precursor to the Polish Socialist Party. In 1897 he was elected to the Austrian Parliament and remained there until 1918.",
+      "From 1903 he took part in several congresses and gatherings of the International Socialist Party, advocating for the independence and reunification of all Polish territories, as an integral part of the Polish socialist program. In 1912 he began a long collaboration with future Marshal and Chief of State Józef Pilsudski. He was appointed editor-in-chief of the Socialist newspaper Naprzód, published in Kraków.",
+      "Following World War I, Daszyński cofounded the Polish National Committee, and for a few days he served as head of the provisional government formed in the city of Lublin on 7 November 1918. On 26 January 1919 he was elected to the Polish Sejm, and was re-elected in 1922, 1928, and 1930."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ignacy_Daszy%C5%84ski",
+    "urlGoogle": "https://artsandculture.google.com/entity/ignacy-daszyński/m05rh2m"
+  },
+  "place": {
+    "id": "wroclaw",
+    "name": "Wrocław",
+    "mainImg": "img/places/wroclaw.jpg",
+    "summary": [
+      "Wrocław is a city in western Poland and the largest city in the historical region of Silesia. It lies on the banks of the River Oder in the Silesian Lowlands of Central Europe, roughly 350 kilometres from the Baltic Sea to the north and 40 kilometres from the Sudeten Mountains to the south. The population of Wrocław in 2019 was 642,869, making it the fourth-largest city in Poland and the main city of the Wrocław agglomeration.",
+      "Wrocław is the historical capital of Silesia and Lower Silesia. Today, it is the capital of the Lower Silesian Voivodeship. The history of the city dates back over a thousand years; at various times, it has been part of the Kingdom of Poland, the Kingdom of Bohemia, the Kingdom of Hungary, the Habsburg Monarchy of Austria, the Kingdom of Prussia and Germany. Wrocław became part of Poland again in 1945 as part of the so-called Recovered Territories as a result of the border changes after the Second World War. This included the flight and expulsion of the pre-war population of the city.",
+      "Wrocław is a university city with a student population of over 130,000, making it arguably one of the most youth-oriented cities in the country."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Wroc%C5%82aw",
+    "urlGoogle": "https://artsandculture.google.com/entity/wrocław/m0845b"
+  },
+  "wiki": {
+    "id": "al-kateb-v-godwin",
+    "name": "Al-Kateb v Godwin",
+    "summary": "Al-Kateb v Godwin was an important Australian court case decided in the High Court of Australia on 6 August 2004. It concerned a stateless man who was detained under the policy of mandatory immigration detention. His application for a protection visa had been denied, and because he was stateless no other country would accept him. The issue in the case was whether indefinite immigration detention was lawful, and the court ultimately decided that it was. The court considered two main questions: firstly, whether the Migration Act 1958 (the legislation which governs immigration in Australia) permitted a person in Al-Kateb's situation to be detained indefinitely; and secondly, if it did, whether that was permissible under the Constitution of Australia. A majority of the court decided that the Act did allow indefinite detention, and that the Act was not unconstitutional.",
+    "url": "https://en.wikipedia.org/wiki/Al-Kateb_v_Godwin"
+  },
+  "word": {
+    "id": "divertissement",
+    "word": "divertissement",
+    "url": "https://www.merriam-webster.com/dictionary/divertissement",
+    "partOfSpeech": "noun",
+    "pronunciation": "dih-VER-tiss-munt",
+    "audioPath": "audio/words/divertissement.mp3",
+    "definitions": [
+      "a dance sequence or short ballet usually used as an interlude",
+      "an instrumental chamber work in several movements usually light in character",
+      "diversion, entertainment"
+    ],
+    "examples": [
+      "For visitors seeking more cerebral _divertissement_, the city boasts a fine performing arts center.",
+      "\"These are the journals of Henry Brandling, a British railroad heir who, desperate for a _divertissement_ for his sickly young son, traveled deep into the land of expert clock makers in the German Schwarzwald in 1854 to commission a mechanical toy duck.\" - From a book review by Heller McAlpin on NPR.org, May 16, 2012"
+    ],
+    "origin": "\"Divertissement\" can mean \"diversion\" in both English and French, and it probably won't surprise you to learn that \"divertissement\" and \"diversion\" can be traced back to the same Latin root : \"divertere,\" meaning \"to turn in opposite directions.\" Early uses of \"divertissement\" in English often occurred in musical contexts, particularly opera and ballet, describing light sequences that entertained but did little to further the story. (The word's Italian cousin, \"divertimento,\" is used in a similar way.) Today \"divertissement\" can refer to any kind of amusement or pastime, specifically one that provides a welcome distraction from what is burdensome or distressing."
+  }
+}

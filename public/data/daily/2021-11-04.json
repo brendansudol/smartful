@@ -1,0 +1,136 @@
+{
+  "artist": {
+    "id": "vincent-van-gogh",
+    "name": "Vincent van Gogh",
+    "dates": "Mar 30, 1853 - Jul 29, 1890",
+    "mainImg": "img/art/artists/vincent-van-gogh.jpg",
+    "artworkImgs": [
+      {
+        "name": "Head of a Skeleton with a Burning Cigarette",
+        "path": "img/art/artworks/vincent-van-gogh-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-skeleton-with-a-burning-cigarette-vincent-van-gogh/hQGZa2I9Xi6lpA"
+      },
+      {
+        "name": "The potato eaters",
+        "path": "img/art/artworks/vincent-van-gogh-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-potato-eaters-vincent-van-gogh/7gFcKarE9QeaXw"
+      },
+      {
+        "name": "The Starry Night",
+        "path": "img/art/artworks/vincent-van-gogh-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-starry-night-vincent-van-gogh/bgEuwDxel93-Pg"
+      },
+      {
+        "name": "Almond Blossom",
+        "path": "img/art/artworks/vincent-van-gogh-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/almond-blossom-vincent-van-gogh/dAFXSL9sZ1ulDw"
+      },
+      {
+        "name": "Irises",
+        "path": "img/art/artworks/vincent-van-gogh-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/irises/DgFVFAJo_30MeQ"
+      },
+      {
+        "name": "Wheatfield with crows",
+        "path": "img/art/artworks/vincent-van-gogh-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/wheatfield-with-crows-vincent-van-gogh/dwFdD5AMQfpSew"
+      }
+    ],
+    "summary": [
+      "Vincent Willem van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful, and his suicide at 37 came after years of mental illness, depression and poverty.",
+      "Born into an upper-middle-class family, Van Gogh drew as a child and was serious, quiet, and thoughtful. As a young man he worked as an art dealer, often travelling, but became depressed after he was transferred to London. He turned to religion and spent time as a Protestant missionary in southern Belgium. He drifted in ill health and solitude before taking up painting in 1881, having moved back home with his parents. His younger brother Theo supported him financially, and the two kept a long correspondence by letter."
+    ],
+    "quote": "“One must work and dare if one really wants to live.”",
+    "movements": [
+      "Neo-Impressionism",
+      "Post-Impressionism",
+      "Modern art",
+      "Realism",
+      "Japonisme",
+      "Impressionism"
+    ],
+    "mediums": ["Oil paint", "Drawing", "Ink", "Pencil", "Pen", "Cardboard"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+    "urlGoogle": "https://artsandculture.google.com/entity/vincent-van-gogh/m07_m2"
+  },
+  "event": {
+    "id": "john-browns-raid-on-harpers-ferry",
+    "name": "John Brown's raid on Harpers Ferry",
+    "dates": "Oct 16, 1859 - Oct 18, 1859",
+    "mainImg": "img/events/john-browns-raid-on-harpers-ferry.jpg",
+    "summary": [
+      "John Brown's raid on Harpers Ferry was an effort by abolitionist John Brown, from October 16 to 18, 1859, to initiate a slave revolt in Southern states by taking over a United States arsenal at Harpers Ferry, Virginia. It has been called the dress rehearsal for the Civil War.",
+      "Brown's party of 22 was defeated by a company of U.S. Marines, led by First Lieutenant Israel Greene. Several of those present at the raid would later be involved in the Civil War: Colonel Robert E. Lee was in overall command of the operation to retake the arsenal. Stonewall Jackson and Jeb Stuart were part of the troops guarding the arrested Brown, and John Wilkes Booth was a spectator at his execution. John Brown had originally asked Harriet Tubman and Frederick Douglass, both of whom he had met in his transformative years as an abolitionist in Springfield, Massachusetts, to join him in his raid, but Tubman was prevented by illness and Douglass declined, as he believed Brown's plan would fail.",
+      "The label \"raid\" was not used at the time. A month after the attack, a Baltimore newspaper listed 26 terms used, including \"insurrection\", \"rebellion\", \"treason\", and \"crusade\". \"Raid\" was not among them."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-brown-s-raid-on-harpers-ferry/m04q33ft"
+  },
+  "funFacts": [
+    {
+      "id": "681",
+      "fact": "The jaguar, the largest cat in the Western Hemisphere, once lived all over the southern US.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "703",
+      "fact": "The average bar of soap lasts twice as long as a bottle of body wash.",
+      "category": ["Habits"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554026",
+      "fact": "According to a 2010 study, people fluent in multiple languages almost always swear in their native tongue."
+    }
+  ],
+  "person": {
+    "id": "alice-roosevelt-longworth",
+    "name": "Alice Roosevelt Longworth",
+    "dates": "Feb 12, 1884 - Feb 20, 1980",
+    "mainImg": "img/people/alice-roosevelt-longworth.jpg",
+    "summary": [
+      "Alice Lee Roosevelt Longworth was an American writer and prominent socialite. She was the eldest child of U.S. President Theodore Roosevelt and the only child of Roosevelt and his first wife, Alice Hathaway Lee.",
+      "Longworth led an unconventional and controversial life. Her marriage to Representative Nicholas Longworth III, a party leader and 38th Speaker of the U.S. House of Representatives, was shaky, and her only child, Paulina, was from her affair with Senator William Edgar Borah of Idaho."
+    ],
+    "quote": "“The secret of eternal youth is arrested development.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth",
+    "urlGoogle": "https://artsandculture.google.com/entity/alice-roosevelt-longworth/m02sd70"
+  },
+  "place": {
+    "id": "monaco",
+    "name": "Monaco",
+    "mainImg": "img/places/monaco.jpg",
+    "summary": [
+      "Monaco, officially the Principality of Monaco, is a sovereign city-state, country, and microstate on the French Riviera in Western Europe.",
+      "France borders the country on three sides while the other side borders the Mediterranean Sea. Monaco is about 15 km from the state border with Italy.",
+      "Monaco has an area of 2.02 km², making it the second-smallest country in the world after the Vatican City. Its population as of 2018 is 38,682. With 19,009 inhabitants per square kilometre, it is the most densely-populated sovereign state in the world.",
+      "Monaco has a land border of 5.47 km, the world's shortest coastline of approximately 3.83 km, and a width that varies between 1,700 and 349 m. The highest point in the country is a narrow pathway named Chemin des Révoires on the slopes of Mont Agel, in the Les Révoires Ward, which is 161 metres above sea level.",
+      "Monaco's most populous Quartier is Monte Carlo and the most populous Ward is Larvotto/Bas Moulins. Through land reclamation, Monaco's land mass has expanded by 20 percent. In 2005, it had an area of only 1.974 km². Monaco is known to be one of the most expensive and the wealthiest places in the world."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Monaco",
+    "urlGoogle": "https://artsandculture.google.com/entity/monaco/m04w58"
+  },
+  "wiki": {
+    "id": "hms-cardiff-d-108",
+    "name": "HMS Cardiff (D108)",
+    "summary": "HMS Cardiff (D108) is a Type 42 destroyer, the third ship of the Royal Navy to be named in honour of the Welsh capital city of Cardiff. She was built by Vickers Shipbuilding and Engineering Ltd in Barrow-in-Furness, Cumbria and launched on 22 February, 1974. During her career, Cardiff served in the Falklands War, where she shot down the last Argentine aircraft of the conflict and accepted the surrender of a 700-strong garrison in the settlement of Port Howard. During the 1991 Gulf War, her Lynx helicopter sank two Iraqi minesweepers. She later participated in the build-up to the 2003 invasion of Iraq as part of the Royal Navy's constant Armilla Patrol; Cardiff thwarted attempts to smuggle oil out of the country, but was not involved in the actual invasion. Cardiff was decommissioned in July 2005, having earned two battle honours for service in the Falklands and Gulf wars. She is currently moored in Portsmouth Harbour, next to sister ship HMS Newcastle. Former servicemen have petitioned for her preservation as a museum ship and local tourist attraction at Cardiff, but her fate remains undecided.",
+    "url": "https://en.wikipedia.org/wiki/HMS_Cardiff_(D108)"
+  },
+  "word": {
+    "id": "engage",
+    "word": "engagé",
+    "url": "https://www.merriam-webster.com/dictionary/engagé",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ahn-gah-ZHAY",
+    "audioPath": "audio/words/engage.mp3",
+    "definitions": ["committed to or supportive of a cause"],
+    "examples": [
+      "Our next-door neighbor Michael, an _engagé_ environmental activist, uses solar power to heat his home and drives a hybrid automobile.",
+      "\"George MacDonald was a Scottish Congregationalist who pastored an English Congregationalist chapel for a while, drifted away into freelance preaching, but stayed true to his desire to bring an _engagé_ Christianity to workers stuck in the industrial heartland.\" - From Valentine Cunningham's 2011 book _Victorian Poetry Now_"
+    ],
+    "origin": "\"Engagé\" is the past participle of the French verb \"engager,\" meaning \"to engage.\" The French have used \"engagé\" since the 19th century to describe socially or politically active people. The term became particularly fashionable in the wake of World War II, when French writers, artists, and intellectuals felt it was increasingly important for them to take a stand on political or social issues and represent their attitudes in their art. By 1946, English speakers had adopted the word for their own politically relevant writing or art, and within a short time \"engagé\" was being used generally for any passionate commitment to a cause."
+  }
+}

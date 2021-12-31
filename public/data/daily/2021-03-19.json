@@ -1,127 +1,124 @@
 {
   "artist": {
-    "id": "childe-hassam",
-    "name": "Childe Hassam",
-    "dates": "Oct 17, 1859 - Aug 27, 1935",
-    "mainImg": "img/art/artists/childe-hassam.jpg",
+    "id": "phidias",
+    "name": "Phidias",
+    "dates": "479 BC - 429 BC",
+    "mainImg": "img/art/artists/phidias.jpg",
     "artworkImgs": [
       {
-        "name": "Rainy Midnight",
-        "path": "img/art/artworks/childe-hassam-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/rainy-midnight-childe-hassam/ZwFd46RSKX0AWg"
+        "name": "Kylix, a sculptor working on a herm",
+        "path": "img/art/artworks/phidias-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/kylix-a-sculptor-working-on-a-herm-fidias/yQFuwjmS-OaoBw"
       },
       {
-        "name": "April : (The Green Gown)",
-        "path": "img/art/artworks/childe-hassam-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/april-the-green-gown-childe-hassam/PQFWk9HdEmkFYg"
+        "name": "Block VIII of the west frieze.",
+        "path": "img/art/artworks/phidias-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/block-viii-of-the-west-frieze-pheidias-workshop/vQH0cRC8bFCuPQ"
       },
       {
-        "name": "Bridge at Old Lyme",
-        "path": "img/art/artworks/childe-hassam-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/bridge-at-old-lyme-frederick-childe-hassam/lQGwme1WgVr7nQ"
+        "name": "Detail of the east frieze (Block VI).",
+        "path": "img/art/artworks/phidias-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/detail-of-the-east-frieze-block-vi-pheidias-workshop/8QFRXCfAJFDHQw"
       },
       {
-        "name": "Flags on the Waldorf",
-        "path": "img/art/artworks/childe-hassam-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/flags-on-the-waldorf-childe-hassam/IQFK4oE-eTG1LA"
-      },
-      {
-        "name": "Mt. Beacon at Newburgh",
-        "path": "img/art/artworks/childe-hassam-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/mt-beacon-at-newburgh-childe-hassam/IgGxsam35x3QPw"
-      },
-      {
-        "name": "Rainy Day, Boston",
-        "path": "img/art/artworks/childe-hassam-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/rainy-day-boston-childe-hassam/bAEMrsNyTqHOIA"
+        "name": "Block IX of the west frieze.",
+        "path": "img/art/artworks/phidias-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/block-ix-of-the-west-frieze-pheidias-workshop/FwEMdYAEbAx2Xg"
       }
     ],
     "summary": [
-      "Frederick Childe Hassam was an American Impressionist painter, noted for his urban and coastal scenes. Along with Mary Cassatt and John Henry Twachtman, Hassam was instrumental in promulgating Impressionism to American collectors, dealers, and museums. He produced over 3,000 paintings, oils, watercolors, etchings, and lithographs over the course of his career, and was an influential American artist of the early 20th century."
-    ],
-    "quote": "“One must grant of course that if taken individually a skyscraper is not much of a marvel of art as a wildly formed architectural freak. It is when taken in groups with their zig zag outlines towering against the sky and melting tenderly into the distance that the skyscrapers are truly beautiful.”",
-    "movements": ["Impressionism", "American Impressionism", "Modern art", "Japonisme"],
-    "mediums": ["Oil paint", "Etching", "Watercolor painting", "Graphite", "Ink", "Gouache"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Childe_Hassam",
-    "urlGoogle": "https://artsandculture.google.com/entity/childe-hassam/m054fvw"
-  },
-  "event": {
-    "id": "australasian-antarctic-expedition",
-    "name": "Australasian Antarctic Expedition",
-    "dates": "Dec 2, 1911 - Feb 26, 1914",
-    "mainImg": "img/events/australasian-antarctic-expedition.jpg",
-    "summary": [
-      "The Australasian Antarctic Expedition was a 1911–1914 expedition headed by Douglas Mawson that explored the largely uncharted Antarctic coast due south of Australia. Mawson had been inspired to lead his own venture by his experiences on Ernest Shackleton's Nimrod expedition in 1907–1909. During its time in Antarctica, the expedition's sledging parties covered around 4,180 kilometres of unexplored territory, while its ship, SY Aurora, navigated 2,900 kilometres of unmapped coastline. Scientific activities included meteorological measurements, magnetic observations, an expansive oceanographic program, and the collection of many biological and geological samples, including the discovery of the first meteorite found in Antarctica. The expedition was the first to establish and maintain wireless contact between Antarctica and Australia. Another planned innovation – the use of an aircraft – was thwarted by an accident before the expedition sailed. The plane's fuselage was adapted to form a motorised sledge or \"air-tractor\", but it proved to be of very limited use.",
-      "The expedition was organised into three bases: one on the sub-Antarctic Macquarie Island and two on the Antarctic mainland."
+      "Phidias or Pheidias was a Greek sculptor, painter, and architect. His Statue of Zeus at Olympia was one of the Seven Wonders of the Ancient World. Phidias also designed the statues of the goddess Athena on the Athenian Acropolis, namely the Athena Parthenos inside the Parthenon, and the Athena Promachos, a colossal bronze which stood between it and the Propylaea, a monumental gateway that served as the entrance to the Acropolis in Athens. Phidias was the son of Charmides of Athens. The ancients believed that his masters were Hegias and Ageladas.",
+      "Plutarch discusses Phidias' friendship with the Greek statesman Pericles, recording that enemies of Pericles tried to attack him through Phidias – who was accused of stealing gold intended for the Parthenon's statue of Athena, and of impiously portraying himself and Pericles on the shield of the statue. The historical value of this account, as well as the legend about accusations against the 'Periclean circle', is debatable, but Aristophanes mentions an incident with Phidias around that time.",
+      "Phidias is often credited as the main instigator of the Classical Greek sculptural design."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Australasian_Antarctic_Expedition",
-    "urlGoogle": "https://artsandculture.google.com/entity/australasian-antarctic-expedition/m09c6gj"
+    "movements": [],
+    "mediums": ["Rock", "Marble", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Phidias",
+    "urlGoogle": "https://artsandculture.google.com/entity/phidias/m0j4yg"
+  },
+  "event": {
+    "id": "siege-of-tobruk",
+    "name": "Siege of Tobruk",
+    "dates": "Apr 10, 1941 - Nov 27, 1941",
+    "mainImg": "img/events/siege-of-tobruk.jpg",
+    "summary": [
+      "The Siege of Tobruk lasted for 241 days in 1941, after Axis forces advanced through Cyrenaica from El Agheila in Operation Sonnenblume against Allied forces in Libya, during the Western Desert Campaign of the Second World War. In late 1940, the Allies had defeated the Italian 10th Army during Operation Compass and trapped the remnants at Beda Fomm. During early 1941, much of the Western Desert Force was sent to the Greek and Syrian campaigns. As German troops and Italian reinforcements reached Libya, only a skeleton Allied force remained, short of equipment and supplies.",
+      "Operation Sonnenblume, forced the Allies into a retreat to the Egyptian border. A garrison, consisting mostly of the 9th Australian Division remained at Tobruk, to deny the port to the Axis, while the WDF reorganised and prepared a counter-offensive. The Axis siege of Tobruk began on 10 April, when the port was attacked by a force under Generalleutnant Erwin Rommel and continued during three relief attempts, Operation Brevity, Operation Battleaxe and Operation Crusader."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Tobruk",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-tobruk/m03n9hp"
   },
   "funFacts": [
-    { "id": "817", "fact": "Karate originated in India.", "category": ["History"] },
     {
-      "id": "490",
-      "fact": "To take lumps out of a bag of sugar, place it in the refrigerator for 24 hours.",
-      "category": ["Food", "Make-it-Easies"]
+      "id": "674",
+      "fact": "The oldest living animal ever found was a 405 year-old clam, named Ming by researchers.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "898",
+      "fact": "The ridges on the sides of coins are called reeding or milling.",
+      "category": ["Definitions"]
     }
   ],
   "funFacts2": [
-    { "id": "553503", "fact": "Apollo 17 astronaut Harrison Schmitt was allergic to moon dust." }
+    { "id": "554066", "fact": "The wood frog can hold its pee for up to eight months." }
   ],
   "idiom": {
-    "id": "perish-the-thought",
-    "term": "perish the thought",
-    "definition": "Don't even think of it. This expression is used as a wish that what was just mentioned will never happen. For example, *He's going to give another speech? Perish the thought!* This phrase appeared in Handel's oratorio *Joshua* (1748; text by Thomas Morell): \"It never shall be said that our allies in vain implor'd our aid. Perish the thought!\""
+    "id": "ones-ears-are-burning",
+    "term": "one's ears are burning",
+    "definition": "Be disconcerted by what one hears, especially when one is being talked about. For example, *Were your ears burning? Jim was telling us about your exploits.* Similarly, **make one's ears burn** means \"to embarrass,\" as in *Mom's stories about us as babies make my ears burn.* These expressions allude to one's ears turning red from blushing."
   },
   "person": {
-    "id": "rosa-luxemburg",
-    "name": "Rosa Luxemburg",
-    "dates": "Mar 5, 1871 - Jan 15, 1919",
-    "mainImg": "img/people/rosa-luxemburg.jpg",
+    "id": "stanton-griffis",
+    "name": "Stanton Griffis",
+    "dates": "May 2, 1887 - Aug 29, 1974",
+    "mainImg": "img/people/stanton-griffis.jpg",
     "summary": [
-      "Rosa Luxemburg was a Polish Marxist, philosopher, economist, anti-war activist and revolutionary socialist who became a naturalized German citizen at the age of 28. Successively, she was a member of the Social Democracy of the Kingdom of Poland and Lithuania, the Social Democratic Party of Germany, the Independent Social Democratic Party and the Communist Party of Germany.",
-      "After the SPD supported German involvement in World War I in 1915, Luxemburg and Karl Liebknecht co-founded the anti-war Spartacus League which eventually became the KPD. During the November Revolution, she co-founded the newspaper Die Rote Fahne, the central organ of the Spartacist movement. Luxemburg considered the Spartacist uprising of January 1919 a blunder, but supported the attempted overthrow of the government and rejected any attempt at a negotiated solution. Friedrich Ebert's majority SPD government crushed the revolt and the Spartakusbund by sending in the Freikorps, government-sponsored paramilitary groups consisting mostly of World War I veterans. Freikorps troops captured and summarily executed Luxemburg and Liebknecht during the rebellion."
-    ],
-    "quote": "“Freedom only for the members of the government, only for the members of the Party - though they are quite numerous - is no freedom at all.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Rosa_Luxemburg",
-    "urlGoogle": "https://artsandculture.google.com/entity/rosa-luxemburg/m017ft0"
-  },
-  "place": {
-    "id": "kolkata",
-    "name": "Kolkata",
-    "mainImg": "img/places/kolkata.jpg",
-    "summary": [
-      "Kolkata is the capital of the Indian state of West Bengal. According to the 2011 Indian census, it is the seventh most populous city in India; the city had a population of 4.5 million, while the suburb population brought the total to 14.1 million, making it the third-most populous metropolitan area in India. Kolkata Megalopolis is the area surrounding Kolkata Metropolitan city with additional population. Located on the east bank of the Hooghly River approximately 80 kilometres west of the border with Bangladesh, it is the principal commercial, cultural and educational centre of East India, while the Port of Kolkata is India's oldest operating port and its sole major riverine port. The city nicknamed the \"City of Joy\" is widely regarded as the \"cultural capital\" of India and as of 2019, six Nobel Laureates have been associated with the city.",
-      "In the late 17th century, the three villages that predated Calcutta were ruled by the Nawab of Bengal under Mughal suzerainty. After the Nawab granted the East India Company a trading licence in 1690, the area was developed by the Company into an increasingly fortified trading post."
+      "Stanton Griffis was an American businessman and diplomat.",
+      "Born in Boston, he earned a bachelor's degree from Cornell University in 1910. Griffis began his business career in 1919 after serving the Army General Staff with the rank of captain during World War I. While with Hemphill, Noyes & Co., Griffis financed Adolf Kroch's acquisition of Brentano's in 1933. He also helped the Atlas Corporation manage Madison Square Garden. Griffis was named a trustee of Cornell in 1930 and led Paramount Pictures from 1935 to 1942. He became involved with diplomacy and non-governmental organizations during World War II, serving as special envoy to several western European nations from 1942 to 1943, and directing the Motion Picture Bureau, a division of the Office of War Information, between 1943 and 1944. In a subsequent two-month stint as diplomatic representative, Griffis tried to dissuade Swedish manufacturers of ball bearings from exporting to Germany. Upon his return to the United States, Griffis was named leader of the American Red Cross in the Asia-Pacific. For aiding the World War II war effort, he received the Medal for Merit and the Medal of Freedom."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kolkata",
-    "urlGoogle": "https://artsandculture.google.com/entity/kolkata/m0cvw9"
+    "urlWiki": "https://en.wikipedia.org/wiki/Stanton_Griffis",
+    "urlGoogle": "https://artsandculture.google.com/entity/stanton-griffis/g121mq9h_"
+  },
+  "place": {
+    "id": "sibiu",
+    "name": "Sibiu",
+    "mainImg": "img/places/sibiu.jpg",
+    "summary": [
+      "Sibiu is a city in Transylvania, a historical region of Romania. Located some 275 km north-west of Bucharest, the city straddles the Cibin River, a tributary of the river Olt. Now the capital of the Sibiu County, between 1692 and 1791 and 1849–65 Sibiu was also the capital of the Principality of Transylvania.",
+      "Nicknamed The City with Eyes, Sibiu is a well-known tourist destination for both domestic and foreign visitors. Known for its culture, history, gastronomy and its diverse architecture, which includes its much iconic houses with eyes that gave Sibiu its nickname, the city has been getting much attention since the beginning of the 21st century. In 2004, its historical center has begun the process of becoming a UNESCO World Heritage Site. Sibiu was designated the European Capital of Culture in 2007. One year later, it was ranked \"Europe's 8th-most idyllic place to live\" by Forbes. In 2019, Sibiu was named the European Region of Gastronomy, while in 2020 it was designated \"Europe's sixth best tourist destination\". Sibiu will host the European Wandering Capital event in 2021, the most important tourist wandering event in Europe."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sibiu",
+    "urlGoogle": "https://artsandculture.google.com/entity/sibiu/m020blz"
   },
   "quote": {
-    "id": "18",
-    "quote": "Only those who will risk going too far can possibly find out how far one can go.",
-    "author": "T. S. Eliot"
+    "id": "15",
+    "quote": "Nothing is impossible, the word itself says, ‘I'm possible!’",
+    "author": "Audrey Hepburn"
   },
   "wiki": {
-    "id": "john-knox",
-    "name": "John Knox",
-    "summary": "John Knox was a Scottish clergyman, a leader of the Protestant Reformation, and is considered the founder of the Presbyterian denomination. Influenced by early church reformers such as George Wishart, he joined the movement to reform the Scottish church. He was caught up in the ecclesiastical and political events that involved the murder of Cardinal Beaton in 1546 and the intervention of the regent of Scotland. He was taken prisoner by French forces the following year and exiled to England on his release in 1549. While in exile, Knox was licensed to work in the Church of England, where he quickly rose in the ranks to serve the King of England, Edward VI, as a royal chaplain. In this position, he exerted a reforming influence on the text of the Book of Common Prayer. In England he met and married his first wife, Marjorie. When Mary Tudor ascended the throne and reestablished Roman Catholicism, Knox was forced to resign his position and leave the country. On his return to Scotland, he led the Protestant Reformation in Scotland, in partnership with the Scottish Protestant nobility.",
-    "url": "https://en.wikipedia.org/wiki/John_Knox"
+    "id": "our-gang",
+    "name": "Our Gang",
+    "summary": "Our Gang, also known as The Little Rascals, was a long-lived series of comedy short films about a troupe of poor neighborhood children and the adventures they had together. Created by comedy producer Hal Roach, Our Gang was produced at the Roach studio starting in 1922 as a silent short subject series. Roach changed distributors from Pathé to Metro-Goldwyn-Mayer in 1927, went to sound in 1929, and continued production until 1938, when he sold the series to MGM, which continued producing the comedies until 1944. A total of 220 shorts and one feature film, General Spanky, were eventually produced, featuring over forty-one child actors. The series, one of the best-known and most successful in cinema history, is noted for its showcase of natural, convincing child talent, in contrast to a number of previous, contemporary, and future child actors.",
+    "url": "https://en.wikipedia.org/wiki/Our_Gang"
   },
   "word": {
-    "id": "perpend",
-    "word": "perpend",
-    "url": "https://www.merriam-webster.com/dictionary/perpend",
-    "partOfSpeech": "verb",
-    "pronunciation": "per-PEND",
-    "audioPath": "audio/words/perpend.mp3",
-    "definitions": ["to reflect on carefully : ponder", "to be attentive : reflect"],
-    "examples": [
-      "\"The man _perpended_, and when he replied did so after the style of the late and great Ollendorf.\" -- From P. G. Wodehouse's 1903 book _A Prefect's Uncle_",
-      "\"I find the practice \\[of astrology\\] harmless, and it occasionally serves as a handy social ice-breaker. But it could be based on outdated material. _Perpend_: Astrological 'signs' are based on the sun's position in the zodiac during the year. But astrology is an ancient art, and in the passage of time, the earth's axis has 'wobbled' (precession) enough so that the sun is actually one constellation over from the astrological sign.\" -- From a column piece by Mark R. Kent in the _Mobile Register_ (Alabama), January 11, 2009"
+    "id": "conciliatory",
+    "word": "conciliatory",
+    "url": "https://www.merriam-webster.com/dictionary/conciliatory",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kun-SILL-yuh-tor-ee",
+    "audioPath": "audio/words/conciliatory.mp3",
+    "definitions": [
+      "tending to win over from a state of hostility or distrust : intended to gain the goodwill or favor of someone"
     ],
-    "origin": "\"Perpend\" isn't used often these days, but when it does show up it is frequently imperative, as in our second example. As such, its use can be compared to the phrase \"mark my words.\" \"Perpend\" arrived in English in the 15th century from the Latin verb \"perpendere,\" which in turn comes from \"pendere,\" meaning \"to weigh.\" Appropriately, our English word essentially means \"to weigh carefully in the mind.\" \"Pendere\" has several descendants in English, including \"append,\" \"compendium,\" \"expend,\" and \"suspend.\" \"Perpend\" can also be a noun meaning \"a brick or large stone reaching through a wall\" or \"a wall built of such stones,\" but that \"perpend\" comes from a Middle French source and is unrelated to the verb."
+    "examples": [
+      "As the irate customer yelled, the manager adopted a soothing, conciliatory tone and promised that the situation would be remedied."
+    ],
+    "origin": "If you are \"conciliatory\" towards someone, you're trying to win them over to your side. The verb \"conciliate\" was borrowed into English in the mid-16th century and descends from the Latin verb \"conciliare,\" meaning \"to assemble, unite, or win over.\" \"Conciliare,\" in turn, comes from Latin \"concilium,\" meaning \"assembly\" or \"council.\" \"Conciliatory,\" which appeared in English a bit later in the 16th century, traces back to \"conciliare\" by way of the Latin adjective \"conciliatorius.\" Another word that has \"conciliare\" as a root is \"reconcile,\" the earliest meaning of which is \"to restore to friendship or harmony.\""
   }
 }

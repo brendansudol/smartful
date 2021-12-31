@@ -1,0 +1,121 @@
+{
+  "artist": {
+    "id": "ivan-mestrovic",
+    "name": "Ivan Meštrović",
+    "dates": "Aug 15, 1883 - Jan 16, 1962",
+    "mainImg": "img/art/artists/ivan-mestrovic.jpg",
+    "artworkImgs": [
+      {
+        "name": "Distant Sounds",
+        "path": "img/art/artworks/ivan-mestrovic-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/distant-sounds-ivan-meštrović/kwEwIMZM1v9MAg"
+      },
+      {
+        "name": "St. Francis",
+        "path": "img/art/artworks/ivan-mestrovic-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/st-francis-ivan-meštrovic/1gGNGnFfBF6NsQ"
+      },
+      {
+        "name": "Angel flute",
+        "path": "img/art/artworks/ivan-mestrovic-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/angel-flute-ivan-mestrovic/ywEXElTm3mqAqA"
+      },
+      {
+        "name": "A Vestal",
+        "path": "img/art/artworks/ivan-mestrovic-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/a-vestal-ivan-meštrovic/DgEeiWArnUpk7A"
+      },
+      {
+        "name": "Head of a Girl (Božena Begović)",
+        "path": "img/art/artworks/ivan-mestrovic-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-girl-božena-begović-ivan-meštrovic/nwGHOfjUZxUTfA"
+      },
+      {
+        "name": "Portrait Bust of Pero Čingrija",
+        "path": "img/art/artworks/ivan-mestrovic-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-bust-of-pero-čingrija-ivan-meštrovic/sAHwXc-GhCwxgw"
+      }
+    ],
+    "summary": [
+      "Ivan Meštrović was a Croatian sculptor, architect and writer. He was the most prominent modern Croatian sculptor and a leading artistic personality in contemporary Zagreb. He studied at Pavle Bilinić's Stone Workshop in Split and at the Academy of Fine Arts Vienna, where he was formed under the influence of the Secession. He traveled throughout Europe and studied the works of ancient and Renaissance masters, especially Michelangelo, and French sculptors A. Rodin, A. Bourdelle and A. Maillola. He was the initiator of the national-romantic group Medulić. During the First World War, he lived in emigration. After the war, he returned to Croatia and began a long and fruitful period of sculpture and pedagogical work. In 1942 he emigrated to Italy, in 1943 to Switzerland and in 1947 to the United States. He was a professor of sculpture at the Syracuse University and from 1955 at the University of Notre Dame in South Bend, Indiana."
+    ],
+    "quote": null,
+    "movements": ["Symbolism", "Art Nouveau"],
+    "mediums": ["Bronze", "Metal", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ivan_Me%C5%A1trovi%C4%87",
+    "urlGoogle": "https://artsandculture.google.com/entity/ivan-meštrović/m01l551"
+  },
+  "event": {
+    "id": "1992-united-states-presidential-election",
+    "name": "1992 United States presidential election",
+    "dates": null,
+    "mainImg": "img/events/1992-united-states-presidential-election.jpg",
+    "summary": [
+      "The 1992 United States presidential election was the 52nd quadrennial presidential election. It was held on Tuesday, November 3, 1992. Democratic Governor Bill Clinton of Arkansas defeated incumbent Republican President George H. W. Bush, independent businessman Ross Perot of Texas, and a number of minor candidates.",
+      "Bush had alienated many of the conservatives in his party by breaking his 1988 campaign pledge against raising taxes, but he fended off a primary challenge from conservative commentator Pat Buchanan. Bush's popularity after his success in the Gulf War dissuaded high-profile Democratic candidates like Mario Cuomo from entering the 1992 Democratic primaries. Clinton, a leader of the centrist Democratic Leadership Council, established himself as the front-runner for the Democratic nomination by sweeping the Super Tuesday primaries. He defeated former and future Governor of California Jerry Brown, former Massachusetts Senator Paul Tsongas, and other candidates to win his party's nomination, and chose Senator Al Gore as his running mate."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1992_United_States_presidential_election",
+    "urlGoogle": "https://artsandculture.google.com/entity/1992-united-states-presidential-election/m09vdd"
+  },
+  "funFacts": [
+    {
+      "id": "273",
+      "fact": "Each year, the average American eats about 15 pounds of apples.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "465",
+      "fact": "The great white shark can go up to three months between meals.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [{ "id": "505070", "fact": "Referees get Super Bowl rings too." }],
+  "person": {
+    "id": "william-mc-cormick-blair-jr",
+    "name": "William McCormick Blair Jr.",
+    "dates": "Oct 24, 1916 - Aug 29, 2015",
+    "mainImg": "img/people/william-mc-cormick-blair-jr.jpg",
+    "summary": [
+      "William McCormick Blair Jr. served as United States Ambassador to Denmark from 1961 to 1964 and as United States Ambassador to the Philippines from 1964 until 1967. A lawyer, he also was a close associate of Adlai Stevenson. He was awarded an honorary Doctor of Laws degree from Whittier College in 1964."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/William_McCormick_Blair_Jr.",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-mccormick-blair-jr/m026nlvn"
+  },
+  "place": {
+    "id": "shanghai",
+    "name": "Shanghai",
+    "mainImg": "img/places/shanghai.jpg",
+    "summary": [
+      "Shanghai is one of the four municipalities of the People's Republic of China. It is located on the southern estuary of the Yangtze, with the Huangpu River flowing through it. With a population of 24.28 million as of 2019, it is the most populous urban area in China and the second most populous city proper in the world. Shanghai is a global center for finance, innovation and transportation and the Port of Shanghai is the world's busiest container port.",
+      "Originally a fishing village and market town, Shanghai grew in importance in the 19th century due to trade and its favorable port location. The city was one of five treaty ports forced open to foreign trade after the First Opium War. The Shanghai International Settlement and the French Concession were subsequently established. The city then flourished, becoming a primary commercial and financial hub of the Asia-Pacific region in the 1930s. During the Second Sino-Japanese War, the city was the site of the major Battle of Shanghai. After the war, with the CPC takeover of mainland China in 1949, trade was limited to other socialist countries and the city's global influence declined."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Shanghai",
+    "urlGoogle": "https://artsandculture.google.com/entity/shanghai/m06wjf"
+  },
+  "wiki": {
+    "id": "look-mickey",
+    "name": "Look Mickey",
+    "summary": "Look Mickey is a 1961 oil on canvas painting by Roy Lichtenstein. Based on an illustration showing Mickey Mouse and Donald Duck during a fishing mishap, it is widely regarded as the bridge between his abstract expressionism and pop art works. It is notable for its ironic humor and aesthetic value as well as being the first example of the artist's employment of Ben-Day dots, speech balloons and comic imagery as a source for a painting. Building on his late 1950s drawings of comic strips characters, Look Mickey marks Lichtenstein's first full employment of painterly techniques to reproduce almost faithful representations of pop culture and so satirize and comment upon the then developing process of mass production of visual imagery. In this, Lichtenstein pioneered a motif that became influential not only in 1960s Pop art but continuing to the work of artists today. The work dates from Lichtenstein's first solo exhibition, and is regarded by art critics as revolutionary both as a progression of pop art and as a work of modern art in general. It was later shown hanging prominently in Lichtenstein's studio in his 1973 painting, Artist's Studio—Look Mickey.",
+    "url": "https://en.wikipedia.org/wiki/Look_Mickey"
+  },
+  "word": {
+    "id": "euchre",
+    "word": "euchre",
+    "url": "https://www.merriam-webster.com/dictionary/euchre",
+    "partOfSpeech": "verb",
+    "pronunciation": "YOO-ker",
+    "audioPath": "audio/words/euchre.mp3",
+    "definitions": [
+      "to prevent from winning three tricks in the card game euchre",
+      "to cheat or trick"
+    ],
+    "examples": [
+      "\"'You fooled us good,' Frank confessed. 'After Northfield, Jesse knew we'd been _euchred_ somehow. But I wouldn't have suspected you in a thousand years.'\" - From Matt Braun's 2008 novel _Manhunter / Deadwood_",
+      "\"He'd never held a pick or shovel in those waxy white hands. His principal business was _euchring_ anyone who was sucker enough to do business with him.\" - From Richard S. Wheeler's 2005 novel _Seven Miles to Sundown_"
+    ],
+    "origin": "Euchre is a card game for four players that is played in tricks, or rounds, with a deck of 32 cards. Etymologists aren't sure where we got the name for the game, though they do know that it first appeared in English in the mid-19th century. The first sense of the verb \"euchre\" arose from an action that takes place during the game: a player is \"euchred\" when an opponent blocks him or her from winning three or more tricks after making trump. Deception can often be key to a winning strategy, and sure enough it took almost no time at all for \"euchre\" to develop a sense meaning \"cheat\" or \"trick.\""
+  }
+}

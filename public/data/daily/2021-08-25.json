@@ -1,123 +1,132 @@
 {
   "artist": {
-    "id": "rene-magritte",
-    "name": "René Magritte",
-    "dates": "Nov 21, 1898 - Aug 15, 1967",
-    "mainImg": "img/art/artists/rene-magritte.jpg",
+    "id": "frank-cho",
+    "name": "Frank Cho",
+    "dates": "Born Dec 2, 1971",
+    "mainImg": "img/art/artists/frank-cho.jpg",
     "artworkImgs": [
       {
-        "name": "Les Fanatiques",
-        "path": "img/art/artworks/rene-magritte-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/les-fanatiques-rené-magritte/agGnRvkHWFi7XQ"
+        "name": "Desire",
+        "path": "img/art/artworks/frank-cho-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/desire-park-dae-cho/vwG16Ao7PTcjUQ"
       },
       {
-        "name": "La présence d'esprit (The Presence of Mind)",
-        "path": "img/art/artworks/rene-magritte-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/la-présence-d-esprit-the-presence-of-mind-rené-françois-ghislain-magritte/FQFQEZvEdKnjWA"
+        "name": "Boom Boom",
+        "path": "img/art/artworks/frank-cho-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/boom-boom-park-dae-cho/yQHcED4lTOIJlA"
       },
       {
-        "name": "The Double Secret",
-        "path": "img/art/artworks/rene-magritte-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-double-secret-rené-magritte-1898-1967/eQFqbwECO7whdw"
+        "name": "Desire 1",
+        "path": "img/art/artworks/frank-cho-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/desire-1-park-dae-cho/lAHjfwAvMdf_Ug"
       },
       {
-        "name": "Le noctambule (Le Réverbère) (The Night Owl)",
-        "path": "img/art/artworks/rene-magritte-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/le-noctambule-le-réverbère-the-night-owl-rené-françois-ghislain-magritte/7gE5dUVUxyGPQw"
+        "name": "The Tears of Kim Jeong-ho",
+        "path": "img/art/artworks/frank-cho-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-tears-of-kim-jeong-ho-park-dae-cho/DQEvRsiljZBjFg"
       },
       {
-        "name": "Le Paysage en feu",
-        "path": "img/art/artworks/rene-magritte-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/le-paysage-en-feu-rené-magritte/MAELy9mHiRpRJw"
+        "name": "Desire 14",
+        "path": "img/art/artworks/frank-cho-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/desire-14-park-dae-cho/xgEonLyFauMfbw"
+      },
+      {
+        "name": "Human and Nature",
+        "path": "img/art/artworks/frank-cho-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/human-and-nature-park-dae-cho/EwELZxd4bDSMjA"
       }
     ],
     "summary": [
-      "René François Ghislain Magritte was a Belgian Surrealist artist. He became well known for creating a number of witty and thought-provoking images. Often depicting ordinary objects in an unusual context, his work is known for challenging observers' preconditioned perceptions of reality. His imagery has influenced pop art, minimalist art and conceptual art."
-    ],
-    "quote": "“The mind loves the unknown. It loves images whose meaning is unknown, since the meaning of the mind itself is unknown.”",
-    "movements": ["Modern art", "Surrealism", "Dada"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte",
-    "urlGoogle": "https://artsandculture.google.com/entity/rené-magritte/m06h88"
-  },
-  "event": {
-    "id": "civil-rights-act-of-1964",
-    "name": "Civil Rights Act of 1964",
-    "dates": "Jul 2, 1964",
-    "mainImg": "img/events/civil-rights-act-of-1964.jpg",
-    "summary": [
-      "The Civil Rights Act of 1964 is a landmark civil rights and labor law in the United States that outlaws discrimination based on race, color, religion, sex, or national origin. It prohibits unequal application of voter registration requirements, and racial segregation in schools, employment, and public accommodations.",
-      "Initially, powers given to enforce the act were weak, but these were supplemented during later years. Congress asserted its authority to legislate under several different parts of the United States Constitution, principally its power to regulate interstate commerce under Article One, its duty to guarantee all citizens equal protection of the laws under the Fourteenth Amendment, and its duty to protect voting rights under the Fifteenth Amendment.",
-      "The legislation had been proposed by President John F. Kennedy in June 1963, but opposed by filibuster in the Senate. After Kennedy was assassinated on November 22, 1963, President Lyndon B. Johnson pushed the bill forward. The United States House of Representatives passed the bill on February 10, 1964, and after a 54-day filibuster, passed the United States Senate on June 19, 1964."
+      "Frank Cho, born Duk Hyun Cho, is a Korean-American comic strip and comic book writer and illustrator, known for his series Liberty Meadows, as well as for books such as Shanna the She-Devil, Mighty Avengers and Hulk for Marvel Comics, and Jungle Girl for Dynamite Entertainment. Cho is noted for his figure drawing, precise lines, and depiction of well-endowed women."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964",
-    "urlGoogle": "https://artsandculture.google.com/entity/civil-rights-act-of-1964/m019twb"
+    "movements": ["Contemporary art"],
+    "mediums": ["Photograph", "Rock", "Drawing", "Metal", "Ink", "Jade"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Cho",
+    "urlGoogle": "https://artsandculture.google.com/entity/frank-cho/m024pmg"
+  },
+  "event": {
+    "id": "white-friday",
+    "name": "White Friday",
+    "dates": null,
+    "mainImg": "img/events/white-friday.jpg",
+    "summary": [
+      "White Friday occurred during the Italian Front of World War I, when an avalanche struck an Austrian barracks on Mount Marmolada, killing 270 soldiers. Other avalanches the same day struck Italian and other Austrian positions, killing hundreds. According to some reports both sides deliberately fired shells into the weakened snowpacks in an attempt to bury the other side.",
+      "An accurate estimation of the number of casualties from the White Friday avalanches is not available. Historical documents suggest at least 2,000 victims among the soldiers and a few dozens among civilians.",
+      "The date 13 December, marked Saint Lucia, a commemorative religious holiday practiced by the majority of Italian Catholics. Though the occurrence of avalanches in the Dolomites Mountains took place on a Wednesday in 1916, the term \"White Friday\" was used to coin the disastrous day."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/White_Friday_%281916%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/white-friday/g11cjk4d6ny"
   },
   "funFacts": [
     {
-      "id": "326",
-      "fact": "On average, you'll spend a year of your life looking for misplaced objects.",
-      "category": ["Habits"]
+      "id": "374",
+      "fact": "Thomas Edison coined the word \"hello\" and introduced it as a way to answer the phone.",
+      "category": ["History"]
     },
-    { "id": "271", "fact": "Dim lights reduce your appetite.", "category": ["Anatomy"] }
+    {
+      "id": "254",
+      "fact": "The only bird who can see the color blue is the owl.",
+      "category": ["Animals", "Onlies"]
+    }
   ],
   "funFacts2": [
-    { "id": "504760", "fact": "Goldfish can distinguish the music of one composer from another." }
+    {
+      "id": "553863",
+      "fact": "North Korea’s 105-story Ryugyong Hotel, nicknamed \"The Hotel of Doom,\" is the world’s tallest unoccupied building."
+    }
   ],
   "idiom": {
-    "id": "clay-pigeon",
-    "term": "clay pigeon",
-    "definition": "A person easily duped or taken advantage of, as in *You're a clay pigeon for all of those telephone fund-raisers.* The term alludes to the clay pigeon of trapshooting, which replaced the use of live birds in this sport in the 1860s. Its transfer to figurative use in the first half of the 1900s probably is explained by the much older slang use of *pigeon* for \"dupe.\""
+    "id": "fifth-wheel",
+    "term": "fifth wheel",
+    "definition": "An extra and unnecessary person or thing, as in *He was the only one without a date, so he felt like a fifth wheel.* This expression, which alludes to an unneeded wheel on a four-wheel vehicle, may have originated as long ago as 1631, when Thomas Dekker wrote *Match Me in London:* \"Thou tiest but wings to a swift gray Hounds heel, And addest to a running Chariot a fifth wheel.\""
   },
   "person": {
-    "id": "pranab-mukherjee",
-    "name": "Pranab Mukherjee",
-    "dates": "Born Dec 11, 1935",
-    "mainImg": "img/people/pranab-mukherjee.jpg",
+    "id": "jesse-h-jones",
+    "name": "Jesse H. Jones",
+    "dates": "Apr 5, 1874 - Jun 1, 1956",
+    "mainImg": "img/people/jesse-h-jones.jpg",
     "summary": [
-      "Pranab Mukherjee is an Indian politician who served as the 13th President of India from 2012 until 2017. In a political career spanning five decades, Mukherjee has been a senior leader in the Indian National Congress and has occupied several ministerial portfolios in the Government of India. Prior to his election as President, Mukherjee was Union Finance Minister from 2009 to 2012. He was awarded India's highest civilian honour, the Bharat Ratna in 2019 by the President of India, Ram Nath Kovind.",
-      "Mukherjee got his break in politics in 1969 when the Then-Prime Minister Indira Gandhi helped him get elected to the Rajya Sabha, the upper house of Parliament of India, on a Congress ticket. Following a meteoric rise, he became one of Gandhi's most trusted lieutenants and a minister in her cabinet in 1973. During the controversial Internal Emergency of 1975–77, he was accused of committing gross excesses. Mukherjee's service in a number of ministerial capacities culminated in his first stint as Finance Minister of India in 1982–84. He was also the Leader of the House in the Rajya Sabha from 1980 to 1985.",
-      "Mukherjee was sidelined from the Congress during the premiership of Rajiv Gandhi."
+      "Jesse Holman Jones was an American Democratic politician and entrepreneur from Houston, Texas. Jones managed a Tennessee tobacco factory at age fourteen, and at nineteen, he was put in charge of his uncle's lumberyards. Five years later, after his uncle, M. T. Jones, died, Jones moved to Houston to manage his uncle's estate and opened a lumberyard company, which grew quickly. During this period, Jesse opened his own business, the South Texas Lumber Company. He also began to expand into real estate, commercial building, and banking. His commercial building activities in Houston included mid-rise and skyscraper office buildings, hotels and apartments, and movie theaters. He constructed the Foster Building, home to the Houston Chronicle, in exchange for a fifty percent share in the newspaper, of which he acquired control in 1926.",
+      "Jones's participation in civic life and politics began with the Port of Houston and the Houston Ship Channel. He led a group of local bankers in buying public finance bonds and was later appointed to serve as the Chair of the Houston Harbor Board. He led a local fundraising effort on behalf of the American Red Cross in support of servicemen in World War I."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Pranab_Mukherjee",
-    "urlGoogle": "https://artsandculture.google.com/entity/pranab-mukherjee/m0311bp"
+    "quote": "“One of the greatest disservices you can do to a man is to lend him money that he can't pay back.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Jesse_H._Jones",
+    "urlGoogle": "https://artsandculture.google.com/entity/jesse-h-jones/m0377sd"
   },
   "place": {
-    "id": "liechtenstein",
-    "name": "Liechtenstein",
-    "mainImg": "img/places/liechtenstein.jpg",
+    "id": "fes",
+    "name": "Fes",
+    "mainImg": "img/places/fes.jpg",
     "summary": [
-      "Liechtenstein, officially the Principality of Liechtenstein, is a German-speaking microstate situated in the Alps and in the southwest of Central Europe. The principality is a semi-constitutional monarchy headed by the Prince of Liechtenstein; the Prince's extensive powers are equivalent to those of a President in a semi-presidential system.",
-      "Liechtenstein is bordered by Switzerland to the west and south and Austria to the east and north. It is Europe's fourth-smallest country, with an area of just over 160 square kilometres and a population of 38,749. Divided into 11 municipalities, its capital is Vaduz, and its largest municipality is Schaan. It is also the smallest country to border two countries. Liechtenstein is one of only two doubly landlocked countries in the world, along with Uzbekistan.",
-      "Economically, Liechtenstein has one of the highest gross domestic products per person in the world when adjusted for purchasing power parity. It was once known as a billionaire tax haven, but is no longer on any blacklists of uncooperative tax haven countries.",
-      "An Alpine country, Liechtenstein is mountainous, making it a winter sport destination."
+      "Fez or Fes is a city in northern inland Morocco and the capital of the Fès-Meknès administrative region. It is the second largest city in Morocco after Casablanca, with a population of 1.7 million. Located to the northeast of Atlas Mountains, Fez is situated at the crossroad of the important cities of all regions; 206 km from Tangier to the northwest, 246 km from Casablanca, 189 km from Rabat to the west, and 387 km from Marrakesh to the southwest which leads to the Trans-Saharan trade route. It is surrounded by the high grounds, and the old city is penetrated by the River of Fez flowing from the west to east.",
+      "Fez was founded under the Idrisid rule during the 8th-9th centuries C.E. It consisted of two autonomous and competing settlements. The migration of 2000 Arab families in the early 9th century gave the nascent city its Arabic character. After the downfall of the Idrisid dynasty, several empires came and went until the 11th century when the Almoravid Sultan Yusuf ibn Tashfin united the two settlements and rebuilt the city, which became today's Fes el Bali quarter. Under the Almoravid rule, the city gained a reputation for the religious scholarship and the mercantile activity."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Liechtenstein",
-    "urlGoogle": "https://artsandculture.google.com/entity/liechtenstein/m04j53"
+    "urlWiki": "https://en.wikipedia.org/wiki/Fez,_Morocco",
+    "urlGoogle": "https://artsandculture.google.com/entity/fes/m01vcxq"
   },
   "wiki": {
-    "id": "nintendo-d-si",
-    "name": "Nintendo DSi",
-    "summary": "The Nintendo DSi is a dual-screen handheld game console released by Nintendo. It is the third iteration of the Nintendo DS, and its primary market rival is Sony's PlayStation Portable. Development of the DSi began in late 2006, and the handheld was first unveiled during a 2008 Nintendo conference in Tokyo. While the DSi's design is similar to that of the DS Lite, it features two digital cameras and also connects to an online store called the Nintendo DSi Shop. The DSi is approximately 12% shorter than the DS Lite when closed, but it is slightly wider and lighter. The DSi also has a larger RAM and faster CPU. All DS games are compatible with the DSi, except those that require the Game Boy Advance slot. Because of its absence, the DSi is not backward compatible with GBA Game Paks or with accessories that require the GBA slot, such as the DS Rumble Pak and the Guitar Hero: On Tour series guitar grip. The Nintendo DSi received generally positive reviews. Critics praised many of the console's changes to the DS Lite's aesthetics and functionality, but complained that it launched with insufficient exclusive software. A larger version of the DSi, the Nintendo DSi XL, was released in 2009.",
-    "url": "https://en.wikipedia.org/wiki/Nintendo_DSi"
+    "id": "john-le-mesurier",
+    "name": "John Le Mesurier",
+    "summary": "John Le Mesurier (1912–83) was an English actor perhaps best remembered for his comedic role as Sergeant Arthur Wilson in the BBC situation comedy Dad's Army between 1968 and 1977. He debuted on stage in 1934, and became one of television's pioneering actors when he appeared in The Marvellous History of St Bernard in 1938. From there, Le Mesurier had a prolific film career and appeared in over 120 films across a range of genres, normally in smaller supporting parts in comedies; his roles often portrayed figures of authority such as army officers, policemen and judges. He took a relaxed approach to acting and described himself as a \"jobbing actor\", a term he used for the title of his autobiography. On one of the few occasions he played the lead role in his career, he received a British Academy of Film and Television Arts \"Best Television Actor\" award for his performance in the Dennis Potter television play Traitor. He later said that the parts he played were those of \"a decent chap all at sea in a chaotic world not of his own making\". After his death, critics reflected that for an actor who normally took minor roles, the viewing public were \"enormously fond of him\".",
+    "url": "https://en.wikipedia.org/wiki/John_Le_Mesurier"
   },
   "word": {
-    "id": "sanction",
-    "word": "sanction",
-    "url": "https://www.merriam-webster.com/dictionary/sanction",
-    "partOfSpeech": "verb",
-    "pronunciation": "SANK-shun",
-    "audioPath": "audio/words/sanction.mp3",
+    "id": "cognate",
+    "word": "cognate",
+    "url": "https://www.merriam-webster.com/dictionary/cognate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KAHG-nayt",
+    "audioPath": "audio/words/cognate.mp3",
     "definitions": [
-      "to make valid or binding usually by a formal procedure (as ratification)",
-      "to give effective or authoritative approval or consent to"
+      "of the same or similar nature",
+      "related; especially : related by descent from the same ancestral language"
     ],
     "examples": [
-      "The parks committee was willing to sanction the consumption but not the sale of alcohol on park premises."
+      "Sean is a professor of astronomy whose background includes extensive work in the cognate fields of mathematics and physics."
     ],
-    "origin": "\"Sanction\" can also be a noun meaning \"authoritative approval\" or \"a coercive measure.\" The noun entered English first, in the 15th century, and originally referred to a formal decree, especially an ecclesiastical decree. (The Latin \"sancire,\" meaning \"to make holy,\" is an ancestor.) By the end of the 17th century, the meaning of the noun \"sanction\" had extended to refer to both a means of enforcing a law (a sense that in the 20th century we began using especially for economic penalties against nations violating international law) and the process of formally approving or ratifying a law. When the verb \"sanction\" appeared in the 18th century, it had to do with ratifying laws as well. Soon it had also acquired an additional, looser sense: \"to approve.\""
+    "origin": "The story of \"cognate\" is all relative: that is, it's all about relatives. Cognate words share an ancestor, like \"allude\" and \"prelude\" (which both trace to the Latin root \"ludere\") and the English \"brother\" and the German \"Bruder\" (which are both related to the Greek \"phrater\"). Cognate languages, like French, Spanish, and Italian, descend from the same ancestral language. People related through a common ancestor are cognate, and groups of people, such as tribes, can be cognate to one another. \"Cognate\" also describes things related in a more figurative way, as in \"cognate developments,\" \"cognate disciplines,\" or \"cognate problems.\" \"Cognate\" itself comes from the Latin \"cognatus\" which traces to Latin \"nasci\" meaning \"to be born.\" Some words cognate to \"cognate\" include \"innate,\" \"nascent,\" \"native,\" and \"Renaissance.\""
   }
 }

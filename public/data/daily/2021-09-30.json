@@ -1,130 +1,129 @@
 {
   "artist": {
-    "id": "john-baldessari",
-    "name": "John Baldessari",
-    "dates": "Jun 17, 1931 - Jan 2, 2020",
-    "mainImg": "img/art/artists/john-baldessari.jpg",
+    "id": "shibata-zeshin",
+    "name": "Shibata Zeshin",
+    "dates": "Mar 15, 1807 - Jul 13, 1891",
+    "mainImg": "img/art/artists/shibata-zeshin.jpg",
     "artworkImgs": [
       {
-        "name": "Penguin",
-        "path": "img/art/artworks/john-baldessari-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/JQEFRHhAzVeTZQ"
+        "name": "Waterfall and Monkeys",
+        "path": "img/art/artworks/shibata-zeshin-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/waterfall-and-monkeys-shibata-zeshin/XAHJ5LseJx0OeA"
       },
       {
-        "name": "Penguin",
-        "path": "img/art/artworks/john-baldessari-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/wQFm_Kn0G9hYog"
+        "name": "Album leaf",
+        "path": "img/art/artworks/shibata-zeshin-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/album-leaf-shibata-zeshin/ngE3fpQetilXgQ"
       },
       {
-        "name": "Penguin (detail)",
-        "path": "img/art/artworks/john-baldessari-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/penguin-detail-john-baldessari/4gHUU-kLdbqOWA"
+        "name": "The Seven Gods, en route to Western Paradise",
+        "path": "img/art/artworks/shibata-zeshin-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-seven-gods-en-route-to-western-paradise-artist-shibata-zeshin/nAGBRew_0KSLJw"
       },
       {
-        "name": "Kaldor Public Art Project 23: John Baldessari 2011",
-        "path": "img/art/artworks/john-baldessari-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/kaldor-public-art-project-23-john-baldessari-2011-john-baldessari/XAHotYNt5dgf1w"
+        "name": "Crows at twilight",
+        "path": "img/art/artworks/shibata-zeshin-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/crows-at-twilight-artist-shibata-zeshin/BQH6AyI8PZqvDg"
       },
       {
-        "name": "Penguin (detail)",
-        "path": "img/art/artworks/john-baldessari-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/penguin-detail-john-baldessari/LAEBu5iozbx2pg"
+        "name": "Six Rats",
+        "path": "img/art/artworks/shibata-zeshin-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/six-rats-shibata-zeshin/oQHB-5RK4lJ7iw"
       },
       {
-        "name": "Penguin",
-        "path": "img/art/artworks/john-baldessari-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/penguin-john-baldessari/wgGlPPn8RdLo0g"
+        "name": "Album leaf",
+        "path": "img/art/artworks/shibata-zeshin-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/album-leaf-shibata-zeshin/9gG3Xpeymbf5Zg"
       }
     ],
     "summary": [
-      "John Anthony Baldessari was an American conceptual artist known for his work featuring found photography and appropriated images. He lived and worked in Santa Monica and Venice, California.",
-      "Initially a painter, Baldessari began to incorporate texts and photography into his canvases in the mid-1960s. In 1970 he began working in printmaking, film, video, installation, sculpture and photography. He created thousands of works which demonstrate—and, in many cases, combine—the narrative potential of images and the associative power of language within the boundaries of the work of art. His art has been featured in more than 200 solo exhibitions in the U.S. and Europe. His work influenced that of Cindy Sherman, David Salle, Annette Lemieux, and Barbara Kruger among others."
+      "Shibata Zeshin was a Japanese lacquer, painter and print artist of the late Edo period and early Meiji era. He has been called \"Japan's greatest lacquerer\", but his reputation as painter and print artist is more complex: In Japan, he is known as both too modern, a panderer to the Westernization movement, and also an overly conservative traditionalist who did nothing to stand out from his contemporaries. Despite holding this complicated reputation in Japan, Zeshin has come to be well regarded and much studied among the art world of the West, in Britain and the United States in particular."
     ],
     "quote": null,
-    "movements": ["Conceptual art", "Contemporary art"],
-    "mediums": ["Acrylic paint", "Epoxy", "Iron", "Metal", "Plastic", "Sculpture"],
-    "urlWiki": "https://en.wikipedia.org/wiki/John_Baldessari",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-baldessari/m06dntc"
+    "movements": ["Ukiyo-e", "Shin-hanga"],
+    "mediums": ["Ink", "Lacquer", "Metal", "Silk", "Textile", "Gold"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Shibata_Zeshin",
+    "urlGoogle": "https://artsandculture.google.com/entity/shibata-zeshin/m0bs_sp"
   },
   "event": {
-    "id": "louisiana-purchase-exposition",
-    "name": "Louisiana Purchase Exposition",
-    "dates": "Apr 30, 1904 - Dec 1, 1904",
-    "mainImg": "img/events/louisiana-purchase-exposition.jpg",
+    "id": "battle-of-the-somme",
+    "name": "Battle of the Somme",
+    "dates": "Jul 1, 1916 - Nov 18, 1916",
+    "mainImg": "img/events/battle-of-the-somme.jpg",
     "summary": [
-      "The Louisiana Purchase Exposition, informally known as the St. Louis World's Fair, was an international exposition held in St. Louis, Missouri, United States, from April 30 to December 1, 1904. Local, state, and federal funds totaling $15 million were used to finance the event. More than 60 countries and 43 of the then-45 American states maintained exhibition spaces at the fair, which was attended by nearly 19.7 million people.",
-      "Historians generally emphasize the prominence of themes of race and empire, and the fair's long-lasting impact on intellectuals in the fields of history, art history, architecture and anthropology. From the point of view of the memory of the average person who attended the fair, it primarily promoted entertainment, consumer goods and popular culture."
+      "The Battle of the Somme, also known as the Somme Offensive, was a battle of the First World War fought by the armies of the British Empire and French Third Republic against the German Empire. It took place between 1 July and 18 November 1916 on both sides of the upper reaches of the River Somme in France. The battle was intended to hasten a victory for the Allies. More than three million men fought in the battle and one million men were wounded or killed, making it one of the bloodiest battles in human history.",
+      "The French and British had committed themselves to an offensive on the Somme during Allied discussions at Chantilly, Oise, in December 1915. The Allies agreed upon a strategy of combined offensives against the Central Powers in 1916, by the French, Russian, British and Italian armies, with the Somme offensive as the Franco-British contribution. Initial plans called for the French army to undertake the main part of the Somme offensive, supported on the northern flank by the Fourth Army of the British Expeditionary Force."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Louisiana_Purchase_Exposition",
-    "urlGoogle": "https://artsandculture.google.com/entity/louisiana-purchase-exposition/m0d9j1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_the_Somme",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-the-somme/m0gjw_"
   },
   "funFacts": [
     {
-      "id": "300",
-      "fact": "Pennsylvania is misspelled on the Liberty Bell, because that is how they spelled it in the 18th century.",
-      "category": ["Geography", "History"]
+      "id": "497",
+      "fact": "To fix a button about to fall off, dab a little clear nail polish over the threads holding it on.",
+      "category": ["Make-it-Easies"]
     },
     {
-      "id": "243",
-      "fact": "If you put all the streets in New York City in a straight line, they would stretch to Japan.",
-      "category": ["Geography"]
+      "id": "21",
+      "fact": "Peaches are members of the almond family.",
+      "category": ["Food", "Definitions"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553828",
-      "fact": "The corpse flower was the official flower of the Bronx for 60 years."
+      "id": "553840",
+      "fact": "At the Poison Garden of Alnwick Castle in England, many of the plants are so deadly they're grown in cages."
     }
   ],
   "idiom": {
-    "id": "the-exception-proves-the-rule",
-    "term": "the exception proves the rule",
-    "definition": "An instance that does not obey a rule shows that the rule exists. For example, *John's much shorter than average but excels at basketball---the exception proves the rule.* This seemingly paradoxical phrase is the converse of the older idea that every rule has an exception. [Mid-1600s]"
+    "id": "cut-the-mustard",
+    "term": "cut the mustard",
+    "definition": "Perform satisfactorily, as in *We need a better catcher; this one just doesn't cut the mustard.* The origin of this expression is disputed. Some believe it alludes to *mustard* in the sense of the best or main attraction (owing to its spicing up food), whereas others believe it is a corruption of **pass muster**. Still others hold that it concerns the preparation of mustard, which involves adding vinegar to mustard seed to \"cut\" (reduce) its bitterness. The expression is often in negative form, as in the example. [Slang; c. 1900]"
   },
   "person": {
-    "id": "lee-ki-poong",
-    "name": "Lee Ki-poong",
-    "dates": "Dec 20, 1896 - Apr 28, 1960",
-    "mainImg": "img/people/lee-ki-poong.jpg",
+    "id": "jules-destree",
+    "name": "Jules Destrée",
+    "dates": "Aug 21, 1863 - Jan 3, 1936",
+    "mainImg": "img/people/jules-destree.jpg",
     "summary": [
-      "Lee Ki-poong was a South Korean politician and Vice President. He was the Minister of National Defense and Mayor of Seoul. He was the leader of Liberal Party and supporter of Syngman Rhee. The Liberal Party held power from 1948 to 1960.",
-      "In March 15, 1960, South Korea held a presidential election. The Liberal Party, which included Syngman Rhee and Lee Ki-poong, won by a very wide margin and was accused of electoral fraud. As a result, the April Revolution took place in April 1960. President Rhee resigned in April 26, 1960. Lee Ki-poong's family also resigned. In April 28, 1960, in an annex of Rhee's mansion, Lee Ki-poong's first son, Lee Kang-seok shot Lee Ki-poong and his family and then killed himself in a murder–suicide."
+      "Jules Destrée was a Walloon lawyer, cultural critic and socialist politician. The trials subsequent to the strikes of 1886 determined his commitment within the Belgian Labour Party. He wrote a Letter to the King in 1912, which is seen as the founding declaration of the Walloon movement. He is famous for his quote \"Il n'y a pas de Belges\", pointing to the lack of patriotic feelings in Flemings and Walloons, while pleading for some kind of federal state."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Lee_Ki-poong",
-    "urlGoogle": "https://artsandculture.google.com/entity/lee-ki-poong/m0kf_2r7"
+    "urlWiki": "https://en.wikipedia.org/wiki/Jules_Destr%C3%A9e",
+    "urlGoogle": "https://artsandculture.google.com/entity/jules-destrée/m0261b4c"
   },
   "place": {
-    "id": "karachi",
-    "name": "Karachi",
-    "mainImg": "img/places/karachi.jpg",
+    "id": "saint-barthelemy",
+    "name": "Saint Barthélemy",
+    "mainImg": "img/places/saint-barthelemy.jpg",
     "summary": [
-      "Karachi is the capital of the Pakistani province of Sindh. It is the largest city in Pakistan and seventh largest city proper in the world. Ranked as a beta-global city, the city is Pakistan's premier industrial and financial centre, with an estimated GDP of $114 billion as of 2014. Karachi is Pakistan's most cosmopolitan city, its most linguistically, ethnically, and religiously diverse city, as well as one of Pakistan's most secular and socially liberal cities. With its location on the Arabian Sea, Karachi serves as a transport hub, and is home to Pakistan's two largest seaports, the Port of Karachi and Port Bin Qasim, as well as Pakistan's busiest airport, Jinnah International Airport.",
-      "Though the Karachi region has been inhabited for millennia, the city was founded as the fortified village of Kolachi in 1729. The settlement drastically increased in importance with the arrival of British East India Company in the mid 19th century. The British embarked on major works to transform the city into a major seaport, and connected it with their extensive railway network."
+      "Saint Barthélemy, officially the French: Collectivité territoriale de Saint-Barthélemy, is an overseas collectivity of France in the Caribbean. Often abbreviated to St-Barth in French, and St. Barths or St. Barts in English, the island lies about 35 kilometres south-east of the Dutch-country Sint Maarten and north-east of the Dutch islands of Saba, Sint Eustatius, and the independent country of Saint Kitts and Nevis.",
+      "Saint Barthélemy was for many years a French commune forming part of Guadeloupe, which is an overseas region and department of France. In 2003 the island voted in favour of secession from Guadeloupe in order to form a separate overseas collectivity of France. The collectivity is one of four territories among the Leeward Islands in the northeastern Caribbean that comprise the French West Indies, along with Saint Martin, Guadeloupe, and Martinique.",
+      "Saint Barthélemy, a volcanic island fully encircled by shallow reefs, has an area of 25 square kilometres and a population of about 10,000. Its capital is Gustavia, which also contains the main harbour."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Karachi",
-    "urlGoogle": "https://artsandculture.google.com/entity/karachi/m04cjn"
+    "urlWiki": "https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy",
+    "urlGoogle": "https://artsandculture.google.com/entity/saint-barthélemy/m0h7f9"
   },
   "wiki": {
-    "id": "new-york-state-route-28-n",
-    "name": "New York State Route 28N",
-    "summary": "New York State Route 28N (NY 28N) is an east–west state highway in the North Country of New York in the United States. It extends for 50.95 miles (82.00 km) through the Adirondack Mountains from Blue Mountain Lake to North Creek. The route is a northerly alternate route to NY 28 between both locations and passes through several communities that NY 28 bypasses. The westernmost 10 miles (16 km) of NY 28N overlap with NY 30 through the town of Long Lake. The rest of NY 28N is designated as the Roosevelt–Marcy Trail, a scenic byway marking the path taken in 1901 by U.S. Vice President Theodore Roosevelt from Mount Marcy to reach North Creek after he learned that President William McKinley had been assassinated. The route has a rather scant history before its designations. It originated as a highway from Warren County to Long Lake. It was used for transportation in the iron ore industry in Newcomb, and for the lumber industry in Minerva. The state gained control of the road in 1909. The NY 28N designation was assigned as part of the 1930 renumbering of state highways in New York, incorporating part of the former NY 10.",
-    "url": "https://en.wikipedia.org/wiki/New_York_State_Route_28N"
+    "id": "star-craft-ghost",
+    "name": "StarCraft: Ghost",
+    "summary": "StarCraft: Ghost is a military science fiction stealth-action video game under suspended development by Blizzard Entertainment. Part of Blizzard's StarCraft series, the game was announced on September 20, 2002, and was to be developed by Nihilistic Software for the Nintendo GameCube, Xbox, and PlayStation 2 video game consoles. Several delays in development caused Blizzard to move back the release date and the game has not yet materialized. Nihilistic Software ceded development to Swingin' Ape Studios in 2004 before Blizzard bought the company, and plans for the GameCube version were canceled in 2005. Blizzard announced in March 2006 that the game is on \"indefinite hold\" while the company investigated seventh generation video game console possibilities. Subsequent public statements from company personnel have been contradictory about whether production will be renewed or planned story elements will be worked into other products.",
+    "url": "https://en.wikipedia.org/wiki/StarCraft:_Ghost"
   },
   "word": {
-    "id": "campestral",
-    "word": "campestral",
-    "url": "https://www.merriam-webster.com/dictionary/campestral",
-    "partOfSpeech": "adjective",
-    "pronunciation": "kam-PESS-trul",
-    "audioPath": "audio/words/campestral.mp3",
-    "definitions": ["of or relating to fields or open country : rural"],
-    "examples": [
-      "\"Santiago's proximity to ski resorts, beach resorts, and the idyllic countryside, with its _campestral_ and ranching traditions and colonial estates, offer plenty for the traveler to see and do.\" - From _Frommer’s Chile and Easter Island_, 2011",
-      "\"Just about any amateur naturalist who pays attention to the birds, beasts, flowers and seasons in _campestral_ Maine will find an eye-opener or two here.\" - From a book review by Dana Wilde in the _Bangor_ (Maine) _Daily News_, October 26, 2009"
+    "id": "macedoine",
+    "word": "macédoine",
+    "url": "https://www.merriam-webster.com/dictionary/macédoine",
+    "partOfSpeech": "noun",
+    "pronunciation": "mass-uh-DWAHN",
+    "audioPath": "audio/words/macedoine.mp3",
+    "definitions": [
+      "a confused mixture : medley",
+      "a mixture of fruits or vegetables served as a salad or cocktail or in a jellied dessert or used in a sauce or as a garnish"
     ],
-    "origin": "Scamper across an open field, then, while catching your breath, ponder this: \"scamper\" and \"campestral\" both ultimately derive from the Latin noun \"campus,\" meaning \"field\" or \"plain.\" Latin \"campester\" is the adjective that means \"pertaining to a campus.\" In ancient Rome, a campus was a place for games, athletic practice, and military drills. \"Scamper\" probably started with a military association, as well (it is assumed to have evolved from the Latin verb \"excampare,\" meaning \"to decamp\"). In English, \"campestral\" took on an exclusively rural aspect upon its introduction in the 18th century, while \"campus,\" you might say, became strictly academic."
+    "examples": ["The focal point of the painting is a mesmerizing macédoine of warm colors."],
+    "origin": "\"Macédoine\" is the French name for Macedonia, a region on the Balkan Peninsula that is now part of Greece, the Republic of Macedonia, and Bulgaria. Historically, this area has been home to a richly varied population encompassing many ethnic groups. Etymologists believe that the cultural heterogeneity of the region may have inspired people to use its name as a generic term for any kind of wildly jumbled mixture. English speakers borrowed \"macédoine\" early in the 19th century. The word took on its more specific \"salad\" sense later in the century."
   }
 }

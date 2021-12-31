@@ -1,134 +1,132 @@
 {
   "artist": {
-    "id": "steve-mc-queen",
-    "name": "Steve McQueen",
-    "dates": "Born Oct 9, 1969",
-    "mainImg": "img/art/artists/steve-mc-queen.jpg",
+    "id": "isamu-noguchi",
+    "name": "Isamu Noguchi",
+    "dates": "Nov 17, 1904 - Dec 30, 1988",
+    "mainImg": "img/art/artists/isamu-noguchi.jpg",
     "artworkImgs": [
       {
-        "name": "Prey",
-        "path": "img/art/artworks/steve-mc-queen-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/prey-steve-mcqueen/ZwFpiQvOpA3q-Q"
+        "name": "Break Through Capestrano",
+        "path": "img/art/artworks/isamu-noguchi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/break-through-capestrano-isamu-noguchi-1904-1988/4gHT5y-Md1i6zg"
       },
       {
-        "name": "Ashes",
-        "path": "img/art/artworks/steve-mc-queen-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/ashes-steve-mcqueen/9AHqbnRpwgr0eg"
+        "name": "Core (Cored Sculpture)",
+        "path": "img/art/artworks/isamu-noguchi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/core-cored-sculpture/TwGz9KkdR4brPg"
       },
       {
-        "name": "Deadpan",
-        "path": "img/art/artworks/steve-mc-queen-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/deadpan-steve-mcqueen/cAHohX0rSlAkpw"
+        "name": "Downward Pulling",
+        "path": "img/art/artworks/isamu-noguchi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/downward-pulling-isamu-noguchi-1904-1988/BAHbXJ3inQjMog"
       },
       {
-        "name": "Ashes",
-        "path": "img/art/artworks/steve-mc-queen-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/ashes-steve-mcqueen/IAHTJUoZdiMVEA"
+        "name": "Childhood",
+        "path": "img/art/artworks/isamu-noguchi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/childhood-isamu-noguchi-1904-1988/3QED6OShtrTISA"
       },
       {
-        "name": "Steve McQueen on Paul Robeson",
-        "path": "img/art/artworks/steve-mc-queen-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/steve-mcqueen-on-paul-robeson-steve-mcqueen/VwHhidQaSZNbwQ"
+        "name": "Tsukubai",
+        "path": "img/art/artworks/isamu-noguchi-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/tsukubai-isamu-noguchi-1904-1988/eAENIPfpasr-7Q"
       },
       {
-        "name": "Steve McQueen on Paul Robeson",
-        "path": "img/art/artworks/steve-mc-queen-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/steve-mcqueen-on-paul-robeson-steve-mcqueen/rAE_Q8AAltdWZg"
+        "name": "The Spirit's Flight",
+        "path": "img/art/artworks/isamu-noguchi-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-spirit-s-flight/HgFKumRUcbvF2Q"
       }
     ],
     "summary": [
-      "Sir Steven Rodney McQueen CBE is a British film director, film producer, screenwriter, and video artist. For his 2013 film 12 Years a Slave, a historical drama adaptation of an 1853 slave narrative memoir, he won an Academy Award, BAFTA Award for Best Film, and Golden Globe Award for Best Motion Picture – Drama, as a producer, and he also received the award for Best Director from the New York Film Critics Circle. McQueen is the first black filmmaker to win an Academy Award for Best Picture.",
-      "McQueen frequently collaborates with actor Michael Fassbender, who has starred in three of McQueen's four feature films. McQueen's other feature films are Hunger, a historical drama about the 1981 Irish hunger strike, Shame, a drama about an executive struggling with sex addiction, and 12 Years a Slave.",
-      "For his artwork, McQueen has received the Turner Prize, the highest award given to a British visual artist. In 2006, he produced Queen and Country, which commemorates the deaths of British soldiers in Iraq by presenting their portraits as a sheet of stamps. For services to the visual arts, he was appointed Commander of the Order of the British Empire in 2011."
+      "Isamu Noguchi was a Japanese American artist and landscape architect whose artistic career spanned six decades, from the 1920s onward. Known for his sculpture and public artworks, Noguchi also designed stage sets for various Martha Graham productions, and several mass-produced lamps and furniture pieces, some of which are still manufactured and sold.",
+      "In 1947, Noguchi began a collaboration with the Herman Miller company, when he joined with George Nelson, Paul László and Charles Eames to produce a catalog containing what is often considered to be the most influential body of modern furniture ever produced, including the iconic Noguchi table which remains in production today. His work lives on around the world and at the Noguchi Museum in New York City."
     ],
-    "quote": null,
-    "movements": ["Contemporary art", "Young British Artists"],
-    "mediums": ["Photographic film"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Steve_McQueen_%28director%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/steve-mcqueen/m01c0v6"
+    "quote": "“To order space is to give it meaning.”",
+    "movements": ["Biomorphism"],
+    "mediums": ["Rock", "Sculpture", "Marble", "Granite", "Metal", "Travertine"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Isamu_Noguchi",
+    "urlGoogle": "https://artsandculture.google.com/entity/isamu-noguchi/m01rzkj"
   },
   "event": {
-    "id": "campaign-in-north-east-france",
-    "name": "Campaign in north-east France",
-    "dates": "March 1814",
-    "mainImg": "img/events/campaign-in-north-east-france.jpg",
+    "id": "landing-at-anzac-cove",
+    "name": "Landing at Anzac Cove",
+    "dates": null,
+    "mainImg": "img/events/landing-at-anzac-cove.jpg",
     "summary": [
-      "The 1814 campaign in north-east France was Napoleon's final campaign of the War of the Sixth Coalition. Following their victory at Leipzig in 1813, the Austrian, Prussian, Russian, and other German armies of the Sixth Coalition invaded France. Despite the disproportionate forces in favour of the Coalition, Napoleon managed to inflict many defeats, especially during the Six Days' Campaign. However, the Coalition kept advancing towards Paris, which capitulated in late March 1814. As a result, Napoleon was deposed and exiled to Elba and the victorious powers started to redraw the map of Europe during the First Treaty of Paris and during the early stages of the Congress of Vienna."
+      "The landing at Anzac Cove on Sunday, 25 April 1915, also known as the landing at Gaba Tepe, and to the Turks as the Arıburnu Battle, was part of the amphibious invasion of the Gallipoli Peninsula by the forces of the British Empire, which began the land phase of the Gallipoli Campaign of the First World War.",
+      "The assault troops, mostly from the Australian and New Zealand Army Corps, landed at night on the western side of the peninsula. They were put ashore one mile north of their intended landing beach. In the darkness, the assault formations became mixed up, but the troops gradually made their way inland, under increasing opposition from the Ottoman Turkish defenders. Not long after coming ashore the ANZAC plans were discarded, and the companies and battalions were thrown into battle piece-meal, and received mixed orders. Some advanced to their designated objectives while others were diverted to other areas, then ordered to dig in along defensive ridge lines.",
+      "Although they failed to achieve their objectives, by nightfall the ANZACs had formed a beachhead, albeit much smaller than intended. In places they were clinging onto cliff faces with no organised defence system."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Campaign_in_north-east_France_%281814%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/campaign-in-north-east-france/m0_v8v0s"
+    "urlWiki": "https://en.wikipedia.org/wiki/Landing_at_Anzac_Cove",
+    "urlGoogle": "https://artsandculture.google.com/entity/landing-at-anzac-cove/m02lkrh"
   },
   "funFacts": [
     {
-      "id": "715",
-      "fact": "In one day, a full-grown oak tree expels 7 tons of water through its leaves.",
-      "category": ["Plants"]
+      "id": "186",
+      "fact": "A female kangaroo is called a flyer.",
+      "category": ["Animals", "Definitions"]
     },
     {
-      "id": "437",
-      "fact": "The woodpecker can hammer wood up to 16 times per second.",
-      "category": ["Animals"]
+      "id": "729",
+      "fact": "Twins have a very high occurrence of left handedness.",
+      "category": ["Habits", "Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504555",
-      "fact": "On Good Friday in 1930, the BBC reported, “There is no news.” Instead, they played piano music."
+      "id": "554032",
+      "fact": "The Kjeragbolten boulder on Norway's \u0003Kjerag mountain was left in a crevasse during the last ice age. It's now a popular spot for \u0003BASE jumpers."
     }
   ],
   "idiom": {
-    "id": "give-an-inch-and-theyll-take-a-mile",
-    "term": "give an inch and they'll take a mile",
-    "definition": "Make a small concession and they'll take advantage of you. For example, *I told her she could borrow the car for one day and she's been gone a week---give an inch!* This expression, in slightly different form, was already a proverb in John Heywood's 1546 collection, \"Give him an inch and he'll take an ell,\" and is so well known it is often shortened (as in the example). The use of *mile* dates from about 1900."
+    "id": "talk-turkey",
+    "term": "talk turkey",
+    "definition": "Speak plainly, get to the point, as in *Don't call me until you're ready to talk turkey.* This expression allegedly comes from a tale about an Indian and a white man who hunted together and divided the game. When the white man said, \"I'll take the turkey and you the buzzard, or you take the buzzard and I the turkey,\" the Indian replied, \"Talk turkey to me.\" Whether or not this tale had a true basis, the term was recorded in its present meaning by about 1840."
   },
   "person": {
-    "id": "hillary-clinton",
-    "name": "Hillary Clinton",
-    "dates": "Born Oct 26, 1947",
-    "mainImg": "img/people/hillary-clinton.jpg",
+    "id": "bob-dole",
+    "name": "Bob Dole",
+    "dates": "Born Jul 22, 1923",
+    "mainImg": "img/people/bob-dole.jpg",
     "summary": [
-      "Hillary Diane Rodham Clinton is an American politician, diplomat, lawyer, writer, and public speaker. She served as the 67th United States Secretary of State from 2009 to 2013, as United States senator from New York from 2001 to 2009, and as First Lady of the United States from 1993 to 2001. Clinton became the first woman to be nominated for president of the United States by a major political party when she won the Democratic Party nomination in 2016. She was the first woman to win the popular vote in an American presidential election, which she lost to Donald Trump.",
-      "Raised in the Chicago suburb of Park Ridge, Clinton graduated from Wellesley College in 1969, and earned a Juris Doctor from Yale Law School in 1973. After serving as a congressional legal counsel, she moved to Arkansas and married future president Bill Clinton in 1975; the two had met at Yale. In 1977, she co-founded Arkansas Advocates for Children and Families. She was appointed the first female chair of the Legal Services Corporation in 1978, and became the first female partner at Little Rock's Rose Law Firm the following year. Clinton was the first lady of Arkansas from 1979 to 1981 and again from 1983 to 1992."
+      "Robert Joseph Dole is an American retired politician, statesman, and attorney who represented Kansas in the U.S House of Representatives from 1961 to 1969 and in the U.S. Senate from 1969 to 1996, serving as the Republican Leader of the United States Senate from 1985 until 1996. He was the Republican presidential nominee in the 1996 presidential election and the party's vice presidential nominee in the 1976 presidential election.",
+      "Born in Russell, Kansas, Dole established a legal career in Russell after serving with distinction in the United States Army during World War II. After a stint as Russell County Attorney, he won election to the House of Representatives in 1960. In 1968, Dole was elected to the Senate, where he served as Chairman of the Republican National Committee from 1971 to 1973 and Chairman of the Senate Finance Committee from 1981 to 1985. He led the Senate Republicans from 1985 to his resignation in 1996, and served as Senate Majority Leader from 1985 to 1987 and from 1995 to 1996. In his role as Republican leader, he helped defeat President Bill Clinton's health care plan."
     ],
-    "quote": "“What we have to do... is to find a way to celebrate our diversity and debate our differences without fracturing our communities.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Hillary_Clinton",
-    "urlGoogle": "https://artsandculture.google.com/entity/hillary-clinton/m0d06m5"
+    "quote": "“If something happened along the route and you had to leave your children with Bob Dole or Bill Clinton, I think you would probably leave them with Bob Dole.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Bob_Dole",
+    "urlGoogle": "https://artsandculture.google.com/entity/bob-dole/m0fhkx"
   },
   "place": {
-    "id": "portugal",
-    "name": "Portugal",
-    "mainImg": "img/places/portugal.jpg",
+    "id": "oslo",
+    "name": "Oslo",
+    "mainImg": "img/places/oslo.jpg",
     "summary": [
-      "Portugal, officially the Portuguese Republic, is a country located mostly on the Iberian Peninsula, in southwestern Europe. It is the westernmost sovereign state of mainland Europe, being bordered to the west and south by the Atlantic Ocean and to the north and east by Spain. Its territory also includes the Atlantic archipelagos of the Azores and Madeira, both autonomous regions with their own regional governments. The official and national language is Portuguese.",
-      "Portugal is the oldest nation state on the Iberian Peninsula and one of the oldest in Europe, its territory having been continuously settled, invaded and fought over since prehistoric times. The pre-Celtic people, Celts and Romans were followed by the invasions of the Suebi and Visigothic Germanic peoples. After the Muslim conquest of the Iberian Peninsula, most of its territory was part of Al-Andalus. Portugal as a country was established during the early Christian Reconquista. Founded in 868, the County of Portugal gained prominence after the Battle of São Mamede. The Kingdom of Portugal was later proclaimed following the Battle of Ourique, and independence from León was recognised by the Treaty of Zamora."
+      "Oslo is the capital and most populous city of Norway. It constitutes both a county and a municipality. During the Viking Age the area was part of Viken, the northernmost Danish province. Oslo was founded as a city at the end of the Viking Age in the year 1040 under the name Ánslo, and established as a kaupstad or trading place in 1048 by Harald Hardrada. The city was elevated to a bishopric in 1070 and a capital under Haakon V of Norway around 1300. Personal unions with Denmark from 1397 to 1523 and again from 1536 to 1814 reduced its influence. After being destroyed by a fire in 1624, during the reign of King Christian IV, a new city was built closer to Akershus Fortress and named Christiania in the king's honour. It was established as a municipality on 1 January 1838. The city functioned as the capital of Norway during the 1814–1905 union between Sweden and Norway. From 1877, the city's name was spelled Kristiania in government usage, a spelling that was adopted by the municipal authorities only in 1897. In 1925 the city, after incorporating the village retaining its former name, was renamed Oslo."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Portugal",
-    "urlGoogle": "https://artsandculture.google.com/entity/portugal/m05r4w"
-  },
-  "quote": {
-    "id": "128",
-    "quote": "A mind that is stretched by a new experience can never go back to its old dimensions.",
-    "author": "Oliver Wendell Holmes"
+    "urlWiki": "https://en.wikipedia.org/wiki/Oslo",
+    "urlGoogle": "https://artsandculture.google.com/entity/oslo/m05l64"
   },
   "wiki": {
-    "id": "grover-cleveland",
-    "name": "Grover Cleveland",
-    "summary": "Grover Cleveland (1837–1908) was both the 22nd and 24th President of the United States. Cleveland is the only President to serve two non-consecutive terms (1885–1889 and 1893–1897) and therefore is the only individual to be counted twice in the numbering of the presidents. He was the winner of the popular vote for President three times—in 1884, 1888, and 1892—and was the only Democrat elected to the Presidency in the era of Republican political domination that lasted from 1860 to 1912. Cleveland's admirers praise him for his honesty, independence, integrity, and commitment to the principles of classical liberalism. As a leader of the Bourbon Democrats, he opposed imperialism, taxes, subsidies and inflationary policies, but as a reformer he also worked against corruption, patronage, and bossism. Critics complained that he had little imagination and seemed overwhelmed by the nation's economic disasters—depressions and strikes—in his second term. Even so, his reputation for honesty and good character survived the troubles of his second term.",
-    "url": "https://en.wikipedia.org/wiki/Grover_Cleveland"
+    "id": "boulonnais-horse",
+    "name": "Boulonnais horse",
+    "summary": "The Boulonnais is a heavy draft horse breed from France. It is known for its large but elegant appearance and is usually gray, although chestnut and black are also allowed by the French breed registry. Its origins trace to a period before the Crusades; Spanish Barb, Arabian and Andalusian blood were added during the 17th century to create the modern type. Originally there were several sub-types, but they were crossbred until only one is seen today. The smallest type was used to pull carts of fresh fish from Boulogne to Paris, while the larger varieties performed heavy draft work on farms and in the cities. During the early 1900s, the Boulonnais were exported in large numbers to the United States. Wars in the 20th century nearly led to the breed's extinction, but it revived in France in the 1970s as a popular choice for horse meat. From an estimated population of over 600,000 in the early 1900s, there are thought to be fewer than 1,000 Boulonnais presently in Europe, mostly in France. Studies as early as 1983 indicated a danger of inbreeding within the Boulonnais population, and a 2009 report suggested that the breed should be a priority for conservation within France.",
+    "url": "https://en.wikipedia.org/wiki/Boulonnais_horse"
   },
   "word": {
-    "id": "eclogue",
-    "word": "eclogue",
-    "url": "https://www.merriam-webster.com/dictionary/eclogue",
-    "partOfSpeech": "noun",
-    "pronunciation": "ECK-log",
-    "audioPath": "audio/words/eclogue.mp3",
-    "definitions": ["a poem in which shepherds converse"],
-    "examples": [
-      "\"Be it in the appropriation of the goatherd or shepherd in the pastoral eclogue, or the neatly controlled terraces of the Georgics, the pastoral has always been an idyllicised representation of the rural world....\" (John Kinsella, _The Literary Review_, January 2005)"
+    "id": "carminative",
+    "word": "carminative",
+    "url": "https://www.merriam-webster.com/dictionary/carminative",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kahr-MIN-uh-tive",
+    "audioPath": "audio/words/carminative.mp3",
+    "definitions": [
+      "expelling gas from the stomach or intestines so as to relieve flatulence or abdominal pain or distension"
     ],
-    "origin": "Although the eclogue first appeared in the _Idylls_ of the Greek poet Theocritus, it was the 10 _Eclogues_ (or _Bucolics_) of the Roman poet Virgil that gave us the word \"eclogue.\" (The Latin title \"Eclogae\" literally meant \"selections.\") The eclogue was popular in the Renaissance and through the 17th century, when less formal eclogues were written. As our example sentence suggests, the eclogue traditionally depicted rural life as free from the complexity and corruption of more citified realms. The poets of the Romantic period rebelled against the artificiality of the older pastoral, and the eclogue fell out of favor. In more modern times, though, the term \"eclogue\" has been applied to pastoral poems involving the conversations of people other than shepherds, often with heavy doses of irony."
+    "examples": [
+      "Fennel is a _carminative_ herb that helps alleviate gas after a spicy meal.",
+      "\"Cumin seeds contain numerous phyto-chemicals that are known to have antioxidant, _carminative_ and anti-flatulent properties, and are also an excellent source of dietary fibre.\" - From an article in _Facts For You_, May 5, 2012"
+    ],
+    "origin": "In times gone by, human personalities were believed to be controlled by four humors: blood, phlegm, choler (yellow bile), and melancholy (black vile). Though this belief was long ago discredited, its influence lingers on in the English language. When \"carminative\" came into use in the 15th-century medical field, carminative agents were thought to be effective because they influenced the humors. The word comes from Latin \"carrere,\" meaning \"to card,\" referring to the act of cleansing or disentangling. This history reflects the theory that certain humors could be \"combed out\" like knots in wool."
   }
 }

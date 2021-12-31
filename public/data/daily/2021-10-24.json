@@ -1,129 +1,127 @@
 {
   "artist": {
-    "id": "charles-conder",
-    "name": "Charles Conder",
-    "dates": "Oct 24, 1868 - Feb 9, 1909",
-    "mainImg": "img/art/artists/charles-conder.jpg",
+    "id": "giovanni-battista-salvi-da-sassoferrato",
+    "name": "Giovanni Battista Salvi da Sassoferrato",
+    "dates": "Aug 25, 1609 - Aug 8, 1685",
+    "mainImg": "img/art/artists/giovanni-battista-salvi-da-sassoferrato.jpg",
     "artworkImgs": [
       {
-        "name": "Herrick's Blossoms",
-        "path": "img/art/artworks/charles-conder-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/herrick-s-blossoms-charles-conder/RAHGGYfsEnLcrQ"
+        "name": "The Virgin in Prayer",
+        "path": "img/art/artworks/giovanni-battista-salvi-da-sassoferrato-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-in-prayer-sassoferrato/mAE4-IElM5jiyw"
       },
       {
-        "name": "A holiday at Mentone",
-        "path": "img/art/artworks/charles-conder-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/a-holiday-at-mentone-charles-conder/kwH-IKukyhVa1w"
+        "name": "La Virgen, quien adora al Niño dormido",
+        "path": "img/art/artworks/giovanni-battista-salvi-da-sassoferrato-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/la-virgen-quien-adora-al-niño-dormido-giovanni-battista-salvi-il-sassoferrato/JQFB21eSCpRupQ"
       },
       {
-        "name": "Departure of the Orient - Circular Quay",
-        "path": "img/art/artworks/charles-conder-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/departure-of-the-orient-circular-quay-charles-conder/vgHkqByaSPvY-g"
+        "name": "Madonna and Child",
+        "path": "img/art/artworks/giovanni-battista-salvi-da-sassoferrato-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-sassoferrato-giovanni-battista-salvi/WAFtiJGWVlatng"
       },
       {
-        "name": "Impressionists' camp",
-        "path": "img/art/artworks/charles-conder-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/impressionists-camp-charles-conder/YgEijuLq2IlP_A"
+        "name": "Studies of Two Flying Putti and of Drapery (recto); Seated Virgin and Child, and Kneeling Child (verso)",
+        "path": "img/art/artworks/giovanni-battista-salvi-da-sassoferrato-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/studies-of-two-flying-putti-and-of-drapery-recto-seated-virgin-and-child-and-kneeling-child-verso-sassoferrato-giovanni-battista-salvi/BAGYuoBqROa0dA"
       },
       {
-        "name": "The hot sands, Mustapha, Algiers",
-        "path": "img/art/artworks/charles-conder-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-hot-sands-mustapha-algiers-charles-conder/MQFAOEK3LhCiNQ"
+        "name": "Virgin and Child with St. John",
+        "path": "img/art/artworks/giovanni-battista-salvi-da-sassoferrato-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/virgin-and-child-with-st-john-giovan-battista-salvi-known-as-sassoferrato/tgEINV9p9b534Q"
       },
       {
-        "name": "How we lost poor Flossie",
-        "path": "img/art/artworks/charles-conder-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/how-we-lost-poor-flossie-charles-conder/5wH4Ez-atfjheg"
+        "name": "Madonna and Child",
+        "path": "img/art/artworks/giovanni-battista-salvi-da-sassoferrato-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-sassoferrato-italian-1609-1685/YgFhfUyW1Q680w"
       }
     ],
     "summary": [
-      "Charles Edward Conder was an English-born painter, lithographer and designer. He emigrated to Australia and was a key figure in the Heidelberg School, arguably the beginning of a distinctively Australian tradition in Western art."
+      "Giovanni Battista Salvi da Sassoferrato, also known as Giovanni Battista Salvi, was an Italian Baroque painter, known for his archaizing commitment to Raphael's style. He is often referred to only by the town of his birthplace, as was customary in his time, and for example seen with da Vinci and Caravaggio."
     ],
     "quote": null,
-    "movements": ["Modern art", "Heidelberg School", "Impressionism"],
-    "mediums": ["Oil paint", "Cardboard", "Silk", "Textile", "Watercolor painting", "Tin"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Charles_Conder",
-    "urlGoogle": "https://artsandculture.google.com/entity/charles-conder/m03n1fq"
+    "movements": ["Baroque"],
+    "mediums": ["Drawing", "Oil paint", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giovanni_Battista_Salvi_da_Sassoferrato",
+    "urlGoogle": "https://artsandculture.google.com/entity/giovanni-battista-salvi-da-sassoferrato/m04zl6z"
   },
   "event": {
-    "id": "hurricane-matthew",
-    "name": "Hurricane Matthew",
-    "dates": "Sep 28, 2016 - Oct 10, 2016",
-    "mainImg": "img/events/hurricane-matthew.jpg",
+    "id": "american-revolution",
+    "name": "American Revolution",
+    "dates": "1775 - 1783",
+    "mainImg": "img/events/american-revolution.jpg",
     "summary": [
-      "Hurricane Matthew was the first Category 5 Atlantic hurricane since Felix in 2007. Matthew caused catastrophic damage and a humanitarian crisis in Haiti, as well as widespread devastation in the southeastern United States. The deadliest Atlantic hurricane since Hurricane Stan in 2005, Matthew was the thirteenth named storm, fifth hurricane and second major hurricane of the 2016 Atlantic hurricane season. It caused extensive damage to landmasses in the Greater Antilles, and severe damage in several islands of the Bahamas who were still recovering from Joaquin which had pounded such areas nearly a year earlier. At one point, the hurricane even threatened to be the first storm of Category 3 or higher intensity to strike the United States since Wilma in 2005, but Matthew stayed just offshore paralleling the Florida coastline.",
-      "Originating from a tropical wave that emerged off Africa on September 22, Matthew developed into a tropical storm just east of the Lesser Antilles on September 28."
+      "The American Revolution was a colonial revolt which occurred between 1765 and 1783. The American Patriots in the Thirteen Colonies defeated the British in the American Revolutionary War with the assistance of France, winning independence from Great Britain and establishing the United States of America.",
+      "The American colonials proclaimed \"no taxation without representation\" starting with the Stamp Act Congress in 1765. They had no representatives in the British Parliament and so rejected Parliament's authority to tax them. Protests steadily escalated to the Boston Massacre in 1770 and the burning of the Gaspee in Rhode Island in 1772, followed by the Boston Tea Party in December 1773. The British responded by closing Boston Harbor and enacting a series of punitive laws which effectively rescinded Massachusetts Bay Colony's rights of self-government. The other colonies rallied behind Massachusetts, and a group of American Patriot leaders set up their own government in late 1774 at the Continental Congress to coordinate their resistance of Britain; other colonists retained their allegiance to the Crown and were known as Loyalists or Tories."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Hurricane_Matthew",
-    "urlGoogle": "https://artsandculture.google.com/entity/hurricane-matthew/g11c1tb2d22"
+    "urlWiki": "https://en.wikipedia.org/wiki/American_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/american-revolution/m0vsn"
   },
   "funFacts": [
     {
-      "id": "795",
-      "fact": "Hawaii is moving toward Japan at the rate of almost 4 inches per year.",
-      "category": ["Geography"]
+      "id": "394",
+      "fact": "Nearly 9,000 people injure themselves with a toothpick each year.",
+      "category": ["Habits"]
     },
     {
-      "id": "675",
-      "fact": "More than 180 countries celebrate Earth Day together every April 22nd.",
-      "category": ["Hodgepodge"]
+      "id": "936",
+      "fact": "A day on Venus lasts longer than a year on Venus.",
+      "category": ["Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554091",
-      "fact": "Great white sharks rarely survive in captivity. Experts suspect the electricity in buildings interferes with the animals' electrosensory systems—though that hasn't stopped some aquariums from trying, and failing, to display them."
+      "id": "506911",
+      "fact": "Redondo Beach, California adopted the Goodyear Blimp as the city's official bird in 1983."
     }
   ],
-  "idiom": {
-    "id": "let-the-cat-out-of-the-bag",
-    "term": "let the cat out of the bag",
-    "definition": "Give away a secret, as in *Mom let the cat out of the bag and told us Karen was engaged.* This expression alludes to the dishonest practice of a merchant substituting a worthless cat for a valuable pig, which is discovered only when the buyer gets home and opens the bag. [Mid-1700s]"
-  },
   "person": {
-    "id": "toyotomi-hideyoshi",
-    "name": "Toyotomi Hideyoshi",
-    "dates": "Mar 17, 1537 - Sep 18, 1598",
-    "mainImg": "img/people/toyotomi-hideyoshi.jpg",
+    "id": "pierre-lagaillarde",
+    "name": "Pierre Lagaillarde",
+    "dates": "May 15, 1931 - Aug 17, 2014",
+    "mainImg": "img/people/pierre-lagaillarde.jpg",
     "summary": [
-      "Toyotomi Hideyoshi was a Japanese daimyō and politician of the late Sengoku period regarded as the second \"Great Unifier\" of Japan.",
-      "Hideyoshi rose from a peasant background as a retainer of the prominent lord Oda Nobunaga to become one of the most powerful men in Japan. Hideyoshi succeeded Nobunaga after the Honnō-ji Incident in 1582 and continued Nobunaga's campaign to unite Japan that led to the closing of the Sengoku period. Hideyoshi became the de facto leader of Japan and acquired the prestigious positions of Chancellor of the Realm and Imperial Regent by the mid-1580s. Hideyoshi launched the Japanese invasions of Korea in 1592 to initial success, but eventual military stalemate damaged his prestige before his death in 1598. Hideyoshi's young son and successor Toyotomi Hideyori was displaced by Tokugawa Ieyasu at the Battle of Sekigahara in 1600 which would lead to the founding of the Tokugawa Shogunate.",
-      "Hideyoshi's rule covers most of the Azuchi–Momoyama period of Japan, partially named after his castle, Momoyama Castle."
-    ],
-    "quote": "“Luck influences everything in life, but nothing beats setting goals and striving body and soul to achieve them.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi",
-    "urlGoogle": "https://artsandculture.google.com/entity/toyotomi-hideyoshi/m07nws"
-  },
-  "place": {
-    "id": "torun",
-    "name": "Torun",
-    "mainImg": "img/places/torun.jpg",
-    "summary": [
-      "Toruń is a historical city on the Vistula River in north-central Poland, and a UNESCO World Heritage Site. Its population was 202,074, as of December 2018. Previously, it was the capital of the Toruń Voivodeship and the Pomeranian Voivodeship. Since 1999, Toruń has been a seat of the self-government of the Kuyavian-Pomeranian Voivodeship and, as such, is one of its two capitals, together with Bydgoszcz. The cities and neighboring counties form the Bydgoszcz–Toruń twin city metropolitan area.",
-      "Toruń is one of the oldest cities in Poland, with the first settlement dated back to the 8th century and later having been expanded in 1233 by the Teutonic Knights. Over centuries, it was the home for people of diverse backgrounds and religions. From 1264 until 1411 Toruń was part of the Hanseatic League and by the 17th century it was one of the elite trading points, which greatly affected the city's architecture ranging from Brick Gothic to Mannerism and Baroque. In the early-modern age, Toruń was a royal city of Poland and it was one of the four largest cities in the country at the time. After the partitions of Poland it was part of Prussia and later the German Empire."
+      "Pierre Lagaillarde was a French politician, and a founder of the Organisation armée secrète.",
+      "Lagaillarde was a lawyer at Blida in Algeria, a reserve officer of the paratroopers, and an elected deputy of Algiers. He took the presidency of the Association générale des étudiants d'Alger in 1957, and also took part in the Alger insurrection of May 1958, which brought Charles de Gaulle back to power. Lagaillarde was member of the Comité de salut public which opposed Algerian independence, and occupied the Gouvernement général de l'Algérie. In November 1958, he was on the electoral list Algérie française, and then became a leader of the insurrection during the week of the barricades in January 1960.",
+      "Lagaillarde was then detained in la Santé in Paris, and took advantage of his parole to escape to Spain, where he joined Raoul Salan and founded the Organisation armée secrète on 3 December 1960. Deprived of his immunity as a deputy, he was sentenced in absentia to ten years of prison in March 1961.",
+      "In October 1961 he was arrested in Madrid, along with the Italian neofascist Guido Giannettini. Franco then exiled him to the Canary Islands."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Toru%C5%84",
-    "urlGoogle": "https://artsandculture.google.com/entity/torun/m07pg7"
+    "urlWiki": "https://en.wikipedia.org/wiki/Pierre_Lagaillarde",
+    "urlGoogle": "https://artsandculture.google.com/entity/pierre-lagaillarde/m0fhlzf"
+  },
+  "place": {
+    "id": "timor-leste",
+    "name": "Timor-Leste",
+    "mainImg": "img/places/timor-leste.jpg",
+    "summary": [
+      "East Timor or Timor-Leste, officially the Democratic Republic of Timor-Leste, is an island country in Southeast Asia. It comprises the eastern half of the island of Timor, the nearby islands of Atauro and Jaco, and Oecusse, an exclave on the northwestern side of the island surrounded by Indonesian West Timor. Australia is the country's southern neighbour, separated by the Timor Sea. The country's size is about 15,007 km².",
+      "East Timor was colonised by Portugal in the 16th century, and was known as Portuguese Timor until 28 November 1975, when the Revolutionary Front for an Independent East Timor declared the territory's independence. Nine days later, it was invaded and occupied by the Indonesian military, and was declared as the country's 27th province the following year. The Indonesian occupation of East Timor was characterised by a highly violent, decades-long conflict between separatist groups and the Indonesian military.",
+      "In 1999, following the United Nations-sponsored act of self-determination, Indonesia relinquished control of the territory."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/East_Timor",
+    "urlGoogle": "https://artsandculture.google.com/entity/timor-leste/m02lx0"
   },
   "wiki": {
-    "id": "wilco",
-    "name": "Wilco",
-    "summary": "Wilco is an American rock band based in Chicago, Illinois. The band was formed in 1993 by the remaining members of alternative country group Uncle Tupelo following singer Jay Farrar's departure from that group. Wilco's lineup has changed frequently, with only singer Jeff Tweedy and bassist John Stirratt remaining from the original incarnation. The other current members are guitarist Nels Cline, multi-instrumentalists Pat Sansone and Mikael Jorgensen, and drummer Glenn Kotche. Wilco has released six studio albums, a live double album, and three collaborations: two with Billy Bragg, and one with The Minus 5. Wilco's music has been inspired by a wide variety of artists and styles, including Bill Fay and Television, and has in turn influenced music by The National and Cherry Ghost. The band continued in the alternative country of Uncle Tupelo on its debut album A.M. (1995), but has since introduced more experimental aspects to their music. Wilco won two Grammy Awards for their fifth studio album, 2004's A Ghost Is Born, including Best Alternative Music Album.",
-    "url": "https://en.wikipedia.org/wiki/Wilco"
+    "id": "jake-gyllenhaal",
+    "name": "Jake Gyllenhaal",
+    "summary": "Jake Gyllenhaal is an American actor. The son of director Stephen Gyllenhaal and screenwriter Naomi Foner, Gyllenhaal began acting at age eleven, and his career has seen performances in diverse roles. Gyllenhaal's first major film appearance was in 2001's cult hit Donnie Darko, in which he played a teenager troubled by psychological problems. In the 2004 blockbuster The Day After Tomorrow, he portrayed a student caught in a cataclysmic global cooling event alongside Dennis Quaid. He then played against type as a frustrated Marine in Jarhead (2005) and, that same year, won critical acclaim as a \"gay cowboy\" in the controversial but highly lauded film, Brokeback Mountain. Gyllenhaal has taken an activist role in supporting various political and social causes. He appeared in Rock the Vote advertising, campaigned for the Democratic Party in the 2004 election, and has promoted environmental causes and the American Civil Liberties Union.",
+    "url": "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
   },
   "word": {
-    "id": "lout",
-    "word": "lout",
-    "url": "https://www.merriam-webster.com/dictionary/lout",
+    "id": "preterit",
+    "word": "preterit",
+    "url": "https://www.merriam-webster.com/dictionary/preterit",
     "partOfSpeech": "noun",
-    "pronunciation": "LOUT",
-    "audioPath": "audio/words/lout.mp3",
-    "definitions": ["an awkward brutish person"],
+    "pronunciation": "PRET-uh-rut",
+    "audioPath": "audio/words/preterit.mp3",
+    "definitions": ["past tense"],
     "examples": [
-      "Because the three louts behind him in the movie theater were being loud and obnoxious, Jonah decided to move to another seat."
+      "While the past tense form of \"sneak\" is traditionally \"sneaked,\" the alternate _preterit_ \"snuck\" is increasingly common.",
+      "\"The next chapter introduces Elwin Cross Jr., a professor of linguistics at Marasmus State College…. He's in his 50s, directionless, nearing a point in his life when 'what is becomes what was and all the other verbs defining your existence go slumping into the _preterite_….'\" - From a review of Jonathan Miles' _Want Not_ by Dave Eggers in the _New York Times_, November 10, 2013"
     ],
-    "origin": "\"Lout\" belongs to the large group of words we use to indicate an undesirable person, a boor, a bumpkin, a dolt, a clod. We've used \"lout\" in this way since the mid-1500s. As early as the 800s, however, \"lout\" functioned as a verb with the meaning \"to bow in respect.\" No one is quite sure how the verb sense developed into a noun meaning \"a brutish person.\" Perhaps the awkward posture of one bowing down led over time to the idea that the person was personally low and awkward as well."
+    "origin": "The original form of today's word, which dates to Middle English, has no final \"e,\" but \"preterite,\" as it appears in our second example, is another accepted styling of the word. Like many technical linguistic terms, \"preterit\" is ultimately Latin in origin: it comes from \"praeter,\" meaning \"beyond, past, by.\" (This meaning is also apparent in the now-archaic adjectival use of \"preterit\" to mean \"bygone\" or \"former.\") Another word from \"praeter\" is \"preternatural,\" from the Latin phrase \"praeter naturam,\" meaning \"beyond nature.\" That word is typically used to describe what is so unusual or extraordinary as to seem outside of what can be accounted for by nature."
   }
 }

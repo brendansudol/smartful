@@ -1,132 +1,130 @@
 {
   "artist": {
-    "id": "carlo-crivelli",
-    "name": "Carlo Crivelli",
-    "dates": "1430 - 1495",
-    "mainImg": "img/art/artists/carlo-crivelli.jpg",
+    "id": "hans-arp",
+    "name": "Hans Arp",
+    "dates": "Sep 16, 1886 - Jun 7, 1966",
+    "mainImg": "img/art/artists/hans-arp.jpg",
     "artworkImgs": [
       {
-        "name": "Saint George Slaying the Dragon",
-        "path": "img/art/artworks/carlo-crivelli-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-george-slaying-the-dragon-carlo-crivelli/RQFvUUwFQSQxCw"
+        "name": "Collage Géométrique",
+        "path": "img/art/artworks/hans-arp-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/collage-géométrique-jean-hans-arp/pQE18ISuL6Ub6w"
       },
       {
-        "name": "Madonna and Child",
-        "path": "img/art/artworks/carlo-crivelli-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/madonna-and-child-carlo-crivelli/sgHUJep8j7gXwA"
+        "name": "Coppa chimerica",
+        "path": "img/art/artworks/hans-arp-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/coppa-chimerica-hans-arp/AAEWQy-Wld0gFQ"
       },
       {
-        "name": "St. Augustine",
-        "path": "img/art/artworks/carlo-crivelli-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/st-augustine/kQHrK8lr0kZGcg"
+        "name": "Sculpture de Silence, Corneille",
+        "path": "img/art/artworks/hans-arp-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/sculpture-de-silence-corneille-hans-jean-arp/xAHtg7ioc7suzg"
       },
       {
-        "name": "Saint Michael",
-        "path": "img/art/artworks/carlo-crivelli-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-michael-carlo-crivelli/7gGddwqJ0r6b6A"
+        "name": "Poupée Basset",
+        "path": "img/art/artworks/hans-arp-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/poupée-basset-jean-arp/GwHdjPyBj0oKTQ"
       },
       {
-        "name": "Madonna and Child Enthroned",
-        "path": "img/art/artworks/carlo-crivelli-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/madonna-and-child-enthroned-carlo-crivelli/QAG2HbiIalmj0Q"
+        "name": "Alou with Talons",
+        "path": "img/art/artworks/hans-arp-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/alou-with-talons-jean-arp/-AFsQAPYShLcBA"
       },
       {
-        "name": "Mary Magdalene",
-        "path": "img/art/artworks/carlo-crivelli-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/mary-magdalene-carlo-crivelli/uAGlLJ4uHHtv7w"
+        "name": "L'idole des lapins",
+        "path": "img/art/artworks/hans-arp-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/l-idole-des-lapins-hans-arp/bAGiT7BBkVAPxA"
       }
     ],
     "summary": [
-      "Carlo Crivelli was an Italian Renaissance painter of conservative Late Gothic decorative sensibility, who spent his early years in the Veneto, where he absorbed influences from the Vivarini, Squarcione and Mantegna. He left the Veneto by 1458 and spent most of the remainder of his career in the March of Ancona, where he developed a distinctive personal style that contrasts with that of his Venetian contemporary Giovanni Bellini."
+      "Hans Peter Wilhelm Arp, better known as Jean Arp in English, was a German-French sculptor, painter, and poet, and worked in other media such as torn and pasted paper. He was known as Dadaist and abstract artist."
     ],
-    "quote": null,
-    "movements": ["Renaissance", "Gothic art", "Italian Renaissance"],
-    "mediums": ["Tempera", "Metal", "Gold", "Wood", "Plaster", "Tin"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Carlo_Crivelli",
-    "urlGoogle": "https://artsandculture.google.com/entity/carlo-crivelli/m03kbd5"
+    "quote": "“Art is a fruit that grows in man, like a fruit on a plant, or a child in its mother's womb.”",
+    "movements": ["Modern art", "Surrealism", "Dada", "Abstract art", "Biomorphism"],
+    "mediums": ["Sculpture", "Rock", "Photographic paper", "Oil paint", "Limestone", "Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean_Arp",
+    "urlGoogle": "https://artsandculture.google.com/entity/hans-arp/m013y97"
   },
   "event": {
-    "id": "indo-pakistani-war-of-1971",
-    "name": "Indo-Pakistani War of 1971",
-    "dates": "Dec 3, 1971 - Dec 16, 1971",
-    "mainImg": "img/events/indo-pakistani-war-of-1971.jpg",
+    "id": "potsdam-conference",
+    "name": "Potsdam Conference",
+    "dates": "Jul 17, 1945 - Aug 2, 1945",
+    "mainImg": "img/events/potsdam-conference.jpg",
     "summary": [
-      "The Indo-Pakistani War of 1971 was a military confrontation between India and Pakistan that occurred during the liberation war in East Pakistan from 3 December 1971 to the fall of Dacca on 16 December 1971. The war began with preemptive aerial strikes on 11 Indian air stations, which led to the commencement of hostilities with Pakistan and Indian entry into the war of independence in East Pakistan on the side of Bengali nationalist forces. Lasting just 13 days, it is one of the shortest wars in history.",
-      "During the war, Indian and Pakistani militaries simultaneously clashed on the eastern and western fronts; the war ended after the Eastern Command of the Pakistan military signed the Instrument of Surrender on 16 December 1971 in Dhaka, marking the formation of East Pakistan as the new nation of Bangladesh. Officially, East Pakistan had earlier called for its secession from the unity of Pakistan on 26 March 1971. Approximately 90,000 to 93,000 Pakistani servicemen were taken prisoner by the Indian Army, which included 79,676 to 81,000 uniformed personnel of the Pakistan Armed Forces, including some Bengali soldiers who had remained loyal to Pakistan."
+      "The Potsdam Conference was held in Potsdam, Germany, from 17 July to 2 August 1945. The participants were the Soviet Union, the United Kingdom, and the United States, represented respectively by Premier Joseph Stalin, Prime Ministers Winston Churchill and Clement Attlee, and President Harry S. Truman.",
+      "They gathered to decide how to administer Germany, which had agreed to unconditional surrender nine weeks earlier on the 8th of May. The goals of the conference also included the establishment of postwar order, peace treaty issues, and countering the effects of the war.",
+      "Additionally, the Foreign Secretaries of the three Governments, James F. Byrnes, V. M. Molotov, and Anthony Eden, the Chief of Staff, with other advisers also participated in the Conference. From July 17 to July 25 there were held nine meetings. After that, the Conference was interrupted for two days, as the results of the British general election were being announced."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1971",
-    "urlGoogle": "https://artsandculture.google.com/entity/indo-pakistani-war-of-1971/m02cnqk"
+    "urlWiki": "https://en.wikipedia.org/wiki/Potsdam_Conference",
+    "urlGoogle": "https://artsandculture.google.com/entity/potsdam-conference/m0624y"
   },
   "funFacts": [
     {
-      "id": "757",
-      "fact": "There are approximately 7,000 feathers on an eagle.",
-      "category": ["Animals"]
+      "id": "724",
+      "fact": "A pineapple is neither an apple or a pine. It is, in fact, a large berry.",
+      "category": ["Food"]
     },
-    {
-      "id": "59",
-      "fact": "Brain waves can be used to power an electric train.",
-      "category": ["Anatomy", "Science"]
-    }
+    { "id": "811", "fact": "The dots on a domino are called pips.", "category": ["Definitions"] }
   ],
   "funFacts2": [
     {
-      "id": "506908",
-      "fact": "Wendy's founder Dave Thomas dropped out of high school but picked up his GED in 1993. His GED class voted him Most Likely to Succeed."
+      "id": "553822",
+      "fact": "In the late 19th century, Beatrix Potter kept a journal in a secret code so complex it wasn't cracked until 1958."
     }
   ],
   "idiom": {
-    "id": "hide-ones-light-under-a-bushel",
-    "term": "hide one's light under a bushel",
-    "definition": "Show extreme modesty, as in *Even after Paul won the scholarship he went on hiding his light under a bushel.* This expression, which does not necessarily express approval of this behavior, has its origin in the New Testament (Matthew 5:15): \"Neither do men light a candle, and put it under a bushel, but on a candlestick.\" [Early 1600s]"
+    "id": "wet-behind-the-ears",
+    "term": "wet behind the ears",
+    "definition": "Also, **not dry behind the ears.** Immature, inexperienced, as in *How can you take instructions from Tom? He's still wet behind the ears,* or *Jane's not dry behind the ears yet.* This term alludes to the fact that the last place to dry in a newborn colt or calf is the indentation behind its ears. [Early 1900s]"
   },
   "person": {
-    "id": "jugurtha",
-    "name": "Jugurtha",
-    "dates": "Died 103 BC",
-    "mainImg": "img/people/jugurtha.jpg",
+    "id": "hans-georg-von-friedeburg",
+    "name": "Hans-Georg von Friedeburg",
+    "dates": "Jul 15, 1895 - May 23, 1945",
+    "mainImg": "img/people/hans-georg-von-friedeburg.jpg",
     "summary": [
-      "Jugurtha or Jugurthen was a king of Numidia, born in Cirta. When the Numidian king Micipsa, who had adopted Jugurtha, died in 118 BCE, Jugurtha and his two adoptive brothers, Hiempsal and Adherbal, succeeded him. Jugurtha arranged to have Hiempsal killed and, after a civil war, defeated and killed Adherbal in 112 BCE. The death of Adherbal, which was against the wishes of Rome, along with the growing popular anger in Rome at Jugurtha's success in bribing Roman senators, led to the Jugurthine War between Rome and Numidia which, after a number of battles in Numidia between Roman and Numidian forces, eventually led to Jugurtha's capture in 106 BCE and his being paraded through Rome as part of Gaius Marius' Roman triumph. He was then thrown into the Tullianum prison where he died of starvation in 104 BCE. He was survived by his son, Oxyntas."
+      "Hans-Georg von Friedeburg was a German admiral, the deputy commander of the U-boat Forces of Nazi Germany and the second-to-last Commander-in-Chief of the Kriegsmarine. He was the only representative of the armed forces to be present at the signing of the German instruments of surrender in Luneburg Heath on 4 May 1945, in Reims on 7 May and in Berlin on 8 May 1945. Generaladmiral von Friedeburg committed suicide shortly afterwards, upon the dissolution of the Flensburg Government."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Jugurtha",
-    "urlGoogle": "https://artsandculture.google.com/entity/jugurtha/m014qhh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Hans-Georg_von_Friedeburg",
+    "urlGoogle": "https://artsandculture.google.com/entity/hans-georg-von-friedeburg/m069lf6"
   },
   "place": {
-    "id": "bulgaria",
-    "name": "Bulgaria",
-    "mainImg": "img/places/bulgaria.jpg",
+    "id": "liverpool",
+    "name": "Liverpool",
+    "mainImg": "img/places/liverpool.jpg",
     "summary": [
-      "Bulgaria, officially the Republic of Bulgaria, is a country in Southeastern Europe. It is bordered by Romania to the north, Serbia and North Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. The capital and largest city is Sofia; other major cities are Plovdiv, Varna and Burgas. With a territory of 110,994 square kilometres, Bulgaria is Europe's sixteenth-largest country.",
-      "One of the earliest societies in the lands of modern-day Bulgaria was the Neolithic Karanovo culture, which dates back to 6,500 BC. In the 6th to 3rd century BC the region was a battleground for ancient Thracians, Persians, Celts and Macedonians; stability came when the Roman Empire conquered the region in AD 45. The Eastern Roman Empire lost some of these territories to Slavic and then Turkic Bulgar invaders in the late 7th century. The Bulgars founded the First Bulgarian Empire in AD 681, which dominated most of the Balkans and significantly influenced Slavic cultures by developing the Cyrillic script. This state lasted until the early 11th century, when Byzantine emperor Basil II conquered and dismantled it."
+      "Liverpool is a city and metropolitan borough in Merseyside, England. The population in 2019 was approximately 498,042. Liverpool is the ninth-largest English district by population, and the largest in Merseyside and the surrounding region. It lies within the UK's sixth-most populous urban area, and its metropolitan area is the fifth-largest in the UK with a population of 2.24 million.",
+      "Liverpool is on the eastern side of the Mersey Estuary and historically lay within the ancient hundred of West Derby in North West England's county of Lancashire. It became a borough in 1207 and a city in 1880. In 1889, it became a county borough independent of Lancashire. Its growth as a major port was paralleled by the expansion of the city throughout the Industrial Revolution. Along with general cargo, freight, and raw materials such as coal and cotton, merchants were involved in the slave trade. In the 19th century, Liverpool was a major port of departure for English and Irish emigrants to North America. It was home to both the Cunard and White Star Line, and was the port of registry of the ocean liners RMS Titanic, RMS Lusitania, RMS Queen Mary, and RMS Olympic."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bulgaria",
-    "urlGoogle": "https://artsandculture.google.com/entity/bulgaria/m015qh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Liverpool",
+    "urlGoogle": "https://artsandculture.google.com/entity/liverpool/m04lh6"
   },
   "quote": {
-    "id": "91",
-    "quote": "Don't be afraid to give up the good to go for the great.",
-    "author": "John D. Rockefeller"
+    "id": "125",
+    "quote": "If you’re going through hell, keep going.",
+    "author": "Winston Churchill"
   },
   "wiki": {
-    "id": "artur-phleps",
-    "name": "Artur Phleps",
-    "summary": "Artur Phleps (1881–1944) was an Austro-Hungarian, Romanian and German officer who held the rank of SS-Obergruppenführer und General der Waffen-SS (lieutenant general) in the Waffen-SS during World War II. He was an Austro-Hungarian Army officer before and during World War I, specialising in mountain warfare and logistics. During the interwar period, he joined the Romanian Army and became an adviser to King Carol. After he spoke out against the government, he was sidelined and forcibly retired from the army. In 1941 he left Romania and joined the Waffen-SS. He saw action on the Eastern Front before raising two Waffen-SS mountain divisions and one corps in occupied Yugoslavia. Units under his command committed many crimes against the civilian population of the Independent State of Croatia. This was the subject of international controversy when Kurt Waldheim's service as Phleps' translator became public in the mid-1980s, during his successful bid for the Austrian presidency. In addition to the Knight's Cross of the Iron Cross, Phleps was awarded the German Cross in Gold, and after he was killed in September 1944, he was awarded the Oak Leaves to his Knight's Cross.",
-    "url": "https://en.wikipedia.org/wiki/Artur_Phleps"
+    "id": "kolkata",
+    "name": "Kolkata",
+    "summary": "Kolkata (formerly Calcutta) is the capital of the Indian state of West Bengal. It is located in eastern India on the east bank of the River Hooghly. The city has a population of almost 5 million, with an extended metropolitan population of over 13 million, thus making it the third-largest urban agglomeration and the fourth-largest city in India. To the south of the city is the Sundarbans delta, the world's largest mangrove forest. The city served as the capital of British India, until 1911. Once the centre of modern education, science, culture and politics in India, Kolkata witnessed economic stagnation in the years following India's independence in 1947. Since 2000 however, an economic rejuvenation has arrested the morbid decline, leading to a spurt in the city's growth. Like other large cities, Kolkata continues to struggle with urbanisation problems like poverty, pollution and traffic congestion. A vibrant city with a distinct socio-political culture, Kolkata is noted for its revolutionary history, ranging from the Indian struggle for independence to the leftist Naxalite and trade union movements.",
+    "url": "https://en.wikipedia.org/wiki/Kolkata"
   },
   "word": {
-    "id": "paucity",
-    "word": "paucity",
-    "url": "https://www.merriam-webster.com/dictionary/paucity",
-    "partOfSpeech": "noun",
-    "pronunciation": "PAW-suh-tee",
-    "audioPath": "audio/words/paucity.mp3",
-    "definitions": ["smallness of number : fewness", "smallness of quantity : dearth"],
+    "id": "tempestuous",
+    "word": "tempestuous",
+    "url": "https://www.merriam-webster.com/dictionary/tempestuous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "tem-PESS-chuh-wus",
+    "audioPath": "audio/words/tempestuous.mp3",
+    "definitions": ["of, relating to, or resembling a tempest : turbulent, stormy"],
     "examples": [
-      "The manager overheard two customers complaining about the paucity of stylish designs in the store."
+      "Because the player's relationship with his manager had grown more _tempestuous_ over the course of the season, the decision to trade him benefited everyone.",
+      "\"An East Tennessee April can be _tempestuous_ and temperamental, and in Knoxville nothing causes quite as much worry about the weather as the Dogwood Arts Festival.\" - From an article by Amy McRary in the _Knoxville News-Sentinel_, April 1, 2012"
     ],
-    "origin": "\"Paucity,\" which was first recorded in English in the 15th century, comes to us from the Middle English word \"paucite,\" and is ultimately derived from \"paucus,\" Latin for \"little.\" It is not surprising, then, that \"paucity\" came to refer to a \"littleness\" of numbers (as in \"a paucity of facts or studies\") or quantity (\"a paucity of evidence\"). One can even use paucity when speaking of abstract concepts, as in \"a paucity of experience or knowledge.\""
+    "origin": "Time is sometimes marked in seasons, and seasons are associated with the weather. This explains how \"tempus,\" the Latin word for \"time\" could have given rise to an English adjective for things turbulent and stormy. \"Tempus\" is the root behind Old Latin \"tempestus,\" meaning \"season,\" and Late Latin \"tempestuosus,\" the direct ancestor of \"tempestuous.\" As you might expect, \"tempus\" is also the root of the noun \"tempest\"; it probably played a role in the history of \"temper\" as well, but that connection isn't definite."
   }
 }

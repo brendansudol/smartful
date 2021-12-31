@@ -1,125 +1,118 @@
 {
   "artist": {
-    "id": "juan-gris",
-    "name": "Juan Gris",
-    "dates": "Mar 23, 1887 - May 11, 1927",
-    "mainImg": "img/art/artists/juan-gris.jpg",
+    "id": "yue-minjun",
+    "name": "Yue Minjun",
+    "dates": "Born 1962",
+    "mainImg": "img/art/artists/yue-minjun.jpg",
     "artworkImgs": [
       {
-        "name": "Seated Woman",
-        "path": "img/art/artworks/juan-gris-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/seated-woman-juan-gris/AQFiredc_BD3gA"
+        "name": "Jitu Land,The scenes of daily life of the Neo-Asian (Detail),Character",
+        "path": "img/art/artworks/yue-minjun-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/jitu-land-the-scenes-of-daily-life-of-the-neo-asian-detail-character-yue-min-jun/YQFz0_6z_QhHzg"
       },
       {
-        "name": "Portrait of Josette Gris",
-        "path": "img/art/artworks/juan-gris-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-josette-gris-juan-gris/HgEtxayTVN4LTg"
+        "name": "Excavated from Yuegezhuang-Government papers and reports",
+        "path": "img/art/artworks/yue-minjun-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/excavated-from-yuegezhuang-government-papers-and-reports-yue-min-jun/-QFso8X9v8lOZg"
       },
       {
-        "name": "Guitar and Newspaper",
-        "path": "img/art/artworks/juan-gris-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/guitar-and-newspaper-juan-gris/HwFLzN4HdsBQNA"
+        "name": "Free and Leisure-10",
+        "path": "img/art/artworks/yue-minjun-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/free-and-leisure-10-yue-minjun/agHe2bazFRwvIA"
       },
       {
-        "name": "The Bottle of Anís del Mono",
-        "path": "img/art/artworks/juan-gris-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-bottle-of-anís-del-mono-juan-gris/WgFtCNg9dBktbg"
+        "name": "Neo-Asian Display case",
+        "path": "img/art/artworks/yue-minjun-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/neo-asian-display-case-yue-minjun/SQGa09Y2xIt3EQ"
       },
       {
-        "name": "Guitar on a table",
-        "path": "img/art/artworks/juan-gris-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/guitar-on-a-table-juan-gris/fwGRqdPEBD7GaQ"
+        "name": "Dog-Spring Culture",
+        "path": "img/art/artworks/yue-minjun-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/dog-spring-culture-yue-min-jun/VgEgVXW-kqVmpA"
       },
       {
-        "name": "The Painter's Window",
-        "path": "img/art/artworks/juan-gris-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-painter-s-window-juan-gris/2AEA3bLCBTX4fA"
+        "name": "Excavated from Songzhuang-Ritual vessel, The expression of keeping his mouth open from ear to ear was a result of starvation for a long period.",
+        "path": "img/art/artworks/yue-minjun-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/excavated-from-songzhuang-ritual-vessel-the-expression-of-keeping-his-mouth-open-from-ear-to-ear-was-a-result-of-starvation-for-a-long-period-yue-min-jun/uwGD4aVguwWvnw"
       }
     ],
     "summary": [
-      "José Victoriano González-Pérez, better known as Juan Gris, was a Spanish painter born in Madrid who lived and worked in France most of his life. Closely connected to the innovative artistic genre Cubism, his works are among the movement's most distinctive."
-    ],
-    "quote": "“I always pet a dog with my left hand because if he bit me I'd still have my right hand to paint with.”",
-    "movements": ["Modern art", "Cubism"],
-    "mediums": ["Oil paint", "Watercolor painting", "Drawing", "Graphite", "Charcoal", "Gouache"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Juan_Gris",
-    "urlGoogle": "https://artsandculture.google.com/entity/juan-gris/m0435m"
-  },
-  "event": {
-    "id": "european-theatre-of-world-war-ii",
-    "name": "European theatre of World War II",
-    "dates": "Sep 1, 1939 - May 8, 1945",
-    "mainImg": "img/events/european-theatre-of-world-war-ii.jpg",
-    "summary": [
-      "The European theatre of World War II was an area of heavy fighting across Europe, starting with Germany's invasion of Poland on 1 September 1939 and ending with the United States, the United Kingdom and France conquering most of Western Europe, the Soviet Union conquering most of Eastern Europe and Germany's unconditional surrender on 8 May 1945. The Allied powers fought the Axis powers on two major fronts as well as in a strategic bombing offensive and in the adjoining Mediterranean and Middle East theatre."
+      "Yue Minjun is a contemporary Chinese artist based in Beijing, China. He is best known for oil paintings depicting himself in various settings, frozen in laughter. He has also reproduced this signature image in sculpture, watercolour and prints. While Yue is often classified as part of the Chinese Cynical Realist art movement developed in 1989, Yue rejects this label, but also \"doesn't concern himself about what people call him.\""
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/European_theatre_of_World_War_II",
-    "urlGoogle": "https://artsandculture.google.com/entity/european-theatre-of-world-war-ii/m01y98y"
+    "movements": ["Contemporary art"],
+    "mediums": ["Bronze", "Metal", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Yue_Minjun",
+    "urlGoogle": "https://artsandculture.google.com/entity/yue-minjun/m026s57r"
+  },
+  "event": {
+    "id": "battle-of-gembloux",
+    "name": "Battle of Gembloux",
+    "dates": null,
+    "mainImg": "img/events/battle-of-gembloux.jpg",
+    "summary": [
+      "The Battle of Gembloux took place at Gembloux, near Namur, Low Countries, between the Spanish forces led by Don John of Austria, Governor-General of the Spanish Netherlands, and a rebel army composed of Dutch, Flemish, English, Scottish, German, French and Walloon soldiers under Antoine de Goignies, during the Eighty Years' War and the Anglo-Spanish War. On 31 January 1578 the Spanish cavalry commanded by John's nephew, Don Alexander Farnese, Prince of Parma, after pushing back the Netherlandish cavalry, attacked the Netherlandish army, causing an enormous panic amongst the rebel troops. The result was a crushing victory for the Spanish forces. The battle hastened the disintegration of the unity of the rebel provinces, and meant the end of the Union of Brussels."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Gembloux_%281578%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-gembloux/m08z980"
   },
   "funFacts": [
     {
-      "id": "807",
-      "fact": "Shakespeare invented the word assassination and bump.",
-      "category": ["History"]
+      "id": "803",
+      "fact": "Antarctica is the only continent with no owls.",
+      "category": ["Geography", "Onlies"]
     },
-    {
-      "id": "250",
-      "fact": "Mongolians invented lemonade around 1299 A.D.",
-      "category": ["Food", "History"]
-    }
+    { "id": "129", "fact": "Dolphins can jump up to 20 feet in the air.", "category": ["Animals"] }
   ],
-  "funFacts2": [{ "id": "505965", "fact": "A litter of kittens is also known as a “kindle.”" }],
+  "funFacts2": [{ "id": "553283", "fact": "Viking burials included board games." }],
   "idiom": {
-    "id": "odor-of-sanctity",
-    "term": "odor of sanctity",
-    "definition": "Exaggerated or hypocritical piety, an assumption of moral superiority, as in *This candidate puts off some voters with his odor of sanctity.* This expression, originating in the medieval idea that the dead body of a saintly individual gives off a sweet smell, was used to describe saintliness in the mid-1700s. Today it is generally used ironically."
+    "id": "paint-the-town-red",
+    "term": "paint the town red",
+    "definition": "Go on a spree, as in *Whenever they go to New York they want to paint the town red.* The precise allusion of this term is disputed. Some believe it refers to setting something on fire; others point to a vague association of the color red with violence. [Late 1800s]"
   },
   "person": {
-    "id": "benjamin-harrison",
-    "name": "Benjamin Harrison",
-    "dates": "Aug 20, 1833 - Mar 13, 1901",
-    "mainImg": "img/people/benjamin-harrison.jpg",
+    "id": "alexander-the-great",
+    "name": "Alexander the Great",
+    "dates": "355 BC - 322 BC",
+    "mainImg": "img/people/alexander-the-great.jpg",
     "summary": [
-      "Benjamin Harrison was an American politician and lawyer who served as the 23rd president of the United States from 1889 to 1893. He was a grandson of the ninth president, William Henry Harrison, creating the only grandfather–grandson duo to have held the office. He was also a great-grandson of Benjamin Harrison V, a founding father who signed the United States Declaration of Independence.",
-      "Harrison was born on a farm by the Ohio River and graduated from Miami University in Oxford, Ohio. After moving to Indianapolis, he established himself as a prominent local attorney, Presbyterian church leader, and politician in Indiana. During the American Civil War, he served in the Union Army as a colonel, and was confirmed by the U.S. Senate as a brevet brigadier general of volunteers in 1865. Harrison unsuccessfully ran for governor of Indiana in 1876. The Indiana General Assembly elected Harrison to a six-year term in the U.S. Senate, where he served from 1881 to 1887.",
-      "A Republican, Harrison was elected to the presidency in 1888, defeating the Democratic incumbent, Grover Cleveland."
+      "Alexander III of Macedon, commonly known as Alexander the Great, was a king of the ancient Greek kingdom of Macedon and a member of the Argead dynasty. He was born in Pella in 356 BC and succeeded his father Philip II to the throne at the age of 20. He spent most of his ruling years on an unprecedented military campaign through western Asia and northeast Africa, and by the age of thirty, he had created one of the largest empires of the ancient world, stretching from Greece to northwestern India. He was undefeated in battle and is widely considered one of history's most successful military commanders.",
+      "During his youth, Alexander was tutored by Aristotle until age 16. After Philip's assassination in 336 BC, he succeeded his father to the throne and inherited a strong kingdom and an experienced army. Alexander was awarded the generalship of Greece and used this authority to launch his father's pan-Hellenic project to lead the Greeks in the conquest of Persia. In 334 BC, he invaded the Achaemenid Empire and began a series of campaigns that lasted 10 years."
     ],
-    "quote": "“The bud of victory is always in the truth.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
-    "urlGoogle": "https://artsandculture.google.com/entity/benjamin-harrison/m01b61"
+    "quote": "“How great are the dangers I face to win a good name in Athens.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-the-great/m0jrg"
   },
   "place": {
-    "id": "pittsburgh",
-    "name": "Pittsburgh",
-    "mainImg": "img/places/pittsburgh.jpg",
+    "id": "abu-dhabi",
+    "name": "Abu Dhabi",
+    "mainImg": "img/places/abu-dhabi.jpg",
     "summary": [
-      "Pittsburgh is a city in the state of Pennsylvania in the United States, and is the county seat of Allegheny County. A population of about 300,286 residents live within the city limits, making it the 66th-largest city in the U.S. The metropolitan population of 2,324,743 is the largest in both the Ohio Valley and Appalachia, the second-largest in Pennsylvania, and the 27th-largest in the U.S.",
-      "Pittsburgh is located in the southwest of the state, at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known both as \"the Steel City\" for its more than 300 steel-related businesses and as the \"City of Bridges\" for its 446 bridges. The city features 30 skyscrapers, two inclined railways, a pre-revolutionary fortification and the Point State Park at the confluence of the rivers. The city developed as a vital link of the Atlantic coast and Midwest, as the mineral-rich Allegheny Mountains made the area coveted by the French and British empires, Virginians, Whiskey Rebels, and Civil War raiders.",
-      "Aside from steel, Pittsburgh has led in manufacturing of aluminum, glass, shipbuilding, petroleum, foods, sports, transportation, computing, autos, and electronics."
+      "Abu Dhabi is the capital and the second-most populous city of the United Arab Emirates. It is also the largest of the UAE's seven emirates. The city of Abu Dhabi is located on an island in the Persian Gulf, off the Central West Coast. Most of the city and the Emirate reside on the mainland connected to the rest of the country. As of 2020, Abu Dhabi's urban area had an estimated population of 1.48 million, out of 2.9 million in the emirate of Abu Dhabi, as of 2016.",
+      "Abu Dhabi houses local and federal government offices and is the home of the United Arab Emirates Government and the Supreme Petroleum Council. The city is home to the President of the UAE, who is a member of the Al Nahyan family. Abu Dhabi's rapid development and urbanization, coupled with the massive oil and gas reserves and production and relatively high average income, have transformed it into a large, developed metropolis. It is the country's center of politics and industry, and a major culture and commerce center. Abu Dhabi accounts for about two-thirds of the roughly $400 billion UAE economy."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Pittsburgh",
-    "urlGoogle": "https://artsandculture.google.com/entity/pittsburgh/m068p2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+    "urlGoogle": "https://artsandculture.google.com/entity/abu-dhabi/m0gxj"
   },
   "wiki": {
-    "id": "elgin-cathedral",
-    "name": "Elgin Cathedral",
-    "summary": "Elgin Cathedral is a historic ruin in Elgin, Moray, north-east Scotland. The cathedral, dedicated to the Holy Trinity, was established in 1224 on land granted by King Alexander II. After a damaging fire in 1270, a rebuilding programme greatly enlarged the building. It was unaffected by the Wars of Scottish Independence but suffered further fire damage in 1390 and 1402. The cathedral was abandoned at the time of the Scottish Reformation in 1560 and its services transferred to Elgin's parish church. After the removal of the lead that waterproofed the roof in 1567, the cathedral steadily fell into decay. Its deterioration was arrested in the 19th century, by which time the building was in a substantially ruinous condition. Today, the walls are at full height in places and at foundation level in others yet the overall cruciform shape is still discernible. The chapterhouse is mostly intact, as are the two towers of the west front and the gable wall above the double door entrance that links them. Recessed and chest tombs contain effigies of bishops and knights, while large flat slabs in the now grass-covered floor of the cathedral mark the positions of early graves.",
-    "url": "https://en.wikipedia.org/wiki/Elgin_Cathedral"
+    "id": "albatross",
+    "name": "Albatross",
+    "summary": "Albatrosses are large seabirds allied to the procellarids, storm-petrels and diving-petrels in the order Procellariiformes. They range widely in the Southern Ocean and the North Pacific. They are absent from the North Atlantic, although fossil remains show they once occurred there too. Albatrosses are amongst the largest of flying birds, and the great albatrosses have the largest wingspans of any extant birds. Albatrosses are highly efficient in the air, using dynamic soaring and slope soaring to cover great distances with little exertion. They feed on squid, fish and krill by either scavenging, surface seizing or diving. Albatrosses are colonial, nesting for the most part on remote oceanic islands, often with several species nesting together. Pair bonds between males and females form over several years, with the use of ritualised dances, and will last for the life of the pair. A breeding season can take over a year from laying to fledging, with a single egg laid in each breeding attempt.",
+    "url": "https://en.wikipedia.org/wiki/Albatross"
   },
   "word": {
-    "id": "eurytopic",
-    "word": "eurytopic",
-    "url": "https://www.merriam-webster.com/dictionary/eurytopic",
+    "id": "umpteen",
+    "word": "umpteen",
+    "url": "https://www.merriam-webster.com/dictionary/umpteen",
     "partOfSpeech": "adjective",
-    "pronunciation": "yur-ih-TAH-pik",
-    "audioPath": "audio/words/eurytopic.mp3",
-    "definitions": ["tolerant of wide variation in one or more environmental factors"],
+    "pronunciation": "UMP-teen",
+    "audioPath": "audio/words/umpteen.mp3",
+    "definitions": ["very many : indefinitely numerous"],
     "examples": [
-      "_Eurytopic_ groups are observed in a wide range of habitats.",
-      "\"_Eurytopic_ species tend to have longer geologic ranges than stenotopic ones because they are more likely to survive environmental disturbances and therefore persist through time.\" - From Ronald Martin's 2013 book _Earth's Evolving Systems_"
+      "\"Oh, I've been there umpteen times,\" drawled Melanie, when I excitedly told her about my plans to go to Europe."
     ],
-    "origin": "\"Eurytopic\" evolved in the 1930s along with \"stenotopic,\" which means \"having a narrow range of adaptability to changes in environmental conditions.\" Both words are rooted in Greek, with \"eurys\" meaning \"broad\" or \"wide,\" \"stenos\" meaning \"close\" or \"narrow,\" and \"topos\" meaning \"place.\" Eurytopic species can typically be found in a broad range of places. An example would be the perch, a fish that can be found in ponds, lakes, streams, and rivers. By contrast, stenotopic species inhabit a narrow region. Examples include the rare Spoon-billed Sandpiper as well as the plants, animals, and other organisms bearing a specific area-related name, such as the Indiana Bat."
+    "origin": "\"I'll go to bed and I'll not get up for umpty-eleven months.\" You know the feeling. The speaker here is war-weary Bill, a character in Patrick MacGill's early 20th-century novel _The Great Push_. His \"umpty\" originated as military slang around 1905 and stood for an indefinite number, generally largish. (It was probably created by analogy to actual numbers such as \"twenty.\") Soon, there followed \"umpteen,\" blending \"umpty\" and \"-teen.\" \"Umpteen\" usually describes an indefinite and large number or amount, while the related \"umpteenth\" is used for the latest or last in an indefinitely numerous series. We only occasionally use \"umpty\" these days (and even more rarely \"umptieth\"), but you're bound to hear or read \"umpteen\" and \"umpteenth\" any number of times."
   }
 }

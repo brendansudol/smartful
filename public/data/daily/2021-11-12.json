@@ -1,0 +1,125 @@
+{
+  "artist": {
+    "id": "paolo-veronese",
+    "name": "Paolo Veronese",
+    "dates": "1528 - Apr 19, 1588",
+    "mainImg": "img/art/artists/paolo-veronese.jpg",
+    "artworkImgs": [
+      {
+        "name": "Mars, Venus and Cupid",
+        "path": "img/art/artworks/paolo-veronese-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/mars-venus-and-cupid-paolo-veronese/PAFFt3eSxCVi4g"
+      },
+      {
+        "name": "The Feast in the House of Simon the Pharisee",
+        "path": "img/art/artworks/paolo-veronese-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-feast-in-the-house-of-simon-the-pharisee-paolo-veronese/oQGdwswf313O7g"
+      },
+      {
+        "name": "The Choice Between Virtue and Vice",
+        "path": "img/art/artworks/paolo-veronese-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-choice-between-virtue-and-vice-paolo-veronese/VAGVlLvTEWVQuQ"
+      },
+      {
+        "name": "The Dream of Saint Helena",
+        "path": "img/art/artworks/paolo-veronese-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-dream-of-saint-helena-paolo-veronese/OgFLD5E6sP7KPw"
+      },
+      {
+        "name": "Happy Union",
+        "path": "img/art/artworks/paolo-veronese-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/happy-union-paolo-veronese/4wEcvAOSRsFiQQ"
+      },
+      {
+        "name": "The Family of Darius before Alexander",
+        "path": "img/art/artworks/paolo-veronese-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-family-of-darius-before-alexander-paolo-veronese/awF08raxf1k0Mw"
+      }
+    ],
+    "summary": [
+      "Paolo Caliari, known as Paolo Veronese, was an Italian Renaissance painter based in Venice, known for extremely large history paintings of religion and mythology, such as The Wedding at Cana and The Feast in the House of Levi. Included with Titian, a generation older, and Tintoretto, a decade senior, Veronese is one of the \"great trio that dominated Venetian painting of the cinquecento\" and the Late Renaissance in the 16th century. Known as a supreme colorist, and after an early period with Mannerism, Paolo Veronese developed a naturalist style of painting, influenced by Titian.",
+      "His most famous works are elaborate narrative cycles, executed in a dramatic and colorful style, full of majestic architectural settings and glittering pageantry. His large paintings of biblical feasts, crowded with figures, painted for the refectories of monasteries in Venice and Verona are especially famous, and he was also the leading Venetian painter of ceilings. Most of these works remain in situ, or at least in Venice, and his representation in most museums is mainly composed of smaller works such as portraits that do not always show him at his best or most typical."
+    ],
+    "quote": null,
+    "movements": ["Mannerism", "Renaissance", "Italian Renaissance", "Venetian painting"],
+    "mediums": ["Oil paint", "Pen", "Drawing", "Ink", "Engraving", "Chalk"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Paolo_Veronese",
+    "urlGoogle": "https://artsandculture.google.com/entity/paolo-veronese/m01jdbx"
+  },
+  "event": {
+    "id": "battle-of-muhlberg",
+    "name": "Battle of Mühlberg",
+    "dates": null,
+    "mainImg": "img/events/battle-of-muhlberg.jpg",
+    "summary": [
+      "The Battle of Mühlberg took place near Mühlberg in the Electorate of Saxony in 1547, during the Schmalkaldic War. The Catholic princes of the Holy Roman Empire led by the Holy Roman Emperor Charles V decisively defeated the Lutheran Schmalkaldic League of Protestant princes under the command of Elector John Frederick I of Saxony and Landgrave Philip I of Hesse.",
+      "The battle ended the Schmalkaldic war and led to the dissolution of the Schmalkaldic League."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChlberg",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-mühlberg/m026dmp"
+  },
+  "funFacts": [
+    {
+      "id": "937",
+      "fact": "Squirrels lose more than half of the nuts they hide.",
+      "category": ["Animals", "Habits"]
+    },
+    { "id": "90", "fact": "The average raindrop falls at seven mph.", "category": ["Science"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "553864",
+      "fact": "Stuck inside on a rainy day in 1816, writers Mary Shelley, Percy Shelley, Lord Byron, and John Polidori challenged each other to a scary story writing contest. Mary came up with the idea for Frankenstein and published it two years later at age 20."
+    }
+  ],
+  "person": {
+    "id": "otho",
+    "name": "Otho",
+    "dates": "32 AD - 69 AD",
+    "mainImg": "img/people/otho.jpg",
+    "summary": [
+      "Otho was Roman emperor for three months, from 15 January to 16 April 69. He was the second emperor of the Year of the Four Emperors.",
+      "A member of a noble Etruscan family, Otho was initially a friend and courtier of the young emperor Nero until he was effectively banished to the governorship of the remote province of Lusitania in 58 following his wife Poppaea Sabina's affair with Nero. After a period of moderate rule in the province, he allied himself with Galba, the governor of neighbouring Hispania Tarraconensis, during the revolts of 68. He accompanied Galba on his march to Rome, but revolted and murdered Galba at the start of the next year.",
+      "Inheriting the problem of the rebellion of Vitellius, commander of the army in Germania Inferior, Otho led a sizeable force which met Vitellius' army at the Battle of Bedriacum. After initial fighting resulted in 40,000 casualties, and a retreat of his forces, Otho committed suicide rather than fight on and Vitellius was proclaimed emperor."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Otho",
+    "urlGoogle": "https://artsandculture.google.com/entity/otho/m05mm4"
+  },
+  "place": {
+    "id": "palermo",
+    "name": "Palermo",
+    "mainImg": "img/places/palermo.jpg",
+    "summary": [
+      "Palermo is a city of Southern Italy, the capital of both the autonomous region of Sicily and the Metropolitan City of Palermo. The city is noted for its history, culture, architecture and gastronomy, playing an important role throughout much of its existence; it is over 2,700 years old. Palermo is located in the northwest of the island of Sicily, right by the Gulf of Palermo in the Tyrrhenian Sea.",
+      "The city was founded in 734 BC by the Phoenicians as Ziz. Palermo then became a possession of Carthage. Two Greek colonies were established, known collectively as Panormos or \"All-Port\"; the Carthaginians used this name on their coins after the 5th century BC. As Panormus, the town became part of the Roman Republic and Empire for over a thousand years. From 831 to 1072 the city was under Arab rule during the Emirate of Sicily when the city first became a capital. The Arabs shifted the Greek name into Balarm, the root for Palermo's present-day name. Following the Norman reconquest, Palermo became the capital of a new kingdom, the Kingdom of Sicily and the primary residence and power base of Holy Roman Emperor Frederick II and King Conrad IV."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Palermo",
+    "urlGoogle": "https://artsandculture.google.com/entity/palermo/m09pxc"
+  },
+  "wiki": {
+    "id": "michigan-state-capitol",
+    "name": "Michigan State Capitol",
+    "summary": "The Michigan State Capitol is the building housing two branches of the government of the U.S. state of Michigan and is located in the state capital of Lansing in Ingham County. The present structure, at the intersection of Capitol and Michigan Avenues, is a National Historic Landmark that currently houses the chambers and offices of the Michigan Legislature as well as the offices of Michigan's governor and lieutenant governor. Historically, this is the third building to house the Michigan state government. The first state capitol was located in Detroit, the original capital of Michigan, and was relocated to Lansing in 1847, due to the need to develop the western portions of the state and for easy defense from British troops stationed in Windsor, Ontario. The present capitol building, preceded by a temporary wood frame structure, was dedicated in January 1879 and is designed in a Neoclassical architectural style.",
+    "url": "https://en.wikipedia.org/wiki/Michigan_State_Capitol"
+  },
+  "word": {
+    "id": "servile",
+    "word": "servile",
+    "url": "https://www.merriam-webster.com/dictionary/servile",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SER-vul",
+    "audioPath": "audio/words/servile.mp3",
+    "definitions": [
+      "of or befitting a slave or a menial position",
+      "meanly or cravenly submissive : abject"
+    ],
+    "examples": [
+      "Maura was embarrassed at the way her mother demanded _servile_ behavior from store employees.",
+      "\"In a communique read from atop of the small truck, they criticised the national unions for placing too little importance on health concerns and being _servile_ to the factory owners.\" - From an article by Steve Scherer on Reuters.com, August 2, 2012"
+    ],
+    "origin": "Latin served us \"servile\" with the help of \"servilis,\" itself from \"servus,\" the Latin word for \"slave.\" \"Servus\" is also an ancestor of \"serve,\" \"service,\" and \"servitude.\" Synonyms of \"servile\" in English include \"subservient,\" \"slavish,\" and \"obsequious.\" \"Subservient\" implies the cringing manner of one very conscious of a subordinate position.\" \"Slavish\" suggests abject or debased servitude. \"Obsequious\" implies fawning or sycophantic compliance and exaggerated deference of manner. \"Servile\" suggests the mean or fawning behavior of a slave."
+  }
+}

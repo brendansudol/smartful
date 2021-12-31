@@ -1,130 +1,121 @@
 {
   "artist": {
-    "id": "william-daniell",
-    "name": "William Daniell",
-    "dates": "1769 - Aug 16, 1837",
-    "mainImg": "img/art/artists/william-daniell.jpg",
+    "id": "mark-gertler",
+    "name": "Mark Gertler",
+    "dates": "Dec 9, 1891 - Jun 23, 1939",
+    "mainImg": "img/art/artists/mark-gertler.jpg",
     "artworkImgs": [
       {
-        "name": "Kashmir Goats",
-        "path": "img/art/artworks/william-daniell-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/kashmir-goats-william-daniell-1769–1837-british/tAGkM99qevoCPg"
+        "name": "Rabbi and Rabbitzin",
+        "path": "img/art/artworks/mark-gertler-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/rabbi-and-rabbitzin-mark-gertler/fAEZmLx7KIIDAQ"
       },
       {
-        "name": "Westminster Bridge and Abbey",
-        "path": "img/art/artworks/william-daniell-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/westminster-bridge-and-abbey-william-daniell-1769–1837-british/mwHkDFVtoULGjQ"
+        "name": "Merry-Go-Round",
+        "path": "img/art/artworks/mark-gertler-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/merry-go-round-mark-gertler/xAE49VEjsYgKOw"
       },
       {
-        "name": "The Old Fort, the Playhouse, Holwell's Monument from Views of Calcutta",
-        "path": "img/art/artworks/william-daniell-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-old-fort-the-playhouse-holwell-s-monument-from-views-of-calcutta-artist-thomas-daniell-artist-william-daniell/vwHJRbJNltZTeA"
+        "name": "The apple woman and her husband",
+        "path": "img/art/artworks/mark-gertler-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-apple-woman-and-her-husband-mark-gertler/1AGFb1dEzkOQqw"
       },
       {
-        "name": "William Hodges RA",
-        "path": "img/art/artworks/william-daniell-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/william-hodges-ra-george-dance-and-william-daniell-engraver/hwEK5mjiPm1o-A"
+        "name": "Still Life, Winter Cherries",
+        "path": "img/art/artworks/mark-gertler-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-winter-cherries-mark-gertler/KQHGp4a6JpE2hw"
       },
       {
-        "name": "Old Court House Street Looking South from the Views of Calcutta",
-        "path": "img/art/artworks/william-daniell-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/old-court-house-street-looking-south-from-the-views-of-calcutta-artist-thomas-daniell-artist-william-daniell/GwHJOXSwh91QDA"
+        "name": "Still Life, Dahlias and Daisies in a Blue Vase",
+        "path": "img/art/artworks/mark-gertler-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/still-life-dahlias-and-daisies-in-a-blue-vase-mark-gertler/KQHqp8hXd_E8gA"
       },
       {
-        "name": "Madras, or Fort St. George, in the Bay of Bengal -- A Squall Passing Off",
-        "path": "img/art/artworks/william-daniell-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/madras-or-fort-st-george-in-the-bay-of-bengal-a-squall-passing-off-william-daniell-1769–1837-british/cQFk8YF8By-XEg"
+        "name": "Portrait of a Girl (Sophie, the artist's sister)",
+        "path": "img/art/artworks/mark-gertler-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-girl-sophie-the-artist-s-sister-mark-gertler/rgGaWDsHKOdXtw"
       }
     ],
     "summary": [
-      "William Daniell RA was an English landscape and marine painter, and printmaker, notable for his work in aquatint. He travelled extensively in India in the company of his uncle Thomas Daniell, with whom he collaborated on one of the finest illustrated works of the period – Oriental Scenery. He later travelled around the coastline of Britain to paint watercolours for the equally ambitious book A Voyage Round Great Britain. His work was exhibited at the Royal Academy and the British Institution and he became a Royal Academician in 1822."
+      "Mark Gertler, born Marks Gertler, was a British painter of figure subjects, portraits and still-life.",
+      "His early life and his relationship with Dora Carrington were the inspiration for Gilbert Cannan's novel Mendel. The characters of Loerke in D. H. Lawrence's Women in Love, and Gombauld in Aldous Huxley's Crome Yellow were based on him."
     ],
     "quote": null,
-    "movements": ["Romanticism"],
-    "mediums": ["Graphite", "Watercolor painting", "Ink", "Chalk", "Pigment", "Sanguine"],
-    "urlWiki": "https://en.wikipedia.org/wiki/William_Daniell",
-    "urlGoogle": "https://artsandculture.google.com/entity/william-daniell/m0712ws"
+    "movements": [],
+    "mediums": ["Oil paint", "Drawing", "Pencil", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Mark_Gertler_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/mark-gertler/m07k0wv"
   },
   "event": {
-    "id": "siege-of-breda",
-    "name": "Siege of Breda",
-    "dates": "Aug 28, 1624 - Jun 5, 1625",
-    "mainImg": "img/events/siege-of-breda.jpg",
+    "id": "battle-of-coronel",
+    "name": "Battle of Coronel",
+    "dates": null,
+    "mainImg": "img/events/battle-of-coronel.jpg",
     "summary": [
-      "The siege of Breda of 1624–25 occurred during the Eighty Years' War. The siege resulted in Breda, a Dutch fortified city, falling into the control of the Army of Flanders.",
-      "Following the orders of Ambrogio Spinola, Philip IV's army laid siege to Breda in August 1624. The siege was contrary to the wishes of Philip IV's government because of the already excessive burdens of the concurrent Eighty and Thirty Years' wars. The strategically located city was heavily fortified and strongly defended by a large and well prepared garrison of 7,000 men, that the Dutch were confident would hold out long enough to wear down besiegers while awaiting a relief force to disrupt the siege. Yet despite the Spanish government's opposition to major sieges in the Low Countries and the obstacles confronting any attack on such a strongly fortified and defended city, Spinola launched his Breda campaign, rapidly blocking the city's defences and driving off a Dutch relief army under the leadership of Maurice of Nassau that had attempted to cut off the Spanish army's access to supplies."
+      "The Battle of Coronel was a First World War Imperial German Naval victory over the Royal Navy on 1 November 1914, off the coast of central Chile near the city of Coronel. The East Asia Squadron of the Kaiserliche Marine led by Vice-Admiral Graf Maximilian von Spee met and defeated a British squadron commanded by Rear-Admiral Sir Christopher Cradock.",
+      "The engagement probably took place as a result of misunderstandings. Neither admiral expected to meet the other in full force. Once the two met, Cradock understood his orders were to fight to the end, despite the odds being heavily against him. Although Spee had an easy victory, destroying two enemy armoured cruisers for just three men injured, the engagement also cost him almost half his supply of ammunition, which was irreplaceable. Shock at the British losses led the Admiralty to send more ships, including two modern battlecruisers, which in turn destroyed Spee and the majority of his squadron on 8 December at the Battle of the Falkland Islands."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Breda_%281624%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-breda/m0b9tj5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Coronel",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-coronel/m01b49y"
   },
   "funFacts": [
     {
-      "id": "235",
-      "fact": "The biggest pig in recorded history weighed almost one ton.",
-      "category": ["Animals"]
+      "id": "747",
+      "fact": "Alaska was bought from Russia for about 2 cents an acre.",
+      "category": ["History"]
     },
-    {
-      "id": "651",
-      "fact": "About 45% of leisure visitors to downtown New York City come from outside the United States.",
-      "category": ["Hodgepodge"]
-    }
+    { "id": "229", "fact": "The Caspian Sea is actually a lake.", "category": ["Geography"] }
   ],
-  "funFacts2": [
-    {
-      "id": "553846",
-      "fact": "According to a 2015 study, less than half the world's cultures kiss romantically."
-    }
-  ],
+  "funFacts2": [{ "id": "505075", "fact": "The national animal of Scotland is the unicorn." }],
   "idiom": {
-    "id": "know-which-side-of-ones-bread-is-buttered",
-    "term": "know which side of one's bread is buttered",
-    "definition": "Be aware of where one's best interests lie, as in *Jerry always helps out his boss; he knows which side of his bread is buttered.* This expression alludes to the more favorable, or buttered, side of bread and has been used metaphorically since the early 1500s."
+    "id": "eat-high-off-the-hog",
+    "term": "eat high off the hog",
+    "definition": "Also, **live high on the hog.** Prosper, live luxuriously, as in *When Aunt Ida dies and they inherit her estate, they'll be eating high off the hog,* or *Since their loan was approved, they've been living high on the hog.* It alludes to the choicest cuts of meat, which are found on a pig's upper flanks. [Late 1800s]"
   },
   "person": {
-    "id": "isabel-princess-imperial-of-brazil",
-    "name": "Isabel, Princess Imperial of Brazil",
-    "dates": "Jul 29, 1846 - Nov 14, 1921",
-    "mainImg": "img/people/isabel-princess-imperial-of-brazil.jpg",
+    "id": "cynthia-nixon",
+    "name": "Cynthia Nixon",
+    "dates": "Born Apr 9, 1966",
+    "mainImg": "img/people/cynthia-nixon.jpg",
     "summary": [
-      "Dona Isabel, nicknamed \"the Redemptress\", was the Princess Imperial of the Empire of Brazil and the Empire's regent on three occasions. Born in Rio de Janeiro as the eldest daughter of Emperor Pedro II and Empress Teresa Cristina, she was a member of the Brazilian branch of the House of Braganza. After the deaths of her two brothers in infancy, she was recognized as her father's heir presumptive. She married a French prince, Gaston, Count of Eu, in an arranged marriage, and they had three sons.",
-      "During her father's absences abroad, Isabel acted as regent. In her third and final regency, she actively promoted and ultimately signed a law, named Lei Áurea or the Golden Law, emancipating all slaves in Brazil. Even though the action was broadly popular, there was strong opposition to her succession to the throne. Her gender, strong Catholic faith and marriage to a foreigner were seen as impediments against her, and the emancipation of the slaves generated dislike among powerful planters. In 1889, her family was deposed in a military coup, and she spent the last 30 years of her life in exile in France."
+      "Cynthia Ellen Nixon is an American actress and activist. For her portrayal of Miranda Hobbes in the HBO series Sex and the City, she won the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series. She reprised the role in the films Sex and the City and Sex and the City 2. Her other film credits include Amadeus, James White, and playing Emily Dickinson in A Quiet Passion.",
+      "Nixon made her Broadway debut in the 1980 revival of The Philadelphia Story. Her other Broadway credits include The Real Thing, Hurlyburly, Indiscretions, The Women, and Wit. She won the 2006 Tony Award for Best Actress in a Play for Rabbit Hole, the 2008 Primetime Emmy Award for Outstanding Guest Actress in a Drama Series for Law & Order: Special Victims Unit, the 2009 Grammy Award for Best Spoken Word Album for An Inconvenient Truth, and the 2017 Tony Award for Best Featured Actress in a Play for The Little Foxes. Her other television roles include playing political figures Eleanor Roosevelt in Warm Springs, Michele Davis in Too Big to Fail, and playing Nancy Reagan in the 2016 television film Killing Reagan."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Isabel,_Princess_Imperial_of_Brazil",
-    "urlGoogle": "https://artsandculture.google.com/entity/isabel-princess-imperial-of-brazil/m06rdk7"
+    "quote": "“Women are half the population and they know how to take care of themselves, if they are only given access to health care.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Cynthia_Nixon",
+    "urlGoogle": "https://artsandculture.google.com/entity/cynthia-nixon/m015c2f"
   },
   "place": {
-    "id": "antwerp",
-    "name": "Antwerp",
-    "mainImg": "img/places/antwerp.jpg",
+    "id": "lesotho",
+    "name": "Lesotho",
+    "mainImg": "img/places/lesotho.jpg",
     "summary": [
-      "Antwerp is a city in Belgium and the capital of Antwerp province in the Flemish Region. With a population of 520,504, it is the most populous city proper in Belgium, and with a metropolitan population of around 1,200,000 people, it is the second largest metropolitan region after Brussels.",
-      "Antwerp is on the River Scheldt, linked to the North Sea by the river's Westerschelde estuary. It is about 40 kilometres north of Brussels, and about 15 kilometres south of the Dutch border. The Port of Antwerp is one of the biggest in the world, ranking second in Europe and within the top 20 globally. The city is also known for its diamond industry and trade.",
-      "Both economically and culturally, Antwerp is and has long been an important city in the Low Countries, especially before and during the Spanish Fury and throughout and after the subsequent Dutch Revolt. Antwerp was also the place of the world's oldest stock exchange building, originally built in 1531 and re-built in 1872.",
-      "The inhabitants of Antwerp are nicknamed Sinjoren, after the Spanish honorific señor or French seigneur, \"lord\", referring to the Spanish noblemen who ruled the city in the 17th century."
+      "Lesotho, officially the Kingdom of Lesotho, is an enclaved country within the border of South Africa. Along with the Vatican City and San Marino, it is one of only three independent states completely surrounded by the territory of another country, and the only one outside the Italian peninsula or that is not a microstate. Lesotho is just over 30,000 km² and has a population of around 2 million. Its capital and largest city is Maseru. The official language is Sesotho.",
+      "Lesotho was previously the British Crown Colony of Basutoland, but it declared independence from the United Kingdom on 4 October 1966. It is now a fully sovereign state and is a member of the United Nations, the Commonwealth of Nations, the African Union, and the Southern African Development Community. The name Lesotho roughly translates to \"the land of the people who speak Sesotho\"."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Antwerp",
-    "urlGoogle": "https://artsandculture.google.com/entity/antwerp/m0fydw"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lesotho",
+    "urlGoogle": "https://artsandculture.google.com/entity/lesotho/m04hvw"
   },
   "wiki": {
-    "id": "mary-shelley",
-    "name": "Mary Shelley",
-    "summary": "Mary Shelley (1797–1851) was a British novelist, short story writer, dramatist, essayist, biographer, and travel writer, best known for her Gothic novel Frankenstein: or, The Modern Prometheus. She also edited and promoted the works of her husband, the Romantic poet and philosopher Percy Bysshe Shelley. Her father was the political philosopher William Godwin, and her mother was the philosopher and feminist Mary Wollstonecraft. In 1814, Mary Godwin fell in love with one of her father's political followers, the married Percy Bysshe Shelley. Together with Mary's stepsister, Claire Clairmont, they left for France and travelled through Europe; upon their return to England, Mary was pregnant. Over the next two years, she and Percy faced ostracism, constant debt, and the death of their prematurely born daughter. In 1822, her husband drowned when his sailing boat sank during a storm in the Bay of La Spezia. A year later, Mary Shelley returned to England and from then on devoted herself to the upbringing of her son and a career as a professional author. The last decade of her life was dogged by illness, probably caused by the brain tumour that was to kill her at the age of 53.",
-    "url": "https://en.wikipedia.org/wiki/Mary_Shelley"
+    "id": "edmund-evans",
+    "name": "Edmund Evans",
+    "summary": "Edmund Evans (1826–1905) was a prominent English wood engraver and colour printer during the Victorian era. Evans specialized in full-colour printing, which became popular in the mid-19th century. He employed and collaborated with illustrators such as Walter Crane, Randolph Caldecott, Kate Greenaway, and Richard Doyle to produce what are now considered to be classic children's books. Although little is known about his life, he wrote a short autobiography before his death in 1905 in which he described his life as a printer in Victorian London. After finishing an apprenticeship, Evans went into business for himself. By the early 1850s, he had made a reputation as a printer of covers for cheap novels known as yellow-backs. In the early 1860s, Evans began to print children's toy books and picture books in association with the printing house Routledge and Warne. His intention was to produce books for children that were beautiful and inexpensive. For three decades he produced multiple volumes each year, first illustrated by Crane, and later by Caldecott and Greenaway.",
+    "url": "https://en.wikipedia.org/wiki/Edmund_Evans"
   },
   "word": {
-    "id": "pukka",
-    "word": "pukka",
-    "url": "https://www.merriam-webster.com/dictionary/pukka",
+    "id": "gustatory",
+    "word": "gustatory",
+    "url": "https://www.merriam-webster.com/dictionary/gustatory",
     "partOfSpeech": "adjective",
-    "pronunciation": "PUCK-uh",
-    "audioPath": "audio/words/pukka.mp3",
-    "definitions": ["genuine, authentic; also : first-class"],
+    "pronunciation": "GUSS-tuh-tor-ee",
+    "audioPath": "audio/words/gustatory.mp3",
+    "definitions": ["relating to or associated with eating or the sense of taste"],
     "examples": [
-      "Ellingsworth stood framed in the door of his club, the picture of a pukka gentleman, immaculately groomed, upper lip appropriately stiff, perfectly genteel."
+      "While a winter storm raged outside we enjoyed a series of _gustatory_ delights prepared by our hosts.",
+      "\"\\[Holly\\] Hughes' latest collection includes writing on every type of _gustatory_ obsession from the farms and people who produce our ingredients to the chefs, traditions and home cooking that create the final, delicious product.\" - From a book review by Bobbi Booker in the _Philadelphia Tribune_, October 20, 2013"
     ],
-    "origin": "\"Pukka\" tends to evoke the height of 18th- and 19th-century British imperialism in India, and, indeed, it was first used in English at the 1775 trial of Maha Rajah Nundocomar, who was accused of forgery and tried by a British court in Bengal. The word is borrowed from Hindi and Urdu \"pakkā,\" which means \"solid.\" The English speakers who borrowed it applied the \"sound and reliable\" sense of \"solid\" and thus the word came to mean \"genuine.\" As the British Raj waned, \"pukka\" was occasionally appended to \"sahib\" (an Anglo-Indian word for a European of some social or official status). That expression is sometimes used as a compliment for an elegant and refined gentleman, but it can also imply that someone is overbearing and pretentious. These days, \"pukka\" is also used as a British slang word meaning \"excellent\" or \"cool.\""
+    "origin": "\"Gustatory\" is a member of a finite set of words that describe the senses with which we encounter our world, the other members being \"visual,\" \"aural,\" \"olfactory,\" and \"tactile.\" Like its peers, \"gustatory\" has its roots in Latin-in this case the Latin word \"gustare,\" meaning \"to taste.\" \"Gustare\" is a somewhat distant relative of several common English words, among them \"choose\" and \"disgust,\" but is a direct ancestor only of \"gustatory,\" \"gustation,\" meaning \"the act or sensation of tasting,\" and \"degustation,\" meaning \"the action or an instance of tasting especially in a series of small portions.\""
   }
 }

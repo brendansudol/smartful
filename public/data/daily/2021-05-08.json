@@ -1,126 +1,132 @@
 {
   "artist": {
-    "id": "giovanni-benedetto-castiglione",
-    "name": "Giovanni Benedetto Castiglione",
-    "dates": "Mar 23, 1609 - May 5, 1664",
-    "mainImg": "img/art/artists/giovanni-benedetto-castiglione.jpg",
+    "id": "claudio-coello",
+    "name": "Claudio Coello",
+    "dates": "Mar 2, 1642 - Apr 20, 1693",
+    "mainImg": "img/art/artists/claudio-coello.jpg",
     "artworkImgs": [
       {
-        "name": "Circe changing the companions of Ulysses into beasts",
-        "path": "img/art/artworks/giovanni-benedetto-castiglione-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/circe-changing-the-companions-of-ulysses-into-beasts-giovanni-benedetto-castiglione-il-grechetto/PgHLVe1YMMCNWw"
+        "name": "Charles II",
+        "path": "img/art/artworks/claudio-coello-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/charles-ii-claudio-coello/vgES3iV82XhpoQ"
       },
       {
-        "name": "Circe changing the companions of Ulysses into beasts",
-        "path": "img/art/artworks/giovanni-benedetto-castiglione-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/circe-changing-the-companions-of-ulysses-into-beasts-giovanni-benedetto-castiglione-il-grechetto/ZwE_ln6ZEwJ7kg"
+        "name": "Portrait of Teresa Francisca Mudarra y Herrera",
+        "path": "img/art/artworks/claudio-coello-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-teresa-francisca-mudarra-y-herrera-claudio-coello/ggFipEjM5Q6PsQ"
       },
       {
-        "name": "The Creation of Adam",
-        "path": "img/art/artworks/giovanni-benedetto-castiglione-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-creation-of-adam-giovanni-benedetto-castiglione-italian-1609–1664/7QGtkb7yMwN6vg"
+        "name": "Juan Francisco de la Cerda, VIII Duke of Medinaceli",
+        "path": "img/art/artworks/claudio-coello-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/juan-francisco-de-la-cerda-viii-duke-of-medinaceli-claudio-coello/uQESyruCiLeePA"
       },
       {
-        "name": "Diogenes zoekt een mens",
-        "path": "img/art/artworks/giovanni-benedetto-castiglione-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/diogenes-zoekt-een-mens-giovanni-benedetto-castiglione/DAH3DmvV83cJ1A"
+        "name": "Susannah and the Elders",
+        "path": "img/art/artworks/claudio-coello-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/susannah-and-the-elders-claudio-coello/xgEBRj8y9ZH9Fg"
       },
       {
-        "name": "Melancholia",
-        "path": "img/art/artworks/giovanni-benedetto-castiglione-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/melancholia/pQEKtOff-7ncFA"
+        "name": "Mariana of Austria and Charles II",
+        "path": "img/art/artworks/claudio-coello-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/mariana-of-austria-and-charles-ii-claudio-coello/QQHUwLRovuo2DQ"
       },
       {
-        "name": "The Genius of Castiglione",
-        "path": "img/art/artworks/giovanni-benedetto-castiglione-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-genius-of-castiglione-giovanni-benedetto-castiglione/jwE6NSpnrbbW2Q"
+        "name": "Saint Michael the Archangel",
+        "path": "img/art/artworks/claudio-coello-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-michael-the-archangel-claudio-coello/RAERGNT83JskGA"
       }
     ],
     "summary": [
-      "Giovanni Benedetto Castiglione was an Italian Baroque painter, printmaker and draftsman, of the Genoese school. He is best known now for his etchings, and as the inventor of the printmaking technique of monotyping. He was known as Il Grechetto in Italy and in France as Le Benédette."
+      "Claudio Coello was a Spanish Baroque painter. Coello is considered the last great Spanish painter of the 17th century.",
+      "The son of Faustino Coello, a famous Portuguese sculptor, he was a court painter for Charles II. He worked on many churches and public buildings in Madrid, with his most famous work being in the sacristy of El Escorial, which is filled with portraits of priests and courtiers."
     ],
     "quote": null,
     "movements": ["Baroque"],
-    "mediums": ["Etching", "Oil paint", "Laid paper", "Drawing", "Ink", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Giovanni_Benedetto_Castiglione",
-    "urlGoogle": "https://artsandculture.google.com/entity/giovanni-benedetto-castiglione/m077d8t"
+    "mediums": ["Oil paint", "Ink", "Chalk", "Pigment", "Pen", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Claudio_Coello",
+    "urlGoogle": "https://artsandculture.google.com/entity/claudio-coello/m05hwkx"
   },
   "event": {
-    "id": "woodstock",
-    "name": "Woodstock",
-    "dates": "Aug 15, 1969 - Aug 18, 1969",
-    "mainImg": "img/events/woodstock.jpg",
+    "id": "1960-democratic-national-convention",
+    "name": "1960 Democratic National Convention",
+    "dates": "Jul 11, 1960 - Jul 15, 1960",
+    "mainImg": "img/events/1960-democratic-national-convention.jpg",
     "summary": [
-      "Woodstock was a music festival held August 15–18, 1969, on Max Yasgur's dairy farm in Bethel, New York, 40 miles southwest of Woodstock. Billed as \"an Aquarian Exposition: 3 Days of Peace & Music\" and alternatively referred to as the Woodstock Rock Festival, it attracted an audience of more than 400,000. Thirty-two acts performed outdoors despite sporadic rain.",
-      "The festival has become widely regarded as a pivotal moment in popular music history as well as a defining event for the counterculture generation. The event's significance was reinforced by a 1970 documentary film, an accompanying soundtrack album, and a song written by Joni Mitchell that became a major hit for both Crosby, Stills, Nash & Young and Matthews Southern Comfort. Music events bearing the Woodstock name have been planned for anniversaries including the tenth, twentieth, twenty-fifth, thirtieth, fortieth, and fiftieth. In 2004 Rolling Stone magazine listed it as number 19 of the 50 Moments That Changed the History of Rock and Roll. In 2017 the festival site became listed on the National Register of Historic Places."
+      "The 1960 Democratic National Convention was held in Los Angeles, California, on July 11–15, 1960. It nominated Senator John F. Kennedy of Massachusetts for president and Senator Lyndon B. Johnson of Texas for vice president.",
+      "In the general election, the Kennedy–Johnson ticket won an electoral college victory and a narrow popular vote plurality over the Republican candidates Vice President Richard M. Nixon and UN Ambassador Henry C. Lodge II.",
+      "Due to its size, the Biltmore Hotel was selected to serve as the headquarters hotel for the Democratic National Committee. It also housed command-posts for the campaigns of the various candidates seeking the nomination, temporary studio spaces for the television networks, and workspaces for select print journalists."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Woodstock",
-    "urlGoogle": "https://artsandculture.google.com/entity/woodstock/m085kv"
+    "urlWiki": "https://en.wikipedia.org/wiki/1960_Democratic_National_Convention",
+    "urlGoogle": "https://artsandculture.google.com/entity/1960-democratic-national-convention/m08byk1"
   },
   "funFacts": [
-    { "id": "157", "fact": "The first TV soap opera debuted in 1946.", "category": ["Firsts"] },
+    { "id": "408", "fact": "Panda bears eat up to 16 hours a day.", "category": ["Animals"] },
     {
-      "id": "192",
-      "fact": "Jupiter spins so fast that there is a new sunrise nearly every 10 hours.",
-      "category": ["Science"]
+      "id": "411",
+      "fact": "Lifejackets used to be filled with sunflower seeds for flotation.",
+      "category": ["Plants"]
     }
   ],
-  "funFacts2": [{ "id": "504660", "fact": "Fish cough." }],
+  "funFacts2": [
+    {
+      "id": "505478",
+      "fact": "The Woolsey Hall auditorium at Yale contains an extra-wide seat built to fit alumnus and former professor William Howard Taft."
+    }
+  ],
   "idiom": {
-    "id": "box-the-compass",
-    "term": "box the compass",
-    "definition": "Make a complete turnabout or reversal, as in *With a change of ownership, the editorial page boxed the compass politically, now supporting the Senator.* Originally this was (and continues to be) a nautical term, meaning \"repeat the 32 points of the compass in order.\" In the early 1800s it began to be used figuratively."
+    "id": "the-devil-take-the-hindmost",
+    "term": "the devil take the hindmost",
+    "definition": "Let everyone put his or her own interest first, leaving the unfortunate to their fate. For example, *I don't care if she makes it or not---the devil take the hindmost.* This expression, first recorded in 1608, probably originated as an allusion to a children's game in which the last (coming \"hindmost\") is the loser, and came to mean utter selfishness."
   },
   "person": {
-    "id": "franklin-d-roosevelt",
-    "name": "Franklin D. Roosevelt",
-    "dates": "Jan 30, 1882 - Apr 12, 1945",
-    "mainImg": "img/people/franklin-d-roosevelt.jpg",
+    "id": "edmund-ironside",
+    "name": "Edmund Ironside",
+    "dates": "989 AD - Nov 30, 1016",
+    "mainImg": "img/people/edmund-ironside.jpg",
     "summary": [
-      "Franklin Delano Roosevelt, often referred to by his initials FDR, was an American politician who served as the 32nd president of the United States from 1933 until his death in 1945. A member of the Democratic Party, he won a record four presidential elections and became a central figure in world events during the first half of the 20th century. Roosevelt directed the federal government during most of the Great Depression, implementing his New Deal domestic agenda in response to the worst economic crisis in U.S. history. As a dominant leader of his party, he built the New Deal Coalition, which realigned American politics into the Fifth Party System and defined American liberalism throughout the middle third of the 20th century. His third and fourth terms were dominated by World War II, which ended shortly after he died in office. He is usually rated by scholars among the nation's greatest presidents, after George Washington and Abraham Lincoln, but has also been subject to substantial criticism."
-    ],
-    "quote": "“Put two or three men in positions of conflicting authority. This will force them to work at loggerheads, allowing you to be the ultimate arbiter.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
-    "urlGoogle": "https://artsandculture.google.com/entity/franklin-d-roosevelt/m02yy8"
-  },
-  "place": {
-    "id": "fes",
-    "name": "Fes",
-    "mainImg": "img/places/fes.jpg",
-    "summary": [
-      "Fez or Fes is a city in northern inland Morocco and the capital of the Fès-Meknès administrative region. It is the second largest city in Morocco after Casablanca, with a population of 1.7 million. Located to the northeast of Atlas Mountains, Fez is situated at the crossroad of the important cities of all regions; 206 km from Tangier to the northwest, 246 km from Casablanca, 189 km from Rabat to the west, and 387 km from Marrakesh to the southwest which leads to the Trans-Saharan trade route. It is surrounded by the high grounds, and the old city is penetrated by the River of Fez flowing from the west to east.",
-      "Fez was founded under the Idrisid rule during the 8th-9th centuries C.E. It consisted of two autonomous and competing settlements. The migration of 2000 Arab families in the early 9th century gave the nascent city its Arabic character. After the downfall of the Idrisid dynasty, several empires came and went until the 11th century when the Almoravid Sultan Yusuf ibn Tashfin united the two settlements and rebuilt the city, which became today's Fes el Bali quarter. Under the Almoravid rule, the city gained a reputation for the religious scholarship and the mercantile activity."
+      "Edmund Ironside was King of England from 23 April to 30 November 1016. He was the son of King Æthelred the Unready and his first wife, Ælfgifu of York. Edmund's reign was marred by a war he had inherited from his father; his cognomen \"Ironside\" was given to him \"because of his valour\" in resisting the Danish invasion led by Cnut the Great.",
+      "Edmund was not expected to be King of England; however, by June 1014 two elder brothers had died, making him heir apparent. England was conquered by Sweyn Forkbeard at the end of the same year, but he died shortly thereafter, paving the way for Æthelred to return to the throne, which he did, but not without opposition. Sweyn's son, Cnut, was defeated and returned to Denmark, where he assembled an invasion force to re-conquer England. It would not arrive for another year.",
+      "After regaining the throne, the royal family set about strengthening its hold on the country with the assistance of Eadric Streona. People who had sided with the Danes in 1014 were punished, and some were killed. In one case, two brothers, Morcar and Sigeferth, were killed and their possessions, along with Sigferth's wife Ealdgyth, were taken by Æthelred."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Fez,_Morocco",
-    "urlGoogle": "https://artsandculture.google.com/entity/fes/m01vcxq"
+    "urlWiki": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+    "urlGoogle": "https://artsandculture.google.com/entity/edmund-ironside/m0cp7r"
+  },
+  "place": {
+    "id": "venice",
+    "name": "Venice",
+    "mainImg": "img/places/venice.jpg",
+    "summary": [
+      "Venice is a city in northeastern Italy and the capital of the Veneto region. It is situated on a group of 118 small islands that are separated by canals and linked by over 400 bridges. The islands are located in the shallow Venetian Lagoon, an enclosed bay that lies between the mouths of the Po and the Piave rivers. In 2018, 260,897 people resided in the Comune di Venezia, of whom around 55,000 live in the historical city of Venice. Together with Padua and Treviso, the city is included in the Padua-Treviso-Venice Metropolitan Area, which is considered a statistical metropolitan area, with a total population of 2.6 million.",
+      "The name is derived from the ancient Veneti people who inhabited the region by the 10th century BC. The city was historically the capital of the Republic of Venice for a millennium and more, from 697 to 1797. It was a major financial and maritime power during the Middle Ages and Renaissance, and a staging area for the Crusades and the Battle of Lepanto, as well as an important center of commerce—especially silk, grain, and spice, and of art from the 13th century to the end of the 17th."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Venice",
+    "urlGoogle": "https://artsandculture.google.com/entity/venice/m07_pf"
   },
   "quote": {
-    "id": "48",
-    "quote": "Work hard, be kind, and amazing things will happen.",
-    "author": "Conan O'Brien"
+    "id": "101",
+    "quote": "Today a reader, tomorrow a leader.",
+    "author": "Margaret Fuller"
   },
   "wiki": {
-    "id": "apollo-8",
-    "name": "Apollo 8",
-    "summary": "Apollo 8 was the second manned mission of the Apollo space program. Commander Frank Borman, Command Module Pilot James Lovell and Lunar Module Pilot William Anders became the first humans to travel beyond Earth orbit and into an orbit around the Moon. It was also the first manned launch of the Saturn V rocket. NASA prepared for the mission in only four months. The hardware involved had only been used a few times—the Saturn V had only launched twice before, and the Apollo spacecraft had only just finished its first manned mission, Apollo 7. However the success of the mission paved the way for the successful completion of John F. Kennedy's goal of landing on the Moon before the end of the decade. After launching on December 21, 1968, the crew took three days to travel to the Moon, which they orbited for twenty hours. While in lunar orbit they made a Christmas Eve television broadcast that is thought to be one of the most watched of all time.",
-    "url": "https://en.wikipedia.org/wiki/Apollo_8"
+    "id": "durers-rhinoceros",
+    "name": "Dürer's Rhinoceros",
+    "summary": "Dürer's Rhinoceros is the name commonly given to a woodcut carved by Albrecht Dürer in 1515. The image was based on a written description and brief sketch by an unknown artist of an Indian rhinoceros that had arrived in Lisbon earlier that year. Dürer never saw the actual rhinoceros, which was the first living example seen in Europe since Roman times. In late 1515, the King of Portugal, Manuel I, sent the animal as a gift for Pope Leo X, but it died in a shipwreck off the coast of Italy in early 1516. A live rhinoceros was not seen again in Europe until a second specimen arrived from India at the court of Phillip II in Spain in around 1579. Despite its anatomical inaccuracies, Dürer's woodcut became very popular in Europe and was copied many times in the following three centuries. It was regarded as a true representation of a rhinoceros into the late 18th century. Eventually, it was supplanted by more realistic drawings and paintings, particularly paintings and engravings of Clara the rhinoceros, who toured Europe in the 1740s and 1750s. It has been said of Dürer's woodcut that \"probably no animal picture has exerted such a profound influence on the arts\".",
+    "url": "https://en.wikipedia.org/wiki/D%C3%BCrer%27s_Rhinoceros"
   },
   "word": {
-    "id": "obstreperous",
-    "word": "obstreperous",
-    "url": "https://www.merriam-webster.com/dictionary/obstreperous",
-    "partOfSpeech": "adjective",
-    "pronunciation": "ub-STREP-uh-rus",
-    "audioPath": "audio/words/obstreperous.mp3",
-    "definitions": [
-      "marked by unruly or aggressive noisiness : clamorous",
-      "stubbornly resistant to control : unruly"
-    ],
+    "id": "advise",
+    "word": "advise",
+    "url": "https://www.merriam-webster.com/dictionary/advise",
+    "partOfSpeech": "verb",
+    "pronunciation": "ud-VYZE",
+    "audioPath": "audio/words/advise.mp3",
+    "definitions": ["to give advice to : counsel", "inform, notify", "consult, confer"],
     "examples": [
-      "On her first day of substitute teaching, Joanna expected to encounter a classroom of obstreperous teenagers, but the students were mostly well behaved."
+      "Betty's doctor advised her to exercise more carefully if she hoped to avoid re-injuring her sprained ankle."
     ],
-    "origin": "The handy Latin prefix \"ob-,\" meaning \"in the way,\" \"against,\" or \"toward,\" occurs in many Latin and English words. \"Obstreperous\" comes from \"ob-\" plus \"strepere,\" a verb meaning \"to make a noise,\" so someone who is obstreperous is literally making noise to rebel against something, much like a protesting crowd or an unruly child. The word has been used in English since around the beginning of the 17th century. \"Strepere\" has not played a role in the formation of any other notable English words, but \"ob-\" words abound; these include \"obese,\" \"obnoxious,\" \"occasion,\" \"offend,\" \"omit,\" \"oppress,\" and \"oust.\""
+    "origin": "\"Advise\" was borrowed into Middle English in the 14th century from Anglo-French \"aviser,\" itself from \"avis,\" meaning \"opinion.\" That \"avis\" is not to be confused with the Latin word \"avis,\" meaning \"bird\" (an ancestor of such English words as \"avian\" and \"aviation\"). Instead, it results from the Old French phrase \"ce m'est a vis\" (\"that appears to me\"), a partial translation of Latin \"mihi visum est,\" \"it seemed so to me\" or \"I decided.\" We advise you to remember that \"advise\" is spelled with an \"s,\" whereas the related noun \"advice\" includes a stealthy \"c.\""
   }
 }

@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "suzanne-valadon",
+    "name": "Suzanne Valadon",
+    "dates": "Sep 23, 1865 - Apr 7, 1938",
+    "mainImg": "img/art/artists/suzanne-valadon.jpg",
+    "artworkImgs": [
+      {
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/suzanne-valadon-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-suzanne-valadon/KwEeq_nTmSE7kA"
+      },
+      {
+        "name": "The Abandoned Doll",
+        "path": "img/art/artworks/suzanne-valadon-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-abandoned-doll-suzanne-valadon/dgH_u1x14qW4KA"
+      },
+      {
+        "name": "Femmes au bain",
+        "path": "img/art/artworks/suzanne-valadon-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/femmes-au-bain-suzanne-valadon/8QE9n-aTf5pSZQ"
+      },
+      {
+        "name": "Grand-mere et Enfant (Grandmother and Child)",
+        "path": "img/art/artworks/suzanne-valadon-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/grand-mere-et-enfant-grandmother-and-child-suzanne-valadon/1QE1OXakGHPxVQ"
+      },
+      {
+        "name": "La Toilette",
+        "path": "img/art/artworks/suzanne-valadon-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/la-toilette-suzanne-valadon/igFoMnNnWptOsQ"
+      },
+      {
+        "name": "Nudes",
+        "path": "img/art/artworks/suzanne-valadon-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/nudes/8gGmmnOdsYY4Jg"
+      }
+    ],
+    "summary": [
+      "Suzanne Valadon was a French painter and artists' model who was born Marie-Clémentine Valadon at Bessines-sur-Gartempe, Haute-Vienne, France. In 1894, Valadon became the first woman painter admitted to the Société Nationale des Beaux-Arts. She was also the mother of painter Maurice Utrillo.",
+      "Valadon spent nearly 40 years of her life as an artist. The subjects of her drawings and paintings, such as Joy of Life, included mostly female nudes, female portraits, still lifes, and landscapes. She never attended the academy and was never confined within a tradition.",
+      "As a model Valadon appeared in such paintings as Pierre-Auguste Renoir's 1883 Dance at Bougival and Dance in the City, and Henri de Toulouse-Lautrec's 1885 portrait."
+    ],
+    "quote": null,
+    "movements": ["Symbolism", "Post-Impressionism"],
+    "mediums": ["Oil paint", "Etching", "Laid paper", "Drawing", "Graphite", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Suzanne_Valadon",
+    "urlGoogle": "https://artsandculture.google.com/entity/suzanne-valadon/m016k58"
+  },
+  "event": {
+    "id": "battle-of-the-falkland-islands",
+    "name": "Battle of the Falkland Islands",
+    "dates": null,
+    "mainImg": "img/events/battle-of-the-falkland-islands.jpg",
+    "summary": [
+      "The Battle of the Falkland Islands was a First World War naval action between the British Royal Navy and Imperial German Navy on 8 December 1914 in the South Atlantic. The British, after their defeat at the Battle of Coronel on 1 November, sent a large force to track down and destroy the victorious German cruiser squadron. The battle is commemorated every year on 8 December in the Falkland Islands as a public holiday.",
+      "Admiral Graf Maximilian von Spee—commanding the German squadron of two armoured cruisers, SMS Scharnhorst and Gneisenau, the light cruisers SMS Nürnberg, Dresden and Leipzig, and the colliers SS Baden, SS Santa Isabel, and SS Seydlitz—attempted to raid the British supply base at Stanley in the Falkland Islands. The British squadron—consisting of the battlecruisers HMS Invincible and Inflexible, the armoured cruisers HMS Carnarvon, Cornwall and Kent, the armed merchant cruiser HMS Macedonia and the light cruisers HMS Bristol and Glasgow—had arrived in the port the day before.",
+      "Visibility was at its maximum; the sea was placid with a gentle breeze, and the day was bright and sunny. The vanguard cruisers of the German squadron were detected early."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_the_Falkland_Islands",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-the-falkland-islands/m01b5c9"
+  },
+  "funFacts": [
+    {
+      "id": "432",
+      "fact": "Antarctica holds 90% of the world's fresh water.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "704",
+      "fact": "Recycled paper is made using 40% less energy than normal paper.",
+      "category": ["Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "522173",
+      "fact": "Venetia Burney, who at age 11 suggested the name “Pluto” for the ninth planet in our solar system, lived to see it demoted to a dwarf planet in 2006."
+    }
+  ],
+  "person": {
+    "id": "christian-vii-of-denmark",
+    "name": "Christian VII of Denmark",
+    "dates": "Jan 29, 1749 - Mar 13, 1808",
+    "mainImg": "img/people/christian-vii-of-denmark.jpg",
+    "summary": [
+      "Christian VII was a monarch of the House of Oldenburg who was King of Denmark–Norway and Duke of Schleswig and Holstein from 1766 until his death. For his motto he chose: \"Gloria ex amore patriae\".",
+      "Christian VII's reign was marked by mental illness and for most of his reign Christian was only nominally king. His half-brother Frederick was designated as regent of Denmark in 1772. From 1784 until Christian VII's death in 1808, Christian's son, later Frederick VI, acted as unofficial regent."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Christian_VII_of_Denmark",
+    "urlGoogle": "https://artsandculture.google.com/entity/christian-vii-of-denmark/m013jj2"
+  },
+  "place": {
+    "id": "gijon",
+    "name": "Gijón",
+    "mainImg": "img/places/gijon.jpg",
+    "summary": [
+      "Gijón or Xixón is a city in north-western Spain. It is the largest city and municipality by population in the autonomous community of Asturias. It is located on the coast of the Cantabrian Sea in the Bay of Biscay, in the central-northern part of Asturias; it is approximately 24 km north-east of Oviedo, the capital of Asturias, and 26 km from Avilés. With a population of 271,780, Gijón is the 15th largest city in Spain.",
+      "Gijón forms part of a large metropolitan area that includes twenty councils in the center of the region, structured with a dense network of roads, highways and railways and with a population of 835,053 inhabitants in 2011, making it the seventh largest in Spain.",
+      "During the 20th century, Gijón developed as an industrial city in the steel and naval industries. However, due to the decline in manufacturing in these industries, in recent years Gijón is undergoing a transformation into an important tourist, university, commercial and R&D center. Gijón is the location of the Radiotelevisión del Principado de Asturias, the neighbourhood of Cimavilla, the Universidad Laboral de Gijón, the Revillagigedo Palace, and the adjoining Collegiate Church of San Juan Bautista."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gij%C3%B3n",
+    "urlGoogle": "https://artsandculture.google.com/entity/gijón/m0vgw2"
+  },
+  "wiki": {
+    "id": "uss-new-ironsides",
+    "name": "USS New Ironsides",
+    "summary": "USS New Ironsides was a wooden-hulled broadside ironclad built for the United States Navy during the American Civil War. The ship was commissioned midway through the war on 21 August 1862. She spent most of her career blockading the Confederate ports of Charleston, South Carolina, and Wilmington, North Carolina, in 1863–65, and bombarded the fortifications defending Charleston during the First and Second Battles of Charleston Harbor. At the end of 1864 and the beginning of 1865 New Ironsides bombarded the defenses of Wilmington in the First and Second Battles of Fort Fisher. Although she was struck many times by Confederate shells, gunfire never significantly damaged the ship or injured the crew. Her only casualty in combat occurred when she was struck by a spar torpedo carried by the Confederate torpedo boat David. Eight crewmen were awarded the Medal of Honor for their actions during the Second Battle of Fort Fisher in 1865. The ship was placed in reserve after the war but was destroyed by fire in 1866.",
+    "url": "https://en.wikipedia.org/wiki/USS_New_Ironsides"
+  },
+  "word": {
+    "id": "virga",
+    "word": "virga",
+    "url": "https://www.merriam-webster.com/dictionary/virga",
+    "partOfSpeech": "noun",
+    "pronunciation": "VER-guh",
+    "audioPath": "audio/words/virga.mp3",
+    "definitions": ["wisps of precipitation evaporating before reaching the ground"],
+    "examples": [
+      "The _virga_ trailing the evening clouds created an eerie backdrop for our Halloween expedition.",
+      "\"High temperatures and updrafts assure that the rainfall on Venus becomes _virga_…. Any inhabitants on the surface would be grateful that the Venusian super-acid rain doesn’t make it all the way down.\" -- From Michael Carroll's 2011 book _Drifting on Alien Winds_"
+    ],
+    "origin": "\"Virga\" is from the Latin word \"virga,\" which means primarily \"branch\" or \"rod,\" but can also refer to a streak in the sky suggesting rain. Our featured word, which dates to the mid-20th century, is only the latest in a series of words from this root. \"Verge\" (which originally referred to a rod or staff carried as an emblem of authority or a symbol of office) dates to the 15th century. The rare noun \"virgate,\" which refers to an old English unit of land area, came from \"virga\" by way of the Medieval Latin \"virgata\" (also a unit of land area) in the late 17th century. The more common adjective \"virgate,\" meaning \"shaped like a rod or wand\" arrived in the early 19th by way of Latin \"virgatus,\" meaning \"made of twigs.\""
+  }
+}

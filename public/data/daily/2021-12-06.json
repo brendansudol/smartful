@@ -1,0 +1,124 @@
+{
+  "artist": {
+    "id": "ma-yuan",
+    "name": "Ma Yuan",
+    "dates": "1160 - 1225",
+    "mainImg": "img/art/artists/ma-yuan.jpg",
+    "artworkImgs": [
+      {
+        "name": "GENTLEMAN VIEWING THE MOON",
+        "path": "img/art/artworks/ma-yuan-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/gentleman-viewing-the-moon-attributed-to-ma-yuan/-wHFFJobttmWew"
+      },
+      {
+        "name": "南宋 馬遠 高士觀瀑圖 冊頁 絹本|Scholar viewing a waterfall",
+        "path": "img/art/artworks/ma-yuan-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/南宋-馬遠-高士觀瀑圖-冊頁-絹本-scholar-viewing-a-waterfall-ma-yuan/YgEWS6Ht0Y2Yhw"
+      },
+      {
+        "name": "Plum Blossoms above Rocks and Wild Ducks",
+        "path": "img/art/artworks/ma-yuan-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/plum-blossoms-above-rocks-and-wild-ducks-ma-yuan-act-ca-early-13th-c/mgG4RLrX2NR_tA"
+      },
+      {
+        "name": "Mountains in Snow",
+        "path": "img/art/artworks/ma-yuan-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mountains-in-snow-ma-yuan/9AE38a2lQrUsxg"
+      },
+      {
+        "name": "南宋 佚名 倣馬遠 洞天論道圖 團扇|Conversation in a Cave",
+        "path": "img/art/artworks/ma-yuan-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/南宋-佚名-倣馬遠-洞天論道圖-團扇-conversation-in-a-cave-ma-yuan/4AHnlV4wl76f9g"
+      },
+      {
+        "name": "Grand View of Rivers and Mountains",
+        "path": "img/art/artworks/ma-yuan-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/grand-view-of-rivers-and-mountains-artist-traditionally-attributed-to-ma-yuan/MAHPQ7GrH6ZOYQ"
+      }
+    ],
+    "summary": [
+      "Ma Yuan was a Chinese painter of the Song dynasty. His works, together with that of Xia Gui, formed the basis of the so-called Ma-Xia school of painting, and are considered among the finest from the period. His works has inspired both Chinese artists of the Zhe School, as well as the great early Japanese painters Shūbun and Sesshū."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Ink", "Silk", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ma_Yuan_%28painter%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/ma-yuan/m02717lt"
+  },
+  "event": {
+    "id": "lyndon-b-johnson-1965-presidential-inauguration",
+    "name": "Lyndon B. Johnson 1965 presidential inauguration",
+    "dates": null,
+    "mainImg": "img/events/lyndon-b-johnson-1965-presidential-inauguration.jpg",
+    "summary": [
+      "The second inauguration of Lyndon B. Johnson as President of the United States was held on Wednesday, January 20, 1965 at the East Portico of the United States Capitol in Washington, D.C. This was the 45th inauguration and marked the commencement of the second and only full term of Lyndon B. Johnson as President and the only term of Hubert Humphrey as Vice President. Chief Justice Earl Warren administered the Oath of office. Lady Bird Johnson founded the tradition of incoming First Ladies participating in the ceremony by holding the sworn-in president's Bible. Vice President Humphrey was sworn-in by John W. McCormack, the Speaker of the House of Representatives. This was the first inauguration when the president rode in a bulletproof limousine.",
+      "An estimated 1.2 million attended the inauguration, at the time the record holder for any event held at the National Mall until the Obama inauguration in 2009. This was the last time an inauguration was covered by newsreels."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_inauguration_of_Lyndon_B._Johnson",
+    "urlGoogle": "https://artsandculture.google.com/entity/lyndon-b-johnson-1965-presidential-inauguration/m05brw83"
+  },
+  "funFacts": [
+    {
+      "id": "121",
+      "fact": "The only bird that can swim and not fly is a penguin.",
+      "category": ["Animals", "Onlies"]
+    },
+    {
+      "id": "1029",
+      "fact": "Humans share 50% of their DNA with bananas.",
+      "category": ["Anatomy", "Plants", "Science"]
+    }
+  ],
+  "funFacts2": [{ "id": "554253", "fact": "IKEA consumes about 1 percent of the world's lumber." }],
+  "person": {
+    "id": "irma-grese",
+    "name": "Irma Grese",
+    "dates": "Oct 7, 1923 - Dec 13, 1945",
+    "mainImg": "img/people/irma-grese.jpg",
+    "summary": [
+      "Irma Ida Ilse Grese was an SS guard at the Nazi concentration camps of Ravensbrück and Auschwitz, and served as warden of the women's section of Bergen-Belsen.",
+      "Grese was convicted of crimes involving the ill-treatment and murder of prisoners committed at Auschwitz and Bergen-Belsen concentration camps, and sentenced to death at the Belsen trial. Executed at 22 years of age, Grese was the youngest woman to die judicially under British law in the 20th century. Auschwitz inmates nicknamed her the \"Hyena of Auschwitz\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Irma_Grese",
+    "urlGoogle": "https://artsandculture.google.com/entity/irma-grese/m01l0mh"
+  },
+  "place": {
+    "id": "avila",
+    "name": "Ávila‎",
+    "mainImg": "img/places/avila.jpg",
+    "summary": [
+      "Ávila is a city of Spain located in the autonomous community of Castile and León. It is the capital and most populated municipality of the Province of Ávila.",
+      "It lies on the right bank of the Adaja river. Located over 1,130 m above sea level, the city is the highest provincial capital in Spain.",
+      "Distinctly known by its medieval walls, Ávila is sometimes called the Town of Stones and Saints, and it claims that it is one of the towns with the highest number of Romanesque and Gothic churches per capita in Spain. It has complete and prominent medieval town walls, built in the Romanesque style; writer José Martínez Ruiz, in his book El alma castellana, described it as \"perhaps the most 16th-century town in Spain\". The town is also known as Ávila de los Caballeros, Ávila del Rey and Ávila de los Leales, each of these epithets being present in the town standard.",
+      "Orson Welles once named Ávila as the place in which he would most desire to live, calling it a \"strange, tragic place\". Various scenes of his 1965 film Chimes at Midnight were filmed in the town.",
+      "Ávila was declared a UNESCO World Heritage Site in 1985. The site originally consisted of the walled city and four extra muros churches."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/%C3%81vila,_Spain",
+    "urlGoogle": "https://artsandculture.google.com/entity/ávila‎/m0233k8"
+  },
+  "wiki": {
+    "id": "typhoon-rusa",
+    "name": "Typhoon Rusa",
+    "summary": "Typhoon Rusa, the 10th typhoon of the 2002 Pacific typhoon season, was the most powerful to strike South Korea in 43 years. It developed on August 22 from the monsoon trough in the northwestern Pacific Ocean, then moved to the northwest, intensifying into a powerful typhoon. On August 26, the storm moved across the Amami Islands of Japan, causing two fatalities. Across Japan, the typhoon dropped torrential rainfall peaking at 902 mm (35.5 in) in Tokushima Prefecture. After weakening slightly, Rusa made landfall on Goheung, South Korea with winds of 140 km/h (85 mph). It weakened while moving through the country, dropping heavy rainfall that peaked at 897.5 mm (35.33 in) in Gangneung. A 24 hour total of 880 mm (35 in) in the city broke the record for the highest daily precipitation in the country. Over 17,000 houses were damaged, and large areas of crop fields were flooded. In South Korea, Rusa killed at least 233 people. The typhoon also dropped heavy rainfall in neighboring North Korea, leaving 26,000 people homeless and killing three. Rusa also destroyed large areas of crops in the country already affected by ongoing famine conditions.",
+    "url": "https://en.wikipedia.org/wiki/Typhoon_Rusa"
+  },
+  "word": {
+    "id": "exegesis",
+    "word": "exegesis",
+    "url": "https://www.merriam-webster.com/dictionary/exegesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "ek-suh-JEE-sis",
+    "audioPath": "audio/words/exegesis.mp3",
+    "definitions": [
+      "exposition, explanation; especially : an explanation or critical interpretation of a text"
+    ],
+    "examples": [
+      "For his senior thesis, John wrote an _exegesis_ of the novels of D. H. Lawrence.",
+      "\"Were it not for another mini-_exegesis_ hanging alongside 'Witness,' uninitiated viewers might have trouble interpreting this large-scale painting as a response to Ethiopia's drought and famine of the 1980s.\" -- From a review by Kevin J. Kelley in _Seven Days_ (Burlington, Vermont), October 5, 2011"
+    ],
+    "origin": "Theological scholars have long been preoccupied with interpreting the meanings of various passages in the Bible. In fact, because of the sacred status of the Bible in both Judaism and Christianity, biblical interpretation has played a crucial role in both of those religions throughout their histories. English speakers have used the word \"exegesis\" -- a descendant of the Greek term \"exegeisthai,\" meaning \"to explain\" or \"to interpret\" -- to refer to explanations of Scripture since the early 17th century. Nowadays, however, academic writers interpret all sorts of texts, and \"exegesis\" is no longer associated mainly with the Bible."
+  }
+}

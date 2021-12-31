@@ -1,0 +1,110 @@
+{
+  "artist": {
+    "id": "max-beckmann",
+    "name": "Max Beckmann",
+    "dates": "Feb 12, 1884 - Dec 27, 1950",
+    "mainImg": "img/art/artists/max-beckmann.jpg",
+    "artworkImgs": [
+      {
+        "name": "Quappi and Indian",
+        "path": "img/art/artworks/max-beckmann-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/quappi-and-indian-max-beckmann/xwHEA8XV5gQsnA"
+      },
+      {
+        "name": "Conjunto Caribeno",
+        "path": "img/art/artworks/max-beckmann-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/conjunto-caribeno-max-beckmann/iwHGS0hR6vIhdQ"
+      },
+      {
+        "name": "Perseus. Triptych",
+        "path": "img/art/artworks/max-beckmann-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/perseus-triptych-max-beckmann/OAHZLwKhM_iG6w"
+      },
+      {
+        "name": "Clown with Women and Young Clown",
+        "path": "img/art/artworks/max-beckmann-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/clown-with-women-and-young-clown-max-beckmann/gwGlcuIxiVcj8g"
+      }
+    ],
+    "summary": [
+      "Max Beckmann was a German painter, draftsman, printmaker, sculptor, and writer. Although he is classified as an Expressionist artist, he rejected both the term and the movement. In the 1920s, he was associated with the New Objectivity, an outgrowth of Expressionism that opposed its introverted emotionalism."
+    ],
+    "quote": "“Art is creative for the sake of realization, not for amusement... for transfiguration, not for the sake of play.”",
+    "movements": ["Modern art", "New Objectivity"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Max_Beckmann",
+    "urlGoogle": "https://artsandculture.google.com/entity/max-beckmann/m019m90"
+  },
+  "event": {
+    "id": "battle-of-dien-bien-phu",
+    "name": "Battle of Dien Bien Phu",
+    "dates": "Mar 13, 1954 - May 7, 1954",
+    "mainImg": "img/events/battle-of-dien-bien-phu.jpg",
+    "summary": [
+      "The Battle of Dien Bien Phu was a climactic confrontation of the First Indochina War that took place between 13 March and 7 May 1954. It was fought between the French Union's French Far East Expeditionary Corps and Viet Minh communist revolutionaries.",
+      "It was, from the French view before the event, a set piece battle to draw out the Vietnamese and destroy them with superior firepower. As a result of blunders in French decision-making, however, the French began an operation to insert, then support, their soldiers at Điện Biên Phủ, deep in the hills of northwestern Vietnam. The operation's purpose was to cut off Viet Minh supply lines into the neighboring Kingdom of Laos, and draw the Viet Minh into a major confrontation in order to cripple them. The plan was to resupply the French position by air, and was based on the belief that the Viet Minh had no anti-aircraft capability. The Viet Minh, however, under General Võ Nguyên Giáp, surrounded and besieged the French. They brought in vast amounts of heavy artillery and managed to move these bulky weapons through difficult terrain up the rear slopes of the mountains."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-dien-bien-phu/m0hjtz"
+  },
+  "funFacts": [
+    { "id": "749", "fact": "The average housefly lives for one month.", "category": ["Animals"] },
+    {
+      "id": "108",
+      "fact": "Licking a stamp burns 10 calories.",
+      "category": ["Anatomy", "Science"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553510",
+      "fact": "George Washington had only one tooth remaining in his mouth when he was sworn in as president in 1789."
+    }
+  ],
+  "person": {
+    "id": "fevzi-cakmak",
+    "name": "Fevzi Çakmak",
+    "dates": "Jan 12, 1876 - Apr 10, 1950",
+    "mainImg": "img/people/fevzi-cakmak.jpg",
+    "summary": [
+      "Mustafa Fevzi Çakmak was a Turkish field marshal and politician. He served as the Chief of General Staff from 1918 and 1919 and later the Minister of War of the Ottoman Empire in 1920. He later joined the provisional Government of the Grand National Assembly and became the Deputy Prime Minister, Minister of National Defense and later as the Prime Minister of Turkey from 1921 to 1922. He was the second Chief of the General Staff of the provisional Ankara Government and the first Chief of the General Staff of the Republic of Turkey.",
+      "Graduating from the War College as a Staff Captain and assigned to the 4th Department of the General Staff, Mustafa Fevzi participated in numerous battles during the prolonged downfall of the Ottoman Empire, such as the First Balkan War and the Battle of Monastir. He was engaged as the Commander of the V Corps throughout the defence of Gallipoli, during which his younger brother was killed in the Battle of Chunuk Bair. He became a Pasha and the Chief of General Staff of the Ottoman Empire after the First World War and was appointed as the commander of the First Army Troops Inspectorate in 1919 by Grand Vizier Ahmet Tevfik Pasha."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Fevzi_%C3%87akmak",
+    "urlGoogle": "https://artsandculture.google.com/entity/fevzi-çakmak/m05fk3z"
+  },
+  "place": {
+    "id": "yalta",
+    "name": "Yalta",
+    "mainImg": "img/places/yalta.jpg",
+    "summary": [
+      "Yalta is a resort city on the south coast of the Crimean Peninsula surrounded by the Black Sea. It serves as the administrative center of Yalta Municipality, one of the regions within Crimea. Population: 76,746.",
+      "The city is located on the site of an ancient Greek colony, said to have been founded by the Greek conquerors who were looking for a safe shore – yalos in Greek on which to land. It is situated on a deep bay facing south towards the Black Sea, surrounded by the mountain range Ai-Petri. It has a warm humid subtropical climate and is surrounded by numerous vineyards and orchards.",
+      "The term \"Greater Yalta\" is used to designate a part of the Crimean southern coast spanning from Foros in the west to Gurzuf in the east and including the city of Yalta and multiple adjacent urban settlements."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Yalta",
+    "urlGoogle": "https://artsandculture.google.com/entity/yalta/m01jbk6"
+  },
+  "wiki": {
+    "id": "kroger-babb",
+    "name": "Kroger Babb",
+    "summary": "Kroger Babb was an American film and television producer. His marketing techniques were similar to a travelling salesman's, with roots in the medicine-show tradition. Self-described as \"America's Fearless Young Showman,\" he is best known for his presentation of the 1945 exploitation film Mom and Dad, which was added to the National Film Registry of the Library of Congress in 2005. Babb was involved in the production and marketing of many films and television shows, promoting each according to his favorite marketing motto: \"You gotta tell 'em to sell 'em.\" His films ranged from sex education–style dramas to \"documentaries\" on foreign cultures intended to titillate audiences rather than to educate them, maximizing profits via marketing gimmicks.",
+    "url": "https://en.wikipedia.org/wiki/Kroger_Babb"
+  },
+  "word": {
+    "id": "lothario",
+    "word": "lothario",
+    "url": "https://www.merriam-webster.com/dictionary/lothario",
+    "partOfSpeech": "noun",
+    "pronunciation": "loh-THAIR-ee-oh",
+    "audioPath": "audio/words/lothario.mp3",
+    "definitions": ["a man whose chief interest is seducing women"],
+    "examples": [
+      "Marie denounced her ex-boyfriend as a conniving lothario who liked to play the field but who had no interest in making a real commitment."
+    ],
+    "origin": "\"Lothario\" comes from _The Fair Penitent_ (1703), a tragedy by Nicholas Rowe. In the play, Lothario is a notorious seducer, extremely attractive but beneath his charming exterior a haughty and unfeeling scoundrel. He seduces Calista, an unfaithful wife and later the fair penitent of the title. After the play was published, the character of Lothario became a stock figure in English literature. For example, Samuel Richardson modeled the character of Lovelace on Lothario in his 1748 novel _Clarissa_. As the character became well known, his name became progressively more generic, and since the 18th century the word \"lothario\" has been used for a foppish, unscrupulous rake."
+  }
+}

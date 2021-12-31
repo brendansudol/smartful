@@ -1,136 +1,136 @@
 {
   "artist": {
-    "id": "gerard-de-lairesse",
-    "name": "Gerard de Lairesse",
-    "dates": "Sep 11, 1640 - Jul 28, 1711",
-    "mainImg": "img/art/artists/gerard-de-lairesse.jpg",
+    "id": "jean-honore-fragonard",
+    "name": "Jean-Honoré Fragonard",
+    "dates": "Apr 5, 1732 - Aug 22, 1806",
+    "mainImg": "img/art/artists/jean-honore-fragonard.jpg",
     "artworkImgs": [
       {
-        "name": "Anatomische studie van het hoofd, de neus en de tong",
-        "path": "img/art/artworks/gerard-de-lairesse-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/anatomische-studie-van-het-hoofd-de-neus-en-de-tong-pieter-van-gunst-gerard-de-lairesse-weduwe-joannes-van-someren/IAH2gErTMJ37pQ"
+        "name": "Young Girl Reading",
+        "path": "img/art/artworks/jean-honore-fragonard-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/young-girl-reading-jean-honoré-fragonard/JgFJCH9wxBktkg"
       },
       {
-        "name": "Cleopatra's Banquet",
-        "path": "img/art/artworks/gerard-de-lairesse-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/cleopatra-s-banquet-gerard-de-lairesse/TAHsJBPku2nQTA"
+        "name": "The Fountain of Love",
+        "path": "img/art/artworks/jean-honore-fragonard-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-fountain-of-love/OQGTZl4mLLDsGQ"
       },
       {
-        "name": "Aeneas and the Sibyl",
-        "path": "img/art/artworks/gerard-de-lairesse-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/aeneas-and-the-sibyl-gerard-de-lairesse/HQHpWm5F074EQQ"
+        "name": "The Visit to the Nursery",
+        "path": "img/art/artworks/jean-honore-fragonard-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-visit-to-the-nursery-jean-honoré-fragonard/-gENS0_cq2b52Q"
       },
       {
-        "name": "Anatomische studie van de heup",
-        "path": "img/art/artworks/gerard-de-lairesse-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/anatomische-studie-van-de-heup-pieter-van-gunst-gerard-de-lairesse-weduwe-joannes-van-someren/bwES8BN4yenvfQ"
+        "name": "Blind-Mans Buff",
+        "path": "img/art/artworks/jean-honore-fragonard-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/blind-mans-buff-jean-honore-fragonard/-wHTjyGs7bd-6w"
       },
       {
-        "name": "Hiems (Winter)",
-        "path": "img/art/artworks/gerard-de-lairesse-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/hiems-winter-gérard-de-lairesse-dutch-1641–1711/IQFDg6PyJFE0YQ"
+        "name": "A Game of Hot Cockles",
+        "path": "img/art/artworks/jean-honore-fragonard-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-game-of-hot-cockles-jean-honoré-fragonard/YgEVjna97Wb94g"
       },
       {
-        "name": "Aeneas en de Sibille van Cumae",
-        "path": "img/art/artworks/gerard-de-lairesse-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/aeneas-en-de-sibille-van-cumae-gerard-de-lairesse/fQF6PSu3eRO5TQ"
+        "name": "A Game of Horse and Rider",
+        "path": "img/art/artworks/jean-honore-fragonard-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-game-of-horse-and-rider-jean-honoré-fragonard/qAGQRNfPAdwrBA"
       }
     ],
     "summary": [
-      "Gerard or Gérard Lairesse was a Dutch Golden Age painter and art theorist. His broad range of skills included music, poetry, and theatre. De Lairesse was influenced by the Perugian Cesare Ripa and French classicist painters such as Charles le Brun, Simon Vouet and authors such as Pierre Corneille and Jean Racine. His importance grew in the period following the death of Rembrandt. His treatises on painting and drawing, Grondlegginge Ter Teekenkonst, based on geometry and Groot Schilderboek, were highly influential on 18th-century painters."
+      "Jean-Honoré Fragonard was a French painter and printmaker whose late Rococo manner was distinguished by remarkable facility, exuberance, and hedonism. One of the most prolific artists active in the last decades of the Ancien Régime, Fragonard produced more than 550 paintings, of which only five are dated. Among his most popular works are genre paintings conveying an atmosphere of intimacy and veiled eroticism."
     ],
     "quote": null,
-    "movements": ["Baroque", "Dutch Golden Age"],
-    "mediums": ["Etching", "Engraving", "Oil paint", "Drawing", "Ink", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Gerard_de_Lairesse",
-    "urlGoogle": "https://artsandculture.google.com/entity/gerard-de-lairesse/m027st_3"
+    "movements": ["Rococo", "Renaissance", "Baroque", "Romanticism"],
+    "mediums": ["Etching", "Engraving", "Chalk", "Pigment", "Oil paint", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-honoré-fragonard/m02vt1l"
   },
   "event": {
-    "id": "battle-of-the-atlantic",
-    "name": "Battle of the Atlantic",
-    "dates": "Sep 3, 1939 - May 8, 1945",
-    "mainImg": "img/events/battle-of-the-atlantic.jpg",
+    "id": "allied-advance-from-paris-to-the-rhine",
+    "name": "Allied advance from Paris to the Rhine",
+    "dates": "Aug 25, 1944 - Mar 7, 1945",
+    "mainImg": "img/events/allied-advance-from-paris-to-the-rhine.jpg",
     "summary": [
-      "The Battle of the Atlantic, the longest continuous military campaign in World War II, ran from 1939 to the defeat of Nazi Germany in 1945, covering a major part of the Naval history of World War II. At its core was the Allied naval blockade of Germany, announced the day after the declaration of war, and Germany's subsequent counter-blockade. The campaign peaked from mid-1940 through to the end of 1943.",
-      "The Battle of the Atlantic pitted U-boats and other warships of the German Kriegsmarine and aircraft of the Luftwaffe against the Royal Navy, Royal Canadian Navy, United States Navy, and Allied merchant shipping. Convoys, coming mainly from North America and predominantly going to the United Kingdom and the Soviet Union, were protected for the most part by the British and Canadian navies and air forces. These forces were aided by ships and aircraft of the United States beginning September 13, 1941. The Germans were joined by submarines of the Italian Regia Marina after Germany's Axis ally Italy entered the war on June 10, 1940.",
-      "As a small island country, the United Kingdom was highly dependent on imported goods."
+      "The Allied advance from Paris to the Rhine, also known as the Siegfried Line campaign, was a phase in the Western European campaign of World War II.",
+      "This phase spans from the end of the Battle of Normandy, or Operation Overlord, incorporating the German winter counter-offensive through the Ardennes and Operation Nordwind up to the Allies preparing to cross the Rhine in the early months of 1945. This roughly corresponds with the official United States military European Theater of Operations Rhineland and Ardennes-Alsace campaigns."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_the_Atlantic",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-the-atlantic/m0fv96"
+    "urlWiki": "https://en.wikipedia.org/wiki/Allied_advance_from_Paris_to_the_Rhine",
+    "urlGoogle": "https://artsandculture.google.com/entity/allied-advance-from-paris-to-the-rhine/m049mm_"
   },
   "funFacts": [
     {
-      "id": "901",
-      "fact": "The quartz crystal in your wristwatch vibrates 32,768 times a second.",
-      "category": ["Science"]
+      "id": "431",
+      "fact": "A twit is the technical term for a pregnant goldfish.",
+      "category": ["Animals", "Definitions"]
     },
     {
-      "id": "105",
-      "fact": "You will burn about 7% more calories walking on hard dirt than on pavement.",
-      "category": ["Anatomy", "Science"]
+      "id": "702",
+      "fact": "On average, a laptop uses half as much energy as a desktop computer.",
+      "category": ["Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554033",
-      "fact": "The Antikythera mechanism, discovered by sponge divers in 1900, is sometimes called the world's first analog computer. Designed to calculate dates and predict astronomical phenomena, it was so advanced nothing surpassed it for almost 1500 years."
+      "id": "553856",
+      "fact": "Floccinaucinihilipilification—one of the longest words in the English language—is the act of estimating that something is worthless."
     }
   ],
   "idiom": {
-    "id": "cant-see-beyond-the-end-of-ones-nose",
-    "term": "can't see beyond the end of one's nose",
-    "definition": "Also, **can't see farther than the end of one's nose.** Lack foresight, envisioning only immediate events or problems, as in *Thomas hasn't hired an orchestra for the Christmas concert; he just can't see beyond the end of his nose.* This expression originated as a French proverb that was frequently cited in English from about 1700 on. Alexander Pope used a similar expression in his *Essay on Man* (1734): \"Onward still he goes, Yet ne'er looks forward further than his nose.\""
+    "id": "born-with-a-silver-spoon",
+    "term": "born with a silver spoon",
+    "definition": "Born wealthy, or fortunate, or both, as in *Paul can afford to go to medical school; he was born with a silver spoon.* Although some authorities believe this phrase alludes to the custom of godparents giving their godchild a silver spoon, affordable only by rich persons, it is more likely that the spoon has come to symbolize wealth. [c. 1700]"
   },
   "person": {
-    "id": "michelle-obama",
-    "name": "Michelle Obama",
-    "dates": "Born Jan 17, 1964",
-    "mainImg": "img/people/michelle-obama.jpg",
+    "id": "napoleon-bonaparte",
+    "name": "Napoleon Bonaparte",
+    "dates": "Aug 15, 1769 - May 5, 1821",
+    "mainImg": "img/people/napoleon-bonaparte.jpg",
     "summary": [
-      "Michelle LaVaughn Robinson Obama is an American lawyer and author who was the first lady of the United States from 2009 to 2017. She is married to the 44th President of the United States Barack Obama. She is the first African-American First Lady of the United States.",
-      "Raised on the South Side of Chicago, Illinois, Obama is a graduate of Princeton University and Harvard Law School. In her early legal career, she worked at the law firm Sidley Austin where she met Barack Obama. She subsequently worked in non-profits and as the associate dean of Student Services at the University of Chicago as well as the vice president for Community and External Affairs of the University of Chicago Medical Center. Michelle married Barack in 1992, and they have two daughters.",
-      "Obama campaigned for her husband's presidential bid throughout 2007 and 2008, delivering a keynote address at the 2008 Democratic National Convention. She returned to speak for him at the 2012 Democratic National Convention. During the 2016 Democratic National Convention in Philadelphia, she delivered a speech in support of the Democratic presidential nominee, Hillary Clinton, a former first lady."
+      "Napoleon Bonaparte, born Napoleone di Buonaparte, was a French statesman and military leader who rose to prominence during the French Revolution and led several successful campaigns during the French Revolutionary Wars. He was Emperor of the French as Napoleon I from 1804 until 1814 and again briefly in 1815 during the Hundred Days. Napoleon dominated European and global affairs for more than a decade while leading France against a series of coalitions in the Napoleonic Wars. He won most of these wars and the vast majority of his battles, building a large empire that ruled over much of continental Europe before its final collapse in 1815. He is considered one of the greatest commanders in history, and his wars and campaigns are studied at military schools worldwide. Napoleon's political and cultural legacy has endured as one of the most celebrated and controversial leaders in human history.",
+      "He was born Napoleone Buonaparte in Corsica to a relatively modest Italian family from minor nobility. He was serving as an artillery officer in the French army when the French Revolution erupted in 1789."
     ],
-    "quote": "“Together, we can help make sure that every family that walks into a restaurant can make an easy, healthy choice.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Michelle_Obama",
-    "urlGoogle": "https://artsandculture.google.com/entity/michelle-obama/m025s5v9"
+    "quote": "“Nothing is more difficult, and therefore more precious, than to be able to decide.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Napoleon",
+    "urlGoogle": "https://artsandculture.google.com/entity/napoleon-bonaparte/m0j5b8"
   },
   "place": {
-    "id": "palermo",
-    "name": "Palermo",
-    "mainImg": "img/places/palermo.jpg",
+    "id": "padua",
+    "name": "Padua",
+    "mainImg": "img/places/padua.jpg",
     "summary": [
-      "Palermo is a city of Southern Italy, the capital of both the autonomous region of Sicily and the Metropolitan City of Palermo. The city is noted for its history, culture, architecture and gastronomy, playing an important role throughout much of its existence; it is over 2,700 years old. Palermo is located in the northwest of the island of Sicily, right by the Gulf of Palermo in the Tyrrhenian Sea.",
-      "The city was founded in 734 BC by the Phoenicians as Ziz. Palermo then became a possession of Carthage. Two Greek colonies were established, known collectively as Panormos or \"All-Port\"; the Carthaginians used this name on their coins after the 5th century BC. As Panormus, the town became part of the Roman Republic and Empire for over a thousand years. From 831 to 1072 the city was under Arab rule during the Emirate of Sicily when the city first became a capital. The Arabs shifted the Greek name into Balarm, the root for Palermo's present-day name. Following the Norman reconquest, Palermo became the capital of a new kingdom, the Kingdom of Sicily and the primary residence and power base of Holy Roman Emperor Frederick II and King Conrad IV."
+      "Padua is a city and comune in Veneto, northern Italy. Padua is on the river Bacchiglione, west of Venice. It is the capital of the province of Padua. It is also the economic and communications hub of the area. Padua's population is 214,000. The city is sometimes included, with Venice and Treviso, in the Padua-Treviso-Venice Metropolitan Area which has a population of around 2,600,000.",
+      "Padua stands on the Bacchiglione River, 40 kilometres west of Venice and 29 km southeast of Vicenza. The Brenta River, which once ran through the city, still touches the northern districts. Its agricultural setting is the Venetian Plain. To the city's south west lies the Euganaean Hills, praised by Lucan and Martial, Petrarch, Ugo Foscolo, and Shelley.",
+      "It hosts the University of Padua, founded in 1222, where later Galileo Galilei was a lecturer between 1592 and 1610.",
+      "The city is picturesque, with a dense network of arcaded streets opening into large communal piazze, and many bridges crossing the various branches of the Bacchiglione, which once surrounded the ancient walls like a moat.",
+      "Padua is the setting for most of the action in Shakespeare's The Taming of the Shrew."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Palermo",
-    "urlGoogle": "https://artsandculture.google.com/entity/palermo/m09pxc"
-  },
-  "quote": {
-    "id": "80",
-    "quote": "An entrepreneur is someone who jumps off a cliff and builds a plane on the way down.",
-    "author": "Reid Hoffman"
+    "urlWiki": "https://en.wikipedia.org/wiki/Padua",
+    "urlGoogle": "https://artsandculture.google.com/entity/padua/m0d99m"
   },
   "wiki": {
-    "id": "operation-ten-go",
-    "name": "Operation Ten-Go",
-    "summary": "Operation Ten-Go was the last major Japanese naval operation in the Pacific campaign of World War II. The Japanese battleship Yamato, the largest battleship in the world, along with nine other Japanese warships, sortied from Japan on an intentional one-way mission to attack the Allied forces that were invading Okinawa. The Japanese force was attacked, stopped, and almost completely destroyed before reaching Okinawa by U.S. carrier aircraft which sank Yamato and five other Japanese warships. The battle emphasized the aerial control that the U.S. had attained in the Pacific theater as well as the vulnerability of surface ships to aerial attack. The battle also exhibited Japan's willingness to sacrifice large numbers of its people in desperate and suicidal tactics in an attempt to slow or stop the Allied advance on the Japanese homeland.",
-    "url": "https://en.wikipedia.org/wiki/Operation_Ten-Go"
+    "id": "haumea-dwarf-planet",
+    "name": "Haumea (dwarf planet)",
+    "summary": "Haumea is a dwarf planet, one-third the mass of Pluto, in the Kuiper belt. It was discovered in 2004 by a team headed by Mike Brown of Caltech at the Palomar Observatory in the United States, and in 2005 by a team headed by J. L. Ortiz at the Sierra Nevada Observatory in Spain, though the latter claim has been contested. On September 17, 2008, it was accepted as a dwarf planet by the International Astronomical Union (IAU) and named after Haumea, the Hawaiian goddess of childbirth. Haumea's extreme elongation makes it unique among known trans-Neptunian objects. Although its shape has not been directly observed, calculations from its light curve suggest it is an ellipsoid, with its greatest axis twice as long as its shortest. Nonetheless, its gravity is believed sufficient for it to have relaxed into hydrostatic equilibrium, thereby meeting the definition of a dwarf planet. This elongation, along with its unusually rapid rotation, high density, and high albedo (due to a surface of crystalline water ice), are thought to be the results of a giant collision, which left Haumea the largest member of a collisional family that includes several large TNOs and its two known moons.",
+    "url": "https://en.wikipedia.org/wiki/Haumea_(dwarf_planet)"
   },
   "word": {
-    "id": "addlepated",
-    "word": "addlepated",
-    "url": "https://www.merriam-webster.com/dictionary/addlepated",
-    "partOfSpeech": "adjective",
-    "pronunciation": "AD-ul-pay-tud",
-    "audioPath": "audio/words/addlepated.mp3",
-    "definitions": ["being mixed up : confused", "eccentric"],
-    "examples": [
-      "The patient was blabbering like an _addlepated_ fool.",
-      "\"She had lost what little ability she ever had to concentrate and her _addlepated_ mind flitted butterflylike from one often unrelated subject to another.\" - From Tessa Harris's 2012 novel _The Anatomist's Apprentice_"
+    "id": "maunder",
+    "word": "maunder",
+    "url": "https://www.merriam-webster.com/dictionary/maunder",
+    "partOfSpeech": "verb",
+    "pronunciation": "MAWN-der",
+    "audioPath": "audio/words/maunder.mp3",
+    "definitions": [
+      "chiefly British : grumble",
+      "to wander slowly and idly",
+      "to speak indistinctly or disconnectedly"
     ],
-    "origin": "In Middle English an \"adel eye\" was a putrid egg. The stench of such an egg apparently affected the minds of some witty thinkers, who hatched a comparison between the diminished, unsound quality of an \"adel\" (or \"addle\") egg and an empty, confused head-or [pate](https://www.merriam-webster.com/dictionary/pate). \"Your owne imagination, which was no lesse Idle, then your head was addle all that day,\" wrote one 17th-century wit at play with the words \"idle\" and \"addle.\" Today, \"addle\" is often found in combination with words referring to one's noggin, as in \"addlepated,\" \"addlebrained,\" and \"addle-headed.\""
+    "examples": [
+      "Chelsea left a nearly incoherent message on my voicemail, _maundering_ on for several minutes without ever getting around to her reason for calling.",
+      "\"Some of Tyler's students lag behind to chat, _maundering_ along at their own pace.\" - Cody Winchester, _Argus Leader_ (Sioux Falls, South Dakota), May 14, 2011"
+    ],
+    "origin": "_Maunder_ looks a lot like _meander_, and that's not all the two words have in common-both mean \"to wander aimlessly,\" either physically or in speech. Some critics have suggested that while _meander_ can describe a person's verbal and physical rambling, in addition to the wanderings of things like paths and streams, _maunder_ should be limited to wandering words. The problem with that reasoning is that _maunder_ has been used of the physical movements of people since at least 1775, whereas _meander_ didn't acquire that use until around 1831. These days, _meander_ tends to be the more common choice, although _maunder_ does continue to turn up in both applications."
   }
 }

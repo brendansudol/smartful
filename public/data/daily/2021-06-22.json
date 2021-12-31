@@ -1,123 +1,129 @@
 {
   "artist": {
-    "id": "honore-daumier",
-    "name": "Honoré Daumier",
-    "dates": "Feb 26, 1808 - Feb 10, 1879",
-    "mainImg": "img/art/artists/honore-daumier.jpg",
+    "id": "david-teniers-the-younger",
+    "name": "David Teniers the Younger",
+    "dates": "Dec 15, 1610 - Apr 25, 1690",
+    "mainImg": "img/art/artists/david-teniers-the-younger.jpg",
     "artworkImgs": [
       {
-        "name": "Rue Transnonain, le 15 avril 1834",
-        "path": "img/art/artworks/honore-daumier-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/rue-transnonain-le-15-avril-1834-honoré-daumier/-wF5hbeWQ8A-yQ"
+        "name": "A peasant with his wife and child in front of the farmhouse",
+        "path": "img/art/artworks/david-teniers-the-younger-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-peasant-with-his-wife-and-child-in-front-of-the-farmhouse-david-teniers-ii/GQHbUrkWNqd91g"
       },
       {
-        "name": "Third Class Carriage",
-        "path": "img/art/artworks/honore-daumier-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/third-class-carriage-honoré-daumier/gQF1RvxUxDvXJg"
+        "name": "Guardroom with the Deliverance of Saint Peter",
+        "path": "img/art/artworks/david-teniers-the-younger-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/guardroom-with-the-deliverance-of-saint-peter-david-teniers-the-younger/bwF5bs0-KMQ44Q"
       },
       {
-        "name": "Don Quixote in the Mountains",
-        "path": "img/art/artworks/honore-daumier-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/don-quixote-in-the-mountains-honore-daumier/jQGN3y9x3SjVYw"
+        "name": "Female Pilgrim",
+        "path": "img/art/artworks/david-teniers-the-younger-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/female-pilgrim/AQHQ7aL-_KvF3g"
       },
       {
-        "name": "Rue Transnonain",
-        "path": "img/art/artworks/honore-daumier-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/rue-transnonain-honoré-daumier/KQGAOxTw0Xi30g"
+        "name": "The Consultation",
+        "path": "img/art/artworks/david-teniers-the-younger-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-consultation-david-teniers-the-younger/XgFYDKNYHrc4vg"
       },
       {
-        "name": "Le Ventre Legislatif",
-        "path": "img/art/artworks/honore-daumier-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/le-ventre-legislatif-honoré-daumier/GgF1xpcFswAT8Q"
+        "name": "The Prodigal Son",
+        "path": "img/art/artworks/david-teniers-the-younger-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-prodigal-son-david-teniers-the-younger/RQFObqFeZKbtDw"
       },
       {
-        "name": "Ecce Homo",
-        "path": "img/art/artworks/honore-daumier-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/ecce-homo-honoré-daumier/_QGGqqfZkczUcw"
+        "name": "Archduke Leopold William in his Gallery at Brussels",
+        "path": "img/art/artworks/david-teniers-the-younger-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/archduke-leopold-william-in-his-gallery-at-brussels-david-teniers-the-younger/DAFg0iBJKZDQHw"
       }
     ],
     "summary": [
-      "Honoré-Victorin Daumier was a French printmaker, caricaturist, painter, and sculptor, whose many works offer commentary on social and political life in France in the 19th century.",
-      "Daumier produced more than 500 paintings, 4000 lithographs, 1000 wood engravings, 1000 drawings and 100 sculptures. A prolific draughtsman, he was perhaps best known for his caricatures of political figures and satires on the behavior of his countrymen, although posthumously the value of his painting has also been recognized."
+      "David Teniers the Younger or David Teniers II was a Flemish Baroque painter, printmaker, draughtsman, miniaturist painter, staffage painter, copyist and art curator. He was an extremely versatile artist known for his prolific output. He was an innovator in a wide range of genres such as history painting, genre painting, landscape painting, portrait and still life. He is now best remembered as the leading Flemish genre painter of his day. Teniers is particularly known for developing the peasant genre, the tavern scene, pictures of collections and scenes with alchemists and physicians.",
+      "He was court painter and the curator of the collection of Archduke Leopold Wilhelm, the art loving Governor General of the Habsburg Netherlands. He created a printed catalogue of the collections of the Archduke. He was the founder of the Antwerp Academy, where young artists were trained to draw and sculpt in the hope of reviving Flemish art after its decline following the death of the leading Flemish artists Rubens and Anthony van Dyck in the early 1640s. He influenced the next generation of Northern genre painters as well as French Rococo painters such as Antoine Watteau."
     ],
     "quote": null,
-    "movements": ["Realism", "Barbizon school", "Modern art", "Impressionism", "Romanticism"],
-    "mediums": ["Newsprint", "Ink", "Wood", "Engraving", "Pen", "Chalk"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Honor%C3%A9_Daumier",
-    "urlGoogle": "https://artsandculture.google.com/entity/honoré-daumier/m01xq3c"
+    "movements": ["Baroque", "Dutch Golden Age", "Antwerp school"],
+    "mediums": ["Oil paint", "Etching", "Wood", "Pencil", "Engraving", "Oak"],
+    "urlWiki": "https://en.wikipedia.org/wiki/David_Teniers_the_Younger",
+    "urlGoogle": "https://artsandculture.google.com/entity/david-teniers-the-younger/m03h0s3"
   },
   "event": {
-    "id": "selma-to-montgomery-marches",
-    "name": "Selma to Montgomery marches",
-    "dates": "Mar 7, 1965 - Mar 21, 1965",
-    "mainImg": "img/events/selma-to-montgomery-marches.jpg",
+    "id": "yalta-conference",
+    "name": "Yalta Conference",
+    "dates": "Feb 4, 1945 - Feb 11, 1945",
+    "mainImg": "img/events/yalta-conference.jpg",
     "summary": [
-      "The Selma to Montgomery marches were three protest marches, held in 1965, along the 54-mile highway from Selma, Alabama, to the state capital of Montgomery. The marches were organized by nonviolent activists to demonstrate the desire of African-American citizens to exercise their constitutional right to vote, in defiance of segregationist repression; they were part of a broader voting rights movement underway in Selma and throughout the American South. By highlighting racial injustice, they contributed to passage that year of the Voting Rights Act, a landmark federal achievement of the civil rights movement.",
-      "Southern state legislatures had passed and maintained a series of discriminatory requirements and practices that had disenfranchised most of the millions of African Americans across the South throughout the 20th century. The African-American group known as the Dallas County Voters League launched a voter registration campaign in Selma in 1963. Joined by organizers from the Student Nonviolent Coordinating Committee, they began working that year in a renewed effort to register black voters."
+      "The Yalta Conference, also known as the Crimea Conference and code-named the Argonaut Conference, held February 4–11, 1945, was the World War II meeting of the heads of government of the United States, the United Kingdom, and the Soviet Union to discuss the postwar reorganization of Germany and Europe. The three states were represented by President Franklin D. Roosevelt, Prime Minister Winston Churchill, and Premier Joseph Stalin, respectively. The conference was held near Yalta in Crimea, Soviet Union, within the Livadia, Yusupov, and Vorontsov Palaces.",
+      "The aim of the conference was to shape a post-war peace that represented not just a collective security order but a plan to give self-determination to the liberated peoples of post-Nazi Europe. The meeting was intended mainly to discuss the re-establishment of the nations of war-torn Europe. However, within a few short years, with the Cold War dividing the continent, Yalta became a subject of intense controversy.",
+      "Yalta was the second of three major wartime conferences among the Big Three. It was preceded by the Tehran Conference in November 1943, and was followed by the Potsdam Conference in July 1945."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches",
-    "urlGoogle": "https://artsandculture.google.com/entity/selma-to-montgomery-marches/m02_758"
+    "urlWiki": "https://en.wikipedia.org/wiki/Yalta_Conference",
+    "urlGoogle": "https://artsandculture.google.com/entity/yalta-conference/m0n1ly"
   },
   "funFacts": [
-    { "id": "833", "fact": "Children have more taste buds than adults.", "category": ["Anatomy"] },
     {
-      "id": "389",
-      "fact": "In the U.S., all interstate highways that run east to west are even-numbered.",
-      "category": ["Geography"]
+      "id": "225",
+      "fact": "There are towns named Sandwich in Illinois and Massachusetts.",
+      "category": ["Food", "Geography"]
+    },
+    {
+      "id": "816",
+      "fact": "In Ancient Greece, throwing an apple to a woman was considered a marriage proposal.",
+      "category": ["History"]
     }
   ],
   "funFacts2": [
-    { "id": "554055", "fact": "The average cumulus cloud weighs roughly 1.1 million pounds." }
+    { "id": "554252", "fact": "Continental plates drift as fast as fingernails grow." }
   ],
   "idiom": {
-    "id": "old-chestnut",
-    "term": "old chestnut",
-    "definition": "A stale joke, story, or saying, as in *Dad keeps on telling that old chestnut about how many psychiatrists it takes to change a light bulb.* This expression comes from William Dimond's play, *The Broken Sword* (1816), in which one character keeps repeating the same stories, one of them about a cork tree, and is interrupted each time by another character who says \"Chestnut, you mean... I have heard you tell the joke twenty-seven times and I am sure it was a chestnut.\""
+    "id": "all-wool-and-a-yard-wide",
+    "term": "all wool and a yard wide",
+    "definition": "Genuine, not fake; of excellent quality; also, honorable. For example, *You can count on Ned---he's all wool and a yard wide.* This metaphorical term alludes to a length of highly valued pure-wool cloth that measures exactly a yard (and not an inch less). [Late 1800s]"
   },
   "person": {
-    "id": "wladyslaw-sikorski",
-    "name": "Władysław Sikorski",
-    "dates": "May 20, 1881 - Jul 4, 1943",
-    "mainImg": "img/people/wladyslaw-sikorski.jpg",
+    "id": "lou-dobbs",
+    "name": "Lou Dobbs",
+    "dates": "Born Sep 24, 1945",
+    "mainImg": "img/people/lou-dobbs.jpg",
     "summary": [
-      "Władysław Eugeniusz Sikorski was a Polish military and political leader.",
-      "Prior to the First World War, Sikorski established and participated in several underground organizations that promoted the cause of the independence of Poland from the Russian Empire. He fought with distinction in the Polish Legions during the First World War, and later in the newly created Polish Army during the Polish–Soviet War of 1919 to 1921. In that war he played a prominent role in the decisive Battle of Warsaw. In the early years of the Second Polish Republic, Sikorski held government posts, including serving as Prime Minister and as Minister of Military Affairs. Following Józef Piłsudski's May Coup of 1926 and the installation of the Sanation government, he fell out of favor with the new régime.",
-      "During the Second World War, Sikorski became Prime Minister of the Polish government-in-exile, Commander-in-Chief of the Polish Armed Forces, and a vigorous advocate of the Polish cause in the diplomatic sphere."
-    ],
-    "quote": "“Today it is time for strong and courageous people because only they can achieve victory and rid the world of tyranny.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Sikorski",
-    "urlGoogle": "https://artsandculture.google.com/entity/władysław-sikorski/m01zl37"
-  },
-  "place": {
-    "id": "karagandy",
-    "name": "Karagandy",
-    "mainImg": "img/places/karagandy.jpg",
-    "summary": [
-      "Karaganda or Qaraghandy is the capital of Karaganda Region in the Republic of Kazakhstan. It is the fourth most populous city in Kazakhstan, behind Almaty, Nur-Sultan and Shymkent. Population: 459,778; 436,864. Karaganda is approximately 230 km south-east of Kazakhstan's capital Nur-Sultan.",
-      "In the 1940s up to 70% of the city's inhabitants were ethnic Germans. Most of the ethnic Germans were Soviet Volga Germans who were collectively deported to Siberia and Kazakhstan on Stalin's order when Hitler invaded Soviet-annexed eastern Poland and the Soviet Union proper in 1941. Until the 1950s, many of these deportees were interned in labor camps, often simply because they were of German descent. The population of Karaganda fell by 14% from 1989-1999 following the dissolution of the Soviet Union; it was once Kazakhstan's second-largest city after Almaty. Over 100,000 people have since emigrated to Germany. There is also a concentration of ethnic Poles in the city."
+      "Louis Carl Dobbs is an American television commentator, opponent of immigration, conspiracy theorist, radio show host, and the anchor of Lou Dobbs Tonight on Fox Business Network.",
+      "Dobbs started working with CNN at its inception in 1980, serving as a reporter and network vice president. On the air, he served as host and managing editor of the network's business program, Moneyline, which premiered in 1980. The show was renamed Lou Dobbs Tonight in 2003. Dobbs resigned from CNN for a short period of time in 1999 but rejoined the network in 2001. He resigned once again in November 2009. In 2011, he joined the Fox Business Network, resuming and anchoring his show, Lou Dobbs Tonight. He is the former talk radio host of Lou Dobbs Radio. Dobbs has authored several books since 2001.",
+      "Dobbs was an early promoter of birther conspiracy theories, which falsely posit that former U.S. President Barack Obama is not a natural born US citizen. He is known for anti-immigration views, as well as for various deep state conspiracy theories and opposition to NAFTA and other trade deals. A Trump confidant, his show is known for its pro-Trump coverage."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Karaganda",
-    "urlGoogle": "https://artsandculture.google.com/entity/karagandy/m01nlrz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lou_Dobbs",
+    "urlGoogle": "https://artsandculture.google.com/entity/lou-dobbs/m03m0hn"
+  },
+  "place": {
+    "id": "durham",
+    "name": "Durham",
+    "mainImg": "img/places/durham.jpg",
+    "summary": [
+      "Durham is a city in and the county seat of Durham County in the U.S. state of North Carolina. Small portions of the city limits extend into Orange County and Wake County.",
+      "The U.S. Census Bureau estimated the city's population to be 278,993 as of July 1, 2019, making it the 4th-most populous city in North Carolina, and the 79th-most populous city in the United States. The city is located in the east-central part of the Piedmont region along the Eno River. Durham is the core of the four-county Durham-Chapel Hill Metropolitan Area, which has a population of 542,710 as of U.S. Census 2014 Population Estimates. The US Office of Management and Budget also includes Durham as a part of the Raleigh-Durham-Chapel Hill Combined Statistical Area, commonly known as the Research Triangle, which has a population of 2,037,430 as of U.S. Census 2014 Population Estimates.",
+      "A railway depot was established on land donated by Bartlett S. Durham in 1849, the namesake of the city. Following the American Civil War, the community of Durham Station expanded rapidly, in part due to the tobacco industry. The town was incorporated by act of the North Carolina General Assembly, on April 1869."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Durham,_North_Carolina",
+    "urlGoogle": "https://artsandculture.google.com/entity/durham/m013hxv"
   },
   "wiki": {
-    "id": "robert-lawson-architect",
-    "name": "Robert Lawson (architect)",
-    "summary": "Robert Arthur Lawson is considered one of New Zealand's most eminent 19th century architects. Lawson has been described as the architect who did more than any other to shape the architectural face of Victorian era cities, especially Dunedin. However, it is as the architect of over forty churches, including his monumental Gothic First Church and New Zealand's only complete \"castle\", Larnach Castle, that he is best remembered. Lawson is acclaimed for his work in both the Gothic revival and classical styles of architecture. He was prolific, and while isolated buildings remain in Scotland and Australia, it is in the Dunedin area that most surviving examples can now be found. Today he is held in high esteem in his adopted country; however, at the time of his death his reputation and architectural skills were still held by many in contempt following the partial collapse of his Seacliff lunatic asylum, at the time New Zealand's largest building. The great plaudits denied him in his lifetime were not to come until nearly a century after his death, when the glories of Victorian architecture began again to be recognised and appreciated.",
-    "url": "https://en.wikipedia.org/wiki/Robert_Lawson_(architect)"
+    "id": "adriaen-van-der-donck",
+    "name": "Adriaen van der Donck",
+    "summary": "Adriaen van der Donck was a lawyer and landowner in New Netherland, after whom the city of Yonkers, New York is named. In addition to being the first lawyer in the Dutch colony, he was a leader in the political life of New Amsterdam, modern New York City, and an activist for Dutch-style republican government in the Dutch West India Company-run trading post. His efforts resulted in a municipal charter for the city, which was enacted on February 2, 1653. Enchanted by his new homeland, Van der Donck left detailed accounts of the land, vegetation, animals, waterways, topography, and climate. He used this knowledge to actively promote immigration to the colony, publishing several tracts, including his influential Description of New Netherland. He is also recognized as a sympathetic early Native American ethnographer, having learned the languages and customs of the Mahicans and Mohawks.",
+    "url": "https://en.wikipedia.org/wiki/Adriaen_van_der_Donck"
   },
   "word": {
-    "id": "kickshaw",
-    "word": "kickshaw",
-    "url": "https://www.merriam-webster.com/dictionary/kickshaw",
-    "partOfSpeech": "noun",
-    "pronunciation": "KICK-shaw",
-    "audioPath": "audio/words/kickshaw.mp3",
-    "definitions": ["a fancy dish", "a showy trifle"],
+    "id": "superjacent",
+    "word": "superjacent",
+    "url": "https://www.merriam-webster.com/dictionary/superjacent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "soo-per-JAY-sunt",
+    "audioPath": "audio/words/superjacent.mp3",
+    "definitions": ["lying above or upon : overlying"],
     "examples": [
-      "The shop was filled with refrigerator magnets, back-scratchers, snow globes, and other kickshaws, all adorned with images of smiling pigs."
+      "\"Foreign states enjoy the right of overflight in the airspace superjacent to a coastal state's 200-mile exclusive economic zone . . .” (James C. Hsiung, _The New York Times_, April 14, 2001)"
     ],
-    "origin": "“Kickshaw” began its career in the late 16th century as a borrowing from the French \"quelque chose\" -- literally, “something.” In line with the French pronunciation of the day, the “l” was dropped and the word was anglicized as \"kickshaws\" or \"kickshoes.\" English speakers soon lost all consciousness of the word’s French origin and, by taking \"kickshaws\" as plural, created the new singular noun “kickshaw.”"
+    "origin": "You're probably familiar with \"adjacent,\" and if you guessed that it's a relative of \"superjacent,\" you're right. Both derive from the Latin verb \"jacere,\" meaning \"to lie.\" \"Adjacent,\" which is both the more popular and the earlier word (it first appeared in print in the 15th century, while \"superjacent\" turned up in 1610), comes from \"jacere\" and the prefix \"ad-,\" meaning \"near.\" \"Superjacent,\" on the other hand, was formed by combining \"jacere\" with the prefix \"super-,\" meaning \"over,\" \"above,\" or \"on top of.\" In case you were wondering, \"jacere\" descendants are also available for other possible configurations-\"subjacent\" means \"lying below,\" and \"circumjacent\" means \"lying near on all sides\" or \"surrounding.\""
   }
 }

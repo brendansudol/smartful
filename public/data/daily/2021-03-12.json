@@ -1,136 +1,141 @@
 {
   "artist": {
-    "id": "jacob-jordaens",
-    "name": "Jacob Jordaens",
-    "dates": "May 19, 1593 - Oct 18, 1678",
-    "mainImg": "img/art/artists/jacob-jordaens.jpg",
+    "id": "alessandro-allori",
+    "name": "Alessandro Allori",
+    "dates": "May 31, 1535 - Sep 22, 1607",
+    "mainImg": "img/art/artists/alessandro-allori.jpg",
     "artworkImgs": [
       {
-        "name": "The Holy Family with Shepherds",
-        "path": "img/art/artworks/jacob-jordaens-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-holy-family-with-shepherds-jacob-jordaens/5QE78mXGUKhKNg"
+        "name": "The Body of Christ with Two Angels",
+        "path": "img/art/artworks/alessandro-allori-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-body-of-christ-with-two-angels-alessandro-allori/JQFnoKpzNqZi3g"
       },
       {
-        "name": "Mercure et Argus",
-        "path": "img/art/artworks/jacob-jordaens-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/mercure-et-argus-jacob-jordaens/nAFYvCJIi-OtfQ"
+        "name": "The Abduction of Proserpine",
+        "path": "img/art/artworks/alessandro-allori-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-abduction-of-proserpine-alessandro-allori/CQFBg_X4Ily7sA"
       },
       {
-        "name": "Allegory of Fertility",
-        "path": "img/art/artworks/jacob-jordaens-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/allegory-of-fertility-jacques-jordaens/SQGTPhLdrhrpHg"
+        "name": "Portrait of Francesco I de'Medici",
+        "path": "img/art/artworks/alessandro-allori-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-francesco-i-de-medici-alessandro-allori/rQHvAThkYj1iqg"
       },
       {
-        "name": "Jupiter and Mercury in the House of Philemon and Baucis",
-        "path": "img/art/artworks/jacob-jordaens-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/jupiter-and-mercury-in-the-house-of-philemon-and-baucis-jacob-jordaens/8AG2eapZA6QPZA"
+        "name": "Portrait of a Noblewoman with her Son",
+        "path": "img/art/artworks/alessandro-allori-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-noblewoman-with-her-son-alessandro-allori/0gEKhHpHDgTuJA"
       },
       {
-        "name": "The Virgin and Child with St. John and His Parents",
-        "path": "img/art/artworks/jacob-jordaens-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-with-st-john-and-his-parents-jacob-jordaens/2wHpFDn1AUVb5Q"
+        "name": "Retrato de niña con larga cadena de cuentas de coral",
+        "path": "img/art/artworks/alessandro-allori-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/retrato-de-niña-con-larga-cadena-de-cuentas-de-coral-alessandro-allori/0gHjSchmX0mBQg"
       },
       {
-        "name": "Satyr Playing the Pipe (Jupiter's Childhood) (fragment)",
-        "path": "img/art/artworks/jacob-jordaens-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/satyr-playing-the-pipe-jupiter-s-childhood-fragment-jacob-jordaens/QgFYwwnIvypLNA"
+        "name": "Venus Disarming Cupid",
+        "path": "img/art/artworks/alessandro-allori-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-disarming-cupid-alessandro-allori/mwE8v_iuajBEXA"
       }
     ],
     "summary": [
-      "Jacob Jordaens was a Flemish painter, draughtsman and tapestry designer known for his history paintings, genre scenes and portraits. After Peter Paul Rubens and Anthony van Dyck, he was the leading Flemish Baroque painter of his day. Unlike those contemporaries he never travelled abroad to study Italian painting, and his career is marked by an indifference to their intellectual and courtly aspirations. In fact, except for a few short trips to locations in the Low Countries, he remained in Antwerp his entire life. As well as being a successful painter, he was a prominent designer of tapestries.",
-      "Like Rubens, Jordaens painted altarpieces, mythological, and allegorical scenes, and after 1640—the year Rubens died—he was the most important painter in Antwerp for large-scale commissions and the status of his patrons increased in general. However, he is best known today for his numerous large genre scenes based on proverbs in the manner of his contemporary Jan Brueghel the Elder, depicting The King Drinks and As the Old Sing, So Pipe the Young."
+      "Alessandro di Cristofano di Lorenzo del Bronzino Allori was an Italian portrait painter of the late Mannerist Florentine school.",
+      "In 1540, after the death of his father, he was brought up and trained in art by a close friend, often referred to as his 'uncle', the mannerist painter Agnolo Bronzino, whose name he sometimes assumed in his pictures. In some ways, Allori is the last of the line of prominent Florentine painters, of generally undiluted Tuscan artistic heritage: Andrea del Sarto worked with Fra Bartolomeo, Pontormo briefly worked under Andrea, and trained Bronzino, who trained Allori. Subsequent generations in the city would be strongly influenced by the tide of Baroque styles pre-eminent in other parts of Italy.",
+      "Freedberg derides Allori as derivative, claiming he illustrates \"the ideal of Maniera by which art are generated out of pre-existing art.\" The polish of figures has an unnatural marble-like form as if he aimed for cold statuary."
     ],
     "quote": null,
-    "movements": ["Baroque", "Antwerp school", "Dutch Golden Age"],
-    "mediums": ["Oil paint", "Chalk", "Pigment", "Drawing", "Ink", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jacob_Jordaens",
-    "urlGoogle": "https://artsandculture.google.com/entity/jacob-jordaens/m01bbhf"
+    "movements": ["Mannerism", "Renaissance"],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Ink", "Pen", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alessandro_Allori",
+    "urlGoogle": "https://artsandculture.google.com/entity/alessandro-allori/m0rvt"
   },
   "event": {
-    "id": "vostok-3",
-    "name": "Vostok 3",
-    "dates": "Aug 11, 1962 - Aug 15, 1962",
-    "mainImg": "img/events/vostok-3.jpg",
+    "id": "june-1976-protests",
+    "name": "June 1976 protests",
+    "dates": "Jun 24, 1976 - Jun 30, 1976",
+    "mainImg": "img/events/june-1976-protests.jpg",
     "summary": [
-      "Vostok 3 was a spaceflight of the Soviet space program intended to determine the ability of the human body to function in conditions of weightlessness and test the endurance of the Vostok 3KA spacecraft over longer flights. Cosmonaut Andriyan Nikolayev orbited the Earth 64 times over nearly four days in space, August 11–15, 1962, a feat which would not be matched by NASA until the Gemini program.",
-      "Vostok 3 and Vostok 4 were launched a day apart on trajectories that brought the spacecraft within approximately 6.5 km of one another. The cosmonauts aboard the two capsules also communicated with each other via radio, the first ship-to-ship communications in space. These missions marked the first time that more than one crewed spacecraft was in orbit at the same time, giving Soviet mission controllers the opportunity to learn to manage this scenario."
+      "June 1976 is the name of a series of protests and demonstrations in People's Republic of Poland. The protests took place after Prime Minister Piotr Jaroszewicz revealed the plan for a sudden increase in the price of many basic commodities, particularly foodstuffs. Prices in Poland were at that time fixed, and controlled by the government, which was falling into increasing debt.",
+      "The protests started on 24 June and lasted until 30 June, the largest violent demonstrations and looting taking place in Płock, the Warsaw suburb of Ursus, and particularly Radom. The protests were brutally quelled by the government using tanks and helicopters, but the plan for the price increase was shelved; Polish leader Edward Gierek backed down and dismissed Prime Minister Jaroszewicz. This left the government looking both economically foolish and politically weak, a very dangerous combination. The 1976 disturbances and the subsequent arrests and dismissals of militant workers brought the workers and the intellectual opposition to the regime back into contact."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Vostok_3",
-    "urlGoogle": "https://artsandculture.google.com/entity/vostok-3/m01bgbw"
+    "urlWiki": "https://en.wikipedia.org/wiki/June_1976_protests",
+    "urlGoogle": "https://artsandculture.google.com/entity/june-1976-protests/m02qlbng"
   },
   "funFacts": [
     {
-      "id": "170",
-      "fact": "In 1878, the first telephone book ever issued contained only 50 names.",
-      "category": ["Firsts"]
+      "id": "29",
+      "fact": "On average a human will spend up to 2 weeks kissing in his/her lifetime.",
+      "category": ["Habits"]
     },
     {
-      "id": "172",
-      "fact": "The eye makes movements 50 times every second.",
-      "category": ["Anatomy"]
+      "id": "375",
+      "fact": "\"Way\" is the most frequently used noun in the English language.",
+      "category": ["Habits"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553827",
-      "fact": "According to a 2014 study, the melting properties of mozzarella make it the best cheese for topping pizza."
+      "id": "553491",
+      "fact": "The towns of Baarle straddle the Dutch-Belgian border. In some places, the official border line cuts through houses and cafes."
     }
   ],
   "idiom": {
-    "id": "occams-razor",
-    "term": "Occam's razor",
-    "definition": "The idea that the simplest explanation is probably the best. William of Occam was a Franciscan friar and philosopher (c. 1280-1349) whose writings so angered the Pope that he was excommunicated. His original statement was *Entia non sunt multiplicanda praeter necessitatem* (Entities should not be multiplied more than necessary). It was a French philosopher, Etienne Bonnot de Condillac, who in 1746 likened the idea to a razor, that is, cutting through complex ideas to reach the truth, and nearly a century later Sir William Hamilton, in an 1836 lecture, coined the present idiom. While it is not often heard today, it is not obsolete. Archer Mayor used it as the title of his 1999 mystery novel."
+    "id": "sum-and-substance",
+    "term": "sum and substance",
+    "definition": "The essence or gist of something, as in *The sum and substance of their platform is financial conservatism.* This redundant expression---both *sum* and *substance* here mean \"essence\"---has probably survived owing to alliteration. Shakespeare used it in *The Two Gentlemen of Verona* (4:1): \"My riches are these poor habiliments [clothes], Of which if you should here disfurnish me, You take the sum and substance that I have.\""
   },
   "person": {
-    "id": "prudente-de-morais",
-    "name": "Prudente de Morais",
-    "dates": "Oct 4, 1841 - Dec 3, 1902",
-    "mainImg": "img/people/prudente-de-morais.jpg",
+    "id": "bob-kerrey",
+    "name": "Bob Kerrey",
+    "dates": "Born Aug 27, 1943",
+    "mainImg": "img/people/bob-kerrey.jpg",
     "summary": [
-      "Prudente José de Morais e Barros was the third President of Brazil. He is notable as the first civilian president of the country, the first to be elected by direct popular ballot under the permanent provisions of Brazil's 1891 Constitution, and the first to serve his term in its entirety. His presidency, which lasted from 15 November 1894 until 14 November 1898, was marked by the War of Canudos, a campesinant revolt in the northeast of the country that was crushed by the Brazilian Army. He also had to face a break in diplomatic relations with Portugal that was successfully mediated by Queen Victoria of the United Kingdom.",
-      "Previously he had been the Governor of the State of São Paulo and President of the Senate from 1891 to 1894. He was also president of the Constituent Congress that drafted and approved Brazil's 1891 Constitution.",
-      "The city of Presidente Prudente, located in the western part of the State of São Paulo, is named after him.",
-      "His ancestry dated back to the early Portuguese settlers of Brazil."
+      "Joseph Robert Kerrey is an American politician who served as the 35th Governor of Nebraska from 1983 to 1987 and as a United States Senator from Nebraska from 1989 to 2001. Before entering politics, he served in the Vietnam War as a United States Navy SEAL officer and was awarded the Medal of Honor for heroism in combat. During the action for which he was awarded the Medal of Honor, he was severely wounded, precluding further naval service.",
+      "Kerrey was a candidate for the Democratic presidential nomination in 1992. He retired from the Senate in 2000 and was replaced by former Governor and fellow Democrat Ben Nelson. From 2001 to 2010, he served as president of The New School, a university in New York City. In May 2010, he was selected to become the head of the Motion Picture Association of America. The MPAA, however, could not reach an agreement with him and chose former Connecticut Senator Chris Dodd instead.",
+      "In 2012, Kerrey sought election to his old Senate seat to succeed retiring Democratic incumbent Ben Nelson. He lost to Republican nominee Deb Fischer.",
+      "In 2013, Kerrey joined the Carmen Group lobbying firm."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Prudente_de_Morais",
-    "urlGoogle": "https://artsandculture.google.com/entity/prudente-de-morais/m03s8sd"
+    "quote": "“There is no force more liberating than the knowledge that you are fighting for others.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Bob_Kerrey",
+    "urlGoogle": "https://artsandculture.google.com/entity/bob-kerrey/m0238fl"
   },
   "place": {
-    "id": "serbia",
-    "name": "Serbia",
-    "mainImg": "img/places/serbia.jpg",
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "mainImg": "img/places/saudi-arabia.jpg",
     "summary": [
-      "Serbia, officially the Republic of Serbia, is a landlocked country situated at the crossroads of Central and Southeast Europe in the southern Pannonian Plain and the central Balkans. It borders Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest. The country claims a border with Albania through the disputed territory of Kosovo. Serbia's population numbers approximately seven million without Kosovo or 8.8 million if the territory is included. Its capital, Belgrade, ranks among the largest and oldest citiеs in southeastern Europe.",
-      "Inhabited since the Paleolithic Age, the territory of modern-day Serbia faced Slavic migrations to Southeastern Europe in the 6th century, establishing several regional states in the early Middle Ages at times recognised as tributaries to the Byzantine, Frankish and Hungarian kingdoms. The Serbian Kingdom obtained recognition by the Holy See and Constantinople in 1217, reaching its territorial apex in 1346 as the relatively short-lived Serbian Empire."
+      "Saudi Arabia, officially the Kingdom of Saudi Arabia, is a country in Western Asia constituting the bulk of the Arabian Peninsula. With a land area of approximately 2,150,000 km², Saudi Arabia is geographically the largest sovereign state in Western Asia, the second-largest in the Arab world, the fifth-largest in Asia, and the 12th-largest in the world. Saudi Arabia is bordered by Jordan and Iraq to the north, Kuwait to the northeast, Qatar, Bahrain, and the United Arab Emirates to the east, Oman to the southeast and Yemen to the south; it is separated from Egypt and Israel by the Gulf of Aqaba. It is the only country with both a Red Sea coast and a Persian Gulf coast, and most of its terrain consists of arid desert, lowland and mountains. As of October 2018, the Saudi economy was the largest in the Middle East and the 18th largest in the world. Saudi Arabia also has one of the world's youngest populations: 50 percent of its 33.4 million people are under 25 years old.",
+      "The territory that now constitutes Saudi Arabia was the site of several ancient cultures and civilizations. The prehistory of Saudi Arabia shows some of the earliest traces of human activity in the world."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Serbia",
-    "urlGoogle": "https://artsandculture.google.com/entity/serbia/m077qn"
+    "urlWiki": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+    "urlGoogle": "https://artsandculture.google.com/entity/saudi-arabia/m01z215"
   },
   "quote": {
-    "id": "13",
-    "quote": "The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into smaller manageable tasks, and then starting on the first one.",
-    "author": "Mark Twain"
+    "id": "127",
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
   },
   "wiki": {
-    "id": "pierre-monteux",
-    "name": "Pierre Monteux",
-    "summary": "Pierre Monteux (1875–1964) was a French (later American) conductor, who directed orchestras around the world for more than half a century. After violin and viola studies, and a decade as an orchestral player and occasional conductor, he began to receive regular conducting engagements in 1907. He came to prominence when he conducted the world premieres of ballets such as The Rite of Spring, Daphnis et Chloé, and Jeux. From 1917 to 1919 he was the principal conductor of the French repertoire at the Metropolitan Opera. He then led the Boston Symphony Orchestra, the Concertgebouw Orchestra (1924–34), Orchestre Symphonique de Paris (1929–38), San Francisco Symphony (1936–52), and from 1961, aged eighty-six, the London Symphony Orchestra. Monteux's chief love was the music of German composers, above all Brahms. He disliked recording, finding it incompatible with spontaneity, but made a substantial number of records. He began to teach conducting in Paris in 1932. After moving permanently to the US in 1942, he founded the Pierre Monteux School in Hancock, Maine, which has continued. His students included Igor Markevitch, Neville Marriner, André Previn, Lorin Maazel and Seiji Ozawa.",
-    "url": "https://en.wikipedia.org/wiki/Pierre_Monteux"
+    "id": "shotgun-house",
+    "name": "Shotgun house",
+    "summary": "The shotgun house is a type of house that was the most popular style in the American South from just after the Civil War until the 1920s. The style was developed in New Orleans, but these houses can be found as far away as Chicago and California. Shotgun houses are characterized by their narrow rectangular structure, usually no more than 12 feet (3.5 m) wide, three to five rooms deep, all connected to each other with no hallways, with doors at each end. The term \"shotgun\" is usually said to come from the saying that one could fire a shotgun through the front door and the pellets would fly cleanly through the house and out the back door. Initially popular with the middle class as much as with the poor, shotgun houses became a symbol of poverty in the mid-20th century. Opinion is now more mixed, with some becoming the targets of bulldozing due to urban renewal, but others the recipients of historic preservation and gentrification. They remain the most prevalent housing in many southern U.S. cities and towns.",
+    "url": "https://en.wikipedia.org/wiki/Shotgun_house"
   },
   "word": {
-    "id": "quondam",
-    "word": "quondam",
-    "url": "https://www.merriam-webster.com/dictionary/quondam",
-    "partOfSpeech": "adj",
-    "pronunciation": "KWAHN-dum",
-    "audioPath": "audio/words/quondam.mp3",
-    "definitions": ["former, sometime"],
-    "examples": [
-      "A quondam rodeo champ, circuit preacher, and peanut farmer, Baxter has settled into his new life as a stand-up comedian."
+    "id": "shinplaster",
+    "word": "shinplaster",
+    "url": "https://www.merriam-webster.com/dictionary/shinplaster",
+    "partOfSpeech": "noun",
+    "pronunciation": "SHIN-plass-ter",
+    "audioPath": "audio/words/shinplaster.mp3",
+    "definitions": [
+      "a piece of privately issued paper currency; especially : one poorly secured and depreciated in value",
+      "a piece of paper money in denominations of less than one dollar"
     ],
-    "origin": "Looking for an unusual and creative way to say \"former\"? \"Quondam\" (which came to English in the 16th century from Latin _quondam_, meaning \"at one time\" or \"formerly\") certainly fits the bill. Or maybe you'd prefer one of its synonyms: \"whilom,\" \"ci-devant\" or \"preterit.\" Or you could really go crazy with \"umquhile,\" a word that is extremely rare even in its more natural Scots English setting. \"Quondam\" itself isn't exactly ubiquitous, but it's used more than any of the other words above. If you're looking for something a bit more pedestrian, you might try yet another synonym: \"erstwhile.\" Despite its wonderfully archaic flavor, \"erstwhile\" is a highly favored alternative."
+    "examples": [
+      "It was the same during the Civil War when the government again turned to the printing press to finance the war. So-called 'greenbacks' … and '_shinplasters_,' paper 5-, 10-, 25- and 50-cent pieces, were printed by the thousands to help pay Union soldiers and relieve a coin shortage caused by hoarding.\" - From an article by John Schmeltzer in the _Chicago Tribune_, May 12, 1995",
+      "\"'Some Canadians consider the penny more of a nuisance than a useful coin,' the budget documents said. And so the coin will go the way of the old 25-cent _shinplaster_.\" - From an article by John Ward of _The Canadian Press_, March 29, 2012"
+    ],
+    "origin": "In the past, \"shinplaster\" referred to a small, square patch of paper that was used as a [plaster](https://www.merriam-webster.com/dictionary/plaster) in treating sore legs. In 19th-century America, the term \"shinplaster\" was applied to another paper Band-Aid fix: the privately-issued, poorly-secured notes substituted for the coins withdrawn from current circulation. The lexical currency of \"shinplaster\" spiked when it began being used for the paper money in denominations of less than a dollar-a.k.a. \"fractional currency\"-issued by the United States government after the depression of 1837 and during the Civil War. In 1870, the U.S.'s neighbor to the north, Canada, issued its own shinplaster, a 25-cent note, which fell into disuse in the early 20th century."
   }
 }

@@ -1,131 +1,137 @@
 {
   "artist": {
-    "id": "johannes-gutenberg",
-    "name": "Johannes Gutenberg",
-    "dates": "Died Feb 3, 1468",
-    "mainImg": "img/art/artists/johannes-gutenberg.jpg",
+    "id": "elisabeth-daynes",
+    "name": "Élisabeth Daynès",
+    "dates": "Born Apr 6, 1960",
+    "mainImg": "img/art/artists/elisabeth-daynes.jpg",
     "artworkImgs": [
       {
-        "name": "Gutenberg-Bibel",
-        "path": "img/art/artworks/johannes-gutenberg-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/gutenberg-bibel-johannes-gutenberg/YgHfP2pCCmluVw"
+        "name": "Toumai",
+        "path": "img/art/artworks/elisabeth-daynes-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/toumai-elisabeth-daynes/uQEKgXRAfmoJTA"
       },
       {
-        "name": "Gutenberg Bible (selections), Volume 2",
-        "path": "img/art/artworks/johannes-gutenberg-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/gutenberg-bible-selections-volume-2-johann-gutenberg/WwGOiL8CDiU_xQ"
+        "name": "Lucy",
+        "path": "img/art/artworks/elisabeth-daynes-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/lucy-elisabeth-daynes/LAEWPxUsh5tPZw"
       },
       {
-        "name": "Lettre d’indulgence [pour l’expédition contre les Turcs et la défense de Chypre], [Mayence, Johannes Gutenberg, 1455]",
-        "path": "img/art/artworks/johannes-gutenberg-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/lettre-d’indulgence-pour-l’expédition-contre-les-turcs-et-la-défense-de-chypre-mayence-johannes-gutenberg-1455/-AGY5HuGL5zGpg"
+        "name": "Paranthropus boisei",
+        "path": "img/art/artworks/elisabeth-daynes-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/paranthropus-boisei-elisabeth-daynes/qwEHB3FZX5pB8Q"
       },
       {
-        "name": "Biblia Latina",
-        "path": "img/art/artworks/johannes-gutenberg-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/biblia-latina-johann-gutenberg/KgE03tLEqjpUfw"
+        "name": "Reconstitution of three woman hominids, neanderthal, sapiens and flores",
+        "path": "img/art/artworks/elisabeth-daynes-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/reconstitution-of-three-woman-hominids-neanderthal-sapiens-and-flores-daynès-atelier/kgGnlbQCREKQFQ"
       },
       {
-        "name": "Gutenberg-Bibel",
-        "path": "img/art/artworks/johannes-gutenberg-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/gutenberg-bibel-johannes-gutenberg/2wG0nHh20ZxJpA"
+        "name": "Sangiran man",
+        "path": "img/art/artworks/elisabeth-daynes-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/sangiran-man-elisabeth-daynes/KgHHw28RAmqquA"
+      },
+      {
+        "name": "Lucien",
+        "path": "img/art/artworks/elisabeth-daynes-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/lucien-elisabeth-daynes/AAFhNtRVFGupag"
       }
     ],
     "summary": [
-      "Johannes Gensfleisch zur Laden zum Gutenberg was a German goldsmith, inventor, printer, and publisher who introduced printing to Europe with the printing press. His introduction of mechanical movable type printing to Europe started the Printing Revolution and is regarded as a milestone of the second millennium, ushering in the modern period of human history. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.",
-      "Gutenberg in 1439 was the first European to use movable type. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink for printing books; adjustable molds; mechanical movable type; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike."
-    ],
-    "quote": "“God suffers in the multitude of souls whom His word can not reach. Religious truth is imprisoned in a small number of manuscript books, which confine instead of spread the public treasure. Let us break the seal which seals up holy things and give wings to Truth in order that she may win every soul that comes into the world by her word no longer written at great expense by hands easily palsied, but multiplied like the wind by an untiring machine.”",
-    "movements": [],
-    "mediums": ["Book"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
-    "urlGoogle": "https://artsandculture.google.com/entity/johannes-gutenberg/m04061"
-  },
-  "event": {
-    "id": "gravettian",
-    "name": "Gravettian",
-    "dates": null,
-    "mainImg": "img/events/gravettian.jpg",
-    "summary": [
-      "The Gravettian was an archaeological industry of the European Upper Paleolithic that succeeded the Aurignacian circa 33,000 years BP. It is archaeologically the last European culture many consider unified, and had mostly disappeared by c. 22,000 BP, close to the Last Glacial Maximum, although some elements lasted until c. 17,000 BP. At this point, it was replaced abruptly by the Solutrean in France and Spain, and developed into or continued as the Epigravettian in Italy, the Balkans, Ukraine and Russia.",
-      "They are known for their Venus figurines, which were typically made as either ivory or limestone carvings. The Gravettian culture was first identified at the site of La Gravette in Southwestern France."
+      "Élisabeth Daynès is a French sculptor. By 1981, she was working with the Théâtre de la Salamandre in Lille, creating masks for the theatre.",
+      "In 1984, she founded her own studio, Atelier Daynès, in Paris. Some years later, the Thot Museum in Montignac, close to the Lascaux caves, asked her to sculpt a life-sized woolly mammoth with a group of hominids. She has since specialized in reconstructing hominids from remaining bones. Her work is present in museums all over the world, including the Musée des Merveilles in Tende, Field Museum of Natural History in Chicago, Transvaal Museum in Pretoria, Sangiran Museum in Indonesia, Naturhistoriska riksmuseet in Stockholm, and Museum of Human Evolution in Burgos. One of her most notable sculptures is at the Krapina Neanderthal Museum in northern Croatia, where she made a reconstruction of an entire seventeen-member Neanderthal family.",
+      "In 2005, she created a lifelike model of Pharaoh Tutankhamun in a project with National Geographic. A close resemblance to the Pharaoh is likely, even though physical features like ears, nose tip, and colors of skin and eyes cannot be reliably reconstructed.",
+      "In 2010, Daynes won the John J."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Gravettian",
-    "urlGoogle": "https://artsandculture.google.com/entity/gravettian/m030nts"
+    "movements": [],
+    "mediums": ["Hair", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Dayn%C3%A8s",
+    "urlGoogle": "https://artsandculture.google.com/entity/élisabeth-daynès/m063_j1_"
+  },
+  "event": {
+    "id": "guadalcanal-campaign",
+    "name": "Guadalcanal campaign",
+    "dates": "Aug 7, 1942 - Feb 9, 1943",
+    "mainImg": "img/events/guadalcanal-campaign.jpg",
+    "summary": [
+      "The Guadalcanal campaign, also known as the Battle of Guadalcanal and codenamed Operation Watchtower by American forces, was a military campaign fought between 7 August 1942 and 9 February 1943 on and around the island of Guadalcanal in the Pacific theater of World War II. It was the first major land offensive by Allied forces against the Empire of Japan.",
+      "On 7 August 1942, Allied forces, predominantly United States Marines, landed on Guadalcanal, Tulagi, and Florida in the southern Solomon Islands, with the objective of using Guadalcanal and Tulagi as bases in supporting a campaign to eventually capture or neutralize the major Japanese base at Rabaul on New Britain. The Japanese defenders, who had occupied those islands since May 1942, were outnumbered and overwhelmed by the Allies, who captured Tulagi and Florida, as well as the airfield – later named Henderson Field – that was under construction on Guadalcanal.",
+      "Surprised by the Allied offensive, the Japanese made several attempts between August and November to retake Henderson Field."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
+    "urlGoogle": "https://artsandculture.google.com/entity/guadalcanal-campaign/m0gbks"
   },
   "funFacts": [
     {
-      "id": "246",
-      "fact": "The \"silk\" of a spider is stronger than steel threads of the same diameter.",
-      "category": ["Animals", "Science"]
+      "id": "252",
+      "fact": "There is a town in Alaska called Chicken.",
+      "category": ["Animals", "Geography"]
     },
     {
-      "id": "778",
-      "fact": "Some bears build nests in trees to sunbathe and rest.",
-      "category": ["Animals"]
+      "id": "797",
+      "fact": "It is illegal to run out of gas in Youngstown, Ohio.",
+      "category": ["Laws"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554090",
-      "fact": "Octopuses don’t have tentacles; they have arms. A tentacle only has suckers at its end, while a cephalopod arm has suckers for most of its length."
+      "id": "504875",
+      "fact": "The first use of \"Google\" as a verb in pop culture was on Buffy the Vampire Slayer."
     }
   ],
   "idiom": {
-    "id": "hell-has-no-fury-like-a-woman-scorned",
-    "term": "hell has no fury like a woman scorned",
-    "definition": "No anger is worse than that of a jilted woman. For example, *Nancy has nothing good to say about Tom---hell has no fury, you know.* This term is a shortening of William Congreve's lines, \"Heav'n has no rage, like love to hatred turn'd, nor Hell a fury like a woman scorn'd\" (*The Mourning Bride,* 1697). Today the proverb is often shortened even more, as in the example, and is also often put as **hell hath no fury....**"
+    "id": "cheesed-off",
+    "term": "cheesed off",
+    "definition": "Angry, fed up, annoyed, as in *I'm cheesed off about watering their plants twice a week.* This term was originally military slang and sometimes put simply as **cheesed.** [Slang; mid-1900s]"
   },
   "person": {
-    "id": "dean-acheson",
-    "name": "Dean Acheson",
-    "dates": "Apr 11, 1893 - Oct 12, 1971",
-    "mainImg": "img/people/dean-acheson.jpg",
+    "id": "pierre-joseph-proudhon",
+    "name": "Pierre-Joseph Proudhon",
+    "dates": "Jan 15, 1809 - Jan 19, 1865",
+    "mainImg": "img/people/pierre-joseph-proudhon.jpg",
     "summary": [
-      "Dean Gooderham Acheson was an American statesman and lawyer. As United States Secretary of State in the administration of President Harry S. Truman from 1949 to 1953, he played a central role in defining American foreign policy during the Cold War. Acheson helped design the Marshall Plan and was a key player in the development of the Truman Doctrine and creation of the North Atlantic Treaty Organization.",
-      "Acheson's most famous decision was convincing President Truman to intervene in the Korean War in June 1950. He also persuaded Truman to dispatch aid and advisors to French forces in Indochina, though in 1968 he finally counseled President Lyndon B. Johnson to negotiate for peace with North Vietnam. During the Cuban Missile Crisis, President John F. Kennedy called upon Acheson for advice, bringing him into the executive committee, a strategic advisory group.",
-      "In the late 1940s Acheson came under heavy attack for his defense of State Department employees accused during the anti-gay Lavender and Red Scare investigations by Senator Joseph McCarthy and others, and over Truman's policy toward China."
+      "Pierre-Joseph Proudhon was a French politician and the founder of mutualist philosophy. He was the first person to declare himself an anarchist, using that term and is widely regarded as one of the ideology's most influential theorists. Proudhon is even considered by many to be the \"father of anarchism\". He became a member of the French Parliament after the Revolution of 1848, whereafter he referred to himself as a federalist.",
+      "Proudhon, who was born in Besançon, was a printer who taught himself Latin in order to better print books in the language. His best-known assertion is that \"property is theft!\", contained in his first major work, What Is Property? Or, an Inquiry into the Principle of Right and Government, published in 1840. The book's publication attracted the attention of the French authorities. It also attracted the scrutiny of Karl Marx, who started a correspondence with its author. The two influenced each other and they met in Paris while Marx was exiled there. Their friendship finally ended when Marx responded to Proudhon's The System of Economic Contradictions, or The Philosophy of Poverty with the provocatively titled The Poverty of Philosophy."
     ],
-    "quote": "“The great corrupter of public man is the ego. Looking at the mirror distracts one's attention from the problem.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Dean_Acheson",
-    "urlGoogle": "https://artsandculture.google.com/entity/dean-acheson/m0krz_"
+    "quote": "“All parties without exception, when they seek for power, are varieties of absolutism.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon",
+    "urlGoogle": "https://artsandculture.google.com/entity/pierre-joseph-proudhon/m0d7t6"
   },
   "place": {
-    "id": "china",
-    "name": "China",
-    "mainImg": "img/places/china.jpg",
+    "id": "glendale",
+    "name": "Glendale",
+    "mainImg": "img/places/glendale.jpg",
     "summary": [
-      "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometres, it is the world's third or fourth largest country by area. Governed by the Communist Party of China, the state exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities, and the special administrative regions of Hong Kong and Macau.",
-      "China emerged as one of the world's first civilizations, in the fertile basin of the Yellow River in the North China Plain. For millennia, China's political system was based on hereditary monarchies, or dynasties, beginning with the semi-mythical Xia dynasty in 21st century BCE. Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin reunited core China and established the first Chinese empire. The succeeding Han dynasty, which ruled from 206 BCE until 220 CE, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements."
+      "Glendale is a city in Los Angeles County, California, United States. As of the 2010 census it had a population of 191,719, and in 2019 the population was estimated at 199,303, making it the fourth-largest city in Los Angeles County and the 23rd-largest city in California. It is located about 10 miles north of downtown Los Angeles.",
+      "Glendale lies in the southeastern end of the San Fernando Valley, bisected by the Verdugo Mountains, and is a suburb in the Los Angeles metropolitan area. The city is bordered to the northwest by the Sun Valley and Tujunga neighborhoods of Los Angeles; to the northeast by La Cañada Flintridge and the unincorporated area of La Crescenta; to the west by Burbank and Griffith Park; to the east by Eagle Rock and Pasadena; to the south by the Atwater Village neighborhood of Los Angeles; and to the southeast by Glassell Park neighborhood of Los Angeles. The Golden State, Ventura, Glendale, and Foothill freeways run through the city."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/China",
-    "urlGoogle": "https://artsandculture.google.com/entity/china/m0d05w3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Glendale,_California",
+    "urlGoogle": "https://artsandculture.google.com/entity/glendale/m0k_q_"
   },
   "quote": {
-    "id": "72",
-    "quote": "Don't sweat the petty things and don't pet the sweaty things.",
-    "author": "George Carlin"
+    "id": "98",
+    "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+    "author": "Thomas Edison"
   },
   "wiki": {
-    "id": "battle-of-taejon",
-    "name": "Battle of Taejon",
-    "summary": "The Battle of Taejon (14–21 July 1950) was an early battle between United States and North Korean forces during the Korean War. U.S. Army forces, attempting to defend the headquarters of the 24th Infantry Division, were overwhelmed by numerically superior forces of the Korean People's Army (KPA) at the major city and transportation hub of Taejon. The Americans were already exhausted after two weeks of attempting to stem the KPA's advance. The entire 24th Division gathered to make a final stand around Taejon, holding a line along the Kum River to the east of the city. The American forces, outnumbered, ill-equipped and untrained, were pushed back from the river bank after several days, before fighting an intense urban battle to defend the city. After a fierce three-day struggle, they withdrew. Although they could not hold the city, the 24th Infantry Division achieved a strategic victory by delaying the North Koreans, providing time for other American divisions to establish a defensive perimeter around Pusan further south. The KPA captured Major General William F. Dean, the commander of the 24th Infantry Division, and the highest-ranking American prisoner during the Korean War.",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_Taejon"
+    "id": "paulinus-of-york",
+    "name": "Paulinus of York",
+    "summary": "Paulinus of York was a Roman missionary and the first Bishop of York. A member of the Gregorian mission sent by Pope Gregory I to convert the Anglo-Saxons to Christianity in 601, Paulinus arrived in England by 604 with the second missionary group. Little is known of Paulinus' activities in the following two decades. After some years spent in Kent, Paulinus was consecrated a bishop, probably in 627. He accompanied Æthelburg of Kent, sister of King Eadbald of Kent, on her journey to Northumbria to marry King Edwin of Northumbria, and eventually succeeded in converting Edwin to Christianity. Paulinus also converted many of Edwin's subjects and built a few churches. One of the women Paulinus baptised was a future saint, Hilda of Whitby. Following Edwin's death in 633 Paulinus and Æthelburg fled Northumbria, leaving behind a member of Paulinus' clergy, James the Deacon. Paulinus returned to Kent, where he became Bishop of Rochester. After his death in 644, Paulinus was venerated as a saint.",
+    "url": "https://en.wikipedia.org/wiki/Paulinus_of_York"
   },
   "word": {
-    "id": "cockalorum",
-    "word": "cockalorum",
-    "url": "https://www.merriam-webster.com/dictionary/cockalorum",
+    "id": "belvedere",
+    "word": "belvedere",
+    "url": "https://www.merriam-webster.com/dictionary/belvedere",
     "partOfSpeech": "noun",
-    "pronunciation": "kah-kuh-LOR-um",
-    "audioPath": "audio/words/cockalorum.mp3",
-    "definitions": ["a boastful and self-important person", "boastful talk"],
+    "pronunciation": "BEL-vuh-deer",
+    "audioPath": "audio/words/belvedere.mp3",
+    "definitions": ["a structure (as a cupola or a summerhouse) designed to command a view"],
     "examples": [
-      "No one believed Marty's _cockalorum_ about being an expert pool player, and as it turned out, he was indeed just as bad as the rest of us.",
-      "\"No one is saying Little Floyd is a conniving little _cockalorum_, but … he would very much like to add another belt to his legacy. It is with much certainty, on his part, that he will.\"- From an article by Paul Strauss on EastsideBoxing.com, August 6, 2011"
+      "On summer evenings, guests at the estate often joined their hosts in the belvedere to watch the sunset."
     ],
-    "origin": "The image of a rooster (a.k.a. cock) strutting confidently across the barnyard or belting out a triumphant crow has long been associated with brash self-confidence. It's an association that has left quite a mark on the English language, giving us \"crow\" (\"to brag\"), \"cock\" (\"a self-important person\"), and \"cocky\" (\"overconfident\"), just to name a few. \"Cockalorum\" (which may have derived from the obsolete Flemish word \"kockeloeren,\" meaning \"to crow\") is another example. It dates back at least as far as 1715, when it was used to describe the Marquis of Huntly - son of the Duke of Gordon, a Celtic Highlander chief who was himself known as the \"Cock of the North.\" Presumably, the Marquis was not exactly known for his humility."
+    "origin": "It is said that beauty is in the eye of the beholder -- and someone with a belvedere will likely have a great deal of beauty to behold. Given the origins of the word, \"belvedere\" is the ideal term for a building (or part of a building) with a view; it derives from two Italian words, \"bel,\" which means \"beautiful,\" and \"vedere,\" which means \"view.\" The term has been used in English since at least 1593."
   }
 }

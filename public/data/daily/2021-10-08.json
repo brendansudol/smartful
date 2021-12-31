@@ -1,130 +1,134 @@
 {
   "artist": {
-    "id": "raja-ravi-varma",
-    "name": "Raja Ravi Varma",
-    "dates": "Apr 29, 1848 - Oct 2, 1906",
-    "mainImg": "img/art/artists/raja-ravi-varma.jpg",
+    "id": "tom-roberts",
+    "name": "Tom Roberts",
+    "dates": "Mar 8, 1856 - Sep 14, 1931",
+    "mainImg": "img/art/artists/tom-roberts.jpg",
     "artworkImgs": [
       {
-        "name": "Maharashtrian Lady",
-        "path": "img/art/artworks/raja-ravi-varma-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/maharashtrian-lady-raja-ravi-varma/TgELzKQZgMpYvA"
+        "name": "Bailed up",
+        "path": "img/art/artworks/tom-roberts-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/bailed-up-tom-roberts/sQFVnGJTo1Y6gw"
       },
       {
-        "name": "Hesitation",
-        "path": "img/art/artworks/raja-ravi-varma-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/hesitation-raja-ravi-varma/SAEMyxEg3ekHxw"
+        "name": "A break away!",
+        "path": "img/art/artworks/tom-roberts-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-break-away-tom-roberts/SQGXLB9u083M_Q"
       },
       {
-        "name": "Woman Holding a Fruit",
-        "path": "img/art/artworks/raja-ravi-varma-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/woman-holding-a-fruit-raja-ravi-varma/6gF0Oy3EKSRBhg"
+        "name": "Coming South",
+        "path": "img/art/artworks/tom-roberts-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/coming-south-tom-roberts/dgG8BXOsvLIuiQ"
       },
       {
-        "name": "Shakuntala Patralekhan",
-        "path": "img/art/artworks/raja-ravi-varma-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/shakuntala-patralekhan-ravi-varma-press/_gEU1hd0ajZtTQ"
+        "name": "Shearing the rams",
+        "path": "img/art/artworks/tom-roberts-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/shearing-the-rams-tom-roberts/lQEDjT-_MXaMJQ"
       },
       {
-        "name": "HH Sri Janaki Subbamma Bai Sahib, Rani of Pudukkottai",
-        "path": "img/art/artworks/raja-ravi-varma-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/hh-sri-janaki-subbamma-bai-sahib-rani-of-pudukkottai-raja-ravi-varma/8AH7A_3QZ94aPg"
+        "name": "Holiday sketch at Coogee",
+        "path": "img/art/artworks/tom-roberts-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/holiday-sketch-at-coogee-tom-roberts/TwEnQPmJYK2yQw"
       },
       {
-        "name": "Rani of Kurupam",
-        "path": "img/art/artworks/raja-ravi-varma-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/rani-of-kurupam-raja-ravi-varma/ZwG_MlMELRtO0Q"
+        "name": "Smike Streeton age 24",
+        "path": "img/art/artworks/tom-roberts-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/smike-streeton-age-24-tom-roberts/wwGPzPl-8WFMHQ"
       }
     ],
     "summary": [
-      "Raja Ravi Varma was a celebrated Indian painter and artist. He is considered among the greatest painters in the history of Indian art for a number of aesthetic and broader social reasons. Firstly, his works are held to be among the best examples of the fusion of European techniques with a purely Indian sensibility. While continuing the tradition and aesthetics of Indian art, his paintings employed the latest European academic art techniques of the day. Secondly, he was notable for making affordable lithographs of his paintings available to the public, which greatly enhanced his reach and influence as a painter and public figure. Indeed, his lithographs increased the involvement of common people with fine arts and defined artistic tastes among common people for several decades. In particular, his depictions of Hindu deities and episodes from the epics and Puranas have received profound acceptance from the public and are found, often as objects of worship, across the length and breadth of India.",
-      "Raja Ravi Varma was closely related to the royal family of Travancore of present-day Kerala state in India."
+      "Thomas William \"Tom\" Roberts was an English-born Australian artist and a key member of the Heidelberg School art movement, also known as Australian impressionism.",
+      "After attending art schools in Melbourne, he travelled to Europe in 1881 to further his training, and returned home in 1885, \"primed with whatever was the latest in art\". He did much to promote en plein air painting and encouraged other artists to capture the national life of Australia. While he is best known for his \"national narratives\"—among them Shearing the Rams, A break away! and Bailed Up —he also achieved renown as a portraitist, and in 1903 completed The Big Picture, the most famous visual representation of the first Australian Parliament."
     ],
     "quote": null,
-    "movements": ["Academic art"],
-    "mediums": ["Graphite", "Oil paint", "Ink", "Watercolor painting", "Pencil"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma",
-    "urlGoogle": "https://artsandculture.google.com/entity/raja-ravi-varma/m03p0s9"
+    "movements": ["Heidelberg School"],
+    "mediums": ["Oil paint", "Cardboard"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Tom_Roberts",
+    "urlGoogle": "https://artsandculture.google.com/entity/tom-roberts/m03jwbx"
   },
   "event": {
-    "id": "armistice-day",
-    "name": "Armistice Day",
-    "dates": "November 1918",
-    "mainImg": "img/events/armistice-day.jpg",
+    "id": "assassination-of-john-f-kennedy",
+    "name": "Assassination of John F. Kennedy",
+    "dates": "Nov 22, 1963",
+    "mainImg": "img/events/assassination-of-john-f-kennedy.jpg",
     "summary": [
-      "Armistice Day is commemorated every year on 11 November to mark the armistice signed between the Allies of World War I and Germany at Compiègne, France at 5:45 am, for the cessation of hostilities on the Western Front of World War I, which took effect at eleven o'clock in the morning—the \"eleventh hour of the eleventh day of the eleventh month\" of 1918. But, according to Thomas R. Gowenlock, an intelligence officer with the U.S. First Division, shelling from both sides continued for the rest of the day, only ending at nightfall. The armistice initially expired after a period of 36 days and had to be extended several times. A formal peace agreement was only reached when the Treaty of Versailles was signed the following year.",
-      "The date is a national holiday in France, and was declared a national holiday in many Allied nations. However, many Western countries and associated nations have since changed the name of the holiday from Armistice Day, with member states of the Commonwealth of Nations adopting Remembrance Day, and the United States government opting for Veterans Day. In some countries Armistice Day coincides with other public holidays."
+      "John F. Kennedy, the 35th President of the United States, was assassinated on Friday, November 22, 1963, at 12:30 p.m. Central Standard Time in Dallas, Texas, while riding in a presidential motorcade through Dealey Plaza. Kennedy was riding with his wife Jacqueline, Texas Governor John Connally, and Connally's wife Nellie when he was fatally shot by former U.S. Marine Lee Harvey Oswald firing in ambush from a nearby building. Governor Connally was seriously wounded in the attack. The motorcade rushed to Parkland Memorial Hospital where Kennedy was pronounced dead about 30 minutes after the shooting; Connally recovered.",
+      "Oswald was arrested by the Dallas Police Department 70 minutes after the initial shooting. Oswald was charged under Texas state law with the murder of Kennedy, as well as that of Dallas policeman J. D. Tippit, who had been fatally shot a short time after the assassination. At 11:21 a.m. November 24, 1963, as live television cameras were covering his transfer from the city jail to the county jail, Oswald was fatally shot in the basement of Dallas Police Headquarters by Dallas nightclub operator Jack Ruby."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Armistice_Day",
-    "urlGoogle": "https://artsandculture.google.com/entity/armistice-day/m0mz1n"
+    "urlWiki": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+    "urlGoogle": "https://artsandculture.google.com/entity/assassination-of-john-f-kennedy/m01q1wc"
   },
   "funFacts": [
     {
-      "id": "222",
-      "fact": "Twinkle Twinkle Little Star was composed by Mozart when he was five years old.",
-      "category": ["History"]
+      "id": "444",
+      "fact": "The Statue of Liberty wears a size 879 sandal.",
+      "category": ["Anatomy"]
     },
     {
-      "id": "887",
-      "fact": "The Valley of Square Trees in Panama is the only known place in the world where trees have rectangular trunks.",
-      "category": ["Plants", "Onlies"]
+      "id": "899",
+      "fact": "The plastic things on the end of shoelaces are called aglets.",
+      "category": ["Definitions"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553843",
-      "fact": "Ira Aldridge was one of the most famous actors of the 19th century. After leaving his home in New York to pursue an acting career in Europe, he performed for royalty, won numerous awards, and used his platform to speak out against slavery."
+      "id": "553545",
+      "fact": "A cough can propel saliva droplets as far as 20 feet at speeds up to 25 to 50 mph."
     }
   ],
   "idiom": {
-    "id": "make-hay-while-the-sun-shines",
-    "term": "make hay while the sun shines",
-    "definition": "Take advantage of favorable circumstances, as in *Car sales have finally improved so we're making hay while the sun shines.* This expression alludes to optimum dry weather for cutting grass. [Early 1500s]"
+    "id": "get-down-to-brass-tacks",
+    "term": "get down to brass tacks",
+    "definition": "Also, **get down to bedrock** or *the nitty gritty* or *cases.* Deal with the essentials; come to the point. For example, *Stop delaying and get down to brass tacks,* or *We really need to get down to bedrock,* or *He has a way of getting down to the nitty gritty,* or *Let's get down to cases.* The origin of the first phrase, dating from the late 1800s, is disputed. Some believe it alludes to the brass tacks used under fine upholstery, others that it is Cockney rhyming slang for \"hard facts,\" and still others that it alludes to tacks hammered into a sales counter to indicate precise measuring points. The noun *bedrock* has signified the hard rock underlying soil or geological deposits since about 1850 and has been used figuratively to denote \"bottom\" since the 1860s. The noun *nitty-gritty* dates from the mid-1900s and alludes to the detailed (\"nitty\") and possibly unpleasant (\"gritty\") issue in question. The noun *cases* apparently alludes to the game of faro, in which the \"case card\" is the last of a rank of cards remaining in play; this usage dates from about 1900."
   },
   "person": {
-    "id": "george-gavan-duffy",
-    "name": "George Gavan Duffy",
-    "dates": "Oct 21, 1882 - Jun 10, 1951",
-    "mainImg": "img/people/george-gavan-duffy.jpg",
+    "id": "julius-nyerere",
+    "name": "Julius Nyerere",
+    "dates": "Apr 13, 1922 - Oct 14, 1999",
+    "mainImg": "img/people/julius-nyerere.jpg",
     "summary": [
-      "George Gavan Duffy was an Irish politician, barrister and judge who served as President of the High Court from 1946 to 1951, a Judge of the High Court from 1936 to 1951 and Minister for Foreign Affairs from January 1922 to July 1922. He served as a Teachta Dála",
-      "for the Dublin County constituency from 1921 to 1923. He served as a Member of Parliament for the South County Dublin constituency from 1918 to 1921."
+      "Julius Kambarage Nyerere was a Tanzanian anti-colonial activist, politician, and political theorist. He governed Tanganyika as Prime Minister from 1961 to 1962 and then as President from 1963 to 1964, after which he led its successor state, Tanzania, as President from 1964 to 1985. A founding member of the Tanganyika African National Union party—which in 1977 became the Chama Cha Mapinduzi party—he chaired it until 1990. Ideologically an African nationalist and African socialist, he promoted a political philosophy known as Ujamaa.",
+      "Born in Butiama, then in the British colony of Tanganyika, Nyerere was the son of a Zanaki chief. After completing his schooling, he studied at Makerere College in Uganda and then Edinburgh University in Scotland. In 1952 he returned to Tanganyika, married, and worked as a teacher. In 1954, he helped form TANU, through which he campaigned for Tanganyikan independence from the British Empire. Influenced by the Indian independence leader Mahatma Gandhi, Nyerere preached non-violent protest to achieve this aim."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/George_Gavan_Duffy",
-    "urlGoogle": "https://artsandculture.google.com/entity/george-gavan-duffy/m0bpwlx"
+    "quote": "“Violence is unnecessary and costly. Peace is the only way.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Julius_Nyerere",
+    "urlGoogle": "https://artsandculture.google.com/entity/julius-nyerere/m01_5jb"
   },
   "place": {
-    "id": "pune",
-    "name": "Pune",
-    "mainImg": "img/places/pune.jpg",
+    "id": "england",
+    "name": "England",
+    "mainImg": "img/places/england.jpg",
     "summary": [
-      "Pune, also known as Poona, is a bustling metropolis in the Indian State of Maharashtra and the eighth most populous city in India, with an estimated population of about 7.2 million as of 2019. It has been ranked as one of the most livable cities in India several times.",
-      "Along with its extended city limits Pimpri Chinchwad and the three cantonment towns of Pune, Khadki and Dehu Road, Pune forms the urban core of the eponymous Pune Metropolitan Region. According to the 2011 census, the urban area has a combined population of 5.05 million while the population of the metropolitan region is estimated at 7.27 million. Situated 560 metres above sea level on the Deccan plateau on the right bank of the Mutha river, Pune is also the administrative headquarters of its namesake district. In the 18th century, the city was the seat of the Peshwas, the prime ministers of the Maratha Empire and so was one of the most important political centres on the Indian subcontinent.",
-      "The city is considered to be the IT capital of India. It is also known as the \"Oxford of the East\" due to the presence of several well-known educational institutions."
+      "England is a country that is part of the United Kingdom. It shares land borders with Wales to the west and Scotland to the north. The Irish Sea lies west of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight. It is the largest country of the British Isles.",
+      "The area now called England was first inhabited by modern humans during the Upper Palaeolithic period, but takes its name from the Angles, a Germanic tribe deriving its name from the Anglia peninsula, who settled during the 5th and 6th centuries. England became a unified state in the 10th century, and since the Age of Discovery, which began during the 15th century, has had a significant cultural and legal impact on the wider world."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Pune",
-    "urlGoogle": "https://artsandculture.google.com/entity/pune/m015y2q"
+    "urlWiki": "https://en.wikipedia.org/wiki/England",
+    "urlGoogle": "https://artsandculture.google.com/entity/england/m02jx1"
   },
   "wiki": {
-    "id": "eric-bana",
-    "name": "Eric Bana",
-    "summary": "Eric Bana (born 1968) is an Australian film and television actor. He began his career as a comedian in the sketch comedy series Full Frontal before gaining critical recognition in the biopic Chopper (2000). After a decade of roles in Australian TV shows and films, Bana gained Hollywood's attention by playing the role of American Delta Force Sergeant Norm 'Hoot' Hooten in Black Hawk Down (2001), the lead role as Bruce Banner in the Ang Lee directed film Hulk (2003), Prince Hector in the movie Troy, and the main villain Nero in the science-fiction film Star Trek (2009). An accomplished dramatic actor and comedian, he received Australia's highest film and television awards for his performances in Chopper, Full Frontal and Romulus, My Father. Bana performs predominantly in leading roles in a variety of low-budget and major studio films, ranging from romantic comedies and drama to science fiction and action thrillers.",
-    "url": "https://en.wikipedia.org/wiki/Eric_Bana"
+    "id": "ig-farben-building",
+    "name": "IG Farben Building",
+    "summary": "The IG Farben Building was built from 1928 to 1930 as the corporate headquarters of the IG Farben conglomerate in Frankfurt am Main, Germany. A competition was held to design the building and was won by the architect Hans Poelzig. On completion, the complex was the largest office building in Europe and remained so until the 1950s. The IG Farben Building's six square wings retain a modern, spare elegance, despite its mammoth size. It is also notable for its paternoster elevators. The building was the headquarters for research projects relating to the development of Nazi wartime synthetic oil and rubber, and the production administration of magnesium, lubricating oil, explosives, methanol, and Zyklon B. After WWII, the IG Farben Building served as the headquarters for the Supreme Allied Command and became the principal location for implementing the Marshall Plan, which largely financed the post-war reconstruction of Europe. The US Army returned control of the IG Farben Building to the German government in 1995. It was purchased on behalf of the University of Frankfurt by the state of Hesse, which committed €25 million to the restoration.",
+    "url": "https://en.wikipedia.org/wiki/IG_Farben_Building"
   },
   "word": {
-    "id": "tarantism",
-    "word": "tarantism",
-    "url": "https://www.merriam-webster.com/dictionary/tarantism",
-    "partOfSpeech": "noun",
-    "pronunciation": "TAIR-un-tiz-um",
-    "audioPath": "audio/words/tarantism.mp3",
-    "definitions": ["a dancing mania or malady of late medieval Europe"],
-    "examples": [
-      "Victims of tarantism were said to dance ecstatically until they collapsed in total exhaustion."
+    "id": "homonymous",
+    "word": "homonymous",
+    "url": "https://www.merriam-webster.com/dictionary/homonymous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "hoh-MAH-nuh-mus",
+    "audioPath": "audio/words/homonymous.mp3",
+    "definitions": [
+      "ambiguous",
+      "having the same designation",
+      "of, relating to, or being homonyms"
     ],
-    "origin": "Between the 15th and 17th centuries, Taranto, Italy, was hit by a dance craze unlike any other. The town was afflicted by a malady that would come to be known as \"tarantism\" and was characterized by a hysterical impulse to dance. Some people claimed tarantism was caused by the bite of the European wolf spider, which is also known as the tarantula (and is also named after Taranto); such folks declared that dancing off the venom was the only cure. Musicians supposedly traveled to the region to help cure the epidemic, and some believe that the Italian folk dance called the \"tarantella\" resulted from the craze (though it is also possible that the name of that dance derived independently from \"Taranto\" and has no connection with \"tarantism\")."
+    "examples": [
+      "We always called the elder Michael \"Big Mike\" to distinguish him from his _homonymous_ son.",
+      "\"Weezer's latest disc and its third to be self-titled (it's being referred to as 'The Red Album' just as the previous pair of _homonymous_ albums are commonly called the 'Blue' and 'Green' albums, respectively) has no shortage of the kind of pure pop melodies that endeared Weezer to millions of geek-rock kids back in the mid-'90s.\" - Jonathan Perry, _The Boston Globe_, September 23, 2008"
+    ],
+    "origin": "The \"ambiguous\" sense of \"homonymous\" refers mainly to words that have two or more meanings. In the 1600s, logicians and scientists who wanted to refer to (or complain about) such equivocal words chose a name for them based on Latin and Greek, from Greek \"hom-\" (\"same\") and \"onyma\" (\"name\"). In time, English speakers came up with another sense of \"homonymous,\" referring to two things having the same name (Hawaii, the state, and Hawaii, the island, for example). Next came the use of \"homonymous\" to refer to homonyms, such as \"see\" and \"sea.\" There's also a zoological sense. Sheep and goats whose right horn spirals to the right and left horn spirals to the left are said to be \"homonymous.\""
   }
 }

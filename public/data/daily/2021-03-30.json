@@ -1,140 +1,124 @@
 {
   "artist": {
-    "id": "william-blake",
-    "name": "William Blake",
-    "dates": "Nov 28, 1757 - Aug 12, 1827",
-    "mainImg": "img/art/artists/william-blake.jpg",
+    "id": "michael-sittow",
+    "name": "Michael Sittow",
+    "dates": "1469 - Dec 21, 1525",
+    "mainImg": "img/art/artists/michael-sittow.jpg",
     "artworkImgs": [
       {
-        "name": "The Ghost of a Flea",
-        "path": "img/art/artworks/william-blake-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-ghost-of-a-flea-william-blake/CgHQq6vDGClUyw"
+        "name": "Portrait of the Danish King Christian II",
+        "path": "img/art/artworks/michael-sittow-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-the-danish-king-christian-ii-michel-sittow/YAESohyXBEqBrw"
       },
       {
-        "name": "Albion Rose",
-        "path": "img/art/artworks/william-blake-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/albion-rose-william-blake/9gH8FkV-uW3zjQ"
+        "name": "Portrait of Diego de Guevara (?)",
+        "path": "img/art/artworks/michael-sittow-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-diego-de-guevara/xgGC2ScaomLuSQ"
       },
       {
-        "name": "Satan Smiting Job with Sore Boils",
-        "path": "img/art/artworks/william-blake-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/satan-smiting-job-with-sore-boils-william-blake/fwGU7xuveEeAmA"
+        "name": "The Virgin and Child",
+        "path": "img/art/artworks/michael-sittow-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-michiel-sittow/sQHl0VYNGIEcSQ"
       },
       {
-        "name": "Dante running from the three beasts",
-        "path": "img/art/artworks/william-blake-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/dante-running-from-the-three-beasts-william-blake/-wEF4rg1T7H2JA"
+        "name": "Portrait of a Man with a Pink",
+        "path": "img/art/artworks/michael-sittow-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-with-a-pink-michael-sittow/cAEEuJgnog1M5g"
       },
       {
-        "name": "Satan Before the Throne of God",
-        "path": "img/art/artworks/william-blake-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/satan-before-the-throne-of-god-william-blake/KAE5McmLfShXxg"
+        "name": "Portrait of a Man",
+        "path": "img/art/artworks/michael-sittow-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-sittow-michel/MAGqB0icURu5Hg"
       },
       {
-        "name": "Satan Smiting Job with Boils",
-        "path": "img/art/artworks/william-blake-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/satan-smiting-job-with-boils-william-blake/QgH7hoVbgKLYIA"
+        "name": "The Passion Altarpiece. Outer Wing with the Virgin Mary and Apostle James the Greater",
+        "path": "img/art/artworks/michael-sittow-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-passion-altarpiece-outer-wing-with-the-virgin-mary-and-apostle-james-the-greater-paintings-of-the-outer-side-of-the-wings-by-michel-sittow-and-his-workshop/7AH9uxLNJcF9_w"
       }
     ],
     "summary": [
-      "William Blake was an English poet, painter, and printmaker. Largely unrecognised during his lifetime, Blake is now considered a seminal figure in the history of the poetry and visual arts of the Romantic Age. What he called his prophetic works were said by 20th-century critic Northrop Frye to form \"what is in proportion to its merits the least read body of poetry in the English language\". His visual artistry led 21st-century critic Jonathan Jones to proclaim him \"far and away the greatest artist Britain has ever produced\". In 2002, Blake was placed at number 38 in the BBC's poll of the 100 Greatest Britons. While he lived in London his entire life, except for three years spent in Felpham, he produced a diverse and symbolically rich œuvre, which embraced the imagination as \"the body of God\" or \"human existence itself\".",
-      "Although Blake was considered mad by contemporaries for his idiosyncratic views, he is held in high regard by later critics for his expressiveness and creativity, and for the philosophical and mystical undercurrents within his work. His paintings and poetry have been characterised as part of the Romantic movement and as \"Pre-Romantic\"."
+      "Michael Sittow, also known as Master Michiel, Michel Sittow, Michiel, Miguel and many other variants, was a painter from Reval who was trained in the tradition of Early Netherlandish painting. For most of his life, Sittow worked as a court portrait painter, for Isabella of Castille, the Habsburgs and others in Spain and the Netherlands. He was one of the most important Flemish painters of the era."
     ],
-    "quote": "“Thus men forgot that all deities reside in the human breast.”",
-    "movements": ["Romanticism", "Sturm und Drang"],
-    "mediums": ["Engraving", "Graphite", "Ink", "Pen", "Watercolor painting", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/William_Blake",
-    "urlGoogle": "https://artsandculture.google.com/entity/william-blake/m03f70xs"
+    "quote": null,
+    "movements": ["Northern Renaissance", "Renaissance", "Dutch and Flemish Renaissance painting"],
+    "mediums": ["Oil paint", "Wood", "Oak"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Michael_Sittow",
+    "urlGoogle": "https://artsandculture.google.com/entity/michael-sittow/m03cvclv"
   },
   "event": {
-    "id": "1976-summer-olympics",
-    "name": "1976 Summer Olympics",
-    "dates": "Jul 17, 1976 - Aug 1, 1976",
-    "mainImg": "img/events/1976-summer-olympics.jpg",
+    "id": "second-anglo-afghan-war",
+    "name": "Second Anglo-Afghan War",
+    "dates": "June 1878 - 1880",
+    "mainImg": "img/events/second-anglo-afghan-war.jpg",
     "summary": [
-      "The 1976 Summer Olympics, officially called the Games of the XXI Olympiad, was an international multi-sport event in Montreal, Quebec, Canada, in 1976, and the first Olympic Games held in Canada.",
-      "Montreal was awarded the rights to the 1976 Games on May 12, 1970, at the 69th IOC Session in Amsterdam, over the bids of Moscow and Los Angeles. It was the first and, so far, only Summer Olympic Games to be held in Canada. Toronto hosted the 1976 Summer Paralympics the same year as the Montreal Olympics, and still remain the only Summer Paralympics to be held in Canada. Calgary and Vancouver later hosted the Winter Olympic Games in 1988 and 2010, respectively.",
-      "Twenty-nine countries, mostly African, boycotted the Montreal Games when the International Olympic Committee refused to ban New Zealand, after the New Zealand national rugby union team had toured South Africa earlier in 1976 in defiance of the United Nations' calls for a sporting embargo. The Soviet Union won the most gold and overall medals."
+      "The Second Anglo-Afghan War was a military conflict fought between the British Raj and the Emirate of Afghanistan from 1878 to 1880, when the latter was ruled by Sher Ali Khan of the Barakzai dynasty, the son of former Emir Dost Mohammad Khan. The war was part of the Great Game between the British and Russian empires.",
+      "The war was split into two campaigns - the first began in November 1878 with the British invasion of Afghanistan. The British were quickly victorious and forced the Amir - Sher Ali Khan to flee. Ali's successor Mohammad Yaqub Khan immediately sued for peace and the Treaty of Gandamak was then signed on 26 May 1879. The British sent an envoy and mission led by Sir Louis Cavagnari to Kabul but on 3 September this mission was massacred and the conflict was reignited by Ayub Khan which led to the abdication of Yaqub.",
+      "The second campaign ended in September 1880 when the British decisively defeated Ayub Khan outside Kandahar. A new Amir - Abdur Rahman Khan selected by the British, ratified and confirmed the Gandamak treaty once more."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1976_Summer_Olympics",
-    "urlGoogle": "https://artsandculture.google.com/entity/1976-summer-olympics/m0jkvj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Anglo-Afghan_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-anglo-afghan-war/m05_5p5w"
   },
   "funFacts": [
-    {
-      "id": "259",
-      "fact": "The original recipe for chocolate contained chili powder instead of sugar.",
-      "category": ["Food"]
-    },
-    {
-      "id": "63",
-      "fact": "The average human produces 10,000 gallons of saliva in a lifetime.",
-      "category": ["Anatomy"]
-    }
+    { "id": "1001", "fact": "99% of our solar system's mass is the sun.", "category": ["Science"] },
+    { "id": "363", "fact": "Pearls dissolve in vinegar.", "category": ["Science"] }
   ],
   "funFacts2": [
-    {
-      "id": "553826",
-      "fact": "Since founding the Imagination Library in 1995, Dolly Parton has donated 100 million books to children."
-    }
+    { "id": "553511", "fact": "Hippopotomonstrosesquippedaliophobia is the fear of long words." }
   ],
   "idiom": {
-    "id": "like-pigs-in-clover",
-    "term": "like pigs in clover",
-    "definition": "Extremely contentedly, as in *They had a handsome pension and lived like pigs in clover.* This expression alludes to pigs being allowed to eat as much clover, a favorite food, as they wish. It appeared in the *Boston Gazette* of January 7, 1813: \"Canadians! then in droves come over, And live henceforth like pigs in clover.\" [Early 1800s]"
+    "id": "on-the-horns-of-a-dilemma",
+    "term": "on the horns of a dilemma",
+    "definition": "Faced with two equally undesirable alternatives. For example, *I'm on the horns of a dilemma: if I sell the house now I have no place to live, but if I wait I may not get as good a price.* This term was first recorded about 1600, but the idea of being caught on either one horn or the other (of an animal) was already expressed in Roman times."
   },
   "person": {
-    "id": "patrice-lumumba",
-    "name": "Patrice Lumumba",
-    "dates": "Jul 2, 1925 - Jan 17, 1961",
-    "mainImg": "img/people/patrice-lumumba.jpg",
+    "id": "paul-i-of-russia",
+    "name": "Paul I of Russia",
+    "dates": "Oct 1, 1754 - Mar 24, 1801",
+    "mainImg": "img/people/paul-i-of-russia.jpg",
     "summary": [
-      "Patrice Émery Lumumba was a Congolese politician and independence leader who served as the first Prime Minister of the independent Democratic Republic of the Congo from June until September 1960. He played a significant role in the transformation of the Congo from a colony of Belgium into an independent republic. Ideologically an African nationalist and pan-Africanist, he led the Congolese National Movement party from 1958 until his assassination.",
-      "Shortly after Congolese independence in 1960, a mutiny broke out in the army, marking the beginning of the Congo Crisis. Lumumba appealed to the United States and the United Nations for help to suppress the Belgian-supported Katangan secessionists led by Moise Tshombe. Both refused, so Lumumba turned to the Soviet Union for support. This led to growing differences with President Joseph Kasa-Vubu and chief-of-staff Joseph-Désiré Mobutu, as well as with the United States and Belgium, who opposed the Soviet Union in the Cold War.",
-      "Lumumba was subsequently imprisoned by state authorities under Mobutu and executed by a firing squad under the command of Katangan authorities."
-    ],
-    "quote": "“Without dignity there is no liberty, without justice there is no dignity, and without independence there are no free men.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Patrice_Lumumba",
-    "urlGoogle": "https://artsandculture.google.com/entity/patrice-lumumba/m0d3wd"
-  },
-  "place": {
-    "id": "yakutsk",
-    "name": "Yakutsk",
-    "mainImg": "img/places/yakutsk.jpg",
-    "summary": [
-      "Yakutsk is the capital city of the Sakha Republic, Russia, located about 450 kilometers south of the Arctic Circle.",
-      "Yakutsk, with an average temperature of −8.8 °C, is the second coldest large city in the world after Norilsk, although Yakutsk experiences colder temperatures in the winter. Yakutsk is also the largest city located in continuous permafrost and one of the largest that cannot be reached by road. Yakutsk is located in the Central Yakutian Lowland and is a major port on the Lena River. It is served by the Yakutsk Airport as well as the smaller Magan Airport."
+      "Paul I reigned as Emperor of Russia between 1796 and 1801. Officially, he was the only son of Peter III and Catherine the Great, although Catherine hinted that he was fathered by her lover Sergei Saltykov.",
+      "Paul remained overshadowed by his mother for most of his life. His reign lasted four years and ended with his assassination by conspirators. He adopted the laws of succession to the Russian throne—rules that lasted until the end of the Romanov dynasty and of the Russian Empire. He also intervened in the French Revolutionary Wars and, toward the end of his reign, added Kartli and Kakheti in Eastern Georgia into the empire, which was confirmed by his son and successor Alexander I.",
+      "He was de facto Grand Master of the Order of Hospitallers from 1799 to 1801 and ordered the construction of a number of Maltese thrones."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Yakutsk",
-    "urlGoogle": "https://artsandculture.google.com/entity/yakutsk/m0fwcf"
+    "urlWiki": "https://en.wikipedia.org/wiki/Paul_I_of_Russia",
+    "urlGoogle": "https://artsandculture.google.com/entity/paul-i-of-russia/m012_hp"
+  },
+  "place": {
+    "id": "maldives",
+    "name": "Maldives",
+    "mainImg": "img/places/maldives.jpg",
+    "summary": [
+      "The Maldives, officially the Republic of Maldives, is a small island nation in South Asia, located in the Arabian Sea of the Indian Ocean. It lies southwest of Sri Lanka and India, about 1,000 kilometres from the Asian continent. The chain of 26 atolls stretches from Ihavandhippolhu Atoll in the north to Addu Atoll in the south to the equator. Comprising a territory spanning roughly 298 square kilometres, the Maldives is one of the world's most geographically dispersed sovereign states as well as the smallest Asian country by land area and population, with around 515,696 inhabitants. Malé is the capital and the most populated city, traditionally called the \"King's Island\" where the ancient royal dynasties ruled for its central location.",
+      "The Maldives archipelago is located on the Chagos-Laccadive Ridge, a vast submarine mountain range in the Indian Ocean; this also forms a terrestrial ecoregion, together with the Chagos Archipelago and Lakshadweep. With an average ground-level elevation of 1.5 metres above sea level, it is the world's lowest-lying country, with even its highest natural point being one of the lowest in the world, at 5.1 metres."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Maldives",
+    "urlGoogle": "https://artsandculture.google.com/entity/maldives/m04ty8"
   },
   "quote": {
-    "id": "23",
-    "quote": "Criticism is easy; achievement is difficult.",
-    "author": "Winston Churchill"
+    "id": "39",
+    "quote": "The past can hurt. But the way I see it, you can either run from it, or learn from it.",
+    "author": "Walt Disney"
   },
   "wiki": {
-    "id": "lycoperdon-echinatum",
-    "name": "Lycoperdon echinatum",
-    "summary": "Lycoperdon echinatum, commonly known as the spiny puffball or the spring puffball, is a type of puffball mushroom in the genus Lycoperdon. The saprobic species has been found in Africa, Europe, Central America and North America, where it grows on soil in deciduous woods, glades, and pastures. Molecular analysis indicates that Lycoperdon echinatum is closely related to the puffball genus Handkea. Initially white in color, the puffballs turn a dark brown as they mature, at the same time changing from nearly round to somewhat flattened. The fruit bodies are edible when young, when the interior is white and firm and before it has turned into a powdery brown mass of spores. Young specimens of L. echinatum resemble another edible spiny puffball, Lycoperdon pulcherrimum, but this latter species does not turn brown as it ages. Laboratory tests have shown that extracts of the fruit bodies can inhibit the growth of several bacteria that are pathogenic to humans.",
-    "url": "https://en.wikipedia.org/wiki/Lycoperdon_echinatum"
+    "id": "order-of-canada",
+    "name": "Order of Canada",
+    "summary": "The Order of Canada is Canada's highest civilian honour, awarded to those who adhere to the Order's motto Desiderantes meliorem patriam, meaning \"they desire a better country.\" It was created in 1967 to recognize the lifetime contributions of Canadians who had made a major difference to the nation. The Order also recognizes efforts made by foreigners who made the world better through their actions. Musicians, politicians, artists, TV stars, benefactors and many more have been accepted into the Order. The Queen of Canada, Queen Elizabeth II, is Sovereign of the Order and the serving Governor General of Canada is its Chancellor and Principal Companion. Since 1967, more than 5,000 people have been appointed to the Order of Canada.",
+    "url": "https://en.wikipedia.org/wiki/Order_of_Canada"
   },
   "word": {
-    "id": "famish",
-    "word": "famish",
-    "url": "https://www.merriam-webster.com/dictionary/famish",
-    "partOfSpeech": "verb",
-    "pronunciation": "FAM-ish",
-    "audioPath": "audio/words/famish.mp3",
-    "definitions": [
-      "to cause to suffer severely from hunger",
-      "to suffer for lack of something necessary"
-    ],
+    "id": "triskaidekaphobia",
+    "word": "triskaidekaphobia",
+    "url": "https://www.merriam-webster.com/dictionary/triskaidekaphobia",
+    "partOfSpeech": "noun",
+    "pronunciation": "triss-kye-dek-uh-FOH-bee-uh",
+    "audioPath": "audio/words/triskaidekaphobia.mp3",
+    "definitions": ["fear of the number 13"],
     "examples": [
-      "\"Set him breast-deep in earth and _famish_ him, / There let him stand and rave and cry for food.\" - From Act V, Scene iii of William Shakespeare's Titus Andronicus, 1593-94",
-      "\"In northern Wisconsin, snow is like a cold, wintry manna. Some hotels and resorts feast when it's plentiful. They _famish_ when it's not.\" - From an article by McLean Bennett in _The Leader-Telegram_ (Eau Claire, Wisconsin), December 28, 2011"
+      "\"Billy Hart suffers absolutely no triskaidekaphobia. The Salem Avalanche infielder has worn No. 13 for six years….\" (Katrina Waugh, _The Roanoke Times_ \\[Virginia\\], July 14, 2007)"
     ],
-    "origin": "\"Famish\" likely developed as an alteration of Middle English \"famen,\" meaning \"to starve.\" The Middle English word was borrowed from the Anglo-French verb \"afamer,\" which etymologists believe came from Vulgar Latin \"affamare.\" We say \"believe\" because, while no written evidence has yet been found for the Vulgar Latin word \"affamare,\" it would be the expected source for the Anglo-French verb based on the combination of the Latin prefix \"ad-\" (\"to\" or \"toward\") and the root noun \"fames\" (\"hunger\"). In contemporary English, the verb \"famish\" is still used on rare occasions, but it is considerably less common than the related adjective \"famished,\" which usually means \"hungry\" or \"starving\" but can also mean \"needy\" or \"being in want.\""
+    "origin": "It's impossible to say just how or when the number thirteen got its bad reputation. There are a number of theories, of course. Some say it comes from the Last Supper because Jesus was betrayed afterwards by one among the thirteen present. Others trace the source of the superstition back to ancient Hindu beliefs or Norse mythology. But if written references are any indication, the phenomenon isn't all that old (at least, not among English speakers). Known mention of fear of thirteen in print dates back only to the late 1800s. By circa 1911, however, it was prevalent enough to merit a name, which was formed by attaching the Greek word for \"thirteen\" -- \"treiskaideka\" (dropping that first \"e\") -- to \"phobia\" (\"fear of\")."
   }
 }

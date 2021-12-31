@@ -1,0 +1,135 @@
+{
+  "artist": {
+    "id": "carlos-de-haes",
+    "name": "Carlos de Haes",
+    "dates": "Jan 25, 1829 - Jun 17, 1898",
+    "mainImg": "img/art/artists/carlos-de-haes.jpg",
+    "artworkImgs": [
+      {
+        "name": "Egypcian Landscape",
+        "path": "img/art/artworks/carlos-de-haes-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/egypcian-landscape-carlos-de-haes/7wFUGJ4ErtKrtw"
+      },
+      {
+        "name": "Mountains in Asturias",
+        "path": "img/art/artworks/carlos-de-haes-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mountains-in-asturias-carlos-de-haes/JAFAmq8QkDtYLw"
+      },
+      {
+        "name": "View near Monasterio de Piedra, Aragon",
+        "path": "img/art/artworks/carlos-de-haes-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/view-near-monasterio-de-piedra-aragon-carlos-de-haes/IAE2PlRFvs5oRg"
+      },
+      {
+        "name": "Landscape with Cattle near a River",
+        "path": "img/art/artworks/carlos-de-haes-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-with-cattle-near-a-river-carlos-de-haes/FQE7YZ7yLkvsSQ"
+      },
+      {
+        "name": "Picos de Europa",
+        "path": "img/art/artworks/carlos-de-haes-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/picos-de-europa-carlos-de-haes/EwESUrlWSvkslA"
+      },
+      {
+        "name": "Villerville Beach. Normandy",
+        "path": "img/art/artworks/carlos-de-haes-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/villerville-beach-normandy-carlos-de-haes/WQHSnv_19cvQlQ"
+      }
+    ],
+    "summary": [
+      "Carlos Sebastián Pedro Hubert de Haes was a Spanish painter from Belgium. He was noted for the Realism in his landscapes, and was considered to be the \"first contemporary Spanish artist able to capture something of a particularly Spanish 'essence' in his work\". He was cited along with Jenaro Perez Villaamil and Aureliano de Beruete as one of the three Spanish grand masters of landscape painting, the latter of which was his pupil.",
+      "In the 1850s, Haes was involved in the rise of the Realist school of landscape. Coincidentally his landscape and wildlife paintings of the Monasterio de Piedra occurred at the time of an academic opening for the Painting School of the Real Academia de Bellas Artes de San Fernando, the selection to be made by a landscape competition. In 1857 he became the first professor of landscape painting, the first in Spain to teach painting directly from nature. In 1860, he became an Academic at the Royal Academy. In 1876, he presented at the National Exhibition with La Canal de Mancorbo en los Picos de Europa later acquired by the Spanish state to be part of the collection of the Museo del Prado, because of its significance as a realistic Spanish landscape painting."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Oil paint", "Cardboard", "Adhesive"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Carlos_de_Haes",
+    "urlGoogle": "https://artsandculture.google.com/entity/carlos-de-haes/m0n52vn0"
+  },
+  "event": {
+    "id": "battle-of-st-quentin-canal",
+    "name": "Battle of St Quentin Canal",
+    "dates": "Sep 29, 1918 - Oct 10, 1918",
+    "mainImg": "img/events/battle-of-st-quentin-canal.jpg",
+    "summary": [
+      "The Battle of St. Quentin Canal was a pivotal battle of World War I that began on 29 September 1918 and involved British, Australian and American forces operating as part of the British Fourth Army under the overall command of General Sir Henry Rawlinson. Further north, part of the British Third Army also supported the attack. South of the Fourth Army's 19 km front, the French First Army launched a coordinated attack on a 9.5 km front. The objective was to break through one of the most heavily defended stretches of the German Siegfriedstellung, which in this sector utilised the St Quentin Canal as part of its defences. The assault achieved its objectives, resulting in the first full breach of the Hindenburg Line, in the face of heavy German resistance. In concert with other attacks of the Grand Offensive along the length of the line, Allied success convinced the German high command that there was little hope of an ultimate German victory."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_St_Quentin_Canal",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-st-quentin-canal/m0bz19j"
+  },
+  "funFacts": [
+    {
+      "id": "782",
+      "fact": "The human jaw can generate a force up to 200 pounds on the molars.",
+      "category": ["Anatomy"]
+    },
+    {
+      "id": "201",
+      "fact": "The only one-syllabled U.S. state is Maine.",
+      "category": ["Geography", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504714",
+      "fact": "The Scots have a word for that panicky hesitation you get when you can’t remember someone’s name: tartle."
+    }
+  ],
+  "idiom": {
+    "id": "cross-as-a-bear",
+    "term": "cross as a bear",
+    "definition": "Grumpy, ill-humored, annoyed, as in *Stay away from Claire; she's cross as a bear this morning.* Unlike the earlier *cross as two sticks,* this survives even though the adjective *cross* for \"ill-tempered\" is otherwise not used much in America. It is sometimes amplified as *cross as a bear with a sore head.* [Early 1700s]"
+  },
+  "person": {
+    "id": "strom-thurmond",
+    "name": "Strom Thurmond",
+    "dates": "Dec 5, 1902 - Jun 26, 2003",
+    "mainImg": "img/people/strom-thurmond.jpg",
+    "summary": [
+      "James Strom Thurmond Sr. was an American military officer and politician who served for 48 years as a United States Senator from South Carolina. He ran for president in 1948 as the Dixiecrat candidate on a States Rights platform supporting racial segregation. He received 2.4% of the popular vote and 39 electoral votes but failed to defeat Harry Truman. Thurmond represented South Carolina in the United States Senate from 1954 until 2003, at first as a Southern Democrat and, after 1964, as a Republican.",
+      "A magnet for controversy during his nearly half-century Senate career, Thurmond switched parties because of his opposition to the Civil Rights Act of 1964 and his support for Republican presidential candidate Senator Barry Goldwater. In the months before switching, he had \"been critical of the Democratic Administration for ... enactment of the Civil Rights Law\", while Goldwater \"boasted of his opposition to the Civil Rights Act, and made it part of his platform.\" Thurmond left office as the only member of either chamber of Congress to reach the age of 100 while still in office, and as the oldest-serving and longest-serving senator in U.S. history."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Strom_Thurmond",
+    "urlGoogle": "https://artsandculture.google.com/entity/strom-thurmond/m0c4_l"
+  },
+  "place": {
+    "id": "albania",
+    "name": "Albania",
+    "mainImg": "img/places/albania.jpg",
+    "summary": [
+      "Albania, officially the Republic of Albania, is a country in Southeast Europe on the Adriatic and Ionian Sea within the Mediterranean Sea. It shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east, Greece to the south and maritime borders with Greece, Montenegro and Italy to the west.",
+      "Geographically, the country displays varied climatic, geological, hydrological and morphological conditions, defined in an area of 28,748 km². It possesses remarkable diversity with the landscape ranging from the snow-capped mountains in the Albanian Alps as well as the Korab, Skanderbeg, Pindus and Ceraunian Mountains to the hot and sunny coasts of the Albanian Adriatic and Ionian Sea along the Mediterranean Sea.",
+      "Historically, the country has been inhabited by numerous civilisations such as the Illyrians, Thracians, Ancient Greeks, Romans, Byzantines, Venetians and Ottomans. The Albanians established the autonomous Principality of Arbër in the 12th century. The Kingdom of Albania and Principality of Albania formed between the 13th and 14th centuries."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Albania",
+    "urlGoogle": "https://artsandculture.google.com/entity/albania/m0jdx"
+  },
+  "quote": {
+    "id": "60",
+    "quote": "All great truths begin as blasphemies.",
+    "author": "George Bernard Shaw"
+  },
+  "wiki": {
+    "id": "the-well-of-loneliness",
+    "name": "The Well of Loneliness",
+    "summary": "The Well of Loneliness is a 1928 lesbian novel by the British author Radclyffe Hall. It follows the life of Stephen Gordon, an Englishwoman from an upper-class family whose \"sexual inversion\" (homosexuality) is apparent from an early age. She finds love with Mary Llewellyn, whom she meets while serving as an ambulance driver in World War I, but their happiness together is marred by social isolation and rejection, which Hall depicts as having a debilitating effect on inverts. The novel portrays inversion as a natural, God-given state and makes an explicit plea: \"Give us also the right to our existence\". The novel became the target of a campaign by James Douglas, editor of the Sunday Express newspaper, who wrote \"I would rather give a healthy boy or a healthy girl a phial of prussic acid than this novel.\" Although its only sexual reference consists of the words \"and that night, they were not divided\", a British court judged it obscene because it defended \"unnatural practices between women\". In the United States the book survived legal challenges in New York state and in Customs Court.",
+    "url": "https://en.wikipedia.org/wiki/The_Well_of_Loneliness"
+  },
+  "word": {
+    "id": "coquetry",
+    "word": "coquetry",
+    "url": "https://www.merriam-webster.com/dictionary/coquetry",
+    "partOfSpeech": "noun",
+    "pronunciation": "KOH-kuh-tree",
+    "audioPath": "audio/words/coquetry.mp3",
+    "definitions": ["a flirtatious act or attitude"],
+    "examples": [
+      "In a not-so-subtle act of _coquetry_, Nancy smiled flirtatiously and winked at Scott as she walked past him.",
+      "“Her Act III solo with a fan became an expression not of conventional _coquetry_ but of impish joy in the moment.\" -- From a review of the American Ballet Theater in _The New York Times_, May 25, 2011"
+    ],
+    "origin": "The rooster's cocky attitude has given him a reputation for arrogance and promiscuity. It has also given English several terms for people whose behavior is reminiscent of that strutting barnyard fowl. The noun \"coquet\" comes from French, where it is a diminutive of \"coq,\" the French word for rooster. Originally, in the 1600s, English speakers used \"coquet\" to describe men who indulged in trifling flirtations. Today \"coquet\" can refer to male or female flirts (though \"coquette,\" the French feminine form, is more commonly used for flirtatious women), and \"coquetry\" can refer to flirtation by men or women."
+  }
+}

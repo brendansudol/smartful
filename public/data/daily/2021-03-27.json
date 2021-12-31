@@ -1,135 +1,136 @@
 {
   "artist": {
-    "id": "n-c-wyeth",
-    "name": "N. C. Wyeth",
-    "dates": "Oct 22, 1882 - Oct 19, 1945",
-    "mainImg": "img/art/artists/n-c-wyeth.jpg",
+    "id": "michael-landy",
+    "name": "Michael Landy",
+    "dates": "Born 1963",
+    "mainImg": "img/art/artists/michael-landy.jpg",
     "artworkImgs": [
       {
-        "name": "Buy War Bonds",
-        "path": "img/art/artworks/n-c-wyeth-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/buy-war-bonds-newell-convers-wyeth/2wHBfDyPY3pGLA"
+        "name": "The consuming paradox",
+        "path": "img/art/artworks/michael-landy-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-consuming-paradox-michael-landy/WgE1lD7MDRKlRA"
       },
       {
-        "name": "Paraíba do Sul river in Campo dos Goytacazes",
-        "path": "img/art/artworks/n-c-wyeth-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/paraíba-do-sul-river-in-campo-dos-goytacazes-gledson-agra-de-carvalho-cc-by-nc-4-0/3gGiQjR4zDG9IQ"
+        "name": "H.2.N.Y. Self-destroying work of art",
+        "path": "img/art/artworks/michael-landy-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/h-2-n-y-self-destroying-work-of-art-michael-landy/EwGnxxmWbJH2Kg"
       },
       {
-        "name": "Self-Portrait",
-        "path": "img/art/artworks/n-c-wyeth-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-newell-convers-wyeth/8gGWuYnrW-djjA"
+        "name": "Kaldor Public Art Project 24: Michael Landy 2011",
+        "path": "img/art/artworks/michael-landy-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/kaldor-public-art-project-24-michael-landy-2011-michael-landy/UQFGX-_Zm2sJ4A"
       },
       {
-        "name": "The Little Posse Started Out on its Journey, the Wiry Marshal First",
-        "path": "img/art/artworks/n-c-wyeth-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-little-posse-started-out-on-its-journey-the-wiry-marshal-first-newell-convers-wyeth/CAFl7sF8eKizcQ"
+        "name": "Break Down",
+        "path": "img/art/artworks/michael-landy-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/break-down-michael-landy/wAHrMitW7astlA"
       },
       {
-        "name": "Three Gorges Dam, in China",
-        "path": "img/art/artworks/n-c-wyeth-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/three-gorges-dam-in-china-pedro-vásquez-colmenares-cc-by-nc-2-0/MAHEqb0kurVS4A"
+        "name": "Painting (1)",
+        "path": "img/art/artworks/michael-landy-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/painting-1-michael-landy/9wFv1fUip7A34w"
       },
       {
-        "name": "Blubber Island, Maine",
-        "path": "img/art/artworks/n-c-wyeth-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/blubber-island-maine-newell-convers-wyeth/dwEuAgiINGwbTQ"
+        "name": "Drawing (2)",
+        "path": "img/art/artworks/michael-landy-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/drawing-2-michael-landy/XQF8cEo0rL3izQ"
       }
     ],
     "summary": [
-      "Newell Convers Wyeth, known as N. C. Wyeth, was an American artist and illustrator. He was the pupil of artist Howard Pyle and became one of America's greatest illustrators. During his lifetime, Wyeth created more than 3,000 paintings and illustrated 112 books, 25 of them for Scribner's, the Scribner Classics, which is the work for which he is best known. The first of these, Treasure Island, was one of his masterpieces and the proceeds paid for his studio. Wyeth was a realist painter at a time when the camera and photography began to compete with his craft. Sometimes seen as melodramatic, his illustrations were designed to be understood quickly. Wyeth, who was both a painter and an illustrator, understood the difference, and said in 1908, \"Painting and illustration cannot be mixed—one cannot merge from one into the other.\"",
-      "He is the father of Andrew Wyeth and the grandfather of Jamie Wyeth, both well-known American painters."
+      "Michael Landy RA is one of the Young British Artists. He is best known for the performance piece installation Break Down, in which he destroyed all his possessions, and for the Art Bin project at the South London Gallery. On 29 May 2008, Landy was elected a member of the Royal Academy of Arts in London."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Oil paint", "Gesso", "Tempera", "Textile"],
-    "urlWiki": "https://en.wikipedia.org/wiki/N._C._Wyeth",
-    "urlGoogle": "https://artsandculture.google.com/entity/n-c-wyeth/m02p6_g"
+    "movements": ["Young British Artists", "Contemporary art"],
+    "mediums": ["Drawing", "Metal", "Oil paint", "Ink", "Sculpture", "Charcoal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Michael_Landy",
+    "urlGoogle": "https://artsandculture.google.com/entity/michael-landy/m015vpb"
   },
   "event": {
-    "id": "scuttling-of-the-german-fleet-at-scapa-flow",
-    "name": "Scuttling of the German fleet at Scapa Flow",
+    "id": "2010-haiti-earthquake",
+    "name": "2010 Haiti Earthquake",
     "dates": null,
-    "mainImg": "img/events/scuttling-of-the-german-fleet-at-scapa-flow.jpg",
+    "mainImg": "img/events/2010-haiti-earthquake.jpg",
     "summary": [
-      "The scuttling of the German fleet took place at the Royal Navy's base at Scapa Flow, in the Orkney Islands of Scotland, shortly after the First World War. The High Seas Fleet was interned there under the terms of the Armistice whilst negotiations took place over the fate of the ships. Fearing that all of the ships would be seized and divided amongst the Allies, Admiral Ludwig von Reuter decided to scuttle the fleet.",
-      "The scuttling was carried out on 21 June 1919. Intervening British guard ships were able to beach a number of the ships, but 52 of the 74 interned vessels sank. Many of the wrecks were salvaged over the next two decades and were towed away for scrapping. Those that remain are popular diving sites. The ships are the world's primary source of low-background steel."
+      "The 2010 Haiti earthquake was a catastrophic magnitude 7.0 Mw earthquake, with an epicenter near the town of Léogâne and approximately 25 kilometres west of Port-au-Prince, Haiti's capital. The earthquake occurred at 16:53 local time on Tuesday, 12 January 2010.",
+      "By 24 January, at least 52 aftershocks measuring 4.5 or greater had been recorded. An estimated three million people were affected by the quake. Death toll estimates range from 100,000 to about 160,000 to Haitian government figures from 220,000 to 316,000, although these latter figures are a matter of some dispute. The government of Haiti estimated that 250,000 residences and 30,000 commercial buildings had collapsed or were severely damaged. The nation's history of national debt, prejudicial trade policies by other countries, and foreign intervention into national affairs, contributed to the existing poverty and poor housing conditions that increased the death toll from the disaster.",
+      "The earthquake caused major damage in Port-au-Prince, Jacmel and other cities in the region."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_at_Scapa_Flow",
-    "urlGoogle": "https://artsandculture.google.com/entity/scuttling-of-the-german-fleet-at-scapa-flow/m04grvfl"
+    "urlWiki": "https://en.wikipedia.org/wiki/2010_Haiti_earthquake",
+    "urlGoogle": "https://artsandculture.google.com/entity/2010-haiti-earthquake/m09rkpyw"
   },
   "funFacts": [
     {
-      "id": "424",
-      "fact": "The ZIP in the ZIP code stands for Zone Improvement Plan.",
-      "category": ["Definitions"]
+      "id": "336",
+      "fact": "The last letter to be added to our alphabet was J.",
+      "category": ["History"]
     },
     {
-      "id": "1009",
-      "fact": "The glue on Israeli postage stamps is certified kosher.",
-      "category": ["Geography", "Hodgepodge", "Science"]
+      "id": "212",
+      "fact": "Galapagos turtles can take up to three weeks to digest a meal.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "506182",
-      "fact": "Before he became president, Abraham Lincoln was wrestling champion of his county in Illinois. He fought in nearly 300 matches and lost only one."
+      "id": "522218",
+      "fact": "There really was a Captain Morgan. He was a Welsh pirate who later became the lieutenant governor of Jamaica."
     }
   ],
   "idiom": {
-    "id": "ask-for-the-moon",
-    "term": "ask for the moon",
-    "definition": "Make an unreasonable demand, request the unattainable, as in *$1,000 for her birthday? Mary might as well be asking for the moon.* This hyperbolic idiom appeared in the mid-1800s in slightly different form. Charles Dickens had it as **cry for the moon** (in *Bleak House,* 1852) and William Makepeace Thackeray as **wish for the moon** (in *Lovell the Widower,* 1860). Today *ask* is the most common version."
+    "id": "friend-in-court",
+    "term": "friend in court",
+    "definition": "Also, **friends in high places.** A person or persons who can help by virtue of their important position. For example, *With a friend in court, he has a good chance of getting the contract,* or *Jim thinks he can get out of paying the fine; he has friends in high places.* This expression alludes to the power of a person at the royal court. With the decline of monarchies, *high places* came into more common use. [c. 1400]"
   },
   "person": {
-    "id": "fridtjof-nansen",
-    "name": "Fridtjof Nansen",
-    "dates": "Oct 10, 1861 - May 13, 1930",
-    "mainImg": "img/people/fridtjof-nansen.jpg",
+    "id": "nawal-el-moutawakel",
+    "name": "Nawal El Moutawakel",
+    "dates": "Born Apr 15, 1962",
+    "mainImg": "img/people/nawal-el-moutawakel.jpg",
     "summary": [
-      "Fridtjof Wedel-Jarlsberg Nansen was a Norwegian explorer, scientist, diplomat, humanitarian and Nobel Peace Prize laureate. In his youth he was a champion skier and ice skater. He led the team that made the first crossing of the Greenland interior in 1888, traversing the island on cross-country skis. He won international fame after reaching a record northern latitude of 86°14′ during his Fram expedition of 1893–1896. Although he retired from exploration after his return to Norway, his techniques of polar travel and his innovations in equipment and clothing influenced a generation of subsequent Arctic and Antarctic expeditions.",
-      "Nansen studied zoology at the Royal Frederick University in Christiania and later worked as a curator at the University Museum of Bergen where his research on the central nervous system of lower marine creatures earned him a doctorate and helped establish neuron doctrine. Later, neuroscientist Santiago Ramón y Cajal won the 1906 Nobel Prize in Medicine for his research on the same subject."
-    ],
-    "quote": "“The difficult is what takes a little time; the impossible is what takes a little longer.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Fridtjof_Nansen",
-    "urlGoogle": "https://artsandculture.google.com/entity/fridtjof-nansen/m033_v"
-  },
-  "place": {
-    "id": "katowice",
-    "name": "Katowice",
-    "mainImg": "img/places/katowice.jpg",
-    "summary": [
-      "Katowice is a city in southern Poland, the capital city of the Silesian Region, and a center of the Upper Silesia and Dąbrowa Basin Metropolis. With the population of 294,510, it is the eleventh-largest city in Poland. The wider Katowice urban area has the population of approximately 2 to 3 million people.",
-      "Throughout the mid-18th century, Katowice had developed into a village upon the discovery of rich coal reserves in the area. In 1742 the First Silesian War transferred Upper Silesia, including Katowice, to Prussia. Subsequently, from the second half of the 18th century, many German or Prussian craftsmen, merchants and artists began to settle in the region, which had been inhabited mostly by Poles over the past hundreds of years. Simultaneously Silesia experienced the influx of the first Jewish settlers. In the first half of the 19th century, intensive industrialization transformed local mills and farms into industrial steelworks, mines, foundries and artisan workshops. This also contributed to the establishment of companies and eventual rapid growth of the city."
+      "Nawal El Moutawakel is a Moroccan former hurdler, who won the inaugural women's 400 metres hurdles event at the 1984 Summer Olympics, and was the inaugural female, Muslim, born in Africa, Moroccan to become an Olympic medalist. In 2007, El Moutawakel was named the Minister of Sports in the upcoming cabinet of Morocco."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Katowice",
-    "urlGoogle": "https://artsandculture.google.com/entity/katowice/m0bld8"
+    "urlWiki": "https://en.wikipedia.org/wiki/Nawal_El_Moutawakel",
+    "urlGoogle": "https://artsandculture.google.com/entity/nawal-el-moutawakel/m05jyj"
+  },
+  "place": {
+    "id": "suzhou",
+    "name": "Suzhou",
+    "mainImg": "img/places/suzhou.jpg",
+    "summary": [
+      "Suzhou, alternately romanized as Soochow, is a major city located in southeastern Jiangsu Province of East China, about 100 km northwest of Shanghai. It is a major economic center and focal point of trade and commerce, and the second largest city in the province, after its capital Nanjing. The city is situated on the lower reaches of the Yangtze River and the shores of Lake Tai and belongs to the Yangtze River Delta region. Administratively, Suzhou is a prefecture-level city with a population of 4.33 million in its city proper, and a total resident population of 10.58 million in its administrative area. Its urban population grew at an unprecedented rate of 6.5% between 2000 and 2014, which is the highest among cities with more than 5 million people.",
+      "Founded in 514 BC, Suzhou has over 2,500 years of history, with an abundant display of relics and sites of historical interest. Around AD 100, during the Eastern Han dynasty, it became one of the ten largest cities in the world mostly due to emigration from Northern China. Since the 10th-century Song dynasty, it has been an important commercial center of China."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Suzhou",
+    "urlGoogle": "https://artsandculture.google.com/entity/suzhou/m01qq80"
   },
   "quote": {
-    "id": "8",
-    "quote": "The fool doth think he is wise, but the wise man knows himself to be a fool.",
-    "author": "William Shakespeare"
+    "id": "66",
+    "quote": "Eighty percent of success is showing up.",
+    "author": "Woody Allen"
   },
   "wiki": {
-    "id": "sms-erzherzog-franz-ferdinand",
-    "name": "SMS Erzherzog Franz Ferdinand",
-    "summary": "SMS Erzherzog Franz Ferdinand was an Austro-Hungarian Radetzky class pre-dreadnought battleship commissioned into the Austro-Hungarian Navy on 5 June 1910. Although SMS Erzherzog Franz Ferdinand was laid down and commissioned after the launching of the HMS Dreadnought in 1906, her design was begun before and had the characteristics of a Pre-Dreadnought battleship rather than later Post-Dreadnought battleships. She was named after Archduke Franz Ferdinand. The first ship of her class to be built, she preceded Radetzky by more than six months. Her armament included four 30.5 cm (12 in) guns in two twin turrets, and eight 24 cm (9.4 in) guns in four twin turrets. She participated in an international naval protest of the Balkan Wars in 1913, during which she helped enforce a blockade of Montenegro. She was also one of the first ships to deploy seaplanes for military use. During World War I, she saw limited service in the 2nd Division of the 1st Battle Squadron, including mobilization to assist the escape of the German ships SMS Goeben and SMS Breslau and the bombardment of Ancona in 1915.",
-    "url": "https://en.wikipedia.org/wiki/SMS_Erzherzog_Franz_Ferdinand"
+    "id": "the-long-and-winding-road",
+    "name": "The Long and Winding Road",
+    "summary": "\"The Long and Winding Road\" is a pop ballad written by Paul McCartney that originally appeared on the Beatles' album Let It Be. It became The Beatles' last Number 1 song in the United States on June 13, 1970. While the released version of the song was very successful, the post-production modifications to the song by producer Phil Spector angered McCartney to the point that when he made his case in court for breaking up the Beatles as a legal entity, he cited the treatment of \"The Long and Winding Road\" as one of six reasons for doing so.",
+    "url": "https://en.wikipedia.org/wiki/The_Long_and_Winding_Road"
   },
   "word": {
-    "id": "ramose",
-    "word": "ramose",
-    "url": "https://www.merriam-webster.com/dictionary/ramose",
-    "partOfSpeech": "adjective",
-    "pronunciation": "RAY-mohss",
-    "audioPath": "audio/words/ramose.mp3",
-    "definitions": ["consisting of or having branches"],
-    "examples": [
-      "\"On a coral reef something analogous happens when _ramose_ corals grow upward to create a structure resistant to waves and current....\" - Les S. Kaufman in _Coral Reef Restoration Handbook_, 2006",
-      "\"This decision pushed the Iraqi scene into _ramose_ labyrinths and added to the extremely complex questions....\" - From an article by _BBC Monitoring_, April 21, 2010"
+    "id": "koine",
+    "word": "koine",
+    "url": "https://www.merriam-webster.com/dictionary/koine",
+    "partOfSpeech": "noun",
+    "pronunciation": "koy-NAY",
+    "audioPath": "audio/words/koine.mp3",
+    "definitions": [
+      "the Greek language commonly spoken and written in eastern Mediterranean countries in the Hellenistic and Roman periods",
+      "a dialect or language of a region that has become the common or standard language of a larger area"
     ],
-    "origin": "The adjective \"ramose\" is used to describe things that are branched, as in \"ramose sponges,\" \"ramose corals,\" or even \"ramose trees.\" This branching can also be figurative, as in our second example above. \"Ramose\" was borrowed from the Latin \"ramosus\" (\"branched\") in the 17th century. In the 15th century, the Latin \"ramosus\" had also been borrowed by English, by way of the Middle French \"rameux,\" as \"ramous,\" a word nearly identical in meaning and usage to \"ramose.\" The root of \"ramosus,\" the Latin noun \"ramus\" (\"branch\"), is also the source, by way of Medieval Latin \"ramificare\" and Middle French \"ramifier,\" of the English verb \"ramify.\""
+    "examples": [
+      "Koines inevitably developed in the early British colonies as different dialects converged."
+    ],
+    "origin": "Koine, which means \"common\" or \"shared\" in Greek, was the language spoken in the eastern Mediterranean countries from the 4th century B.C. until the time of the Byzantine emperor Justinian (mid-6th century A.D.). In linguistics, the word \"koine\" is applied to a language developed from contact between dialects of the same language over a large region. Basically, a koine adopts those grammatical and lexical elements from the dialects of the region that are easily recognized by most area speakers and dispenses with those that are not."
   }
 }

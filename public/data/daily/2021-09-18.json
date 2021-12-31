@@ -1,135 +1,133 @@
 {
   "artist": {
-    "id": "nicolaes-maes",
-    "name": "Nicolaes Maes",
-    "dates": "January 1634 - Nov 24, 1693",
-    "mainImg": "img/art/artists/nicolaes-maes.jpg",
+    "id": "jan-sanders-van-hemessen",
+    "name": "Jan Sanders van Hemessen",
+    "dates": "1500 - 1566",
+    "mainImg": "img/art/artists/jan-sanders-van-hemessen.jpg",
     "artworkImgs": [
       {
-        "name": "Young Woman Peeling Apples",
-        "path": "img/art/artworks/nicolaes-maes-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/young-woman-peeling-apples-nicolaes-maes/AAEX96-QhtjN9Q"
+        "name": "The surgeon",
+        "path": "img/art/artworks/jan-sanders-van-hemessen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-surgeon-sanders-van-hemessen/-QGkRtoy1yre7A"
       },
       {
-        "name": "Old Woman Saying Grace, Known as 'The Prayer without End'",
-        "path": "img/art/artworks/nicolaes-maes-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/old-woman-saying-grace-known-as-the-prayer-without-end-nicolaes-maes/3AEBA7dFnmFKVg"
+        "name": "The Calling of Matthew",
+        "path": "img/art/artworks/jan-sanders-van-hemessen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-calling-of-matthew-jan-sanders-van-hemessen/xAHjma1Qd098IA"
       },
       {
-        "name": "The Eavesdropper",
-        "path": "img/art/artworks/nicolaes-maes-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-eavesdropper-nicolaes-maes/FgFta55E_GHZ2A"
+        "name": "Loose Company",
+        "path": "img/art/artworks/jan-sanders-van-hemessen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/loose-company-jan-sanders-van-hemessen/ZAGcHtiVUuInZQ"
       },
       {
-        "name": "The maidservant",
-        "path": "img/art/artworks/nicolaes-maes-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-maidservant-maes-nicolaes/6gG2QSlAwxLLdg"
+        "name": "Isaac Blessing Jacob",
+        "path": "img/art/artworks/jan-sanders-van-hemessen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/isaac-blessing-jacob-jan-sanders-van-hemessen/6AHDe0kyxSpizA"
       },
       {
-        "name": "Portrait of a Woman",
-        "path": "img/art/artworks/nicolaes-maes-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-woman-nicholas-maes/SwGjxWJGuCaIjw"
+        "name": "Allegory of Nature as the Mother of Art",
+        "path": "img/art/artworks/jan-sanders-van-hemessen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/allegory-of-nature-as-the-mother-of-art-jan-van-hemessen/agFGuZ7dtGuRxA"
       },
       {
-        "name": "Abraham Dismissing Hagar and Ishmael",
-        "path": "img/art/artworks/nicolaes-maes-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/abraham-dismissing-hagar-and-ishmael-nicolaes-maes/RQE5Y9p9A7N5HQ"
+        "name": "The Fall of Men",
+        "path": "img/art/artworks/jan-sanders-van-hemessen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-fall-of-men-jan-van-hemessen-environment-master-of-paulus-and-barnabas/gQGawrWCLUU7EA"
       }
     ],
     "summary": [
-      "Nicolaes Maes was a Dutch painter known for his genre scenes, portraits, religious compositions and the occasional still life. A pupil of Rembrandt in Amsterdam, he returned to work in his native city Dordrecht for 20 years. In the latter part of his career he returned to Amsterdam where he became the leading portrait painter of his time. Maes contributed to the development of genre painting in the Netherlands and was the most prominent portrait painter working in Amsterdam in the final three decennia of the 17th century."
+      "Jan Sanders van Hemessen was a leading Flemish Renaissance painter, belonging to the group of Italianizing Flemish painters called the Romanists, who were influenced by Italian Renaissance painting. Van Hemessen had visited Italy during the 1520s, and also Fontainebleau near Paris in the mid 1530s, where he was able to view the work of the colony of Italian artists known as the First School of Fontainebleau, who were working on the decorations for the Palace of Fontainebleau. Van Hemessen's works show his ability to interpret the Italian models into a new Flemish visual vocabulary.",
+      "Hemessen played an important role in the development of genre painting, through his large scenes with religious or worldly subjects, set in towns with contemporary dress and architecture. These works depict human failings such as greed and vanit, and some show an interest in subjects with a financial angle. His genre scenes develop the \"Mannerist inversion\" later taken further by Pieter Aertsen, where a small religious scene in the background reveals the true meaning of the painting, which is dominated by a large foreground scene seemingly devoted to a secular genre subject."
     ],
     "quote": null,
-    "movements": ["Baroque", "Dutch Golden Age"],
-    "mediums": ["Oil paint", "Pen", "Drawing", "Ink", "Chalk", "Pigment"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Nicolaes_Maes",
-    "urlGoogle": "https://artsandculture.google.com/entity/nicolaes-maes/m03fvwq"
+    "movements": [],
+    "mediums": ["Oil paint", "Wood", "Oak", "Tin", "Metal", "Tempera"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jan_Sanders_van_Hemessen",
+    "urlGoogle": "https://artsandculture.google.com/entity/jan-sanders-van-hemessen/m08rt5c"
   },
   "event": {
-    "id": "belgian-revolution",
-    "name": "Belgian Revolution",
-    "dates": "Aug 25, 1830 - Aug 12, 1831",
-    "mainImg": "img/events/belgian-revolution.jpg",
+    "id": "battle-in-berlin",
+    "name": "Battle in Berlin",
+    "dates": "Apr 23, 1945 - May 2, 1945",
+    "mainImg": "img/events/battle-in-berlin.jpg",
     "summary": [
-      "The Belgian Revolution was the conflict which led to the secession of the southern provinces from the United Kingdom of the Netherlands and the establishment of an independent Kingdom of Belgium.",
-      "The people of the south were mainly Flemings and Walloons. Both peoples were traditionally Roman Catholic as contrasted with the largely Protestant people of the north. Many outspoken liberals regarded King William I's rule as despotic. There were high levels of unemployment and industrial unrest among the working classes.",
-      "On 25 August 1830, riots erupted in Brussels and shops were looted. Theatregoers who had just watched the nationalistic opera La muette de Portici joined the mob. Uprisings followed elsewhere in the country. Factories were occupied and machinery destroyed. Order was restored briefly after William committed troops to the Southern Provinces but rioting continued and leadership was taken up by radicals, who started talking of secession.",
-      "Dutch units saw the mass desertion of recruits from the southern provinces and pulled out. The States-General in Brussels voted in favour of secession and declared independence. In the aftermath, a National Congress was assembled."
+      "The battle in Berlin was an end phase of the Battle of Berlin. While the Battle of Berlin encompassed the attack by three Soviet Army Groups to capture not only Berlin but the territory of Germany east of the River Elbe still under German control, the battle in Berlin details the fighting and German capitulation that took place within the city.",
+      "The outcome of the battle to capture the capital of Nazi Germany was decided during the initial phases of the Battle of Berlin that took place outside the city. As the Soviets invested Berlin and the German forces placed to stop them were destroyed or forced back, the city's fate was sealed. Nevertheless, there was heavy fighting within the city as the Red Army fought its way, street by street, into the centre.",
+      "On 23 April 1945, the first Soviet ground forces started to penetrate the outer suburbs of Berlin. By 27 April, Berlin was completely cut off from the outside world. The battle in the city continued until 2 May 1945. On that date, the commander of the Berlin Defence Area, General Helmuth Weidling, surrendered to the commander of the Soviet 8th Guards Army, Lieutenant-General Vasily Chuikov."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Belgian_Revolution",
-    "urlGoogle": "https://artsandculture.google.com/entity/belgian-revolution/m038gk2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_in_Berlin",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-in-berlin/m02q0sdh"
   },
   "funFacts": [
     {
-      "id": "275",
-      "fact": "It took the first man to walk around the world four years, three months and 16 days to complete his journey.",
-      "category": ["Firsts"]
+      "id": "923",
+      "fact": "In Germany, the shhh sound literally means hurry up.",
+      "category": ["Hodgepodge"]
     },
     {
-      "id": "838",
-      "fact": "Cranberries are sorted for ripeness by bouncing them.",
-      "category": ["Food"]
+      "id": "342",
+      "fact": "California and Arizona grow approximately 95% of the fresh lemons in the U.S.",
+      "category": ["Plants", "Geography"]
     }
   ],
   "funFacts2": [
     {
-      "id": "551314",
-      "fact": "<span>The annual number of worldwide shark bites is 10 times less than the number of people bitten by other people in New York.</span>"
+      "id": "554017",
+      "fact": "Beethoven went out of his way to ensure his morning coffee was made with exactly 60 beans per cup."
     }
   ],
   "idiom": {
-    "id": "get-someones-goat",
-    "term": "get someone's goat",
-    "definition": "Annoy or anger someone, as in *By teasing me about that article I wrote, he's trying to get my goat, but I won't let him.* The origin of this expression is disputed. H.L. Mencken held it came from using a goat as a calming influence in a racehorse's stall and removing it just before the race, thereby making the horse nervous. However, there is no firm evidence for this origin. [c. 1900]"
+    "id": "cats-paw",
+    "term": "cat's paw",
+    "definition": "A dupe or tool for another, a sucker, as in *You always try to make a cat's paw of me, but I refuse to do any more of your work.* This term alludes to a very old tale about a monkey that persuades a cat to pull chestnuts out of the fire so as to avoid burning its own paws. The story dates from the 16th century and versions of it (some with a dog) exist in many languages."
   },
   "person": {
-    "id": "elliott-roosevelt",
-    "name": "Elliott Roosevelt",
-    "dates": "Sep 23, 1910 - Oct 27, 1990",
-    "mainImg": "img/people/elliott-roosevelt.jpg",
+    "id": "engelbert-dollfuss",
+    "name": "Engelbert Dollfuss",
+    "dates": "Oct 4, 1892 - Jul 25, 1934",
+    "mainImg": "img/people/engelbert-dollfuss.jpg",
     "summary": [
-      "Elliott Roosevelt was an American aviation official and wartime officer in the United States Army Air Forces, reaching the rank of brigadier general. He was a son of President Franklin D. Roosevelt and First Lady Eleanor Roosevelt.",
-      "As a reconnaissance commander, Roosevelt pioneered new techniques in night photography and meteorological data-gathering, but his claims to a distinguished record on combat missions have been largely discounted.",
-      "After the war ended, he faced an investigation by the United States Congress, on charges of corruption, including accusations that he had recommended the purchase of the experimental Hughes XF-11 reconnaissance aircraft ahead of a Lockheed model that was believed to be superior. Ultimately, he was found blameless.",
-      "Roosevelt published a book about his attendance at several major Allied war conferences, and a controversial exposé of his parents’ private life. He also wrote 22 mystery novels. His career also embraced broadcasting, ranching, politics and business."
+      "Engelbert Dollfuss was an Austrian politician who served as Chancellor of Austria between 1932 and 1934. Having served as Minister for Forests and Agriculture, he ascended to Federal Chancellor in 1932 in the midst of a crisis for the conservative government. In early 1933, he shut down parliament and assumed dictatorial powers. Suppressing the Socialist movement in February 1934 during the Austrian Civil War and later banning the Austrian Nazi party, he cemented the rule of \"Austrofascism\" through the authoritarian First of May Constitution. Dollfuss was assassinated as part of a failed coup attempt by Nazi agents in 1934. His successor Kurt Schuschnigg maintained the regime until Adolf Hitler's annexation of Austria in 1938."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Elliott_Roosevelt",
-    "urlGoogle": "https://artsandculture.google.com/entity/elliott-roosevelt/m02kfjx"
+    "urlWiki": "https://en.wikipedia.org/wiki/Engelbert_Dollfuss",
+    "urlGoogle": "https://artsandculture.google.com/entity/engelbert-dollfuss/m02rnq"
   },
   "place": {
-    "id": "cuba",
-    "name": "Cuba",
-    "mainImg": "img/places/cuba.jpg",
+    "id": "ho-chi-minh-city",
+    "name": "Ho Chi Minh City",
+    "mainImg": "img/places/ho-chi-minh-city.jpg",
     "summary": [
-      "Cuba, officially the Republic of Cuba, is a country comprising the island of Cuba as well as Isla de la Juventud and several minor archipelagos. Cuba is located in the northern Caribbean where the Caribbean Sea, Gulf of Mexico and Atlantic Ocean meet. It is east of the Yucatán Peninsula, south of both the U.S. state of Florida and the Bahamas, west of Haiti and north of both Jamaica and the Cayman Islands. Havana is the largest city and capital; other major cities include Santiago de Cuba and Camagüey. The area of the Republic of Cuba is 110,860 square kilometers. The island of Cuba is the largest island in Cuba and in the Caribbean, with an area of 105,006 square kilometers, and the second-most populous after Hispaniola, with over 11 million inhabitants.",
-      "The territory that is now Cuba was inhabited by the Ciboney Taíno people from the 4th millennium BC until Spanish colonization in the 15th century. From the 15th century, it was a colony of Spain until the Spanish–American War of 1898, when Cuba was occupied by the United States and gained nominal independence as a de facto United States protectorate in 1902."
+      "Ho Chi Minh City, commonly known by its previous name, Saigon, is the most populous city in Vietnam with a population of 9 million as of 2019. Located in southeastern Vietnam, the city surrounds the Saigon River and covers about 2,061 square kilometres. From 1955-1975, Saigon was briefly the capital of South Vietnam. Nowadays, Saigon is commonly used to refer to the city's central business districts, whereas Ho Chi Minh City is used to refer to the whole city.",
+      "HCMC is the financial centre of Vietnam and is classified as a Beta+ World City by Globalization and World Cities Research Network. It is home to the Ho Chi Minh City Stock Exchange, the largest stock exchange by total market capitalization in Vietnam and the headquarters of many national and international banks and companies.",
+      "As a major gateway to Vietnam, the city received over 8.6 million international visitors in 2019, of which 4.1 million were overnight visitors. The main passenger airport serving the metropolitan area is Tan Son Nhat International Airport, the busiest airport in Vietnam handling over 40 million passengers in 2019."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cuba",
-    "urlGoogle": "https://artsandculture.google.com/entity/cuba/m0d04z6"
+    "urlWiki": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+    "urlGoogle": "https://artsandculture.google.com/entity/ho-chi-minh-city/m0hn4h"
   },
   "wiki": {
-    "id": "tropical-storm-allison",
-    "name": "Tropical Storm Allison",
-    "summary": "Tropical Storm Allison was a tropical storm that devastated southeast Texas in June of the 2001 Atlantic hurricane season. The first storm of the season, Allison lasted unusually long for a June storm, remaining tropical or subtropical for 15 days. The storm developed from a tropical wave in the northern Gulf of Mexico on June 4, and struck the northern Texas coast shortly thereafter. It drifted northward through the state, then turned back to the south and re-entered the Gulf of Mexico. The storm continued to the east-northeast, making landfall on Louisiana and then moving across the southeast United States and Mid-Atlantic. Allison was the first storm since Tropical Storm Frances in 1998 to strike the upper Texas coastline. The storm dropped heavy rainfall along its path, peaking at over 40 inches (1000 mm) in Texas. The worst of the flooding occurred in Houston, where most of Allison's damage occurred. There, 30,000 became homeless after the flooding destroyed 2,744 homes.",
-    "url": "https://en.wikipedia.org/wiki/Tropical_Storm_Allison"
+    "id": "hoysala-architecture",
+    "name": "Hoysala architecture",
+    "summary": "Hoysala architecture is the distinctive building style developed under the rule of the Hoysala Empire in the region known today as Karnataka, India, between the 11th and the 14th centuries. Hoysala influence was at its peak in the 13th century, when it dominated the Southern Deccan Plateau region. Large and small temples built during this era remain as examples of the Hoysala architectural style, including the Chennakesava Temple at Belur, the Hoysaleswara Temple at Halebidu, and the Kesava Temple at Somanathapura. Other examples of fine Hoysala craftmanship are the temples at Belavadi, Amrithapura, Hosaholalu and Nuggehalli. Study of the Hoysala architectural style has revealed a negligible Indo-Aryan influence while the impact of Southern Indian style is more distinct. The vigorous temple building activity of the Hoysala Empire was due to the social, cultural and political events of the period.",
+    "url": "https://en.wikipedia.org/wiki/Hoysala_architecture"
   },
   "word": {
-    "id": "picaresque",
-    "word": "picaresque",
-    "url": "https://www.merriam-webster.com/dictionary/picaresque",
+    "id": "incommensurable",
+    "word": "incommensurable",
+    "url": "https://www.merriam-webster.com/dictionary/incommensurable",
     "partOfSpeech": "adjective",
-    "pronunciation": "pik-uh-RESK",
-    "audioPath": "audio/words/picaresque.mp3",
+    "pronunciation": "in-kuh-MEN-suh-ruh-bul",
+    "audioPath": "audio/words/incommensurable.mp3",
     "definitions": [
-      "of or relating to rogues or rascals; also : of, relating to, suggesting, or being a type of fiction dealing with the episodic adventures of a usually roguish protagonist"
+      "not commensurable; broadly : lacking a basis of comparison in respect to a quality normally subject to comparison"
     ],
     "examples": [
-      "\"His specialty was the _picaresque_ novel, which took the hero (with the reader happily perched on his shoulder) on a wild ride….\" - From an article by Martin Rubin in _The Washington Times_, March 16, 2012",
-      "\"Joey embarks on an unwitting, _picaresque_ odyssey through this terrible 'war to end all wars,' crossing paths with a pair of young German deserters and a French teenage girl, and then doing hard time hauling cannons and supplies for the Germans.\"- From a review by Kevin Lally in _Film Journal_, December 21, 2011"
+      "The two theories are _incommensurable_, making any attempt at comparison across disciplines ridiculous.",
+      "\"Camus' own predicament as an Algerian of European descent sympathetic to both sides of the Algerian War led him to recognize a collision of _incommensurable_ truths and embrace classical moderation.\" - Steven G. Kellman, _The Texas Observer_, December 2013"
     ],
-    "origin": "\"Picaresque\" derives from Spanish \"picaresco,\" which means \"of or relating to a picaro.\" The word \"picaro,\" which also derives from Spanish, means \"rogue\" or \"bohemian.\" \"Picaro\" describes a type of character that has long been a popular subject for fictional narrative. Typically, the picaresque novel centers around a wandering individual of low standing who happens into a series of adventures among people of various higher classes, often relying on wits and a little dishonesty to get by. The first known novel in this style is _Lazarillo de Tormes_ (circa 1554), an irreverent work about a poor boy who works for a series of masters of dubious character. The novel has been attributed to Diego Hurtado de Mendoza, but his authorship is disputable."
+    "origin": "_Commensurable_ means \"having a common measure\" or \"corresponding in size, extent, amount, or degree.\" Its antonym _incommensurable_ generally refers to things that are unlike and incompatible, sharing no common ground (as in the \"incommensurable theories\" of the first example sentence), or to things that are very disproportionate, often to the point of defying comparison (\"incommensurable crimes\"). Both words entered English in the 1500s and were originally used (as they still can be) for numbers that have or don't have a common divisor. They came to English by way of Middle French and Late Latin, ultimately deriving from the Latin noun mensura, meaning \"measure.\" _Mensura_ is also an ancestor of _commensurate_ (meaning \"coextensive\" or \"proportionate\") and _incommensurate_ (\"disproportionate\" or \"insufficient\"), which overlap in meaning with _commensurable_ and _incommensurable_ but are not exact synonyms."
   }
 }

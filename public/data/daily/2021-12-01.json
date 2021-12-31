@@ -1,0 +1,120 @@
+{
+  "artist": {
+    "id": "claude-lorrain",
+    "name": "Claude Lorrain",
+    "dates": "1600 - Nov 23, 1682",
+    "mainImg": "img/art/artists/claude-lorrain.jpg",
+    "artworkImgs": [
+      {
+        "name": "Landscape with Merchants",
+        "path": "img/art/artworks/claude-lorrain-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-with-merchants-claude-lorrain/EwGD0CZ8ZlxO9Q"
+      },
+      {
+        "name": "The Tiber from Monte Mario",
+        "path": "img/art/artworks/claude-lorrain-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-tiber-from-monte-mario-claude-lorrain/FQHSMSzOG5oNSg"
+      },
+      {
+        "name": "Landscape with a Goatherd and Goats",
+        "path": "img/art/artworks/claude-lorrain-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-with-a-goatherd-and-goats-claude/-AEGJUcqAlbo0g"
+      },
+      {
+        "name": "Landscape with Apollo and the Muses",
+        "path": "img/art/artworks/claude-lorrain-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-with-apollo-and-the-muses-claude-lorrain/aQEesPfhh39EPw"
+      },
+      {
+        "name": "Pastoral Landscape with a Mill",
+        "path": "img/art/artworks/claude-lorrain-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/pastoral-landscape-with-a-mill-claude-lorrain/MwEsx1iyFzL6cg"
+      },
+      {
+        "name": "Mercury and Argus",
+        "path": "img/art/artworks/claude-lorrain-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/mercury-and-argus/AwHJbJE-FRRXSw"
+      }
+    ],
+    "summary": [
+      "Claude Lorrain was a French painter, draughtsman and etcher of the Baroque era. He spent most of his life in Italy, and is one of the earliest important artists, apart from his contemporaries in Dutch Golden Age painting, to concentrate on landscape painting. His landscapes are usually turned into the more prestigious genre of history paintings by the addition of a few small figures, typically representing a scene from the Bible or classical mythology.",
+      "By the end of the 1630s he was established as the leading landscapist in Italy, and enjoyed large fees for his work. These gradually became larger, but with fewer figures, more carefully painted, and produced at a lower rate. He was not generally an innovator in landscape painting, except in introducing the Sun into many paintings, which had been rare before. He is now thought of as a French painter, but was born in the independent Duchy of Lorraine, and almost all his painting was done in Italy; before the late 19th century he was regarded as a painter of the \"Roman School\". His patrons were also mostly Italian, but after his death he became very popular with English collectors, and the UK retains a high proportion of his works."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Renaissance", "Street art"],
+    "mediums": ["Etching", "Oil paint", "Ink", "Pen", "Drawing", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Claude_Lorrain",
+    "urlGoogle": "https://artsandculture.google.com/entity/claude-lorrain/m0l057"
+  },
+  "event": {
+    "id": "chinese-civil-war",
+    "name": "Chinese Civil War",
+    "dates": "April 1927 - May 1, 1950",
+    "mainImg": "img/events/chinese-civil-war.jpg",
+    "summary": [
+      "The Chinese Civil War was a civil war in China fought between the Kuomintang-led government of the Republic of China and the Communist Party of China lasting intermittently between 1927 and 1949. The war is generally divided into two phases with an interlude: from August 1927 to 1937, the KMT-CPC Alliance collapsed during the Northern Expedition, and the Nationalists controlled most of China. From 1937 to 1945, hostilities were put on hold, and the Second United Front fought the Japanese invasion of China with eventual help from the Allies of World War II. The civil war resumed with the Japanese defeat, and the CPC gained the upper hand in the final phase of the war from 1945–1949, generally referred to as the Chinese Communist Revolution.",
+      "The Communists gained control of mainland China and established the People's Republic of China in 1949, forcing the leadership of the Republic of China to retreat to the island of Taiwan. A lasting political and military standoff between the two sides of the Taiwan Strait ensued, with the ROC in Taiwan and the PRC in mainland China both officially claiming to be the legitimate government of all China."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Chinese_Civil_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/chinese-civil-war/m0f6rc"
+  },
+  "funFacts": [
+    {
+      "id": "115",
+      "fact": "Bamboo makes up 99 percent of a panda's diet.",
+      "category": ["Animals", "Plants"]
+    },
+    { "id": "30", "fact": "Fish have eyelids.", "category": ["Animals"] }
+  ],
+  "funFacts2": [{ "id": "506870", "fact": "Coyotes outpace roadrunners by 23 mph." }],
+  "person": {
+    "id": "haakon-vii-of-norway",
+    "name": "Haakon VII of Norway",
+    "dates": "Aug 3, 1872 - Sep 21, 1957",
+    "mainImg": "img/people/haakon-vii-of-norway.jpg",
+    "summary": [
+      "Haakon VII was the King of Norway from 1905 until his death in 1957.",
+      "Originally a Danish prince, he was born in Copenhagen as the son of the future Frederick VIII of Denmark and Louise of Sweden. Prince Carl was educated at the Royal Danish Naval Academy and served in the Royal Danish Navy. After the 1905 dissolution of the union between Sweden and Norway, Prince Carl was offered the Norwegian crown. Following a November plebiscite, he accepted the offer and was formally elected King of Norway by the Storting. He took the Old Norse name Haakon and ascended to the throne as Haakon VII, becoming the first independent Norwegian monarch since 1387.",
+      "Norway was invaded by Nazi Germany in April 1940. Haakon rejected German demands to legitimise the Quisling regime's puppet government and refused to abdicate after going into exile in Great Britain. As such, he played a pivotal role in uniting the Norwegian nation in its resistance to the invasion and the subsequent five-year-long occupation during the Second World War. He returned to Norway in June 1945 after the defeat of Germany."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Haakon_VII_of_Norway",
+    "urlGoogle": "https://artsandculture.google.com/entity/haakon-vii-of-norway/m0h93f"
+  },
+  "place": {
+    "id": "tarnow",
+    "name": "Tarnow",
+    "mainImg": "img/places/tarnow.jpg",
+    "summary": [
+      "Tarnów is a city in southeastern Poland with 109,062 inhabitants and a metropolitan area population of 269,000 inhabitants. The city is situated in the Lesser Poland Voivodeship since 1999. From 1975 to 1998, it was the capital of the Tarnów Voivodeship. It is a major rail junction, located on the strategic east–west connection from Lviv to Kraków, and two additional lines, one of which links the city with the Slovak border. Tarnów is known for its traditional Polish architecture, which was strongly influenced by foreign cultures and foreigners that once lived in the area, most notably Jews, Germans and Austrians. The entire Old Town, featuring 16th century tenements, houses and defensive walls, has been fully preserved. Tarnów is also the warmest city of Poland, with the highest long-term mean annual temperature in the whole country."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Tarn%C3%B3w",
+    "urlGoogle": "https://artsandculture.google.com/entity/tarnow/m0jx5y"
+  },
+  "wiki": {
+    "id": "wilco",
+    "name": "Wilco",
+    "summary": "Wilco is an American rock band based in Chicago, Illinois. The band was formed in 1993 by the remaining members of alternative country group Uncle Tupelo following singer Jay Farrar's departure from that group. Wilco's lineup has changed frequently, with only singer Jeff Tweedy and bassist John Stirratt remaining from the original incarnation. The other current members are guitarist Nels Cline, multi-instrumentalists Pat Sansone and Mikael Jorgensen, and drummer Glenn Kotche. Wilco has released six studio albums, a live double album, and three collaborations: two with Billy Bragg, and one with The Minus 5. Wilco's music has been inspired by a wide variety of artists and styles, including Bill Fay and Television, and has in turn influenced music by The National and Cherry Ghost. The band continued in the alternative country of Uncle Tupelo on its debut album A.M. (1995), but has since introduced more experimental aspects to their music. Wilco won two Grammy Awards for their fifth studio album, 2004's A Ghost Is Born, including Best Alternative Music Album.",
+    "url": "https://en.wikipedia.org/wiki/Wilco"
+  },
+  "word": {
+    "id": "volant",
+    "word": "volant",
+    "url": "https://www.merriam-webster.com/dictionary/volant",
+    "partOfSpeech": "adjective",
+    "pronunciation": "VOH-lunt",
+    "audioPath": "audio/words/volant.mp3",
+    "definitions": [
+      "having the wings extended as if in flight - used of a heraldic bird",
+      "flying or capable of flying",
+      "quick, nimble"
+    ],
+    "examples": [
+      "One prominent feature of the family's crest is a hawk _volant_.",
+      "\"In general, population genetic studies of _volant_ animals are of particular interest because of their potential for long-distance dispersal and high levels of gene flow over terrestrial and oceanic landscapes.\" - From the 2012 book _Evolutionary History of Bats: Fossils, Molecules and Morphology_, by Gregg F. Gunnell and Nancy B. Simmons"
+    ],
+    "origin": "English picked up \"volant\" from Middle French. The term survives in Modern French as well, both as an adjective having essentially the same meaning as the English term, and as a noun with several meanings (among them \"shuttlecock\"). The influence of French can be seen doubly in the heraldic sense of \"volant\": in heraldic contexts, as in our first example sentence above, the adjective \"volant\" almost always appears after the noun - a syntax picked up from French along with the meaning. Ultimately, \"volant\" comes from the Latin verb \"volare,\" meaning \"to fly.\" Another word that came to English through Middle French from \"volare\" is \"volley,\" which refers to things flying back and forth through the air."
+  }
+}

@@ -1,136 +1,135 @@
 {
   "artist": {
-    "id": "judith-leyster",
-    "name": "Judith Leyster",
-    "dates": "Jul 28, 1609 - Feb 10, 1660",
-    "mainImg": "img/art/artists/judith-leyster.jpg",
+    "id": "pedro-friedeberg",
+    "name": "Pedro Friedeberg",
+    "dates": "Born Jan 11, 1936",
+    "mainImg": "img/art/artists/pedro-friedeberg.jpg",
     "artworkImgs": [
       {
-        "name": "The Merry Drinker (Jolly Toper)",
-        "path": "img/art/artworks/judith-leyster-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-merry-drinker-jolly-toper-judith-leyster/EgE1t_fnqpRClg"
+        "name": "Untitled (building, violin player, man with the watering can)",
+        "path": "img/art/artworks/pedro-friedeberg-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-building-violin-player-man-with-the-watering-can-friedeberg-pedro/GgHtzukIkYul1A"
       },
       {
-        "name": "Boy playing the Flute",
-        "path": "img/art/artworks/judith-leyster-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/boy-playing-the-flute-judith-leyster/kAHUdy4S_CIF1A"
+        "name": "Laberintos",
+        "path": "img/art/artworks/pedro-friedeberg-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/laberintos/2wGyJp-4tTef9w"
       },
       {
-        "name": "Young Boy in Profile",
-        "path": "img/art/artworks/judith-leyster-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/young-boy-in-profile-judith-leyster/kgFkJN2eNgHQMw"
+        "name": "Untitled (candelabra building)",
+        "path": "img/art/artworks/pedro-friedeberg-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-candelabra-building-friedeberg-pedro/0AHPFJb27PYyjQ"
       },
       {
-        "name": "Man Offering Money to a Young Woman",
-        "path": "img/art/artworks/judith-leyster-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/man-offering-money-to-a-young-woman-leyster-judith/qwHvoeI26Cq4FQ"
+        "name": "Las bodas de Camacho (Capitulo de Don Quixote)",
+        "path": "img/art/artworks/pedro-friedeberg-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/las-bodas-de-camacho-capitulo-de-don-quixote-friedeberg-pedro/zQHxXnYaiFf2GQ"
       },
       {
-        "name": "The Last Drop (The Gay Cavalier)",
-        "path": "img/art/artworks/judith-leyster-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-last-drop-the-gay-cavalier/jQFwU75CW1UQgQ"
+        "name": "Untitled (art patrons view painting)",
+        "path": "img/art/artworks/pedro-friedeberg-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-art-patrons-view-painting-friedeberg-pedro/8wEPpxtPgcSMiA"
       },
       {
-        "name": "Self-Portrait",
-        "path": "img/art/artworks/judith-leyster-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait/AAHGrS6cvWhysw"
+        "name": "Untitled (Valentine for Xila - Pasturosa)",
+        "path": "img/art/artworks/pedro-friedeberg-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-valentine-for-xila-pasturosa-friedeberg-pedro/cwHSEC8jCIJeZQ"
       }
     ],
     "summary": [
-      "Judith Jans Leyster was a Dutch Golden Age painter. She painted genre works, portraits and still lifes. Although her work was highly regarded by her contemporaries, Leyster and her work became almost forgotten after her death. Her entire oeuvre was attributed to Frans Hals or to her husband, Jan Miense Molenaer, until 1893."
+      "Pedro Friedeberg is a Mexican artist and designer known for his surrealist work filled with lines colors and ancient and religious symbols. His best known piece is the “Hand-Chair” a sculpture/chair designed for people to sit on the palm, using the fingers as back and arm rests. Friedeberg began studying as an architect but did not complete his studies as he began to draw designs against the conventional forms of the 1950s and even completely implausible ones such as houses with artichoke roofs. However, his work caught the attention of artist Mathias Goeritz who encouraged him to continue as an artist. Friedeberg became part of a group of surrealist artists in Mexico which included Leonora Carrington and Alice Rahon, who were irreverent, rejecting the social and political art which was dominant at the time. Friedeberg has had a lifelong reputation for being eccentric, and states that art is dead because nothing new is being produced."
     ],
     "quote": null,
-    "movements": ["Baroque", "Dutch Golden Age"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Judith_Leyster",
-    "urlGoogle": "https://artsandculture.google.com/entity/judith-leyster/m092s6g"
+    "movements": [],
+    "mediums": [],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pedro_Friedeberg",
+    "urlGoogle": "https://artsandculture.google.com/entity/pedro-friedeberg/m09mx6j"
   },
   "event": {
-    "id": "evil-eye",
-    "name": "Evil eye",
-    "dates": null,
-    "mainImg": "img/events/evil-eye.jpg",
+    "id": "laotian-civil-war",
+    "name": "Laotian Civil War",
+    "dates": "1962 - 1975",
+    "mainImg": "img/events/laotian-civil-war.jpg",
     "summary": [
-      "The evil eye is a curse or legend believed to be cast by a malevolent glare, usually given to a person when he is unaware. Many cultures believe that receiving the evil eye will cause misfortune or injury, while others believe it to be a kind of supernatural force that casts or reflects a malevolent gaze back-upon those who wish harm upon others. Talismans or amulets created to protect against the evil eye are also frequently called \"evil eyes\".",
-      "The idea expressed by the term causes many different cultures to pursue protective measures against it. The concept and its significance vary widely among different cultures, but it is especially prominent in the Mediterranean and West Asia. The idea appears multiple times in Jewish rabbinic literature. It was a widely extended belief among many Mediterranean and Asian tribes and cultures."
+      "The Laotian Civil War was a civil war in Laos fought between the Communist Pathet Lao and the Royal Lao Government from 23 May 1959 to 2 December 1975. It is associated with the Cambodian Civil War and the Vietnam War, with both sides receiving heavy external support in a proxy war between the global Cold War superpowers. It is called the Secret War among the CIA Special Activities Division and Hmong veterans of the conflict.",
+      "The Kingdom of Laos was a covert theater for other belligerents during the Vietnam War. The Franco–Lao Treaty of Amity and Association transferred remaining French powers to the Royal Lao Government, establishing Laos as an independent member of the French Union. However, this government did not include representatives from the Lao Issara anti-colonial armed nationalist movement.",
+      "The following years were marked by a rivalry between the neutralists under Prince Souvanna Phouma, the right wing under Prince Boun Oum of Champassak, and the left-wing Lao Patriotic Front under Prince Souphanouvong and half-Vietnamese future Prime Minister Kaysone Phomvihane."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Evil_eye",
-    "urlGoogle": "https://artsandculture.google.com/entity/evil-eye/m01lcd_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Laotian_Civil_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/laotian-civil-war/m01dsy2"
   },
   "funFacts": [
     {
-      "id": "95",
-      "fact": "Squids can have eyes the size of a volleyball.",
-      "category": ["Animals"]
+      "id": "288",
+      "fact": "Four Corners, AZ, is the only place where a person can stand in 4 states at the same time.",
+      "category": ["Geography"]
     },
     {
-      "id": "294",
-      "fact": "No only child has been a U.S. President.",
-      "category": ["History", "Onlies"]
+      "id": "956",
+      "fact": "At the deepest point in the ocean, the water pressure is equivalent to having about 50 jumbo jets piled on top of you.",
+      "category": ["Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553701",
-      "fact": "When Disneyland was opened in 1955, “Tomorrowland” was designed to look like a year in the distant future: 1986."
+      "id": "553921",
+      "fact": "Ornithologists often use Cheetos to study behavior in crows. Along with being easy to spot, they’re also one of the birds’ favorite snacks."
     }
   ],
   "idiom": {
-    "id": "johnny-come-lately",
-    "term": "Johnny-come-lately",
-    "definition": "A newcomer, as in *She may be a Johnny-come-lately on the board, but she's doing a fine job with publicity.* [1830s]"
+    "id": "cold-turkey",
+    "term": "cold turkey",
+    "definition": "Immediate, complete withdrawal from something, especially an addictive substance; also, without planning or preparation. For example, *My bad shoulder forced me to quit playing tennis cold turkey,* or *I'd never done any rock climbing, but decided to try it cold turkey.* This term may have come from the earlier expression **talk turkey** (for blunt speaking). At first used strictly for abrupt withdrawal from drugs or alcohol, it soon was transferred to quitting any habit or activity. [Early 1900s]"
   },
   "person": {
-    "id": "neville-chamberlain",
-    "name": "Neville Chamberlain",
-    "dates": "Mar 18, 1869 - Nov 9, 1940",
-    "mainImg": "img/people/neville-chamberlain.jpg",
+    "id": "vyacheslav-molotov",
+    "name": "Vyacheslav Molotov",
+    "dates": "Mar 9, 1890 - Nov 8, 1986",
+    "mainImg": "img/people/vyacheslav-molotov.jpg",
     "summary": [
-      "Arthur Neville Chamberlain FRS was a British Conservative politician who served as Prime Minister of the United Kingdom from May 1937 to May 1940. He is best known for his foreign policy of appeasement, and in particular for his signing of the Munich Agreement on 30 September 1938, conceding the German-speaking Sudetenland region of Czechoslovakia to Germany. Following the German invasion of Poland on 1 September 1939, which marked the beginning of World War II, Chamberlain announced the declaration of war on Germany two days later and led Great Britain through the first eight months of the war until his resignation as prime minister on 10 May 1940.",
-      "After working in business and local government, and after a short spell as Director of National Service in 1916 and 1917, Chamberlain followed his father, Joseph Chamberlain, and older half-brother, Austen Chamberlain, in becoming a Member of Parliament in the 1918 general election for the new Birmingham Ladywood division at the age of 49. He declined a junior ministerial position, remaining a backbencher until 1922. He was rapidly promoted in 1923 to Minister of Health and then Chancellor of the Exchequer."
+      "Vyacheslav Mikhailovich Molotov was a Soviet politician and diplomat, an Old Bolshevik, and a leading figure in the Soviet government from the 1920s, when he rose to power as a protégé of Joseph Stalin. Molotov served as Chairman of the Council of People's Commissars from 1930 to 1941, and as Minister of Foreign Affairs from 1939 to 1949 and from 1953 to 1956. He served from 1942 to 1957, when he was dismissed from the Presidium of the Central Committee by Nikita Khrushchev. Molotov was removed from all positions in 1961 after several years of obscurity.",
+      "Molotov was the principal Soviet signatory of the German–Soviet non-aggression pact of 1939, whose most important provisions were added in the form of a secret protocol that stipulated an invasion of Poland and partition of its territory between Nazi Germany and the Soviet Union.",
+      "After World War II, Molotov was involved in negotiations with the Western allies, in which he became noted for his diplomatic skills. He retained his place as a leading Soviet diplomat and politician until March 1949, when he fell out of Stalin's favour and lost the foreign affairs ministry leadership to Andrei Vyshinsky."
     ],
-    "quote": "“I believe it is peace in our time.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
-    "urlGoogle": "https://artsandculture.google.com/entity/neville-chamberlain/m05cys"
+    "quote": "“Only a fool would attack us.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Vyacheslav_Molotov",
+    "urlGoogle": "https://artsandculture.google.com/entity/vyacheslav-molotov/m0jdv9"
   },
   "place": {
-    "id": "mali",
-    "name": "Mali",
-    "mainImg": "img/places/mali.jpg",
+    "id": "kyiv",
+    "name": "Kyiv",
+    "mainImg": "img/places/kyiv.jpg",
     "summary": [
-      "Mali, officially the Republic of Mali, is a landlocked country in West Africa. Mali is the eighth-largest country in Africa, with an area of just over 1,240,000 square kilometres. The population of Mali is 19.1 million. 67% of its population was estimated to be under the age of 25 in 2017. Its capital is Bamako. The sovereign state of Mali consists of eight regions and its borders on the north reach deep into the middle of the Sahara Desert, while the country's southern part, where the majority of inhabitants live, features the Niger and Senegal rivers. The country's economy centers on agriculture and mining. Some of Mali's prominent natural resources include gold, being the third largest producer of gold in the African continent, and salt.",
-      "Present-day Mali was once part of three West African empires that controlled trans-Saharan trade: the Ghana Empire, the Mali Empire, and the Songhai Empire. During its golden age, there was a flourishing of mathematics, astronomy, literature, and art. At its peak in 1300, the Mali Empire covered an area about twice the size of modern-day France and stretched to the west coast of Africa."
+      "Kiev or Kyiv is the capital and most populous city of Ukraine. It is in north-central Ukraine along the Dnieper River. Its population in July 2015 was 2,887,974, making Kiev the sixth-most populous city in Europe.",
+      "Kiev is an important industrial, scientific, educational and cultural center of Eastern Europe. It is home to many high-tech industries, higher education institutions, and historical landmarks. The city has an extensive system of public transport and infrastructure, including the Kiev Metro.",
+      "The city's name is said to derive from the name of Kyi, one of its four legendary founders. During its history, Kiev, one of the oldest cities in Eastern Europe, passed through several stages of prominence and obscurity. The city probably existed as a commercial center as early as the 5th century. A Slavic settlement on the great trade route between Scandinavia and Constantinople, Kiev was a tributary of the Khazars, until its capture by the Varangians in the mid-9th century. Under Varangian rule, the city became a capital of the Kievan Rus', the first East Slavic state."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Mali",
-    "urlGoogle": "https://artsandculture.google.com/entity/mali/m04v09"
-  },
-  "quote": {
-    "id": "119",
-    "quote": "We are not nouns, we are verbs. I am not a thing...an actor, a writer...I am a person who does things...I write, I act...and I never know what I'm going to do next. I think you can be imprisoned if you think of yourself as a noun.",
-    "author": "Stephen Fry"
+    "urlWiki": "https://en.wikipedia.org/wiki/Kiev",
+    "urlGoogle": "https://artsandculture.google.com/entity/kyiv/m02sn34"
   },
   "wiki": {
-    "id": "jimi-hendrix",
-    "name": "Jimi Hendrix",
-    "summary": "Jimi Hendrix (1942–1970) was an American musician, singer, and songwriter. Despite a relatively brief mainstream career spanning four years, he is widely regarded as one of the most influential electric guitarists in the history of popular music, and one of the most celebrated musicians of the 20th century. Born in Seattle, Washington, Hendrix began playing guitar at the age of 15. In 1963, he moved to Clarksville, Tennessee, and began playing gigs on the chitlin' circuit, eventually moving to England in late 1966 after being discovered by bassist Chas Chandler of the Animals. Within months, Hendrix had earned three UK top ten hits with the Jimi Hendrix Experience: \"Hey Joe\", \"Purple Haze\", and \"The Wind Cries Mary\". He achieved fame in the US after his performance at the Monterey Pop Festival in 1967, and in 1968 his third and final studio album, Electric Ladyland, reached number one in the US. The world's highest-paid performer, he headlined the Woodstock Festival in 1969 and the Isle of Wight Festival in 1970 before dying from barbiturate-related asphyxia on September 18, 1970, at the age of 27.",
-    "url": "https://en.wikipedia.org/wiki/Jimi_Hendrix"
+    "id": "sylvanus-morley",
+    "name": "Sylvanus Morley",
+    "summary": "Sylvanus Morley was an American archaeologist, epigrapher and Mayanist scholar who made significant contributions towards the study of the pre-Columbian Maya civilization in the early 20th century. He is particularly noted for his extensive excavations of the Maya site of Chichen Itza. He also published several large compilations and treatises on Maya hieroglyphic writing, and wrote popular accounts on the Maya for a general audience. To his contemporaries he was one of the leading Mesoamerican archaeologists of his day; although more recent developments in the field have resulted in a re-evaluation of his theories and works, his publications (particularly on calendric inscriptions) are still cited. Overall, his commitment and enthusiasm for Maya studies would generate the interest and win the necessary sponsorship and backing to finance projects which would ultimately reveal much about the Maya of former times. His involvement in clandestine espionage activities at the behest of the U.S. Office of Naval Intelligence was another, surprising, aspect of his career, which came to light only well after his death.",
+    "url": "https://en.wikipedia.org/wiki/Sylvanus_Morley"
   },
   "word": {
-    "id": "colubrine",
-    "word": "colubrine",
-    "url": "https://www.merriam-webster.com/dictionary/colubrine",
+    "id": "zoomorphic",
+    "word": "zoomorphic",
+    "url": "https://www.merriam-webster.com/dictionary/zoomorphic",
     "partOfSpeech": "adjective",
-    "pronunciation": "KAHL-yuh-bryne",
-    "audioPath": "audio/words/colubrine.mp3",
+    "pronunciation": "zoh-uh-MOR-fik",
+    "audioPath": "audio/words/zoomorphic.mp3",
     "definitions": [
-      "of, relating to, or resembling a snake",
-      "of or relating to a large cosmopolitan family (Colubridae) of chiefly nonvenomous snakes"
+      "having the form of an animal",
+      "of, relating to, or being a deity conceived of in animal form or with animal attributes"
     ],
     "examples": [
-      "\"By the time the music starts throbbing at 9, there will undoubtedly be a colubrine line slithering down Mass. Ave.\" (Christopher Muther, _The Boston Globe_, March 2002)"
+      "Using her new cookie cutters, Angela baked a batch of _zoomorphic_ cookies to bring to the kids in her niece's classroom.",
+      "\"The historic Lobero Theatre will be transformed into a rain forest for State Street Ballet's matinee production of The Jungle Book, which boasts some of the most dazzling _zoomorphic_ costumes ever made.\" - From a review by Elizabeth Schwyzer in the _Santa Barbara Independent_ (California), January 13-20, 2011"
     ],
-    "origin": "\"Colubrine\" may be less common than other animal words, such as \"canine,\" \"feline,\" and \"bovine,\" but it has been around for a good long while. Ultimately derived from the Latin \"colubra\" (\"snake\"), it slithered into the English language in the 16th century. (\"Cobra,\" by the way, comes from the same Latin word, but entered English through Portuguese.) Some other words for \"snakelike\" are \"serpentine\" (a more common alternative) and \"ophidian\" (from the Greek word for snake: \"ophis\")."
+    "origin": "\"Zo-\" (or \"zoo-\") derives from the Greek word \"zōion,\" meaning \"animal,\" and \"-morph\" comes from the Greek \"morphē,\" meaning \"form.\" These two forms combined to give us the adjective \"zoomorphic,\" which was first used in English to describe something that resembles an animal in 1872. English includes other words that were formed from \"zo-\" or \"zoo-,\" such as \"zoology\" (made with \"-logy,\" meaning \"science\"). And there are also other words that were formed from \"-morph,\" such as \"pseudomorph,\" for a mineral having the outward form of another species. (The combining form \"pseud-\" or \"pseudo-\" means \"false.\")"
   }
 }

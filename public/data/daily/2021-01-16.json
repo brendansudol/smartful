@@ -1,0 +1,132 @@
+{
+  "artist": {
+    "id": "pierre-joseph-redoute",
+    "name": "Pierre-Joseph Redouté",
+    "dates": "Jul 10, 1759 - Jun 19, 1840",
+    "mainImg": "img/art/artists/pierre-joseph-redoute.jpg",
+    "artworkImgs": [
+      {
+        "name": "A Bouquet of Flowers with Insects",
+        "path": "img/art/artworks/pierre-joseph-redoute-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/a-bouquet-of-flowers-with-insects-pierre-joseph-redouté/owHZQuiYHsEqMA"
+      },
+      {
+        "name": "A Flowering Cactus: Heliocereus Speciosus",
+        "path": "img/art/artworks/pierre-joseph-redoute-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-flowering-cactus-heliocereus-speciosus-pierre-joseph-redouté/HAFOqVdQ-sTCew"
+      },
+      {
+        "name": "Four Peonies and a Crown Imperial",
+        "path": "img/art/artworks/pierre-joseph-redoute-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/four-peonies-and-a-crown-imperial-pierre-joseph-redouté/cAF6zxfjmRfwoA"
+      },
+      {
+        "name": "Kamtschatka Rose (Rosa Kamtschatica), from Redouté, \" Les Roses\", Paris, 1817–1824)",
+        "path": "img/art/artworks/pierre-joseph-redoute-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/kamtschatka-rose-rosa-kamtschatica-from-redouté-les-roses-paris-1817–1824/2QG_-fBMnHpJrw"
+      },
+      {
+        "name": "Yucca Filamentosa, from Les Liliacees",
+        "path": "img/art/artworks/pierre-joseph-redoute-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/yucca-filamentosa-from-les-liliacees-pierre-joseph-redoute/7gE5wdwI0CWyTA"
+      },
+      {
+        "name": "Poppy (Papaver), from Redouté, \"Choix des Plus Belles Fleurs...\", Paris, Panckoucke, et al...1827-1833",
+        "path": "img/art/artworks/pierre-joseph-redoute-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/poppy-papaver-from-redouté-choix-des-plus-belles-fleurs-paris-panckoucke-et-al-1827-1833/-QH--IoAnltCmg"
+      }
+    ],
+    "summary": [
+      "Pierre-Joseph Redouté, was a painter and botanist from Belgium, known for his watercolours of roses, lilies and other flowers at Malmaison, many of which were published as large, color stipple engravings. He was nicknamed \"the Raphael of flowers\" and has been called the greatest botanical illustrator of all time.",
+      "Redouté was an official court artist of Marie Antoinette, and continued painting through the French Revolution and Reign of Terror. He survived the turbulent political upheaval to gain international recognition for his precise renderings of plants, which remain as fresh in the early 21st century as when first painted. He combined great artistic skills with a pleasing, ingratiating personality which assisted him with his influential patrons. After Queen Marie-Antoinette, his patrons included both of Napoleon's wives -- Empress Joséphine and Marie Louise, Duchess of Parma -- as well as Maria Amalia of Naples and Sicily wife of Louis Philippe I, the last king of France."
+    ],
+    "quote": null,
+    "movements": ["Renaissance", "Rococo"],
+    "mediums": ["Watercolor painting", "Vellum", "Engraving", "Graphite", "Drawing", "Gouache"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pierre-Joseph_Redout%C3%A9",
+    "urlGoogle": "https://artsandculture.google.com/entity/pierre-joseph-redouté/m0k308"
+  },
+  "event": {
+    "id": "strategic-bombing-during-world-war-ii",
+    "name": "Strategic bombing during World War II",
+    "dates": "1939 - Sep 2, 1945",
+    "mainImg": "img/events/strategic-bombing-during-world-war-ii.jpg",
+    "summary": [
+      "Strategic bombing during World War II was the sustained aerial attack on railways, harbours, cities, workers' and civilian housing, and industrial districts in enemy territory during World War II. Strategic bombing is a military strategy which is distinct from both close air support of ground forces and tactical air power.",
+      "During World War II, it was believed by many military strategists of air power that major victories could be won by attacking industrial and political infrastructure, rather than purely military targets. Strategic bombing often involved bombing areas inhabited by civilians and some campaigns were deliberately designed to target civilian populations in order to terrorize and disrupt their usual activities. International law at the outset of World War II did not specifically forbid aerial bombardment of cities despite the prior occurrence of such bombing during World War I, the Spanish Civil War, and the Second Sino-Japanese War.",
+      "Strategic bombing during World War II began on 1 September 1939 when Germany invaded Poland and the Luftwaffe began bombing cities and the civilian population in Poland in an indiscriminate aerial bombardment campaign."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Strategic_bombing_during_World_War_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/strategic-bombing-during-world-war-ii/m036fl5"
+  },
+  "funFacts": [
+    {
+      "id": "691",
+      "fact": "The archer fish can spit water up to 7 feet to shoot down bugs from overhanging leaves.",
+      "category": ["Animals"]
+    },
+    { "id": "55", "fact": "A human brain weighs about three pounds.", "category": ["Anatomy"] }
+  ],
+  "funFacts2": [
+    { "id": "504821", "fact": "Geckos can turn the stickiness of their feet on and off at will." }
+  ],
+  "idiom": {
+    "id": "lock-the-barn-door-after-the-horse-has-bolted",
+    "term": "lock the barn door after the horse has bolted",
+    "definition": "Also, **lock the stable door after the horse is stolen.** Take precautions after damage has occurred. For example, *After the burglary they installed an alarm system, but it's locking the barn door,* or *Deciding to negotiate now after they've been fired---that's a matter of locking the stable door after the horse is stolen.* These expressions of action that is useless because it comes too late have long been proverbs in many languages and first appeared in English in the mid-1300s."
+  },
+  "person": {
+    "id": "henry-parkes",
+    "name": "Henry Parkes",
+    "dates": "May 27, 1815 - Apr 27, 1896",
+    "mainImg": "img/people/henry-parkes.jpg",
+    "summary": [
+      "Sir Henry Parkes, GCMG was a colonial Australian politician and longest non-consecutive Premier of the Colony of New South Wales, the present-day state of New South Wales in the Commonwealth of Australia. He has been referred to as the \"Father of Federation\" due to his early promotion for the federation of the six colonies of Australia, as an early critic of British convict transportation and as a proponent for the expansion of the Australian continental rail network.",
+      "Parkes delivered his famous Tenterfield Oration in 1889 which led to his instigation of a conference in 1890 and a Constitutional Convention in 1891, the first of a series of meetings that led to the federation of Australia. He died in 1896, five years before this process was completed. He was described during his lifetime by The Times as \"the most commanding figure in Australian politics\". Alfred Deakin described Sir Henry Parkes as having flaws but nonetheless being \"a large-brained self-educated Titan whose natural field was found in Parliament\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Parkes",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-parkes/m01r_4j"
+  },
+  "place": {
+    "id": "leiden",
+    "name": "Leiden",
+    "mainImg": "img/places/leiden.jpg",
+    "summary": [
+      "Leiden is a city and municipality in the province of South Holland, Netherlands. The municipality of Leiden had a population of 123,856 in August 2017, but the city forms one densely connected agglomeration with its suburbs Oegstgeest, Leiderdorp, Voorschoten and Zoeterwoude with 206,647 inhabitants. The Netherlands Central Bureau of Statistics further includes Katwijk in the agglomeration which makes the total population of the Leiden urban agglomeration 270,879, and in the larger Leiden urban area also Teylingen, Noordwijk, and Noordwijkerhout are included with in total 348,868 inhabitants. Leiden is located on the Oude Rijn, at a distance of some 20 kilometres from The Hague to its south and some 40 km from Amsterdam to its north. The recreational area of the Kaag Lakes lies just to the northeast of Leiden.",
+      "A university city since 1575, Leiden has been one of Europe's most prominent scientific centres for more than four centuries. Leiden is a typical university city, university buildings are scattered throughout the city and the many students from all over the world give the city a bustling, vivid and international atmosphere."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Leiden",
+    "urlGoogle": "https://artsandculture.google.com/entity/leiden/m0cl8c"
+  },
+  "quote": {
+    "id": "74",
+    "quote": "If not us, who? If not now, when?",
+    "author": "John F. Kennedy"
+  },
+  "wiki": {
+    "id": "ecclesiastical-heraldry",
+    "name": "Ecclesiastical heraldry",
+    "summary": "Ecclesiastical heraldry is the tradition of heraldry developed by Christian clergy. Initially used to mark documents, ecclesiastical heraldry evolved as a system for identifying people and dioceses. It is most formalized within the Roman Catholic Church, where most bishops, including the Pope, have a personal coat of arms. Similar customs are followed by clergy in the Anglican Church, the Lutheran Church, the Eastern Rite Catholic Churches, and the Orthodox Churches. Institutions such as schools and dioceses bear arms called impersonal or corporate arms. Ecclesiastical heraldry differs notably from other heraldry in the use of special symbols around the shield to indicate rank in a church or denomination. The most prominent of these symbols is the ecclesiastical hat, commonly the Roman galero or Geneva bonnet. The color and ornamentation of this hat carry a precise meaning. Cardinals are famous for the \"red hat\", but other offices are assigned a distinctive hat color. The hat is ornamented with tassels in a quantity commensurate with the office. Other symbols include the cross, the mitre and the crozier.",
+    "url": "https://en.wikipedia.org/wiki/Ecclesiastical_heraldry"
+  },
+  "word": {
+    "id": "bijou",
+    "word": "bijou",
+    "url": "https://www.merriam-webster.com/dictionary/bijou",
+    "partOfSpeech": "noun",
+    "pronunciation": "BEE-zhoo",
+    "audioPath": "audio/words/bijou.mp3",
+    "definitions": [
+      "a small dainty usually ornamental piece of delicate workmanship : jewel",
+      "something delicate, elegant, or highly prized"
+    ],
+    "examples": [
+      "_Bijoux_ from around the world will be on exhibit and later auctioned off.",
+      "\"Bauble Bar has loads of gorgeous _bijoux_ that won't break the bank…. The Radiant Orchid Collar Necklace is among my favorites….\" - From an article by Gretta Monahan in the _Boston Herald_, January 23, 2014"
+    ],
+    "origin": "\"Bijou\" (which can be pluralized as either \"bijoux\" or \"bijous\") has adorned English since the late 17th century. We borrowed it from French, but the word ultimately traces to Breton, a Celtic language (one closely related to Cornish and Welsh) spoken by inhabitants of the Brittany region of northwest France. Our modern English word derives from Breton \"bizou,\" which means \"ring.\" That history makes \"bijou\" a rare gem in English because, although the Breton people occupied part of England for many years before they were pushed into France by the Anglo-Saxons in the 5th and 6th centuries, very few Breton-derived words remain in our language. (Another Breton descendant is \"[menhir](https://www.merriam-webster.com/dictionary/menhir),\" a term for a kind of monolith.)"
+  }
+}

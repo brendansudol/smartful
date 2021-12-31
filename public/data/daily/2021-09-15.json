@@ -1,122 +1,125 @@
 {
   "artist": {
-    "id": "gutzon-borglum",
-    "name": "Gutzon Borglum",
-    "dates": "Mar 25, 1867 - Mar 6, 1941",
-    "mainImg": "img/art/artists/gutzon-borglum.jpg",
+    "id": "moritz-daniel-oppenheim",
+    "name": "Moritz Daniel Oppenheim",
+    "dates": "Jan 7, 1800 - Feb 26, 1882",
+    "mainImg": "img/art/artists/moritz-daniel-oppenheim.jpg",
     "artworkImgs": [
       {
-        "name": "Bust of Theodore Roosevelt",
-        "path": "img/art/artworks/gutzon-borglum-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/bust-of-theodore-roosevelt-gutzon-borglum/kQHoJHRFhcRdUw"
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/moritz-daniel-oppenheim-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-moritz-daniel-oppenheim/qAEWmy_DxzzwUA"
       },
       {
-        "name": "Abraham Lincoln",
-        "path": "img/art/artworks/gutzon-borglum-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/abraham-lincoln/SgHhP7zYn15a9w"
+        "name": "Sabbath Rest (Sabbath-Ruhe auf der Gasse)",
+        "path": "img/art/artworks/moritz-daniel-oppenheim-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/sabbath-rest-sabbath-ruhe-auf-der-gasse-moritz-daniel-oppenheim/1gF2XCEzUp5Fqg"
       },
       {
-        "name": "One Man's Dream—The Beginning Model of Sculptor and Designer",
-        "path": "img/art/artworks/gutzon-borglum-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/one-man-s-dream—the-beginning-model-of-sculptor-and-designer-gutzon-borglum/EAFJGudTH3suJQ"
+        "name": "The Return of the Volunteer from the Wars of Liberation to His Family Still Living in Accordance with Old Customs (Die Heimkehr des Freiwilligen aus den Befreiungskriegen zu den nach alter Sitte lebenden Seinen)",
+        "path": "img/art/artworks/moritz-daniel-oppenheim-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-return-of-the-volunteer-from-the-wars-of-liberation-to-his-family-still-living-in-accordance-with-old-customs-die-heimkehr-des-freiwilligen-aus-den-befreiungskriegen-zu-den-nach-alter-sitte-lebenden-seinen-moritz-daniel-oppenheim/igE_twFzgG-lVA"
       },
       {
-        "name": "(Theodore Roosevelt)",
-        "path": "img/art/artworks/gutzon-borglum-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/theodore-roosevelt-gutzon-borglum/gwEIQrvN_eErWg"
+        "name": "The Wedding (Die Trauung)",
+        "path": "img/art/artworks/moritz-daniel-oppenheim-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-wedding-die-trauung-moritz-daniel-oppenheim/OgGgbeSvC7EjBw"
+      },
+      {
+        "name": "The Heder (The Jewish Elementary School) (Der Cheder - Die jüdische Elementarschule)",
+        "path": "img/art/artworks/moritz-daniel-oppenheim-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-heder-the-jewish-elementary-school-der-cheder-die-jüdische-elementarschule-moritz-daniel-oppenheim/6wGveCdWkLGAUQ"
+      },
+      {
+        "name": "Purim (Feast of Esther) (Das Purim-Fest)",
+        "path": "img/art/artworks/moritz-daniel-oppenheim-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/purim-feast-of-esther-das-purim-fest-moritz-daniel-oppenheim/GwFr3I_Bq-VFQw"
       }
     ],
     "summary": [
-      "John Gutzon de la Mothe Borglum was an American artist and sculptor. He is most associated with his creation of the Mount Rushmore National Memorial in Keystone, South Dakota. He was associated with other public works of art, including a bust of Abraham Lincoln exhibited in the White House by Theodore Roosevelt and now held in the United States Capitol Crypt in Washington, D.C.."
+      "Moritz Daniel Oppenheim was a German painter who is often regarded as the first Jewish painter of the modern era. His work was informed by his cultural and religious roots at a time when many of his German Jewish contemporaries chose to convert to Christianity. Oppenheim is considered by the scholar Ismar Schorsch to be in sympathy with the ideals of the Wissenschaft des Judentums movement, because he remained \"fair to the present\" without denying his past."
     ],
     "quote": null,
     "movements": [],
-    "mediums": ["Bronze", "Metal", "Sculpture"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Gutzon_Borglum",
-    "urlGoogle": "https://artsandculture.google.com/entity/gutzon-borglum/m01_gcy"
+    "mediums": ["Oil paint", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Moritz_Daniel_Oppenheim",
+    "urlGoogle": "https://artsandculture.google.com/entity/moritz-daniel-oppenheim/m0cf7y2"
   },
   "event": {
-    "id": "assassination-of-john-f-kennedy",
-    "name": "Assassination of John F. Kennedy",
-    "dates": "Nov 22, 1963",
-    "mainImg": "img/events/assassination-of-john-f-kennedy.jpg",
+    "id": "american-frontier",
+    "name": "American frontier",
+    "dates": "1607 - 1920",
+    "mainImg": "img/events/american-frontier.jpg",
     "summary": [
-      "John F. Kennedy, the 35th President of the United States, was assassinated on Friday, November 22, 1963, at 12:30 p.m. Central Standard Time in Dallas, Texas, while riding in a presidential motorcade through Dealey Plaza. Kennedy was riding with his wife Jacqueline, Texas Governor John Connally, and Connally's wife Nellie when he was fatally shot by former U.S. Marine Lee Harvey Oswald firing in ambush from a nearby building. Governor Connally was seriously wounded in the attack. The motorcade rushed to Parkland Memorial Hospital where Kennedy was pronounced dead about 30 minutes after the shooting; Connally recovered.",
-      "Oswald was arrested by the Dallas Police Department 70 minutes after the initial shooting. Oswald was charged under Texas state law with the murder of Kennedy, as well as that of Dallas policeman J. D. Tippit, who had been fatally shot a short time after the assassination. At 11:21 a.m. November 24, 1963, as live television cameras were covering his transfer from the city jail to the county jail, Oswald was fatally shot in the basement of Dallas Police Headquarters by Dallas nightclub operator Jack Ruby."
+      "The American frontier includes the geography, history, folklore, and cultural expression of life in the forward wave of American expansion that began with English colonial settlements in the early 17th century and ended with the admission of the last remaining western territories as states in 1912. This era of massive migration and settlement was particularly encouraged by President Thomas Jefferson following the Louisiana Purchase, giving rise to the expansionist philosophy known as \"Manifest Destiny\".",
+      "A frontier is a zone of contact at the edge of a line of settlement. Leading theorist Frederick Jackson Turner went deeper, arguing that the frontier was the defining process of American civilization: \"The frontier,\" he asserted, \"promoted the formation of a composite nationality for the American people.\" He theorized it was a process of development: \"This perennial rebirth, this fluidity of American life, this expansion westward...furnish[es] the forces dominating American character.\""
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
-    "urlGoogle": "https://artsandculture.google.com/entity/assassination-of-john-f-kennedy/m01q1wc"
+    "urlWiki": "https://en.wikipedia.org/wiki/American_frontier",
+    "urlGoogle": "https://artsandculture.google.com/entity/american-frontier/m01lgb6"
   },
   "funFacts": [
     {
-      "id": "346",
-      "fact": "The medical term for writer's cramp is graphospasm.",
-      "category": ["Definitions", "Science"]
+      "id": "832",
+      "fact": "Brain waves can power an electric train.",
+      "category": ["Anatomy", "Science"]
     },
-    {
-      "id": "1024",
-      "fact": "Giraffes have the same number of vertebrae as humans: 7.",
-      "category": ["Animals", "Anatomy", "Science"]
-    }
+    { "id": "54", "fact": "The average smell weighs 760 nanograms.", "category": ["Science"] }
   ],
   "funFacts2": [
     {
-      "id": "554029",
-      "fact": "Jerry Springer was born in a London tube station during World War II."
+      "id": "554025",
+      "fact": "The Karni Mata Temple in Deshnoke, India, \u0003is home to 20,000 rats who are believed to \u0003be descended from an incarnation of the \u0003Hindu goddess Durga."
     }
   ],
   "idiom": {
-    "id": "if-the-mountain-wont-come-to-muhammad-muhammad-must-go-to-the-mountain",
-    "term": "if the mountain won't come to Muhammad, Muhammad must go to the mountain",
-    "definition": "If one can't have one's way, one must give in. For example, *Since you can't come here for the holiday, I'll go to your house---if the mountain won't come to Muhammad, Muhammad must go to the mountain.* This expression is based on a tale that Muhammad once sought proof of his teachings by ordering a mountain to come to him. When it did not move, he maintained that God had been merciful, for if it had indeed moved they all would have been crushed by it. [Late 1500s]"
+    "id": "as-i-live-and-breathe",
+    "term": "as I live and breathe",
+    "definition": "For sure, definitely, as in *As I live and breathe, I've never seen a more beautiful view.* This expression is generally used to emphasize the truth of a statement and has been so used since the mid-1600s, although sometimes it was put simply as **as I live.** However, the complete phrase was also used early on, as in Arthur Murphy's 1756 play *The Apprentice* (2:1): \"As I live and breathe, we shall both be taken, for heaven's sake let us make our escape.\""
   },
   "person": {
-    "id": "tom-clarke",
-    "name": "Tom Clarke",
-    "dates": "Mar 11, 1858 - May 3, 1916",
-    "mainImg": "img/people/tom-clarke.jpg",
+    "id": "john-n-mitchell",
+    "name": "John N. Mitchell",
+    "dates": "Sep 15, 1913 - Nov 9, 1988",
+    "mainImg": "img/people/john-n-mitchell.jpg",
     "summary": [
-      "Thomas James \"Tom\" Clarke was an Irish republican and a leader of the Irish Republican Brotherhood from Dungannon, County Tyrone. Clarke was arguably the person most responsible for the 1916 Easter Rising. A proponent of armed struggle against British rule in Ireland for most of his life, Clarke spent 15 years in English prisons prior to his role in the Easter Rising, and was executed by firing squad after it was defeated."
+      "John Newton Mitchell was the 67th Attorney General of the United States under President Richard Nixon and a convicted criminal. Prior to that, he had been a municipal bond lawyer, chairman of Nixon's 1968 presidential campaign, and one of Nixon's closest personal friends.",
+      "After his tenure as U.S. Attorney General, he served as chairman of Nixon's 1972 presidential campaign. Due to multiple crimes he committed in the Watergate affair, Mitchell was sentenced to prison in 1977 and served 19 months. As Attorney General, he was noted for personifying the \"law-and-order\" positions of the Nixon Administration, amid several high-profile anti-war demonstrations."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Tom_Clarke_%28Irish_republican%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/tom-clarke/m02qv8b"
+    "quote": "“Our attitude toward life determines life's attitude towards us.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/John_N._Mitchell",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-n-mitchell/m0lj76"
   },
   "place": {
-    "id": "paris",
-    "name": "Paris",
-    "mainImg": "img/places/paris.jpg",
+    "id": "china",
+    "name": "China",
+    "mainImg": "img/places/china.jpg",
     "summary": [
-      "Paris is the capital and most populous city of France, with a population of 2,148,271 residents in an area of 105 square kilometres. Since the 17th century, Paris has been one of Europe's major centres of finance, diplomacy, commerce, fashion, science and arts. The City of Paris is the centre and seat of government of the Île-de-France, or Paris Region, which has an estimated official 2020 population of 12,278,210, or about 18 percent of the population of France. The Paris Region had a GDP of €709 billion in 2017. According to the Economist Intelligence Unit Worldwide Cost of Living Survey in 2018, Paris was the second most expensive city in the world, after Singapore, and ahead of Zürich, Hong Kong, Oslo and Geneva. Another source ranked Paris as most expensive, on a par with Singapore and Hong Kong, in 2018.",
-      "The city is a major railway, highway and air-transport hub served by two international airports: Paris-Charles de Gaulle and Paris-Orly. Opened in 1900, the city's subway system, the Paris Métro, serves 5.23 million passengers daily; it is the second busiest metro system in Europe after the Moscow Metro."
+      "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometres, it is the world's third or fourth largest country by area. Governed by the Communist Party of China, the state exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities, and the special administrative regions of Hong Kong and Macau.",
+      "China emerged as one of the world's first civilizations, in the fertile basin of the Yellow River in the North China Plain. For millennia, China's political system was based on hereditary monarchies, or dynasties, beginning with the semi-mythical Xia dynasty in 21st century BCE. Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin reunited core China and established the first Chinese empire. The succeeding Han dynasty, which ruled from 206 BCE until 220 CE, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Paris",
-    "urlGoogle": "https://artsandculture.google.com/entity/paris/m05qtj"
+    "urlWiki": "https://en.wikipedia.org/wiki/China",
+    "urlGoogle": "https://artsandculture.google.com/entity/china/m0d05w3"
   },
   "wiki": {
-    "id": "james-k-polk",
-    "name": "James K. Polk",
-    "summary": "James K. Polk was an American politician and the eleventh President of the United States, serving from March 4, 1845 to March 4, 1849. Polk was born in North Carolina, but primarily lived in and represented the state of Tennessee. A Democrat, Polk served as Speaker of the House (1835–1839) and Governor of Tennessee (1839–1841) prior to becoming president. He is the only former Speaker of the House to become President. He is noted for his expansionist beliefs, for his pledge to serve only one term, and for becoming the first \"dark horse\" (a candidate who unexpectedly gains the party nomination) to win the presidency. His term is remembered for the Mexican-American War, the opening of the U.S. Naval Academy and Washington Monument, and the issuance of the first postage stamps in the United States.",
-    "url": "https://en.wikipedia.org/wiki/James_K._Polk"
+    "id": "military-of-the-democratic-republic-of-the-congo",
+    "name": "Military of the Democratic Republic of the Congo",
+    "summary": "The Armed Forces of the Democratic Republic of Congo (FARDC) is the state military organisation responsible for defending the Democratic Republic of Congo. The FARDC is being rebuilt as part of the peace process which followed the end of the Second Congo War in July 2003. The FARDC is dominated by its land forces but also includes a small air force and a smaller navy. Together the three services may number around 130,000 personnel. In parallel, there is also a presidential force called the Republican Guard. The National Congolese Police (PNC) are not part of the Armed Forces. In general, there is very little coherent information available on the FARDC. The government in the capital city Kinshasa, the United Nations, the European Union, and bilateral partners which include Angola, South Africa, and Belgium are attempting to create a viable force with the ability to provide the DRC with stability and security. However, this process is being hampered by corruption, the near-impotence of the government, and inadequate donor coordination. The various military units now grouped under the FARDC banner are some of the most unstable in Africa after years of war and underfunding.",
+    "url": "https://en.wikipedia.org/wiki/Military_of_the_Democratic_Republic_of_the_Congo"
   },
   "word": {
-    "id": "lambent",
-    "word": "lambent",
-    "url": "https://www.merriam-webster.com/dictionary/lambent",
+    "id": "pedagogical",
+    "word": "pedagogical",
+    "url": "https://www.merriam-webster.com/dictionary/pedagogical",
     "partOfSpeech": "adjective",
-    "pronunciation": "LAM-bunt",
-    "audioPath": "audio/words/lambent.mp3",
-    "definitions": [
-      "playing lightly on or over a surface : flickering",
-      "softly bright or radiant",
-      "marked by lightness or brilliance especially of expression"
-    ],
+    "pronunciation": "ped-uh-GAH-jih-kul",
+    "audioPath": "audio/words/pedagogical.mp3",
+    "definitions": ["of, relating to, or befitting a teacher or education"],
     "examples": [
-      "The forest floor was dappled with _lambent_ flecks of golden sunlight filtering down through the leafy branches.",
-      "\"In the _lambent_ softness of all that moonlight, in that quicksilver, fragrant, lukewarm stillness, everything still seems so right in my world: the boundaries between good and evil clearly demarcated.\" -- From Glen Retief's 2011 book _The Jack Bank: A Memoir of a South African Childhood_"
+      "New teachers will be evaluated on _pedagogical_ skills such as lesson planning and classroom management.",
+      "\"The report suggests that the exam be multidimensional and include subject knowledge as well as _pedagogical_ knowledge. In other words, in addition to having to know the subject they teach, teachers would have to demonstrate that they had the qualities to be 'caring, competent and confident.'\" - From an article by Donna Krache at CNN's Schools of Thought blog, December 4, 2012"
     ],
-    "origin": "Fire is frequently associated with lapping or licking imagery: flames are often described as \"tongues\" that \"lick.\" \"Lambent,\" which first appeared in English in the 17th century, is a part of this tradition, coming from \"lambens,\" the present participle of the Latin verb \"lambere,\" meaning \"to lick.\" In its earliest uses, \"lambent\" meant \"playing lightly over a surface,\" \"gliding over,\" or \"flickering.\" These uses were usually applied to flames or light, and by way of that association, the term eventually came to describe things with a radiant or brilliant glow, as Alexander Pope used it in his 1717 poem \"Eloisa to Abelard\": \"Those smiling eyes, attemp'ring ev'ry ray, Shone sweetly lambent with celestial day.\""
+    "origin": "\"Pedagogical,\" which has the somewhat less common spelling variant \"pedagogic,\" was coined in the early 17th century from a Greek adjective of the same meaning. That adjective, \"paidagōgikos,\" in turn derives from the noun \"paidagōgos,\" meaning \"teacher.\" The English word \"pedagogue\" (which can simply mean \"teacher\" but usually suggests one who is particularly dull) derives from the same root. Though the words \"educational\" and \"teacher\" make the grade in most contexts, \"pedagogical\" and \"pedagogue\" are useful additions to the class."
   }
 }

@@ -1,130 +1,126 @@
 {
   "artist": {
-    "id": "emiliano-di-cavalcanti",
-    "name": "Emiliano Di Cavalcanti",
-    "dates": "Sep 6, 1897 - Oct 26, 1976",
-    "mainImg": "img/art/artists/emiliano-di-cavalcanti.jpg",
+    "id": "michelangelo",
+    "name": "Michelangelo",
+    "dates": "Mar 6, 1475 - Feb 18, 1564",
+    "mainImg": "img/art/artists/michelangelo.jpg",
     "artworkImgs": [
       {
-        "name": "As traquinices do mascarado mignon",
-        "path": "img/art/artworks/emiliano-di-cavalcanti-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/as-traquinices-do-mascarado-mignon-di-cavalcanti/JgHKICD0MhUDBA"
+        "name": "Pieta",
+        "path": "img/art/artworks/michelangelo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/pieta-michelangelo/AQGubt4LAey1kg"
       },
       {
-        "name": "Woman with Cat",
-        "path": "img/art/artworks/emiliano-di-cavalcanti-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/woman-with-cat-emiliano-di-cavalcanti/LQE9HuiCFCjqMw"
+        "name": "The Torment of Saint Anthony",
+        "path": "img/art/artworks/michelangelo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-torment-of-saint-anthony-michelangelo-buonarroti/9QG4jcK04QjMfw"
       },
       {
-        "name": "Suburban Carnival",
-        "path": "img/art/artworks/emiliano-di-cavalcanti-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/suburban-carnival-di-cavalcanti/6gF0tmWk-8Di3w"
+        "name": "Doni 'Tondo'",
+        "path": "img/art/artworks/michelangelo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/doni-tondo-michelangelo-buonarroti/mwEx1TY1xbJCwg"
       },
       {
-        "name": "Girls with Guitars",
-        "path": "img/art/artworks/emiliano-di-cavalcanti-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/girls-with-guitars-emiliano-di-cavalcanti/SgFLljjz6G_Ujg"
+        "name": "Archers shooting at a herm",
+        "path": "img/art/artworks/michelangelo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/archers-shooting-at-a-herm-michelangelo-buonarroti/_gHFlakCZNNieA"
       },
       {
-        "name": "Mocinha com gato à janela, em Ouro Preto",
-        "path": "img/art/artworks/emiliano-di-cavalcanti-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/mocinha-com-gato-à-janela-em-ouro-preto-di-cavalcanti/WQF3E3nflokzYg"
+        "name": "Two Nudes Fighting",
+        "path": "img/art/artworks/michelangelo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/two-nudes-fighting-michelangelo/4gF6z92iNWmFSw"
       },
       {
-        "name": "Horses and Fishes",
-        "path": "img/art/artworks/emiliano-di-cavalcanti-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/horses-and-fishes-di-cavalcanti/fgFtb9HDei4IuA"
+        "name": "Male Nude [recto]",
+        "path": "img/art/artworks/michelangelo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/male-nude-recto-michelangelo/GgHZHknjO-qYmA"
       }
     ],
     "summary": [
-      "Emiliano Augusto Cavalcanti de Albuquerque Melo, known as Di Cavalcanti, was a Brazilian painter who sought to produce a form of Brazilian art free of any noticeable European influences. His wife was the painter Noêmia Mourão, who would be an inspiration in his works in the later 1930s."
+      "Michelangelo di Lodovico Buonarroti Simoni, known best as simply Michelangelo, was an Italian sculptor, painter, architect and poet of the High Renaissance born in the Republic of Florence, who exerted an unparalleled influence on the development of Western art. His artistic versatility was of such a high order that he is often considered a contender for the title of the archetypal Renaissance man, along with his rival, the fellow Florentine, Leonardo da Vinci. Several scholars have described Michelangelo as the greatest artist of his age and even as the greatest artist of all time.",
+      "A number of Michelangelo's works of painting, sculpture and architecture rank among the most famous in existence. His output in these fields was prodigious; given the sheer volume of surviving correspondence, sketches and reminiscences, he is the best-documented artist of the 16th century. He sculpted two of his best-known works, the Pietà and David, before the age of thirty."
     ],
-    "quote": null,
-    "movements": ["Modernism", "Cubism", "Street art", "Modern art"],
-    "mediums": ["Oil paint", "Watercolor painting", "Graphite", "Engraving"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Emiliano_Di_Cavalcanti",
-    "urlGoogle": "https://artsandculture.google.com/entity/emiliano-di-cavalcanti/m08zflt"
+    "quote": "“A man paints with his brains and not with his hands.”",
+    "movements": ["Italian Renaissance", "Renaissance", "High Renaissance"],
+    "mediums": ["Engraving", "Drawing", "Chalk", "Pigment", "Ink", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Michelangelo",
+    "urlGoogle": "https://artsandculture.google.com/entity/michelangelo/m058w5"
   },
   "event": {
-    "id": "sinking-of-the-rms-lusitania",
-    "name": "Sinking of the RMS Lusitania",
-    "dates": null,
-    "mainImg": "img/events/sinking-of-the-rms-lusitania.jpg",
+    "id": "siege-of-leningrad",
+    "name": "Siege of Leningrad",
+    "dates": "Sep 8, 1941 - Jan 27, 1944",
+    "mainImg": "img/events/siege-of-leningrad.jpg",
     "summary": [
-      "The sinking of the Cunard ocean liner RMS Lusitania occurred on Friday, 7 May 1915 during the First World War, as Germany waged submarine warfare against the United Kingdom which had implemented a naval blockade of Germany. The ship was identified and torpedoed by the German U-boat U-20 and sank in 18 minutes, and also took on a heavy starboard list. The vessel went down 11 miles off the Old Head of Kinsale, Ireland, killing 1,198 and leaving 761 survivors. The sinking turned public opinion in many countries against Germany, contributed to the American entry into World War I and became an iconic symbol in military recruiting campaigns of why the war was being fought.",
-      "Lusitania fell victim to torpedo attack relatively early in the First World War, before tactics for evading submarines were properly implemented or understood. The contemporary investigations in both the United Kingdom and the United States into the precise causes of the ship's loss were obstructed by the needs of wartime secrecy and a propaganda campaign to ensure all blame fell upon Germany."
+      "The siege of Leningrad was a prolonged military blockade undertaken from the south by the Army Group North of Nazi Germany against the Soviet city of Leningrad on the Eastern Front in World War II. The Finnish army invaded from the north, co-operating with the Germans until Finland had recaptured territory lost in the recent Winter War, but refused to make further approaches to the city. Also co-operating with the Germans since 1942 in August: the Spanish Blue Division that was transferred to the southeastern flank of the siege of Leningrad, just south of the Neva near Pushkin, Kolpino and its main intervention was in Krasny Bor in the Izhora River area.",
+      "The siege began on the 8 September 1941, when the Wehrmacht severed the last road to the city. Although Soviet forces managed to open a narrow land corridor to the city on 18 January 1943, the Red Army did not lift the siege until 27 January 1944, 872 days after it began. The blockade became one of the longest and most destructive sieges in history, and possibly the costliest in casualties suffered. Some historians classify it as genocide."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Lusitania",
-    "urlGoogle": "https://artsandculture.google.com/entity/sinking-of-the-rms-lusitania/m071zvfm"
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Leningrad",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-leningrad/m01w88x"
   },
   "funFacts": [
     {
-      "id": "83",
-      "fact": "Googol is a number (1 followed by 100 zeros).",
-      "category": ["Science"]
+      "id": "118",
+      "fact": "Honeybees are the only insects that create a form of food for humans.",
+      "category": ["Animals", "Onlies"]
     },
     {
-      "id": "451",
-      "fact": "Human eyes have over two million working parts.",
-      "category": ["Anatomy"]
+      "id": "244",
+      "fact": "The watermelon seed-spitting world record is about 70 feet.",
+      "category": ["Food"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "554075",
-      "fact": "Quetzalcoatlus, the largest known flying animal ever, was as tall as a giraffe. It may have used its powerful forelimbs to pole-vault into the sky."
-    }
-  ],
+  "funFacts2": [{ "id": "553803", "fact": "There are 293 ways to make change for a U.S. dollar." }],
   "idiom": {
-    "id": "who-will-bell-the-cat",
-    "term": "who will bell the cat",
-    "definition": "Who has enough courage to do a dangerous job? For example, *Someone has to tell the teacher that her own son started the fire, but who will bell the cat?* This expression originated in one of Aesop's fables as retold by William Langland in *Piers Ploughman* (c. 1377), in which the mice decide to put a bell around the cat's neck as a warning device but then can find none among them who will actually do it."
+    "id": "not-suffer-fools-gladly",
+    "term": "not suffer fools gladly",
+    "definition": "Refuse to tolerate stupidity, as in *Chris can be intimidating at these meetings; she does not suffer fools gladly.* This expression comes from the New Testament (II Corinthians 11:19), where Paul sarcastically says, \"For ye suffer fools gladly, seeing ye yourselves are wise.\" [c. 1600]"
   },
   "person": {
-    "id": "edouard-daladier",
-    "name": "Édouard Daladier",
-    "dates": "Jun 18, 1884 - Oct 10, 1970",
-    "mainImg": "img/people/edouard-daladier.jpg",
+    "id": "charles-i-of-england",
+    "name": "Charles I of England",
+    "dates": "Nov 19, 1600 - Jan 30, 1649",
+    "mainImg": "img/people/charles-i-of-england.jpg",
     "summary": [
-      "Édouard Daladier was a French Radical-Socialist politician and the Prime Minister of France at the outbreak of World War II.",
-      "Daladier was born in Carpentras and began his political career before World War I. During the war, he fought on the Western Front and was decorated for his service. After the war, he became a leading figure in the Radical Party and Prime Minister in 1933 and 1934. Daladier was Minister of Defence from 1936 to 1940 and Prime Minister again in 1938. As head of government, he expanded the French welfare state in 1939.",
-      "Along with Neville Chamberlain, Benito Mussolini and Adolf Hitler, Daladier signed the Munich Agreement in 1938, giving Nazi Germany control over the Sudetenland. After Hitler's invasion of Poland in 1939, Britain and France declared war on Germany. During the Phoney War, France's failure to aid Finland against the Soviet Union's aggression in the Winter War led to Daladier's resignation on 21 March 1940 and replacement as prime minister by Paul Reynaud. Daladier remained Minister of Defence until 19 May, when Reynaud took over the portfolio personally after the French defeat at Sedan."
+      "Charles I was King of England, King of Scotland, and King of Ireland from 27 March 1625 until his execution in 1649.",
+      "Charles was born into the House of Stuart as the second son of King James VI of Scotland, but after his father inherited the English throne in 1603, he moved to England, where he spent much of the rest of his life. He became heir apparent to the three kingdoms of England, Scotland and Ireland in 1612 on the death of his elder brother Henry Frederick, Prince of Wales. An unsuccessful and unpopular attempt to marry him to the Spanish Habsburg princess Maria Anna culminated in an eight-month visit to Spain in 1623 that demonstrated the futility of the marriage negotiations. Two years later he married the Bourbon princess Henrietta Maria of France.",
+      "After his succession in 1625, Charles quarrelled with the Parliament of England, which sought to curb his royal prerogative. Charles believed in the divine right of kings, and was determined to govern according to his own conscience. Many of his subjects opposed his policies, in particular the levying of taxes without parliamentary consent, and perceived his actions as those of a tyrannical absolute monarch."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89douard_Daladier",
-    "urlGoogle": "https://artsandculture.google.com/entity/édouard-daladier/m023sfy"
+    "quote": "“Never make a defense or an apology until you are accused.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Charles_I_of_England",
+    "urlGoogle": "https://artsandculture.google.com/entity/charles-i-of-england/m0231r"
   },
   "place": {
-    "id": "los-angeles",
-    "name": "Los Angeles",
-    "mainImg": "img/places/los-angeles.jpg",
+    "id": "daytona-beach",
+    "name": "Daytona Beach",
+    "mainImg": "img/places/daytona-beach.jpg",
     "summary": [
-      "Los Angeles, officially the City of Los Angeles and often known by its initials L.A., is the largest city in California. With an estimated population of nearly four million people, it is the country's second most populous city and the third most populous city in North America. Los Angeles is known for its Mediterranean climate, ethnic diversity, Hollywood entertainment industry, and its sprawling metropolis.",
-      "Los Angeles lies in a basin in Southern California, adjacent to the Pacific Ocean, with mountains as high as 10,000 feet, and deserts. The city, which covers about 469 square miles, is the seat of Los Angeles County, the most populous county in the United States. The Los Angeles metropolitan area is home to 13.1 million people, making it the second-largest metropolitan area in the nation after New York. Greater Los Angeles includes metro Los Angeles as well as the Inland Empire and Ventura County. It is the second most populous U.S. combined statistical area, also after New York, with a 2015 estimate of 18.7 million people.",
-      "Home to the Chumash and Tongva, Los Angeles was claimed by Juan Rodríguez Cabrillo for Spain in 1542."
+      "Daytona Beach is a city in Volusia County, Florida, United States. It lies approximately 51 miles northeast of Orlando, 86 miles southeast of Jacksonville, and 265 miles northwest of Miami. As of the 2010 U.S. Census, it had a population of 61,005. It is a principal city of the Deltona–Daytona Beach–Ormond Beach metropolitan area, which was home to 600,756 people as of 2013. Daytona Beach is also a principal city of the Fun Coast region of Florida.",
+      "The city is historically known for its beach, where the hard-packed sand allows motorized vehicles to drive on the beach in restricted areas. This hard-packed sand made Daytona Beach a mecca for motorsports, and the old Daytona Beach Road Course hosted races for over 50 years. This was replaced in 1959 by Daytona International Speedway. The city is also the headquarters for NASCAR.",
+      "Daytona Beach hosts large groups of out-of-towners during the year, who visit the city for various events, notably Speedweeks in early February when over 200,000 NASCAR fans come to attend the season-opening Daytona 500."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Los_Angeles",
-    "urlGoogle": "https://artsandculture.google.com/entity/los-angeles/m030qb3t"
+    "urlWiki": "https://en.wikipedia.org/wiki/Daytona_Beach,_Florida",
+    "urlGoogle": "https://artsandculture.google.com/entity/daytona-beach/m0rsjf"
   },
   "wiki": {
-    "id": "1960-south-vietnamese-coup-attempt",
-    "name": "1960 South Vietnamese coup attempt",
-    "summary": "On November 11, 1960, a failed coup attempt against President Ngo Dinh Diem of South Vietnam was led by Lieutenant Colonel Vuong Van Dong and Colonel Nguyen Chanh Thi of the Army of the Republic of Vietnam. The rebels launched the coup in response to Diem's autocratic rule and the negative political influence of his brother Ngo Dinh Nhu and his sister-in-law Madame Ngo Dinh Nhu. After initially being trapped inside the Independence Palace, Diem stalled the coup by holding negotiations and promising reforms. However, his real aim was to buy time for loyalist forces to enter Saigon and relieve him. The coup failed when the Fifth and Seventh Divisions of the Army of the Republic of Vietnam entered Saigon and defeated the rebels. More than four hundred people—many of whom were spectating civilians—were killed in the ensuing battle. Dong and Thi fled to Cambodia, while Diem excoriated the United States for a perceived lack of support during the crisis. Afterwards, Diem ordered a crackdown, imprisoning numerous anti-government critics and former cabinet ministers.",
-    "url": "https://en.wikipedia.org/wiki/1960_South_Vietnamese_coup_attempt"
+    "id": "belle-vue-zoological-gardens",
+    "name": "Belle Vue Zoological Gardens",
+    "summary": "Belle Vue Zoological Gardens was a large zoo, amusement park, exhibition hall complex and speedway stadium in Belle Vue, Manchester, England, opened in 1836. The brainchild of John Jennison, the park was intended to entertain the genteel middle classes, with formal gardens and dancing on open-air platforms during the summer, but they soon became one of the most popular attractions in Northern England. Jennison set out a small amusements area in Belle Vue during the 1870s, which was expanded in the early 20th century to become what was advertised as the \"showground of the world\". Popular rides included the 60 mph (97 km/h) Bobs roller coaster and the Scenic Railway. Grand firework displays were given from 1852 and there was an annual Christmas circus from 1922. The Kings Hall, opened in 1910, housed the Hallé Orchestra for several years and later hosted concerts by artists such as Jimi Hendrix, The Who, The Rolling Stones, Leonard Cohen, Johnny Cash and Led Zeppelin. At its peak Belle Vue occupied 165 acres (0.67 km2) and attracted more than two million visitors a year. The zoo closed in September 1977 after its owners decided they could no longer afford annual losses of £100,000.",
+    "url": "https://en.wikipedia.org/wiki/Belle_Vue_Zoological_Gardens"
   },
   "word": {
-    "id": "clochard",
-    "word": "clochard",
-    "url": "https://www.merriam-webster.com/dictionary/clochard",
-    "partOfSpeech": "noun",
-    "pronunciation": "kloh-SHAR",
-    "audioPath": "audio/words/clochard.mp3",
-    "definitions": ["tramp, vagrant"],
+    "id": "collogue",
+    "word": "collogue",
+    "url": "https://www.merriam-webster.com/dictionary/collogue",
+    "partOfSpeech": "verb",
+    "pronunciation": "kuh-LOHG",
+    "audioPath": "audio/words/collogue.mp3",
+    "definitions": ["intrigue, conspire", "to talk privately : confer"],
     "examples": [
-      "\"He lives on the Pont Neuf, the oldest and most beautiful bridge in Paris, which has become a secret home to clochards . . . while closed for extensive repairs.\" (Vincent Canby, _The New York Times_, October 6, 1992)"
+      "\"If there was noise, as there often was even at dawn -- a huddle of men colloguing, a woman deliriously chanting the Mysteries -- his arrival would cause much of it to die.\" (Joseph O'Connor, _Star of the Sea_)"
     ],
-    "origin": "Why such a fancy French word for a bum? The truth of the matter is, nine times out of ten, you will find \"clochard\" used for not just any bum, but a French bum -- even more specifically, a Parisian bum. And, sometimes, it's even a certain type of Parisian bum -- a type that has been romanticized in literature and is part of the local color. Nevertheless, as \"français\" as this word (which comes from the French verb \"clocher,\" meaning \"to limp\") may seem, its regular appearance in English sources since 1937 makes it an English word, too."
+    "origin": "\"Collogue\" has been with us since the 17th century, but beyond that little is known about its origin. In Samuel Johnson's 1755 dictionary, he defined \"collogue\" as \"to wheedle, to flatter; to please with kind words.\" The \"intrigue or conspire\" meaning of \"collogue\" was also common in Johnson's day, but Johnson missed it; his oversight suggests that sense of the word was probably part of a dialect unfamiliar to him. The earliest known use of the \"confer\" sense of the word is found in an 1811 letter by Sir Walter Scott: \"We shall meet and collogue upon it.\""
   }
 }

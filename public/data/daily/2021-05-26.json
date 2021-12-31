@@ -1,135 +1,135 @@
 {
   "artist": {
-    "id": "marina-abramovic",
-    "name": "Marina Abramović",
-    "dates": "Born Nov 30, 1946",
-    "mainImg": "img/art/artists/marina-abramovic.jpg",
+    "id": "francisco-goya",
+    "name": "Francisco Goya",
+    "dates": "Mar 30, 1746 - Apr 16, 1828",
+    "mainImg": "img/art/artists/francisco-goya.jpg",
     "artworkImgs": [
       {
-        "name": "6-Crystal Standing Pillar (Produced for Terra Comunal)",
-        "path": "img/art/artworks/marina-abramovic-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/6-crystal-standing-pillar-produced-for-terra-comunal/6AEzkC01VQUx2Q"
+        "name": "The sleep of reason produces monsters (No. 43), from Los Caprichos",
+        "path": "img/art/artworks/francisco-goya-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-sleep-of-reason-produces-monsters-no-43-from-los-caprichos-francisco-josé-de-goya-y-lucientes/FAF4YL0zP9cjHg"
       },
       {
-        "name": "Kaldor Public Art Project 30: Marina Abramović 2015",
-        "path": "img/art/artworks/marina-abramovic-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/kaldor-public-art-project-30-marina-abramović-2015-marina-abramović/GgFPq9e00Sxz4g"
+        "name": "Witches' Sabbath",
+        "path": "img/art/artworks/francisco-goya-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/witches-sabbath-francisco-de-goya-y-lucientes/kAFyfuppyHHyBw"
       },
       {
-        "name": "Cleaning the Mirror I",
-        "path": "img/art/artworks/marina-abramovic-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/cleaning-the-mirror-i-marina-abramović/swGZ7fmKAdj-zQ"
+        "name": "The Sleep of Reason Produces Monsters",
+        "path": "img/art/artworks/francisco-goya-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-sleep-of-reason-produces-monsters-francisco-de-goya-y-lucientes/XgG3AE0s3xlYCw"
       },
       {
-        "name": "Shoes for Departure",
-        "path": "img/art/artworks/marina-abramovic-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/shoes-for-departure-marina-abramović/ugFXmdCZ70Qn_Q"
+        "name": "The School Scene (La Letra con Sangre Entra)",
+        "path": "img/art/artworks/francisco-goya-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-school-scene-la-letra-con-sangre-entra-francisco-de-goya-y-lucientes/WQHmfveamlnqXQ"
       },
       {
-        "name": "6-Crystal Standing Pillar (Produced for Terra Comunal)",
-        "path": "img/art/artworks/marina-abramovic-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/6-crystal-standing-pillar-produced-for-terra-comunal/wQEcU-jzvAkY7Q"
+        "name": "And so was his grandfather",
+        "path": "img/art/artworks/francisco-goya-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/and-so-was-his-grandfather-francisco-goya-y-lucientes/YQHFCK7IaAkkeA"
       },
       {
-        "name": "Counting the Rice (Presented at MONA)",
-        "path": "img/art/artworks/marina-abramovic-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/counting-the-rice-presented-at-mona/XQHM7mciqO1HrQ"
+        "name": "El sueño de la razón produce monstruos",
+        "path": "img/art/artworks/francisco-goya-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/el-sueño-de-la-razón-produce-monstruos-francisco-josé-de-goya-y-lucientes/1wGN0bdAxSEyrg"
       }
     ],
     "summary": [
-      "Marina Abramović is a Serbian American conceptual and performance artist, philanthropist and art filmmaker. Her work explores body art, endurance art and feminist art, the relationship between performer and audience, the limits of the body, and the possibilities of the mind. Being active for over four decades, Abramović refers to herself as the \"grandmother of performance art\". She pioneered a new notion of identity by bringing in the participation of observers, focusing on \"confronting pain, blood, and physical limits of the body\"."
+      "Francisco José de Goya y Lucientes was a Spanish romantic painter and printmaker. He is considered the most important Spanish artist of the late 18th and early 19th centuries and throughout his long career was a commentator and chronicler of his era. Immensely successful in his lifetime, Goya is often referred to as both the last of the Old Masters and the first of the moderns. He was also one of the great portraitists of his time.",
+      "Goya was born to a lower-middle-class family in 1746, in Fuendetodos in Aragon. He studied painting from age 14 under José Luzán y Martinez and moved to Madrid to study with Anton Raphael Mengs. He married Josefa Bayeu in 1773; their life was characterised by an almost constant series of pregnancies and miscarriages, and only one child, a son, survived into adulthood. Goya became a court painter to the Spanish Crown in 1786 and this early portion of his career is marked by portraits of the Spanish aristocracy and royalty, and Rococo style tapestry cartoons designed for the royal palace.",
+      "He was guarded, and although letters and writings survive, little is known about his thoughts."
     ],
-    "quote": "“Once, Picasso was asked what his paintings meant. He said, 'Do you ever know what the birds are singing? You don’t. But you listen to them anyway.' So, sometimes with art, it is important just to look.”",
-    "movements": ["Conceptual art", "Contemporary art", "Performance art"],
-    "mediums": ["Rock", "Gemstone", "Quartz", "Glass", "Metal", "Photograph"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87",
-    "urlGoogle": "https://artsandculture.google.com/entity/marina-abramović/m02d100"
+    "quote": "“Fantasy, abandoned by reason, produces impossible monsters; united with it, she is the mother of the arts and the origin of marvels.”",
+    "movements": ["Romanticism", "Renaissance", "Rococo"],
+    "mediums": ["Etching", "Oil paint", "Drawing", "Ink", "Laid paper", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Francisco_Goya",
+    "urlGoogle": "https://artsandculture.google.com/entity/francisco-goya/m02y23"
   },
   "event": {
-    "id": "capture-of-brielle",
-    "name": "Capture of Brielle",
-    "dates": null,
-    "mainImg": "img/events/capture-of-brielle.jpg",
+    "id": "eastern-front",
+    "name": "Eastern Front",
+    "dates": "Jun 22, 1941 - May 9, 1945",
+    "mainImg": "img/events/eastern-front.jpg",
     "summary": [
-      "The Capture of Brielle by the Watergeuzen, on 1 April 1572 marked a turning point in the uprising of the Low Countries against Spain in the Eighty Years' War. Militarily the success was minor as the port of Brielle was undefended, but it provided the first foothold on land for the rebels at a time when the rebellion was all but crushed, and it offered the sign for a new revolt throughout the Netherlands which led to the formation of the Dutch Republic."
+      "The Eastern Front of World War II was a theatre of conflict between the European Axis powers and co-belligerent Finland against the Soviet Union, Poland and other Allies, which encompassed Central Europe, Eastern Europe, Northeast Europe, and Southeast Europe from 22 June 1941 to 9 May 1945. It is known as the Great Patriotic War in the Soviet Union and its successor states, while in Germany it was called the Eastern Front.",
+      "The battles on the Eastern Front of the Second World War constituted the largest military confrontation in history. They were characterised by unprecedented ferocity, wholesale destruction, mass deportations, and immense loss of life due to combat, starvation, exposure, disease, and massacres. Of the estimated 70–85 million deaths attributed to World War II, around 30 million occurred on the Eastern Front. The Eastern Front was decisive in determining the outcome in the European theatre of operations in World War II, eventually serving as the main reason for the defeat of Nazi Germany and the Axis nations.",
+      "The two principal belligerent powers were Germany and the Soviet Union, along with their respective allies."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Capture_of_Brielle",
-    "urlGoogle": "https://artsandculture.google.com/entity/capture-of-brielle/m0f_6n4"
+    "urlWiki": "https://en.wikipedia.org/wiki/Eastern_Front_%28World_War_II%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/eastern-front/g1q6jhj143"
   },
   "funFacts": [
     {
-      "id": "159",
-      "fact": "The first TV show ever to be put into reruns was \"The Lone Ranger.\"",
-      "category": ["Firsts"]
+      "id": "183",
+      "fact": "The Capitol building in Washington, D.C. has 365 steps to represent every day of the year.",
+      "category": ["Geography"]
     },
-    {
-      "id": "750",
-      "fact": "The common garden worm has five pairs of hearts.",
-      "category": ["Animals"]
-    }
+    { "id": "841", "fact": "The most popular ice cream flavour is vanilla.", "category": ["Food"] }
   ],
   "funFacts2": [
     {
-      "id": "553866",
-      "fact": "Bedding was such a luxury in the Middle Ages that blankets and sheets were written into wills."
+      "id": "506181",
+      "fact": "Army ants that misinterpret the scent trails left by other ants will sometimes break from the crowd and march in circles. If enough ants join, they can form massive \"death spirals.\""
     }
   ],
   "idiom": {
-    "id": "make-a-virtue-of-necessity",
-    "term": "make a virtue of necessity",
-    "definition": "Do the best one can under given circumstances, as in *Since he can't break the contract, Bill's making a virtue of necessity.* This expression first appeared in English in Chaucer's *The Knight's Tale:* \"Then is it wisdom, as it thinketh me, to make virtue of necessity.\""
+    "id": "give-short-shrift",
+    "term": "give short shrift",
+    "definition": "Also, **get short shrift.** Give (or receive) cursory attention or little time. For example, *The architect made elaborate plans for the entry but gave short shrift to the back of the house.* Literally, *shrift* refers to confession to a priest, who gives absolution and penance, and *short shrift* to the brief time allowed for this sacrament to a prisoner before execution. Shakespeare so used it in *Richard III* (3:4), but it came to be used more loosely in succeeding centuries. [Late 1800s]"
   },
   "person": {
-    "id": "gabriele-d-annunzio",
-    "name": "Gabriele D'Annunzio",
-    "dates": "Mar 12, 1863 - Mar 1, 1938",
-    "mainImg": "img/people/gabriele-d-annunzio.jpg",
+    "id": "severus-alexander",
+    "name": "Severus Alexander",
+    "dates": "Died 235 AD",
+    "mainImg": "img/people/severus-alexander.jpg",
     "summary": [
-      "General Gabriele D'Annunzio, Prince of Montenevoso OMS CMG MVM, sometimes spelled d'Annunzio, was an Italian poet, playwright, and journalist and soldier during World War I. He occupied a prominent place in Italian literature from 1889 to 1910 and later political life from 1914 to 1924. He was often referred to under the epithets Il Vate or Il Profeta.",
-      "D'Annunzio was associated with the Decadent movement in his literary works, which interplayed closely with French Symbolism and British Aestheticism. Such works represented a turn against the naturalism of the preceding romantics and was both sensuous and mystical. He came under the influence of Friedrich Nietzsche which would find outlets in his literary and later political contributions. His affairs with several women, including Eleonora Duse and Luisa Casati, received public attention.",
-      "During the First World War, perception of D'Annunzio in Italy transformed from literary figure into a national war hero. He was associated with the elite Arditi storm troops of the Italian Army and took part in actions such as the Flight over Vienna."
-    ],
-    "quote": "“Limit to courage? There is no limit to courage.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Gabriele_D%27Annunzio",
-    "urlGoogle": "https://artsandculture.google.com/entity/gabriele-d-annunzio/m0crft"
-  },
-  "place": {
-    "id": "jersey-city",
-    "name": "Jersey City",
-    "mainImg": "img/places/jersey-city.jpg",
-    "summary": [
-      "Jersey City is the second-most populous city in the U.S. state of New Jersey, after Newark. It is the seat of Hudson County as well as the county's largest city. The Census Bureau's Population Estimates Program calculated that the city's population was 262,075 in 2019, ranking as the 80th-most-populous incorporated place in the nation. The 2019 estimate represents an increase of about 5.8% from the 2010 United States Census, when the city's population was at 247,597, ranking the city the nation's 78th-largest by population.",
-      "After a peak population of 316,715 measured in the 1930 Census, the city's population saw a half-century-long decline to a nadir of 223,532 in the 1980 Census. Since then, the city's population has rebounded, with the 2010 population reflecting an increase of 7,542 from the 240,055 counted in the 2000 Census, which had in turn increased by 11,518 from the 228,537 counted in the 1990 Census.",
-      "Part of the New York metropolitan area, Jersey City is bounded on the east by the Hudson River and Upper New York Bay and on the west by the Hackensack River and Newark Bay."
+      "Severus Alexander was Roman Emperor from 222 to 235 and the last emperor of the Severan dynasty. He succeeded his cousin Elagabalus upon the latter's assassination in 222. His own assassination marked the epoch event for the Crisis of the Third Century—nearly 50 years of civil wars, foreign invasion, and collapse of the monetary economy.",
+      "Alexander was the heir to his cousin, the 18-year-old Emperor who had been murdered along with his mother Julia Soaemias, by his own guards, who, as a mark of contempt, had their remains cast into the Tiber river. He and his cousin were both grandsons of the influential and powerful Julia Maesa, who had arranged for Elagabalus' acclamation as emperor by the famous Third Gallic Legion. It was the rumor of Alexander's death that triggered the assassination of Elagabalus and his mother. His 13-year reign was the longest reign of a sole emperor since Antoninus Pius. He was also the second-youngest ever sole legal Roman Emperor during the existence of the united empire, the youngest being Gordian III.",
+      "As emperor, Alexander's peacetime reign was prosperous."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Jersey_City,_New_Jersey",
-    "urlGoogle": "https://artsandculture.google.com/entity/jersey-city/m0xn7q"
+    "urlWiki": "https://en.wikipedia.org/wiki/Severus_Alexander",
+    "urlGoogle": "https://artsandculture.google.com/entity/severus-alexander/m0rdc"
   },
-  "quote": {
-    "id": "31",
-    "quote": "Either write something worth reading or do something worth writing.",
-    "author": "Benjamin Franklin"
+  "place": {
+    "id": "hamedan",
+    "name": "Hamedan",
+    "mainImg": "img/places/hamedan.jpg",
+    "summary": [
+      "Hamadān or Hamedān is the capital city of Hamadan Province of Iran. At the 2016 census, its population was 676,105 in 210,775 families.",
+      "Hamedan is believed to be among the oldest Iranian cities. It is possible that it was occupied by the Assyrians in 1100 BCE; the Ancient Greek historian, Herodotus, states that it was the capital of the Medes, around 700 BCE.",
+      "Hamedan has a green mountainous area in the foothills of the 3,574-meter Alvand Mountain, in the midwest part of Iran. The city is 1,850 meters above sea level.",
+      "The special nature of this old city and its historic sites attract tourists during the summer to this city, located approximately 360 kilometres southwest of Tehran.",
+      "The major sights of this city are the Ganj Nameh inscription, the Avicenna monument and the Baba Taher monument.",
+      "The majority of the population is Persian; however, there is a considerable Azerbaijani minority."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hamadan",
+    "urlGoogle": "https://artsandculture.google.com/entity/hamedan/m01vjkr"
   },
   "wiki": {
-    "id": "u-s-route-40-alternate-keysers-ridge-cumberland-maryland",
-    "name": "U.S. Route 40 Alternate (Keysers Ridge–Cumberland, Maryland)",
-    "summary": "U.S. Route 40 Alternate (Alt US 40) is the U.S. Highway designation for a former segment of U.S. Route 40 (US 40) through Garrett and Allegany counties in Maryland. The highway begins at US 40 near exit 14 on Interstate 68 and runs 31.80 miles (51.18 km) eastward to Cumberland, where it ends at exit 44 on Interstate 68. The highway is known as Old National Pike because it follows the original alignment of the National Road. As the route of the historic National Road, there are many historic sites along Alt US 40, including the Casselman Bridge in Grantsville and the last remaining National Road toll gate house in Maryland, located in LaVale. When the National Freeway was built in western Maryland paralleling the old National Road, the part of the bypassed road between Keyser's Ridge and Cumberland became Alt US 40, and other bypassed sections east of Cumberland became Maryland Route 144 and U.S. Route 40 Scenic. Although Alt US 40 is now less important because of the construction of Interstate 68, it remains an important route for local traffic and serves as the Main Streets of Grantsville and Frostburg.",
-    "url": "https://en.wikipedia.org/wiki/U.S._Route_40_Alternate_(Keysers_Ridge%E2%80%93Cumberland,_Maryland)"
+    "id": "european-commission",
+    "name": "European Commission",
+    "summary": "The European Commission is the executive branch of the European Union. The body is responsible for proposing legislation, implementing decisions, upholding the Union's treaties and the general day-to-day running of the Union. The Commission operates in the method of cabinet government, with 27 Commissioners. There is one Commissioner per member state, however Commissioners are bound to represent the interests of the EU as a whole rather than their home state. One of the 27 is the Commission President (currently José Manuel Barroso) appointed by the European Council with the approval of the European Parliament. The present Barroso Commission took office in late 2004 and is serving a five-year term. The term \"Commission\" can mean either the college of Commissioners mentioned above, or the larger institution; including the administrative body of about 25,000 European civil servants who are divided into departments called Directorates-General. It is primarily based in the Berlaymont building of Brussels and its internal working languages are English, French and German.",
+    "url": "https://en.wikipedia.org/wiki/European_Commission"
   },
   "word": {
-    "id": "meld",
-    "word": "meld",
-    "url": "https://www.merriam-webster.com/dictionary/meld",
-    "partOfSpeech": "verb",
-    "pronunciation": "MELD",
-    "audioPath": "audio/words/meld.mp3",
-    "definitions": ["merge, blend"],
-    "examples": [
-      "Simmer the sauce until the flavors have _melded_ together.",
-      "\"This work is described as a collaborative, interdisciplinary project _melding_ the contemporary visions of a choreographer, a filmmaker, a visual artist, and a fashion designer.\" -- From a review by Jennifer Edwards on The Huffington Post (huffingtonpost.com), November 24, 2010"
+    "id": "symbiosis",
+    "word": "symbiosis",
+    "url": "https://www.merriam-webster.com/dictionary/symbiosis",
+    "partOfSpeech": "noun",
+    "pronunciation": "sim-bee-OH-sis",
+    "audioPath": "audio/words/symbiosis.mp3",
+    "definitions": [
+      "the living together in close association of two dissimilar organisms especially when mutually beneficial",
+      "a cooperative relationship"
     ],
-    "origin": "As a verb meaning \"to blend or merge,\" \"meld\" dates only to the 1930s. In its early days, the word attracted some unfavorable attention. Those who didn't like it tended to perceive it as a misuse of an older \"meld\" meaning \"to declare or announce (a card or cards) for a score in a card game (as pinochle or gin rummy).\" But the new \"meld,\" a blend of \"melt\" and \"weld,\" was an entirely new coinage suggesting a smooth and thorough blending of two or more things into a single, homogeneous whole. The word is no longer controversial."
+    "examples": [
+      "A perfect symbiosis was at work between the café’s co-owners, with Stephanie creating the menu and Maria doing the bookkeeping."
+    ],
+    "origin": "\"Symbiosis\" was adopted by the scientific community in the late 1800s, though it had appeared in English in a non-scientific sense as far back as 1622. When a biological symbiosis is mutually beneficial, it is termed \"mutualism.\" For example, when the yucca moth lays her eggs in the seed pods of the yucca, she acts as pollinator, and when the larvae hatch they feed on some, but not all, of the seeds. When one organism lives off another at the other’s expense, it’s called \"parasitism.\" Either way, living together is what \"symbiosis\" is all about; the word came to us, via German and New Latin, from the Greek \"symbiōsis,\" meaning \"state of living together.\" \"Symbiōsis,\" in turn, traces to \"symbios\" (\"living together\"), a combination of \"syn-,\" meaning \"with,\" and \"bios,\" meaning \"life.\""
   }
 }

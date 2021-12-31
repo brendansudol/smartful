@@ -1,121 +1,131 @@
 {
   "artist": {
-    "id": "vicente-juan-masip",
-    "name": "Vicente Juan Masip",
-    "dates": "1507 - Dec 21, 1579",
-    "mainImg": "img/art/artists/vicente-juan-masip.jpg",
+    "id": "walter-crane",
+    "name": "Walter Crane",
+    "dates": "Aug 15, 1845 - Mar 14, 1915",
+    "mainImg": "img/art/artists/walter-crane.jpg",
     "artworkImgs": [
       {
-        "name": "Saint Vincent Ferrer",
-        "path": "img/art/artworks/vicente-juan-masip-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-vincent-ferrer-joan-macip-joan-de-joanes/kwFcERagLmJW4A"
+        "name": "Flowers from Shakespeare's Garden by Walter Crane",
+        "path": "img/art/artworks/walter-crane-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/flowers-from-shakespeare-s-garden-by-walter-crane-walter-crane/owHv_-rjLXkUsw"
       },
       {
-        "name": "Virgin and Child, Saints and Angels",
-        "path": "img/art/artworks/vicente-juan-masip-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/virgin-and-child-saints-and-angels-vicent-macip/KAFy9ajq42JF_A"
+        "name": "Woman Seated on a Sofa",
+        "path": "img/art/artworks/walter-crane-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-seated-on-a-sofa-walter-crane/wwE9OzegFyKcDw"
       },
       {
-        "name": "Portrait of Alfonso V, King of Aragon (Retrato del Monarca Alfonso V, Rey de Aragón)",
-        "path": "img/art/artworks/vicente-juan-masip-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-alfonso-v-king-of-aragon-retrato-del-monarca-alfonso-v-rey-de-aragón-juan-de-juanes/6gEM3NWctCwlRw"
+        "name": "Goody Two Shoes' Picture Book",
+        "path": "img/art/artworks/walter-crane-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/goody-two-shoes-picture-book-walter-crane-edmund-evans-george-routledge-sons/1AF3_VgN75o_wA"
       },
       {
-        "name": "Saint Bruno",
-        "path": "img/art/artworks/vicente-juan-masip-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-bruno-joan-macip-joan-de-joanes/DwETzfpXegidMw"
+        "name": "'Travels with a Donkey in the Cévennes' frontispiece",
+        "path": "img/art/artworks/walter-crane-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/travels-with-a-donkey-in-the-cévennes-frontispiece-crane-walter-1845-1915/1gFLDVcWBuwbhQ"
       },
       {
-        "name": "Christ Carrying the Cross",
-        "path": "img/art/artworks/vicente-juan-masip-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/christ-carrying-the-cross-juan-de-juanes-juan-maçip/mQHe-SE84ArPxQ"
+        "name": "The Lady of Shalott",
+        "path": "img/art/artworks/walter-crane-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-lady-of-shalott-walter-crane-1845–1915-british/gwENEqxMrWcUlw"
+      },
+      {
+        "name": "Title Page [Plate 1]",
+        "path": "img/art/artworks/walter-crane-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/title-page-plate-1-walter-crane/OgGf4sqtS8U98w"
       }
     ],
     "summary": [
-      "Vicente Juan Masip was a Spanish painter of the Renaissance period. He is commonly considered the foremost member of the Valencian school of painters.",
-      "Masip was born i La Font de la Figuera. His father was Vicente Masip, and his son was Vicente Masip Comes, known as Vicent de Joanes, who imitated his style. His two daughters, Dorotea Joanes and Margarita Joanes, were also painters. His most prominent pupil was Nicolas Borras."
+      "Walter Crane was a British artist and book illustrator. He is considered to be the most influential, and among the most prolific, children's book creators of his generation and, along with Randolph Caldecott and Kate Greenaway, one of the strongest contributors to the child's nursery motif that the genre of English children's illustrated literature would exhibit in its developmental stages in the later 19th century.",
+      "Crane's work featured some of the more colourful and detailed beginnings of the child-in-the-garden motifs that would characterize many nursery rhymes and children's stories for decades to come. He was part of the Arts and Crafts movement and produced an array of paintings, illustrations, children's books, ceramic tiles and other decorative arts. Crane is also remembered for his creation of a number of iconic images associated with the international Socialist movement."
     ],
     "quote": null,
-    "movements": ["Renaissance", "Spanish Renaissance"],
-    "mediums": ["Oil paint", "Wood", "Gold", "Drawing", "Gold leaf", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Vicente_Juan_Masip",
-    "urlGoogle": "https://artsandculture.google.com/entity/vicente-juan-masip/m05l2qk"
+    "movements": ["Art Nouveau", "American Renaissance", "Pre-Raphaelite Brotherhood"],
+    "mediums": ["Textile", "Linen", "Silk", "Pen", "Satin", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Walter_Crane",
+    "urlGoogle": "https://artsandculture.google.com/entity/walter-crane/m0378jh"
   },
   "event": {
-    "id": "falklands-war",
-    "name": "Falklands War",
-    "dates": "Apr 2, 1982 - Jun 14, 1982",
-    "mainImg": "img/events/falklands-war.jpg",
+    "id": "eruption-of-mount-vesuvius-in-79-ad",
+    "name": "Eruption of Mount Vesuvius in 79 AD",
+    "dates": null,
+    "mainImg": "img/events/eruption-of-mount-vesuvius-in-79-ad.jpg",
     "summary": [
-      "The Falklands War was a 10-week undeclared war between Argentina and the United Kingdom in 1982 over two British dependent territories in the South Atlantic: the Falkland Islands and its territorial dependency, South Georgia and the South Sandwich Islands.",
-      "The conflict began on 2 April, when Argentina invaded and occupied the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, the British government dispatched a naval task force to engage the Argentine Navy and Air Force before making an amphibious assault on the islands. The conflict lasted 74 days and ended with an Argentine surrender on 14 June, returning the islands to British control. In total, 649 Argentine military personnel, 255 British military personnel, and three Falkland Islanders died during the hostilities.",
-      "The conflict was a major episode in the protracted dispute over the territories' sovereignty. Argentina asserted that the islands are Argentine territory, and the Argentine government thus characterised its military action as the reclamation of its own territory. The British government regarded the action as an invasion of a territory that had been a Crown colony since 1841."
+      "Of the many eruptions of Mount Vesuvius in Italy, the most famous is the eruption in 79 AD. This eruption is one of the deadliest in European history.",
+      "Mount Vesuvius violently spewed forth a deadly cloud of super-heated tephra and gases to a height of 33 km, ejecting molten rock, pulverized pumice and hot ash at 1.5 million tons per second, ultimately releasing 100,000 times the thermal energy of the Hiroshima-Nagasaki bombings. The event gives its name to the Vesuvian type of volcanic eruptions, characterised by eruption columns of hot gases and ash exploding into the stratosphere, although the event also included pyroclastic flows associated with Pelean eruptions.",
+      "Several Roman cities were obliterated and buried underneath massive pyroclastic surges and ashfall deposits, the best known being Pompeii and Herculaneum. After archaeological excavations revealed much about the lives of the inhabitants, the area became a major tourist attraction, and is now a UNESCO World Heritage Site, and part of Vesuvius National Park.",
+      "The total population of both cities was over 20,000."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Falklands_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/falklands-war/m031x2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+    "urlGoogle": "https://artsandculture.google.com/entity/eruption-of-mount-vesuvius-in-79-ad/m0gfh_gg"
   },
   "funFacts": [
     {
-      "id": "936",
-      "fact": "A day on Venus lasts longer than a year on Venus.",
-      "category": ["Science"]
+      "id": "190",
+      "fact": "Thailand means \"Land of the Free.\"",
+      "category": ["Definitions", "Geography"]
     },
+    { "id": "19", "fact": "Children tend to grow faster in the spring.", "category": ["Anatomy"] }
+  ],
+  "funFacts2": [
     {
-      "id": "898",
-      "fact": "The ridges on the sides of coins are called reeding or milling.",
-      "category": ["Definitions"]
+      "id": "553730",
+      "fact": "The world’s oldest surviving piano is at the Metropolitan Museum of Art in New York City. The instrument dates back to 1720, and was made by an Italian man named Bartolomeo Cristofori."
     }
   ],
-  "funFacts2": [{ "id": "506449", "fact": "Sorry, Scotland: Persians invented bagpipes." }],
   "idiom": {
-    "id": "bee-in-ones-bonnet",
-    "term": "bee in one's bonnet",
-    "definition": "A strange idea or notion; also, an idea that is harped on, an obsession. For example, *Bill's got a bee in his bonnet about burglars; he's always imagining strange noises.* This term, which replaced the earlier *have bees in one's head,* transfers the buzzing of a bee inside one's hat to a weird idea in one's head. [Second half of 1600s]"
+    "id": "best-bib-and-tucker",
+    "term": "best bib and tucker",
+    "definition": "One's finest clothes, dressed up, as in *The men were told to put on their best bib and tucker for the dinner dance.* Although wearing either a bib (frill at front of a man's shirt) or a tucker (ornamental lace covering a woman's neck and shoulders) is obsolete, the phrase survives. [Mid-1700s]"
   },
   "person": {
-    "id": "earl-browder",
-    "name": "Earl Browder",
-    "dates": "May 20, 1891 - Jun 27, 1973",
-    "mainImg": "img/people/earl-browder.jpg",
+    "id": "tughril",
+    "name": "Tughril",
+    "dates": "990 AD - Sep 4, 1063",
+    "mainImg": "img/people/tughril.jpg",
     "summary": [
-      "Earl Russell Browder was an American political activist and leader of the Communist Party USA. Browder was the General Secretary of the CPUSA during the 1930s and first half of the 1940s.",
-      "During World War I, Browder served time in federal prison as a conscientious objector to conscription and the war. Upon his release, Browder became an active member of the American Communist movement, soon working as an organizer on behalf of the Communist International and its Red International of Labor Unions in China and the Pacific region.",
-      "In 1930, following the removal of a rival political faction from leadership, Browder was made General Secretary of the CPUSA. For the next 15 years thereafter Browder was the most recognizable public figure associated with American Communism, authoring dozens of pamphlets and books, making numerous public speeches before sometimes vast audiences, and twice running for President of the United States. Browder also took part in activities on behalf of Soviet intelligence in America during his period of party leadership, placing those who sought to convey sensitive information to the party into contact with Soviet intelligence."
+      "Tughril Bey was the Turkoman founder of the Seljuk Empire, ruling from 1037 to 1063. Tughril united the Turkmen warriors of the Great Eurasian Steppes into a confederacy of tribes, who traced their ancestry to a single ancestor named Seljuq, and led them in conquest of eastern Iran. He would later establish the Seljuq Sultanate after conquering Persia and retaking the Abbasid capital of Baghdad from the Buyid dynasty in 1055. Tughril relegated the Abbasid Caliphs to state figureheads and took command of the caliphate's armies in military offensives against the Byzantine Empire and the Fatimid Caliphate in an effort to expand his empire's borders and unite the Islamic world."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Earl_Browder",
-    "urlGoogle": "https://artsandculture.google.com/entity/earl-browder/m038z2b"
+    "urlWiki": "https://en.wikipedia.org/wiki/Tughril",
+    "urlGoogle": "https://artsandculture.google.com/entity/tughril/m02s1_n"
   },
   "place": {
-    "id": "canada",
-    "name": "Canada",
-    "mainImg": "img/places/canada.jpg",
+    "id": "brasilia",
+    "name": "Brasilia",
+    "mainImg": "img/places/brasilia.jpg",
     "summary": [
-      "Canada is a country in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres, making it the world's second-largest country by total area. Its southern border with the United States, stretching 8,891 kilometres, is the world's longest bi-national land border. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.",
-      "Various indigenous peoples inhabited what is now Canada for thousands of years before European colonization. Beginning in the 16th century, British and French expeditions explored and later settled along the Atlantic coast. As a consequence of various armed conflicts, France ceded nearly all of its colonies in North America in 1763. In 1867, with the union of three British North American colonies through Confederation, Canada was formed as a federal dominion of four provinces. This began an accretion of provinces and territories and a process of increasing autonomy from the United Kingdom."
+      "Brasília is the federal capital of Brazil and seat of government of the Federal District. The city is located atop the Brazilian highlands in the country's center-western region. It was founded on April 21, 1960, to serve as the new national capital. Brasília is estimated to be Brazil's third-most populous city. Among major Latin American cities, it has the highest GDP per capita.",
+      "Brasília was planned and developed by Lúcio Costa, Oscar Niemeyer and Joaquim Cardozo in 1956 in a scheme to move the capital from Rio de Janeiro to a more central location. The landscape architect was Roberto Burle Marx. The city's design divides it into numbered blocks as well as sectors for specified activities, such as the Hotel Sector, the Banking Sector, and the Embassy Sector. Brasília was chosen as a UNESCO World Heritage Site due to its modernist architecture and uniquely artistic urban planning. It was named \"City of Design\" by UNESCO in October 2017 and has been part of the Creative Cities Network since then.",
+      "All three branches of Brazil's federal government are centered in the city: executive, legislative and judiciary. Brasília also hosts 124 foreign embassies."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Canada",
-    "urlGoogle": "https://artsandculture.google.com/entity/canada/m0d060g"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+    "urlGoogle": "https://artsandculture.google.com/entity/brasilia/m01hy_"
   },
   "wiki": {
-    "id": "sesame-street",
-    "name": "Sesame Street",
-    "summary": "Sesame Street is an educational American children's television series designed for preschoolers and is recognized as a pioneer of the contemporary standard which combines education and entertainment in children's television shows. Sesame Street is well known for the inclusion of the Muppet characters created by the puppeteer Jim Henson. More than 4,000 episodes of the show have been produced in 36 seasons, which distinguishes it as one of the longest-running shows in television history. The program is produced in the United States by non-profit organization Sesame Workshop, founded by Joan Ganz Cooney and Ralph Rogers; the original series has been televised in 120 countries, and more than 20 international versions have been produced, not including dubs. Sesame Street has received 108 Emmy Awards, more than any other series in television history. An estimated 75 million Americans watched the series as children; millions more have watched around the world, or as parents.",
-    "url": "https://en.wikipedia.org/wiki/Sesame_Street"
+    "id": "concerto-delle-donne",
+    "name": "Concerto delle donne",
+    "summary": "The concerto delle donne was a group of professional female singers in the late Renaissance court of Ferrara, Italy, renowned for their technical and artistic virtuosity. The ensemble was founded by Alfonso II, Duke of Ferrara, in 1580 and was active until the court was dissolved in 1597. Giacomo Vincenti, a music publisher, praised the women as \"virtuose giovani\" (virtuosic youths), echoing the sentiments of contemporaneous diarists and commentators. The concerto delle donne revolutionized the role of women in professional music, and continued the tradition of the Este court as a musical center. Word of the ladies' ensemble spread across Italy, inspiring imitations in the powerful courts of the Medici and Orsini. The founding of the concerto delle donne was the most important event in secular Italian music in the late sixteenth century; the musical innovations established in the court were important in the development of the madrigal, and eventually the seconda pratica.",
+    "url": "https://en.wikipedia.org/wiki/Concerto_delle_donne"
   },
   "word": {
-    "id": "whinge",
-    "word": "whinge",
-    "url": "https://www.merriam-webster.com/dictionary/whinge",
+    "id": "coruscate",
+    "word": "coruscate",
+    "url": "https://www.merriam-webster.com/dictionary/coruscate",
     "partOfSpeech": "verb",
-    "pronunciation": "WINJ",
-    "audioPath": "audio/words/whinge.mp3",
-    "definitions": ["to complain fretfully : whine"],
-    "examples": [
-      "She urged her fellow workers to stop whinging about how they were victims of \"the system\" and to do something to change that system."
+    "pronunciation": "KOR-uh-skayt",
+    "audioPath": "audio/words/coruscate.mp3",
+    "definitions": [
+      "to give off or reflect light in bright beams or flashes : sparkle",
+      "to be brilliant or showy in technique or style"
     ],
-    "origin": "\"Whinge\" isn't just a spelling variant of \"whine.\" \"Whinge\" and \"whine\" are actually entirely different words with separate histories. \"Whine\" traces to an Old English verb, \"hwinan,\" which means \"to make a humming or whirring sound.\" When \"hwinan\" became \"whinen\" in Middle English, it meant \"to wail distressfully\"; \"whine\" didn't acquire its \"complain\" sense until the 16th century. \"Whinge,\" on the other hand, comes from a different Old English verb, \"hwinsian,\" which means \"to wail or moan discontentedly.\" \"Whinge\" retains that original sense today, though nowadays it puts less emphasis on the sound of the complaining and more on the discontentment behind the complaint."
+    "examples": [
+      "The astronomy students observed the _coruscating_ stars through a high-powered telescope.",
+      "\"Down below the Sea of Galilee gleamed, _coruscated_, in the setting biblical sun.\" -- From Justin Cartwright's 2011 book _Other People's Money_"
+    ],
+    "origin": "To help you gain a flash of recognition next time you see \"coruscate\" (or to prompt you when you need a brilliant synonym for \"sparkle\"), remember this bit of bright imagery by George Bernard Shaw, describing a centuries-old abbey: \"O'er this north door a trace still lingers / Of how a Gothic craftsman's fingers / Could make stones creep like ivy stems / And tilings coruscate like gems.\" Or you could just remember that \"coruscate\" developed from Latin \"coruscare,\" which means \"to flash.\" That word also gave us the noun \"coruscation\" (\"glitter\" or \"sparkle\") and the adjective \"coruscant\" (\"shining\" or \"glittering\")."
   }
 }

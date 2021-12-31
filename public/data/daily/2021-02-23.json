@@ -1,134 +1,142 @@
 {
   "artist": {
-    "id": "theodor-kittelsen",
-    "name": "Theodor Kittelsen",
-    "dates": "Apr 27, 1857 - Jan 21, 1914",
-    "mainImg": "img/art/artists/theodor-kittelsen.jpg",
+    "id": "robert-rauschenberg",
+    "name": "Robert Rauschenberg",
+    "dates": "Oct 22, 1925 - May 12, 2008",
+    "mainImg": "img/art/artists/robert-rauschenberg.jpg",
     "artworkImgs": [
       {
-        "name": "Self-Portrait",
-        "path": "img/art/artworks/theodor-kittelsen-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-theodor-kittelsen/AQHQgVMjO160pw"
+        "name": "Untitled",
+        "path": "img/art/artworks/robert-rauschenberg-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-robert-rauschenberg/FwGgCZ70D6DRyw"
       },
       {
-        "name": "Draugen",
-        "path": "img/art/artworks/theodor-kittelsen-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/draugen-theodor-kittelsen/tQH2UebX5N8O5Q"
+        "name": "Wooden Gallop",
+        "path": "img/art/artworks/robert-rauschenberg-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/wooden-gallop-robert-rauschenberg/1gH-gWJe3wmAww"
       },
       {
-        "name": "On the Way to Nordland on Værøy Island",
-        "path": "img/art/artworks/theodor-kittelsen-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/on-the-way-to-nordland-on-værøy-island-theodor-kittelsen/3gEZlbckMBljug"
+        "name": "Collection",
+        "path": "img/art/artworks/robert-rauschenberg-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/collection-robert-rauschenberg/GgEilTJEaVAGKg"
       },
       {
-        "name": "Far, far away Soria Moria Palace shimmered like Gold",
-        "path": "img/art/artworks/theodor-kittelsen-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/far-far-away-soria-moria-palace-shimmered-like-gold-theodor-kittelsen/8QF8WiI1uWc69Q"
+        "name": "Barge",
+        "path": "img/art/artworks/robert-rauschenberg-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/barge-robert-rauschenberg/pQHaMVUY49yEkA"
       },
       {
-        "name": "The twelwe wild Ducks",
-        "path": "img/art/artworks/theodor-kittelsen-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-twelwe-wild-ducks-theodor-kittelsen/gwFdWszsx5-EdQ"
+        "name": "Bellini #3 (detail)",
+        "path": "img/art/artworks/robert-rauschenberg-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/bellini-3-detail-robert-rauschenberg/hwEYHWX58iBpQQ"
       },
       {
-        "name": "The Princess picking Lice from the Troll",
-        "path": "img/art/artworks/theodor-kittelsen-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-princess-picking-lice-from-the-troll-theodor-kittelsen/BQGzdvlSTW4_-Q"
+        "name": "Bellini #1(detail)",
+        "path": "img/art/artworks/robert-rauschenberg-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/bellini-1-detail-robert-rauschenberg/jQHD9UQ98IGUxQ"
       }
     ],
     "summary": [
-      "Theodor Severin Kittelsen was a Norwegian artist. He is one of the most popular artists in Norway. Kittelsen became famous for his nature paintings, as well as for his illustrations of fairy tales and legends, especially of trolls."
+      "Milton Ernest \"Robert\" Rauschenberg was an American painter and graphic artist whose early works anticipated the pop art movement. Rauschenberg is well known for his \"combines\" of the 1950s, in which non-traditional materials and objects were employed in various combinations. Rauschenberg was both a painter and a sculptor, and the combines are a combination of the two, but he also worked with photography, printmaking, papermaking and performance.",
+      "Rauschenberg was awarded the National Medal of Arts in 1993 and the Leonardo da Vinci World Award of Arts in 1995 in recognition of his more than 40 years of artmaking.",
+      "Rauschenberg lived and worked in New York City and on Captiva Island, Florida, until his death from heart failure on May 12, 2008."
     ],
-    "quote": null,
-    "movements": [],
-    "mediums": ["Oil paint", "Drawing", "Pencil", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Theodor_Kittelsen",
-    "urlGoogle": "https://artsandculture.google.com/entity/theodor-kittelsen/m049zz1"
+    "quote": "“There was a whole language that I could never make function for myself in relationship to painting and that was attitudes like tortured, struggle, pain.”",
+    "movements": [
+      "Postmodernism",
+      "Contemporary art",
+      "Abstract expressionism",
+      "Pop art",
+      "Modern art"
+    ],
+    "mediums": ["Oil paint", "Etching", "Textile", "Ink", "Metal", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Rauschenberg",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-rauschenberg/m01sj_s"
   },
   "event": {
-    "id": "1992-united-states-presidential-election",
-    "name": "1992 United States presidential election",
-    "dates": null,
-    "mainImg": "img/events/1992-united-states-presidential-election.jpg",
+    "id": "partition-of-india",
+    "name": "Partition of India",
+    "dates": "Aug 14, 1947 - Aug 15, 1947",
+    "mainImg": "img/events/partition-of-india.jpg",
     "summary": [
-      "The 1992 United States presidential election was the 52nd quadrennial presidential election. It was held on Tuesday, November 3, 1992. Democratic Governor Bill Clinton of Arkansas defeated incumbent Republican President George H. W. Bush, independent businessman Ross Perot of Texas, and a number of minor candidates.",
-      "Bush had alienated many of the conservatives in his party by breaking his 1988 campaign pledge against raising taxes, but he fended off a primary challenge from conservative commentator Pat Buchanan. Bush's popularity after his success in the Gulf War dissuaded high-profile Democratic candidates like Mario Cuomo from entering the 1992 Democratic primaries. Clinton, a leader of the centrist Democratic Leadership Council, established himself as the front-runner for the Democratic nomination by sweeping the Super Tuesday primaries. He defeated former and future Governor of California Jerry Brown, former Massachusetts Senator Paul Tsongas, and other candidates to win his party's nomination, and chose Senator Al Gore as his running mate."
+      "The Partition of India of 1947 was the division of British India into two independent dominion states, India and Pakistan, enacted by the Parliament of the United Kingdom. The two self-governing countries legally came into existence at midnight on 15 August 1947, and would involve the division of two provinces, Bengal and Punjab, based on Muslim and non-Muslim majorities by district. India would go on to become, as it exists today, the Republic of India; while the former Dominion of Pakistan would later split further, into what is now the Islamic Republic of Pakistan and the People's Republic of Bangladesh.",
+      "Outlined in the Indian Independence Act 1947, the partition saw the dissolution of the British Raj, as well as the division of the British Indian Army, the Royal Indian Navy, the Indian Civil Service, railways, and the central treasury. The partition displaced between 10–12 million people along religious lines, thus creating overwhelming refugee crises in the newly-constituted dominions. Large-scale violence would come as result, with estimates of loss of life accompanying or preceding the partition disputed and varying between several hundred thousand and two million."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1992_United_States_presidential_election",
-    "urlGoogle": "https://artsandculture.google.com/entity/1992-united-states-presidential-election/m09vdd"
+    "urlWiki": "https://en.wikipedia.org/wiki/Partition_of_India",
+    "urlGoogle": "https://artsandculture.google.com/entity/partition-of-india/m01n8lh"
   },
   "funFacts": [
     {
-      "id": "770",
-      "fact": "Pistol shrimp can make a noise loud enough to break glass.",
-      "category": ["Animals"]
+      "id": "888",
+      "fact": "In some cultures' telling of Snow White, the dwarves are thieves.",
+      "category": ["Hodgepodge"]
     },
     {
-      "id": "182",
-      "fact": "A rainbow can only be seen in the morning or late afternoon.",
-      "category": ["Science", "Onlies"]
+      "id": "146",
+      "fact": "The smallest county in America is New York County, better known as Manhattan.",
+      "category": ["Geography"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554019",
-      "fact": "Shirley Temple reportedly didn't love her famous curls; she preferred the cropped hairstyle of her hero Amelia Earhart."
+      "id": "504703",
+      "fact": "Ironically, the only member of ZZ Top without a beard has the last name Beard."
     }
   ],
   "idiom": {
-    "id": "greasy-spoon",
-    "term": "greasy spoon",
-    "definition": "A cheap restaurant, especially one serving short-order fried foods. For example, *College students short of cash tend to eat a lot in that greasy spoon.* This expression also implies that the restaurant is not very clean. [c. 1900]"
+    "id": "stamping-ground",
+    "term": "stamping ground",
+    "definition": "Also, **old stamping ground, stomping ground.** A habitual or favorite haunt, as in *Whenever we visit, we go back to our old stamping ground, the drugstore nearest the high school.* This term alludes to a traditional gathering place for horses or cattle, which stamp down the ground with their hooves. [Early 1800s]"
   },
   "person": {
-    "id": "selim-ii",
-    "name": "Selim II",
-    "dates": "May 28, 1524 - December 1574",
-    "mainImg": "img/people/selim-ii.jpg",
+    "id": "ron-kovic",
+    "name": "Ron Kovic",
+    "dates": "Born Jul 4, 1946",
+    "mainImg": "img/people/ron-kovic.jpg",
     "summary": [
-      "Selim II, also known as Sarı Selim or Sarhoş Selim, was the Sultan of the Ottoman Empire from 1566 until his death in 1574. He was a son of Suleiman the Magnificent and his wife Hurrem Sultan. Selim had been an unlikely candidate for the throne until his brother Mehmed died of smallpox, his half-brother Mustafa was strangled to death by the order of his father, his brother Cihangir died of grief at the news of this latter execution, and his brother Bayezid was killed on the order of his father after a rebellion against Selim.",
-      "Selim died on 15 December 1574 and was buried in Hagia Sophia."
+      "Ronald Lawrence Kovic is an American anti-war activist, writer, and former United States Marine Corps sergeant, who was wounded and paralyzed in the Vietnam War. He is best known as the author of his best selling 1976 memoir Born on the Fourth of July, which was made into the Academy Award–winning 1989 film directed by Oliver Stone.",
+      "Kovic received the Golden Globe Award for Best Screenplay on January 20, 1990, 22 years to the day that he was wounded in Vietnam, and was nominated for an Academy Award in the same category."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Selim_II",
-    "urlGoogle": "https://artsandculture.google.com/entity/selim-ii/m06_p3"
+    "quote": "“I served two tours of duty in Vietnam. I won the Bronze Star. I won the Purple Heart.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Ron_Kovic",
+    "urlGoogle": "https://artsandculture.google.com/entity/ron-kovic/m01jc7z"
   },
   "place": {
-    "id": "scotland",
-    "name": "Scotland",
-    "mainImg": "img/places/scotland.jpg",
+    "id": "saint-tropez",
+    "name": "Saint-Tropez",
+    "mainImg": "img/places/saint-tropez.jpg",
     "summary": [
-      "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96 mile border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. In addition, Scotland includes more than 790 islands; principally within the Northern Isles and the Hebrides archipelagos.",
-      "The Kingdom of Scotland emerged as an independent sovereign state in the European Early Middle Ages and continued to exist until 1707. By inheritance in 1603, James VI of Scotland became king of England and Ireland, thus forming a personal union of the three kingdoms. Scotland subsequently entered into a political union with the Kingdom of England on 1 May 1707 to create the new Kingdom of Great Britain. The union also created a new Parliament of Great Britain, which succeeded both the Parliament of Scotland and the Parliament of England. In 1801, the Kingdom of Great Britain entered into a political union with the Kingdom of Ireland to create the United Kingdom of Great Britain and Ireland."
+      "Saint-Tropez is a town on the French Riviera, 68 kilometres west of Nice and 100 kilometres east of Marseille in the Var department of the Provence-Alpes-Côte d'Azur region of Occitania, Southern France.",
+      "Saint-Tropez was a military stronghold and fishing village until the beginning of the 20th century. It was the first town on its coast to be liberated during World War II as part of Operation Dragoon. After the war, it became an internationally known seaside resort, renowned principally because of the influx of artists of the French New Wave in cinema and the Yé-yé movement in music. It later became a resort for the European and American jet set and tourists."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Scotland",
-    "urlGoogle": "https://artsandculture.google.com/entity/scotland/m06q1r"
+    "urlWiki": "https://en.wikipedia.org/wiki/Saint-Tropez",
+    "urlGoogle": "https://artsandculture.google.com/entity/saint-tropez/m03qzkz"
   },
-  "quote": {
-    "id": "93",
-    "quote": "I have never met a man so ignorant that I couldn't learn something from him.",
-    "author": "Galileo"
-  },
+  "quote": { "id": "90", "quote": "The best way out is always through.", "author": "Robert Frost" },
   "wiki": {
-    "id": "military-of-the-democratic-republic-of-the-congo",
-    "name": "Military of the Democratic Republic of the Congo",
-    "summary": "The Armed Forces of the Democratic Republic of Congo (FARDC) is the state military organisation responsible for defending the Democratic Republic of Congo. The FARDC is being rebuilt as part of the peace process which followed the end of the Second Congo War in July 2003. The FARDC is dominated by its land forces but also includes a small air force and a smaller navy. Together the three services may number around 130,000 personnel. In parallel, there is also a presidential force called the Republican Guard. The National Congolese Police (PNC) are not part of the Armed Forces. In general, there is very little coherent information available on the FARDC. The government in the capital city Kinshasa, the United Nations, the European Union, and bilateral partners which include Angola, South Africa, and Belgium are attempting to create a viable force with the ability to provide the DRC with stability and security. However, this process is being hampered by corruption, the near-impotence of the government, and inadequate donor coordination. The various military units now grouped under the FARDC banner are some of the most unstable in Africa after years of war and underfunding.",
-    "url": "https://en.wikipedia.org/wiki/Military_of_the_Democratic_Republic_of_the_Congo"
+    "id": "johnstown-inclined-plane",
+    "name": "Johnstown Inclined Plane",
+    "summary": "The Johnstown Inclined Plane is an 896.5-foot (273.3 m) funicular railway in Johnstown, Cambria County, in the U.S. state of Pennsylvania. The funicular is capable of carrying passengers and automobiles up or down a slope with a grade of 70.9 percent. The incline and its two stations connect the city of Johnstown, situated in a valley at the confluence of the Stonycreek and the Little Conemaugh Rivers, to the borough of Westmont on Yoder Hill. The travel time from one station to the other is 90 seconds. After a catastrophic flood in 1889, the Inclined Plane was constructed in 1891 to serve as an escape route for future floods, a task which it has fulfilled twice; once in 1936 and again in 1977. It was operated by Cambria Iron Company and its successor Bethlehem Steel until 1935, when it was sold to the borough of Westmont. The incline was listed on the National Register of Historic Places in 1973 and was designated a Historic Mechanical Engineering Landmark in 1994. It had major renovations in 1962 and from 1983 to 1984.",
+    "url": "https://en.wikipedia.org/wiki/Johnstown_Inclined_Plane"
   },
   "word": {
-    "id": "wifty",
-    "word": "wifty",
-    "url": "https://www.merriam-webster.com/dictionary/wifty",
+    "id": "agonistic",
+    "word": "agonistic",
+    "url": "https://www.merriam-webster.com/dictionary/agonistic",
     "partOfSpeech": "adjective",
-    "pronunciation": "WIF-tee",
-    "audioPath": "audio/words/wifty.mp3",
-    "definitions": ["eccentrically silly, giddy, or inane : ditzy"],
-    "examples": [
-      "\"Leaf (Joe McCourt), the _wifty_ product of hippie parents, seems to be taken over by aliens each time he spells a word.\" - From a theatre review by Lawrence Toppman in the _Charlotte Observer_, May 11, 2012",
-      "\"The \\[American Idol\\] judges only have to lounge around, and make some _wifty_ comment about the performance.\" - From a column by David Hiltbrand in the _Philadelphia Inquirer_, January 7, 2012"
+    "pronunciation": "ag-uh-NISS-tik",
+    "audioPath": "audio/words/agonistic.mp3",
+    "definitions": [
+      "argumentative",
+      "striving for effect : strained",
+      "of, relating to, or being aggressive or defensive social interaction (as fighting, fleeing, or submitting) between individuals usually of the same species"
     ],
-    "origin": "\"Wifty\" is a synonym of \"ditzy.\" And, like \"ditzy,\" its origins remain unknown. The earliest known print appearance of \"wifty\" is in a quotation that appeared in the _Delaware County Daily Times_ (Chester, Pennsylvania) in 1972, though the word was certainly being used in spoken English before that. \"Ditzy\" appears to be almost as old as \"wifty\"-we are able to trace it back to at least 1974. But \"dizzy,\" which in its Old English origins meant \"foolish\" or \"stupid,\" has been used in a sense similar to \"ditzy\" or \"wifty\" since the 16th century."
+    "examples": [
+      "\"The fulsome praise in the old, residually oral, rhetoric tradition strikes persons from a high-literacy culture as insincere, flatulent, and comically pretentious. But praise goes with the highly polarized, _agonistic_, oral world of good and evil, virtue and vice, villains and heroes.\" - From Walter J. Ong's 1982 book _Orality and Literacy_",
+      "\"As the soloist is repeatedly challenged by peremptory brass, the essential _agonistic_ tension of the concerto grows, ending with the soloist climbing to a high, and one hopes victorious peak, before a sudden cutting off.\" - From a symphony review by Peter McCallum in the _Sydney Morning Herald_ (Australia), May 6, 2013"
+    ],
+    "origin": "\"Agonistic\" has its roots in ancient Greece-specifically in the agonistic (to use the oldest sense of the word) athletic contests called \"[agons](/word-of-the-day/2012/11/01/)\" featured at public festivals. From physical conflict to verbal jousting, \"agonistic\" came to be used as a synonym for \"argumentative\" and later to mean \"striving for effect\" or \"strained.\" Common current use, however, is biological, relating to confrontational interaction among animals of the same species and the responsive behaviors-such as aggression, flight, or submission-they exhibit. \"Agonistic\" is also sometimes used to describe an agonist muscle, a muscle that on contracting is automatically checked and controlled by an opposing muscle, that other muscle being an \"antagonist.\" For example, during a bicep curl in weight lifting, the (contracted) bicep is the agonistic muscle and the (relaxed) triceps muscle is the antagonist."
   }
 }

@@ -1,0 +1,133 @@
+{
+  "artist": {
+    "id": "nandalal-bose",
+    "name": "Nandalal Bose",
+    "dates": "Dec 3, 1882 - Apr 16, 1966",
+    "mainImg": "img/art/artists/nandalal-bose.jpg",
+    "artworkImgs": [
+      {
+        "name": "Sabari in her Youth",
+        "path": "img/art/artworks/nandalal-bose-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/sabari-in-her-youth-nandalal-bose/pgEqnn7b7uT97g"
+      },
+      {
+        "name": "Tiller of the soil",
+        "path": "img/art/artworks/nandalal-bose-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/tiller-of-the-soil-nandalal-bose/VAGGgFyIWLtZ-Q"
+      },
+      {
+        "name": "Rati with her Bow",
+        "path": "img/art/artworks/nandalal-bose-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/rati-with-her-bow-nandalal-bose/xAHTUKKgLlTLSQ"
+      },
+      {
+        "name": "Singawala",
+        "path": "img/art/artworks/nandalal-bose-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/singawala-nandalal-bose/6AGv3J6FHWlcLA"
+      },
+      {
+        "name": "Butter milk churner",
+        "path": "img/art/artworks/nandalal-bose-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/butter-milk-churner-nandalal-bose/IwFASUf08MlMAg"
+      },
+      {
+        "name": "A Lady Artist",
+        "path": "img/art/artworks/nandalal-bose-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-lady-artist-nandalal-bose/6gHRo6cTH6aPNA"
+      }
+    ],
+    "summary": [
+      "Nandalal Bose was one of the pioneers of modern Indian art and a key figure of Contextual Modernism.",
+      "A pupil of Abanindranath Tagore, Bose was known for his \"Indian style\" of painting. He became the principal of Kala Bhavan, Santiniketan in 1922. He was influenced by the Tagore family and the murals of Ajanta; his classic works include paintings of scenes from Indian mythologies, women, and village life.",
+      "Today, many critics consider his paintings among India's most important modern paintings. In 1976, the Archaeological Survey of India, Department of Culture, Govt. of India declared his works among the \"nine artists\" whose work, \"not being antiquities\", were to be henceforth considered \"to be art treasures, having regard to their artistic and aesthetic value\".",
+      "He was given the work of illustrating the constitution of India."
+    ],
+    "quote": null,
+    "movements": [],
+    "mediums": ["Tempera", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Nandalal_Bose",
+    "urlGoogle": "https://artsandculture.google.com/entity/nandalal-bose/m0bsxtb"
+  },
+  "event": {
+    "id": "assassination-of-abraham-lincoln",
+    "name": "Assassination of Abraham Lincoln",
+    "dates": null,
+    "mainImg": "img/events/assassination-of-abraham-lincoln.jpg",
+    "summary": [
+      "Abraham Lincoln, the 16th President of the United States, was assassinated by well-known stage actor John Wilkes Booth on April 14, 1865, while attending the play Our American Cousin at Ford's Theatre in Washington, D.C.",
+      "Shot in the head as he watched the play, Lincoln died the following day at 7:22 am, in the Petersen House opposite the theater. He was the first U.S. president to be assassinated, with his funeral and burial marking an extended period of national mourning.",
+      "Occurring near the end of the American Civil War, the assassination was part of a larger conspiracy intended by Booth to revive the Confederate cause by eliminating the three most important officials of the United States government.",
+      "Conspirators Lewis Powell and David Herold were assigned to kill Secretary of State William H. Seward, and George Atzerodt was tasked with killing Vice President Andrew Johnson.",
+      "Beyond Lincoln's death, the plot failed: Seward was only wounded and Johnson's would-be attacker lost his nerve. After a dramatic initial escape, Booth was killed at the climax of a 12-day manhunt. Powell, Herold, Atzerodt and Mary Surratt were later hanged for their roles in the conspiracy."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln",
+    "urlGoogle": "https://artsandculture.google.com/entity/assassination-of-abraham-lincoln/m0cvfxb"
+  },
+  "funFacts": [
+    {
+      "id": "914",
+      "fact": "A manned rocket can reach the moon in less time than it took a stagecoach to travel the length of England.",
+      "category": ["Science"]
+    },
+    {
+      "id": "46",
+      "fact": "Elephants are the only mammals that can't jump.",
+      "category": ["Animals", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504761",
+      "fact": "At the Wife Carrying World Championships in Finland, first prize is the wife's weight in beer."
+    }
+  ],
+  "person": {
+    "id": "abigail-adams",
+    "name": "Abigail Adams",
+    "dates": "Nov 22, 1744 - Oct 28, 1818",
+    "mainImg": "img/people/abigail-adams.jpg",
+    "summary": [
+      "Abigail Adams was the wife and closest advisor of John Adams, as well as the mother of John Quincy Adams. She is sometimes considered to have been a Founder of the United States, and is now designated as the first Second Lady and second First Lady of the United States, although these titles were not used at the time. She and Barbara Bush are the only two women to be the wife of one U.S. president and the mother of another.",
+      "Adams's life is one of the most documented of the First Ladies: she is remembered for the many letters she wrote to her husband while he stayed in Philadelphia, Pennsylvania, during the Continental Congresses. John frequently sought the advice of Abigail on many matters, and their letters are filled with intellectual discussions on government and politics. Her letters also serve as eyewitness accounts of the American Revolutionary War home front."
+    ],
+    "quote": "“We have too many high-sounding words, and too few actions that correspond with them.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Abigail_Adams",
+    "urlGoogle": "https://artsandculture.google.com/entity/abigail-adams/m0pzh3"
+  },
+  "place": {
+    "id": "peoria",
+    "name": "Peoria",
+    "mainImg": "img/places/peoria.jpg",
+    "summary": [
+      "Peoria is the county seat of Peoria County, Illinois, and the largest city on the Illinois River. As of the 2010 census, the city had a population of 115,007, making it the eighth-most populated in Illinois, the second-largest city in Central Illinois after the state capital, Springfield, and the third largest outside the Chicago metropolitan area. It is the principal city of the Peoria Metropolitan Area in Central Illinois, consisting of the counties of Marshall, Peoria, Stark, Tazewell, and Woodford, which had a population of 373,590 in 2011.",
+      "Established in 1691 by the French explorer Henri de Tonti, Peoria is the oldest European settlement in Illinois. Originally known as Fort Clark, it received its current name when the County of Peoria organized in 1825. The city was named after the Peoria tribe, a member of the Illinois Confederation. On October 16, 1854, Abraham Lincoln made his Peoria speech against the Kansas-Nebraska Act.",
+      "A major port on the Illinois River, Peoria is a trading and shipping center for a large agricultural area that produces maize, soybeans, and livestock."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Peoria,_Illinois",
+    "urlGoogle": "https://artsandculture.google.com/entity/peoria/m0sf9_"
+  },
+  "wiki": {
+    "id": "belarus",
+    "name": "Belarus",
+    "summary": "Belarus is a landlocked country in Eastern Europe. Its capital is Minsk; other major cities include Brest, Grodno (Hrodna), Gomel (Homiel), Mogilev (Mahilyow) and Vitebsk (Viciebsk). Forty percent of its 207,600 km2 (80,200 sq mi) is forested, and its strongest economic sectors are agriculture and manufacturing. Until the 20th century, the lands of modern day Belarus belonged to several countries. The parliament of the republic declared the sovereignty of Belarus on 27 July 1990, and following the collapse of the Soviet Union, Belarus declared independence on 25 August 1991. Alexander Lukashenko has been the country's president since 1994. Under his lead and despite objections from Western governments, Soviet-era policies, such as state ownership of the economy, have been implemented. Most of Belarus's population of 9.85 million reside in the urban areas surrounding Minsk and other voblast (regional) capitals. More than 80% of the population are ethnic Belarusians, with sizable minorities of Russians, Poles and Ukrainians. Since a controversial 1995 referendum, Russian has been an official language alongside Belarusian.",
+    "url": "https://en.wikipedia.org/wiki/Belarus"
+  },
+  "word": {
+    "id": "verdure",
+    "word": "verdure",
+    "url": "https://www.merriam-webster.com/dictionary/verdure",
+    "partOfSpeech": "noun",
+    "pronunciation": "VER-jer",
+    "audioPath": "audio/words/verdure.mp3",
+    "definitions": [
+      "the greenness of growing vegetation; also : such vegetation itself",
+      "a condition of health and vigor"
+    ],
+    "examples": [
+      "\"A city of tropical verdure, \\[Managua is\\] also one of constant reinvention, an essential quality given the wounds that nature has inflicted.\" (Regis St. Louis, _The Miami Herald_, October 19, 2008)"
+    ],
+    "origin": "On this, the Northern Hemisphere's vernal equinox, those of us who've suffered through a long, cold winter welcome the coming verdure. English speakers have had the use of the word \"verdure\" since the 14th century, when it made its way into Middle English from Anglo-French. Like the more common \"verdant,\" the word traces back to Latin \"virēre,\" meaning \"to be green.\" Since the early 16th century, \"verdure\" has also been used to refer to a kind of tapestry with a design based on plant forms. The \"verdure\" that English speakers sometimes encounter on menus is Italian; in that language \"verdure\" refers to green vegetables or to vegetables in general."
+  }
+}

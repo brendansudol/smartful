@@ -1,128 +1,125 @@
 {
   "artist": {
-    "id": "antonio-canova",
-    "name": "Antonio Canova",
-    "dates": "Nov 1, 1757 - Oct 13, 1822",
-    "mainImg": "img/art/artists/antonio-canova.jpg",
+    "id": "yuan-xikun",
+    "name": "Yuan Xikun",
+    "dates": "Born 1944",
+    "mainImg": "img/art/artists/yuan-xikun.jpg",
     "artworkImgs": [
       {
-        "name": "Venus and Adonis",
-        "path": "img/art/artworks/antonio-canova-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/venus-and-adonis-antonio-canova/zQGFqEEJOd2Oig"
+        "name": "William J. Clinton",
+        "path": "img/art/artworks/yuan-xikun-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/william-j-clinton-yuan-xikun/VQHQ2fNjnDOZ3A"
       },
       {
-        "name": "Hebe",
-        "path": "img/art/artworks/antonio-canova-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/hebe-antonio-canova/rQET2YOy2KmrIA"
+        "name": "Tony Blaire",
+        "path": "img/art/artworks/yuan-xikun-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/tony-blaire-yuan-xikun/iwEOi_xDMhFrqQ"
       },
       {
-        "name": "Penitent Magdalene",
-        "path": "img/art/artworks/antonio-canova-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/penitent-magdalene-antonio-canova/dwHsgk8SE39wnA"
+        "name": "Return from Grazing",
+        "path": "img/art/artworks/yuan-xikun-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/return-from-grazing-yuan-xikun/zgHYyJMa3NNTiA"
       },
       {
-        "name": "Hercules and Lichas",
-        "path": "img/art/artworks/antonio-canova-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/hercules-and-lichas-antonio-canova/bwF-umb5LwT0RA"
+        "name": "Guardian of Forest",
+        "path": "img/art/artworks/yuan-xikun-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/guardian-of-forest-yuan-xikun/zwHk9lrxjuhYZw"
       },
       {
-        "name": "Theseus and the Minotaur",
-        "path": "img/art/artworks/antonio-canova-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/theseus-and-the-minotaur-antonio-canova/uAEaxNDwh_qc-A"
+        "name": "Quite Morning",
+        "path": "img/art/artworks/yuan-xikun-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/quite-morning-yuan-xikun/NQHGLO0-x7iSpw"
       },
       {
-        "name": "Dedalus and Icarus",
-        "path": "img/art/artworks/antonio-canova-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/dedalus-and-icarus-antonio-canova/jAFf47V_I4L3bA"
+        "name": "Easy Posing",
+        "path": "img/art/artworks/yuan-xikun-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/easy-posing-yuan-xikun/wwF6nYoIi68S2A"
       }
     ],
     "summary": [
-      "Antonio Canova was an Italian Neoclassical sculptor, famous for his marble sculptures. Often regarded as the greatest of the Neoclassical artists, his sculpture was inspired by the Baroque and the classical revival, and has been characterised as having avoided the melodramatics of the former, and the cold artificiality of the latter."
+      "Yuan Xikun is a Chinese visual artist and environmental activist. In 2011, Yuan proposed building a giant sculpture composed of sand collected from five of earth's continents and water from its Arctic and Antarctic regions to draw attention to ozone depletion and climate change."
     ],
     "quote": null,
-    "movements": ["Neoclassicism"],
-    "mediums": ["Plaster", "Gesso", "Tempera", "Sculpture", "Rock", "Marble"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Antonio_Canova",
-    "urlGoogle": "https://artsandculture.google.com/entity/antonio-canova/m0wg4"
+    "movements": ["Contemporary art"],
+    "mediums": ["Ink", "Oil paint", "Sculpture"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Yuan_Xikun",
+    "urlGoogle": "https://artsandculture.google.com/entity/yuan-xikun/m0_83vtw"
   },
   "event": {
-    "id": "armistice-of-11-november-1918",
-    "name": "Armistice of 11 November 1918",
-    "dates": null,
-    "mainImg": "img/events/armistice-of-11-november-1918.jpg",
+    "id": "sack-of-antwerp",
+    "name": "Sack of Antwerp",
+    "dates": "Nov 4, 1576",
+    "mainImg": "img/events/sack-of-antwerp.jpg",
     "summary": [
-      "The Armistice of 11 November 1918 was the armistice signed at Le Francport near Compiègne that ended fighting on land, sea and air in World War I between the Allies and their opponent, Germany. Previous armistices had been agreed with Bulgaria, the Ottoman Empire and the Austro-Hungarian Empire. Also known as the Armistice of Compiègne from the place where it was signed at 5:45 a.m. by the French Marshal Foch, it came into force at 11:00 a.m. Paris time on 11 November 1918 and marked a victory for the Allies and a defeat for Germany, although not formally a surrender.",
-      "The actual terms, largely written by the Allied Supreme Commander, Marshal Ferdinand Foch, included the cessation of hostilities, the withdrawal of German forces to behind the Rhine, Allied occupation of the Rhineland and bridgeheads further east, the preservation of infrastructure, the surrender of aircraft, warships, and military materiel, the release of Allied prisoners of war and interned civilians, eventual reparations, no release of German prisoners and no relaxation of the naval blockade of Germany."
+      "The Sack of Antwerp, often known as the Spanish Fury at Antwerp, was an episode of the Eighty Years' War. It is the greatest massacre in Belgian history.",
+      "On 4 November 1576, mutinying Spanish tercios of the Army of Flanders began the sack of Antwerp, leading to three days of horror among the population of the city, which was the cultural, economic and financial center of the Low Countries. The savagery of the sack led the provinces of the Low Countries to unite against the Spanish crown. The devastation also caused Antwerp's decline as the leading city in the region and paved the way for Amsterdam's rise."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918",
-    "urlGoogle": "https://artsandculture.google.com/entity/armistice-of-11-november-1918/m039f0c"
+    "urlWiki": "https://en.wikipedia.org/wiki/Sack_of_Antwerp",
+    "urlGoogle": "https://artsandculture.google.com/entity/sack-of-antwerp/m05dl3_"
   },
   "funFacts": [
     {
-      "id": "280",
-      "fact": "The amount of concrete used in the Hoover Dam could build a highway from New York to California.",
-      "category": ["Geography"]
+      "id": "138",
+      "fact": "Hawaii is the only U.S. state that grows coffee commercially.",
+      "category": ["Food", "Geography"]
     },
     {
-      "id": "882",
-      "fact": "In 1859, 24 rabbits were released in Australia. Within 6 years, the population grew to 2 million.",
-      "category": ["Animals"]
+      "id": "332",
+      "fact": "Ohio is the only U.S. state that does not have a rectangular flag.",
+      "category": ["Geography", "Onlies"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "553929",
-      "fact": "A black cat crossing your path (from right to left) is considered good luck in Germany."
-    }
-  ],
+  "funFacts2": [{ "id": "505965", "fact": "A litter of kittens is also known as a “kindle.”" }],
   "idiom": {
-    "id": "fifth-wheel",
-    "term": "fifth wheel",
-    "definition": "An extra and unnecessary person or thing, as in *He was the only one without a date, so he felt like a fifth wheel.* This expression, which alludes to an unneeded wheel on a four-wheel vehicle, may have originated as long ago as 1631, when Thomas Dekker wrote *Match Me in London:* \"Thou tiest but wings to a swift gray Hounds heel, And addest to a running Chariot a fifth wheel.\""
+    "id": "peter-out",
+    "term": "peter out",
+    "definition": "Dwindle or diminish and come to an end, as in *Their enthusiasm soon petered out.* The origin of this usage is unknown, but one authority suggests it may refer to the apostle Peter, whose enthusiastic support of Jesus quickly diminished so that he denied knowing him three times during the night after Jesus's arrest. [Mid-1800s]"
   },
   "person": {
-    "id": "julian-huxley",
-    "name": "Julian Huxley",
-    "dates": "Jun 22, 1887 - Feb 14, 1975",
-    "mainImg": "img/people/julian-huxley.jpg",
+    "id": "liaquat-ali-khan",
+    "name": "Liaquat Ali Khan",
+    "dates": "Oct 1, 1895 - Oct 16, 1951",
+    "mainImg": "img/people/liaquat-ali-khan.jpg",
     "summary": [
-      "Sir Julian Sorell Huxley FRS was an English evolutionary biologist, eugenicist, and internationalist. He was a proponent of natural selection, and a leading figure in the mid-twentieth century modern synthesis. He was secretary of the Zoological Society of London, the first Director of UNESCO, a founding member of the World Wildlife Fund and the first President of the British Humanist Association.",
-      "Huxley was well known for his presentation of science in books and articles, and on radio and television. He directed an Oscar-winning wildlife film. He was awarded UNESCO's Kalinga Prize for the popularisation of science in 1953, the Darwin Medal of the Royal Society in 1956, and the Darwin–Wallace Medal of the Linnaean Society in 1958. He was also knighted in that same year, 1958, a hundred years after Charles Darwin and Alfred Russel Wallace announced the theory of evolution by natural selection. In 1959 he received a Special Award of the Lasker Foundation in the category Planned Parenthood – World Population. Huxley was a prominent member of the British Eugenics Society and was its president from 1959 to 1962."
-    ],
-    "quote": "“Operationally, God is beginning to resemble not a ruler but the last fading smile of a cosmic Cheshire cat.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Julian_Huxley",
-    "urlGoogle": "https://artsandculture.google.com/entity/julian-huxley/m012km4"
-  },
-  "place": {
-    "id": "bucharest",
-    "name": "Bucharest",
-    "mainImg": "img/places/bucharest.jpg",
-    "summary": [
-      "Bucharest is the capital and largest city of Romania, as well as its cultural, industrial, and financial centre. It is located in the southeast of the country, at 44°25′57″N 26°06′14″E, on the banks of the Dâmbovița River, less than 60 km north of the Danube River and the Bulgarian border.",
-      "Bucharest was first mentioned in documents in 1459. It became the capital of Romania in 1862 and is the centre of Romanian media, culture, and art. Its architecture is a mix of historical, interbellum, communist era and modern. In the period between the two World Wars, the city's elegant architecture and the sophistication of its elite earned Bucharest the nickname of 'Paris of the East' or 'Little Paris'. Although buildings and districts in the historic city centre were heavily damaged or destroyed by war, earthquakes, and even Nicolae Ceaușescu's program of systematization, many survived and have been renovated. In recent years, the city has been experiencing an economic and cultural boom. It is one of the fastest-growing high-tech cities in Europe, according to Financial Times, CBRE, TechCrunch, and others. UiPath, a global startup founded in Bucharest, has reached $7 billion in valuation."
+      "Nawabzada Liaquat Ali Khan, widely known as Quaid-e-Millat and Shaheed-e-Millat, was a Pakistani politician who was one of the leading founding fathers of Pakistan, statesman, lawyer, and political theorist who became the first Prime Minister of Pakistan; he also held cabinet portfolio as the first foreign, defence, and the frontier regions minister from 1947 until his assassination in 1951. Prior to the partition, Khan briefly tenured as the first finance minister in the interim government led by its Governor General Mountbatten.",
+      "He was born into an influential aristocratic Muslim family in Karnal, Eastern Punjab on 1 October 1895. Liaquat Ali Khan was educated at the Aligarh Muslim University in India, and then at Oxford University in the United Kingdom. Well-educated, he was a democratic political theorist who promoted parliamentarism in India. After first being invited by the Congress Party, he opted for the Muslim League led by influential Mohammad Ali Jinnah who was advocating the eradication of the injustices and ill-treatment meted out to Indian Muslims by the British government."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bucharest",
-    "urlGoogle": "https://artsandculture.google.com/entity/bucharest/m096gm"
+    "urlWiki": "https://en.wikipedia.org/wiki/Liaquat_Ali_Khan",
+    "urlGoogle": "https://artsandculture.google.com/entity/liaquat-ali-khan/m02cd8j"
+  },
+  "place": {
+    "id": "geneva",
+    "name": "Geneva",
+    "mainImg": "img/places/geneva.jpg",
+    "summary": [
+      "Geneva is the second-most populous city in Switzerland and the most populous city of Romandy, the French-speaking part of Switzerland. Situated where the Rhône exits Lake Geneva, it is the capital of the Republic and Canton of Geneva.",
+      "The municipality has a population of 201,818, and the canton has 499,480 residents. In 2014, the compact agglomération du Grand Genève had 946,000 inhabitants in 212 communities in both Switzerland and France. Within Swiss territory, the commuter area named \"Métropole lémanique\" contains a population of 1.26 million. This area is essentially spread east from Geneva towards the Riviera area and north-east towards Yverdon-les-Bains, in the neighbouring canton of Vaud.",
+      "Geneva is a global city, a financial centre, and a worldwide centre for diplomacy due to the presence of numerous international organizations, including the headquarters of many agencies of the United Nations and the Red Cross. Geneva hosts the highest number of international organizations in the world. It is also where the Geneva Conventions were signed, which chiefly concern the treatment of wartime non-combatants and prisoners of war."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Geneva",
+    "urlGoogle": "https://artsandculture.google.com/entity/geneva/m03902"
   },
   "wiki": {
-    "id": "louis-riel",
-    "name": "Louis Riel",
-    "summary": "Louis Riel was a Canadian politician and leader of the Métis people of western Canada. He led two resistance movements against the Canadian government that sought to preserve Métis rights and culture as their homelands came under the Canadian sphere of influence. During the first, the Red River Rebellion, the provisional government established by Riel ultimately negotiated the terms under which the modern province of Manitoba entered the Canadian Confederation. He was forced into exile as a result of the controversial execution of Thomas Scott, but in 1884 he returned to what is now the province of Saskatchewan to participate in the North-West Rebellion of 1885. It ended in his arrest, trial and eventual execution for treason. Riel was viewed sympathetically in francophone regions of Canada, and his execution has had a lasting influence on relations between the province of Quebec and English-speaking Canada. Whether he is seen as a de facto Father of Confederation or as a traitor, he remains one of the most complex, controversial and ultimately tragic figures in the history of Canada.",
-    "url": "https://en.wikipedia.org/wiki/Louis_Riel"
+    "id": "the-political-cesspool",
+    "name": "The Political Cesspool",
+    "summary": "The Political Cesspool is a weekly talk radio show founded by James Edwards, and syndicated by Liberty News Radio Network and Accent Radio Network. First broadcast in October 2004 twice a week from radio station WMQM, it is broadcast on Saturday nights on WLRM, a Christian radio station in Millington, Tennessee. Its sponsors include the white separatist Council of Conservative Citizens and the Institute for Historical Review, a Holocaust denial group. According to its statement of principles, the show stands for the \"Dispossessed Majority\" and represents \"a philosophy that is pro-White.\" It has attracted criticism from multiple organizations for its promotion of anti-semitic, white nationalist and white supremacist views. The show features Edwards and his co-hosts Bill Rolen, Winston Smith, Keith Alexander, and Eddie Miller, as well as producer Art Frith. Its guests have included author Jerome Corsi, Minuteman Project leader Jim Gilchrist, former Constitution Party presidential candidate Michael Peroutka, actor Sonny Landham, British National Party leader Nick Griffin, Vermont secessionist Thomas Naylor, and paleoconservative activist Pat Buchanan.",
+    "url": "https://en.wikipedia.org/wiki/The_Political_Cesspool"
   },
   "word": {
-    "id": "neologism",
-    "word": "neologism",
-    "url": "https://www.merriam-webster.com/dictionary/neologism",
-    "partOfSpeech": "noun",
-    "pronunciation": "nee-AH-luh-jiz-um",
-    "audioPath": "audio/words/neologism.mp3",
-    "definitions": ["a new word, usage, or expression", "a meaningless word coined by a psychotic"],
+    "id": "bosky",
+    "word": "bosky",
+    "url": "https://www.merriam-webster.com/dictionary/bosky",
+    "partOfSpeech": "adjective",
+    "pronunciation": "BAH-skee",
+    "audioPath": "audio/words/bosky.mp3",
+    "definitions": ["having abundant trees or shrubs", "of or relating to a woods"],
     "examples": [
-      "The novelist’s latest book is peppered with numerous slang words and neologisms that might not be familiar to some readers."
+      "As we drove away from the city, apartment buildings gave way to homes with yards, then at last to a _bosky_ landscape dominated by tall pines.",
+      "\"In 1863, when two brothers were abducted by armed gangsters and marched into a forest, their appeal to a local saint resulted in their abductors letting them go. Amusingly, though, the artist's skill extends only to the most crucial details: the blindfold, the guns, the _bosky_ scene.\"-From an article by Jenny Gilbert in _The Independent_ (London), November 20, 2011"
     ],
-    "origin": "The English language is constantly picking up neologisms. Recently, for example, computer technology has added a number of new terms to the language. \"Webinar,\" \"malware,\" \"netroots,\" and \"blogosphere\" are just a few examples of modern-day neologisms that have been integrated into American English. The word \"neologism\" was itself a brand-new coinage at the beginning of the 19th century, when English speakers first borrowed it from the French \"nèologisme.\" Its roots, however, are quite old. Ultimately, \"neologism\" comes from Greek \"neos\" (meaning \"new\") and \"logos\" (meaning \"word\")."
+    "origin": "\"Bosk,\" \"busk,\" \"bush\"-in Middle English these were all variant spellings of a word meaning \"shrub.\" \"Bush\" is still familiar to the modern ear, and \"busk\" can still be heard in a few places in the dialects of northern Britain. \"Bosk\" too survived in English dialects, although it disappeared from the written language, and in the early 17th century it provided the root for the woodsy adjective \"bosky.\" Since its formation, \"bosky\" has been firmly rooted in our language, and its widespread popularity seems to have resurrected its parental form. By 1815 \"bosk\" (also spelled \"bosque\") had reappeared in writing, but this time with the meaning \"a small wooded area.\""
   }
 }

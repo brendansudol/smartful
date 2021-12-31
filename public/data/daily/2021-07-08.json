@@ -1,138 +1,132 @@
 {
   "artist": {
-    "id": "clyfford-still",
-    "name": "Clyfford Still",
-    "dates": "Nov 30, 1904 - Jun 23, 1980",
-    "mainImg": "img/art/artists/clyfford-still.jpg",
+    "id": "elisabeth-vigee-le-brun",
+    "name": "Élisabeth Vigée Le Brun",
+    "dates": "Apr 16, 1755 - Mar 30, 1842",
+    "mainImg": "img/art/artists/elisabeth-vigee-le-brun.jpg",
     "artworkImgs": [
       {
-        "name": "PH-118",
-        "path": "img/art/artworks/clyfford-still-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/ph-118-clyfford-still/qAHiNE2K8pPMNQ"
+        "name": "Marie-Antoinette, Queen of France",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-antoinette-queen-of-france-elisabeth-vigée-le-brun/tAEhw_2KvIWeXQ"
       },
       {
-        "name": "PH-960",
-        "path": "img/art/artworks/clyfford-still-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/ph-960-clyfford-still/bAEaHnJs9pVCjA"
+        "name": "Marie-Antoinette with the Rose",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-antoinette-with-the-rose-louise-elisabeth-vigée-lebrun/qwHgKqLoAQb9FQ"
       },
       {
-        "name": "PH-1074",
-        "path": "img/art/artworks/clyfford-still-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/ph-1074-clyfford-still/_QFziKqQ5eHr1Q"
+        "name": "Marie-Antoinette de Lorraine-Habsbourg, queen of France, and her children",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-antoinette-de-lorraine-habsbourg-queen-of-france-and-her-children-elisabeth-louise-vigée-lebrun/RQE3s9ANo6GnTg"
       },
       {
-        "name": "PH-385",
-        "path": "img/art/artworks/clyfford-still-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/ph-385-clyfford-still/QQF3mouDwqfegw"
+        "name": "Madame Grand (Noël Catherine Vorlée, 1761–1835)",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/madame-grand-noël-catherine-vorlée-1761–1835-élisabeth-louise-vigée-le-brun/WgH6erQsCpS08A"
       },
       {
-        "name": "PH-77",
-        "path": "img/art/artworks/clyfford-still-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/ph-77-clyfford-still/8QGjXZ5mgpfUCw"
+        "name": "Madame Grand (Noël Catherine Vorlée, 1761–1835)",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/madame-grand-noël-catherine-vorlée-1761–1835-élisabeth-louise-vigée-le-brun/VgGVzbNUlGoZmQ"
       },
       {
-        "name": "PH-129",
-        "path": "img/art/artworks/clyfford-still-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/ph-129-clyfford-still/FwHVp26mrlpKfQ"
+        "name": "Marie-Antoinette, Queen of France",
+        "path": "img/art/artworks/elisabeth-vigee-le-brun-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-antoinette-queen-of-france-anonymous-after-elisabeth-louise-vigée-le-brun/UgFU_zbdIEfGkA"
       }
     ],
     "summary": [
-      "Clyfford Still was an American painter, and one of the leading figures in the first generation of Abstract Expressionists, who developed a new, powerful approach to painting in the years immediately following World War II. Still has been credited with laying the groundwork for the movement, as his shift from representational to abstract painting occurred between 1938 and 1942, earlier than his colleagues like Jackson Pollock and Mark Rothko, who continued to paint in figurative-surrealist styles well into the 1940s."
+      "Élisabeth Louise Vigée Le Brun, also known as Madame Le Brun, was a prominent French portrait painter of the late 18th century.",
+      "Her artistic style is generally considered part of the aftermath of Rococo with elements of an adopted Neoclassical style. Her subject matter and color palette can be classified as Rococo, but her style is aligned with the emergence of Neoclassicism. Vigée Le Brun created a name for herself in Ancien Régime society by serving as the portrait painter to Marie Antoinette. She enjoyed the patronage of European aristocrats, actors, and writers, and was elected to art academies in ten cities.",
+      "Vigée Le Brun created some 660 portraits and 200 landscapes. In addition to many works in private collections, her paintings are owned by major museums, such as the Louvre, Hermitage Museum, National Gallery in London, Metropolitan Museum of Art in New York, and many other collections in continental Europe and the United States."
     ],
     "quote": null,
-    "movements": [
-      "Modern art",
-      "Abstract expressionism",
-      "Color field",
-      "Abstract art",
-      "Surrealism",
-      "Contemporary art"
-    ],
-    "mediums": ["Oil paint", "Drawing", "Watercolor painting", "Sculpture", "Wood", "Charcoal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Clyfford_Still",
-    "urlGoogle": "https://artsandculture.google.com/entity/clyfford-still/m016zwd"
+    "movements": ["Neoclassicism", "Rococo", "Renaissance"],
+    "mediums": ["Oil paint", "Etching", "Engraving", "Wood", "Ink", "Oak"],
+    "urlWiki": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun",
+    "urlGoogle": "https://artsandculture.google.com/entity/élisabeth-vigée-le-brun/m02q0w"
   },
   "event": {
-    "id": "united-states-presidential-election-2012",
-    "name": "United States presidential election, 2012",
+    "id": "battle-of-cocos",
+    "name": "Battle of Cocos",
     "dates": null,
-    "mainImg": "img/events/united-states-presidential-election-2012.jpg",
+    "mainImg": "img/events/battle-of-cocos.jpg",
     "summary": [
-      "The 2012 United States presidential election was the 57th quadrennial presidential election, held on Tuesday, November 6, 2012. The Democratic nominee, President Barack Obama, and his running mate, Vice President Joe Biden, were elected to a second term. They defeated the Republican ticket of businessman and former Governor Mitt Romney of Massachusetts and Representative Paul Ryan of Wisconsin.",
-      "As the incumbent president, Obama secured the Democratic nomination with no serious opposition. The Republicans experienced a competitive primary. Romney was consistently competitive in the polls and won the support of many party leaders, but he faced challenges from a number of more conservative contenders. Romney clinched his party's nomination in May, defeating Rick Santorum, Newt Gingrich, and other candidates.",
-      "The campaigns focused heavily on domestic issues, and debate centered largely around sound responses to the Great Recession. Other issues included long-term federal budget issues, the future of social insurance programs, and the Affordable Care Act, Obama's marquee legislative program."
+      "The Battle of Cocos was a single-ship action that occurred on 9 November 1914, after the Australian light cruiser HMAS Sydney responded to an attack on a communications station at Direction Island by the German light cruiser SMS Emden.",
+      "After the retreat of the German East Asia Squadron from south-east Asia, Emden remained behind to function as a commerce raider. During a two-month period, the German cruiser captured or sank 25 civilian vessels, shelled Madras, and destroyed two Allied warships at Penang. In early November, von Müller decided to attack the communications station at Direction Island, in the Cocos Islands, to hamper Allied communications and frustrate the search for his ship. Around the same time, a convoy of Europe-bound transports carrying Australian and New Zealand soldiers departed from Albany, Western Australia, with HMAS Melbourne, HMAS Sydney, HMS Minotaur, and Japanese battlecruiser Ibuki escorting.",
+      "During the night of 8–9 November, Emden reached the islands, and sent a party ashore at around 06:00 to disable the wireless and cable transmission station on Direction Island. The station was able to transmit a distress call before it was shut down."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election",
-    "urlGoogle": "https://artsandculture.google.com/entity/united-states-presidential-election-2012/m0g4_c19"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Cocos",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-cocos/m05ngc4"
   },
   "funFacts": [
     {
-      "id": "186",
-      "fact": "A female kangaroo is called a flyer.",
-      "category": ["Animals", "Definitions"]
+      "id": "124",
+      "fact": "Seals sleep only one and a half minutes at a time.",
+      "category": ["Animals", "Onlies"]
     },
     {
-      "id": "191",
-      "fact": "Popcorn was invented by the American Indians.",
-      "category": ["Food", "History"]
+      "id": "71",
+      "fact": "There is a town called \"Big Ugly\" in West Virginia.",
+      "category": ["Geography"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553652",
-      "fact": "In 1998, a Georgia student was suspended for wearing a Pepsi shirt to \"Coke in Education Day.\""
+      "id": "554033",
+      "fact": "The Antikythera mechanism, discovered by sponge divers in 1900, is sometimes called the world's first analog computer. Designed to calculate dates and predict astronomical phenomena, it was so advanced nothing surpassed it for almost 1500 years."
     }
   ],
   "idiom": {
-    "id": "champ-at-the-bit",
-    "term": "champ at the bit",
-    "definition": "Show impatience at being held back or delayed, as in *The dismissal bell hadn't rung, but they were champing at the bit to leave.* This term transfers the action of a horse that impatiently bites the bit in its mouth to human behavior. [Mid-1600s]"
+    "id": "sing-for-ones-supper",
+    "term": "sing for one's supper",
+    "definition": "Work for one's pay or reward, as in *Entertaining visiting scientists is part of the job; you know I have to sing for my supper:* This metaphoric term alludes to wandering minstrels who performed in taverns and were paid with a meal. First recorded in 1609, it gained currency with the familiar nursery rhyme, \"Little Tommy Tucker, sings for his supper\" (c. 1744)."
   },
   "person": {
-    "id": "mohammad-reza-pahlavi",
-    "name": "Mohammad Reza Pahlavi",
-    "dates": "Oct 26, 1919 - Jul 27, 1980",
-    "mainImg": "img/people/mohammad-reza-pahlavi.jpg",
+    "id": "diane-abbott",
+    "name": "Diane Abbott",
+    "dates": "Born Sep 27, 1953",
+    "mainImg": "img/people/diane-abbott.jpg",
     "summary": [
-      "Mohammad Reza Pahlavi, also known as Mohammad Reza Shah, was the last Shah of Iran from 16 September 1941 until his overthrow in the Iranian Revolution on 11 February 1979. Due to his status as the last Shah of Iran, he is often known as simply the Shah.",
-      "Mohammad Reza Shah took the title Shahanshah on 26 October 1967. He was the second and last monarch of the House of Pahlavi. Mohammad Reza Shah Pahlavi held several other titles, including that of Aryamehr and Bozorg Arteshtaran. His dream of what he referred to as a \"Great Civilisation\" in Iran led to a rapid industrial and military modernisation, as well as economic and social reforms.",
-      "Mohammad Reza came to power during World War II after an Anglo-Soviet invasion forced the abdication of his father, Reza Shah Pahlavi. During Mohammad Reza's reign, the British owned oil industry was briefly nationalized by Iranian Prime Minister Mohammad Mosaddegh until a UK- and US-backed coup d'état deposed Mosaddegh and brought back foreign oil firms under the Consortium Agreement of 1954."
+      "Diane Julie Abbott is a British politician who served as the Shadow Home Secretary in the Shadow Cabinet of Jeremy Corbyn from 2016 to 2020. She has been the Member of Parliament for Hackney North and Stoke Newington since 1987. As a member of the Labour Party, she has held various positions in successive Shadow Cabinets; she was the country's first black female MP and is the longest-serving black MP in the House of Commons.",
+      "Born in Paddington to a British Jamaican family, Abbott studied History at Newnham College, Cambridge. She worked in the civil service and as a reporter for Thames Television and TV-am before becoming a press officer for the Greater London Council. Joining Labour, she was elected to Westminster City Council in 1982 and then as an MP in 1987, being re-elected in the 1992, 1997, 2001, 2005, 2010, 2015, 2017 and 2019 general elections. She has faced disproportionate sexism and racism as a public figure, individually receiving almost half of all abusive tweets directed at women MPs during the 2017 election campaign."
     ],
-    "quote": "“Shah is a kind of magic word with the Persian people.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi",
-    "urlGoogle": "https://artsandculture.google.com/entity/mohammad-reza-pahlavi/m01fpnr"
+    "quote": "“My mother liked Jim Reeves. I hated his records. He was unbearable.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Diane_Abbott",
+    "urlGoogle": "https://artsandculture.google.com/entity/diane-abbott/m0kmws"
   },
   "place": {
-    "id": "spokane",
-    "name": "Spokane",
-    "mainImg": "img/places/spokane.jpg",
+    "id": "semarang",
+    "name": "Semarang",
+    "mainImg": "img/places/semarang.jpg",
     "summary": [
-      "Spokane is a city in Spokane County in the state of Washington in the northwestern United States. It is located in eastern Washington along the Spokane River adjacent to the Selkirk Mountains and west of the Rocky Mountain foothills—92 miles south of the Canada–US border, 18 miles west of the Washington–Idaho border, and 279 miles east of Seattle along Interstate 90.",
-      "Known as the birthplace of Father's Day, Spokane's official nickname is the \"Lilac City\". A pink, double flower cultivar of the common lilac, known as Syringa vulgaris 'Spokane', is named for the city. It is the seat of Spokane County and the economic and cultural center of the Spokane metropolitan area, the Spokane–Coeur d'Alene combined statistical area, and the Inland Northwest. The city, along with the whole Inland Northwest, is served by Spokane International Airport, 5 miles west of downtown Spokane. According to the 2010 Census, Spokane had a population of 208,916, making it the second-largest city in Washington, and the 100th-largest city in the United States. In 2019, the United States Census Bureau estimated the city's population at 222,081 and the population of the Spokane Metropolitan Area at 573,493."
+      "Semarang is the capital and largest city of Central Java province in Indonesia. A major port during the Dutch colonial era, and still an important regional centre and port today. The city has been named as the cleanest tourist destination in Southeast Asia by the ASEAN Clean Tourist City Standard for the year of 2020 to 2022.",
+      "It has an area of 373.78 square kilometres and is located at 6°58′S 110°25′E. The population of the city is approximately 1.8 million people, making it Indonesia's seventh most populous city after Jakarta, Surabaya, Bandung, Bekasi, Medan, and Tangerang. The built-up urban area had 3,183,516 inhabitants at the 2010 census spread on 2 cities and 26 districts. The Semarang metropolitan area has a population of close to 6 million. Population of the city is predominantly Javanese with significant Chinese population."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Spokane,_Washington",
-    "urlGoogle": "https://artsandculture.google.com/entity/spokane/m010v8k"
+    "urlWiki": "https://en.wikipedia.org/wiki/Semarang",
+    "urlGoogle": "https://artsandculture.google.com/entity/semarang/m0496mh"
   },
   "wiki": {
-    "id": "gregory-of-nazianzus",
-    "name": "Gregory of Nazianzus",
-    "summary": "Gregory of Nazianzus was a 4th century Christian bishop of Constantinople. He is widely considered the most accomplished rhetorical stylist of the patristic age. As a classically trained speaker and philosopher he infused Hellenism into the early church, establishing the paradigm of Byzantine theologians and church officials. Gregory made a significant impact on the shape of Trinitarian theology among both Greek-speaking and Latin-speaking theologians, and he is remembered as the \"Trinitarian Theologian\". Much of his theological work continues to influence modern theologians, especially in regard to the relationship among the three persons of the Trinity. Along with two brothers, Basil the Great and Gregory of Nyssa, he is known as one of the Cappadocian Fathers. Gregory is honored as a saint in both Eastern and Western Christianity. In the Roman Catholic Church he is among the Doctors of the Church; in Eastern Orthodoxy and the Eastern Catholic Churches he is revered as one of the Three Holy Hierarchs along with Basil of Caesarea and John Chrysostom.",
-    "url": "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus"
+    "id": "extratropical-cyclone",
+    "name": "Extratropical cyclone",
+    "summary": "Extratropical cyclones are one part of the broader family of cyclones. They are defined as synoptic scale low pressure weather systems that occur in the middle latitudes of the Earth, having neither tropical nor polar characteristics, and are connected with fronts and horizontal gradients in temperature and dew point otherwise known as \"baroclinic zones\". Extratropical cyclones are the everyday phenomena which, along with anticyclones, drive the weather over much of the Earth, producing weather ranging from cloudiness and mild showers, to heavy gales and thunderstorms. Extratropical cyclones form anywhere within the extratropical regions of the Earth (usually between 30° and 60° latitude from the equator) in one of two ways; either through cyclogenesis or extratropical transition.",
+    "url": "https://en.wikipedia.org/wiki/Extratropical_cyclone"
   },
   "word": {
-    "id": "cabbage",
-    "word": "cabbage",
-    "url": "https://www.merriam-webster.com/dictionary/cabbage",
-    "partOfSpeech": "verb",
-    "pronunciation": "KAB-ij",
-    "audioPath": "audio/words/cabbage.mp3",
-    "definitions": ["steal, filch"],
+    "id": "leonine",
+    "word": "leonine",
+    "url": "https://www.merriam-webster.com/dictionary/leonine",
+    "partOfSpeech": "adjective",
+    "pronunciation": "LEE-uh-nyne",
+    "audioPath": "audio/words/leonine.mp3",
+    "definitions": ["of, relating to, suggestive of, or resembling a lion"],
     "examples": [
-      "In the late 18th-century play _The Reconciliation_, Mrs. Grim confesses that she \"now and then _cabbaged_ a penny.\"",
-      "\"He _cabbaged_ parts from sources that ranged from an old washing machine wringer to the cam shaft from a six-cylinder Chevrolet engine.\" -- From an article by Larry Porter in the _Omaha World-Herald_, March 20, 2005"
+      "\"The world wanders into many strange by-paths of affection. The love of a mother for her children is dominant, _leonine_, selfish, and unselfish.\" -- From Theodore Dreiser's 1912 novel _The Financier_",
+      "\"At 72, the _leonine_ pianist \\[McCoy Tyner\\] didn't make the instrument shudder as he did earlier in his career. But, at its best, his set still produced more sound and fury, more brilliant colors and bursts of dissonance, than most of his peers could match.\" -- From a review by Howard Reich in the _Chicago Tribune_, December 21, 2011"
     ],
-    "origin": "Does the \"filching\" meaning of \"cabbage\" bring to mind an image of thieves sneaking out of farm fields with armloads of pilfered produce? If so, you're in for a surprise. Today's featured word has nothing to do with the leafy vegetable. It originally referred to the practice among tailors of pocketing part of the cloth given to them to make garments. The verb was cut from the same cloth as an older British noun \"cabbage,\" which meant \"pieces of cloth left in cutting out garments and traditionally kept by tailors as perquisites.\" Both of those ethically questionable \"cabbages\" probably derived from \"cabas,\" the Middle French word for \"cheating or theft.\" The \"cabbage\" found in cole slaw, on the other hand, comes from Middle English \"caboche,\" which means \"head.\""
+    "origin": "\"Leonine\" derives from Latin \"leo,\" meaning \"lion,\" which in turn comes from Greek \"lēon.\" \"Lēon\" gave us an interesting range of words: \"leopard\" (which is \"lēon\" combined with \"pardos,\" a Greek word for a panther-like animal); \"dandelion\" (which came by way of the Anglo-French phrase \"dent de lion\" -- literally, \"lion's tooth\"); and \"chameleon\" (which uses the combining form from Greek that means \"on the ground\"); as well as the names \"Leon\" and \"Leonard.\" But the dancer's and gymnast's leotard is not named for its wearer's cat-like movements. Rather, it was simply named after its inventor, Jules Leotard, a 19th-century French aerial gymnast."
   }
 }

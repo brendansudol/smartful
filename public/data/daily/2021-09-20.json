@@ -1,133 +1,131 @@
 {
   "artist": {
-    "id": "franz-xaver-winterhalter",
-    "name": "Franz Xaver Winterhalter",
-    "dates": "Apr 20, 1805 - Jul 8, 1873",
-    "mainImg": "img/art/artists/franz-xaver-winterhalter.jpg",
+    "id": "jean-baptiste-pater",
+    "name": "Jean-Baptiste Pater",
+    "dates": "Dec 29, 1695 - Jul 25, 1736",
+    "mainImg": "img/art/artists/jean-baptiste-pater.jpg",
     "artworkImgs": [
       {
-        "name": "Portrait of Empress Eugénie",
-        "path": "img/art/artworks/franz-xaver-winterhalter-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-empress-eugénie-franz-xaver-winterhalter/MQFuNZHmji9ZOA"
+        "name": "Gathering in a Park",
+        "path": "img/art/artworks/jean-baptiste-pater-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/gathering-in-a-park/WgEnQ3TfYa-xkQ"
       },
       {
-        "name": "Countess Alexander Nikolaevitch Lamsdorff (Maria Ivanovna Beck, 1835–1866)",
-        "path": "img/art/artworks/franz-xaver-winterhalter-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/countess-alexander-nikolaevitch-lamsdorff-maria-ivanovna-beck-1835–1866-franz-xaver-winterhalter/CwFUhIZcPyGgJQ"
+        "name": "Fête Champêtre",
+        "path": "img/art/artworks/jean-baptiste-pater-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/fête-champêtre-jean-baptiste-joseph-pater/nAFgdbLhROs6Cw"
       },
       {
-        "name": "Florinda",
-        "path": "img/art/artworks/franz-xaver-winterhalter-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/florinda-franz-xaver-winterhalter/cgGFlpirJaHx1g"
+        "name": "A Pastoral Concert",
+        "path": "img/art/artworks/jean-baptiste-pater-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-pastoral-concert-jean-baptiste-pater/3AGJFmMxGYCvcQ"
       },
       {
-        "name": "Franz Xaver and Herman Winterhalter",
-        "path": "img/art/artworks/franz-xaver-winterhalter-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/franz-xaver-and-herman-winterhalter-franz-xaver-winterhalter/hwH2uttzqxJSkw"
+        "name": "Rest in the Park (Le Repos dans le parc)",
+        "path": "img/art/artworks/jean-baptiste-pater-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/rest-in-the-park-le-repos-dans-le-parc-jean-baptiste-pater/RAFVX0YlqWriow"
       },
       {
-        "name": "Empress Eugénie",
-        "path": "img/art/artworks/franz-xaver-winterhalter-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/empress-eugénie-franz-xaver-winterhalter/rAFIV4LaVOr9EA"
+        "name": "The Fortune Teller",
+        "path": "img/art/artworks/jean-baptiste-pater-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-fortune-teller-jean-baptiste-joseph-pater/PAFsqzr7L5_cpw"
       },
       {
-        "name": "Portrait of Lydia Schabelsky, Baroness Staël-Holstein",
-        "path": "img/art/artworks/franz-xaver-winterhalter-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-lydia-schabelsky-baroness-staël-holstein-franz-xaver-winterhalter/dwFTXqHNR9ljcQ"
+        "name": "The Golden Age",
+        "path": "img/art/artworks/jean-baptiste-pater-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-golden-age-jean-baptiste-joseph-pater/zQFL_c8ESxCwMA"
       }
     ],
     "summary": [
-      "Franz Xaver Winterhalter was a German painter and lithographer, known for his flattering portraits of royalty and upper-class society in the mid-19th century. His name has become associated with fashionable court portraiture. Among his best known works are Empress Eugénie Surrounded by her Ladies in Waiting and the portraits he made of Empress Elisabeth of Austria."
+      "Jean-Baptiste Pater was a French rococo painter.",
+      "Born in Valenciennes, Pater was the son of sculptor Antoine Pater and studied under him before becoming a student of painter Jean-Baptiste Guide. Pater then moved to Paris, briefly becoming a pupil of Antoine Watteau in 1713. Watteau, despite treating Pater badly, had a significant influence on him. However the two quarreled and Pater returned to Valenciennes, where he remained for two years. In 1721, Pater and the dying Watteau reconciled; subsequently Pater became a student of Watteau once again, although only for a month before the latter's death. Pater later claimed to have learnt everything he knew during those few weeks with Watteau. He was accepted into the Académie in 1728, presenting a large military work in the popular Watteau style: La Rejouissance des Soldats.",
+      "Pater adopted the popular Fête galante subject matter, heavily imitating his teacher Watteau—indeed he directly copied some of his figures. Pater used a traditional Rococo pastel palette. His most characteristic difference in style from other artists of the time surrounded his use of shimmering lines."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Oil paint", "Drawing", "Graphite"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Franz_Xaver_Winterhalter",
-    "urlGoogle": "https://artsandculture.google.com/entity/franz-xaver-winterhalter/m05sy6f"
+    "movements": ["Renaissance", "Rococo"],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Sanguine", "Laid paper", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean-Baptiste_Pater",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-baptiste-pater/m0bx6qs"
   },
   "event": {
-    "id": "berlin-crisis-of-1961",
-    "name": "Berlin Crisis of 1961",
-    "dates": "Jun 4, 1961 - Nov 9, 1961",
-    "mainImg": "img/events/berlin-crisis-of-1961.jpg",
+    "id": "boxer-rebellion",
+    "name": "Boxer Rebellion",
+    "dates": "Nov 2, 1899 - Sep 7, 1901",
+    "mainImg": "img/events/boxer-rebellion.jpg",
     "summary": [
-      "The Berlin Crisis of 1961 occurred between 4 June – 9 November 1961, and was the last major politic-military European incident of the Cold War about the occupational status of the German capital city, Berlin, and of post–World War II Germany. The Berlin Crisis started when the USSR launched an ultimatum demanding the withdrawal of all armed forces from Berlin, including the Western armed forces in West Berlin. The crisis culminated in the city's de facto partition with the East German erection of the Berlin Wall.",
-      "The 22nd Congress of the Communist Party of the Soviet Union—the last to be attended by the Communist Party of China—was held in Moscow during the crisis."
+      "The Boxer Rebellion, Boxer Uprising, or Yihetuan Movement was an anti-imperialist, anti-foreign, and anti-Christian uprising in China between 1899 and 1901, toward the end of the Qing dynasty.",
+      "It was initiated by the Militia United in Righteousness, known in English as the Boxers because many of their members had practiced Chinese martial arts, also referred to in the Western world as Chinese Boxing. Villagers in North China had been building resentment against Christian missionaries who ignored tax obligations and abused their extraterritorial rights to protect their congregants against lawsuits. The immediate background of the uprising included severe drought and disruption by the growth of foreign spheres of influence after the Sino-Japanese War of 1895. After several months of growing violence and murder in Shandong and the North China Plain against foreign and Christian presence in June 1900, Boxer fighters, convinced they were invulnerable to foreign weapons, converged on Beijing with the slogan Support the Qing government and exterminate the foreigners. Foreigners and Chinese Christians sought refuge in the Legation Quarter."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Berlin_Crisis_of_1961",
-    "urlGoogle": "https://artsandculture.google.com/entity/berlin-crisis-of-1961/m04dyv7m"
+    "urlWiki": "https://en.wikipedia.org/wiki/Boxer_Rebellion",
+    "urlGoogle": "https://artsandculture.google.com/entity/boxer-rebellion/m0gfq9"
   },
   "funFacts": [
     {
-      "id": "446",
-      "fact": "You breathe in about 13 pints of air every minute.",
-      "category": ["Anatomy"]
+      "id": "1014",
+      "fact": "Forty is the only number whose letters are in alphabetical order.",
+      "category": ["Onlies"]
     },
     {
-      "id": "926",
-      "fact": "George Washington was the only unanimously elected President.",
-      "category": ["History", "Onlies"]
+      "id": "344",
+      "fact": "Leonardo da Vinci discovered that a tree's rings reveal its age.",
+      "category": ["Plants", "History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553552",
-      "fact": "A 150-year-old tree at the Ashikaga Flower Park is believed to be the oldest living wisteria in Japan."
+      "id": "527079",
+      "fact": "Johnny Cash's \"A Boy Named Sue\" was penned by beloved children's author Shel Silverstein."
     }
   ],
   "idiom": {
-    "id": "brown-bagger",
-    "term": "brown bagger",
-    "definition": "A person who brings his or her own supplies, as in *The architects of the new office designed a space for brown baggers to eat lunch.* The term originated in the 1930s in Britain for very serious students who carried their books about with them in brown briefcases or bags. That usage crossed the Atlantic within a few decades. However, in America from the 1960s on, it has primarily been used for persons who brought their own liquor in a brown paper bag, either legitimately or surreptitiously, to a public place or restaurant not licensed to sell it, or for those who took their lunch to work."
+    "id": "cut-of-ones-jib",
+    "term": "cut of one's jib",
+    "definition": "One's general appearance or personality, as in *I don't like the cut of Ben's jib.* In the 17th century the shape of the jib sail often identified a vessel's nationality, and hence whether it was hostile or friendly. The term was being used figuratively by the early 1800s, often to express one's liking or dislike for someone."
   },
   "person": {
-    "id": "shelley-winters",
-    "name": "Shelley Winters",
-    "dates": "Aug 18, 1920 - Jan 14, 2006",
-    "mainImg": "img/people/shelley-winters.jpg",
+    "id": "walter-ulbricht",
+    "name": "Walter Ulbricht",
+    "dates": "Jun 30, 1893 - Aug 1, 1973",
+    "mainImg": "img/people/walter-ulbricht.jpg",
     "summary": [
-      "Shelley Winters was an American actress whose career spanned almost six decades.",
-      "She appeared in numerous films, and won Academy Awards for The Diary of Anne Frank and A Patch of Blue, and received nominations for A Place in the Sun and The Poseidon Adventure. Other roles Winters appeared in include A Double Life, The Night of the Hunter, Lolita, Alfie, Next Stop, Greenwich Village, and Pete's Dragon.",
-      "In addition to film, Winters also appeared in television, including a years-long tenure on the sitcom Roseanne, and also authored three autobiographical books."
+      "Walter Ernst Paul Ulbricht was a German communist politician. Ulbricht played a leading role in the creation of the Weimar-era Communist Party of Germany and later in the early development and establishment of the German Democratic Republic in East Germany. As the First Secretary of the Socialist Unity Party from 1950 to 1971, he was the chief decision maker in East Germany. From President Wilhelm Pieck's death in 1960 on, he was also the East German head of state until his own death in 1973.",
+      "Ulbricht began his political life during the German Empire, when he joined first the Social Democratic Party of Germany in 1912, the anti-World War I Independent Social Democratic Party of Germany in 1917 and deserted the Imperial German Army in 1918. He joined the Communist Party of Germany in 1920 and became a leading party functionary, serving in its Central Committee from 1923 onward. After the Nazi takeover of Germany in 1933, Ulbricht lived in Paris and Prague from 1933 to 1937 and in the Soviet Union from 1937 to 1945.",
+      "After the end of World War II, Ulbricht re-organized the German Communist Party in the Soviet occupation zone along Stalinist lines."
     ],
-    "quote": "“I'm not overweight. I'm just nine inches too short.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Shelley_Winters",
-    "urlGoogle": "https://artsandculture.google.com/entity/shelley-winters/m019l68"
+    "quote": "“Let us show our fellow countrymen and the entire world what the Germans can do when they work for peace.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Walter_Ulbricht",
+    "urlGoogle": "https://artsandculture.google.com/entity/walter-ulbricht/m0f_p0"
   },
   "place": {
-    "id": "greenland",
-    "name": "Greenland",
-    "mainImg": "img/places/greenland.jpg",
+    "id": "prayagraj",
+    "name": "Prayagraj",
+    "mainImg": "img/places/prayagraj.jpg",
     "summary": [
-      "Greenland is the world's largest island, located between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago. It is an autonomous territory within the Kingdom of Denmark. Though physiographically a part of the continent of North America, Greenland has been politically and culturally associated with Europe for more than a millennium. The majority of its residents are Inuit, whose ancestors migrated from Alaska through Northern Canada, gradually settling across the island by the 13th century.",
-      "Nowadays, the population is largely concentrated on the southwest coast, while the rest of the island is sparsely populated. Greenland is divided into five municipalities — Sermersooq, Kujalleq, Qeqertalik, Qeqqata, and Avannaata. It has two unincorporated areas — the Northeast Greenland National Park and the Thule Air Base. The last one, even if under Danish control, is administered by the United States Air Force. Three-quarters of Greenland is covered by the only permanent ice sheet outside Antarctica. With a population of 56,081, it is the least densely populated territory in the world. About a third of the population lives in Nuuk, the capital and largest city."
+      "Allahabad, officially known as Prayagraj, and also known as Illahabad and Prayag, is a city in the Indian state of Uttar Pradesh. It is the administrative headquarters of Allahabad district—the most populous district in the state and 13th most populous district in India—and the Allahabad division. The city is the judicial capital of Uttar Pradesh with Allahabad High Court being the highest judicial body in the state. As of 2011, Allahabad is the fifth most populous city in the state, eighth in Northern India and twenty-fourth in India, with an estimated population of 1.11 million in the city and 1.21 million in its metropolitan region. In 2011 it was ranked the world's 40th fastest-growing city. Allahabad, in 2016, was also ranked the third most liveable city in the state and sixteenth in the country.",
+      "The city lies close to Triveni Sangam, \"three-river confluence\", original name – Prayag, \"place of sacrifice or offering\" – which lies at the sangam of the Ganges, Yamuna and Sarasvati rivers, a propitious place to conduct sacrifices. It plays a central role in Hindu scriptures."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Greenland",
-    "urlGoogle": "https://artsandculture.google.com/entity/greenland/m035v3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Allahabad",
+    "urlGoogle": "https://artsandculture.google.com/entity/prayagraj/m020skc"
   },
   "wiki": {
-    "id": "colditz-castle",
-    "name": "Colditz Castle",
-    "summary": "Colditz Castle is a castle in the town of Colditz near Leipzig, Dresden, and Chemnitz in the state of Saxony in Germany. Used as a workhouse for the indigent and a mental institution for over 100 years, it became notorious as a prisoner-of-war camp for \"incorrigible\" Allied officers who had repeatedly escaped from other camps, as well as for deutschfeindlich (\"anti-Germans\") during World War II. The Nazi Schutzstaffel (SS) made Colditz a Sonderlager (high-security prison), the only one of its type within Germany. Hermann Göring even declared Colditz \"escape-proof.\" This was in part because of its lack of escapes during its term as prison camp in World War I, but mostly due to it being the only German prisoner-of-war camp with more guards than prisoners. Yet despite this audacious claim, there were multiple escapes by British, French, Polish, Dutch, and Belgian inmates.",
-    "url": "https://en.wikipedia.org/wiki/Colditz_Castle"
+    "id": "rhyolite-nevada",
+    "name": "Rhyolite, Nevada",
+    "summary": "Rhyolite is a ghost town in Nye County, in the U.S. state of Nevada. It is in the Bullfrog Hills, about 120 miles (190 km) northwest of Las Vegas, near the eastern edge of Death Valley. The town began in early 1905 as one of several mining camps that sprang up after a prospecting discovery in the surrounding hills. During an ensuing gold rush, thousands of gold-seekers, developers, miners, and service providers flocked to the Bullfrog Mining District. Many settled in Rhyolite, which lay in a sheltered desert basin near the region's biggest producer, the Montgomery Shoshone Mine. Rhyolite declined almost as rapidly as it rose. After the richest ore was exhausted, production fell. The 1906 San Francisco earthquake and the financial Panic of 1907 made raising development capital more difficult. By the end of 1910, the mine was operating at a loss, and it closed in 1911. By this time, many out-of-work miners had moved elsewhere, and Rhyolite's population was close to zero by 1920. After 1920, Rhyolite and its ruins became a tourist attraction and a setting for motion pictures.",
+    "url": "https://en.wikipedia.org/wiki/Rhyolite,_Nevada"
   },
   "word": {
-    "id": "comely",
-    "word": "comely",
-    "url": "https://www.merriam-webster.com/dictionary/comely",
-    "partOfSpeech": "adjective",
-    "pronunciation": "KUM-lee",
-    "audioPath": "audio/words/comely.mp3",
-    "definitions": [
-      "pleasurably conforming to notions of good appearance, suitability, or proportion",
-      "having a pleasing appearance : not homely or plain"
-    ],
+    "id": "deterge",
+    "word": "deterge",
+    "url": "https://www.merriam-webster.com/dictionary/deterge",
+    "partOfSpeech": "verb",
+    "pronunciation": "dih-TURJ",
+    "audioPath": "audio/words/deterge.mp3",
+    "definitions": ["to wash off : to cleanse"],
     "examples": [
-      "The audition was filled with _comely_ young men and women hoping to be the next face of the fashion industry.",
-      "\"The woman in black is an assassin, and, although he has no idea why, Langdon is her target. He's on the run before he's even fully conscious, helped by one of his doctors, Sienna Brooks, a _comely_ young blond with a genius IQ and a shadowy past.\" - From a book review by Colette Bancroft in the _Tampa Bay Times_ (Florida), May 17, 2013"
+      "In order to prevent infection, it is necessary to properly deterge and disinfect the wound."
     ],
-    "origin": "Although \"comely\" is now typically used to describe the appearance of human beings, it was once used more broadly of other appealing things, such as fine clothing. \"Comely\" can be traced back to an Old English word meaning \"lovely, glorious, or fine.\" If you're looking to pretty up your prose or poetry with additional words meaning \"beautiful,\" English is well-supplied with them. Aside from \"beautiful\" itself, we have \"lovely,\" \"handsome,\" \"pretty,\" \"fair,\" \"good-looking,\" \"gorgeous,\" \"ravishing,\" and even \"well-favored.\""
+    "origin": "\"Deterge\" is not a particularly common word in the English language. However, it is related to a word with which most of us are likely familiar: \"detergent.\" Like \"detergent,\" \"deterge\" comes (possibly by way of French \"déterger\") from the Latin verb \"detergēre,\" itself from \"de-\" and \"tergēre\" (\"to wipe\"). \"Deterge\" entered the English language in the early 1600s and has primarily been used in medical contexts, such as Ambrose Cooper's 1757 recipe for Vulnerary Water: \"This Water is of excellent Service in Contusions, Tumors attending Dislocation, Fractures and Mortifications, the Part affected being bathed with it. Some also use it to deterge foul Ulcers, and incarn Wounds….\""
   }
 }

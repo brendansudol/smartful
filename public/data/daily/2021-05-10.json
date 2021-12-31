@@ -1,138 +1,130 @@
 {
   "artist": {
-    "id": "john-james-audubon",
-    "name": "John James Audubon",
-    "dates": "Apr 26, 1785 - Jan 27, 1851",
-    "mainImg": "img/art/artists/john-james-audubon.jpg",
+    "id": "giovanni-boldini",
+    "name": "Giovanni Boldini",
+    "dates": "Dec 31, 1842 - Jul 11, 1931",
+    "mainImg": "img/art/artists/giovanni-boldini.jpg",
     "artworkImgs": [
       {
-        "name": "The Bird of Washington, or Great American Sea Eagle. Falco washingtoniensis Male",
-        "path": "img/art/artworks/john-james-audubon-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-bird-of-washington-or-great-american-sea-eagle-falco-washingtoniensis-male-john-james-audubon/VAGndaGOIDAnRg"
+        "name": "Gloved woman",
+        "path": "img/art/artworks/giovanni-boldini-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/gloved-woman-giovanni-boldini/NgES7xkxQtdLlw"
       },
       {
-        "name": "American Bison or Buffalo",
-        "path": "img/art/artworks/john-james-audubon-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/american-bison-or-buffalo-john-james-audubon/FQHK169FIQdoMw"
+        "name": "Ritratto di Giuseppe Verdi",
+        "path": "img/art/artworks/giovanni-boldini-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ritratto-di-giuseppe-verdi-giovanni-boldini/FgEQF8uoob7fhg"
       },
       {
-        "name": "Blue Yellow Back Warbler",
-        "path": "img/art/artworks/john-james-audubon-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/blue-yellow-back-warbler-john-james-audubon/OQFDdxcHEP0lrw"
+        "name": "The Dispatch-Bearer",
+        "path": "img/art/artworks/giovanni-boldini-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-dispatch-bearer-giovanni-boldini/fQFlCEpjCNJBPg"
       },
       {
-        "name": "Vulgo (Wild Turkey) Meleagris gallapavo",
-        "path": "img/art/artworks/john-james-audubon-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/vulgo-wild-turkey-meleagris-gallapavo-john-james-audubon/uQHUcMeVXLwI3w"
+        "name": "Ritratto della marchesa Casati con piume di pavone",
+        "path": "img/art/artworks/giovanni-boldini-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/ritratto-della-marchesa-casati-con-piume-di-pavone-giovanni-boldini/5wEnjCQA7gAfQw"
       },
       {
-        "name": "Felis onca, Linn. The Jaguar. Female",
-        "path": "img/art/artworks/john-james-audubon-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/felis-onca-linn-the-jaguar-female-john-james-audubon/ogF-9Il3O_qKBw"
+        "name": "Blond Braid",
+        "path": "img/art/artworks/giovanni-boldini-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/blond-braid-giovanni-boldini/xQEnGAX0Mkn58Q"
       },
       {
-        "name": "The Birds of America, Plate #406: \"Trumpeter Swan\"",
-        "path": "img/art/artworks/john-james-audubon-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-birds-of-america-plate-406-trumpeter-swan-john-james-audubon/7AGFRBkIjHlzpw"
+        "name": "Ritratto di Mademoiselle Lanthèlme",
+        "path": "img/art/artworks/giovanni-boldini-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/ritratto-di-mademoiselle-lanthèlme-giovanni-boldini/VAG-Mhgq0MA1iQ"
       }
     ],
     "summary": [
-      "John James Audubon was an American ornithologist, naturalist, and painter. He was notable for his extensive studies documenting all types of American birds and for his detailed illustrations that depicted the birds in their natural habitats. His major work, a color-plate book entitled The Birds of America, is considered one of the finest ornithological works ever completed. Audubon is also known for having identified 25 new species."
-    ],
-    "quote": "“A true conservationist is a man who knows that the world is not given by his fathers, but borrowed from his children.”",
-    "movements": [],
-    "mediums": ["Watercolor painting", "Engraving", "Etching", "Gouache", "Graphite", "Drawing"],
-    "urlWiki": "https://en.wikipedia.org/wiki/John_James_Audubon",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-james-audubon/m01t7pnv"
-  },
-  "event": {
-    "id": "world-war-i",
-    "name": "World War I",
-    "dates": "Jul 28, 1914 - Nov 11, 1918",
-    "mainImg": "img/events/world-war-i.jpg",
-    "summary": [
-      "World War I, also known as the First World War or the Great War, was a global war that lasted from 1914 to 1918. Contemporaneously described as \"the war to end all wars\", it led to the mobilisation of more than 70 million military personnel, including 60 million Europeans, making it one of the largest wars in history. It is also one of the deadliest conflicts in history, with an estimated 9 million combatant deaths and 13 million civilian deaths as a direct result of the war, while resulting genocides and the related 1918 influenza pandemic caused another 17–100 million deaths worldwide.",
-      "On 28 June 1914, Gavrilo Princip, a Bosnian Serb Yugoslav nationalist, assassinated the Austro-Hungarian heir Archduke Franz Ferdinand in Sarajevo, leading to the July Crisis. In response, on 23 July, Austria-Hungary issued an ultimatum to Serbia. Serbia's reply failed to satisfy the Austrians, and the two moved to a war footing.",
-      "A network of interlocking alliances enlarged the crisis from a bilateral issue in the Balkans to one involving most of Europe."
+      "Giovanni Boldini was an Italian genre and portrait painter who lived and worked in Paris for most of his career. According to a 1933 article in Time magazine, he was known as the \"Master of Swish\" because of his flowing style of painting."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/World_War_I",
-    "urlGoogle": "https://artsandculture.google.com/entity/world-war-i/m0cm2xh"
+    "movements": ["Modern art"],
+    "mediums": ["Oil paint", "Wood", "Pencil"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giovanni_Boldini",
+    "urlGoogle": "https://artsandculture.google.com/entity/giovanni-boldini/m08hkqf"
+  },
+  "event": {
+    "id": "battle-of-ichi-no-tani",
+    "name": "Battle of Ichi-no-Tani",
+    "dates": null,
+    "mainImg": "img/events/battle-of-ichi-no-tani.jpg",
+    "summary": [
+      "Ichi-no-Tani was a Taira defensive position at Suma, to the west of present-day Kobe, Japan. It sat on a very narrow strip of shore, between mountains on the north, and the sea to the south. This made it quite defensible, but also made it difficult to maneuver troops inside the fortress. The Taira suffered a crucial defeat to the forces of Yoshitsune and Noriyori.",
+      "Yoshitsune split his force in two. Noriyori's force attacked the Taira at Ikuta Shrine, in the woods a short distance to the east. A second detachment, no more than a hundred horsemen under Yoshitsune, attacked the Taira at Ichinotani from the mountain ridge to the north. At the chosen hour, the Minamoto forces attacked causing confusion amongst the Taira who neither deploy nor retreat. Only about 3000 Taira escaped to Yashima, while Tadanori was killed and Shigehira captured. Also killed from the Taira clan were Lord Michimori, Tsunemasa, Noritsune, Atsumori, Moromori, Tomoakira, Tsunetoshi, and Moritoshi.",
+      "Ichi-no-Tani is one of the most famous battles of the Genpei War, in large part due to the individual combats that occurred here."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Ichi-no-Tani",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-ichi-no-tani/m04n7lp"
   },
   "funFacts": [
     {
-      "id": "409",
-      "fact": "Approximately 16,500 people in the U.S. go by the last name Lemon.",
-      "category": ["Hodgepodge"]
+      "id": "382",
+      "fact": "The official state gem of Washington is petrified wood.",
+      "category": ["Plants", "Geography"]
     },
-    { "id": "351", "fact": "Cold water weighs less than hot water.", "category": ["Science"] }
+    {
+      "id": "237",
+      "fact": "The number of times a cricket chirps in 15 seconds, plus 37, will give you the current air temperature.",
+      "category": ["Animals", "Make-it-Easies"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "554097",
-      "fact": "At the Gettysburg reunion in 1913, two men purchased a hatchet, walked to the site where their regiments had fought, and buried it."
+      "id": "553530",
+      "fact": "In the late 1800s, residents of Corinne, Utah could buy divorce papers from a vending machine for $2.50."
     }
   ],
   "idiom": {
-    "id": "futz-around",
-    "term": "futz around",
-    "definition": "Also, **futz with.** Waste time or effort on frivolities, play around. For example, *He spent all morning futzing around with the report,* or *No more futzing with the car---we have to go now.* This term may be a shortening and corruption of the Yiddish *arumfartzen,* for \"fart around.\" [Slang; 1920s]"
+    "id": "typhoid-mary",
+    "term": "typhoid Mary",
+    "definition": "A carrier or spreader of misfortune, as in *I swear he's a typhoid Mary; everything at the office has gone wrong since he was hired.* This expression alludes to a real person, Mary Manson, who died in 1938. A servant, she transmitted typhoid fever to others and was referred to as \"typhoid Mary\" from the early 1900s. The term was broadened to other carriers of calamity in the mid-1900s."
   },
   "person": {
-    "id": "antonin-zapotocky",
-    "name": "Antonín Zápotocký",
-    "dates": "Dec 19, 1884 - Nov 13, 1957",
-    "mainImg": "img/people/antonin-zapotocky.jpg",
+    "id": "daniel-berrigan",
+    "name": "Daniel Berrigan",
+    "dates": "May 9, 1921 - Apr 30, 2016",
+    "mainImg": "img/people/daniel-berrigan.jpg",
     "summary": [
-      "Antonín Zápotocký was communist Prime Minister of Czechoslovakia from 1948 to 1953 and President of Czechoslovakia from 1953 to 1957.",
-      "He was born in Zákolany, Kladno District, Bohemia. His father was Ladislav Zápotocký, one of the founders of the Czech Social Democratic Party, together with Josef Boleslav Pecka-Strahovský and Josef Hybeš.",
-      "He was a delegate of the Left Wing of the ČSSD to the Second Comintern Congress, held in Petersburg, 19 July – 7 August 1920. Together with Bohumír Šmeral, he co-founded the Communist Party of Czechoslovakia when it broke away from the ČSSD in 1921. He was General Secretary of the KSČ from 1922 to 1925. In 1940, he was sent to Sachsenhausen concentration camp. He was released in 1945.",
-      "From June 18, to July 18, 1946 he was Chairman of the Constituent National Assembly.",
-      "Zápotocký became Prime Minister on 15 June 1948, replacing Klement Gottwald, who became President. On 14 March 1953, shortly after his return from Joseph Stalin's funeral, Gottwald died. As per the Ninth-of-May Constitution, Zápotocký took over most presidential duties until he was elected President in his own right a week later."
+      "Daniel Joseph Berrigan SJ was an American Jesuit priest, anti-war activist, Christian pacifist, playwright, poet, and author.",
+      "Berrigan's active protest against the Vietnam War earned him both scorn and admiration, especially regarding his association with the Catonsville Nine. It also landed him on the Federal Bureau of Investigation's \"most wanted list\", on the cover of Time magazine, and in prison.",
+      "For the rest of his life, Berrigan remained one of the United States' leading anti-war activists. In 1980, he founded the Plowshares movement, an anti-nuclear protest group, that put him back into the national spotlight. He was also an award-winning and prolific author of some 50 books, a teacher, and a university educator. He, along with his activist brother Philip Berrigan, was nominated in 1998 for the Nobel Peace Prize by 1976 laureate Mairead Maguire."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Z%C3%A1potock%C3%BD",
-    "urlGoogle": "https://artsandculture.google.com/entity/antonín-zápotocký/m02pwmw"
+    "quote": "“One is called to live nonviolently, even if the change one works for seems impossible.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Daniel_Berrigan",
+    "urlGoogle": "https://artsandculture.google.com/entity/daniel-berrigan/m02v09f"
   },
   "place": {
-    "id": "uzbekistan",
-    "name": "Uzbekistan",
-    "mainImg": "img/places/uzbekistan.jpg",
+    "id": "calais",
+    "name": "Calais",
+    "mainImg": "img/places/calais.jpg",
     "summary": [
-      "Uzbekistan, officially Republic of Uzbekistan, is a country in Central Asia. It is surrounded by five landlocked countries: Kazakhstan to the north; Kyrgyzstan to the northeast; Tajikistan to the southeast; Afghanistan to the south and Turkmenistan to the southwest. Along with Liechtenstein, it is one of only two doubly landlocked countries.",
-      "As a sovereign state, Uzbekistan is a secular, unitary constitutional republic. It comprises 12 provinces and one autonomous republic, Karakalpakstan. The capital and largest city of Uzbekistan is Tashkent.",
-      "What is now Uzbekistan was in ancient times part of the Iranian-speaking region of Transoxiana and Turan. The first recorded settlers were Eastern Iranian nomads, known as Scythians, who founded kingdoms in Khwarazm, Bactria, Sogdia, Fergana, and Margiana. The area was incorporated into the Iranian Achaemenid Empire and, after a period of Macedonian Greek rule, was ruled by the Iranian Parthian Empire and later by the Sasanian Empire, until the Muslim conquest of Persia in the seventh century. The Muslim conquest in the 7th century converted the majority of the population, including the local ruling classes, into adherents of Islam."
+      "Calais is a city and major ferry port in northern France in the department of Pas-de-Calais, of which it is a sub-prefecture. Although Calais is by far the largest city in Pas-de-Calais, the department's prefecture is its third-largest city of Arras. The population of the metropolitan area at the 2010 census was 126,395. Calais overlooks the Strait of Dover, the narrowest point in the English Channel, which is only 34 km wide here, and is the closest French town to England. The White Cliffs of Dover can easily be seen on a clear day from Calais. Calais is a major port for ferries between France and England, and since 1994, the Channel Tunnel has linked nearby Coquelles to Folkestone by rail.",
+      "Due to its position, Calais since the Middle Ages has been a major port and a very important centre for transport and trading with England. Calais came under English control after Edward III of England captured the city in 1347, followed by a treaty in 1360 that formally assigned Calais to English rule."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Uzbekistan",
-    "urlGoogle": "https://artsandculture.google.com/entity/uzbekistan/m07t_x"
-  },
-  "quote": {
-    "id": "97",
-    "quote": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
-    "author": "Leonardo da Vinci"
+    "urlWiki": "https://en.wikipedia.org/wiki/Calais",
+    "urlGoogle": "https://artsandculture.google.com/entity/calais/m0lps0"
   },
   "wiki": {
-    "id": "t-34",
-    "name": "T-34",
-    "summary": "The T-34 is a Soviet medium tank produced from 1940 to 1958. It was widely regarded as the world's best tank when the Soviet Union entered the Second World War, and although its armour and armament were surpassed by later WWII tanks, it is credited as the war's most effective, efficient and influential design. First produced at the KhPZ factory in Kharkov (Kharkiv, Ukraine), it was the mainstay of Soviet armoured forces throughout World War II, and widely exported afterwards. It was the most-produced tank of the war, and the second most-produced tank of all time, after its successor, the T-54/55 series. The T-34 was still in service with twenty-seven countries as late as 1996.",
-    "url": "https://en.wikipedia.org/wiki/T-34"
+    "id": "mourning-dove",
+    "name": "Mourning Dove",
+    "summary": "The Mourning Dove is a member of the dove family, Columbidae. It ranges from Central America to southern Canada, including offshore islands. Many individuals in northern areas migrate south to winter within the breeding range where January temperatures are greater than minus 12 Celsius (10 F). Habitats include various open and semi-open environments, including agricultural and urban areas. The species has adapted well to areas altered by humans. The bird is abundant, with an estimated population of 130 million birds. In many areas, the Mourning Dove is hunted as a game bird for both sport and its flesh. Its plaintive woo-oo-oo-oo call is common throughout its range, as is the whistling of its wings as it takes flight. The species is a strong flier, capable of speeds up to 88 km/h (55 mi/h). Mourning Doves are light gray and brownish and generally muted in color. Males and females are similar in appearance. The species is generally monogamous, with two squabs (young) per brood. Both parents care for the young for a time. Mourning Doves eat mainly seeds, including those of both native and introduced plants.",
+    "url": "https://en.wikipedia.org/wiki/Mourning_Dove"
   },
   "word": {
-    "id": "kowtow",
-    "word": "kowtow",
-    "url": "https://www.merriam-webster.com/dictionary/kowtow",
-    "partOfSpeech": "verb",
-    "pronunciation": "KOW-tow",
-    "audioPath": "audio/words/kowtow.mp3",
-    "definitions": [
-      "to show obsequious deference : fawn",
-      "to kneel and touch the forehead to the ground in token of homage, worship, or deep respect"
-    ],
+    "id": "smithereens",
+    "word": "smithereens",
+    "url": "https://www.merriam-webster.com/dictionary/smithereens",
+    "partOfSpeech": "noun",
+    "pronunciation": "smih-thuh-REENZ",
+    "audioPath": "audio/words/smithereens.mp3",
+    "definitions": ["fragments, bits"],
     "examples": [
-      "Martin _kowtows_ to our boss every chance he gets, complimenting him on his suits and offering favors.",
-      "\"It's not honorable to _kowtow_ to the extremes so you can preserve your political career.\" - From an op-ed column by David Brooks in _The New York Times_, February 28, 2012"
+      "Had the ceramic vase fallen off the mantel, it would have smashed into smithereens."
     ],
-    "origin": "\"Kowtow\" originated as a noun referring to the act of kneeling and touching one's head to the ground as a salute or act of worship to a revered authority. In traditional China this ritual was performed by commoners making requests to the local magistrate, by the emperor to the shrine of Confucius, or by foreign representatives appearing before the emperor to establish trade relations. (In the late 18th century, some Western nations resisted performing the ritual, which acknowledged the Chinese emperor as the \"son of heaven.\") The word \"kowtow\" derives from Chinese \"koutou,\" formed by combining the verb \"kou\" (\"to knock\") with the noun \"tou\" (\"head\"). The noun had arrived in English by 1804, and the earliest evidence for the verb dates from 1826."
+    "origin": "Despite its American sound and its common use by the fiery animated cartoon character Yosemite Sam, \"smithereens\" did not originate in American slang. Although no one is entirely positive about its precise origins, scholars think that \"smithereens\" likely developed from the Irish word \"smidiríní,\" which means \"little bits.\" That Irish word is the diminutive of \"smiodar,\" meaning \"fragment.\" Written record of the use of \"smithereen\" dates back to 1829."
   }
 }

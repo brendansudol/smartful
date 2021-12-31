@@ -1,135 +1,129 @@
 {
   "artist": {
-    "id": "jacques-louis-david",
-    "name": "Jacques-Louis David",
-    "dates": "Aug 30, 1748 - Dec 29, 1825",
-    "mainImg": "img/art/artists/jacques-louis-david.jpg",
+    "id": "george-hayter",
+    "name": "George Hayter",
+    "dates": "Dec 17, 1792 - Jan 18, 1871",
+    "mainImg": "img/art/artists/george-hayter.jpg",
     "artworkImgs": [
       {
-        "name": "The Death of Socrates",
-        "path": "img/art/artworks/jacques-louis-david-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-death-of-socrates-jacques-louis-david/wgHWvnlrjJm_4Q"
+        "name": "Head of a Male Pilgrim",
+        "path": "img/art/artworks/george-hayter-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-a-male-pilgrim-sir-george-hayter/CAGj3DdA0611TA"
       },
       {
-        "name": "The Oath of the Horatii",
-        "path": "img/art/artworks/jacques-louis-david-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-oath-of-the-horatii-jacques-louis-david/pQHdi199vQiPkw"
+        "name": "Studies for the Duke of Wellington",
+        "path": "img/art/artworks/george-hayter-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/studies-for-the-duke-of-wellington-sir-george-hayter-1792–1871-british/fwEMWfZ7_XZsCg"
       },
       {
-        "name": "Marat Assassinated",
-        "path": "img/art/artworks/jacques-louis-david-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/marat-assassinated-jacques-louis-david/7QGjl9R141MCBw"
+        "name": "Studies for a Scene from Dante's \"Inferno\"",
+        "path": "img/art/artworks/george-hayter-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/studies-for-a-scene-from-dante-s-inferno-sir-george-hayter/VAGW3rT_nmIEOg"
       },
       {
-        "name": "The Jeu de Paume Oath",
-        "path": "img/art/artworks/jacques-louis-david-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-jeu-de-paume-oath-jacques-louis-david/fAER0Kl7k5kYEQ"
+        "name": "Young Pilgrim with Guardian Angel",
+        "path": "img/art/artworks/george-hayter-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/young-pilgrim-with-guardian-angel-sir-george-hayter/mgHbXxQaCew4eg"
       },
       {
-        "name": "The Anger of Achilles",
-        "path": "img/art/artworks/jacques-louis-david-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-anger-of-achilles-jacques-louis-david/egH1jm7p2qNAUw"
+        "name": "A Minuet",
+        "path": "img/art/artworks/george-hayter-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-minuet-sir-george-hayter-1792–1871-british/WQH0fvrjCOkaqQ"
       },
       {
-        "name": "Napoleon at the Great St. Bernard",
-        "path": "img/art/artworks/jacques-louis-david-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/napoleon-at-the-great-st-bernard-jaques-louis-david/pQEGuRLRGyr2kA"
+        "name": "A Maiden Embraced by a Knight in Armor",
+        "path": "img/art/artworks/george-hayter-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-maiden-embraced-by-a-knight-in-armor-sir-george-hayter/CgGdMK_0i_Dc2w"
       }
     ],
     "summary": [
-      "Jacques-Louis David was a French painter in the Neoclassical style, considered to be the preeminent painter of the era. In the 1780s his cerebral brand of history painting marked a change in taste away from Rococo frivolity toward classical austerity and severity and heightened feeling, harmonizing with the moral climate of the final years of the Ancien Régime.",
-      "David later became an active supporter of the French Revolution and friend of Maximilien Robespierre, and was effectively a dictator of the arts under the French Republic. Imprisoned after Robespierre's fall from power, he aligned himself with yet another political regime upon his release: that of Napoleon, The First Consul of France. At this time he developed his Empire style, notable for its use of warm Venetian colours. After Napoleon's fall from Imperial power and the Bourbon revival, David exiled himself to Brussels, then in the United Kingdom of the Netherlands, where he remained until his death. David had many pupils, making him the strongest influence in French art of the early 19th century, especially academic Salon painting."
-    ],
-    "quote": "“In the arts the way in which an idea is rendered, and the manner in which it is expressed, is much more important than the idea itself.”",
-    "movements": ["Neoclassicism"],
-    "mediums": ["Ink", "Laid paper", "Chalk", "Pigment", "Oil paint", "Drawing"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jacques-Louis_David",
-    "urlGoogle": "https://artsandculture.google.com/entity/jacques-louis-david/m02hlw"
-  },
-  "event": {
-    "id": "battle-of-jiuliancheng",
-    "name": "Battle of Jiuliancheng",
-    "dates": null,
-    "mainImg": "img/events/battle-of-jiuliancheng.jpg",
-    "summary": [
-      "The Battle of Jiuliancheng was a land battle of the First Sino-Japanese War between the forces of Meiji Japan and Qing China. It is sometimes referred to as the Battle of the Yalu River, thus creating confusion with the previous naval conflict of the same name of 17 September, and the subsequent naval and ground battles of the Russo-Japanese War, with the same name and occurring at much the same location."
+      "Sir George Hayter was a notable English painter, specialising in portraits and large works involving in some cases several hundred individual portraits. Queen Victoria appreciated his merits and appointed Hayter her Principal Painter in Ordinary and also awarded him a Knighthood 1841."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Jiuliancheng",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-jiuliancheng/m0gbv_4"
+    "movements": [],
+    "mediums": ["Ink", "Pen", "Graphite", "Watercolor painting", "Oil paint", "Gouache"],
+    "urlWiki": "https://en.wikipedia.org/wiki/George_Hayter",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-hayter/m049nbn"
+  },
+  "event": {
+    "id": "battle-of-the-nek",
+    "name": "Battle of the Nek",
+    "dates": null,
+    "mainImg": "img/events/battle-of-the-nek.jpg",
+    "summary": [
+      "The Battle of the Nek was a minor battle that took place on 7 August 1915, during the Gallipoli campaign of World War I. \"The Nek\" was a narrow stretch of ridge on the Gallipoli Peninsula. The name derives from the Afrikaans word for a \"mountain pass\" but the terrain itself was a perfect bottleneck and easy to defend, as had been proven during an Ottoman attack in June. It connected Australian and New Zealand trenches on the ridge known as \"Russell's Top\" to the knoll called \"Baby 700\" on which the Ottoman defenders were entrenched.",
+      "The campaign on the Gallipoli Peninsula had begun in April 1915, but over the following months had developed into a stalemate. In an effort to break the deadlock, the British and their allies launched an offensive to capture the Sari Bair range. As part of this effort, a feint attack by Australian troops was planned at the Nek to support New Zealand troops assaulting Chunuk Bair.",
+      "Early on 7 August 1915, two regiments of the Australian 3rd Light Horse Brigade, one of the formations under the command of Major General Alexander Godley for the offensive, mounted a futile bayonet attack on the Ottoman trenches on Baby 700."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_the_Nek",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-the-nek/m024hlh"
   },
   "funFacts": [
     {
-      "id": "373",
-      "fact": "Endocarp is the edible pulp inside a lemon.",
-      "category": ["Food", "Plants"]
+      "id": "719",
+      "fact": "A strawberry is not an actual berry, but a banana is.",
+      "category": ["Food"]
     },
     {
-      "id": "924",
-      "fact": "The highest denomination issued by the U.S. was the 100,000 dollar bill.",
-      "category": ["Hodgepodge"]
+      "id": "752",
+      "fact": "A group of twelve or more cows is called a flink.",
+      "category": ["Animals", "Definitions"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "522155",
-      "fact": "LEGO is an abbreviation of the Danish phrase leg godt which means “play well.” The company was originally called Billund Maskinsnedkeri."
-    }
-  ],
+  "funFacts2": [{ "id": "506389", "fact": "Baby porcupines are known as porcupettes." }],
   "idiom": {
-    "id": "penny-wise-and-pound-foolish",
-    "term": "penny wise and pound foolish",
-    "definition": "Stingy about small expenditures and extravagant with large ones, as in *Dean clips all the coupons for supermarket bargains but insists on going to the best restaurants---penny wise and pound foolish.* This phrase alludes to British currency, in which a pound was once worth 240 pennies, or pence, and is now worth 100 pence. The phrase is also occasionally used for being very careful about unimportant matters and careless about important ones. It was used in this way by Joseph Addison in *The Spectator* (1712): \"A woman who will give up herself to a man in marriage where there is the least Room for such an apprehension... may very properly be accused... of being penny wise and pound foolish.\" [c. 1600]"
+    "id": "many-hands-make-light-work",
+    "term": "many hands make light work",
+    "definition": "More helpers make a task easier, as in *We need a few more volunteers to move the furniture---many hands make light work, you know.* This proverb was first recorded in English in the early 1300s in a knightly romance known as *Sir Bevis of Hampton.* It appeared in practically all proverb collections from 1546 on."
   },
   "person": {
-    "id": "aneurin-bevan",
-    "name": "Aneurin Bevan",
-    "dates": "Nov 15, 1897 - Jul 6, 1960",
-    "mainImg": "img/people/aneurin-bevan.jpg",
+    "id": "john-adams-dix",
+    "name": "John Adams Dix",
+    "dates": "Jul 24, 1798 - Apr 21, 1879",
+    "mainImg": "img/people/john-adams-dix.jpg",
     "summary": [
-      "Aneurin Bevan PC, often known as Nye Bevan, was a British Labour Party politician. Born into a working-class family in south Wales, he was the son of a coal miner. He left school at 13 and worked as a miner during his teens where he became involved in local union politics. He was named head of his Miner's Lodge when aged 19, where he frequently railed against management. He joined the Labour Party and attended Central Labour College in London. On his return to south Wales he struggled to find work, remaining unemployed for nearly three years before gaining employment as a union official, which led to him becoming a leading figure in the 1926 general strike.",
-      "In 1928, Bevan won a seat on Monmouthshire County Council and was elected as the MP for Ebbw Vale the following year. In Parliament, he became a vocal critic of numerous other politicians from all parties, including Winston Churchill and David Lloyd George. His criticisms of Churchill and the Conservative government during the Second World War raised him to national prominence."
-    ],
-    "quote": "“Politics is a blood sport.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Aneurin_Bevan",
-    "urlGoogle": "https://artsandculture.google.com/entity/aneurin-bevan/m0hmkj"
-  },
-  "place": {
-    "id": "la-plata",
-    "name": "La Plata",
-    "mainImg": "img/places/la-plata.jpg",
-    "summary": [
-      "La Plata is the capital city of Buenos Aires Province, Argentina. According to the 2010 census [INDEC], it has a population of 765,378 and its metropolitan area has 899,523 inhabitants.",
-      "La Plata was planned and developed to serve as the provincial capital after the city of Buenos Aires was federalized in 1880. It was officially founded by Governor Dardo Rocha on 19 November 1882. Its construction is fully documented in photographs by Tomás Bradley Sutton. La Plata was briefly known as Ciudad Eva Perón between 1952 and 1955.",
-      "The city is home to two important first division football teams: Estudiantes de La Plata and Gimnasia y Esgrima La Plata."
+      "John Adams Dix was Secretary of the Treasury, Governor of New York and Union major general during the Civil War. He was notable for arresting the pro-Southern Maryland General Assembly, preventing that divided border state from seceding, and for arranging a system for prisoner exchange via the Dix–Hill Cartel, concluded in partnership with Confederate Major General Daniel Harvey Hill."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/La_Plata",
-    "urlGoogle": "https://artsandculture.google.com/entity/la-plata/m023b97"
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Adams_Dix",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-adams-dix/m03kw8x"
+  },
+  "place": {
+    "id": "addis-ababa",
+    "name": "Addis Ababa",
+    "mainImg": "img/places/addis-ababa.jpg",
+    "summary": [
+      "Addis Ababa or Addis Abeba, also known as Finfinne, is the capital and largest city of Ethiopia. According to the 2007 census, the city has a population of 2,739,551 inhabitants.",
+      "As a chartered city, Addis Ababa also serves as the capital city of the Oromia Regional State. It is where the African Union is headquartered and where its predecessor the Organisation of African Unity was based. It also hosts the headquarters of the United Nations Economic Commission for Africa, as well as various other continental and international organizations. Addis Ababa is therefore often referred to as \"the political capital of Africa\" for its historical, diplomatic and political significance for the continent. The city lies a few miles west of the East African Rift which splits Ethiopia into two, through the Nubian Plate and the Somali Plate.",
+      "The city is populated by people from different regions of Ethiopia. It is home to Addis Ababa University."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Addis_Ababa",
+    "urlGoogle": "https://artsandculture.google.com/entity/addis-ababa/m0dttf"
   },
   "quote": {
-    "id": "52",
-    "quote": "Those who cannot change their minds cannot change anything.",
-    "author": "George Bernard Shaw"
+    "id": "120",
+    "quote": "Don't talk unless you can improve the silence.",
+    "author": "Jorge Luis Borges"
   },
   "wiki": {
-    "id": "1-−-2-3-−-4",
-    "name": "1 − 2 + 3 − 4 + · · ·",
-    "summary": "In mathematics, 1 − 2 + 3 − 4 + · · · is the infinite series whose terms are the successive positive integers, given alternating signs. The series diverges, meaning that its sequence of partial sums (1, −1, 2, −2, …) does not tend towards any finite limit. Nonetheless, Leonhard Euler claimed that 1 − 2 + 3 − 4 + · · · = 1⁄4. Starting in 1890, Ernesto Cesàro, Émile Borel, and others investigated well-defined methods to assign generalized sums to divergent series – including new interpretations of Euler's attempts. Many of these summability methods assign to 1 − 2 + 3 − 4 + · · · a \"sum\" of 1⁄4 after all. Cesàro summation is one of the few methods that does not sum 1 − 2 + 3 − 4 + · · ·, so the series is an example where a slightly stronger method, such as Abel summation, is required. The series 1 − 2 + 3 − 4 + · · · is closely related to Grandi's series 1 − 1 + 1 − 1 + · · ·. Euler treated these two as special cases of 1 − 2n + 3n − 4n + · · · for arbitrary n, a line of research extending his work on the Basel problem and leading towards the functional equations of what we now know as the Dirichlet eta function and the Riemann zeta function.",
-    "url": "https://en.wikipedia.org/wiki/1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%C2%B7_%C2%B7_%C2%B7"
+    "id": "osteochondritis-dissecans",
+    "name": "Osteochondritis dissecans",
+    "summary": "Osteochondritis dissecans (OCD) is a joint disorder in which cracks form in the articular cartilage and the underlying subchondral bone. It is caused by blood deprivation in the subchondral bone, which leads to death of subchondral bone tissues in a process called avascular necrosis. The bone is then reabsorbed by the body, leaving the articular cartilage it supported prone to damage. The result is fragmentation of both cartilage and bone, and the free movement of these osteochondral fragments within the joint space, causing pain and further damage. In humans, OCD is a rare disease, occurring in only 15 to 30 people per 100,000 in the general population each year. Although rare, it is an important cause of joint pain in physically active adolescents. As their bones are still growing, adolescents are more likely than adults to recover from OCD, attributable to the growing bone's ability to repair damaged or dead bone tissue and cartilage in a process called bone remodeling. While OCD may affect any joint, the knee tends to be the most commonly affected, and constitutes 75% of all cases.",
+    "url": "https://en.wikipedia.org/wiki/Osteochondritis_dissecans"
   },
   "word": {
-    "id": "redound",
-    "word": "redound",
-    "url": "https://www.merriam-webster.com/dictionary/redound",
+    "id": "hoick",
+    "word": "hoick",
+    "url": "https://www.merriam-webster.com/dictionary/hoick",
     "partOfSpeech": "verb",
-    "pronunciation": "rih-DOWND",
-    "audioPath": "audio/words/redound.mp3",
-    "definitions": ["to have an effect", "to become transferred or added : accrue"],
+    "pronunciation": "HOIK",
+    "audioPath": "audio/words/hoick.mp3",
+    "definitions": ["to move or pull abruptly : yank"],
     "examples": [
-      "\"It is felt that the traffic from the exhibits and classes will _redound_ to the benefit of downtown restaurants and hotels.\" - From an article by Scott Eyman in the _Palm Beach Post_, November 13, 2009",
-      "\"Ripley said he has worked the numbers and is convinced the proposed send-receive relationship will _redound_ to the financial benefit of both High Point and Montague.\" - From an article by Eric Obernauer in the _New Jersey Herald_, July 17, 2013"
+      "When she noticed that her toddler's nose was running, Stacy quickly hoicked out a tissue from her purse."
     ],
-    "origin": "Although it looks and sounds like a number of similar words (including \"rebound,\" \"resound,\" \"abound,\" and \"redundant\"), \"redound\" is a distinct term. It developed from Middle French \"redunder,\" which in turn came from Latin \"redundare,\" meaning \"to overflow.\" In its earliest known English uses in the late 1300s, \"redound\" meant \"to overflow\" or \"to abound,\" but those senses are now considered archaic. In current use, \"redound\" is often followed by \"to,\" and the effect can be positive (as in our example sentences) or negative (\"\\[It\\] probably would have redounded strongly to my disadvantage if I had pursued to completion my resolution....\" - Joseph Heller, _God Knows_)."
+    "origin": "Etymologists suspect that \"hoick\" is an alteration of the verb \"hike,\" which is itself akin to \"hitch.\" \"Hike\" entered the language during the first decade of the 19th century, whereas \"hoick\" appeared near that century's close. The word \"hoick\" can be used for any type of abrupt pulling movement but is commonly used for the sudden pulling back on the joystick of an airplane; a rough, jerky movement when rowing; and a jerky, elevated shot in cricket. In fox hunting, the word \"hoicks\" is used to call attention to a hound that has picked up the scent and to bring the pack together."
   }
 }

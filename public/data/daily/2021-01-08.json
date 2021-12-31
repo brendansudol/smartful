@@ -1,0 +1,135 @@
+{
+  "artist": {
+    "id": "henry-raeburn",
+    "name": "Henry Raeburn",
+    "dates": "Mar 4, 1756 - Jul 8, 1823",
+    "mainImg": "img/art/artists/henry-raeburn.jpg",
+    "artworkImgs": [
+      {
+        "name": "Colonel Alastair Ranaldson Macdonell of Glengarry (1771 - 1828)",
+        "path": "img/art/artworks/henry-raeburn-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/colonel-alastair-ranaldson-macdonell-of-glengarry-1771-1828-henry-raeburn/GgEDEPJ-LXa7Dg"
+      },
+      {
+        "name": "The Drummond Children",
+        "path": "img/art/artworks/henry-raeburn-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-drummond-children-sir-henry-raeburn/9QGNNZSKjfEGpw"
+      },
+      {
+        "name": "James Hutton",
+        "path": "img/art/artworks/henry-raeburn-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/james-hutton-henry-raeburn/uQF3S0R6yQt2Wg"
+      },
+      {
+        "name": "Niel Gow",
+        "path": "img/art/artworks/henry-raeburn-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/niel-gow-henry-raeburn/fAFUlJU6QXtbxQ"
+      },
+      {
+        "name": "Lady Delves Broughton",
+        "path": "img/art/artworks/henry-raeburn-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lady-delves-broughton-sir-henry-raeburn/xgGxMXEqyJM1Mw"
+      },
+      {
+        "name": "John Robison",
+        "path": "img/art/artworks/henry-raeburn-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/john-robison-sir-henry-raeburn/4QHiBtYshpf25A"
+      }
+    ],
+    "summary": [
+      "Sir Henry Raeburn FRSE RA RSA was a British portrait painter and Scotland's first significant portrait painter since the Union to remain based in Scotland. He served as Portrait Painter to King George IV in Scotland."
+    ],
+    "quote": null,
+    "movements": ["Romanticism"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Henry_Raeburn",
+    "urlGoogle": "https://artsandculture.google.com/entity/henry-raeburn/m01gt79"
+  },
+  "event": {
+    "id": "siege-of-madrid",
+    "name": "Siege of Madrid",
+    "dates": "Nov 8, 1936 - Mar 28, 1939",
+    "mainImg": "img/events/siege-of-madrid.jpg",
+    "summary": [
+      "The Siege of Madrid was a ​2 ¹⁄₂-year siege of the Spanish capital city of Madrid, during the Spanish Civil War of 1936 to 1939. The city, besieged from October 1936, eventually fell to the Francoist armies on 28 March 1939. Madrid was held by various forces loyal to the Spanish Republic and was besieged and subject to aerial bombardment by the rebel faction under General Francisco Franco. The Battle of Madrid in November 1936 saw the most intense fighting in and around the city when the Nationalists made their most determined attempt to take the Republican capital.",
+      "The highest military awards of the Spanish Republic, the Laureate Plate of Madrid and the Madrid Distinction, established by the Republican government in order to reward courage, were named after the capital of Spain owing to the city symbolizing valour and Antifascist resistance during the long siege throughout the Civil War."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Madrid",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-madrid/m0f14w2"
+  },
+  "funFacts": [
+    {
+      "id": "367",
+      "fact": "International tug of war rules state that the rope must be over 100-feet long.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "1006",
+      "fact": "Ancient Chinese warriors would show off to their enemies before battle, by juggling.",
+      "category": ["History", "Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553537",
+      "fact": "When pirate Richard Worley, captain of the New York’s Revenge, captured his second ship, he named it the New York Revenge’s Revenge."
+    }
+  ],
+  "idiom": {
+    "id": "rest-on-ones-laurels",
+    "term": "rest on one's laurels",
+    "definition": "Rely on one's past achievements, especially as a way of avoiding the work needed to advance one's status. For example, *Now that Julian's in his eighties, he's decided to rest on his laurels and let some of the younger agents do the work.* This term alludes to the crown of laurels awarded in ancient times for a spectacular achievement. [Late 1800s]"
+  },
+  "person": {
+    "id": "neville-chamberlain",
+    "name": "Neville Chamberlain",
+    "dates": "Mar 18, 1869 - Nov 9, 1940",
+    "mainImg": "img/people/neville-chamberlain.jpg",
+    "summary": [
+      "Arthur Neville Chamberlain FRS was a British Conservative politician who served as Prime Minister of the United Kingdom from May 1937 to May 1940. He is best known for his foreign policy of appeasement, and in particular for his signing of the Munich Agreement on 30 September 1938, conceding the German-speaking Sudetenland region of Czechoslovakia to Germany. Following the German invasion of Poland on 1 September 1939, which marked the beginning of World War II, Chamberlain announced the declaration of war on Germany two days later and led Great Britain through the first eight months of the war until his resignation as prime minister on 10 May 1940.",
+      "After working in business and local government, and after a short spell as Director of National Service in 1916 and 1917, Chamberlain followed his father, Joseph Chamberlain, and older half-brother, Austen Chamberlain, in becoming a Member of Parliament in the 1918 general election for the new Birmingham Ladywood division at the age of 49. He declined a junior ministerial position, remaining a backbencher until 1922. He was rapidly promoted in 1923 to Minister of Health and then Chancellor of the Exchequer."
+    ],
+    "quote": "“I believe it is peace in our time.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Neville_Chamberlain",
+    "urlGoogle": "https://artsandculture.google.com/entity/neville-chamberlain/m05cys"
+  },
+  "place": {
+    "id": "tonga",
+    "name": "Tonga",
+    "mainImg": "img/places/tonga.jpg",
+    "summary": [
+      "Tonga, officially named the Kingdom of Tonga, is a Polynesian sovereign state and archipelago comprising 169 islands, of which 36 are inhabited. The total surface area is about 750 square kilometres scattered over 700,000 square kilometres of the southern Pacific Ocean. The state has a population of 100,651 people, of whom 70% reside on the main island of Tongatapu.",
+      "Tonga stretches across approximately 800 kilometres in a north–south line. It is surrounded by Fiji and Wallis and Futuna to the northwest, Samoa to the northeast, Niue to the east, Kermadec to the southwest, and New Caledonia and Vanuatu to the farther west. It is about 1,800 kilometres from New Zealand's North Island.",
+      "From 1900 to 1970, Tonga had British protected state status, with the United Kingdom looking after its foreign affairs under a Treaty of Friendship. The country never relinquished its sovereignty to any foreign power. In 2010, Tonga took a decisive path towards becoming a constitutional monarchy rather than a traditional absolute kingdom, after legislative reforms passed a course for the first partial representative elections."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Tonga",
+    "urlGoogle": "https://artsandculture.google.com/entity/tonga/m07fb6"
+  },
+  "quote": {
+    "id": "80",
+    "quote": "An entrepreneur is someone who jumps off a cliff and builds a plane on the way down.",
+    "author": "Reid Hoffman"
+  },
+  "wiki": {
+    "id": "ford-island",
+    "name": "Ford Island",
+    "summary": "Ford Island is an islet in the center of Pearl Harbor, Oahu, in the US state of Hawaii. Its original area of 334 acres (135 ha) was increased during the 1930s to 441 acres (178 ha) with fill dirt after the US Navy dredged Pearl Harbor to accommodate battleships. The island was the site of an ancient Hawaiian fertility ritual, which was stopped by Christian missionaries during the 1830s. It was given by Kamehameha I to Spanish deserter Francisco de Paula Marín, and was later owned by Seth Porter Ford. In 1916 the US Army bought part of it for use by an aviation division, and by 1939 it was taken over by the US Navy, for whom it was a strategic center of operations in the Pacific Ocean. Ford Island was at the center of the attacks on Pearl Harbor on December 7, 1941, and was designated a National Historic Landmark in 1964. By the late 1990s hundreds of millions of dollars had been invested in real-estate development and infrastructure. Ford Island is home to the USS Arizona memorial, the USS Missouri museum, the Pacific Warfighting Center, and the Pacific Tsunami Warning Center. The island has been featured in films such as Tora! Tora! Tora! and Pearl Harbor.",
+    "url": "https://en.wikipedia.org/wiki/Ford_Island"
+  },
+  "word": {
+    "id": "phosphene",
+    "word": "phosphene",
+    "url": "https://www.merriam-webster.com/dictionary/phosphene",
+    "partOfSpeech": "noun",
+    "pronunciation": "FAHSS-feen",
+    "audioPath": "audio/words/phosphene.mp3",
+    "definitions": ["a luminous impression due to excitation of the retina"],
+    "examples": [
+      "\"One way to see _phosphenes_ is to close your eyes and rub them with your palms or fingers….\" - From Andrew Neher's 1990 book Paranormal and Transcendental Experience",
+      "\"At the event, visitors will draw blindfolded to allow the _phosphenes_ (patterns) to emerge and will be encouraged to draw what they see using charcoal and ochre.\" - From an article in _ENP Newswire_, April 4, 2013"
+    ],
+    "origin": "Phosphenes are the luminous floating stars, zigzags, swirls, spirals, squiggles, and other shapes that you see when closing your eyes tight and pressing them with your fingers. Basically, these phenomena occur when the cells of the retina are stimulated by rubbing or after a forceful sneeze, cough, or blow to the head. The word \"phosphene\" comes from the Greek words \"phōs\" (light) and \"phainein\" (to show). \"Phainein\" is also a contributing element in such words as \"diaphanous,\" \"emphasis,\" \"epiphany,\" and \"phenomenon,\" among others."
+  }
+}

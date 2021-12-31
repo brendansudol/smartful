@@ -1,0 +1,134 @@
+{
+  "artist": {
+    "id": "thomas-gainsborough",
+    "name": "Thomas Gainsborough",
+    "dates": "May 14, 1727 - Aug 2, 1788",
+    "mainImg": "img/art/artists/thomas-gainsborough.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Honourable Mrs Graham (1757 - 1792)",
+        "path": "img/art/artworks/thomas-gainsborough-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-honourable-mrs-graham-1757-1792-thomas-gainsborough/TgHatHjpBVyqrg"
+      },
+      {
+        "name": "The Hon. Mrs. Thomas Graham",
+        "path": "img/art/artworks/thomas-gainsborough-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-hon-mrs-thomas-graham-thomas-gainsborough/6AFbv_OarFooRA"
+      },
+      {
+        "name": "Landscape in Suffolk",
+        "path": "img/art/artworks/thomas-gainsborough-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/landscape-in-suffolk-thomas-gainsborough/1gF92SrzrB7yeA"
+      },
+      {
+        "name": "Portrait of George III",
+        "path": "img/art/artworks/thomas-gainsborough-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-george-iii-thomas-gainsborough-1728–1788/3wGfLWZooytDjg"
+      },
+      {
+        "name": "The Marsham Children",
+        "path": "img/art/artworks/thomas-gainsborough-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-marsham-children-thomas-gainsborough/ZAGVmVTE2nQ9RQ"
+      },
+      {
+        "name": "The Hon. Frances Duncombe",
+        "path": "img/art/artworks/thomas-gainsborough-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-hon-frances-duncombe-thomas-gainsborough/iQFaeEGJw_AF-w"
+      }
+    ],
+    "summary": [
+      "Thomas Gainsborough RA FRSA was an English portrait and landscape painter, draughtsman, and printmaker. Along with his rival Sir Joshua Reynolds, he is considered one of the most important British artists of the second half of the 18th century. He painted quickly, and the works of his maturity are characterised by a light palette and easy strokes. Despite being a prolific portrait painter, Gainsborough gained greater satisfaction from his landscapes. He is credited as the originator of the 18th-century British landscape school. Gainsborough was a founding member of the Royal Academy."
+    ],
+    "quote": null,
+    "movements": ["Rococo", "Renaissance", "Romanticism", "Neoclassicism"],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Ink", "Watercolor painting", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Thomas_Gainsborough",
+    "urlGoogle": "https://artsandculture.google.com/entity/thomas-gainsborough/m07ncv"
+  },
+  "event": {
+    "id": "opium-wars",
+    "name": "Opium Wars",
+    "dates": "1839 - 1860",
+    "mainImg": "img/events/opium-wars.jpg",
+    "summary": [
+      "The Opium Wars were two wars which were waged between Qing dynasty and Western powers in the mid-19th century. The First Opium War, fought in 1839-1842 between the Qing and Great Britain, was triggered by the dynasty's campaign against the opium trade; the Second Opium War was fought between the Qing and Britain and France, 1856-1860. In each war, the European forces used recently developed warfare technology to defeat the Qing forces and compelled the government to grant favorable tariffs, trade concessions, and territory.",
+      "The wars and the subsequently-imposed treaties weakened the Qing dynasty and Chinese governments, and forced China to open specified treaty ports that handled all trade with imperial powers. The resulting concession of Hong Kong after the wars compromised China's territorial sovereignty.",
+      "Around this time China's economy also contracted slightly, but the sizable Taiping Rebellion and Dungan Revolt had a much larger effect."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Opium_Wars",
+    "urlGoogle": "https://artsandculture.google.com/entity/opium-wars/m016sml"
+  },
+  "funFacts": [
+    {
+      "id": "475",
+      "fact": "Wrapping rubber bands around the ends of hangers can prevent clothes from slipping off.",
+      "category": ["Make-it-Easies"]
+    },
+    {
+      "id": "867",
+      "fact": "Franklin Roosevelt was related to 5 U.S. Presidents by blood and 6 by marriage.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504818",
+      "fact": "Although the bobcat is rarely seen, it is the most common wildcat in North America."
+    }
+  ],
+  "idiom": {
+    "id": "take-umbrage",
+    "term": "take umbrage",
+    "definition": "Feel resentment, take offense, as in *Aunt Agatha is quick to take umbrage at any suggestion to do things differently.* This expression features one of the rare surviving uses of *umbrage,* which now means \"resentment\" but comes from the Latin *umbra,* for \"shade,\" and presumably alludes to the \"shadow\" of displeasure. [Late 1600s]"
+  },
+  "person": {
+    "id": "koca-popovic",
+    "name": "Koča Popović",
+    "dates": "Mar 14, 1908 - Oct 20, 1992",
+    "mainImg": "img/people/koca-popovic.jpg",
+    "summary": [
+      "Konstantin \"Koča\" Popović was a Yugoslav politician and communist volunteer in the Spanish Civil War, 1937–1939 and Divisional Commander of the First Proletarian Division of the Yugoslav Partisans. He is on occasion referred to as \"the man who saved the Yugoslav Partisans\", because it was he who anticipated the weakest point in the Axis lines on the Zelengora–Kalinovik axis, and devised the plan for breaking through it during the Battle of Sutjeska, thus saving Tito, his headquarters and the rest of the resistance movement. After the war, he served as the Chief of the General Staff of the Yugoslav People's Army, before moving to the position of Foreign Minister and spent the final years of his political career as the Vice President of Yugoslavia.",
+      "Despite being a member of the Communist Party of Yugoslavia, he was a supporter of free market reforms and was also a member of a group of Serbian liberals, a prominent political movement in the 1970s, which also included Marko Nikezić and Latinka Perović. He retired in 1972, amidst pressure against his group of liberals."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ko%C4%8Da_Popovi%C4%87",
+    "urlGoogle": "https://artsandculture.google.com/entity/koča-popović/m05m_1h"
+  },
+  "place": {
+    "id": "norman",
+    "name": "Norman",
+    "mainImg": "img/places/norman.jpg",
+    "summary": [
+      "Norman is a city in the U.S. state of Oklahoma located 20 miles south of downtown Oklahoma City. As the county seat of Cleveland County and a part of the Oklahoma City metropolitan area, its population was 110,925 at the 2010 census. Norman's estimated population of 124,880 in 2019 makes it the third-largest city in Oklahoma.",
+      "Norman was settled during the Land Run of 1889, which opened the former Unassigned Lands of Indian Territory to American pioneer settlement. The city was named in honor of Abner Norman, the area's initial land surveyor, and was formally incorporated on May 13, 1891. Economically the city has prominent higher education and related research industries, as it is home to the University of Oklahoma, the largest university in the state, with nearly 32,000 students enrolled. The university is well known for its sporting events by teams under the banner of the nickname \"Sooners\", with over 85,000 people routinely attending football games. The university is home to several museums, including the Fred Jones Jr."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Norman,_Oklahoma",
+    "urlGoogle": "https://artsandculture.google.com/entity/norman/m0z4_0"
+  },
+  "quote": {
+    "id": "99",
+    "quote": "The best way to find yourself is to lose yourself in the service of others.",
+    "author": "Mohandas Gandhi"
+  },
+  "wiki": {
+    "id": "sarah-churchill-duchess-of-marlborough",
+    "name": "Sarah Churchill, Duchess of Marlborough",
+    "summary": "Sarah Churchill, Duchess of Marlborough (1660–1744) was one of the most influential women in British history due to her close friendship with Queen Anne of Great Britain. By the time Anne became queen in 1702, Sarah had become a powerful friend and a dangerous enemy, the last in the long line of Stuart favourites. A strong-willed woman who liked to get her own way, Sarah tried the Queen's patience whenever she disagreed with her on political, court or church appointments. Sarah enjoyed an unusually close relationship with her husband, John Churchill, 1st Duke of Marlborough, whom she married in 1677. When Anne came to the throne, the Duke of Marlborough, together with Sidney Godolphin, rose to head the government, partly due to his wife's friendship with the queen. Sarah campaigned on behalf of the British Whig Party, while also devoting time to building projects such as the construction of Blenheim Palace. The money she inherited from the Marlborough trust made her one of the richest women in Europe.",
+    "url": "https://en.wikipedia.org/wiki/Sarah_Churchill,_Duchess_of_Marlborough"
+  },
+  "word": {
+    "id": "prodigy",
+    "word": "prodigy",
+    "url": "https://www.merriam-webster.com/dictionary/prodigy",
+    "partOfSpeech": "noun",
+    "pronunciation": "PRAH-duh-jee",
+    "audioPath": "audio/words/prodigy.mp3",
+    "definitions": ["something extraordinary : wonder", "a highly talented child"],
+    "examples": [
+      "Musical audiences are fascinated by the prodigy, that rare and remarkable youngster who possesses technical mastery to rival that of the best adult performers."
+    ],
+    "origin": "Is a prodigy a genius or a monster -- or both? Nowadays, it's the talent that shines through, but back in the 15th century the word's meaning was more strongly influenced by that of its Latin ancestor, \"prodigium,\" meaning \"omen\" or \"monster.\" Back then, a prodigy could be any strange or weird thing that might be an omen of things to come. Even in modern English, the word sometimes refers to an extraordinary deed or accomplishment. P.G. Wodehouse used that sense when he described how a character named Pongo Twistleton was \"performing prodigies with the \\[billiard\\] cue.\""
+  }
+}

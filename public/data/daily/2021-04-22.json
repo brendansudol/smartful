@@ -1,131 +1,133 @@
 {
   "artist": {
-    "id": "ito-jakuchu",
-    "name": "Itō Jakuchū",
-    "dates": "Mar 1, 1716 - Oct 27, 1800",
-    "mainImg": "img/art/artists/ito-jakuchu.jpg",
+    "id": "jean-etienne-liotard",
+    "name": "Jean-Étienne Liotard",
+    "dates": "Dec 22, 1702 - Jun 12, 1789",
+    "mainImg": "img/art/artists/jean-etienne-liotard.jpg",
     "artworkImgs": [
       {
-        "name": "Elephant",
-        "path": "img/art/artworks/ito-jakuchu-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/elephant-ito-jyakuchu/VwGwrz0SexYogw"
+        "name": "Portrait of Maria Frederike van Reede-Athlone at Seven Years of Age",
+        "path": "img/art/artworks/jean-etienne-liotard-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-jean-étienne-liotard/2wHMXlwUz7puKA"
       },
       {
-        "name": "Elephant",
-        "path": "img/art/artworks/ito-jakuchu-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/elephant-ito-jakuchu/9QGN-n373lK9pg"
+        "name": "Portret van Marie Jos¬phe van Saksen (1731-67), dauphine van Frankrijk",
+        "path": "img/art/artworks/jean-etienne-liotard-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portret-van-marie-jos¬phe-van-saksen-1731-67-dauphine-van-frankrijk-jean-etienne-liotard/sQGS7AmbYhABeg"
       },
       {
-        "name": "Two Gibbons Reaching for the Moon",
-        "path": "img/art/artworks/ito-jakuchu-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/two-gibbons-reaching-for-the-moon-ito-jakuchu/aAGGZdu3IeIYdA"
+        "name": "A Woman in Turkish Dress",
+        "path": "img/art/artworks/jean-etienne-liotard-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-woman-in-turkish-dress-jean-étienne-liotard/VwFN4ePQflg46A"
       },
       {
-        "name": "Rooster, Hen and Chickens",
-        "path": "img/art/artworks/ito-jakuchu-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/rooster-hen-and-chickens-itô-jakuchû/sgEopzA7bjUFhQ"
+        "name": "A Frankish Woman and Her Servant",
+        "path": "img/art/artworks/jean-etienne-liotard-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/a-frankish-woman-and-her-servant-jean-etienne-liotard/NgGm3vmGzGH5xw"
       },
       {
-        "name": "Animals in the Flower garden (Right-hand screen)",
-        "path": "img/art/artworks/ito-jakuchu-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/animals-in-the-flower-garden-right-hand-screen-ito-jakuchu/8QGBpHoNA3IkNg"
+        "name": "Portret van Graaf Francesco Algarotti",
+        "path": "img/art/artworks/jean-etienne-liotard-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portret-van-graaf-francesco-algarotti-jean-etienne-liotard/DwF97BT1cMoZ9w"
       },
       {
-        "name": "月下白梅図|White Plum Blossoms and Moon",
-        "path": "img/art/artworks/ito-jakuchu-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/月下白梅図-white-plum-blossoms-and-moon-itō-jakuchū/DgHtxDrnoZeVAw"
+        "name": "Princess Caroline Louise of Hesse-Darmstadt",
+        "path": "img/art/artworks/jean-etienne-liotard-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/princess-caroline-louise-of-hesse-darmstadt-jean-étienne-liotard/VwEdap0JXfaypQ"
       }
     ],
     "summary": [
-      "Itō Jakuchū was a Japanese painter of the mid-Edo period when Japan had closed its doors to the outside world. Many of his paintings concern traditionally Japanese subjects, particularly chickens and other birds. Many of his otherwise traditional works display a great degree of experimentation with perspective, and with other very modern stylistic elements.",
-      "Compared to Soga Shōhaku and other exemplars of the mid-Edo period eccentric painters, Jakuchū is said to have been very calm, restrained, and professional. He held strong ties to Zen Buddhist ideals, and was considered a lay brother; but he was also keenly aware of his role within a Kyoto society that was becoming increasingly commercial."
+      "Jean-Étienne Liotard was a Swiss painter, art connoisseur and dealer. He is best known for his portraits in pastel, and for the works from his trip to Turkey. A Huguenot of French origin and citizen of the Republic of Geneva, he was born and died in Geneva, but spent most of his career in stays in the capitals of Europe, where his portraits were much in demand. He worked in Rome, Istanbul, Paris, Vienna, London and other cities."
     ],
     "quote": null,
     "movements": [],
-    "mediums": ["Ink", "Silk", "Textile", "Book", "Watercolor painting", "Gold"],
-    "urlWiki": "https://en.wikipedia.org/wiki/It%C5%8D_Jakuch%C5%AB",
-    "urlGoogle": "https://artsandculture.google.com/entity/itō-jakuchū/m0g4p75"
+    "mediums": ["Etching", "Engraving", "Textile", "Drawing", "Oil paint", "Vellum"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean-%C3%89tienne_Liotard",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-étienne-liotard/m07t4v8"
   },
   "event": {
-    "id": "victorian-era",
-    "name": "Victorian era",
-    "dates": "Jun 20, 1837 - Jan 22, 1901",
-    "mainImg": "img/events/victorian-era.jpg",
+    "id": "second-hundred-years-war",
+    "name": "Second Hundred Years' War",
+    "dates": "1689 - 1815",
+    "mainImg": "img/events/second-hundred-years-war.jpg",
     "summary": [
-      "In the history of the United Kingdom, the Victorian era was the period of Queen Victoria's reign, from 20 June 1837 until her death on 22 January 1901. The era followed the Georgian period and preceded the Edwardian period, and its later half overlaps with the first part of the Belle Époque era of Continental Europe. In terms of moral sensibilities and political reforms, this period began with the passage of the Reform Act 1832. There was a strong religious drive for higher moral standards led by the nonconformist churches, such as the Methodists, and the Evangelical wing of the established Church of England. Britain's relations with the other Great Powers were driven by the colonial antagonism of the Great Game with Russia, climaxing during the Crimean War; a Pax Britannica of international free trade was maintained by the country's naval and industrial supremacy. Britain embarked on global imperial expansion, particularly in Asia and Africa, which made the British Empire the largest empire in history. National self-confidence peaked."
+      "The Second Hundred Years' War is a periodization or historical era term used by some historians to describe the series of military conflicts between Great Britain and France that occurred from about 1689 to 1815.",
+      "The Second Hundred Years' War is named after the Hundred Years War, when the rivalry between England and France began in the 14th century. The term appears to have been coined by J. R. Seeley in his influential work The Expansion of England: Two Courses of Lectures."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Victorian_era",
-    "urlGoogle": "https://artsandculture.google.com/entity/victorian-era/m0814f"
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_Hundred_Years%27_War",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-hundred-years-war/m02rgdp0"
   },
   "funFacts": [
-    { "id": "9", "fact": "The average speed of a housefly is 4.5 mph.", "category": ["Animals"] },
     {
-      "id": "383",
-      "fact": "Mount Katahdin in Maine is the first place in the U.S. to get sunlight each morning.",
-      "category": ["Geography"]
+      "id": "340",
+      "fact": "There is an underground mushroom in Oregon that measures 3.5 miles across.",
+      "category": ["Plants", "Geography"]
+    },
+    {
+      "id": "664",
+      "fact": "It is against the law to put pretzels in bags in Philadelphia.",
+      "category": ["Food", "Laws"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504752",
-      "fact": "Cleopatra had a special lipstick made for her, consisting of a crushed mixture of ants and deep red carmine beetles."
+      "id": "554020",
+      "fact": "A stork shot by a hunter in Germany in 1822 was found with a Central African spear piercing its throat, providing scientists with the first evidence for long-distance bird migration."
     }
   ],
   "idiom": {
-    "id": "worth-ones-salt",
-    "term": "worth one's salt",
-    "definition": "Deserving of one's wages; a good employee. In ancient Rome salt was a valuable commodity and was used to pay soldiers. From this came the Latin noun *salarium* and the English *salary.* In the mid-1800s the term was applied to current practices of employment, although salt had long since ceased to be a medium of pay. Thus, \"Paul's done a fine job so far; he's really worth his salt."
+    "id": "cock-a-snook",
+    "term": "cock a snook",
+    "definition": "Thumb one's nose, as in *As soon as the teacher turned her back, the boys cocked a snook at her.* This expression was first recorded in 1791 and the precise source of *snook,* here used in the sense of \"a derisive gesture,\" has been lost. It is more widely used in Britain but is not unknown in America."
   },
   "person": {
-    "id": "raul-castro",
-    "name": "Raul Castro",
-    "dates": "Born Jun 3, 1931",
-    "mainImg": "img/people/raul-castro.jpg",
+    "id": "zoe-lofgren",
+    "name": "Zoe Lofgren",
+    "dates": "Born Dec 21, 1947",
+    "mainImg": "img/people/zoe-lofgren.jpg",
     "summary": [
-      "Raúl Modesto Castro Ruz is a Cuban politician who is currently serving as the First Secretary of the Communist Party of Cuba, the most senior position in the communist state, succeeding his brother Fidel Castro in April 2011. He has also been a member of the Politburo of the Communist Party of Cuba, the highest decision-making body, since 1975. In February 2008, he was appointed the President of the Council of State and President of the Council of Ministers. He stepped down as President on 19 April 2018, but remains the first secretary of the Communist Party, still holding considerable influence over government policy.",
-      "Prior to being appointed acting President of Cuba in July 2006, he served as the commander-in-chief of the Armed Forces from 1959 to 2008. His ministerial tenure made him the longest serving minister of the armed forces. Because of his predecessor's illness, Castro was designated the President of the Council of State in a temporary transfer of power. Castro was officially made President by the National Assembly on 24 February 2008, after Fidel Castro, who was still ailing, announced on 19 February 2008 that he would not stand for President again."
-    ],
-    "quote": "“In Cuba we have one party, but in the U.S. there is very little difference. Both parties are an expression of the ruling class.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Castro",
-    "urlGoogle": "https://artsandculture.google.com/entity/raul-castro/m01gcjq"
-  },
-  "place": {
-    "id": "toulouse",
-    "name": "Toulouse",
-    "mainImg": "img/places/toulouse.jpg",
-    "summary": [
-      "Toulouse is the capital of the French department of Haute-Garonne and of the region of Occitanie. The city is on the banks of the River Garonne, 150 kilometres from the Mediterranean Sea, 230 km from the Atlantic Ocean and 680 km from Paris. It is the fourth-largest city in France, with 466,297 inhabitants as of January 2014.",
-      "The city's unique architecture made of pinkish terracotta bricks has earned Toulouse the nickname La Ville Rose.",
-      "The Toulouse Metro area, with 1,312,304 inhabitants as of 2014, is France's fourth-largest metropolitan area, after Paris, Lyon and Marseille, and ahead of Lille and Bordeaux.",
-      "Toulouse is the centre of the European aerospace industry, with the headquarters of Airbus, the SPOT satellite system, ATR and the Aerospace Valley. It also hosts the European headquarters of Intel and CNES's Toulouse Space Centre, the largest space centre in Europe. Thales Alenia Space, ATR, SAFRAN, Liebherr-Aerospace and Airbus Defence and Space also have a significant presence in Toulouse."
+      "Susan Ellen \"Zoe\" Lofgren is an American politician serving as a U.S. Representative from California. A member of the Democratic Party, Lofgren is in her 13th term as a congresswoman, having been first elected in 1994.",
+      "She was the 16th district's first female U.S. Representative, prior to a portion of the district being redistricted into the 19th congressional district. The district covers much of Santa Clara County, including the cities of Gilroy, Morgan Hill, and most of San Jose. Lofgren has long served on the House Judiciary Committee and in the 116th Congress she is Chair of the House Administration Committee."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Toulouse",
-    "urlGoogle": "https://artsandculture.google.com/entity/toulouse/m0cbhh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Zoe_Lofgren",
+    "urlGoogle": "https://artsandculture.google.com/entity/zoe-lofgren/m024t94"
+  },
+  "place": {
+    "id": "zimbabwe",
+    "name": "Zimbabwe",
+    "mainImg": "img/places/zimbabwe.jpg",
+    "summary": [
+      "Zimbabwe, officially the Republic of Zimbabwe, formerly Rhodesia, is a landlocked country located in Southern Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa, Botswana, Zambia and Mozambique. The capital and largest city is Harare. The second largest city is Bulawayo. A country of roughly 14 million people, Zimbabwe has 16 official languages, with English, Shona, and Ndebele the most common.",
+      "Since the 11th century, present-day Zimbabwe has been the site of several organised states and kingdoms as well as a major route for migration and trade. The British South Africa Company of Cecil Rhodes first demarcated the present territory during the 1890s; it became the self-governing British colony of Southern Rhodesia in 1923. In 1965, the conservative white minority government unilaterally declared independence as Rhodesia. The state endured international isolation and a 15-year guerrilla war with black nationalist forces; this culminated in a peace agreement that established universal enfranchisement and de jure sovereignty as Zimbabwe in April 1980."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Zimbabwe",
+    "urlGoogle": "https://artsandculture.google.com/entity/zimbabwe/m088q4"
   },
   "quote": {
-    "id": "64",
-    "quote": "I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name.",
-    "author": "Larry Page"
+    "id": "107",
+    "quote": "Looking at life from a different perspective makes you realise that it’s not the deer that is crossing the road, rather it’s the road that is crossing the forest.",
+    "author": "Muhammad Ali"
   },
   "wiki": {
-    "id": "noronha-skink",
-    "name": "Noronha skink",
-    "summary": "The Noronha skink is a species of skink from the island of Fernando de Noronha off northeastern Brazil. Perhaps seen by Amerigo Vespucci in 1503, it was first formally described in 1839. Its subsequent taxonomic history has been complex, riddled with confusion with Trachylepis maculata and other species, homonyms, and other problems. The species is classified in the otherwise mostly African genus Trachylepis and is thought to have reached its island from Africa by rafting. The enigmatic Trachylepis tschudii, supposedly from Peru, may be the same species as the Noronha skink. The Noronha skink is covered with dark and light spots on the upperparts and is usually about 7 to 10 cm (3 to 4 in) in length. The tail is long and muscular, but breaks off easily. Very common throughout Fernando de Noronha, it is an opportunistic feeder, eating both insects and plant material, including nectar from the Erythrina velutina tree, as well as other material ranging from cookie crumbs to eggs of its own species. Introduced predators such as cats prey on it and several parasitic worms infect it.",
-    "url": "https://en.wikipedia.org/wiki/Noronha_skink"
+    "id": "olga-constantinovna-of-russia",
+    "name": "Olga Constantinovna of Russia",
+    "summary": "Olga Constantinovna of Russia (1851–1926) was Queen of the Hellenes as the wife of King George I of Greece. A member of the Romanov dynasty, she married George in 1867 aged 16. At first, she felt ill at ease in the Kingdom of Greece, but she quickly became involved in social and charitable work, although her attempt to promote a new, more accessible, Greek translation of the Gospels sparked riots by religious conservatives. On the assassination of her husband in 1913, Olga returned to Russia. When the First World War broke out, she set up a military hospital in Pavlovsk Palace. She was trapped there after the Russian Revolution of 1917, until the intervention of the Danish embassy allowed her to escape to Switzerland. Olga could not return to Greece as her son, King Constantine I, had been deposed. In October 1920, she returned to Athens on the fatal illness of her grandson, King Alexander. After his death, she was appointed regent until the restoration of Constantine I the following month. The Greek royal family were again exiled after defeat in the Greco-Turkish War (1919–22) and Olga spent the last years of her life in the United Kingdom, France and Italy.",
+    "url": "https://en.wikipedia.org/wiki/Olga_Constantinovna_of_Russia"
   },
   "word": {
-    "id": "modicum",
-    "word": "modicum",
-    "url": "https://www.merriam-webster.com/dictionary/modicum",
-    "partOfSpeech": "noun",
-    "pronunciation": "MAH-dih-kum",
-    "audioPath": "audio/words/modicum.mp3",
-    "definitions": ["a small portion : a limited quantity"],
+    "id": "indurate",
+    "word": "indurate",
+    "url": "https://www.merriam-webster.com/dictionary/indurate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "IN-duh-rut",
+    "audioPath": "audio/words/indurate.mp3",
+    "definitions": ["physically or morally hardened"],
     "examples": [
-      "If you had possessed a modicum of sense, you would have paused to think before accepting such a dangerous job."
+      "The sculpture was so realistic that it seemed that at any moment the indurate marble form would shift position to stare back at the viewer."
     ],
-    "origin": "What does \"modicum\" have to do with a toilet? It just so happens that \"modicum\" shares the same Latin parent as \"commode,\" which is a synonym of \"toilet.\" \"Modicum\" and \"commode\" ultimately derive from the Latin noun \"modus,\" which means \"measure.\" \"Modicum\" has been a part of the English language since the 15th century. It descends from the Latin \"modicus\" (\"moderate\"), which is itself a descendant of \"modus.\" (Logically enough, \"modicum\" refers to a small \"measure\" of something.) \"Modus\" really measures up as a Latin root -- it also gave us \"mode\" (originally a kind of musical \"measure\"), \"modal,\" \"model,\" \"modern,\" \"modify,\" and \"modulate.\" More distant relatives include \"mete,\" \"moderate,\" and \"modest.\""
+    "origin": "\"Indurate\" is a hard word -- in more than one way. Not only is it fairly uncommon in modern usage, but it also can be traced back to Latin \"durare,\" meaning \"to harden.\" (\"Durare\" can mean \"to endure\" as well, and appropriately \"indurate\" is a word that has lasted many years -- it has been a part of the English language since the 14th century.) \"Durare\" is also the root of other durable English words, including \"during,\" \"endure,\" \"duration,\" \"durance\" (an archaic word meaning \"endurance\"), and even \"durable\" itself. In addition, \"indurate\" can be a verb meaning \"to make or grow hard,\" \"to make unfeeling, stubborn, or obdurate,\" and \"to establish firmly.\""
   }
 }

@@ -1,128 +1,133 @@
 {
   "artist": {
-    "id": "jean-dubuffet",
-    "name": "Jean Dubuffet",
-    "dates": "Jul 31, 1901 - May 12, 1985",
-    "mainImg": "img/art/artists/jean-dubuffet.jpg",
+    "id": "canaletto",
+    "name": "Canaletto",
+    "dates": "Oct 28, 1697 - Apr 19, 1768",
+    "mainImg": "img/art/artists/canaletto.jpg",
     "artworkImgs": [
       {
-        "name": "Untitled",
-        "path": "img/art/artworks/jean-dubuffet-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/untitled-jean-dubuffet/GAHE_qwEefp8jw"
+        "name": "The Piazza San Marco, Venice",
+        "path": "img/art/artworks/canaletto-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-piazza-san-marco-venice-canaletto/lQFEnk8LXDYI3g"
       },
       {
-        "name": "Appearance in Court",
-        "path": "img/art/artworks/jean-dubuffet-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/appearance-in-court-jean-dubuffet/aAFQwFR5PbXsKA"
+        "name": "The Square of Saint Mark's, Venice",
+        "path": "img/art/artworks/canaletto-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-square-of-saint-mark-s-venice-canaletto/wwHV8RxdSSxDlQ"
       },
       {
-        "name": "Six Fish and Bird",
-        "path": "img/art/artworks/jean-dubuffet-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/six-fish-and-bird-jean-dubuffet/OAGzNcyAoAI5rw"
+        "name": "The Entrance to the Grand Canal, Venice",
+        "path": "img/art/artworks/canaletto-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-entrance-to-the-grand-canal-venice-canaletto/YQE8EgCyh0-drg"
       },
       {
-        "name": "Pèpinièriste",
-        "path": "img/art/artworks/jean-dubuffet-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/pèpinièriste/hgEq7mGylCX9-w"
+        "name": "Dresden seen from the Right Bank of the Elbe, beneath the Augusts Bridge",
+        "path": "img/art/artworks/canaletto-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/dresden-seen-from-the-right-bank-of-the-elbe-beneath-the-augusts-bridge/qQFzYAxekEVoBA"
       },
       {
-        "name": "Sinfonia pastorale",
-        "path": "img/art/artworks/jean-dubuffet-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/sinfonia-pastorale-jean-dubuffet/0AFtWKe1qAxr6g"
+        "name": "The Piazza San Marco in Venice",
+        "path": "img/art/artworks/canaletto-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-piazza-san-marco-in-venice-canaletto/ngEjiEaEofpMEg"
+      },
+      {
+        "name": "The Grand Canal near the Rialto Bridge, Venice",
+        "path": "img/art/artworks/canaletto-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-grand-canal-near-the-rialto-bridge-venice-canaletto/6wHkcjIgYsXMkA"
       }
     ],
     "summary": [
-      "Jean Philippe Arthur Dubuffet was a French painter and sculptor. His idealistic approach to aesthetics embraced so called \"low art\" and eschewed traditional standards of beauty in favor of what he believed to be a more authentic and humanistic approach to image-making. He is perhaps best known for founding the art movement Art Brut, and for the collection of works—Collection de l'art brut—that this movement spawned. Dubuffet enjoyed a prolific art career, both in France and in America, and was featured in many exhibitions throughout his lifetime."
-    ],
-    "quote": "“For me, insanity is super sanity. The normal is psychotic. Normal means lack of imagination, lack of creativity.”",
-    "movements": ["Modern art", "Modernism", "Outsider art"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jean_Dubuffet",
-    "urlGoogle": "https://artsandculture.google.com/entity/jean-dubuffet/m01pyt1"
-  },
-  "event": {
-    "id": "occupy-movement",
-    "name": "Occupy movement",
-    "dates": null,
-    "mainImg": "img/events/occupy-movement.jpg",
-    "summary": [
-      "The Occupy movement was an international progressive socio-political movement that expressed opposition to social and economic inequality and to the lack of \"real democracy\" around the world. It aimed primarily to advance social and economic justice and new forms of democracy. The movement had many different scopes, since local groups often had different focuses, but its prime concerns included how large corporations control the world in a way that disproportionately benefited a minority, undermined democracy and caused instability. It formed part of what Manfred Steger called the \"global justice movement\".",
-      "The first Occupy protest to receive widespread attention, Occupy Wall Street in New York City's Zuccotti Park, began on 17 September 2011. By 9 October, Occupy protests had taken place or were ongoing in over 951 cities across 82 countries, and in over 600 communities in the United States. Although the movement became most active in the United States, by October 2011 Occupy protests and occupations had started in dozens of other countries across every widely inhabited continent."
+      "Giovanni Antonio Canal, commonly known as Canaletto, was an Italian painter of city views or vedute, of Venice, Rome, and London. He also painted imaginary views, although the demarcation in his works between the real and the imaginary is never quite clearcut. He was further an important printmaker using the etching technique. In the period from 1746 to 1756 he worked in England where he painted many views of London and other sites including Warwick Castle and Alnwick Castle. He was highly successful in England, thanks to the British merchant and connoisseur Joseph \"Consul\" Smith, whose large collection of Canaletto's works was sold to King George III in 1762."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Occupy_movement",
-    "urlGoogle": "https://artsandculture.google.com/entity/occupy-movement/m0h93zy7"
+    "movements": ["Rococo"],
+    "mediums": ["Etching", "Laid paper", "Oil paint", "Ink", "Pen", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Canaletto",
+    "urlGoogle": "https://artsandculture.google.com/entity/canaletto/m01fbwn"
+  },
+  "event": {
+    "id": "battle-of-quatre-bras",
+    "name": "Battle of Quatre Bras",
+    "dates": null,
+    "mainImg": "img/events/battle-of-quatre-bras.jpg",
+    "summary": [
+      "The Battle of Quatre Bras was fought on 16 June 1815, as a preliminary engagement to the decisive Battle of Waterloo that occurred two days later. The battle took place near the strategic crossroads of Quatre Bras and was contested between elements of the Duke of Wellington's Anglo-allied army and the left wing of Napoleon Bonaparte's French Armée du Nord under Marshal Michel Ney. While the battle was tactically indecisive, Napoleon achieved his larger strategic aim of preventing Wellington's forces from aiding the Prussian army at the Battle of Ligny, which the French won the same day."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Quatre_Bras",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-quatre-bras/m031_gr"
   },
   "funFacts": [
     {
-      "id": "708",
-      "fact": "Manufacturing recycled goods uses up to 95% less energy than using raw materials.",
-      "category": ["Science"]
+      "id": "988",
+      "fact": "Each year, the Moon moves away from Earth by about four centimeters.",
+      "category": ["Geography", "Science"]
     },
-    { "id": "238", "fact": "An ostrich's brain is smaller than its eye.", "category": ["Animals"] }
+    {
+      "id": "426",
+      "fact": "The Empire State Building has 73 elevators.",
+      "category": ["Hodgepodge"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "504556",
-      "fact": "Goosebumps are actually caused by a muscle. It is called the arrector pili muscle."
+      "id": "504591",
+      "fact": "The term “lawn mullet” means having a neatly manicured front yard and an unmowed mess in the back."
     }
   ],
   "idiom": {
-    "id": "for-a-song",
-    "term": "for a song",
-    "definition": "Very cheaply, for little money, especially for less than something is worth. For example, \"I know a man ... sold a goodly manor for a song\" (Shakespeare, *All's Well That Ends Well,* 3:2). This idiom alludes to the pennies given to street singers or to the small cost of sheet music. [Late 1500s]"
+    "id": "from-the-sublime-to-the-ridiculous",
+    "term": "from the sublime to the ridiculous",
+    "definition": "From the beautiful to the silly, from great to puny. For example, *They played first Bach and then an ad jingle---from the sublime to the ridiculous.* The reverse, **from the ridiculous to the sublime,** is used with the opposite meaning. Coined by Tom Paine in *The Age of Reason* (1794), in which he said the two are so closely related that it is but one step from one to the other, the phrase has been often repeated in either order."
   },
   "person": {
-    "id": "salmon-p-chase",
-    "name": "Salmon P. Chase",
-    "dates": "Jan 13, 1808 - May 7, 1873",
-    "mainImg": "img/people/salmon-p-chase.jpg",
+    "id": "thami-el-glaoui",
+    "name": "Thami El Glaoui",
+    "dates": "1879 - Jan 23, 1956",
+    "mainImg": "img/people/thami-el-glaoui.jpg",
     "summary": [
-      "Salmon Portland Chase was a U.S. politician and jurist who served as the sixth Chief Justice of the United States. He also served as the 23rd Governor of Ohio, represented Ohio in the United States Senate, and served as the 25th United States Secretary of the Treasury. Chase was therefore one of a few U.S. politicians who served in all three branches of the federal government.",
-      "Born in Cornish, New Hampshire, Chase studied law under Attorney General William Wirt before establishing a legal practice in Cincinnati. He became an anti-slavery activist and frequently defended fugitive slaves in court. Chase left the Whig Party in 1841 to become the leader of Ohio's Liberty Party. In 1848, he helped establish the Free Soil Party and recruited former President Martin Van Buren to serve as the party's presidential nominee. Chase won election to the Senate the following year, and he opposed the Compromise of 1850 and the Kansas–Nebraska Act. In the aftermath of the Kansas–Nebraska Act, Chase helped establish the Republican Party, which opposed the extension of slavery into the territories. After leaving the Senate, Chase served as the Governor of Ohio from 1856 to 1860."
-    ],
-    "quote": "“The way to resumption is to resume.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Salmon_P._Chase",
-    "urlGoogle": "https://artsandculture.google.com/entity/salmon-p-chase/m019vz0"
-  },
-  "place": {
-    "id": "radom",
-    "name": "Radom",
-    "mainImg": "img/places/radom.jpg",
-    "summary": [
-      "Radom is a city in east-central Poland, located 100 kilometres south of Poland's capital, Warsaw, on the Mleczna River, in the Masovian Voivodeship, having previously been the capital of Radom Voivodeship. Despite being part of the Masovian Voivodeship, the city historically belongs to Lesser Poland. For centuries, Radom was part of the Sandomierz Voivodeship of the Kingdom of Poland and the later Polish-Lithuanian Commonwealth. It was an important center of administration, having served as seat of the Crown Council. The Pact of Vilnius and Radom was signed there in 1401, and the Nihil novi and Łaski's Statute were adopted by the Sejm at Radom's Royal Castle in 1505. In 1976, it was a center of anti Communist street protests. Radom is the fourteenth-largest city in Poland and the second-largest in the voivodeship with a population of 213,029 as of 2018, down from 221,066 in 2011.",
-      "The city is home to the biennial Radom Air Show, the largest and best-attended air show in Poland, held during the last weekend of August."
+      "Thami El Glaoui, known in English as Lord of the Atlas, was the Pasha of Marrakesh from 1912 to 1956. His family name was el Mezouari, from a title given an ancestor by Ismail Ibn Sharif in 1700, while El Glaoui refers to his chieftainship of the Glaoua tribe of the Berbers of southern Morocco, based at the Kasbah of Telouet in the High Atlas and at Marrakesh. El Glaoui became head of the Glaoua upon the death of his elder brother, Si el-Madani, and as an ally of the French protectorate in Morocco, conspired with them in the overthrow of Sultan Mohammed V."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Radom",
-    "urlGoogle": "https://artsandculture.google.com/entity/radom/m0jx0k"
+    "urlWiki": "https://en.wikipedia.org/wiki/Thami_El_Glaoui",
+    "urlGoogle": "https://artsandculture.google.com/entity/thami-el-glaoui/m09nqky"
+  },
+  "place": {
+    "id": "hyderabad",
+    "name": "Hyderabad",
+    "mainImg": "img/places/hyderabad.jpg",
+    "summary": [
+      "Hyderabad is the capital and largest city of the Indian state of Telangana and de jure capital of Andhra Pradesh. Occupying 625 square kilometres along the banks of the Musi River, located on the Deccan Plateau in the northern part of South India. At an average altitude of 542 metres, much of Hyderabad is situated on hilly terrain around artificial lakes, including Hussain Sagar lake—predating the city's founding—north of the city centre. Hyderabad City has a population of about 6.9 million, with about 9.7 million in Hyderabad Metropolitan Region, making it the fourth-most populous city and sixth-most populous urban agglomeration in India. With an output of US$74 billion, Hyderabad is the fifth-largest contributor to India's overall gross domestic product.",
+      "In 1591 Qutb Shahi ruler Muhammad Quli Qutb Shah established Hyderabad to extend the capital beyond the fortified Golconda. In 1687 the city was annexed by the Mughals. In 1724 Mughal governor Nizam Asaf Jah I declared his sovereignty and founded the Asaf Jahi dynasty, also known as the Nizams. Hyderabad served as the imperial capital of the Asaf Jahi from 1769 to 1948."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hyderabad",
+    "urlGoogle": "https://artsandculture.google.com/entity/hyderabad/m09c6w"
   },
   "quote": {
-    "id": "107",
-    "quote": "Looking at life from a different perspective makes you realise that it’s not the deer that is crossing the road, rather it’s the road that is crossing the forest.",
-    "author": "Muhammad Ali"
+    "id": "103",
+    "quote": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+    "author": "Pablo Picasso"
   },
   "wiki": {
-    "id": "prostate-cancer",
-    "name": "Prostate cancer",
-    "summary": "Prostate cancer is a disease in which cancer develops in the prostate, a gland in the male reproductive system. Cancer occurs when cells of the prostate mutate and begin to multiply out of control. These cells may spread (metastasize) from the prostate to other parts of the body, especially the bones and lymph nodes. Prostate cancer can cause pain, difficulty urinating, erectile dysfunction, and other symptoms. Prostate cancer only occurs in men and develops most frequently in individuals over fifty years old. It is the second most common type of cancer in men; among men, it is responsible for more deaths than any other cancer except lung cancer. Prostate cancer is most often discovered by screening blood tests, such as the PSA (prostate specific antigen) test or by physical examination of the prostate gland by a health care provider. Prostate cancer can be treated with surgery, radiation therapy, hormone therapy, occasionally chemotherapy, or some combination of these. The age and underlying health of the man as well as the extent of spread, appearance under the microscope, and response of the cancer to initial treatment are important in determining the outcome of the disease.",
-    "url": "https://en.wikipedia.org/wiki/Prostate_cancer"
+    "id": "crab-nebula",
+    "name": "Crab Nebula",
+    "summary": "The Crab Nebula is a supernova remnant in the constellation of Taurus. The nebula was first observed by John Bevis in 1731, and is the remnant of a supernova that was recorded by Chinese and Arab astronomers in 1054 as being visible during daylight for 23 days. Located at a distance of about 6,300 light years from Earth, it has a diameter of 6 light years and is expanding at a rate of about 1500 kilometres per second. A pulsar in the centre of the nebula rotates 30 times per second, emitting pulses of radiation across the electromagnetic spectrum from radio waves to gamma rays. Its discovery provided the first conclusive evidence that supernova explosions produce the extremely dense neutron stars which are observed as pulsars. The nebula acts as a source of radiation for studying celestial bodies that occult it. The Sun's corona was mapped in the 1950s and 60s from observations of the Crab's radio waves passing through it, and more recently, the thickness of the atmosphere of Saturn's moon Titan was measured as it blocked out X-rays from the nebula.",
+    "url": "https://en.wikipedia.org/wiki/Crab_Nebula"
   },
   "word": {
-    "id": "ossify",
-    "word": "ossify",
-    "url": "https://www.merriam-webster.com/dictionary/ossify",
-    "partOfSpeech": "verb",
-    "pronunciation": "AH-suh-fye",
-    "audioPath": "audio/words/ossify.mp3",
+    "id": "eisteddfod",
+    "word": "eisteddfod",
+    "url": "https://www.merriam-webster.com/dictionary/eisteddfod",
+    "partOfSpeech": "noun",
+    "pronunciation": "eye-STETH-vawd",
+    "audioPath": "audio/words/eisteddfod.mp3",
     "definitions": [
-      "to become or change into bone or bony tissue",
-      "to become or make hardened or set in one's ways"
+      "a usually Welsh competitive festival of the arts especially in poetry and singing"
     ],
     "examples": [
-      "When a baby is born, many of the bones in its body have yet to _ossify_.",
-      "\"But too many businesses are surviving because credit costs nothing, and bankers care little whether their borrowers are profitable or not. That has two damaging consequences: it _ossifies_ corporate culture, and it drags down productivity.\" -- From an article in _The Economist_, November 18, 2010"
+      "This year's eisteddfod featured some exceptional recorder and guitar playing, but as in past years it was the bards who were the highlight of the festival."
     ],
-    "origin": "The skeletons of mammals originate as soft cartilage that gradually transforms into hard bone (in humans, the process begins in the womb and continues until late adolescence). English speakers have referred to this bone-building process as \"ossification\" since the late 17th century, and the verb \"ossify\" arrived soon after the noun. English speakers began to use \"ossification\" and \"ossify\" for more figurative types of hardening (such as that of the heart, mind, or soul) in the 19th century. Both words descend from the Latin root \"os,\" meaning \"bone.\" \"Os\" is also an English word that appears in scientific contexts as a synonym of \"bone,\" and the Latin term is an ancestor of the word \"osseous,\" which means \"consisting of or resembling bone.\""
+    "origin": "In Medieval times, Welsh bards and minstrels would assemble together for an \"eisteddfod\" (the Welsh word for \"session\") of poetry and music competition. Over time, participation and interest in these competitions lessened, and by the 17th century an eisteddfod was far from the courtly affair it once was. The competition was revived in the 19th century as a way to showcase Wales's artistic culture. It was also in that century that an official council was formed to organize the annual National Eisteddfod of Wales, an event still held each summer alternately in North or South Wales. There are awards for music, prose, drama, and art, but the one for poetry remains the eisteddfod's pinnacle."
   }
 }

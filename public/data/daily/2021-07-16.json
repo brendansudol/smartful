@@ -1,129 +1,126 @@
 {
   "artist": {
-    "id": "giuseppe-arcimboldo",
-    "name": "Giuseppe Arcimboldo",
-    "dates": "Apr 5, 1526 - Jul 11, 1593",
-    "mainImg": "img/art/artists/giuseppe-arcimboldo.jpg",
+    "id": "theodor-kittelsen",
+    "name": "Theodor Kittelsen",
+    "dates": "Apr 27, 1857 - Jan 21, 1914",
+    "mainImg": "img/art/artists/theodor-kittelsen.jpg",
     "artworkImgs": [
       {
-        "name": "L’Ortolano - Giuseppe Arcimboldo",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/l’ortolano-giuseppe-arcimboldo-giuseppe-arcimboldo/YgEItjbKaPkX9Q"
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/theodor-kittelsen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-theodor-kittelsen/AQHQgVMjO160pw"
       },
       {
-        "name": "Rudolf II of Habsburg as Vertumnus",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/rudolf-ii-of-habsburg-as-vertumnus-giuseppe-arcimboldo/TAGn3nhWHkbIBA"
+        "name": "Draugen",
+        "path": "img/art/artworks/theodor-kittelsen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/draugen-theodor-kittelsen/tQH2UebX5N8O5Q"
       },
       {
-        "name": "The Librarian",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-librarian-giuseppe-arcimboldo/GgEi3YoGxi2baw"
+        "name": "On the Way to Nordland on Værøy Island",
+        "path": "img/art/artworks/theodor-kittelsen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/on-the-way-to-nordland-on-værøy-island-theodor-kittelsen/3gEZlbckMBljug"
       },
       {
-        "name": "La Primavera",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/la-primavera-giuseppe-arcimboldo/iwHATomxJenU4w"
+        "name": "Far, far away Soria Moria Palace shimmered like Gold",
+        "path": "img/art/artworks/theodor-kittelsen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/far-far-away-soria-moria-palace-shimmered-like-gold-theodor-kittelsen/8QF8WiI1uWc69Q"
       },
       {
-        "name": "Four Seasons in One Head",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/four-seasons-in-one-head/WwHACWGI-pgLUQ"
+        "name": "The twelwe wild Ducks",
+        "path": "img/art/artworks/theodor-kittelsen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-twelwe-wild-ducks-theodor-kittelsen/gwFdWszsx5-EdQ"
       },
       {
-        "name": "Self Portrait",
-        "path": "img/art/artworks/giuseppe-arcimboldo-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-giuseppe-arcimboldo/3gHpTvmCqrcIlg"
+        "name": "The Princess picking Lice from the Troll",
+        "path": "img/art/artworks/theodor-kittelsen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-princess-picking-lice-from-the-troll-theodor-kittelsen/BQGzdvlSTW4_-Q"
       }
     ],
     "summary": [
-      "Giuseppe Arcimboldo was an Italian painter best known for creating imaginative portrait heads made entirely of objects such as fruits, vegetables, flowers, fish and books.",
-      "These works form a distinct category from his other productions. He was a conventional court painter of portraits for three Holy Roman emperors in Vienna and Prague, also producing religious subjects and, among other things, a series of coloured drawings of exotic animals in the imperial menagerie. He specialized in grotesque symbolical compositions of fruits, animals, landscapes, or various inanimate objects arranged into human forms. The still-life portraits were clearly partly intended as whimsical curiosities to amuse the court, but critics have speculated as to how seriously they engaged with Renaissance Neo-Platonism or other intellectual currents of the day."
+      "Theodor Severin Kittelsen was a Norwegian artist. He is one of the most popular artists in Norway. Kittelsen became famous for his nature paintings, as well as for his illustrations of fairy tales and legends, especially of trolls."
     ],
     "quote": null,
-    "movements": ["Baroque", "Renaissance", "Rococo"],
-    "mediums": ["Oil paint", "Drawing", "Ink", "Pigment", "Pen", "Etching"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo",
-    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-arcimboldo/m030b1q"
+    "movements": [],
+    "mediums": ["Oil paint", "Drawing", "Pencil", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Theodor_Kittelsen",
+    "urlGoogle": "https://artsandculture.google.com/entity/theodor-kittelsen/m049zz1"
   },
   "event": {
-    "id": "mau-mau-uprising",
-    "name": "Mau Mau Uprising",
-    "dates": "1952 - 1960",
-    "mainImg": "img/events/mau-mau-uprising.jpg",
+    "id": "new-york-city-blackout-of-1977",
+    "name": "New York City blackout of 1977",
+    "dates": "Jul 13, 1977 - Jul 14, 1977",
+    "mainImg": "img/events/new-york-city-blackout-of-1977.jpg",
     "summary": [
-      "The Mau Mau Uprising, also known as the Mau Mau Rebellion, the Kenya Emergency, and the Mau Mau Revolt, was a war in the British Kenya Colony between the Kenya Land and Freedom Army, also known as Mau Mau, and the British authorities.",
-      "Dominated by the Kikuyu people, Meru people and Embu people, the KLFA also comprised units of Kamba and Maasai peoples who fought against the white European colonist-settlers in Kenya, the British Army, and the local Kenya Regiment.",
-      "The capture of rebel leader, Field Marshal Dedan Kimathi, on 21 October 1956, signalled the defeat of the Mau Mau, however, the rebellion survived until after Kenya's independence from Britain, driven mainly by the Meru units led by Field Marshal Musa Mwariama and General Baimungi. Baimuingi, one of the last Mau Mau generals, was killed shortly after Kenya attained self-rule.",
-      "The KLFA failed to capture widespread public support. Frank Füredi, in The Mau Mau War in Perspective suggests this was due to a British policy of divide and rule but fails to cite any contemporary British government documents which support this assertion."
+      "The New York City blackout of 1977 was an electricity blackout that affected most of New York City on July 13–14, 1977. The only neighborhoods in the city that were not affected were in southern Queens, which were part of the Long Island Lighting Company system, as well as the Pratt Institute campus in Brooklyn, as well as some other large apartment and commercial complexes that operated their own historic power generators.",
+      "Unlike other blackouts that affected the region, namely the Northeast blackouts of 1965 and 2003, the 1977 blackout was confined to New York City and its immediate surrounding areas. Also, in contrast to the 1965 and 2003 blackouts, the 1977 blackout resulted in citywide looting and other acts of criminal activity, including arson."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Mau_Mau_Uprising",
-    "urlGoogle": "https://artsandculture.google.com/entity/mau-mau-uprising/m015nr_"
+    "urlWiki": "https://en.wikipedia.org/wiki/New_York_City_blackout_of_1977",
+    "urlGoogle": "https://artsandculture.google.com/entity/new-york-city-blackout-of-1977/m02j2gt"
   },
   "funFacts": [
+    { "id": "18", "fact": "A jellyfish is approximately 95% water.", "category": ["Animals"] },
     {
-      "id": "124",
-      "fact": "Seals sleep only one and a half minutes at a time.",
-      "category": ["Animals", "Onlies"]
-    },
-    {
-      "id": "1026",
-      "fact": "Remove all the space between its atoms and Earth would be the size of a baseball.",
-      "category": ["Science"]
+      "id": "924",
+      "fact": "The highest denomination issued by the U.S. was the 100,000 dollar bill.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
-    { "id": "504758", "fact": "The Eiffel Tower leans slightly toward the shade on sunny days." }
+    {
+      "id": "554041",
+      "fact": "According to one study, most dogs reach peak cuteness between six and eight weeks old."
+    }
   ],
   "idiom": {
-    "id": "whats-sauce-for-the-goose-is-sauce-for-the-gander",
-    "term": "what's sauce for the goose is sauce for the gander",
-    "definition": "What applies to one applies to both, especially to both male and female. For example, *After her husband went off with his fishing buddies for a week, she decided to take a vacation without him---what's sauce for the goose, you know.* This proverbial expression, often shortened as in the example, was cited and described as \"a woman's proverb\" in John Ray's *English Proverbs* (1678)."
+    "id": "as-comfortable-as-an-old-shoe",
+    "term": "as comfortable as an old shoe",
+    "definition": "Familiar and very much at ease, as in *Kathy's really enjoying her third summer at the same camp -- for her it's comfortable as an old shoe.* This simile was once put **as easy as an old shoe,** first recorded in J. T. Brockett's *North Country Glossary* (1825). It was most often applied to friends, as in the proverb **Old shoes are easy, old friends are best,** but today it is used more broadly for easy familiarity in any situation."
   },
   "person": {
-    "id": "frank-murphy",
-    "name": "Frank Murphy",
-    "dates": "Apr 13, 1890 - Jul 19, 1949",
-    "mainImg": "img/people/frank-murphy.jpg",
+    "id": "vladimir-putin",
+    "name": "Vladimir Putin",
+    "dates": "Born Oct 7, 1952",
+    "mainImg": "img/people/vladimir-putin.jpg",
     "summary": [
-      "William Francis Murphy was a Democratic politician and jurist from Michigan. He was named to the Supreme Court of the United States in 1940 after a political career that included serving as United States Attorney General, Governor of Michigan and Mayor of Detroit. He also served as the last Governor General of the Philippine Islands and the first High Commissioner of the Philippines.",
-      "Born in \"The Thumb\" region of Michigan, Murphy graduated from the University of Michigan Law School in 1914. After serving in the United States Army during World War I, he served as a federal attorney and trial judge. He served as Mayor of Detroit from 1930 to 1933 before accepting appointment as Governor-General of the Philippine Islands. He defeated incumbent Republican Governor Frank Fitzgerald in Michigan's 1936 gubernatorial election and served a single term as Governor of Michigan. Murphy lost re-election to Fitzgerald in 1938 and accepted appointment as the United States Attorney General the following year.",
-      "In 1940, President Franklin D. Roosevelt appointed Murphy to the Supreme Court to fill a vacancy caused by the death of Pierce Butler."
+      "Vladimir Vladimirovich Putin is a Russian politician and former intelligence officer who has served as President of Russia since 2012, previously holding the position from 1999 until 2008. He was also the Prime Minister of Russia from 1999 to 2000 and again from 2008 to 2012.",
+      "Putin was born in Leningrad and studied law at Leningrad State University, graduating in 1975. Putin worked as a KGB foreign intelligence officer for 16 years, rising to the rank of Lieutenant Colonel, before resigning in 1991 to begin a political career in Saint Petersburg. He later moved to Moscow in 1996 to join the administration of President Boris Yeltsin, serving first as Director of the Federal Security Service, the KGB's successor agency, before being appointed as prime minister in August 1999. After the resignation of Yeltsin, Putin was elected in 2000 to succeed him.",
+      "During his first tenure as president, the Russian economy grew for eight straight years, with GDP measured by purchasing power increasing by 72%. The growth was a result of the 2000s commodities boom, recovery from the post-Communist depression and financial crises, and prudent economic and fiscal policies."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Frank_Murphy",
-    "urlGoogle": "https://artsandculture.google.com/entity/frank-murphy/m02jnth"
+    "quote": "“We don't need a weakened government but a strong government that would take responsibility for the rights of the individual and care for the society as a whole.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+    "urlGoogle": "https://artsandculture.google.com/entity/vladimir-putin/m08193"
   },
   "place": {
-    "id": "melbourne",
-    "name": "Melbourne",
-    "mainImg": "img/places/melbourne.jpg",
+    "id": "turkey",
+    "name": "Turkey",
+    "mainImg": "img/places/turkey.jpg",
     "summary": [
-      "Melbourne is the capital and most populous city of the Australian state of Victoria, and the second most populous city in Australia and Oceania. Its name refers to an urban agglomeration of 9,993 km², comprising a metropolitan area with 31 municipalities, and is also the common name for its city centre. The city occupies much of the coastline of Port Phillip bay and spreads into the Hinterland towards the Dandenong and Macedon ranges, Mornington Peninsula and Yarra Valley. It has a population of 5 million, and its inhabitants are referred to as \"Melburnians\".",
-      "Home to Indigenous Australians for over 40,000 years, the Melbourne area served as a popular meeting place for local Kulin nation clans. A short-lived penal settlement was established at Port Phillip, then part of the British colony of New South Wales, in 1803, but it was not until 1835, with the arrival of free settlers from Van Diemen’s Land, that Melbourne was founded. It was incorporated as a Crown settlement in 1837, and named Melbourne by Governor General Richard Bourke on 10 April 1837 in honour of the then British Prime Minister, William Lamb, 2nd Viscount Melbourne."
+      "Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on the Anatolian peninsula in Western Asia, with a smaller portion on the Balkan peninsula in Southeastern Europe. East Thrace, the part of Turkey in Europe, is separated from Anatolia by the Sea of Marmara, the Bosporus and the Dardanelles. Istanbul, which straddles Europe and Asia, is the largest city in the country, while Ankara is the capital. Turkey is bordered on its northwest by Greece and Bulgaria; north by the Black Sea; northeast by Georgia; east by Armenia, the Azerbaijani exclave of Nakhchivan and Iran; southeast by Iraq; south by Syria and the Mediterranean Sea; and west by the Aegean Sea. Approximately 70 to 80 percent of the country's citizens identify as Turkish, while Kurds are the largest minority, at between 15 to 20 percent of the population.",
+      "At various points in its history, the region has been inhabited by diverse civilisations including the Anatolian peoples, Assyrians, Greeks, Thracians, Phrygians, Urartians, and Armenians. Hellenization started during the era of Alexander the Great and continued into the Byzantine era."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Melbourne",
-    "urlGoogle": "https://artsandculture.google.com/entity/melbourne/m0chgzm"
+    "urlWiki": "https://en.wikipedia.org/wiki/Turkey",
+    "urlGoogle": "https://artsandculture.google.com/entity/turkey/m01znc_"
   },
   "wiki": {
-    "id": "abuwtiyuw",
-    "name": "Abuwtiyuw",
-    "summary": "Abuwtiyuw is one of the earliest domestic animals whose name is known. A lightly built Egyptian hunting dog similar to a greyhound, with erect ears and a curly tail, he is believed to have been a royal guard dog of the Sixth Dynasty (2345–2181 BC). He received an elaborate ceremonial burial in the Giza Necropolis at the behest of a pharaoh whose name is not known. An inscribed stone listing the gifts donated by the pharaoh for Abuwtiyuw's funeral was discovered by Egyptologist George A. Reisner in October 1935. It was apparently part of the spoil material incorporated into the structure of a Sixth-Dynasty mastaba (pharaonic-era tomb) in Cemetery G 2100 in Giza West Field, close to the western side of the Great Pyramid of Giza. The inscription on the white limestone tablet, which measures 54.2×28.2×23.2 cm (21.3×11.1×9.1 in), is composed of ten vertical rows of hieroglyphs, separated by vertical lines. The stone was probably originally installed in the demolished funerary chapel of Abuwtiyuw's owner.",
-    "url": "https://en.wikipedia.org/wiki/Abuwtiyuw"
+    "id": "thief-ii-the-metal-age",
+    "name": "Thief II: The Metal Age",
+    "summary": "Thief II: The Metal Age is a 2000 stealth game developed by Looking Glass Studios and published by Eidos Interactive. Like its predecessor Thief: The Dark Project, the game follows Garrett, a master thief who works in and around a steampunk metropolis called the City. The player assumes the role of Garrett as he unravels a conspiracy related to a new religious sect. In response to feedback from players of the original Thief, the developers placed a heavy focus on urban stealth in the sequel, and they minimized the use of monsters and maze-like levels. Looking Glass neared bankruptcy as the game was created, and the company was kept running by advances from Eidos. Thief II received positive reviews from critics and its initial sales were stronger than those of its predecessor, but the game's royalties were processed slowly, which compounded Looking Glass's financial troubles. As a result, the company closed in May 2000, with plans for Thief III canceled. The third game in the series, entitled Thief: Deadly Shadows, was developed by Ion Storm and published by Eidos in 2004. Thief 2X: Shadows of the Metal Age, an expansion mod for Thief II, was released in 2005.",
+    "url": "https://en.wikipedia.org/wiki/Thief_II:_The_Metal_Age"
   },
   "word": {
-    "id": "causerie",
-    "word": "causerie",
-    "url": "https://www.merriam-webster.com/dictionary/causerie",
+    "id": "pelf",
+    "word": "pelf",
+    "url": "https://www.merriam-webster.com/dictionary/pelf",
     "partOfSpeech": "noun",
-    "pronunciation": "kohz-REE",
-    "audioPath": "audio/words/causerie.mp3",
-    "definitions": ["an informal conversation : chat", "a short informal essay"],
+    "pronunciation": "PELF",
+    "audioPath": "audio/words/pelf.mp3",
+    "definitions": ["money, riches"],
     "examples": [
-      "After the table was cleared and coffee was served, the dinner guests rose and continued their causerie in the other room."
+      "\"Nowadays Western Union is good only if you want to wire cash to your child in college or _pelf_ to a partner in peril.\" -- From an editorial by Vincent L. Hall in _The Dallas Morning News_, June 19, 2011",
+      "\"On an island with the third-highest GDP per capita in the world, where every British bank has a presence, where numberless tax-dodgers stash their _pelf_, perhaps it shouldn't be surprising.\" -- From an article by Oliver Thring in the _Guardian Unlimited_, April 20, 2011"
     ],
-    "origin": "\"Causerie\" first appeared in English in the early 19th century, and it can be traced back to French \"causer\" (\"to chat\") and ultimately to Latin \"causa\" (\"cause, reason\"). The word was originally used to refer to a friendly or informal conversation. Then, in 1849, the author and critic Charles-Augustin Sainte-Beuve began publishing a weekly column devoted to literary topics in the French newspaper _Le Constitutionnel_. These critical essays were called \"Causeries du lundi\" (\"Monday chats\") and were later collected into a series of books of the same name. After that, the word \"causerie\" acquired a second sense in English, referring to a brief, informal article or essay."
+    "origin": "In the 14th century, the Anglo-French word \"pelfre,\" meaning \"booty\" or \"stolen goods,\" was exchanged into English as \"pelf\" with the added meaning of \"property.\" (\"Pelfre\" is also an ancestor of the English verb \"pilfer,\" meaning \"to steal.\") Two centuries later \"pelf\" showed gains when people began to use it for \"money\" and \"riches.\" In some regions of Britain the word's use was diversified further, in a depreciative way, to refer to trash and good-for-nothings. The first of those meanings was a loss by about the mid-17th century; the second has little value outside of the Yorkshire region of England."
   }
 }

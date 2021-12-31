@@ -1,141 +1,129 @@
 {
   "artist": {
-    "id": "william-adolphe-bouguereau",
-    "name": "William-Adolphe Bouguereau",
-    "dates": "Nov 30, 1825 - Aug 19, 1905",
-    "mainImg": "img/art/artists/william-adolphe-bouguereau.jpg",
+    "id": "hiroshige",
+    "name": "Hiroshige",
+    "dates": "1797 - Oct 12, 1858",
+    "mainImg": "img/art/artists/hiroshige.jpg",
     "artworkImgs": [
       {
-        "name": "The Little Shepherdess",
-        "path": "img/art/artworks/william-adolphe-bouguereau-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-little-shepherdess-william-adolphe-bouguereau/6AEDZE2vDSc4cA"
+        "name": "One Hundred Famous Views of Edo “Sudden Shower over Shin-Ohashi Bridge and Atake”",
+        "path": "img/art/artworks/hiroshige-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-“sudden-shower-over-shin-ohashi-bridge-and-atake”-utagawa-hiroshige/QAFL1JRk6OKiNQ"
       },
       {
-        "name": "The Broken Pitcher",
-        "path": "img/art/artworks/william-adolphe-bouguereau-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-broken-pitcher-william-adolphe-bouguereau/VQEkJK7cc9BtXg"
+        "name": "Evening Snow at Kanbara",
+        "path": "img/art/artworks/hiroshige-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/evening-snow-at-kanbara-utagawa-hiroshige/5wGGlOB0RzCQsw"
       },
       {
-        "name": "The Nut Gatherers",
-        "path": "img/art/artworks/william-adolphe-bouguereau-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-nut-gatherers-william-adolphe-bouguereau/GwH-a-m2kog8Mw"
+        "name": "One Hundred Famous Views of Edo “Plum Garden in Kameido”",
+        "path": "img/art/artworks/hiroshige-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-“plum-garden-in-kameido”-utagawa-hiroshige/cwEPQk4UO2sF-Q"
       },
       {
-        "name": "Orestes Pursued by the Furies",
-        "path": "img/art/artworks/william-adolphe-bouguereau-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/orestes-pursued-by-the-furies-adolphe-william-bouguereau/SQE-jakW_S49YA"
+        "name": "One Hundred Famous Views of Edo;Plum Garden in Kameido",
+        "path": "img/art/artworks/hiroshige-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/one-hundred-famous-views-of-edo-plum-garden-in-kameido-utagawa-hiroshige/DgFIyemrWrUgaQ"
       },
       {
-        "name": "The Elder Sister",
-        "path": "img/art/artworks/william-adolphe-bouguereau-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-elder-sister-william-bouguereau/qQElBSluRJ5MzA"
+        "name": "Small View of Yedo",
+        "path": "img/art/artworks/hiroshige-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/small-view-of-yedo-utagawa-hiroshige/dwFut16KkjvfFw"
       },
       {
-        "name": "L'Aurore (Dawn)",
-        "path": "img/art/artworks/william-adolphe-bouguereau-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/l-aurore-dawn-william-adolphe-bouguereau/QAHjp3osWaM47A"
+        "name": "Fifty-Three Stations of the Tokaido Hoeido Edition “Kanbara (Evening Snow)”",
+        "path": "img/art/artworks/hiroshige-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/fifty-three-stations-of-the-tokaido-hoeido-edition-“kanbara-evening-snow-”-utagawa-hiroshige/CQEfHyVGWJftDA"
       }
     ],
     "summary": [
-      "William-Adolphe Bouguereau was a French academic painter. In his realistic genre paintings he used mythological themes, making modern interpretations of classical subjects, with an emphasis on the female human body. During his life he enjoyed significant popularity in France and the United States, was given numerous official honors, and received top prices for his work. As the quintessential salon painter of his generation, he was reviled by the Impressionist avant-garde. By the early twentieth century, Bouguereau and his art fell out of favor with the public, due in part to changing tastes. In the 1980s, a revival of interest in figure painting led to a rediscovery of Bouguereau and his work. Throughout the course of his life, Bouguereau executed 822 known finished paintings, although the whereabouts of many are still unknown."
+      "Utagawa Hiroshige, born Andō Hiroshige, was a Japanese ukiyo-e artist, considered the last great master of that tradition.",
+      "Hiroshige is best known for his horizontal-format landscape series The Fifty-three Stations of the Tōkaidō and for his vertical-format landscape series One Hundred Famous Views of Edo. The subjects of his work were atypical of the ukiyo-e genre, whose typical focus was on beautiful women, popular actors, and other scenes of the urban pleasure districts of Japan's Edo period. The popular series Thirty-six Views of Mount Fuji by Hokusai was a strong influence on Hiroshige's choice of subject, though Hiroshige's approach was more poetic and ambient than Hokusai's bolder, more formal prints. Subtle use of color was essential in Hiroshige's prints, often printed with multiple impressions in the same area and with extensive use of bokashi, both of which were rather labor-intensive techniques.",
+      "For scholars and collectors, Hiroshige's death marked the beginning of a rapid decline in the ukiyo-e genre, especially in the face of the westernization that followed the Meiji Restoration of 1868."
     ],
-    "quote": null,
-    "movements": [
-      "Academic art",
-      "Realism",
-      "Neoclassicism",
-      "Symbolism",
-      "Modern art",
-      "Aestheticism"
-    ],
-    "mediums": ["Oil paint", "Rock", "Ceramic", "Drawing", "Clay", "Book"],
-    "urlWiki": "https://en.wikipedia.org/wiki/William-Adolphe_Bouguereau",
-    "urlGoogle": "https://artsandculture.google.com/entity/william-adolphe-bouguereau/m023q21"
+    "quote": "“I leave my brush in the East And set forth on my journey. I shall see the famous places in the Western Land.”",
+    "movements": ["Ukiyo-e"],
+    "mediums": ["Ink", "Textile", "Silk", "Brocade", "Wood", "Book"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hiroshige",
+    "urlGoogle": "https://artsandculture.google.com/entity/hiroshige/m07hpgg"
   },
   "event": {
-    "id": "battle-of-chamb",
-    "name": "Battle of Chamb",
-    "dates": null,
-    "mainImg": "img/events/battle-of-chamb.jpg",
+    "id": "taisho",
+    "name": "Taishō",
+    "dates": "Jul 30, 1912 - Dec 25, 1926",
+    "mainImg": "img/events/taisho.jpg",
     "summary": [
-      "The Battle of Chamb, 1971 was a battle in the Indo-Pakistani War of 1971. The Pakistani Army invaded Chamb on the same principle as the Battle of Chamb. The Pakistan Army's primary objective was to capture the town of Chamb and surrounding areas which had strategic importance for both Pakistan and India.",
-      "Before the capture of Chamb by Pakistan forces, this western sector was under India's control. Similar to 1965, plans were made to capture this strategic town. The reason behind this plan was to deter Indians from attacking the crucial north-south line of communications passing via Gujrat. The 23 Division of Pakistan was given the task of protecting this sector and later attacking the Chamb-Dewa sectors. On the Indian side, the 10th Division was given the task of defence of Chamb; the Indian army believed that by attacking Gujrat and Tanda, they could guarantee the defence of Chamb. In comparison to 1965, the Indians were better prepared in terms of defences and now realized the importance of the town and sector."
+      "Taishō era is a period in the history of Japan dating from 30 July 1912 to 25 December 1926, coinciding with the reign of the Emperor Taishō. The new emperor was a sickly man, which prompted the shift in political power from the old oligarchic group of elder statesmen to the Imperial Diet of Japan and the democratic parties. Thus, the era is considered the time of the liberal movement known as the \"Taishō democracy\" in Japan; it is usually distinguished from the preceding chaotic Meiji period and the following militaristic-driven first part of the Shōwa period."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Chamb",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-chamb/m064jxkz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Taish%C5%8D",
+    "urlGoogle": "https://artsandculture.google.com/entity/taishō/m01bg2_"
   },
   "funFacts": [
     {
-      "id": "764",
-      "fact": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.",
-      "category": ["Animals"]
+      "id": "1026",
+      "fact": "Remove all the space between its atoms and Earth would be the size of a baseball.",
+      "category": ["Science"]
     },
     {
-      "id": "835",
-      "fact": "You burn more calories sleeping than you do watching television.",
-      "category": ["Anatomy", "Habits"]
+      "id": "902",
+      "fact": "Barbie's full name is Barbara Millicent Roberts.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553543",
-      "fact": "Umchina, a Korean term meaning \"mom's friend's son,\" is used to describe a person who's better at everything than you are."
+      "id": "553859",
+      "fact": "According to a 2015 study, having 10 more trees on your block can make you feel as healthy as someone who's seven years younger."
     }
   ],
   "idiom": {
-    "id": "by-hook-or-crook",
-    "term": "by hook or crook",
-    "definition": "By any means possible, in one way or another. For example, *The car broke down, but I'll get there by hook or crook.* This term has a disputed origin. A widely held theory is that it comes from the custom of allowing commoners to take as much wood from royal forests as they could reach with a shepherd's crook and cut down with a billhook. [1300s]"
+    "id": "jack-of-all-trades",
+    "term": "jack of all trades",
+    "definition": "An individual who is adept at everything he or she undertakes. This idiom first appeared in Geffray Mynshul's *Essayes and Characters of a Prison* (1618)*.* Even earlier several writers pointed out that someone who is good at everything is good at nothing. A version appeared in Chaucer's *Troilus and Cressida,* \"He that parted is in every place is no-wher hool, as writen cleryks wyse.\" By 1800 it was put as **jack of all trades, master of none** (Maria Edgeworth, *Popular Tales: Will*)."
   },
   "person": {
-    "id": "prince-edward-earl-of-wessex",
-    "name": "Prince Edward, Earl of Wessex",
-    "dates": "Born Mar 10, 1964",
-    "mainImg": "img/people/prince-edward-earl-of-wessex.jpg",
+    "id": "george-m-dallas",
+    "name": "George M. Dallas",
+    "dates": "Jul 10, 1792 - Dec 31, 1864",
+    "mainImg": "img/people/george-m-dallas.jpg",
     "summary": [
-      "Prince Edward, Earl of Wessex KG, GCVO, CD, ADC is the youngest of four children and the third son of Elizabeth II and Prince Philip, Duke of Edinburgh. At the time of his birth, he was third in line of succession to the British throne; as of May 2020, he is 11th. The Earl is a full-time working member of the British royal family and supports the Queen in her official duties – often alongside his wife, the Countess of Wessex – as well as undertaking public engagements for many of his own charities. In particular he has assumed many duties from his father, the Duke of Edinburgh, who retired from public life in 2017. Prince Edward succeeded Prince Philip as president of the Commonwealth Games Federation and opened the 1990 Commonwealth Games in New Zealand and the 1998 Commonwealth Games in Malaysia. He has also taken over the Duke's role in the Duke of Edinburgh's Award."
+      "George Mifflin Dallas was an American politician and diplomat who served as mayor of Philadelphia from 1828 to 1829 and as the 11th vice president of the United States from 1845 to 1849.",
+      "The son of Secretary of the Treasury Alexander J. Dallas, George Dallas attended elite preparatory schools before embarking on a legal career. He served as the private secretary to Albert Gallatin and worked for the Treasury Department and the Second Bank of the United States. He emerged as a leader of the \"Family party\" faction of the Pennsylvania Democratic Party, and Dallas developed a rivalry with James Buchanan, the leader of the \"Amalgamator\" faction. Between 1828 and 1835, he served as the mayor of Philadelphia, the United States Attorney for the Eastern District of Pennsylvania, and the Pennsylvania Attorney General. He also represented Pennsylvania in the United States Senate from 1831 to 1833 but declined to seek re-election. President Martin Van Buren appointed Dallas to the post of Minister to Russia, and Dallas held that position from 1837 to 1839.",
+      "Dallas supported Van Buren's bid for another term in the 1844 presidential election, but James K."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Prince_Edward,_Earl_of_Wessex",
-    "urlGoogle": "https://artsandculture.google.com/entity/prince-edward-earl-of-wessex/m0xm_0"
+    "urlWiki": "https://en.wikipedia.org/wiki/George_M._Dallas",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-m-dallas/m0m89b"
   },
   "place": {
-    "id": "newcastle-upon-tyne",
-    "name": "Newcastle upon Tyne",
-    "mainImg": "img/places/newcastle-upon-tyne.jpg",
+    "id": "leeds",
+    "name": "Leeds",
+    "mainImg": "img/places/leeds.jpg",
     "summary": [
-      "Newcastle upon Tyne, commonly known as Newcastle, is a city in Tyne and Wear, North East England, 103 miles south of Edinburgh and 277 miles north of London on the northern bank of the River Tyne, 8.5 mi from the North Sea. Newcastle is the most populous city in the North East, and forms the core of the Tyneside conurbation, the eighth most populous urban area in the United Kingdom. Newcastle is a member of the UK Core Cities Group and is a member of the Eurocities network of European cities.",
-      "Newcastle was part of the county of Northumberland until 1400, when it became a county of itself, a status it retained until becoming part of Tyne and Wear in 1974. The regional nickname and dialect for people from Newcastle and the surrounding area is Geordie. Newcastle also houses Newcastle University, a member of the Russell Group, as well as Northumbria University. Newcastle is member of the North of Tyne Combined Authority.",
-      "The city developed around the Roman settlement Pons Aelius and was named after the castle built in 1080 by Robert Curthose, William the Conqueror's eldest son."
+      "Leeds is the largest city in the county of West Yorkshire in Northern England, approximately 170 miles north of central London. Leeds has one of the most diverse economies of all the UK's main employment centres and has seen the fastest rate of private-sector jobs growth of any UK city. It also has the highest ratio of private to public sector jobs of all the UK's Core Cities, with 77% of its workforce working in the private sector. Leeds has the third-largest jobs total by local authority area, with 480,000 in employment and self-employment at the beginning of 2015. Leeds is ranked as a High Sufficiency level city by the Globalization and World Cities Research Network. Leeds is the cultural, financial and commercial heart of the West Yorkshire Urban Area. Leeds is served by five universities, it has the UK's fourth largest student population and the country's fourth largest urban economy."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
-    "urlGoogle": "https://artsandculture.google.com/entity/newcastle-upon-tyne/m0j7ng"
-  },
-  "quote": {
-    "id": "126",
-    "quote": "The farther backward you can look, the farther forward you can see.",
-    "author": "Winston Churchill"
+    "urlWiki": "https://en.wikipedia.org/wiki/Leeds",
+    "urlGoogle": "https://artsandculture.google.com/entity/leeds/m04p3c"
   },
   "wiki": {
-    "id": "malmo-ff",
-    "name": "Malmö FF",
-    "summary": "Malmö FF are a Swedish professional football club based in Malmö. The club play their home matches at Swedbank Stadion. Formed on 24 February 1910, the club have won sixteen national championship titles and fourteen Svenska Cupen titles, making them the most successful club in Sweden in terms of total trophies won. Malmö FF have also won the top tier league, Allsvenskan, on three occasions when the title of Swedish champions was not decided by the outcome of that league. They were the runners-up in the 1978–79 European Cup final, which they lost 1–0 to English club Nottingham Forest. This feat makes them the only Scandinavian club to have made it to the final of the most prestigious club competition in European football, presently named the UEFA Champions League. The club currently play in Allsvenskan; Malmö first won this league in 1944 and most recently in the club's centennial anniversary in 2010. The team were most successful during the 1970s, when they won five Swedish championships and four national cup titles.",
-    "url": "https://en.wikipedia.org/wiki/Malm%C3%B6_FF"
+    "id": "13-th-airborne-division-united-states",
+    "name": "13th Airborne Division (United States)",
+    "summary": "The 13th Airborne Division was a U.S. Army airborne formation in World War II. Although it was active between August 1943 and February 1946, it never saw combat. The division's training was disrupted by providing reinforcements for the 82nd and 101st Airborne Divisions and by a lack of transport aircraft for training exercises, as divisions in combat had priority for their use. The division was combat-ready by January 1945 and was transferred to France, but arrived too late to participate in Operation Market Garden, the third major airborne operation conducted by the Allies. The division was selected for Operation Varsity, supporting 21st Army Group crossing the River Rhine, but there were insufficient transport aircraft to carry it into combat. Several other operations were planned for the division, but these were cancelled because of the rapid advance of Allied ground forces. After the end of the conflict in Europe, it was shipped home before the planned invasion of Japan, but the conflict in the Far East ended before it was required. After deactivation of the division, combat personnel transferred to the 82nd Airborne Division.",
+    "url": "https://en.wikipedia.org/wiki/13th_Airborne_Division_(United_States)"
   },
   "word": {
-    "id": "eventuate",
-    "word": "eventuate",
-    "url": "https://www.merriam-webster.com/dictionary/eventuate",
-    "partOfSpeech": "verb",
-    "pronunciation": "ih-VEN-chuh-wayt",
-    "audioPath": "audio/words/eventuate.mp3",
-    "definitions": ["to come out finally : result, come about"],
+    "id": "maudlin",
+    "word": "maudlin",
+    "url": "https://www.merriam-webster.com/dictionary/maudlin",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MAUD-lin",
+    "audioPath": "audio/words/maudlin.mp3",
+    "definitions": ["drunk enough to be emotionally silly", "weakly and effusively sentimental"],
     "examples": [
-      "No one could have prepared for the chaos that _eventuated_ when the truth finally came to light.",
-      "\"The incident … occurred at a time of growing concern about the role of Internet chat rooms and other forums in giving a platform to disturbed young people with resentments that _eventuate_ in attacks on schools and other targets.\" -- From an article by John F. Burns in _The New York Times_, March 21, 2009"
+      "\"Oh, please don't be maudlin,\" cried Monica when Mills dropped to his knees, held her hand to his tear-soaked cheek, and begged her for forgiveness."
     ],
-    "origin": "\"Eventuate\" started life as an Americanism in the late 18th century, and was stigmatized in the 19th century. A British commentator called it \"another horrible word, which is fast getting into our language through the provincial press.\" Other British grammarians, and even some Americans, agreed that it was horrible. A few modern critics still consider \"eventuate\" to be pompous and unnecessary, but it is less controversial these days. In any case, \"eventuate\" has a perfectly respectable history. It is derived from the Latin noun \"eventus\" (\"event\"), which in turn traces to the verb \"evenire,\" meaning \"to happen.\""
+    "origin": "The history of \"maudlin\" owes as much to the Bible as to the barroom. The biblical Mary Magdalene is often (though some say mistakenly) identified with the weeping sinner who washed Jesus' feet with her tears to repent for her sins. This association led to the frequent depiction of Mary Magdalene as a weeping penitent, and by the 16th century even the name \"Magdalene\" suggested teary emotion to many English speakers. It was then that \"maudlin,\" an alteration of \"Magdalene,\" appeared in the English phrase \"maudlin drunk,\" which, as one Englishman explained in 1592, described a tearful drunken state whereby \"a fellow will weepe for kindnes in the midst of his Ale and kisse you.\""
   }
 }

@@ -1,0 +1,121 @@
+{
+  "artist": {
+    "id": "phlegm",
+    "name": "Phlegm",
+    "dates": null,
+    "mainImg": "img/art/artists/phlegm.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Bestiary",
+        "path": "img/art/artworks/phlegm-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bestiary-phlegm/6gEyeilxg6nzdg"
+      },
+      {
+        "name": "Phlegm - The Bestiary",
+        "path": "img/art/artworks/phlegm-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/phlegm-the-bestiary-phlegm/rwEfwzMSvMx6nQ"
+      },
+      {
+        "name": "Kaius at Phlegm's wall",
+        "path": "img/art/artworks/phlegm-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/kaius-at-phlegm-s-wall-phlegm/AgGeTOy3Tr07dA"
+      },
+      {
+        "name": "The Bestiary",
+        "path": "img/art/artworks/phlegm-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bestiary-phlegm/6AGzkcjnmETYHg"
+      },
+      {
+        "name": "The Bestiary",
+        "path": "img/art/artworks/phlegm-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bestiary-phlegm/hAG659F1HSmfvg"
+      },
+      {
+        "name": "The Bestiary",
+        "path": "img/art/artworks/phlegm-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bestiary-phlegm/CQHB2waaTbAmeA"
+      }
+    ],
+    "summary": [
+      "Phlegm is a Welsh-born Sheffield-based muralist and artist who first developed his illustrations in self-published comics. The name 'Phlegm' came from one of the four temperaments in ancient Greek medicine; blood, yellow bile, black bile, and phlegm. Phlegm was believed to be responsible for an apathetic and unemotional temperament."
+    ],
+    "quote": null,
+    "movements": ["Street art"],
+    "mediums": ["Photograph", "Spray painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Phlegm_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/phlegm/m0100fzxn"
+  },
+  "event": {
+    "id": "siege-of-warsaw",
+    "name": "Siege of Warsaw",
+    "dates": "Sep 8, 1939 - Sep 28, 1939",
+    "mainImg": "img/events/siege-of-warsaw.jpg",
+    "summary": [
+      "The Siege of Warsaw in 1939 was fought between the Polish Warsaw Army garrisoned and entrenched in Warsaw and the invading German Army.",
+      "It began with huge aerial bombardments initiated by the Luftwaffe starting on September 1, 1939 following the Nazi invasion of Poland. Land fighting started on September 8, when the first German armored units reached the Wola district and south-western suburbs of the city. Despite German radio broadcasts claiming to have captured Warsaw, the initial enemy attack was repelled and soon afterwards Warsaw was placed under siege. The siege lasted until September 28, when the Polish garrison, commanded under General Walerian Czuma, officially capitulated. The following day approximately 140,000 Polish troops left the city and were taken as prisoners of war. On October 1 the Wehrmacht entered Warsaw, which started a period of German occupation that lasted until the devastating Warsaw Uprising and later until January 17, 1945, when the Wehrmacht troops abandoned the city due to the advance of Polish-Soviet forces.",
+      "Around 18,000 civilians of Warsaw perished during the siege."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Warsaw_%281939%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-warsaw/m03h2yj"
+  },
+  "funFacts": [
+    {
+      "id": "169",
+      "fact": "The first human-made object to break the sound barrier was a whip.",
+      "category": ["Science", "Firsts"]
+    },
+    { "id": "440", "fact": "The pupils in goats' eyes are rectangular.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "554099",
+      "fact": "Elvis Presley’s manager sold “I Hate Elvis” badges as a way to make money off of people who weren’t buying his merchandise."
+    }
+  ],
+  "person": {
+    "id": "george-v",
+    "name": "George V",
+    "dates": "Jun 3, 1865 - Jan 20, 1936",
+    "mainImg": "img/people/george-v.jpg",
+    "summary": [
+      "George V was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 until his death in 1936.",
+      "Born during the reign of his grandmother Queen Victoria, George was third in the line of succession behind his father, Prince Albert Edward, and his own elder brother, Prince Albert Victor. From 1877 to 1891, George served in the Royal Navy, until the unexpected death of his elder brother in early 1892 put him directly in line for the throne. On the death of his grandmother in 1901, George's father ascended the throne as Edward VII, and George was created Prince of Wales. He became king-emperor on his father's death in 1910.",
+      "George V's reign saw the rise of socialism, communism, fascism, Irish republicanism, and the Indian independence movement, all of which radically changed the political landscape. The Parliament Act 1911 established the supremacy of the elected British House of Commons over the unelected House of Lords. As a result of the First World War, the empires of his first cousins Nicholas II of Russia and Wilhelm II of Germany fell, while the British Empire expanded to its greatest effective extent."
+    ],
+    "quote": "“Pray to God my eldest son will never marry and have children, and that nothing will come between Bertie and Lilibet and the throne”",
+    "urlWiki": "https://en.wikipedia.org/wiki/George_V",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-v/m0cmpn"
+  },
+  "place": {
+    "id": "opole",
+    "name": "Opole",
+    "mainImg": "img/places/opole.jpg",
+    "summary": [
+      "Opole is a city located in southern Poland on the Oder River and the historical capital of Upper Silesia. With a population of approximately 128,137, it is the capital of Opole Voivodeship and the seat of Opole County. With its long history dating back to the 8th century, Opole is one of the oldest cities in Poland. It is also the smallest city in Poland to be the largest city in the province.",
+      "The origins of the first settlement are connected with the town being granted Magdeburg Rights in 1217 by Casimir I of Opole, the great-grandson of Polish Duke Bolesław III Wrymouth. During the Medieval Period and the Renaissance the city was known as a centre of commerce due to its position on the intersection of several main trade routes, which helped to generate steady profits from transit trade. The rapid development of the town was also caused by the establishment of a seat of regency in Opole in 1816. The first railway connection between Oppeln, Brieg and Breslau was opened in 1843 and the first manufacturing plants were constructed in 1859, which greatly contributed to the city's regional significance."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Opole",
+    "urlGoogle": "https://artsandculture.google.com/entity/opole/m0jx51"
+  },
+  "wiki": {
+    "id": "tiny-thompson",
+    "name": "Tiny Thompson",
+    "summary": "Tiny Thompson (1903–1981) was a Canadian professional ice hockey goaltender. He played 12 seasons in the National Hockey League (NHL), first for the Boston Bruins, and later for the Detroit Red Wings. A four-time Vezina Trophy winner, Thompson was inducted into the Hockey Hall of Fame in 1959. He was a member of one Stanley Cup-winning team, as a rookie in the 1928–29 season with the Boston Bruins. At the start of the 1938–39 season, after ten full seasons with Boston, he was traded to the Detroit Red Wings, where he completed the season, and played another full one before retiring. During his NHL career, he recorded 81 shutouts, the sixth highest of any goaltender. After retiring from playing, he coached lower-league teams before becoming a noted professional scout. Thompson helped popularize the technique of catching the puck as a method of making a save. A competent puckhandler, he was the first goaltender in the NHL to record an assist by passing the puck with his stick to a fellow player.",
+    "url": "https://en.wikipedia.org/wiki/Tiny_Thompson"
+  },
+  "word": {
+    "id": "puissant",
+    "word": "puissant",
+    "url": "https://www.merriam-webster.com/dictionary/puissant",
+    "partOfSpeech": "adj",
+    "pronunciation": "PWISS-unt",
+    "audioPath": "audio/words/puissant.mp3",
+    "definitions": ["of great force or vigor : strong, powerful"],
+    "examples": [
+      "Laurie was aware of the restaurant critic's puissant influence in the industry, so she became quite nervous when she spotted him sitting at a table in her café."
+    ],
+    "origin": "\"Puissant\" has some powerful ties to some more commonplace English words. Although \"puissant\" has a considerably fancier feel than \"power\" and \"potent,\" all three words share the same Latin ancestor: \"posse,\" a verb meaning \"to be able.\" \"Power\" came to us by way of Anglo-French \"poer,\" which is itself thought to have come from \"potēre,\" a Vulgar Latin alteration of \"posse.\" \"Potent\" came from \"potent-, potens,\" a present participle of \"posse.\" From \"poer\" came the adjective \"pussant,\" meaning \"able\" or \"powerful\" in Anglo-French, and English speakers borrowed that to form \"puissant\" in the 15th century."
+  }
+}

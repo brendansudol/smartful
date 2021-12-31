@@ -1,130 +1,131 @@
 {
   "artist": {
-    "id": "eero-saarinen",
-    "name": "Eero Saarinen",
-    "dates": "Aug 20, 1910 - Sep 1, 1961",
-    "mainImg": "img/art/artists/eero-saarinen.jpg",
+    "id": "mahmoud-farshchian",
+    "name": "Mahmoud Farshchian",
+    "dates": "Born Jan 24, 1930",
+    "mainImg": "img/art/artists/mahmoud-farshchian.jpg",
     "artworkImgs": [
       {
-        "name": "Tulip Chair - Pedestal Collection",
-        "path": "img/art/artworks/eero-saarinen-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/tulip-chair-pedestal-collection-eero-saarinen/sgH8CW4fG3pDKA"
+        "name": "M. Zibawi",
+        "path": "img/art/artworks/mahmoud-farshchian-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/m-zibawi-mahmoud-zibawi/iAGJbDrVs5wJkQ"
       },
       {
-        "name": "Womb Chair, Model No. 70",
-        "path": "img/art/artworks/eero-saarinen-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/womb-chair-model-no-70/AgHuJFCVu1kzLA"
+        "name": "A Life without Colour",
+        "path": "img/art/artworks/mahmoud-farshchian-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-life-without-colour-khlaif-mahmoud/2AHqmITGYxI4VA"
       },
       {
-        "name": "Saarinen table - Pedestal Collection",
-        "path": "img/art/artworks/eero-saarinen-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/saarinen-table-pedestal-collection-eero-saarinen/xQGaT1RwsqjVlg"
+        "name": "Mamoud Zibawi : Oils",
+        "path": "img/art/artworks/mahmoud-farshchian-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/mamoud-zibawi-oils-mahmoud-zibawi/TQGO6sS8C227ZQ"
       },
       {
-        "name": "Aero Willys sedan outside the Milwaukee County War Memorial",
-        "path": "img/art/artworks/eero-saarinen-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/aero-willys-sedan-outside-the-milwaukee-county-war-memorial-brooks-stevens/WwEUlW6oM_QCig"
-      },
-      {
-        "name": "Eero Saarinen-designed Milwaukee Art Center",
-        "path": "img/art/artworks/eero-saarinen-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/eero-saarinen-designed-milwaukee-art-center-eero-saarinen/0gESOA6d3O2sFA"
-      },
-      {
-        "name": "Eero Saarinen-designed Milwaukee Art Center",
-        "path": "img/art/artworks/eero-saarinen-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/eero-saarinen-designed-milwaukee-art-center-eero-saarinen/3gEz9KosAijdmA"
+        "name": "Mahmoud Safa",
+        "path": "img/art/artworks/mahmoud-farshchian-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/mahmoud-safa-mahmoud-safa/hAHtVduJvOY7gg"
       }
     ],
     "summary": [
-      "Eero Saarinen was a Finnish-American architect and industrial designer noted for his neo-futuristic style. Saarinen is known for designing the Washington Dulles International Airport outside Washington, D.C., the TWA Flight Center in New York City, and the Gateway Arch in St. Louis, Missouri. He was the son of noted Finnish architect Eliel Saarinen."
-    ],
-    "quote": "“I wanted to clear up the slum of legs… I wanted to make the chair all one thing again.”",
-    "movements": [],
-    "mediums": ["Fiberglass", "Glass", "Plastic", "Textile", "Iron", "Chromium"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Eero_Saarinen",
-    "urlGoogle": "https://artsandculture.google.com/entity/eero-saarinen/m0d_h8"
-  },
-  "event": {
-    "id": "battle-of-clavijo",
-    "name": "Battle of Clavijo",
-    "dates": "844 AD",
-    "mainImg": "img/events/battle-of-clavijo.jpg",
-    "summary": [
-      "The Battle of Clavijo is a mythical battle. \"To a serious historian, the existence of the Battle of Clavijo is not even a topic of discussion\". However, it was believed for centuries to be historical, and it became a popular theme of Spanish traditions regarding the Christian expulsion of the Muslims. The stories about the battle are first found centuries after it allegedly occurred; according to them, it was fought near Clavijo between Christians, led by Ramiro I of Asturias, and Muslims, led by the Emir of Córdoba.",
-      "In the legend, James, son of Zebedee, an Apostle of Jesus, and future Saint James/Santiago, who died 800 years earlier, suddenly appeared and led an outnumbered Christian army to gain its victory. He became the patron saint of Spain and is known to Spaniards as Santiago Matamoros. Aspects of the historical Battle of Monte Laturce were incorporated into this legend, as Claudio Sánchez-Albornoz demonstrated in 1948. The date originally assigned to the battle, 834, was changed in modern times to 844 to suit the inherent contradictions of the account. The day is sometimes given as 23 May."
+      "Mahmoud Farshchian is a master of Persian painting and miniatures. He was born in the city of Isfahan in Iran, and it was here where he learned art, painting, and sculpting.",
+      "His paintings have been hosted by several museums and exhibitions worldwide. He is the most prominent moderniser of the field of miniatures, an art form which was first established in Ancient Persia and later spread to China and Turkey and other Middle eastern countries."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Clavijo",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-clavijo/m0dl70x"
+    "movements": [],
+    "mediums": ["Cardboard", "Oil paint", "Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Mahmoud_Farshchian",
+    "urlGoogle": "https://artsandculture.google.com/entity/mahmoud-farshchian/m0gm3ht"
+  },
+  "event": {
+    "id": "united-states-presidential-election-2012",
+    "name": "United States presidential election, 2012",
+    "dates": null,
+    "mainImg": "img/events/united-states-presidential-election-2012.jpg",
+    "summary": [
+      "The 2012 United States presidential election was the 57th quadrennial presidential election, held on Tuesday, November 6, 2012. The Democratic nominee, President Barack Obama, and his running mate, Vice President Joe Biden, were elected to a second term. They defeated the Republican ticket of businessman and former Governor Mitt Romney of Massachusetts and Representative Paul Ryan of Wisconsin.",
+      "As the incumbent president, Obama secured the Democratic nomination with no serious opposition. The Republicans experienced a competitive primary. Romney was consistently competitive in the polls and won the support of many party leaders, but he faced challenges from a number of more conservative contenders. Romney clinched his party's nomination in May, defeating Rick Santorum, Newt Gingrich, and other candidates.",
+      "The campaigns focused heavily on domestic issues, and debate centered largely around sound responses to the Great Recession. Other issues included long-term federal budget issues, the future of social insurance programs, and the Affordable Care Act, Obama's marquee legislative program."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election",
+    "urlGoogle": "https://artsandculture.google.com/entity/united-states-presidential-election-2012/m0g4_c19"
   },
   "funFacts": [
-    { "id": "217", "fact": "Blackboard chalk contains no chalk.", "category": ["Hodgepodge"] },
     {
-      "id": "763",
-      "fact": "Tigers have striped skin, not just striped fur.",
+      "id": "355",
+      "fact": "A tune that gets stuck in your head is called an earworm.",
+      "category": ["Definitions"]
+    },
+    {
+      "id": "236",
+      "fact": "Cows give more milk when they listen to music.",
       "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553807",
-      "fact": "Tsundoku is the act of acquiring books or other reading materials and not reading them."
+      "id": "553850",
+      "fact": "Some female sharks store sperm after mating, potentially holding on to it for years before they’re ready to reproduce."
     }
   ],
   "idiom": {
-    "id": "a-shrinking-violet",
-    "term": "a shrinking violet",
-    "definition": "An extremely shy person, as in *She was a shrinking violet until she went away to college.* This metaphoric idiom refers to the flower, but the precise allusion is unclear, since violets thrive under a variety of conditions and often are considered a garden weed. [Early 1900s]"
+    "id": "throw-out-the-baby-with-the-bath-water",
+    "term": "throw out the baby with the bath water",
+    "definition": "Discard something valuable along with something not wanted. For example, *I know you don't approve of that one item in the bill but we shouldn't throw out the baby with the bath water by voting the bill down.* This expression, with its vivid image of a baby being tossed out with a stream of dirty water, is probably translated from a German proverb, *Das Kind mit dem Bade ausschütten* (\"Pour the baby out with the bath\"). It was first recorded in English in 1853 by Thomas Carlyle, who translated many works from German."
   },
   "person": {
-    "id": "giulio-andreotti",
-    "name": "Giulio Andreotti",
-    "dates": "Jan 14, 1919 - May 6, 2013",
-    "mainImg": "img/people/giulio-andreotti.jpg",
+    "id": "annegret-kramp-karrenbauer",
+    "name": "Annegret Kramp-Karrenbauer",
+    "dates": "Born Aug 9, 1962",
+    "mainImg": "img/people/annegret-kramp-karrenbauer.jpg",
     "summary": [
-      "Giulio Andreotti OMI SMOM OCSG OESSH was an Italian politician and statesman who served as the 41st Prime Minister of Italy and leader of the Christian Democracy party; he was the sixth longest-serving Prime Minister since the Italian Unification and the second longest-serving post-war Prime Minister, after Silvio Berlusconi. Andreotti is widely considered the most powerful and prominent politician of the so-called First Republic.",
-      "Beginning as a protégé of Alcide De Gasperi, Andreotti achieved cabinet rank at a young age and occupied all the major offices of state over the course of a forty-year political career, being seen as a reassuring figure by the civil service, business community, and Vatican. In foreign policy, he guided Italy's European Union integration and established closer relations with the Arab world. Admirers of Andreotti saw him as having mediated political and social contradictions, enabling the transformation of a substantially rural country into the world's fifth-biggest economy. Critics said he had done nothing to challenge a system of patronage that had led to pervasive corruption."
+      "Annegret Kramp-Karrenbauer, sometimes referred to by her initials of AKK, is a German politician serving as Minister of Defence since July 2019 and Chairwoman of the Christian Democratic Union since the 2018 leadership election, succeeding Angela Merkel.",
+      "On 10 February 2020, Kramp-Karrenbauer announced that she would resign her position as CDU leader later in the year and would not put herself forward as a candidate for chancellor for the 2021 federal election.",
+      "She previously served as secretary general of the party and as Minister-President of Saarland from 2011 to 2018, the first woman to lead the Government of Saarland and fourth woman to head a German state government. Kramp-Karrenbauer is regarded as socially conservative, but on the CDU's left wing in economic policy and has been described as a centrist. She is an active Catholic and has served on the Central Committee of German Catholics. She is the second woman to hold the office of German defence minister."
     ],
-    "quote": "“You sin in thinking bad about people - but, often, you guess right.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Giulio_Andreotti",
-    "urlGoogle": "https://artsandculture.google.com/entity/giulio-andreotti/m03b0n5"
+    "quote": "“Our hand is still outstretched to the CSU.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Annegret_Kramp-Karrenbauer",
+    "urlGoogle": "https://artsandculture.google.com/entity/annegret-kramp-karrenbauer/m0c6srmj"
   },
   "place": {
-    "id": "vitoria",
-    "name": "Vitoria",
-    "mainImg": "img/places/vitoria.jpg",
+    "id": "honduras",
+    "name": "Honduras",
+    "mainImg": "img/places/honduras.jpg",
     "summary": [
-      "Vitória, spelled Victória until the 1940s, is the capital of the state of Espírito Santo, Brazil. It is located on a small island within a bay where a number of rivers meet the sea. It was founded in 1551. The city proper 93 square kilometres has a population of 358,875 whilst the Greater Vitória metropolitan area has a population of more than 1,857,616, the 14th largest in Brazil.",
-      "Vitória is a riverine island surrounded by Vitória's Bay. In addition to Vitória, the main island, another 34 islands and a mainland portion are part of the municipality, totalling 93.381 square kilometres. Originally there were 50 islands, many of which were joined to the largest island by landfill.",
-      "In 1998, the United Nations rated Vitória as the fourth best state capital in Brazil to live in, rating cities on health, education, and social improvement projects. Among the Brazilian capitals, Vitória currently maintains the second best human development index according to research from Getulio Vargas Foundation. It was considered the fourth best city to live in Brazil by United Nations in 2013 and ranked the highest gross domestic product per capita."
+      "Honduras, officially the Republic of Honduras, is a country in Central America. The republic of Honduras is bordered to the west by Guatemala, to the southwest by El Salvador, to the southeast by Nicaragua, to the south by the Pacific Ocean at the Gulf of Fonseca, and to the north by the Gulf of Honduras, a large inlet of the Caribbean Sea.",
+      "Honduras was home to several important Mesoamerican cultures, most notably the Maya, before the Spanish Colonization in the sixteenth century. The Spanish introduced Roman Catholicism and the now predominant Spanish language, along with numerous customs that have blended with the indigenous culture. Honduras became independent in 1821 and has since been a republic, although it has consistently endured much social strife and political instability, and remains one of the poorest countries in the Western Hemisphere. In 1960, the northern part of what was the Mosquito Coast was transferred from Nicaragua to Honduras by the International Court of Justice.",
+      "The nation's economy is primarily agricultural, making it especially vulnerable to natural disasters such as Hurricane Mitch in 1998."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo",
-    "urlGoogle": "https://artsandculture.google.com/entity/vitoria/m02ydp3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Honduras",
+    "urlGoogle": "https://artsandculture.google.com/entity/honduras/m03h2c"
   },
   "quote": {
-    "id": "10",
-    "quote": "Learning never exhausts the mind.",
-    "author": "Leonardo da Vinci"
+    "id": "16",
+    "quote": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford"
   },
   "wiki": {
-    "id": "typhoon-rusa",
-    "name": "Typhoon Rusa",
-    "summary": "Typhoon Rusa, the 10th typhoon of the 2002 Pacific typhoon season, was the most powerful to strike South Korea in 43 years. It developed on August 22 from the monsoon trough in the northwestern Pacific Ocean, then moved to the northwest, intensifying into a powerful typhoon. On August 26, the storm moved across the Amami Islands of Japan, causing two fatalities. Across Japan, the typhoon dropped torrential rainfall peaking at 902 mm (35.5 in) in Tokushima Prefecture. After weakening slightly, Rusa made landfall on Goheung, South Korea with winds of 140 km/h (85 mph). It weakened while moving through the country, dropping heavy rainfall that peaked at 897.5 mm (35.33 in) in Gangneung. A 24 hour total of 880 mm (35 in) in the city broke the record for the highest daily precipitation in the country. Over 17,000 houses were damaged, and large areas of crop fields were flooded. In South Korea, Rusa killed at least 233 people. The typhoon also dropped heavy rainfall in neighboring North Korea, leaving 26,000 people homeless and killing three. Rusa also destroyed large areas of crops in the country already affected by ongoing famine conditions.",
-    "url": "https://en.wikipedia.org/wiki/Typhoon_Rusa"
+    "id": "the-catlins",
+    "name": "The Catlins",
+    "summary": "The Catlins is an area in the southeastern corner of the South Island of New Zealand, lying between Balclutha and Invercargill and straddling the border between the Otago and Southland regions. The area lies along the southern coast of the South Island; the South Island's southernmost point, Slope Point, lies in the southwestern Catlins. The Catlins is a rugged, sparsely populated area, noted for its scenic coastal landscape and its dense temperate rainforest, both of which are home to many endangered species of birds. Its exposed location leads to its frequently wild weather and heavy ocean swells, which are an attraction to big-wave surfers. Ecotourism is now a growing factor in the economy, which otherwise relies heavily on dairy farming and fishing. The region's early whaling and forestry industries have long since died away, along with the coastal shipping that led to several tragic shipwrecks. Only some 1200 people now live in the area, many of them in the settlement of Owaka.",
+    "url": "https://en.wikipedia.org/wiki/The_Catlins"
   },
   "word": {
-    "id": "bardolater",
-    "word": "bardolater",
-    "url": "https://www.merriam-webster.com/dictionary/bardolater",
+    "id": "dovecote",
+    "word": "dovecote",
+    "url": "https://www.merriam-webster.com/dictionary/dovecote",
     "partOfSpeech": "noun",
-    "pronunciation": "bar-DAH-luh-ter",
-    "audioPath": "audio/words/bardolater.mp3",
-    "definitions": ["a person who idolizes Shakespeare"],
-    "examples": [
-      "\"\\[Abraham\\] Lincoln was a lifelong Bardolater and serial Shakespeare-quoter, as Mr. \\[Barack\\] Obama noted in remarks at the recent reopening of Ford's Theater.\" (Barry Edelstein, _The New York Times_, April 26, 2009)"
+    "pronunciation": "DUV-koht",
+    "audioPath": "audio/words/dovecote.mp3",
+    "definitions": [
+      "a small compartmented raised house or box for domestic pigeons",
+      "a settled or harmonious group or organization"
     ],
-    "origin": "George Bernard Shaw once described a Shakespeare play as \"stagy trash.\" Another time, Shaw said he'd like to dig Shakespeare from the grave and throw stones at him. Shaw could be equally scathing toward Shakespeare's adoring fans. He called them \"foolish Bardolaters,\" wrote of \"Bardolatrous\" ignoramuses, and called blind Shakespeare worship \"Bardolatry.\" Oddly enough, Shaw didn't despise Shakespeare or his work (on the contrary, he was, by his own admission, an admirer), but he disdained those who placed the man beyond reproach. The word \"bardolater,\" which Shaw coined by blending Shakespeare's epithet -- \"the Bard\" -- with an affix that calls to mind \"idolater,\" has stuck with us to this day, though it has lost some of its original critical sting."
+    "examples": [
+      "\"The Sultan of Oman has also been a significant contributor, paying for the magnificent _dovecote_ made from English walnut at the end of the lime walk.\" - Steve Whysall, _Vancouver Sun_, June 26, 2014",
+      "\"A leaked anonymous letter, the so-called Trojan Horse letter, claimed there was a conservative Muslim conspiracy to infiltrate and take over as many as two dozen local schools. It caused fluttering in very many interested _dovecotes_.\" - Mary Dejevsky, _Newsweek_, June 15, 2014"
+    ],
+    "origin": "When Shakespeare's Coriolanus was condemned to die by the Volscians, the doomed general proudly reminded his enemies, \"Like an eagle in a dove-cote, I Flutter'd your Volscians in Corioli.\" (Coriolanus was referring to an earlier victory in which his army had seized the city of Corioli from the Volscians.) When he introduced that eagle into the dovecote, Shakespeare also introduced a new figure of speech, but one that wasn't truly \"discovered\" by most writers until the 19th century-and then from a misquote. English novelist Edward G. Lytton reminded folks about it in 1853 when he wrote about how \"the great Roman general did 'flutter the dove-cots in Corioli.'\" Nowadays, we sometimes \"ruffle\" dovecotes or \"cause a flurry\" in them, in addition to \"fluttering\" them or \"causing a flutter\" in them."
   }
 }

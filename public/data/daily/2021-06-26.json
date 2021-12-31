@@ -1,134 +1,134 @@
 {
   "artist": {
-    "id": "gwen-john",
-    "name": "Gwen John",
-    "dates": "Jun 22, 1876 - Sep 18, 1939",
-    "mainImg": "img/art/artists/gwen-john.jpg",
+    "id": "jan-van-eyck",
+    "name": "Jan van Eyck",
+    "dates": "1390 - Jul 9, 1441",
+    "mainImg": "img/art/artists/jan-van-eyck.jpg",
     "artworkImgs": [
       {
-        "name": "Little Girl with a Large Hat",
-        "path": "img/art/artworks/gwen-john-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/little-girl-with-a-large-hat-gwen-john/lAE0IekPoLhN-g"
+        "name": "The Madonna in the Church",
+        "path": "img/art/artworks/jan-van-eyck-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-madonna-in-the-church-jan-van-eyck/OgFrmfnJd3r8zw"
       },
       {
-        "name": "La Chambre sur la Cour",
-        "path": "img/art/artworks/gwen-john-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/la-chambre-sur-la-cour-gwen-john-1876–1939-british/LAEG9TAa1NEpPQ"
+        "name": "Man in a Blue Cap",
+        "path": "img/art/artworks/jan-van-eyck-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/man-in-a-blue-cap-jan-van-eyck/5AHBpUfs-tzsgg"
       },
       {
-        "name": "Self-Portrait",
-        "path": "img/art/artworks/gwen-john-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-gwen-john/AAH5TZv_xspVkw"
+        "name": "Lucca Madonna",
+        "path": "img/art/artworks/jan-van-eyck-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/lucca-madonna-jan-van-eyck/YQF1hx5g-8VglQ"
       },
       {
-        "name": "Head of a Woman",
-        "path": "img/art/artworks/gwen-john-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/head-of-a-woman-gwen-john/nAFGIstvdSJIzQ"
+        "name": "Madonna at the Fountain",
+        "path": "img/art/artworks/jan-van-eyck-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-at-the-fountain-jan-van-eyck/NAFzJIiDgvmm8A"
       },
       {
-        "name": "The nun",
-        "path": "img/art/artworks/gwen-john-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-nun-gwen-john/_QFH465sYz_5NA"
+        "name": "Saint Barbara",
+        "path": "img/art/artworks/jan-van-eyck-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-barbara-jan-van-eyck/mwFMhXHTmOsLpg"
       },
       {
-        "name": "Bust of a Girl with a Bow Before a Pink Background",
-        "path": "img/art/artworks/gwen-john-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/bust-of-a-girl-with-a-bow-before-a-pink-background-gwen-john/FQHJYEj6WxWjRA"
+        "name": "Kardinal Niccolò Albergati (?)",
+        "path": "img/art/artworks/jan-van-eyck-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/kardinal-niccolò-albergati-jan-van-eyck/0AEB0A0Fyh6sBw"
       }
     ],
     "summary": [
-      "Gwendolen Mary John was a Welsh artist who worked in France for most of her career. Her paintings, mainly portraits of anonymous female sitters, are rendered in a range of closely related tones. Although she was overshadowed during her lifetime by her brother Augustus John and her lover Auguste Rodin, her reputation has grown steadily since her death."
+      "Jan van Eyck was a painter from the County of Loon active in Bruges. He is one of the early innovators of what became known as Early Netherlandish painting, and one of the most significant representatives of Early Northern Renaissance art. The surviving records of his early life indicate that he was born around 1380–1390, most likely in Maaseik, in present-day Belgium. He took employment in the Hague around 1422, when he was already a master painter with workshop assistants, and employed as painter and valet de chambre with John III the Pitiless, ruler of Holland and Hainaut. He was then employed in Lille as court painter to Philip the Good, Duke of Burgundy after John's death in 1425, until he moved to Bruges in 1429 where he lived until his death. He was highly regarded by Philip and undertook a number of diplomatic visits abroad, including to Lisbon in 1428 to explore the possibility of a marriage contract between the duke and Isabella of Portugal.",
+      "About 20 surviving paintings are confidently attributed to him, as well as the Ghent Altarpiece and the illuminated miniatures of the Turin-Milan Hours, all dated between 1432 and 1439."
     ],
-    "quote": null,
-    "movements": ["Post-Impressionism"],
-    "mediums": [
-      "Oil paint",
-      "Graphite",
-      "Watercolor painting",
-      "Laid paper",
-      "Drawing",
-      "Cardboard"
-    ],
-    "urlWiki": "https://en.wikipedia.org/wiki/Gwen_John",
-    "urlGoogle": "https://artsandculture.google.com/entity/gwen-john/m0301c5"
+    "quote": "“Painting is a form of profound creative release.”",
+    "movements": ["Renaissance", "Northern Renaissance", "Dutch and Flemish Renaissance painting"],
+    "mediums": ["Oil paint", "Wood", "Oak", "Vellum", "Gold", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jan_van_Eyck",
+    "urlGoogle": "https://artsandculture.google.com/entity/jan-van-eyck/m0ck2w"
   },
   "event": {
-    "id": "2004-summer-olympics",
-    "name": "2004 Summer Olympics",
-    "dates": "Aug 13, 2004 - Aug 29, 2004",
-    "mainImg": "img/events/2004-summer-olympics.jpg",
+    "id": "battle-of-seneffe",
+    "name": "Battle of Seneffe",
+    "dates": null,
+    "mainImg": "img/events/battle-of-seneffe.jpg",
     "summary": [
-      "The 2004 Summer Olympics, officially known as the Games of the XXVIII Olympiad and commonly known as Athens 2004, was a premier international multi-sport event held in Athens, Greece, from 13 to 29 August 2004 with the motto Welcome Home.",
-      "The Games saw 10,625 athletes compete, some 600 more than expected, accompanied by 5,501 team officials from 201 countries. There were 301 medal events in 28 different sports. Athens 2004 marked the first time since the 1996 Summer Olympics that all countries with a National Olympic Committee were in attendance. 2004 also marked the return of the Olympic Games to the city where they began. Having previously hosted the Olympics in 1896, Athens became one of only four cities to have hosted the Summer Olympic Games on two separate occasions at the time.",
-      "A new medal obverse was introduced at these Games, replacing the design by Giuseppe Cassioli that had been used since the 1928 Games. This rectified the long lasting mistake of using a depiction of the Roman Colosseum rather than a Greek venue. The new design features the Panathenaic Stadium."
+      "The Battle of Seneffe took place on 11 August 1674, during the 1672–1678 Franco-Dutch War near Seneffe in present-day Belgium. It was fought by a French army commanded by Louis II de Bourbon, Prince de Condé and a combined Dutch-Imperial-Spanish force led by William of Orange. While a clear French victory, both sides suffered heavy losses and it had little impact on the outcome of the war in the Low Countries.",
+      "Seneffe was one of three battles in the Spanish Netherlands during the Franco-Dutch War and the only one unconnected to a siege, the dominant form of warfare in the late 17th century; Cassel in 1677 was an attempt to relieve Saint-Omer, while Saint-Denis in 1678 was fought to prevent the fall of Mons."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/2004_Summer_Olympics",
-    "urlGoogle": "https://artsandculture.google.com/entity/2004-summer-olympics/m0kbvb"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Seneffe",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-seneffe/m014rry"
   },
   "funFacts": [
     {
-      "id": "207",
-      "fact": "Before 1687 clocks were made with only an hour hand.",
-      "category": ["History"]
+      "id": "964",
+      "fact": "It is illegal in the United Kingdom to handle salmon in suspicious circumstances.",
+      "category": ["Geography", "Laws"]
     },
-    { "id": "733", "fact": "All scorpions glow.", "category": ["Animals"] }
+    {
+      "id": "312",
+      "fact": "A flea can jump 30,000 times without stopping.",
+      "category": ["Animals"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "527079",
-      "fact": "Johnny Cash's \"A Boy Named Sue\" was penned by beloved children's author Shel Silverstein."
+      "id": "506900",
+      "fact": "In 1991, Wayne Allwine—who was then the voice of Mickey Mouse—married Russi Taylor, the voice of Minnie."
     }
   ],
   "idiom": {
-    "id": "wild-horses-couldnt-drag-me",
-    "term": "wild horses couldn't drag me",
-    "definition": "Nothing could induce or persuade me, as in *Wild horses couldn't drag me to that nightclub.* This idiom, always in negative form, is believed to have replaced *wild horses couldn't draw it from me,* referring to the medieval torture of using horses to stretch a prisoner and thereby force a confession. [First half of 1800s]"
+    "id": "risk-life-and-limb",
+    "term": "risk life and limb",
+    "definition": "Also, **risk one's neck.** Take dangerous chances, as in *There he was on the roof, risking life and limb to rescue the kitten,* or *I don't want to risk my neck contradicting him.* The first hyperbolic expression, dating from the early 1600s, doesn't make sense, since if one loses one's life one also loses the use of one's limbs. The variant, used for risky undertakings of all kinds, physical and nonphysical, presumably alludes to being hanged or beheaded."
   },
   "person": {
-    "id": "pierre-augustin-caron-de-beaumarchais",
-    "name": "Pierre-Augustin Caron de Beaumarchais",
-    "dates": "Jan 24, 1732 - May 18, 1799",
-    "mainImg": "img/people/pierre-augustin-caron-de-beaumarchais.jpg",
+    "id": "robert-a-lovett",
+    "name": "Robert A. Lovett",
+    "dates": "Sep 14, 1895 - May 7, 1986",
+    "mainImg": "img/people/robert-a-lovett.jpg",
     "summary": [
-      "Pierre-Augustin Caron de Beaumarchais was a French polymath. At various times in his life, he was a watchmaker, inventor, playwright, musician, diplomat, spy, publisher, horticulturist, arms dealer, satirist, financier, and revolutionary.",
-      "Born a Parisian watchmaker's son, Beaumarchais rose in French society and became influential in the court of Louis XV as an inventor and music teacher. He made a number of important business and social contacts, played various roles as a diplomat and spy, and had earned a considerable fortune before a series of costly court battles jeopardized his reputation.",
-      "An early French supporter of American independence, Beaumarchais lobbied the French government on behalf of the American rebels during the American War of Independence. Beaumarchais oversaw covert aid from the French and Spanish governments to supply arms and financial assistance to the rebels in the years before France's formal entry into the war in 1778. He later struggled to recover money he had personally invested in the scheme. Beaumarchais was also a participant in the early stages of the 1789 French Revolution."
-    ],
-    "quote": "“It is not necessary to understand things in order to argue about them.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Pierre_Beaumarchais",
-    "urlGoogle": "https://artsandculture.google.com/entity/pierre-augustin-caron-de-beaumarchais/m0gsck"
-  },
-  "place": {
-    "id": "armenia",
-    "name": "Armenia",
-    "mainImg": "img/places/armenia.jpg",
-    "summary": [
-      "Armenia, officially the Republic of Armenia, is a landlocked country in the South Caucasus region of Eurasia. Located in Western Asia, on the Armenian Highlands, it is bordered by Turkey to the west, Georgia to the north, the de facto independent Republic of Artsakh and Azerbaijan to the east, and Iran and Azerbaijan's exclave of Nakhchivan to the south.",
-      "Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. Urartu was established in 860 BC and by the 6th century BC it was replaced by the Satrapy of Armenia. The Kingdom of Armenia reached its height under Tigranes the Great in the 1st century BC and became the first state in the world to adopt Christianity as its official religion in the late 3rd or early 4th century AD. The official date of state adoption of Christianity is 301. The ancient Armenian kingdom was split between the Byzantine and Sasanian Empires around the early 5th century. Under the Bagratuni dynasty, the Bagratid Kingdom of Armenia was restored in the 9th century. Declining due to the wars against the Byzantines, the kingdom fell in 1045 and Armenia was soon after invaded by the Seljuk Turks."
+      "Robert Abercrombie Lovett was the fourth United States Secretary of Defense, having been promoted to this position from Deputy Secretary of Defense. He served in the cabinet of President Harry S. Truman from 1951 to 1953 and in this capacity, directed the Korean War.",
+      "Lovett was a core member of the group of foreign policy elders known as \"The Wise Men\", and was deemed an \"architect of the cold war\" by social scientist G. William Domhoff, in his 1970 book, The Higher Circles: The Governing Class in America."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Armenia",
-    "urlGoogle": "https://artsandculture.google.com/entity/armenia/m0jgx"
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_A._Lovett",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-a-lovett/m02swpk"
+  },
+  "place": {
+    "id": "parma",
+    "name": "Parma",
+    "mainImg": "img/places/parma.jpg",
+    "summary": [
+      "Parma is a city in the northern Italian region of Emilia-Romagna famous for its architecture, music, art, prosciutto, cheese and surrounding countryside. It is home to the University of Parma, one of the oldest universities in the world.",
+      "Parma is divided into two parts by the stream of the same name. The district on the far side of the river is Oltretorrente. Parma's Etruscan name was adapted by Romans to describe the round shield called Parma.",
+      "The Italian poet Attilio Bertolucci wrote: \"As a capital city it had to have a river. As a little capital it received a stream, which is often dry\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Parma",
+    "urlGoogle": "https://artsandculture.google.com/entity/parma/m061k5"
   },
   "wiki": {
-    "id": "swastika",
-    "name": "Swastika",
-    "summary": "The swastika is an equilateral cross with its arms at right angles to either the right or left. It is traditionally oriented so that a main line is horizontal, though is occasionally found at a 45-degree angle to this, with the Hindu version typically featuring a dot in each quadrant. The history of the swastika dates back to the prehistoric peoples living on the Eurasian continent, and remains an important symbol in Hinduism and Buddhism, among others. It had meaning and use in Native American and Jewish faiths prior to World War II, and was regarded worldwide as symbol of good luck and auspiciousness at the beginning of the twentieth century. In the 1930s, the swastika was claimed by the German Nazi Party, and in much of the world it has since had a strong association with racist fascism and the Holocaust. In recent decades there have been unsuccessful attempts by individuals and groups to advocate the view that the swastika's ancient origins supersede its more recent negative connotations.",
-    "url": "https://en.wikipedia.org/wiki/Swastika"
+    "id": "iron-maiden-band",
+    "name": "Iron Maiden (band)",
+    "summary": "Iron Maiden is a heavy metal band from east London, England. Formed in 1975 by bassist Steve Harris, previously of Gypsy's Kiss and Smiler, they are one of the most successful and influential bands in the heavy metal genre. Album sales are over 60 million world-wide, and the band won the Ivor Novello Award for international achievement in 2000. Iron Maiden's work has inspired other sub-genres of heavy metal, including power metal and speed metal and is generally thought of as an influence to any \"metal\" music containing dual-guitar harmonisation. The band's mascot, Eddie, is a perennial fixture in the horror-influenced album cover art, as well as in live shows. Eddie was originally drawn by Derek Riggs but has had various incarnations by Melvyn Grant. Iron Maiden has so far released thirteen studio albums, three \"best of\" compilations, five live albums and two limited boxed-sets. Lyrically, the band have written many songs based on folklore, movies and books, such as The Wicker Man, The Prisoner, Where Eagles Dare and Rime of the Ancient Mariner - in which words from the Samuel Coleridge poem are sung.",
+    "url": "https://en.wikipedia.org/wiki/Iron_Maiden_(band)"
   },
   "word": {
-    "id": "viand",
-    "word": "viand",
-    "url": "https://www.merriam-webster.com/dictionary/viand",
-    "partOfSpeech": "noun",
-    "pronunciation": "VYE-und",
-    "audioPath": "audio/words/viand.mp3",
-    "definitions": ["an item of food; especially : a choice or tasty dish", "provisions, food"],
-    "examples": [
-      "\"The family sat down to table, and a frugal meal of cold _viands_ was deposited before them.\" - From Thomas Hardy’s novel _Tess of the d’Urbervilles_, 1891",
-      "\"While living in the South's grand old Charleston, S.C., my Yankee roots still were evident but my appetite craved those rich and satisfying calorie-laden _viands_.\" - From an article by Doris Reynolds in _Naples Daily News_ (Florida), February 16, 2011"
+    "id": "idiopathic",
+    "word": "idiopathic",
+    "url": "https://www.merriam-webster.com/dictionary/idiopathic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "id-ee-uh-PATH-ik",
+    "audioPath": "audio/words/idiopathic.mp3",
+    "definitions": [
+      "arising spontaneously or from an obscure or unknown cause",
+      "peculiar to the individual"
     ],
-    "origin": "Are you someone who eats to live, or someone who lives to eat? Either way, you'll find that the etymology of \"viand\" reflects the close link between food and life. \"Viand\" entered English in the 15th century from Anglo-French (\"viande\" means \"meat\" even in modern French), and it derives ultimately from Latin \"vivere,\" meaning \"to live.\" \"Vivere\" is the ancestor of a number of other lively and life-giving words in English, including \"victual,\" \"revive,\" \"survive,\" \"convivial,\" and \"vivacious.\""
+    "examples": [
+      "\"Some dogs have _idiopathic_ epilepsy, which means there's no real explanation for their seizures, though even a reasonably mild stressor may increase the odds of a seizure.\" - From an article by Steve Dale in the _Orlando_ (Florida) _Sentinel_, November 13, 2012",
+      "\"Juvenile _idiopathic_ arthritis, diagnosed before age 16, causes chronic swelling of the joints along with redness, \\[Dr. Hilary\\] Haftel said.\" - From an article by Amanda Whitesell in the _Livingston County_ (Michigan) _Press_, January 11, 2013"
+    ],
+    "origin": "\"Idiopathic\" joins the combining form \"idio-\" (from Greek \"idios,\" meaning \"one's own\" or \"private\") with \"-pathic,\" a form that suggests the effects of disease. The combining form \"idio-\" is typically found in technical terms. Examples include \"idiographic,\" meaning \"relating to or dealing with something concrete, individual, or unique\"; \"idiolect,\" meaning \"the language or speech pattern of one individual at a particular period of life\"; and \"idiotype,\" meaning \"the molecular structure and conformation of an antibody that confers its antigenic specificity.\" A more common \"idio-\" word is \"idiosyncrasy,\" which most commonly refers to an unusual way in which a person behaves or thinks, or to an unusual part or feature of something."
   }
 }

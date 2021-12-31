@@ -1,135 +1,138 @@
 {
   "artist": {
-    "id": "wang-hui",
-    "name": "Wang Hui",
-    "dates": "1632 - 1717",
-    "mainImg": "img/art/artists/wang-hui.jpg",
+    "id": "kurt-schwitters",
+    "name": "Kurt Schwitters",
+    "dates": "Jun 20, 1887 - Jan 8, 1948",
+    "mainImg": "img/art/artists/kurt-schwitters.jpg",
     "artworkImgs": [
       {
-        "name": "清 王翬 王時敏 仿古山水圖 冊 紙本|Landscapes after old masters",
-        "path": "img/art/artworks/wang-hui-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/清-王翬-王時敏-仿古山水圖-冊-紙本-landscapes-after-old-masters-wang-hui-wang-shimin/3QGrxmQj1HnEnw"
+        "name": "Ursonate text",
+        "path": "img/art/artworks/kurt-schwitters-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/ursonate-text-kurt-schwitters/PgGXY50HWOuu4A"
       },
       {
-        "name": "Dwelling in the Fuchun Mountains after Huang Gongwang",
-        "path": "img/art/artworks/wang-hui-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/dwelling-in-the-fuchun-mountains-after-huang-gongwang-artist-wang-hui-artist-after-huang-gongwang/-QEd99uCYDK5lw"
+        "name": "YMCA Flag",
+        "path": "img/art/artworks/kurt-schwitters-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ymca-flag-kurt-schwitters/kQFNQc3TSo6SOA"
       },
       {
-        "name": "Hanging scroll",
-        "path": "img/art/artworks/wang-hui-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/hanging-scroll-wang-hui-unidentified-artist/vgEomlcjf6TEyQ"
+        "name": "Merz Blauer Vogel (Blue Bird)",
+        "path": "img/art/artworks/kurt-schwitters-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/merz-blauer-vogel-blue-bird-kurt-schwitters/AAF8d5Dh7_9CGQ"
       },
       {
-        "name": "Mountains and Rivers Without End",
-        "path": "img/art/artworks/wang-hui-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/mountains-and-rivers-without-end-wang-hui/kAFxc3Y7Y_mCgg"
+        "name": "Merz Composition",
+        "path": "img/art/artworks/kurt-schwitters-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/merz-composition-kurt-schwitters/NgGVU3l7S9lENg"
       },
       {
-        "name": "Album",
-        "path": "img/art/artworks/wang-hui-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/album-chen-rong-danzhirui-jin-dashou-wang-yuan-muqi-guo-xi-zhang-yüehu-luochuang-ren-renfa-luo-xinzhong-wen-tong-xia-yong-fan-anren-cinshan-kongshan-su-xianzu-li-anzhong-xuejian-wang-moji-daisong-zhao-mengfu-kano-tsunenobu-yintuoluo-wang-lipen-po-citing-puming-sheng-mou-yan-ciping/cgF7N_3tkK8xZw"
+        "name": "Flight",
+        "path": "img/art/artworks/kurt-schwitters-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/flight-kurt-schwitters/5wF9GilQfS9HVQ"
       },
       {
-        "name": "Pavilions in the Mountains of the Immortals",
-        "path": "img/art/artworks/wang-hui-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/pavilions-in-the-mountains-of-the-immortals-artist-wang-hui/3QFD4ZkketKWkA"
+        "name": "Mr Routledge",
+        "path": "img/art/artworks/kurt-schwitters-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/mr-routledge-kurt-schwitters/BwHYgRczNn9P6A"
       }
     ],
     "summary": [
-      "Wang Hui was a Chinese landscape painter, one of the Four Wangs. He, and the three other Wangs, dominated orthodox art in China throughout the late Ming and early Qing periods. Of the Four Wangs, Wang Hui is considered the best-known today.",
-      "Beijing, Shanghai and Taipei museums loaned works for \"Landscapes Clear and Radiant: The Art of Wang Hui\" in 2008 at the Metropolitan Museum of Art in New York."
+      "Kurt Hermann Eduard Karl Julius Schwitters was a German artist who was born in Hanover, Germany.",
+      "Schwitters worked in several genres and media, including dadaism, constructivism, surrealism, poetry, sound, painting, sculpture, graphic design, typography, and what came to be known as installation art. He is most famous for his collages, called Merz Pictures."
     ],
-    "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Silk", "Textile", "Tin", "Metal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Wang_Hui_%28Qing_dynasty%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/wang-hui/m07hs26"
+    "quote": "“My name is Kurt Schwitters... I am an artist and I nail my pictures together.”",
+    "movements": ["Modern art", "Dada", "Surrealism", "Abstract art"],
+    "mediums": ["Textile"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Kurt_Schwitters",
+    "urlGoogle": "https://artsandculture.google.com/entity/kurt-schwitters/m04cht"
   },
   "event": {
-    "id": "revolutions-of-1848-in-the-italian-states",
-    "name": "Revolutions of 1848 in the Italian states",
-    "dates": "1848 - 1849",
-    "mainImg": "img/events/revolutions-of-1848-in-the-italian-states.jpg",
+    "id": "second-inauguration-of-harry-s-truman",
+    "name": "Second inauguration of Harry S. Truman",
+    "dates": null,
+    "mainImg": "img/events/second-inauguration-of-harry-s-truman.jpg",
     "summary": [
-      "În Italia cele 7 state aristocratice create prin Congresul de la Viena au fost cuprinse de mișcarea revoluționar-națională care a proclamat republica la Milano, Veneția și Roma. Mișcarea a fost utilizată de regele piemontez Carol Albert în încercarea de a cuceri Lombardia de la Habsburgi.",
-      "În sudul Alpilor ca și în Germania, Congresul de la Viena, supus dorințelor suveranilor, a înlocuit harta simplificată, realizată de Napoleon, cu o fărâmițare în șapte state, fără nici o legătură între ele. Peste tot, monarhii restaurați au revenit la fostele structuri ale Vechiului Regim și s-au sprijinit pe aristocrația funciară în mai toate aceste regiuni, cu excepția Piemontului, în care valul industrializării nu pătrunsese încă, și deci burghezia era numeric destul de slabă.",
-      "Sudul peninsulei și Sicilia formau Regatul Neapolelui, restituit Bourbonilor după eșecul lui Murat, care încercase să recucerească statele acestuia și care a fost împușcat. În centru, statele pontificale se întindeau la nord, din Romagna până în Câmpia romană, trăind în două Italia peninsulară."
+      "The second inauguration of Harry S. Truman as President of the United States was held on Thursday, January 20, 1949 at the East Portico of the United States Capitol in Washington, D.C. This was the 41st inauguration and marked the commencement of the second and only full term of Harry S. Truman as President as well as the only term of Alben W. Barkley as Vice President. Chief Justice Fred M. Vinson administered the presidential oath of office while Justice Stanley Forman Reed administered vice-presidential oath of office.",
+      "It was the first televised U.S. presidential inauguration and the first with an air parade. Truman also restarted the tradition of an official inaugural ball, which had disappeared since the inauguration of William Howard Taft in 1909. The day before the inaugural ceremony, Truman signed a law increasing the President's salary by $25,000 to $100,000 a year—the first increase since 1909."
     ],
     "quote": null,
-    "urlWiki": "https://ro.wikipedia.org/wiki/Revolu%C8%9Bia_de_la_1848_%C3%AEn_Italia",
-    "urlGoogle": "https://artsandculture.google.com/entity/revolutions-of-1848-in-the-italian-states/m011brh4k"
+    "urlWiki": "https://en.wikipedia.org/wiki/Second_inauguration_of_Harry_S._Truman",
+    "urlGoogle": "https://artsandculture.google.com/entity/second-inauguration-of-harry-s-truman/m05brvwp"
   },
   "funFacts": [
-    { "id": "464", "fact": "Cows do not have upper front teeth.", "category": ["Animals"] },
     {
-      "id": "422",
-      "fact": "Apples, peaches and raspberries are all members of the rose family.",
-      "category": ["Food", "Plants"]
+      "id": "240",
+      "fact": "\"Challenger Deep\" is the deepest point on Earth and can hold 25 Empire State Buildings end to end.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "806",
+      "fact": "In Albania, nodding your head means no and shaking your head means yes.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
     {
-      "id": "522211",
-      "fact": "The German version of the term “Average Joe” is Otto Normalverbraucher, which translates to “Otto normal consumer.”"
+      "id": "522212",
+      "fact": "Movie trailers are called that for a reason: They used to run after the movie."
     }
   ],
   "idiom": {
-    "id": "bald-as-a-coot",
-    "term": "bald as a coot",
-    "definition": "Extremely bald, usually applied to a person. The coot is a water bird with a white bill that extends to its forehead, making it appear to be bald. The simile was first recorded in 1430."
+    "id": "betwixt-and-between",
+    "term": "betwixt and between",
+    "definition": "Undecided, midway between two alternatives, neither here nor there. For example, *I'm betwixt and between canceling my trip entirely or just postponing it,* or *Jane is betwixt and between about accepting the offer.* The adverb *betwixt,* originally meaning \"by two,\" is seldom heard except in this expression, first recorded in 1832."
   },
   "person": {
-    "id": "vidkun-quisling",
-    "name": "Vidkun Quisling",
-    "dates": "Jul 18, 1887 - Oct 24, 1945",
-    "mainImg": "img/people/vidkun-quisling.jpg",
+    "id": "edmund-a-walsh",
+    "name": "Edmund A. Walsh",
+    "dates": "Oct 10, 1885 - Oct 31, 1956",
+    "mainImg": "img/people/edmund-a-walsh.jpg",
     "summary": [
-      "Vidkun Abraham Lauritz Jonssøn Quisling was a Norwegian military officer and politician who nominally headed the government of Norway during the occupation of the country by Nazi Germany during World War II. He first came to international prominence as a close collaborator of explorer Fridtjof Nansen, organizing humanitarian relief during the Russian famine of 1921 in Povolzhye. He was posted as a Norwegian diplomat to the Soviet Union, and for some time also managed British diplomatic affairs there. He returned to Norway in 1929, and served as Minister of Defence in the governments of Peder Kolstad and Jens Hundseid, representing the Farmers' Party.",
-      "In 1933, Quisling left the Farmers' Party and founded the fascist party Nasjonal Samling. Although he achieved some popularity after his attacks on the political left, his party failed to win any seats in the Storting and by 1940 it was still little more than peripheral. On 9 April 1940, with the German invasion of Norway in progress, he attempted to seize power in the world's first radio-broadcast coup d'état, but failed after the Germans refused to support his government."
+      "Fr. Edmund Aloysius Walsh, S.J. was an American Jesuit Catholic priest, author, professor of geopolitics and founder of the Georgetown University School of Foreign Service, the first school for international affairs in the United States. He founded the school in 1919–six years before the U.S. Foreign Service itself existed–and served as its first regent."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Vidkun_Quisling",
-    "urlGoogle": "https://artsandculture.google.com/entity/vidkun-quisling/m07z07"
+    "urlWiki": "https://en.wikipedia.org/wiki/Edmund_A._Walsh",
+    "urlGoogle": "https://artsandculture.google.com/entity/edmund-a-walsh/m0505h0"
   },
   "place": {
-    "id": "bandung",
-    "name": "Bandung",
-    "mainImg": "img/places/bandung.jpg",
+    "id": "astrakhan",
+    "name": "Astrakhan",
+    "mainImg": "img/places/astrakhan.jpg",
     "summary": [
-      "Bandung is the capital of West Java province in Indonesia. Based on the 2015 estimate, it is Indonesia's fourth most populous city after Jakarta, Surabaya, and Bekasi with over 2.5 million inhabitants. Greater Bandung is the country's third-largest metropolitan area with over 8.5 million inhabitants. Located 768 metres above sea level, approximately 140 kilometres southeast of Jakarta, Bandung has cooler year-round temperatures than most other Indonesian cities. The city lies on a river basin surrounded by volcanic mountains that provides a natural defence system, which was the primary reason for the Dutch East Indies government's plan to move the capital from Batavia to Bandung.",
-      "The Dutch first established tea plantations around the mountains in the 18th century, and a road was constructed to connect the plantation area to the colonial capital Batavia. In the early 20th century the Dutch inhabitants of Bandung demanded the establishment of a municipality, which was granted in 1906, and Bandung gradually developed into a resort city for plantation owners. Luxurious hotels, restaurants, cafés, and European boutiques were opened, leading the city to be nicknamed Parijs van Java."
+      "Astrakhan is a city in southern Russia and the administrative center of Astrakhan Oblast. The city lies on two banks of the Volga River, close to where it discharges into the Caspian Sea at an altitude of 28 meters below sea level, makes it the lowest city in Russia. As of the 2010 Census, its population was 520,339; up from 504,501 recorded in the 2002 Census and 509,210 recorded in the 1989 Census.",
+      "The oldest economic and cultural center of the Lower Volga, it is often called the southernmost outpost of Russia and the Caspian capital. The city is a member of the Eurasian Regional Office of the World Organization \"United Cities and Local Governments\" Its population is diverse and includes one hundred ethnicities and fourteen religious denominations.",
+      "The city is located in the upper part of the Volga delta, on eleven islands of the Caspian Depression. The distance to Moscow by road is 1,411 kilometers. The nearest big city is Volgograd."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bandung",
-    "urlGoogle": "https://artsandculture.google.com/entity/bandung/m01zll8"
+    "urlWiki": "https://en.wikipedia.org/wiki/Astrakhan",
+    "urlGoogle": "https://artsandculture.google.com/entity/astrakhan/m01lyhc"
   },
   "quote": {
-    "id": "67",
-    "quote": "Comparison is the thief of joy.",
-    "author": "Theodore Roosevelt"
+    "id": "102",
+    "quote": "To climb steep hills requires a slow pace at first.",
+    "author": "William Shakespeare"
   },
   "wiki": {
-    "id": "belarus",
-    "name": "Belarus",
-    "summary": "Belarus is a landlocked country in Eastern Europe. Its capital is Minsk; other major cities include Brest, Grodno (Hrodna), Gomel (Homiel), Mogilev (Mahilyow) and Vitebsk (Viciebsk). Forty percent of its 207,600 km2 (80,200 sq mi) is forested, and its strongest economic sectors are agriculture and manufacturing. Until the 20th century, the lands of modern day Belarus belonged to several countries. The parliament of the republic declared the sovereignty of Belarus on 27 July 1990, and following the collapse of the Soviet Union, Belarus declared independence on 25 August 1991. Alexander Lukashenko has been the country's president since 1994. Under his lead and despite objections from Western governments, Soviet-era policies, such as state ownership of the economy, have been implemented. Most of Belarus's population of 9.85 million reside in the urban areas surrounding Minsk and other voblast (regional) capitals. More than 80% of the population are ethnic Belarusians, with sizable minorities of Russians, Poles and Ukrainians. Since a controversial 1995 referendum, Russian has been an official language alongside Belarusian.",
-    "url": "https://en.wikipedia.org/wiki/Belarus"
+    "id": "kappa-kappa-psi",
+    "name": "Kappa Kappa Psi",
+    "summary": "Kappa Kappa Psi is a coeducational fraternity for college and university band members. The fraternity was founded on November 27, 1919, at Oklahoma Agricultural and Mechanical College in Stillwater, Oklahoma, by ten band members led by William A. Scroggs and Professor Bohumil Makovsky, and was incorporated on March 5, 1920. Since its founding, Kappa Kappa Psi has established several programs for the betterment of college bands and band music, including the National Intercollegiate Band, a band that has performed at every national convention of the fraternity since 1947; and the Commissioning Program, which has contributed dozens of works to the band repertoire as a national project and hundreds more from local chapter commissions. The fraternity holds a close relationship with its associated sorority, Tau Beta Sigma. More than 66,000 men and women have been initiated into Kappa Kappa Psi since 1919, including United States President Bill Clinton, John Philip Sousa, Neil Armstrong, and Dizzy Gillespie.",
+    "url": "https://en.wikipedia.org/wiki/Kappa_Kappa_Psi"
   },
   "word": {
-    "id": "lapidary",
-    "word": "lapidary",
-    "url": "https://www.merriam-webster.com/dictionary/lapidary",
-    "partOfSpeech": "noun",
-    "pronunciation": "LAP-uh-dair-ee",
-    "audioPath": "audio/words/lapidary.mp3",
+    "id": "baroque",
+    "word": "baroque",
+    "url": "https://www.merriam-webster.com/dictionary/baroque",
+    "partOfSpeech": "adjective, often capitalized",
+    "pronunciation": "buh-ROHK",
+    "audioPath": "audio/words/baroque.mp3",
     "definitions": [
-      "a cutter, polisher, or engraver of precious stones usually other than diamonds",
-      "the art of cutting gems"
+      "of or relating to a style of art and music marked by complex forms and bold ornamentation",
+      "characterized by grotesqueness, extravagance, complexity, or flamboyance",
+      "irregularly shaped"
     ],
     "examples": [
-      "Grandfather had many hobbies, and was especially skilled in both woodworking and _lapidary_.",
-      "\"White earned a doctorate degree in homeopathy and acupuncture at Open International University in Colombo, Sri Lanka. In 2000, though, she felt inclined to return home to Bradenton and renew the knowledge she learned from her father, Mikes Howes, a silversmith and _lapidary_.\" -- From an article in the _Sarasota Herald Tribune_ (Florida), December 16, 2010"
+      "She’s an immensely talented writer, but her baroque prose style is too grandiose for my taste."
     ],
-    "origin": "The Latin word for \"stone\" is \"lapis\"; in that language, something \"of or relating to stone\" is described as \"lapidarius.\" Gem cutters obviously relate well to stone, and during the 14th century someone decided that \"lapidarius\" should be related to them. The spelling of the term was modified, and it was borrowed into English as a name for both gem cutters and their art. Since the 1700s, \"lapidary\" has also been used as an adjective describing things having the elegance and precision of inscriptions carved on stone monuments or things relating to the art of gem cutting."
+    "origin": "\"Baroque\" came to English from a French word meaning \"irregularly shaped.\" At first, the word in French was used mostly to refer to pearls. Eventually, it came to describe an extravagant style of art characterized by curving lines, gilt, and gold. This type of art, which was prevalent especially in the 17th century, was sometimes considered to be excessively decorated and overly complicated. It makes sense, therefore, that the meaning of the word \"baroque\" has broadened to include anything that seems excessively ornate or elaborate."
   }
 }

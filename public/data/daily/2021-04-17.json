@@ -1,134 +1,133 @@
 {
   "artist": {
-    "id": "bill-viola",
-    "name": "Bill Viola",
-    "dates": "Born Jan 25, 1951",
-    "mainImg": "img/art/artists/bill-viola.jpg",
+    "id": "rebecca-horn",
+    "name": "Rebecca Horn",
+    "dates": "Born Mar 24, 1944",
+    "mainImg": "img/art/artists/rebecca-horn.jpg",
     "artworkImgs": [
       {
-        "name": "Madison",
-        "path": "img/art/artworks/bill-viola-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/madison-bill-viola/DwGM1FDnRC0rtg"
+        "name": "Spirits",
+        "path": "img/art/artworks/rebecca-horn-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/spirits-rebecca-horn/1gE5oAPSsSxu9A"
       },
       {
-        "name": "The Encounter",
-        "path": "img/art/artworks/bill-viola-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-encounter-bill-viola/3QEX9iwXokmiqw"
+        "name": "Moon of Aran",
+        "path": "img/art/artworks/rebecca-horn-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/moon-of-aran-rebecca-horn/0AHMC9_lvgXeRA"
       },
       {
-        "name": "The Raft",
-        "path": "img/art/artworks/bill-viola-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-raft-bill-viola/QwHpYB7A-i9rFw"
+        "name": "Finger Gloves",
+        "path": "img/art/artworks/rebecca-horn-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/finger-gloves-rebecca-horn/zwELgy0mTVgyyQ"
       },
       {
-        "name": "Observance",
-        "path": "img/art/artworks/bill-viola-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/observance-bill-viola/nQGj2LtG0h0I5g"
+        "name": "Rebecca Horn, Spirits, 2005",
+        "path": "img/art/artworks/rebecca-horn-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/rebecca-horn-spirits-2005-rebecca-horn/eAFjGZwvGbkW7A"
       },
       {
-        "name": "The Trial",
-        "path": "img/art/artworks/bill-viola-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-trial-bill-viola/xwHzHqlxZxqvjg"
+        "name": "Rebecca Horn, The Double",
+        "path": "img/art/artworks/rebecca-horn-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/rebecca-horn-the-double-rebecca-horn/WwEwghMC49LJ5Q"
       },
       {
-        "name": "Anima",
-        "path": "img/art/artworks/bill-viola-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/anima-bill-viola/BAFlnAJxA0FvpA"
+        "name": "Il raggio verde",
+        "path": "img/art/artworks/rebecca-horn-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/il-raggio-verde-rebecca-horn/1gFDzc8__5Eo9g"
       }
     ],
     "summary": [
-      "Bill Viola is a contemporary video artist whose artistic expression depends upon electronic, sound, and image technology in New Media. His works focus on the ideas behind fundamental human experiences such as birth, death and aspects of consciousness."
+      "Rebecca Horn is a German visual artist, who is best known for her installation art, film directing, and her body modifications such as Einhorn, a body-suit with a very large horn projecting vertically from the headpiece. She directed the films Der Eintänzer, La ferdinanda: Sonate für eine Medici-Villa and Buster's Bedroom. Horn presently lives and works in Paris and Berlin."
     ],
     "quote": null,
-    "movements": ["Contemporary art"],
-    "mediums": ["Metal", "Brass", "Iron", "Wood", "Cast iron"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Bill_Viola",
-    "urlGoogle": "https://artsandculture.google.com/entity/bill-viola/m09lh9"
+    "movements": [],
+    "mediums": ["Acrylic paint", "Brass", "Copper", "Silver", "Egg", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Rebecca_Horn",
+    "urlGoogle": "https://artsandculture.google.com/entity/rebecca-horn/m0670bx"
   },
   "event": {
-    "id": "battle-of-port-arthur",
-    "name": "Battle of Port Arthur",
-    "dates": "Feb 8, 1904 - Feb 9, 1904",
-    "mainImg": "img/events/battle-of-port-arthur.jpg",
+    "id": "siege-of-mafeking",
+    "name": "Siege of Mafeking",
+    "dates": "Oct 13, 1899 - May 17, 1900",
+    "mainImg": "img/events/siege-of-mafeking.jpg",
     "summary": [
-      "The Battle of Port Arthur of 8–9 February 1904 marked the commencement of the Russo-Japanese War. It began with a surprise night attack by a squadron of Japanese destroyers on the neutral Russian fleet anchored at Port Arthur, Manchuria, and continued with an engagement the following morning; further skirmishing off Port Arthur would continue until May 1904. The attack ended inconclusively, though the war resulted in a decisive Japanese victory."
+      "The Siege of Mafeking was a 217-day siege battle for the town of Mafeking in South Africa during the Second Boer War from October 1899 to May 1900. The siege received considerable attention as Lord Edward Cecil, the son of the British prime minister, was in the besieged town, as also was Lady Sarah Wilson, a daughter of the Duke of Marlborough and aunt of Winston Churchill. The siege turned the British commander, Colonel Robert Baden-Powell, into a national hero. The Relief of Mafeking, while of little military significance, was a morale boost for the struggling British."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Port_Arthur",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-port-arthur/m0237q_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Mafeking",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-mafeking/m03dqbw"
   },
   "funFacts": [
     {
-      "id": "803",
-      "fact": "Antarctica is the only continent with no owls.",
-      "category": ["Geography", "Onlies"]
+      "id": "155",
+      "fact": "In 1926, the first outdoor mini-golf courses were built on rooftops in NYC.",
+      "category": ["Geography", "History"]
     },
     {
-      "id": "962",
-      "fact": "John Wilkes Booth's brother saved the life of Abraham Lincoln's son.",
-      "category": ["History"]
+      "id": "44",
+      "fact": "The bullfrog is the only animal that never sleeps.",
+      "category": ["Animals", "Onlies"]
     }
   ],
   "funFacts2": [
     {
-      "id": "506900",
-      "fact": "In 1991, Wayne Allwine—who was then the voice of Mickey Mouse—married Russi Taylor, the voice of Minnie."
+      "id": "506874",
+      "fact": "An urban legend claimed Zima was not detectable by a breathalyzer, boosting its popularity among the young and gullible."
     }
   ],
   "idiom": {
-    "id": "hair-shirt",
-    "term": "hair shirt",
-    "definition": "A self-imposed punishment or penance, as in *I apologized a dozen times---do you want me to wear a hair shirt forever?* This term, mentioned from the 13th century on, alludes to wearing a coarse, scratchy hair shirt, the practice of religious ascetics. Its figurative use dates from the mid-1800s."
+    "id": "its-an-ill-wind-that-blows-no-one-any-good",
+    "term": "it's an ill wind that blows no one any good",
+    "definition": "A loss or misfortune usually benefits someone. For example, *They lost everything when that old shed burned down, but they got rid of a lot of junk as well---it's an ill wind.* This expression appeared in John Heywood's 1546 proverb collection and remains so well known that it is often shortened. It also gave rise to a much-quoted pun about the difficulty of playing the oboe, describing the instrument as *an ill wind that nobody blows good.*"
   },
   "person": {
-    "id": "ban-ki-moon",
-    "name": "Ban Ki-moon",
-    "dates": "Born Jun 13, 1944",
-    "mainImg": "img/people/ban-ki-moon.jpg",
+    "id": "george-voinovich",
+    "name": "George Voinovich",
+    "dates": "Jul 15, 1936 - Jun 12, 2016",
+    "mainImg": "img/people/george-voinovich.jpg",
     "summary": [
-      "Ban Ki-moon is a South Korean politician and diplomat who served as the eighth Secretary-General of the United Nations from January 2007 to December 2016. Before becoming the Secretary-General, Ban was a career diplomat in South Korea's Ministry of Foreign Affairs and in the United Nations. He entered diplomatic service the year he graduated from university, accepting his first post in New Delhi, India.",
-      "Ban was the foreign minister of South Korea from January 2004 to November 2006. In February 2006, he began to campaign for the office of Secretary-General. Ban was initially considered to be a long shot for the office. As foreign minister of South Korea, however, he was able to travel to all the countries on the United Nations Security Council, a maneuver that turned him into the campaign's front runner.",
-      "On 13 October 2006, he was elected to be the eighth Secretary-General by the United Nations General Assembly. On 1 January 2007, he succeeded Kofi Annan. As Secretary-General, he was responsible for several major reforms on peacekeeping and UN employment practices. Diplomatically, Ban has taken particularly strong views on global warming, pressing the issue repeatedly with U.S."
-    ],
-    "quote": "“Our foot is stuck on the accelerator and we are heading towards an abyss.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Ban_Ki-moon",
-    "urlGoogle": "https://artsandculture.google.com/entity/ban-ki-moon/m075jlq"
-  },
-  "place": {
-    "id": "greece",
-    "name": "Greece",
-    "mainImg": "img/places/greece.jpg",
-    "summary": [
-      "Greece, officially the Hellenic Republic, known also as Hellas, is a country located in Southeast Europe. Its population is approximately 10.7 million as of 2018; Athens, the nation's capital, is its largest city, followed by Thessaloniki.",
-      "Situated on the southern tip of the Balkan Peninsula, Greece is located at the crossroads of Europe, Asia, and Africa. It shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the northeast. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, the Cretan Sea and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin and the 11th longest coastline in the world at 13,676 km in length, featuring many islands, of which 227 are inhabited. Eighty percent of Greece is mountainous, with Mount Olympus being the highest peak at 2,918 metres. The country consists of nine traditional geographic regions: Macedonia, Central Greece, the Peloponnese, Thessaly, Epirus, the Aegean Islands, Thrace, Crete, and the Ionian Islands."
+      "George Victor Voinovich was an American politician from the state of Ohio. A member of the Republican Party, Voinovich served as a United States Senator from 1999 to 2011, as the 65th governor of Ohio from 1991 to 1998, and as the 54th mayor of Cleveland from 1980 to 1989, the last Republican to serve in that office.",
+      "Voinovich spent more than 46 years in public service – first as assistant attorney general of Ohio in 1963, and finally as the senior United States Senator representing Ohio. He is the 15th person to have served as both the governor of Ohio and a U.S. senator and one of only two people to have been the mayor of Cleveland, governor of Ohio and a United States Senator; the other was Frank Lausche, who like Voinovich was of Slovenian descent. He is also the only person to have served as both chairman of the National Governors Association and president of the National League of Cities."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Greece",
-    "urlGoogle": "https://artsandculture.google.com/entity/greece/m035qy"
+    "urlWiki": "https://en.wikipedia.org/wiki/George_Voinovich",
+    "urlGoogle": "https://artsandculture.google.com/entity/george-voinovich/m01_pgn"
+  },
+  "place": {
+    "id": "india",
+    "name": "India",
+    "mainImg": "img/places/india.jpg",
+    "summary": [
+      "India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia.",
+      "Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago.",
+      "Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity. Settled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/India",
+    "urlGoogle": "https://artsandculture.google.com/entity/india/m03rk0"
   },
   "quote": {
-    "id": "60",
-    "quote": "All great truths begin as blasphemies.",
-    "author": "George Bernard Shaw"
+    "id": "51",
+    "quote": "Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.",
+    "author": "Margaret Mead"
   },
   "wiki": {
-    "id": "les-pecheurs-de-perles",
-    "name": "Les pêcheurs de perles",
-    "summary": "Les pêcheurs de perles (The Pearl Fishers) is an opera by the French composer Georges Bizet, with a libretto by Eugène Cormon and Michel Carré, first performed on 30 September 1863 at the Théâtre Lyrique in Paris. Set in ancient Ceylon, it tells how two men's vow of eternal friendship is threatened by their love for a woman, who is herself conflicted between secular love and her sacred oath as a priestess. The duet \"Au fond du temple saint\", generally known as \"The Pearl Fishers Duet\", is one of the best-known numbers in Western opera. Although the opera was well received by the public and by other composers, initial press reaction was generally hostile, and it was not revived in Bizet's lifetime. It later achieved popularity in Europe and America, and eventually became a staple part of the repertory of opera houses worldwide. The loss of Bizet's original score meant that, until the 1970s, productions were based on versions with significant departures from the original; recently, efforts have been made to reconstruct the score in accordance with Bizet's intentions. Modern critics have detected premonitions of the composer's genius which culminated, 10 years later, in Carmen.",
-    "url": "https://en.wikipedia.org/wiki/Les_p%C3%AAcheurs_de_perles"
+    "id": "isaac-newton",
+    "name": "Isaac Newton",
+    "summary": "Isaac Newton was an English physicist, mathematician, astronomer, inventor, philosopher and alchemist. A man of profound genius, he is widely regarded as one of the most influential scientists in history. He is associated with the scientific revolution and the advancement of heliocentrism. Among his scientific accomplishments, Newton wrote the Philosophiae Naturalis Principia Mathematica, wherein he described universal gravitation and, via his laws of motion, laid the groundwork for classical mechanics. With Gottfried Wilhelm Leibniz he shares credit for the development of differential calculus. Newton was the first to promulgate a set of natural laws that could govern both terrestrial motion and celestial motion, and is credited with providing mathematical substantiation for Kepler's laws of planetary motion, which he expanded by arguing that orbits (such as those of comets) could include all conic sections (such as the ellipse, hyperbola, and parabola).",
+    "url": "https://en.wikipedia.org/wiki/Isaac_Newton"
   },
   "word": {
-    "id": "espouse",
-    "word": "espouse",
-    "url": "https://www.merriam-webster.com/dictionary/espouse",
-    "partOfSpeech": "verb",
-    "pronunciation": "ih-SPOWZ",
-    "audioPath": "audio/words/espouse.mp3",
-    "definitions": ["marry", "to take up and support as a cause : become attached to"],
+    "id": "sternutation",
+    "word": "sternutation",
+    "url": "https://www.merriam-webster.com/dictionary/sternutation",
+    "partOfSpeech": "noun",
+    "pronunciation": "ster-nyuh-TAY-shun",
+    "audioPath": "audio/words/sternutation.mp3",
+    "definitions": ["the act, fact, or noise of sneezing"],
     "examples": [
-      "The new theory has been _espoused_ by many leading physicists.",
-      "\"\\[The food collection drive\\] was scheduled on the Martin Luther King Jr. holiday in the spirit of giving that King _espoused_.\" - From an article by Charles A. Peterson in _The Granville Sentinel_ (Ohio), January 15, 2013"
+      "Julie knew that she had put on too much perfume when she entered the car and immediately heard a chorus of sternutation from the passengers."
     ],
-    "origin": "As you might guess, the words \"espouse\" and \"spouse\" are related, both deriving from the Latin verb \"spondēre,\" meaning \"to promise or betroth.\" In fact, the two were once completely interchangeable, with each serving as a noun meaning \"a newly married person\" or \"a husband or wife\" and also as a verb meaning \"to marry.\" Their semantic separation began in the 17th century, when the noun \"espouse\" fell out of use. Around the same time, people started using the verb \"espouse\" figuratively to mean \"to commit to and support a cause.\" \"Spouse\" continued to be used in both noun and verb forms until the 20th century, when its verb use declined and it came to be used mainly as a noun meaning \"husband or wife.\""
+    "origin": "\"Sternutation\" comes from Latin and is a descendant of the verb \"sternuere,\" meaning \"to sneeze.\" One of the earliest known English uses occurred in a 16th-century edition of a book on midwifery, in a passage about infants suffering from frequent \"sternutation and sneesynge.\" The term has long been used in serious medical contexts, but also on occasion for humorous effect. In 1850, for example, author Grace Greenwood observed that U.S. senators from opposing political parties would often come together to share snuff: \"And all three forget their sectional differences in a delightful concert of sternutation. No business is too grave, no speaker too eloquent, to be 'sneezed at.'\""
   }
 }

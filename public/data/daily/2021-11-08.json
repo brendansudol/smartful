@@ -1,0 +1,124 @@
+{
+  "artist": {
+    "id": "anthony-van-dyck",
+    "name": "Anthony van Dyck",
+    "dates": "Mar 22, 1599 - Dec 9, 1641",
+    "mainImg": "img/art/artists/anthony-van-dyck.jpg",
+    "artworkImgs": [
+      {
+        "name": "Marchesa Elena Grimaldi Cattaneo",
+        "path": "img/art/artworks/anthony-van-dyck-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/marchesa-elena-grimaldi-cattaneo-sir-anthony-van-dyck/zgHyWbtk_F_cow"
+      },
+      {
+        "name": "Saint Rosalie Interceding for the Plague-stricken of Palermo",
+        "path": "img/art/artworks/anthony-van-dyck-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-rosalie-interceding-for-the-plague-stricken-of-palermo-anthony-van-dyck/VQEBAr0hlRP6lQ"
+      },
+      {
+        "name": "Philip, Lord Wharton",
+        "path": "img/art/artworks/anthony-van-dyck-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/philip-lord-wharton-sir-anthony-van-dyck/zgF902yPIYVWHQ"
+      },
+      {
+        "name": "Five Eldest Children of Charles I",
+        "path": "img/art/artworks/anthony-van-dyck-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/five-eldest-children-of-charles-i-sir-anthony-van-dyck/rgETLGbnb2EzxQ"
+      },
+      {
+        "name": "The Lomellini Family",
+        "path": "img/art/artworks/anthony-van-dyck-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-lomellini-family-anthony-van-dyck/rgHzt6wXf4mRdg"
+      },
+      {
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/anthony-van-dyck-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-anthony-van-dyck/TQE5JmNgiScPuA"
+      }
+    ],
+    "summary": [
+      "Sir Anthony van Dyck was a Flemish Baroque artist who became the leading court painter in England after success in the Southern Netherlands and Italy.",
+      "The seventh child of Frans van Dyck, a wealthy Antwerp silk merchant, Anthony painted from an early age. He was successful as an independent painter in his late teens, and became a master in the Antwerp guild in 1618. By this time he was working in the studio of the leading northern painter of the day, Peter Paul Rubens, who became a major influence on his work. Van Dyck worked in London for some months in 1621, then returned to Flanders for a brief time, before travelling to Italy, where he stayed until 1627, mostly in Genoa. In the late 1620s he completed his greatly admired Iconography series of portrait etchings, mostly of other artists. He spent five years in Flanders after his return from Italy, and from 1630 was court painter for the archduchess Isabella, Habsburg Governor of Flanders. In 1632 he returned to London to be the main court painter, at the request of Charles I of England."
+    ],
+    "quote": null,
+    "movements": ["Baroque", "Antwerp school", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Etching", "Engraving", "Drawing", "Pen", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Anthony_van_Dyck",
+    "urlGoogle": "https://artsandculture.google.com/entity/anthony-van-dyck/m01r0ss"
+  },
+  "event": {
+    "id": "mediterranean-and-middle-east-theatre-of-world-war-ii",
+    "name": "Mediterranean and Middle East theatre of World War II",
+    "dates": "Jun 10, 1940",
+    "mainImg": "img/events/mediterranean-and-middle-east-theatre-of-world-war-ii.jpg",
+    "summary": [
+      "The Mediterranean and Middle East Theatre was a major theatre of operations during the Second World War. The vast size of the Mediterranean and Middle East theatre saw interconnected naval, land, and air campaigns fought for control of the Mediterranean, North Africa, the Horn of Africa, the Middle East and Southern Europe. The fighting in this theatre lasted from 10 June 1940, when Italy entered the war on the side of Germany, until 2 May 1945 when all Axis forces in Italy surrendered. However, fighting would continue in Greece – where British troops had been dispatched to aid the Greek government – during the early stages of the Greek Civil War.",
+      "The British referred to this theatre as the Mediterranean and Middle East Theatre, the Americans called it the Mediterranean Theater of War and the German informal official history of the fighting is The Mediterranean, South-East Europe, and North Africa 1939–1941. Regardless of the size of the theatre, the various campaigns were not seen as neatly separated areas of operations but part of a vast theatre of war.",
+      "Fascist Italy aimed to carve out a new Roman Empire, while British forces aimed initially to retain the status quo."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Mediterranean_and_Middle_East_theatre_of_World_War_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/mediterranean-and-middle-east-theatre-of-world-war-ii/m05w8w7"
+  },
+  "funFacts": [
+    {
+      "id": "1009",
+      "fact": "The glue on Israeli postage stamps is certified kosher.",
+      "category": ["Geography", "Hodgepodge", "Science"]
+    },
+    {
+      "id": "295",
+      "fact": "Leonardo da Vinci could draw with one hand while writing with the other.",
+      "category": ["History"]
+    }
+  ],
+  "funFacts2": [{ "id": "506502", "fact": "Danny DeVito is an experienced hairdresser." }],
+  "person": {
+    "id": "robert-schuman",
+    "name": "Robert Schuman",
+    "dates": "Jun 29, 1886 - Sep 4, 1963",
+    "mainImg": "img/people/robert-schuman.jpg",
+    "summary": [
+      "Jean-Baptiste Nicolas Robert Schuman was a Luxembourg-born French statesman. Schuman was a Christian Democrat political thinker and activist. Twice Prime Minister of France, a reformist Minister of Finance and a Foreign Minister, he was instrumental in building postwar European and trans-Atlantic institutions and was one of the founders of the European Union, the Council of Europe and NATO. The 1964–1965 academic year at the College of Europe was named in his honour."
+    ],
+    "quote": "“World peace cannot be safeguarded without the making of creative efforts proportionate to the dangers which threaten it.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Schuman",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-schuman/m020tr1"
+  },
+  "place": {
+    "id": "iași",
+    "name": "Iași",
+    "mainImg": "img/places/iași.jpg",
+    "summary": [
+      "Iași, also referred to as Jassy, is the second largest city in Romania, and the seat of Iași County. Located in the historical region of Moldavia, Iași has traditionally been one of the leading centres of Romanian social, cultural, academic and artistic life. The city was the capital of the Principality of Moldavia from 1564 to 1859, then of the United Principalities from 1859 to 1862, and the capital of Romania from 1916 to 1918.",
+      "Known as The Cultural Capital of Romania, Iași is a symbol in Romanian history. The historian Nicolae Iorga said \"There should be no Romanian who does not know of it\". Still referred to as The Moldavian Capital, Iași is the main economic and business centre of the Moldavian region of Romania. In December 2018, Iași was officially declared Historical capital of Romania.",
+      "At the 2011 census, the city proper had a population of 290,422. With 500,668 residents, the Iași urban area is the second most populous in Romania, whereas more than 500,000 people live within its peri-urban area."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ia%C8%99i",
+    "urlGoogle": "https://artsandculture.google.com/entity/iași/m01fhg3"
+  },
+  "wiki": {
+    "id": "ultima-underworld-the-stygian-abyss",
+    "name": "Ultima Underworld: The Stygian Abyss",
+    "summary": "Ultima Underworld: The Stygian Abyss is a first-person role-playing video game released in March 1992 for IBM PC compatible systems running DOS. Set in the fantasy world of the Ultima series, it was developed by Blue Sky Productions (later Looking Glass Studios). The protagonist has to find and rescue a baron's kidnapped daughter from an underground cave system that contains the remnants of a failed utopian civilization. It introduced many technological innovations and has been hailed as the first first-person perspective role-playing game with 3D computer graphics. Although it was not an immediate commercial success, the effects of critical acclaim and word of mouth caused sales to reach nearly 500,000. The game has been highly influential. It is said to have inspired \"all 3D RPG titles from Morrowind to World of Warcraft\", and the designers of BioShock, Tomb Raider and other major 3D games have cited it as an inspiration for their own work. It resulted in one sequel, 1993's Ultima Underworld II: Labyrinth of Worlds.",
+    "url": "https://en.wikipedia.org/wiki/Ultima_Underworld:_The_Stygian_Abyss"
+  },
+  "word": {
+    "id": "verbiage",
+    "word": "verbiage",
+    "url": "https://www.merriam-webster.com/dictionary/verbiage",
+    "partOfSpeech": "noun",
+    "pronunciation": "VER-bee-ij",
+    "audioPath": "audio/words/verbiage.mp3",
+    "definitions": [
+      "a profusion of words usually of little or obscure content",
+      "manner of expressing oneself in words : diction"
+    ],
+    "examples": [
+      "The newspaper editor said that he would have to reduce the _verbiage_ of Earl's letter before he could publish it.",
+      "\"With legislation being so [protracted](https://www.merriam-webster.com/dictionary/protracted) and containing so much confusing _verbiage_, is it any wonder that Congress's approval rating is currently around 15 percent?\" - From an article by Richard F. (Buz) Williams in _The Daily Courier_ (Prescott, Arizona), March 20, 2013"
+    ],
+    "origin": "\"Verbiage\" descends from Middle French \"verbier\" (\"to chatter\"), itself an offspring of \"werbler,\" an Old French word meaning \"to trill.\" The usual sense of the word implies an overabundance of possibly unnecessary words. It is similar to \"wordiness,\" except that it stresses the superfluous words themselves more than the quality that produces them. In other words, a writer with a fondness for \"verbiage\" might be accused of \"wordiness.\" Some people think the phrase \"excess verbiage\" is redundant, but that's not necessarily true. In the early 19th century, \"verbiage\" developed a second sense meaning, simply, \"wording,\" with no suggestion of excess. This second definition has sometimes been treated as an error by people who insist that \"verbiage\" must always imply excessiveness, but that sense is well-established and can be considered standard."
+  }
+}

@@ -1,126 +1,136 @@
 {
   "artist": {
-    "id": "anton-graff",
-    "name": "Anton Graff",
-    "dates": "Nov 18, 1736 - Jun 22, 1813",
-    "mainImg": "img/art/artists/anton-graff.jpg",
+    "id": "paul-klee",
+    "name": "Paul Klee",
+    "dates": "Dec 18, 1879 - Jun 29, 1940",
+    "mainImg": "img/art/artists/paul-klee.jpg",
     "artworkImgs": [
       {
-        "name": "Friedrich der Große",
-        "path": "img/art/artworks/anton-graff-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/friedrich-der-große-anton-graff/DAEsXb1rkqpq7w"
+        "name": "Ghost of a Genius",
+        "path": "img/art/artworks/paul-klee-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/ghost-of-a-genius-paul-klee/QgGHzGidGhPIdg"
       },
       {
-        "name": "Self-Portrait with Eye-shade",
-        "path": "img/art/artworks/anton-graff-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-with-eye-shade-anton-graff/6gF-cUPsvyJP3g"
+        "name": "Wald Bau",
+        "path": "img/art/artworks/paul-klee-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/wald-bau-paul-klee/FQGzzQvfdf-jpg"
       },
       {
-        "name": "Portrait of the three daughters of Julius Johann von Vieth und Gossenau",
-        "path": "img/art/artworks/anton-graff-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-the-three-daughters-of-julius-johann-von-vieth-und-gossenau-anton-graff/MAFGhf06b0xXGA"
+        "name": "Fire at Full Moon",
+        "path": "img/art/artworks/paul-klee-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/fire-at-full-moon-paul-klee/4QFsIMp64ZsDOA"
       },
       {
-        "name": "Portrait of the prince Karl of Saxony",
-        "path": "img/art/artworks/anton-graff-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-the-prince-karl-of-saxony-anton-graff/dgGdRCuxEFUZOg"
+        "name": "Super-Chess",
+        "path": "img/art/artworks/paul-klee-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/super-chess-paul-klee/MwHvy-HH4O6BGw"
       },
       {
-        "name": "Frederick the Great, King of Prussia",
-        "path": "img/art/artworks/anton-graff-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/frederick-the-great-king-of-prussia-henri-marais-after-anton-graff/aQElgX9db4qVKw"
+        "name": "The Beginnings of a Smile",
+        "path": "img/art/artworks/paul-klee-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-beginnings-of-a-smile-paul-klee/-QHzS2vdmLVLZg"
       },
       {
-        "name": "Karl Ramler",
-        "path": "img/art/artworks/anton-graff-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/karl-ramler-johann-friedrich-bause-after-anton-graff/-AFfw-kHqHbxQw"
+        "name": "Dance of Moth",
+        "path": "img/art/artworks/paul-klee-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/dance-of-moth-paul-klee/AgG_UW75jk-kiw"
       }
     ],
     "summary": [
-      "Anton Graff was an eminent Swiss portrait artist. Among his famous subjects were Friedrich Schiller, Christoph Willibald Gluck, Heinrich von Kleist, Frederick the Great, Friederike Sophie Seyler, Johann Gottfried Herder, Gotthold Ephraim Lessing, Moses Mendelssohn and Christian Felix Weisse. His pupils included Emma Körner, Philipp Otto Runge and Karl Ludwig Kaaz."
+      "Paul Klee was a Swiss-born artist. His highly individual style was influenced by movements in art that included Expressionism, Cubism, and Surrealism. Klee was a natural draftsman who experimented with and eventually deeply explored color theory, writing about it extensively; his lectures Writings on Form and Design Theory, published in English as the Paul Klee Notebooks, are held to be as important for modern art as Leonardo da Vinci's A Treatise on Painting for the Renaissance. He and his colleague, Russian painter Wassily Kandinsky, both taught at the Bauhaus school of art, design and architecture in Germany. His works reflect his dry humor and his sometimes childlike perspective, his personal moods and beliefs, and his musicality."
     ],
-    "quote": null,
-    "movements": ["Neoclassicism"],
-    "mediums": ["Oil paint", "Laid paper", "Etching", "Bone", "Vitreous enamel", "Gold"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Anton_Graff",
-    "urlGoogle": "https://artsandculture.google.com/entity/anton-graff/m05pjwt"
+    "quote": "“When looking at any significant work of art, remember that a more significant one probably has had to be sacrificed.”",
+    "movements": [
+      "Modern art",
+      "Expressionism",
+      "Surrealism",
+      "Bauhaus style",
+      "German Expressionism",
+      "Cubism"
+    ],
+    "mediums": [
+      "Watercolor painting",
+      "Oil paint",
+      "Drawing",
+      "Cardboard",
+      "Hessian fabric",
+      "Ink"
+    ],
+    "urlWiki": "https://en.wikipedia.org/wiki/Paul_Klee",
+    "urlGoogle": "https://artsandculture.google.com/entity/paul-klee/m0ktf5"
   },
   "event": {
-    "id": "hungarian-revolution-of-1956",
-    "name": "Hungarian Revolution of 1956",
-    "dates": "Oct 23, 1956 - Nov 10, 1956",
-    "mainImg": "img/events/hungarian-revolution-of-1956.jpg",
+    "id": "1980-united-states-presidential-election",
+    "name": "1980 United States presidential election",
+    "dates": null,
+    "mainImg": "img/events/1980-united-states-presidential-election.jpg",
     "summary": [
-      "The Hungarian Revolution of 1956, or the Hungarian Uprising, was a nationwide revolution against the Hungarian People's Republic and its Soviet-imposed policies, lasting from 23 October until 10 November 1956. Leaderless at the beginning, it was the first major threat to Soviet control since the Red Army drove Nazi Germany from its territory at the End of World War II in Europe.",
-      "The revolt began as a student protest, which attracted thousands as they marched through central Budapest to the Hungarian Parliament building, calling out on the streets using a van with loudspeakers. A student delegation, entering the radio building to try to broadcast the students' demands, was detained. When the delegation's release was demanded by the protesters outside, they were fired upon from within the building by the State Security Police, known as the ÁVH. Multiple students died and one was wrapped in a flag and held above the crowd. This was the start of the next phase of the revolution. As the news spread, disorder and violence erupted throughout the capital.",
-      "The revolt spread quickly and the government collapsed."
+      "The 1980 United States presidential election was the 49th quadrennial presidential election. It was held on Tuesday, November 4, 1980. Republican nominee Ronald Reagan defeated incumbent Democrat Jimmy Carter. Carter was the second incumbent president to be denied a second term since Herbert Hoover in 1932. Due to the rise of conservatism following Reagan's victory, some historians consider the election to be a realigning election that marked the start of the Reagan Era.",
+      "Carter's unpopularity and poor relations with Democratic leaders encouraged an intra-party challenge by Senator Ted Kennedy, a younger brother of former President John F. Kennedy. Carter defeated Kennedy in the majority of the Democratic primaries, but Kennedy remained in the race until Carter was officially nominated at the 1980 Democratic National Convention. The Republican primaries were contested between Reagan, who had previously served as the Governor of California, former Congressman George H. W. Bush of Texas, Congressman John B. Anderson of Illinois, and several other candidates."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
-    "urlGoogle": "https://artsandculture.google.com/entity/hungarian-revolution-of-1956/m01zd7d"
+    "urlWiki": "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
+    "urlGoogle": "https://artsandculture.google.com/entity/1980-united-states-presidential-election/m0b3h2"
   },
   "funFacts": [
-    { "id": "767", "fact": "Honeybees have hair on their eyes.", "category": ["Animals"] },
     {
-      "id": "44",
-      "fact": "The bullfrog is the only animal that never sleeps.",
-      "category": ["Animals", "Onlies"]
+      "id": "492",
+      "fact": "To remove crayon marks from walls, use a hairdryer to heat the wax.",
+      "category": ["Make-it-Easies"]
+    },
+    {
+      "id": "889",
+      "fact": "The original Cinderella was Egyptian and wore fur slippers.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504663",
-      "fact": "While an Oscar is of unnamed value to someone who wins (or loses) one, the actual trophy has a raw value of about $600."
+      "id": "554006",
+      "fact": "Dolphin calves are typically born \u0003tail first, rather than head first, so they don’t drown during the birthing process."
     }
   ],
-  "idiom": {
-    "id": "long-in-the-tooth",
-    "term": "long in the tooth",
-    "definition": "Getting on in years, old, as in *Aunt Aggie's a little long in the tooth to be helping us move.* This expression alludes to a horse's gums receding with age and making the teeth appear longer. [Mid-1800s]"
-  },
   "person": {
-    "id": "desmond-tutu",
-    "name": "Desmond Tutu",
-    "dates": "Born Oct 7, 1931",
-    "mainImg": "img/people/desmond-tutu.jpg",
+    "id": "ahmed-iii",
+    "name": "Ahmed III",
+    "dates": "Dec 30, 1673 - Jul 1, 1736",
+    "mainImg": "img/people/ahmed-iii.jpg",
     "summary": [
-      "Desmond Mpilo Tutu OMSG CH GCStJ is a South African Anglican cleric and theologian known for his work as an anti-apartheid and human rights activist. He was the Bishop of Johannesburg from 1985 to 1986 and then the Archbishop of Cape Town from 1986 to 1996, in both cases being the first black African to hold the position. Theologically, he sought to fuse ideas from black theology with African theology.",
-      "Tutu was born of mixed Xhosa and Motswana heritage to a poor family in Klerksdorp, Union of South Africa. Entering adulthood, he trained as a teacher and married Nomalizo Leah Tutu, with whom he had several children. In 1960, he was ordained as an Anglican priest and in 1962 moved to the United Kingdom to study theology at King's College London. In 1966 he returned to southern Africa, teaching at the Federal Theological Seminary and then the University of Botswana, Lesotho and Swaziland. In 1972, he became the Theological Education Fund's director for Africa, a position based in London but necessitating regular tours of the African continent."
-    ],
-    "quote": "“Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Desmond_Tutu",
-    "urlGoogle": "https://artsandculture.google.com/entity/desmond-tutu/m02d5w"
-  },
-  "place": {
-    "id": "morocco",
-    "name": "Morocco",
-    "mainImg": "img/places/morocco.jpg",
-    "summary": [
-      "Morocco, officially the Kingdom of Morocco, is a country located in the Maghreb region of North Africa. It overlooks the Mediterranean Sea to the north and the Atlantic Ocean to the west, with land borders with Algeria to the east and Western Sahara to the south. Morocco also claims the exclaves of Ceuta, Melilla and Peñón de Vélez de la Gomera, all of them under Spanish jurisdiction, as well as several small Spanish-controlled islands off its coast. The capital is Rabat and the largest city is Casablanca. Morocco spans an area of 710,850 km² and has a population of over 36 million.",
-      "Since the foundation of the first Moroccan state by Idris I in 788 AD, the country has been ruled by a series of independent dynasties, reaching its zenith under Almoravid and Almohad rule, when it spanned parts of Iberia and northwestern Africa. The Portuguese Empire began in Morocco in the 15th century, following Portuguese conquests along the Moroccan coast, founding settlements which lasted into the 17th and 18th centuries. The Marinid and Saadi dynasties resisted foreign domination into the 17th century, allowing Morocco to remain the only northwest African country to avoid Ottoman occupation."
+      "Ahmed III was Sultan of the Ottoman Empire and a son of Sultan Mehmed IV. His mother was Gülnuş Sultan, originally named Evmenia Voria, who was an ethnic Greek. He was born at Hacıoğlu Pazarcık, in Dobruja. He succeeded to the throne in 1703 on the abdication of his brother Mustafa II. Nevşehirli Damat İbrahim Pasha and the Sultan's daughter, Fatma Sultan directed the government from 1718 to 1730, a period referred to as the Tulip Era.",
+      "The first days of Ahmed III's reign passed with efforts to appease the janissaries who were completely disciplined. However, he was not effective against the janissaries who made him sultan. Çorlulu Ali Pasha, who Ahmed brought to the Grand Vizier, tried to help him in administrative matters, made new arrangements for the treasury and Sultan. He supported Ahmed in his fight with his rivals."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Morocco",
-    "urlGoogle": "https://artsandculture.google.com/entity/morocco/m04wgh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Ahmed_III",
+    "urlGoogle": "https://artsandculture.google.com/entity/ahmed-iii/m0qm7"
+  },
+  "place": {
+    "id": "vancouver",
+    "name": "Vancouver",
+    "mainImg": "img/places/vancouver.jpg",
+    "summary": [
+      "Vancouver is a city on the north bank of the Columbia River in the U.S. state of Washington. It is the largest suburb of Portland, Oregon. Incorporated in 1857, Vancouver had a population of 161,791 as of the 2010 U.S. census, making it the fourth-largest city in Washington state. Vancouver is the county seat of Clark County and forms part of the Portland-Vancouver metropolitan area, the 23rd largest metropolitan area in the United States. Originally established in 1825 around Fort Vancouver, a fur-trading outpost, the city is located on the Washington/Oregon border along the Columbia River, directly north of Portland. In 2005, Money magazine named it No. 91 on its list of best places in America to live. In 2016, WalletHub ranked Vancouver the 89th best place in the U.S. for families to live."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Vancouver,_Washington",
+    "urlGoogle": "https://artsandculture.google.com/entity/vancouver/m0ckhc"
   },
   "wiki": {
-    "id": "sarah-churchill-duchess-of-marlborough",
-    "name": "Sarah Churchill, Duchess of Marlborough",
-    "summary": "Sarah Churchill, Duchess of Marlborough (1660–1744) was one of the most influential women in British history due to her close friendship with Queen Anne of Great Britain. By the time Anne became queen in 1702, Sarah had become a powerful friend and a dangerous enemy, the last in the long line of Stuart favourites. A strong-willed woman who liked to get her own way, Sarah tried the Queen's patience whenever she disagreed with her on political, court or church appointments. Sarah enjoyed an unusually close relationship with her husband, John Churchill, 1st Duke of Marlborough, whom she married in 1677. When Anne came to the throne, the Duke of Marlborough, together with Sidney Godolphin, rose to head the government, partly due to his wife's friendship with the queen. Sarah campaigned on behalf of the British Whig Party, while also devoting time to building projects such as the construction of Blenheim Palace. The money she inherited from the Marlborough trust made her one of the richest women in Europe.",
-    "url": "https://en.wikipedia.org/wiki/Sarah_Churchill,_Duchess_of_Marlborough"
+    "id": "governor-of-kentucky",
+    "name": "Governor of Kentucky",
+    "summary": "The Governor of the Commonwealth of Kentucky is the head of the executive branch of government in the U.S. state of Kentucky. The Kentucky Constitution empowers the governor to grant pardons, veto legislation, and call the legislature into session. He or she serves as commander-in-chief of the Kentucky National Guard and is charged with enforcing the state's laws. The officeholder is given broad authority to make appointments to the cabinets and departments of the executive branch, limited somewhat by the adoption of a merit system in 1960. Fifty-six men and one woman have held the office. The governor's term is four years in length, and since 1992, incumbents have been able to seek re-election once before becoming ineligible for four years. Kentucky is one of five U.S. states that hold gubernatorial elections in odd-numbered years; the others are Louisiana, Mississippi, Virginia, and New Jersey. The incumbent governor, Democrat Steve Beshear, is seeking re-election on November 8, 2011. His opponent is Republican David L. Williams, who is currently president of the state senate.",
+    "url": "https://en.wikipedia.org/wiki/Governor_of_Kentucky"
   },
   "word": {
-    "id": "froward",
-    "word": "froward",
-    "url": "https://www.merriam-webster.com/dictionary/froward",
+    "id": "sericeous",
+    "word": "sericeous",
+    "url": "https://www.merriam-webster.com/dictionary/sericeous",
     "partOfSpeech": "adjective",
-    "pronunciation": "FROH-erd",
-    "audioPath": "audio/words/froward.mp3",
-    "definitions": ["habitually disposed to disobedience and opposition"],
+    "pronunciation": "suh-RISH-us",
+    "audioPath": "audio/words/sericeous.mp3",
+    "definitions": ["covered with fine silky hair"],
     "examples": [
-      "The nanny informed the parents that she would seek employment elsewhere if the _froward_ child could not be compelled to be more obedient.",
-      "\"I first saw \\[the great-tailed grackles\\] during that amazing week in Texas three years ago and looked forward to renewing our acquaintance. By the end of the trip I was happy to be rid of them-pushy, _froward_ little party-crashing beasts that make rude, high-pitched squeals and constantly invite themselves to dinner, filching from unattended plates.\" - From an article in the _Lewiston Morning Tribune_ (Idaho), September 30, 2010"
+      "The shapes of the aster's sericeous leaves range from lanceolate or oblong to broadly elliptic."
     ],
-    "origin": "Once upon a time, in the days of Middle English, \"froward\" and \"toward\" were opposites. \"Froward\" meant \"moving or facing away from something or someone\"; \"toward\" meant \"moving or facing in the direction of something or someone.\" (The suffix \"-ward\" is from Old English \"-weard,\" meaning \"moving, tending, facing.\") \"Froward\" also meant \"difficult to deal with, perverse\"; \"toward\" meant \"willing, compliant, obliging.\" Each went its own way in the end: \"froward\" lost its \"away from\" sense as long ago as the 16th century and the \"willing\" sense of \"toward\" disappeared in the 18th century. A third relative, \"untoward,\" developed in the 15th century as a synonym for \"froward\" in its \"unruly or intractable” sense, and later developed other meanings, including \"improper or indecorous.\""
+    "origin": "In the writings of the ancient Greeks, there is mention of the Sēres, an eastern Asian people who made \"sērikos\" fabrics. Historians now believe that the Sēres were the Chinese, from whom the ancient Greeks first obtained silk. The ancient Romans wove the Sēres' name into their language, creating \"sericum,\" the Latin word for silk. The English word \"silk\" is also assumed to be spun -- with some very dramatic alterations from Old English to Middle English -- from the same Greek fiber. Both \"silk\" and \"silken\" have been in the English language for many, many centuries, but scientists of the 18th century wanted a new term to describe the silky hairs on some leaves and bodies, and so they adapted the Late Latin word \"sericeus\" (\"silken\") to create \"sericeous.\""
   }
 }

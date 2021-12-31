@@ -1,0 +1,118 @@
+{
+  "artist": {
+    "id": "john-russell",
+    "name": "John Russell",
+    "dates": "Jun 16, 1858 - Apr 30, 1930",
+    "mainImg": "img/art/artists/john-russell.jpg",
+    "artworkImgs": [
+      {
+        "name": "Rough sea, Morestil",
+        "path": "img/art/artworks/john-russell-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/rough-sea-morestil-john-peter-russell/-wFUzO09qPhA1g"
+      },
+      {
+        "name": "A clearing in the forest",
+        "path": "img/art/artworks/john-russell-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-clearing-in-the-forest-john-russell/tQHdrMa23Ukx5g"
+      },
+      {
+        "name": "Fabián de Castro (1868 - c. 1950)",
+        "path": "img/art/artworks/john-russell-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/fabián-de-castro-1868-c-1950/qwFOstqHIDZbyQ"
+      },
+      {
+        "name": "Madame Sisley on the banks of the Loing at Moret",
+        "path": "img/art/artworks/john-russell-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/madame-sisley-on-the-banks-of-the-loing-at-moret-john-russell/9QE0y-fREJUU2w"
+      },
+      {
+        "name": "Mon ami 'Polite",
+        "path": "img/art/artworks/john-russell-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/mon-ami-polite-john-peter-russell/PgG_PV34xukxGg"
+      }
+    ],
+    "summary": [
+      "John Peter Russell was an Australian impressionist painter.",
+      "Born and raised in Sydney, Russell moved to Europe in his late teenage years to attend art school. There, he befriended fellow pupil Vincent Van Gogh and, in 1886, painted the first oil portrait of the artist, now held at the Van Gogh Museum. That same year, Russell painted with Claude Monet at Belle Île. Russell moved there soon after with his wife, Marianna Russell, one of sculptor Auguste Rodin's favourite models. Henri Matisse visited Russell at Belle Île in the 1890s, and later credited the Australian with introducing him to impressionist techniques and colour theory.",
+      "Despite painting prolifically and maintaining close ties with the European avant-garde, Russell rarely exhibited his works and, having received a large inheritance from his father, showed no interest in making money from art. After his wife died in 1907, Russell, grief-stricken, destroyed hundreds of his paintings. He returned to Sydney in old age where he died in relative obscurity."
+    ],
+    "quote": null,
+    "movements": ["Impressionism", "Modern art"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Russell_%28Australian_painter%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-russell/m0g972q"
+  },
+  "event": {
+    "id": "irish-free-state-offensive",
+    "name": "Irish Free State offensive",
+    "dates": "Jun 28, 1922 - August 1922",
+    "mainImg": "img/events/irish-free-state-offensive.jpg",
+    "summary": [
+      "The Irish Free State offensive of July–September 1922 was the decisive military stroke of the Irish Civil War. It was carried out by the National Army of the newly created Irish Free State against anti-treaty strongholds in the south and southwest of Ireland.",
+      "At the beginning of the Civil War in June 1922, the Irish Free State government, composed of the leadership faction who had accepted the Anglo-Irish Treaty, held the capital city of Dublin, where its armed forces were concentrated and some other areas of the midlands and north. The new National Army was composed of those units of the Irish Republican Army loyal to them, plus recent recruits, but was, at the start of the war, still relatively small and poorly armed.",
+      "Much of the rest of the country, particularly the south and west, was outside of its control and in the hands of the anti-Treaty elements of the IRA, who did not accept the legitimacy of the new state and who asserted that the Irish Republic, created in 1919, was the continuing legitimate all-island state."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Irish_Free_State_offensive",
+    "urlGoogle": "https://artsandculture.google.com/entity/irish-free-state-offensive/m0c43s6"
+  },
+  "funFacts": [
+    { "id": "13", "fact": "Cats have over 100 vocal chords.", "category": ["Animals"] },
+    {
+      "id": "272",
+      "fact": "At birth a human has 350 bones, but only 206 bones when full grown.",
+      "category": ["Anatomy", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553739",
+      "fact": "Melbourne gave some of its trees email addresses so residents could report problems. Instead, the trees received love letters."
+    }
+  ],
+  "person": {
+    "id": "carlos-p-romulo",
+    "name": "Carlos P. Romulo",
+    "dates": "Jan 14, 1899 - Dec 15, 1985",
+    "mainImg": "img/people/carlos-p-romulo.jpg",
+    "summary": [
+      "Carlos Peña Romulo, QSC, CLH, NA was a Filipino diplomat, statesman, soldier, journalist and author. He was a reporter at 16, a newspaper editor by the age of 20, and a publisher at 32. He was a co-founder of the Boy Scouts of the Philippines, a general in the US Army and the Philippine Army, university president, President of the UN General Assembly, was eventually named one of the Philippines' National Artists in Literature, and was the recipient of many other honors and honorary degrees. He was born in Camiling, Tarlac and he studied at the Camiling Central Elementary School during his basic education."
+    ],
+    "quote": "“Brotherhood is the very price and condition of man's survival.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Carlos_P._Romulo",
+    "urlGoogle": "https://artsandculture.google.com/entity/carlos-p-romulo/m02_bfn"
+  },
+  "place": {
+    "id": "bayonne",
+    "name": "Bayonne",
+    "mainImg": "img/places/bayonne.jpg",
+    "summary": [
+      "Bayonne is a city and commune and one of the two sub-prefectures of the department of Pyrénées-Atlantiques, in the Nouvelle-Aquitaine region of southwestern France. It is located at the confluence of the Nive and Adour rivers in the northern part of the cultural region of the Basque Country. This is also the southern part of Gascony, where the Aquitaine basin joins the beginning of the Pre-Pyrenees.",
+      "Together with nearby Anglet, Biarritz, Saint-Jean-de-Luz, and several smaller communes, Bayonne forms an urban area with 288,359 inhabitants at the 2012 census; 45,855 residents lived in the city of Bayonne proper.",
+      "The site on the left bank of the Nive and the Adour was probably occupied before ancient times; a fortified enclosure was attested in the 1st century at the time when the Tarbelli occupied the territory. Archaeological studies have confirmed the presence of a Roman castrum, a stronghold in Novempopulania at the end of the 4th century, before the city was populated by the Vascones.",
+      "In 1023 Bayonne was the capital of Labourd. In the 12th century, it extended to the confluence and beyond of the Nive River. At that time the first bridge was built over the Adour."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bayonne",
+    "urlGoogle": "https://artsandculture.google.com/entity/bayonne/m01hvk"
+  },
+  "wiki": {
+    "id": "torchic",
+    "name": "Torchic",
+    "summary": "Torchic are one of the 493 fictional species of Pokémon creatures from the Pokémon media franchise. Torchic are famous for being one of the three species of Pokémon that players can choose from at the beginning of their adventure in the Pokémon Ruby, Pokémon Sapphire, and Pokémon Emerald versions of the series. The purpose of Torchic in the games, anime and manga, as with all other Pokémon, is to battle both wild Pokémon, untamed creatures encountered while the player passes through various environments, and tamed Pokémon owned by Pokémon trainers. The name Torchic is a portmanteau of the words torch, a flame or light used to see in darkness, and chick, a common name for infant chickens. Torchic are described as small, clumsy chickens, with yellowish feathers and orange bodies. They are often seen hopping randomly behind their trainers, or characters in the Pokémon world who collect and battle Pokémon. Although their appearance gives an innocent and harmless impression, Torchic are noted to fight by spitting flames from the pits of their stomachs.",
+    "url": "https://en.wikipedia.org/wiki/Torchic"
+  },
+  "word": {
+    "id": "skosh",
+    "word": "skosh",
+    "url": "https://www.merriam-webster.com/dictionary/skosh",
+    "partOfSpeech": "noun",
+    "pronunciation": "SKOHSH",
+    "audioPath": "audio/words/skosh.mp3",
+    "definitions": ["a small amount : bit, smidgen"],
+    "examples": [
+      "The barista sprinkled a skosh of fresh ginger onto the milky surface of the latte."
+    ],
+    "origin": "The word \"skosh\" comes from the Japanese word \"sukoshi,\" which is pronounced \"skoh shee\" and means \"a tiny bit\" or \"a small amount.\" The Japanese word was shortened by U.S. servicemen stationed in Japan after World War II. Later, in the Korean War, a small soldier was often nicknamed \"Skosh.\" In civilian-speak, \"skosh\" can be used as a noun (as in our example sentence) or adverbially (as in \"I'm a skosh tired\")."
+  }
+}

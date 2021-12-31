@@ -1,132 +1,129 @@
 {
   "artist": {
-    "id": "cornelius-van-poelenburgh",
-    "name": "Cornelius van Poelenburgh",
-    "dates": "1594 - Aug 12, 1667",
-    "mainImg": "img/art/artists/cornelius-van-poelenburgh.jpg",
+    "id": "ernst-ludwig-kirchner",
+    "name": "Ernst Ludwig Kirchner",
+    "dates": "May 6, 1880 - Jun 15, 1938",
+    "mainImg": "img/art/artists/ernst-ludwig-kirchner.jpg",
     "artworkImgs": [
       {
-        "name": "The Musical Contest between Apollo and Marsyas",
-        "path": "img/art/artworks/cornelius-van-poelenburgh-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-musical-contest-between-apollo-and-marsyas-cornelis-van-poelenburgh/RgEdamvbb3GVIg"
+        "name": "Fränzi in front of Carved Chair",
+        "path": "img/art/artworks/ernst-ludwig-kirchner-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/fränzi-in-front-of-carved-chair-ernst-ludwig-kirchner/MAEAy6troM27qQ"
       },
       {
-        "name": "The Prophet Elijah and the Widow of Zarephath",
-        "path": "img/art/artworks/cornelius-van-poelenburgh-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-prophet-elijah-and-the-widow-of-zarephath-cornelis-van-poelenburch/HQGUiLnpUfdDnw"
+        "name": "The Red Tower in Halle",
+        "path": "img/art/artworks/ernst-ludwig-kirchner-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-red-tower-in-halle-ernst-ludwig-kirchner/UwHdAp_HJhwOOg"
       },
       {
-        "name": "The Goddess Calypso rescues Ulysses",
-        "path": "img/art/artworks/cornelius-van-poelenburgh-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-goddess-calypso-rescues-ulysses-cornelis-van-poelenburgh/iAHjeuOBAEIaZg"
+        "name": "Six Dancers",
+        "path": "img/art/artworks/ernst-ludwig-kirchner-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/six-dancers-ernst-ludwig-kirchner/TAEjMr4mFkwb9Q"
       },
       {
-        "name": "The Expulsion from Paradise",
-        "path": "img/art/artworks/cornelius-van-poelenburgh-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-expulsion-from-paradise-cornelis-van-poelenburch/qQFEMtc9hpPrTQ"
+        "name": "Standing Nude with Hat",
+        "path": "img/art/artworks/ernst-ludwig-kirchner-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/standing-nude-with-hat-ernst-ludwig-kirchner/jQFx-OSfmT0D0g"
       },
       {
-        "name": "Satyrs Spying on Nymphs",
-        "path": "img/art/artworks/cornelius-van-poelenburgh-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/satyrs-spying-on-nymphs-cornelis-van-poelenburch/HgFk9v6LqPIdVw"
+        "name": "Street at Schöneberg City Park",
+        "path": "img/art/artworks/ernst-ludwig-kirchner-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/street-at-schöneberg-city-park-ernst-ludwig-kirchner/lAFMtfeLTYHfiA"
       },
       {
-        "name": "Council of the Gods",
-        "path": "img/art/artworks/cornelius-van-poelenburgh-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/council-of-the-gods-poelenburch-cornelis-van/CAH3aQqHuFPHFg"
+        "name": "Three bathers",
+        "path": "img/art/artworks/ernst-ludwig-kirchner-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/three-bathers-ernst-ludwig-kirchner/IQElkDWOfovyww"
       }
     ],
     "summary": [
-      "Cornelis van Poelenburgh or Cornelis van Poelenburch, was a Dutch landscape painter and draughtsman. He was the leading representative of the first generation of Dutch landscape painters who were active in Rome in the early 17th century. He was known for small-scale paintings depicting Italianate landscapes with small figures enacting biblical or mythological scenes or in contemporary attire."
+      "Ernst Ludwig Kirchner was a German expressionist painter and printmaker and one of the founders of the artists group Die Brücke or \"The Bridge\", a key group leading to the foundation of Expressionism in 20th-century art. He volunteered for army service in the First World War, but soon suffered a breakdown and was discharged. His work was branded as \"degenerate\" by the Nazis in 1933, and in 1937 more than 600 of his works were sold or destroyed."
     ],
     "quote": null,
-    "movements": ["Baroque", "Dutch Golden Age"],
-    "mediums": ["Etching", "Oil paint", "Pen", "Copper", "Metal", "Engraving"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Cornelis_van_Poelenburgh",
-    "urlGoogle": "https://artsandculture.google.com/entity/cornelius-van-poelenburgh/m0270g7h"
+    "movements": ["Modern art", "Expressionism", "German Expressionism", "Die Brücke"],
+    "mediums": ["Oil paint", "Ink", "Graphite", "Drawing", "Etching", "Charcoal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner",
+    "urlGoogle": "https://artsandculture.google.com/entity/ernst-ludwig-kirchner/m049kqx"
   },
   "event": {
-    "id": "siege-of-mafeking",
-    "name": "Siege of Mafeking",
-    "dates": "Oct 13, 1899 - May 17, 1900",
-    "mainImg": "img/events/siege-of-mafeking.jpg",
+    "id": "battle-of-port-arthur",
+    "name": "Battle of Port Arthur",
+    "dates": "Feb 8, 1904 - Feb 9, 1904",
+    "mainImg": "img/events/battle-of-port-arthur.jpg",
     "summary": [
-      "The Siege of Mafeking was a 217-day siege battle for the town of Mafeking in South Africa during the Second Boer War from October 1899 to May 1900. The siege received considerable attention as Lord Edward Cecil, the son of the British prime minister, was in the besieged town, as also was Lady Sarah Wilson, a daughter of the Duke of Marlborough and aunt of Winston Churchill. The siege turned the British commander, Colonel Robert Baden-Powell, into a national hero. The Relief of Mafeking, while of little military significance, was a morale boost for the struggling British."
+      "The Battle of Port Arthur of 8–9 February 1904 marked the commencement of the Russo-Japanese War. It began with a surprise night attack by a squadron of Japanese destroyers on the neutral Russian fleet anchored at Port Arthur, Manchuria, and continued with an engagement the following morning; further skirmishing off Port Arthur would continue until May 1904. The attack ended inconclusively, though the war resulted in a decisive Japanese victory."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Mafeking",
-    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-mafeking/m03dqbw"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Port_Arthur",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-port-arthur/m0237q_"
   },
   "funFacts": [
     {
-      "id": "39",
-      "fact": "An ant's sense of smell is stronger than a dog's.",
-      "category": ["Animals"]
+      "id": "773",
+      "fact": "Mountain goats aren't actually goats. They are antelopes.",
+      "category": ["Animals", "Definitions"]
     },
     {
-      "id": "340",
-      "fact": "There is an underground mushroom in Oregon that measures 3.5 miles across.",
-      "category": ["Plants", "Geography"]
+      "id": "965",
+      "fact": "It is illegal to play annoying games in the street in the United Kingdom.",
+      "category": ["Geography", "Laws"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553546",
-      "fact": "According to a Japanese study, looking at cute animal pictures can boost your focus."
+      "id": "554090",
+      "fact": "Octopuses don’t have tentacles; they have arms. A tentacle only has suckers at its end, while a cephalopod arm has suckers for most of its length."
     }
   ],
   "idiom": {
-    "id": "the-balloon-goes-up",
-    "term": "the balloon goes up",
-    "definition": "The undertaking begins, as in *He's going to announce his candidacy for mayor---the balloon goes up on Monday.* This expression comes from World War I, when British artillery sent up a balloon to notify gunners to open fire, this visual signal being more reliable than courier or telephone. It was soon transferred to signal other kinds of beginning. [1915]"
+    "id": "cleanliness-is-next-to-godliness",
+    "term": "cleanliness is next to godliness",
+    "definition": "Being clean is a sign of spiritual purity or goodness, as in *Don't forget to wash your ears---cleanliness is next to godliness.* This phrase was first recorded in a sermon by John Wesley in 1778, but the idea is ancient, found in Babylonian and Hebrew religious tracts. It is still invoked, often as an admonition to wash or clean up."
   },
   "person": {
-    "id": "john-j-mc-cloy",
-    "name": "John J. McCloy",
-    "dates": "Mar 31, 1895 - Mar 11, 1989",
-    "mainImg": "img/people/john-j-mc-cloy.jpg",
+    "id": "alexander-i-of-russia",
+    "name": "Alexander I of Russia",
+    "dates": "Dec 23, 1777 - Dec 1, 1825",
+    "mainImg": "img/people/alexander-i-of-russia.jpg",
     "summary": [
-      "John Jay McCloy was an American lawyer, diplomat, banker, and a presidential advisor. He served as Assistant Secretary of War during World War II under Henry Stimson, helping deal with issues such as German sabotage, political tensions in the North Africa Campaign, and opposing the atomic bombings of Hiroshima and Nagasaki. After the war, he served as the president of the World Bank, U.S. High Commissioner for Germany, chairman of Chase Manhattan Bank, chairman of the Council on Foreign Relations, a member of the Warren Commission, and a prominent United States adviser to all presidents from Franklin D. Roosevelt to Ronald Reagan.",
-      "Today, he is best remembered as a member of the foreign policy establishment group of elders called \"The Wise Men\", a group of statesmen marked by nonpartisanship, pragmatic internationalism, and aversion to ideological fervor."
+      "Alexander I was the Emperor of Russia between 1801 and 1825. He was the eldest son of Paul I and Sophie Dorothea of Württemberg. Alexander was the first king of Congress Poland, reigning from 1815 to 1825, as well as the first Russian Grand Duke of Finland, reigning from 1809 to 1825.",
+      "Born in Saint Petersburg to Grand Duke Paul Petrovich, later Paul I, Alexander succeeded to the throne after his father was murdered. He ruled Russia during the chaotic period of the Napoleonic Wars. As prince and during the early years of his reign, Alexander often used liberal rhetoric, but continued Russia's absolutist policies in practice. In the first years of his reign, he initiated some minor social reforms and major, liberal educational reforms, such as building more universities. Alexander appointed Mikhail Speransky, the son of a village priest, as one of his closest advisors. The Collegia was abolished and replaced by the State Council, which was created to improve legislation. Plans were also made to set up a parliament and sign a constitution.",
+      "In foreign policy, he changed Russia's position relative to France four times between 1804 and 1812 among neutrality, opposition, and alliance."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/John_J._McCloy",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-j-mccloy/m01tczt"
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-i-of-russia/m0r8f"
   },
   "place": {
-    "id": "florence",
-    "name": "Florence",
-    "mainImg": "img/places/florence.jpg",
+    "id": "ciudad-juarez",
+    "name": "Ciudad Juárez",
+    "mainImg": "img/places/ciudad-juarez.jpg",
     "summary": [
-      "Florence is a city in central Italy and the capital city of the Tuscany region. It is the most populated city in Tuscany, with 383,084 inhabitants in 2013, and over 1,520,000 in its metropolitan area.",
-      "Florence was a centre of medieval European trade and finance and one of the wealthiest cities of that era. It is considered by many academics the birthplace of the Renaissance, and has been called \"the Athens of the Middle Ages\". Its turbulent political history includes periods of rule by the powerful Medici family and numerous religious and republican revolutions. From 1865 to 1871 the city served as the capital of the Kingdom of Italy. The Florentine dialect forms the base of Standard Italian and it became the language of culture throughout Italy due to the prestige of the masterpieces by Dante Alighieri, Petrarch, Giovanni Boccaccio, Niccolò Machiavelli and Francesco Guicciardini.",
-      "The city attracts millions of tourists each year, and UNESCO declared the Historic Centre of Florence a World Heritage Site in 1982. The city is noted for its culture, Renaissance art and architecture and monuments."
+      "Ciudad Juárez is the most populous city in the Mexican state of Chihuahua. The city is commonly referred to as simply Juárez, and was known as El Paso del Norte until 1888. Juárez is the seat of the Juárez Municipality with an estimated population of 1.5 million people. It lies on the Rio Grande river, south of El Paso, Texas, United States. Together with the surrounding areas, the cities form El Paso–Juárez, the second largest binational metropolitan area on the Mexico–U.S. border, with a combined population of over 2.7 million people.",
+      "Four international points of entry connect Ciudad Juárez and El Paso: the Bridge of the Americas, the Ysleta International Bridge, the Paso del Norte Bridge, and the Stanton Street Bridge. Combined, these bridges allowed 22,958,472 crossings in 2008, making Ciudad Juárez a major point of entry and transportation into the U.S. for all of central northern Mexico. The city has a growing industrial center, which in large part is made up by more than 300 \"maquiladoras\" located in and around the city. According to a 2007 New York Times article, Ciudad Juárez was \"absorbing more new industrial real estate space than any other North American city\"."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Florence",
-    "urlGoogle": "https://artsandculture.google.com/entity/florence/m031y2"
+    "urlWiki": "https://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez",
+    "urlGoogle": "https://artsandculture.google.com/entity/ciudad-juárez/m0n06p"
   },
   "wiki": {
-    "id": "chicado-v",
-    "name": "Chicado V",
-    "summary": "Chicado V (1950–1972) was a Champion Quarter Horse race horse foaled (born) in 1950, and considered one of the outstanding broodmares of her breed. She started only six times as knee problems cut short her racing career. However, she won her first two starts while breaking or equaling track records, and was given the title of co-Champion Quarter Running Two-Year-Old Filly by the American Quarter Horse Association (AQHA) in 1952. The next year she ran her last four races, winning once and setting one more speed record. After her last race, in December 1953, she was retired from the track to become a broodmare, and had nine foals. Two of her offspring were named Champion Quarter Running Horses, and all her foals had a total of seven stakes race wins. One of her daughters, Table Tennis, went on to become a noted broodmare herself, as did Table Tennis' daughter Rapid Volley and granddaughter Perks. However, three of Chicado V's sons—Triple Chick, Three Chicks, and The Ole Man—were her best known offspring; all three became leading sires and are the main cause of her fame. She was inducted into the AQHA's American Quarter Horse Hall of Fame in 2006.",
-    "url": "https://en.wikipedia.org/wiki/Chicado_V"
+    "id": "nguyen-ngoc-tho",
+    "name": "Nguyen Ngoc Tho",
+    "summary": "Nguyen Ngoc Tho was the first Prime Minister of South Vietnam, serving from November 1963 to late January 1964. Tho was appointed to head a civilian cabinet by General Duong Van Minh's military junta, which came to power after overthrowing and assassinating Ngo Dinh Diem, the nation's first president. Tho's rule was marked by a period of confusion and weak government, as the Military Revolutionary Council and the civilian cabinet vied for power. Tho oversaw South Vietnam's failed land reform policy, and was accused of lacking vigour in implementing the program because he was a large landowner. He was noted for his faithful support of Diem during the Buddhist crisis that ended the rule of the Ngo family. Despite being a Buddhist, Tho staunchly defended the regime's pro-Catholic policies and its violent actions against the Buddhist majority. Tho lost his job and retired from politics when Minh's junta was deposed in a January 1964 coup by General Nguyen Khanh.",
+    "url": "https://en.wikipedia.org/wiki/Nguyen_Ngoc_Tho"
   },
   "word": {
-    "id": "macerate",
-    "word": "macerate",
-    "url": "https://www.merriam-webster.com/dictionary/macerate",
-    "partOfSpeech": "verb",
-    "pronunciation": "MASS-uh-rayt",
-    "audioPath": "audio/words/macerate.mp3",
-    "definitions": [
-      "to cause to waste away by or as if by excessive fasting",
-      "to cause to become soft or separated into constituent elements by or as if by steeping in fluid; broadly : steep, soak",
-      "to soften and wear away especially as a result of being wetted or steeped"
-    ],
+    "id": "scintilla",
+    "word": "scintilla",
+    "url": "https://www.merriam-webster.com/dictionary/scintilla",
+    "partOfSpeech": "noun",
+    "pronunciation": "sin-TIL-uh",
+    "audioPath": "audio/words/scintilla.mp3",
+    "definitions": ["a very small amount : spark, trace"],
     "examples": [
-      "\"Absinthe is made by macerating herbs and spices, including anise and fennel, with the grand wormwood (_Artemisia absinthium_) that gives the drink its name.\" (Julia Reed, _Newsweek_, April 12, 2010)"
+      "\"Nobody but the cast and crew has even a _scintilla_ of an idea of how things will actually end, but that hasn't stopped people from speculating, including us.\" - From an article by Tom Mendelsohn in _The Independent_ (London), September 26, 2013",
+      "\"Hunters say the wolves are depleting the native elk populations; ranchers fret their livestock is at risk. Both claims have a _scintilla_ of truth in them, but are mostly overblown.\" - From an article by Mike Di Paola in _Salon_, September 3, 2013"
     ],
-    "origin": "\"Macerate\" is derived from the Latin verb \"macerare,\" meaning \"to soften\" or \"to steep.\" That meaning was borrowed into English in 1563. However, the first English use of \"macerate\" refers to the wasting away of flesh especially by fasting. That use manifested itself in 1547. A few other manifestations sprouted thereafter from the word's figurative branch (e.g., Laurence Sterne (1713-1768) once wrote of \"a city so macerated with expectation\"); however, those extensions wilted in time. Today, the \"steeping\" and \"soaking\" senses of \"macerate\" saturate culinary articles (as in \"macerating fruit in liquor\") as well as other writings (scientific ones, for instance: \"the food is macerated in the gizzard\" or \"the wood is macerated in the solution\")."
+    "origin": "\"Scintilla\" comes directly from Latin, where it carries the meaning of \"spark\"-that is, a bright flash such as you might see from a burning ember. In English, however, our use of \"scintilla\" is restricted to the figurative sense of \"spark\"-a hint or trace of something that barely suggests its presence. Latin \"scintilla\" is related to the verb \"scintillare,\" which means \"to sparkle\" and is responsible for our verb \"scintillate\" (\"to sparkle or gleam,\" literally or figuratively). In an odd twist, \"scintilla\" underwent a transposition of the \"c\" and the \"t\" (a linguistic phenomenon known as metathesis) to create the Vulgar Latin form \"stincilla,\" which is believed to be an ancestor of our word \"stencil.\""
   }
 }

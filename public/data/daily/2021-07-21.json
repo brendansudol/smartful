@@ -1,128 +1,126 @@
 {
   "artist": {
-    "id": "enrico-prampolini",
-    "name": "Enrico Prampolini",
-    "dates": "Apr 20, 1894 - Jun 17, 1956",
-    "mainImg": "img/art/artists/enrico-prampolini.jpg",
+    "id": "everett-shinn",
+    "name": "Everett Shinn",
+    "dates": "Nov 6, 1876 - May 1, 1953",
+    "mainImg": "img/art/artists/everett-shinn.jpg",
     "artworkImgs": [
       {
-        "name": "L'automa quotidiano",
-        "path": "img/art/artworks/enrico-prampolini-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/l-automa-quotidiano-enrico-prampolini/fAGtka6TXM4pxA"
+        "name": "The White Ballet",
+        "path": "img/art/artworks/everett-shinn-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-white-ballet/AQE_ror5yFbKVg"
       },
       {
-        "name": "Scenografia",
-        "path": "img/art/artworks/enrico-prampolini-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/scenografia-enrico-prampolini/BwGvrflECTThhg"
+        "name": "Revue",
+        "path": "img/art/artworks/everett-shinn-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/revue/_wEU1OK5HPkNsw"
       },
       {
-        "name": "A sailor in the space",
-        "path": "img/art/artworks/enrico-prampolini-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/a-sailor-in-the-space/UAFxXI6FRzMbAw"
+        "name": "Everett Shinn Self-Portrait",
+        "path": "img/art/artworks/everett-shinn-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/everett-shinn-self-portrait-everett-shinn/YwGJlJVItD89bg"
       },
       {
-        "name": "Figura nello spazio I (Organismo nello spazio)",
-        "path": "img/art/artworks/enrico-prampolini-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/figura-nello-spazio-i-organismo-nello-spazio-enrico-prampolini/0QHLzLp-9dzODQ"
+        "name": "Keiths Union Square",
+        "path": "img/art/artworks/everett-shinn-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/keiths-union-square/CQF-2WdWqulEBA"
       },
       {
-        "name": "Cassandra",
-        "path": "img/art/artworks/enrico-prampolini-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/cassandra-enrico-prampolini/ZgGzBDG8ssT7lA"
+        "name": "A Rainy Day In Madison Square",
+        "path": "img/art/artworks/everett-shinn-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-rainy-day-in-madison-square-everett-shinn/8QGAbGG9o5D8Dg"
       },
       {
-        "name": "Composition",
-        "path": "img/art/artworks/enrico-prampolini-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/composition-enrico-prampolini/WAGRW2SqMjqXfg"
+        "name": "First Row at the Opera",
+        "path": "img/art/artworks/everett-shinn-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/first-row-at-the-opera-everett-shinn/8gGdbX4_qVWDbA"
       }
     ],
     "summary": [
-      "Enrico Prampolini was an Italian Futurist painter, sculptor and scenographer. He assisted in the design of the Exhibition of the Fascist Revolution and was active in Aeropainting.",
-      "He pursued a programme of abstract and quasi-abstract painting, combined with a career in stage design. His Spatial-Landscape Construction is quasi-abstract with large flat areas in bold colours, predominantly red, orange, blue and dark green. His Simultaneous Landscape is totally abstract, with flat colours and no attempt to create perspective. In his Umbrian Landscape, produced in the year of the Aeropainting Manifesto, Prampolini returns to figuration, representing the hills of Umbria. But by 1931 he had adopted \"cosmic idealism\", a biomorphic abstractionism quite different from the works of the previous decade, for example in Pilot of the Infinite and Biological Apparition.",
-      "Prampolini was an influence on Tullio Crali."
+      "Everett Shinn was an American realist painter and member of the Ashcan School. He also exhibited with the short-lived group known as \"The Eight,\" who protested the restrictive exhibition policies of the powerful, conservative National Academy of Design. He is best known for his robust paintings of urban life in New York and London, a hallmark of Ashcan art, and for his theater and residential murals and interior-design projects. His style varied considerably over the years, from gritty and realistic to decorative and rococo."
     ],
     "quote": null,
-    "movements": ["Abstract art", "Modern art", "Futurism", "Contemporary art"],
-    "mediums": ["Cardboard", "Oil paint", "Rock", "Masonite", "Marble", "Tempera"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Enrico_Prampolini",
-    "urlGoogle": "https://artsandculture.google.com/entity/enrico-prampolini/m04y7cfc"
+    "movements": ["Realism", "Modernism", "American Realism", "Ashcan School", "Modern art"],
+    "mediums": ["Oil paint", "Watercolor painting", "Drawing", "Conté", "Crayon"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Everett_Shinn",
+    "urlGoogle": "https://artsandculture.google.com/entity/everett-shinn/m0265153"
   },
   "event": {
-    "id": "cuban-revolution",
-    "name": "Cuban Revolution",
-    "dates": "Jul 26, 1953 - Jan 1, 1959",
-    "mainImg": "img/events/cuban-revolution.jpg",
+    "id": "expedition-of-the-thousand",
+    "name": "Expedition of the Thousand",
+    "dates": "1860 - 1861",
+    "mainImg": "img/events/expedition-of-the-thousand.jpg",
     "summary": [
-      "The Cuban Revolution was an armed revolt conducted by Fidel Castro's revolutionary 26th of July Movement and its allies against the military dictatorship of Cuban President Fulgencio Batista. The revolution began in July 1953, and continued sporadically until the rebels finally ousted Batista on 31 December 1958, replacing his government with a revolutionary socialist state. 26 July 1953 is celebrated in Cuba as the Day of the Revolution. The 26th of July Movement later reformed along communist lines, becoming the Communist Party in October 1965.",
-      "The Cuban Revolution had powerful domestic and international repercussions. In particular, it transformed Cuba's relationship with the United States, although efforts to improve diplomatic relations have gained momentum in recent years. In the immediate aftermath of the revolution, Castro's government began a program of nationalization, centralization of the press and political consolidation that transformed Cuba's economy and civil society. The revolution also heralded an era of Cuban intervention in foreign military conflicts in Africa, Latin America, Southeast Asia, and the Middle East."
+      "The Expedition of the Thousand was an event of the Italian Risorgimento that took place in 1860. A corps of volunteers led by Giuseppe Garibaldi sailed from Quarto, near Genoa and landed in Marsala, Sicily, in order to conquer the Kingdom of the Two Sicilies, ruled by the House of Bourbon-Two Sicilies.",
+      "The project was an ambitious and risky venture aiming to conquer, with a thousand men, a kingdom with a larger regular army and a more powerful navy. The expedition was a success and concluded with a plebiscite that brought Naples and Sicily into the Kingdom of Sardinia, the last territorial conquest before the creation of the Kingdom of Italy on 17 March 1861.",
+      "The sea venture was the only desired action that was jointly decided by the \"four fathers of the nation\" Giuseppe Mazzini, Giuseppe Garibaldi, Victor Emmanuel II, and Camillo Cavour, pursuing divergent goals. However, the Expedition was instigated by Francesco Crispi, who utilized his political influence to bolster the Italian unification project."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cuban_Revolution",
-    "urlGoogle": "https://artsandculture.google.com/entity/cuban-revolution/m01nmnd"
+    "urlWiki": "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand",
+    "urlGoogle": "https://artsandculture.google.com/entity/expedition-of-the-thousand/m025r_yj"
   },
   "funFacts": [
+    { "id": "868", "fact": "Thomas Jefferson invented the coat hanger.", "category": ["History"] },
     {
-      "id": "769",
-      "fact": "If a sheep and a goat mate the offspring is called a geep.",
-      "category": ["Animals", "Definitions"]
-    },
-    {
-      "id": "289",
-      "fact": "In 1908, the first lollipop-making machine started in New Haven, CT.",
-      "category": ["Food", "Firsts"]
+      "id": "260",
+      "fact": "Underwater hockey is played with a 3-pound puck.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
-    { "id": "553538", "fact": "Africa is the only continent with land in all four hemispheres." }
+    {
+      "id": "554053",
+      "fact": "During World War II, the term security blanket was slang for measures meant to keep military information secret, or covered up."
+    }
   ],
   "idiom": {
-    "id": "good-samaritan",
-    "term": "good Samaritan",
-    "definition": "A compassionate person who unselfishly helps others, as in *In this neighborhood you can't count on a good Samaritan if you get in trouble.* This expression alludes to Jesus's parable about a Samaritan who rescues and cares for a stranger who had been robbed and badly hurt and had been ignored by a priest and a Levite (Luke 10:30--35). The Samaritans were considered a heretical group by other Jews, so by using a Samaritan for the parable, Jesus chose a person whom his listeners would find least likely to be worthy of concern. [c. 1600]"
+    "id": "bee-in-ones-bonnet",
+    "term": "bee in one's bonnet",
+    "definition": "A strange idea or notion; also, an idea that is harped on, an obsession. For example, *Bill's got a bee in his bonnet about burglars; he's always imagining strange noises.* This term, which replaced the earlier *have bees in one's head,* transfers the buzzing of a bee inside one's hat to a weird idea in one's head. [Second half of 1600s]"
   },
   "person": {
-    "id": "j-lawton-collins",
-    "name": "J. Lawton Collins",
-    "dates": "May 1, 1896 - Sep 12, 1987",
-    "mainImg": "img/people/j-lawton-collins.jpg",
+    "id": "mihail-g-cantacuzino",
+    "name": "Mihail G. Cantacuzino",
+    "dates": "Apr 6, 1867 - Aug 28, 1928",
+    "mainImg": "img/people/mihail-g-cantacuzino.jpg",
     "summary": [
-      "General Joseph Lawton Collins was a senior United States Army officer. During World War II, he served in both the Pacific and European Theaters of Operations, one of a few senior American commanders to do so. He was Chief of Staff of the United States Army during the Korean War.",
-      "Collins' elder brother, Major General James Lawton Collins, was also in the United States Army. His nephew, Brigadier General James Lawton Collins Jr. served in World War II, the Korean War and the Vietnam War. Another nephew, Michael Collins, was the command module pilot on the Apollo 11 mission in 1969 that put the first two men on the Moon and would retire as a major general from the United States Air Force."
+      "Mihail G. Cantacuzino was a Romanian politician. After receiving doctorates in Law and Literature from the University of Paris, he became a prominent member of the Conservative Party. He served as Mayor of Bucharest from 1904 to 1907 and was elected to the Chamber of Deputies for Ialomița County in 1909. He was Justice Minister from December 1910 to January 1914 and again from December 1916 to January 1918 in the national unity government of Ion I. C. Brătianu. In 1922, together with other members of the late Take Ionescu's Conservative-Democratic Party, he joined the Romanian National Party, becoming its vice president for the former Old Kingdom.",
+      "The eldest son of Gheorghe Grigore Cantacuzino and brother of Grigore Gheorghe Cantacuzino, he married Maria Rosetti-Tescanu on November 26, 1898. He was a notorious womanizer and the marriage was an unhappy one, but it did allow the vain Maruca to use the title of \"Princess Cantacuzino\", which she retained until her death in 1969."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/J._Lawton_Collins",
-    "urlGoogle": "https://artsandculture.google.com/entity/j-lawton-collins/m04qw8k"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mihail_G._Cantacuzino",
+    "urlGoogle": "https://artsandculture.google.com/entity/mihail-g-cantacuzino/m0_ymblj"
   },
   "place": {
-    "id": "marrakesh",
-    "name": "Marrakesh",
-    "mainImg": "img/places/marrakesh.jpg",
+    "id": "vitoria",
+    "name": "Vitoria",
+    "mainImg": "img/places/vitoria.jpg",
     "summary": [
-      "Marrakesh is the fourth largest city in the Kingdom of Morocco. It is the capital of the mid-southwestern region of Marrakesh-Safi. It is west of the foothills of the Atlas Mountains. Marrakesh is 580 km southwest of Tangier, 327 km southwest of the Moroccan capital of Rabat, 239 km south of Casablanca, and 246 km northeast of Agadir.",
-      "The region has been inhabited by Berber farmers since Neolithic times. The city was founded in 1062, by Abu Bakr ibn Umar, a chieftain and cousin of the Almoravid king, Yusuf ibn Tashfin, as the imperial capital of the Almoravid Empire. The city was one of Morocco's four imperial cities. In the 12th century, the Almoravids built many madrasas and mosques in Marrakesh that bear Andalusian influences. The red walls of the city, built by Ali ibn Yusuf in 1122–1123, and various buildings constructed in red sandstone during this period, have given the city the nickname of the \"Red City\" or \"Ochre City\". Marrakesh grew rapidly and established itself as a cultural, religious, and trading center for the Maghreb and sub-Saharan Africa. Jemaa el-Fnaa is the busiest square in Africa."
+      "Vitória, spelled Victória until the 1940s, is the capital of the state of Espírito Santo, Brazil. It is located on a small island within a bay where a number of rivers meet the sea. It was founded in 1551. The city proper 93 square kilometres has a population of 358,875 whilst the Greater Vitória metropolitan area has a population of more than 1,857,616, the 14th largest in Brazil.",
+      "Vitória is a riverine island surrounded by Vitória's Bay. In addition to Vitória, the main island, another 34 islands and a mainland portion are part of the municipality, totalling 93.381 square kilometres. Originally there were 50 islands, many of which were joined to the largest island by landfill.",
+      "In 1998, the United Nations rated Vitória as the fourth best state capital in Brazil to live in, rating cities on health, education, and social improvement projects. Among the Brazilian capitals, Vitória currently maintains the second best human development index according to research from Getulio Vargas Foundation. It was considered the fourth best city to live in Brazil by United Nations in 2013 and ranked the highest gross domestic product per capita."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Marrakesh",
-    "urlGoogle": "https://artsandculture.google.com/entity/marrakesh/m054rw"
+    "urlWiki": "https://en.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo",
+    "urlGoogle": "https://artsandculture.google.com/entity/vitoria/m02ydp3"
   },
   "wiki": {
-    "id": "superb-fairywren",
-    "name": "Superb Fairywren",
-    "summary": "The Superb Fairywren is a passerine bird of the Maluridae family. Sedentary and territorial, it is common and familiar across south-eastern Australia. The species exhibits a high degree of sexual dimorphism; the male in breeding plumage has a striking bright blue forehead, ear coverts, mantle, and tail, with a black mask and black or dark blue throat. Non-breeding males, females and juveniles are predominantly grey-brown in colour; this gave the early impression that males were polygamous as all dull-coloured birds were taken for females. Two subspecies are recognised: the larger and darker Tasmanian form cyaneus and the smaller and paler mainland form cyanochlamys. Like other fairywrens, the Superb Fairywren is notable for several peculiar behavioural characteristics; the birds are socially monogamous and sexually promiscuous, meaning that although they form pairs between one male and one female, each partner will mate with other individuals and even assist in raising the young from such pairings. Male wrens pluck yellow petals and display them to females as part of a courtship display.",
-    "url": "https://en.wikipedia.org/wiki/Superb_Fairywren"
+    "id": "avatar-the-last-airbender",
+    "name": "Avatar: The Last Airbender",
+    "summary": "Avatar: The Last Airbender is an American animated television series that currently airs on the Nickelodeon television network. Set in an Asian-influenced world of martial arts and elemental magic, the series follows the adventures of the successor to a long line of Avatars, Aang, and his friends in their quest to save the world from the ruthless Fire Nation. The series is written in the form of a book series, with each episode being a \"chapter\" and each individual season a \"book.\" Originally slated to begin airing in November 2004, Avatar: The Last Airbender debuted on TV on February 21, 2005. Michael Dante DiMartino and Bryan Konietzko are the creators and executive producers of the series. The show receives high ratings in the Nicktoons line-up, even outside its intended 6-to-11-year-old demographic. The series' success prompted Nickelodeon to order a second season, and a third season has been announced for 2007. Merchandise based on the series includes six DVD sets of episodes, six-inch scale action figures, a video game, stuffed animals distributed by Paramount Parks, and two Lego sets.",
+    "url": "https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender"
   },
   "word": {
-    "id": "vociferous",
-    "word": "vociferous",
-    "url": "https://www.merriam-webster.com/dictionary/vociferous",
-    "partOfSpeech": "adjective",
-    "pronunciation": "voh-SIF-uh-rus",
-    "audioPath": "audio/words/vociferous.mp3",
-    "definitions": ["marked by or given to vehement insistent outcry"],
+    "id": "attitudinize",
+    "word": "attitudinize",
+    "url": "https://www.merriam-webster.com/dictionary/attitudinize",
+    "partOfSpeech": "verb",
+    "pronunciation": "at-uh-TOO-duh-nyze",
+    "audioPath": "audio/words/attitudinize.mp3",
+    "definitions": ["to assume an affected mental attitude : pose"],
     "examples": [
-      "The toddler offered a _vociferous_ protest when her mother scooped her up and carried her away from the lit menorah.",
-      "\"Citizens of the United States are _vociferous_ about the right to freedom of speech, especially when it comes to entertainment.\" -- From a review by Stuart Kemp in _The Hollywood Reporter_, October 22, 2010"
+      "\"She kept her position; she seemed absorbed in the view. 'Is she posing -- is she attitudinizing for my benefit?' Longueville asked of himself.\" (Henry James, _Confidence_)"
     ],
-    "origin": "\"Vociferous\" derives from the word Latin \"vox,\" which means \"voice.\" But other English words can be used to describe those who compel attention by being loud and insistent. \"Vociferous\" implies a vehement shouting or calling out, but to convey the insistency of a demand or protest, \"clamorous\" might be a better choice. You could also use \"strident\" to suggest harsh and discordant noise in a protest, or \"obstreperous\" to imply loud, unruly and aggressive resistance to restraint. But someone who is noisy and turbulent due to high spirits rather than dissatisfaction might more aptly be called \"boisterous.\""
+    "origin": "The English word \"attitude\" was first used in the 17th century to describe the posture of a sculptured or painted figure. The word was borrowed from French and formed from the Italian word \"attitudine,\" meaning \"aptitude\" or \"natural tendency.\" By the early 18th century, \"attitude\" was also being used for the posture a person assumed for a specific purpose. And by mid-century, \"attitudinarians,\" people who study and practice attitudes, were being talked about. The verb \"attitudinize\" followed in 1784."
   }
 }

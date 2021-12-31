@@ -1,129 +1,134 @@
 {
   "artist": {
-    "id": "bertel-thorvaldsen",
-    "name": "Bertel Thorvaldsen",
-    "dates": "Nov 19, 1770 - Mar 24, 1844",
-    "mainImg": "img/art/artists/bertel-thorvaldsen.jpg",
+    "id": "william-johnson",
+    "name": "William Johnson",
+    "dates": "Mar 18, 1901 - Apr 13, 1970",
+    "mainImg": "img/art/artists/william-johnson.jpg",
     "artworkImgs": [
       {
-        "name": "Possibly Lady Georgiana Bingham",
-        "path": "img/art/artworks/bertel-thorvaldsen-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/possibly-lady-georgiana-bingham-bertel-thorvaldsen/aQE-rwFgnd3ekA"
+        "name": "Man in a Vest",
+        "path": "img/art/artworks/william-johnson-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/man-in-a-vest/NAFEpTWPytfIHA"
       },
       {
-        "name": "Possibly Lady Louisa Bingham",
-        "path": "img/art/artworks/bertel-thorvaldsen-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/possibly-lady-louisa-bingham-bertel-thorvaldsen/ZgGJ6BYCh7Bm0A"
+        "name": "William H Johnson - Marian Anderson",
+        "path": "img/art/artworks/william-johnson-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/william-h-johnson-marian-anderson-william-h-johnson/XwFysV-m5MYFtQ"
       },
       {
-        "name": "Ganimede and the eagle",
-        "path": "img/art/artworks/bertel-thorvaldsen-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/ganimede-and-the-eagle-bertel-thorvaldsen/gQGCtaxaZj6hnQ"
+        "name": "Jitterbugs II",
+        "path": "img/art/artworks/william-johnson-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/jitterbugs-ii-william-henry-johnson/xgEg0FPCfu8TvA"
       },
       {
-        "name": "Hectors farewell to Andromache and Astyanax",
-        "path": "img/art/artworks/bertel-thorvaldsen-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/hectors-farewell-to-andromache-and-astyanax/UQFZSJAa-5axdg"
+        "name": "Sowing",
+        "path": "img/art/artworks/william-johnson-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/sowing-william-h-johnson/QwEo2-bRGz1vEA"
       },
       {
-        "name": "The three Graces",
-        "path": "img/art/artworks/bertel-thorvaldsen-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-three-graces-bertel-thorvaldsen/4AEyfWkTsalpBA"
+        "name": "Café",
+        "path": "img/art/artworks/william-johnson-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/café/4QHFaIK1QecCrw"
       },
       {
-        "name": "Jason with the Golden Fleece",
-        "path": "img/art/artworks/bertel-thorvaldsen-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/jason-with-the-golden-fleece/MQHWu_stdpffgw"
+        "name": "Street Musicians",
+        "path": "img/art/artworks/william-johnson-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/street-musicians-william-henry-johnson/nwFJNVNViVQpfw"
       }
     ],
     "summary": [
-      "Bertel Thorvaldsen was a Danish sculptor of international fame and medallist, who spent most of his life in Italy. Thorvaldsen was born in Copenhagen into a Danish/Icelandic family of humble means, and was accepted to the Royal Danish Academy of Art when he was eleven years old. Working part-time with his father, who was a wood carver, Thorvaldsen won many honors and medals at the academy. He was awarded a stipend to travel to Rome and continue his education.",
-      "In Rome, Thorvaldsen made a name for himself as a sculptor. Maintaining a large workshop in the city, he worked in a heroic neo-classicist style. His patrons resided all over Europe.",
-      "Upon his return to Denmark in 1838, Thorvaldsen was received as a national hero. The Thorvaldsen Museum was erected to house his works next to Christiansborg Palace. Thorvaldsen is buried within the courtyard of the museum. In his time, he was seen as the successor of master sculptor Antonio Canova. His strict adherence to classical norms has tended to estrange modern audiences."
+      "William Henry Johnson was an American painter. Born in Florence, South Carolina, he became a student at the National Academy of Design in New York City, working with Charles Webster Hawthorne. He later lived and worked in France, where he was exposed to modernism. After Johnson married Danish textile artist Holcha Krake, the couple lived for some time in Scandinavia. There he was influenced by the strong folk art tradition. The couple moved to the United States in 1938. Johnson eventually found work as a teacher at the Harlem Community Art Center, through the Federal Art Project.",
+      "Johnson's style evolved from realism to expressionism to a powerful folk style, for which he is best known. A substantial collection of his paintings, watercolors, and prints is held by the Smithsonian American Art Museum, which has organized and circulated major exhibitions of his works."
     ],
     "quote": null,
-    "movements": ["Neoclassicism", "Classicism"],
-    "mediums": ["Drawing", "Sculpture", "Rock", "Marble", "Plaster", "Graphite"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Bertel_Thorvaldsen",
-    "urlGoogle": "https://artsandculture.google.com/entity/bertel-thorvaldsen/m0h9x_"
+    "movements": ["Harlem Renaissance", "Modern art", "Naïve art", "Folk art"],
+    "mediums": ["Oil paint", "Hessian fabric", "Watercolor painting", "Cardboard", "Gouache"],
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Johnson_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-johnson/m0f8fcj"
   },
   "event": {
-    "id": "manstein-plan",
-    "name": "Manstein Plan",
-    "dates": "May 10, 1940",
-    "mainImg": "img/events/manstein-plan.jpg",
+    "id": "battle-of-passchendaele",
+    "name": "Battle of Passchendaele",
+    "dates": "Jul 31, 1917 - Nov 10, 1917",
+    "mainImg": "img/events/battle-of-passchendaele.jpg",
     "summary": [
-      "The Manstein Plan is one of the names used to describe the war plan of the German Army during the Battle of France in 1940. The original invasion plan was an awkward compromise devised by General Franz Halder, the chief of Oberkommando des Heeres staff and satisfied no one. Documents with details of the plan fell into Belgian hands during the Mechelen incident of 10 January 1940 and the plan was revised several times, each giving more emphasis to an attack by Army Group A through the Ardennes, which progressively reduced the offensive by Army Group B through the Low Countries to a diversion.",
-      "In the final version of the plan, the main effort of the German invasion was made against the Ardennes, which by coincidence, was the weakest part of the Allied line, where the defence was left to second-rate French divisions in the Second Army and the Ninth Army, on the assumption that the difficulty of moving masses of men and equipment would give the French plenty of time to send reinforcements if the area was attacked."
+      "The Third Battle of Ypres, also known as the Battle of Passchendaele, was a campaign of the First World War, fought by the Allies against the German Empire. The battle took place on the Western Front, from July to November 1917, for control of the ridges south and east of the Belgian city of Ypres in West Flanders, as part of a strategy decided by the Allies at conferences in November 1916 and May 1917. Passchendaele lies on the last ridge east of Ypres, 5 mi from Roulers junction of the Bruges to Kortrijk railway. The station at Roulers was on the main supply route of the German 4th Army. Once Passchendaele Ridge had been captured, the Allied advance was to continue to a line from Thourout to Couckelaere.",
+      "Further operations and a British supporting attack along the Belgian coast from Nieuport, combined with an amphibious landing, were to have reached Bruges and then the Dutch frontier. The resistance of the 4th Army, unusually wet weather in August, the beginning of the autumn rains in October and the diversion of British and French resources to Italy, enabled the Germans to avoid the general withdrawal which had seemed inevitable in early October."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Manstein_Plan",
-    "urlGoogle": "https://artsandculture.google.com/entity/manstein-plan/m0287b85"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Passchendaele",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-passchendaele/m0c3mz"
   },
   "funFacts": [
     {
-      "id": "923",
-      "fact": "In Germany, the shhh sound literally means hurry up.",
-      "category": ["Hodgepodge"]
+      "id": "117",
+      "fact": "The starfish is the only animal that can turn its stomach inside out.",
+      "category": ["Animals", "Onlies"]
     },
     {
-      "id": "904",
-      "fact": "If done perfectly, any Rubik's Cube combination can be solved in 17 turns.",
-      "category": ["Hodgepodge"]
+      "id": "860",
+      "fact": "Cleveland, OH is home to the first electric traffic lights.",
+      "category": ["Firsts"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554094",
-      "fact": "A Canadian police officer named Ward Clapham created a program that gives “positive tickets” to people who do good deeds."
+      "id": "554031",
+      "fact": "The Hass avocado was patented in 1935 by Rudolph Hass, a mailman from California."
     }
   ],
   "idiom": {
-    "id": "over-the-transom",
-    "term": "over the transom",
-    "definition": "Unasked for, unsolicited. The term comes from publishing, where it describes a manuscript simply sent to a firm in hopes of arousing its interest. It has persisted even though few offices still have a transom, a small opening at the top of a door used for ventilation, and unsolicited manuscripts usually come through the mail or over the Internet rather than being thrown up through a window. [Colloquial, first half of 1900s]"
+    "id": "cool-ones-heels",
+    "term": "cool one's heels",
+    "definition": "Wait or be kept waiting, as in *I've been cooling my heels in the doctor's waiting room for at least an hour.* This term originally meant to cool one's feet when they become hot from walking, and began to be used ironically for being forced to rest (or wait) in the early 1600s."
   },
   "person": {
-    "id": "james-farmer",
-    "name": "James Farmer",
-    "dates": "Jan 12, 1920 - Jul 9, 1999",
-    "mainImg": "img/people/james-farmer.jpg",
+    "id": "helmut-kohl",
+    "name": "Helmut Kohl",
+    "dates": "Apr 3, 1930 - Jun 16, 2017",
+    "mainImg": "img/people/helmut-kohl.jpg",
     "summary": [
-      "James Leonard Farmer Jr. was an American civil rights activist and leader in the Civil Rights Movement \"who pushed for nonviolent protest to dismantle segregation, and served alongside Martin Luther King Jr.\" He was the initiator and organizer of the first Freedom Ride in 1961, which eventually led to the desegregation of interstate transportation in the United States.",
-      "In 1942, Farmer co-founded the Committee of Racial Equality in Chicago along with George Houser, James R. Robinson, Samuel E. Riley, Bernice Fisher, Homer Jack, and Joe Guinn. It was later called the Congress of Racial Equality, and was dedicated to ending racial segregation in the United States through nonviolence. Farmer served as the national chairman from 1942 to 1944.",
-      "By the 1960s, Farmer was known as \"one of the Big Four civil rights leaders in the 1960s, together with King, NAACP chief Roy Wilkins and Urban League head Whitney Young.\""
+      "Helmut Josef Michael Kohl was a German statesman who served as Chancellor of Germany from 1982 to 1998 and as the chairman of the Christian Democratic Union from 1973 to 1998. From 1969 to 1976, Kohl was minister president of the state Rhineland-Palatinate. Kohl chaired the Group of Seven in 1985 and 1992. In 1998 he became honorary chairman of the CDU, resigning from the position in 2000.",
+      "Born in 1930 in Ludwigshafen to a Roman Catholic family, Kohl joined the Christian Democratic Union in 1946 at the age of 16. He earned a PhD in history at Heidelberg University in 1958 and worked as a business executive before becoming a full-time politician. He was elected as the youngest member of the Parliament of Rhineland-Palatinate in 1959 and became Minister-President of his home state in 1969. Viewed during the 1960s and the early 1970s as a progressive within the CDU, he was elected national chairman of the party in 1973. In the 1976 federal election his party performed well, but the social-liberal government of social democrat Helmut Schmidt was able to remain in power, as well as in 1980, when Kohl's rival from the Bavarian sister party CSU, Franz Josef Strauß, candidated."
     ],
-    "quote": "“Anyone who said he wasn't afraid during the civil rights movement was either a liar or without imagination. I was scared all the time. My hands didn't shake but inside I was shaking.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/James_Farmer",
-    "urlGoogle": "https://artsandculture.google.com/entity/james-farmer/m01w9r1"
+    "quote": "“We were united not only by political respect for each other, but also by deep mutual sympathy as people.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Helmut_Kohl",
+    "urlGoogle": "https://artsandculture.google.com/entity/helmut-kohl/m0bj67"
   },
   "place": {
-    "id": "stuttgart",
-    "name": "Stuttgart",
-    "mainImg": "img/places/stuttgart.jpg",
+    "id": "seville",
+    "name": "Seville",
+    "mainImg": "img/places/seville.jpg",
     "summary": [
-      "Stuttgart is the capital and largest city of the German state of Baden-Württemberg. Stuttgart is located on the Neckar river in a fertile valley known locally as the \"Stuttgart Cauldron\". It lies an hour from the Swabian Jura and the Black Forest. Its area has a population of 634,830, making it the sixth largest city in Germany. 2.8 million people live in the city's administrative region and 5.3 million people in its metropolitan area, making it the fourth largest metropolitan area in Germany. The city and metropolitan area are consistently ranked among the top 20 European metropolitan areas by GDP; Mercer listed Stuttgart as 21st on its 2015 list of cities by quality of living, innovation agency 2thinknow ranked the city 24th globally out of 442 cities and the Globalization and World Cities Research Network ranked the city as a Beta-status world city in their 2014 survey., Stuttgart was one of the host cities of the official tournaments for the 1974 and 2006 FIFA World Cup.",
-      "Since the 7th millennium BC, the Stuttgart area has been an important agricultural area and has been host to a number of cultures seeking to utilize the rich soil of the Neckar valley."
+      "Seville is the capital and largest city of the Spanish autonomous community of Andalusia and the province of Seville. It is situated on the lower reaches of the River Guadalquivir, in the southwest of the Iberian Peninsula.",
+      "Seville has a municipal population of about 690,000 as of 2016, and a metropolitan population of about 1.5 million, making it the largest city in Andalusia, the fourth-largest city in Spain and the 30th most populous municipality in the European Union. Its old town, with an area of 4 square kilometres, contains three UNESCO World Heritage Sites: the Alcázar palace complex, the Cathedral and the General Archive of the Indies. The Seville harbour, located about 80 kilometres from the Atlantic Ocean, is the only river port in Spain. Seville experiences high temperatures in the summer, with daily maximums routinely above 35 °C in July and August.",
+      "Seville was founded as the Roman city of Hispalis. It became known as Ishbiliyya after the Muslim conquest in 711."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Stuttgart",
-    "urlGoogle": "https://artsandculture.google.com/entity/stuttgart/m0727_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Seville",
+    "urlGoogle": "https://artsandculture.google.com/entity/seville/m09f3c"
   },
   "wiki": {
-    "id": "texas-ranger-division",
-    "name": "Texas Ranger Division",
-    "summary": "The Texas Ranger Division is a law enforcement agency with statewide jurisdiction based in Austin, Texas, in the United States. Over the years, the Texas Rangers have investigated crimes ranging from murder to political corruption, kept the peace during riots, acted as detectives, protected the Texas governor, tracked down fugitives, and functioned as a quasi-military force at the service of both the Republic (1836–45) and the state of Texas. The Texas Rangers were unofficially created by Stephen F. Austin in 1823 and formally constituted in 1835. Although the organization went through periods of inactivity during the 19th century, it was never officially dissolved. Since 1935, the organization has been a division of the Texas Department of Public Safety, and currently fulfills the role of Texas' State Bureau of Investigation. As of 2005, there are 118 active Rangers.",
-    "url": "https://en.wikipedia.org/wiki/Texas_Ranger_Division"
+    "id": "makuria",
+    "name": "Makuria",
+    "summary": "Makuria was a kingdom located in what is today Southern Egypt and Northern Sudan. It was one of a group of Nubian kingdoms that emerged in the centuries after the fall of the Kingdom of Meroë, which had dominated the region from around 800 BCE to 350 CE. Makuria originally covered the area along the Nile River from the Third Cataract to somewhere between the Fifth and Sixth Cataracts. Its capital was Dongola. By the end of the 6th century it had converted to Christianity, but in the 7th century Egypt was conquered by the Islamic armies, and Nubia was cut off from the rest of Christendom. In 651 an Arab army invaded, but it was repulsed and a treaty known as the baqt was signed creating a relative peace between the two sides that lasted until the 13th century. Makuria expanded, annexing its northern neighbour Nobatia either at the time of the Arab invasion or during the reign of King Merkurios. The period from roughly 750 to 1150 saw the kingdom stable and prosperous, in what has been called the \"Golden Age\". However, increased aggression from Egypt, the Islamization and Arabization of the populace, and internal discord saw the state collapse in the 14th century.",
+    "url": "https://en.wikipedia.org/wiki/Makuria"
   },
   "word": {
-    "id": "qua",
-    "word": "qua",
-    "url": "https://www.merriam-webster.com/dictionary/qua",
-    "partOfSpeech": "preposition",
-    "pronunciation": "KWAH",
-    "audioPath": "audio/words/qua.mp3",
-    "definitions": ["in the capacity or character of : as"],
-    "examples": ["The school gym qua dance floor was where Oscar and Nanette fell in love."],
-    "origin": "Which way? Who? No, we’re not paraphrasing lines from the old Abbott and Costello routine \"Who’s on First?\"; we’re referring to the etymology of \"qua,\" a term that comes to us from Latin. It can be translated as \"which way\" or \"as,\" and it is a derivative of the Latin \"qui,\" meaning \"who.\" \"Qua\" has been serving English in the capacity of a preposition since the 17th century. It’s a learned but handy little word that led one 20th-century usage writer to comment: \"Qua is sometimes thought affected or pretentious, but it does convey meaning economically.\""
+    "id": "injunction",
+    "word": "injunction",
+    "url": "https://www.merriam-webster.com/dictionary/injunction",
+    "partOfSpeech": "noun",
+    "pronunciation": "in-JUNK-shun",
+    "audioPath": "audio/words/injunction.mp3",
+    "definitions": [
+      "the act or an instance of enjoining : order, admonition",
+      "a court order requiring a party to do or refrain from doing a specified act"
+    ],
+    "examples": [
+      "The family gathered in the room to hear the matriarch's dying _injunctions_.",
+      "\"A Superior Court judge Tuesday issued a preliminary _injunction_ preventing a Santa Fe Springs wastewater plant from removing sludge from tanks … until a plan has been approved by the local air quality district.\" - Mike Sprague, _Whittier Daily News_ (California), October 7, 2014"
+    ],
+    "origin": "_Injunction_ derives, via Anglo-French and Late Latin, from the Latin verb _injungere_, which in turn derives from _jungere_, meaning \"to join.\" Like our verb _enjoin_, _injungere_ means \"to direct or impose by authoritative order or with urgent admonition.\" (Not surprisingly, _enjoin_ is also a descendant of _injungere_.) _Injunction_ has been around in English since at least the 15th century, when it began life as a word meaning \"authoritative command.\" In the 16th century it developed a legal second sense applying to a court order. It has also been used as a synonym of _conjunction_, another _jungere_ descendant meaning \"union,\" but that sense is extremely rare."
   }
 }

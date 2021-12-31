@@ -1,141 +1,125 @@
 {
   "artist": {
-    "id": "sebastiano-del-piombo",
-    "name": "Sebastiano del Piombo",
-    "dates": "1485 - Jun 21, 1547",
-    "mainImg": "img/art/artists/sebastiano-del-piombo.jpg",
+    "id": "gustave-moreau",
+    "name": "Gustave Moreau",
+    "dates": "Apr 6, 1826 - Apr 18, 1898",
+    "mainImg": "img/art/artists/gustave-moreau.jpg",
     "artworkImgs": [
       {
-        "name": "Portrait of a Man, Said to be Christopher Columbus (born about 1446, died 1506)",
-        "path": "img/art/artworks/sebastiano-del-piombo-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-said-to-be-christopher-columbus-born-about-1446-died-1506-sebastiano-del-piombo-sebastiano-luciani/5gGf2jS3DvIv3A"
+        "name": "The Apparition",
+        "path": "img/art/artworks/gustave-moreau-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-apparition-gustave-moreau/8wHHpSOCxyjnIg"
       },
       {
-        "name": "Christopher Columbus",
-        "path": "img/art/artworks/sebastiano-del-piombo-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/christopher-columbus-sebastiano-del-piombo-sebastiano-luciani-italian/pwHRNnEI2OT5hQ"
+        "name": "Song of Songs （Cantique des Cantiques）",
+        "path": "img/art/artworks/gustave-moreau-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/song-of-songs-%EF%BC%88cantique-des-cantiques%EF%BC%89-gustave-moreau/bAF8_zYTTD_LKQ"
       },
       {
-        "name": "Portrait of a Man, Said to be Christopher Columbus (born about 1446, died 1506)",
-        "path": "img/art/artworks/sebastiano-del-piombo-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-said-to-be-christopher-columbus-born-about-1446-died-1506-sebastiano-del-piombo-sebastiano-luciani/uQEhW___Kfukrg"
+        "name": "Delilah",
+        "path": "img/art/artworks/gustave-moreau-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/delilah-gustave-moreau/CgFp6i8joF9S6Q"
       },
       {
-        "name": "Cardinal Bandinello Sauli, His Secretary, and Two Geographers",
-        "path": "img/art/artworks/sebastiano-del-piombo-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/cardinal-bandinello-sauli-his-secretary-and-two-geographers-sebastiano-del-piombo/NAFANYYyRVoAXA"
+        "name": "The Mermaids",
+        "path": "img/art/artworks/gustave-moreau-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-mermaids-gustave-moreau-1826-1895/GgG2ROSk0WC3cQ"
       },
       {
-        "name": "Salome",
-        "path": "img/art/artworks/sebastiano-del-piombo-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/salome-sebastiano-del-piombo/zAG8H8NmrU2tSA"
+        "name": "Pietà",
+        "path": "img/art/artworks/gustave-moreau-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/pietà/TQHui8QymcyX4Q"
       },
       {
-        "name": "Portrait of Clement VII",
-        "path": "img/art/artworks/sebastiano-del-piombo-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-clement-vii-sebastiano-del-piombo-sebastiano-luciani/SwHye1UVsdDZlQ"
+        "name": "The Apparition",
+        "path": "img/art/artworks/gustave-moreau-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-apparition/QwF1ava-YSr5GQ"
       }
     ],
     "summary": [
-      "Sebastiano del Piombo was an Italian painter of the High Renaissance and early Mannerist periods famous as the only major artist of the period to combine the colouring of the Venetian school in which he was trained with the monumental forms of the Roman school. He belongs both to the painting school of his native city, Venice, where he made significant contributions before he left for Rome in 1511, and that of Rome, where he stayed for the rest of his life, and whose style he thoroughly adopted.",
-      "Born Sebastiano Luciani, after coming to Rome he became known as \"Sebastiano Veneziano\" or \"Viniziano\", until in 1531 he became the Keeper of the Seal to the Papacy, and so got the nickname del Piombo thereafter, meaning \"of the lead\", from his new job title of Piombatore. Friends like Michelangelo and Ariosto called him \"Fra Bastiano\".",
-      "Never a very disciplined or productive painter, his artistic productivity fell still further after becoming piombatore, which committed him to attend on the pope most days, and travel with him. He also had to take holy orders as a friar, despite having a wife and two children."
+      "Gustave Moreau was a major figure in the French Symbolist movement, whose main emphasis was the illustration of biblical and mythological figures. Moreau's paintings appealed to the imaginations of some Symbolist writers and artists.",
+      "He is recognized for his works that are influenced by the Italian Renaissance and exoticism. Many of his works are on display at the Musée Gustave Moreau, a museum in Paris dedicated to his works."
     ],
     "quote": null,
-    "movements": [
-      "Renaissance",
-      "High Renaissance",
-      "Mannerism",
-      "Italian Renaissance",
-      "Venetian painting"
-    ],
-    "mediums": ["Oil paint", "Wood", "Pen", "Drawing", "Ink", "Rock"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Sebastiano_del_Piombo",
-    "urlGoogle": "https://artsandculture.google.com/entity/sebastiano-del-piombo/m04p81n"
+    "movements": ["Symbolism", "Modern art", "Impressionism"],
+    "mediums": ["Watercolor painting", "Oil paint", "Etching", "Drawing", "Gouache", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gustave_Moreau",
+    "urlGoogle": "https://artsandculture.google.com/entity/gustave-moreau/m0hrky"
   },
   "event": {
-    "id": "1948-arab-israeli-war",
-    "name": "1948 Arab–Israeli War",
-    "dates": "May 15, 1948 - March 1949",
-    "mainImg": "img/events/1948-arab-israeli-war.jpg",
+    "id": "civil-rights-movement",
+    "name": "Civil rights movement",
+    "dates": "1954 - 1968",
+    "mainImg": "img/events/civil-rights-movement.jpg",
     "summary": [
-      "The 1948 Arab–Israeli War was the second and final stage of the 1947–49 Palestine war. It formally began following the end of the British Mandate for Palestine at midnight on 14 May 1948; the Israeli Declaration of Independence had been issued earlier that day, and a military coalition of Arab states entered the territory of British Palestine in the morning of 15 May.",
-      "The first deaths of the 1947–49 Palestine war occurred on 30 November 1947 during an ambush of two buses carrying Jews. There had been tension and conflict between the Arabs and the Jews, and between each of them and the British forces since the 1917 Balfour Declaration and the 1920 creation of the British Mandate of Palestine. British policies dissatisfied both Arabs and Jews. Arab opposition developed into the 1936–1939 Arab revolt in Palestine, while the Jewish resistance developed into the Jewish insurgency in Palestine."
+      "The civil rights movement in the United States was a decades-long struggle by African Americans to end legalized racial discrimination, disenfranchisement and racial segregation in the United States. The movement has its origins in the Reconstruction era during the late 19th century, although the movement achieved its largest legislative gains in the mid-1960s after years of direct actions and grassroots protests. The social movement's major nonviolent resistance campaigns eventually secured new protections in federal law for the human rights of all Americans.",
+      "After the American Civil War and the abolition of slavery in the 1860s, the Reconstruction Amendments to the United States Constitution granted emancipation and constitutional rights of citizenship to all African Americans, most of whom had recently been enslaved. For a period, African Americans voted and held political office, but they were increasingly deprived of civil rights, often under Jim Crow laws, and subjected to discrimination and sustained violence by whites in the South. Over the following century, various efforts were made by African Americans to secure their legal rights."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/1948-arab–israeli-war/m090bv"
+    "urlWiki": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+    "urlGoogle": "https://artsandculture.google.com/entity/civil-rights-movement/m0d2c9"
   },
   "funFacts": [
+    { "id": "468", "fact": "Camels have three eyelids.", "category": ["Animals"] },
     {
-      "id": "212",
-      "fact": "Galapagos turtles can take up to three weeks to digest a meal.",
-      "category": ["Animals"]
-    },
-    {
-      "id": "298",
-      "fact": "The sail fish has been clocked at speeds of over 60 miles per hour.",
-      "category": ["Animals"]
+      "id": "159",
+      "fact": "The first TV show ever to be put into reruns was \"The Lone Ranger.\"",
+      "category": ["Firsts"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "522227",
-      "fact": "Blood donors in Sweden receive a thank you text when their blood is used."
-    }
-  ],
+  "funFacts2": [{ "id": "553501", "fact": "A group of ferrets is called a business." }],
   "idiom": {
-    "id": "spread-oneself-too-thin",
-    "term": "spread oneself too thin",
-    "definition": "Overextend oneself, undertake too many different enterprises. For example, *Tom's exhausted; what with work, volunteer activities, and social life he's spread himself too thin.* This expression alludes to smearing something (like butter on bread) in such a thin layer that it does not cover the surface. Jonathan Swift used *spread thin* in a positive sense, that is, something should occur less often (*Polite Conversation,* 1731--1738): \"They [polite speeches] ought to be husbanded better, and spread much thinner.\""
+    "id": "make-bricks-without-straw",
+    "term": "make bricks without straw",
+    "definition": "Perform a task without essential materials or means, as in *Writing a report without the current data is making bricks without straw.* This expression alludes to straw as a material necessary in early brick manufacturing. [Early 1600s]"
   },
   "person": {
-    "id": "fevzi-cakmak",
-    "name": "Fevzi Çakmak",
-    "dates": "Jan 12, 1876 - Apr 10, 1950",
-    "mainImg": "img/people/fevzi-cakmak.jpg",
+    "id": "tom-clarke",
+    "name": "Tom Clarke",
+    "dates": "Mar 11, 1858 - May 3, 1916",
+    "mainImg": "img/people/tom-clarke.jpg",
     "summary": [
-      "Mustafa Fevzi Çakmak was a Turkish field marshal and politician. He served as the Chief of General Staff from 1918 and 1919 and later the Minister of War of the Ottoman Empire in 1920. He later joined the provisional Government of the Grand National Assembly and became the Deputy Prime Minister, Minister of National Defense and later as the Prime Minister of Turkey from 1921 to 1922. He was the second Chief of the General Staff of the provisional Ankara Government and the first Chief of the General Staff of the Republic of Turkey.",
-      "Graduating from the War College as a Staff Captain and assigned to the 4th Department of the General Staff, Mustafa Fevzi participated in numerous battles during the prolonged downfall of the Ottoman Empire, such as the First Balkan War and the Battle of Monastir. He was engaged as the Commander of the V Corps throughout the defence of Gallipoli, during which his younger brother was killed in the Battle of Chunuk Bair. He became a Pasha and the Chief of General Staff of the Ottoman Empire after the First World War and was appointed as the commander of the First Army Troops Inspectorate in 1919 by Grand Vizier Ahmet Tevfik Pasha."
+      "Thomas James \"Tom\" Clarke was an Irish republican and a leader of the Irish Republican Brotherhood from Dungannon, County Tyrone. Clarke was arguably the person most responsible for the 1916 Easter Rising. A proponent of armed struggle against British rule in Ireland for most of his life, Clarke spent 15 years in English prisons prior to his role in the Easter Rising, and was executed by firing squad after it was defeated."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Fevzi_%C3%87akmak",
-    "urlGoogle": "https://artsandculture.google.com/entity/fevzi-çakmak/m05fk3z"
+    "urlWiki": "https://en.wikipedia.org/wiki/Tom_Clarke_%28Irish_republican%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/tom-clarke/m02qv8b"
   },
   "place": {
-    "id": "mar-del-plata",
-    "name": "Mar del Plata",
-    "mainImg": "img/places/mar-del-plata.jpg",
+    "id": "zambia",
+    "name": "Zambia",
+    "mainImg": "img/places/zambia.jpg",
     "summary": [
-      "Mar del Plata is a city in Buenos Aires Province, Argentina located on the coast of the Atlantic Ocean. It is the head of General Pueyrredón Partido. Mar del Plata is the second largest city in Buenos Aires Province. The name \"Mar del Plata\" has the meaning of \"sea of the Plate region\" or \"adjoining sea to the Plate region\". Mar del Plata is one of the major fishing ports and the biggest seaside beach resort in Argentina.",
-      "With a population of 614,350 as per the 2010 census [INDEC], it is the 7th largest city in Argentina."
+      "Zambia, officially the Republic of Zambia, is a landlocked country in Southern-Central Africa. Its neighbors are the Democratic Republic of the Congo to the north, Tanzania to the north-east, Malawi to the east, Mozambique to the southeast, Zimbabwe and Botswana to the south, Namibia to the southwest, and Angola to the west. The capital city is Lusaka, located in the south-central part of Zambia. The population is concentrated mainly around Lusaka in the south and the Copperbelt Province to the northwest, the core economic hubs of the country.",
+      "Originally inhabited by Khoisan peoples, the region was affected by the Bantu expansion of the thirteenth century. Following European explorers in the eighteenth century, the British colonised the region into the British protectorates of Barotziland-North-Western Rhodesia and North-Eastern Rhodesia towards the end of the nineteenth century. These were merged in 1911 to form Northern Rhodesia. For most of the colonial period, Zambia was governed by an administration appointed from London with the advice of the British South Africa Company."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Mar_del_Plata",
-    "urlGoogle": "https://artsandculture.google.com/entity/mar-del-plata/m01psv5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Zambia",
+    "urlGoogle": "https://artsandculture.google.com/entity/zambia/m088vb"
   },
   "quote": {
-    "id": "113",
-    "quote": "The degree of one’s emotion varies inversely with one’s knowledge of the facts – the less you know the hotter you get.",
-    "author": "Bertrand Russell"
+    "id": "54",
+    "quote": "A reader lives a thousand lives before he dies. The man who never reads lives only one.",
+    "author": "George R.R. Martin"
   },
   "wiki": {
-    "id": "templon",
-    "name": "Templon",
-    "summary": "A templon is a Byzantine architectural feature first appearing in Christian churches about the fifth century AD and is still found in some Eastern Christian churches. It eventually evolved into the modern iconostasis, still found in Orthodox churches today. It separates the laity in the nave from the priests preparing the sacraments at the altar. It is usually composed of carved wood or marble colonnettes supporting an architrave (a beam resting on top of columns). Three doors, a large central one and two smaller flanking ones, lead into the sanctuary. The templon did not originally obscure the view of the altar, but as time passed, icons were hung from the beams, curtains were placed in between the colonnettes, and the templon became more and more opaque. It is often covered with icons and can be very elaborate.",
-    "url": "https://en.wikipedia.org/wiki/Templon"
+    "id": "united-states-constitution",
+    "name": "United States Constitution",
+    "summary": "The Constitution of the United States is the supreme law of the United States of America and is the oldest written national constitution still in force. It was completed on September 17, 1787, with its adoption by the Constitutional Convention in Philadelphia, and was later ratified by special conventions called for that purpose in each of the then-existing thirteen American states. It took effect in 1788, and has served as a model for a number of other nations' constitutions. It created a more unified government in place of what was then a group of independent states operating under the Articles of Confederation.",
+    "url": "https://en.wikipedia.org/wiki/United_States_Constitution"
   },
   "word": {
-    "id": "invigilate",
-    "word": "invigilate",
-    "url": "https://www.merriam-webster.com/dictionary/invigilate",
-    "partOfSpeech": "verb",
-    "pronunciation": "in-VIJ-uh-layt",
-    "audioPath": "audio/words/invigilate.mp3",
-    "definitions": ["to keep watch : supervise, monitor"],
+    "id": "probity",
+    "word": "probity",
+    "url": "https://www.merriam-webster.com/dictionary/probity",
+    "partOfSpeech": "noun",
+    "pronunciation": "PROH-buh-tee",
+    "audioPath": "audio/words/probity.mp3",
+    "definitions": ["adherence to the highest principles and ideals : uprightness"],
     "examples": [
-      "Theodore sat in his favorite chair on the back deck, sipped his coffee, and invigilated the activities of his grandchildren as they played in the yard."
+      "The tale of young George Washington's refusal to tell a lie after cutting down his father's cherry tree was told to us as grade schoolers to illustrate his _probity_.",
+      "\"The Senate has confirmed Jeh Johnson, once the Pentagon's top lawyer, to lead the Department of Homeland Security. Mr. Johnson brings a sharp legal mind and reputation for _probity_ to the job.\" - From an editorial in _The New York Times_, December 26, 2013"
     ],
-    "origin": "Keep your eyes open and you're sure to spot a few relatives of today's word. \"Invigilate\" is a descendant of the Latin verb \"vigilare,\" meaning \"to stay awake.\" As you may have guessed, \"vigilare\" is the ancestor of our adjective \"vigilant\" (\"alertly watchful\"), and it also gives us \"reveille\" (\"a signal to wake up in the morning,\" via French \"reveiller\") and \"surveillance\" (\"close watch, supervision,\" via French \"survéiller\"). \"Invigilate\" has been a part of the English language since the mid-16th century."
+    "origin": "\"Probity\" and its synonyms \"honesty,\" \"honor,\" and \"integrity\" all mean uprightness of character or action, with some slight differences in emphasis. \"Honesty\" implies a refusal to lie or deceive in any way. \"Honor\" suggests an active or anxious regard for the standards of one's profession, calling, or position. \"Integrity\" implies trustworthiness and incorruptibility to a degree that one is incapable of being false to a trust, responsibility, or pledge. \"Probity,\" which descends from Latin \"probus,\" meaning \"honest,\" implies tried and proven honesty or integrity."
   }
 }

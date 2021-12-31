@@ -1,0 +1,120 @@
+{
+  "artist": {
+    "id": "frans-pourbus-the-younger",
+    "name": "Frans Pourbus the Younger",
+    "dates": "1569 - Feb 19, 1622",
+    "mainImg": "img/art/artists/frans-pourbus-the-younger.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait of Maria de’ Medici",
+        "path": "img/art/artworks/frans-pourbus-the-younger-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-maria-de’-medici-frans-pourbus-the-younger/TgFDLZjbuR4ivw"
+      },
+      {
+        "name": "Margherita Gonzaga (1591–1632), Princess of Mantua",
+        "path": "img/art/artworks/frans-pourbus-the-younger-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/margherita-gonzaga-1591–1632-princess-of-mantua-frans-pourbus-the-younger/HQFCgm5viDjXmg"
+      },
+      {
+        "name": "Marie de Medicis, Consort of Henry IV, King of France",
+        "path": "img/art/artworks/frans-pourbus-the-younger-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/marie-de-medicis-consort-of-henry-iv-king-of-france-workshop-of-frans-ii-pourbus/qgFTWRdRVfM1pQ"
+      },
+      {
+        "name": "Portrait of Albert VII, Archduke of Austria",
+        "path": "img/art/artworks/frans-pourbus-the-younger-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-albert-vii-archduke-of-austria-workshop-of-frans-ii-pourbus/SAFwv_w6UAqYvw"
+      },
+      {
+        "name": "Portrait of Philip III, King of Spain",
+        "path": "img/art/artworks/frans-pourbus-the-younger-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-philip-iii-king-of-spain-workshop-of-frans-ii-pourbus/zgFxSeVZi-M1ug"
+      },
+      {
+        "name": "Isabella Clara Eugenia, Consort of Archduke Albert VII",
+        "path": "img/art/artworks/frans-pourbus-the-younger-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/isabella-clara-eugenia-consort-of-archduke-albert-vii-workshop-of-frans-ii-pourbus/gAHCiEaX7ViA0Q"
+      }
+    ],
+    "summary": [
+      "Frans Pourbus the Younger was a Flemish painter, son of Frans Pourbus the Elder and grandson of Pieter Pourbus. He was born in Antwerp and died in Paris. He is also referred to as \"Frans II\".",
+      "Pourbus worked for many of the highly influential people of his day, including the Brussels-based Spanish Regents of the Netherlands, the Duke of Mantua and Marie de' Medici, Queen of France. Works of his can be found in the Royal Collection, the National Museum in Warsaw, the Louvre, the Prado, the Rijksmuseum, the Royal College of Art, the Metropolitan Museum of Art and many other museums."
+    ],
+    "quote": null,
+    "movements": ["Baroque"],
+    "mediums": ["Oil paint", "Copper", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Frans_Pourbus_the_Younger",
+    "urlGoogle": "https://artsandculture.google.com/entity/frans-pourbus-the-younger/m01h5y9"
+  },
+  "event": {
+    "id": "russian-revolution",
+    "name": "Russian Revolution",
+    "dates": "Mar 8, 1917 - Jun 16, 1923",
+    "mainImg": "img/events/russian-revolution.jpg",
+    "summary": [
+      "The Russian Revolution was a period of political and social revolution across the territory of the Russian Empire, commencing with the abolition of the monarchy in 1917, and concluding in 1923 after the Bolshevik establishment of the Soviet Union at the end of the Civil War.",
+      "It began during the First World War, with the February Revolution that was focused in and around Petrograd, the capital of Russia at that time. The revolution erupted in the context of Russia's major military losses during the War, which resulted in much of the Russian Army being ready to mutiny. In the chaos, members of the Duma, Russia's parliament, assumed control of the country, forming the Russian Provisional Government. This was dominated by the interests of large capitalists and the noble aristocracy. The army leadership felt they did not have the means to suppress the revolution, and Emperor Nicholas II abdicated his throne. Grassroots community assemblies called 'Soviets', which were dominated by soldiers and the urban industrial working class, initially permitted the Provisional Government to rule, but insisted on a prerogative to influence the government and control various militias."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Russian_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/russian-revolution/m06fby"
+  },
+  "funFacts": [
+    {
+      "id": "293",
+      "fact": "Vermont is the only New England state without a seacoast.",
+      "category": ["Geography", "Onlies"]
+    },
+    { "id": "42", "fact": "Frogs cannot swallow with their eyes open.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "554034",
+      "fact": "People walked differently in medieval times. They stepped with the ball of the foot first to check the ground for debris, perhaps because well-soled shoes were hard to come by."
+    }
+  ],
+  "person": {
+    "id": "henri-count-of-paris",
+    "name": "Henri, Count of Paris",
+    "dates": "Jun 14, 1933 - Jan 21, 2019",
+    "mainImg": "img/people/henri-count-of-paris.jpg",
+    "summary": [
+      "Henri, Count of Paris, Duke of France, was the Orléanist pretender to the defunct French throne as Henry VII.",
+      "He was head of the House of Orléans as senior in male-line descent from Louis-Philippe I d'Orléans, who reigned as King of the French from 1830 to 1848. Henri was a retired military officer as well as an author and painter."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Henri,_Count_of_Paris_%281933%E2%80%932019%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/henri-count-of-paris/m01qp4d"
+  },
+  "place": {
+    "id": "karachi",
+    "name": "Karachi",
+    "mainImg": "img/places/karachi.jpg",
+    "summary": [
+      "Karachi is the capital of the Pakistani province of Sindh. It is the largest city in Pakistan and seventh largest city proper in the world. Ranked as a beta-global city, the city is Pakistan's premier industrial and financial centre, with an estimated GDP of $114 billion as of 2014. Karachi is Pakistan's most cosmopolitan city, its most linguistically, ethnically, and religiously diverse city, as well as one of Pakistan's most secular and socially liberal cities. With its location on the Arabian Sea, Karachi serves as a transport hub, and is home to Pakistan's two largest seaports, the Port of Karachi and Port Bin Qasim, as well as Pakistan's busiest airport, Jinnah International Airport.",
+      "Though the Karachi region has been inhabited for millennia, the city was founded as the fortified village of Kolachi in 1729. The settlement drastically increased in importance with the arrival of British East India Company in the mid 19th century. The British embarked on major works to transform the city into a major seaport, and connected it with their extensive railway network."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Karachi",
+    "urlGoogle": "https://artsandculture.google.com/entity/karachi/m04cjn"
+  },
+  "wiki": {
+    "id": "john-hay",
+    "name": "John Hay",
+    "summary": "John Hay (1838–1905) was an American statesman and official whose career in government stretched over almost half a century. After graduation from Brown University in 1858, Hay read law in his uncle's office in Springfield, Illinois, adjacent to that of Abraham Lincoln. Hay worked for Lincoln's successful presidential campaign, and became his assistant private secretary at the White House. Through the years of the American Civil War, Hay was close to Lincoln, and stood by his deathbed after the President was shot at Ford's Theatre. In 1897, President William McKinley, for whom he had been a major backer, made him Ambassador to the United Kingdom. The following year, Hay became United States Secretary of State. He served almost seven years, under McKinley, and after his assassination, under Theodore Roosevelt. Hay was responsible for the Open Door Policy in China, and negotiated the Hay–Pauncefote Treaty (1901) with the UK, as well as the Hay–Herrán Treaty (1903) with Colombia, and the Hay–Bunau-Varilla Treaty (1903) that cleared the way for the building of the Panama Canal. Hay was also an author and biographer, and wrote poetry and other literature through much of his life.",
+    "url": "https://en.wikipedia.org/wiki/John_Hay"
+  },
+  "word": {
+    "id": "proscribe",
+    "word": "proscribe",
+    "url": "https://www.merriam-webster.com/dictionary/proscribe",
+    "partOfSpeech": "verb",
+    "pronunciation": "proh-SCRYBE",
+    "audioPath": "audio/words/proscribe.mp3",
+    "definitions": ["outlaw", "to condemn or forbid as harmful or unlawful"],
+    "examples": [
+      "When grammarians began to proscribe ending a sentence with a preposition in the 1700s, one astute personage noted that it is \"an idiom which our language is strongly inclined to.\""
+    ],
+    "origin": "\"Proscribe\" and \"prescribe\" each have a Latin-derived prefix that means \"before\" attached to the verb \"scribe\" (from \"scribere,\" meaning \"to write\"). Yet the two words have very distinct, often nearly opposite meanings. Why? In a way, you could say it's the law. In the 15th and 16th centuries both words had legal implications. To \"proscribe\" was to publish the name of a person who had been condemned, outlawed, or banished. To \"prescribe\" meant \"to lay down a rule,\" including legal rules or orders."
+  }
+}

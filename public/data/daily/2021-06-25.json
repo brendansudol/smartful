@@ -1,127 +1,116 @@
 {
   "artist": {
-    "id": "ivan-aivazovsky",
-    "name": "Ivan Aivazovsky",
-    "dates": "Jul 29, 1817 - May 2, 1900",
-    "mainImg": "img/art/artists/ivan-aivazovsky.jpg",
+    "id": "deng-shiru",
+    "name": "Deng Shiru",
+    "dates": "1743 - 1805",
+    "mainImg": "img/art/artists/deng-shiru.jpg",
     "artworkImgs": [
       {
-        "name": "A Ship in a Stormy Sea",
-        "path": "img/art/artworks/ivan-aivazovsky-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/a-ship-in-a-stormy-sea-ivan-konstantinovich-aivazovsky/zAEu59fky6DoVQ"
+        "name": "Seal script calligraphy",
+        "path": "img/art/artworks/deng-shiru-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/seal-script-calligraphy-artist-deng-shiru/UQH_iXkhGXWdYg"
       },
       {
-        "name": "The Ninth Wave",
-        "path": "img/art/artworks/ivan-aivazovsky-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-ninth-wave/jgHuL-7yxgrOSw"
+        "name": "Couplet in clerical script",
+        "path": "img/art/artworks/deng-shiru-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/couplet-in-clerical-script-artist-deng-shiru/DQESLwpgX1DywQ"
       },
       {
-        "name": "Seacape with Full Moon",
-        "path": "img/art/artworks/ivan-aivazovsky-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/seacape-with-full-moon-ivan-konstantinovich-aivazovsky/ggEbpgiVEyL9-w"
+        "name": "Commentary on the Book of Changes in seal script",
+        "path": "img/art/artworks/deng-shiru-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/commentary-on-the-book-of-changes-in-seal-script-artist-deng-shiru/QQGd8vuTpDMU4w"
       },
       {
-        "name": "Galleon in the Fog",
-        "path": "img/art/artworks/ivan-aivazovsky-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/galleon-in-the-fog-ivan-konstantinovich-aivazovsky/2AEmQM1hHST5IA"
+        "name": "Visiting the Realm of the Immortals",
+        "path": "img/art/artworks/deng-shiru-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/visiting-the-realm-of-the-immortals-artist-deng-shiru/KgHDx5ceDZ816g"
       },
       {
-        "name": "The Black Sea. (A storm begins to whip up in the Black Sea)",
-        "path": "img/art/artworks/ivan-aivazovsky-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-black-sea-a-storm-begins-to-whip-up-in-the-black-sea-ivan-oganes-ayvazovskiy-gayvazovskiy/BwG4NN3FH_vpnA"
-      },
-      {
-        "name": "Storm",
-        "path": "img/art/artworks/ivan-aivazovsky-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/storm-ivan-konstantinovich-aivazovsky/rwGyd8pJNW4yQw"
+        "name": "Poem on seeing off Adjutant Administrator Zhu in cursive script",
+        "path": "img/art/artworks/deng-shiru-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/poem-on-seeing-off-adjutant-administrator-zhu-in-cursive-script-artist-deng-shiru/cAGt_Yirk-tE8g"
       }
     ],
     "summary": [
-      "Ivan Konstantinovich Aivazovsky was a Russian Romantic painter who is considered one of the greatest masters of marine art. Baptized as Hovhannes Aivazian, he was born into an Armenian family in the Black Sea port of Feodosia in Crimea and was mostly based there.",
-      "Following his education at the Imperial Academy of Arts in Saint Petersburg, Aivazovsky traveled to Europe and lived briefly in Italy in the early 1840s. He then returned to Russia and was appointed the main painter of the Russian Navy. Aivazovsky had close ties with the military and political elite of the Russian Empire and often attended military maneuvers. He was sponsored by the state and was well-regarded during his lifetime. The saying \"worthy of Aivazovsky's brush\", popularized by Anton Chekhov, was used in Russia for describing something lovely. He remains highly popular in Russia in the 21st century.",
-      "One of the most prominent Russian artists of his time, Aivazovsky was also popular outside Russia. He held numerous solo exhibitions in Europe and the United States. During his almost 60-year career, he created around 6,000 paintings, making him one of the most prolific artists of his time."
-    ],
-    "quote": "“The movement of natural elements cannot be captured by the brush: to paint lightning, a gust of wind, or the splash of a wave from nature is inconceivable.”",
-    "movements": ["Romanticism"],
-    "mediums": ["Oil paint", "Glass", "Photograph"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Ivan_Aivazovsky",
-    "urlGoogle": "https://artsandculture.google.com/entity/ivan-aivazovsky/m039dtp"
-  },
-  "event": {
-    "id": "franklin-d-roosevelt-1933-presidential-inauguration",
-    "name": "Franklin D. Roosevelt 1933 presidential inauguration",
-    "dates": null,
-    "mainImg": "img/events/franklin-d-roosevelt-1933-presidential-inauguration.jpg",
-    "summary": [
-      "The first inauguration of Franklin D. Roosevelt as the 32nd President of the United States was held on Saturday, March 4, 1933 at the East Portico of the United States Capitol in Washington, D.C. This was the 37th inauguration marked the commencement of the first term of Franklin D. Roosevelt as President and John Nance Garner as Vice President. It was the last inauguration to be held on the constitutionally prescribed date of March 4; the 20th Amendment, ratified earlier that year, moved Inauguration Day to January 20. As a result, Roosevelt's first term in office was shorter than a normal term by 43 days. This was also the last time the vice president took the oath of office on the Senate chamber.",
-      "The inauguration took place in the wake of Democrat Roosevelt's landslide victory over Republican incumbent Herbert Hoover in the 1932 presidential election. With the nation at its peak of the Great Depression, Roosevelt's inaugural speech was awaited with great anticipation. Broadcast nationwide on several radio networks, the speech was heard by tens of millions of Americans, and set the stage for Roosevelt's urgent efforts to respond to the crisis."
+      "Deng Shirú; c. 1739/1743–1805 was a Chinese calligrapher during the Qing Dynasty.",
+      "Deng was born in Huaining 懷寧 in the Anhui 安徽 province. His style name was 'Wanbo' 顽伯 and his sobriquets were 'Wanbai shanren 皖白山人, Wan bai 完白, Guhuan, Gu wanzi 故浣子, Youji daoren 游笈道人, Fengshui yuzhang 鳳水漁長, and Longshan qiaozhang 龍山樵長'. Deng studied at the Shen Chun Academy. He later learned the art of Seal cutting."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/First_inauguration_of_Franklin_D._Roosevelt",
-    "urlGoogle": "https://artsandculture.google.com/entity/franklin-d-roosevelt-1933-presidential-inauguration/m05brv74"
+    "movements": [],
+    "mediums": ["Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Deng_Shiru",
+    "urlGoogle": "https://artsandculture.google.com/entity/deng-shiru/m04f40_1"
+  },
+  "event": {
+    "id": "2000-summer-olympics",
+    "name": "2000 Summer Olympics",
+    "dates": "Sep 15, 2000 - Oct 1, 2000",
+    "mainImg": "img/events/2000-summer-olympics.jpg",
+    "summary": [
+      "The 2000 Summer Olympics, officially known as the Games of the XXVII Olympiad and commonly known as Sydney 2000 or the Millennium Olympic Games/Games of the New Millennium, was an international multi-sport event held between 15 September and 1 October 2000 in Sydney, New South Wales, Australia. It was the second time the Summer Olympics were held in Australia, and also the Southern Hemisphere, the first being in Melbourne, Victoria, in 1956. The United States topped the medal table, winning the most gold and overall medals."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2000_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/2000-summer-olympics/m0jdk_"
   },
   "funFacts": [
-    {
-      "id": "115",
-      "fact": "Bamboo makes up 99 percent of a panda's diet.",
-      "category": ["Animals", "Plants"]
-    },
-    { "id": "839", "fact": "A cucumber consists of 96% water.", "category": ["Food"] }
+    { "id": "315", "fact": "No two lip impressions are the same.", "category": ["Anatomy"] },
+    { "id": "17", "fact": "A hummingbird weighs less than a penny.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
-      "id": "504825",
-      "fact": "Beauty and the Beast was the first animated film to be nominated for Best Picture. It lost to The Silence of the Lambs."
+      "id": "553505",
+      "fact": "Both John Adams and Thomas Jefferson died on July 4, 1826, exactly 50 years after the adoption of the Declaration of Independence."
     }
   ],
   "idiom": {
-    "id": "make-no-bones-about",
-    "term": "make no bones about",
-    "definition": "Act or speak frankly about something, without hesitation or evasion. For example, *Tom made no bones about wanting to be promoted,* or *Make no bones about it---she's very talented.* Versions of this expression date back to the mid-1400s and the precise allusion is no longer known. Some believe it meant a boneless stew or soup that one could eat without hesitation; others relate it to dice, originally made from bones, that were thrown without hesitation or fuss."
+    "id": "give-an-inch-and-theyll-take-a-mile",
+    "term": "give an inch and they'll take a mile",
+    "definition": "Make a small concession and they'll take advantage of you. For example, *I told her she could borrow the car for one day and she's been gone a week---give an inch!* This expression, in slightly different form, was already a proverb in John Heywood's 1546 collection, \"Give him an inch and he'll take an ell,\" and is so well known it is often shortened (as in the example). The use of *mile* dates from about 1900."
   },
   "person": {
-    "id": "charles-sumner",
-    "name": "Charles Sumner",
-    "dates": "Jan 6, 1811 - Mar 11, 1874",
-    "mainImg": "img/people/charles-sumner.jpg",
+    "id": "jean-jacques-dessalines",
+    "name": "Jean-Jacques Dessalines",
+    "dates": "Sep 20, 1758 - Oct 17, 1806",
+    "mainImg": "img/people/jean-jacques-dessalines.jpg",
     "summary": [
-      "Charles Sumner was an American politician and United States Senator from Massachusetts. As an academic lawyer and a powerful orator, Sumner was the leader of the anti-slavery forces in the state and a leader of the Radical Republicans in the U.S. Senate during the American Civil War. During Reconstruction, he fought to minimize the power of the ex-Confederates and guarantee equal rights to the freedmen. He fell into a dispute with fellow Republican President Grant over the control of Santo Domingo leading to the stripping of his power in the Senate and his subsequent effort to defeat Grant's re-election.",
-      "Sumner changed his political party several times as anti-slavery coalitions rose and fell in the 1830s and 1840s before coalescing in the 1850s as the Republican Party, the affiliation with which he became best known. He devoted his enormous energies to the destruction of what Republicans called the Slave Power, the influence over the federal government of Southern slave owners who sought the continuation and expansion of slavery."
-    ],
-    "quote": "“I have never known a man who was sensual in his youth, who was high-minded when old.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Charles_Sumner",
-    "urlGoogle": "https://artsandculture.google.com/entity/charles-sumner/m01p27h"
-  },
-  "place": {
-    "id": "houston",
-    "name": "Houston",
-    "mainImg": "img/places/houston.jpg",
-    "summary": [
-      "Houston is the most populous city in the U.S. state of Texas, fourth most populous city in the United States, most populous city in the Southern United States, as well as the sixth most populous in North America, with an estimated 2019 population of 2,320,268. Located in Southeast Texas near Galveston Bay and the Gulf of Mexico, it is the seat of Harris County and the principal city of the Greater Houston metropolitan area, which is the fifth most populous metropolitan statistical area in the United States and the second most populous in Texas after the Dallas-Fort Worth metroplex, with a population of 6,997,384 in 2018.",
-      "Comprising a total area of 637.4 square miles, Houston is the eighth most expansive city in the United States. It is the largest city in the United States by total area, whose government is not consolidated with that of a county, parish or borough. Though primarily in Harris County, small portions of the city extend into Fort Bend and Montgomery counties, bordering other principal communities of Greater Houston such as Sugar Land and The Woodlands."
+      "Jean-Jacques Dessalines was a leader of the Haitian Revolution and the first ruler of an independent Haiti under the 1805 constitution. Under Dessalines, Haiti became the first country in the Americas to permanently abolish slavery. Initially regarded as governor-general, Dessalines was later named Emperor Jacques I of Haiti by the Generals of the Haitian Revolution Army. He is regarded as one of the founding fathers of Haiti.",
+      "Dessalines served as an officer in the French army, when the colony was fending off Spanish and British incursions. Later he rose to become a commander in the revolt against France. As Toussaint Louverture's principal lieutenant, he led many successful engagements, including the Battle of Crête-à-Pierrot.",
+      "After the betrayal and capture of Toussaint Louverture in 1802, Dessalines became the leader of the revolution. He defeated a French army at the Battle of Vertières in 1803. Declaring Haiti an independent nation in 1804, Dessalines was chosen by a council of generals to assume the office of governor-general."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Houston",
-    "urlGoogle": "https://artsandculture.google.com/entity/houston/m03l2n"
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-jacques-dessalines/m01bjdv"
+  },
+  "place": {
+    "id": "kanpur",
+    "name": "Kanpur",
+    "mainImg": "img/places/kanpur.jpg",
+    "summary": [
+      "Kanpur, is a metropolis in the state of Uttar Pradesh in India. The greater metropolis is divided into two districts: the urban district of Kanpur Nagar and the rural district of Kanpur Dehat. With the city being situated in the urban district, along with some other townships; while the rural settlements making up the rural district. The word Kanpur itself always refers and applies to the city in the urban district, while Kanpur Nagar, Kanpur, and Kanpur City can be and are used interchangably. Though, historical usage may extend to the city's outer limits which now form the rural district. It is because of its history that both the separate districts are considered part of the single metropolis.",
+      "The city is famous for its leather and textile industries. It is the 12th most populous city and the 11th most populous urban agglomeration in India. It is also the second largest city proper and the largest urban agglomeration in Uttar Pradesh. Kanpur was an important British garrison town until 1947, when India gained independence. Kanpur Nagar serves as the headquarters of the Kanpur Division, Kanpur Range and Kanpur Zone."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kanpur",
+    "urlGoogle": "https://artsandculture.google.com/entity/kanpur/m01_q7h"
   },
   "wiki": {
-    "id": "buddhist-art",
-    "name": "Buddhist art",
-    "summary": "Buddhist art, defined as the figurative arts and decorative arts linked to the Buddhist religion, originated in the Indian subcontinent in the centuries following the life of the historical Gautama Buddha in the 6th to 5th century BCE, before evolving through its contact with other cultures and its diffusion through the rest of Asia and the world. A first, essentially Indian, aniconic phase (avoiding direct representations of the Buddha), was followed from around the 1st century CE by an iconic phase (with direct representations of the Buddha). From that time, Buddhist art diversified and evolved as it adapted to the new countries where the faith was expanding. It developed to the north through Central Asia and into Eastern Asia to form the Northern branch of Buddhist art, and to the east as far as South-East Asia to form the Southern Branch of Buddhist art. In India, the land of its birth, Buddhist art flourished and even influenced the development of Hindu art, until Buddhism almost disappeared around the 10th century with the expansion of Hinduism and Islam.",
-    "url": "https://en.wikipedia.org/wiki/Buddhist_art"
+    "id": "keratoconus",
+    "name": "Keratoconus",
+    "summary": "Keratoconus is a degenerative, non-inflammatory disorder of the eye in which structural changes within the cornea cause it to thin and change to a more conical shape than its normal, even curve. Keratoconus can cause substantial distortion of the vision, with multiple images, streaking and sensitivity to light all often reported by the patient. Though frequently thought of as a rare condition, keratoconus is the most common dystrophy of the cornea, affecting around one person in a thousand, and seems to occur equally in all ethnic groups worldwide. It is typically diagnosed in the patient's adolescent years and attains its most severe state in the twenties and thirties. Keratoconus is a little-understood disease with an uncertain cause, and the course of its progression following diagnosis is unpredictable. The associated deterioration in vision, if in both eyes, can affect the person's ability, for example, to drive a car legally. It does not, however, lead to blindness, and in most cases, corrective lenses are effective enough to allow the patient to continue to drive and likewise function normally.",
+    "url": "https://en.wikipedia.org/wiki/Keratoconus"
   },
   "word": {
-    "id": "satiate",
-    "word": "satiate",
-    "url": "https://www.merriam-webster.com/dictionary/satiate",
-    "partOfSpeech": "verb",
-    "pronunciation": "SAY-shee-ayt",
-    "audioPath": "audio/words/satiate.mp3",
-    "definitions": ["to satisfy (as a need or desire) fully or to excess"],
+    "id": "inalienable",
+    "word": "inalienable",
+    "url": "https://www.merriam-webster.com/dictionary/inalienable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-AY-lee-uh-nuh-bul",
+    "audioPath": "audio/words/inalienable.mp3",
+    "definitions": ["incapable of being alienated, surrendered, or transferred"],
     "examples": [
-      "After eating three pieces of pie and one of cake at the potluck, Jamie's sweet tooth was finally _satiated_.",
-      "\"Consequently, I have to _satiate_ my craving for Louisiana citrus at Hollygrove Market and Farm or the Crescent City Farmers Market in Mid-City where locally grown fruits and vegetables abound. If you haven't treated yourself to a market visit lately, do.\" - From an article by Melinda Shelton in the _Times-Picayune_ (New Orleans), October 31, 2012"
+      "\"Just because I can use my work e-mail for personal correspondence doesn't mean I have the inalienable right to do so,\" Brian explained."
     ],
-    "origin": "\"Satiate,\" \"sate,\" \"surfeit,\" \"cloy,\" \"pall,\" \"glut,\" and \"gorge\" all mean to fill to repletion. \"Satiate\" and \"sate\" sometimes imply only complete satisfaction but more often suggest repletion that has destroyed interest or desire, as in \"Years of globe-trotting had satiated their interest in travel\" and \"Readers were sated with sensationalistic stories.\" \"Surfeit\" implies a nauseating repletion, as in \"They surfeited themselves with junk food,\" while \"cloy\" stresses the disgust or boredom resulting from such surfeiting, as in \"The sentimental pictures cloyed after a while.\" \"Pall\" emphasizes the loss of ability to stimulate interest or appetite: \"A life of leisure eventually began to pall.\" \"Glut\" implies excess in feeding or supplying, as in \"a market glutted with diet books.\" \"Gorge\" suggests glutting to the point of bursting or choking, as in \"They gorged themselves with chocolate.\""
+    "origin": "\"Alien,\" \"alienable,\" \"inalienable\" -- it's easy enough to see the Latin word \"alius,\" meaning \"other,\" at the root of these three words. \"Alien\" joined our language in the 14th century, and one of its earliest meanings was \"belonging to another.\" By the early 1600s that sense of \"alien\" had led to the development of \"alienable,\" an adjective describing something you could give away or transfer ownership of, and \"unalienable,\" its opposite. By about 1645, \"inalienable\" was also in use as a synonym of \"unalienable.\" \"Inalienable\" is the more common variant today, but it was \"unalienable\" that was used in the Declaration of Independence to describe rights like life, liberty, and the pursuit of happiness."
   }
 }

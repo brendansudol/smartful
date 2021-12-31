@@ -1,0 +1,124 @@
+{
+  "artist": {
+    "id": "georges-seurat",
+    "name": "Georges Seurat",
+    "dates": "Dec 2, 1859 - Mar 29, 1891",
+    "mainImg": "img/art/artists/georges-seurat.jpg",
+    "artworkImgs": [
+      {
+        "name": "Le Chahut",
+        "path": "img/art/artworks/georges-seurat-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/le-chahut-georges-seurat/4wGVfymXKqo7Gw"
+      },
+      {
+        "name": "The Lighthouse at Honfleur",
+        "path": "img/art/artworks/georges-seurat-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-lighthouse-at-honfleur-georges-seurat/_gHXA-E01_PmaQ"
+      },
+      {
+        "name": "The Channel at Gravelines, Evening",
+        "path": "img/art/artworks/georges-seurat-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-channel-at-gravelines-evening-georges-pierre-seurat/sQE4P7QBI5YApA"
+      },
+      {
+        "name": "Eiffel Tower",
+        "path": "img/art/artworks/georges-seurat-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/eiffel-tower-georges-seurat/bAEJaGhtM_lv0w"
+      },
+      {
+        "name": "Gray Weather, Grande Jatte",
+        "path": "img/art/artworks/georges-seurat-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/gray-weather-grande-jatte-georges-seurat/hwFSKKR0kae9mA"
+      },
+      {
+        "name": "Study for \"A Sunday on La Grande Jatte\"",
+        "path": "img/art/artworks/georges-seurat-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/study-for-a-sunday-on-la-grande-jatte-georges-seurat/MgFZs28X-gM_hA"
+      }
+    ],
+    "summary": [
+      "Georges-Pierre Seurat was a French post-Impressionist artist. He is best known for devising the painting techniques known as chromoluminarism as well as pointillism. While less famous than his paintings, his conté crayon drawings have also garnered a great deal of critical appreciation. Seurat's artistic personality combined qualities that are usually supposed to be opposed and incompatible: on the one hand, his extreme and delicate sensibility, on the other, a passion for logical abstraction and an almost mathematical precision of mind. His large-scale work A Sunday Afternoon on the Island of La Grande Jatte altered the direction of modern art by initiating Neo-impressionism, and is one of the icons of late 19th-century painting."
+    ],
+    "quote": "“Some say they see poetry in my paintings; I see only science.”",
+    "movements": ["Modern art", "Neo-Impressionism", "Post-Impressionism"],
+    "mediums": ["Oil paint", "Drawing", "Crayon", "Conté", "Wood", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "urlGoogle": "https://artsandculture.google.com/entity/georges-seurat/m0gshm"
+  },
+  "event": {
+    "id": "gallipoli-campaign",
+    "name": "Gallipoli campaign",
+    "dates": "Feb 19, 1915 - Jan 9, 1916",
+    "mainImg": "img/events/gallipoli-campaign.jpg",
+    "summary": [
+      "The Gallipoli campaign, also known as the Dardanelles campaign, the Battle of Gallipoli or the Battle of Çanakkale, was a campaign of the First World War that took place on the Gallipoli peninsula, from 17 February 1915 to 9 January 1916. The Entente powers, Britain, France and Russia, sought to weaken the Ottoman Empire, one of the Central Powers, by taking control of the straits that provided a supply route to Russia. The Allies' attack on Ottoman forts at the entrance of the Dardanelles in February 1915 failed and was followed by an amphibious landing on the Gallipoli peninsula in April 1915 to capture the Ottoman capital of Constantinople.",
+      "In January 1916, after eight months' fighting, with approximately 250,000 casualties on each side, the land campaign was abandoned and the invasion force withdrawn. It was a costly defeat for the Entente powers and for the sponsors, especially First Lord of the Admiralty, Winston Churchill. The campaign was considered a great Ottoman victory. In Turkey, it is regarded as a defining moment in the history of the state, a final surge in the defence of the motherland as the Ottoman Empire retreated."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Gallipoli_campaign",
+    "urlGoogle": "https://artsandculture.google.com/entity/gallipoli-campaign/m01fc7p"
+  },
+  "funFacts": [
+    {
+      "id": "32",
+      "fact": "There are about 1 million ants for every person in the world.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "694",
+      "fact": "Spiny lobsters migrate in groups of 50 or more, forming a conga line on the ocean floor.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553686",
+      "fact": "Bangladesh has six seasons: Grishmo (summer), Borsha (rainy), Shorot (fall), Hemanta (cool), Sheet (winter), and Boshanto (spring)."
+    }
+  ],
+  "person": {
+    "id": "helen-keller",
+    "name": "Helen Keller",
+    "dates": "Jun 27, 1880 - Jun 1, 1968",
+    "mainImg": "img/people/helen-keller.jpg",
+    "summary": [
+      "Helen Adams Keller was an American author, political activist, and lecturer. She was the first deaf-blind person to earn a Bachelor of Arts degree. The story of Keller and her teacher, Anne Sullivan, was made famous by Keller's autobiography, The Story of My Life, and its adaptations for film and stage, The Miracle Worker. Her birthplace in West Tuscumbia, Alabama, is now a museum and sponsors an annual \"Helen Keller Day\". Her June 27 birthday is commemorated as Helen Keller Day in Pennsylvania and, in the centenary year of her birth, was recognized by a presidential proclamation from US President Jimmy Carter.",
+      "A prolific author, Keller was well-traveled and outspoken in her convictions. A member of the Socialist Party of America and the Industrial Workers of the World, she campaigned for women's suffrage, labor rights, socialism, antimilitarism, and other similar causes. She was inducted into the Alabama Women's Hall of Fame in 1971 and was one of twelve inaugural inductees to the Alabama Writers Hall of Fame on June 8, 2015."
+    ],
+    "quote": "“I long to accomplish a great and noble task, but it is my chief duty to accomplish small tasks as if they were great and noble.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Helen_Keller",
+    "urlGoogle": "https://artsandculture.google.com/entity/helen-keller/m03ppx"
+  },
+  "place": {
+    "id": "london",
+    "name": "London",
+    "mainImg": "img/places/london.jpg",
+    "summary": [
+      "London, is a city in southwestern Ontario, Canada, along the Quebec City–Windsor Corridor. The city had a population of 383,822 according to the 2016 Canadian census. London is at the confluence of the Thames River, approximately 200 km from both Toronto and Detroit; and about 230 km from Buffalo, New York. The city of London is a separated municipality, politically separate from Middlesex County, though it remains the county seat.",
+      "London and the Thames were named in 1793 by John Graves Simcoe, who proposed the site for the capital city of Upper Canada. The first European settlement was between 1801 and 1804 by Peter Hagerman. The village was founded in 1826 and incorporated in 1855. Since then, London has grown to be the largest southwestern Ontario municipality and Canada's 11th largest metropolitan area, having annexed many of the smaller communities that surrounded it.",
+      "London is a regional centre of healthcare and education, being home to the University of Western Ontario, Fanshawe College, and several hospitals."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/London,_Ontario",
+    "urlGoogle": "https://artsandculture.google.com/entity/london/m0b1t1"
+  },
+  "wiki": {
+    "id": "north-road-football-ground",
+    "name": "North Road (football ground)",
+    "summary": "North Road was a football stadium and cricket field in Newton Heath, Manchester, England. It was the first home of Manchester United Football Club, then known as Newton Heath Lancashire and Yorkshire Railway Football Club. The club was formed in 1878 at the request of the railway company's employees at its carriage and wagon works, and the ground (which was owned by Manchester Cathedral) adjoined the works. Initially the ground consisted only of the pitch, around which an estimated 12,000 spectators could congregate, and it was often clouded by steam from passing trains. Players had to get changed at a nearby public house. The addition of stands in 1891 increased the capacity to about 15,000. The football club signed its first professional players in 1886 and began to break from its sponsoring railway company, but without the company's financial support it was unable to afford the rent on the ground and was evicted. In 1893, the club moved to a new ground at Bank Street, Clayton. The North Road site is now part of the North Manchester Business Park, having previously been used as playing fields and as the site of a school.",
+    "url": "https://en.wikipedia.org/wiki/North_Road_(football_ground)"
+  },
+  "word": {
+    "id": "congeries",
+    "word": "congeries",
+    "url": "https://www.merriam-webster.com/dictionary/congeries",
+    "partOfSpeech": "noun",
+    "pronunciation": "KAHN-juh-reez",
+    "audioPath": "audio/words/congeries.mp3",
+    "definitions": ["aggregation, collection"],
+    "examples": [
+      "As we walked past the food stalls our nostrils were assailed by a congeries of exotic, unfamiliar smells."
+    ],
+    "origin": "What do \"epitome,\" \"circus,\" \"tribunal,\" and \"congeries\" have in common? All are part of a relatively small collection of English nouns that made the transition from Latin to English unaltered in both spelling and meaning. \"Congeries\" joined this group in our language in the early 1600s. Latin \"congeries\" comes from the Latin verb \"congerere,\" which means \"to carry or bring together\" and which is also the source of our word \"congest.\" In English, \"congeries\" stands out because it is a singular word with a plural appearance -- and its plural is also spelled \"congeries.\""
+  }
+}

@@ -1,137 +1,134 @@
 {
   "artist": {
-    "id": "hans-holbein-the-younger",
-    "name": "Hans Holbein the Younger",
-    "dates": "1497 - 1543",
-    "mainImg": "img/art/artists/hans-holbein-the-younger.jpg",
+    "id": "giuseppe-arcimboldo",
+    "name": "Giuseppe Arcimboldo",
+    "dates": "Apr 5, 1526 - Jul 11, 1593",
+    "mainImg": "img/art/artists/giuseppe-arcimboldo.jpg",
     "artworkImgs": [
       {
-        "name": "Jane Seymour, Queen of England",
-        "path": "img/art/artworks/hans-holbein-the-younger-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/jane-seymour-queen-of-england-hans-holbein-the-younger/egE1bExAbnBDgg"
+        "name": "L’Ortolano - Giuseppe Arcimboldo",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/l’ortolano-giuseppe-arcimboldo-giuseppe-arcimboldo/YgEItjbKaPkX9Q"
       },
       {
-        "name": "The Ambassadors",
-        "path": "img/art/artworks/hans-holbein-the-younger-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-ambassadors-hans-holbein-the-younger/bQEWbLB26MG1LA"
+        "name": "Rudolf II of Habsburg as Vertumnus",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/rudolf-ii-of-habsburg-as-vertumnus-giuseppe-arcimboldo/TAGn3nhWHkbIBA"
       },
       {
-        "name": "Sir Thomas More",
-        "path": "img/art/artworks/hans-holbein-the-younger-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/sir-thomas-more-hans-holbein/WQEnBYMfBeoSdg"
+        "name": "The Librarian",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-librarian-giuseppe-arcimboldo/GgEi3YoGxi2baw"
       },
       {
-        "name": "Portrait of Henry VIII of England",
-        "path": "img/art/artworks/hans-holbein-the-younger-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-henry-viii-of-england-hans-holbein-the-younger/bwFsEOEPkei3Lw"
+        "name": "La Primavera",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/la-primavera-giuseppe-arcimboldo/iwHATomxJenU4w"
       },
       {
-        "name": "A Lady with a Squirrel and a Starling (Anne Lovell?)",
-        "path": "img/art/artworks/hans-holbein-the-younger-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/a-lady-with-a-squirrel-and-a-starling-anne-lovell-hans-holbein-the-younger/6wHKJZAnEKEGiA"
+        "name": "Four Seasons in One Head",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/four-seasons-in-one-head/WwHACWGI-pgLUQ"
       },
       {
-        "name": "Der Ritter",
-        "path": "img/art/artworks/hans-holbein-the-younger-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/der-ritter-hans-holbein-the-younger/4wF0CV8MAdEjBw"
+        "name": "Self Portrait",
+        "path": "img/art/artworks/giuseppe-arcimboldo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-giuseppe-arcimboldo/3gHpTvmCqrcIlg"
       }
     ],
     "summary": [
-      "Hans Holbein the Younger was a German painter and printmaker who worked in a Northern Renaissance style, and is considered one of the greatest portraitists of the 16th century. He also produced religious art, satire, and Reformation propaganda, and he made a significant contribution to the history of book design. He is called \"the Younger\" to distinguish him from his father Hans Holbein the Elder, an accomplished painter of the Late Gothic school.",
-      "Holbein was born in Augsburg, but he worked mainly in Basel as a young artist. At first, he painted murals and religious works, designed stained glass windows, and printed books. He also painted an occasional portrait, making his international mark with portraits of humanist Desiderius Erasmus of Rotterdam. When the Reformation reached Basel, Holbein worked for reformist clients while continuing to serve traditional religious patrons. His Late Gothic style was enriched by artistic trends in Italy, France, and the Netherlands, as well as by Renaissance humanism. The result was a combined aesthetic uniquely his own.",
-      "Holbein travelled to England in 1526 in search of work, with a recommendation from Erasmus."
+      "Giuseppe Arcimboldo was an Italian painter best known for creating imaginative portrait heads made entirely of objects such as fruits, vegetables, flowers, fish and books.",
+      "These works form a distinct category from his other productions. He was a conventional court painter of portraits for three Holy Roman emperors in Vienna and Prague, also producing religious subjects and, among other things, a series of coloured drawings of exotic animals in the imperial menagerie. He specialized in grotesque symbolical compositions of fruits, animals, landscapes, or various inanimate objects arranged into human forms. The still-life portraits were clearly partly intended as whimsical curiosities to amuse the court, but critics have speculated as to how seriously they engaged with Renaissance Neo-Platonism or other intellectual currents of the day."
     ],
     "quote": null,
-    "movements": [
-      "Northern Renaissance",
-      "Renaissance",
-      "German Renaissance",
-      "Gothic art",
-      "French Renaissance"
-    ],
-    "mediums": ["Oil paint", "Wood", "Ink", "Gold", "Drawing", "Metal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
-    "urlGoogle": "https://artsandculture.google.com/entity/hans-holbein-the-younger/m0cy9m"
+    "movements": ["Baroque", "Renaissance", "Rococo"],
+    "mediums": ["Oil paint", "Drawing", "Ink", "Pigment", "Pen", "Etching"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo",
+    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-arcimboldo/m030b1q"
   },
   "event": {
-    "id": "battle-of-cassel",
-    "name": "Battle of Cassel",
-    "dates": null,
-    "mainImg": "img/events/battle-of-cassel.jpg",
+    "id": "four-days-battle",
+    "name": "Four Days' Battle",
+    "dates": "Jun 1, 1666 - Jun 4, 1666",
+    "mainImg": "img/events/four-days-battle.jpg",
     "summary": [
-      "The Battle of Cassel, sometimes called the Battle of Peene, took place on 11 April, 1677, during the Franco-Dutch War, near Cassel, in modern France. A French army under the overall command of the duc de Luxembourg defeated a combined Dutch-Spanish force led by William of Orange.",
-      "Although Cassel ensured the capture of key strongpoints in modern French Flanders, the French failed to force the Dutch out of the war, which continued until the August 1678 Treaties of Nijmegen."
+      "The Four Days' Battle, also known as the Four Days' Fight in some English sources and as Vierdaagse Zeeslag in Dutch was a naval battle of the Second Anglo-Dutch War. Fought from 1 June to 4 June 1666 in the Julian or Old Style calendar then used in England, in the southern North Sea, it began off the Flemish coast and ended near the English coast. It remains one of the longest naval engagements in history. The Dutch accounts refer to its dates as 11 June to 14 June 1666 using the New Style calendar.",
+      "The Dutch inflicted significant damage on the English fleet which lost ten ships in total, with over 1,000 men killed including two vice-admirals, Sir Christopher Myngs and Sir William Berkeley, while almost 2,000 English were taken prisoner including a third vice-admiral George Ayscue. Dutch losses were four ships destroyed by fire and over 1,550 men killed, including Lieutenant Admiral Cornelis Evertsen, Vice Admiral Abraham van der Hulst and Rear Admiral Frederik Stachouwer."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Cassel_%281677%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-cassel/m07t470"
+    "urlWiki": "https://en.wikipedia.org/wiki/Four_Days%27_Battle",
+    "urlGoogle": "https://artsandculture.google.com/entity/four-days-battle/m011l3p"
   },
   "funFacts": [
     {
-      "id": "698",
-      "fact": "Stepping out for a walk every day can actually help you sleep better at night.",
-      "category": ["Anatomy"]
+      "id": "968",
+      "fact": "-40 degrees Fahrenheit is the same temperatures as -40 degrees Celsius.",
+      "category": ["Science"]
     },
-    { "id": "12", "fact": "Emus and kangaroos cannot walk backward.", "category": ["Animals"] }
+    {
+      "id": "958",
+      "fact": "The state of Alabama once financed the construction of a bridge by holding a rooster auction.",
+      "category": ["Geography", "History"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "504589",
-      "fact": "“Q” is the only letter of the alphabet that does not appear in any U.S. territory or state name."
+      "id": "553683",
+      "fact": "If your dog's feet smell like corn chips, you're not alone. The term \"Frito Feet\" was coined to describe the scent."
     }
   ],
   "idiom": {
-    "id": "left-handed-compliment",
-    "term": "left-handed compliment",
-    "definition": "Also, **backhanded compliment.** An insult in the guise of an expression of praise. For example, *She said she liked my hair, but it turned out to be a left-handed compliment when she asked how long I'd been dyeing it.* This expression uses *left-handed* in the sense of \"questionable or doubtful,\" a usage dating from about 1600."
+    "id": "leave-in-the-lurch",
+    "term": "leave in the lurch",
+    "definition": "Abandon or desert someone in difficult straits. For example, *Jane was angry enough to quit without giving notice, leaving her boss in the lurch.* This expression alludes to a 16th-century French dice game, *lourche,* where to incur a *lurch* meant to be far behind the other players. It later was used in cribbage and other games, as well as being used in its present figurative sense by about 1600."
   },
   "person": {
-    "id": "lady-gaga",
-    "name": "Lady Gaga",
-    "dates": "Born Mar 28, 1986",
-    "mainImg": "img/people/lady-gaga.jpg",
+    "id": "james-a-garfield",
+    "name": "James A. Garfield",
+    "dates": "Nov 19, 1831 - Sep 19, 1881",
+    "mainImg": "img/people/james-a-garfield.jpg",
     "summary": [
-      "Stefani Joanne Angelina Germanotta, known professionally as Lady Gaga, is an American singer, songwriter, record producer, actress, and businesswoman. She is known for reinventing herself throughout her career and for her versatility in numerous areas of the entertainment industry. Gaga began performing as a teenager, singing at open mic nights and acting in school plays. She studied at Collaborative Arts Project 21, through New York University's Tisch School of the Arts, before dropping out to pursue a music career. When Def Jam Recordings canceled her contract, she worked as a songwriter for Sony/ATV Music Publishing, where Akon helped her sign a joint deal with Interscope Records and his own label KonLive Distribution in 2007. She rose to prominence the following year with her debut album The Fame and its chart-topping singles \"Just Dance\" and \"Poker Face\". The album was later reissued to include the EP The Fame Monster, which yielded the singles \"Bad Romance\", \"Telephone\", and \"Alejandro\".",
-      "Gaga's second full-length album, Born This Way, explored electronic rock and techno-pop and debuted atop the US Billboard 200 with more than one million copies sold."
+      "James Abram Garfield was the 20th president of the United States, serving from March 4, 1881, until his death by assassination six and a half months later. He is the only sitting member of the United States House of Representatives to be elected to the presidency.",
+      "Garfield entered politics as a Republican in 1857. He served as a member of the Ohio State Senate from 1859 to 1861. Garfield opposed Confederate secession, served as a major general in the Union Army during the American Civil War, and fought in the battles of Middle Creek, Shiloh, and Chickamauga. He was first elected to Congress in 1862 to represent Ohio's 19th district. Throughout Garfield's congressional service after the war, he firmly supported the gold standard and gained a reputation as a skilled orator. He initially agreed with Radical Republican views on Reconstruction, but later favored a moderate approach to civil rights enforcement for freedmen.",
+      "At the 1880 Republican National Convention, delegates chose Garfield, who had not sought the White House, as a compromise presidential nominee on the 36th ballot."
     ],
-    "quote": "“I had this dream, and I really wanted to be a star. And I was almost a monster in the way that I was really fearless with my ambitions.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Lady_Gaga",
-    "urlGoogle": "https://artsandculture.google.com/entity/lady-gaga/m0478__m"
+    "quote": "“Right reason is stronger than force.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/James_A._Garfield",
+    "urlGoogle": "https://artsandculture.google.com/entity/james-a-garfield/m0b22w"
   },
   "place": {
-    "id": "guyana",
-    "name": "Guyana",
-    "mainImg": "img/places/guyana.jpg",
+    "id": "dunedin",
+    "name": "Dunedin",
+    "mainImg": "img/places/dunedin.jpg",
     "summary": [
-      "Guyana, officially the Co-operative Republic of Guyana, is a country on the northern mainland of South America. It is, however, often considered part of the Caribbean region because of its strong cultural, historical, and political ties with other Anglo-Caribbean countries and the Caribbean Community. Guyana is bordered by the Atlantic Ocean to the north, Brazil to the south and southwest, Venezuela to the west, and Suriname to the east. With 215,000 square kilometres, Guyana is the third-smallest sovereign state on mainland South America after Uruguay and Suriname.",
-      "The region known as \"the Guianas\" consists of the large shield landmass north of the Amazon River and east of the Orinoco River known as the \"land of many waters\". Originally inhabited by many indigenous groups, Guyana was settled by the Dutch before coming under British control in the late 18th century. It was governed as British Guiana, with a mostly plantation-style economy until the 1950s. It gained independence in 1966, and officially became a republic within the Commonwealth of Nations in 1970."
+      "Dunedin is the second-largest city in the South Island of New Zealand, and the principal city of the Otago region. Its name comes from Dùn Èideann, the Scottish Gaelic name for Edinburgh, the capital of Scotland.",
+      "The urban area of Dunedin lies on the central-eastern coast of Otago, surrounding the head of Otago Harbour, and the harbour and hills around Dunedin are the remnants of an extinct volcano. The city suburbs extend out into the surrounding valleys and hills, onto the isthmus of the Otago Peninsula, and along the shores of the Otago Harbour and the Pacific Ocean. Dunedin was the largest New Zealand city by territorial land area until superseded by Auckland with the formation of the Auckland Council in November 2010.",
+      "Archaeological evidence points to lengthy occupation of the area by Māori prior to the arrival of Europeans. The province and region of Otago takes its name from the Ngāi Tahu village of Otakou at the mouth of the harbour, which became a whaling station in the 1830s.",
+      "In 1848 a Scottish settlement was established by the Lay Association of the Free Church of Scotland. Between 1855 and 1900 many thousands of Scots emigrated to the incorporated city."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Guyana",
-    "urlGoogle": "https://artsandculture.google.com/entity/guyana/m034m8"
+    "urlWiki": "https://en.wikipedia.org/wiki/Dunedin",
+    "urlGoogle": "https://artsandculture.google.com/entity/dunedin/m02y9wq"
   },
-  "quote": { "id": "50", "quote": "A goal is a dream with a deadline.", "author": "Napoleon Hill" },
   "wiki": {
-    "id": "tenebrae-film",
-    "name": "Tenebrae (film)",
-    "summary": "Tenebrae is a 1982 Italian horror thriller film written and directed by Dario Argento. The film stars Anthony Franciosa, John Saxon, and Daria Nicolodi. After having experimented with two exercises in pure supernatural horror, Suspiria (1977) and Inferno (1980), Tenebrae represented Argento's return to the giallo form, a sub-genre he had helped popularize in the 1970s. The story concerns an American writer promoting his latest murder-mystery novel in Rome, only to get embroiled in the search for a serial-killer who has apparently been inspired to kill by the novel. The film was released in Italy and throughout most of Europe without experiencing any reported censorship problems, but was classified, prosecuted, and banned as a Video Nasty in the United Kingdom. Its theatrical distribution in the United States was delayed until 1984, when it was released in a heavily censored version under the title Unsane. In its cut form, Tenebrae received a mostly negative critical reception, but in recent years the original, fully restored version has become widely available for reappraisal. The film has been described as \"Argento’s last real masterpiece\".",
-    "url": "https://en.wikipedia.org/wiki/Tenebrae_(film)"
+    "id": "we-can-do-it",
+    "name": "We Can Do It!",
+    "summary": "\"We Can Do It!\" is an American wartime propaganda poster produced by J. Howard Miller in 1943 for Westinghouse Electric to boost worker morale. The poster is generally thought to be based on a black-and-white wire service photograph taken of a Michigan factory worker named Geraldine Hoff. During World War II the image was strictly internal to Westinghouse, displayed only during February 1943, and was not for recruitment but to exhort already-hired women to work harder. It was rediscovered in the early 1980s and widely reproduced in many forms, often called \"We Can Do It!\" but also called \"Rosie the Riveter\" after the iconic figure of a strong female war production worker. The \"We Can Do It!\" image was used to promote feminism and other political issues beginning in the 1980s. The image made the cover of the Smithsonian magazine in 1994 and was fashioned into a US first-class mail stamp in 1999. It was incorporated in 2008 into campaign materials for several US politicians, and was reworked by an artist in 2010 to celebrate the first woman becoming prime minister of Australia. The poster is one of the ten most-requested images at the National Archives and Records Administration.",
+    "url": "https://en.wikipedia.org/wiki/We_Can_Do_It!"
   },
   "word": {
-    "id": "vilipend",
-    "word": "vilipend",
-    "url": "https://www.merriam-webster.com/dictionary/vilipend",
-    "partOfSpeech": "verb",
-    "pronunciation": "VIL-uh-pend",
-    "audioPath": "audio/words/vilipend.mp3",
+    "id": "etiquette",
+    "word": "etiquette",
+    "url": "https://www.merriam-webster.com/dictionary/etiquette",
+    "partOfSpeech": "noun",
+    "pronunciation": "ET-ih-kut",
+    "audioPath": "audio/words/etiquette.mp3",
     "definitions": [
-      "to hold or treat as of little worth or account",
-      "to express a low opinion of : disparage"
+      "the conduct or procedure required by good breeding or prescribed by authority to be observed in social or official life"
     ],
     "examples": [
-      "As a women's movement pioneer, Susan B. Anthony fought against the dictums of those who would _vilipend_ women by treating them as second-class citizens.",
-      "\"But many accepted canine breeds began in lowly circumstances. No matter how we may _vilipend_ their names, denying their cuteness is difficult.\" - From Bill Casselman's 2010 book _Where a Dobdob Meets a Dikdik_"
+      "According to Miss Manners, it is a myth that newlyweds have up to a year to write thank-you notes for wedding gifts; rather, etiquette dictates that the notes should be sent as soon as possible."
     ],
-    "origin": "\"Vilipend\" first appeared in English in the 15th century and comes to us through French from the Latin roots \"vilis,\" meaning \"cheap\" or \"vile,\" plus \"pendere,\" meaning \"to weigh\" or \"to estimate.\" These roots work in tandem to form a meaning of \"to deem to be of little worth.\" Both of those roots have weighed in heavily as a source of common English words. Other \"vilis\" offspring include \"vile\" and \"vilify,\" while \"pendere\" has spawned such terms as \"append,\" \"expend,\" and \"dispense.\""
+    "origin": "One definition of the French word \"étiquette\" is \"ticket\" or \"label attached to something for identification.\" In 16th-century Spain, the French word was borrowed (and altered to \"etiqueta\") to refer to the written protocols describing orders of precedence and behavior demanded of those who appeared in court. Eventually, \"etiqueta\" came to be applied to the court ceremonies themselves as well as the documents which outlined the requirements for them. Interestingly, this then led to French speakers of the time attributing the second sense of \"proper behavior\" to their \"étiquette,\" and in the middle of the 18th century English speakers finally adopted both the word and the second meaning from the French."
   }
 }

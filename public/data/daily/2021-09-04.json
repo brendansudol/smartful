@@ -1,132 +1,135 @@
 {
   "artist": {
-    "id": "gustav-klimt",
-    "name": "Gustav Klimt",
-    "dates": "Jul 14, 1862 - Feb 6, 1918",
-    "mainImg": "img/art/artists/gustav-klimt.jpg",
+    "id": "barbara-hepworth",
+    "name": "Barbara Hepworth",
+    "dates": "Jan 10, 1903 - May 20, 1975",
+    "mainImg": "img/art/artists/barbara-hepworth.jpg",
     "artworkImgs": [
       {
-        "name": "Nine Cartoons for the Execution of a Frieze for the Dining Room of Stoclet House in Brussels: Part 8, Fulfillment (Lovers)",
-        "path": "img/art/artworks/gustav-klimt-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/nine-cartoons-for-the-execution-of-a-frieze-for-the-dining-room-of-stoclet-house-in-brussels-part-8-fulfillment-lovers-gustav-klimt/sQFM1ks6C1Lujg"
+        "name": "Winged Figure Prototype",
+        "path": "img/art/artworks/barbara-hepworth-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/winged-figure-prototype-barbara-hepworth/IQFT46myrGYMHQ"
       },
       {
-        "name": "Le tre età",
-        "path": "img/art/artworks/gustav-klimt-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/le-tre-età-gustav-klimt/rAEe45CoVy3F0w"
+        "name": "Pierced Hemisphere",
+        "path": "img/art/artworks/barbara-hepworth-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/pierced-hemisphere-barbara-hepworth/9AGD1F2f5TA9Tw"
       },
       {
-        "name": "Death and Life",
-        "path": "img/art/artworks/gustav-klimt-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/death-and-life-gustav-klimt/rAGqexSs58_H0A"
+        "name": "Three Forms",
+        "path": "img/art/artworks/barbara-hepworth-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/three-forms-dame-barbara-hepworth/rgH-FpUnuLM6rw"
       },
       {
-        "name": "Hope, II",
-        "path": "img/art/artworks/gustav-klimt-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/hope-ii-gustav-klimt/igEr3RtRyxrpnw"
+        "name": "Rhythmic Form",
+        "path": "img/art/artworks/barbara-hepworth-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/rhythmic-form-dame-barbara-hepworth/TAGmfKasHE8g8g"
       },
       {
-        "name": "Friends (Water serpants)",
-        "path": "img/art/artworks/gustav-klimt-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/friends-water-serpants-gustav-klimt/DQG-eA3V8MvwUQ"
+        "name": "Oval Form (Trezion)",
+        "path": "img/art/artworks/barbara-hepworth-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/oval-form-trezion-barbara-hepworth/kwEii55X-vw7BA"
       },
       {
-        "name": "Judith II Salomè",
-        "path": "img/art/artworks/gustav-klimt-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/judith-ii-salomè-gustav-klimt/EAE-LxVLFSObBg"
+        "name": "Painting of Robin Hood's Bay",
+        "path": "img/art/artworks/barbara-hepworth-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/painting-of-robin-hood-s-bay-barbara-hepworth/cwEHPxvdaZoZbg"
       }
     ],
     "summary": [
-      "Gustav Klimt was an Austrian symbolist painter and one of the most prominent members of the Vienna Secession movement. Klimt is noted for his paintings, murals, sketches, and other objet d'art. Klimt's primary subject was the female body, and his works are marked by a frank eroticism. In addition to his figurative works, which include allegories and portraits, he painted landscapes. Among the artists of the Vienna Secession, Klimt was the most influenced by Japanese art and its methods.",
-      "Early in his artistic career, he was a successful painter of architectural decorations in a conventional manner. As he developed a more personal style, his work was the subject of controversy that culminated when the paintings he completed around 1900 for the ceiling of the Great Hall of the University of Vienna were criticized as pornographic. He subsequently accepted no more public commissions, but achieved a new success with the paintings of his \"golden phase\", many of which include gold leaf. Klimt's work was an important influence on his younger contemporary Egon Schiele."
+      "Dame Jocelyn Barbara Hepworth DBE was an English artist and sculptor. Her work exemplifies Modernism and in particular modern sculpture. She was one of the few female artists of her generation to achieve international prominence. Along with artists such as Ben Nicholson and Naum Gabo, Hepworth was a leading figure in the colony of artists who resided in St Ives during the Second World War."
     ],
-    "quote": "“Sometimes I miss out the morning's painting session and instead study my Japanese books in the open.”",
-    "movements": ["Modern art", "Symbolism", "Art Nouveau"],
-    "mediums": ["Oil paint", "Drawing", "Pencil", "Gold", "Plaster", "Stucco"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Gustav_Klimt",
-    "urlGoogle": "https://artsandculture.google.com/entity/gustav-klimt/m03869"
+    "quote": "“Body experience... is the centre of creation.”",
+    "movements": ["Modern art", "Modernism", "Abstract art"],
+    "mediums": ["Sculpture", "Metal", "Bronze", "Rock", "Pencil", "Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Barbara_Hepworth",
+    "urlGoogle": "https://artsandculture.google.com/entity/barbara-hepworth/m014029"
   },
   "event": {
-    "id": "afghanistan-conflict",
-    "name": "Afghanistan conflict",
-    "dates": "Apr 27, 1978",
-    "mainImg": "img/events/afghanistan-conflict.jpg",
+    "id": "2007-fifa-womens-world-cup",
+    "name": "2007 FIFA Women's World Cup",
+    "dates": "Sep 10, 2007 - Sep 30, 2007",
+    "mainImg": "img/events/2007-fifa-womens-world-cup.jpg",
     "summary": [
-      "The Afghanistan conflict is a series of wars that has been fought in Afghanistan since 1978. Starting with the Saur Revolution military coup, an almost continuous series of armed conflicts has dominated and afflicted Afghanistan. The wars include:",
-      "The Soviet–Afghan War began in 1979 and ended in 1989. The Soviet Army \"invaded\" or \"intervened\" in the country to secure the ruling People's Democratic Party of Afghanistan following large waves of rebellion against the government. Soviet troops along with the allied Afghan Army fought against rebel factions mostly known collectively as the \"Afghan mujahideen\", whose main backers were the Soviet Union's Cold War enemies the United States and Pakistan. The Soviet Union was forced to withdraw its troops in 1989.",
-      "The Afghan Civil War was the continuing war between the government and rebels, but without the involvement of Soviet troops. The Soviet Union nevertheless continued to financially support the Afghan government in its fight, and likewise rebel factions continued receiving support from the United States and Pakistan. The Soviet-backed Afghan government survived until the fall of Kabul in 1992."
+      "The 2007 FIFA Women's World Cup, the fifth edition of the FIFA Women's World Cup, was an international association football competition for women held in China from 10 to 30 September 2007. Originally, China was to host the 2003 edition, but the outbreak of SARS in that country forced that event to be moved to the United States. FIFA immediately granted the 2007 event to China, which meant that no new host nation was chosen competitively until the voting was held for the 2011 Women's World Cup.",
+      "The tournament opened with a record-breaking match in Shanghai, as Germany beat Argentina 11–0 to register the biggest win and the highest scoring match in Women's World Cup history, records which stood until 2019. The tournament ended with Germany defeating Brazil 2–0 in the final, having never surrendered a goal in the entire tournament. The Germans became the first national team in FIFA Women's World Cup history to retain their title.",
+      "The golden goal rule for extra time in knockout matches was eliminated by FIFA, although no matches went to extra time nor required a penalty shootout."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Afghanistan_conflict_%281978%E2%80%93present%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/afghanistan-conflict/m0c_ym6"
+    "urlWiki": "https://en.wikipedia.org/wiki/2007_FIFA_Women%27s_World_Cup",
+    "urlGoogle": "https://artsandculture.google.com/entity/2007-fifa-women-s-world-cup/m032l39"
   },
   "funFacts": [
     {
-      "id": "195",
-      "fact": "Eleven of the 50 U.S. states are named after an actual person.",
-      "category": ["Geography"]
+      "id": "100",
+      "fact": "In a year, the average person walks four miles making his or her bed.",
+      "category": ["Habits"]
     },
     {
-      "id": "964",
-      "fact": "It is illegal in the United Kingdom to handle salmon in suspicious circumstances.",
-      "category": ["Geography", "Laws"]
+      "id": "1015",
+      "fact": "One is the only number with letters in reverse alphabetical order.",
+      "category": ["Onlies"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553537",
-      "fact": "When pirate Richard Worley, captain of the New York’s Revenge, captured his second ship, he named it the New York Revenge’s Revenge."
+      "id": "553500",
+      "fact": "According to a 2017 survey, \"whatever\" tops the list of words Americans find most annoying for the ninth year in a row."
     }
   ],
   "idiom": {
-    "id": "tower-of-strength",
-    "term": "tower of strength",
-    "definition": "A dependable person on whom one can lean in time of trouble, as in *After Dad died Grandma was a tower of strength for the whole family.* This expression, first recorded in 1549, originally was used most often to refer to God and heaven, but Shakespeare had it differently in *Richard III* (5:3): \"Besides, the King's name is a tower of strength.\""
+    "id": "open-and-aboveboard",
+    "term": "open and aboveboard",
+    "definition": "Also, **honest and aboveboard.** Candid and fair, without deceit or trickery, as in *I'll join you, but only if everything remains open and aboveboard.* Both versions of this expression are redundancies, since they use *open* and *aboveboard* in the sense of \"honest.\" The latter word, dating from the early 1600s, comes from gambling and alludes to the fact that card players who do not keep their hands on the table (board) may be suspected of changing their cards under the table."
   },
   "person": {
-    "id": "louis-antoine-de-saint-just",
-    "name": "Louis Antoine de Saint-Just",
-    "dates": "Aug 25, 1767 - Jul 28, 1794",
-    "mainImg": "img/people/louis-antoine-de-saint-just.jpg",
+    "id": "thomas-brisbane",
+    "name": "Thomas Brisbane",
+    "dates": "Jul 23, 1773 - Jan 27, 1860",
+    "mainImg": "img/people/thomas-brisbane.jpg",
     "summary": [
-      "Louis Antoine Léon de Saint-Just was a Jacobin leader during the French Revolution. He was a close friend of Maximilien Robespierre and served as his most trusted ally during the period of Jacobin rule in the French First Republic. Saint-Just worked as a legislator and a military commissar, but he achieved a lasting reputation as the face of the Reign of Terror. He publicly delivered the condemnatory reports that emanated from Robespierre and the Committee of Public Safety and defended the use of violence against opponents of the government. He supervised the arrests of some of the most famous figures of the Revolution and saw many of them off to the guillotine. For his unyielding severity, later writers dubbed him the \"Angel of Death\".",
-      "From its beginning in 1789, the Revolution enthralled the young Saint-Just, who strove to take a leading role. Early on, he became a commander in his local National Guard unit. Shortly after reaching the minimum legal age of 25 in August 1792, he won election as a deputy to the National Convention in Paris."
-    ],
-    "quote": "“Keep cool and you command everybody.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Louis_Antoine_de_Saint-Just",
-    "urlGoogle": "https://artsandculture.google.com/entity/louis-antoine-de-saint-just/m02lcln"
-  },
-  "place": {
-    "id": "suriname",
-    "name": "Suriname",
-    "mainImg": "img/places/suriname.jpg",
-    "summary": [
-      "Suriname, officially known as the Republic of Suriname, is a country on the northeastern Atlantic coast of South America. It is bordered by the Atlantic Ocean to the north, French Guiana to the east, Guyana to the west and Brazil to the south. At just under 165,000 square kilometers, it is the smallest sovereign state in South America. Suriname has a population of approximately 575,990, most of whom live on the country's north coast, in and around the capital and largest city, Paramaribo.",
-      "The country is a tropical country, whose geography is dominated by forests. These forests are important to Suriname's contribution to mitigating climate change, as the first country to reach carbon neutrality. The economy of Suriname is heavily dependent on the exports of bauxite, gold, petroleum and agricultural products.",
-      "Suriname was long inhabited by various indigenous people before being invaded and contested by European powers from the 16th century, eventually coming under Dutch rule in the late 17th century."
+      "Major General Sir Thomas Makdougall Brisbane, 1st Baronet, GCB, GCH, FRS, FRSE, was a British Army officer, administrator, and astronomer. Upon the recommendation of the Duke of Wellington, with whom he had served, he was appointed governor of New South Wales from 1821 to 1825.",
+      "A keen astronomer, he built the colony's second observatory and encouraged scientific and agricultural training. Rivals besmirched his reputation and the British Secretary of State for the Colonies, Lord Bathurst, recalled Brisbane and his colonial secretary Frederick Goulburn. Brisbane, a new convict settlement, was named in his honour and is now among the largest cities in Australia."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Suriname",
-    "urlGoogle": "https://artsandculture.google.com/entity/suriname/m06nnj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Thomas_Brisbane",
+    "urlGoogle": "https://artsandculture.google.com/entity/thomas-brisbane/m01vhsv"
+  },
+  "place": {
+    "id": "kingston-upon-hull",
+    "name": "Kingston upon Hull",
+    "mainImg": "img/places/kingston-upon-hull.jpg",
+    "summary": [
+      "Kingston upon Hull, usually abbreviated to Hull, is a port city and unitary authority in the East Riding of Yorkshire, northeastern England. It lies upon the River Hull at its confluence with the Humber Estuary, 25 miles inland from the North Sea, 50 miles east of Leeds, 34 miles south-east of York and 54 miles north-east of Sheffield. With a population of 259,778, Hull is the fourth-largest city in Yorkshire and the Humber.",
+      "The town of Wyke on Hull was founded late in the 12th century by the monks of Meaux Abbey as a port from which to export their wool.",
+      "Renamed Kings-town upon Hull in 1299, Hull has been a market town, military supply port, trading hub, fishing and whaling centre and industrial metropolis.",
+      "Hull was an early theatre of battle in the English Civil Wars. Its 18th-century Member of Parliament, William Wilberforce, took a prominent part in the abolition of the slave trade in Britain.",
+      "After suffering heavy damage in the Second World War, Hull weathered a period of post-industrial decline, gaining unfavourable results on measures of social deprivation, education and policing."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kingston_upon_Hull",
+    "urlGoogle": "https://artsandculture.google.com/entity/kingston-upon-hull/m0fm2_"
   },
   "wiki": {
-    "id": "postmans-park",
-    "name": "Postman's Park",
-    "summary": "Postman's Park is a 0.67-acre (2,700 m2) park in the City of London, adjacent to the site of the former head office of the General Post Office and a short distance north of St Paul's Cathedral. Opened in 1880 on the site of the former churchyard and burial ground of St Botolph's Aldersgate church, it expanded over the next 20 years to incorporate some adjacent burial grounds and nearby land previously occupied by housing. A shortage of space for burials in London meant that corpses were often laid above existing graves and covered over with soil instead of being buried, and thus Postman's Park, as an interment site for over 800 years, is significantly elevated above the streets which surround it. Since 1900 it has been the location of the Memorial to Heroic Self Sacrifice, a monument erected by George Frederic Watts to ordinary people who died saving the lives of others, and who might otherwise have been forgotten. In 1972, key elements of the park, including the Memorial to Heroic Self Sacrifice, were grade II listed to preserve their character. Following the 2004 film Closer, Postman's Park experienced a resurgence of interest, as key scenes were filmed in the park.",
-    "url": "https://en.wikipedia.org/wiki/Postman%27s_Park"
+    "id": "chuck-palahniuk",
+    "name": "Chuck Palahniuk",
+    "summary": "Chuck Palahniuk is a satirical novelist and freelance journalist living in Portland, Oregon. He is best known for the award-winning novel Fight Club, which was later made into a film directed by David Fincher. He has one of the largest centralized followings of any author on the Internet, based around his official web site. His writings, similar in style to those of such peers as Bret Easton Ellis, Irvine Welsh, and Douglas Coupland, have made him one of the most popular novelists of Generation X.",
+    "url": "https://en.wikipedia.org/wiki/Chuck_Palahniuk"
   },
   "word": {
-    "id": "diseuse",
-    "word": "diseuse",
-    "url": "https://www.merriam-webster.com/dictionary/diseuse",
-    "partOfSpeech": "noun",
-    "pronunciation": "dee-ZOOZ",
-    "audioPath": "audio/words/diseuse.mp3",
-    "definitions": ["a woman who is a skilled and usually professional reciter"],
-    "examples": [
-      "\"I say '[chanteuse](https://www.merriam-webster.com/dictionary/chanteuse)' but this is by courtesy, for she was more of a _diseuse_ to begin with, speaking her songs….\" - From Paul Johnson's 2010 book _Humorists: From Hogarth to Noel Coward_",
-      "\"At Jurowski's insistence, the cast represented a spectrum of singers from opera to cabaret. So [coloratura](https://www.merriam-webster.com/dictionary/coloratura) soprano and contemporary music singer Alison Bell, slinky cabaret _diseuse_ Meow Meow, and \\[bel canto\\](https://www.merriam-webster.com/dictionary/bel canto) soprano Gabriela Istoc were the women fighting for the affections of Mark Padmore's brutally charismatic Macheath.\" - From a theater review by Tim Ashley in _The Guardian_ (London), March 4, 2013"
+    "id": "telegenic",
+    "word": "telegenic",
+    "url": "https://www.merriam-webster.com/dictionary/telegenic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "tel-uh-JEN-ik",
+    "audioPath": "audio/words/telegenic.mp3",
+    "definitions": [
+      "well-suited to the medium of television; especially : having an appearance and manner that are markedly attractive to television viewers"
     ],
-    "origin": "The American actress Ruth Draper (1884-1956) was known for her character-driven monologues and theatrical sketches, portraying some 58 different characters utilizing a range of languages and dialects. A comparable entertainer today might be labeled a performance artist, but a term that emerged during Draper's lifetime was \"diseuse.\" Broadly, a diseuse is a professional female reciter, though often the word is used specifically to refer to one who recites verse or other text to music. (A male reciter would be a diseur, but that word is rare in English.) Both \"diseuse\" and \"diseur\" derive from Old French \"dire\" (\"to say\") and ultimately from the Latin verb \"dicere.\""
+    "examples": [
+      "This year's playoffs will feature some very _telegenic_ rookies playing alongside veterans destined for the Hall of Fame.",
+      "\"What readers remember from the rolling thunder of Mailer's extravagant prose production … was the enshrouding of J.F.K. as the first movie-star politician, the avatar and launch vehicle for the suppressed libido of the country's Hollywood dream life after the long lullaby of the Eisenhower era. With J.F.K., _telegenic_ charisma became part of the package deal.\" -- From an article by James Wolcott in _Vanity Fair_, September 2010"
+    ],
+    "origin": "\"Telegenic,\" which first appeared in print in 1939, is essentially a compound formed out of \"television\" and \"photogenic.\" \"Photogenic\" is also the word that caused the addition of a new sense to \"-genic,\" namely \"suitable for production or reproduction by a given medium\" (as in the occasionally seen \"videogenic\": \"The '80s were a time that created a lot of videogenic bands who weren't necessarily compelling live artists....\" -- Ron Shapiro, quoted in _Entertainment Weekly_, September 25, 1998). \"Telegenic\" may seem like a word that would primarily refer to people, but there is evidence for telegenic events (such as popular sports), objects, and responses. Occasionally, one even sees reference to a telegenic attitude or other intangible."
   }
 }

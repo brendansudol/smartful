@@ -1,146 +1,135 @@
 {
   "artist": {
-    "id": "joos-van-cleve",
-    "name": "Joos van Cleve",
-    "dates": "1485 - 1541",
-    "mainImg": "img/art/artists/joos-van-cleve.jpg",
+    "id": "charles-rennie-mackintosh",
+    "name": "Charles Rennie Mackintosh",
+    "dates": "Jun 7, 1868 - Dec 10, 1928",
+    "mainImg": "img/art/artists/charles-rennie-mackintosh.jpg",
     "artworkImgs": [
       {
-        "name": "The Annunciation",
-        "path": "img/art/artworks/joos-van-cleve-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-annunciation-joos-van-cleve/EQFwRIcDimteTg"
+        "name": "High-backed chair",
+        "path": "img/art/artworks/charles-rennie-mackintosh-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/high-backed-chair-charles-mackintosh/ogE5P12mXshUcg"
       },
       {
-        "name": "Saint Jerome in His Study",
-        "path": "img/art/artworks/joos-van-cleve-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-jerome-in-his-study/5wHg-bWw_ckErQ"
+        "name": "Armchair",
+        "path": "img/art/artworks/charles-rennie-mackintosh-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/armchair-charles-rennie-mackintosh/dAHMQAA7IlbRyA"
       },
       {
-        "name": "The Crucifixion with Saints and a Donor",
-        "path": "img/art/artworks/joos-van-cleve-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-crucifixion-with-saints-and-a-donor-joos-van-cleve/KQEO2KY3hlgU-A"
+        "name": "Two chairs for the Blue bedroom, Hous'hill, Nitshill, Glasgow",
+        "path": "img/art/artworks/charles-rennie-mackintosh-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/two-chairs-for-the-blue-bedroom-hous-hill-nitshill-glasgow/xAGP6Tcs-lFBPg"
       },
       {
-        "name": "Jesus and Little St. John the Baptist",
-        "path": "img/art/artworks/joos-van-cleve-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/jesus-and-little-st-john-the-baptist-joos-van-cleve-attributed/cQF67y9o8TJZ5A"
+        "name": "Set of four Teaspoons with Box",
+        "path": "img/art/artworks/charles-rennie-mackintosh-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/set-of-four-teaspoons-with-box/9gHAnkTNMuuUfg"
       },
       {
-        "name": "Virgin and Child",
-        "path": "img/art/artworks/joos-van-cleve-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/virgin-and-child-joos-van-cleve/6gGefs0udrLBgA"
+        "name": "Armchair (for Hous'hill, Catherine Cranston's residence, Glasgow, Scotland)",
+        "path": "img/art/artworks/charles-rennie-mackintosh-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/armchair-for-hous-hill-catherine-cranston-s-residence-glasgow-scotland-charles-rennie-mackintosh/dAF3KzSzVRdeGg"
       },
       {
-        "name": "The Holy Family",
-        "path": "img/art/artworks/joos-van-cleve-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-holy-family-joos-van-cleve/uQF4J3K8mT3eEg"
+        "name": "Candlestick",
+        "path": "img/art/artworks/charles-rennie-mackintosh-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/candlestick-charles-rennie-mackintosh/JwHuOBP7hy5_fg"
       }
     ],
     "summary": [
-      "Joos van Cleve was a painter active in Antwerp around 1511 to 1540. He is known for combining traditional Dutch painting techniques with influences of more contemporary Renaissance painting styles.",
-      "An active member and co-deacon of the Guild of Saint Luke of Antwerp, he is known mostly for his religious works and portraits of royalty. As a skilled technician, his art shows sensitivity to color and a unique solidarity of figures. He was one of the first to introduce broad landscapes in the backgrounds of his paintings, which would become a popular technique of sixteenth century northern Renaissance paintings.",
-      "He was the father of Cornelis van Cleve who also became a painter. Cornelis became mentally ill during a residence in England and was therefore referred to as 'Sotte Cleef'."
+      "Charles Rennie Mackintosh was a Scottish architect, designer, water colourist and artist. His artistic approach had much in common with European Symbolism. His work, alongside that of his wife Margaret Macdonald, was influential on European design movements such as Art Nouveau and Secessionism and praised by great modernists such as Josef Hoffmann. Mackintosh was born in Glasgow and died in London."
     ],
     "quote": null,
-    "movements": [
-      "Northern Renaissance",
-      "Renaissance",
-      "Dutch and Flemish Renaissance painting",
-      "Antwerp school"
-    ],
-    "mediums": ["Oil paint", "Wood", "Oak", "Tempera", "Sculpture"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Joos_van_Cleve",
-    "urlGoogle": "https://artsandculture.google.com/entity/joos-van-cleve/m0gp54j"
+    "movements": ["Symbolism", "Art Nouveau", "Modern art"],
+    "mediums": ["Wood", "Silver", "Metal", "Oak", "Stained glass", "Varnish"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh",
+    "urlGoogle": "https://artsandculture.google.com/entity/charles-rennie-mackintosh/m0f7tt"
   },
   "event": {
-    "id": "occupy-wall-street",
-    "name": "Occupy Wall Street",
-    "dates": "Sep 17, 2011",
-    "mainImg": "img/events/occupy-wall-street.jpg",
+    "id": "united-states-bicentennial",
+    "name": "United States Bicentennial",
+    "dates": "1976",
+    "mainImg": "img/events/united-states-bicentennial.jpg",
     "summary": [
-      "Occupy Wall Street was a protest movement against economic inequality that began in Zuccotti Park, located in New York City's Wall Street financial district, in September 2011. It gave rise to the wider Occupy movement in the United States and other countries.",
-      "The Canadian anti-consumerist and pro-environment group/magazine Adbusters initiated the call for a protest. The main issues raised by Occupy Wall Street were social and economic inequality, greed, corruption and the undue influence of corporations on government—particularly from the financial services sector. The OWS slogan, \"We are the 99%\", refers to income and wealth inequality in the U.S. between the wealthiest 1% and the rest of the population. To achieve their goals, protesters acted on consensus-based decisions made in general assemblies which emphasized redress through direct action over the petitioning to authorities.",
-      "The protesters were forced out of Zuccotti Park on November 15, 2011. Protesters then turned their focus to occupying banks, corporate headquarters, board meetings, foreclosed homes, and college and university campuses."
+      "The United States Bicentennial was a series of celebrations and observances during the mid-1970s that paid tribute to historical events leading up to the creation of the United States of America as an independent republic. It was a central event in the memory of the American Revolution. The Bicentennial culminated on Sunday, July 4, 1976, with the 200th anniversary of the adoption of the Declaration of Independence."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Occupy_Wall_Street",
-    "urlGoogle": "https://artsandculture.google.com/entity/occupy-wall-street/m0h63jfq"
+    "urlWiki": "https://en.wikipedia.org/wiki/United_States_Bicentennial",
+    "urlGoogle": "https://artsandculture.google.com/entity/united-states-bicentennial/m020x63"
   },
   "funFacts": [
     {
-      "id": "1023",
-      "fact": "Indonesia is made up of more than 17,000 islands.",
-      "category": ["Geography"]
+      "id": "452",
+      "fact": "There are approximately 9,000 taste buds on your tongue.",
+      "category": ["Anatomy"]
     },
     {
-      "id": "206",
-      "fact": "Over 1 million Earths would fit inside the Sun.",
-      "category": ["Science"]
+      "id": "908",
+      "fact": "In Athens, Greece, a driver's license can be taken away by law if the driver is deemed either unbathed or poorly dressed.",
+      "category": ["Laws"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553853",
-      "fact": "Before he wrote Goosebumps, R.L. Stine wrote the jokes for Bazooka Joe gum wrappers."
+      "id": "553731",
+      "fact": "The record for the longest tire skid was set in 1964 at the Bonneville Salt Flats in Utah."
     }
   ],
   "idiom": {
-    "id": "castles-in-the-air",
-    "term": "castles in the air",
-    "definition": "Dreams about future success, as in *Musing about the bestseller list, she was apt to build castles in the air.* The idiom dates from the late 1500s. A variant, **castles in Spain** (or *chateaux en Espagne*), was recorded in the *Roman de la Rose* in the 1200s and translated into English about 1365."
+    "id": "one-picture-is-worth-a-thousand-words",
+    "term": "one picture is worth a thousand words",
+    "definition": "A graphic illustration conveys a stronger message than words, as in *The book jacket is a big selling point---one picture is worth a thousand words.* This saying was invented by an advertising executive, Fred R. Barnard. To promote his agency's ads he took out an ad in *Printer's Ink* in 1921 with the headline \"One Look Is Worth a Thousand Words\" and attributed it to an ancient Japanese philosopher. Six years later he changed it to \"Chinese Proverb: One Picture Is Worth Ten Thousand Words,\" illustrated with some Chinese characters. The attribution in both was invented; Barnard simply believed an Asian origin would give it more credibility."
   },
   "person": {
-    "id": "celal-bayar",
-    "name": "Celâl Bayar",
-    "dates": "May 16, 1883 - Aug 22, 1986",
-    "mainImg": "img/people/celal-bayar.jpg",
+    "id": "manuel-roxas",
+    "name": "Manuel Roxas",
+    "dates": "Jan 1, 1892 - Apr 15, 1948",
+    "mainImg": "img/people/manuel-roxas.jpg",
     "summary": [
-      "Mahmut Celâl Bayar was a Turkish politician, who was the third President of Turkey from 1950 to 1960; previously he was Prime Minister of Turkey from 1937 to 1939. Bayar, as the Turkish President, was decorated with the Legion of Merit by the President of the United States, as a result of Turkey's participation in the Korean War. He is considered to be the longest-lived former head of state and was the longest-lived state leader until 8 December 2008. Celal Bayar died on 22 August 1986 at the age of 103 after a brief illness."
+      "Manuel Acuña Roxas was the fifth President of the Philippines who served from 1946 until his death in 1948. He briefly served as the third and last President of the Commonwealth of the Philippines from May 28, 1946 to July 4, 1946 and then became the first President of the independent Third Philippine Republic after the United States ceded its sovereignty over the Philippines."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cel%C3%A2l_Bayar",
-    "urlGoogle": "https://artsandculture.google.com/entity/celâl-bayar/m04916w"
+    "urlWiki": "https://en.wikipedia.org/wiki/Manuel_Roxas",
+    "urlGoogle": "https://artsandculture.google.com/entity/manuel-roxas/m037ylm"
   },
   "place": {
-    "id": "brno",
-    "name": "Brno",
-    "mainImg": "img/places/brno.jpg",
+    "id": "graz",
+    "name": "Graz",
+    "mainImg": "img/places/graz.jpg",
     "summary": [
-      "Brno is a city in the South Moravian Region of the Czech Republic. Located at the confluence of the Svitava and Svratka rivers, Brno has about 380,000 inhabitants, making it the second-largest city in the Czech Republic after the capital, Prague, and one of the 100 largest cities of the EU. Its metropolitan area has more than 600,000 inhabitants.",
-      "Brno is the former capital city of Moravia and the political and cultural hub of the South Moravian Region. It is the centre of the Czech judiciary, with the seats of the Constitutional Court, the Supreme Court, the Supreme Administrative Court, and the Supreme Public Prosecutor's Office, and a number of state authorities, including the Ombudsman, and the Office for the Protection of Competition. Brno is also an important centre of higher education, with 33 faculties belonging to 13 institutes of higher education and about 89,000 students.",
-      "Brno Exhibition Centre ranks among the largest exhibition centres in Europe. The complex opened in 1928 and established the tradition of large exhibitions and trade fairs held in Brno."
+      "Graz is the capital city of Styria and Austria's second-largest city after Vienna. As of 1 January 2019, Graz had a population of 328,276. In 2015, the population of the Graz larger urban zone stood at 633,168, based on principal-residence status. Graz has a long tradition as a seat of higher education. It has four colleges and four universities with more than 60,000 students. Its historic centre is one of the best-preserved city centres in Central Europe.",
+      "For centuries, Graz was more important to Slovenes and Croats, both politically and culturally, than the capitals of Ljubljana, Slovenia and Zagreb, Croatia; it remains influential to this day. In 1999, the city's historic centre was added to the UNESCO list of World Heritage Sites and in 2010 the designation was expanded to include Eggenberg Palace on the western edge of the city. Graz was designated the Cultural Capital of Europe in 2003 and became a City of Culinary Delights in 2008."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Brno",
-    "urlGoogle": "https://artsandculture.google.com/entity/brno/m0fs_s"
+    "urlWiki": "https://en.wikipedia.org/wiki/Graz",
+    "urlGoogle": "https://artsandculture.google.com/entity/graz/m0d1yn"
   },
   "quote": {
-    "id": "116",
-    "quote": "The best people possess a feeling for beauty, the courage to take risks, the discipline to tell the truth, the capacity for sacrifice. Ironically, their virtues make them vulnerable; they are often wounded, sometimes destroyed.",
-    "author": "Ernest Hemingway"
+    "id": "118",
+    "quote": "Be curious. Read widely. Try new things. I think a lot of what people call intelligence boils down to curiosity.",
+    "author": "Aaron Swartz"
   },
   "wiki": {
-    "id": "victoria-cross",
-    "name": "Victoria Cross",
-    "summary": "The Victoria Cross is the highest military decoration awarded for valour \"in the face of the enemy\" to members of the armed forces of some Commonwealth countries and previous British Empire territories. It takes precedence over all other orders, decorations, medals and postnominals. It may be awarded to a person of any rank in any service and civilians under military command, and is presented to the recipient by the British monarch during an investiture held at Buckingham Palace. It is the joint highest award for bravery in the United Kingdom with the George Cross, which is the equivalent honour for valour not \"in the face of the enemy\". The VC was introduced on 29 January 1856 by Queen Victoria to reward acts of valour during the Crimean War. Since then the medal has been awarded 1,356 times to 1,353 individual recipients. Only 14 medals have been awarded since the end of the Second World War. Due to its rarity, the VC is highly prized and the medal can reach over £200,000 at auction. There are a number of public and private collections devoted to it, most notably that of Lord Ashcroft, which contains over one-tenth of the total VCs awarded.",
-    "url": "https://en.wikipedia.org/wiki/Victoria_Cross"
+    "id": "john-y-brown-politician-born-1835",
+    "name": "John Y. Brown (politician, born 1835)",
+    "summary": "John Young Brown (1835–1904) represented Kentucky in the U.S. House of Representatives and served as its 31st governor. He was first elected to the House in 1859, but was initially too young to serve. Re-elected in 1866, he was denied his seat because of alleged disloyalty to the Union during the Civil War. After an unsuccessful gubernatorial bid in 1871, Brown served in the House from 1872 to 1877, and was censured for a speech excoriating Massachusetts Representative Benjamin F. Butler. Brown was elected governor of Kentucky in 1891, but little of significance was accomplished during his term as time was spent adapting the state's laws to the new constitution. He hoped the legislature would elect him to the U.S. Senate after his term ended in 1895, but the deaths of two of his children ended his political ambitions. After the Republicans won the 1895 election, William Goebel was chosen as the Democrats' 1899 candidate, although a disgruntled faction selected Brown. Goebel won the election, but was assassinated in 1900; Brown represented Caleb Powers, an alleged conspirator in the assassination, at his first trial.",
+    "url": "https://en.wikipedia.org/wiki/John_Y._Brown_(politician,_born_1835)"
   },
   "word": {
-    "id": "minim",
-    "word": "minim",
-    "url": "https://www.merriam-webster.com/dictionary/minim",
+    "id": "appellation",
+    "word": "appellation",
+    "url": "https://www.merriam-webster.com/dictionary/appellation",
     "partOfSpeech": "noun",
-    "pronunciation": "MIN-im",
-    "audioPath": "audio/words/minim.mp3",
+    "pronunciation": "ap-uh-LAY-shun",
+    "audioPath": "audio/words/appellation.mp3",
     "definitions": [
-      "a musical half note",
-      "something very minute",
-      "a unit of liquid capacity equal to 1/60 fluid dram"
+      "an identifying name or title : designation",
+      "the act of calling by a name",
+      "a geographical name used to identify wine"
     ],
     "examples": [
-      "The nurse measured out 10 _minims_ of the medication.",
-      "\"Again and again in 'Coppelia' a dancer will pay attention to musical _minims_ while disregarding the climax, shape or ending of a phrase.\" - From a review by Alastair Macaulay in _The New York Times_, March 30, 2011"
+      "We used to call him \"Danny,\" but he recently let us know that he prefers the appellation \"Daniel.\""
     ],
-    "origin": "\"Minim\" derives from the Latin word \"minimus,\" meaning \"least\" or \"smallest.\" Musicians were the first to note its significance in the 15th century as a word for the half note. Chirographers soon adopted it as a word for a single downstroke in penmanship (such as any of the three in the letter _m_), and after careful analysis, apothecaries prescribed \"minim\" as a word for their smallest unit of liquid capacity. English speakers have also embraced \"minim\" as a general noun referring to things that are very small and as an adjective meaning \"of the smallest size,\" as in \"a minim amount.\""
+    "origin": "Ask a Frenchman named \"Jacques\" his name, and you may very well get the reply, \"Je m'appelle Jacques.\" The French verb \"appeller\" means \"to call (by a name),\" so Jacques' answer literally translates to \"I call myself Jacques.\" Knowing the function of \"appeller\" makes it easy to remember that \"appellation\" refers to the name or title by which something is called or known. \"Appeller\" and \"appellation\" also share a common ancestor -- the Latin \"appellare,\" meaning \"to call or summon,\" formed by combining the prefix \"ad-\" (\"to\") with another verb, \"pellere\" (\"to drive\"). \"Appellare\" is also the root of our word \"appeal\" (by way of Anglo-French and Middle English), as well as \"appellate,\" referring to a kind of court where appeals are heard."
   }
 }

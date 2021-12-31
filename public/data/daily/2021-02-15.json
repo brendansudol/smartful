@@ -1,126 +1,140 @@
 {
   "artist": {
-    "id": "pietro-lorenzetti",
-    "name": "Pietro Lorenzetti",
-    "dates": "1280 - 1348",
-    "mainImg": "img/art/artists/pietro-lorenzetti.jpg",
+    "id": "kehinde-wiley",
+    "name": "Kehinde Wiley",
+    "dates": "Born Feb 28, 1977",
+    "mainImg": "img/art/artists/kehinde-wiley.jpg",
     "artworkImgs": [
       {
-        "name": "Saint Catherine of Alexandria",
-        "path": "img/art/artworks/pietro-lorenzetti-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/saint-catherine-of-alexandria-pietro-lorenzetti/wwFFvb-XSIVsmw"
+        "name": "President Barack Obama",
+        "path": "img/art/artworks/kehinde-wiley-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/president-barack-obama-kehinde-wiley/kgGqONkp0JVsCA"
       },
       {
-        "name": "Presentation of Jesus in the Temple",
-        "path": "img/art/artworks/pietro-lorenzetti-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/presentation-of-jesus-in-the-temple-ambrogio-lorenzetti-lorenzetti/0gFEBgbfCMyrvA"
+        "name": "Portrait of Asia-Imani, Gabriella-Esnae, and Kaya Palmer",
+        "path": "img/art/artworks/kehinde-wiley-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-asia-imani-gabriella-esnae-and-kaya-palmer-kehinde-wiley/hAED3ge3jzXcPA"
       },
       {
-        "name": "Madonna with Chid",
-        "path": "img/art/artworks/pietro-lorenzetti-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/madonna-with-chid/iwFdlkFAnYAviA"
+        "name": "John, 1st Baron Byron",
+        "path": "img/art/artworks/kehinde-wiley-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/john-1st-baron-byron-kehinde-wiley/JwEfPaSpIGnDaQ"
       },
       {
-        "name": "Madonna and Child Enthroned with Angels",
-        "path": "img/art/artworks/pietro-lorenzetti-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/madonna-and-child-enthroned-with-angels-pietro-lorenzetti-lorenzetti/3wFuot4bhawurA"
+        "name": "Portrait of Dorinda Essah",
+        "path": "img/art/artworks/kehinde-wiley-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-dorinda-essah-kehinde-wiley/GQHl-sXdjRgnRQ"
       },
       {
-        "name": "Madonna with Chid",
-        "path": "img/art/artworks/pietro-lorenzetti-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/madonna-with-chid/DwE0OYm8RxrO8w"
+        "name": "Portrait of Mojisola Elufowoju",
+        "path": "img/art/artworks/kehinde-wiley-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-mojisola-elufowoju-kehinde-wiley/1gGJrpAXJKGKCw"
       },
       {
-        "name": "Virgin and Child Enthroned and Donor, Angels",
-        "path": "img/art/artworks/pietro-lorenzetti-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/virgin-and-child-enthroned-and-donor-angels/HwFzCCWvobz-og"
+        "name": "Portrait of Melissa Thompson",
+        "path": "img/art/artworks/kehinde-wiley-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-melissa-thompson-kehinde-wiley/VgG6lpXrc0ufHQ"
       }
     ],
     "summary": [
-      "Pietro Lorenzetti or Pietro Laurati was an Italian painter, active between c.1306 and 1345. Together with his younger brother Ambrogio, he introduced naturalism into Sienese art. In their artistry and experiments with three-dimensional and spatial arrangements, the brothers foreshadowed the art of the Renaissance."
+      "Kehinde Wiley is an American portrait painter based in New York City, who is known for his highly naturalistic paintings of black people. He was commissioned in 2017 to paint a portrait of former President Barack Obama for the Smithsonian National Portrait Gallery, which has portraits of all the US presidents. The Columbus Museum of Art, which hosted an exhibition of his work in 2007, describes his work as follows: \"Wiley has gained recent acclaim for his heroic portraits which address the image and status of young African-American men in contemporary culture.\"",
+      "Wiley's portrait of Obama was unveiled on February 12, 2018. He and Amy Sherald, whose portrait of former First Lady Michelle Obama was simultaneously unveiled, are the first black artists to paint official portraits of the president or First Lady for the National Portrait Gallery.",
+      "Some observers criticized the selection of Wiley for the commission because he had earlier produced two painting variations of Judith Beheading Holofernes, in which he depicts African-American women holding the severed heads of white women. Wiley said that this is a \"play on the 'kill whitey' thing\"."
     ],
-    "quote": null,
-    "movements": ["Gothic art", "Sienese School"],
-    "mediums": ["Tempera", "Gold", "Metal", "Wood", "Gold leaf"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Pietro_Lorenzetti",
-    "urlGoogle": "https://artsandculture.google.com/entity/pietro-lorenzetti/m01zxpn"
+    "quote": "“I think there's something important in going against the grain, and perhaps finding value in things that aren't necessarily institutionally recognized.”",
+    "movements": [],
+    "mediums": ["Oil paint", "Drawing", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Kehinde_Wiley",
+    "urlGoogle": "https://artsandculture.google.com/entity/kehinde-wiley/m07czpt"
   },
   "event": {
-    "id": "taiping-rebellion",
-    "name": "Taiping Rebellion",
-    "dates": "December 1850 - August 1871",
-    "mainImg": "img/events/taiping-rebellion.jpg",
+    "id": "space-shuttle-challenger-disaster",
+    "name": "Space Shuttle Challenger disaster",
+    "dates": null,
+    "mainImg": "img/events/space-shuttle-challenger-disaster.jpg",
     "summary": [
-      "The Taiping Rebellion, which is also known as the Taiping Civil War or the Taiping Revolution, was a massive rebellion or civil war that was waged in China from 1850 to 1864 between the established Manchu-led Qing dynasty and the Hakka-led Taiping Heavenly Kingdom.",
-      "Led by Hong Xiuquan, the self-proclaimed brother of Jesus Christ, the goals of the Taipings were religious, nationalist, and political in nature; they sought the conversion of the Chinese people to the Taiping's syncretic version of Christianity, the overthrow of the ruling Manchus, and a wholesale transformation and reformation of the state. Rather than simply supplanting the ruling class, the Taipings sought to upend the moral and social order of China. To that end, they established the Taiping Heavenly Kingdom as an oppositional state based in Tianjing and gained control of a significant part of southern China, eventually expanding to command a population base of nearly 30 million people.",
-      "For over a decade, the Taiping occupied and fought across much of the mid and lower Yangtze valley."
+      "The Space Shuttle Challenger disaster was a fatal incident in the United States space program that occurred on Tuesday, January 28, 1986, when the Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members aboard. The crew consisted of five NASA astronauts, one payload specialist, and a civilian schoolteacher. The mission carried the designation STS-51-L and was the tenth flight for the Challenger orbiter.",
+      "The spacecraft disintegrated over the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 11:39 a.m. EST. The disintegration of the vehicle began after a joint in its right solid rocket booster failed at liftoff. The failure was caused by the failure of O-ring seals used in the joint that were not designed to handle the unusually cold conditions that existed at this launch. The seals' failure caused a breach in the SRB joint, allowing pressurized burning gas from within the solid rocket motor to reach the outside and impinge upon the adjacent SRB aft field joint attachment hardware and external fuel tank. This led to the separation of the right-hand SRB's aft field joint attachment and the structural failure of the external tank."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
-    "urlGoogle": "https://artsandculture.google.com/entity/taiping-rebellion/m0kx7_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+    "urlGoogle": "https://artsandculture.google.com/entity/space-shuttle-challenger-disaster/m0244_r"
   },
   "funFacts": [
     {
-      "id": "462",
-      "fact": "There is a ranch in Texas that is bigger than the entire state of Rhode Island.",
-      "category": ["Geography"]
+      "id": "79",
+      "fact": "There are 119 grooves on the edge of a quarter.",
+      "category": ["Hodgepodge"]
     },
-    { "id": "134", "fact": "An ant can lift 50 times its own weight.", "category": ["Animals"] }
+    {
+      "id": "141",
+      "fact": "The square dance is the official dance of the state of Washington.",
+      "category": ["Geography"]
+    }
   ],
-  "funFacts2": [{ "id": "553734", "fact": "Viking men wore makeup." }],
+  "funFacts2": [
+    {
+      "id": "553811",
+      "fact": "Steve Carell worked as a postal carrier in the small town of Littleton, Massachusetts. (Though he only did it for a few months, he said it was the hardest job he's ever had.)"
+    }
+  ],
   "idiom": {
-    "id": "all-over-but-the-shouting",
-    "term": "all over but the shouting",
-    "definition": "The outcome is a certainty, as in *When Jim hit the ball over the fence, it was all over but the shouting.* The term's first use in print, in 1842, was by Welsh sportswriter Charles James Apperley, but some authorities believe it originated even earlier in the United States for a close political race. Today it is applied to any contest. A common British version is **all over bar the shouting.**"
+    "id": "spin-a-yarn",
+    "term": "spin a yarn",
+    "definition": "Tell a story, especially a long drawn-out or totally fanciful one, as in *This author really knows how to spin a yarn,* or *Whenever he's late he spins some yarn about a crisis.* Originally a nautical term dating from about 1800, this expression probably owes its life to the fact that it embodies a double meaning, *yarn* signifying both \"spun fiber\" and \"a tale.\""
   },
   "person": {
-    "id": "kurt-georg-kiesinger",
-    "name": "Kurt Georg Kiesinger",
-    "dates": "Apr 6, 1904 - Mar 9, 1988",
-    "mainImg": "img/people/kurt-georg-kiesinger.jpg",
+    "id": "alexander-iii-of-russia",
+    "name": "Alexander III of Russia",
+    "dates": "Mar 10, 1845 - Nov 1, 1894",
+    "mainImg": "img/people/alexander-iii-of-russia.jpg",
     "summary": [
-      "Kurt Georg Kiesinger was a German politician who served as Chancellor of Germany from 1 December 1966 to 21 October 1969. Before he became Chancellor he served as Minister President of Baden-Württemberg from 1958 to 1966 and as President of the Federal Council from 1962 to 1963. He was Chairman of the Christian Democratic Union from 1967 to 1971.",
-      "Kiesinger studied law and worked as a lawyer in Berlin from 1935 to 1940. To avoid conscription, he found work at the Foreign Office in 1940, and became deputy head of the Foreign Office's broadcasting department. During his service at the Foreign Office, he was denounced by two colleagues for his anti-Nazi stance. He had nevertheless joined the Nazi Party in 1933, but remained a largely inactive member. In 1946 he became a member of the Christian Democratic Union. He was elected to the Bundestag in 1949, and was a member of the Bundestag until 1958 and again from 1969 to 1980. He left federal politics for eight years to serve as Minister President of Baden-Württemberg, and subsequently became Chancellor by forming a grand coalition with Willy Brandt's Social Democratic Party."
+      "Alexander III was Emperor of Russia, King of Poland and Grand Duke of Finland from 13 March 1881 until his death on 1 November 1894. He was highly reactionary and reversed some of the liberal reforms of his father, Alexander II. Under the influence of Konstantin Pobedonostsev he opposed any reform that limited his autocratic rule. During his reign, Russia fought no major wars; he was therefore styled \"The Peacemaker\"."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kurt_Georg_Kiesinger",
-    "urlGoogle": "https://artsandculture.google.com/entity/kurt-georg-kiesinger/m04g27"
+    "urlWiki": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia",
+    "urlGoogle": "https://artsandculture.google.com/entity/alexander-iii-of-russia/m0r9f"
   },
   "place": {
-    "id": "genoa",
-    "name": "Genoa",
-    "mainImg": "img/places/genoa.jpg",
+    "id": "lausanne",
+    "name": "Lausanne",
+    "mainImg": "img/places/lausanne.jpg",
     "summary": [
-      "Genoa is the capital of the Italian region of Liguria and the sixth-largest city in Italy. In 2015, 594,733 people lived within the city's administrative limits. As of the 2011 Italian census, the Province of Genoa, which in 2015 became the Metropolitan City of Genoa, counted 855,834 resident persons. Over 1.5 million people live in the wider metropolitan area stretching along the Italian Riviera.",
-      "Located on the Gulf of Genoa in the Ligurian Sea, Genoa has historically been one of the most important ports on the Mediterranean: it is currently the busiest in Italy and in the Mediterranean Sea and twelfth-busiest in the European Union. Genoa has been nicknamed la Superba due to its glorious past and impressive landmarks. Part of the old town of Genoa was inscribed on the World Heritage List in 2006 as Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli. The city's rich cultural history in art, music and cuisine allowed it to become the 2004 European Capital of Culture. It is the birthplace of Guglielmo Embriaco, Christopher Columbus, Andrea Doria, Niccolò Paganini, Giuseppe Mazzini, Renzo Piano and Grimaldo Canella, founder of the House of Grimaldi, among others."
+      "Lausanne is the capital city and biggest town of the canton of Vaud in Romandy, Switzerland. A municipality, it is situated on the shores of Lake Léman. It faces the French town of Évian-les-Bains, with the Jura Mountains to its north-west. Lausanne is located 62 kilometres northeast of Geneva.",
+      "The municipality Lausanne has a population of about 140,000, making it the fourth largest city in Switzerland, with the entire agglomeration area having about 420,000 inhabitants. The metropolitan area of Lausanne-Geneva was over 1.2 million inhabitants in 2000.",
+      "Lausanne is a focus of international sport, hosting the International Olympic Committee, the Court of Arbitration for Sport and some 55 international sport associations. It lies in a noted wine-growing region. The city has a 28-station metro system, making it the smallest city in the world to have a rapid transit system. Lausanne hosted the 2020 Winter Youth Olympics."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Genoa",
-    "urlGoogle": "https://artsandculture.google.com/entity/genoa/m0hknf"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lausanne",
+    "urlGoogle": "https://artsandculture.google.com/entity/lausanne/m04qdj"
   },
   "quote": {
-    "id": "105",
-    "quote": "Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.",
-    "author": "Roy T. Bennett"
+    "id": "34",
+    "quote": "In my whole life, I have known no wise people who didn't read all the time – none, zero.",
+    "author": "Charlie Munger"
   },
   "wiki": {
-    "id": "japanese-aircraft-carrier-akagi",
-    "name": "Japanese aircraft carrier Akagi",
-    "summary": "Akagi was the second aircraft carrier of the Imperial Japanese Navy (IJN) to enter service, and the first large or \"fleet\" carrier. She was converted to an aircraft carrier while still under construction to comply with the Washington Naval Treaty of 1922, and figured prominently in the development of the IJN's revolutionary doctrine that grouped carriers together, concentrating their air power. The ship and her aircraft first saw combat during the Second Sino-Japanese War in the late 1930s. During the Pacific War, she took part in the Attack on Pearl Harbor on 7 December 1941 and the invasion of Rabaul in the Southwest Pacific in January 1942 as flagship of the First Air Fleet. Over the next several months her aircraft bombed Darwin, Australia, assisted in the conquest of the Dutch East Indies, and helped sink a British heavy cruiser and an Australian destroyer in the Indian Ocean Raid. After bombarding American forces on Midway Atoll during the Battle of Midway in June, Akagi and the other carriers were attacked by aircraft from Midway and three American carriers. Akagi was severely damaged, and she was scuttled by Japanese destroyers to prevent her from falling into enemy hands.",
-    "url": "https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Akagi"
+    "id": "wladyslaw-sikorski",
+    "name": "Władysław Sikorski",
+    "summary": "Władysław Sikorski was a Polish military and political leader. Before World War I, he became a founder and member of several underground organizations that promoted the cause of Polish independence. He fought with distinction during the Polish-Soviet War, in which he played a prominent role in the decisive Battle of Warsaw. During World War II he became Prime Minister of the Polish Government in Exile, Commander-in-Chief of the Polish Armed Forces, and a staunch advocate of the Polish cause on the diplomatic scene. He supported the reestablishment of diplomatic relations between Poland and the Soviet Union, which had been severed after the Soviet alliance with Germany in the 1939 invasion of Poland. In April 1943, however, Soviet dictator Joseph Stalin broke off Soviet-Polish diplomatic relations following Sikorski's request that the International Red Cross investigate the Katyn Massacre. In July 1943, Sikorski was killed in a plane crash into the sea immediately on takeoff from Gibraltar. The exact circumstances of his death remain in dispute, which has given rise to ongoing conspiracy theories.",
+    "url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Sikorski"
   },
   "word": {
-    "id": "prescind",
-    "word": "prescind",
-    "url": "https://www.merriam-webster.com/dictionary/prescind",
-    "partOfSpeech": "verb",
-    "pronunciation": "prih-SIND",
-    "audioPath": "audio/words/prescind.mp3",
-    "definitions": ["to withdraw one's attention"],
-    "examples": [
-      "If we _prescind_ from the main issue for a moment, there is much to be gained by studying some corollary questions.",
-      "\"For my purposes, we may happily _prescind_ from the metaphysics.\" -- From John Collins' 2011 book _The Unity of Linguistic Meaning_"
+    "id": "guttural",
+    "word": "guttural",
+    "url": "https://www.merriam-webster.com/dictionary/guttural",
+    "partOfSpeech": "adjective",
+    "pronunciation": "GUTT-uh-rul",
+    "audioPath": "audio/words/guttural.mp3",
+    "definitions": [
+      "articulated in the throat",
+      "formed with the back of the tongue touching or near the soft palate",
+      "being or marked by utterance that is strange, unpleasant, or disagreeable"
     ],
-    "origin": "\"Prescind\" derives from the Latin verb \"praescindere,\" which means \"to cut off in front.\" \"Praescindere,\" in turn, was formed by combining \"prae-\" (\"before\") and \"scindere\" (\"to cut\" or \"to split\"). So it should come as no surprise that when \"prescind\" began being used during the 17th century, it referred to \"cutting off\" one’s attention from a subject. An earlier (now archaic) sense was even clearer about the etymological origins of the word, with the meaning \"to cut short, off, or away\" or \"to sever.\" Other descendants of \"scindere\" include \"rescind\" and the rare \"scissile\" (\"capable of being cut\")."
+    "examples": [
+      "The only response we could get from him was an inarticulate _guttural_ grunt.",
+      "\"Four thuggish-looking Klingons, sporting gnarled foreheads and robed regalia and clutching spears and scimitars, looked on as the two 'Hamlet' renditions were performed side by side -- a minute or two of the grating, _guttural_ Klingon version, followed by a minute or two of the English one.\" -- From a theater review by Celia Wren in _The Washington Post_, September 27, 2010"
+    ],
+    "origin": "Though it is now used to describe many sounds or utterances which strike the listener as harsh or disagreeable, the adjective \"guttural\" was originally applied only to sounds and utterances produced in the throat. This is reflected in the word's Latin root -- \"guttur,\" meaning \"throat.\" Despite the similarity in sound, \"guttural\" is not related to the English word \"gutter,\" which comes (by way of Anglo-French) from Latin \"gutta,\" meaning \"drop.\""
   }
 }

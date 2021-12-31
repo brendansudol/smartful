@@ -1,124 +1,132 @@
 {
   "artist": {
-    "id": "bohumil-kubista",
-    "name": "Bohumil Kubišta",
-    "dates": "Aug 21, 1884 - Nov 27, 1918",
-    "mainImg": "img/art/artists/bohumil-kubista.jpg",
+    "id": "ernest-meissonier",
+    "name": "Ernest Meissonier",
+    "dates": "Feb 21, 1815 - Jan 31, 1891",
+    "mainImg": "img/art/artists/ernest-meissonier.jpg",
     "artworkImgs": [
       {
-        "name": "Self-portrait",
-        "path": "img/art/artworks/bohumil-kubista-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-bohumil-kubišta/7gGfHvho2s_Zgg"
+        "name": "1814",
+        "path": "img/art/artworks/ernest-meissonier-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/1814/tgErH7NaVf3DeA"
       },
       {
-        "name": "Train in the Mountains (Tunnel)",
-        "path": "img/art/artworks/bohumil-kubista-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/train-in-the-mountains-tunnel-bohumil-kubišta/7AHZbhJG-64ixg"
+        "name": "A General and His Aide-de-camp",
+        "path": "img/art/artworks/ernest-meissonier-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-general-and-his-aide-de-camp-ernest-meissonier/HwFqeVinb7NoGQ"
       },
       {
-        "name": "Portrait of Jan Zrzavý",
-        "path": "img/art/artworks/bohumil-kubista-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-jan-zrzavý-bohumil-kubišta/NgHCmvpg2_wp1g"
+        "name": "The Siege of Paris",
+        "path": "img/art/artworks/ernest-meissonier-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-siege-of-paris-ernest-meissonier/uwGLvXNtcgRH-w"
       },
       {
-        "name": "Please, From the Veraikon Album",
-        "path": "img/art/artworks/bohumil-kubista-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/please-from-the-veraikon-album-bohumil-kubišta/_QHJHJRgnC_tUQ"
+        "name": "Soldier Playing the Theorbo",
+        "path": "img/art/artworks/ernest-meissonier-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/soldier-playing-the-theorbo-ernest-meissonier/nQG9GLIL9f3pEQ"
       },
       {
-        "name": "Still-Life with a Lamp",
-        "path": "img/art/artworks/bohumil-kubista-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-with-a-lamp-bohumil-kubišta/jAFrQBahgOFv3g"
+        "name": "1806, Jena",
+        "path": "img/art/artworks/ernest-meissonier-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/1806-jena-jean-louis-ernest-meissonier/EAFX--5dk0-JGg"
       },
       {
-        "name": "Portrait of Schoppenhauer",
-        "path": "img/art/artworks/bohumil-kubista-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-schoppenhauer-bohumil-kubišta/QQG8LqNRjsavhg"
+        "name": "1807, Friedland",
+        "path": "img/art/artworks/ernest-meissonier-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/1807-friedland-ernest-meissonier/jgE__EjAXkP7lg"
       }
     ],
     "summary": [
-      "Bohumil Kubišta was a Czech painter and art critic, one of the founders of Czech modern painting. He studied at the Academy of Fine Arts in Prague, but left in 1906 to study at the Reale Istituto di Belle Arti in Florence. He, Emil Filla, Antonín Procházka, and five others founded Osma, an Expressionist-oriented group of artists."
+      "Jean-Louis-Ernest Meissonier was a French Classicist painter and sculptor famous for his depictions of Napoleon, his armies and military themes. He documented sieges and manoeuvres and was the teacher of Édouard Detaille.",
+      "Meissonier enjoyed great success in his lifetime, and was acclaimed both for his mastery of fine detail and assiduous craftsmanship. The English art critic John Ruskin examined his work at length under a magnifying glass, \"marvelling at Meissonier's manual dexterity and eye for fascinating minutiae.\"",
+      "Meissonier's work commanded enormous prices and in 1846 he purchased a great mansion in Poissy, sometimes known as the Grande Maison. The Grande Maison included two large studios, the atelier d'hiver, or winter workshop, situated on the top floor of the house, and at ground level, a glass-roofed annexe, the atelier d'été or summer workshop. Meissonier himself said that his house and temperament belonged to another age, and some, like the critic Paul Mantz for example, criticised the artist's seemingly limited repertoire."
     ],
     "quote": null,
-    "movements": ["Modern art", "Cubism", "Die Brücke", "Expressionism"],
-    "mediums": ["Oil paint", "Drawing"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Bohumil_Kubi%C5%A1ta",
-    "urlGoogle": "https://artsandculture.google.com/entity/bohumil-kubišta/m0g5m00"
+    "movements": ["Academic art"],
+    "mediums": ["Oil paint", "Pen", "Drawing", "Ink", "Wood", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Ernest_Meissonier",
+    "urlGoogle": "https://artsandculture.google.com/entity/ernest-meissonier/m03w2yz"
   },
   "event": {
-    "id": "operation-sourisak-montry-viii",
-    "name": "Operation Sourisak Montry VIII",
-    "dates": "September 1971 - Jun 22, 1972",
-    "mainImg": "img/events/operation-sourisak-montry-viii.jpg",
+    "id": "siege-of-bergen-op-zoom",
+    "name": "Siege of Bergen op Zoom",
+    "dates": null,
+    "mainImg": "img/events/siege-of-bergen-op-zoom.jpg",
     "summary": [
-      "Operation Sourisak Montry VIII was a Thai military offensive against an encroaching Chinese Communist presence just north of the Mekong River. Operation Phalat established a base camp at Xieng Lom, Laos, on the southern bank of the Mekong River, and garrisoned it with three Thai mercenary battalions. Operation Sourisak Montry was a series of indecisive skirmishes in the same area, during which the Thais won a Pyrrhic victory over the Pathet Lao in mid-March 1972.",
-      "Subsequently, Operation Sourisak Montry VIII in June 1972 attempted to recapture two Lao border villages from Communist forces. The offensive ended poorly, with an Air America civilian pilot killed, an 80-man column pinned down for ten days, and the Thai troops repulsed."
+      "The Siege of Bergen op Zoom took place during the Austrian War of Succession, when a French army, under the command of Lowendal and the overall direction of Marshal Maurice de Saxe, laid siege and captured the strategic Dutch border fortress of Bergen op Zoom on the border of Brabant and Zeeland in 1747. The fortress was defended by Dutch, Austrians, British, Hanoverians and Hessians that supported the Pragmatic Sanction.",
+      "After seven years of brutal war, both sides in this conflict were suffering from weariness of the war. Although tentative peace initiatives had been put forward, neither side was yet willing to make meaningful concessions. The capture of Bergen op Zoom would be a signal defeat for the Dutch and would open the door for an invasion of the Dutch Netherlands. The siege was the center of attention in Europe and news of it followed eagerly in numerous reports with the Pragmatic allies confident that the fortress would withstand the French and the French determined it should fall."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Sourisak_Montry_VIII",
-    "urlGoogle": "https://artsandculture.google.com/entity/operation-sourisak-montry-viii/g11c3xdl9tp"
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Bergen_op_Zoom_%281747%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-bergen-op-zoom/m05f64tj"
   },
   "funFacts": [
     {
-      "id": "818",
-      "fact": "The infinity sign is called a lemniscate.",
-      "category": ["Definitions"]
+      "id": "953",
+      "fact": "The longest attack of hiccups ever lasted 68 years.",
+      "category": ["Anatomy", "History", "Science"]
     },
     {
-      "id": "133",
-      "fact": "Honeybees navigate by using the sun as a compass.",
-      "category": ["Animals", "Geography"]
+      "id": "297",
+      "fact": "David Rice Atchison was President of the United States for only one day.",
+      "category": ["History", "Onlies"]
     }
   ],
   "funFacts2": [
-    { "id": "505072", "fact": "Paraskavedekatriaphobia is the fear of Friday the 13th." }
+    { "id": "553547", "fact": "Blue whales may weigh up to twice as much as the largest dinosaur." }
   ],
   "idiom": {
-    "id": "rob-peter-to-pay-paul",
-    "term": "rob Peter to pay Paul",
-    "definition": "Take from one to give to another, shift resources. For example, *They took out a second mortgage on their house so they could buy a condo in Florida---they're robbing Peter to pay Paul.* Although legend has it that this expression alludes to appropriating the estates of St. Peter's Church, in Westminster, London, to pay for the repairs of St. Paul's Cathedral in the 1800s, the saying first appeared in a work by John Wycliffe about 1382."
+    "id": "green-about-the-gills",
+    "term": "green about the gills",
+    "definition": "Also, **green around the gills.** Looking ill or nauseated, as in *After that bumpy ride she looked quite green about the gills.* The use of *green* to describe an ailing person's complexion dates from about 1300, and *gills* has referred to the flesh around human jaws and ears since the 1600s. Although in the 1800s *white* and *yellow* were paired with *gills* to suggest illness, the alliterative *green* has survived them."
   },
   "person": {
-    "id": "rene-pleven",
-    "name": "René Pleven",
-    "dates": "Apr 15, 1901 - Jan 13, 1993",
-    "mainImg": "img/people/rene-pleven.jpg",
+    "id": "judas-maccabeus",
+    "name": "Judas Maccabeus",
+    "dates": "190 BC - 159 BC",
+    "mainImg": "img/people/judas-maccabeus.jpg",
     "summary": [
-      "René Pleven was a notable French politician of the Fourth Republic. A member of the Free French, he helped found the Democratic and Socialist Union of the Resistance, a political party that was meant to be a successor to the wartime Resistance movement. He served as prime minister two times in the early 1950s, where his most notable contribution was the introduction of the Pleven Plan, which called for a European Defence Community between France, Italy, West Germany, and the Benelux countries."
+      "Judah Maccabee was a Jewish priest and a son of the priest Mattathias. He led the Maccabean Revolt against the Seleucid Empire.",
+      "The Jewish holiday of Hanukkah commemorates the restoration of Jewish worship at the Second Temple in Jerusalem in 164 BCE, after Judah Maccabeus removed all of the statues depicting Greek gods and goddesses and purified it."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ren%C3%A9_Pleven",
-    "urlGoogle": "https://artsandculture.google.com/entity/rené-pleven/m02slvj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Judas_Maccabeus",
+    "urlGoogle": "https://artsandculture.google.com/entity/judas-maccabeus/m01tx4x"
   },
   "place": {
-    "id": "haarlem",
-    "name": "Haarlem",
-    "mainImg": "img/places/haarlem.jpg",
+    "id": "myanmar-burma",
+    "name": "Myanmar (Burma)",
+    "mainImg": "img/places/myanmar-burma.jpg",
     "summary": [
-      "Haarlem is a city and municipality in the Netherlands. It is the capital of the province of North Holland and is situated at the northern edge of the Randstad, one of the most populated metropolitan areas in Europe. Haarlem had a population of 161,265 in 2019.",
-      "Haarlem was granted city status or stadsrechten in 1245, although the first city walls were not built until 1270. The modern city encompasses the former municipality of Schoten as well as parts that previously belonged to Bloemendaal and Heemstede. Apart from the city, the municipality of Haarlem also includes the western part of the village of Spaarndam. Newer sections of Spaarndam lie within the neighbouring municipality of Haarlemmermeer."
+      "Myanmar or Burma, officially the Republic of the Union of Myanmar, is a country in Southeast Asia. Myanmar is bordered by Bangladesh and India to its northwest, China to its northeast, Laos and Thailand to its east and southeast, and the Andaman Sea and the Bay of Bengal to its south and southwest. With a size of 676,578 square kilometres, Myanmar is the largest of the Mainland Southeast Asian states by area. As of 2017, the population is about 54 million. Its capital city is Naypyidaw, and its largest city is Yangon. Myanmar has been a member of the Association of Southeast Asian Nations since 1997.",
+      "Early civilisations in Myanmar included the Tibeto-Burman-speaking Pyu city-states in Upper Burma and the Mon kingdoms in Lower Burma. In the 9th century, the Bamar people entered the upper Irrawaddy valley and, following the establishment of the Pagan Kingdom in the 1050s, the Burmese language, culture and Theravada Buddhism slowly became dominant in the country. The Pagan Kingdom fell due to the Mongol invasions and several warring states emerged."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Haarlem",
-    "urlGoogle": "https://artsandculture.google.com/entity/haarlem/m0h095"
+    "urlWiki": "https://en.wikipedia.org/wiki/Myanmar",
+    "urlGoogle": "https://artsandculture.google.com/entity/myanmar-burma/m04xn_"
   },
   "wiki": {
-    "id": "stegosaurus",
-    "name": "Stegosaurus",
-    "summary": "Stegosaurus is a genus of stegosaurid armoured dinosaur from the Late Jurassic period of what is now western North America. Due to its distinctive tail spikes and plates, Stegosaurus is one of the most recognisable dinosaurs, along with Tyrannosaurus, Triceratops and Diplodocus. At least three species have been identified in the upper Morrison Formation and are known from numerous remains. They lived some 155 to 145 million years ago, in an environment and time dominated by the giant sauropods Diplodocus, Camarasaurus and Apatosaurus. A large, heavily-built and herbivorous quadruped, Stegosaurus had a distinctive and unusual posture, with a heavily-arched back, short forelimbs, head held low to the ground and a stiffened tail held high in the air. Stegosaurus was the largest of all the stegosaurians and, although roughly bus-sized, it nonetheless shared many of the anatomical features with other stegosaurian genera.",
-    "url": "https://en.wikipedia.org/wiki/Stegosaurus"
+    "id": "cerebellum",
+    "name": "Cerebellum",
+    "summary": "The cerebellum is a region of the brain that plays an important role in the integration of sensory perception and motor output. Many neural pathways link the cerebellum with the motor cortex—which sends information to the muscles causing them to move—and the spinocerebellar tract—which provides feedback on the position of the body in space (proprioception). The cerebellum integrates these two functions, using the constant feedback on body position to fine-tune motor movements. Because of this 'updating' function of the cerebellum, lesions within it are not so debilitating as to cause paralysis, but rather present as feedback deficits resulting in disorders in fine movement, equilibrium, posture, and motor learning. Initial observations by physiologists during the 18th century indicated that patients with cerebellar damage show problems with motor coordination and movement. Modern research has shown that the cerebellum has a broader role in a number of key cognitive functions, including attention and the processing of language, music, and other sensory temporal stimuli.",
+    "url": "https://en.wikipedia.org/wiki/Cerebellum"
   },
   "word": {
-    "id": "flyting",
-    "word": "flyting",
-    "url": "https://www.merriam-webster.com/dictionary/flyting",
-    "partOfSpeech": "noun",
-    "pronunciation": "FLY-ting",
-    "audioPath": "audio/words/flyting.mp3",
-    "definitions": ["a dispute or exchange of personal abuse in verse form"],
-    "examples": [
-      "In the first flyting in Shakespeare's _Much Ado About Nothing_, Beatrice wittily responds to Benedick's line \"What, my dear Lady Disdain! are you yet living?\" with \"Is it possible Disdain should die while she hath such meet / food to feed it as Signior Benedick?\""
+    "id": "hew",
+    "word": "hew",
+    "url": "https://www.merriam-webster.com/dictionary/hew",
+    "partOfSpeech": "verb",
+    "pronunciation": "HYOO",
+    "audioPath": "audio/words/hew.mp3",
+    "definitions": [
+      "to cut or fell with blows (as of an ax)",
+      "to give shape to with or as if with an ax",
+      "to conform or to adhere"
     ],
-    "origin": "Flyting in 15th- and 16th-century Scotland is analogous to a modern-day rap competition during which rappers improvise clever disses and put-downs against their opponents. Similarly, the makars (a Scottish word for \"poets\") engaged in verbal duels in which they voiced extravagant invectives in verse against their rivals. The base of \"flyting\" is the ancient verb \"flyte\" (also spelled \"flite\"), meaning \"to contend\" or \"to quarrel.\""
+    "examples": [
+      "Josh was never one to _hew_ to policies with which he disagreed.",
+      "\"Typically at this point on the political calendar, a sitting vice president scrupulously downplays his interest in ascending to the top job.... Vice presidents as varied as Walter Mondale, George H.W. Bush, and Al Gore all gamely _hewed_ to this script.\" - From an article by Noam Scheiber in _The New Republic_, August 24, 2012"
+    ],
+    "origin": "\"Hew\" is a strong, simple word of Anglo-Saxon descent. It can suggest actual ax-wielding, or it can be figurative: \"If ... our ambition hews and shapes \\[our\\] new relations, their virtue escapes, as strawberries lose their flavor in garden-beds\" (Ralph Waldo Emerson). It's easy to see how the figurative \"shape\" sense of \"hew\" developed from the literal hacking sense, but what does chopping have to do with adhering and conforming? That sense first appeared in the late 1800s in the phrase \"hew to the line.\" The \"hew line\" is a line marked along the length of a log indicating where to chop in order to shape a beam. \"Hewing to the line,\" literally, is cutting along the mark-adhering to it-until the side of the log is squared."
   }
 }

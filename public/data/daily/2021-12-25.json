@@ -1,0 +1,123 @@
+{
+  "artist": {
+    "id": "theodore-robinson",
+    "name": "Theodore Robinson",
+    "dates": "Jun 3, 1852 - Apr 2, 1896",
+    "mainImg": "img/art/artists/theodore-robinson.jpg",
+    "artworkImgs": [
+      {
+        "name": "Portrait of Monet",
+        "path": "img/art/artworks/theodore-robinson-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-monet-theodore-robinson/1AGnck0osGTZfA"
+      },
+      {
+        "name": "Low Tide, Riverside Yacht Club",
+        "path": "img/art/artworks/theodore-robinson-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/low-tide-riverside-yacht-club-theodore-robinson/kwFB166TSSn8fg"
+      },
+      {
+        "name": "A Bird's-Eye View",
+        "path": "img/art/artworks/theodore-robinson-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-bird-s-eye-view-theodore-robinson/5wGKv5MkbZqXwQ"
+      },
+      {
+        "name": "Valley of the Seine, Giverny",
+        "path": "img/art/artworks/theodore-robinson-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/valley-of-the-seine-giverny-theodore-robinson/XwEX2LCuw52BmA"
+      },
+      {
+        "name": "House with Scaffolding, Giverny",
+        "path": "img/art/artworks/theodore-robinson-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/house-with-scaffolding-giverny-theodore-robinson/tAEmy1P7k3LM8w"
+      },
+      {
+        "name": "The Bridge at Giverny",
+        "path": "img/art/artworks/theodore-robinson-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bridge-at-giverny-theodore-robinson/wQHCgW1I5y7YCQ"
+      }
+    ],
+    "summary": [
+      "Theodore Robinson was an American painter best known for his Impressionist landscapes. He was one of the first American artists to take up Impressionism in the late 1880s, visiting Giverny and developing a close friendship with Claude Monet. Several of his works are considered masterpieces of American Impressionism."
+    ],
+    "quote": null,
+    "movements": ["American Impressionism", "Impressionism", "Modern art"],
+    "mediums": ["Oil paint", "Watercolor painting", "Drawing", "Photograph", "Wood", "Charcoal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Theodore_Robinson",
+    "urlGoogle": "https://artsandculture.google.com/entity/theodore-robinson/m063zf8"
+  },
+  "event": {
+    "id": "italian-war-of-1551-1559",
+    "name": "Italian War of 1551–1559",
+    "dates": "1551 - 1559",
+    "mainImg": "img/events/italian-war-of-1551-1559.jpg",
+    "summary": [
+      "The Italian War of 1551–1559, sometimes known as the Habsburg–Valois War and the Last Italian War, began when Henry II of France, who had succeeded Francis I to the throne, declared war against Holy Roman Emperor Charles V with the intent of recapturing Italy and ensuring French, rather than Habsburg, domination of European affairs. Historians have emphasized the importance of gunpowder technology, new styles of fortification to resist cannon fire, and the increased professionalization of the soldiers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Italian_War_of_1551%E2%80%931559",
+    "urlGoogle": "https://artsandculture.google.com/entity/italian-war-of-1551–1559/m08l1cw"
+  },
+  "funFacts": [
+    {
+      "id": "913",
+      "fact": "The Saturn V moon rocket consumed 15 tons of fuel per second.",
+      "category": ["Science"]
+    },
+    {
+      "id": "835",
+      "fact": "You burn more calories sleeping than you do watching television.",
+      "category": ["Anatomy", "Habits"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554094",
+      "fact": "A Canadian police officer named Ward Clapham created a program that gives “positive tickets” to people who do good deeds."
+    }
+  ],
+  "person": {
+    "id": "frederick-v-of-the-palatinate",
+    "name": "Frederick V of the Palatinate",
+    "dates": "Aug 26, 1596 - Nov 29, 1632",
+    "mainImg": "img/people/frederick-v-of-the-palatinate.jpg",
+    "summary": [
+      "Frederick V was the Elector Palatine of the Rhine in the Holy Roman Empire from 1610 to 1623, and reigned as King of Bohemia from 1619 to 1620. He was forced to abdicate both roles, and the brevity of his reign in Bohemia earned him the derisive sobriquet \"the Winter King\".",
+      "Frederick was born at the Jagdschloss Deinschwang near Amberg in the Upper Palatinate. He was the son of Frederick IV and of Louise Juliana of Orange-Nassau, the daughter of William the Silent and Charlotte de Bourbon-Montpensier. An intellectual, a mystic, and a Calvinist, he succeeded his father as Prince-Elector of the Rhenish Palatinate in 1610. He was responsible for the construction of the famous Hortus Palatinus gardens in Heidelberg.",
+      "In 1618 the largely Protestant estates of Bohemia rebelled against their Catholic King Ferdinand, triggering the outbreak of the Thirty Years' War. Frederick was asked to assume the crown of Bohemia. He accepted the offer and was crowned on 4 November 1619, as Frederick I."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_V_of_the_Palatinate",
+    "urlGoogle": "https://artsandculture.google.com/entity/frederick-v-of-the-palatinate/m015ylv"
+  },
+  "place": {
+    "id": "braga",
+    "name": "Braga",
+    "mainImg": "img/places/braga.jpg",
+    "summary": [
+      "Braga is a city and a municipality in the northwestern Portuguese district of Braga, in the historical and cultural Minho Province. The city has a resident population of 192,494 inhabitants, representing the seventh largest municipality in Portugal. Its area is 183.40 km². Its agglomerated urban area extends from the Cávado River to the Este River. It is the third-largest urban centre in Portugal.",
+      "It is host to the oldest Portuguese archdiocese, the Archdiocese of Braga of the Catholic Church and it is the seat of the Primacy of the Spains. Under the Roman Empire, then known as Bracara Augusta, the settlement was the capital of the province of Gallaecia. Inside of the city there is also a castle tower that can be visited. Nowadays, Braga is a major hub for inland Northern Portugal and it is an important stop on the Portuguese Way path of the Road of St James. The city was also the European Youth Capital in 2012."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Braga",
+    "urlGoogle": "https://artsandculture.google.com/entity/braga/m026xgs"
+  },
+  "wiki": {
+    "id": "tardis",
+    "name": "TARDIS",
+    "summary": "The TARDIS is a fictional time machine and spacecraft in the British science fiction television programme Doctor Who. A product of Time Lord technology, a properly piloted and working TARDIS is capable of transporting its occupants to any point in space and time. Its interior exists in multidimensional space, leading to it being significantly larger on the inside than it appears from outside. Externally, the TARDIS resembles the shape of a 1950s British police box, and the programme has become so much a part of British popular culture that the shape of the police box is now more immediately associated with the TARDIS than its original real-world function. The word has also entered popular usage and is used to describe anything that seems bigger on the inside than on the outside.",
+    "url": "https://en.wikipedia.org/wiki/TARDIS"
+  },
+  "word": {
+    "id": "blarney",
+    "word": "blarney",
+    "url": "https://www.merriam-webster.com/dictionary/blarney",
+    "partOfSpeech": "noun",
+    "pronunciation": "BLAR-nee",
+    "audioPath": "audio/words/blarney.mp3",
+    "definitions": ["skillful flattery : blandishment", "nonsense, humbug"],
+    "examples": [
+      "The woman at the bar laughingly asked Steve if anyone ever fell for that line of blarney."
+    ],
+    "origin": "The village of Blarney in County Cork, Ireland, is home to Blarney Castle, and in the southern wall of that edifice lies the famous Blarney Stone. Legend has it that anyone who kisses the Blarney Stone will gain the gift of skillful flattery, but that gift must be attained at the price of some limber maneuvering -- you have to lie down and hang your head over a precipice to reach and kiss the stone. One story claims the word “blarney” gained popularity as a word for “flattery” after Queen Elizabeth I of England used it to describe the flowery (but apparently less than honest) cajolery of McCarthy Mor, who was then the lord of Blarney Castle."
+  }
+}

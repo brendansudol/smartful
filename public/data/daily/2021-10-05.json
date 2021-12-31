@@ -1,127 +1,129 @@
 {
   "artist": {
-    "id": "alberto-savinio",
-    "name": "Alberto Savinio",
-    "dates": "Aug 25, 1891 - May 5, 1952",
-    "mainImg": "img/art/artists/alberto-savinio.jpg",
+    "id": "pieter-de-hooch",
+    "name": "Pieter de Hooch",
+    "dates": "Dec 20, 1629 - Mar 24, 1684",
+    "mainImg": "img/art/artists/pieter-de-hooch.jpg",
     "artworkImgs": [
       {
-        "name": "Ritratto di Palma Bucarelli",
-        "path": "img/art/artworks/alberto-savinio-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/ritratto-di-palma-bucarelli-alberto-savinio/LAHa6iSaXoz1qg"
+        "name": "Woman with a Child in a Pantry",
+        "path": "img/art/artworks/pieter-de-hooch-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-with-a-child-in-a-pantry-pieter-de-hooch/hwExw1mUijrfkw"
       },
       {
-        "name": "Ulysse et Polypheme",
-        "path": "img/art/artworks/alberto-savinio-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/ulysse-et-polypheme-alberto-savinio/awHN3taK1X15Ag"
+        "name": "Interior with Women beside a Linen Cupboard",
+        "path": "img/art/artworks/pieter-de-hooch-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/interior-with-women-beside-a-linen-cupboard-pieter-de-hooch/cAGdrX83lvUJFw"
       },
       {
-        "name": "Annunciation",
-        "path": "img/art/artworks/alberto-savinio-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/annunciation-alberto-savinio/RgEfCGQ-0ynNGQ"
+        "name": "Man Handing a Letter to a Woman in the Entrance Hall of a House",
+        "path": "img/art/artworks/pieter-de-hooch-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/man-handing-a-letter-to-a-woman-in-the-entrance-hall-of-a-house-pieter-de-hooch/iAEQbF9tpJLrpQ"
       },
       {
-        "name": "Souvenir d'enfance à Athènes",
-        "path": "img/art/artworks/alberto-savinio-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/souvenir-d-enfance-à-athènes-alberto-savinio/MwGQrMqAmwXDGg"
+        "name": "Figures in a Courtyard behind a House",
+        "path": "img/art/artworks/pieter-de-hooch-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/figures-in-a-courtyard-behind-a-house-pieter-de-hooch/dAEHbqdBZViUQg"
       },
       {
-        "name": "Gomorrhe",
-        "path": "img/art/artworks/alberto-savinio-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/gomorrhe-alberto-savinio/CwET1nS3OC5a4Q"
+        "name": "A Mother Delousing her Child's Hair, known as 'A Mother's Duty'",
+        "path": "img/art/artworks/pieter-de-hooch-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-mother-delousing-her-child-s-hair-known-as-a-mother-s-duty-pieter-de-hooch/2QEJmTuJVEMwuA"
       },
       {
-        "name": "Portrait of Domenico Cesa Bianchi",
-        "path": "img/art/artworks/alberto-savinio-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-domenico-cesa-bianchi-alberto-bianchi/NwFmA-X_8IgWjg"
+        "name": "Paying the Hostess",
+        "path": "img/art/artworks/pieter-de-hooch-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/paying-the-hostess-pieter-de-hooch/pAGMv8W6Ms3Y_w"
       }
     ],
     "summary": [
-      "Alberto Savinio, born Andrea Francesco Alberto de Chirico was an Italian writer, painter, musician, journalist, essayist, playwright, set designer and composer. He was the younger brother of 'metaphysical' painter Giorgio de Chirico. His work often dealt with philosophical and psychological themes, and he also was heavily concerned with the philosophy of art.",
-      "Throughout his life, Savinio composed five operas and authored at least forty-seven books, including multiple autobiographies and memoirs. He also extensively wrote and produced works for the theatre. His work received mixed reviews during his lifetime, often due to his pervasive use of modernist techniques. He was influenced by and a contemporary of Apollinaire, Picasso, Jean Cocteau, Max Jacob, and Fernand Léger, and had a significant influence on the surrealist movement."
+      "Pieter de Hooch was a Dutch Golden Age painter famous for his genre works of quiet domestic scenes with an open doorway. He was a contemporary of Jan Vermeer in the Delft Guild of St. Luke, with whom his work shares themes and style."
     ],
     "quote": null,
-    "movements": ["Surrealism", "Modern art"],
-    "mediums": ["Oil paint", "Tempera", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Alberto_Savinio",
-    "urlGoogle": "https://artsandculture.google.com/entity/alberto-savinio/m08tlmw"
+    "movements": ["Baroque", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Pieter_de_Hooch",
+    "urlGoogle": "https://artsandculture.google.com/entity/pieter-de-hooch/m02sfvv"
   },
   "event": {
-    "id": "stonewall-riots",
-    "name": "Stonewall riots",
-    "dates": "Jun 28, 1969 - Jul 3, 1969",
-    "mainImg": "img/events/stonewall-riots.jpg",
+    "id": "gemini-4",
+    "name": "Gemini 4",
+    "dates": "Jun 3, 1965 - Jun 7, 1965",
+    "mainImg": "img/events/gemini-4.jpg",
     "summary": [
-      "The Stonewall riots were a series of spontaneous demonstrations by members of the gay community in response to a police raid that began in the early morning hours of June 28, 1969, at the Stonewall Inn in the Greenwich Village neighborhood of Manhattan, New York City. Patrons of the Stonewall, other Village lesbian and gay bars, and neighborhood street people fought back when the police became violent. The riots are widely considered to constitute one of the most important events leading to the gay liberation movement and the modern fight for LGBT rights in the United States.",
-      "Gay Americans in the 1950s and 1960s faced an anti-gay legal system. Early homosexual groups in the U.S. sought to prove that gay people could be assimilated into society, and they favored non-confrontational education for homosexuals and heterosexuals alike. The last years of the 1960s, however, were contentious, as many social/political movements were active, including the civil rights movement, the counterculture of the 1960s, and the anti-Vietnam War movement. These influences, along with the liberal environment of Greenwich Village, served as catalysts for the Stonewall riots."
+      "Gemini 4 was the second crewed spaceflight in NASA's Project Gemini, occurring in June 1965. It was the tenth crewed American spaceflight. Astronauts James McDivitt and Ed White circled the Earth 66 times in four days, making it the first US flight to approach the five-day flight of the Soviet Vostok 5. The highlight of the mission was the first space walk by an American, during which White floated free outside the spacecraft, tethered to it, for approximately 20 minutes. Both of these accomplishments helped the United States overcome the Soviet Union's early lead in the Space Race.",
+      "The flight also included the first attempt to make a space rendezvous as McDivitt attempted to maneuver his craft close to the Titan II upper stage which launched it into orbit, but this was not successful.",
+      "The flight was the first American flight to perform many scientific experiments in space, including use of a sextant to investigate the use of celestial navigation for lunar flight in the Apollo program."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Stonewall_riots",
-    "urlGoogle": "https://artsandculture.google.com/entity/stonewall-riots/m078nb"
+    "urlWiki": "https://en.wikipedia.org/wiki/Gemini_4",
+    "urlGoogle": "https://artsandculture.google.com/entity/gemini-4/m01_hzp"
   },
   "funFacts": [
     {
-      "id": "322",
-      "fact": "In the U.S., there are about 15,000 vacuum cleaner-related accidents each year.",
-      "category": ["Habits"]
+      "id": "785",
+      "fact": "The middle finger has the fastest growing nail.",
+      "category": ["Anatomy"]
     },
     {
-      "id": "34",
-      "fact": "If you keep a goldfish in a dark room it will eventually turn white.",
+      "id": "884",
+      "fact": "A strand from the web of a golden spider is as strong as a steel wire of the same size.",
       "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553504",
-      "fact": "Kea parrots spread warbles when they’re in a good mood, making them the first known non-mammal species to communicate with infectious laughter."
+      "id": "553852",
+      "fact": "Galileo's middle finger is on display at the Museo Galileo in Florence, Italy."
     }
   ],
   "idiom": {
-    "id": "in-stitches",
-    "term": "in stitches",
-    "definition": "Laughing uncontrollably, as in *Joke after joke had me in stitches.* Although the precise idiom dates only from about 1930, Shakespeare had a similar expression in *Twelfth Night* (3:2): \"If you desire the spleen, and will laugh yourselves into stitches, follow me.\" *Stitches* here refers to the sharp local pain (known as **a stitch in the side**) that can make one double over, much as a fit of laughter can."
+    "id": "fair-haired-boy",
+    "term": "fair-haired boy",
+    "definition": "A favorite, a person who is given special treatment. For example, *Today the attorney general is the governor's fair-haired boy.* This term alludes to the preference for blond (\"fair\") hair over dark hair. [Late 1800s] A more recent synonym is **golden boy**, dating from the first half of the 1900s and alluding to gold as an item of value. For example, *Holding the directorship of both the Metropolitan Opera and the Boston Symphony Orchestra, James Levine was the golden boy of classical music.* Clifford Odets entitled his 1937 play *Golden Boy.*"
   },
   "person": {
-    "id": "ozden-toker",
-    "name": "Özden Toker",
-    "dates": "Born Feb 7, 1930",
-    "mainImg": "img/people/ozden-toker.jpg",
+    "id": "grand-duke-nicholas-nikolaevich-of-russia",
+    "name": "Grand Duke Nicholas Nikolaevich of Russia",
+    "dates": "Nov 18, 1856 - Jan 5, 1929",
+    "mainImg": "img/people/grand-duke-nicholas-nikolaevich-of-russia.jpg",
     "summary": [
-      "Özden Toker, İsmet İnönü'nün kızı. Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi İngiliz Dili ve Edebiyatı Bölümü'nü bitirdi. Gazeteci Metin Toker'le 1955 yılında evlendi. Bu evlilikten üç çocuğu oldu. İnönü Vakfı'nın kurucuları arasında yer aldı ve annesinden sonra bu vakfın başkanlığını üstlendi. 2002 yılında eşi Metin Toker'i kaybeden Özden Toker İnönü halen Ankara'da yaşamını sürdürmektedir."
+      "Grand Duke Nicholas Nikolaevich of Russia was a Russian general in World War I. A grandson of Emperor Nicholas I of Russia, he was commander in chief of the Russian Imperial Army units on the main front in the first year of the war, during the reign of his nephew, Nicholas II. He proved incompetent in strategy, tactics, logistics and coordination with the government. After the Gorlice–Tarnów Offensive in 1915, Tsar Nicholas replaced the Grand Duke as commander-in-chief of the army. He later was a successful commander-in-chief in the Caucasus region. He was briefly recognized as Tsar, Emperor of Russia in 1922 in areas controlled by the White Armies movement in the Russian Far East."
     ],
     "quote": null,
-    "urlWiki": "https://tr.wikipedia.org/wiki/%C3%96zden_Toker",
-    "urlGoogle": "https://artsandculture.google.com/entity/özden-toker/m0vtfp_l"
+    "urlWiki": "https://en.wikipedia.org/wiki/Grand_Duke_Nicholas_Nikolaevich_of_Russia_%281856%E2%80%931929%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/grand-duke-nicholas-nikolaevich-of-russia/m04p0wc"
   },
   "place": {
-    "id": "damascus",
-    "name": "Damascus",
-    "mainImg": "img/places/damascus.jpg",
+    "id": "gabon",
+    "name": "Gabon",
+    "mainImg": "img/places/gabon.jpg",
     "summary": [
-      "Damascus is the capital of Syria; it is also the country's largest city, following the decline in population of Aleppo due to the battle for the city. It is colloquially known in Syria as aš-Šām and titled the \"City of Jasmine\". Damascus is a major cultural center of the Levant and the Arab world. The city has an estimated population of 1,711,000 as of 2009.",
-      "Located in south-western Syria, Damascus is the center of a large metropolitan area of 2.7 million people. Geographically embedded on the eastern foothills of the Anti-Lebanon mountain range 80 kilometres inland from the eastern shore of the Mediterranean on a plateau 680 metres above sea level, Damascus experiences a semi-arid climate because of the rain shadow effect. The Barada River flows through Damascus.",
-      "First settled in the second millennium BC, it was chosen as the capital of the Umayyad Caliphate from 661 to 750. After the victory of the Abbasid dynasty, the seat of Islamic power was moved to Baghdad. Damascus saw a political decline throughout the Abbasid era, only to regain significant importance in the Ayyubid and Mamluk periods. Today, it is the seat of the central government and all of the government ministries."
+      "Gabon, officially the Gabonese Republic, is a country on the west coast of Central Africa. Located on the equator, Gabon is bordered by Equatorial Guinea to the northwest, Cameroon to the north, the Republic of the Congo on the east and south, and the Gulf of Guinea to the west. It has an area of nearly 270,000 square kilometres and its population is estimated at 2.1 million people. Its capital and largest city is Libreville.",
+      "Since its independence from France in 1960, the sovereign state of Gabon has had three presidents. In the early 1990s, Gabon introduced a multi-party system and a new democratic constitution that allowed for a more transparent electoral process and reformed many governmental institutions.",
+      "Abundant petroleum and foreign private investment have helped make Gabon one of the most prosperous countries in Sub-Saharan Africa, with the 7th highest HDI and the fourth highest GDP per capita in the region. GDP grew by more than 6% per year from 2010 to 2012. However, because of inequality in income distribution, a significant proportion of the population remains poor."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Damascus",
-    "urlGoogle": "https://artsandculture.google.com/entity/damascus/m02gjp"
+    "urlWiki": "https://en.wikipedia.org/wiki/Gabon",
+    "urlGoogle": "https://artsandculture.google.com/entity/gabon/m03548"
   },
   "wiki": {
-    "id": "principality-of-sealand",
-    "name": "Principality of Sealand",
-    "summary": "Sealand is a micronation (a self-declared, unrecognised state-like entity) that claims as its territory Roughs Tower as well as territorial waters in a twelve nautical mile radius. Roughs Tower is a former Maunsell Sea Fort located in the North Sea six miles (10 km) off the coast of Suffolk, United Kingdom. Sealand is occupied by the family and associates of Paddy Roy Bates. The population of the facility rarely exceeds five, and its inhabitable area is 550 m². Sealand is possibly the world's best-known micronation, and although its claims to sovereignty and legitimacy are not recognized by any traditional States, it is nevertheless sometimes cited in debates as an interesting case study of how various principles of international law can be applied to a disputed territory.",
-    "url": "https://en.wikipedia.org/wiki/Principality_of_Sealand"
+    "id": "northrop-yf-23",
+    "name": "Northrop YF-23",
+    "summary": "The Northrop YF-23 was a single-seat, twin-engine fighter aircraft designed for the United States Air Force (USAF). In the 1980s, the USAF began looking for a replacement for its fighter aircraft, especially to counter the USSR's advanced Su-27 and MiG-29. Several companies submitted design proposals; the USAF selected proposals from Northrop and Lockheed. Northrop teamed with McDonnell Douglas to develop the YF-23, while Lockheed, Boeing and General Dynamics developed the YF-22. The YF-23 was stealthier and faster, but less agile than the competition. After a four-year development and evaluation process, the YF-22 was announced the winner in 1991 and entered production as the Lockheed Martin F-22 Raptor. The U.S. Navy considered using one of the ATF aircraft types to replace the F-14, but later canceled these plans. The two YF-23 prototypes were on exhibit in museums as of 2009.",
+    "url": "https://en.wikipedia.org/wiki/Northrop_YF-23"
   },
   "word": {
-    "id": "glower",
-    "word": "glower",
-    "url": "https://www.merriam-webster.com/dictionary/glower",
+    "id": "aggress",
+    "word": "aggress",
+    "url": "https://www.merriam-webster.com/dictionary/aggress",
     "partOfSpeech": "verb",
-    "pronunciation": "GLOW-er (the OW is as in \"cow\")",
-    "audioPath": "audio/words/glower.mp3",
-    "definitions": ["to look or stare with sullen annoyance or anger"],
-    "examples": ["I could sense Katherine glowering at me after I took her usual parking spot."],
-    "origin": "Do words of uncertain origin make you scowl? If so, \"glower\" may put a frown on your face, because only part of its history can be validated. The well-established part of its story leads us to Scotland, where \"glower\" (or \"glowren,\" to use the older Scottish form of the word) has been used since the late Middle Ages. Originally, the word meant simply \"to look intently\" or \"to stare in amazement,\" but by the late 1700s, glowering stares were being associated with anger instead of astonishment. Beyond that, however, the history of the word is murky. The most we can say is that \"glower\" is a distant relative of Middle Low German \"glŪren,\" which means \"to be overcast,\" and of Middle Dutch \"gloeren,\" meaning \"to leer.\""
+    "pronunciation": "uh-GRESS",
+    "audioPath": "audio/words/aggress.mp3",
+    "definitions": ["to commit aggression : to act aggressively"],
+    "examples": [
+      "Certain indicators, such as irritability, can indicate an animal's likelihood to aggress."
+    ],
+    "origin": "\"Aggress\" and its more familiar relatives, \"aggression\" and \"aggressive,\" derive from the Latin verb \"aggredi,\" meaning \"to approach, attack, or undertake.\" When \"aggress\" was first used in English in the 16th century, it meant \"to approach,\" but that use is now obsolete. The current meaning of the word has been with us since the early 18th century. Back then, the noun \"aggress\" (\"an attack\") appeared occasionally as well, but time has relegated that use to obsolescence, too."
   }
 }

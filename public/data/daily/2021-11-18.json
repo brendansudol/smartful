@@ -1,0 +1,116 @@
+{
+  "artist": {
+    "id": "maria-lassnig",
+    "name": "Maria Lassnig",
+    "dates": "Sep 8, 1919 - May 6, 2014",
+    "mainImg": "img/art/artists/maria-lassnig.jpg",
+    "artworkImgs": [
+      {
+        "name": "Woman Power",
+        "path": "img/art/artworks/maria-lassnig-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-power-maria-lassnig/fgEuOLmBQOAr1A"
+      },
+      {
+        "name": "Mourning",
+        "path": "img/art/artworks/maria-lassnig-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mourning-maria-lassnig/CgEodZktnYgA3w"
+      },
+      {
+        "name": "At Night when Mice Scream",
+        "path": "img/art/artworks/maria-lassnig-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/at-night-when-mice-scream-maria-lassnig/QAHtEtU_mK7pgg"
+      },
+      {
+        "name": "Atlas",
+        "path": "img/art/artworks/maria-lassnig-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/atlas-maria-lassnig/2AEoRCl6RT3c8g"
+      }
+    ],
+    "summary": [
+      "Maria Lassnig was an Austrian artist known for her painted self-portraits and her theory of \"body awareness\". She was the first female artist to win the Grand Austrian State Prize in 1988 and was awarded the Austrian Decoration for Science and Art in 2005. Lassnig lived and taught in Vienna from 1980 until her death."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Maria_Lassnig",
+    "urlGoogle": "https://artsandculture.google.com/entity/maria-lassnig/m047p4nk"
+  },
+  "event": {
+    "id": "kristallnacht",
+    "name": "Kristallnacht",
+    "dates": "Nov 9, 1938 - Nov 10, 1938",
+    "mainImg": "img/events/kristallnacht.jpg",
+    "summary": [
+      "Kristallnacht or the Night of Broken Glass, also called the November Pogrom, was a pogrom against Jews carried out by SA paramilitary forces and civilians throughout Nazi Germany on 9–10 November 1938. The German authorities looked on without intervening. The name Kristallnacht comes from the shards of broken glass that littered the streets after the windows of Jewish-owned stores, buildings and synagogues were smashed. The pretext for the attacks was the assassination of the German diplomat Ernst vom Rath by Herschel Grynszpan, a 17-year-old German-born Polish Jew living in Paris.",
+      "Jewish homes, hospitals and schools were ransacked as attackers demolished buildings with sledgehammers. Rioters destroyed 267 synagogues throughout Germany, Austria and the Sudetenland. Over 7,000 Jewish businesses were damaged or destroyed, and 30,000 Jewish men were arrested and incarcerated in concentration camps. British historian Martin Gilbert wrote that no event in the history of German Jews between 1933 and 1945 was so widely reported as it was happening, and the accounts from foreign journalists working in Germany sent shockwaves around the world."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kristallnacht",
+    "urlGoogle": "https://artsandculture.google.com/entity/kristallnacht/m0lcbg"
+  },
+  "funFacts": [
+    {
+      "id": "275",
+      "fact": "It took the first man to walk around the world four years, three months and 16 days to complete his journey.",
+      "category": ["Firsts"]
+    },
+    {
+      "id": "1020",
+      "fact": "DFW Airport in Texas is larger than the island of Manhattan.",
+      "category": ["Geography"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553992",
+      "fact": "When Angelfire launched in the mid-1990s, it offered medical transcription services as well as web-building tools."
+    }
+  ],
+  "person": {
+    "id": "joseph-goebbels",
+    "name": "Joseph Goebbels",
+    "dates": "Oct 29, 1897 - May 1, 1945",
+    "mainImg": "img/people/joseph-goebbels.jpg",
+    "summary": [
+      "Paul Joseph Goebbels was a German Nazi politician and Reich Minister of Propaganda of Nazi Germany from 1933 to 1945. He was one of Adolf Hitler's closest and most devoted associates, and was known for his skills in public speaking and his deeply virulent antisemitism, which was evident in his publicly voiced views. He advocated progressively harsher discrimination, including the extermination of the Jews in the Holocaust.",
+      "Goebbels, who aspired to be an author, obtained a Doctor of Philology degree from the University of Heidelberg in 1921. He joined the Nazi Party in 1924, and worked with Gregor Strasser in their northern branch. He was appointed Gauleiter for Berlin in 1926, where he began to take an interest in the use of propaganda to promote the party and its programme. After the Nazis' seizure of power in 1933, Goebbels's Propaganda Ministry quickly gained and exerted control over the news media, arts, and information in Germany. He was particularly adept at using the relatively new media of radio and film for propaganda purposes. Topics for party propaganda included antisemitism, attacks on the Christian churches, and attempting to shape morale."
+    ],
+    "quote": "“We can do without butter, but, despite all our love of peace, not without arms. One cannot shoot with butter, but with guns.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Joseph_Goebbels",
+    "urlGoogle": "https://artsandculture.google.com/entity/joseph-goebbels/m040by"
+  },
+  "place": {
+    "id": "brașov",
+    "name": "Brașov",
+    "mainImg": "img/places/brașov.jpg",
+    "summary": [
+      "Brașov is a city in Transylvania, Romania and the administrative centre of Brașov County.",
+      "According to the latest Romanian census, Brașov has a population of 253,200 making it the 7th most populous city in Romania. The metropolitan area is home to 382,896 residents.",
+      "Brașov is located in the central part of the country, about 166 kilometres north of Bucharest and 380 kilometres from the Black Sea. It is surrounded by the Southern Carpathians and is part of the historical region of Transylvania.",
+      "The city is notable for being the regional capital of the Transylvanian Saxons of the Burzenland administrative area in the past, and a large commercial hub on the trade roads between East and West. It is also the birthplace of the national anthem of Romania."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bra%C8%99ov",
+    "urlGoogle": "https://artsandculture.google.com/entity/brașov/m0hjtg"
+  },
+  "wiki": {
+    "id": "dendrocollybia",
+    "name": "Dendrocollybia",
+    "summary": "Dendrocollybia is a genus of fungus in the family Tricholomataceae of the order Agaricales. It consists of the single species Dendrocollybia racemosa, a somewhat rare fungus found in the Northern Hemisphere, including the Pacific Northwest region of western North America, and Europe. It usually grows on the decaying fruit bodies of other agarics—such as Lactarius and Russula—although the host mushrooms may be decayed to the point of being difficult to recognize. Dendrocollybia racemosa fruit bodies have small pale grayish-white or grayish-brown caps and thin stems. The species is characterized by its unusual stem, which is covered with short lateral branches. The branches often produce spherical slimeheads of translucent conidiophores on their swollen tips. The conidiophores produce conidia (asexual spores) by mitosis. Because the fungus can rely on either sexual or asexual modes of reproduction, fruit bodies sometimes have reduced or even missing caps. The unusual stems originate from black pea-sized structures called sclerotia. It can reproduce at relatively low temperatures, an adaptation believed to improve its ability to grow quickly and fruit on decomposing mushrooms.",
+    "url": "https://en.wikipedia.org/wiki/Dendrocollybia"
+  },
+  "word": {
+    "id": "sallow",
+    "word": "sallow",
+    "url": "https://www.merriam-webster.com/dictionary/sallow",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SAL-oh",
+    "audioPath": "audio/words/sallow.mp3",
+    "definitions": ["of a grayish greenish yellow color suggesting sickliness"],
+    "examples": [
+      "She decided not to buy the beige blouse because it made her skin look washed-out and _sallow_.",
+      "\"Butterfield is perfect in the title role, his _sallow_ complexion, sunken eyes and haunted gaze every inch the angst-ridden lad that Card created on the page.\" - From a movie review by Derrick Bang in _The Davis Enterprise_ (California), November 1, 2013"
+    ],
+    "origin": "There is no hint of sickliness in the etymology of \"sallow.\" The word appears in Old English as \"salu\" or \"salo,\" and could mean \"dusky\" or \"dark\" or \"grayish greenish yellow.\" \"Salu\" (or \"salo\") is akin to Old English \"sōl\" (\"dark, dirty\"), Old High German \"salo\" (\"murky, dirty gray\"), Old Norse \"sölr\" (\"dirty\"), and even Sanskrit \"sāra\" or \"sāla,\" which carries the basic meaning of \"dirty gray.\" \"Sallow,\" however, has for much of its history been used specifically to describe the skin or complexion of one who is unwell."
+  }
+}

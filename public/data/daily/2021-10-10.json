@@ -1,130 +1,118 @@
 {
   "artist": {
-    "id": "theodore-chasseriau",
-    "name": "Théodore Chassériau",
-    "dates": "Sep 20, 1819 - Oct 8, 1856",
-    "mainImg": "img/art/artists/theodore-chasseriau.jpg",
+    "id": "patti-smith",
+    "name": "Patti Smith",
+    "dates": "Born Dec 30, 1946",
+    "mainImg": "img/art/artists/patti-smith.jpg",
     "artworkImgs": [
       {
-        "name": "Portrait de Mademoiselle de Cabarrus",
-        "path": "img/art/artworks/theodore-chasseriau-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-de-mademoiselle-de-cabarrus-théodore-chassériau/QQEMGKx9ZmTNBg"
+        "name": "Doll",
+        "path": "img/art/artworks/patti-smith-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/doll-patti-jene/1gHcrlypv6OscA"
       },
       {
-        "name": "Arab Horsemen Carrying Away Their Dead",
-        "path": "img/art/artworks/theodore-chasseriau-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/arab-horsemen-carrying-away-their-dead/EQEeSRbi1wXTfA"
+        "name": "Patti Smith Self-Portrait",
+        "path": "img/art/artworks/patti-smith-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/patti-smith-self-portrait-patti-smith/zgEtiQAHEOAFvQ"
       },
       {
-        "name": "Scene in the Jewish Quarter of Constantine",
-        "path": "img/art/artworks/theodore-chasseriau-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/scene-in-the-jewish-quarter-of-constantine-théodore-chassériau/4gF6e_zPz8oKaA"
+        "name": "Clear Lumina with Azurlite",
+        "path": "img/art/artworks/patti-smith-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/clear-lumina-with-azurlite/2AFS-uweHMA6Pg"
       },
       {
-        "name": "Jewish Woman of Algiers Seated on the Ground",
-        "path": "img/art/artworks/theodore-chasseriau-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/jewish-woman-of-algiers-seated-on-the-ground-théodore-chassériau/BAFoW2IeqTLMdw"
-      },
-      {
-        "name": "Woman and Little Girl of Constantine with a Gazelle",
-        "path": "img/art/artworks/theodore-chasseriau-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/woman-and-little-girl-of-constantine-with-a-gazelle-théodore-chassériau/8gFOc6B-CVyJDw"
-      },
-      {
-        "name": "Tepidarium",
-        "path": "img/art/artworks/theodore-chasseriau-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/tepidarium/YwHsuGePx1qpWg"
+        "name": "The Coral Sea Room",
+        "path": "img/art/artworks/patti-smith-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-coral-sea-room-patti-smith/DwEn9ib4Mv6G5g"
       }
     ],
     "summary": [
-      "Théodore Chassériau was a Dominican-born French Romantic painter noted for his portraits, historical and religious paintings, allegorical murals, and Orientalist images inspired by his travels to Algeria. Early in his career he painted in a Neoclassical style close to that of his teacher Jean-Auguste-Dominique Ingres, but in his later works he was strongly influenced by the Romantic style of Eugène Delacroix. He was a prolific draftsman, and made a suite of prints to illustrate Shakespeare's Othello."
+      "Patricia Lee Smith is an American singer-songwriter, musician, author, and poet who became an influential component of the New York City punk rock movement with her 1975 debut album Horses.",
+      "Called the \"punk poet laureate,\" Smith fused rock and poetry in her work. Her most widely known song is \"Because the Night,\" which was co-written with Bruce Springsteen. It reached number 13 on the Billboard Hot 100 chart in 1978 and number five in the U.K. In 2005, Smith was named a Commander of the Ordre des Arts et des Lettres by the French Ministry of Culture. In 2007, she was inducted into the Rock and Roll Hall of Fame.",
+      "On November 17, 2010, Smith won the National Book Award for her memoir Just Kids. The book fulfilled a promise she had made to her former long-time roommate and partner, Robert Mapplethorpe. She placed 47th in Rolling Stone magazine's list of 100 Greatest Artists published in December 2010 and was also a recipient of the 2011 Polar Music Prize."
     ],
-    "quote": null,
-    "movements": ["Romanticism"],
-    "mediums": ["Drawing", "Graphite", "Oil paint", "Etching", "Ink", "Engraving"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Th%C3%A9odore_Chass%C3%A9riau",
-    "urlGoogle": "https://artsandculture.google.com/entity/théodore-chassériau/m03j8xy"
+    "quote": "“Jesus died for somebody's sins but not mine.”",
+    "movements": [],
+    "mediums": ["Rock", "Ceramic", "Graphite", "Glass", "Colored pencil", "Pencil"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Patti_Smith",
+    "urlGoogle": "https://artsandculture.google.com/entity/patti-smith/m05qw5"
   },
   "event": {
-    "id": "hurricane-sandy",
-    "name": "Hurricane Sandy",
-    "dates": "Oct 22, 2012 - Nov 2, 2012",
-    "mainImg": "img/events/hurricane-sandy.jpg",
+    "id": "siege-of-ostend",
+    "name": "Siege of Ostend",
+    "dates": "Jul 5, 1601 - Sep 16, 1604",
+    "mainImg": "img/events/siege-of-ostend.jpg",
     "summary": [
-      "Hurricane Sandy was the deadliest and most destructive, as well as the strongest, hurricane of the 2012 Atlantic hurricane season. Inflicting nearly $70 billion in damage, it was the second-costliest hurricane on record in the United States until surpassed by Hurricanes Harvey and Maria in 2017. The eighteenth named storm, tenth hurricane, and second major hurricane of the year, Sandy was a Category 3 storm at its peak intensity when it made landfall in Cuba. While it was a Category 2 hurricane off the coast of the Northeastern United States, the storm became the largest Atlantic hurricane on record. At least 233 people were killed along the path of the storm in eight countries.",
-      "Sandy developed from a tropical wave in the western Caribbean Sea on October 22, quickly strengthened, and was upgraded to Tropical Storm Sandy six hours later. Sandy moved slowly northward toward the Greater Antilles and gradually intensified. On October 24, Sandy became a hurricane, made landfall near Kingston, Jamaica, re-emerged a few hours later into the Caribbean Sea and strengthened into a Category 2 hurricane."
+      "The Siege of Ostend was a three-year siege of the city of Ostend during the Eighty Years' War and the Anglo–Spanish War. A Spanish force under Archduke Albrecht besieged the fortress being held initially by a Dutch force which was reinforced by English troops under Francis Vere who became the town's governor. It was said \"the Spanish assailed the unassailable; the Dutch defended the indefensible.\" The commitment of both sides in the dispute over the only Dutch ruled area in the province of Flanders, made the campaign continue for more than any other during the war. This resulted in one of the longest and bloodiest sieges in world history: more than 100,000 people were killed, wounded or succumbed to disease during the siege.",
+      "Ostend was resupplied via the sea and as a result held out for three years. A garrison did a tour of duty before being replaced by fresh troops, normally 3,000 at a time keeping casualties and disease to a minimum. The siege consisted of a number of assaults by the Spanish, including a massive unsuccessful assault by 10,000 Spanish infantry in January 1602 when governed by Vere."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Hurricane_Sandy",
-    "urlGoogle": "https://artsandculture.google.com/entity/hurricane-sandy/m0n9fbyf"
+    "urlWiki": "https://en.wikipedia.org/wiki/Siege_of_Ostend",
+    "urlGoogle": "https://artsandculture.google.com/entity/siege-of-ostend/m05hf0_"
   },
   "funFacts": [
-    { "id": "811", "fact": "The dots on a domino are called pips.", "category": ["Definitions"] },
     {
-      "id": "237",
-      "fact": "The number of times a cricket chirps in 15 seconds, plus 37, will give you the current air temperature.",
-      "category": ["Animals", "Make-it-Easies"]
+      "id": "69",
+      "fact": "No word in the English language rhymes with month.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "943",
+      "fact": "George Washington had false teeth made of gold, ivory, and lead - but never wood.",
+      "category": ["History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554040",
-      "fact": "All newspapers in the British \u0003Library were ironed by hand to ensure a clear image before they were microfilmed."
+      "id": "506912",
+      "fact": "As part of David Hasselhoff's divorce settlement, he kept possession of the nickname \"Hoff\" and the catchphrase \"Don't Hassle the Hoff.\""
     }
   ],
-  "idiom": {
-    "id": "roll-the-bones",
-    "term": "roll the bones",
-    "definition": "Cast dice, especially in the game of craps, as in *Let's go to the casino and roll the bones tonight.* This slangy term was first recorded in 1897, but the noun *bones* has referred to dice since the late 1300s (Chaucer used it in *The Pardoner's Tale*)."
-  },
   "person": {
-    "id": "frederick-lugard-1-st-baron-lugard",
-    "name": "Frederick Lugard, 1st Baron Lugard",
-    "dates": "Jan 22, 1858 - Apr 11, 1945",
-    "mainImg": "img/people/frederick-lugard-1-st-baron-lugard.jpg",
+    "id": "edward-grey-1-st-viscount-grey-of-fallodon",
+    "name": "Edward Grey, 1st Viscount Grey of Fallodon",
+    "dates": "Apr 25, 1862 - Sep 7, 1933",
+    "mainImg": "img/people/edward-grey-1-st-viscount-grey-of-fallodon.jpg",
     "summary": [
-      "Frederick John Dealtry Lugard, 1st Baron Lugard, GCMG, CB, DSO, PC, known as Sir Frederick Lugard between 1901 and 1928, was a British soldier, mercenary, explorer of Africa and colonial administrator. He was Governor of Hong Kong, the last Governor of the Southern Nigeria Protectorate, the first High Commissioner and last Governor of the Northern Nigeria Protectorate and the first Governor-General of Nigeria."
+      "Edward Grey, 1st Viscount Grey of Fallodon, KG, PC, DL, FZS, better known as Sir Edward Grey, was a British Liberal statesman and the main force behind British foreign policy in the era of the First World War. An adherent of the \"New Liberalism\", he served as foreign secretary from 1905 to 1916, the longest continuous tenure of any holder in that office. He renewed the 1902 alliance with Japan in 1911. The centrepiece of his policy was the defence of France against German aggression, while avoiding a binding alliance with Paris. He supported France in the Moroccan crises of 1905 in 1911. Another major achievement was the Anglo-Russian entente of 1907. He resolved an outstanding conflict with Germany over the Baghdad railway in 1913, but successfully convinced the cabinet that Britain had an obligation and was honour-bound to defend France, and prevent Germany from controlling Western Europe in August 1914. Once the war began, there was little role for his diplomacy; he lost office in December 1916. He was a leading British supporter of the League of Nations. He is remembered for his \"the lamps are going out\" remark on 3 August 1914 on the outbreak of the First World War."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_Lugard,_1st_Baron_Lugard",
-    "urlGoogle": "https://artsandculture.google.com/entity/frederick-lugard-1st-baron-lugard/m01w5vt"
+    "quote": "“The lamps are going out all over Europe; we shall not see them lit again in our lifetime.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Edward_Grey,_1st_Viscount_Grey_of_Fallodon",
+    "urlGoogle": "https://artsandculture.google.com/entity/edward-grey-1st-viscount-grey-of-fallodon/m01fyzk"
   },
   "place": {
-    "id": "lima",
-    "name": "Lima",
-    "mainImg": "img/places/lima.jpg",
+    "id": "isfahan",
+    "name": "Isfahan",
+    "mainImg": "img/places/isfahan.jpg",
     "summary": [
-      "Lima is the capital and the largest city of Peru. It is located in the valleys of the Chillón, Rímac and Lurín rivers, in the central coastal part of the country, overlooking the Pacific Ocean. Together with the seaport of Callao, it forms a contiguous urban area known as the Lima Metropolitan Area. With a population of more than 9 million, Lima is the most populous metropolitan area of Peru and the seventh-largest metropolitan area in the Americas.",
-      "Lima was named by natives in the agricultural region known by native Peruvians as Limaq. It became the capital and most important city in the Viceroyalty of Peru. Following the Peruvian War of Independence, it became the capital of the Republic of Peru. Around one-third of the national population lives in the metropolitan area.",
-      "Lima is home to one of the oldest institutions of higher learning in the New World. The National University of San Marcos, founded on 12 May 1551, during the Spanish colonial empire, is the first officially established and the oldest continuously functioning university in the Americas.",
-      "Nowadays the city is considered to be the political, cultural, financial and commercial center of the country."
+      "Isfahan, historically also rendered in English as Ispahan, Sepahan, Esfahan or Hispahan, is a city in Iran. It is located 406 kilometres south of Tehran and is the capital of Isfahan Province.",
+      "Isfahan has a population of approximately 2.0 million, making it the third largest city in Iran after Tehran and Mashhad, but was once one of the largest cities in the world.",
+      "Isfahan is an important city as it is located at the intersection of the two principal north–south and east–west routes that traverse Iran. Isfahan flourished from 1050 to 1722, particularly in the 16th and 17th centuries under the Safavid dynasty when it became the capital of Persia for the second time in its history under Shah Abbas the Great. Even today the city retains much of its past glory.",
+      "It is famous for its Perso–Islamic architecture, grand boulevards, covered bridges, palaces, tiled mosques and minarets. Isfahan also has many historical buildings, monuments, paintings and artefacts. The fame of Isfahan led to the Persian pun and proverb \"Esfahān nesf-e- jahān ast\": Isfahan is half the world.",
+      "The Naghsh-e Jahan Square in Isfahan is one of the largest city squares in the world."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Lima",
-    "urlGoogle": "https://artsandculture.google.com/entity/lima/m0lpfh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Isfahan",
+    "urlGoogle": "https://artsandculture.google.com/entity/isfahan/m01gk3x"
   },
   "wiki": {
-    "id": "swedish-language",
-    "name": "Swedish language",
-    "summary": "Swedish is a North Germanic language spoken predominantly in Sweden, part of Finland, and on the autonomous Åland islands, by a total of over 9 million speakers. Standard Swedish is the national language that evolved from the Central Swedish dialects in the 19th century and was well-established by the first decades of the 20th century. While distinct regional varieties still exist, influenced by the older rural dialects, the spoken and written language is uniform and standardized, with a 99% literacy rate among adults. Some of the genuine dialects differ considerably from the standard language in grammar and vocabulary and are not always mutually intelligible with Standard Swedish. These dialects are confined to rural areas and spoken by a rather limited group of people of low education and social mobility. Swedish is distinguished by its prosody, which differs considerably between varieties. It includes both lexical stress and some tonal qualities. Swedish is also notable for the voiceless dorso-palatal velar fricative, a sound found in many dialects, including the more prestigious forms of the standard language.",
-    "url": "https://en.wikipedia.org/wiki/Swedish_language"
+    "id": "comet-shoemaker-levy-9",
+    "name": "Comet Shoemaker-Levy 9",
+    "summary": "Comet Shoemaker-Levy 9 was discovered in a photograph taken on the night of March 24, 1993 with the Schmidt telescope at the Mount Palomar Observatory in California, and was the ninth comet discovered by astronomers Carolyn and Eugene M. Shoemaker and David Levy. It turned out to be the first comet observed orbiting a planet (Jupiter, in this case) and not the Sun. The comet was also unusual because it was in fragments, due to a close encounter with Jupiter in July 1992 when it approached closer to the planet than its Roche limit and was pulled apart by tidal forces. Between July 16 and July 22 1994, the fragments of the comet collided with Jupiter's southern hemisphere at 60 kilometres per second (37 miles per second), providing the first direct observation of the collision of two solar system objects. The collision resulted in disruptions in Jupiter's atmosphere, such as plumes and bubbles of gas, and dark spots in the atmosphere which remained visible for several months. The event was closely observed and recorded by astronomers worldwide as a result of its tremendous scientific importance, and also generated a large amount of coverage in the popular media.",
+    "url": "https://en.wikipedia.org/wiki/Comet_Shoemaker-Levy_9"
   },
   "word": {
-    "id": "undulate",
-    "word": "undulate",
-    "url": "https://www.merriam-webster.com/dictionary/undulate",
-    "partOfSpeech": "verb",
-    "pronunciation": "UN-juh-layt",
-    "audioPath": "audio/words/undulate.mp3",
-    "definitions": [
-      "to form or move in waves : fluctuate",
-      "to rise and fall in volume, pitch, or cadence",
-      "to present a wavy appearance"
-    ],
+    "id": "enormity",
+    "word": "enormity",
+    "url": "https://www.merriam-webster.com/dictionary/enormity",
+    "partOfSpeech": "noun",
+    "pronunciation": "ih-NOR-muh-tee",
+    "audioPath": "audio/words/enormity.mp3",
+    "definitions": ["very large size", "the quality of great impact or importance"],
     "examples": [
-      "From the window of our bed-and-breakfast, we had a gorgeous view of the green hills _undulating_ into the distance.",
-      "\"Seeded with drought-tolerant California native plants, the 1.5-acre surface gently _undulates_, mimicking the surrounding hillsides.\" - From an article by Paul Sisson in the _North County Times_ (Escondido, California), July 26, 2012"
+      "The _enormity_ of the crimes perpetrated by the dictatorial regime has only just begun to receive the international attention it deserves.",
+      "\"The gee-whiz _enormity_ of the project wasn't lost on the dignitaries and hard-hatted utility crews who attended the tunnel-boring machine's unveiling.\" - From an article by Katherine Shaver in _The Washington Post_, April 10, 2013"
     ],
-    "origin": "\"Undulate\" and \"inundate\" are word cousins, sharing \"unda,\" the Latin word for \"wave,\" as their common ancestor. No surprise there. But would you have guessed that \"abound,\" \"surround,\" and \"redound\" are also \"unda\" offspring? The connection between \"unda\" and these words is easier to see when you learn that at some point in their early histories each of them essentially had the meaning of \"to overflow\"-a meaning that \"inundate\" still carries, along with its \"overwhelm\" sense."
+    "origin": "Although \"enormity\" has been used since the late 1700s to denote large size, this usage continues to be disparaged by various language commentators who argue that \"enormity\" should be reserved for senses related to \"great wickedness.\" It is \"enormousness,\" they insist (a hefty and considerably less common word), that should be used in reference to great size, despite the fact that, like \"enormity,\" it too originally was used to denote wickedness or divergence from accepted moral standards. For better or worse, this proscription has been widely ignored by many English speakers, including professional writers. However one chooses to use them, \"enormity\" and \"enormous\" can both be traced back to the Latin \"enormis,\" from the prefix \"e-\" (\"out of\") and \"norma\" (\"rule,\" \"pattern,\" or \"carpenter's square\")."
   }
 }

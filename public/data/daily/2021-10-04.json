@@ -1,115 +1,122 @@
 {
   "artist": {
-    "id": "mark-rothko",
-    "name": "Mark Rothko",
-    "dates": "Sep 25, 1903 - Feb 25, 1970",
-    "mainImg": "img/art/artists/mark-rothko.jpg",
+    "id": "adolfo-hohenstein",
+    "name": "Adolfo Hohenstein",
+    "dates": "Mar 18, 1854 - Apr 12, 1928",
+    "mainImg": "img/art/artists/adolfo-hohenstein.jpg",
     "artworkImgs": [
       {
-        "name": "No. 5 (Untitled)",
-        "path": "img/art/artworks/mark-rothko-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/no-5-untitled-mark-rothko/nQHi-UnfYzuQbA"
+        "name": "Sketches for costumes for Tosca by Giacomo Puccini (reproductions)",
+        "path": "img/art/artworks/adolfo-hohenstein-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/sketches-for-costumes-for-tosca-by-giacomo-puccini-reproductions-adolfo-hohenstein-1854/QQF0LBnKeUwQ4Q"
       },
       {
-        "name": "No. 5 (Untitled)",
-        "path": "img/art/artworks/mark-rothko-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/no-5-untitled-mark-rothko/JQGlL-8KAY5uHw"
+        "name": "Montecarlo",
+        "path": "img/art/artworks/adolfo-hohenstein-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/montecarlo-adolfo-hohenstein/xAGqh2pXbnwyxg"
       },
       {
-        "name": "Untitled",
-        "path": "img/art/artworks/mark-rothko-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/untitled-mark-rothko/VAGPTaOeQaL0ig"
+        "name": "Poster for Madama Butterfly by Giacomo Puccini",
+        "path": "img/art/artworks/adolfo-hohenstein-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/poster-for-madama-butterfly-by-giacomo-puccini-adolf-hohenstein-pietroburgo-18-march-1854-–-bonn-12-april-1928/6QHSGasWmHtkcQ"
       },
       {
-        "name": "Untitled (White, Pink and Mustard)",
-        "path": "img/art/artworks/mark-rothko-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/untitled-white-pink-and-mustard-mark-rothko/mgHle1xJPDDFGQ"
+        "name": "Tosca - Sketch of Act I",
+        "path": "img/art/artworks/adolfo-hohenstein-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/tosca-sketch-of-act-i-adolf-hohenstein/WAGD6h_xs9s4aQ"
+      },
+      {
+        "name": "Eugenio Giraldoni (1871-1924)",
+        "path": "img/art/artworks/adolfo-hohenstein-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/eugenio-giraldoni-1871-1924-adolf-hohenstein/6wFxmnSnufhXAw"
+      },
+      {
+        "name": "Tosca - Costume sketch for Floria Tosca",
+        "path": "img/art/artworks/adolfo-hohenstein-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/tosca-costume-sketch-for-floria-tosca-adolf-hohenstein/IgGXsZQdreb-1w"
       }
     ],
     "summary": [
-      "Mark Rothko, born Markus Yakovlevich Rothkowitz, was an American painter of Lithuanian Jewish descent. Rothko did not personally subscribe to any art movement, but he is generally identified as an abstract expressionist."
+      "Adolfo Hohenstein was a German painter, advertiser, illustrator, set designer and costume designer. He's considered the father of the Italian poster art and an exponent of the Stile Liberty, the Italian Art Nouveau. Together with Leonetto Cappiello, Giovanni Mario Mataloni, Leopoldo Metlicovitz and Marcello Dudovich, he's considered one of the most important Italian poster designers."
     ],
-    "quote": "“There is only one thing I fear in life, my friend: One day, the black will swallow the red.”",
-    "movements": ["Abstract expressionism", "Modern art", "Color field", "Contemporary art"],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Mark_Rothko",
-    "urlGoogle": "https://artsandculture.google.com/entity/mark-rothko/m0yd4t"
+    "quote": null,
+    "movements": ["Art Nouveau"],
+    "mediums": ["Watercolor painting", "Cardboard", "Tempera", "Photograph"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Adolfo_Hohenstein",
+    "urlGoogle": "https://artsandculture.google.com/entity/adolfo-hohenstein/m076t82x"
   },
   "event": {
-    "id": "1954-geneva-conference",
-    "name": "1954 Geneva Conference",
-    "dates": "Apr 26, 1954 - Jul 21, 1954",
-    "mainImg": "img/events/1954-geneva-conference.jpg",
+    "id": "world-war-i",
+    "name": "World War I",
+    "dates": "Jul 28, 1914 - Nov 11, 1918",
+    "mainImg": "img/events/world-war-i.jpg",
     "summary": [
-      "The Geneva Conference was a conference involving several nations that took place in Geneva, Switzerland, from April 26 to July 20, 1954. It was intended to settle outstanding issues resulting from the Korean War and the First Indochina War. The part of the conference on the Korean question ended without adopting any declarations or proposals, so is generally considered less relevant. The Geneva Accords that dealt with the dismantling of French Indochina proved to have long-lasting repercussions, however. The crumbling of the French Empire in Southeast Asia would create the eventual states of the Democratic Republic of Vietnam, the State of Vietnam, the Kingdom of Cambodia, and the Kingdom of Laos.",
-      "Diplomats from South Korea, North Korea, the People's Republic of China, the Union of Soviet Socialist Republics, and the United States of America dealt with the Korean side of the Conference. For the Indochina side, the Accords were between France, the Viet Minh, the USSR, the PRC, the U.S., the United Kingdom, and the future states being made from French Indochina."
+      "World War I, also known as the First World War or the Great War, was a global war that lasted from 1914 to 1918. Contemporaneously described as \"the war to end all wars\", it led to the mobilisation of more than 70 million military personnel, including 60 million Europeans, making it one of the largest wars in history. It is also one of the deadliest conflicts in history, with an estimated 9 million combatant deaths and 13 million civilian deaths as a direct result of the war, while resulting genocides and the related 1918 influenza pandemic caused another 17–100 million deaths worldwide.",
+      "On 28 June 1914, Gavrilo Princip, a Bosnian Serb Yugoslav nationalist, assassinated the Austro-Hungarian heir Archduke Franz Ferdinand in Sarajevo, leading to the July Crisis. In response, on 23 July, Austria-Hungary issued an ultimatum to Serbia. Serbia's reply failed to satisfy the Austrians, and the two moved to a war footing.",
+      "A network of interlocking alliances enlarged the crisis from a bilateral issue in the Balkans to one involving most of Europe."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1954_Geneva_Conference",
-    "urlGoogle": "https://artsandculture.google.com/entity/1954-geneva-conference/m02x42w"
+    "urlWiki": "https://en.wikipedia.org/wiki/World_War_I",
+    "urlGoogle": "https://artsandculture.google.com/entity/world-war-i/m0cm2xh"
   },
   "funFacts": [
-    { "id": "15", "fact": "All porcupines float in water.", "category": ["Animals"] },
     {
-      "id": "185",
-      "fact": "A male kangaroo is called a boomer.",
-      "category": ["Animals", "Definitions"]
-    }
+      "id": "418",
+      "fact": "The smallest mammal in the world is the bumblebee bat, which weighs less than a penny.",
+      "category": ["Animals"]
+    },
+    { "id": "7", "fact": "A queen bee can lay 800-1,500 eggs per day.", "category": ["Animals"] }
   ],
   "funFacts2": [
-    {
-      "id": "553810",
-      "fact": "Trained pigeons can differentiate between the paintings of Pablo Picasso and Claude Monet."
-    }
+    { "id": "505479", "fact": "Yoda was partly modeled after a photo of Albert Einstein." }
   ],
   "idiom": {
-    "id": "thumbs-up",
-    "term": "thumbs up",
-    "definition": "An expression of approval or hopefulness, as in *The town said thumbs up on building the elderly housing project.* The antonym *thumbs down* indicates disapproval or rejection, as in *Mother gave us thumbs down on serving beer at our party.* Alluding to crowd signals used in Roman amphitheaters, these idioms were first recorded in English about 1600. In ancient times the meaning of the gestures was opposite that of today. Thumbs down indicated approval; thumbs up, rejection. Exactly when the reveral occurred is not known, but the present conventions were established by the early 1900s."
+    "id": "stool-pigeon",
+    "term": "stool pigeon",
+    "definition": "A decoy or informer, especially a police spy. For example, *Watch out for Doug; I'm sure he's a stool pigeon for the supervisor.* This term alludes to a bird tied to a stool or similar perch in order to attract other birds, which will then be shot. However, one writer believes that *stool* is a variant for *stale* or *stall,* both nouns used for a decoy bird before 1500 or so. [c. 1820]"
   },
   "person": {
-    "id": "ferdinand-foch",
-    "name": "Ferdinand Foch",
-    "dates": "Oct 2, 1851 - Mar 20, 1929",
-    "mainImg": "img/people/ferdinand-foch.jpg",
+    "id": "leymah-gbowee",
+    "name": "Leymah Gbowee",
+    "dates": "Born Feb 1, 1972",
+    "mainImg": "img/people/leymah-gbowee.jpg",
     "summary": [
-      "Ferdinand Foch was a French general and military theorist who served as the Supreme Allied Commander during the First World War. An aggressive, even reckless commander at the First Marne, Flanders, and Artois campaigns of 1914–1916, Foch became the Allied Commander-in-Chief in late March 1918 in the face of the all-out German spring offensive, which pushed the Allies back using fresh soldiers and new tactics that trenches could not contain. He successfully coordinated the French, British and American efforts into a coherent whole, deftly handling his strategic reserves. He stopped the German offensive and launched a war-winning counterattack. In November 1918, Marshal Foch accepted the German cessation of hostilities and was present at the armistice of 11 November 1918.",
-      "At the outbreak of war in August 1914, Foch's XX Corps participated in the brief invasion of Germany before retreating in the face of a German counter-attack and successfully blocking the Germans short of Nancy. Ordered west to defend Paris, Foch's prestige soared as a result of the victory at the Marne, for which he was widely credited as a chief protagonist while commanding the French Ninth Army."
-    ],
-    "quote": "“The will to conquer is the first condition of victory.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Ferdinand_Foch",
-    "urlGoogle": "https://artsandculture.google.com/entity/ferdinand-foch/m01w_xd"
-  },
-  "place": {
-    "id": "tonga",
-    "name": "Tonga",
-    "mainImg": "img/places/tonga.jpg",
-    "summary": [
-      "Tonga, officially named the Kingdom of Tonga, is a Polynesian sovereign state and archipelago comprising 169 islands, of which 36 are inhabited. The total surface area is about 750 square kilometres scattered over 700,000 square kilometres of the southern Pacific Ocean. The state has a population of 100,651 people, of whom 70% reside on the main island of Tongatapu.",
-      "Tonga stretches across approximately 800 kilometres in a north–south line. It is surrounded by Fiji and Wallis and Futuna to the northwest, Samoa to the northeast, Niue to the east, Kermadec to the southwest, and New Caledonia and Vanuatu to the farther west. It is about 1,800 kilometres from New Zealand's North Island.",
-      "From 1900 to 1970, Tonga had British protected state status, with the United Kingdom looking after its foreign affairs under a Treaty of Friendship. The country never relinquished its sovereignty to any foreign power. In 2010, Tonga took a decisive path towards becoming a constitutional monarchy rather than a traditional absolute kingdom, after legislative reforms passed a course for the first partial representative elections."
+      "Leymah Roberta Gbowee is a Liberian peace activist responsible for leading a women's nonviolent peace movement, Women of Liberia Mass Action for Peace that helped bring an end to the Second Liberian Civil War in 2003. Her efforts to end the war, along with her collaborator Ellen Johnson Sirleaf, helped usher in a period of peace and enabled a free election in 2005 that Sirleaf won. She, along with Ellen Johnson Sirleaf and Tawakkul Karman, were awarded the 2011 Nobel Peace Prize \"for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work.\""
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Tonga",
-    "urlGoogle": "https://artsandculture.google.com/entity/tonga/m07fb6"
+    "urlWiki": "https://en.wikipedia.org/wiki/Leymah_Gbowee",
+    "urlGoogle": "https://artsandculture.google.com/entity/leymah-gbowee/m0czcxyw"
+  },
+  "place": {
+    "id": "okayama",
+    "name": "Okayama",
+    "mainImg": "img/places/okayama.jpg",
+    "summary": [
+      "Okayama is the capital city of Okayama Prefecture in the Chūgoku region of Japan. The city was founded on June 1, 1889.",
+      "As of February 2017, the city has an estimated population of 720,841 and a population density of 910 persons per km². The total area is 789.88 square kilometres.",
+      "The city is the site of Kōraku-en, known as one of the top three traditional gardens in Japan, and Okayama Castle, which is ranked among the best 100 Japanese castles. The city is famous as the setting of the Japanese fable \"Momotarō\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Okayama",
+    "urlGoogle": "https://artsandculture.google.com/entity/okayama/m0gp5my"
   },
   "wiki": {
-    "id": "the-entombment-bouts",
-    "name": "The Entombment (Bouts)",
-    "summary": "The Entombment is a glue-size painting on linen attributed to the Early Netherlandish painter Dirk Bouts. It shows a scene from the biblical entombment of Christ, probably completed between 1440 and 1455 as a wing panel for a large hinged polyptych altarpiece. The now lost altarpiece is thought to have contained a central crucifixion scene flanked by four wing panel works half its length (two either side) depicting scenes from the life of Christ. The larger work was probably commissioned for export, possibly to a Venetian patron whose identity is lost. The Entombment was first recorded in a mid-19th century Milan inventory and has been in the National Gallery, London since its purchase on the gallery's behalf by Charles Eastlake in 1861. The Entombment is renowned for its austere but affecting portrayal of sorrow and grief. It shows four female and three male mourners grieving over the body of Christ. It is one of the few surviving 15th-century paintings created using glue-size, an extremely fragile medium lacking durability.",
-    "url": "https://en.wikipedia.org/wiki/The_Entombment_(Bouts)"
+    "id": "chromatophore",
+    "name": "Chromatophore",
+    "summary": "Chromatophores are pigment-containing and light-reflecting cells found in amphibians, fish, reptiles, crustaceans and cephalopods. They are largely responsible for generating skin and eye colour in cold-blooded animals and are generated in the neural crest during embryonic development. Some species can rapidly change colour through mechanisms that translocate pigment and reorient reflective plates within chromatophores. This process, often used as a type of camouflage, is called physiological colour change. Cephalopods such as octopuses have complex chromatophore organs controlled by muscles to achieve this, while vertebrates such as chameleons generate a similar effect through cell signaling. Such signals can be hormones or neurotransmitters, and may be initiated by changes in mood, temperature or stress, or by visible changes in the local environment. Unlike cold-blooded animals, mammals and birds have only one class of chromatophore-like cells, the melanocyte. The cold-blooded equivalents, melanophores, are studied by scientists to understand human disease, and are used as a tool in drug discovery.",
+    "url": "https://en.wikipedia.org/wiki/Chromatophore"
   },
   "word": {
-    "id": "anathematize",
-    "word": "anathematize",
-    "url": "https://www.merriam-webster.com/dictionary/anathematize",
-    "partOfSpeech": "verb",
-    "pronunciation": "uh-NATH-uh-muh-tyze",
-    "audioPath": "audio/words/anathematize.mp3",
-    "definitions": ["curse, denounce"],
+    "id": "eyas",
+    "word": "eyas",
+    "url": "https://www.merriam-webster.com/dictionary/eyas",
+    "partOfSpeech": "noun",
+    "pronunciation": "EYE-us",
+    "audioPath": "audio/words/eyas.mp3",
+    "definitions": ["an unfledged bird; specifically : a nestling hawk"],
     "examples": [
-      "The biography presents a balanced account of the life of a writer whose work was beloved by the masses and anathematized by critics."
+      "It took about six weeks for the eyas to mature into a fully grown peregrine falcon."
     ],
-    "origin": "When 16th-century English speakers needed a verb meaning \"to condemn by anathema\" (that is, by an official curse from church authority), \"anathematize\" proved to be just the right word. But \"anathematize\" didn't originate in English as a combination of the noun \"anathema\" and the suffix \"-ize.\" Rather, our verb is based on forebears in Late Latin (\"anathematizare\") and Greek (\"anathematizein\"). \"Anathematize\" can still indicate solemn, formal condemnation, but today it can also have milder applications. The same is true of \"anathema,\" which now often means simply \"a vigorous denunciation.\""
+    "origin": "\"Eyas\" is a funny-sounding word that exists because of a mistake. In the 15th century, Middle English speakers made an incorrect assumption about the word \"neias,\" which comes from the Anglo-French \"niais\" (\"fresh from the nest\"). \"A neias\" sounded like \"an eias\" to their ears, so the word lost that initial \"n,\" eventually becoming \"eyas.\" (There are other words in English that were created in this same fashion; for example, \"an apron\" used to be \"a napron.\") The change in spelling may have been suggested by other Middle English words like \"ey\" (\"egg\") and \"eyry,\" which was a spelling of \"aerie,\" the hawk's nest where an eyas would be found."
   }
 }

@@ -1,136 +1,145 @@
 {
   "artist": {
-    "id": "kuroda-seiki",
-    "name": "Kuroda Seiki",
-    "dates": "Aug 9, 1866 - Jul 15, 1924",
-    "mainImg": "img/art/artists/kuroda-seiki.jpg",
+    "id": "lorenzo-monaco",
+    "name": "Lorenzo Monaco",
+    "dates": "1370 - 1425",
+    "mainImg": "img/art/artists/lorenzo-monaco.jpg",
     "artworkImgs": [
       {
-        "name": "Girl of Bréhat",
-        "path": "img/art/artworks/kuroda-seiki-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/girl-of-bréhat-kuroda-seiki/aAGM6lU3eWqyUw"
+        "name": "Madonna and Child",
+        "path": "img/art/artworks/lorenzo-monaco-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-lorenzo-monaco/fQFjNmDsierRrA"
       },
       {
-        "name": "Portrait of Terajima Munenori",
-        "path": "img/art/artworks/kuroda-seiki-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-terajima-munenori-kuroda-seiki/XQHPwDG-oMmjuQ"
+        "name": "Coronation of the Virgin",
+        "path": "img/art/artworks/lorenzo-monaco-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/coronation-of-the-virgin-lorenzo-monaco/4wGwIhQqTqCArw"
       },
       {
-        "name": "Yellow Leafed Poplars",
-        "path": "img/art/artworks/kuroda-seiki-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/yellow-leafed-poplars-kuroda-seiki/jAGUvWvxut3isQ"
+        "name": "The Nativity",
+        "path": "img/art/artworks/lorenzo-monaco-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-nativity-lorenzo-monaco-piero-di-giovanni/dwH207Q57OMDCA"
       },
       {
-        "name": "Portrait of Shimadzu Nariakira (1809-1858)",
-        "path": "img/art/artworks/kuroda-seiki-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-shimadzu-nariakira-1809-1858-kuroda-seiki-1866-1924/qQFrwIgAgBULHw"
+        "name": "Saint Jerome in his Study",
+        "path": "img/art/artworks/lorenzo-monaco-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-jerome-in-his-study-lorenzo-monaco/tgGPSXoPv9zy5Q"
       },
       {
-        "name": "Mt. Fuji(6)",
-        "path": "img/art/artworks/kuroda-seiki-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/mt-fuji-6-kuroda-seiki/1QFctl3Dc23CUw"
+        "name": "Lamentation of Christ",
+        "path": "img/art/artworks/lorenzo-monaco-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lamentation-of-christ-lorenzo-monaco-born-piero-di-giovanni/ngFbsWm5sYsW7A"
       },
       {
-        "name": "Dead Leaves",
-        "path": "img/art/artworks/kuroda-seiki-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/dead-leaves-kuroda-seiki/WQHk1p1haCEkuQ"
+        "name": "The Intercession of Christ and the Virgin",
+        "path": "img/art/artworks/lorenzo-monaco-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-intercession-of-christ-and-the-virgin-lorenzo-monaco-piero-di-giovanni/9wHH2SYm72IhbA"
       }
     ],
     "summary": [
-      "Viscount Kuroda Seiki was a Japanese painter and teacher, noted for bringing Western theories about art to a wide Japanese audience. He was among the leaders of the yōga movement in late 19th and early 20th-century Japanese painting. His real name was Kuroda Kiyoteru, which uses an alternate pronunciation of the Chinese characters."
+      "Lorenzo Monaco was an Italian painter of the late Gothic-early Renaissance age. He was born Piero di Giovanni in Siena. Little is known about his youth, apart from the fact that he was apprenticed in Florence. He was influenced by Giotto and his followers Spinello Aretino and Agnolo Gaddi.",
+      "In 1390 he joined the Camaldolese monastery of Santa Maria degli Angeli. He was thenceforth generally known as Lorenzo Monaco.",
+      "Starting from around 1404 his works show the influence of the International Gothic, of Lorenzo Ghiberti's earliest works and of Gherardo Starnina. From this period is the Pietà in the Gallerie dell'Accademia in Florence. His works, often over a gilded background, showed in general a spiritual value, and usually did not feature profane elements.",
+      "In 1414 he painted the Coronation of the Virgin, characterized by a great number of saints and brilliant colours. In the late part of his life, Lorenzo did not accept the early Renaissance innovations introduced by artists such as Masaccio and Brunelleschi. This is visible in the Adoration of the Magi of 1420–1422, where the now widespread geometrical perspective is totally absent."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Oil paint"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Kuroda_Seiki",
-    "urlGoogle": "https://artsandculture.google.com/entity/kuroda-seiki/m09r0dh"
+    "movements": [
+      "Gothic art",
+      "Renaissance",
+      "Italian Renaissance",
+      "Florentine painting",
+      "Early renaissance"
+    ],
+    "mediums": ["Tempera", "Gold", "Metal", "Gold leaf", "Ink", "Vellum"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lorenzo_Monaco",
+    "urlGoogle": "https://artsandculture.google.com/entity/lorenzo-monaco/m01g9v7"
   },
   "event": {
-    "id": "balkans-theatre",
-    "name": "Balkans theatre",
-    "dates": "Aug 3, 1914 - November 1918",
-    "mainImg": "img/events/balkans-theatre.jpg",
+    "id": "coal-strike-of-1902",
+    "name": "Coal strike of 1902",
+    "dates": "May 12, 1902 - Oct 23, 1902",
+    "mainImg": "img/events/coal-strike-of-1902.jpg",
     "summary": [
-      "The Balkans theatre, or Balkan campaign, of World War I was fought between the Central Powers and the Allies.",
-      "The campaign began with Austria-Hungary's offensive into Serbia, which was repulsed. A new attempt led to the Austro-Hungarian and Bulgarian conquest of Serbia and Montenegro. That led to the Serbian army to retreat through Albania and to be evacuated to Salonika by the Allies. There, they joined with the Franco-British Allied Army of the Orient and fought a protracted trench war against Bulgarian forces on the Macedonian front. The allied army was stationed in Greece, which resulted in the National Schism on whether Greece should join the Allies or remain neutral, which would benefit the Central Powers. Greece eventually joined the Allies in 1917. In September 1918, the Vardar Offensive broke through the lines of Bulgaria, which was forced to surrender, leading to the liberation of Serbia, Albania and Montenegro."
+      "The Coal strike of 1902 was a strike by the United Mine Workers of America in the anthracite coalfields of eastern Pennsylvania. Miners struck for higher wages, shorter workdays, and the recognition of their union. The strike threatened to shut down the winter fuel supply to major American cities. At that time, residences were typically heated with anthracite or \"hard\" coal, which produces higher heat value and less smoke than \"soft\" or bituminous coal.",
+      "The strike never resumed, as the miners received a 10% wage increase and reduced workdays from ten to nine hours; the owners got a higher price for coal and did not recognize the trade union as a bargaining agent. It was the first labor dispute in which the U.S. federal government intervened as a neutral arbitrator."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Balkans_theatre",
-    "urlGoogle": "https://artsandculture.google.com/entity/balkans-theatre/m0ckfcg"
+    "urlWiki": "https://en.wikipedia.org/wiki/Coal_strike_of_1902",
+    "urlGoogle": "https://artsandculture.google.com/entity/coal-strike-of-1902/m055bql"
   },
   "funFacts": [
     {
-      "id": "957",
-      "fact": "In only 7.6 billion years, the sun will reach its maximum size and will shine 3,000 times brighter.",
-      "category": ["Science"]
+      "id": "281",
+      "fact": "The original name of Nashville, Tennessee was Big Salt Lick.",
+      "category": ["Geography", "History"]
     },
     {
-      "id": "684",
-      "fact": "Manhattan Island was once home to as many different species as Yellowstone National Park.",
-      "category": ["History"]
+      "id": "45",
+      "fact": "Elephants are capable of swimming 20 miles per day.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553639",
-      "fact": "A “contronym” is a word that’s its own opposite. For example: If you seed the lawn you add seeds, but if you seed a tomato you remove them."
+      "id": "554008",
+      "fact": "The word dude originated in the 1800s as an insult to men overly concerned with the latest fashion trends."
     }
   ],
   "idiom": {
-    "id": "skid-row",
-    "term": "skid row",
-    "definition": "A squalid district inhabited by derelicts and vagrants; also, a life of impoverished dissipation. For example, *That part of town is our skid row,* or *His drinking was getting so bad we thought he was headed for skid row.* This expression originated in the lumber industry, where a *skid road* was a road or track made of logs laid crosswise over which logs were slid. Around 1900 the name *Skid Road* was used for the part of a town frequented by loggers, which had many bars and brothels, and by the 1930s the variant *skid row,* with its current meaning, came into use."
+    "id": "flash-in-the-pan",
+    "term": "flash in the pan",
+    "definition": "An effort or person that promises great success but fails. For example, *His second novel proved to be a flash in the pan,* or *We had high hopes for the new director, but she was a flash in the pan.* This metaphoric term alludes to the 17th-century flintlock musket, which could be fired only when the flash of the priming powder in the lockpan ignited the charge in the bore. When it failed to ignite, there was only a flash in the pan and the gun did not shoot."
   },
   "person": {
-    "id": "jacqueline-kennedy-onassis",
-    "name": "Jacqueline Kennedy Onassis",
-    "dates": "Jul 28, 1929 - May 19, 1994",
-    "mainImg": "img/people/jacqueline-kennedy-onassis.jpg",
+    "id": "joseph-e-davies",
+    "name": "Joseph E. Davies",
+    "dates": "Nov 29, 1876 - May 9, 1958",
+    "mainImg": "img/people/joseph-e-davies.jpg",
     "summary": [
-      "Jacqueline Lee \"Jackie\" Kennedy Onassis was First Lady of the United States during the presidency of John F. Kennedy and was regarded as an international icon of style and culture.",
-      "Bouvier was born in 1929 in Southampton, New York, to Wall Street stockbroker John Vernou Bouvier III and his wife, Janet Lee Bouvier. In 1951, she graduated with a Bachelor of Arts in French literature from George Washington University and worked for the Washington Times-Herald as an inquiring photographer.",
-      "In 1952, Bouvier met then-Congressman John Kennedy at a dinner party in Washington. Kennedy was elected to the Senate that same year, and the couple married on September 12, 1953, in Newport, Rhode Island. They had four children, two of whom died in infancy. Following her husband's election to the presidency in 1960, Jacqueline was known for her highly publicized restoration of the White House and emphasis on arts and culture, as well as for her style, elegance, and grace. At age 31, she was the third-youngest First Lady when her husband was inaugurated President.",
-      "On November 22, 1963, Jacqueline was riding with her husband in a presidential motorcade in Dallas, Texas, when he was assassinated."
-    ],
-    "quote": "“The children have been a wonderful gift to me, and I'm thankful to have once again seen our world through their eyes. They restore my faith in the family's future.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis",
-    "urlGoogle": "https://artsandculture.google.com/entity/jacqueline-kennedy-onassis/m0h6mq"
-  },
-  "place": {
-    "id": "veliky-novgorod",
-    "name": "Veliky Novgorod",
-    "mainImg": "img/places/veliky-novgorod.jpg",
-    "summary": [
-      "Veliky Novgorod, also known as Novgorod the Great, or Novgorod Veliky, or just Novgorod, is one of the oldest and most important historic cities in Russia, with more than 1,000 years of history. The city serves as the administrative center of Novgorod Oblast. The city lies along the Volkhov River just downstream from its outflow from Lake Ilmen and is situated on the M10 federal highway connecting Moscow and Saint Petersburg. UNESCO recognized Novgorod as a World Heritage Site in 1992. The city has a population of 218,717;",
-      "At its peak during the 14th century, the city was the capital of the Novgorod Republic and was one of Europe's largest cities. The \"Veliky\" part was eventually added to city's name to differentiate it from another city of similar name, Nizhny Novgorod."
+      "Joseph Edward Davies was an American lawyer and diplomat. He was appointed by President Wilson to be Commissioner of Corporations in 1912, and First Chairman of the Federal Trade Commission in 1915. He was the second Ambassador to represent the United States in the Soviet Union and U.S. Ambassador to Belgium and Luxembourg. From 1939 to 1941 Davies was Special assistant to Secretary of State Hull, in charge of War Emergency Problems and Policies. From 1942 through 1946 he was Chairman of President Roosevelt's War Relief Control Board. Ambassador Davies was Special Advisor of President Harry Truman and Secretary of State James F. Byrnes with rank of Ambassador at the Potsdam Conference in 1945."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Veliky_Novgorod",
-    "urlGoogle": "https://artsandculture.google.com/entity/veliky-novgorod/m0cd33"
+    "urlWiki": "https://en.wikipedia.org/wiki/Joseph_E._Davies",
+    "urlGoogle": "https://artsandculture.google.com/entity/joseph-e-davies/m08p5rt"
+  },
+  "place": {
+    "id": "bermuda",
+    "name": "Bermuda",
+    "mainImg": "img/places/bermuda.jpg",
+    "summary": [
+      "Bermuda is a British Overseas Territory in the North Atlantic Ocean. It is approximately 1,035.26 km east-southeast of Cape Hatteras, North Carolina; 1,236 km south of Cape Sable Island, Nova Scotia; 1,759 km northeast of Cuba, and 1,538 km due north of the British Virgin Islands. Though it is typically referred to in the singular, Bermuda consists of 181 islands; the largest of these islands is known as Main Island. The capital city of Bermuda is Hamilton. Bermuda is internally self-governing, with its own constitution and cabinet of ministers selected from the elected Members of the lower house of a Parliament that enacts local laws. As the national government, the Government of the United Kingdom is ultimately responsible for ensuring good governance within British Overseas Territories, and retains responsibility for defence and foreign relations. As of July 2018, it has a population of 71,176, making it the most populous of the British overseas territories. Bermuda's largest economic sectors are offshore insurance, reinsurance, and tourism. Bermuda had one of the world's highest GDP per capita for most of the 20th century."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bermuda",
+    "urlGoogle": "https://artsandculture.google.com/entity/bermuda/m0165b"
   },
   "quote": {
-    "id": "71",
-    "quote": "I'm smart enough to know that I'm dumb.",
-    "author": "Richard Feynman"
+    "id": "2",
+    "quote": "Not how long, but how well you have lived is the main thing.",
+    "author": "Seneca"
   },
   "wiki": {
-    "id": "history-of-the-national-hockey-league-1917-42",
-    "name": "History of the National Hockey League (1917–42)",
-    "summary": "The early history of the National Hockey League (NHL) began in 1917 when it was founded by a majority of the franchises in the National Hockey Association (the Montreal Canadiens, Montreal Wanderers, Ottawa Senators and Quebec Bulldogs). The NHL's first quarter-century saw the league compete against two rival major leagues, the Pacific Coast Hockey Association and Western Canada Hockey League, for players and the Stanley Cup. The NHL first expanded into the United States in 1924 with the founding of the Boston Bruins, and by 1926 consisted of ten teams in Ontario, Quebec, the Great Lakes region, and the Northeastern United States. At the same time, the NHL emerged as the only major league and the sole competitor for the Stanley Cup. Numerous innovations to the rules and equipment were put forward as the NHL sought to improve the flow of the game and make the sport more fan-friendly. Foster Hewitt's radio broadcasts were heard coast-to-coast across Canada starting in 1933. The Great Depression and World War II reduced the league to six teams by 1942, known as the \"Original Six\".",
-    "url": "https://en.wikipedia.org/wiki/History_of_the_National_Hockey_League_(1917%E2%80%9342)"
+    "id": "metroid-prime",
+    "name": "Metroid Prime",
+    "summary": "Metroid Prime is a video game developed by Retro Studios and Nintendo for the Nintendo GameCube, released in North America in 2002 and in Japan and Europe the following year. It is the first 3D game in the Metroid series, the fifth main installment, and is classified by Nintendo as a first-person adventure rather than a first-person shooter, due to the large exploration component of the game and its precedence over combat. Like previous games in the series, Metroid Prime has a science fiction setting, in which players control the bounty hunter Samus Aran. The story follows Samus as she battles the Space Pirates and their biological experiments on the planet Tallon IV. The game was a collaborative effort between Retro's staff in Austin, Texas, and Japanese Nintendo employees, including producer Shigeru Miyamoto, who was the one who suggested the project after visiting Retro's headquarters in 2000. Despite initial backlash from fans due to the first-person perspective, the game was released to both universal acclaim and commercial success, selling more than a million units in North America alone.",
+    "url": "https://en.wikipedia.org/wiki/Metroid_Prime"
   },
   "word": {
-    "id": "remuneration",
-    "word": "remuneration",
-    "url": "https://www.merriam-webster.com/dictionary/remuneration",
+    "id": "rectitude",
+    "word": "rectitude",
+    "url": "https://www.merriam-webster.com/dictionary/rectitude",
     "partOfSpeech": "noun",
-    "pronunciation": "rih-myoo-nuh-RAY-shun",
-    "audioPath": "audio/words/remuneration.mp3",
-    "definitions": ["compensation, payment"],
-    "examples": [
-      "She was hired on several occasions as a consultant and given generous _remunerations_ for her services.",
-      "\"BSkyB CEO Jeremy Darroch saw his _remuneration_ for the latest fiscal year ended in June rise around 7 percent….\" - From an article by Georg Szalai in _Hollywood Reporter_, September 25, 2012"
+    "pronunciation": "REK-tuh-tood",
+    "audioPath": "audio/words/rectitude.mp3",
+    "definitions": [
+      "the quality or state of being straight",
+      "moral integrity : righteousness",
+      "the quality or state of being correct in judgment or procedure"
     ],
-    "origin": "Our evidence shows \"remuneration\" to be most at home in writing that concerns financial matters, especially when large amounts of money-or other forms of compensation-are involved. Whether it's because money denotes numerals, or simply because the \"n\" and \"m\" are adjacent to each other on our keyboards, \"reMUNeration\" appears misspelled as \"reNUMeration\" to a rather inordinate degree in an electronic database of published periodicals. (\"Renumeration,\" a very rare word, means \"to enumerate \\[to count or list\\] again.\") It pays to know that the \"-mun-\" in \"remuneration\" is from Latin \"munus,\" meaning \"gift,\" a root it shares with \"munificent,\" an adjective which means \"very liberal in giving.\""
+    "examples": [
+      "The speaker exhorted audience members to lead lives of unimpeachable _rectitude_ and integrity.",
+      "\"The finance ministry will pitch India's strength as a largely domestic economy, renew its commitment to fiscal _rectitude_ and showcase recent measures to lift sentiment to try and convince global rating firms not to downgrade the country's sovereign rating.\" - From an article by Deepshikha Sikarwar in _The Economic Times_, September 7, 2012"
+    ],
+    "origin": "\"Rectitude\" has a righteous derivation. It comes straight from the Latin noun \"rectus,\" which means both \"right\" and \"straight.\" \"Rectitude\" itself can mean either \"straightness\" (an early use referred to literal straightness of lines, although this sense is now rare) or \"rightness\" of character. \"Rectus\" has a number of other descendants in English, including \"rectangle\" (a figure with four right angles), \"rectify\" (\"to make right\"), \"rectilinear\" (\"moving in or forming a straight line\"), and even \"rectus\" itself (a medical term for any one of several straight muscles in the body)."
   }
 }

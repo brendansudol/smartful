@@ -1,128 +1,128 @@
 {
   "artist": {
-    "id": "jean-honore-fragonard",
-    "name": "Jean-Honoré Fragonard",
-    "dates": "Apr 5, 1732 - Aug 22, 1806",
-    "mainImg": "img/art/artists/jean-honore-fragonard.jpg",
+    "id": "jacob-jordaens",
+    "name": "Jacob Jordaens",
+    "dates": "May 19, 1593 - Oct 18, 1678",
+    "mainImg": "img/art/artists/jacob-jordaens.jpg",
     "artworkImgs": [
       {
-        "name": "Young Girl Reading",
-        "path": "img/art/artworks/jean-honore-fragonard-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/young-girl-reading-jean-honoré-fragonard/JgFJCH9wxBktkg"
+        "name": "The Holy Family with Shepherds",
+        "path": "img/art/artworks/jacob-jordaens-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-holy-family-with-shepherds-jacob-jordaens/5QE78mXGUKhKNg"
       },
       {
-        "name": "The Fountain of Love",
-        "path": "img/art/artworks/jean-honore-fragonard-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-fountain-of-love/OQGTZl4mLLDsGQ"
+        "name": "Mercure et Argus",
+        "path": "img/art/artworks/jacob-jordaens-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mercure-et-argus-jacob-jordaens/nAFYvCJIi-OtfQ"
       },
       {
-        "name": "The Visit to the Nursery",
-        "path": "img/art/artworks/jean-honore-fragonard-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-visit-to-the-nursery-jean-honoré-fragonard/-gENS0_cq2b52Q"
+        "name": "Allegory of Fertility",
+        "path": "img/art/artworks/jacob-jordaens-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/allegory-of-fertility-jacques-jordaens/SQGTPhLdrhrpHg"
       },
       {
-        "name": "Blind-Mans Buff",
-        "path": "img/art/artworks/jean-honore-fragonard-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/blind-mans-buff-jean-honore-fragonard/-wHTjyGs7bd-6w"
+        "name": "Jupiter and Mercury in the House of Philemon and Baucis",
+        "path": "img/art/artworks/jacob-jordaens-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/jupiter-and-mercury-in-the-house-of-philemon-and-baucis-jacob-jordaens/8AG2eapZA6QPZA"
       },
       {
-        "name": "A Game of Hot Cockles",
-        "path": "img/art/artworks/jean-honore-fragonard-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/a-game-of-hot-cockles-jean-honoré-fragonard/YgEVjna97Wb94g"
+        "name": "The Virgin and Child with St. John and His Parents",
+        "path": "img/art/artworks/jacob-jordaens-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-virgin-and-child-with-st-john-and-his-parents-jacob-jordaens/2wHpFDn1AUVb5Q"
       },
       {
-        "name": "A Game of Horse and Rider",
-        "path": "img/art/artworks/jean-honore-fragonard-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/a-game-of-horse-and-rider-jean-honoré-fragonard/qAGQRNfPAdwrBA"
+        "name": "Satyr Playing the Pipe (Jupiter's Childhood) (fragment)",
+        "path": "img/art/artworks/jacob-jordaens-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/satyr-playing-the-pipe-jupiter-s-childhood-fragment-jacob-jordaens/QgFYwwnIvypLNA"
       }
     ],
     "summary": [
-      "Jean-Honoré Fragonard was a French painter and printmaker whose late Rococo manner was distinguished by remarkable facility, exuberance, and hedonism. One of the most prolific artists active in the last decades of the Ancien Régime, Fragonard produced more than 550 paintings, of which only five are dated. Among his most popular works are genre paintings conveying an atmosphere of intimacy and veiled eroticism."
+      "Jacob Jordaens was a Flemish painter, draughtsman and tapestry designer known for his history paintings, genre scenes and portraits. After Peter Paul Rubens and Anthony van Dyck, he was the leading Flemish Baroque painter of his day. Unlike those contemporaries he never travelled abroad to study Italian painting, and his career is marked by an indifference to their intellectual and courtly aspirations. In fact, except for a few short trips to locations in the Low Countries, he remained in Antwerp his entire life. As well as being a successful painter, he was a prominent designer of tapestries.",
+      "Like Rubens, Jordaens painted altarpieces, mythological, and allegorical scenes, and after 1640—the year Rubens died—he was the most important painter in Antwerp for large-scale commissions and the status of his patrons increased in general. However, he is best known today for his numerous large genre scenes based on proverbs in the manner of his contemporary Jan Brueghel the Elder, depicting The King Drinks and As the Old Sing, So Pipe the Young."
     ],
     "quote": null,
-    "movements": ["Rococo", "Renaissance", "Baroque", "Romanticism"],
-    "mediums": ["Etching", "Engraving", "Chalk", "Pigment", "Oil paint", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jean-Honor%C3%A9_Fragonard",
-    "urlGoogle": "https://artsandculture.google.com/entity/jean-honoré-fragonard/m02vt1l"
+    "movements": ["Baroque", "Antwerp school", "Dutch Golden Age"],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Drawing", "Ink", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jacob_Jordaens",
+    "urlGoogle": "https://artsandculture.google.com/entity/jacob-jordaens/m01bbhf"
   },
   "event": {
-    "id": "first-battle-of-the-marne",
-    "name": "First Battle of the Marne",
-    "dates": "Sep 6, 1914 - Sep 10, 1914",
-    "mainImg": "img/events/first-battle-of-the-marne.jpg",
+    "id": "salt-march",
+    "name": "Salt March",
+    "dates": "Mar 12, 1930 - Apr 6, 1930",
+    "mainImg": "img/events/salt-march.jpg",
     "summary": [
-      "The First Battle of the Marne was a World War I battle fought from 6–12 September 1914. It resulted in an Allied victory against the German armies in the west. The battle was the culmination of the German advance into France and pursuit of the Allied armies which followed the Battle of the Frontiers in August and had reached the eastern outskirts of Paris. A counter-attack by six French armies and the British Expeditionary Force along the Marne River forced the Imperial German Army to retreat northwest, leading to the First Battle of the Aisne and the Race to the Sea. The battle was a victory for the Allied Powers but led to four years of trench warfare stalemate on the Western Front.",
-      "The battle of the Marne was a turning point of World War I. By the end of August 1914, the whole Allied army on the Western Front had been forced into a general retreat back towards Paris. Meanwhile, the two main German armies continued through France. It seemed that Paris would be taken as both the French and the British fell back towards the Marne River. The war became a stalemate when the Allied Powers won the Battle of the Marne."
+      "The Salt March, also known as the Salt Satyagraha, Dandi March and the Dandi Satyagraha, was an act of nonviolent civil disobedience in colonial India led by Mohandas Karamchand Gandhi. The 24-day march lasted from 12 March 1930 to 6 April 1930 as a direct action campaign of tax resistance and nonviolent protest against the British salt monopoly. Another reason for this march was that the Civil Disobedience Movement needed a strong inauguration that would inspire more people to follow Gandhi's example. Mahatma Gandhi started this march with 78 of his trusted volunteers. Walking ten miles a day for 24 days, the march spanned over 240 miles, from Sabarmati Ashram to Dandi, which was called Navsari at that time. Growing numbers of Indians joined them along the way. When Gandhi broke the salt laws at 6:30 am on 6 April 1930, it sparked large scale acts of civil disobedience against the British Raj salt laws by millions of Indians.",
+      "After making the salt by evaporation at Dandi, Gandhi continued southward along the coast, making salt and addressing meetings on the way. The Congress Party planned to stage a satyagraha at the Dharasana Salt Works, 25 miles south of Dandi."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/First_Battle_of_the_Marne",
-    "urlGoogle": "https://artsandculture.google.com/entity/first-battle-of-the-marne/m016__j"
+    "urlWiki": "https://en.wikipedia.org/wiki/Salt_March",
+    "urlGoogle": "https://artsandculture.google.com/entity/salt-march/m0324lm"
   },
   "funFacts": [
     {
-      "id": "394",
-      "fact": "Nearly 9,000 people injure themselves with a toothpick each year.",
-      "category": ["Habits"]
+      "id": "98",
+      "fact": "When the moon is directly overhead, you weigh slightly less.",
+      "category": ["Science"]
     },
     {
-      "id": "286",
-      "fact": "The height of the Eiffel Tower varies by as much as 6 inches depending on the temperature.",
-      "category": ["Geography", "Science"]
+      "id": "869",
+      "fact": "Theodore Roosevelt had a pet bear while in office.",
+      "category": ["History"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "554038",
-      "fact": "Hollywood starlet Hedy Lamarr is often called the “mother of Wi-Fi.” She helped invent a version of the frequency-hopping system that led to the creation of GPS, Bluetooth, and wireless internet."
-    }
+    { "id": "553700", "fact": "When asked if Abe had any hobbies, Mary Todd Lincoln said, “Cats.”" }
   ],
   "idiom": {
-    "id": "cross-as-a-bear",
-    "term": "cross as a bear",
-    "definition": "Grumpy, ill-humored, annoyed, as in *Stay away from Claire; she's cross as a bear this morning.* Unlike the earlier *cross as two sticks,* this survives even though the adjective *cross* for \"ill-tempered\" is otherwise not used much in America. It is sometimes amplified as *cross as a bear with a sore head.* [Early 1700s]"
+    "id": "right-as-rain",
+    "term": "right as rain",
+    "definition": "In good order or good health, satisfactory, as in *He was very ill, but he's right as rain now,* or *If she'd only worked on it another week everything would have been as right as rain.* The allusion in this simile is unclear, but it originated in Britain, where rainy weather is a normal fact of life, and indeed W.L. Phelps wrote, \"The expression 'right as rain' must have been invented by an Englishman.\" It was first recorded in 1894."
   },
   "person": {
-    "id": "emmeline-pankhurst",
-    "name": "Emmeline Pankhurst",
-    "dates": "Jul 15, 1858 - Jun 14, 1928",
-    "mainImg": "img/people/emmeline-pankhurst.jpg",
+    "id": "robert-m-la-follette",
+    "name": "Robert M. La Follette",
+    "dates": "Jun 14, 1855 - Jun 18, 1925",
+    "mainImg": "img/people/robert-m-la-follette.jpg",
     "summary": [
-      "Emmeline Pankhurst was a British political activist. She is best remembered for organizing the UK suffragette movement and helping women win the right to vote. In 1999, Time named her as one of the 100 Most Important People of the 20th Century, stating that \"she shaped an idea of women for our time\" and \"shook society into a new pattern from which there could be no going back\". She was widely criticised for her militant tactics, and historians disagree about their effectiveness, but her work is recognised as a crucial element in achieving women's suffrage in the United Kingdom.",
-      "Born in the Moss Side district of Manchester to politically active parents, Pankhurst was introduced at the age of 14 to the women's suffrage movement. She founded and became involved with the Women's Franchise League, which advocated suffrage for both married and unmarried women. When that organisation broke apart, she tried to join the left-leaning Independent Labour Party through her friendship with socialist Keir Hardie but was initially refused membership by the local branch on account of her sex."
+      "Robert Marion La Follette Sr., colloquially known as Fighting Bob, was an American lawyer and politician. He represented Wisconsin in both chambers of Congress and served as the Governor of Wisconsin. A Republican for most of his career, he ran for President of the United States as the nominee of his own Progressive Party in the 1924 presidential election. Historian John D. Buenker describes La Follette as \"the most celebrated figure in Wisconsin history.\"",
+      "Born and raised in Wisconsin, La Follette won election as the Dane County District Attorney in 1880. Four years later, he was elected to the United States House of Representatives, where he was friendly with party leaders like William McKinley. After losing his seat in the 1890 election, La Follette embraced progressivism and built up a coalition of disaffected Republicans. He sought election as governor in 1896 and 1898 before winning the 1900 gubernatorial election. As governor of Wisconsin, La Follette compiled a progressive record, implementing primary elections and tax reform.",
+      "La Follette won re-election in 1902 and 1904, but in 1905 the legislature elected him to the United States Senate."
     ],
-    "quote": "“Justice and judgment lie often a world apart.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst",
-    "urlGoogle": "https://artsandculture.google.com/entity/emmeline-pankhurst/m0gfzc"
+    "quote": "“The will of the people shall be the law of the land.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_M._La_Follette",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-m-la-follette/m01ltns"
   },
   "place": {
-    "id": "oslo",
-    "name": "Oslo",
-    "mainImg": "img/places/oslo.jpg",
+    "id": "lyon",
+    "name": "Lyon",
+    "mainImg": "img/places/lyon.jpg",
     "summary": [
-      "Oslo is the capital and most populous city of Norway. It constitutes both a county and a municipality. During the Viking Age the area was part of Viken, the northernmost Danish province. Oslo was founded as a city at the end of the Viking Age in the year 1040 under the name Ánslo, and established as a kaupstad or trading place in 1048 by Harald Hardrada. The city was elevated to a bishopric in 1070 and a capital under Haakon V of Norway around 1300. Personal unions with Denmark from 1397 to 1523 and again from 1536 to 1814 reduced its influence. After being destroyed by a fire in 1624, during the reign of King Christian IV, a new city was built closer to Akershus Fortress and named Christiania in the king's honour. It was established as a municipality on 1 January 1838. The city functioned as the capital of Norway during the 1814–1905 union between Sweden and Norway. From 1877, the city's name was spelled Kristiania in government usage, a spelling that was adopted by the municipal authorities only in 1897. In 1925 the city, after incorporating the village retaining its former name, was renamed Oslo."
+      "Lyon or Lyons is the third-largest city and second-largest urban area of France. It is located at the confluence of the rivers Rhône and Saône, about 470 km south of Paris, 320 km north of Marseille and 56 km northeast of Saint-Étienne. Inhabitants of the city are called Lyonnais.",
+      "Lyon had a population of 513,275 in 2015. It is the capital of the Metropolis of Lyon and the region of Auvergne-Rhône-Alpes. The Lyon metropolitan area had a population of 2,265,375 in 2014. The city is known for its cuisine and gastronomy, and historical and architectural landmarks; part of it is registered as a UNESCO World Heritage site. Lyon was historically an important area for the production and weaving of silk. Lyon played a significant role in the history of cinema: it is where Auguste and Louis Lumière invented the cinematograph. It is also known for its light festival, the Fête des Lumières, which begins every 8 December and lasts for four days, earning Lyon the title of Capital of Lights.",
+      "Economically, Lyon is a major centre for banking, as well as for the chemical, pharmaceutical, and biotech industries."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Oslo",
-    "urlGoogle": "https://artsandculture.google.com/entity/oslo/m05l64"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lyon",
+    "urlGoogle": "https://artsandculture.google.com/entity/lyon/m0dprg"
   },
   "wiki": {
-    "id": "football-soccer",
-    "name": "Football (soccer)",
-    "summary": "Football, also known as soccer, is a team sport played between two teams, of eleven players each, and is widely considered to be the most popular sport in the world. It is a ball game played on a rectangular grass field (or occasionally on an artificial pitch) with a goal at each end. The object of the game is to score by maneuvering the ball into the opposing goal. The predominant feature of the sport is that no players other than the goalkeepers may use their hands or arms to propel the ball in general play. The winner is the team who scores the most goals by the end of the match. The modern game was codified in England following the formation of the Football Association, whose 1863 Laws of the Game created the foundations for the way the sport is played today. Football is governed internationally by Fédération Internationale de Football Association (FIFA). The most prestigious international football competition is the World Cup, played every four years, which is also the most widely viewed and famous sporting event in the world, watched by twice as many people as the Summer Olympics.",
-    "url": "https://en.wikipedia.org/wiki/Football_(soccer)"
+    "id": "hurricane-john-2006",
+    "name": "Hurricane John (2006)",
+    "summary": "Hurricane John was the eleventh named storm, seventh hurricane, and fifth major hurricane of the 2006 Pacific hurricane season. Hurricane John developed on August 28 from a tropical wave to the south of Mexico. Favorable conditions allowed the storm to intensify quickly, and it attained peak winds of 135 mph (215 km/h) on August 30. Eyewall replacement cycles and land interaction with western Mexico weakened the hurricane, and John made landfall on southeastern Baja California Sur with winds of 110 mph (180 km/h) on September 1. It slowly weakened as it moved northwestward through the Baja California peninsula, and dissipated on September 4. The hurricane threatened large portions of the western coastline of Mexico, resulting in the evacuation of tens of thousands of people. In coastal portions of western Mexico, strong winds downed trees, while heavy rain resulted in mudslides. Hurricane John caused moderate damage on the Baja California peninsula, including the destruction of more than 200 houses and thousands of flimsy shacks. The hurricane killed five people in Mexico, and damage totaled $663 million (2006 MXN, $60.8 million 2006 USD).",
+    "url": "https://en.wikipedia.org/wiki/Hurricane_John_(2006)"
   },
   "word": {
-    "id": "opusculum",
-    "word": "opusculum",
-    "url": "https://www.merriam-webster.com/dictionary/opusculum",
-    "partOfSpeech": "noun",
-    "pronunciation": "oh-PUSK-yuh-lum",
-    "audioPath": "audio/words/opusculum.mp3",
-    "definitions": ["a minor work (as of literature)"],
+    "id": "elysian",
+    "word": "elysian",
+    "url": "https://www.merriam-webster.com/dictionary/elysian",
+    "partOfSpeech": "adjective, often capitalized",
+    "pronunciation": "ih-LIZH-un",
+    "audioPath": "audio/words/elysian.mp3",
+    "definitions": ["of or relating to Elysium", "blissful, delightful"],
     "examples": [
-      "The book is a collection of _opuscula_ written by the author between her two major novels.",
-      "\"Little surprise, then, that McCall Smith has written a kindly, avuncular, contemplative _opusculum_ sharing his enthusiasm with the uninitiated.\" - From an article by Richard Davenport-Hines in _The Spectator_, November 9, 2013"
+      "\"The summer, in some climates, makes possible to man a sort of Elysian life.\" (Henry David Thoreau, _Walden_)"
     ],
-    "origin": "\"Opusculum\"-which is often used in its plural form \"opuscula\"-comes from Latin, where it serves as the diminutive form of the noun \"opus,\" meaning \"work.\" In English, \"opus\" can refer to any literary or artistic work, though it often specifically refers to a musical piece. Logically, then, \"opusculum\" refers to a short or minor work. (\"Opusculum\" isn't restricted to music, though. In fact, it is most often used for literary works.) The Latin plural of \"opus\" is \"opera,\" which gave us (via Italian) the word we know for a musical production consisting primarily of vocal pieces performed with orchestral accompaniment."
+    "origin": "In classical mythology Elysium, also known as the Elysian Fields, was the paradise reserved for the heroes immortalized by the gods. Ancient Greek poets imagined it as the abode of the blessed after death. The first known use of the place-name as a word for a blissful state enjoyed by mere mortals is found in Shakespeare's _Henry V_. Following the Bard, many other writers over the centuries have used \"Elysium,\" as well as \"Elysian Fields,\" to refer to paradisiacal places or states. Samuel Johnson (1709-1784) was the first to summon \"Elysian\" as an adjective for the blissful quality emanating from such places."
   }
 }

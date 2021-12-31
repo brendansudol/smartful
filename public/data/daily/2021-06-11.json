@@ -1,134 +1,130 @@
 {
   "artist": {
-    "id": "utagawa-kuniyoshi",
-    "name": "Utagawa Kuniyoshi",
-    "dates": "Jan 1, 1798 - Apr 14, 1861",
-    "mainImg": "img/art/artists/utagawa-kuniyoshi.jpg",
+    "id": "matthias-stom",
+    "name": "Matthias Stom",
+    "dates": "1600 - 1650",
+    "mainImg": "img/art/artists/matthias-stom.jpg",
     "artworkImgs": [
       {
-        "name": "Scribbles on a Storehouse Wall",
-        "path": "img/art/artworks/utagawa-kuniyoshi-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/scribbles-on-a-storehouse-wall-utagawa-kuniyoshi/1QE714mPiSdxQA"
+        "name": "The Adoration of the Shepherds",
+        "path": "img/art/artworks/matthias-stom-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-adoration-of-the-shepherds-matthias-stom-stomer/YwEv_1zCaBSslQ"
       },
       {
-        "name": "Nozarashi Gosuke",
-        "path": "img/art/artworks/utagawa-kuniyoshi-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/nozarashi-gosuke-utagawa-kuniyoshi/MAFJSISaXXaOUQ"
+        "name": "Mucius Scaevola in the presence of Lars Porsenna",
+        "path": "img/art/artworks/matthias-stom-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mucius-scaevola-in-the-presence-of-lars-porsenna-matthias-stomer/NgGl8_beYsY8Gg"
       },
       {
-        "name": "Hotei and children carrying lanterns",
-        "path": "img/art/artworks/utagawa-kuniyoshi-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/hotei-and-children-carrying-lanterns-artist-utagawa-kuniyoshi/EQG6jQUJWTFVbQ"
+        "name": "Old Woman Praying",
+        "path": "img/art/artworks/matthias-stom-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/old-woman-praying-matthias-stom/IAFIpc0wfcImOg"
       },
       {
-        "name": "Cats' Parody of Kabuki",
-        "path": "img/art/artworks/utagawa-kuniyoshi-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/cats-parody-of-kabuki-utagawa-kuniyoshi/8QFZKysuMN-bBA"
+        "name": "Christ chasing the moneychangers from the temple",
+        "path": "img/art/artworks/matthias-stom-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-chasing-the-moneychangers-from-the-temple-matthias-stom/2wF3EkJo2peG9Q"
       },
       {
-        "name": "(Shimazoroi Onna Benkei Ataka no Matsu) \"Women in Benkei-checkered kimono Pine Trees at Ataka\" Tokyo Metropolitan Library Special Archives",
-        "path": "img/art/artworks/utagawa-kuniyoshi-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/shimazoroi-onna-benkei-ataka-no-matsu-women-in-benkei-checkered-kimono-pine-trees-at-ataka-tokyo-metropolitan-library-special-archives-utagawa-kuniyoshi/mAHsEylmjtVxdg"
+        "name": "The Adoration of the Shepherds",
+        "path": "img/art/artworks/matthias-stom-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-adoration-of-the-shepherds-matthias-stomer/1gGmiAK4tfbeig"
       },
       {
-        "name": "Imperial Bodyguard Watanabe no Tsuna [and the Demon of Rashomon]",
-        "path": "img/art/artworks/utagawa-kuniyoshi-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/imperial-bodyguard-watanabe-no-tsuna-and-the-demon-of-rashomon-artist-utagawa-kuniyoshi/5QEAEdnxzbTKyg"
+        "name": "Christ Before the High Priest",
+        "path": "img/art/artworks/matthias-stom-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/christ-before-the-high-priest-matthias-stom-er/iwGFMyGB6wXH9g"
       }
     ],
     "summary": [
-      "Utagawa Kuniyoshi was one of the last great masters of the Japanese ukiyo-e style of woodblock prints and painting. He was a member of the Utagawa school.",
-      "The range of Kuniyoshi's subjects included many genres: landscapes, beautiful women, Kabuki actors, cats, and mythical animals. He is known for depictions of the battles of legendary samurai heroes. His artwork incorporated aspects of Western representation in landscape painting and caricature."
+      "Matthias Stom or Matthias Stomer was a Dutch, or possibly Flemish, painter who is only known for the works he produced during his residence in Italy. He was influenced by the work of other followers of Caravaggio in Italy, in particular his Dutch followers often referred to as the Utrecht Caravaggists, as well as by Jusepe de Ribera and Peter Paul Rubens. He did not share the other Northern Caravaggisti's preference for humorous, and sometimes scabrous, genre scenes and elaborate decorative allegories but favored stories from the bible instead. He worked in various locations in Italy where he enjoyed the patronage of religious institutions as well as prominent members of the nobilty."
     ],
     "quote": null,
-    "movements": ["Ukiyo-e"],
-    "mediums": ["Ink", "Brocade", "Textile"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Utagawa_Kuniyoshi",
-    "urlGoogle": "https://artsandculture.google.com/entity/utagawa-kuniyoshi/m01rtjk"
+    "movements": ["Baroque", "Dutch Golden Age", "Utrecht Caravaggism"],
+    "mediums": ["Oil paint", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Matthias_Stom",
+    "urlGoogle": "https://artsandculture.google.com/entity/matthias-stom/m03ynwnz"
   },
   "event": {
-    "id": "victory-in-europe-day",
-    "name": "Victory in Europe Day",
-    "dates": "May 8, 1945",
-    "mainImg": "img/events/victory-in-europe-day.jpg",
+    "id": "yugoslav-wars",
+    "name": "Yugoslav Wars",
+    "dates": "1991 - 2001",
+    "mainImg": "img/events/yugoslav-wars.jpg",
     "summary": [
-      "Victory in Europe Day is the day celebrating the formal acceptance by the Allies of World War II of Nazi Germany’s unconditional surrender of its armed forces on Tuesday, 8 May 1945, marking the end of World War II in Europe. Several countries observe public holidays on the day each year, also called Victory Over Fascism Day, Liberation Day or Victory Day. In the UK it is often abbreviated to VE Day, or V-E Day in the US, a term which existed as early as September 1944, in anticipation of victory.",
-      "Several former Soviet bloc countries like Russia, Belarus, and Serbia celebrate on 9 May as the end of all combat actions was specified at 23:01 Central European Time, which was already 9 May in the USSR. Israel also marks VE Day on 9 May, as a result of the large number of immigrants from the former Soviet bloc, although it is not a public holiday."
+      "The Yugoslav Wars were a series of separate but related ethnic conflicts, wars of independence and insurgencies fought in the former Yugoslavia from 1991 to 2001, which led to the breakup of the Yugoslav state. Its constituent republics declared independence, despite unresolved tensions between ethnic minorities in the new countries, fueling the wars.",
+      "Most of the wars ended through peace accords, involving full international recognition of new states, but with a massive human cost and economic damage to the region. Initially the Yugoslav People's Army sought to preserve the unity of the whole of Yugoslavia by crushing the secessionist governments, but it increasingly came under the influence of the Serbian government of Slobodan Milošević, which evoked Serbian nationalist rhetoric and was willing to use the Yugoslav cause to preserve the unity of Serbs in one state. As a result, the JNA began to lose Slovenes, Croats, Kosovar Albanians, Bosniaks, and ethnic Macedonians, and effectively became a Serb army. According to a 1994 United Nations report, the Serb side did not aim to restore Yugoslavia, but to create a \"Greater Serbia\" from parts of Croatia and Bosnia."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Victory_in_Europe_Day",
-    "urlGoogle": "https://artsandculture.google.com/entity/victory-in-europe-day/m01fj6s"
+    "urlWiki": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
+    "urlGoogle": "https://artsandculture.google.com/entity/yugoslav-wars/m0286jd"
   },
   "funFacts": [
     {
-      "id": "477",
-      "fact": "A chalkboard eraser is one of the best ways to wipe a foggy windshield.",
-      "category": ["Make-it-Easies"]
+      "id": "904",
+      "fact": "If done perfectly, any Rubik's Cube combination can be solved in 17 turns.",
+      "category": ["Hodgepodge"]
     },
     {
-      "id": "787",
-      "fact": "Like fingerprints, everyone's tongue print is different.",
-      "category": ["Anatomy"]
+      "id": "786",
+      "fact": "The brain operates on the same amount of power as a 10-watt light bulb.",
+      "category": ["Anatomy", "Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553919",
-      "fact": "Bubble gum is pink because that was the only food dye available in the factory where it was made."
+      "id": "506183",
+      "fact": "It’s illegal to own only one guinea pig in Switzerland. (They get lonely.)"
     }
   ],
   "idiom": {
-    "id": "misery-loves-company",
-    "term": "misery loves company",
-    "definition": "Fellow sufferers make unhappiness easier to bear, as in *She secretly hoped her friend would fail, too---misery loves company.* Words to this effect appeared in the work of Sophocles (c. 408 B.C.) and other ancient writers; the earliest recorded use in English was about 1349."
+    "id": "in-for-a-penny-in-for-a-pound",
+    "term": "in for a penny, in for a pound",
+    "definition": "Once involved, one must not stop at half- measures. For example, *All right, I'll drive you all the way there---in for a penny, in for a pound.* This term originally meant that if one owes a penny one might as well owe a pound, and came into American use without changing the British monetary unit to *dollar.* [Late 1600s]"
   },
   "person": {
-    "id": "edward-gierek",
-    "name": "Edward Gierek",
-    "dates": "Jan 6, 1913 - Jul 29, 2001",
-    "mainImg": "img/people/edward-gierek.jpg",
+    "id": "frederick-william-ii-of-prussia",
+    "name": "Frederick William II of Prussia",
+    "dates": "Sep 25, 1744 - Nov 16, 1797",
+    "mainImg": "img/people/frederick-william-ii-of-prussia.jpg",
     "summary": [
-      "Edward Gierek was a Polish communist politician and de facto leader of Poland between 1970 and 1980. Gierek replaced Władysław Gomułka as First Secretary of the ruling Polish United Workers' Party in the Polish People's Republic in 1970. He is known for opening communist Poland to Western influence and for his economic policies based on foreign loans, which ultimately failed. He was removed from power after labour strikes led to the Gdańsk Agreement between the communist state and workers of the emerging Solidarity free trade union movement.",
-      "Born in Upper Silesia to a devoutly Catholic family, Gierek emigrated with his relatives to France at a young age. In 1934, he was deported to Poland for communist advocacy and campaigning, but subsequently moved to Belgium to work as a coal miner in Genk. As a result, he was proficient in French, which benefited in pursuing his future political career. During the Second World War, Gierek was active in the Belgian Resistance against the Germans. He returned to post-war Poland only in 1948 after spending 22 years abroad."
+      "Frederick William II was King of Prussia from 1786 until his death. He was in personal union the Prince-elector of Brandenburg and sovereign prince of the Canton of Neuchâtel. Pleasure-loving and indolent, he is seen as the antithesis to his predecessor, Frederick II. Under his reign, Prussia was weakened internally and externally, and he failed to deal adequately with the challenges to the existing order posed by the French Revolution. His religious policies were directed against the Enlightenment and aimed at restoring a traditional Protestantism. However, he was a patron of the arts and responsible for the construction of some notable buildings, among them the Brandenburg Gate in Berlin."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Edward_Gierek",
-    "urlGoogle": "https://artsandculture.google.com/entity/edward-gierek/m01kkbp"
+    "urlWiki": "https://en.wikipedia.org/wiki/Frederick_William_II_of_Prussia",
+    "urlGoogle": "https://artsandculture.google.com/entity/frederick-william-ii-of-prussia/m01f9fw"
   },
   "place": {
-    "id": "cairo",
-    "name": "Cairo",
-    "mainImg": "img/places/cairo.jpg",
+    "id": "rennes",
+    "name": "Rennes",
+    "mainImg": "img/places/rennes.jpg",
     "summary": [
-      "Cairo is the capital of Egypt and the largest city in the Arab world. Its metropolitan area, with a population of over 30 million, is the largest in Africa, the Arab world, and the Middle East, and the 6th-largest in the world. Cairo is associated with ancient Egypt, as the famous Giza pyramid complex and the ancient city of Memphis are located in its geographical area. Located near the Nile Delta, Cairo was founded in 969 AD by the Fatimid dynasty, but the land composing the present-day city was the site of ancient national capitals whose remnants remain visible in parts of Old Cairo. Cairo has long been a centre of the region's political and cultural life, and is titled \"the city of a thousand minarets\" for its preponderance of Islamic architecture. Cairo is considered a World City with a \"Beta +\" classification according to GaWC.",
-      "Cairo has the oldest and largest film and music industries in the Arab world, as well as the world's second-oldest institution of higher learning, Al-Azhar University. Many international media, businesses, and organizations have regional headquarters in the city; the Arab League has had its headquarters in Cairo for most of its existence."
+      "Rennes is a city in the east of Brittany in northwestern France at the confluence of the Ille and the Vilaine. Rennes is the capital of the region of Brittany, as well as the Ille-et-Vilaine department.",
+      "Rennes's history goes back more than 2,000 years, at a time when it was a small Gallic village named Condate. Together with Vannes and Nantes, it was one of the major cities of the ancient Duchy of Brittany. From the early sixteenth century until the French Revolution, Rennes was a parliamentary, administrative and garrison city of the historic province of Brittany of the Kingdom of France.",
+      "Since the 1950s, Rennes has grown in importance through rural flight and its modern industrial development, partly automotive. The city developed extensive building plans to accommodate upwards of 200,000 inhabitants. During the 1980s, Rennes became one of the main centres in telecommunication and high technology industry. It is now a significant digital innovation centre in France.",
+      "In 2015, the city was the tenth largest in France, with a metropolitan area of about 720,000 inhabitants. With more than 66,000 students in 2016, it is also the eighth-largest university campus of France."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cairo",
-    "urlGoogle": "https://artsandculture.google.com/entity/cairo/m01w2v"
+    "urlWiki": "https://en.wikipedia.org/wiki/Rennes",
+    "urlGoogle": "https://artsandculture.google.com/entity/rennes/m0chjm"
   },
   "wiki": {
-    "id": "polar-coordinate-system",
-    "name": "Polar coordinate system",
-    "summary": "The polar coordinate system is a two-dimensional coordinate system in which each point on a plane is determined by an angle and a distance. The polar coordinate system is especially useful in situations where the relationship between two points is most easily expressed in terms of angles and distance; in the more familiar Cartesian or rectangular coordinate system, such a relationship can only be found through trigonometric formulae. As the coordinate system is two-dimensional, each point is determined by two polar coordinates: the radial coordinate and the angular coordinate. The radial coordinate (usually denoted as r {\\displaystyle r} ) denotes the point's distance from a central point known as the pole (equivalent to the origin in the Cartesian system). The angular coordinate (also known as the polar angle or the azimuth angle, and usually denoted by θ or t {\\displaystyle t} ) denotes the anticlockwise (counterclockwise) angle required to reach the point from the 0° ray or polar axis (which is equivalent to the positive x-axis in the Cartesian coordinate plane).",
-    "url": "https://en.wikipedia.org/wiki/Polar_coordinate_system"
+    "id": "benjamin-harrison",
+    "name": "Benjamin Harrison",
+    "summary": "Benjamin Harrison (1833–1901) was the 23rd President of the United States, serving one term from 1889 to 1893. Harrison was born in North Bend, Ohio, and at age 21 moved to Indianapolis, Indiana, where he became a prominent state politician. During the American Civil War Harrison served as a Brigadier General in the XXI Corps of the Army of the Cumberland. After the war he unsuccessfully ran for the governorship of Indiana, but was later elected to the U.S. Senate from that state. Harrison, a Republican, was elected to the presidency in 1888, defeating the Democratic incumbent, Grover Cleveland. He is the only president elected from the state of Indiana. His presidential administration is best known for its economic legislation, including the McKinley Tariff and the Sherman Antitrust Act, and for annual federal spending that reached one billion dollars for the first time. Democrats attacked the \"Billion Dollar Congress\", and used the issue, along with the growing unpopularity of the high tariff, to defeat the Republicans, both in the 1890 mid-term elections and in Harrison's bid for re-election in 1892.",
+    "url": "https://en.wikipedia.org/wiki/Benjamin_Harrison"
   },
   "word": {
-    "id": "epistolary",
-    "word": "epistolary",
-    "url": "https://www.merriam-webster.com/dictionary/epistolary",
-    "partOfSpeech": "adjective",
-    "pronunciation": "ih-PIST-uh-lair-ee",
-    "audioPath": "audio/words/epistolary.mp3",
-    "definitions": [
-      "of, relating to, or suitable to a letter",
-      "contained in or carried on by letters",
-      "written in the form of a series of letters"
-    ],
+    "id": "betwixt",
+    "word": "betwixt",
+    "url": "https://www.merriam-webster.com/dictionary/betwixt",
+    "partOfSpeech": "adverb or preposition",
+    "pronunciation": "bih-TWIKST",
+    "audioPath": "audio/words/betwixt.mp3",
+    "definitions": ["between"],
     "examples": [
-      "\"Jonathan Franzen, with whom he had struck up an _epistolary_ friendship, offered to get together that April when he was in Boston.\" - From D.T. Max's 2012 biography _Every Love Story is a Ghost Story: A Life of David Foster Wallace_",
-      "\"If we replace simple letters with their instant always-on alternatives, we relinquish so much _epistolary_ architecture too. The elegant opening address and sign-off, the politeness of tone and the correct grammar and spelling.\" - From an article by Simon Garfield in _The Courier-Journal_ (Louisville, Kentucky), February 14, 2014"
+      "\"Whatever Prabal Gurung thinks about when he is designing … he always views those inspirations from the New York crossroads _betwixt_ uptown and downtown, historically the great divide of American fashion.\" - From an article by Mark Holgate in _Vogue_, November 2010",
+      "\"The film hops back and forth from Clark's grown-up life and his Smallville, Kansas, upbringing…. Superman wrestles with his allegiances, but the quandaries of a superpowered man _betwixt_ worlds doesn't have any real resonance.\" - From a film review by Jake Coyle in _Ventura County Star_ (California), August 8, 2013"
     ],
-    "origin": "\"Epistolary\" was formed from the noun \"epistle,\" which refers to a composition written in the form of a letter to a particular person or group. In its original sense, \"epistle\" refers to one of the 21 letters (such as those from the apostle Paul) found in the New Testament. Dating from the 13th century, \"epistle\" came to English via Anglo-French and Latin from the Greek noun \"epistolē,\" meaning \"message\" or \"letter.\" \"Epistolē,\" in turn, came from the verb \"epistellein,\" meaning \"to send to\" or \"to send from.\" \"Epistolary\" appeared in English four centuries after \"epistle\" and can be used to describe something related to or contained in a letter (as in \"epistolary greetings\") or composed of letters (as in \"an epistolary novel\")."
+    "origin": "\"Jack Sprat could eat no fat, his wife could eat no lean; and so betwixt the two of them, they licked the platter clean.\" Perhaps you've always said \"and so between the two of them\" when reciting the tale of Jack Sprat and his wife. That's fine. \"Betwixt\" and \"between\" have similar origins: they both come from a combination of \"be-\" and related Old English roots. Both words appeared before the 12th century, but use of \"betwixt\" dropped off considerably toward the end of the 1600s. It survived in the phrase \"betwixt and between\" (\"neither one thing nor the other\"), which took on a life of its own in the 18th century. Nowadays \"betwixt\" is uncommon, but it isn't archaic; it's simply used more consciously than \"between.\""
   }
 }

@@ -1,134 +1,133 @@
 {
   "artist": {
-    "id": "francisco-goya",
-    "name": "Francisco Goya",
-    "dates": "Mar 30, 1746 - Apr 16, 1828",
-    "mainImg": "img/art/artists/francisco-goya.jpg",
+    "id": "keisai-eisen",
+    "name": "Keisai Eisen",
+    "dates": "1790 - 1848",
+    "mainImg": "img/art/artists/keisai-eisen.jpg",
     "artworkImgs": [
       {
-        "name": "The sleep of reason produces monsters (No. 43), from Los Caprichos",
-        "path": "img/art/artworks/francisco-goya-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-sleep-of-reason-produces-monsters-no-43-from-los-caprichos-francisco-josé-de-goya-y-lucientes/FAF4YL0zP9cjHg"
+        "name": "Geisha in groen-gele kimono",
+        "path": "img/art/artworks/keisai-eisen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/geisha-in-groen-gele-kimono-keisai-eisen-tameiya-zembei/0QHqQK-6ILQrdA"
       },
       {
-        "name": "Witches' Sabbath",
-        "path": "img/art/artworks/francisco-goya-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/witches-sabbath-francisco-de-goya-y-lucientes/kAFyfuppyHHyBw"
+        "name": "Ukie Edo Ryogokubashi noryo no zu",
+        "path": "img/art/artworks/keisai-eisen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ukie-edo-ryogokubashi-noryo-no-zu-artist-keisai-eisen/XQHF-m-dGBhqhg"
       },
       {
-        "name": "The Sleep of Reason Produces Monsters",
-        "path": "img/art/artworks/francisco-goya-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-sleep-of-reason-produces-monsters-francisco-de-goya-y-lucientes/XgG3AE0s3xlYCw"
+        "name": "Print",
+        "path": "img/art/artworks/keisai-eisen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/print-keisai-eisen/pAFDi_Fnzzg36A"
       },
       {
-        "name": "The School Scene (La Letra con Sangre Entra)",
-        "path": "img/art/artworks/francisco-goya-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-school-scene-la-letra-con-sangre-entra-francisco-de-goya-y-lucientes/WQHmfveamlnqXQ"
+        "name": "The Courtesan Hanaōgi of the Ōgiya House",
+        "path": "img/art/artworks/keisai-eisen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-courtesan-hanaōgi-of-the-ōgiya-house-keisai-eisen/MQG80FZNRJQoLA"
       },
       {
-        "name": "And so was his grandfather",
-        "path": "img/art/artworks/francisco-goya-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/and-so-was-his-grandfather-francisco-goya-y-lucientes/YQHFCK7IaAkkeA"
+        "name": "Liefdespaar bij volle maan",
+        "path": "img/art/artworks/keisai-eisen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/liefdespaar-bij-volle-maan-attributed-to-keisai-eisen/CAEI9VhBu14usw"
       },
       {
-        "name": "El sueño de la razón produce monstruos",
-        "path": "img/art/artworks/francisco-goya-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/el-sueño-de-la-razón-produce-monstruos-francisco-josé-de-goya-y-lucientes/1wGN0bdAxSEyrg"
+        "name": "Eight Views of Edo City - Misty Weather at Edo Nihombashi",
+        "path": "img/art/artworks/keisai-eisen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/eight-views-of-edo-city-misty-weather-at-edo-nihombashi-keisai-eisen/vAE8eEfrx7lhvA"
       }
     ],
     "summary": [
-      "Francisco José de Goya y Lucientes was a Spanish romantic painter and printmaker. He is considered the most important Spanish artist of the late 18th and early 19th centuries and throughout his long career was a commentator and chronicler of his era. Immensely successful in his lifetime, Goya is often referred to as both the last of the Old Masters and the first of the moderns. He was also one of the great portraitists of his time.",
-      "Goya was born to a lower-middle-class family in 1746, in Fuendetodos in Aragon. He studied painting from age 14 under José Luzán y Martinez and moved to Madrid to study with Anton Raphael Mengs. He married Josefa Bayeu in 1773; their life was characterised by an almost constant series of pregnancies and miscarriages, and only one child, a son, survived into adulthood. Goya became a court painter to the Spanish Crown in 1786 and this early portion of his career is marked by portraits of the Spanish aristocracy and royalty, and Rococo style tapestry cartoons designed for the royal palace.",
-      "He was guarded, and although letters and writings survive, little is known about his thoughts."
-    ],
-    "quote": "“Fantasy, abandoned by reason, produces impossible monsters; united with it, she is the mother of the arts and the origin of marvels.”",
-    "movements": ["Romanticism", "Renaissance", "Rococo"],
-    "mediums": ["Etching", "Oil paint", "Drawing", "Ink", "Laid paper", "Textile"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Francisco_Goya",
-    "urlGoogle": "https://artsandculture.google.com/entity/francisco-goya/m02y23"
-  },
-  "event": {
-    "id": "the-blitz",
-    "name": "The Blitz",
-    "dates": "Sep 7, 1940 - May 11, 1941",
-    "mainImg": "img/events/the-blitz.jpg",
-    "summary": [
-      "The Blitz was a German bombing campaign against the United Kingdom in 1940 and 1941, during the Second World War. The term was first used by the British press and is the German word for 'lightning'.",
-      "The Germans conducted mass air attacks against industrial targets, towns, and cities, beginning with raids on London towards the end of the Battle of Britain in 1940. By September 1940, the Luftwaffe had failed and the German air fleets were ordered to attack London, to draw RAF Fighter Command into a battle of annihilation. Adolf Hitler and Reichsmarschall Hermann Göring, commander-in-chief of the Luftwaffe, ordered the new policy on 6 September 1940. From 7 September 1940, London was systematically bombed by the Luftwaffe for 56 of the following 57 days and nights. Most notable was a large daylight attack against London on 15 September.",
-      "The Luftwaffe gradually decreased daylight operations in favour of night attacks to evade attack by the RAF, and the Blitz became a night bombing campaign after October 1940. The Luftwaffe attacked the main Atlantic sea port of Liverpool in the Liverpool Blitz."
+      "Keisai Eisen was a Japanese ukiyo-e artist who specialised in bijin-ga. His best works, including his ōkubi-e, are considered to be masterpieces of the \"decadent\" Bunsei Era. He was also known as Ikeda Eisen, and wrote under the name of Ippitsuan."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/The_Blitz",
-    "urlGoogle": "https://artsandculture.google.com/entity/the-blitz/m0sln1"
+    "movements": ["Ukiyo-e"],
+    "mediums": ["Ink", "Book", "Rock", "Ceramic", "Clay"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Keisai_Eisen",
+    "urlGoogle": "https://artsandculture.google.com/entity/keisai-eisen/m026w222"
+  },
+  "event": {
+    "id": "1960-u-2-incident",
+    "name": "1960 U-2 incident",
+    "dates": null,
+    "mainImg": "img/events/1960-u-2-incident.jpg",
+    "summary": [
+      "On 1 May 1960, a United States U-2 spy plane was shot down by the Soviet Air Defence Forces while performing photographic aerial reconnaissance deep into Soviet territory. The single-seat aircraft, flown by pilot Francis Gary Powers, was hit by an S-75 Dvina surface-to-air missile and crashed near Sverdlovsk. Powers parachuted safely and was captured.",
+      "Initially, the US authorities acknowledged the incident as the loss of a civilian weather research aircraft operated by NASA, but were forced to admit the mission's true purpose when a few days later the Soviet government produced the captured pilot and parts of the U-2's surveillance equipment, including photographs of Soviet military bases taken during the mission.",
+      "The incident occurred during the presidency of Dwight D. Eisenhower and the premiership of Nikita Khrushchev, around two weeks before the scheduled opening of an east–west summit in Paris. It caused great embarrassment to the United States and prompted a marked deterioration in its relations with the Soviet Union, already strained by the ongoing Cold War."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/1960_U-2_incident",
+    "urlGoogle": "https://artsandculture.google.com/entity/1960-u-2-incident/m01sbxt"
   },
   "funFacts": [
     {
-      "id": "20",
-      "fact": "Broccoli is the only vegetable that is also a flower.",
-      "category": ["Food", "Plants"]
+      "id": "203",
+      "fact": "Atlantic salmon are capable of leaping 15 feet high.",
+      "category": ["Animals"]
     },
     {
-      "id": "944",
-      "fact": "Napoleon Bonaparte was actually not short.  At 5' 7\", he was average height for his time.",
-      "category": ["History"]
+      "id": "779",
+      "fact": "A group of jellyfish is called a smack.",
+      "category": ["Animals", "Definitions"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553446",
-      "fact": "Fireworks were ignited over Philadelphia to celebrate the first anniversary of the signing of the Declaration of Independence in 1777."
+      "id": "553552",
+      "fact": "A 150-year-old tree at the Ashikaga Flower Park is believed to be the oldest living wisteria in Japan."
     }
   ],
   "idiom": {
-    "id": "when-in-rome-do-as-the-romans-do",
-    "term": "when in Rome do as the Romans do",
-    "definition": "Follow local custom, as in *Kate said they'd all be wearing shorts or blue jeans to the outdoor wedding, so when in Rome---we'll do the same.* This advice allegedly was Saint Ambrose's answer to Saint Augustine when asked whether they should fast on Saturday as Romans did, or not, as in Milan. It appeared in English by about 1530 and remains so well known that it is often shortened, as in the example."
+    "id": "sling-hash",
+    "term": "sling hash",
+    "definition": "Serve food in a restaurant, especially a cheap establishment. For example, *The only job she could find was slinging hash in the neighborhood diner.* This term alludes to the inelegant presentation and nature of the food, in effect, tossing hash before a customer. [Slang; mid-1800s]"
   },
   "person": {
-    "id": "alexei-kosygin",
-    "name": "Alexei Kosygin",
-    "dates": "Feb 21, 1904 - Dec 18, 1980",
-    "mainImg": "img/people/alexei-kosygin.jpg",
+    "id": "alain-berset",
+    "name": "Alain Berset",
+    "dates": "Born Apr 9, 1972",
+    "mainImg": "img/people/alain-berset.jpg",
     "summary": [
-      "Alexei Nikolayevich Kosygin was a Soviet-Russian statesman during the Cold War. Kosygin was born in the city of Saint Petersburg in 1904 to a Russian working-class family. He was conscripted into the labour army during the Russian Civil War, and after the Red Army's demobilisation in 1921, he worked in Siberia as an industrial manager. Kosygin returned to Leningrad in the early 1930s and worked his way up the Soviet hierarchy. During the Great Patriotic War, Kosygin was a member of the State Defence Committee and was tasked with moving Soviet industry out of territories soon to be overrun by the German Army. He served as Minister of Finance for a year before becoming Minister of Light Industry. Stalin removed Kosygin from the Politburo one year before his own death in 1953, intentionally weakening Kosygin's position within the Soviet hierarchy.",
-      "Stalin died in 1953, and on 20 March 1959, Kosygin was appointed to the position of chairman of the State Planning Committee, a post he would hold for little more than a year. Kosygin next became First Deputy chairman of the Council of Ministers."
+      "Alain Berset is a Swiss politician serving as a member of the Federal Council since 2012. A member of the Social Democratic Party, he has served as head of the Federal Department of Home Affairs since his election. From 1 January 2018 to 31 December 2018, he served as President of the Swiss Confederation; at age 45, Berset was the youngest President of the Confederation since Marcel Pilet-Golaz in 1934.",
+      "Before being elected to the Federal Council in 2011, he was a member of the Council of States for the canton of Fribourg, serving as the chamber's president during the 2008–2009 term. Berset speaks Swiss German, Standard German, French, Italian, Romansh and English."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Alexei_Kosygin",
-    "urlGoogle": "https://artsandculture.google.com/entity/alexei-kosygin/m02w463"
+    "urlWiki": "https://en.wikipedia.org/wiki/Alain_Berset",
+    "urlGoogle": "https://artsandculture.google.com/entity/alain-berset/m063cd9"
   },
   "place": {
-    "id": "guinea-bissau",
-    "name": "Guinea-Bissau",
-    "mainImg": "img/places/guinea-bissau.jpg",
+    "id": "hangzhou",
+    "name": "Hangzhou",
+    "mainImg": "img/places/hangzhou.jpg",
     "summary": [
-      "Guinea-Bissau, officially the Republic of Guinea-Bissau, is a country in West Africa that covers 36,125 square kilometres with an estimated population of 1,604,528. It borders Senegal to the north and Guinea to the south-east.",
-      "Guinea-Bissau was once part of the kingdom of Kaabu, as well as part of the Mali Empire. Parts of this kingdom persisted until the 18th century, while a few others were under some rule by the Portuguese Empire since the 16th century. In the 19th century, it was colonised as Portuguese Guinea. Upon independence, declared in 1973 and recognised in 1974, the name of its capital, Bissau, was added to the country's name to prevent confusion with Guinea. Guinea-Bissau has a history of political instability since independence, and only one elected president has successfully served a full five-year term.",
-      "Only about 2% of the population speaks Portuguese, the official language, as a first language, and 33% speak it as a second language. However, Creole is the national language and also considered the language of unity. According to a 2012 study, 54% of the population speak Creole as a first language and about 52% speak it as a second language."
+      "Hangzhou, also romanized as Hangchow, is the capital and most populous city of Zhejiang, People's Republic of China. It sits at the head of Hangzhou Bay, which separates Shanghai and Ningbo. Hangzhou grew to prominence as the southern terminus of the Grand Canal and has been one of the most renowned and prosperous cities in China for much of the last millennium. The city's West Lake, a UNESCO World Heritage site immediately west of the city, is among its best-known attractions. A study conducted by PwC and China Development Research Foundation saw Hangzhou ranked first among \"Chinese Cities of Opportunity\". Hangzhou is also considered a World City with a \"Beta+\" classification according to GaWC.",
+      "Hangzhou is classified as a sub-provincial city and forms the core of the Hangzhou metropolitan area, the fourth-largest in China. During the 2010 Chinese census, the metropolitan area held 21.102 million people over an area of 34,585 km². Hangzhou prefecture had a registered population of 9,018,000 in 2015.",
+      "Hangzhou was repeatedly rated as the best commercial city in mainland China by Forbes."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Guinea-Bissau",
-    "urlGoogle": "https://artsandculture.google.com/entity/guinea-bissau/m036b_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Hangzhou",
+    "urlGoogle": "https://artsandculture.google.com/entity/hangzhou/m014vm4"
   },
-  "quote": { "id": "46", "quote": "One day or day one. You decide.", "author": "Unknown" },
+  "quote": { "id": "50", "quote": "A goal is a dream with a deadline.", "author": "Napoleon Hill" },
   "wiki": {
-    "id": "the-power-of-nightmares",
-    "name": "The Power of Nightmares",
-    "summary": "The Power of Nightmares is a BBC documentary film series, written and produced by Adam Curtis. The series consists of three one-hour films, consisting mostly of a montage of archive footage with Curtis's narration, which were first broadcast in the United Kingdom in late 2004 and have been subsequently aired in multiple countries and shown in several film festivals, including the 2005 Cannes Film Festival. The films compare the rise of the American Neo-Conservative movement and the radical Islamist movement, making comparisons on their origins and noting strong similarities between the two. More controversially, it argues that the threat of radical Islamism as a massive, sinister organised force of destruction, specifically in the form of al-Qaeda, is in fact a myth perpetrated by politicians in many countries—and particularly American Neo-Conservatives—in an attempt to unite and inspire their people following the failure of earlier, more utopian ideologies. The Power of Nightmares has been praised by film critics in both Britain and the United States. Its message and content have also been the subject of various critiques and criticisms from conservatives and progressives.",
-    "url": "https://en.wikipedia.org/wiki/The_Power_of_Nightmares"
+    "id": "james-bryant-conant",
+    "name": "James Bryant Conant",
+    "summary": "James Bryant Conant (1893–1978) was a chemist, President of Harvard University, and the first U.S. Ambassador to West Germany. As a Harvard professor, he was one of the first to explore the relationship between chemical equilibrium and the reaction rate of chemical processes. He studied the biochemistry of oxyhemoglobin, helped to elucidate the structure of chlorophyll, and contributed insights that underlie modern theories of acid–base chemistry. It was during his presidency of Harvard (1933–53) that women were first admitted to Harvard Medical School and Harvard Law School. As chairman of the National Defense Research Committee during World War II, he oversaw the Manhattan Project, which developed the first atomic bombs. After the war, he served on the Joint Research and Development Board that coordinated defense research, and on the General Advisory Committee of the Atomic Energy Commission. In his later years at Harvard, he taught the history and philosophy of science, and wrote about the scientific method. In 1953 he became the U.S. High Commissioner for Germany, overseeing the restoration of German sovereignty, and then was U.S. Ambassador to West Germany until 1957.",
+    "url": "https://en.wikipedia.org/wiki/James_Bryant_Conant"
   },
   "word": {
-    "id": "frisson",
-    "word": "frisson",
-    "url": "https://www.merriam-webster.com/dictionary/frisson",
-    "partOfSpeech": "noun",
-    "pronunciation": "free-SAWN",
-    "audioPath": "audio/words/frisson.mp3",
-    "definitions": ["a brief moment of emotional excitement : shudder, thrill"],
-    "examples": [
-      "The emotionally-charged scene adds a _frisson_ of tension to the play's final act.",
-      "\"By the end of the book the party is over, but it is hard to feel any _frisson_ of regret when the party was so little fun when it was going on.\" - From an article by Douglas Murray in _The Spectator_, May 11, 2013"
+    "id": "circadian",
+    "word": "circadian",
+    "url": "https://www.merriam-webster.com/dictionary/circadian",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ser-KAY-dee-un",
+    "audioPath": "audio/words/circadian.mp3",
+    "definitions": [
+      "being, having, characterized by, or occurring in approximately 24-hour periods or cycles (as of biological activity or function)"
     ],
-    "origin": "\"I feel a shiver that's not from the cold as the band and the crowd go charging through the final notes…. That frisson, that exultant moment....\" That's how writer Robert W. Stock characterized the culmination of a big piece at a concert in 1982. His use of the word \"shiver\" is apt given that \"frisson\" comes from the French word for \"shiver.\" \"Frisson\" traces to Old French \"friçon,\" which in turn derives from \"frictio,\" Latin for \"friction.\" What does friction-normally a heat generator-have to do with thrills and chills? Nothing, actually. The association came about because \"frictio\" (which derives from Latin \"fricare,\" meaning \"to rub\") was once mistakenly taken to be a derivative of \"frigēre,\" which means \"to be cold.\""
+    "examples": [
+      "\"Teenagers, like everyone else, need bright lights in the morning … to synchronize their inner, circadian rhythms with nature's cycles of day and night.\" (Thomas H. Maugh II, _Chicago Tribune_, Feb. 17, 2010)"
+    ],
+    "origin": "Just over fifty years ago, no one talked about \"circadian rhythms\" -- because \"circadian\" hadn't even been coined yet. In 1959, a scientist formed the word from the Latin words \"circa\" (\"about\") and \"dies\" (\"day\"), and it caught on quickly. \"Circadian\" appeared in periodicals throughout the sixties, and appeared in a Merriam-Webster dictionary before the decade was up. Most often, it's seen and heard in the term \"circadian rhythm,\" which refers to the inherent cycle of about 24 hours that appears to control various biological processes, such as sleep, wakefulness, and digestive activity. If you want to impress your friends, you can also use the term \"circadian dysrhythmia,\" a fancy synonym of \"jet lag.\""
   }
 }

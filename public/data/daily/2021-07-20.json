@@ -1,132 +1,130 @@
 {
   "artist": {
-    "id": "mark-gertler",
-    "name": "Mark Gertler",
-    "dates": "Dec 9, 1891 - Jun 23, 1939",
-    "mainImg": "img/art/artists/mark-gertler.jpg",
+    "id": "paul-delaroche",
+    "name": "Paul Delaroche",
+    "dates": "Jul 17, 1797 - Nov 4, 1856",
+    "mainImg": "img/art/artists/paul-delaroche.jpg",
     "artworkImgs": [
       {
-        "name": "Rabbi and Rabbitzin",
-        "path": "img/art/artworks/mark-gertler-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/rabbi-and-rabbitzin-mark-gertler/fAEZmLx7KIIDAQ"
+        "name": "Napoléon at Fontainebleau, 31 March 1814, painted in 1840",
+        "path": "img/art/artworks/paul-delaroche-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/napoléon-at-fontainebleau-31-march-1814-painted-in-1840-paul-delaroche-1797-1856/9wEHnZLc3mOS6g"
       },
       {
-        "name": "Merry-Go-Round",
-        "path": "img/art/artworks/mark-gertler-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/merry-go-round-mark-gertler/xAE49VEjsYgKOw"
+        "name": "Napoleon Crossing the Alps",
+        "path": "img/art/artworks/paul-delaroche-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/napoleon-crossing-the-alps-paul-delaroche/cwF8_mSi8tlbXw"
       },
       {
-        "name": "The apple woman and her husband",
-        "path": "img/art/artworks/mark-gertler-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-apple-woman-and-her-husband-mark-gertler/1AGFb1dEzkOQqw"
+        "name": "Execution of Lady Jane Grey",
+        "path": "img/art/artworks/paul-delaroche-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/execution-of-lady-jane-grey-paul-delaroche/zwFBHgwceuAHzw"
       },
       {
-        "name": "Still Life, Winter Cherries",
-        "path": "img/art/artworks/mark-gertler-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-winter-cherries-mark-gertler/KQHGp4a6JpE2hw"
+        "name": "Replica of The Hémicycle",
+        "path": "img/art/artworks/paul-delaroche-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/replica-of-the-hémicycle-paul-delaroche-french-1797-1856/lAEXpM7kQR0vKA"
       },
       {
-        "name": "Still Life, Dahlias and Daisies in a Blue Vase",
-        "path": "img/art/artworks/mark-gertler-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/still-life-dahlias-and-daisies-in-a-blue-vase-mark-gertler/KQHqp8hXd_E8gA"
+        "name": "Marquis de Pastoret",
+        "path": "img/art/artworks/paul-delaroche-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/marquis-de-pastoret/TgHqBYevFUs5Tg"
       },
       {
-        "name": "Portrait of a Girl (Sophie, the artist's sister)",
-        "path": "img/art/artworks/mark-gertler-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-girl-sophie-the-artist-s-sister-mark-gertler/rgGaWDsHKOdXtw"
+        "name": "Study for a figure of Fame, from the Hémicycle des Beaux-Arts, École des Beaux-Arts",
+        "path": "img/art/artworks/paul-delaroche-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/study-for-a-figure-of-fame-from-the-hémicycle-des-beaux-arts-école-des-beaux-arts-paul-hippolyte-delaroche/RgEO4L-X5i_uTg"
       }
     ],
     "summary": [
-      "Mark Gertler, born Marks Gertler, was a British painter of figure subjects, portraits and still-life.",
-      "His early life and his relationship with Dora Carrington were the inspiration for Gilbert Cannan's novel Mendel. The characters of Loerke in D. H. Lawrence's Women in Love, and Gombauld in Aldous Huxley's Crome Yellow were based on him."
+      "Paul Delaroche was a French painter who achieved his greater successes painting historical scenes. He became famous in Europe for his melodramatic depictions that often portrayed subjects from English and French history. The emotions emphasised in Delaroche's paintings appeal to Romanticism while the detail of his work along with the deglorified portrayal of historic figures follow the trends of Academicism and Neoclassicism. Delaroche aimed to depict his subjects and history with pragmatic realism. He did not consider popular ideals and norms in his creations, but rather painted all his subjects in the same light whether they were historical figures, figures of Christianity, or real people of his time like Napoleon Bonaparte and Marie-Antoinette. Delaroche was a leading pupil of Antoine-Jean Gros and later mentored a number of notable artists like Thomas Couture, Jean-Léon Gérôme, and Jean-François Millet.",
+      "Delaroche was born into a generation that saw the stylistic conflicts between Romanticism and Davidian Classicism."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Oil paint", "Drawing", "Pencil", "Watercolor painting"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Mark_Gertler_%28artist%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/mark-gertler/m07k0wv"
+    "movements": ["Academic art", "Romanticism"],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Drawing", "Pen", "Watercolor painting"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Paul_Delaroche",
+    "urlGoogle": "https://artsandculture.google.com/entity/paul-delaroche/m04vwtn"
   },
   "event": {
-    "id": "bangladesh-liberation-war",
-    "name": "Bangladesh Liberation War",
-    "dates": null,
-    "mainImg": "img/events/bangladesh-liberation-war.jpg",
+    "id": "international-geophysical-year",
+    "name": "International Geophysical Year",
+    "dates": "Jul 1, 1957 - Dec 31, 1958",
+    "mainImg": "img/events/international-geophysical-year.jpg",
     "summary": [
-      "The Bangladesh Liberation War, also known as the Bangladesh War of Independence, or simply the Liberation War in Bangladesh, was a revolution and armed conflict sparked by the rise of the Bengali nationalist and self-determination movement in what was then East Pakistan during the 1971 Bangladesh genocide. It resulted in the independence of the People's Republic of Bangladesh. The war began after the Pakistani military junta based in West Pakistan launched Operation Searchlight against the people of East Pakistan on the night of 25 March 1971. It pursued the systematic elimination of nationalist Bengali civilians, students, intelligentsia, religious minorities and armed personnel. The junta annulled the results of the 1970 elections and arrested Prime minister-designate Sheikh Mujibur Rahman. The war ended on 16 December 1971 after West Pakistan surrendered.",
-      "Rural and urban areas across East Pakistan saw extensive military operations and air strikes to suppress the tide of civil disobedience that formed following the 1970 election stalemate."
+      "The International Geophysical Year was an international scientific project that lasted from 1 July 1957 to 31 December 1958. It marked the end of a long period during the Cold War when scientific interchange between East and West had been seriously interrupted. Sixty-seven countries participated in IGY projects, although one notable exception was the mainland People's Republic of China, which was protesting against the participation of the Republic of China. East and West agreed to nominate the Belgian Marcel Nicolet as secretary general of the associated international organization.",
+      "The IGY encompassed eleven Earth sciences: aurora and airglow, cosmic rays, geomagnetism, gravity, ionospheric physics, longitude and latitude determinations, meteorology, oceanography, seismology, and solar activity. The timing of the IGY was particularly suited for studying some of these phenomena, since it covered the peak of solar cycle 19.",
+      "Both the Soviet Union and the U.S. launched artificial satellites for this event; the Soviet Union's Sputnik 1, launched on October 4, 1957, was the first successful artificial satellite."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bangladesh_Liberation_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/bangladesh-liberation-war/m031q1_"
+    "urlWiki": "https://en.wikipedia.org/wiki/International_Geophysical_Year",
+    "urlGoogle": "https://artsandculture.google.com/entity/international-geophysical-year/m0kfgv"
   },
   "funFacts": [
     {
-      "id": "688",
-      "fact": "Flying fish leap out of the water at 20 mph or more, and can glide for over 500 feet.",
-      "category": ["Animals"]
+      "id": "314",
+      "fact": "The Japanese word \"judo\" means \"the gentle way.\"",
+      "category": ["Definitions"]
     },
     {
-      "id": "96",
-      "fact": "The average American will eat 35,000 cookies in his/her lifetime.",
-      "category": ["Habits"]
+      "id": "985",
+      "fact": "All of the major candidates in the 1992, 1996, and 2008 U.S. presidential elections were left-handed.",
+      "category": ["Anatomy", "History"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "504712",
-      "fact": "Despite the optical illusion, the Gateway Arch is exactly as wide (630 feet) as it is tall."
-    }
-  ],
+  "funFacts2": [{ "id": "506383", "fact": "Queen Elizabeth II is a trained mechanic." }],
   "idiom": {
-    "id": "many-happy-returns",
-    "term": "many happy returns",
-    "definition": "Also, **many happy returns of the day.** Happy birthday and many more of them, as in *I came by to wish you many happy returns.* This expression was first recorded in a letter of 1779 where the writer meant \"Happy New Year,\" but the present meaning has persisted since the second half of the 1800s."
+    "id": "soft-in-the-head",
+    "term": "soft in the head",
+    "definition": "Mentally deficient; also, silly, foolish. For example, *He's nice enough but a bit soft in the head.* The *soft* in this idiom, first recorded in 1775, alludes to a weakness in mental capacity."
   },
   "person": {
-    "id": "mary-matalin",
-    "name": "Mary Matalin",
-    "dates": "Born Aug 19, 1953",
-    "mainImg": "img/people/mary-matalin.jpg",
+    "id": "caroline-kennedy",
+    "name": "Caroline Kennedy",
+    "dates": "Born Nov 27, 1957",
+    "mainImg": "img/people/caroline-kennedy.jpg",
     "summary": [
-      "Mary Joe Matalin is an American political consultant well known for her work with the Republican Party. She has served under President Ronald Reagan, was campaign director for George H. W. Bush, was an assistant to President George W. Bush, and counselor to Vice President Dick Cheney until 2003. Matalin has been chief editor of Threshold Editions, a conservative publishing imprint at Simon & Schuster, since March 2005. She is married to Democratic political consultant James Carville. She appears in the award-winning documentary film Boogie Man: The Lee Atwater Story and also played herself, opposite her husband, James Carville, John Slattery, and Mary McCormack in the short lived HBO series K Street.",
-      "On May 5, 2016, Matalin announced she has changed her party registration to Libertarian."
+      "Caroline Bouvier Kennedy is an American author, attorney, and diplomat who served as the United States Ambassador to Japan from 2013 to 2017. She is a prominent member of the Kennedy family and the only surviving child of President John F. Kennedy and First Lady Jacqueline Bouvier Kennedy.",
+      "Kennedy was five days shy of her sixth birthday when her father was assassinated on November 22, 1963. The following year, Caroline, her mother, and brother John F. Kennedy Jr. settled on the Upper East Side of Manhattan, where she attended school. Kennedy graduated from Radcliffe College and worked at Manhattan's Metropolitan Museum of Art, where she met her future husband, exhibit designer Edwin Schlossberg. She later earned a J.D. degree from Columbia Law School. Most of Kennedy's professional life has spanned law and politics, as well as education reform and charitable work. She has also acted as a spokesperson for her family's legacy and co-authored two books with Ellen Aldermanon on civil liberties."
     ],
-    "quote": "“Follow me if I advance, kill me if I retreat, avenge me if I die.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Mary_Matalin",
-    "urlGoogle": "https://artsandculture.google.com/entity/mary-matalin/m01wbfs"
+    "quote": "“Well, the role of money in politics is pretty corrupting right now.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Caroline_Kennedy",
+    "urlGoogle": "https://artsandculture.google.com/entity/caroline-kennedy/m01y603"
   },
   "place": {
-    "id": "curacao",
-    "name": "Curaçao",
-    "mainImg": "img/places/curacao.jpg",
+    "id": "basrah",
+    "name": "Basrah",
+    "mainImg": "img/places/basrah.jpg",
     "summary": [
-      "Curaçao is a Lesser Antilles island country in the southern Caribbean Sea and the Dutch Caribbean region, about 65 km north of the Venezuelan coast. It is a constituent country of the Kingdom of the Netherlands. Together with Aruba and Bonaire it forms the ABC islands. Collectively, Curaçao and the other Dutch islands in the Caribbean are often called the Dutch Caribbean.",
-      "The country was formerly part of the Curaçao and Dependencies colony from 1815–1954 and later the Netherlands Antilles from 1954–2010, as \"Island Territory of Curaçao\" and is now formally called the Country of Curaçao. It includes the main island of Curaçao and the much smaller, uninhabited island of Klein Curaçao. Curaçao has a population of 158,665 and an area of 444 km²; its capital is Willemstad."
+      "Basra is an Iraqi city located on the Shatt al-Arab. It had an estimated population of 2.5 million in 2012. Basra is also Iraq's main port, although it does not have deep water access, which is handled at the port of Umm Qasr.",
+      "The city is one of the ports from which the fictional Sinbad the Sailor journeyed. It played an important role in early Islamic history and was built in 636. Basra is consistently one of the hottest cities in Iraq, with summer temperatures regularly exceeding 50 °C. In April 2017, the Iraqi Parliament recognized Basra as Iraq's economic capital."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
-    "urlGoogle": "https://artsandculture.google.com/entity/curaçao/m0hbgh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Basra",
+    "urlGoogle": "https://artsandculture.google.com/entity/basrah/m0ft0s"
   },
   "wiki": {
-    "id": "fanno-creek",
-    "name": "Fanno Creek",
-    "summary": "Fanno Creek is a 15-mile (24 km) tributary of the Tualatin River in the U.S. state of Oregon. Part of the drainage basin of the Columbia River, its watershed covers about 32 square miles (83 km2) in Multnomah, Washington, and Clackamas counties, including about 7 square miles (18 km2) within the Portland city limits. From its headwaters in the Tualatin Mountains (West Hills) in southwest Portland, the creek flows generally west and south through the cities of Portland, Beaverton, Tigard and Durham, and unincorporated areas of Washington County. It enters the Tualatin River about 9 miles (14 km) above the Tualatin's confluence with the Willamette River at West Linn. For thousands of years, the Atfalati (Tualatin) tribe of the Kalapuya inhabited the watershed. The first settler of European descent, Augustus Fanno, for whom the creek is named, arrived in the mid-19th century. Fanno Farmhouse, the restored family home, is a Century Farm on the National Register of Historic Places and is one of 14 urban parks in a narrow corridor along the creek. Although heavily polluted, the creek supports aquatic life, including cutthroat trout in its upper reaches.",
-    "url": "https://en.wikipedia.org/wiki/Fanno_Creek"
+    "id": "antarctic-krill",
+    "name": "Antarctic krill",
+    "summary": "The Antarctic krill is a species of krill found in the Antarctic waters of the Southern Ocean. They are shrimp-like invertebrates that live in large schools called swarms that sometimes reach densities of 10,000–30,000 individual animals per cubic meter. They feed directly on minute phytoplankton, thereby using the primary production energy that the phytoplankton originally derived from the Sun to their pelagic (open ocean) life cycle. They grow to a length of 6 cm, weigh up to 2 g, and can live for up to six years. They are the key species in the Antarctic ecosystem and are likely, in terms of biomass, the most successful species on the planet.",
+    "url": "https://en.wikipedia.org/wiki/Antarctic_krill"
   },
   "word": {
-    "id": "exegesis",
-    "word": "exegesis",
-    "url": "https://www.merriam-webster.com/dictionary/exegesis",
-    "partOfSpeech": "noun",
-    "pronunciation": "ek-suh-JEE-sis",
-    "audioPath": "audio/words/exegesis.mp3",
+    "id": "woebegone",
+    "word": "woebegone",
+    "url": "https://www.merriam-webster.com/dictionary/woebegone",
+    "partOfSpeech": "adjective",
+    "pronunciation": "WOH-bih-gahn",
+    "audioPath": "audio/words/woebegone.mp3",
     "definitions": [
-      "exposition, explanation; especially : an explanation or critical interpretation of a text"
+      "strongly afflicted with woe : woeful",
+      "exhibiting great woe, sorrow, or misery",
+      "being in a sorry state"
     ],
     "examples": [
-      "For his senior thesis, John wrote an _exegesis_ of the novels of D. H. Lawrence.",
-      "\"Were it not for another mini-_exegesis_ hanging alongside 'Witness,' uninitiated viewers might have trouble interpreting this large-scale painting as a response to Ethiopia's drought and famine of the 1980s.\" -- From a review by Kevin J. Kelley in _Seven Days_ (Burlington, Vermont), October 5, 2011"
+      "Jerry's face had the _woebegone_ expression of a man who had just lost a beloved pet.",
+      "\"The Giants also were able to shake off Kevin Boss' early fumble and kept the _woebegone_ Seahawks from gaining any life from it.\" -- From an article by Vinny DiTrani in _The Record_ (Bergen County, NJ), November 9, 2010"
     ],
-    "origin": "Theological scholars have long been preoccupied with interpreting the meanings of various passages in the Bible. In fact, because of the sacred status of the Bible in both Judaism and Christianity, biblical interpretation has played a crucial role in both of those religions throughout their histories. English speakers have used the word \"exegesis\" -- a descendant of the Greek term \"exegeisthai,\" meaning \"to explain\" or \"to interpret\" -- to refer to explanations of Scripture since the early 17th century. Nowadays, however, academic writers interpret all sorts of texts, and \"exegesis\" is no longer associated mainly with the Bible."
+    "origin": "At first glance, \"woebegone\" looks like a word that has its meaning backwards; after all, if \"begone\" means \"go away,\" shouldn't \"woebegone\" mean \"devoid of woe,\" or \"happy\"? Not exactly. The word derives from the Middle English phrase \"wo begon.\" The \"wo\" in this phrase simply means \"woe,\" but \"begon\" (deriving from Old English \"begān\") is a past participle meaning \"beset.\" Someone who is \"woebegone,\" therefore, is beset with woe. Since the early 19th century, the word has also been used to describe things that appear to express sadness, as in \"a woebegone face.\""
   }
 }

@@ -1,139 +1,128 @@
 {
   "artist": {
-    "id": "eugene-von-guerard",
-    "name": "Eugene von Guerard",
-    "dates": "Nov 17, 1811 - Apr 17, 1901",
-    "mainImg": "img/art/artists/eugene-von-guerard.jpg",
+    "id": "giuseppe-castiglione",
+    "name": "Giuseppe Castiglione",
+    "dates": "Jul 19, 1688 - Jul 17, 1766",
+    "mainImg": "img/art/artists/giuseppe-castiglione.jpg",
     "artworkImgs": [
       {
-        "name": "North-east view from the northern top of Mount Kosciusko",
-        "path": "img/art/artworks/eugene-von-guerard-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/north-east-view-from-the-northern-top-of-mount-kosciusko-eugene-von-guérard/GAFIpLZ8ttoqGQ"
+        "name": "Beautiful Ladies Riding",
+        "path": "img/art/artworks/giuseppe-castiglione-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/beautiful-ladies-riding-artist-attributed-to-giuseppe-castiglione-lang-shining/iAEiXDFzafbtCQ"
       },
       {
-        "name": "Jebel Cherib",
-        "path": "img/art/artworks/eugene-von-guerard-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/jebel-cherib-eugene-von-guérard/7wFNjNw91lfbOQ"
+        "name": "The Qianlong Emperor in Ceremonial Armor on Horseback",
+        "path": "img/art/artworks/giuseppe-castiglione-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-qianlong-emperor-in-ceremonial-armor-on-horseback-giuseppe-castiglione-1688-1766-chinese-name-lang-shining/EQFRaJ6Q0Tyhjg"
       },
       {
-        "name": "Purrumbete from across the lake",
-        "path": "img/art/artworks/eugene-von-guerard-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/purrumbete-from-across-the-lake-eugene-von-guérard/hwFqkckRMkuCdA"
+        "name": "清 郎世寧 百駿圖白描稿 卷|One Hundred Horses",
+        "path": "img/art/artworks/giuseppe-castiglione-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/清-郎世寧-百駿圖白描稿-卷-one-hundred-horses-giuseppe-castiglione/DwEjeNn1Qz_FSA"
       },
       {
-        "name": "Yalla-y-Poora",
-        "path": "img/art/artworks/eugene-von-guerard-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/yalla-y-poora-eugène-von-guérard/eQFmGkJp46j7Og"
+        "name": "The Qianlong Emperor as Manjusri, the Bodhisattva of Wisdom",
+        "path": "img/art/artworks/giuseppe-castiglione-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-qianlong-emperor-as-manjusri-the-bodhisattva-of-wisdom-artist-imperial-workshop-artist-emperor-s-face-painted-by-giuseppe-castiglione-lang-shining/BwGUY_fTviUD7A"
       },
       {
-        "name": "Ferntree Gully in the Dandenong Ranges",
-        "path": "img/art/artworks/eugene-von-guerard-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/ferntree-gully-in-the-dandenong-ranges-eugene-von-guérard/7QFRQegI7i332w"
-      },
-      {
-        "name": "Stony Rises, Lake Corangamite",
-        "path": "img/art/artworks/eugene-von-guerard-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/stony-rises-lake-corangamite-eugene-von-guérard/zQFxFBGI8kyx6g"
+        "name": "Imperial Procession",
+        "path": "img/art/artworks/giuseppe-castiglione-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/imperial-procession-artist-giuseppe-castiglione-lang-shining/VQEDz8_NKdyvJg"
       }
     ],
     "summary": [
-      "Johann Joseph Eugene von Guérard was an Austrian-born artist, active in Australia from 1852 until 1882. Known for his finely detailed landscapes in the tradition of the Düsseldorf school of painting, he is represented in Australia's major public galleries, and is referred to in the country as Eugene von Guerard."
+      "Giuseppe Castiglione, S.J., was an Italian Jesuit brother and missionary in China, where he served as an artist at the imperial court of three emperors – the Kangxi, Yongzheng and Qianlong emperors. He painted in a style that is a fusion of European and Chinese traditions."
     ],
     "quote": null,
-    "movements": ["Romanticism"],
-    "mediums": ["Oil paint", "Cardboard", "Engraving", "Plywood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Eugene_von_Guerard",
-    "urlGoogle": "https://artsandculture.google.com/entity/eugene-von-guerard/m08j850"
+    "movements": [],
+    "mediums": ["Ink", "Silk", "Textile", "Gold", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Castiglione_%28Jesuit_painter%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-castiglione/m01nt06"
   },
   "event": {
-    "id": "battle-of-heiligerlee",
-    "name": "Battle of Heiligerlee",
-    "dates": null,
-    "mainImg": "img/events/battle-of-heiligerlee.jpg",
+    "id": "constitutionalist-revolution",
+    "name": "Constitutionalist Revolution",
+    "dates": "Jul 9, 1932 - Oct 2, 1932",
+    "mainImg": "img/events/constitutionalist-revolution.jpg",
     "summary": [
-      "The Battle of Heiligerlee was fought between Dutch rebels and the Spanish army of Friesland. This was the first Dutch victory during the Eighty Years' War.",
-      "The Groningen province of the Spanish Netherlands was invaded by an army consisting of 3,900 infantry led by Louis of Nassau and 200 cavalry led by Adolf of Nassau. Both were brothers of William I of Orange. The intention was to begin an armed uprising against the Spanish rulers of the Netherlands.",
-      "The Stadtholder of Friesland and also Duke of Aremberg, Johan de Ligne, had an army of 3,200 infantry and 20 cavalry.",
-      "Aremberg initially avoided confrontation, awaiting reinforcements from the Count of Meghem. However, on 23 May, Adolf's cavalry lured him to an ambush at the monastery of Heiligerlee. Louis' infantry, making up the bulk of the army, defeated the Spanish force which lost 1,500–2,000 men, while the invading force lost 50, including Adolf. The rebels captured seven cannons.",
-      "The invading force however, did not capture any cities and was soon defeated at the Battle of Jemmingen.",
-      "The death of Adolf of Nassau is mentioned in the Dutch national anthem:",
-      "Graef Adolff is ghebleven, In Vriesland in den slaech,"
+      "The Constitutionalist Revolution of 1932 is the name given to the uprising of the population of the Brazilian state of São Paulo against the 1930 coup d'état when Getúlio Vargas forcibly assumed the nation's Presidency; Vargas was supported by the military and the political elites of Minas Gerais, Rio Grande do Sul and Paraíba. The movement grew out of local resentment from the fact that Vargas ruled by decree, unbound by a Constitution, in a provisional government. The 1930 coup also affected São Paulo by eroding the autonomy that states enjoyed during the term of the 1891 Constitution and preventing the inauguration of the governor of São Paulo Júlio Prestes in the Presidency of the Republic, while simultaneously overthrowing President Washington Luís, who was governor of São Paulo from 1920 to 1924. These events marked the end of the First Republic. Vargas appointed a northeasterner as governor of São Paulo.",
+      "The Revolution's main goal was to press the provisional government headed by Getúlio Vargas to adopt and then abide by a new Constitution, since the elected President Prestes was kept from taking office."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Heiligerlee_%281568%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-heiligerlee/m03dmh5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Constitutionalist_Revolution",
+    "urlGoogle": "https://artsandculture.google.com/entity/constitutionalist-revolution/m026dch2"
   },
   "funFacts": [
     {
-      "id": "352",
-      "fact": "Storm clouds hold about 6 trillion raindrops.",
-      "category": ["Science"]
+      "id": "392",
+      "fact": "Three out of every six Americans live within fifty miles of where they were born.",
+      "category": ["Geography", "Habits"]
     },
     {
-      "id": "445",
-      "fact": "If there are two full moons in a month, the second one is called a blue moon.",
-      "category": ["Definitions"]
+      "id": "267",
+      "fact": "Double Dutch jump rope is considered a cross-training sport.",
+      "category": ["Hodgepodge"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "554049",
-      "fact": "Residents of the Galápagos island of Floreana use a barrel of disorganized mail in place of a formal postal system. Tourists are responsible for sorting through the mail and grabbing any parcels they can deliver on the way to where they’re headed."
-    }
-  ],
+  "funFacts2": [{ "id": "506368", "fact": "Wyoming is home to only two escalators." }],
   "idiom": {
-    "id": "the-devil-take-the-hindmost",
-    "term": "the devil take the hindmost",
-    "definition": "Let everyone put his or her own interest first, leaving the unfortunate to their fate. For example, *I don't care if she makes it or not---the devil take the hindmost.* This expression, first recorded in 1608, probably originated as an allusion to a children's game in which the last (coming \"hindmost\") is the loser, and came to mean utter selfishness."
+    "id": "make-hay-while-the-sun-shines",
+    "term": "make hay while the sun shines",
+    "definition": "Take advantage of favorable circumstances, as in *Car sales have finally improved so we're making hay while the sun shines.* This expression alludes to optimum dry weather for cutting grass. [Early 1500s]"
   },
   "person": {
-    "id": "andrew-johnson",
-    "name": "Andrew Johnson",
-    "dates": "Dec 29, 1808 - Jul 31, 1875",
-    "mainImg": "img/people/andrew-johnson.jpg",
+    "id": "lee-myung-bak",
+    "name": "Lee Myung-bak",
+    "dates": "Born Dec 19, 1941",
+    "mainImg": "img/people/lee-myung-bak.jpg",
     "summary": [
-      "Andrew Johnson was the 17th president of the United States, serving from 1865 to 1869. He assumed the presidency as he was vice president at the time of the assassination of Abraham Lincoln. Johnson was a Democrat who ran with Lincoln on the National Union ticket, coming to office as the Civil War concluded. He favored quick restoration of the seceded states to the Union without protection for the former slaves. This led to conflict with the Republican-dominated Congress, culminating in his impeachment by the House of Representatives in 1868. He was acquitted in the Senate by one vote. His main accomplishment as president was the Alaska purchase.",
-      "Johnson was born in poverty in Raleigh, North Carolina and never attended school. He was apprenticed as a tailor and worked in several frontier towns before settling in Greeneville, Tennessee. He served as alderman and mayor there before being elected to the Tennessee House of Representatives in 1835. After brief service in the Tennessee Senate, Johnson was elected to the House of Representatives in 1843, where he served five two-year terms."
-    ],
-    "quote": "“I feel incompetent to perform duties... which have been so unexpectedly thrown upon me.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Andrew_Johnson",
-    "urlGoogle": "https://artsandculture.google.com/entity/andrew-johnson/m0rmg"
-  },
-  "place": {
-    "id": "israel",
-    "name": "Israel",
-    "mainImg": "img/places/israel.jpg",
-    "summary": [
-      "Israel, formally known as the State of Israel, is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and Gaza Strip to the east and west, respectively, and Egypt to the southwest. The country contains geographically diverse features within its relatively small area. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem, although the state's sovereignty over Jerusalem has only partial recognition.",
-      "Israel has evidence of the earliest migration of hominids out of Africa. Canaanite tribes are archaeologically attested since the Middle Bronze Age, while the Kingdoms of Israel and Judah emerged during the Iron Age. The Neo-Assyrian Empire destroyed Israel around 720 BCE. Judah was later conquered by the Babylonian, Persian and Hellenistic empires and had existed as Jewish autonomous provinces."
+      "Lee Myung-bak is a former South Korean politician and businessman who served as President of South Korea from 2008 to 2013. Before his election as president, he was the CEO of Hyundai Engineering and Construction, as well as the mayor of Seoul from 1 July 2002, to 30 June 2006. He is married to Kim Yoon-ok and has three daughters and one son. His older brother, Lee Sang-deuk, is a South Korean politician. He attends the Somang Presbyterian Church. Lee is a graduate of Korea University and received an honorary degree from Paris Diderot University on 13 May 2011.",
+      "Lee altered the South Korean government's approach to North Korea, preferring a more hardline strategy in the wake of increased provocation from the North, though he was supportive of regional dialogue with Russia, China and Japan. Under Lee, South Korea increased its visibility and influence in the global scene, resulting in the hosting of the 2010 G-20 Seoul summit. However, significant controversy remains in Korea regarding high-profile government initiatives which have caused some factions to engage in civil opposition and protest against the incumbent government and President Lee's Saenuri Party."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Israel",
-    "urlGoogle": "https://artsandculture.google.com/entity/israel/m03spz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lee_Myung-bak",
+    "urlGoogle": "https://artsandculture.google.com/entity/lee-myung-bak/m0b2z79"
+  },
+  "place": {
+    "id": "mysuru",
+    "name": "Mysuru",
+    "mainImg": "img/places/mysuru.jpg",
+    "summary": [
+      "Mysore, officially Mysuru, is a city in the southern part of the state of Karnataka, India. Mysore city is geographically located between 12° 18′ 26″ north latitude and 76° 38′ 59″ east longitude. It is located at an altitude of 2,427 ft.",
+      "Mysore is located in the foothills of the Chamundi Hills about 145.2 km towards the southwest of Bangalore and spread across an area of 152 km². Mysore City Corporation is responsible for the civic administration of the city, which is also the headquarters of the Mysore district and the Mysore division.",
+      "It served as the capital city of the Kingdom of Mysore for nearly six centuries from 1399 until 1956. The Kingdom was ruled by the Wadiyar dynasty, with a brief period of interregnum in the late 18th century when Hyder Ali and Tipu Sultan were in power. The Wadiyars were patrons of art and culture. Tipu Sultan and Hyder Ali also contributed significantly to the cultural and economic growth of the city and the state by planting mulberry trees introducing silk in the region and fighting 4 Anglo Mysore wars against the British. The cultural ambience and achievements of Mysore earned it the sobriquet Cultural Capital of Karnataka."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Mysore",
+    "urlGoogle": "https://artsandculture.google.com/entity/mysuru/m0j603"
   },
   "quote": {
-    "id": "111",
-    "quote": "What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.",
-    "author": "Warren Buffett"
+    "id": "87",
+    "quote": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great makes you feel that you, too, can become great.",
+    "author": "Mark Twain"
   },
   "wiki": {
-    "id": "tgv",
-    "name": "TGV",
-    "summary": "The TGV is France's train à grande vitesse; literally \"high-speed train\". Developed by Alsthom (now Alstom) and SNCF and operated primarily by SNCF, it connects cities in France and in some other neighbouring countries, such as Belgium, Italy and Switzerland with the network centred on Paris. TGVs under other brand names connect France with Germany and the Netherlands (Thalys) and the United Kingdom (Eurostar). Trains derived from TGV design also operate in South Korea (KTX), and Spain (AVE). Development of high-speed rail transport in France began in the 1960s. After a lengthy period of testing which included changing the traction of the trains from gas turbines to electricity from overhead lines after a sharp rise in oil prices, TGV operation began in 1981 with an initial line between Paris and Lyon. The success of the line led to rapid expansion and the opening of lines to the west and north-east of France as well as further extension to the south.",
-    "url": "https://en.wikipedia.org/wiki/TGV"
+    "id": "robert-heinlein",
+    "name": "Robert Heinlein",
+    "summary": "Robert Heinlein was one of the most influential and controversial authors in the science fiction genre. He became the first science fiction writer to break into major general magazines in the late 1940s with true, undisguised science fiction, and the first bestselling novel-length science fiction in the 1960s. For many years he, Isaac Asimov, and Arthur C. Clarke were known as the Big Three of science fiction. The major themes of Heinlein's work were social: radical individualism, libertarianism, religion, the relationship between physical and emotional love, and speculation about unorthodox family relationships. His iconoclastic beliefs have led to wildly divergent perceptions of him. The novel Stranger in a Strange Land put him in the unexpected role of Pied Piper of the sexual revolution and 1960s counterculture, but he has also been cast as a fascist, based on the contemporaneous Starship Troopers.",
+    "url": "https://en.wikipedia.org/wiki/Robert_Heinlein"
   },
   "word": {
-    "id": "cerulean",
-    "word": "cerulean",
-    "url": "https://www.merriam-webster.com/dictionary/cerulean",
+    "id": "perennial",
+    "word": "perennial",
+    "url": "https://www.merriam-webster.com/dictionary/perennial",
     "partOfSpeech": "adjective",
-    "pronunciation": "suh-ROO-lee-un",
-    "audioPath": "audio/words/cerulean.mp3",
-    "definitions": ["resembling the blue of the sky"],
-    "examples": [
-      "The painting depicted a series of tall, verdant trees surrounding a _cerulean_ lake.",
-      "\"I try to summon the Russian fairy tale about the prince in exile and his beautiful swan-princess …. I think of _cerulean_\\-blue waves, a swirling red skirt and a silver-white moon.\" -- From Mira Bartok's 2011 memoir _The Memory Palace_"
+    "pronunciation": "puh-REN-ee-ul",
+    "audioPath": "audio/words/perennial.mp3",
+    "definitions": [
+      "present at all seasons of the year",
+      "continuing to live from year to year",
+      "recurring regularly : permanent"
     ],
-    "origin": "\"Cerulean\" comes from the Latin word \"caeruleus,\" which means \"dark blue\" and is most likely from \"caelum,\" the Latin word for \"sky.\" An artist rendering a sky of blue in oils or watercolors might choose a tube of cerulean blue pigment. Birdwatchers in the eastern U.S. might look skyward and see a cerulean warbler (Dendroica cerulea). \"Cerulean\" is not the only color name that’s closely associated with the sky. \"Azure\" (which ultimately comes from a Persian word for lapis lazuli, a rich blue stone) describes the color of a cloudless sky and can even be a noun meaning \"the unclouded sky.\""
+    "examples": [
+      "The diva's late-night partying and angry run-ins with the paparazzi have been perennial fodder for the tabloids."
+    ],
+    "origin": "Nowadays when we talk about \"perennial plants,\" or simply \"perennials\" (\"perennial\" can be a noun, too), we mean plants that die back seasonally but produce new growth in the spring. But originally \"perennial\" was equivalent to \"evergreen,\" used for plants that remain with us all year. We took this \"throughout the year\" sense straight from the Romans, whose Latin \"perennis\" combined \"per-\" (\"throughout\") with a form of \"annus\" (\"year\"). The poet Ovid, writing around the beginning of the first millennium, used the Latin word to refer to a \"perennial spring\" (water source), and the scholar Pliny used it of birds that don't migrate. Our \"perennial\" retains these same uses, for streams and occasionally for birds, but it has long had extended meanings, too."
   }
 }

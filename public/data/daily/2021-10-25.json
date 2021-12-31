@@ -1,120 +1,133 @@
 {
   "artist": {
-    "id": "ku-hye-sun",
-    "name": "Ku Hye-sun",
-    "dates": "Born Nov 9, 1984",
-    "mainImg": "img/art/artists/ku-hye-sun.jpg",
+    "id": "maarten-van-heemskerck",
+    "name": "Maarten van Heemskerck",
+    "dates": "Jun 1, 1498 - Oct 1, 1574",
+    "mainImg": "img/art/artists/maarten-van-heemskerck.jpg",
     "artworkImgs": [
       {
-        "name": "Portrait 2",
-        "path": "img/art/artworks/ku-hye-sun-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-2-kang-kyung-koo/yAHPORfiYC26WA"
+        "name": "The Triumphal Procession of Bacchus",
+        "path": "img/art/artworks/maarten-van-heemskerck-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-triumphal-procession-of-bacchus-maerten-van-heemskerck/UwE2gGT2mymweA"
       },
       {
-        "name": "The Rice Fortune-telling at the Hado-ri Gaksidang",
-        "path": "img/art/artworks/ku-hye-sun-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-rice-fortune-telling-at-the-hado-ri-gaksidang-kwon-mi-seon/fAGgXnHG1psDAg"
+        "name": "Olympy Iovis Simulacrum (The Statue of Jupiter at Olympia)",
+        "path": "img/art/artworks/maarten-van-heemskerck-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/olympy-iovis-simulacrum-the-statue-of-jupiter-at-olympia-philip-galle-after-maerten-van-heemskerck/1QH3nhm_yudZMA"
       },
       {
-        "name": "The Path of Water-Crossing Over 1",
-        "path": "img/art/artworks/ku-hye-sun-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-path-of-water-crossing-over-1-kang-kyung-koo/0AHtMZJcbyxHvw"
+        "name": "Pharos (The Lighthouse at Alexandria)",
+        "path": "img/art/artworks/maarten-van-heemskerck-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/pharos-the-lighthouse-at-alexandria-philip-galle-after-maerten-van-heemskerck/fQHz7Ki1t6OZEA"
       },
       {
-        "name": "Journey of a dream",
-        "path": "img/art/artworks/ku-hye-sun-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/journey-of-a-dream-phantom-plus-yang-ju-hye/LgF5lQK1jJiXYQ"
+        "name": "Panorama with the Abduction of Helen Amidst the Wonders of the Ancient World",
+        "path": "img/art/artworks/maarten-van-heemskerck-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/panorama-with-the-abduction-of-helen-amidst-the-wonders-of-the-ancient-world/GAH7fweqSmKL4w"
       },
       {
-        "name": "Distant Shadow",
-        "path": "img/art/artworks/ku-hye-sun-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/distant-shadow-kang-kyung-koo/JgGcwsGg8ObElA"
+        "name": "Saint Luke painting the Virgin and Child",
+        "path": "img/art/artworks/maarten-van-heemskerck-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-luke-painting-the-virgin-and-child-maerten-jacobsz-van-heemskerck/-wEj5DvNFSdQYg"
       },
       {
-        "name": "The Path of Water",
-        "path": "img/art/artworks/ku-hye-sun-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-path-of-water-kang-kyung-koo/DgHWXfz9-f2zJw"
+        "name": "Solomon Building the Temple, from The Story of Solomon",
+        "path": "img/art/artworks/maarten-van-heemskerck-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/solomon-building-the-temple-from-the-story-of-solomon-maarten-van-heemskerck/-QH9mb-9FqrZbg"
       }
     ],
     "summary": [
-      "Ku Hye-sun is a South Korean actress, singer-songwriter, director and artist. She gained widespread recognition in the television dramas Pure in Heart, The King And I, Boys Over Flowers, Take Care of Us, Captain, Angel Eyes and Blood."
+      "Maerten van Heemskerck or Marten Jacobsz Heemskerk van Veen was a Dutch portrait and religious painter, who spent most of his career in Haarlem. He was a pupil of Jan van Scorel, and adopted his teacher's Italian-influenced style. He spent the years 1532–6 in Italy. He produced many designs for engravers, and is especially known for his depictions of the Wonders of the World."
     ],
-    "quote": "“In the past, I used to think that it is fundamental and natural to have everything. But I realized that is not true. Instead I realized that those are things to be grateful for. After that realization, I became comfortable. Even if I don’t have it I am grateful. Such a realization also made me understand that is a way to love myself.”",
-    "movements": [],
-    "mediums": ["Acrylic paint", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Ku_Hye-sun",
-    "urlGoogle": "https://artsandculture.google.com/entity/ku-hye-sun/m03cyv3r"
+    "quote": null,
+    "movements": [
+      "Mannerism",
+      "Renaissance",
+      "Dutch Golden Age",
+      "Dutch and Flemish Renaissance painting"
+    ],
+    "mediums": ["Engraving", "Etching", "Pen", "Laid paper", "Oil paint", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Maarten_van_Heemskerck",
+    "urlGoogle": "https://artsandculture.google.com/entity/maarten-van-heemskerck/m03hgn_"
   },
   "event": {
-    "id": "sino-indian-war",
-    "name": "Sino-Indian War",
-    "dates": "Oct 20, 1962 - Nov 21, 1962",
-    "mainImg": "img/events/sino-indian-war.jpg",
+    "id": "revolutions-of-1848-in-the-italian-states",
+    "name": "Revolutions of 1848 in the Italian states",
+    "dates": "1848 - 1849",
+    "mainImg": "img/events/revolutions-of-1848-in-the-italian-states.jpg",
     "summary": [
-      "The Sino-Indian War, also known as the Indo-China War and Sino-Indian Border Conflict, was a war between China and India that occurred in 1962. A disputed Himalayan border was the main cause of the war, but other issues also played a role. There had been a series of violent border skirmishes between the two countries after the 1959 Tibetan uprising, when India granted asylum to the Dalai Lama. India initiated a defensive Forward Policy from 1960 to hinder Chinese military patrols and logistics, in which it placed outposts along the border, including several north of the McMahon Line, the eastern portion of the Line of Actual Control proclaimed by Chinese Premier Zhou Enlai in 1959.",
-      "Chinese military action grew increasingly aggressive after India rejected proposed Chinese diplomatic settlements throughout 1960-1962, with China re-commencing previously-banned \"forward patrols\" in Ladakh from April 30th 1962. China finally abandoned all attempts of peaceful resolution on 20 October 1962, invading disputed territory along the 3,225 kilometre- long Himalayan border in Ladakh and across the McMahon Line."
+      "În Italia cele 7 state aristocratice create prin Congresul de la Viena au fost cuprinse de mișcarea revoluționar-națională care a proclamat republica la Milano, Veneția și Roma. Mișcarea a fost utilizată de regele piemontez Carol Albert în încercarea de a cuceri Lombardia de la Habsburgi.",
+      "În sudul Alpilor ca și în Germania, Congresul de la Viena, supus dorințelor suveranilor, a înlocuit harta simplificată, realizată de Napoleon, cu o fărâmițare în șapte state, fără nici o legătură între ele. Peste tot, monarhii restaurați au revenit la fostele structuri ale Vechiului Regim și s-au sprijinit pe aristocrația funciară în mai toate aceste regiuni, cu excepția Piemontului, în care valul industrializării nu pătrunsese încă, și deci burghezia era numeric destul de slabă.",
+      "Sudul peninsulei și Sicilia formau Regatul Neapolelui, restituit Bourbonilor după eșecul lui Murat, care încercase să recucerească statele acestuia și care a fost împușcat. În centru, statele pontificale se întindeau la nord, din Romagna până în Câmpia romană, trăind în două Italia peninsulară."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Sino-Indian_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/sino-indian-war/m078_l"
+    "urlWiki": "https://ro.wikipedia.org/wiki/Revolu%C8%9Bia_de_la_1848_%C3%AEn_Italia",
+    "urlGoogle": "https://artsandculture.google.com/entity/revolutions-of-1848-in-the-italian-states/m011brh4k"
   },
   "funFacts": [
-    { "id": "353", "fact": "The weight of the moon is 81 billion tons.", "category": ["Science"] },
     {
-      "id": "705",
-      "fact": "Every ton of recycled paper saves about 17 trees.",
-      "category": ["Science"]
+      "id": "1017",
+      "fact": "The phrase, “You're a real peach“ originated from the tradition of giving peaches to loved ones.",
+      "category": ["Plants", "Definitions", "Hodgepodge", "Firsts"]
+    },
+    {
+      "id": "171",
+      "fact": "The most sensitive parts of the body are the mouth and the fingertips.",
+      "category": ["Anatomy"]
     }
   ],
-  "funFacts2": [{ "id": "506501", "fact": "Earmuffs were invented by a 15-year-old." }],
-  "idiom": {
-    "id": "three-rs",
-    "term": "three R's",
-    "definition": "The fundamentals of education, as in *It's a terrible school; the children are not even taught the three R's.* It is widely believed that Sir William Curtis, an alderman who became Lord Mayor of London, once presented a toast to the three R's---reading, riting, and rithmetic---thereby betraying his illiteracy. In any event, the term was picked up by others and so used from the early 1800s on."
-  },
+  "funFacts2": [
+    {
+      "id": "554256",
+      "fact": "The first item sold\u0003on eBay was\u0003a broken\u0003laser pointer."
+    }
+  ],
   "person": {
-    "id": "william-lyon-mackenzie-king",
-    "name": "William Lyon Mackenzie King",
-    "dates": "Dec 17, 1874 - Jul 22, 1950",
-    "mainImg": "img/people/william-lyon-mackenzie-king.jpg",
+    "id": "sir-john-hotham-1-st-baronet",
+    "name": "Sir John Hotham, 1st Baronet",
+    "dates": "July 1589 - Jan 3, 1645",
+    "mainImg": "img/people/sir-john-hotham-1-st-baronet.jpg",
     "summary": [
-      "William Lyon Mackenzie King OM CMG PC, commonly known as Mackenzie King, was the dominant Canadian political leader from the 1920s through the 1940s. He served as the tenth prime minister of Canada in 1921–1926, 1926–1930 and 1935–1948. He is best known for his leadership of Canada throughout the Second World War when he mobilized Canadian money, supplies and volunteers to support Britain while boosting the economy and maintaining morale on the home front. A Liberal with 21 years and 154 days in office, he was the longest-serving prime minister in Canadian history. Trained in law and social work, he was keenly interested in the human condition, and played a major role in laying the foundations of the Canadian welfare state.",
-      "King acceded to the leadership of the Liberal Party in 1919. Taking the helm of a party bitterly torn apart during the First World War, he reconciled factions, unifying the Liberal Party and leading it to victory in the 1921 election. His party was out of office during the harshest days of the Great Depression in Canada, 1930–35; he returned when the economy was on an upswing."
-    ],
-    "quote": "“Government, in the last analysis, is organized opinion. Where there is little or no public opinion, there is likely to be bad government.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie_King",
-    "urlGoogle": "https://artsandculture.google.com/entity/william-lyon-mackenzie-king/m083dp"
-  },
-  "place": {
-    "id": "agra",
-    "name": "Agra",
-    "mainImg": "img/places/agra.jpg",
-    "summary": [
-      "Agra is a city on the banks of the Yamuna river in the Indian state of Uttar Pradesh. It is 206 kilometres south of the national capital New Delhi. Agra is the fourth-most populous city in Uttar Pradesh and 24th in India.",
-      "It has been speculated that in Mahabharata the city Agra is referred to as Agravana which translates as “front of the forest”. It is mentioned that the Shurasena dynasty of Lord Krishna maintained an outpost at Agravana. Greek geographer Ptolemy referred to Agra by its modern name in his Geographia and placed it in his world map in 2nd century AD. The 11th-century Persian poet Mas'ūd Sa'd Salmān writes of an assault on the fortress of Agra, then held by King Jaypal, by Mahmud of Ghazni. Despite his surrender, Mahmud sacked the place. It was mentioned in 1080 AD when a Ghaznavide force captured it. A 17th century chronicle called the Agra before Sikandar Lodī's time as an old settlement which was merely a village, owing to its destruction by Mahmud of Ghazni. Sikandar was the first sultan to move his capital from Delhi to Agra in 1504, its administration having previously been under Bayana."
+      "Sir John Hotham, 1st Baronet of Scorborough Hall, near Driffield, Yorkshire, was an English Member of Parliament who was Governor of Hull in 1642 shortly before the start of the Civil War. He refused to allow King Charles I or any member of his entourage to enter the town, thereby depriving the king of access to the large arsenal contained within. Later in the Civil War he and his son John Hotham the younger were accused of treachery to the Parliamentarian cause, found guilty and executed on Tower Hill."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Agra",
-    "urlGoogle": "https://artsandculture.google.com/entity/agra/m01zxx9"
+    "urlWiki": "https://en.wikipedia.org/wiki/Sir_John_Hotham,_1st_Baronet",
+    "urlGoogle": "https://artsandculture.google.com/entity/sir-john-hotham-1st-baronet/m023sd8"
+  },
+  "place": {
+    "id": "kazakhstan",
+    "name": "Kazakhstan",
+    "mainImg": "img/places/kazakhstan.jpg",
+    "summary": [
+      "Kazakhstan, officially the Republic of Kazakhstan, is a transcontinental country largely located in Central Asia with the most western parts of it being located in Eastern Europe. It is the world's largest landlocked country, and the ninth-largest country in the world, with an area of 2,724,900 square kilometres. Kazakhstan is the most dominant nation of Central Asia economically, generating 60% of the region's GDP, primarily through its oil and gas industry. It also has vast mineral resources.",
+      "Kazakhstan is officially a democratic, secular, unitary, constitutional republic with a diverse cultural heritage. Kazakhstan shares borders with Russia, China, Kyrgyzstan, Uzbekistan, and Turkmenistan, and also adjoins a large part of the Caspian Sea. It does not border Mongolia, although they are only 37 kilometers apart. The terrain of Kazakhstan includes flatlands, steppe, taiga, rock canyons, hills, deltas, snow-capped mountains, and deserts. Kazakhstan has an estimated 18.3 million people as of 2018. Its population density is among the lowest, at less than 6 people per square kilometre. Since 1997 and independence, the capital is Nur-Sultan, formerly known as Astana."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kazakhstan",
+    "urlGoogle": "https://artsandculture.google.com/entity/kazakhstan/m047lj"
   },
   "wiki": {
-    "id": "lisa-del-giocondo",
-    "name": "Lisa del Giocondo",
-    "summary": "Lisa del Giocondo was a member of the Gherardini family of Florence and Tuscany in Italy. Her name was given to Mona Lisa, her portrait commissioned by her husband and painted by Leonardo da Vinci during the Italian Renaissance. Little is known about Lisa's life. Married as a teenager to a cloth and silk merchant who later became a local official, she was mother to five children and led what is thought to have been a comfortable and ordinary middle-class life. Lisa outlived her husband, who was about 20 years her senior. Centuries after Lisa's death, Mona Lisa became the world's most famous painting and took on a life separate from Lisa, the woman. Speculation by scholars and hobbyists made the work of art a globally recognized icon and an object of commercialization. During the early 21st century, a discovery made at a university library was powerful enough evidence to end speculation about the sitter's identity and definitively identified Lisa del Giocondo as the subject of the Mona Lisa.",
-    "url": "https://en.wikipedia.org/wiki/Lisa_del_Giocondo"
+    "id": "history-of-the-yosemite-area",
+    "name": "History of the Yosemite area",
+    "summary": "The known history of the Yosemite area started with Miwok and Paiute peoples who inhabited the central Sierra Nevada region of California that now includes Yosemite National Park. At the time the first non-indigenous people entered the area, a band of Miwok called the Ahwahnechee lived in Yosemite Valley. Conflict ensued in the mid 19th century and the Mariposa Battalion pursued the Ahwahnechee into the Valley. The Yosemite Valley and the Mariposa Grove of Giant Sequoia were ceded to California as a state park in 1864. Naturalist John Muir and others soon became alarmed about over-exploitation of the area and helped push through the creation of Yosemite National Park, in 1890. It would not be until 1906 that the Valley and Grove would be added. Park jurisdiction was at first under the United States Army's Fourth Cavalry Regiment then in 1916 it was transferred to the National Park Service. The failed fight to save Hetch Hetchy Valley from becoming a reservoir and hydroelectric power plant in the early 20th century sparked a great deal of controversy that polarized the nation. Since then about 94% of the park has been set aside in a highly protected wilderness area.",
+    "url": "https://en.wikipedia.org/wiki/History_of_the_Yosemite_area"
   },
   "word": {
-    "id": "perdition",
-    "word": "perdition",
-    "url": "https://www.merriam-webster.com/dictionary/perdition",
-    "partOfSpeech": "noun",
-    "pronunciation": "per-DISH-un",
-    "audioPath": "audio/words/perdition.mp3",
-    "definitions": ["eternal damnation", "hell"],
-    "examples": [
-      "\"The urbane activity with which a man receives money is really marvellous, considering that we so earnestly believe money to be the root of all earthly ills, and that on no account can a monied man enter heaven. Ah! how cheerfully we consign ourselves to _perdition_!\" -- From Herman Melville's 1851 novel _Moby Dick_",
-      "\"So among my earliest poems were those about a sin-eater -- a functionary at funerals from a former time who, for his daily bread and a small fee, took unto himself the sins of the dead, and then, like the goat of the ancient Jews, escaped to the wilderness laden with the burdens of _perdition_.\" -- From an article by Thomas Lynch in _Commonweal_, August 12, 2011"
+    "id": "peripatetic",
+    "word": "peripatetic",
+    "url": "https://www.merriam-webster.com/dictionary/peripatetic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "pair-uh-puh-TET-ik",
+    "audioPath": "audio/words/peripatetic.mp3",
+    "definitions": [
+      "of or relating to the Greek philosopher Aristotle or his philosophy : Aristotelian",
+      "of, relating to, or given to walking",
+      "moving or traveling from place to place : itinerant"
     ],
-    "origin": "\"Perdition\" began life as a word meaning \"utter destruction\"; that sense is now archaic, but it provides a clue about the origins of the word. \"Perdition\" was borrowed into English in the 14th century from Anglo-French \"perdiciun\" and ultimately derives from the Latin verb \"perdere,\" meaning \"to destroy.\" \"Perdere\" was formed by combining the prefix \"per-\" (\"through\") and \"dare\" (\"to give\"). Other descendants of that Latin \"dare\" in English include \"date,\" \"edition,\" \"render,\" and \"traitor.\""
+    "examples": [
+      "I was _peripatetic_ throughout my twenties, but in my thirties I bought a house and began putting down roots in the community.",
+      "\"From the day Rousseau turned his back on his native city, these _peripatetic_ writer-thinkers were bent on walking into a kind of alienated individuality.\" - From a book review by Billy Mills in _Guardian Unlimited_, August 9, 2012"
+    ],
+    "origin": "Are you someone who likes to think on your feet? If so you've got something in common with the followers of the ancient Greek philosopher Aristotle. Not only a thinker and teacher, Aristotle was also a walker, and his students were required to walk along beside him as he lectured while pacing to and fro. Thus it was that the Greek word \"peripatētikos\" (from \"peripatein,\" meaning \"to walk up and down\") came to be associated with Aristotle and his followers. By the way, the covered walk in the Lyceum where Aristotle taught became known as the \"peripatos\" (which can either refer to the act of walking or a place for walking)."
   }
 }

@@ -1,128 +1,124 @@
 {
   "artist": {
-    "id": "song-dong",
-    "name": "Song Dong",
-    "dates": "Born 1966",
-    "mainImg": "img/art/artists/song-dong.jpg",
+    "id": "cildo-meireles",
+    "name": "Cildo Meireles",
+    "dates": "Born 1948",
+    "mainImg": "img/art/artists/cildo-meireles.jpg",
     "artworkImgs": [
       {
-        "name": "Wisdom of the Poor: Living with the Tree",
-        "path": "img/art/artworks/song-dong-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/wisdom-of-the-poor-living-with-the-tree-song-dong/VwHVL-7N7jC52A"
+        "name": "Inserções em circuitos ideológicos: Projeto cédulas",
+        "path": "img/art/artworks/cildo-meireles-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/inserções-em-circuitos-ideológicos-projeto-cédulas-cildo-meireles/8gE9m4t21caEDw"
       },
       {
-        "name": "Song Dong, Prison in Prison",
-        "path": "img/art/artworks/song-dong-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/song-dong-prison-in-prison-stiftung-für-kunst-und-kultur-e-v/7gHy7vhPiIKAWA"
+        "name": "Missão/Missões [Mission/Missions] (How to Build Cathedrals)",
+        "path": "img/art/artworks/cildo-meireles-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/missão-missões-mission-missions-how-to-build-cathedrals-cildo-meireles/wAHAKQKa36fztw"
       },
       {
-        "name": "Wisdom of the Poor: Living with Disaster",
-        "path": "img/art/artworks/song-dong-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/wisdom-of-the-poor-living-with-disaster-song-dong/bQH95tYb-fFgqQ"
+        "name": "Zero dólar",
+        "path": "img/art/artworks/cildo-meireles-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/zero-dólar-cildo-meireles/PAGH4fY3Lo5K-Q"
       },
       {
-        "name": "Wisdom of the Poor: Living with the Pigeons",
-        "path": "img/art/artworks/song-dong-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/wisdom-of-the-poor-living-with-the-pigeons-song-dong/PwHaXwMLT2IDTA"
+        "name": "Zero cruzeiro",
+        "path": "img/art/artworks/cildo-meireles-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/zero-cruzeiro-cildo-meireles/7AFeUVhUVS3Zuw"
       },
       {
-        "name": "Wisdom of the Poor: Enclosure movement-2",
-        "path": "img/art/artworks/song-dong-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/wisdom-of-the-poor-enclosure-movement-2-song-dong/aQFdBP2qsCm1zg"
+        "name": "\"Zero dollar\"",
+        "path": "img/art/artworks/cildo-meireles-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/zero-dollar-cildo-meireles/qgFscRGahGqbkg"
       },
       {
-        "name": "Food-relative",
-        "path": "img/art/artworks/song-dong-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/food-relative-song-qun/SAEuVvs9O2FHLA"
+        "name": "Inserções em circuitos ideológicos: Projeto Coca-Cola",
+        "path": "img/art/artworks/cildo-meireles-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/inserções-em-circuitos-ideológicos-projeto-coca-cola-cildo-meireles/8QFtzKFoty9-Gw"
       }
     ],
     "summary": [
-      "Song Dong is a Chinese contemporary artist, active in sculpture, installations, performance, photography and video. He has been involved in many solo and group exhibitions around the world, covering a range of themes and topics including his relationship with his family and their experience of living in modern China, the transformation of China's urban environment and the impermanence of change."
+      "Cildo Meireles is a Brazilian conceptual artist, installation artist and sculptor. He is noted especially for his installations, many of which express resistance to political oppression in Brazil. These works, often large and dense, encourage a phenomenological experience via the viewer's interaction."
     ],
     "quote": null,
-    "movements": ["Contemporary art"],
-    "mediums": ["Photograph"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Song_Dong",
-    "urlGoogle": "https://artsandculture.google.com/entity/song-dong/m07wywmw"
+    "movements": ["Contemporary art", "Conceptual art"],
+    "mediums": ["Metal", "Iron", "Steel", "Wood", "Textile", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Cildo_Meireles",
+    "urlGoogle": "https://artsandculture.google.com/entity/cildo-meireles/m0fmjs0"
   },
   "event": {
-    "id": "hindenburg-disaster",
-    "name": "Hindenburg disaster",
-    "dates": null,
-    "mainImg": "img/events/hindenburg-disaster.jpg",
+    "id": "nuremberg-trials",
+    "name": "Nuremberg trials",
+    "dates": "Nov 20, 1945 - Oct 1, 1946",
+    "mainImg": "img/events/nuremberg-trials.jpg",
     "summary": [
-      "The Hindenburg disaster occurred on May 6, 1937, in Manchester Township, New Jersey, United States. The German passenger airship LZ 129 Hindenburg caught fire and was destroyed during its attempt to dock with its mooring mast at Naval Air Station Lakehurst. There were 35 fatalities from the 97 people on board, and an additional fatality on the ground.",
-      "The disaster was the subject of newsreel coverage, photographs, and Herbert Morrison's recorded radio eyewitness reports from the landing field, which were broadcast the next day. A variety of hypotheses have been put forward for both the cause of ignition and the initial fuel for the ensuing fire. The event shattered public confidence in the giant, passenger-carrying rigid airship and marked the abrupt end of the airship era."
+      "The Nuremberg trials were a series of military tribunals held after World War II by the Allied forces under international law and the laws of war. The trials were most notable for the prosecution of prominent members of the political, military, judicial, and economic leadership of Nazi Germany, who planned, carried out, or otherwise participated in the Holocaust and other war crimes. The trials were held in Nuremberg, Germany, and their decisions marked a turning point between classical and contemporary international law.",
+      "The first and best known of the trials was that of the major war criminals before the International Military Tribunal. It was described as \"the greatest trial in history\" by Sir Norman Birkett, one of the British judges present throughout. Held between 20 November 1945 and 1 October 1946, the Tribunal was given the task of trying 24 of the most important political and military leaders of the Third Reich. Primarily treated here is the first trial, conducted by the International Military Tribunal. Further trials of lesser war criminals were conducted under Control Council Law No. 10 at the U.S."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Hindenburg_disaster",
-    "urlGoogle": "https://artsandculture.google.com/entity/hindenburg-disaster/m04czcqh"
+    "urlWiki": "https://en.wikipedia.org/wiki/Nuremberg_trials",
+    "urlGoogle": "https://artsandculture.google.com/entity/nuremberg-trials/m05hdx"
   },
   "funFacts": [
-    { "id": "211", "fact": "The average koala sleeps 22 hours each day.", "category": ["Animals"] },
     {
-      "id": "950",
-      "fact": "The first spam message was transmitted over telegraph wires in 1864.",
-      "category": ["History", "Firsts"]
+      "id": "265",
+      "fact": "About 90% of all garlic consumed in the U.S. comes from Gilroy, CA.",
+      "category": ["Food", "Geography"]
+    },
+    {
+      "id": "993",
+      "fact": "Powerful earthquakes can make the Earth spin faster.",
+      "category": ["Hodgepodge", "Science"]
     }
   ],
-  "funFacts2": [
-    { "id": "553923", "fact": "There's a five-story, blood-red waterfall in Antarctica." }
-  ],
+  "funFacts2": [{ "id": "553728", "fact": "Humans are the only animals that blush." }],
   "idiom": {
-    "id": "sow-ones-wild-oats",
-    "term": "sow one's wild oats",
-    "definition": "Behave foolishly, immoderately, or promiscuously when young, as in *Brad has spent the last couple of years sowing his wild oats, but now he seems ready to settle down.* This expression alludes to sowing inferior wild oats instead of good cultivated grain, the verb *sowing* ---that is, \"planting seed\"---in particular suggesting sexual promiscuity. [Mid-1500s]"
+    "id": "unkindest-cut",
+    "term": "unkindest cut",
+    "definition": "The worst insult, ultimate treachery, as in *And then, the unkindest cut of all---my partner walks out on me just when the deal is about to go through.* This expression was invented by Shakespeare in describing Julius Caesar's stabbing to death by his friends in *Julius Caesar* (3:2): \"This was the most unkindest cut of all.''"
   },
   "person": {
-    "id": "sejanus",
-    "name": "Sejanus",
-    "dates": "19 BC - 31 AD",
-    "mainImg": "img/people/sejanus.jpg",
+    "id": "john-iv-of-portugal",
+    "name": "John IV of Portugal",
+    "dates": "Mar 19, 1604 - Nov 6, 1656",
+    "mainImg": "img/people/john-iv-of-portugal.jpg",
     "summary": [
-      "Lucius Aelius Sejanus, commonly known as Sejanus, was an ambitious soldier, friend and confidant of the Roman Emperor Tiberius. An equestrian by birth, Sejanus rose to power as prefect of the Roman imperial bodyguard, known as the Praetorian Guard, of which he was commander from AD 14 until his death in AD 31.",
-      "While the Praetorian Guard was formally established under Emperor Augustus, Sejanus introduced a number of reforms which saw the unit evolve beyond a mere bodyguard, into a powerful and influential branch of the government involved in public security, civil administration and ultimately political intercession; these changes would have a lasting impact on the course of the Principate.",
-      "During the 20s, Sejanus gradually accumulated power by consolidating his influence over Tiberius and eliminating potential political opponents, including the emperor's son Drusus Julius Caesar. When Tiberius withdrew to Capri in AD 26, Sejanus was left in control of the administration of the empire. For a time the most influential and feared citizen of Rome, Sejanus suddenly fell from power in AD 31, the year his career culminated with the consulship."
+      "John IV, nicknamed John the Restorer, was the King of Portugal whose reign, lasting from 1640 until his death, led to the Portuguese \"restoration\" of independence from Spanish rule. His accession established the house of Braganza on the Portuguese throne, and marked the end of the 60-year-old Iberian Union, by which Portugal and Spain shared the same monarch.",
+      "Before becoming king, he was John II, 8th Duke of Braganza. He was the grandson of Catherine, Duchess of Braganza, a claimant to the crown during the Portuguese succession crisis of 1580. On the eve of his death in 1656, the Portuguese Empire reached its territorial zenith, spanning the globe."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Sejanus",
-    "urlGoogle": "https://artsandculture.google.com/entity/sejanus/m0143nc"
+    "urlWiki": "https://en.wikipedia.org/wiki/John_IV_of_Portugal",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-iv-of-portugal/m0140z2"
   },
   "place": {
-    "id": "maastricht",
-    "name": "Maastricht",
-    "mainImg": "img/places/maastricht.jpg",
+    "id": "guyana",
+    "name": "Guyana",
+    "mainImg": "img/places/guyana.jpg",
     "summary": [
-      "Maastricht is a city and a municipality in the southeast of the Netherlands. It is the capital and largest city of the province of Limburg. Maastricht is located on both sides of the Meuse, at the point where the Jeker joins it. It is adjacent to the border with Belgium.",
-      "Maastricht developed from a Roman settlement to a medieval religious centre. In the 16th century it became a garrison town and in the 19th century an early industrial city. Today, the city is a thriving cultural and regional hub. It became well known through the Maastricht Treaty and as the birthplace of the euro. Maastricht has 1677 national heritage buildings, the second highest number in the Netherlands, after Amsterdam. The city is visited by tourists for shopping and recreation, and has a large international student population. Maastricht is a member of the Most Ancient European Towns Network and is part of the Meuse-Rhine Euroregion, which includes the nearby German and Belgian cities of Aachen, Eupen, Hasselt, Liège, and Tongeren. The Meuse-Rhine Euroregion is a metropolis with a population of about 3.9 million with several international universities."
+      "Guyana, officially the Co-operative Republic of Guyana, is a country on the northern mainland of South America. It is, however, often considered part of the Caribbean region because of its strong cultural, historical, and political ties with other Anglo-Caribbean countries and the Caribbean Community. Guyana is bordered by the Atlantic Ocean to the north, Brazil to the south and southwest, Venezuela to the west, and Suriname to the east. With 215,000 square kilometres, Guyana is the third-smallest sovereign state on mainland South America after Uruguay and Suriname.",
+      "The region known as \"the Guianas\" consists of the large shield landmass north of the Amazon River and east of the Orinoco River known as the \"land of many waters\". Originally inhabited by many indigenous groups, Guyana was settled by the Dutch before coming under British control in the late 18th century. It was governed as British Guiana, with a mostly plantation-style economy until the 1950s. It gained independence in 1966, and officially became a republic within the Commonwealth of Nations in 1970."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Maastricht",
-    "urlGoogle": "https://artsandculture.google.com/entity/maastricht/m051ls"
-  },
-  "quote": {
-    "id": "2",
-    "quote": "Not how long, but how well you have lived is the main thing.",
-    "author": "Seneca"
+    "urlWiki": "https://en.wikipedia.org/wiki/Guyana",
+    "urlGoogle": "https://artsandculture.google.com/entity/guyana/m034m8"
   },
   "wiki": {
-    "id": "waterfall-gully-south-australia",
-    "name": "Waterfall Gully, South Australia",
-    "summary": "Waterfall Gully is a small suburb in the South Australian city of Adelaide. It is located in the foothills of the Mount Lofty Ranges around five kilometres east of Adelaide's central business district (CBD). For the most part, the suburb encompasses one long gully with First Creek at its centre and Waterfall Gully Road adjacent to the creek. At one end of the gully is the waterfall for which the suburb was named. Part of the Burnside Council, it is bounded to the north by the suburb of Burnside, to the north-east by Greenhill, to the south-east by Cleland Conservation Park, to the south-west by Leawood Gardens and to the north-west by Mount Osmond. Waterfall Gully is rich in history and has been a popular attraction since Adelaide's early colonists discovered the area in the nineteenth century. Home to a number of residents and increasingly frequented by tourists, Waterfall Gully has undergone extensive developments in recent years.",
-    "url": "https://en.wikipedia.org/wiki/Waterfall_Gully,_South_Australia"
+    "id": "hurricane-bob-1985",
+    "name": "Hurricane Bob (1985)",
+    "summary": "Hurricane Bob was a weak hurricane that affected the southeast United States in July 1985. The second tropical storm and first hurricane of the 1985 Atlantic hurricane season, the system developed from a tropical wave on July 21 in the eastern Gulf of Mexico. Bob began moving east, striking southwestern Florida as a weak tropical storm. The storm then turned to the north and quickly intensified to hurricane status on July 24. The next day, it made landfall near Beaufort, South Carolina, becoming one of a record-tying six hurricanes to hit the United States during a single season. Bob caused $20 million in damage and five indirect deaths. In Florida, the storm produced heavy rainfall, peaking at over 20 inches (500 mm) in Everglades City. In most areas, the rainfall was beneficial due to dry conditions that had persisted throughout the year. Damage was minimal in South Carolina, where the hurricane made its final landfall. In Virginia, the storm spawned three tornadoes, one of which destroyed two houses.",
+    "url": "https://en.wikipedia.org/wiki/Hurricane_Bob_(1985)"
   },
   "word": {
-    "id": "borborygmus",
-    "word": "borborygmus",
-    "url": "https://www.merriam-webster.com/dictionary/borborygmus",
-    "partOfSpeech": "noun, plural borborygmi",
-    "pronunciation": "bor-buh-RIG-mus",
-    "audioPath": "audio/words/borborygmus.mp3",
-    "definitions": ["intestinal rumbling caused by moving gas"],
+    "id": "caterwaul",
+    "word": "caterwaul",
+    "url": "https://www.merriam-webster.com/dictionary/caterwaul",
+    "partOfSpeech": "verb",
+    "pronunciation": "KAT-er-wawl",
+    "audioPath": "audio/words/caterwaul.mp3",
+    "definitions": ["to make a harsh cry", "to protest or complain noisily"],
     "examples": [
-      "The hall was very quiet as the test-takers concentrated on the task at hand, and Cara hoped that her embarrassing _borborygmus_ went mostly unnoticed.",
-      "\"'Both men are presenting the classic symptoms \\[of severe typhoid fever\\] - fever, sudden prostration, abdominal distress, delirium, right lower quadrant _borborygmi_.' Springer counted off the symptoms on the fingers of his left hand as if he were on formal ground rounds.\" - From Robin Cook's 2011 novel _Death Benefit_"
+      "The toddler _caterwauled_ loudly when her toy was taken away.",
+      "\"Stockton's leaders clearly calculated that at this point they have little to lose by shortchanging bondholders-its credit rating is already so low that it'd have a hard time financing a used Hyundai with $5,000 down-and that while creditors may sue, complain, and _caterwaul_, they do not get to vote.\" - From an article by Kevin D. Williamson in _National Review_, April 3, 2013"
     ],
-    "origin": "Unless you're a gastroenterologist, chances are you never knew there was a name for those loud gurglings your belly sometimes makes. And if in looking at the word, you thought it was just some crazy coinage invented by someone who thought the word matched the rumbling sound it represented, you'd be right, in a way. We picked it up from New Latin, but it traces to the Greek verb \"borboryzein,\" which means \"to rumble.\" It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach. \"Borborygmus\" has been part of English for at least 250 years; its earliest known use dates from around 1724."
+    "origin": "An angry (or amorous) cat can make a lot of noise. As long ago as the mid-1300s, English speakers were using \"caterwaul\" for the act of voicing feline passions. The \"cater\" part is, of course, connected to the cat, but scholars disagree about whether it traces to Middle Dutch \"cāter,\" meaning \"tomcat,\" or if it is really just \"cat\" with an \"-er\" added. The \"waul\" is probably imitative in origin; it represents the feline howl itself. English's first \"caterwaul\" was a verb focused on feline vocalizations, but by the 1600s it was also being used for noisy people or things. By the 1700s it had become a noun naming any sound as loud and grating as a tomcat's yowl."
   }
 }

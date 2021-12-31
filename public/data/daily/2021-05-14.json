@@ -1,136 +1,131 @@
 {
   "artist": {
-    "id": "mark-jenkins",
-    "name": "Mark Jenkins",
-    "dates": "Born Oct 7, 1970",
-    "mainImg": "img/art/artists/mark-jenkins.jpg",
+    "id": "caravaggio",
+    "name": "Caravaggio",
+    "dates": "Sep 29, 1571 - Jul 18, 1610",
+    "mainImg": "img/art/artists/caravaggio.jpg",
     "artworkImgs": [
       {
-        "name": "POSITIVE-PROPAGANDA x Mark Jenkins",
-        "path": "img/art/artworks/mark-jenkins-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/positive-propaganda-x-mark-jenkins-mark-jenkins/JwEBHR7Ug7Vlzg"
+        "name": "Cupid as Victor",
+        "path": "img/art/artworks/caravaggio-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/cupid-as-victor-caravaggio/HQEQJRFURFe4qg"
       },
       {
-        "name": "Living Layers",
-        "path": "img/art/artworks/mark-jenkins-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/living-layers/AQETszHEo2nGeQ"
+        "name": "Medusa",
+        "path": "img/art/artworks/caravaggio-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/medusa-caravaggio-merisi/FAFPqU12CekL8Q"
       },
       {
-        "name": "POSITIVE-PROPAGANDA x Mark Jenkins",
-        "path": "img/art/artworks/mark-jenkins-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/positive-propaganda-x-mark-jenkins-mark-jenkins/eAGGgcpuGA9b_w"
+        "name": "Supper at Emmaus",
+        "path": "img/art/artworks/caravaggio-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/supper-at-emmaus-michelangelo-merisi-da-caravaggio/SAEXa9MdfikXZw"
       },
       {
-        "name": "POSITIVE-PROPAGANDA x Mark Jenkins",
-        "path": "img/art/artworks/mark-jenkins-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/positive-propaganda-x-mark-jenkins-mark-jenkins/jAFEvoMkshkLmA"
+        "name": "The adolescent Bacchus",
+        "path": "img/art/artworks/caravaggio-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-adolescent-bacchus-caravaggio-merisi/dAEBrgRq5AvsQA"
       },
       {
-        "name": "POSITIVE-PROPAGANDA x Mark Jenkins",
-        "path": "img/art/artworks/mark-jenkins-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/positive-propaganda-x-mark-jenkins-mark-jenkins/ewHOX289A8wWRw"
+        "name": "Martyrdom of St. Ursula",
+        "path": "img/art/artworks/caravaggio-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/martyrdom-of-st-ursula-caravaggio/IwE9FdQerFWM4Q"
       },
       {
-        "name": "POSITIVE-PROPAGANDA x Mark Jenkins",
-        "path": "img/art/artworks/mark-jenkins-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/positive-propaganda-x-mark-jenkins-mark-jenkins/-gFsUntTGR4pKg"
+        "name": "Martha and Mary Magdalene",
+        "path": "img/art/artworks/caravaggio-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/martha-and-mary-magdalene-michelangelo-merisi-da-caravaggio/DQEEjkgqzGQdVg"
       }
     ],
     "summary": [
-      "Mark Jenkins is an American artist who makes sculptural street installations. Jenkins' practice of street art is to use the \"street as a stage\" where his sculptures interact with the surrounding environment including passersby who unknowingly become actors. His installations often draw the attention of the police. His work has been described as whimsical, macabre, shocking and situationist. Jenkins cites Juan Muñoz as his initial inspiration.",
-      "In addition to creating art, he also teaches his sculpture techniques and installation practices through workshops. He currently lives in Washington, DC."
+      "Michelangelo Merisi da Caravaggio was an Italian painter active in Rome for most of his artistic life. During the final four years of his life he moved between Naples, Malta, and Sicily until his death. His paintings combine a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.",
+      "Caravaggio employed close physical observation with a dramatic use of chiaroscuro that came to be known as tenebrism. He made the technique a dominant stylistic element, darkening shadows and transfixing subjects in bright shafts of light. Caravaggio vividly expressed crucial moments and scenes, often featuring violent struggles, torture, and death. He worked rapidly, with live models, preferring to forgo drawings and work directly onto the canvas. His influence on the new Baroque style that emerged from Mannerism was profound. It can be seen directly or indirectly in the work of Peter Paul Rubens, Jusepe de Ribera, Gian Lorenzo Bernini, and Rembrandt, and artists in the following generation heavily under his influence were called the \"Caravaggisti\" or \"Caravagesques\", as well as tenebrists or tenebrosi."
     ],
-    "quote": null,
-    "movements": ["Street art"],
-    "mediums": [],
-    "urlWiki": "https://en.wikipedia.org/wiki/Mark_Jenkins_%28artist%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/mark-jenkins/m0262r93"
+    "quote": "“I bury my head in the pillow, and dream of my true love… I am rowing to you on the great, dark ocean.”",
+    "movements": ["Baroque", "Renaissance"],
+    "mediums": ["Oil paint", "Plaster", "Tempera"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Caravaggio",
+    "urlGoogle": "https://artsandculture.google.com/entity/caravaggio/m020bg"
   },
   "event": {
-    "id": "2020-china-india-skirmishes",
-    "name": "2020 China–India skirmishes",
-    "dates": "May 5, 2020",
-    "mainImg": "img/events/2020-china-india-skirmishes.jpg",
+    "id": "invasion-of-poland",
+    "name": "Invasion of Poland",
+    "dates": "Sep 1, 1939 - Oct 6, 1939",
+    "mainImg": "img/events/invasion-of-poland.jpg",
     "summary": [
-      "The 2020 China–India skirmishes are part of an ongoing military standoff between China and India. Since 5 May 2020, Chinese and Indian troops have reportedly engaged in aggressive actions, face-offs and skirmishes at locations along the Sino-Indian border, including near the disputed Pangong Lake in Ladakh and the Tibet Autonomous Region, and at the Nathu La pass in Sikkim. Additional clashes are ongoing at locations in eastern Ladakh along the Line of Actual Control that has persisted since the 1962 Sino-Indian War.",
-      "In late May, Chinese forces objected to Indian road construction in the Galwan River valley. According to Indian sources, fighting on 15/16 June 2020 resulted in the deaths of 20 Indian soldiers and casualties among 43 Chinese soldiers. Several news outlets stated that 10 Indian soldiers, including 4 officers, were taken captive and then released by the Chinese on 18 June. 15 Chinese soldiers, including a colonel, were also captured by the Indian side.",
-      "Amid the standoff, India reinforced the region with 12,000 additional workers who would help with completing the development of Indian infrastructure."
+      "The invasion of Poland, marked the beginning of World War II. The German invasion began on 1 September 1939, one week after the signing of the Molotov–Ribbentrop Pact between Germany and the Soviet Union, and one day after the Supreme Soviet of the Soviet Union had approved the pact. The Soviets invaded Poland on 17 September. The campaign ended on 6 October with Germany and the Soviet Union dividing and annexing the whole of Poland under the terms of the German–Soviet Frontier Treaty.",
+      "German forces invaded Poland from the north, south, and west the morning after the Gleiwitz incident. Slovak military forces advanced alongside the Germans in northern Slovakia. As the Wehrmacht advanced, Polish forces withdrew from their forward bases of operation close to the Germany–Poland border to more established defense lines to the east. After the mid-September Polish defeat in the Battle of the Bzura, the Germans gained an undisputed advantage. Polish forces then withdrew to the southeast where they prepared for a long defence of the Romanian Bridgehead and awaited expected support and relief from France and the United Kingdom."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/2020_China%E2%80%93India_skirmishes",
-    "urlGoogle": "https://artsandculture.google.com/entity/2020-china–india-skirmishes/g11jgng_zwz"
+    "urlWiki": "https://en.wikipedia.org/wiki/Invasion_of_Poland",
+    "urlGoogle": "https://artsandculture.google.com/entity/invasion-of-poland/m01sz70"
   },
   "funFacts": [
     {
-      "id": "175",
-      "fact": "In 1634, tulip bulbs were a form of currency in Holland.",
-      "category": ["Geography", "History"]
+      "id": "415",
+      "fact": "The most popular pet name in the United States is 'Max.'",
+      "category": ["Habits"]
     },
     {
-      "id": "474",
-      "fact": "To temporarily revive your ballpoint pen, dip the tip into hot water for a few seconds.",
-      "category": ["Make-it-Easies"]
+      "id": "194",
+      "fact": "You don't have to be a lawyer to be a Supreme Court Justice.",
+      "category": ["Laws"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553850",
-      "fact": "Some female sharks store sperm after mating, potentially holding on to it for years before they’re ready to reproduce."
+      "id": "522228",
+      "fact": "Bones found at Seymour Island indicate that, 37 to 40 million years ago, penguins stood at a formidable 6 feet tall and weighed 250 pounds."
     }
   ],
   "idiom": {
-    "id": "absent-without-leave",
-    "term": "absent without leave",
-    "definition": "Away without permission or explanation, as in *Her daughter went to the mall but got in trouble for being absent without leave.* The term and its acronym, **AWOL,** originated in the American military during World War I for soldiers absent from duty without permission (leave). It later was transferred to civilian situations, as in *John didn't just cut his Tuesday classes; he went AWOL.*"
+    "id": "ham-up",
+    "term": "ham up",
+    "definition": "Exaggerate or overdo, especially with extravagant emotion, as in *Hamming up the eulogy was disgraceful, especially since he didn't even know the deceased.* It is also put as **ham it up,** meaning \"overact,\" as in *She loves to ham it up in front of the class.* This idiom probably alludes to the *hamfat* (lard) used to remove stage makeup, mentioned in the minstrel song, \"The Ham-Fat Man.\" From this *hamfatter* came to mean \"an inexpert and flamboyant actor,\" and was in the late 1800s shortened to *ham.* The idiom here was first recorded in 1933."
   },
   "person": {
-    "id": "john-buchan",
-    "name": "John Buchan",
-    "dates": "Aug 26, 1875 - Feb 11, 1940",
-    "mainImg": "img/people/john-buchan.jpg",
+    "id": "lewis-cass",
+    "name": "Lewis Cass",
+    "dates": "Oct 9, 1782 - Jun 17, 1866",
+    "mainImg": "img/people/lewis-cass.jpg",
     "summary": [
-      "John Buchan, 1st Baron Tweedsmuir GCMG GCVO CH PC DL was a Scottish novelist, historian, and Unionist politician who served as Governor General of Canada, the 15th since Canadian Confederation.",
-      "After a brief legal career, Buchan simultaneously began his writing career and his political and diplomatic careers, serving as a private secretary to the administrator of various colonies in southern Africa. He eventually wrote propaganda for the British war effort during World War I. He was elected Member of Parliament for the Combined Scottish Universities in 1927, but he spent most of his time on his writing career, notably writing The Thirty-Nine Steps and other adventure fiction. In 1935, King George V, on the advice of Prime Minister R. B. Bennett, appointed Buchan to replace the Earl of Bessborough as Governor General of Canada, for which purpose Buchan was raised to the peerage. He occupied the post until his death in 1940.",
-      "Buchan was enthusiastic about literacy and the development of Canadian culture, and he received a state funeral in Canada before his ashes were returned to the United Kingdom."
+      "Lewis Cass was an American military officer, politician, and statesman. He represented Michigan in the United States Senate and served in the Cabinets of two U.S. Presidents, Andrew Jackson and James Buchanan. He was also the 1848 Democratic presidential nominee and a leading spokesman for the Doctrine of Popular Sovereignty, which held that the white people in each territory should decide whether to permit slavery.",
+      "Born in Exeter, New Hampshire, he attended Phillips Exeter Academy before establishing a legal practice in Zanesville, Ohio. After serving in the Ohio House of Representatives, he was appointed as a U.S. Marshal. Cass also joined the Freemasons and would eventually co-found the Grand Lodge of Michigan. He fought at the Battle of the Thames in the War of 1812 and was appointed to govern Michigan Territory in 1813. He negotiated treaties with Native Americans to open land for American settlement and led a survey expedition into the northwest part of the territory.",
+      "Cass resigned as governor in 1831 to accept appointment as Secretary of War under Andrew Jackson. As Secretary of War, he helped implement Jackson's policy of Indian removal."
     ],
-    "quote": "“The charm of fishing is that it is the pursuit of what is elusive but attainable, a perpetual series of occasions for hope.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/John_Buchan",
-    "urlGoogle": "https://artsandculture.google.com/entity/john-buchan/m0llf9"
+    "quote": "“People may doubt what you say, but they will believe what you do.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Lewis_Cass",
+    "urlGoogle": "https://artsandculture.google.com/entity/lewis-cass/m01mvpv"
   },
   "place": {
-    "id": "vladivostok",
-    "name": "Vladivostok",
-    "mainImg": "img/places/vladivostok.jpg",
+    "id": "bari",
+    "name": "Bari",
+    "mainImg": "img/places/bari.jpg",
     "summary": [
-      "Vladivostok is a city and the administrative centre of the Far Eastern Federal District and Primorsky Krai, Russia, located around the Golden Horn Bay, not far from Russia's borders with China and North Korea. The population of the city as of 2019 was 605,049 up from 592,034 recorded in the 2010 Russian census. Harbin in China is about 515 kilometres away, while Sapporo in Japan is about 775 kilometres east across the Sea of Japan.",
-      "The city is the home port of the Russian Pacific Fleet and is the largest Russian port on the Pacific coast."
+      "Bari is the capital city of the Metropolitan City of Bari and of the Apulia region, on the Adriatic Sea, in southern Italy. It is the second most important economic centre of mainland Southern Italy after Naples, a port and university city, as well as the city of Saint Nicholas. The city itself has a population of 320,257 inhabitants, over 116 square kilometres, while the urban area has 750,000 inhabitants. The metropolitan area has 1.3 million inhabitants.",
+      "Bari is made up of four different urban sections. To the north is the closely built old town on the peninsula between two modern harbours, with the Basilica of Saint Nicholas, the Cathedral of San Sabino and the Hohenstaufen Castle built for Frederick II, which is now also a major nightlife district. To the south is the Murat quarter, the modern heart of the city, which is laid out on a rectangular grid-plan with a promenade on the sea and the major shopping district.",
+      "Modern residential zones surrounding the centre of Bari were built during the 1960s and 1970s replacing the old suburbs that had developed along roads splaying outwards from gates in the city walls."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Vladivostok",
-    "urlGoogle": "https://artsandculture.google.com/entity/vladivostok/m0fd_x"
-  },
-  "quote": {
-    "id": "37",
-    "quote": "The difference between successful people and really successful people is that really successful people say no to almost everything.",
-    "author": "Warren Buffett"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bari",
+    "urlGoogle": "https://artsandculture.google.com/entity/bari/m0c66m"
   },
   "wiki": {
-    "id": "great-eastern-highway",
-    "name": "Great Eastern Highway",
-    "summary": "Great Eastern Highway is a 590-kilometre-long (370 mi) road linking the Western Australian capital of Perth with the city of Kalgoorlie. A key route for vehicles accessing the eastern Wheatbelt and the Goldfields, it is the western portion of the main road link between Perth and the eastern states of Australia. The highway forms the majority of National Highway 94, with various segments included in other road routes. The highway was created in the 1930s from an existing system of roads linking Perth with the Goldfields, though the name was coined to describe a different route from Perth to Guildford (modern-day Guildford Road). The Belmont section was constructed in 1867 using convict labour, with the road base made from sections of tree trunks. Several bypasses have been constructed, including Great Eastern Highway Bypass in Perth. Over the years the road has been upgraded, with the whole highway sealed by 1953, segments reconstructed and widened, dual carriageways created in Perth and Kalgoorlie, and grade separated interchanges built at major intersections. A future route to replace its current ascent of the Darling Scarp has been identified.",
-    "url": "https://en.wikipedia.org/wiki/Great_Eastern_Highway"
+    "id": "operation-varsity",
+    "name": "Operation Varsity",
+    "summary": "Operation Varsity was a joint American–British airborne operation that took place in March 1945, towards the end of World War II. It was planned to aid the British 21st Army Group, under Field Marshal Bernard Montgomery, in securing a foothold across the River Rhine in western Germany by landing two airborne divisions on the eastern bank of the Rhine near the towns of Hamminkeln and Wesel. The operation involved two airborne divisions from US XVIII Airborne Corps: the British 6th Airborne Division and the US 17th Airborne Division. Despite some errors by the airborne forces, the operation was an overall success, with both divisions landing and capturing a number of bridges across the Rhine and securing several towns which could have been used by the enemy to delay the advance of the British ground forces. The two divisions incurred more than 2,000 casualties, but captured approximately 3,000 German soldiers in the process. The operation was the last large-scale Allied airborne operation of World War II, and was the largest single airborne drop in history.",
+    "url": "https://en.wikipedia.org/wiki/Operation_Varsity"
   },
   "word": {
-    "id": "palpable",
-    "word": "palpable",
-    "url": "https://www.merriam-webster.com/dictionary/palpable",
+    "id": "felicitous",
+    "word": "felicitous",
+    "url": "https://www.merriam-webster.com/dictionary/felicitous",
     "partOfSpeech": "adjective",
-    "pronunciation": "PAL-puh-bul",
-    "audioPath": "audio/words/palpable.mp3",
-    "definitions": ["capable of being touched or felt : tangible", "obvious, plain"],
+    "pronunciation": "fih-LISS-uh-tus",
+    "audioPath": "audio/words/felicitous.mp3",
+    "definitions": ["very well suited or expressed : apt", "pleasant, delightful"],
     "examples": [
-      "There was a palpable excitement in the air as the actors prepared to go on stage on opening night."
+      "The film’s score, at least, is felicitous, as it lends emotional intensity to the otherwise wooden acting."
     ],
-    "origin": "The word \"palpable\" has been used in English since the 14th century. It derives from the Latin word “palpare,” meaning \"stroke\" or \"caress” -- the same root that gives us the word \"palpitation.\" The Latin verb is also a linguistic ancestor of the verb \"feel.\" \"Palpable\" can be used to describe things that can be felt through the skin, such as a palpable sweat, but even more frequently is used in reference to things that cannot be touched but are still so easy to perceive that it is as though they could be touched -- such as a palpable tension in the air."
+    "origin": "The adjective \"felicitous\" has been a part of our language since the late 18th century, but \"felicity,\" the noun meaning \"great happiness,\" and later, \"aptness,\" was around even in Middle English (as \"felicite,\" a borrowing from Anglo-French). Both words ultimately derive from the Latin adjective \"felix,\" meaning \"fruitful\" or \"happy.\" The connection between \"happy\" and \"felicitous\" continues today in that both words can mean \"notably fitting, effective, or well adapted.\" \"Happy\" typically suggests what is effectively or successfully appropriate (as in \"a happy choice of words\"), and \"felicitous\" often implies an aptness that is opportune, telling, or graceful (as in \"a felicitous phrase\")."
   }
 }

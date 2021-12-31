@@ -1,129 +1,129 @@
 {
   "artist": {
-    "id": "taryn-simon",
-    "name": "Taryn Simon",
-    "dates": "Born Feb 4, 1975",
-    "mainImg": "img/art/artists/taryn-simon.jpg",
+    "id": "lovis-corinth",
+    "name": "Lovis Corinth",
+    "dates": "Jul 21, 1858 - Jul 17, 1925",
+    "mainImg": "img/art/artists/lovis-corinth.jpg",
     "artworkImgs": [
       {
-        "name": "\"Taryn Simon: A Living Man Declared Dead and Other Chapters I-XVIII\" Installation View",
-        "path": "img/art/artworks/taryn-simon-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/taryn-simon-a-living-man-declared-dead-and-other-chapters-i-xviii-installation-view/KgHUPh3J2ZLkEA"
+        "name": "Thomas Corinth",
+        "path": "img/art/artworks/lovis-corinth-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/thomas-corinth-lovis-corinth/6wEEPi7YLqKzdw"
       },
       {
-        "name": "Chapter XV",
-        "path": "img/art/artworks/taryn-simon-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/chapter-xv-taryn-simon/uwGi7_u0meOXeQ"
+        "name": "Selfportrait with skeleton",
+        "path": "img/art/artworks/lovis-corinth-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/selfportrait-with-skeleton-corinth-lovis/vgHTe-VzNrj3FQ"
       },
       {
-        "name": "\"Taryn Simon: A Living Man Declared Dead and Other Chapters I-XVIII\" Installation View",
-        "path": "img/art/artworks/taryn-simon-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/taryn-simon-a-living-man-declared-dead-and-other-chapters-i-xviii-installation-view/WAE9NLjXFoPsDg"
+        "name": "The Blinded Samson",
+        "path": "img/art/artworks/lovis-corinth-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-blinded-samson-lovis-corinth/awErRXFDV49Z3w"
       },
       {
-        "name": "Chapter V",
-        "path": "img/art/artworks/taryn-simon-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/chapter-v-taryn-simon/FgFLKqCxGsTvig"
+        "name": "Woman in Hat with Roses",
+        "path": "img/art/artworks/lovis-corinth-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/woman-in-hat-with-roses-lovis-corinth/HgHdSJ0KH5Twew"
       },
       {
-        "name": "Paperwork, and the Will of Capital",
-        "path": "img/art/artworks/taryn-simon-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/paperwork-and-the-will-of-capital-taryn-simon/OQFJ9NstOnBjjg"
+        "name": "The Family of the Painter Fritz Rumpf",
+        "path": "img/art/artworks/lovis-corinth-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-family-of-the-painter-fritz-rumpf-lovis-corinth/zgFFa16k1svocQ"
       },
       {
-        "name": "\"Taryn Simon: A Living Man Declared Dead and Other Chapters I-XVIII\" Installation View",
-        "path": "img/art/artworks/taryn-simon-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/taryn-simon-a-living-man-declared-dead-and-other-chapters-i-xviii-installation-view/7wEybOBK-jqWsg"
+        "name": "Cain",
+        "path": "img/art/artworks/lovis-corinth-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/cain-lovis-corinth/vwGejBFWToVQqA"
       }
     ],
     "summary": [
-      "Taryn Simon is an American multidisciplinary artist who works in photography, text, sculpture, and performance.",
-      "Currently residing and maintaining a studio practice in New York City, Simon has had work featured in the Venice Biennale. In 2001, Simon was selected as a Guggenheim Fellow."
+      "Lovis Corinth was a German artist and writer whose mature work as a painter and printmaker realized a synthesis of impressionism and expressionism.",
+      "Corinth studied in Paris and Munich, joined the Berlin Secession group, later succeeding Max Liebermann as the group's president. His early work was naturalistic in approach. Corinth was initially antagonistic towards the expressionist movement, but after a stroke in 1911 his style loosened and took on many expressionistic qualities. His use of color became more vibrant, and he created portraits and landscapes of extraordinary vitality and power. Corinth's subject matter also included nudes and biblical scenes."
     ],
     "quote": null,
-    "movements": ["Contemporary art"],
-    "mediums": ["Photograph", "Concrete", "Iron", "Ink", "Metal", "Steel"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Taryn_Simon",
-    "urlGoogle": "https://artsandculture.google.com/entity/taryn-simon/m0271r17"
+    "movements": ["Modern art", "Expressionism", "Impressionism", "Realism", "Symbolism"],
+    "mediums": ["Ink", "Laid paper", "Oil paint", "Etching", "Watercolor painting", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lovis_Corinth",
+    "urlGoogle": "https://artsandculture.google.com/entity/lovis-corinth/m0346n_"
   },
   "event": {
-    "id": "landing-at-anzac-cove",
-    "name": "Landing at Anzac Cove",
+    "id": "16-th-street-baptist-church-bombing",
+    "name": "16th Street Baptist Church bombing",
     "dates": null,
-    "mainImg": "img/events/landing-at-anzac-cove.jpg",
+    "mainImg": "img/events/16-th-street-baptist-church-bombing.jpg",
     "summary": [
-      "The landing at Anzac Cove on Sunday, 25 April 1915, also known as the landing at Gaba Tepe, and to the Turks as the Arıburnu Battle, was part of the amphibious invasion of the Gallipoli Peninsula by the forces of the British Empire, which began the land phase of the Gallipoli Campaign of the First World War.",
-      "The assault troops, mostly from the Australian and New Zealand Army Corps, landed at night on the western side of the peninsula. They were put ashore one mile north of their intended landing beach. In the darkness, the assault formations became mixed up, but the troops gradually made their way inland, under increasing opposition from the Ottoman Turkish defenders. Not long after coming ashore the ANZAC plans were discarded, and the companies and battalions were thrown into battle piece-meal, and received mixed orders. Some advanced to their designated objectives while others were diverted to other areas, then ordered to dig in along defensive ridge lines.",
-      "Although they failed to achieve their objectives, by nightfall the ANZACs had formed a beachhead, albeit much smaller than intended. In places they were clinging onto cliff faces with no organised defence system."
+      "The 16th Street Baptist Church bombing was an act of white supremacist terrorism which occurred at the African-American 16th Street Baptist Church in Birmingham, Alabama, on Sunday, September 15, 1963. Four members of a local Ku Klux Klan chapter planted at least 15 sticks of dynamite attached to a timing device beneath the steps located on the east side of the church.",
+      "Described by Martin Luther King Jr. as \"one of the most vicious and tragic crimes ever perpetrated against humanity\" the explosion at the church killed four girls and injured 22 other people.",
+      "Although the FBI had concluded in 1965 that the 16th Street Baptist Church bombing had been committed by four known Klansmen and segregationists: Thomas Edwin Blanton Jr., Herman Frank Cash, Robert Edward Chambliss, and Bobby Frank Cherry, no prosecutions were conducted until 1977, when Robert Chambliss was tried and convicted of the first-degree murder of one of the victims, 11-year-old Carol Denise McNair."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Landing_at_Anzac_Cove",
-    "urlGoogle": "https://artsandculture.google.com/entity/landing-at-anzac-cove/m02lkrh"
+    "urlWiki": "https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_bombing",
+    "urlGoogle": "https://artsandculture.google.com/entity/16th-street-baptist-church-bombing/m01y23_"
   },
   "funFacts": [
     {
-      "id": "249",
-      "fact": "The 1st public message to be transmitted via Morse code was \"A patient waiter is no loser.\"",
+      "id": "161",
+      "fact": "The first TV network kids show in the U.S. was \"Captain Kangaroo.\"",
       "category": ["Firsts"]
     },
     {
-      "id": "181",
-      "fact": "The first jukebox was located in San Francisco in 1899.",
-      "category": ["Firsts"]
+      "id": "701",
+      "fact": "It takes more water to fill a bathtub than it does to enjoy a nice, warm shower.",
+      "category": ["Habits"]
     }
   ],
-  "funFacts2": [{ "id": "554045", "fact": "Barbie's full name is Barbara Millicent Roberts." }],
+  "funFacts2": [
+    { "id": "522154", "fact": "A newborn giant panda is about the size of a stick of butter." }
+  ],
   "idiom": {
-    "id": "more-fun-than-a-barrel-of-monkeys",
-    "term": "more fun than a barrel of monkeys",
-    "definition": "Very amusing or diverting, as in *That video game was more fun than a barrel of monkeys.* This expression, first recorded in 1895, alludes to the playful behavior of these primates. The synonymous colloquialism *barrel of laughs* dates from 1915."
+    "id": "have-ants-in-ones-pants",
+    "term": "have ants in one's pants",
+    "definition": "**1\\.** Be extremely restless, uneasy, impatient, or anxious, as in *This child just can't sit still; she must have ants in her pants.* This rhyming idiom calls up a vivid image of what might cause one to be jumpy. [Slang; 1920s] **2\\.** Be eager for sexual activity, as in *Bill's got ants in his pants for Rita.* This usage is less common today. [Slang; 1920s]"
   },
   "person": {
-    "id": "che-guevara",
-    "name": "Che Guevara",
-    "dates": "Jun 14, 1928 - Oct 9, 1967",
-    "mainImg": "img/people/che-guevara.jpg",
+    "id": "john-c-fremont",
+    "name": "John C. Frémont",
+    "dates": "Jan 21, 1813 - Jul 13, 1890",
+    "mainImg": "img/people/john-c-fremont.jpg",
     "summary": [
-      "Ernesto \"Che\" Guevara de la Serna was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.",
-      "As a young medical student, Guevara traveled throughout South America and was radicalized by the poverty, hunger, and disease he witnessed. His burgeoning desire to help overturn what he saw as the capitalist exploitation of Latin America by the United States prompted his involvement in Guatemala's social reforms under President Jacobo Árbenz, whose eventual CIA-assisted overthrow at the behest of the United Fruit Company solidified Guevara's political ideology. Later in Mexico City, Guevara met Raúl and Fidel Castro, joined their 26th of July Movement, and sailed to Cuba aboard the yacht Granma with the intention of overthrowing U.S.-backed Cuban dictator Fulgencio Batista. Guevara soon rose to prominence among the insurgents, was promoted to second in command and played a pivotal role in the victorious two-year guerrilla campaign that deposed the Batista regime."
-    ],
-    "quote": "“Many will call me an adventurer - and that I am, only one of a different sort: one of those who risks his skin to prove his platitudes.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Che_Guevara",
-    "urlGoogle": "https://artsandculture.google.com/entity/che-guevara/m0d39k"
-  },
-  "place": {
-    "id": "madrid",
-    "name": "Madrid",
-    "mainImg": "img/places/madrid.jpg",
-    "summary": [
-      "Madrid is the capital and most populous city of Spain. The city has almost 3.3 million inhabitants and a metropolitan area population of approximately 6.5 million. It is the second-largest city in the European Union, surpassed only by Berlin, and its monocentric metropolitan area is the second-largest in the EU, smaller only than Paris. The municipality covers 604.3 km².",
-      "Madrid lies on the River Manzanares in the centre of both the country and the Community of Madrid region, of which it is also the capital. As the capital city of Spain, seat of government, residence of the Spanish monarch, Madrid is also the political, economic and cultural centre of the country. The current mayor is José Luis Martínez-Almeida from the People's Party.",
-      "The Madrid urban agglomeration has the third-largest GDP in the European Union and its influence in politics, education, entertainment, environment, media, fashion, science, culture, and the arts all contribute to its status as one of the world's major global cities. Madrid is home to two world-famous football clubs, Real Madrid and Atlético Madrid. Due to its economic output, high standard of living, and market size, Madrid is considered"
+      "John Charles Frémont or Fremont was an American explorer, military officer, and politician. He was a US Senator from California, and in 1856 was the first Republican nominee for President of the United States.",
+      "A native of Georgia, Frémont acquired male protectors after his father's death, and became proficient in mathematics, science, and surveying. During the 1840s, he led five expeditions into the Western United States, and became known as The Pathfinder. During the Mexican–American War, Frémont, a major in the U.S. Army, took control of California from the California Republic in 1846. Frémont was convicted in court-martial for mutiny and insubordination after a conflict over who was the rightful military governor of California. After his sentence was commuted and he was reinstated by President Polk, Frémont resigned from the Army. Frémont led a private fourth expedition, which cost ten lives, seeking a rail route over the mountains around the 38th parallel in the winter of 1849.",
+      "Afterwards, Frémont settled in California at Monterey while buying cheap land in the Sierra foothills."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Madrid",
-    "urlGoogle": "https://artsandculture.google.com/entity/madrid/m056_y"
+    "urlWiki": "https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-c-frémont/m0mq2c"
+  },
+  "place": {
+    "id": "marrakesh",
+    "name": "Marrakesh",
+    "mainImg": "img/places/marrakesh.jpg",
+    "summary": [
+      "Marrakesh is the fourth largest city in the Kingdom of Morocco. It is the capital of the mid-southwestern region of Marrakesh-Safi. It is west of the foothills of the Atlas Mountains. Marrakesh is 580 km southwest of Tangier, 327 km southwest of the Moroccan capital of Rabat, 239 km south of Casablanca, and 246 km northeast of Agadir.",
+      "The region has been inhabited by Berber farmers since Neolithic times. The city was founded in 1062, by Abu Bakr ibn Umar, a chieftain and cousin of the Almoravid king, Yusuf ibn Tashfin, as the imperial capital of the Almoravid Empire. The city was one of Morocco's four imperial cities. In the 12th century, the Almoravids built many madrasas and mosques in Marrakesh that bear Andalusian influences. The red walls of the city, built by Ali ibn Yusuf in 1122–1123, and various buildings constructed in red sandstone during this period, have given the city the nickname of the \"Red City\" or \"Ochre City\". Marrakesh grew rapidly and established itself as a cultural, religious, and trading center for the Maghreb and sub-Saharan Africa. Jemaa el-Fnaa is the busiest square in Africa."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Marrakesh",
+    "urlGoogle": "https://artsandculture.google.com/entity/marrakesh/m054rw"
   },
   "wiki": {
-    "id": "edward-low",
-    "name": "Edward Low",
-    "summary": "Edward Low was a notorious pirate during the latter days of the Golden Age of Piracy, in the early 18th century. He was born around 1690 into poverty in Westminster, London, and was a thief and a scoundrel from a young age. Low moved to Boston, Massachusetts as a young man. Following the death of his wife during childbirth in late 1719, he became a pirate two years later, operating off the coasts of New England, the Azores, and in the Caribbean. He captained a number of ships, usually maintaining a small fleet of three or four. Low and his pirate crews captured at least a hundred ships during his short career, burning most of them. Although he was only active for three years, Low remains notorious as one of the most vicious pirates of the age, with a reputation for violently torturing his victims before killing them. Sir Arthur Conan Doyle described Low as \"savage and desperate\", and a man of \"amazing and grotesque brutality\". The New York Times called him a torturer, whose methods would have \"done credit to the ingenuity of the Spanish Inquisition in its darkest days\". The circumstances of Low's death, which took place around 1724, have been the subject of much speculation.",
-    "url": "https://en.wikipedia.org/wiki/Edward_Low"
+    "id": "dna",
+    "name": "DNA",
+    "summary": "DNA is a nucleic acid that contains the genetic instructions for the development and function of living organisms. All living things contain DNA, although DNA viruses are usually considered non-living. The main role of DNA in the cell is the long term storage of information. It is often compared to a blueprint, since it contains the instructions to construct other components of the cell, such as proteins and RNA molecules. The DNA segments that carry genetic information are called genes, but other DNA sequences have structural purposes, or are involved in regulating the expression of genetic information. In eukaryotes such as animals and plants, DNA is stored inside the cell nucleus, while in prokaryotes such as bacteria, the DNA is in the cell's cytoplasm. The major function of DNA is to encode the sequence of amino acid residues in proteins, using the genetic code. To read the genetic code, cells make a copy of a stretch of DNA in the nucleic acid RNA. These RNA copies can then be used to direct protein biosynthesis, but they can also be used directly as parts of ribosomes or spliceosomes.",
+    "url": "https://en.wikipedia.org/wiki/DNA"
   },
   "word": {
-    "id": "telegenic",
-    "word": "telegenic",
-    "url": "https://www.merriam-webster.com/dictionary/telegenic",
+    "id": "rancid",
+    "word": "rancid",
+    "url": "https://www.merriam-webster.com/dictionary/rancid",
     "partOfSpeech": "adjective",
-    "pronunciation": "tel-uh-JEN-ik",
-    "audioPath": "audio/words/telegenic.mp3",
-    "definitions": [
-      "well-suited to the medium of television; especially : having an appearance and manner that are markedly attractive to television viewers"
-    ],
+    "pronunciation": "RAN-sid",
+    "audioPath": "audio/words/rancid.mp3",
+    "definitions": ["having a rank smell or taste", "offensive"],
     "examples": [
-      "This year's playoffs will feature some very _telegenic_ rookies playing alongside veterans destined for the Hall of Fame.",
-      "\"What readers remember from the rolling thunder of Mailer's extravagant prose production … was the enshrouding of J.F.K. as the first movie-star politician, the avatar and launch vehicle for the suppressed libido of the country's Hollywood dream life after the long lullaby of the Eisenhower era. With J.F.K., _telegenic_ charisma became part of the package deal.\" -- From an article by James Wolcott in _Vanity Fair_, September 2010"
+      "Although considered healthier, unsaturated fats become _rancid_ much more easily than saturated fats do.",
+      "\"Oddly enough, this wild conjecture is about as far as McGinniss goes into the _rancid_ waters of tabloid gossip.\" - From a book review by Jonathan Yardley in the _Washington Post_, March 11, 2014"
     ],
-    "origin": "\"Telegenic,\" which first appeared in print in 1939, is essentially a compound formed out of \"television\" and \"photogenic.\" \"Photogenic\" is also the word that caused the addition of a new sense to \"-genic,\" namely \"suitable for production or reproduction by a given medium\" (as in the occasionally seen \"videogenic\": \"The '80s were a time that created a lot of videogenic bands who weren't necessarily compelling live artists....\" -- Ron Shapiro, quoted in _Entertainment Weekly_, September 25, 1998). \"Telegenic\" may seem like a word that would primarily refer to people, but there is evidence for telegenic events (such as popular sports), objects, and responses. Occasionally, one even sees reference to a telegenic attitude or other intangible."
+    "origin": "\"Rancid\" has a fairly straightforward history; it derives from Latin \"rancidus,\" itself from the Latin verb \"rancēre,\" meaning \"to be rancid\" or \"to stink.\" In addition to the related words \"rancidness\" and \"rancidity,\" another descendant of \"rancēre\" in English is \"rancor,\" meaning \"bitter deep-seated ill will.\" (\"Rancor\" passed through Middle French rather than being borrowed into English directly.) These days, \"rancid\" also has developed a second, extended sense which is used in the context of offenses to less literal or physical senses than those of smell or taste, and you might see references to \"rancid behavior\" or \"a rancid personality.\""
   }
 }

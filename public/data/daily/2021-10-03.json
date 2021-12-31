@@ -1,129 +1,129 @@
 {
   "artist": {
-    "id": "euphronios",
-    "name": "Euphronios",
-    "dates": "Born 534 BC",
-    "mainImg": "img/art/artists/euphronios.jpg",
+    "id": "hendrick-van-balen",
+    "name": "Hendrick van Balen",
+    "dates": "1575 - Jul 17, 1632",
+    "mainImg": "img/art/artists/hendrick-van-balen.jpg",
     "artworkImgs": [
       {
-        "name": "At the gymnasium",
-        "path": "img/art/artworks/euphronios-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/at-the-gymnasium-euphronios/1gGotPEWHsi6qQ"
+        "name": "Minerva visits the Muses",
+        "path": "img/art/artworks/hendrick-van-balen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/minerva-visits-the-muses-joos-de-momper-ii-hendrick-van-balen-i-and-jan-brueghel-i/tQFP-me8vu138A"
       },
       {
-        "name": "Attic Red-Figure Calyx Krater Fragment",
-        "path": "img/art/artworks/euphronios-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/attic-red-figure-calyx-krater-fragment-euphronios/ZQHhQKyM4UgH4w"
+        "name": "The Baptism of the Chamberlain of Queen Candace of Ethiopia",
+        "path": "img/art/artworks/hendrick-van-balen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-baptism-of-the-chamberlain-of-queen-candace-of-ethiopia-balen-hendrik-van/BwEvH168gjvPlQ"
       },
       {
-        "name": "Fragment of a terracotta neck-amphora (jar)",
-        "path": "img/art/artworks/euphronios-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/fragment-of-a-terracotta-neck-amphora-jar-euphronios/8AF5BikDFsAtUg"
+        "name": "Garland of Fruit surrounding a Depiction of Cybele Receiving Gifts from Personifications of the Four Seasons",
+        "path": "img/art/artworks/hendrick-van-balen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/garland-of-fruit-surrounding-a-depiction-of-cybele-receiving-gifts-from-personifications-of-the-four-seasons-brueghel-the-elder-jan/xQGnY7gvRs4CKg"
       },
       {
-        "name": "Attic White-Ground Cup (Lipped Inside) Fragment",
-        "path": "img/art/artworks/euphronios-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/attic-white-ground-cup-lipped-inside-fragment-onesimos/iwFhxwC4gASJWQ"
+        "name": "Diana and Callisto",
+        "path": "img/art/artworks/hendrick-van-balen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/diana-and-callisto-jan-brueghel-the-elder-and-hendrick-van-balen/JQEw8nYH4R_GMA"
       },
       {
-        "name": "Two fragments of a terracotta kylix, join 12.231.2",
-        "path": "img/art/artworks/euphronios-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/two-fragments-of-a-terracotta-kylix-join-12-231-2-onesimos-euphronios/fAHckTOLILgbjw"
+        "name": "Bacchus and Diana",
+        "path": "img/art/artworks/hendrick-van-balen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/bacchus-and-diana-hendrik-van-balen-i/SwEW3A82KOa-5g"
       },
       {
-        "name": "Attic Red-Figure Lidded Skyphoid Fragment (comprised of 8 joined fragments)",
-        "path": "img/art/artworks/euphronios-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/attic-red-figure-lidded-skyphoid-fragment-comprised-of-8-joined-fragments-onesimos/vwFAzJ2D2UoxSA"
+        "name": "Venus at the Forge of Vulcan",
+        "path": "img/art/artworks/hendrick-van-balen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/venus-at-the-forge-of-vulcan-jan-brueghel-the-younger-and-hendrick-van-balen/IAFKCpxb8iHMUg"
       }
     ],
     "summary": [
-      "Euphronios was an ancient Greek vase painter and potter, active in Athens in the late 6th and early 5th centuries BC. As part of the so-called \"Pioneer Group,\", Euphronios was one of the most important artists of the red-figure technique. His works place him at the transition from Late Archaic to Early Classical art, and he is one of the first known artists in history to have signed his work."
+      "Hendrick van Balen or Hendrick van Balen I was a Flemish Baroque painter and stained glass designer. Hendrick van Balen specialised in small cabinet pictures often painted on a copper support. His favourite themes were mythological and allegorical scenes and, to a lesser extent, religious subjects. The artist played an important role in the renewal of Flemish painting in the early 17th century and was one of the teachers of Anthony van Dyck."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Rock", "Clay", "Terracotta", "Plastic"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Euphronios",
-    "urlGoogle": "https://artsandculture.google.com/entity/euphronios/m0858y2"
+    "movements": ["Baroque", "Renaissance", "Dutch and Flemish Renaissance painting"],
+    "mediums": ["Oil paint", "Wood", "Oak", "Pen"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Hendrick_van_Balen",
+    "urlGoogle": "https://artsandculture.google.com/entity/hendrick-van-balen/m0bb4dy"
   },
   "event": {
-    "id": "western-desert-campaign",
-    "name": "Western Desert campaign",
-    "dates": "Jun 11, 1940 - Feb 4, 1943",
-    "mainImg": "img/events/western-desert-campaign.jpg",
+    "id": "revolt-of-the-batavi",
+    "name": "Revolt of the Batavi",
+    "dates": "69 AD - 70 AD",
+    "mainImg": "img/events/revolt-of-the-batavi.jpg",
     "summary": [
-      "The Western Desert campaign, took place in the deserts of Egypt and Libya and was the main theatre in the North African campaign of the Second World War. Military operations began in June 1940 with the Italian declaration of war and the Italian invasion of Egypt in September. Operation Compass, a British five-day raid in December 1940, led to the destruction of the Italian 10th Army. Benito Mussolini sought help from Adolf Hitler, who sent a small German force to Tripoli under Directive 22. The Afrika Korps was formally under Italian command as Italy was the main Axis power in the Mediterranean and North Africa.",
-      "In the spring of 1941, Rommel led Operation Sonnenblume which pushed the British back to Egypt except for the Siege of Tobruk at the port. At the end of 1941 the Axis forces were defeated in Operation Crusader and retired again to El Agheila. In early 1942 Axis forces drove the British back again, then captured Tobruk after the Battle of Gazala but failed to destroy their opponents."
+      "The Revolt of the Batavi took place in the Roman province of Germania Inferior between AD 69 and 70. It was an uprising against the Roman Empire started by the Batavi, a small but militarily powerful Germanic tribe that inhabited Batavia, on the delta of the river Rhine. They were soon joined by the Celtic tribes from Gallia Belgica and some Germanic tribes.",
+      "Under the leadership of their hereditary prince Gaius Julius Civilis, an auxiliary officer in the Imperial Roman army, the Batavi and their allies managed to inflict a series of humiliating defeats on the Roman army, including the destruction of two legions. After these initial successes, a massive Roman army led by the Roman general Quintus Petillius Cerialis eventually defeated the rebels. Following peace talks, the Batavi submitted again to Roman rule, but were forced to accept humiliating terms and a legion stationed permanently on their territory, at Noviomagus."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Western_Desert_campaign",
-    "urlGoogle": "https://artsandculture.google.com/entity/western-desert-campaign/m03w6sj"
+    "urlWiki": "https://en.wikipedia.org/wiki/Revolt_of_the_Batavi",
+    "urlGoogle": "https://artsandculture.google.com/entity/revolt-of-the-batavi/m01qpvn"
   },
   "funFacts": [
     {
-      "id": "412",
-      "fact": "Two trees can create enough oxygen for a family of four.",
-      "category": ["Plants"]
+      "id": "213",
+      "fact": "The largest ball of twine in the US weighs over 17,000 pounds.",
+      "category": ["Hodgepodge"]
     },
     {
-      "id": "902",
-      "fact": "Barbie's full name is Barbara Millicent Roberts.",
-      "category": ["Hodgepodge"]
+      "id": "127",
+      "fact": "A hummingbird's heart beats 1,400 times a minute.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504714",
-      "fact": "The Scots have a word for that panicky hesitation you get when you can’t remember someone’s name: tartle."
+      "id": "553838",
+      "fact": "The aurora australis is the southern version of the aurora borealis. Tasmania, New Zealand, and Antarctica are a few of the best places to scope out the Southern Lights from land."
     }
   ],
   "idiom": {
-    "id": "a-month-of-sundays",
-    "term": "a month of Sundays",
-    "definition": "A long time, as in *I haven't seen Barbara in a month of Sundays.* This expression, which would literally mean thirty weeks, has been used hyperbolically since it was first recorded in 1832. One writer suggests it originally connoted a long *dreary* time, since games and other kinds of amusement used to be forbidden on Sunday."
+    "id": "bring-home-the-bacon",
+    "term": "bring home the bacon",
+    "definition": "1\\. Earn a living, provide the necessities of life, as in *Now that she had a job, Patricia could bring home the bacon.* 2\\. Be successful, accomplish something of value, as in *George went to Washington and brought home the bacon---he got the funding we needed.* Although the earliest citation for this phrase in the *Oxford English Dictionary* dates from 1924, the term is widely believed to come from the much older game of catching a greased pig, a popular competition at country fairs in which the winner was awarded the pig."
   },
   "person": {
-    "id": "papinian",
-    "name": "Papinian",
-    "dates": "142 AD - 212 AD",
-    "mainImg": "img/people/papinian.jpg",
+    "id": "arthur-greenwood",
+    "name": "Arthur Greenwood",
+    "dates": "Feb 8, 1880 - Jun 9, 1954",
+    "mainImg": "img/people/arthur-greenwood.jpg",
     "summary": [
-      "Aemilius Papinianus, simply rendered as Papinian in English, was a celebrated Roman jurist, magister libellorum, attorney general and, after the death of Gaius Fulvius Plautianus in 205 CE, praetorian prefect.",
-      "Papinian was one of the most revered jurists in ancient Rome, as third year law students were given the title \"Papinianistae\". In his time, he had been called \"the Asylum of Right and Treasurer of the Laws\". Along with Gaius, Paulus, Modestinus and Ulpian, he was made one of the five jurists whose recorded views were considered decisive by the Law of Citations of 426 CE; their views would later be considered the only suitable ones to be cited as primary sources for the Codex Theodosianus and the Corpus Juris Civilis, provided that Papinian's views prevailed whenever those of the four other jurists were not congruent. French jurist Jacques Cujas later wrote that \"there was never such a great lawyer before, nor ever will be after him\"."
+      "Arthur Greenwood, CH was a British politician. A prominent member of the Labour Party from the 1920s until the late 1940s, Greenwood rose to prominence within the party as secretary of its research department from 1920 and served as Parliamentary Secretary to the Ministry of Health in the short-lived Labour government of 1924. In 1940, he was instrumental in resolving that Britain would continue fighting Nazi Germany in World War II."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Papinian",
-    "urlGoogle": "https://artsandculture.google.com/entity/papinian/m06mbt4"
+    "urlWiki": "https://en.wikipedia.org/wiki/Arthur_Greenwood",
+    "urlGoogle": "https://artsandculture.google.com/entity/arthur-greenwood/m02f4t6"
   },
   "place": {
-    "id": "oman",
-    "name": "Oman",
-    "mainImg": "img/places/oman.jpg",
+    "id": "allentown",
+    "name": "Allentown",
+    "mainImg": "img/places/allentown.jpg",
     "summary": [
-      "Oman, officially the Sultanate of Oman, is a country on the southeastern coast of the Arabian Peninsula in Western Asia. Located in a strategically important position at the mouth of the Persian Gulf, the country shares land borders with the United Arab Emirates to the northwest, Saudi Arabia to the west, and Yemen to the southwest, and shares marine borders with Iran and Pakistan. The coast is formed by the Arabian Sea on the southeast and the Gulf of Oman on the northeast. The Madha and Musandam exclaves are surrounded by the UAE on their land borders, with the Strait of Hormuz and the Gulf of Oman forming Musandam's coastal boundaries.",
-      "From the late 17th century, the Omani Sultanate was a powerful empire, vying with the Portuguese Empire and the British Empire for influence in the Persian Gulf and Indian Ocean. At its peak in the 19th century, Omani influence or control extended across the Strait of Hormuz to modern-day Iran and Pakistan, and as far south as Zanzibar. When its power declined in the 20th century, the sultanate came under the influence of the United Kingdom. For over 300 years, the relations built between the two empires were based on mutual benefits."
+      "Allentown is a city located in Lehigh County, Pennsylvania, United States. It is Pennsylvania's third most populous city and the 233rd largest city in the United States. As of the 2010 census, the city had a total population of 118,032 and it is currently the fastest growing major city in Pennsylvania with an estimated 121,442 residents according to the 2019 census estimate. It is the largest city in the metropolitan area known as the Lehigh Valley, which had a population of 821,623 residents as of 2010. Allentown is the county seat of Lehigh County. In 2012, the city celebrated the 250th anniversary of its founding in 1762.",
+      "Located on the Lehigh River, Allentown is the largest of three adjacent cities in Northampton and Lehigh counties that make up a region of eastern Pennsylvania known as the Lehigh Valley; the other two cities being Bethlehem, Pennsylvania, and Easton, Pennsylvania."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Oman",
-    "urlGoogle": "https://artsandculture.google.com/entity/oman/m05l8y"
+    "urlWiki": "https://en.wikipedia.org/wiki/Allentown,_Pennsylvania",
+    "urlGoogle": "https://artsandculture.google.com/entity/allentown/m0_3cs"
   },
   "wiki": {
-    "id": "search-engine-optimization",
-    "name": "Search engine optimization",
-    "summary": "Search engine optimization (SEO) is the process of improving the volume and quality of traffic to a web site from search engines via \"natural\" search results. Usually, the earlier a site is presented in the search results, or the higher it \"ranks,\" the more searchers will visit that site. SEO can also target different kinds of search, including image search, local search, and industry-specific vertical search engines. As a marketing strategy for increasing a site's relevancy, SEO considers how search algorithms work and what people search for. SEO efforts may involve a site's coding, presentation, and structure, as well as fixing problems that could prevent search engine indexing programs from fully spidering a site. Other, more noticeable efforts may include adding unique content to a site, and making sure that the content is easily indexed by search engines and also appeals to human visitors. The acronym \"SEO\" can also refer to \"search engine optimizers,\" a term adopted by an industry of consultants who carry out optimization projects on behalf of clients, and by employees who perform SEO services in-house.",
-    "url": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+    "id": "use-of-poison-gas-in-world-war-i",
+    "name": "Use of poison gas in World War I",
+    "summary": "The use of poison gas was a major military innovation of the First World War. The gases used ranged from tear gas to disabling chemicals such as mustard gas and killing agents like phosgene. The killing capacity of gas was limited — only 3% of combat deaths were due to gas — however, the proportion of non-fatal casualties was high and gas remained one of the soldier's greatest fears. Unlike most other weapons of the period, it was possible to develop effective countermeasures to gas and hence in the latter stages of the war, as the use of gas increased, in many cases its effectiveness was diminished.",
+    "url": "https://en.wikipedia.org/wiki/Use_of_poison_gas_in_World_War_I"
   },
   "word": {
-    "id": "vermicular",
-    "word": "vermicular",
-    "url": "https://www.merriam-webster.com/dictionary/vermicular",
-    "partOfSpeech": "adjective",
-    "pronunciation": "ver-MIK-yuh-ler",
-    "audioPath": "audio/words/vermicular.mp3",
-    "definitions": ["resembling a worm in form or motion", "of, relating to, or caused by worms"],
-    "examples": [
-      "Students will observe and document the _vermicular_ decomposition of vegetative waste.",
-      "\"I tasted the smallest atoms of life in those few quiet minutes, drinking tea and waiting with the chickens before the rest of the world raised its head…. Despite the dust, the earthy pungency of the chicken manure, the remains of bones and shells and everything else they unearthed in their endless, restless scratching for _vermicular_ treats, the shed and the run was a pleasant place.\" -- From Debra Adelaide's 2008 novel _The Household Guide to Dying_"
+    "id": "battue",
+    "word": "battue",
+    "url": "https://www.merriam-webster.com/dictionary/battue",
+    "partOfSpeech": "noun",
+    "pronunciation": "bat-TOO",
+    "audioPath": "audio/words/battue.mp3",
+    "definitions": [
+      "the beating of woods and bushes to flush game; also : a hunt in which this procedure is used"
     ],
-    "origin": "What does the word \"vermicular\" have in common with the pasta on your plate? If you're eating vermicelli (a spaghetti-like pasta made in long thin strings) the answer is \"vermis,\" a Latin noun meaning \"worm.\" If you dig deep enough, you'll find that \"vermis\" is the root underlying not only \"vermicular\" and \"vermicelli,\" but also \"vermiculate\" (which can mean either \"full of worms\" or \"tortuous\") and even \"worm\" itself."
+    "examples": [
+      "During the battue, rabbits scampered out of the bushes where they had been hiding and toward the open field."
+    ],
+    "origin": "The battue is a technique practiced by hunters in order to give them a clean shot at their targets. The hunters’ assistants (or sometimes the hunters themselves) rap sticks against trees and bushes in order to scare animals out of the woods and into open space. The practice appears to have originated in France, which is probably why the word “battue,” which debuted in English in the early 19th century, derives from the feminine past participle of the French verb “battre,” meaning “to beat.” Although some hunting traditionalists decried the practice as either cruel or unsportsmanlike when it began, the battue survives today, as does the word for it."
   }
 }

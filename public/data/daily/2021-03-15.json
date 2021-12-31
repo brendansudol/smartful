@@ -1,135 +1,129 @@
 {
   "artist": {
-    "id": "xu-beihong",
-    "name": "Xu Beihong",
-    "dates": "Jul 19, 1895 - Sep 26, 1953",
-    "mainImg": "img/art/artists/xu-beihong.jpg",
+    "id": "samuel-morse",
+    "name": "Samuel Morse",
+    "dates": "Apr 27, 1791 - Apr 2, 1872",
+    "mainImg": "img/art/artists/samuel-morse.jpg",
     "artworkImgs": [
       {
-        "name": "The Rooster Crows in the Wind and Rain",
-        "path": "img/art/artworks/xu-beihong-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-rooster-crows-in-the-wind-and-rain-xu-beihong/SAFqmd71-lEHzA"
+        "name": "Susan Walker Morse (The Muse)",
+        "path": "img/art/artworks/samuel-morse-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/susan-walker-morse-the-muse-samuel-f-b-morse/GAGvLmcgIjcVbQ"
       },
       {
-        "name": "Tian Heng and His Five Hundred Followers",
-        "path": "img/art/artworks/xu-beihong-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/tian-heng-and-his-five-hundred-followers-xu-beihong/1wFtIh2zMDcY8Q"
+        "name": "James Monroe",
+        "path": "img/art/artworks/samuel-morse-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/james-monroe-samuel-f-b-morse/hwEBlfGj02RBjA"
       },
       {
-        "name": "Portrait of Chairman Mao",
-        "path": "img/art/artworks/xu-beihong-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-chairman-mao-xu-beihong/QAFWEdlU2Scjvw"
+        "name": "James Monroe",
+        "path": "img/art/artworks/samuel-morse-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/james-monroe/UAHAVCVoaEkw9w"
       },
       {
-        "name": "Fighting Eagles",
-        "path": "img/art/artworks/xu-beihong-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/fighting-eagles-xu-beihong/BQFE8D2lL8bcDw"
+        "name": "Samuel F. B. Morse Self-Portrait",
+        "path": "img/art/artworks/samuel-morse-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/samuel-f-b-morse-self-portrait-samuel-finley-breese-morse/XQFaVSe3AeAK7A"
       },
       {
-        "name": "Galloping horse",
-        "path": "img/art/artworks/xu-beihong-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/galloping-horse-xu-beihong/zwGof4Q8kL-AUQ"
+        "name": "Portrait of Mrs. Morse and Two Children",
+        "path": "img/art/artworks/samuel-morse-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-mrs-morse-and-two-children-samuel-f-b-morse/fAHz9JFz5b6tdA"
       },
       {
-        "name": "The Foolish Old Man Moves a Mountain",
-        "path": "img/art/artworks/xu-beihong-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-foolish-old-man-moves-a-mountain-xu-beihong/8wFAHt3ehNYGZw"
+        "name": "Mrs. Daniel DeSaussure Bacot",
+        "path": "img/art/artworks/samuel-morse-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/mrs-daniel-desaussure-bacot-samuel-f-b-morse/BwHp91o-atSHog"
       }
     ],
     "summary": [
-      "Xu Beihong, also known as Ju Péon, was a Chinese painter.",
-      "He was primarily known for his Chinese ink paintings of horses and birds and was one of the first Chinese artists to articulate the need for artistic expressions that reflected a modern China at the beginning of the 20th century. He was also regarded as one of the first to create monumental oil paintings with epic Chinese themes – a show of his high proficiency in an essential Western art technique. He was one of the four pioneers of Chinese modern art who earned the title of \"The Four Great Academy Presidents\"."
+      "Samuel Finley Breese Morse was an American inventor and painter. After having established his reputation as a portrait painter, in his middle age Morse contributed to the invention of a single-wire telegraph system based on European telegraphs. He was a co-developer of Morse code and helped to develop the commercial use of telegraphy."
     ],
-    "quote": null,
-    "movements": [],
-    "mediums": ["Book", "Drawing", "Oil paint", "Ink", "Textile", "Pen"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Xu_Beihong",
-    "urlGoogle": "https://artsandculture.google.com/entity/xu-beihong/m03vx5w"
+    "quote": "“Education without religion is in danger of substituting wild theories for the simple commonsense rules of Christianity.”",
+    "movements": ["Romanticism", "Hudson River School", "Neoclassicism", "Realism"],
+    "mediums": ["Oil paint", "Engraving", "Wood", "Iron", "Graphite", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Samuel_Morse",
+    "urlGoogle": "https://artsandculture.google.com/entity/samuel-morse/m06q6n"
   },
   "event": {
-    "id": "triangle-shirtwaist-factory-fire",
-    "name": "Triangle Shirtwaist Factory fire",
-    "dates": null,
-    "mainImg": "img/events/triangle-shirtwaist-factory-fire.jpg",
+    "id": "battle-of-amiens",
+    "name": "Battle of Amiens",
+    "dates": "Aug 8, 1918 - Aug 11, 1918",
+    "mainImg": "img/events/battle-of-amiens.jpg",
     "summary": [
-      "The Triangle Shirtwaist Factory fire in the Greenwich Village neighborhood of Manhattan, New York City, on March 25, 1911, was the deadliest industrial disaster in the history of the city, and one of the deadliest in U.S. history. The fire caused the deaths of 146 garment workers – 123 women and girls and 23 men – who died from the fire, smoke inhalation, or falling or jumping to their deaths. Most of the victims were recent Italian and Jewish immigrant women and girls aged 14 to 23; of the victims whose ages are known, the oldest victim was 43-year-old Providenza Panno, and the youngest were 14-year-olds Kate Leone and Rosaria \"Sara\" Maltese.",
-      "The factory was located on the 8th, 9th, and 10th floors of the Asch Building, at 23–29 Washington Place, near Washington Square Park. The 1901 building still stands today and is now known as the Brown Building. It is part of and owned by New York University.",
-      "Because the doors to the stairwells and exits were locked, many of the workers who could not escape from the burning building jumped from the high windows."
+      "The Battle of Amiens, also known as the Third Battle of Picardy, was the opening phase of the Allied offensive which began on 8 August 1918, later known as the Hundred Days Offensive, that ultimately led to the end of the First World War. Allied forces advanced over 11 kilometres on the first day, one of the greatest advances of the war, with Gen Henry Rawlinson's British Fourth Army playing the decisive role. The battle is also notable for its effects on both sides' morale and the large number of surrendering German forces. This led Erich Ludendorff to later describe the first day of the battle as \"the black day of the German Army\". Amiens was one of the first major battles involving armoured warfare."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire",
-    "urlGoogle": "https://artsandculture.google.com/entity/triangle-shirtwaist-factory-fire/m01zg2p"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Amiens_%281918%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-amiens/m03m7yn"
   },
   "funFacts": [
+    { "id": "775", "fact": "Bees are born fully grown.", "category": ["Animals"] },
     {
-      "id": "654",
-      "fact": "New York taxi drivers collectively speak about 60 languages.",
-      "category": ["Hodgepodge"]
-    },
-    { "id": "468", "fact": "Camels have three eyelids.", "category": ["Animals"] }
+      "id": "414",
+      "fact": "Chameleons can move both their eyes in different directions at the same time.",
+      "category": ["Animals"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "522228",
-      "fact": "Bones found at Seymour Island indicate that, 37 to 40 million years ago, penguins stood at a formidable 6 feet tall and weighed 250 pounds."
+      "id": "504658",
+      "fact": "Amerigo Vespucci, for whom many historians believe America was named, was an Italian merchant."
     }
   ],
   "idiom": {
-    "id": "go-to-pot",
-    "term": "go to pot",
-    "definition": "Also, **go to the dogs.** Deteriorate, decline; come to a bad end. For example, *My lawn has gone to pot during the drought,* or *The city schools are going to the dogs.* The first of these colloquial expressions dates from the late 1500s and alludes to inferior pieces of meat being cut up for the stewpot. The second, from the 1600s, alludes to the traditional view of dogs as inferior creatures."
+    "id": "hide-ones-light-under-a-bushel",
+    "term": "hide one's light under a bushel",
+    "definition": "Show extreme modesty, as in *Even after Paul won the scholarship he went on hiding his light under a bushel.* This expression, which does not necessarily express approval of this behavior, has its origin in the New Testament (Matthew 5:15): \"Neither do men light a candle, and put it under a bushel, but on a candlestick.\" [Early 1600s]"
   },
   "person": {
-    "id": "theodore-roosevelt",
-    "name": "Theodore Roosevelt",
-    "dates": "Oct 27, 1858 - Jan 6, 1919",
-    "mainImg": "img/people/theodore-roosevelt.jpg",
+    "id": "sejanus",
+    "name": "Sejanus",
+    "dates": "19 BC - 31 AD",
+    "mainImg": "img/people/sejanus.jpg",
     "summary": [
-      "Theodore Roosevelt Jr., often referred to as Teddy Roosevelt or his initials T.R., was an American statesman, politician, conservationist, naturalist, and writer who served as the 26th president of the United States from 1901 to 1909. He served as the 25th vice president from March to September 1901 and as the 33rd governor of New York from 1899 to 1900. Roosevelt emerged as a leader of the Republican Party and became a driving force for the anti-trust policy while supporting Progressive Era policies in the United States in the early 20th century. His face is depicted on Mount Rushmore alongside George Washington, Thomas Jefferson, and Abraham Lincoln. He is generally ranked in polls of historians and political scientists as one of the five best presidents.",
-      "Roosevelt was a sickly child with debilitating asthma, but he overcame his health problems by embracing a strenuous lifestyle, as well as growing out of his asthma naturally in his young adult years. He integrated his exuberant personality, a vast range of interests, and world-famous achievements into a \"cowboy\" persona defined by robust masculinity."
-    ],
-    "quote": "“I care not what others think of what I do, but I care very much about what I think of what I do! That is character!”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
-    "urlGoogle": "https://artsandculture.google.com/entity/theodore-roosevelt/m07hyk"
-  },
-  "place": {
-    "id": "madison",
-    "name": "Madison",
-    "mainImg": "img/places/madison.jpg",
-    "summary": [
-      "Madison is the capital of the U.S. state of Wisconsin and the seat of Dane County. As of July 1, 2019, Madison's estimated population of 259,680 made it the second-largest city in Wisconsin by population, after Milwaukee, and the 81st-largest in the United States. The city forms the core of the Madison Metropolitan Area which includes Dane County and neighboring Iowa, Green, and Columbia counties for a population of 654,230.",
-      "Located on an isthmus and lands surrounding four lakes-Lake Mendota, Lake Monona, Lake Kegonsa and Lake Waubesa-the city is home to the University of Wisconsin–Madison, the Wisconsin State Capitol, Henry Vilas Zoo, lakes, and an extensive network of parks and bike trails. Madison has historically been a center for progressive political activity, protests, and demonstrations. The presence of the University of Wisconsin–Madison as well as other educational institutions has a significant impact on the economy, culture, and demographics of Madison."
+      "Lucius Aelius Sejanus, commonly known as Sejanus, was an ambitious soldier, friend and confidant of the Roman Emperor Tiberius. An equestrian by birth, Sejanus rose to power as prefect of the Roman imperial bodyguard, known as the Praetorian Guard, of which he was commander from AD 14 until his death in AD 31.",
+      "While the Praetorian Guard was formally established under Emperor Augustus, Sejanus introduced a number of reforms which saw the unit evolve beyond a mere bodyguard, into a powerful and influential branch of the government involved in public security, civil administration and ultimately political intercession; these changes would have a lasting impact on the course of the Principate.",
+      "During the 20s, Sejanus gradually accumulated power by consolidating his influence over Tiberius and eliminating potential political opponents, including the emperor's son Drusus Julius Caesar. When Tiberius withdrew to Capri in AD 26, Sejanus was left in control of the administration of the empire. For a time the most influential and feared citizen of Rome, Sejanus suddenly fell from power in AD 31, the year his career culminated with the consulship."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Madison,_Wisconsin",
-    "urlGoogle": "https://artsandculture.google.com/entity/madison/m0fw2y"
+    "urlWiki": "https://en.wikipedia.org/wiki/Sejanus",
+    "urlGoogle": "https://artsandculture.google.com/entity/sejanus/m0143nc"
+  },
+  "place": {
+    "id": "spokane",
+    "name": "Spokane",
+    "mainImg": "img/places/spokane.jpg",
+    "summary": [
+      "Spokane is a city in Spokane County in the state of Washington in the northwestern United States. It is located in eastern Washington along the Spokane River adjacent to the Selkirk Mountains and west of the Rocky Mountain foothills—92 miles south of the Canada–US border, 18 miles west of the Washington–Idaho border, and 279 miles east of Seattle along Interstate 90.",
+      "Known as the birthplace of Father's Day, Spokane's official nickname is the \"Lilac City\". A pink, double flower cultivar of the common lilac, known as Syringa vulgaris 'Spokane', is named for the city. It is the seat of Spokane County and the economic and cultural center of the Spokane metropolitan area, the Spokane–Coeur d'Alene combined statistical area, and the Inland Northwest. The city, along with the whole Inland Northwest, is served by Spokane International Airport, 5 miles west of downtown Spokane. According to the 2010 Census, Spokane had a population of 208,916, making it the second-largest city in Washington, and the 100th-largest city in the United States. In 2019, the United States Census Bureau estimated the city's population at 222,081 and the population of the Spokane Metropolitan Area at 573,493."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Spokane,_Washington",
+    "urlGoogle": "https://artsandculture.google.com/entity/spokane/m010v8k"
   },
   "quote": {
-    "id": "121",
-    "quote": "Plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers.",
-    "author": "Jorge Luis Borges"
+    "id": "62",
+    "quote": "The real voyage of discovery consists not in seeking new lands but seeing with new eyes.",
+    "author": "Marcel Proust"
   },
   "wiki": {
-    "id": "italian-renaissance",
-    "name": "Italian Renaissance",
-    "summary": "The Italian Renaissance began the opening phase of the Renaissance, a period of great cultural change and achievement from the 14th to the 16th century. The word renaissance means \"rebirth\", and the era is best known for the renewed interest in the culture of classical antiquity. The Italian Renaissance began in northern Italy, centering in Florence. It then spread south, having an especially significant impact on Rome, which was largely rebuilt by the Renaissance popes. The Italian Renaissance is best known for its cultural achievements. This includes works of literature by such figures as Petrarch, Castiglione, and Machiavelli; artists such as Michaelangelo and Leonardo da Vinci, and great works of architecture such as The Duomo in Florence and St. Peter's Basilica in Rome. At the same time, present-day historians also see the era as one of economic regression and of little progress in science. Furthermore, some historians argue that the lot of the peasants and urban poor, the majority of the population, worsened during this period.",
-    "url": "https://en.wikipedia.org/wiki/Italian_Renaissance"
+    "id": "buddhist-art",
+    "name": "Buddhist art",
+    "summary": "Buddhist art, defined as the figurative arts and decorative arts linked to the Buddhist religion, originated in the Indian subcontinent in the centuries following the life of the historical Gautama Buddha in the 6th to 5th century BCE, before evolving through its contact with other cultures and its diffusion through the rest of Asia and the world. A first, essentially Indian, aniconic phase (avoiding direct representations of the Buddha), was followed from around the 1st century CE by an iconic phase (with direct representations of the Buddha). From that time, Buddhist art diversified and evolved as it adapted to the new countries where the faith was expanding. It developed to the north through Central Asia and into Eastern Asia to form the Northern branch of Buddhist art, and to the east as far as South-East Asia to form the Southern Branch of Buddhist art. In India, the land of its birth, Buddhist art flourished and even influenced the development of Hindu art, until Buddhism almost disappeared around the 10th century with the expansion of Hinduism and Islam.",
+    "url": "https://en.wikipedia.org/wiki/Buddhist_art"
   },
   "word": {
-    "id": "tome",
-    "word": "tome",
-    "url": "https://www.merriam-webster.com/dictionary/tome",
-    "partOfSpeech": "noun",
-    "pronunciation": "TOHM",
-    "audioPath": "audio/words/tome.mp3",
-    "definitions": [
-      "a volume forming part of a larger work",
-      "book; especially : a large or scholarly book"
-    ],
+    "id": "callow",
+    "word": "callow",
+    "url": "https://www.merriam-webster.com/dictionary/callow",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KAL-oh",
+    "audioPath": "audio/words/callow.mp3",
+    "definitions": ["lacking adult sophistication : immature"],
     "examples": [
-      "It took me more than a month to finish reading that 800-page _tome_ on European history.",
-      "\"Priced at $1,000, the limited-edition _tome_ brings together Norman Mailer's 1973 biography of Monroe with Bert Stern's now-legendary photos.\" -- From a review by Nicki Gostin on the _Huffington Post_, December 7, 2011"
+      "\"Back when I was a callow college student,\" said Emma, \"I paid little attention to the advice given to me by my professors.\""
     ],
-    "origin": "\"Tome\" comes from Latin \"tomus,\" which comes from Greek \"tomos,\" meaning \"section\" or \"roll of papyrus.\" \"Tomos\" comes from the Greek verb \"temnein,\" which means \"to cut.\" In ancient times, some of the longest scrolls of papyrus occasionally were divided into sections. When it was first used in English in the 16th century, \"tome\" was a book that was a part of a multi-volume work. Now a tome is most often simply a large and often ponderous book."
+    "origin": "You might not expect a relationship between \"callow\" and baldness, but that connection does in fact exist. \"Callow\" comes from \"calu,\" a word that meant \"bald\" in Middle English and Old English. By the 17th century, \"callow\" had come to mean \"without feathers\" and was applied to young birds not yet ready for flight. The term was also used for those who hadn't yet spread their wings in a figurative sense. \"Callow\" continues to mean \"inexperienced\" or \"unsophisticated\" today."
   }
 }

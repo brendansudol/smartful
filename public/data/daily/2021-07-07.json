@@ -1,132 +1,128 @@
 {
   "artist": {
-    "id": "samuel-prout",
-    "name": "Samuel Prout",
-    "dates": "Sep 17, 1783 - Feb 10, 1852",
-    "mainImg": "img/art/artists/samuel-prout.jpg",
+    "id": "domenico-ghirlandaio",
+    "name": "Domenico Ghirlandaio",
+    "dates": "Jun 2, 1448 - Jan 11, 1494",
+    "mainImg": "img/art/artists/domenico-ghirlandaio.jpg",
     "artworkImgs": [
       {
-        "name": "A Seated Peasant Woman Seen From Behind",
-        "path": "img/art/artworks/samuel-prout-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/a-seated-peasant-woman-seen-from-behind-samuel-prout-1783–1852-british/mQEoWj35lvX8Qw"
+        "name": "Portrait of Giovanna Tornabuoni",
+        "path": "img/art/artworks/domenico-ghirlandaio-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-giovanna-tornabuoni-domenico-ghirlandaio/igFh0HgpLdzCXg"
       },
       {
-        "name": "Salving from the wreck",
-        "path": "img/art/artworks/samuel-prout-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/salving-from-the-wreck-samuel-prout/xgFzpsDraBTrog"
+        "name": "An Old Man and his Grandson",
+        "path": "img/art/artworks/domenico-ghirlandaio-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/an-old-man-and-his-grandson-domenico-ghirlandaio-1449-1494/IAH2UzbMuVqmPQ"
       },
       {
-        "name": "A Seated Peasant Woman",
-        "path": "img/art/artworks/samuel-prout-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/a-seated-peasant-woman-samuel-prout-1783–1852-british/6QFN1euLkTJM_A"
+        "name": "Portrait of a Young Woman",
+        "path": "img/art/artworks/domenico-ghirlandaio-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-young-woman-domenico-ghirlandaio/SgGwOM81DLG9KA"
       },
       {
-        "name": "Temple of Peace, Roman Forum",
-        "path": "img/art/artworks/samuel-prout-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/temple-of-peace-roman-forum-samuel-prout-english-1783-1852/KgEe1b6kYUig3g"
+        "name": "Portrait of a Man",
+        "path": "img/art/artworks/domenico-ghirlandaio-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-a-man-domenico-ghirlandaio-domenico-bigordi/bwELJb4iXfO5Ew"
       },
       {
-        "name": "The Wreck of the Dutton, An East Indiaman",
-        "path": "img/art/artworks/samuel-prout-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-wreck-of-the-dutton-an-east-indiaman-samuel-prout-1783–1852-british/JgGCorOGb48Muw"
+        "name": "Francesco Sassetti (1421–1490) and His Son Teodoro",
+        "path": "img/art/artworks/domenico-ghirlandaio-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/francesco-sassetti-1421–1490-and-his-son-teodoro-domenico-ghirlandaio-domenico-bigordi/pAFG7z7apkpObA"
       },
       {
-        "name": "Beauvais Cathedral",
-        "path": "img/art/artworks/samuel-prout-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/beauvais-cathedral-samuel-prout-1783–1852-british/WgHE4pzfrC5-6g"
+        "name": "Saint Christopher and the Infant Christ",
+        "path": "img/art/artworks/domenico-ghirlandaio-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-christopher-and-the-infant-christ-domenico-ghirlandaio-domenico-bigordi/PAE8AYurdemnQg"
       }
     ],
     "summary": [
-      "Samuel Prout was a British watercolourist, and one of the masters of watercolour architectural painting. Prout secured the position of Painter in Water-Colours in Ordinary to King George IV in 1829 and afterwards to Queen Victoria. John Ruskin, whose work often emulated Prout's, wrote in 1844, \"Sometimes I tire of Turner, but never of Prout\". Prout is often compared to his contemporaries; Turner, Gainsborough, Constable and Ruskin, whom he taught. He was the uncle of the artist John Skinner Prout."
+      "Domenico Ghirlandaio, also spelled as Ghirlandajo, was an Italian Renaissance painter born in Florence. Ghirlandaio was part of the so-called \"third generation\" of the Florentine Renaissance, along with Verrocchio, the Pollaiolo brothers and Sandro Botticelli. Ghirlandaio led a large and efficient workshop that included his brothers Davide Ghirlandaio and Benedetto Ghirlandaio, his brother-in-law Bastiano Mainardi from San Gimignano, and later his son Ridolfo Ghirlandaio. Many apprentices passed through Ghirlandaio's workshop, including the famous Michelangelo. Ghirlandaio's particular talent lay in his ability to posit depictions of contemporary life and portraits of contemporary people within the context of religious narratives, bringing him great popularity and many large commissions."
     ],
     "quote": null,
-    "movements": ["Romanticism"],
-    "mediums": ["Graphite", "Watercolor painting", "Ink", "Pen", "Gouache", "Gum arabic"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Samuel_Prout",
-    "urlGoogle": "https://artsandculture.google.com/entity/samuel-prout/m01gsyp"
+    "movements": ["Italian Renaissance", "Renaissance", "Florentine painting"],
+    "mediums": ["Tempera", "Wood", "Pen", "Drawing", "Oil paint", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Domenico_Ghirlandaio",
+    "urlGoogle": "https://artsandculture.google.com/entity/domenico-ghirlandaio/m01cc3w"
   },
   "event": {
-    "id": "hurricane-harvey",
-    "name": "Hurricane Harvey",
-    "dates": "Aug 17, 2017 - Sep 3, 2017",
-    "mainImg": "img/events/hurricane-harvey.jpg",
+    "id": "operation-sourisak-montry-viii",
+    "name": "Operation Sourisak Montry VIII",
+    "dates": "September 1971 - Jun 22, 1972",
+    "mainImg": "img/events/operation-sourisak-montry-viii.jpg",
     "summary": [
-      "Hurricane Harvey was a devastating Category 4 hurricane that made landfall on Texas and Louisiana in August 2017, causing catastrophic flooding and many deaths. It is tied with 2005's Hurricane Katrina as the costliest tropical cyclone on record, inflicting $125 billion in damage, primarily from catastrophic rainfall-triggered flooding in the Houston metropolitan area and Southeast Texas. It was the first major hurricane to make landfall in the United States since Wilma in 2005, ending a record 12-year span in which no hurricanes made landfall at the intensity of a major hurricane throughout the country. In a four-day period, many areas received more than 40 inches of rain as the system slowly meandered over eastern Texas and adjacent waters, causing unprecedented flooding. With peak accumulations of 60.58 in, in Nederland, Texas, Harvey was the wettest tropical cyclone on record in the United States. The resulting floods inundated hundreds of thousands of homes, which displaced more than 30,000 people and prompted more than 17,000 rescues."
+      "Operation Sourisak Montry VIII was a Thai military offensive against an encroaching Chinese Communist presence just north of the Mekong River. Operation Phalat established a base camp at Xieng Lom, Laos, on the southern bank of the Mekong River, and garrisoned it with three Thai mercenary battalions. Operation Sourisak Montry was a series of indecisive skirmishes in the same area, during which the Thais won a Pyrrhic victory over the Pathet Lao in mid-March 1972.",
+      "Subsequently, Operation Sourisak Montry VIII in June 1972 attempted to recapture two Lao border villages from Communist forces. The offensive ended poorly, with an Air America civilian pilot killed, an 80-man column pinned down for ten days, and the Thai troops repulsed."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Hurricane_Harvey",
-    "urlGoogle": "https://artsandculture.google.com/entity/hurricane-harvey/g11f06hfpld"
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Sourisak_Montry_VIII",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-sourisak-montry-viii/g11c3xdl9tp"
   },
   "funFacts": [
     {
-      "id": "299",
-      "fact": "The Library of Congress has 600 miles of shelves.",
-      "category": ["Hodgepodge"]
+      "id": "886",
+      "fact": "The bumblebee bat is one of the smallest mammals on Earth.  It weighs less than a penny.",
+      "category": ["Animals"]
     },
     {
-      "id": "714",
-      "fact": "A camel can drink 25 gallons of water in less than three minutes.",
-      "category": ["Animals"]
+      "id": "221",
+      "fact": "The game of basketball was first played using a soccer ball and two peach baskets.",
+      "category": ["Firsts"]
     }
   ],
   "funFacts2": [
-    {
-      "id": "553992",
-      "fact": "When Angelfire launched in the mid-1990s, it offered medical transcription services as well as web-building tools."
-    }
+    { "id": "504557", "fact": "Ben Franklin’s formal education ended at 10 years old." }
   ],
   "idiom": {
-    "id": "hell-bent-for-leather",
-    "term": "hell-bent for leather",
-    "definition": "Moving recklessly fast, as in *Out the door she went, hell- bent for leather.* The use of *hell-bent* in the sense of \"recklessly determined\" dates from the first half of the 1800s. *Leather* alludes to a horse's saddle and to riding on horseback; this colloquial expression may be an American version of the earlier British army jargon **hell for leather,** first recorded in 1889."
+    "id": "in-the-pink",
+    "term": "in the pink",
+    "definition": "In good health, as in *We're glad to hear Bob's in the pink again.* In the 1500s *pink* meant \"the embodiment of perfection,\" but the current idiom dates only from about 1900."
   },
   "person": {
-    "id": "franz-joseph-ii-prince-of-liechtenstein",
-    "name": "Franz Joseph II, Prince of Liechtenstein",
-    "dates": "Aug 16, 1906 - Nov 13, 1989",
-    "mainImg": "img/people/franz-joseph-ii-prince-of-liechtenstein.jpg",
+    "id": "wellington-koo",
+    "name": "Wellington Koo",
+    "dates": "Jan 29, 1888 - Nov 14, 1985",
+    "mainImg": "img/people/wellington-koo.jpg",
     "summary": [
-      "Franz Joseph II was the reigning Prince of Liechtenstein from 1938 until his death.",
-      "Franz Joseph was the son of Prince Aloys of Liechtenstein and Archduchess Elisabeth Amalie of Austria. He succeeded his childless grand-uncle, Prince Franz I, after his father renounced his right of succession in his favour in 1923.",
-      "During his reign women received voting rights for the first time, following a referendum on the topic in 1984.",
-      "Franz Joseph was an extremely popular sovereign in Liechtenstein. He was the first ruling prince to live full-time in the principality. He also oversaw the economic development of Liechtenstein from a poor agricultural backwater into one of the richest countries in the world."
+      "Vi Kyuin Wellington Koo was a Chinese statesman of the Republic of China. He was one of China's representatives at the Paris Peace Conference of 1919; served as an ambassador to France, Great Britain and the United States; was a participant in the founding of the League of Nations and the United Nations; and sat as a judge on the International Court of Justice in The Hague from 1957 to 1967. Between October 1926 and June 1927, while serving as Minister of Foreign Affairs, Koo briefly held the concurrent positions of acting Premier and interim President of the Republic of China. Koo was the first and only Chinese head of state known to use a Western name publicly."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Franz_Joseph_II,_Prince_of_Liechtenstein",
-    "urlGoogle": "https://artsandculture.google.com/entity/franz-joseph-ii-prince-of-liechtenstein/m03m3sr"
+    "urlWiki": "https://en.wikipedia.org/wiki/Wellington_Koo",
+    "urlGoogle": "https://artsandculture.google.com/entity/wellington-koo/m03gtrv"
   },
   "place": {
-    "id": "strasbourg",
-    "name": "Strasbourg",
-    "mainImg": "img/places/strasbourg.jpg",
+    "id": "tyler",
+    "name": "Tyler",
+    "mainImg": "img/places/tyler.jpg",
     "summary": [
-      "Strasbourg is the capital and largest city of the Grand Est region of France and is the official seat of the European Parliament. Located at the border with Germany in the historic region of Alsace, it is the capital of the Bas-Rhin department.",
-      "In 2017, the city proper had 280,966 inhabitants and both the Eurométropole de Strasbourg and the Arrondissement of Strasbourg had 494,089 inhabitants. Strasbourg's metropolitan area had a population of 785,839 in 2016, making it the ninth-largest metro area in France and home to 13% of the Grand Est region's inhabitants. The transnational Eurodistrict Strasbourg-Ortenau had a population of 958,421 inhabitants.",
-      "Strasbourg is one of the de facto four main capitals of the European Union, as it is the seat of several European institutions, such as the European Parliament, the Eurocorps and the European Ombudsman of the European Union. An organization separate from the European Union, the Council of Europe is also located in the city.",
-      "Together with Basel, Geneva and New York City, Strasbourg is among the few cities in the world not being a state capital and hosting international organisations of the first order."
+      "Tyler is a city in the U.S. state of Texas and the largest city and county seat of Smith County. It is also the largest city in Northeast Texas and second largest city of the Ark-La-Tex. With a 2019 census-estimated population of 106,985, Tyler was the thirty-eighth most populous city in Texas and 292nd in the United States. It is the principal city of the Tyler metropolitan statistical area, which is the 199th most populous metropolitan area in the U.S. and 16th in Texas after Waco and the College Station–Bryan areas, with a population of 230,221 in 2018.",
+      "The city is named for John Tyler, the tenth President of the United States. In 1985, the international Adopt-a-Highway movement originated in Tyler. After appeals by local Texas Department of Transportation officials, the local Civitan International chapter adopted a two-mile stretch of U.S. Route 69 to maintain. Drivers and other motorists traveling on this segment of U.S. 69 will notice brown road signs that read, \"First Adopt-A-Highway in the World\".",
+      "Tyler is known as the \"Rose Capital of America\", a nickname it earned from a long history of rose production, cultivation, and processing."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Strasbourg",
-    "urlGoogle": "https://artsandculture.google.com/entity/strasbourg/m09b83"
+    "urlWiki": "https://en.wikipedia.org/wiki/Tyler,_Texas",
+    "urlGoogle": "https://artsandculture.google.com/entity/tyler/m0108xl"
   },
   "wiki": {
-    "id": "beijing-opera",
-    "name": "Beijing opera",
-    "summary": "Beijing opera is a form of traditional Chinese theatre which combines music, vocal performance, mime, dance, and acrobatics. It arose in the late 18th century and became fully developed and recognized by the mid-19th century. The form was extremely popular in the Qing Dynasty court and has come to be regarded as one of the cultural treasures of China. Major performance troupes are based in Beijing and Tianjin in the north, and Shanghai in the south. The art form is also enjoyed in Taiwan, and has spread to other countries such as the United States and Japan. Beijing opera features four main types of performers. Performing troupes often have several of each variety, as well as numerous secondary and tertiary performers. With their elaborate and colorful costumes, performers are the only focal points on Beijing opera's characteristically sparse stage. They utilize the skills of speech, song, dance, and combat in movements that are symbolic and suggestive, rather than realistic. Above all else, the skill of performers is evaluated according to the beauty of their movements.",
-    "url": "https://en.wikipedia.org/wiki/Beijing_opera"
+    "id": "uss-lexington-cv-2",
+    "name": "USS Lexington (CV-2)",
+    "summary": "USS Lexington (CV-2) was an early aircraft carrier built for the United States Navy during the 1920s. Originally designed as a battlecruiser, she was converted into an aircraft carrier during construction to comply with the terms of the 1922 Washington Naval Treaty. Lexington was at sea when the Pacific War began in 1941, ferrying fighter aircraft to Midway Island. She was sent to the Coral Sea in February 1942 to block any Japanese advances into the area. Together with the carrier Yorktown, she successfully attacked Japanese shipping off the east coast of New Guinea in early March. Lexington rendezvoused with Yorktown in the Coral Sea in early May. A few days later the Japanese began Operation Mo, the invasion of Port Moresby, Papua New Guinea, and the two American carriers attempted to stop the invasion. Aircraft from Lexington and Yorktown succeeded in badly damaging the carrier Shōkaku, but Japanese aircraft crippled Lexington. Vapors from leaking aviation gasoline tanks sparked a series of explosions and fires that could not be controlled, and the carrier had to be scuttled by an American destroyer during the evening of 8 May to prevent her capture.",
+    "url": "https://en.wikipedia.org/wiki/USS_Lexington_(CV-2)"
   },
   "word": {
-    "id": "halcyon",
-    "word": "halcyon",
-    "url": "https://www.merriam-webster.com/dictionary/halcyon",
-    "partOfSpeech": "adjective",
-    "pronunciation": "HAL-see-un",
-    "audioPath": "audio/words/halcyon.mp3",
-    "definitions": ["calm, peaceful", "happy, golden", "prosperous, affluent"],
-    "examples": [
-      "Although Grandma spoke longingly of the _halcyon_ days of her childhood, Jamie suspected all had not been as perfect as she recalled.",
-      "\"It was a _halcyon_ period for her, although she continued to take prescription drugs, a portent of problems that lay ahead.\" - From Lois Banner's 2012 biography _Marilyn: The Passion and Paradox of Marilyn Monroe_"
+    "id": "slake",
+    "word": "slake",
+    "url": "https://www.merriam-webster.com/dictionary/slake",
+    "partOfSpeech": "verb",
+    "pronunciation": "SLAYK",
+    "audioPath": "audio/words/slake.mp3",
+    "definitions": [
+      "satisfy, quench",
+      "to cause (as lime) to heat and crumble by treatment with water : hydrate"
     ],
-    "origin": "According to Greek mythology, Alkyone, the daughter of the god of the winds, became so distraught when she learned that her husband had been killed in a shipwreck that she threw herself into the sea and was changed into a kingfisher. As a result, ancient Greeks called such birds \"alkyon\" or \"halkyon.\" The legend also says that such birds built floating nests on the sea, where they so charmed the wind god that he created a period of unusual calm that lasted until the birds' eggs hatched. This legend prompted people to use \"halcyon\" both as a noun naming a genus of kingfisher and as an adjective meaning either \"of or relating to the kingfisher or its nesting period\" or \"calm.\""
+    "examples": [
+      "\"What an unspeakable luxury it was to slake that thirst with the pure and limpid ice-water of the glacier!\" (Mark Twain, _A Tramp Abroad_)"
+    ],
+    "origin": "\"Slake\" is no slacker when it comes to obsolete and archaic meanings. Shakespearean scholars may know that in the Bard's day \"slake\" meant \"to subside or abate\" (\"No flood by raining slaketh. . . .\" -- _The Rape of Lucrece_) or \"to lessen the force of \" (\"It could not slake mine ire, nor ease my heart.\" -- _Henry VI, Part 3_). The most erudite word enthusiasts may also be aware of earlier meanings of \"slake,\" such as \"to slacken one's efforts\" or \"to cause to be relaxed or loose.\" These early meanings recall the word's Old English ancestor \"sleac,\" which not only meant \"slack\" but is also the source of that modern term."
   }
 }

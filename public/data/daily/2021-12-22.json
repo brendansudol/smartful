@@ -1,0 +1,128 @@
+{
+  "artist": {
+    "id": "anton-raphael-mengs",
+    "name": "Anton Raphael Mengs",
+    "dates": "Mar 12, 1728 - Jun 29, 1779",
+    "mainImg": "img/art/artists/anton-raphael-mengs.jpg",
+    "artworkImgs": [
+      {
+        "name": "Retrato de la marquesa de Llano",
+        "path": "img/art/artworks/anton-raphael-mengs-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/retrato-de-la-marquesa-de-llano-anton-rafael-mengs/UAGag35cVJfLDw"
+      },
+      {
+        "name": "Portrait of pope Clement XIII",
+        "path": "img/art/artworks/anton-raphael-mengs-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-pope-clement-xiii-anton-raphael-mengs/rwGVvfqK3fucBA"
+      },
+      {
+        "name": "St. John the Baptist Preaching in the Wilderness",
+        "path": "img/art/artworks/anton-raphael-mengs-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/st-john-the-baptist-preaching-in-the-wilderness-anton-raphael-mengs/ngHjvgNHHmV4zA"
+      },
+      {
+        "name": "Portrait of Ferdinand IV",
+        "path": "img/art/artworks/anton-raphael-mengs-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-ferdinand-iv-anton-raphael-mengs/4gFHHXpk3_z1QA"
+      },
+      {
+        "name": "The Dream of St. Joseph",
+        "path": "img/art/artworks/anton-raphael-mengs-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-dream-of-st-joseph-anton-raphael-mengs/mAE7skDWEe5_tQ"
+      },
+      {
+        "name": "Seated Nude Male",
+        "path": "img/art/artworks/anton-raphael-mengs-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/seated-nude-male-anton-raphael-mengs/DgHFPJoryjFWgw"
+      }
+    ],
+    "summary": [
+      "Anton Raphael Mengs was a German painter, active in Dresden, Rome and Madrid, who while painting in the Rococo period of the mid-18th century became one of the precursors to Neoclassical painting, which replaced Rococo as the dominant painting style."
+    ],
+    "quote": null,
+    "movements": ["Neoclassicism"],
+    "mediums": ["Oil paint", "Drawing", "Chalk", "Pigment", "Ink", "Graphite"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Anton_Raphael_Mengs",
+    "urlGoogle": "https://artsandculture.google.com/entity/anton-raphael-mengs/m01g893"
+  },
+  "event": {
+    "id": "hurricane-katrina",
+    "name": "Hurricane Katrina",
+    "dates": "Aug 23, 2005 - Aug 31, 2005",
+    "mainImg": "img/events/hurricane-katrina.jpg",
+    "summary": [
+      "Hurricane Katrina was a Category 5 tropical cyclone that occurred in August 2005, which caused $125 billion in damage, particularly in the city of New Orleans and the surrounding areas, and over 1,200 deaths. It is the costliest tropical cyclone on record, tying with Hurricane Harvey in 2017. The storm was the third major hurricane of the 2005 Atlantic hurricane season, and the fourth-most intense Atlantic hurricane on record to make landfall in the contiguous United States, behind the 1935 Labor Day hurricane, Hurricane Camille in 1969, and Hurricane Michael in 2018.",
+      "Katrina originated on August 23, 2005 as a tropical depression from the merger of a tropical wave and the remnants of Tropical Depression Ten. Early the following day, the depression intensified into a tropical storm as it headed generally westward toward Florida, strengthening into a hurricane two hours before making landfall at Hallandale Beach on August 25. After briefly weakening to tropical storm strength over southern Florida, Katrina emerged into the Gulf of Mexico on August 26 and began to rapidly intensify."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Hurricane_Katrina",
+    "urlGoogle": "https://artsandculture.google.com/entity/hurricane-katrina/m07nnlb"
+  },
+  "funFacts": [
+    {
+      "id": "348",
+      "fact": "It is estimated that the world's oceans contain 10 billion tons of gold.",
+      "category": ["Geography"]
+    },
+    {
+      "id": "790",
+      "fact": "Your big toe only has 2 bones and the rest have 3.",
+      "category": ["Anatomy", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504708",
+      "fact": "After OutKast sang \"Shake it like a Polaroid picture,\" Polaroid released this statement: \"Shaking or waving can actually damage the image\""
+    }
+  ],
+  "person": {
+    "id": "tullus-hostilius",
+    "name": "Tullus Hostilius",
+    "dates": "709 BC - 641 BC",
+    "mainImg": "img/people/tullus-hostilius.jpg",
+    "summary": [
+      "Tullus Hostilius was the legendary third king of Rome. He succeeded Numa Pompilius and was succeeded by Ancus Marcius. Unlike his predecessor, Tullus was known as a warlike king. The reign of the third king of Rome ended, when Tullus Hostilius died in 642 BC, a victim of the plague.",
+      "Tullus Hostilius was the grandson of Hostus Hostilius, who had fought with Romulus and died during the Sabine invasion of Rome.",
+      "The principal feature of Tullus' reign was the defeat of Alba Longa. After Alba Longa was beaten, Alba Longa became Rome's vassal state.",
+      "Hostilius during his reign created the college of the Fetiales that concluded all treaties in the name of Rome."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Tullus_Hostilius",
+    "urlGoogle": "https://artsandculture.google.com/entity/tullus-hostilius/m018hyr"
+  },
+  "place": {
+    "id": "belfast",
+    "name": "Belfast",
+    "mainImg": "img/places/belfast.jpg",
+    "summary": [
+      "Belfast is the capital and largest city of Northern Ireland, standing on the banks of the River Lagan on the east coast. It is the 12th-largest city in the United Kingdom and the second-largest on the island of Ireland. It had a population of 333,871 as of 2015. Belfast suffered greatly in the Troubles: in the 1970s and 1980s it was reported to be one of the world's most dangerous cities, with a homicide rate around 31 per 100,000.",
+      "By the early 19th century, Belfast became a major port. It played a key role in the Industrial Revolution, becoming the biggest linen-producer in the world, earning it the nickname \"Linenopolis\". By the time it was granted city status in 1888, it was a major centre of Irish linen production, tobacco-processing and rope-making. Shipbuilding was also a key industry; the Harland and Wolff shipyard, which built the RMS Titanic, was the world's largest shipyard. Belfast as of 2019 has a major aerospace and missiles industry. Industrialisation, and the inward migration it brought, made Belfast Northern Ireland's biggest city and it became the capital of Northern Ireland following the Partition of Ireland in 1922."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Belfast",
+    "urlGoogle": "https://artsandculture.google.com/entity/belfast/m01l63"
+  },
+  "wiki": {
+    "id": "david-helvarg",
+    "name": "David Helvarg",
+    "summary": "David Helvarg is an American journalist and environmental activist. He is the founder and president of the marine conservation lobbying organization Blue Frontier Campaign, a part of the Seaweed rebellion, which arose from his second book, Blue Frontier. His first book, The War against the Greens, puts a case that violent organised resistance is being orchestrated against the environmental movement. Helvarg began his career as a freelance journalist before becoming a war correspondent and then returning to news journalism. He writes about politics, AIDS, and sea life. He has reported from every continent and he has been published in specialist and popular magazines, and US newspapers both locally and in syndication. His experience of military conflict, civil conflict and marine biology is the basis of his lobbying.",
+    "url": "https://en.wikipedia.org/wiki/David_Helvarg"
+  },
+  "word": {
+    "id": "repine",
+    "word": "repine",
+    "url": "https://www.merriam-webster.com/dictionary/repine",
+    "partOfSpeech": "verb",
+    "pronunciation": "rih-PYNE",
+    "audioPath": "audio/words/repine.mp3",
+    "definitions": [
+      "to feel or express dejection or discontent : complain",
+      "to long for something"
+    ],
+    "examples": [
+      "\"They saw less of each other, and Robyn was aware that this did not cause her to repine as much as perhaps it should have done.\" (David Lodge, _Nice Work_)"
+    ],
+    "origin": "In longing, one can \"repine over\" something (\"repining over her lost past\"), or one can \"pine for\" something. The two words, used thus, mean close to the same thing, but not exactly. \"Pining\" is intense longing for what one once knew. \"Repine\" adds an element of discontent to any longing -- an element carried over from its first sense (\"to feel or express dejection or discontent\"), which has been in use since the 16th century. (Washington Irving used the first sense in his 1820 work _The Sketch Book_: \"Through the long and weary day he repines at his unhappy lot.\") \"Pine\" and \"repine\" are from Old English \"pinian\" (\"to suffer\") and probably ultimately from Latin \"poena\" (\"punishment\"). \"Poena\" also gave us our word \"pain.\""
+  }
+}

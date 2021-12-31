@@ -1,136 +1,138 @@
 {
   "artist": {
-    "id": "qiu-ying",
-    "name": "Qiu Ying",
-    "dates": "1494 - 1552",
-    "mainImg": "img/art/artists/qiu-ying.jpg",
+    "id": "jean-leon-gerome",
+    "name": "Jean-Léon Gérôme",
+    "dates": "May 11, 1824 - Jan 10, 1904",
+    "mainImg": "img/art/artists/jean-leon-gerome.jpg",
     "artworkImgs": [
       {
-        "name": "Spring Morning in the Han Palace",
-        "path": "img/art/artworks/qiu-ying-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/spring-morning-in-the-han-palace-qiu-ying/pQE45TO7_p50Qg"
+        "name": "The Tulip Folly",
+        "path": "img/art/artworks/jean-leon-gerome-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-tulip-folly-jean-léon-gérôme/9AHvxICOIkYocg"
       },
       {
-        "name": "Scene from The Story of the Western Wing Panel A",
-        "path": "img/art/artworks/qiu-ying-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/scene-from-the-story-of-the-western-wing-panel-a-attributed-to-qiu-ying/_wHDosw4vqD8UQ"
+        "name": "Prayer in the Mosque",
+        "path": "img/art/artworks/jean-leon-gerome-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/prayer-in-the-mosque-jean-léon-gérôme/ewFOKlrIHUOe3w"
       },
       {
-        "name": "Hanging scroll",
-        "path": "img/art/artworks/qiu-ying-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/hanging-scroll-qiu-ying/nQHZvCpI2Bb35g"
+        "name": "Bashi-Bazouk",
+        "path": "img/art/artworks/jean-leon-gerome-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/bashi-bazouk-jean-léon-gérôme/wAHEW5ktQe8Gcw"
       },
       {
-        "name": "The Shanglin Park: Imperial Hunt",
-        "path": "img/art/artworks/qiu-ying-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-shanglin-park-imperial-hunt-artist-attributed-to-qiu-ying/IgGbk5-cxGIS4g"
+        "name": "The Christian Martyrs' Last Prayer",
+        "path": "img/art/artworks/jean-leon-gerome-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-christian-martyrs-last-prayer-jean-léon-gérôme-french-1824-1904/8QHX_Z6w-BMLKw"
       },
       {
-        "name": "Journey to Shu (detail)",
-        "path": "img/art/artworks/qiu-ying-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/journey-to-shu-detail-artist-traditionally-attributed-to-qiu-ying-calligrapher-wen-zhengming/1gFJ9wJ92rcTAw"
+        "name": "Young Greeks Attending a Cock Fight",
+        "path": "img/art/artworks/jean-leon-gerome-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/young-greeks-attending-a-cock-fight/LwFb6yJSxM9r7g"
       },
       {
-        "name": "Leisurely Life of a Lady",
-        "path": "img/art/artworks/qiu-ying-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/leisurely-life-of-a-lady-artist-sun-huang-artist-formerly-attributed-to-qiu-ying/7wFD6K63U7exiw"
+        "name": "The Bath",
+        "path": "img/art/artworks/jean-leon-gerome-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-bath-jean-léon-gérome/9wEgH998cal0Vg"
       }
     ],
     "summary": [
-      "Qiu Ying was a Chinese painter who specialized in the gongbi brush technique.",
-      "Qiu Ying's courtesy name was Shifu, and his art name was Shizhou. He was born to a peasant family in Taicang and studied painting under Zhou Chen in Suzhou. Though Suzhou's Wu School encouraged painting in ink washes, Qiu Ying also painted in the green-and-blue style. He painted with the support of wealthy patrons, creating images of flowers, gardens, religious subjects, and landscapes in the fashions of the Ming dynasty. He incorporated different techniques into his paintings, and acquired a few wealthy patrons. His talent and versatility allowed him to become regarded as one of the Four Masters of the Ming dynasty.",
-      "Three of his best patrons were art collectors. One was Chen Guan from Suzhou. The other two were both younger than Qiu: Zhou Fenglai, from nearby Kunshan, and the well-known wealthy collector Xiang Yuanbian, whose home was in Jiaxing in Zhejiang Province.",
-      "His daughter, Qiu Zhu, was a noted professional artist in her own right, and influenced other female artists."
+      "Jean-Léon Gérôme was a French painter and sculptor in the style now known as academicism. His paintings were so widely reproduced that he was \"arguably the world's most famous living artist by 1880.\" The range of his oeuvre included historical painting, Greek mythology, Orientalism, portraits, and other subjects, bringing the academic painting tradition to an artistic climax. He is considered one of the most important painters from this academic period. He was also a teacher with a long list of students."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Silk", "Textile"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Qiu_Ying",
-    "urlGoogle": "https://artsandculture.google.com/entity/qiu-ying/m06jz1m"
+    "movements": ["Academic art", "Neoclassicism", "Realism"],
+    "mediums": ["Oil paint", "Drawing", "Graphite", "Bronze", "Rock", "Metal"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me",
+    "urlGoogle": "https://artsandculture.google.com/entity/jean-léon-gérôme/m02dbjv"
   },
   "event": {
-    "id": "german-revolution-of-1918-1919",
-    "name": "German Revolution of 1918–1919",
-    "dates": "Oct 29, 1918 - Aug 11, 1919",
-    "mainImg": "img/events/german-revolution-of-1918-1919.jpg",
+    "id": "the-holocaust",
+    "name": "The Holocaust",
+    "dates": "1941 - May 8, 1945",
+    "mainImg": "img/events/the-holocaust.jpg",
     "summary": [
-      "The German Revolution or November Revolution was a civil conflict in the German Empire at the end of the First World War that resulted in the replacement of the German federal constitutional monarchy with a democratic parliamentary republic that later became known as the Weimar Republic. The revolutionary period lasted from November 1918 until the adoption in August 1919 of the Weimar Constitution.",
-      "The causes of the revolution were the extreme burdens suffered by the population during the four years of war, the strong impact of the defeat on the German Empire and the social tensions between the general population and the elite of aristocrats and bourgeoisie who held power and had just lost the war.",
-      "The roots of the revolution lay in the German Empire's defeat in the First World War and the social tensions that came to a head shortly thereafter. The first acts of revolution were triggered by the policies of the German Supreme Command of the Army and its lack of coordination with the Naval Command. In the face of defeat, the Naval Command insisted on trying to precipitate a climactic battle with the British Royal Navy by means of its naval order of 24 October 1918."
+      "The Holocaust, also known as the Shoah, was the World War II genocide of the European Jews. Between 1941 and 1945, across German-occupied Europe, Nazi Germany and its collaborators systematically murdered some six million Jews, around two-thirds of Europe's Jewish population. The murders were carried out in pogroms and mass shootings; by a policy of extermination through work in concentration camps; and in gas chambers and gas vans in German extermination camps, chiefly Auschwitz, Bełżec, Chełmno, Majdanek, Sobibór, and Treblinka in occupied Poland.",
+      "Germany implemented the persecution in stages. Following Adolf Hitler's appointment as Chancellor on 30 January 1933, the regime built a network of concentration camps in Germany for political opponents and those deemed \"undesirable\", starting with Dachau on 22 March 1933. After the passing of the Enabling Act on 24 March, which gave Hitler plenary powers, the government began isolating Jews from civil society; this included boycotting Jewish businesses in April 1933 and enacting the Nuremberg Laws in September 1935."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/German_Revolution_of_1918%E2%80%931919",
-    "urlGoogle": "https://artsandculture.google.com/entity/german-revolution-of-1918–1919/m02k338"
+    "urlWiki": "https://en.wikipedia.org/wiki/The_Holocaust",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-holocaust/m03hzt"
   },
   "funFacts": [
-    { "id": "55", "fact": "A human brain weighs about three pounds.", "category": ["Anatomy"] },
-    { "id": "269", "fact": "Horseback riding can improve your posture.", "category": ["Animals"] }
+    {
+      "id": "1024",
+      "fact": "Giraffes have the same number of vertebrae as humans: 7.",
+      "category": ["Animals", "Anatomy", "Science"]
+    },
+    {
+      "id": "849",
+      "fact": "New York was the first state to require cars to have license plates.",
+      "category": ["Firsts"]
+    }
   ],
   "funFacts2": [
     {
-      "id": "504819",
-      "fact": "Plants have ways of communicating with each other. The scent of freshly cut grass is equivalent to a cry for help."
+      "id": "506873",
+      "fact": "Chock Full o' Nuts coffee does not contain nuts. It's named for a chain of nut stores that the founder converted into coffee shops."
     }
   ],
   "idiom": {
-    "id": "spin-a-yarn",
-    "term": "spin a yarn",
-    "definition": "Tell a story, especially a long drawn-out or totally fanciful one, as in *This author really knows how to spin a yarn,* or *Whenever he's late he spins some yarn about a crisis.* Originally a nautical term dating from about 1800, this expression probably owes its life to the fact that it embodies a double meaning, *yarn* signifying both \"spun fiber\" and \"a tale.\""
+    "id": "culture-vulture",
+    "term": "culture vulture",
+    "definition": "An individual with a consuming or excessive interest in the arts. For example, *A relentless culture vulture, she dragged her children to every museum in town.* This slangy term may have been originated by Ogden Nash, who wrote: \"There is a vulture Who circles above The carcass of culture\" (*Free Wheeling,* 1931). [1940s]"
   },
   "person": {
-    "id": "josip-broz-tito",
-    "name": "Josip Broz Tito",
-    "dates": "May 7, 1892 - May 4, 1980",
-    "mainImg": "img/people/josip-broz-tito.jpg",
+    "id": "sir-arthur-harris-1-st-baronet",
+    "name": "Sir Arthur Harris, 1st Baronet",
+    "dates": "Apr 13, 1892 - Apr 5, 1984",
+    "mainImg": "img/people/sir-arthur-harris-1-st-baronet.jpg",
     "summary": [
-      "Josip Broz, commonly known as Tito, was a Yugoslav communist revolutionary and statesman, serving in various roles from 1943 until his death in 1980. During World War II, he was the leader of the Partisans, often regarded as the most effective resistance movement in occupied Europe. He also served as the President of the Socialist Federal Republic of Yugoslavia from 14 January 1953 to 4 May 1980.",
-      "Broz was born to a Croat father and Slovene mother in the village of Kumrovec, Austria-Hungary. Drafted into military service, he distinguished himself, becoming the youngest sergeant major in the Austro-Hungarian Army of that time. After being seriously wounded and captured by the Imperial Russians during World War I, he was sent to a work camp in the Ural Mountains. He participated in some events of the Russian Revolution in 1917 and the subsequent Civil War. Upon his return to the Balkans in 1918, Broz entered the newly established Kingdom of Yugoslavia, where he joined the Communist Party of Yugoslavia. He later was elected as General Secretary of the League of Communists of Yugoslavia."
-    ],
-    "quote": "“Our sacrifices are terrible. I can safely say that there is no other part of the world which has been devastated on a vaster scale than Yugoslavia. Every tenth Yugoslav has perished in this struggle in which we were forced to wrest armaments from our enemies, to freeze without clothing, and to die without medication. Nevertheless our optimism and faith have proved justified. The greatest gain of this conflict between democracy and fascism lies in the fact that it has drawn together everything that was good in humanity. The unity of the United States, the Soviet Union and Great Britain is the best guarantee to the peoples of the world that Nazi horrors will never again be repeated.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Josip_Broz_Tito",
-    "urlGoogle": "https://artsandculture.google.com/entity/josip-broz-tito/m0472f"
-  },
-  "place": {
-    "id": "modena",
-    "name": "Modena",
-    "mainImg": "img/places/modena.jpg",
-    "summary": [
-      "Modena is a city and comune on the south side of the Po Valley, in the Province of Modena in the Emilia-Romagna region of northern Italy.",
-      "An ancient town, and seat of an archbishop, it is known for its automotive industry since the factories of the famous Italian sports car makers Ferrari, De Tomaso, Lamborghini, Pagani and Maserati are, or were, located here and all, except Lamborghini, have headquarters in the city or nearby. One of Ferrari's cars, the 360 Modena, was named after the town itself.",
-      "The University of Modena, founded in 1175 and expanded by Francesco II d'Este in 1686, focuses on economics, medicine and law, and is the second oldest athenaeum in Italy. Italian military officers are trained at the Military Academy of Modena, and partly housed in the Baroque Ducal Palace. The Biblioteca Estense houses historical volumes and 3,000 manuscripts. The Cathedral of Modena, the Torre della Ghirlandina and Piazza Grande are a UNESCO World Heritage Site since 1997.",
-      "Modena is also known in culinary circles for its production of balsamic vinegar."
+      "Marshal of the Royal Air Force Sir Arthur Travers Harris, 1st Baronet, GCB, OBE, AFC, commonly known as \"Bomber\" Harris by the press and often within the RAF as \"Butcher\" Harris, was Air Officer Commanding-in-Chief RAF Bomber Command during the height of the Anglo-American strategic bombing campaign against Nazi Germany in the Second World War. In 1942, the British Cabinet agreed to the \"area bombing\" of German cities. Harris was given the task of implementing Churchill's policy and supported the development of tactics and technology to perform the task more effectively. Harris assisted British Chief of the Air Staff Marshal of the Royal Air Force Charles Portal in carrying out the United Kingdom's most devastating attacks against the German infrastructure and population, including the Bombing of Dresden.",
+      "Harris emigrated to Southern Rhodesia in 1910, aged 17, but returned to England in 1915 to fight in the European theatre of the First World War."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Modena",
-    "urlGoogle": "https://artsandculture.google.com/entity/modena/m0gw2w"
+    "urlWiki": "https://en.wikipedia.org/wiki/Sir_Arthur_Harris,_1st_Baronet",
+    "urlGoogle": "https://artsandculture.google.com/entity/sir-arthur-harris-1st-baronet/m01qdqg"
+  },
+  "place": {
+    "id": "pune",
+    "name": "Pune",
+    "mainImg": "img/places/pune.jpg",
+    "summary": [
+      "Pune, also known as Poona, is a bustling metropolis in the Indian State of Maharashtra and the eighth most populous city in India, with an estimated population of about 7.2 million as of 2019. It has been ranked as one of the most livable cities in India several times.",
+      "Along with its extended city limits Pimpri Chinchwad and the three cantonment towns of Pune, Khadki and Dehu Road, Pune forms the urban core of the eponymous Pune Metropolitan Region. According to the 2011 census, the urban area has a combined population of 5.05 million while the population of the metropolitan region is estimated at 7.27 million. Situated 560 metres above sea level on the Deccan plateau on the right bank of the Mutha river, Pune is also the administrative headquarters of its namesake district. In the 18th century, the city was the seat of the Peshwas, the prime ministers of the Maratha Empire and so was one of the most important political centres on the Indian subcontinent.",
+      "The city is considered to be the IT capital of India. It is also known as the \"Oxford of the East\" due to the presence of several well-known educational institutions."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Pune",
+    "urlGoogle": "https://artsandculture.google.com/entity/pune/m015y2q"
   },
   "quote": {
-    "id": "88",
-    "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
-    "author": "Robert Louis Stevenson"
+    "id": "41",
+    "quote": "I don't think much of a man who is not wiser today than he was yesterday.",
+    "author": "Abraham Lincoln"
   },
   "wiki": {
-    "id": "restoration-literature",
-    "name": "Restoration literature",
-    "summary": "Restoration literature is the literature written in English during the period commonly referred to as the English Restoration, corresponding with the last years of the direct Stuart reign in England, Scotland, Wales, and Ireland. In general, the term is used to denote roughly homogeneous styles of literature that centre on a celebration of or reaction to the restored court of Charles II. It is a literature that includes extremes, for it encloses both Paradise Lost and the Earl of Rochester's Sodom, the high-spirited sexual comedy of The Country Wife and the moral wisdom of Pilgrim's Progress. It saw Locke's Treatises on Government, the founding of the Royal Society, the experiments and holy meditations of Robert Boyle, the hysterical attacks on theatres from Jeremy Collier, and the pioneering of literary criticism from John Dryden and John Dennis. It saw news become a commodity, the essay develop into a periodical artform, the beginnings of textual criticism, and the emergence of the stock market.",
-    "url": "https://en.wikipedia.org/wiki/Restoration_literature"
+    "id": "kargil-war",
+    "name": "Kargil War",
+    "summary": "The Kargil War was an armed conflict between India and Pakistan that took place between May and July 1999 in Kashmir. The cause of the war was the infiltration of Pakistani soldiers and Kashmiri militants into positions on the Indian side of the Line of Control, which serves as the de facto border between the two nations. The Indian Army, supported by the air force, attacked the Pakistani positions and, with international diplomatic support, eventually forced a Pakistani withdrawal across the Line of Control. The war is one of the most recent examples of high altitude warfare, in mountainous terrain, and posed significant logistics problems for the combating sides. This was the first ground war between the two nuclear armed countries. (India and Pakistan both test-detonated fission devices in May 1998, though the first Indian nuclear test was conducted in 1974.) The conflict led to heightened tensions between the two nations and increased defense spending on the part of India. In Pakistan, the aftermath caused instability to the government and the economy, and on October 12 1999, a coup d'etat by the military placed army chief Pervez Musharraf in power.",
+    "url": "https://en.wikipedia.org/wiki/Kargil_War"
   },
   "word": {
-    "id": "peripatetic",
-    "word": "peripatetic",
-    "url": "https://www.merriam-webster.com/dictionary/peripatetic",
+    "id": "tenebrous",
+    "word": "tenebrous",
+    "url": "https://www.merriam-webster.com/dictionary/tenebrous",
     "partOfSpeech": "adjective",
-    "pronunciation": "pair-uh-puh-TET-ik",
-    "audioPath": "audio/words/peripatetic.mp3",
+    "pronunciation": "TEN-uh-brus",
+    "audioPath": "audio/words/tenebrous.mp3",
     "definitions": [
-      "of or relating to the Greek philosopher Aristotle or his philosophy : Aristotelian",
-      "of, relating to, or given to walking",
-      "moving or traveling from place to place : itinerant"
+      "shut off from the light : dark, murky",
+      "hard to understand : obscure",
+      "causing gloom"
     ],
     "examples": [
-      "I was _peripatetic_ throughout my twenties, but in my thirties I bought a house and began putting down roots in the community.",
-      "\"From the day Rousseau turned his back on his native city, these _peripatetic_ writer-thinkers were bent on walking into a kind of alienated individuality.\" - From a book review by Billy Mills in _Guardian Unlimited_, August 9, 2012"
+      "\"A zigzag line of windows … cuts up from the base of the building, bringing light into its once-tenebrous interior.\" (Philip Kennicott, _The Washington Post_, September 28, 2008)"
     ],
-    "origin": "Are you someone who likes to think on your feet? If so you've got something in common with the followers of the ancient Greek philosopher Aristotle. Not only a thinker and teacher, Aristotle was also a walker, and his students were required to walk along beside him as he lectured while pacing to and fro. Thus it was that the Greek word \"peripatētikos\" (from \"peripatein,\" meaning \"to walk up and down\") came to be associated with Aristotle and his followers. By the way, the covered walk in the Lyceum where Aristotle taught became known as the \"peripatos\" (which can either refer to the act of walking or a place for walking)."
+    "origin": "\"Tenebrous\" means \"obscure\" or \"murky,\" but there's nothing unclear about its history. Etymologists know that the word derives from the Latin noun \"tenebrae,\" which means \"darkness.\" \"Tenebrous\" has been used in English since the 15th century, and in the 20th century it was joined by some interesting relations. \"Tenebrionid\" is the name of a nocturnal beetle that is usually dark-colored and is also called a \"darkling beetle.\" \"Tenebrism\" refers to a style of painting -- associated with the Italian painter Caravaggio -- in which most of the figures are engulfed in shadow but some are dramatically illuminated by concentrated light."
   }
 }

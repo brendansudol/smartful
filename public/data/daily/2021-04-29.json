@@ -1,130 +1,133 @@
 {
   "artist": {
-    "id": "andrea-del-verrocchio",
-    "name": "Andrea del Verrocchio",
-    "dates": "1435 - Oct 10, 1488",
-    "mainImg": "img/art/artists/andrea-del-verrocchio.jpg",
+    "id": "antonio-segui",
+    "name": "Antonio Segui",
+    "dates": "Born Jan 11, 1934",
+    "mainImg": "img/art/artists/antonio-segui.jpg",
     "artworkImgs": [
       {
-        "name": "Baptism of Christ",
-        "path": "img/art/artworks/andrea-del-verrocchio-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/baptism-of-christ-verrocchio-leonardo-da-vinci-verrocchio-leonardo-da-vinci/HgE0TNZqMx1hXw"
+        "name": "Untitled",
+        "path": "img/art/artworks/antonio-segui-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled/6QG07u7_pIks9Q"
       },
       {
-        "name": "Lorenzo de' Medici",
-        "path": "img/art/artworks/andrea-del-verrocchio-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/lorenzo-de-medici/xwGDv7QuazufIg"
+        "name": "Green Tie",
+        "path": "img/art/artworks/antonio-segui-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/green-tie/zAHAFlque9598A"
       },
       {
-        "name": "Giuliano de' Medici",
-        "path": "img/art/artworks/andrea-del-verrocchio-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/giuliano-de-medici/EAExdvLkXCwJSQ"
+        "name": "People in the Street III",
+        "path": "img/art/artworks/antonio-segui-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/people-in-the-street-iii/SwFuXnOHp11jDA"
       },
       {
-        "name": "Alexander the Great",
-        "path": "img/art/artworks/andrea-del-verrocchio-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/alexander-the-great-workshop-of-andrea-del-verrocchio/QwH_DrkEu3mncQ"
+        "name": "Autorretrato de las vocaciones frustradas",
+        "path": "img/art/artworks/antonio-segui-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/autorretrato-de-las-vocaciones-frustradas/bwHCwdx9v7etCQ"
       },
       {
-        "name": "Mary with the Child",
-        "path": "img/art/artworks/andrea-del-verrocchio-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/mary-with-the-child-andrea-del-verrocchio/fAG8x3dcYNWKQg"
+        "name": "Rain Day",
+        "path": "img/art/artworks/antonio-segui-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/rain-day/4gENbiyooNz8rA"
       },
       {
-        "name": "Madonna and Child",
-        "path": "img/art/artworks/andrea-del-verrocchio-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/madonna-and-child-andrea-del-verrocchio/xAH24tUxyexE9Q"
+        "name": "Souvenir, Souvenir",
+        "path": "img/art/artworks/antonio-segui-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/souvenir-souvenir/yQF-uuUkDuY5_w"
       }
     ],
     "summary": [
-      "Andrea del Verrocchio, born Andrea di Michele di Francesco de' Cioni, was an Italian painter, sculptor, and goldsmith who was a master of an important workshop in Florence. He apparently became known as Verrocchio after the surname of his master, a goldsmith. Few paintings are attributed to him with certainty, but a number of important painters were trained at his workshop. His pupils included Leonardo da Vinci, Pietro Perugino and Lorenzo di Credi. His greatest importance was as a sculptor and his last work, the Equestrian statue of Bartolomeo Colleoni in Venice, is generally accepted as a masterpiece."
+      "Antonio Seguí is an Argentine cartoonist, painter, engraver, book illustrator and sculptor, lives and works in Paris. Seguí's work is collected and exhibited worldwide in art institutions such as MoMA, Buenos Aires Museum of Modern Art and Centre Georges Pompidou, among others."
     ],
     "quote": null,
-    "movements": ["Italian Renaissance", "Renaissance", "Florentine painting"],
-    "mediums": ["Terracotta", "Rock", "Clay", "Sculpture", "Wood", "Metal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Andrea_del_Verrocchio",
-    "urlGoogle": "https://artsandculture.google.com/entity/andrea-del-verrocchio/m01fgbq"
+    "movements": [],
+    "mediums": ["Engraving", "Oil paint", "Varnish"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Antonio_Segu%C3%AD",
+    "urlGoogle": "https://artsandculture.google.com/entity/antonio-segui/m0mzvl5s"
   },
   "event": {
-    "id": "1958-lebanon-crisis",
-    "name": "1958 Lebanon crisis",
-    "dates": "Jul 15, 1958 - Oct 25, 1958",
-    "mainImg": "img/events/1958-lebanon-crisis.jpg",
+    "id": "battle-of-turnhout",
+    "name": "Battle of Turnhout",
+    "dates": null,
+    "mainImg": "img/events/battle-of-turnhout.jpg",
     "summary": [
-      "The 1958 Lebanon crisis was a Lebanese political crisis caused by political and religious tensions in the country that included a United States military intervention. The intervention lasted for around three months until President Camille Chamoun, who had requested the assistance, completed his term as president of Lebanon. American and Lebanese government forces successfully occupied the Port of Beirut and Beirut International Airport. With the crisis over, the United States withdrew."
+      "The Battle of Turnhout also known as the Battle of Tielenheide was a military engagement which took place on 24 January 1597 in the border area between the Northern and Southern Netherlands at Turnhout during the Eighty Years' War and the Anglo-Spanish War.",
+      "After a small skirmish both armies confronted each other on an area of heathland. The Spanish cavalry was driven off, after which the English and Dutch cavalry fell upon the straggling Spanish infantry who were routed with heavy casualties."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/1958_Lebanon_crisis",
-    "urlGoogle": "https://artsandculture.google.com/entity/1958-lebanon-crisis/m01q7v1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Turnhout_%281597%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-turnhout/m014sym"
   },
   "funFacts": [
+    { "id": "356", "fact": "You exhale air at 15 m.p.h.", "category": ["Anatomy"] },
     {
-      "id": "927",
-      "fact": "John Adams was the only President to be defeated by his Vice President, Thomas Jefferson.",
-      "category": ["History", "Onlies"]
-    },
-    {
-      "id": "101",
-      "fact": "About half of all Americans are on a diet on any given day.",
-      "category": ["Habits"]
+      "id": "959",
+      "fact": "Federal law once allowed the government to quarantine people who came in contact with aliens.",
+      "category": ["History", "Laws"]
     }
   ],
-  "funFacts2": [{ "id": "553824", "fact": "Sleeping through summer is called estivation." }],
+  "funFacts2": [
+    {
+      "id": "504759",
+      "fact": "Opossums don't \"play dead.\" When frightened, they become overexcited and pass out."
+    }
+  ],
   "idiom": {
-    "id": "ones-ears-are-burning",
-    "term": "one's ears are burning",
-    "definition": "Be disconcerted by what one hears, especially when one is being talked about. For example, *Were your ears burning? Jim was telling us about your exploits.* Similarly, **make one's ears burn** means \"to embarrass,\" as in *Mom's stories about us as babies make my ears burn.* These expressions allude to one's ears turning red from blushing."
+    "id": "rain-check",
+    "term": "rain check",
+    "definition": "A promise that an unaccepted offer will be renewed in the future, as in *I can't come to dinner Tuesday but hope you'll give me a rain check.* This term comes from baseball, where in the 1880s it became the practice to offer paying spectators a rain check entitling them to future admission for a game that was postponed or ended early owing to bad weather. By the early 1900s the term was transferred to tickets for other kinds of entertainment, and later to a coupon entitling a customer to buy, at a later date and at the same price, a sale item temporarily out of stock."
   },
   "person": {
-    "id": "vitellius",
-    "name": "Vitellius",
-    "dates": "15 AD - 69 AD",
-    "mainImg": "img/people/vitellius.jpg",
+    "id": "harold-wilson",
+    "name": "Harold Wilson",
+    "dates": "Mar 11, 1916 - May 24, 1995",
+    "mainImg": "img/people/harold-wilson.jpg",
     "summary": [
-      "Vitellius was Roman emperor for eight months, from 16 April to 22 December 69 AD. Vitellius was proclaimed emperor following the quick succession of the previous emperors Galba and Otho, in a year of civil war known as the Year of the Four Emperors. Vitellius was the first to add the honorific cognomen Germanicus to his name instead of Caesar upon his accession. Like his direct predecessor, Otho, Vitellius attempted to rally public support to his cause by honoring and imitating Nero who remained widely popular in the empire.",
-      "His claim to the throne was soon challenged by legions stationed in the eastern provinces, who proclaimed their commander Vespasian emperor instead. War ensued, leading to a crushing defeat for Vitellius at the Second Battle of Bedriacum in northern Italy. Once he realised his support was wavering, Vitellius prepared to abdicate in favor of Vespasian. He was not allowed to do so by his supporters, resulting in a brutal battle for Rome between Vitellius' forces and the armies of Vespasian. He was executed in Rome by Vespasian's soldiers on 22 December 69."
+      "James Harold Wilson, Baron Wilson of Rievaulx, KG, OBE, PC, FRS, FSS was a British Labour politician who served as Prime Minister of the United Kingdom from 1964 to 1970 and 1974 to 1976.",
+      "Entering Parliament in 1945, Wilson was appointed a parliamentary secretary in the Attlee ministry and rose quickly through the ministerial ranks; he became Secretary for Overseas Trade in 1947 and was elevated to Cabinet shortly thereafter as President of the Board of Trade. In opposition to the next Conservative government, he served as Shadow Chancellor and Shadow Foreign Secretary. After Labour Party leader Hugh Gaitskell died suddenly in 1963, Wilson won the subsequent leadership election. After narrowly winning the 1964 general election, Wilson saw an increased majority in a snap election in 1966.",
+      "Wilson's first period as Prime Minister coincided with a period of low unemployment and relative economic prosperity, though hindered by significant problems with Britain's external balance of payments. In 1969 he sent British troops to Northern Ireland."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Vitellius",
-    "urlGoogle": "https://artsandculture.google.com/entity/vitellius/m07_8_"
+    "quote": "“I'm an optimist, but an optimist who carries a raincoat.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Harold_Wilson",
+    "urlGoogle": "https://artsandculture.google.com/entity/harold-wilson/m0dr9m"
   },
   "place": {
-    "id": "framingham",
-    "name": "Framingham",
-    "mainImg": "img/places/framingham.jpg",
+    "id": "miami",
+    "name": "Miami",
+    "mainImg": "img/places/miami.jpg",
     "summary": [
-      "Framingham is a city in the Commonwealth of Massachusetts in the United States. Incorporated in 1700, it is within Middlesex County and the MetroWest subregion of the Greater Boston metropolitan area. The city proper covers 25 square miles with a population of 68,318 in 2010, making it the 14th most populous municipality in Massachusetts. As of 2017 the estimated population was 72,032. Residents voted in favor of adopting a charter to transition from a representative town meeting system to a mayor–council government in April 2017, and the municipality transitioned to city status on January 1, 2018."
+      "Miami, officially the City of Miami, is the seat of Miami-Dade County, and the cultural, economic and financial center of South Florida in the United States. The city covers an area of about 56 square miles between the Everglades to the west and Biscayne Bay to the east. Miami is the sixth most densely populated major city in the United States with an estimated 2019 population of 467,963. The Miami metropolitan area is home to 6.1 million people, the second-most populous in the southeastern United States and the seventh-largest in the nation. The city has the third tallest skyline in the U.S. with over 300 high-rises, 55 of which exceed 490 ft.",
+      "Miami is a major center and leader in finance, commerce, culture, arts, and international trade. The metro area is by far the largest urban economy in Florida and the 12th largest in the United States, with a GDP of $344.9 billion as of 2017. In 2018, Miami was classified as an Alpha level global city by the GaWC. In 2019, Miami ranked seventh in the United States and 31st among global cities in terms of business activity, human capital, information exchange, cultural experience, and political engagement."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Framingham,_Massachusetts",
-    "urlGoogle": "https://artsandculture.google.com/entity/framingham/m01m2n1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Miami",
+    "urlGoogle": "https://artsandculture.google.com/entity/miami/m0f2v0"
   },
   "quote": {
-    "id": "11",
-    "quote": "If you cannot do great things, do small things in a great way.",
-    "author": "Napoleon Hill"
+    "id": "65",
+    "quote": "The only road to good shows is bad ones. Just go start having a bad time, and if you don't give up, you will get better.",
+    "author": "Louis C.K."
   },
   "wiki": {
-    "id": "hey-jude",
-    "name": "Hey Jude",
-    "summary": "\"Hey Jude\" is a song attributed to Paul McCartney and John Lennon (though largely the work of McCartney), originally recorded by The Beatles for the self-titled The Beatles album, but released instead as a single. The song, despite its unusually long length (seven minutes, 12 seconds), became the Beatles' best-selling single, although they did produce a trimmed down version for American radio due to most stations' refusal to air a song of such length. The song–originally titled \"Hey Jules\"–was written for John Lennon's son Julian by McCartney, at a trying time for the Lennon family when John and his first wife, Cynthia, were getting divorced. The senior Lennon related to the song extremely well too, as he had just begun his relationship with his future second wife, Yoko Ono. McCartney had also just broken up with Jane Asher and was about to start seeing Linda Eastman.",
-    "url": "https://en.wikipedia.org/wiki/Hey_Jude"
+    "id": "the-turk",
+    "name": "The Turk",
+    "summary": "The Turk was a hoax that purported to be a chess-playing machine. Constructed and unveiled in 1770 by the Hungarian baron Wolfgang von Kempelen, the mechanism appeared to be able to play a strong game of chess against a human opponent, as well as perform the knight's tour, a puzzle that requires the player to move a knight to occupy every square of a chessboard once and only once. Publicly promoted as an automaton and given its common name based on its appearance, the Turk was a mechanical illusion that allowed a human chess master to hide inside and operate the machine. With a skilled operator, the Turk won most of the games played. The apparatus was demonstrated around Europe and the United States of America for over 80 years until its destruction in 1854, playing and defeating many challengers including statesmen such as Napoleon Bonaparte and Benjamin Franklin.",
+    "url": "https://en.wikipedia.org/wiki/The_Turk"
   },
   "word": {
-    "id": "venal",
-    "word": "venal",
-    "url": "https://www.merriam-webster.com/dictionary/venal",
+    "id": "ascetic",
+    "word": "ascetic",
+    "url": "https://www.merriam-webster.com/dictionary/ascetic",
     "partOfSpeech": "adjective",
-    "pronunciation": "VEE-nul",
-    "audioPath": "audio/words/venal.mp3",
+    "pronunciation": "uh-SET-ik",
+    "audioPath": "audio/words/ascetic.mp3",
     "definitions": [
-      "capable of being bought or obtained for money or other valuable consideration; especially : open to corrupt influence and especially bribery",
-      "originating in, characterized by, or associated with corrupt bribery"
+      "practicing strict self-denial as a measure of personal and especially spiritual discipline",
+      "austere in appearance, manner, or attitude"
     ],
     "examples": [
-      "The crusading journalist attempted to fight corruption in government by casting light on _venal_ lawmakers and the special interests that whispered in their ears.",
-      "\"Kate Winslet gives an amazing performance in Todd Haynes’ Mildred Pierce as a woman who uses her mind, indulges her sexual desires, yet can’t begin to cope with her _venal_, betraying daughter.\" -- From a blog post by Caryn James on IndieWire, March 27, 2011"
+      "Ms. Walter's plain, dark clothing and pulled-back hair give her an ascetic appearance, but she is actually very warm and fun-loving."
     ],
-    "origin": "If you are given the choice between acts that are \"venal\" and those that are \"venial,\" go for the venial. Although the two words look and sound alike, they have very different meanings and histories. \"Venal\" demonstrates the adage that anything can be had if the price is high enough and the morals are low enough. That word originated with the Latin \"venum,\" which simply referred to something that was sold or for sale. Some of those transactions must have been rather shady, because by the mid-1600s, \"venal\" had gained the sense of corruption it carries today. \"Venial\" sins, on the other hand, are pardonable, the kind that show that everyone makes mistakes sometimes. That forgiving term descends from \"venia,\" Latin for \"favor,\" \"indulgence,\" or \"pardon.\""
+    "origin": "\"Ascetic\" comes from \"askētikos,\" a Greek adjective meaning \"laborious,\" and ultimately traces back to the Greek verb \"askein,\" which means \"exercise\" or \"work.\" There aren't many other English words from \"askein,\" but there's no dearth of synonyms for \"ascetic.\" \"Severe\" and \"austere,\" for example, are two words that share with \"ascetic\" the basic meaning \"given to or marked by strict discipline and firm restraint.\" \"Ascetic\" implies abstention from pleasure, comfort, or self-indulgence as a spiritual discipline, whereas \"severe\" implies standards enforced without indulgence or laxity and may suggest harshness (as in \"severe military discipline\"). \"Austere\" stresses absence of warmth, color, or feeling and may apply to rigorous restraint, simplicity, or self-denial (as in \"living an austere life in the country\")."
   }
 }

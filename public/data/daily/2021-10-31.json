@@ -1,130 +1,121 @@
 {
   "artist": {
-    "id": "chris-ofili",
-    "name": "Chris Ofili",
-    "dates": "Born Oct 10, 1968",
-    "mainImg": "img/art/artists/chris-ofili.jpg",
+    "id": "andrea-del-sarto",
+    "name": "Andrea del Sarto",
+    "dates": "Jul 16, 1486 - Jan 21, 1530",
+    "mainImg": "img/art/artists/andrea-del-sarto.jpg",
     "artworkImgs": [
       {
-        "name": "Popcorn Shells",
-        "path": "img/art/artworks/chris-ofili-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/popcorn-shells-chris-ofili/YwHxhKcsqJJrIg"
+        "name": "Portrait of Pope Leo X with Two Cardinals",
+        "path": "img/art/artworks/andrea-del-sarto-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-pope-leo-x-with-two-cardinals-andrea-del-sarto/BQEi7khIVpA_zQ"
       },
       {
-        "name": "No Woman, No Cry",
-        "path": "img/art/artworks/chris-ofili-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/no-woman-no-cry-chris-ofili/bwEqkX2cKDce7Q"
+        "name": "Madonna of the Harpies",
+        "path": "img/art/artworks/andrea-del-sarto-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-of-the-harpies-andrea-del-sarto/qgHex-koQ4IzRw"
       },
       {
-        "name": "Popcorn Shells",
-        "path": "img/art/artworks/chris-ofili-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/popcorn-shells-chris-ofili/JgF10tRRyP3s6Q"
+        "name": "Lady with a book of Petrarch's rhyme",
+        "path": "img/art/artworks/andrea-del-sarto-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/lady-with-a-book-of-petrarch-s-rhyme-andrea-del-sarto/KQGu8ynEBLnvkQ"
       },
       {
-        "name": "Forgive Them (left) and The Caged Bird’s Song (right)",
-        "path": "img/art/artworks/chris-ofili-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/forgive-them-left-and-the-caged-bird’s-song-right-chris-ofili/KgE0_ri3A5xz-w"
+        "name": "Head of Saint John the Baptist",
+        "path": "img/art/artworks/andrea-del-sarto-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/head-of-saint-john-the-baptist-andrea-del-sarto/FQFU-quRJQtloA"
       },
       {
-        "name": "Bending Over Backwards for Justice and Peace (left) and The Green Mirror (right)",
-        "path": "img/art/artworks/chris-ofili-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/bending-over-backwards-for-justice-and-peace-left-and-the-green-mirror-right-chris-ofili/4wGafTpj0NsDqw"
+        "name": "The Archangel Raphael with Tobias, St. Leonard and the Donor, Leonardo di Lorenzo Morelli",
+        "path": "img/art/artworks/andrea-del-sarto-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-archangel-raphael-with-tobias-st-leonard-and-the-donor-leonardo-di-lorenzo-morelli-andrea-del-sarto/zAG1xesMYLL6zg"
+      },
+      {
+        "name": "Holy Family, after Andrea del Sarto",
+        "path": "img/art/artworks/andrea-del-sarto-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/holy-family-after-andrea-del-sarto/bwFXAim1WFi9dg"
       }
     ],
     "summary": [
-      "Christopher Ofili, CBE is a British Turner Prize-winning painter who is best known for his paintings incorporating elephant dung. He was one of the Young British Artists. Since 2005, Ofili has been living and working in Trinidad and Tobago, where he currently resides in Port of Spain. He also lives and works in London and Brooklyn.",
-      "Ofili has utilized resin, beads, oil paint, glitter, lumps of elephant dung, cut-outs from porn magazines as painting elements. His work has been classified as \"punk art.\""
+      "Andrea del Sarto was an Italian painter from Florence, whose career flourished during the High Renaissance and early Mannerism. He was known as an outstanding fresco decorator, painter of altar-pieces, portraitist, draughtsman and colorist. Though highly regarded during his lifetime as an artist senza errori, his renown was eclipsed after his death by that of his contemporaries, Leonardo da Vinci, Michelangelo and Raphael."
     ],
     "quote": null,
-    "movements": ["Contemporary art", "Young British Artists"],
-    "mediums": ["Oil paint", "Textile", "Linen", "Plastic", "Polyester", "Charcoal"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Chris_Ofili",
-    "urlGoogle": "https://artsandculture.google.com/entity/chris-ofili/m01b_88"
+    "movements": [
+      "Renaissance",
+      "High Renaissance",
+      "Mannerism",
+      "Italian Renaissance",
+      "Florentine painting"
+    ],
+    "mediums": ["Oil paint", "Chalk", "Pigment", "Drawing", "Sanguine", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Andrea_del_Sarto",
+    "urlGoogle": "https://artsandculture.google.com/entity/andrea-del-sarto/m0d936"
   },
   "event": {
-    "id": "battle-of-coronel",
-    "name": "Battle of Coronel",
-    "dates": null,
-    "mainImg": "img/events/battle-of-coronel.jpg",
+    "id": "munich-massacre",
+    "name": "Munich massacre",
+    "dates": "Sep 5, 1972 - Sep 6, 1972",
+    "mainImg": "img/events/munich-massacre.jpg",
     "summary": [
-      "The Battle of Coronel was a First World War Imperial German Naval victory over the Royal Navy on 1 November 1914, off the coast of central Chile near the city of Coronel. The East Asia Squadron of the Kaiserliche Marine led by Vice-Admiral Graf Maximilian von Spee met and defeated a British squadron commanded by Rear-Admiral Sir Christopher Cradock.",
-      "The engagement probably took place as a result of misunderstandings. Neither admiral expected to meet the other in full force. Once the two met, Cradock understood his orders were to fight to the end, despite the odds being heavily against him. Although Spee had an easy victory, destroying two enemy armoured cruisers for just three men injured, the engagement also cost him almost half his supply of ammunition, which was irreplaceable. Shock at the British losses led the Admiralty to send more ships, including two modern battlecruisers, which in turn destroyed Spee and the majority of his squadron on 8 December at the Battle of the Falkland Islands."
+      "The Munich massacre was an attack during the 1972 Summer Olympics in Munich, West Germany, in which the Palestinian terrorist group Black September took eleven Israeli Olympic team members hostage and killed them along with a West German police officer.",
+      "Shortly after the crisis began, a Black September spokesman demanded that 234 Palestinian prisoners jailed in Israel and the West German-held founders of the Red Army Faction, Andreas Baader and Ulrike Meinhof, be released. Black September called the operation \"Iqrit and Biram\", after two Palestinian Christian villages whose inhabitants were expelled by the Israel Defense Forces during the 1948 Arab-Israeli War. The Black September commander, Luttif Afif, was born to Jewish and Christian parents. His group was associated with secular nationalism, working for the rights of Palestinians in Israel. West German neo-Nazis gave the group logistical assistance.",
+      "Police officers killed five of the eight Black September members during a failed attempt to rescue the hostages. A West German policeman was also killed in the crossfire. The other three Palestinian hijackers were captured."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Coronel",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-coronel/m01b49y"
+    "urlWiki": "https://en.wikipedia.org/wiki/Munich_massacre",
+    "urlGoogle": "https://artsandculture.google.com/entity/munich-massacre/m058p6"
   },
   "funFacts": [
-    {
-      "id": "661",
-      "fact": "Pigs were banished from Philadelphia's city streets in 1710.",
-      "category": ["Animals", "History"]
-    },
-    {
-      "id": "381",
-      "fact": "Baboons were once trained by Egyptians to wait on tables.",
-      "category": ["Animals"]
-    }
+    { "id": "258", "fact": "Lemon wood is carved into chess pieces.", "category": ["Hodgepodge"] },
+    { "id": "910", "fact": "Less than 3% of the water on Earth is fresh.", "category": ["Science"] }
   ],
-  "funFacts2": [
-    {
-      "id": "553859",
-      "fact": "According to a 2015 study, having 10 more trees on your block can make you feel as healthy as someone who's seven years younger."
-    }
-  ],
-  "idiom": {
-    "id": "squirrel-away",
-    "term": "squirrel away",
-    "definition": "Hide or store, as in *She squirreled away her savings in at least four different banks.* This expression alludes to the squirrel's habit of hiding nuts and acorns in the ground. [First half of 1900s]"
-  },
+  "funFacts2": [{ "id": "504660", "fact": "Fish cough." }],
   "person": {
-    "id": "friedrich-ebert",
-    "name": "Friedrich Ebert",
-    "dates": "Feb 4, 1871 - Feb 28, 1925",
-    "mainImg": "img/people/friedrich-ebert.jpg",
+    "id": "francis-sheehy-skeffington",
+    "name": "Francis Sheehy-Skeffington",
+    "dates": "Dec 23, 1878 - Apr 26, 1916",
+    "mainImg": "img/people/francis-sheehy-skeffington.jpg",
     "summary": [
-      "Friedrich Ebert was a German politician of the Social Democratic Party of Germany and the first President of Germany from 1919 until his death in office in 1925.",
-      "Ebert was elected leader of the SPD on the death in 1913 of August Bebel. In 1914, shortly after he assumed leadership, the party became deeply divided over Ebert's support of war loans to finance the German war effort in World War I. A moderate social democrat, Ebert was in favour of the Burgfrieden, a political policy that sought to suppress squabbles over domestic issues among political parties during wartime in order to concentrate all forces in society on the successful conclusion of the war effort. He tried to isolate those in the party opposed to the war, but could not prevent a split.",
-      "Ebert was a pivotal figure in the German Revolution of 1918–19. When Germany became a republic at the end of World War I, he became its first chancellor. His policies at that time were primarily aimed at restoring peace and order in Germany and containing the more extreme elements of the revolutionary left."
-    ],
-    "quote": "“Without democracy there is no freedom. Violence, no matter who is using it, is always reactionary.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Friedrich_Ebert",
-    "urlGoogle": "https://artsandculture.google.com/entity/friedrich-ebert/m01k54p"
-  },
-  "place": {
-    "id": "la-paz",
-    "name": "La Paz",
-    "mainImg": "img/places/la-paz.jpg",
-    "summary": [
-      "La Paz, officially known as Nuestra Señora de La Paz, also named Chuqi Yapu in Aymara, is the seat of government of the Plurinational State of Bolivia. With an estimated 816,044 residents as of 2020, La Paz is the third-most populous city in Bolivia. Its metropolitan area, which is formed by La Paz, El Alto, Achocalla, Viacha, and Mecapaca makes up the second most populous urban area in Bolivia, with a population of 1.8 million, after Santa Cruz de la Sierra with a population of 2.3 million. It is also the capital of the La Paz Department.",
-      "The city, located in west-central Bolivia 68 km southeast of Lake Titicaca, is set in a canyon created by the Choqueyapu River. It is located in a bowl-like depression surrounded by the high mountains of the Altiplano. Overlooking the city is the towering, triple-peaked Illimani. Its peaks are always snow-covered and can be seen from many parts of the city. At an elevation of roughly 3,650 m above sea level, La Paz is the highest capital city in the world. Due to its altitude, La Paz has an unusual subtropical highland climate, with rainy summers and dry winters."
+      "Francis Joseph Christopher Sheehy-Skeffington was an Irish writer and radical activist, known publicly by the nickname \"Skeffy\". He was also the real-life model for a character in James Joyce's novel, A Portrait of the Artist as a Young Man. He was a friend and schoolmate of Joyce, Oliver St. John Gogarty, Tom Kettle, and Frank O'Brien. He married Hanna Sheehy in 1903, whose own surname he adopted as part of his name, resulting in the name \"Sheehy Skeffington\". They always showed their joined names unhyphenated, although many sources include the hyphen."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/La_Paz",
-    "urlGoogle": "https://artsandculture.google.com/entity/la-paz/m0brq4"
+    "urlWiki": "https://en.wikipedia.org/wiki/Francis_Sheehy-Skeffington",
+    "urlGoogle": "https://artsandculture.google.com/entity/francis-sheehy-skeffington/m076ss8"
+  },
+  "place": {
+    "id": "louisville",
+    "name": "Louisville",
+    "mainImg": "img/places/louisville.jpg",
+    "summary": [
+      "Louisville is the largest city in the Commonwealth of Kentucky and the 29th most-populous city in the United States. It is one of two cities in Kentucky designated as first-class, the other being Lexington, the state's second-largest city. Louisville is the historical seat and, since 2003, the nominal seat of Jefferson County, on the Indiana border.",
+      "Named after King Louis XVI of France, Louisville was founded in 1778 by George Rogers Clark, making it one of the oldest cities west of the Appalachians. With nearby Falls of the Ohio as the only major obstruction to river traffic between the upper Ohio River and the Gulf of Mexico, the settlement first grew as a portage site. It was the founding city of the Louisville and Nashville Railroad, which grew into a 6,000-mile system across 13 states.",
+      "Today, the city is known as the home of legendary boxer Muhammad Ali, the Kentucky Derby, Kentucky Fried Chicken, the University of Louisville and its Cardinals, Louisville Slugger baseball bats, and three of Kentucky's six Fortune 500 companies: Humana, Kindred Healthcare, and Yum! Brands. Muhammad Ali International Airport, Louisville's main commercial airport, hosts UPS's worldwide hub."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Louisville,_Kentucky",
+    "urlGoogle": "https://artsandculture.google.com/entity/louisville/m0f__1"
   },
   "wiki": {
-    "id": "nirvana-band",
-    "name": "Nirvana (band)",
-    "summary": "Nirvana was a popular American rock band from Aberdeen, Washington. With the lead single \"Smells Like Teen Spirit\" from their 1991 album Nevermind, Nirvana exploded into the mainstream, bringing along with it an offshoot of punk and alternative rock referred to as grunge. As Nirvana's frontman, Kurt Cobain found himself referred to in the media as the \"spokesman of a generation\", with Nirvana the \"flagship band\" of \"Generation X\". Cobain was uncomfortable with the attention, and placed his focus on the band's music, challenging the band's audience with their third studio album In Utero. While Nirvana's mainstream popularity waned in the months following its release, their core audience cherished the band's dark interior, particularly after their 1993 performance on MTV Unplugged. Nirvana's brief run ended with the death of Cobain in 1994, but the band's popularity expanded in the years that followed. Since their debut, the band has sold more than fifty million albums worldwide, including more than ten million copies of Nevermind in the US alone.",
-    "url": "https://en.wikipedia.org/wiki/Nirvana_(band)"
+    "id": "canadian-pacific-railway",
+    "name": "Canadian Pacific Railway",
+    "summary": "The Canadian Pacific Railway is a Canadian Class I railway operated by Canadian Pacific Railway Limited. Its rail network stretches from Vancouver to Montreal, and also serves major cities in the United States, such as Minneapolis, Chicago, and New York City. Its headquarters are in Calgary, Alberta. The railway was originally built between eastern Canada and British Columbia between 1881 and 1885, fulfilling a promise extended to British Columbia when it entered Confederation in 1871. It was Canada's first transcontinental railway. Now primarily a freight railway, the CPR was for many decades the only practical means of long distance passenger transportation in many regions of Canada, and was instrumental in the settlement and development of western Canada. Its primary passenger services were eliminated in 1978 after being assumed by VIA Rail Canada. The railway's logo, a beaver, was chosen because it is one of the national symbols of Canada and represents the hardworking character of the company. The object of both praise and damnation for over 120 years, the CPR remains an indisputable icon of Canadian nationalism.",
+    "url": "https://en.wikipedia.org/wiki/Canadian_Pacific_Railway"
   },
   "word": {
-    "id": "homonymous",
-    "word": "homonymous",
-    "url": "https://www.merriam-webster.com/dictionary/homonymous",
+    "id": "parochial",
+    "word": "parochial",
+    "url": "https://www.merriam-webster.com/dictionary/parochial",
     "partOfSpeech": "adjective",
-    "pronunciation": "hoh-MAH-nuh-mus",
-    "audioPath": "audio/words/homonymous.mp3",
+    "pronunciation": "puh-ROH-kee-ul",
+    "audioPath": "audio/words/parochial.mp3",
     "definitions": [
-      "ambiguous",
-      "having the same designation",
-      "of, relating to, or being homonyms"
+      "of or relating to a church parish",
+      "limited in range or scope (as to a narrow area or region) : provincial, narrow"
     ],
     "examples": [
-      "We always called the elder Michael \"Big Mike\" to distinguish him from his _homonymous_ son.",
-      "\"Weezer's latest disc and its third to be self-titled (it's being referred to as 'The Red Album' just as the previous pair of _homonymous_ albums are commonly called the 'Blue' and 'Green' albums, respectively) has no shortage of the kind of pure pop melodies that endeared Weezer to millions of geek-rock kids back in the mid-'90s.\" - Jonathan Perry, _The Boston Globe_, September 23, 2008"
+      "The book is marred by the _parochial_ viewpoint of its author, who fails to take into account the interplay between local and global economies.",
+      "\"Once a largely _parochial_ issue mainly of interest to Nebraskans, the pipeline's national profile has risen steadily to the point where it became the linchpin in a much broader, high-stakes deal affecting millions of families from coast to coast.\" -- From an article by Joseph Morton in the _Omaha World-Herald_, December 18, 2011"
     ],
-    "origin": "The \"ambiguous\" sense of \"homonymous\" refers mainly to words that have two or more meanings. In the 1600s, logicians and scientists who wanted to refer to (or complain about) such equivocal words chose a name for them based on Latin and Greek, from Greek \"hom-\" (\"same\") and \"onyma\" (\"name\"). In time, English speakers came up with another sense of \"homonymous,\" referring to two things having the same name (Hawaii, the state, and Hawaii, the island, for example). Next came the use of \"homonymous\" to refer to homonyms, such as \"see\" and \"sea.\" There's also a zoological sense. Sheep and goats whose right horn spirals to the right and left horn spirals to the left are said to be \"homonymous.\""
+    "origin": "In the Greek New Testament, the word \"paroikia\" means \"temporary residence.\" (It's from the Greek word for \"stranger\" -- \"paroikos.\") Early Christians used this designation for their colonies because they considered heaven their real home. But temporary or not, these Christian colonies became more organized as time went on. Thus, in Late Latin, \"parochia\" became the designation for a group of Christians in a given area under the leadership of one pastor -- what we came to call a \"parish\" in the 14th century. Both \"parish\" and its related adjective \"parochial\" were borrowed at that time directly from Middle French terms that had been derived from the Late Latin. We didn't begin to use \"parochial\" in its \"narrow\" sense until the mid-19th century."
   }
 }

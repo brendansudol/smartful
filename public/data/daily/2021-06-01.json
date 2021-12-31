@@ -1,135 +1,132 @@
 {
   "artist": {
-    "id": "zha-shibiao",
-    "name": "Zha Shibiao",
-    "dates": "1615 - 1698",
-    "mainImg": "img/art/artists/zha-shibiao.jpg",
+    "id": "andrea-pozzo",
+    "name": "Andrea Pozzo",
+    "dates": "Nov 30, 1642 - Aug 31, 1709",
+    "mainImg": "img/art/artists/andrea-pozzo.jpg",
     "artworkImgs": [
       {
-        "name": "清 傳查士標 泛棹圖 軸|Old Man Boating on a River",
-        "path": "img/art/artworks/zha-shibiao-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/清-傳查士標-泛棹圖-軸-old-man-boating-on-a-river-zha-shibiao/twETbz2ifPpNWQ"
+        "name": "Health box first destination",
+        "path": "img/art/artworks/andrea-pozzo-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/health-box-first-destination-andrea-avezzù/oQFQRjy9pOwPyA"
       },
       {
-        "name": "Four poems in running script",
-        "path": "img/art/artworks/zha-shibiao-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/four-poems-in-running-script-artist-wu-kuan-calligrapher-frontispiece-by-zha-shibiao/WgES__zmTw_nbg"
+        "name": "Legality box first destination",
+        "path": "img/art/artworks/andrea-pozzo-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/legality-box-first-destination-andrea-avezzù/_AEyzea7Lb7Zyg"
       },
       {
-        "name": "Erzhan’s Master Book of Landscape and Calligraphy (album leaves)－14",
-        "path": "img/art/artworks/zha-shibiao-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/erzhan’s-master-book-of-landscape-and-calligraphy-album-leaves-－14-zha-shibiao/oQEaktIxvpU2ig"
+        "name": "Sport box first destination",
+        "path": "img/art/artworks/andrea-pozzo-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/sport-box-first-destination-andrea-avezzù/ugGwH3ea1kgRHA"
       },
       {
-        "name": "Landscape",
-        "path": "img/art/artworks/zha-shibiao-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/landscape-zha-shibiao/LQE4rbEUY14EzQ"
+        "name": "Self-Portrait",
+        "path": "img/art/artworks/andrea-pozzo-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/self-portrait-andrea-pozzo/lAHoEtxkScWg6Q"
       },
       {
-        "name": "Handscroll",
-        "path": "img/art/artworks/zha-shibiao-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/handscroll-zha-shibiao/0wEYTJojOhyPHQ"
+        "name": "Culture box first destination",
+        "path": "img/art/artworks/andrea-pozzo-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/culture-box-first-destination-andrea-avezzù/IAElMmAyaJxRgw"
       },
       {
-        "name": "Erzhan’s Master Book of Landscape and Calligraphy (album leaves)－3",
-        "path": "img/art/artworks/zha-shibiao-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/erzhan’s-master-book-of-landscape-and-calligraphy-album-leaves-－3-zha-shibiao/hQGkodfzzAok1Q"
+        "name": "St. Augustine and the Child on the Seashore",
+        "path": "img/art/artworks/andrea-pozzo-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/st-augustine-and-the-child-on-the-seashore-andrea-pozzo/-QHBdGqmH9GaRA"
       }
     ],
     "summary": [
-      "Zha Shibiao or Cha Shih-piao was a Chinese calligrapher and landscape painter from Anhui. He was affiliated with the Anhui School, also known as the Xin'an School, which is noted for dry brushstrokes and sparse compositions. His family, and himself, were art collectors and Ming dynasty aristocrats. He had studied for the civil service exam under the Ming and received the xiucai degree in his twenties. However he abandoned any attempt at an official career after the Manchu conquest. Subsequent to the 1670s he moved, or fled, depending on the source, to Yangzhou. As a calligrapher he was influenced by Dong Qichang and Mi Fu. His landscapes were more influenced by Hong Ren and Ni Zan. His later works are considered to have had a more moist and expressive feel than those of Hong Ren. As a person he was said to be easy-going, but slightly reclusive. He also had a fondness for drink, indulging into the late hours."
+      "Andrea Pozzo was an Italian Jesuit brother, Baroque painter and architect, decorator, stage designer, and art theoretician.",
+      "Pozzo was best known for his grandiose frescoes using the technique of quadratura to create an illusion of three-dimensional space on flat surfaces. His masterpiece is the nave ceiling of the Church of Sant'Ignazio in Rome. Through his techniques, he became one of the most noteworthy figures of the Baroque period. He is also noted for the architectural plans of Ljubljana Cathedral, inspired by the designs of the Jesuit churches Il Gesù and S. Ignazio in Rome."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Ink", "Textile", "Satin", "Silk"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Zha_Shibiao",
-    "urlGoogle": "https://artsandculture.google.com/entity/zha-shibiao/m08d1md"
+    "movements": ["Baroque"],
+    "mediums": ["Chalk", "Pigment", "Drawing", "Sanguine", "Etching", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Andrea_Pozzo",
+    "urlGoogle": "https://artsandculture.google.com/entity/andrea-pozzo/m088x45"
   },
   "event": {
-    "id": "battle-of-inchon",
-    "name": "Battle of Inchon",
-    "dates": "Sep 15, 1950 - Sep 19, 1950",
-    "mainImg": "img/events/battle-of-inchon.jpg",
+    "id": "operation-boomerang",
+    "name": "Operation Boomerang",
+    "dates": "Aug 11, 1944",
+    "mainImg": "img/events/operation-boomerang.jpg",
     "summary": [
-      "The Battle of Inchon was an amphibious invasion and battle of the Korean War that resulted in a decisive victory and strategic reversal in favor of the United Nations Command. The operation involved some 75,000 troops and 261 naval vessels, and led to the recapture of the South Korean capital of Seoul two weeks later. The code name for the operation was Operation Chromite.",
-      "The battle began on 15 September 1950 and ended on 19 September. Through a surprise amphibious assault far from the Pusan Perimeter that UN and Republic of Korea Army forces were desperately defending, the largely undefended city of Incheon was secured after being bombed by UN forces. The battle ended a string of victories by the North Korean Korean People's Army. The subsequent UN recapture of Seoul partially severed the KPA's supply lines in South Korea.",
-      "The UN and ROK forces were commanded by General of the Army Douglas MacArthur of the United States Army. MacArthur was the driving force behind the operation, overcoming the strong misgivings of more cautious generals to a risky assault over extremely unfavorable terrain."
+      "Operation Boomerang was a partially successful air raid conducted by the United States Army Air Forces' XX Bomber Command against oil refining facilities in Japanese-occupied Palembang on the night of 10/11 August 1944 during World War II. The attack involved attempts to bomb an oil refinery and lay mines to block a river.",
+      "The raid formed part of a series of attacks on Japanese-occupied cities in South East Asia which XX Bomber Command conducted as an adjunct to its primary mission of bombing Japan. The command raided the Japanese city of Nagasaki on the same night as Operation Boomerang.",
+      "A total of 54 heavy bombers were dispatched from an airfield in Ceylon on 10 August, of which 39 reached the Palembang area. Attempts to bomb the oil refinery were unsuccessful, with only a single small building being confirmed destroyed. Mines dropped in the river which connects Palembang to the sea sank three ships and damaged two others. British forces provided search and rescue support for the American bombers. The Japanese defenders of Palembang failed to destroy any of the American bombers, but one was forced to ditch when it ran out of fuel."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Inchon",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-inchon/m0423nm"
+    "urlWiki": "https://en.wikipedia.org/wiki/Operation_Boomerang",
+    "urlGoogle": "https://artsandculture.google.com/entity/operation-boomerang/g11f7r5xty0"
   },
   "funFacts": [
     {
-      "id": "825",
-      "fact": "Our eyes are always the same size from birth, but our nose and ears never stop growing.",
-      "category": ["Anatomy"]
+      "id": "323",
+      "fact": "The Lemon-Yellow Tree Frog is only active in the darkness of night.",
+      "category": ["Animals"]
     },
     {
-      "id": "306",
-      "fact": "In the Middle Ages, chicken soup was considered an aphrodisiac.",
-      "category": ["Food", "History"]
+      "id": "755",
+      "fact": "There are more chickens than people in the world.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553513",
-      "fact": "In 1897, Indiana state legislators tried to pass a bill that would have legally redefined the value of pi as 3.2."
+      "id": "504712",
+      "fact": "Despite the optical illusion, the Gateway Arch is exactly as wide (630 feet) as it is tall."
     }
   ],
   "idiom": {
-    "id": "wet-ones-whistle",
-    "term": "wet one's whistle",
-    "definition": "Have a drink, as in *I'm just going to wet my whistle before I go out on the tennis court.* This expression uses *whistle* in the sense of \"mouth\" and may allude to the fact that it is very hard to whistle with dry lips. [Late 1300s]"
+    "id": "pig-in-a-poke",
+    "term": "pig in a poke",
+    "definition": "An object offered in a manner that conceals its true value, especially its lack of value. For example, *Eric believes that buying a used car is buying a pig in a poke.* This expression alludes to the practice of substituting a worthless object, such as a cat, for the costly suckling pig a customer has bought and wrapping it in a *poke,* or sack. It dates from a time when buyers of groceries relied on a weekly farmers' market and, unless they were cautious enough to check the poke's contents, would not discover the skullduggery until they got home. The word *poke* dates from the 13th century but is now used mainly in the southern United States. The idiom was first recorded in John Heywood's 1562 collection of proverbs."
   },
   "person": {
-    "id": "mwai-kibaki",
-    "name": "Mwai Kibaki",
-    "dates": "Born Nov 15, 1931",
-    "mainImg": "img/people/mwai-kibaki.jpg",
+    "id": "mohammed-v-of-morocco",
+    "name": "Mohammed V of Morocco",
+    "dates": "Aug 10, 1909 - Feb 26, 1961",
+    "mainImg": "img/people/mohammed-v-of-morocco.jpg",
     "summary": [
-      "Mwai Kibaki, C.G.H. is a Kenyan politician who was the third President of Kenya, serving from December 2002 until April 2013.",
-      "Kibaki was previously Vice-President of Kenya for ten years from 1978 to 1988 under President Daniel arap Moi. He also held cabinet ministerial positions in the Kenyatta and Moi governments, including time as minister for Finance under Kenyatta, and Minister for Home Affairs and Minister for Health under Moi.",
-      "Kibaki served as an opposition Member of Parliament from 1992 to 2002. He unsuccessfully vied for the presidency in 1992 and 1997. He served as the Leader of the Official Opposition in Parliament from 1998 to 2002. In the 2002 presidential election, he was elected as President of Kenya."
-    ],
-    "quote": "“Leadership is a privilege to better the lives of others. It is not an opportunity to satisfy personal greed.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Mwai_Kibaki",
-    "urlGoogle": "https://artsandculture.google.com/entity/mwai-kibaki/m015pz3"
-  },
-  "place": {
-    "id": "cleveland",
-    "name": "Cleveland",
-    "mainImg": "img/places/cleveland.jpg",
-    "summary": [
-      "Cleveland, officially the City of Cleveland, is a major city in the U.S. state of Ohio, and the county seat of Cuyahoga County. The city proper has a population of 381,009, making it the 53rd-largest city in the United States and the second-largest city in Ohio. Greater Cleveland is ranked as the 33rd-largest metropolitan area in the U.S., with 2,057,009 people in 2018. A Gamma + city, Cleveland anchors the Cleveland–Akron–Canton Combined Statistical Area, which had a population of 3,515,646 in 2010 and is ranked 15th in the United States.",
-      "The city is located on the southern shore of Lake Erie, across the U.S. maritime border with Canada and approximately 60 miles west of the Ohio-Pennsylvania state border. It was founded in 1796 near the mouth of the Cuyahoga River by General Moses Cleaveland. It became a manufacturing center due to its location on both the river and the lake shore, as well as being connected to numerous canals and railroad lines. Cleveland's economy relies on diversified sectors such as manufacturing, financial services, healthcare, biomedicals, and higher education, and the city ranks 31st in the nation per economic output, with a GDP of $134 billion in 2018."
+      "Mohammad Al-Khamis Ben Youssef Ben Mohammed Al-Alaoui, known as Mohammed V, was Sultan of Morocco from 1927 to 1953; he was recognized as Sultan again upon his return from exile in 1955, and as King from 1957 to 1961. His full name was Sidi Mohammed ben Yusef, or Son of Yusef, upon whose death he succeeded to the throne. He was a member of the Alaouite dynasty.",
+      "On 20 August 1953, the French colonial authorities forced Mohammed V, an important national symbol in the growing Moroccan independence movement, into exile in Corsica along with his family. His first cousin once removed, Mohammed Ben Aarafa, was made a puppet monarch and placed on the throne. Mohammed V and his family were then transferred to Madagascar in January 1954. Mohammed V returned from exile on 16 November 1955, and was again recognized as Sultan after active opposition to the French protectorate. In February 1956 he successfully negotiated with France and Spain for the independence of Morocco, and in 1957 took the title of King."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Cleveland",
-    "urlGoogle": "https://artsandculture.google.com/entity/cleveland/m01sn3"
+    "urlWiki": "https://en.wikipedia.org/wiki/Mohammed_V_of_Morocco",
+    "urlGoogle": "https://artsandculture.google.com/entity/mohammed-v-of-morocco/m01dmjp"
   },
-  "quote": {
-    "id": "33",
-    "quote": "Always take the high road, it's far less crowded.",
-    "author": "Charlie Munger"
+  "place": {
+    "id": "prague",
+    "name": "Prague",
+    "mainImg": "img/places/prague.jpg",
+    "summary": [
+      "Prague is the capital and largest city in the Czech Republic, the 13th largest city in the European Union and the historical capital of Bohemia. Situated on the Vltava river, Prague is home to about 1.3 million people, while its metropolitan area is estimated to have a population of 2.7 million. The city has a temperate oceanic climate, with relatively warm summers and chilly winters.",
+      "Prague is a political, cultural and economic centre of central Europe complete with a rich history. Founded during the Romanesque and flourishing by the Gothic, Renaissance and Baroque eras, Prague was the capital of the Kingdom of Bohemia and the main residence of several Holy Roman Emperors, most notably of Charles IV.",
+      "It was an important city to the Habsburg Monarchy and its Austro-Hungarian Empire. The city played major roles in the Bohemian and Protestant Reformation, the Thirty Years' War and in 20th-century history as the capital of Czechoslovakia between the World Wars and the post-war Communist era.",
+      "Prague is home to a number of well-known cultural attractions, many of which survived the violence and destruction of 20th-century Europe."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Prague",
+    "urlGoogle": "https://artsandculture.google.com/entity/prague/m05ywg"
   },
   "wiki": {
-    "id": "oort-cloud",
-    "name": "Oort cloud",
-    "summary": "The Oort cloud is a hypothesized spherical cloud of comets that may lie nearly a light-year from the Sun. It is thought to comprise two separate regions: a spherical outer Oort cloud and a disc-shaped inner Oort cloud, or Hills cloud; the outer extent of the cloud defines the boundary of the Solar System. Objects in the Oort cloud are largely composed of ices, such as water, ammonia, and methane and are thought to have formed close to the Sun, later being scattered into space by the gravitational effects of the giant planets early in the Solar System's evolution. Although no confirmed direct observations of the Oort cloud have been made, astronomers believe that it is the source of all long-period and Halley-type comets entering the inner Solar System, as well as many of the Centaurs and Jupiter-family comets.",
-    "url": "https://en.wikipedia.org/wiki/Oort_cloud"
+    "id": "lactarius-volemus",
+    "name": "Lactarius volemus",
+    "summary": "Lactarius volemus is a species of fungus in the genus Lactarius. It is distributed in warm temperate regions and northern areas of the Northern Hemisphere, and has been collected in Europe, North America, Central America, and Asia. A mycorrhizal fungus, its fruit bodies grow either individually or in groups at the base of various species of trees from summer to autumn. It is valued as an edible mushroom, and is sold in markets in Asia. The colour varies from apricot to tawny, and the cap may be up to 11 cm (4.3 in) wide. The pale golden yellow gills on the underside of the cap are closely spaced and sometimes forked. One of the mushroom's most distinctive features is the large amount of latex (\"milk\") it exudes when the gills are damaged. It has a distinctive fishy smell, which does not affect the taste. The mushroom contains a natural rubber that has been chemically characterized.",
+    "url": "https://en.wikipedia.org/wiki/Lactarius_volemus"
   },
   "word": {
-    "id": "sitzmark",
-    "word": "sitzmark",
-    "url": "https://www.merriam-webster.com/dictionary/sitzmark",
+    "id": "terreplein",
+    "word": "terreplein",
+    "url": "https://www.merriam-webster.com/dictionary/terreplein",
     "partOfSpeech": "noun",
-    "pronunciation": "SITS-mark",
-    "audioPath": "audio/words/sitzmark.mp3",
-    "definitions": ["a depression left in the snow by a skier falling backward"],
+    "pronunciation": "TAIR-uh-playn",
+    "audioPath": "audio/words/terreplein.mp3",
+    "definitions": ["the level space behind a parapet of a rampart where guns are mounted"],
     "examples": [
-      "Proper skiing etiquette dictates that a skier who falls in the middle of a trail should smooth over his or her sitzmark so it won't pose a hazard to other skiers."
+      "Children love to climb on the defunct cannons that sit at each of the old fort's terrepleins, creating a perfect photo op for parents."
     ],
-    "origin": "On the slopes, do you zip down the mountain leaving other skiers in your wake? Or are you more likely to leave a trail of sitzmarks behind you? If the latter is true, you may want to give your backside a break and plop down into a comfy chair in the ski lodge instead of plunking back onto the snow. Either way, you'll find yourself sitting on your derriere, a fact you can use to remember \"sitzmark.\" It is most likely a creation made in English from the German verb \"sitzen,\" meaning \"to sit,\" plus the English noun \"mark,\" as in \"impression.\""
+    "origin": "Like \"parapet\" and \"rampart,\" \"terreplein\" dates back to the 16th century. \"Rampart\" is the oldest of this trio; earliest evidence of the word in English is from 1536. From the Middle French word \"ramparer,\" meaning \"to fortify,\" it refers specifically to the broad embankment that forms the main part of a fort. The word for the protective wall on top of the rampart, \"parapet,\" dates to 1590 and comes from Italian \"parare\" (\"to shield\") and \"petto\" (\"chest\"). The earliest evidence for today's word, \"terreplein,\" is from only a year later. It comes (by way of Middle French) from Old Italian \"terrapieno,\" which traces to Medieval Latin \"terra plenus,\" meaning \"filled with earth.\""
   }
 }

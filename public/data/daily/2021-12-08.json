@@ -1,0 +1,118 @@
+{
+  "artist": {
+    "id": "henri-edmond-cross",
+    "name": "Henri-Edmond Cross",
+    "dates": "May 20, 1856 - May 16, 1910",
+    "mainImg": "img/art/artists/henri-edmond-cross.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Evening Air",
+        "path": "img/art/artworks/henri-edmond-cross-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-evening-air/9AFV5fBXEc99-g"
+      },
+      {
+        "name": "Sunset on the Lagoon, Venice",
+        "path": "img/art/artworks/henri-edmond-cross-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/sunset-on-the-lagoon-venice-henri-edmond-cross/GAEKSxFtsbHwqw"
+      },
+      {
+        "name": "Regatta in Venice",
+        "path": "img/art/artworks/henri-edmond-cross-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/regatta-in-venice-henri-edmond-cross/LQFBHynDuDtE6Q"
+      },
+      {
+        "name": "The Flowered Terrace",
+        "path": "img/art/artworks/henri-edmond-cross-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/the-flowered-terrace-henri-edmond-cross/2gHng12gXlT0xw"
+      },
+      {
+        "name": "The Beach at Saint-Clair",
+        "path": "img/art/artworks/henri-edmond-cross-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/the-beach-at-saint-clair-henri-edmond-cross/FgH6glpnOo3YiA"
+      },
+      {
+        "name": "The Artist's Garden at Saint-Clair",
+        "path": "img/art/artworks/henri-edmond-cross-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-artist-s-garden-at-saint-clair-henri-edmond-cross-henri-edmond-delacroix/zQE973hnSre_gw"
+      }
+    ],
+    "summary": [
+      "Henri-Edmond Cross, born Henri-Edmond-Joseph Delacroix, was a French painter and printmaker. He is most acclaimed as a master of Neo-Impressionism and he played an important role in shaping the second phase of that movement. He was a significant influence on Henri Matisse and many other artists. His work was instrumental in the development of Fauvism."
+    ],
+    "quote": null,
+    "movements": ["Neo-Impressionism", "Modern art", "Post-Impressionism"],
+    "mediums": ["Drawing", "Watercolor painting", "Oil paint", "Graphite", "Crayon", "Conté"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Henri-Edmond_Cross",
+    "urlGoogle": "https://artsandculture.google.com/entity/henri-edmond-cross/m0239mx"
+  },
+  "event": {
+    "id": "middle-east-theatre-of-world-war-ii",
+    "name": "Middle East Theatre of World War II",
+    "dates": "1940 - 1945",
+    "mainImg": "img/events/middle-east-theatre-of-world-war-ii.jpg",
+    "summary": [
+      "The Middle East Theatre of World War II is defined largely by reference to the British Middle East Command, which controlled Allied forces in both Southwest Asia and eastern North Africa. From 1943, most of the action and forces concerned were in the adjoining Mediterranean Theatre.",
+      "The region was quiet for the first few months of the war, until Fascist Italy declared war against France and Britain on June 10, 1940. It remained a major active theatre for two and a half years until the British Commonwealth Eighth Army crossed the border from Libya into Tunisia. In February 1943, command of the Eighth Army passed from Middle East Command to the Allied Joint command for the Mediterranean, Allied Forces Headquarters. Saudi Arabia, posturing as neutral though somewhat favoring the Allies, officially declared war on Germany and Japan in February 1945, though, in reality, the entire Middle East Theatre was quiet from 1943 until the end of the war."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Middle_East_Theatre_of_World_War_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/middle-east-theatre-of-world-war-ii/m05jrsv"
+  },
+  "funFacts": [
+    {
+      "id": "989",
+      "fact": "To make one pound of honey, a honeybee must tap about two million flowers.",
+      "category": ["Animals", "Plants", "Science"]
+    },
+    {
+      "id": "390",
+      "fact": "Jack is the most common name in nursery rhymes.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [{ "id": "506501", "fact": "Earmuffs were invented by a 15-year-old." }],
+  "person": {
+    "id": "jeremiah-o-donovan-rossa",
+    "name": "Jeremiah O'Donovan Rossa",
+    "dates": "Sep 10, 1831 - Jun 29, 1915",
+    "mainImg": "img/people/jeremiah-o-donovan-rossa.jpg",
+    "summary": [
+      "Jeremiah O'Donovan Rossa was an Irish Fenian leader and member of the Irish Republican Brotherhood.",
+      "Born & raised in Rosscarbery, West Cork of County Cork in the South of Ireland during the Great Irish Famine, O'Donovan founded the Phoenix National and Literary Society and dedicated his life to working towards the establishment of an independent Irish Republic. He joined the Irish Republican Brotherhood and after fleeing to the United States as part of the Cuba Five, he joined Irish revolutionary organisations there, beyond the reach of the British Empire. He was a pioneer in physical force Irish republicanism utilising dynamite in a campaign of asymmetrical warfare, hitting the British Empire on its home territory, primarily London."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Jeremiah_O%27Donovan_Rossa",
+    "urlGoogle": "https://artsandculture.google.com/entity/jeremiah-o-donovan-rossa/m06dshz"
+  },
+  "place": {
+    "id": "palestine",
+    "name": "Palestine",
+    "mainImg": "img/places/palestine.jpg",
+    "summary": [
+      "Palestine, recognized officially as the State of Palestine by the United Nations and other entities, is a de jure sovereign state in Western Asia claiming the West Bank and Gaza Strip with Jerusalem as the designated capital, although its administrative center is currently located in Ramallah. The entirety of territory claimed by the State of Palestine has been occupied since 1948, first by Egypt and Jordan and then by Israel after the Six-Day War in 1967. Palestine has a population of 5,051,953 as of February 2020, ranked 121st in the world.",
+      "After World War II, in 1947, the UN adopted a Partition Plan for Mandatory Palestine recommending the creation of independent Arab and Jewish states and an internationalized Jerusalem. This partition plan was accepted by the Jews but rejected by the Arabs. The day after the establishment of a Jewish state in Eretz Israel, to be known as the State of Israel on 14 May 1948, neighboring Arab armies invaded the former British mandate and fought the Israeli forces. Later, the All-Palestine Government was established by the Arab League on 22 September 1948 to govern the Egyptian-controlled enclave in Gaza."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/State_of_Palestine",
+    "urlGoogle": "https://artsandculture.google.com/entity/palestine/m01k0p4"
+  },
+  "wiki": {
+    "id": "economy-of-the-iroquois",
+    "name": "Economy of the Iroquois",
+    "summary": "The economy of the Iroquois originally focused on communal production and combined elements of both agricultural and hunter-gatherer systems. The Iroquois peoples were predominately agricultural, harvesting the Three Sisters commonly grown by American Indian groups: maize, beans, and squash. The Iroquois developed a system of economics very different from the now-dominant Western variety. This system consisted of several unique components including communal land ownership, division of labor by gender, and trade based on gift-giving. Contact with Europeans in the early 1600s had a profound impact on the economy of the Iroquois. At first they became important trading partners, but the expansion of European settlement upset the balance of the Iroquois economy. By 1800 the Iroquois had been confined to reservations, and they had to adapt their traditional economic system. In the 20th century, some of the Iroquois groups took advantage of their independent status on the reservation and started Indian casinos. Other Iroquois have incorporated themselves directly into the outside economies off of the reservation.",
+    "url": "https://en.wikipedia.org/wiki/Economy_of_the_Iroquois"
+  },
+  "word": {
+    "id": "cumshaw",
+    "word": "cumshaw",
+    "url": "https://www.merriam-webster.com/dictionary/cumshaw",
+    "partOfSpeech": "noun",
+    "pronunciation": "KUM-shaw",
+    "audioPath": "audio/words/cumshaw.mp3",
+    "definitions": ["present, gratuity; also : bribe, payoff"],
+    "examples": [
+      "\"I never heard her ask for any cumshaw that weighed less than a ton and which required fewer than a dozen enlisted men and two trucks to move.\" (James A. Michener, _Los Angeles Times_, October 19, 1986)"
+    ],
+    "origin": "It was probably British Navy personnel who first picked up \"cumshaw\" in Chinese ports, during the First Opium War of 1839. \"Cumshaw\" is from a word that means \"grateful thanks\" in the dialect of Xiamen, a port in southeast China. Apparently, sailors heard it from the beggars who hung around the ports, and mistook it as the word for a handout. Since then, U.S. sailors have given \"cumshaw\" its own unique application, for something obtained through unofficial means (whether deviously or simply ingeniously). Outside of naval circles, meanings of \"cumshaw\" range from a harmless gratuity or gift to bending the rules a little to outright bribery."
+  }
+}

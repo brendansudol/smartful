@@ -1,126 +1,137 @@
 {
   "artist": {
-    "id": "joan-miro",
-    "name": "Joan Miró",
-    "dates": "Apr 20, 1893 - Dec 25, 1983",
-    "mainImg": "img/art/artists/joan-miro.jpg",
+    "id": "franz-anton-maulbertsch",
+    "name": "Franz Anton Maulbertsch",
+    "dates": "Jun 7, 1724 - Aug 8, 1796",
+    "mainImg": "img/art/artists/franz-anton-maulbertsch.jpg",
     "artworkImgs": [
       {
-        "name": "Il compianto degli amanti",
-        "path": "img/art/artworks/joan-miro-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/il-compianto-degli-amanti-joan-mirò/1AFAETDfgtQ_mg"
+        "name": "Saint Wenceslas at the Vintage, Attended by Angels and Putti",
+        "path": "img/art/artworks/franz-anton-maulbertsch-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-wenceslas-at-the-vintage-attended-by-angels-and-putti-franz-anton-maulbertsch/DAEO8YiWOqn3uQ"
       },
       {
-        "name": "Composition (Painting)",
-        "path": "img/art/artworks/joan-miro-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/composition-painting-joan-miró/rQHJQpiFRKnEtw"
+        "name": "The Glorification of the Union of the Houses of Hapsburg and Lorraine",
+        "path": "img/art/artworks/franz-anton-maulbertsch-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-glorification-of-the-union-of-the-houses-of-hapsburg-and-lorraine-franz-anton-maulbertsch/SAFRyUI1VX_YMA"
       },
       {
-        "name": "The Rooster",
-        "path": "img/art/artworks/joan-miro-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-rooster-joan-miró/6gECVMFVB7E05w"
+        "name": "The Adoration of the Shepherds",
+        "path": "img/art/artworks/franz-anton-maulbertsch-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-adoration-of-the-shepherds-franz-anton-maulbertsch/QgERJq0msT9Nhg"
       },
       {
-        "name": "New York Subway Guide",
-        "path": "img/art/artworks/joan-miro-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/new-york-subway-guide-vignelli-massimo/sAETa6kF-2qJmg"
+        "name": "Apotheosis of Saint Stanislaus",
+        "path": "img/art/artworks/franz-anton-maulbertsch-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/apotheosis-of-saint-stanislaus-franz-anton-maulbertsch/CwFTC0HmzXrZhQ"
       },
       {
-        "name": "The Tapestry of Tarragona",
-        "path": "img/art/artworks/joan-miro-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-tapestry-of-tarragona-joan-miró-josep-royo/2wELxZVsNvZYvw"
+        "name": "St. Paul the Apostle",
+        "path": "img/art/artworks/franz-anton-maulbertsch-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/st-paul-the-apostle/LQEsmrJ7RvfRhA"
       },
       {
-        "name": "Self Portrait II",
-        "path": "img/art/artworks/joan-miro-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/self-portrait-ii-joan-miro/twEfBWJi3-1vAQ"
+        "name": "The Last Supper",
+        "path": "img/art/artworks/franz-anton-maulbertsch-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/the-last-supper-maulbertsch-franz-anton-1724–1796/tgEM-yozCDFgMg"
       }
     ],
     "summary": [
-      "Joan Miró i Ferrà was a Spanish painter, sculptor, and ceramicist born in Barcelona. A museum dedicated to his work, the Fundació Joan Miró, was established in his native city of Barcelona in 1975, and another, the Fundació Pilar i Joan Miró, was established in his adoptive city of Palma de Mallorca in 1981.",
-      "Earning international acclaim, his work has been interpreted as Surrealism, a sandbox for the subconscious mind, a re-creation of the childlike, and a manifestation of Catalan pride. In numerous interviews dating from the 1930s onwards, Miró expressed contempt for conventional painting methods as a way of supporting bourgeois society, and declared an \"assassination of painting\" in favour of upsetting the visual elements of established painting."
+      "Franz Anton Maulbertsch was an Austrian painter and engraver, one of the most renowned exponents of roccoco painting in the German region.",
+      "Maulbertsch was born in Langenargen and studied in the Academy of Vienna. Through the knowledge of Paul Troger, he was influenced by the Venetian painters Piazzetta and Giovanni Battista Pittoni. He also studied the frescoes by Sebastiano Ricci in the Schönbrunn Palace in Vienna, and frequented Giambattista Tiepolo, who was active in Würzburg starting from 1750.",
+      "An appreciated frescoer, he received numerous commissions, mostly of ecclesiastical theme. He produced art for churches in Bicske, Kalocsa, Vienna’s Michaelerkirche and Piaristenkirche Maria Treu. He also decorated the Porta Coeli in Moravia, the Kroměříž Archbishop's Palace and the villa of Halbturn.",
+      "He also painted a portrait of Narcissus of Jerusalem.",
+      "He died at Vienna in 1796."
     ],
-    "quote": "“I try to apply colors like words that shape poems, like notes that shape music.”",
-    "movements": ["Modern art", "Surrealism", "Dada", "Abstract art", "Contemporary art"],
-    "mediums": ["Oil paint", "Hessian fabric", "Clay", "Watercolor painting", "Rock", "Varnish"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Joan_Mir%C3%B3",
-    "urlGoogle": "https://artsandculture.google.com/entity/joan-miró/m0g_6k"
+    "quote": null,
+    "movements": [],
+    "mediums": ["Laid paper", "Etching", "Ink", "Drawing", "Oil paint", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Franz_Anton_Maulbertsch",
+    "urlGoogle": "https://artsandculture.google.com/entity/franz-anton-maulbertsch/m03d2p32"
   },
   "event": {
-    "id": "italian-war-of-1551-1559",
-    "name": "Italian War of 1551–1559",
-    "dates": "1551 - 1559",
-    "mainImg": "img/events/italian-war-of-1551-1559.jpg",
+    "id": "occupation-of-poland",
+    "name": "Occupation of Poland",
+    "dates": "September 1939 - May 1945",
+    "mainImg": "img/events/occupation-of-poland.jpg",
     "summary": [
-      "The Italian War of 1551–1559, sometimes known as the Habsburg–Valois War and the Last Italian War, began when Henry II of France, who had succeeded Francis I to the throne, declared war against Holy Roman Emperor Charles V with the intent of recapturing Italy and ensuring French, rather than Habsburg, domination of European affairs. Historians have emphasized the importance of gunpowder technology, new styles of fortification to resist cannon fire, and the increased professionalization of the soldiers."
+      "The occupation of Poland by Nazi Germany and the Soviet Union during World War II (1939–1945) began with the German-Soviet invasion of Poland in September 1939, and it was formally concluded with the defeat of Germany by the Allies in May 1945. Throughout the entire course of the occupation, the territory of Poland was divided between Nazi Germany and the Soviet Union both of which intended to eradicate Poland's culture and subjugate its people. In the summer-autumn of 1941, the lands which were annexed by the Soviets were overrun by Germany in the course of the initially successful German attack on the USSR. After a few years of fighting, the Red Army drove the German forces out of the USSR and crossed into Poland from the rest of Central and Eastern Europe.",
+      "Sociologist Tadeusz Piotrowski argues that both occupying powers were hostile to the existence of Poland's sovereignty, people, and the culture and aimed to destroy them. Before Operation Barbarossa, Germany and the Soviet Union coordinated their Poland-related policies, most visibly in the four Gestapo–NKVD conferences, where the occupiers discussed their plans to deal with the Polish resistance movement"
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Italian_War_of_1551%E2%80%931559",
-    "urlGoogle": "https://artsandculture.google.com/entity/italian-war-of-1551–1559/m08l1cw"
+    "urlWiki": "https://en.wikipedia.org/wiki/Occupation_of_Poland_%281939%E2%80%931945%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/occupation-of-poland/m010hlnk2"
   },
   "funFacts": [
-    { "id": "372", "fact": "A housefly hums in the key of F.", "category": ["Animals"] },
-    { "id": "441", "fact": "Jousting is the official sport of Maryland", "category": ["Geography"] }
-  ],
-  "funFacts2": [
     {
-      "id": "553506",
-      "fact": "Veterans Stadium, former home of the Philadelphia Eagles, featured a courtroom for handling rowdy fans."
+      "id": "193",
+      "fact": "The year that read the same upside down was 1961. That won't happen again until 6009.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "74",
+      "fact": "You share your birthday with at least 9 million other people in the world.",
+      "category": ["Hodgepodge"]
     }
   ],
+  "funFacts2": [
+    { "id": "554055", "fact": "The average cumulus cloud weighs roughly 1.1 million pounds." }
+  ],
   "idiom": {
-    "id": "stamping-ground",
-    "term": "stamping ground",
-    "definition": "Also, **old stamping ground, stomping ground.** A habitual or favorite haunt, as in *Whenever we visit, we go back to our old stamping ground, the drugstore nearest the high school.* This term alludes to a traditional gathering place for horses or cattle, which stamp down the ground with their hooves. [Early 1800s]"
+    "id": "chew-the-fat",
+    "term": "chew the fat",
+    "definition": "Also, **chew the rag.** Chat in a friendly, leisurely way, as in *Let's get together for coffee and chew the fat,* or *John and Dave spend hours just chewing the rag.* Before the 1880s in Britain, *chew the fat* meant \"to grumble or complain,\" and *chew the rag* also has been used in this way. Today both expressions are largely synonyms for a friendly talk or gossip session. Why this idiom uses *fat* and *rag* is not known, but some speculate that *fat* refers to juicy items of gossip and *rag* to ladies' sewing circles and the cloth they worked on while chatting."
   },
   "person": {
-    "id": "ramon-magsaysay",
-    "name": "Ramon Magsaysay",
-    "dates": "Aug 31, 1907 - Mar 17, 1957",
-    "mainImg": "img/people/ramon-magsaysay.jpg",
+    "id": "heydar-aliyev",
+    "name": "Heydar Aliyev",
+    "dates": "May 10, 1923 - Dec 12, 2003",
+    "mainImg": "img/people/heydar-aliyev.jpg",
     "summary": [
-      "Ramon del Fierro Magsaysay Sr. KGE GCC QSC MGH was a Filipino statesman who served as the seventh President of the Philippines, from December 30, 1953 until his death in an aircraft disaster. An automobile mechanic by profession, Magsaysay was appointed military governor of Zambales after his outstanding service as a guerilla leader during the Pacific War. He then served two terms as Liberal Party congressman for Zambales before being appointed Secretary of National Defense by President Elpidio Quirino. He was elected president under the banner of the Nacionalista Party.",
-      "He was the first Philippine president born during the 20th century and the first to be born after the Spanish colonial era."
-    ],
-    "quote": "“The mistake the world is making with the simple peoples is to try and hurry them into political concepts they don't understand and aren't prepared to cope with. I know. I am a peasant myself. ... I say, Spit on the big, fancy schemes. I want all the little things first. Then perhaps we can get on to the bigger things.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Ramon_Magsaysay",
-    "urlGoogle": "https://artsandculture.google.com/entity/ramon-magsaysay/m022llj"
-  },
-  "place": {
-    "id": "senegal",
-    "name": "Senegal",
-    "mainImg": "img/places/senegal.jpg",
-    "summary": [
-      "Senegal, officially the Republic of Senegal, is a country in West Africa. Senegal is bordered by Mauritania in the north, Mali to the east, Guinea to the southeast, and Guinea-Bissau to the southwest. Senegal also surrounds The Gambia, a country occupying a narrow sliver of land along the banks of the Gambia River, which separates Senegal's southern region of Casamance from the rest of the country. Senegal also shares a maritime border with Cape Verde. Senegal's economic and political capital is Dakar.",
-      "It is a unitary presidential republic and is the westernmost country in the mainland of the Old World, or Afro-Eurasia. It owes its name to the Senegal River which borders it to the east and north. Senegal covers a land area of almost 197,000 square kilometres and has a population of around 16 million. The state was formed as part of the independence from French colonial rule. Because of this history, the official language is French. Like other post-colonial African states, the country includes a wide mix of ethnic and linguistic communities, with the largest being the Wolof people and the Wolof language acting as a lingua franca."
+      "Heydar Alirza oglu Aliyev was an Azerbaijani politician who served as the third President of Azerbaijan from October 1993 to October 2003. As national president he held constitutional powers, but his influence on Azerbaijani politics had begun years earlier. As a young man he had joined the Azerbaijan SSR People's Commissariat for State Security and quickly rose to the rank of Major-General.",
+      "The regime established by Heydar Aliyev in Azerbaijan has been described as dictatorial, authoritarian, and repressive. Political commentators highlight that Aliyev ran a heavy-handed police state, that he rigged elections and muzzled the media whereas others emphasize that his balanced policy brought stability to Azerbaijan."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Senegal",
-    "urlGoogle": "https://artsandculture.google.com/entity/senegal/m06srk"
+    "urlWiki": "https://en.wikipedia.org/wiki/Heydar_Aliyev",
+    "urlGoogle": "https://artsandculture.google.com/entity/heydar-aliyev/m023q8s"
+  },
+  "place": {
+    "id": "nimes",
+    "name": "Nîmes",
+    "mainImg": "img/places/nimes.jpg",
+    "summary": [
+      "Nîmes is a city in the Occitanie region of southern France. It is the capital of the Gard department. Nîmes is located between the Mediterranean Sea and the Cévennes mountains. The estimated population of Nîmes is 151,001.",
+      "Dubbed the most Roman city outside Italy, Nîmes has a rich history dating back to the Roman Empire when the city was a regional capital, and home to 50,000–60,000 people. Several famous monuments are in Nîmes, such as the Arena of Nîmes and the Maison Carrée. Because of this, Nîmes is often referred to as the French Rome."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/N%C3%AEmes",
+    "urlGoogle": "https://artsandculture.google.com/entity/nîmes/m0pzcv"
   },
   "quote": {
-    "id": "104",
-    "quote": "Wisdom tends to grow in proportion to one’s awareness of one’s ignorance.",
-    "author": "Anthony de Mello"
+    "id": "21",
+    "quote": "Unless you try to do something beyond what you have already mastered, you will never grow.",
+    "author": "Ralph Waldo Emerson"
   },
   "wiki": {
-    "id": "invasion-of-tulagi-may-1942",
-    "name": "Invasion of Tulagi (May 1942)",
-    "summary": "The invasion of Tulagi, on 3–4 May 1942, was part of Operation Mo, the Empire of Japan's strategy in the South Pacific and South West Pacific Area in 1942. The plan called for Imperial Japanese Navy troops to capture Tulagi and nearby islands in the Solomon Islands Protectorate. The occupation of Tulagi by the Japanese was intended to cover the flank of and provide reconnaissance support for Japanese forces that were advancing on Port Moresby in New Guinea, provide greater defensive depth for the major Japanese base at Rabaul, and serve as a base for Japanese forces to threaten and interdict the supply and communication routes between the United States and Australia and New Zealand. Without the means to resist the Japanese offensive capably in the Solomons, the British Resident Commissioner and the few Australian troops assigned to defend Tulagi evacuated just before the Japanese forces arrived on 3 May. Despite considerable losses inflicted by carrier-based American planes, the Japanese occupied the islands.",
-    "url": "https://en.wikipedia.org/wiki/Invasion_of_Tulagi_(May_1942)"
+    "id": "united-states-academic-decathlon",
+    "name": "United States Academic Decathlon",
+    "summary": "The United States Academic Decathlon is an annual high school academic competition organized by the non-profit United States Academic Decathlon Association. Created by Robert Peterson in Orange County, California, for local schools in 1968 and expanded to a nationwide setting in 1981, the competition consists of seven thematically linked multiple choice tests in art, economics, language and literature, math, music, science and social science, as well as three subjective events graded by judges: essay, interview and speech. Teams generally consist of nine members, who are divided into three divisions based on grade point average. Each team member competes in all ten events against other students in his or her division, and team scores are calculated using the top two overall individual scores from each team in all three divisions. To earn a spot at the national competition in April, teams must advance through local, regional, and state competitions. Online competitions, separated into small, medium, and large categories, are also offered.",
+    "url": "https://en.wikipedia.org/wiki/United_States_Academic_Decathlon"
   },
   "word": {
-    "id": "nictitate",
-    "word": "nictitate",
-    "url": "https://www.merriam-webster.com/dictionary/nictitate",
-    "partOfSpeech": "verb",
-    "pronunciation": "NIK-tuh-tayt",
-    "audioPath": "audio/words/nictitate.mp3",
-    "definitions": ["wink"],
-    "examples": [
-      "Timothy developed a tic in his eyelid that caused it to _nictitate_ on occasion.",
-      "\"Their clear eyelids slowly _nictitated_ over black orb eyes.\" -- From Barb and J.C. Hendee's 2011 novel _Through Stone and Sea_"
+    "id": "sartorial",
+    "word": "sartorial",
+    "url": "https://www.merriam-webster.com/dictionary/sartorial",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sahr-TOR-ee-ul",
+    "audioPath": "audio/words/sartorial.mp3",
+    "definitions": [
+      "of or relating to a tailor or tailored clothes; broadly : of or relating to clothes"
     ],
-    "origin": "\"Nictitate\" didn't just happen in the blink of an eye; it developed over time as an alteration of the older verb \"nictate,\" which also means \"to wink.\" Both verbs trace to the Latin word for winking, \"nictare.\" The addition of the extra syllable was apparently influenced by Latin verbs ending in \"-itare,\" such as \"palpitare\" and \"agitare\" (which gave us \"palpitate\" and \"agitate,\" respectively). Today, \"nictitate\" has a special use in the animal world. Since the early 18th century, scientists have used \"nictitating membrane\" to describe the so-called \"third eyelid\": the thin, usually transparent membrane in the eyes of birds, fishes, and other vertebrates that helps keep the eyeball moist and clean."
+    "examples": [
+      "Since Daniel was well-known for his impeccable _sartorial_ taste, I asked him for help in upgrading my own wardrobe.",
+      "\"Her truck, specializing in clothes for plus-size women, is one of the mobile fashion retailers-the _sartorial_ cousins to food trucks-that have taken to Washington area streets over the past year and a half.\" - From an article by Stephanie Merry in _The Washington Post_, April 16, 2014"
+    ],
+    "origin": "It's easy to uncover the root of \"sartorial.\" Just strip off the suffix \"-ial\" and you discover the Latin noun \"sartor,\" meaning \"tailor\" (literally, \"one who patches or mends\"). Sartorial splendor has been the stuff of voguish magazines for years, and even \"sartor\" itself has occasionally proven fashionable, as it did in 1843, when Oliver Wendell Holmes wrote of \"coats whose memory turns the sartor pale,\" or in the 1870 title _The Sartor, or British journal of cutting, clothing, and fashion_. \"Sartorial\" has been in style with English speakers since at least 1823."
   }
 }

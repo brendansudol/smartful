@@ -1,0 +1,120 @@
+{
+  "artist": {
+    "id": "masaccio",
+    "name": "Masaccio",
+    "dates": "Dec 21, 1401 - 1428",
+    "mainImg": "img/art/artists/masaccio.jpg",
+    "artworkImgs": [
+      {
+        "name": "Saint Anne 'Metterza'",
+        "path": "img/art/artworks/masaccio-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-anne-metterza-masaccio-masolino-cassai-fini/3AEld4jAUGSYPg"
+      },
+      {
+        "name": "Crucifixion",
+        "path": "img/art/artworks/masaccio-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/crucifixion-masaccio-tommaso-di-ser-giovanni-di-mone-cassai/kwHRfiWPcAMnGw"
+      },
+      {
+        "name": "Saint Andrew",
+        "path": "img/art/artworks/masaccio-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/saint-andrew/4AEKNkaCT8hsjA"
+      },
+      {
+        "name": "Saints Paul and Peter",
+        "path": "img/art/artworks/masaccio-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/saints-paul-and-peter-masaccio-tommaso-di-ser-giovanni-cassai-italian-active-florence-and-rome-1401-1428-29/rwGRZTU26EXaWg"
+      },
+      {
+        "name": "Free Copy of Giotto's Navicella (recto); Copy of Adam in Masaccio's Expulsion from the Garden of Eden, and other Figure Studies (verso)",
+        "path": "img/art/artworks/masaccio-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/free-copy-of-giotto-s-navicella-recto-copy-of-adam-in-masaccio-s-expulsion-from-the-garden-of-eden-and-other-figure-studies-verso-parri-spinelli-masaccio-tommaso-di-ser-giovanni-di-mone-casai/9QGzV2bybJvy_g"
+      }
+    ],
+    "summary": [
+      "Masaccio, born Tommaso di Ser Giovanni di Simone, was a Florentine artist who is regarded as the first great Italian painter of the Quattrocento period of the Italian Renaissance. According to Vasari, Masaccio was the best painter of his generation because of his skill at imitating nature, recreating lifelike figures and movements as well as a convincing sense of three-dimensionality. He employed nudes and foreshortenings in his figures. This had seldom been done before him.",
+      "The name Masaccio is a humorous version of Maso, meaning \"clumsy\" or \"messy\" Tom. The name may have been created to distinguish him from his principal collaborator, also called Maso, who came to be known as Masolino.",
+      "Despite his brief career, he had a profound influence on other artists and is considered to have started the Early Italian Renaissance in painting with his works in the mid- and late-1420s. He was one of the first to use linear perspective in his painting, employing techniques such as vanishing point in art for the first time."
+    ],
+    "quote": null,
+    "movements": ["Italian Renaissance", "Renaissance"],
+    "mediums": ["Tempera", "Gold", "Metal", "Drawing", "Gold leaf", "Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Masaccio",
+    "urlGoogle": "https://artsandculture.google.com/entity/masaccio/m07n29"
+  },
+  "event": {
+    "id": "sukhoi",
+    "name": "Sukhoi",
+    "dates": null,
+    "mainImg": "img/events/sukhoi.jpg",
+    "summary": [
+      "The JSC Sukhoi Company is a major Soviet and now Russian aircraft manufacturer, headquartered in Begovoy District, Northern Administrative Okrug, Moscow, that designs both civilian and military aircraft. It was founded by Pavel Sukhoi in 1939 as the Sukhoi Design Bureau. During February 2006, the Russian government merged Sukhoi with Mikoyan, Ilyushin, Irkut, Tupolev, and Yakovlev as a new company named United Aircraft Corporation."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Sukhoi",
+    "urlGoogle": "https://artsandculture.google.com/entity/sukhoi/m02rm8f"
+  },
+  "funFacts": [
+    {
+      "id": "64",
+      "fact": "Strawberries contain more vitamin C than oranges.",
+      "category": ["Food"]
+    },
+    { "id": "771", "fact": "Some dinosaurs were as small as chickens.", "category": ["Animals"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "554063",
+      "fact": "Louis Braille was 12 years old when he began transforming a method of silent communication used by the French military into a language that allows blind people to read."
+    }
+  ],
+  "person": {
+    "id": "adlai-stevenson-ii",
+    "name": "Adlai Stevenson II",
+    "dates": "Feb 5, 1900 - Jul 14, 1965",
+    "mainImg": "img/people/adlai-stevenson-ii.jpg",
+    "summary": [
+      "Adlai Ewing Stevenson II was an American lawyer, politician, and diplomat.",
+      "Raised in Bloomington, Illinois, he was a member of the Democratic Party. He served in numerous positions in the federal government during the 1930s and 1940s, including the Agricultural Adjustment Administration, Federal Alcohol Administration, Department of the Navy, and the State Department. In 1945, he served on the committee that created the United Nations, and he was a member of the initial U.S. delegations to the UN. He was the 31st governor of Illinois from 1949 to 1953, and received the Democratic Party's nomination for president in the 1952 and 1956 elections.",
+      "In both the 1952 and 1956 elections, Stevenson was defeated in landslides by Republican Dwight D. Eisenhower. He unsuccessfully sought the Democratic presidential nomination for a third time at the 1960 Democratic National Convention. After his election, President John F. Kennedy appointed Stevenson as the United States Ambassador to the United Nations. He served from 1961 until his death in 1965 from a heart attack in London, following a United Nations conference in Switzerland."
+    ],
+    "quote": "“Every age needs men who will redeem the time by living with a vision of the things that are to be.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Adlai_Stevenson_II",
+    "urlGoogle": "https://artsandculture.google.com/entity/adlai-stevenson-ii/m0dvsj"
+  },
+  "place": {
+    "id": "ahmedabad",
+    "name": "Ahmedabad",
+    "mainImg": "img/places/ahmedabad.jpg",
+    "summary": [
+      "Ahmedabad is the largest city and former capital of the Indian state of Gujarat. It is the administrative headquarters of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabad's population of 5,633,927 makes it the fifth-most populous city in India, and the encompassing urban agglomeration population estimated at 6,357,693 is the seventh-most populous in India. Ahmedabad is located on the banks of the Sabarmati River, 23 km from the state capital Gandhinagar, which is its twin city.",
+      "Ahmedabad has emerged as an important economic and industrial hub in India. It is the second-largest producer of cotton in India, and its stock exchange is the country's second oldest. Cricket is a popular sport in Ahmedabad. A newly-built Sardar Patel Stadium at Motera can accommodate 110,000 spectators. The effects of liberalisation of the Indian economy have energised the city's economy towards tertiary sector activities such as commerce, communication and construction. Ahmedabad's increasing population has resulted in an increase in the construction and housing industries resulting in recent development of skyscrapers."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ahmedabad",
+    "urlGoogle": "https://artsandculture.google.com/entity/ahmedabad/m01d88c"
+  },
+  "wiki": {
+    "id": "a-vindication-of-the-rights-of-men",
+    "name": "A Vindication of the Rights of Men",
+    "summary": "A Vindication of the Rights of Men is a 1790 political pamphlet, written by the eighteenth-century British feminist Mary Wollstonecraft, which attacks aristocracy and advocates republicanism. Wollstonecraft's was the first response in a pamphlet war sparked by the publication of Edmund Burke's Reflections on the Revolution in France, a defence of constitutional monarchy, aristocracy, and the Church of England. Wollstonecraft not only attacked hereditary privilege but also the rhetoric that Burke used to defend it. Most of Burke's detractors deplored what they viewed as his theatrical pity for Marie Antoinette but Wollstonecraft was unique in her attack on Burke's gendered language. By redefining the sublime and the beautiful, terms first established by Burke himself in A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful (1756), she undermined his rhetoric as well as his argument.",
+    "url": "https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Men"
+  },
+  "word": {
+    "id": "doldrums",
+    "word": "doldrums",
+    "url": "https://www.merriam-webster.com/dictionary/doldrums",
+    "partOfSpeech": "noun",
+    "pronunciation": "DOHL-drumz",
+    "audioPath": "audio/words/doldrums.mp3",
+    "definitions": [
+      "a spell of listlessness or despondency",
+      "a part of the ocean near the equator abounding in calms, squalls, and light shifting winds",
+      "a state or period of inactivity, stagnation, or slump"
+    ],
+    "examples": [
+      "\"A vacation on a tropical island could be just the thing you need to fight against the winter doldrums,\" said Christine as she handed me the resort's brochure."
+    ],
+    "origin": "Everyone gets the doldrums -- a feeling of low spirits and lack of energy -- every once in a while. The doldrums experienced by sailors, however, are usually of a different variety. In the mid-19th century, the word once reserved for a feeling of despondency came to be applied to certain tropical regions of the ocean marked by the absence of strong winds. Sailing vessels, reliant on wind propulsion, struggled to make headway in these regions, leading to long, arduous journeys. The exact etymology of \"doldrums\" is not certain, though it is believed to be related to the Old English \"dol,\" meaning \"foolish\" -- a history it shares with our adjective \"dull.\""
+  }
+}

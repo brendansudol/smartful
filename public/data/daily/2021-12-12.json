@@ -1,0 +1,136 @@
+{
+  "artist": {
+    "id": "helio-oiticica",
+    "name": "Hélio Oiticica",
+    "dates": "Jul 26, 1937 - Mar 22, 1980",
+    "mainImg": "img/art/artists/helio-oiticica.jpg",
+    "artworkImgs": [
+      {
+        "name": "Metaesquema n.225",
+        "path": "img/art/artworks/helio-oiticica-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/metaesquema-n-225-hélio-oiticica/EwEUtdZO44HUOw"
+      },
+      {
+        "name": "Be an Outsider, Be a Hero",
+        "path": "img/art/artworks/helio-oiticica-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/be-an-outsider-be-a-hero-hélio-oiticica/bQFoNAZW0x6VzQ"
+      },
+      {
+        "name": "Vermelho cortando o branco",
+        "path": "img/art/artworks/helio-oiticica-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/vermelho-cortando-o-branco/5AFjviUzXt9k9g"
+      },
+      {
+        "name": "Invenção da cor, Penetrável Magic square # 5, De luxe",
+        "path": "img/art/artworks/helio-oiticica-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/invenção-da-cor-penetrável-magic-square-5-de-luxe/fAG62uw7F5Z5Uw"
+      },
+      {
+        "name": "Relevo espacial",
+        "path": "img/art/artworks/helio-oiticica-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/relevo-espacial/uwHnJrlSr7xopQ"
+      },
+      {
+        "name": "Metaesquema 12",
+        "path": "img/art/artworks/helio-oiticica-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/metaesquema-12/HgGFKGwgE70Fug"
+      }
+    ],
+    "summary": [
+      "Hélio Oiticica was a Brazilian visual artist, sculptor, painter, performance artist, and theorist, best known for his participation in the Neo-Concrete Movement, for his innovative use of color, and for what he later termed \"environmental art\", which included Parangolés and Penetrables, like the famous Tropicália. Oiticica was also a filmmaker and writer."
+    ],
+    "quote": null,
+    "movements": ["Modern art", "Contemporary art", "Conceptual art"],
+    "mediums": [
+      "Cardboard",
+      "Ink",
+      "Photograph",
+      "Watercolor painting",
+      "Photographic paper",
+      "Concrete"
+    ],
+    "urlWiki": "https://en.wikipedia.org/wiki/H%C3%A9lio_Oiticica",
+    "urlGoogle": "https://artsandculture.google.com/entity/hélio-oiticica/m02rxfvt"
+  },
+  "event": {
+    "id": "battle-of-plymouth",
+    "name": "Battle of Plymouth",
+    "dates": null,
+    "mainImg": "img/events/battle-of-plymouth.jpg",
+    "summary": [
+      "The Battle of Plymouth was a naval battle in the First Anglo-Dutch War. It took place on 16 August 1652 and was a short battle, but had the unexpected outcome of a Dutch victory over England. General-at-Sea George Ayscue of the Commonwealth of England attacked an outward bound convoy of the Dutch Republic commanded by Vice-Commodore Michiel de Ruyter. The two commanders had been personal friends before the war.",
+      "The Dutch were able to force Ayscue to break off the engagement, and the Dutch convoy sailed safely to the Atlantic while Ayscue sailed to Plymouth for repairs."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Plymouth",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-plymouth/m03lt0w"
+  },
+  "funFacts": [
+    {
+      "id": "384",
+      "fact": "Each year, the average person walks the distance from NY to Miami.",
+      "category": ["Geography", "Habits"]
+    },
+    {
+      "id": "107",
+      "fact": "You burn more calories sleeping than watching TV.",
+      "category": ["Habits"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "504823",
+      "fact": "The Square Dance is the official state dance (or folk dance) of 24 states."
+    }
+  ],
+  "person": {
+    "id": "giuseppe-garibaldi",
+    "name": "Giuseppe Garibaldi",
+    "dates": "Jul 4, 1807 - Jun 2, 1882",
+    "mainImg": "img/people/giuseppe-garibaldi.jpg",
+    "summary": [
+      "Giuseppe Maria Garibaldi was an Italian general, patriot, and republican. He contributed to the Italian unification and the creation of the Kingdom of Italy.",
+      "He is considered to be one of Italy's \"fathers of the fatherland\", along with Camillo Benso, Count of Cavour, Victor Emmanuel II of Italy and Giuseppe Mazzini. Garibaldi is also known as the \"Hero of the Two Worlds\" because of his military enterprises in South America and Europe.",
+      "Garibaldi was a follower of the Italian nationalist Mazzini, and embraced the republican nationalism of the Young Italy movement. He became a supporter of Italian unification under a democratic Republican government. After participating in an uprising in Piedmont, he was sentenced to death, but escaped by sailing to South America; he spent 14 years in exile, taking part in several wars and learning the art of guerrilla warfare.",
+      "In 1835, in Brazil, he took up the cause of the Riograndense Republic in its attempt to proclaim another republic within Santa Catarina, joining the rebels known as the Farrapos."
+    ],
+    "quote": "“Give me the ready hand rather than the ready tongue.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Giuseppe_Garibaldi",
+    "urlGoogle": "https://artsandculture.google.com/entity/giuseppe-garibaldi/m096vr"
+  },
+  "place": {
+    "id": "ottawa",
+    "name": "Ottawa",
+    "mainImg": "img/places/ottawa.jpg",
+    "summary": [
+      "Ottawa is the capital city of Canada. It stands on the south bank of the Ottawa River in the eastern portion of southern Ontario. Ottawa borders Gatineau, Quebec, and forms the core of the Ottawa–Gatineau census metropolitan area and the National Capital Region. As of 2016, Ottawa had a city population of 934,243 and a metropolitan population of 1,323,783 making it the fourth-largest city and the fifth-largest CMA in Canada. In June 2019, the City of Ottawa estimated it had surpassed a population of a million.",
+      "Founded in 1826 as Bytown, and incorporated as Ottawa in 1855, the city has evolved into the political centre of Canada. Its original boundaries were expanded through numerous annexations and were ultimately replaced by a new city incorporation and amalgamation in 2001 which significantly increased its land area. The city name \"Ottawa\" was chosen in reference to the Ottawa River, the name of which is derived from the Algonquin Odawa, meaning \"to trade\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ottawa",
+    "urlGoogle": "https://artsandculture.google.com/entity/ottawa/m05ksh"
+  },
+  "wiki": {
+    "id": "acrocanthosaurus",
+    "name": "Acrocanthosaurus",
+    "summary": "Acrocanthosaurus is a genus of theropod dinosaur that existed in what is now North America during the Aptian and early Albian stages of the Early Cretaceous. Like most dinosaur genera, Acrocanthosaurus contains only a single species, A. atokensis. Its fossil remains are found mainly in the U.S. states of Oklahoma and Texas, although teeth attributed to Acrocanthosaurus have been found as far east as Maryland. Acrocanthosaurus was a bipedal predator, best known for the high neural spines on many of its vertebrae, which most likely supported a ridge of muscle over the animal's neck, back and hips. Approaching 12 meters (40 ft) in length, and weighing up to 6.17 metric tons (6.8 short tons), it was the largest theropod in its ecosystem and likely an apex predator, possibly preying on large sauropods and ornithopods.",
+    "url": "https://en.wikipedia.org/wiki/Acrocanthosaurus"
+  },
+  "word": {
+    "id": "vernal",
+    "word": "vernal",
+    "url": "https://www.merriam-webster.com/dictionary/vernal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "VER-nul",
+    "audioPath": "audio/words/vernal.mp3",
+    "definitions": [
+      "of, relating to, or occurring in the spring",
+      "fresh or new like the spring; also : youthful"
+    ],
+    "examples": [
+      "This time of the year, I enjoy getting out for morning walks to take in the crisp, clean _vernal_ air.",
+      "\"Spend the morning learning about aquatic life found in _vernal_ pools. _Vernal_ pools may be dry in summer, but in the spring they are filled with life-sustaining water. This is when the peepers and wood frogs start croaking, and salamanders arrive under cover of rain and darkness to breed.\" - From an article by David Colberg in _The Hartford_ (Connecticut) _Courant_, April 3, 2013"
+    ],
+    "origin": "If you want to sound sophisticated this spring, you can do what various learned individuals have done since the 16th century and refer to the spring equinox as the vernal equinox. You might also alter a classic rhyme to chant \"Vernal showers bring May flowers.\" Or if you really want to wax poetic, you could compliment your lass's vernal grace or your beau's vernal charm. If you do, and your sweetheart asks where such a word comes from, you can further impress by saying, \"'Vernal,' my dear, comes from the Latin 'vernalis,' which is derived from the Latin word for spring, 'ver.'\""
+  }
+}

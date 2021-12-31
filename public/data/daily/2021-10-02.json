@@ -1,116 +1,131 @@
 {
   "artist": {
-    "id": "kamal-ud-din-behzad",
-    "name": "Kamāl ud-Dīn Behzād",
-    "dates": "1450 - 1535",
-    "mainImg": "img/art/artists/kamal-ud-din-behzad.jpg",
+    "id": "antonio-berni",
+    "name": "Antonio Berni",
+    "dates": "May 14, 1905 - Oct 13, 1981",
+    "mainImg": "img/art/artists/antonio-berni.jpg",
     "artworkImgs": [
       {
-        "name": "\"Dancing Dervishes\", Folio from a Divan of Hafiz",
-        "path": "img/art/artworks/kamal-ud-din-behzad-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/dancing-dervishes-folio-from-a-divan-of-hafiz-bihzad-hafiz/4wHg9uqRZiHqnw"
+        "name": "Juanito Laguna Brings a Meal to his Father, a Metalworker",
+        "path": "img/art/artworks/antonio-berni-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/juanito-laguna-brings-a-meal-to-his-father-a-metalworker-antonio-berni/ZQH1LEQMJUKC8A"
       },
       {
-        "name": "Folio from a Khamsa (Quintet) by Amir Khusraw Dihlavi (d. 1325); The abduction by sea",
-        "path": "img/art/artworks/kamal-ud-din-behzad-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/folio-from-a-khamsa-quintet-by-amir-khusraw-dihlavi-d-1325-the-abduction-by-sea-artist-attributed-to-kamal-al-din-bihzad/LAEesArrqRksbQ"
+        "name": "Detrás de la cortina [Behind the Curtain]",
+        "path": "img/art/artworks/antonio-berni-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/detrás-de-la-cortina-behind-the-curtain-antonio-berni/awHNbdfiu3-igg"
       },
       {
-        "name": "Folio from an Anthology; Frontispiece: an old man and a youth in a mountain landscape",
-        "path": "img/art/artworks/kamal-ud-din-behzad-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/folio-from-an-anthology-frontispiece-an-old-man-and-a-youth-in-a-mountain-landscape-artist-kamal-al-din-bihzad/fAFaGKnzr5tW9g"
+        "name": "Juanito Laguna aprende a leer",
+        "path": "img/art/artworks/antonio-berni-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/juanito-laguna-aprende-a-leer/ZAEUwwDX_LsbOA"
       },
       {
-        "name": "Anthology with works by Jalal ad-Din Rumi (d.1273), Nizami (d. 1209), Sa'di (d.1292) and Sana'i (d. 1131 or 1140)",
-        "path": "img/art/artworks/kamal-ud-din-behzad-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/anthology-with-works-by-jalal-ad-din-rumi-d-1273-nizami-d-1209-sa-di-d-1292-and-sana-i-d-1131-or-1140-calligrapher-mir-ali-husayni-calligrapher-sultan-muhammad-nur-calligrapher-muhammad-qasim-ibn-shadishah-calligrapher-sultan-muhammad-khandan-calligrapher-mawlana-shaykh-mahmud-artist-kamal-al-din-bihzad-patron-wazir-khawja-malik-ahmad/IwG0K-czWfFYiw"
+        "name": "Primeros pasos",
+        "path": "img/art/artworks/antonio-berni-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/primeros-pasos/FwEW9NLNAHT4Rg"
+      },
+      {
+        "name": "El matador",
+        "path": "img/art/artworks/antonio-berni-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/el-matador/-AHFnbSishh6Lw"
+      },
+      {
+        "name": "El matador",
+        "path": "img/art/artworks/antonio-berni-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/el-matador-antonio-berni/kwEK_W41bAlmnw"
       }
     ],
     "summary": [
-      "Kamāl ud-Dīn Behzād, also known as Kamal al-din Bihzad or Kamaleddin Behzad, was a Persian painter and head of the royal ateliers in Herat and Tabriz during the late Timurid and early Safavid Persian periods."
+      "Delesio Antonio Berni was an Argentine figurative artist. He is associated with the movement known as Nuevo Realismo, a Latin American extension of social realism. His work, including a series of Juanito Laguna collages depicting poverty and the effects of industrialization in Buenos Aires, has been exhibited around the world."
     ],
     "quote": null,
-    "movements": [],
-    "mediums": ["Gold", "Metal", "Watercolor painting", "Ink", "Leather"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Kam%C4%81l_ud-D%C4%ABn_Behz%C4%81d",
-    "urlGoogle": "https://artsandculture.google.com/entity/kamāl-ud-dīn-behzād/m05jrdy"
+    "movements": [
+      "Social realism",
+      "Pop art",
+      "Surrealism",
+      "Contemporary art",
+      "Expressionism",
+      "Modern art"
+    ],
+    "mediums": ["Oil paint", "Wood", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Antonio_Berni",
+    "urlGoogle": "https://artsandculture.google.com/entity/antonio-berni/m07x9pn"
   },
   "event": {
-    "id": "second-battle-of-the-piave-river",
-    "name": "Second Battle of the Piave River",
-    "dates": "Jun 15, 1918 - Jun 23, 1918",
-    "mainImg": "img/events/second-battle-of-the-piave-river.jpg",
+    "id": "battle-of-tannenberg",
+    "name": "Battle of Tannenberg",
+    "dates": "Aug 26, 1914 - Aug 30, 1914",
+    "mainImg": "img/events/battle-of-tannenberg.jpg",
     "summary": [
-      "The Second Battle of the Piave River, fought between 15 and 23 June 1918, was a decisive victory for the Italian Army against the Austro-Hungarian Empire during World War I. Though the battle proved to be a decisive blow to the Austro-Hungarian Empire and by extension the Central Powers, its full significance was not initially appreciated in Italy. Yet Erich Ludendorff, on hearing the news, is reported to have said he 'had the sensation of defeat for the first time'. It would later become clear that the battle was in fact the beginning of the end of the Austro-Hungarian Empire."
+      "The Battle of Tannenberg was fought between Russia and Germany between 26 and 30 August 1914, the first month of World War I. The battle resulted in the almost complete destruction of the Russian Second Army and the suicide of its commanding general, Alexander Samsonov. A series of follow-up battles destroyed most of the First Army as well and kept the Russians off balance until the spring of 1915. The battle is particularly notable for fast rail movements by the Germans, enabling them to concentrate against each of the two Russian armies in turn, and also for the failure of the Russians to encode their radio messages. It brought considerable prestige to Field Marshal Paul von Hindenburg and his rising staff-officer Erich Ludendorff.",
+      "Although the battle actually took place near Allenstein, Hindenburg named it after Tannenberg, 30 km to the west, in order to avenge the defeat of the Teutonic Knights 500 years earlier at the Battle of Grunwald by Poland-Lithuania."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Second_Battle_of_the_Piave_River",
-    "urlGoogle": "https://artsandculture.google.com/entity/second-battle-of-the-piave-river/m052hlx"
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Tannenberg",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-tannenberg/m0gcfx"
   },
   "funFacts": [
     {
-      "id": "263",
-      "fact": "Bowling pins need to tip over a mere 7 1/2 degrees to fall down.",
-      "category": ["Science"]
+      "id": "714",
+      "fact": "A camel can drink 25 gallons of water in less than three minutes.",
+      "category": ["Animals"]
     },
-    { "id": "97", "fact": "A turkey can run at 20 mph.", "category": ["Animals"] }
+    { "id": "211", "fact": "The average koala sleeps 22 hours each day.", "category": ["Animals"] }
   ],
   "funFacts2": [
     {
-      "id": "553510",
-      "fact": "George Washington had only one tooth remaining in his mouth when he was sworn in as president in 1789."
+      "id": "553735",
+      "fact": "When it comes to wine, an aroma similar to cat pee is a considered a good thing."
     }
   ],
   "idiom": {
-    "id": "eat-high-off-the-hog",
-    "term": "eat high off the hog",
-    "definition": "Also, **live high on the hog.** Prosper, live luxuriously, as in *When Aunt Ida dies and they inherit her estate, they'll be eating high off the hog,* or *Since their loan was approved, they've been living high on the hog.* It alludes to the choicest cuts of meat, which are found on a pig's upper flanks. [Late 1800s]"
+    "id": "when-in-rome-do-as-the-romans-do",
+    "term": "when in Rome do as the Romans do",
+    "definition": "Follow local custom, as in *Kate said they'd all be wearing shorts or blue jeans to the outdoor wedding, so when in Rome---we'll do the same.* This advice allegedly was Saint Ambrose's answer to Saint Augustine when asked whether they should fast on Saturday as Romans did, or not, as in Milan. It appeared in English by about 1530 and remains so well known that it is often shortened, as in the example."
   },
   "person": {
-    "id": "julius-raab",
-    "name": "Julius Raab",
-    "dates": "Nov 29, 1891 - Jan 8, 1964",
-    "mainImg": "img/people/julius-raab.jpg",
+    "id": "edward-frederick-lindley-wood-1-st-earl-of-halifax",
+    "name": "Edward Frederick Lindley Wood, 1st Earl of Halifax",
+    "dates": "Apr 16, 1881 - Dec 23, 1959",
+    "mainImg": "img/people/edward-frederick-lindley-wood-1-st-earl-of-halifax.jpg",
     "summary": [
-      "Julius Raab was a conservative Austrian politician, who served as Federal Chancellor of Austria from 1953 to 1961. Raab steered Allied-occupied Austria to independence, when he negotiated and signed the Austrian State Treaty in 1955. In internal politics Raab stood for a pragmatic \"social partnership\" and the \"Grand coalition\" of Austrian Conservatives and Social Democrats."
+      "Edward Frederick Lindley Wood, 1st Earl of Halifax, KG, OM, GCSI, GCMG, GCIE, TD, PC, styled The 1st Baron Irwin from 1925 until 1934 and The 3rd Viscount Halifax from 1934 until 1944, was a senior British Conservative politician of the 1930s. He held several senior ministerial posts during this time, most notably those of Viceroy of India from 1925 to 1931 and of Foreign Secretary between 1938 and 1940. He was one of the architects of the policy of appeasement of Adolf Hitler in 1936–38, working closely with Prime Minister Neville Chamberlain. However, after the German occupation of Czechoslovakia in March 1939 he was one of those who pushed for a new policy of attempting to deter further German aggression by promising to go to war to defend Poland.",
+      "On Chamberlain's resignation early in May 1940, Halifax effectively declined the position of Prime Minister as he felt that Churchill would be a more suitable war leader. A few weeks later, with the Allies facing apparently catastrophic defeat and British forces falling back to Dunkirk, Halifax favoured approaching Italy to see if acceptable peace terms could be negotiated."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Julius_Raab",
-    "urlGoogle": "https://artsandculture.google.com/entity/julius-raab/m015_nj"
+    "quote": "“Anger is seldom without argument but seldom with a good one.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Edward_Wood,_1st_Earl_of_Halifax",
+    "urlGoogle": "https://artsandculture.google.com/entity/edward-frederick-lindley-wood-1st-earl-of-halifax/m01grww"
   },
   "place": {
-    "id": "kathmandu",
-    "name": "Kathmandu",
-    "mainImg": "img/places/kathmandu.jpg",
+    "id": "bhutan",
+    "name": "Bhutan",
+    "mainImg": "img/places/bhutan.jpg",
     "summary": [
-      "Kathmandu is the capital and largest city of Nepal, with a population of around 2.5 million. Also known as the city of temples, with one of the oldest pagoda design, known with Pashupatinath Temple, the city stands at an elevation of approximately 1,400 metres above sea level in the bowl-shaped Kathmandu valley in central Nepal. The valley is historically called the \"Nepal Mandala\" and has been the home of Newar people, a cosmopolitan urban civilization in the Himalayas foothills. The city was the royal capital of the Kingdom of Nepal and hosts palaces, mansions and gardens of the Nepalese aristocracy. It has been home to the headquarters of the South Asian Association for Regional Cooperation since 1985. Today, it is the seat of government of the Nepalese republic, established in 2008, and is part of the Bagmati Pradesh.",
-      "Kathmandu is and has been for many years the centre of Nepal's history, art, culture, and economy. It has a multi-ethnic population within a Hindu and Buddhist majority. Religious and cultural festivities form a major part of the lives of people residing in Kathmandu.",
-      "Tourism is an important part of the economy."
+      "Bhutan, officially known as the Kingdom of Bhutan, is a landlocked country in South Asia. Located in the Eastern Himalayas, it is bordered by the Tibet Autonomous Region of China in the north, the Chumbi Valley of Tibet, China and the Indian states of Sikkim and West Bengal in the west, and the Indian states of Assam, West Bengal and Arunachal Pradesh in the south and east. Bhutan is geopolitically in South Asia and is the region's second-least-populous nation after the Maldives. Thimphu is its capital and the largest city, while Phuntsholing is its financial center.",
+      "Bhutan's independence has endured for centuries. It has never been colonized in its history. Situated on the ancient Silk Road between Tibet, the Indian subcontinent and Southeast Asia, the Bhutanese state developed a distinct national identity based on Buddhism. Headed by a spiritual leader known as the Zhabdrung Rinpoche, the territory comprised many fiefdoms and was governed as a Buddhist theocracy. Following a civil war in the 19ᵗʰ century, the House of Wangchuck reunited the country and established relations with the British Empire."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Kathmandu",
-    "urlGoogle": "https://artsandculture.google.com/entity/kathmandu/m04cx5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bhutan",
+    "urlGoogle": "https://artsandculture.google.com/entity/bhutan/m07bxhl"
   },
   "wiki": {
-    "id": "battle-of-the-alamo",
-    "name": "Battle of the Alamo",
-    "summary": "The Battle of the Alamo, a part of the Texas Revolution, ended on March 6, 1836, when Mexican troops under General Antonio López de Santa Anna regained the Alamo Mission near San Antonio de Béxar (modern-day San Antonio, Texas). Several months previously, rebellious Texians had driven all Mexican troops out of Mexican Texas. Up to 260 Texians were garrisoned in the Alamo at various times. On February 23, 1836, Santa Anna and 1,500 Mexican troops laid siege to the Alamo as the first step in a campaign to re-take Texas. In the final battle, all but two of the Texian defenders were killed, and 400–600 Mexican troops were killed or wounded. The battle has been the subject of numerous myths, spread by movie and television adaptations, including John Wayne's 1960 film The Alamo.",
-    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Alamo"
+    "id": "ido",
+    "name": "Ido",
+    "summary": "Ido is a constructed language, purposely created to be easier to learn than any other natural language, and ideally to become a universal second language that would be used by all when conversing with people from a different linguistic background. This is much in the same way that English is often used as a lingua franca at present in various international gatherings, but Ido was made to be grammatically regular, phonetic, and as the first language of none, to favour no one who might otherwise have an advantage in expression with his or her native language. Ido was developed in the early 1900s, and retains a small following today, primarily in Europe. It is largely based on Esperanto, created by L. L. Zamenhof. Ido first appeared in 1907 as a result of a desire to reform perceived flaws in Esperanto that its supporters believed to be a hindrance in its propagation as an easy-to-learn second language. Ido uses the twenty-six Latin letters used in the English alphabet with no diacritics. While still being completely grammatically regular, Ido resembles Romance languages in appearance and is sometimes mistaken for Italian or Spanish at first glance.",
+    "url": "https://en.wikipedia.org/wiki/Ido"
   },
   "word": {
-    "id": "defalcation",
-    "word": "defalcation",
-    "url": "https://www.merriam-webster.com/dictionary/defalcation",
+    "id": "soupcon",
+    "word": "soupçon",
+    "url": "https://www.merriam-webster.com/dictionary/soupçon",
     "partOfSpeech": "noun",
-    "pronunciation": "dee-fal-KAY-shun",
-    "audioPath": "audio/words/defalcation.mp3",
-    "definitions": [
-      "the act or an instance of embezzling",
-      "a failure to meet a promise or an expectation"
-    ],
+    "pronunciation": "soop-SAWNG (the final NG is not pronounced, but the vowel is nas",
+    "audioPath": "audio/words/soupcon.mp3",
+    "definitions": ["a little bit : trace"],
     "examples": [
-      "\"'She made off with the money, an act of defalcation that disqualifies her from receiving a bankruptcy discharge,' the judge ruled.\" (_Orlando Sentinel_, March 21, 2004)"
+      "The author makes the protagonist seem more human by infusing a bit of vanity, a touch of greed, and a soupçon of self-doubt into his otherwise exceptional character."
     ],
-    "origin": "\"The tea table shall be set forth every morning with its customary bill of fare, and without any manner of defalcation.\" No reference to embezzlement there! This line, from a 1712 issue of _Spectator_ magazine, is an example of the earliest, and now archaic, sense of \"defalcation,\" which is simply defined as \"curtailment.\" \"Defalcation\" is ultimately from the Latin word \"falx,\" meaning \"sickle\" (a tool for cutting), and it has been a part of English since the 1400s. It was used early on of monetary cutbacks (as in \"a defalcation in their wages\"), and by the 1600s it was used of most any sort of financial reversal (as in \"a defalcation of public revenues\"). Not till the mid-1800s, however, did \"defalcation\" refer to breaches of trust that cause a financial loss, or, specifically, to embezzlement."
+    "origin": "Culinary enthusiasts may think \"soupçon\" originated with a dash of garlic in the coq au vin or a splash of vanilla in the crème anglaise, but the etymology of the word has more to do with inklings and suspicions than with food. Sometime in the 18th century, English speakers borrowed \"soupçon\" from the French, who were using the word to mean \"drop,\" \"touch,\" or \"suspicion.\" The Old French form of the word was \"sospeçon,\" which in turn comes from the Latin forms \"suspection-\" and \"suspectio.\" Etymologists have further traced the word's Latin ancestry to the verb \"suspicere,\" meaning \"to suspect.\" \"Suspicere,\" as you might expect, is also the source of the English words \"suspect\" and \"suspicion.\""
   }
 }

@@ -1,133 +1,134 @@
 {
   "artist": {
-    "id": "maurice-utrillo",
-    "name": "Maurice Utrillo",
-    "dates": "Dec 26, 1883 - Nov 5, 1955",
-    "mainImg": "img/art/artists/maurice-utrillo.jpg",
+    "id": "gentile-da-fabriano",
+    "name": "Gentile da Fabriano",
+    "dates": "1370 - Aug 1, 1427",
+    "mainImg": "img/art/artists/gentile-da-fabriano.jpg",
     "artworkImgs": [
       {
-        "name": "\"Lady in Black\" afternoon ensemble",
-        "path": "img/art/artworks/maurice-utrillo-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/lady-in-black-afternoon-ensemble-maurice-rentner/YwEPWNc0Uk5X2A"
+        "name": "Adoration of the Magi",
+        "path": "img/art/artworks/gentile-da-fabriano-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/adoration-of-the-magi-gentile-da-fabriano-massi/DQFJCeCtmALPyg"
       },
       {
-        "name": "Norvins Street [Rue Norvins]",
-        "path": "img/art/artworks/maurice-utrillo-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/norvins-street-rue-norvins-maurice-utrillo/BwFsr7ghf05zHg"
+        "name": "Mary Enthroned with the Child, Saints and a Donor",
+        "path": "img/art/artworks/gentile-da-fabriano-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/mary-enthroned-with-the-child-saints-and-a-donor-gentile-da-fabriano/eAGQ8eXj5llHbw"
       },
       {
-        "name": "Road to Puteaux",
-        "path": "img/art/artworks/maurice-utrillo-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/road-to-puteaux-maurice-utrillo/fwFaDJPodvf--g"
+        "name": "Enthroned Madonna and Child with Two Angels",
+        "path": "img/art/artworks/gentile-da-fabriano-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/enthroned-madonna-and-child-with-two-angels-gentile-da-fabriano/eQHPT0CB4e8RdQ"
       },
       {
-        "name": "The Lapin Agile [Le Lapin Agile]",
-        "path": "img/art/artworks/maurice-utrillo-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-lapin-agile-le-lapin-agile-maurice-utrillo/oAHfnnH_sXOjIQ"
+        "name": "Coronation of the Virgin",
+        "path": "img/art/artworks/gentile-da-fabriano-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/coronation-of-the-virgin/FQF7-Px-60y3LA"
       },
       {
-        "name": "Moulin de la Galette",
-        "path": "img/art/artworks/maurice-utrillo-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/moulin-de-la-galette-maurice-utrillo/8QGve_sEX87d-w"
+        "name": "Nativity",
+        "path": "img/art/artworks/gentile-da-fabriano-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/nativity/XQEptlPtuHfA2A"
       },
       {
-        "name": "Rue du Mont-Cénis",
-        "path": "img/art/artworks/maurice-utrillo-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/rue-du-mont-cénis/jwHGbxcxb6uAhQ"
+        "name": "Madonna and Child with Angels",
+        "path": "img/art/artworks/gentile-da-fabriano-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/madonna-and-child-with-angels-gentile-da-fabriano-gentile-di-niccolò-di-giovanni-di-massio/7gEiMQqkAkJe2g"
       }
     ],
     "summary": [
-      "Maurice Utrillo, born Maurice Valadon, was a French painter who specialized in cityscapes. Born in the Montmartre quarter of Paris, France, Utrillo is one of the few famous painters of Montmartre who were born there."
+      "Gentile da Fabriano was an Italian painter known for his participation in the International Gothic painter style. He worked in various places in central Italy, mostly in Tuscany. His best-known works are his Adoration of the Magi from the Strozzi Altarpiece, and the Flight into Egypt."
     ],
     "quote": null,
-    "movements": ["School of Paris"],
-    "mediums": ["Oil paint", "Velvet", "Rayon", "Ribbon", "Cardboard", "Leather"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Maurice_Utrillo",
-    "urlGoogle": "https://artsandculture.google.com/entity/maurice-utrillo/m0h8bh"
+    "movements": [],
+    "mediums": ["Tempera", "Gold", "Metal", "Gold leaf", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Gentile_da_Fabriano",
+    "urlGoogle": "https://artsandculture.google.com/entity/gentile-da-fabriano/m01fg21"
   },
   "event": {
-    "id": "guadalcanal-campaign",
-    "name": "Guadalcanal campaign",
-    "dates": "Aug 7, 1942 - Feb 9, 1943",
-    "mainImg": "img/events/guadalcanal-campaign.jpg",
+    "id": "gettysburg-address",
+    "name": "Gettysburg Address",
+    "dates": null,
+    "mainImg": "img/events/gettysburg-address.jpg",
     "summary": [
-      "The Guadalcanal campaign, also known as the Battle of Guadalcanal and codenamed Operation Watchtower by American forces, was a military campaign fought between 7 August 1942 and 9 February 1943 on and around the island of Guadalcanal in the Pacific theater of World War II. It was the first major land offensive by Allied forces against the Empire of Japan.",
-      "On 7 August 1942, Allied forces, predominantly United States Marines, landed on Guadalcanal, Tulagi, and Florida in the southern Solomon Islands, with the objective of using Guadalcanal and Tulagi as bases in supporting a campaign to eventually capture or neutralize the major Japanese base at Rabaul on New Britain. The Japanese defenders, who had occupied those islands since May 1942, were outnumbered and overwhelmed by the Allies, who captured Tulagi and Florida, as well as the airfield – later named Henderson Field – that was under construction on Guadalcanal.",
-      "Surprised by the Allied offensive, the Japanese made several attempts between August and November to retake Henderson Field."
+      "The Gettysburg Address is a speech that U.S. President Abraham Lincoln delivered during the American Civil War at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania, on the afternoon of Thursday, November 19, 1863, four and a half months after the Union armies defeated those of the Confederacy at the Battle of Gettysburg. It is one of the best-known speeches in American history.",
+      "Not even the day's primary speech, Lincoln's carefully crafted address came to be seen as one of the greatest and most influential statements of American national purpose. In just 271 words, beginning with the now iconic phrase \"Four score and seven years ago,\"‍ referring to the signing of the Declaration of Independence 87 years earlier, Lincoln described the US as a nation \"conceived in Liberty, and dedicated to the proposition that all men are created equal,\" and represented the Civil War as a test that would determine whether such a nation, the Union sundered by the secession crisis, could endure. He extolled the sacrifices of those who died at Gettysburg in defense of those principles, and exhorted his listeners to resolve"
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
-    "urlGoogle": "https://artsandculture.google.com/entity/guadalcanal-campaign/m0gbks"
+    "urlWiki": "https://en.wikipedia.org/wiki/Gettysburg_Address",
+    "urlGoogle": "https://artsandculture.google.com/entity/gettysburg-address/m037yx"
   },
   "funFacts": [
     {
-      "id": "331",
-      "fact": "The area code in Cape Canaveral, Fl, is 321.",
-      "category": ["Geography"]
+      "id": "192",
+      "fact": "Jupiter spins so fast that there is a new sunrise nearly every 10 hours.",
+      "category": ["Science"]
     },
     {
-      "id": "197",
-      "fact": "The first person crossed Niagara Falls by tightrope in 1859.",
-      "category": ["Firsts"]
+      "id": "319",
+      "fact": "The name for the space between your eyebrows is \"nasion.\"",
+      "category": ["Anatomy", "Definitions"]
     }
   ],
   "funFacts2": [
-    { "id": "504821", "fact": "Geckos can turn the stickiness of their feet on and off at will." }
+    {
+      "id": "642369",
+      "fact": "Before writing <em>Little Women</em>, Louisa May Alcott penned stories under the pseudonyms Flora Fairfield and A.M. Barnard."
+    }
   ],
   "idiom": {
-    "id": "idiot-box",
-    "term": "idiot box",
-    "definition": "A television set, as in *There they sit in front of the idiot box, hour after hour.* This slangy and pejorative expression dates from about 1960."
+    "id": "one-can-catch-more-flies-with-honey-than-vinegar",
+    "term": "one can catch more flies with honey than vinegar",
+    "definition": "One accomplishes more by being nice than by being nasty. This saying dates from the 1600s and has appeared in numerous languages, among them Spanish (in Cervantes's *Don Quixote)* and French. Even Abraham Lincoln quoted a version of it in his 1842 speech to the Washingtonian Temperance Society: \"It is an old and true maxim that a drop of honey catches more flies than a gallon of gall.\""
   },
   "person": {
-    "id": "ivan-bagramyan",
-    "name": "Ivan Bagramyan",
-    "dates": "Dec 2, 1897 - Sep 21, 1982",
-    "mainImg": "img/people/ivan-bagramyan.jpg",
+    "id": "theodore-bikel",
+    "name": "Theodore Bikel",
+    "dates": "May 2, 1924 - Jul 21, 2015",
+    "mainImg": "img/people/theodore-bikel.jpg",
     "summary": [
-      "Ivan Khristoforovich Bagramyan, also known as Hovhannes Khachaturi Baghramyan, was a Soviet military commander and Marshal of the Soviet Union of Armenian origin. During World War II, Bagramyan was the second non-Slavic military officer, after Latvian Max Reyter, to become a commander of a Front. He was among several Armenians in the Soviet Army who held the highest proportion of high-ranking officers in the Soviet military during the war.",
-      "Bagramyan's experience in military planning as a chief of staff allowed him to distinguish himself as a capable commander in the early stages of the Soviet counter-offensives against Nazi Germany. He was given his first command of a unit in 1942, and in November 1943 received his most prestigious command as the commander of the 1st Baltic Front. As commander of the Baltic Front, he participated in the offensives which pushed German forces out of the Baltic republics.",
-      "He did not immediately join the Communist Party after the consolidation of the October Revolution, becoming a member only in 1941, a move atypical for a Soviet military officer."
+      "Theodore Meir Bikel was an Austrian-American actor, folk singer, musician, composer, unionist and political activist. He appeared in films including The African Queen, Moulin Rouge, The Enemy Below, I Want to Live!, My Fair Lady, The Russians Are Coming, the Russians Are Coming and 200 Motels. For his portrayal of Sheriff Max Muller in The Defiant Ones, he was nominated for the Academy Award for Best Supporting Actor.",
+      "He made his stage debut in Tevye the Milkman in Tel Aviv, Israel, when he was in his teens. He later studied acting at Britain's Royal Academy of Dramatic Art and made his London stage debut in 1948 and in New York in 1955. He was also a widely recognized and recorded folk singer and guitarist. In 1959, he co-founded the Newport Folk Festival and created the role of Captain von Trapp opposite Mary Martin as Maria in the original Broadway production of Rodgers & Hammerstein's The Sound of Music. In 1969, Bikel began acting and singing on stage as Tevye in the musical Fiddler on the Roof, a role he performed more often than any other actor to date. The production won nine Tony Awards and was one of the longest-running musicals in Broadway history."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Ivan_Bagramyan",
-    "urlGoogle": "https://artsandculture.google.com/entity/ivan-bagramyan/m0957z2"
+    "quote": "“But there is a difference here: When Jewish children are murdered, Arabs celebrate the deed. The death of an Arab child is no cause for celebration in Israel.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Theodore_Bikel",
+    "urlGoogle": "https://artsandculture.google.com/entity/theodore-bikel/m02gyl0"
   },
   "place": {
-    "id": "suwon-si",
-    "name": "Suwon-si",
-    "mainImg": "img/places/suwon-si.jpg",
+    "id": "bogor",
+    "name": "Bogor",
+    "mainImg": "img/places/bogor.jpg",
     "summary": [
-      "Suwon is the capital and largest metropolis of Gyeonggi-do, South Korea's most populous province which surrounds Seoul, the national capital. Suwon lies about 30 km south of Seoul. It is traditionally known as \"The City of Filial Piety\". With a population close to 1.2 million, it is larger than Ulsan, although it is not governed as a metropolitan city.",
-      "Suwon has existed in various forms throughout Korea's history, growing from a small settlement to become a major industrial and cultural center. It is the only remaining completely walled city in South Korea. The city walls are one of the more popular tourist destinations in Gyeonggi Province. Samsung Electronics R&D center and headquarters are in Suwon. The city is served by two motorways, the national railway network, and the Seoul Metropolitan Subway. Suwon is a major educational center, home to 11 universities.",
-      "Suwon is home to football club Suwon Samsung Bluewings, which have won the K League on four occasions and AFC Champions League twice. The KT Wiz of the Korea Baseball Organization also play in Suwon."
+      "Bogor is a city in the West Java province, Indonesia. Located around 60 kilometers south of the national capital of Jakarta, Bogor is the 6th largest city of Jakarta metropolitan area and the 14th nationwide. The city covers an area of 118.5 km², and it had a population of 950,334 at the 2010 Census; the latest official estimate was 1,096,828. Bogor is an important economic, scientific, cultural and tourist center, as well as a mountain resort.",
+      "In the Middle Ages, the city served as the capital of Sunda Kingdom and was called Pakuan Pajajaran or Dayeuh Pakuan. During the Dutch colonial era, it was named Buitenzorg and served as the summer residence of the Governor-General of Dutch East Indies.",
+      "With several hundred thousand people living on an area of about 20 km², the central part of Bogor is one of the world's most densely populated areas. The city has a presidential palace and a botanical garden – one of the oldest and largest in the world. It bears the nickname \"the Rain City\", because of frequent rain showers. It nearly always rains even during the dry season."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Suwon",
-    "urlGoogle": "https://artsandculture.google.com/entity/suwon-si/m02j2b1"
+    "urlWiki": "https://en.wikipedia.org/wiki/Bogor",
+    "urlGoogle": "https://artsandculture.google.com/entity/bogor/m0469v3"
   },
   "quote": {
-    "id": "5",
-    "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
-    "author": "Mark Twain"
+    "id": "26",
+    "quote": "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.",
+    "author": "Henry Ford"
   },
   "wiki": {
-    "id": "albert-einstein",
-    "name": "Albert Einstein",
-    "summary": "Albert Einstein was a theoretical physicist who is widely regarded as the greatest scientist of the 20th century. He proposed the theory of relativity and also made major contributions to the development of quantum mechanics, statistical mechanics, and cosmology. He was awarded the 1921 Nobel Prize for Physics for his explanation of the photoelectric effect and \"for his services to Theoretical Physics.\" After his general theory of relativity was formulated, Einstein became world-famous, an unusual achievement for a scientist. In his later years, his fame exceeded that of any other scientist in history, and in popular culture, Einstein has become a byword for great intelligence or even genius. His is also one of the world's most recognizable faces.",
-    "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    "id": "georges-vezina",
+    "name": "Georges Vézina",
+    "summary": "Georges Vézina (1887–1926) was a Canadian professional ice hockey goaltender who played seven seasons in the National Hockey Association (NHA) and nine in the National Hockey League (NHL), all with the Montreal Canadiens. After being signed by the Canadiens in 1910, Vézina played in 327 consecutive regular season games and 39 playoff games, before leaving a game in 1925 due to illness. Vézina was diagnosed with tuberculosis, and died in 1926. The only goaltender to play for the Canadiens between 1910 and 1925, Vézina helped the team win the Stanley Cup in 1916 and 1924, while reaching the Finals three more times. Nicknamed the \"Chicoutimi Cucumber\" for his calm composure, Vézina allowed the fewest goals against in the league seven times in his career: four times in the NHA and three times in the NHL. In 1918, Vézina became the first NHL goaltender to both record a shutout and earn an assist on a goal. At the start of the 1926–27 NHL season, the Canadiens donated the Vezina Trophy to the NHL as an award to the goaltender who allowed the fewest goals during the season. When the Hockey Hall of Fame opened in 1945, Vézina was one of the original twelve inductees.",
+    "url": "https://en.wikipedia.org/wiki/Georges_V%C3%A9zina"
   },
   "word": {
-    "id": "florilegium",
-    "word": "florilegium",
-    "url": "https://www.merriam-webster.com/dictionary/florilegium",
-    "partOfSpeech": "noun",
-    "pronunciation": "flor-uh-LEE-jee-um",
-    "audioPath": "audio/words/florilegium.mp3",
-    "definitions": ["a volume of writings : anthology"],
+    "id": "distend",
+    "word": "distend",
+    "url": "https://www.merriam-webster.com/dictionary/distend",
+    "partOfSpeech": "verb",
+    "pronunciation": "dih-STEND",
+    "audioPath": "audio/words/distend.mp3",
+    "definitions": ["extend", "to enlarge from internal pressure : swell", "to become expanded"],
     "examples": [
-      "This florilegium of British poetry up to 1760 includes the classics that we have all come to love along with a few relatively unknown gems that are sure to delight and inspire."
+      "With mouths agape and eyes distended, the audience listened to the canoeist's incredible story of survival after being capsized by the river's rapids."
     ],
-    "origin": "Editors who compile florilegia (to use the plural form of today's word) can be thought of as gathering a bouquet of sweet literary blossoms. English speakers picked up \"florilegium\" from a New Latin word that derives from Latin \"florilegus,\" which can be translated as \"culling flowers.\" In fact, \"florilegium\" initially applied to a collection of flowers, and later to books about flowers, but it wasn't long before the word began to be used for (as the Oxford English Dictionary puts it) \"a collection of the flowers of literature.\" And \"florilegium\" isn't the only English collecting term with a floral heritage; its synonym \"anthology\" comes from the Greek word for \"flower gathering.\""
+    "origin": "The history of the word \"distend\" stretches back to the Latin verb \"tendere\" -- a root whose kin have really expanded our language. To find evidence of this expansion, look to words that include \"tend\" or \"tent\"; many have \"tendere,\" which means \"to stretch, extend, or spread,\" in their family tree. Perhaps the simplest example is \"tent,\" which names a shelter made from a piece of material stretched over a frame. You'll also find the influence of \"tendere\" in \"extend,\" \"tendon,\" \"contend,\" \"portend,\" and \"tendency.\""
   }
 }

@@ -1,129 +1,137 @@
 {
   "artist": {
-    "id": "ferdinand-bol",
-    "name": "Ferdinand Bol",
-    "dates": "Jun 24, 1616 - Aug 24, 1680",
-    "mainImg": "img/art/artists/ferdinand-bol.jpg",
+    "id": "david-wilkie",
+    "name": "David Wilkie",
+    "dates": "Nov 18, 1785 - Jun 1, 1841",
+    "mainImg": "img/art/artists/david-wilkie.jpg",
     "artworkImgs": [
       {
-        "name": "Michiel de Ruyter as Lieutenant-Admiral",
-        "path": "img/art/artworks/ferdinand-bol-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/michiel-de-ruyter-as-lieutenant-admiral-ferdinand-bol/XAGCyCudu8g6Xw"
+        "name": "The Sedan Chair",
+        "path": "img/art/artworks/david-wilkie-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-sedan-chair-sir-david-wilkie/nAEs9ff8C2N-wQ"
       },
       {
-        "name": "Consul Titus Manlius Torquatus Orders the Beheading of his Son",
-        "path": "img/art/artworks/ferdinand-bol-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/consul-titus-manlius-torquatus-orders-the-beheading-of-his-son-ferdinand-bol/7QEgBB09erXRZw"
+        "name": "The Highland Family",
+        "path": "img/art/artworks/david-wilkie-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-highland-family-sir-david-wilkie/RwGMO2BiCtUi5Q"
       },
       {
-        "name": "Roelof Meulenaer (1618/19-1691). Amsterdam Mercantile Courier or Postmaster on the Antwerp Route",
-        "path": "img/art/artworks/ferdinand-bol-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/roelof-meulenaer-1618-19-1691-amsterdam-mercantile-courier-or-postmaster-on-the-antwerp-route-ferdinand-bol/YAG6FoqgygYZRA"
+        "name": "The Pedlar",
+        "path": "img/art/artworks/david-wilkie-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-pedlar-sir-david-wilkie-1785–1841-british/TQFmsmLZVG0puA"
       },
       {
-        "name": "Portrait of a Young Man, presumably Louis Trip Jr (1638-1655)",
-        "path": "img/art/artworks/ferdinand-bol-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-a-young-man-presumably-louis-trip-jr-1638-1655-bol-ferdinand/-gE31k7OZDMjQQ"
+        "name": "Study for 'Sir David Baird Discovering the Body of Tipu Sahib'",
+        "path": "img/art/artworks/david-wilkie-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/study-for-sir-david-baird-discovering-the-body-of-tipu-sahib/tQETn9Bm4w5sdA"
       },
       {
-        "name": "Aeneas at the Court of Latinus",
-        "path": "img/art/artworks/ferdinand-bol-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/aeneas-at-the-court-of-latinus-ferdinand-bol/7QEdHirCaItWKQ"
+        "name": "Reading the Will",
+        "path": "img/art/artworks/david-wilkie-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/reading-the-will-sir-david-wilkie/BwH7PpGsxGG8vw"
       },
       {
-        "name": "Portrait of the Three Regentesses of the Leprozenhuis, Amsterdam",
-        "path": "img/art/artworks/ferdinand-bol-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/portrait-of-the-three-regentesses-of-the-leprozenhuis-amsterdam-ferdinand-bol/RwEcb8XtE8cInw"
+        "name": "Chelsea Pensioners Receiving the Gazette Announcing the Battle of Waterloo",
+        "path": "img/art/artworks/david-wilkie-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/chelsea-pensioners-receiving-the-gazette-announcing-the-battle-of-waterloo-sir-david-wilkie-1785–1841-british/awGk1YMJmdSEiA"
       }
     ],
     "summary": [
-      "Ferdinand Bol was a Dutch painter, etcher and draftsman. Although his surviving work is rare, it displays Rembrandt's influence; like his master, Bol favored historical subjects, portraits, numerous self-portraits, and single figures in exotic finery."
+      "Sir David Wilkie RA was a British painter, especially known for his genre scenes. He painted successfully in a wide variety of genres, including historical scenes, portraits, including formal royal ones, and scenes from his travels to Europe and the Middle East. His main base was in London, but he died and was buried at sea, off Gibraltar, returning from his first trip to the Middle East. He was sometimes known as the \"people's painter\".",
+      "He was Principal Painter in Ordinary to King William IV and Queen Victoria. Apart from royal portraits, his best-known painting today is probably The Chelsea Pensioners reading the Waterloo Dispatch of 1822 in Apsley House."
     ],
     "quote": null,
-    "movements": ["Baroque", "Dutch Golden Age"],
-    "mediums": ["Etching", "Oil paint", "Pen", "Ink", "Laid paper", "Drawing"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Ferdinand_Bol",
-    "urlGoogle": "https://artsandculture.google.com/entity/ferdinand-bol/m072zsf"
+    "movements": ["Romanticism", "Academic art"],
+    "mediums": ["Ink", "Graphite", "Pen", "Watercolor painting", "Chalk", "Pigment"],
+    "urlWiki": "https://en.wikipedia.org/wiki/David_Wilkie_%28artist%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/david-wilkie/m01gt08"
   },
   "event": {
-    "id": "battle-of-lowestoft",
-    "name": "Battle of Lowestoft",
-    "dates": null,
-    "mainImg": "img/events/battle-of-lowestoft.jpg",
+    "id": "russo-turkish-war",
+    "name": "Russo-Turkish War",
+    "dates": "Apr 24, 1877 - Mar 3, 1878",
+    "mainImg": "img/events/russo-turkish-war.jpg",
     "summary": [
-      "The Battle of Lowestoft took place on 13 June [O.S. 3 June] 1665 during the Second Anglo-Dutch War. A fleet of more than a hundred ships of the United Provinces commanded by Lieutenant-Admiral Jacob van Wassenaer, Lord Obdam attacked an English fleet of equal size commanded by James, Duke of York forty miles east of the port of Lowestoft in Suffolk. Although it was a substantial English victory, the escape of the bulk of the Dutch fleet deprived England of the chance of ending the war quickly with a single decisive victory. As a result, the Dutch were able to make good their losses by building new and better-armed ships and improving their organisation and discipline. Their Dutch fleets would not be so badly organised or ill-disciplined in the remaining battles of this war and, in Obdam's replacement, Michiel de Ruyter, the Dutch had gained a superb tactician and leader for the remainder of the war."
+      "The Russo-Turkish War of 1877–1878 was a conflict between the Ottoman Empire and the Eastern Orthodox coalition led by the Russian Empire and composed of Bulgaria, Romania, Serbia, and Montenegro. Fought in the Balkans and in the Caucasus, it originated in emerging 19th-century Balkan nationalism. Additional factors included Russian goals of recovering territorial losses endured during the Crimean War of 1853–56, re-establishing itself in the Black Sea and supporting the political movement attempting to free Balkan nations from the Ottoman Empire.",
+      "The Russian-led coalition won the war, pushing the Turks back all the way to the gates of Constantinople but for the timely intervention of the western European great powers.",
+      "As a result, Russia succeeded in claiming provinces in the Caucasus, namely Kars and Batum, and also annexed the Budjak region. The principalities of Romania, Serbia, and Montenegro, each of which had had de facto sovereignty for some time, formally proclaimed independence from the Ottoman Empire."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Lowestoft",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-lowestoft/m03ly0z"
+    "urlWiki": "https://en.wikipedia.org/wiki/Russo-Turkish_War_%281877%E2%80%931878%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/russo-turkish-war/m01p6w8"
   },
   "funFacts": [
     {
-      "id": "768",
-      "fact": "Most elephants weigh less than the tongue of a blue whale.",
-      "category": ["Animals"]
+      "id": "196",
+      "fact": "If you doubled one penny every day for 30 days, you would have $5,368,709.",
+      "category": ["Hodgepodge"]
     },
     {
-      "id": "996",
-      "fact": "Sea otters hold each other's paws while sleeping so they don't drift apart.",
-      "category": ["Animals", "Habits", "Make-it-Easies"]
+      "id": "764",
+      "fact": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.",
+      "category": ["Animals"]
     }
   ],
-  "funFacts2": [{ "id": "504756", "fact": "The dot over your lowercase “i” is called a tittle." }],
+  "funFacts2": [
+    {
+      "id": "553446",
+      "fact": "Fireworks were ignited over Philadelphia to celebrate the first anniversary of the signing of the Declaration of Independence in 1777."
+    }
+  ],
   "idiom": {
-    "id": "mills-of-the-gods-grind-slowly",
-    "term": "mills of the gods grind slowly",
-    "definition": "One's destiny is inevitable even if it take considerable time to arrive. For example, *I'm sure he'll be wealthy one day, though the mills of the gods grind slowly.* This expression comes from ancient Greek, translated as \"The mills of the gods grind slowly, but they grind small.\" In English it appeared in George Herbert's *Jacula Prudentum* (1640) as \"God's mill grinds slow but sure.\""
+    "id": "know-the-ropes",
+    "term": "know the ropes",
+    "definition": "Be informed about the details of a situation or task. For example, *Don't worry about Sara's taking over that reporter's job---she already knows the ropes.* This expression alludes to sailors learning the rigging so as to handle a sailing vessel's ropes. It was being used figuratively by the late 1800s. The same allusion is present in **show someone the ropes,** meaning \"to familiarize someone with the details,\" as in *Tom's very experienced---he'll show you the ropes.*"
   },
   "person": {
-    "id": "lou-dobbs",
-    "name": "Lou Dobbs",
-    "dates": "Born Sep 24, 1945",
-    "mainImg": "img/people/lou-dobbs.jpg",
+    "id": "albertina-sisulu",
+    "name": "Albertina Sisulu",
+    "dates": "Oct 21, 1918 - Jun 2, 2011",
+    "mainImg": "img/people/albertina-sisulu.jpg",
     "summary": [
-      "Louis Carl Dobbs is an American television commentator, opponent of immigration, conspiracy theorist, radio show host, and the anchor of Lou Dobbs Tonight on Fox Business Network.",
-      "Dobbs started working with CNN at its inception in 1980, serving as a reporter and network vice president. On the air, he served as host and managing editor of the network's business program, Moneyline, which premiered in 1980. The show was renamed Lou Dobbs Tonight in 2003. Dobbs resigned from CNN for a short period of time in 1999 but rejoined the network in 2001. He resigned once again in November 2009. In 2011, he joined the Fox Business Network, resuming and anchoring his show, Lou Dobbs Tonight. He is the former talk radio host of Lou Dobbs Radio. Dobbs has authored several books since 2001.",
-      "Dobbs was an early promoter of birther conspiracy theories, which falsely posit that former U.S. President Barack Obama is not a natural born US citizen. He is known for anti-immigration views, as well as for various deep state conspiracy theories and opposition to NAFTA and other trade deals. A Trump confidant, his show is known for its pro-Trump coverage."
+      "Nontsikelelo Albertina Sisulu was a South African anti-apartheid activist, and the wife of fellow activist Walter Sisulu. She was affectionately known as Ma Sisulu throughout her lifetime by the South African public. In 2004 she was voted 57th in the SABC3's Great South Africans. She died on 2 June 2011 in her home in Linden, Johannesburg, South Africa, aged 92."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Lou_Dobbs",
-    "urlGoogle": "https://artsandculture.google.com/entity/lou-dobbs/m03m0hn"
+    "quote": "“Women are the people who are going to relieve us from all this oppression and depression. The rent boycott that is happening in Soweto now is alive because of the women. It is the women who are on the street committees educating the people to stand up and protect each other.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Albertina_Sisulu",
+    "urlGoogle": "https://artsandculture.google.com/entity/albertina-sisulu/m01gq_9"
   },
   "place": {
-    "id": "indonesia",
-    "name": "Indonesia",
-    "mainImg": "img/places/indonesia.jpg",
+    "id": "slovakia",
+    "name": "Slovakia",
+    "mainImg": "img/places/slovakia.jpg",
     "summary": [
-      "Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania, between the Indian and Pacific oceans. It consists of more than seventeen thousand islands, including Sumatra, Java, Borneo, Sulawesi, and New Guinea. Indonesia is the world's largest island country and the 14th largest country by land area, at 1,904,569 square kilometres. With over 267 million people, it is the world's 4th most populous country as well as the most populous Muslim-majority country. Java, the world's most populous island, is home to more than half of the country's population.",
-      "The sovereign state is a presidential, constitutional republic with an elected legislature. It has 34 provinces, of which five have special status. The country's capital, Jakarta, is the second-most populous urban area in the world. The country shares land borders with Papua New Guinea, East Timor, and the eastern part of Malaysia. Other neighbouring countries include Singapore, Vietnam, the Philippines, Australia, Palau, and India's Andaman and Nicobar Islands."
+      "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the southwest, and the Czech Republic to the northwest. Slovakia's territory spans about 49,000 square kilometres and is mostly mountainous. The population is over 5.4 million and consists mostly of ethnic Slovaks. The capital and largest city is Bratislava, and the second-largest city is Košice. The official language is Slovak.",
+      "The Slavs arrived in the territory of present-day Slovakia in the 5th and 6th centuries. In the 7th century they played a significant role in the creation of Samo's Empire and in the 9th century established the Principality of Nitra, which was later conquered by the Principality of Moravia to establish Great Moravia. In the 10th century, after the dissolution of Great Moravia, the territory was integrated into the Principality of Hungary, which would become the Kingdom of Hungary in 1000. In 1241 and 1242, much of the territory was destroyed by the Mongols during their invasion of Central and Eastern Europe."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Indonesia",
-    "urlGoogle": "https://artsandculture.google.com/entity/indonesia/m03ryn"
+    "urlWiki": "https://en.wikipedia.org/wiki/Slovakia",
+    "urlGoogle": "https://artsandculture.google.com/entity/slovakia/m06npd"
   },
   "quote": {
-    "id": "102",
-    "quote": "To climb steep hills requires a slow pace at first.",
-    "author": "William Shakespeare"
+    "id": "69",
+    "quote": "Truly effective and inspiring leaders aren't driven to lead people, they are driven to serve them.",
+    "author": "Simon Sinek"
   },
   "wiki": {
-    "id": "courageous-class-battlecruiser",
-    "name": "Courageous class battlecruiser",
-    "summary": "The Courageous class comprised three battlecruisers built for the Royal Navy during World War I. Nominally designed to support Admiral of the Fleet Lord John Fisher's Baltic Project, which was intended to land troops on the German Baltic Coast, ships of this class were fast but very lightly armoured with only a few heavy guns. To maximize their speed, the Courageous-class battlecruisers were the first capital ships of the Royal Navy to use geared steam turbines and small-tube boilers. The first two ships, Courageous and Glorious, were commissioned in 1917 and spent the war patrolling the North Sea. Their half-sister Furious was designed with a pair of 18-inch (457 mm) guns, the largest guns ever fitted on a ship of the Royal Navy, but was modified during construction to take a flying-off deck and hangar in lieu of her forward gun turret and barbette. All three ships were laid up after the end of the war and were rebuilt as aircraft carriers during the 1920s.",
-    "url": "https://en.wikipedia.org/wiki/Courageous_class_battlecruiser"
+    "id": "history-of-limerick",
+    "name": "History of Limerick",
+    "summary": "The history of Limerick, the third largest city in the Republic of Ireland and a major cultural and industrial centre, stretches back to its establishment by the Vikings as a walled city on \"King's Island\" (an island in the River Shannon) in 812, and its charter in 1197. A great castle was built on the orders of King John in 1200. It was besieged three times in the 17th century, resulting in the famous Treaty of Limerick and the flight of the defeated Catholic leaders abroad. Much of the City was built during the following Georgian prosperity, which ended abruptly with the Act of Union in 1800. The depression was to last nearly two centuries, through famine, war, and emergency, until the boom times of the 1990s. The city's position as one of Europe's most westerly points has made it somewhat of a crossroads between the old and new worlds. Famous visitors have included John F. Kennedy, Che Guevara, Boris Yeltsin and Haile Selassie I of Ethiopia.",
+    "url": "https://en.wikipedia.org/wiki/History_of_Limerick"
   },
   "word": {
-    "id": "tempestuous",
-    "word": "tempestuous",
-    "url": "https://www.merriam-webster.com/dictionary/tempestuous",
-    "partOfSpeech": "adjective",
-    "pronunciation": "tem-PESS-chuh-wus",
-    "audioPath": "audio/words/tempestuous.mp3",
-    "definitions": ["of, relating to, or resembling a tempest : turbulent, stormy"],
-    "examples": [
-      "Because the player's relationship with his manager had grown more _tempestuous_ over the course of the season, the decision to trade him benefited everyone.",
-      "\"An East Tennessee April can be _tempestuous_ and temperamental, and in Knoxville nothing causes quite as much worry about the weather as the Dogwood Arts Festival.\" - From an article by Amy McRary in the _Knoxville News-Sentinel_, April 1, 2012"
+    "id": "parvenu",
+    "word": "parvenu",
+    "url": "https://www.merriam-webster.com/dictionary/parvenu",
+    "partOfSpeech": "noun",
+    "pronunciation": "PAHR-vuh-noo",
+    "audioPath": "audio/words/parvenu.mp3",
+    "definitions": [
+      "one who has recently or suddenly risen to an unaccustomed position of wealth or power and has not yet gained the prestige, dignity, or manner associated with it"
     ],
-    "origin": "Time is sometimes marked in seasons, and seasons are associated with the weather. This explains how \"tempus,\" the Latin word for \"time\" could have given rise to an English adjective for things turbulent and stormy. \"Tempus\" is the root behind Old Latin \"tempestus,\" meaning \"season,\" and Late Latin \"tempestuosus,\" the direct ancestor of \"tempestuous.\" As you might expect, \"tempus\" is also the root of the noun \"tempest\"; it probably played a role in the history of \"temper\" as well, but that connection isn't definite."
+    "examples": [
+      "Washington old-timers viewed the young senator as an upstart _parvenu_.",
+      "\"Today, Denver continues to reflect the brash carelessness of the _parvenu_, flush and arrogant with sudden riches.\" - From an article by Susan Barnes-Gelt in the _Denver Post_, November 24, 2013"
+    ],
+    "origin": "French has been generous in providing us with terms for obscure folks who suddenly strike it rich. In addition to \"parvenu,\" French has loaned us \"nouveau riche,\" \"arriviste,\" and \"roturier,\" all of which can describe a rich person of plebeian origins, especially one who is a bit snobby. Those colorful and slightly disparaging terms for the newly moneyed clearly show their French heritage, but it may be harder to see the French background of a term Massachusetts locals once used for coastal merchants made rich through the fishing trade: \"codfish aristocracy.\" \"Codfish\" comes from Middle English, but \"aristocracy\" passed into English via Middle French."
   }
 }

@@ -1,137 +1,135 @@
 {
   "artist": {
-    "id": "christoffer-wilhelm-eckersberg",
-    "name": "Christoffer Wilhelm Eckersberg",
-    "dates": "Jan 2, 1783 - Jul 22, 1853",
-    "mainImg": "img/art/artists/christoffer-wilhelm-eckersberg.jpg",
+    "id": "dale-chihuly",
+    "name": "Dale Chihuly",
+    "dates": "Born Sep 20, 1941",
+    "mainImg": "img/art/artists/dale-chihuly.jpg",
     "artworkImgs": [
       {
-        "name": "Mendel Levin Nathanson's Elder Daughters, Bella and Hanna",
-        "path": "img/art/artworks/christoffer-wilhelm-eckersberg-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/mendel-levin-nathanson-s-elder-daughters-bella-and-hanna-c-w-eckersberg/8QF9T-CMgF7tZA"
+        "name": "Royal Blue Mint Chandelier",
+        "path": "img/art/artworks/dale-chihuly-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/royal-blue-mint-chandelier-chihuly-dale-patrick/aQEb65mDRhMXBA"
       },
       {
-        "name": "The Russian Ship of the Line \"Asow\" and a Frigate at Anchor in the Roads of Elsinore",
-        "path": "img/art/artworks/christoffer-wilhelm-eckersberg-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-russian-ship-of-the-line-asow-and-a-frigate-at-anchor-in-the-roads-of-elsinore-c-w-eckersberg/zgGEafAotSQU0g"
+        "name": "Erbium Chandelier with Gilded Putto",
+        "path": "img/art/artworks/dale-chihuly-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/erbium-chandelier-with-gilded-putto/JAGzNCq_THF_4w"
       },
       {
-        "name": "A View through Three Arches of the Third Storey of the Colosseum",
-        "path": "img/art/artworks/christoffer-wilhelm-eckersberg-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/a-view-through-three-arches-of-the-third-storey-of-the-colosseum-c-w-eckersberg/6gHbhM9j6BwodQ"
+        "name": "Nymph Pink Seaform Set with Foam White Lip Wrap",
+        "path": "img/art/artworks/dale-chihuly-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/nymph-pink-seaform-set-with-foam-white-lip-wrap-dale-chihuly/CgGRZUOL4TDpRQ"
       },
       {
-        "name": "At a Window in the Artist's Studio",
-        "path": "img/art/artworks/christoffer-wilhelm-eckersberg-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/at-a-window-in-the-artist-s-studio-c-w-eckersberg/MgEMwFfCO32q1Q"
+        "name": "Navajo Blanket Cylinder (Zig-Zag with Horse Drawing)",
+        "path": "img/art/artworks/dale-chihuly-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/navajo-blanket-cylinder-zig-zag-with-horse-drawing/AAF2j5QKvrTJlQ"
       },
       {
-        "name": "View of the interior of the Colosseum",
-        "path": "img/art/artworks/christoffer-wilhelm-eckersberg-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/view-of-the-interior-of-the-colosseum-christoffer-wilhelm-eckersberg/_gEGI6mCJ-y3DA"
+        "name": "Black Cylinder #3",
+        "path": "img/art/artworks/dale-chihuly-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/black-cylinder-3/agFlPL0-YwmxYQ"
       },
       {
-        "name": "The corvette Najaden under sail",
-        "path": "img/art/artworks/christoffer-wilhelm-eckersberg-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-corvette-najaden-under-sail-christoffer-wilhelm-eckersberg/NwE3JaLaMjWnhw"
+        "name": "Navajo Blanket Cylinder (Star Boyeta)",
+        "path": "img/art/artworks/dale-chihuly-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/navajo-blanket-cylinder-star-boyeta/nwH-aOikQgep4w"
       }
     ],
     "summary": [
-      "Christoffer Wilhelm Eckersberg was a Danish painter. He was born in Blåkrog in the Duchy of Schleswig, to Henrik Vilhelm Eckersberg, painter and carpenter, and Ingeborg Nielsdatter. He went on to lay the foundation for the period of art known as the Golden Age of Danish Painting, and is referred to as the Father of Danish painting."
+      "Dale Chihuly is an American glass sculptor and entrepreneur. His works are considered to possess outstanding artistic merit in the field of blown glass, \"moving it into the realm of large-scale sculpture.\" The technical difficulties of working with glass forms are considerable, yet Chihuly uses it as the primary medium for installations and environmental artwork."
     ],
-    "quote": null,
-    "movements": ["Neoclassicism", "Impressionism", "Romanticism"],
-    "mediums": ["Oil paint", "Drawing", "Ink", "Pen", "Graphite", "Etching"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Christoffer_Wilhelm_Eckersberg",
-    "urlGoogle": "https://artsandculture.google.com/entity/christoffer-wilhelm-eckersberg/m02kgfp"
+    "quote": "“Glass is the most magical of all materials. It transmits light in a special way.”",
+    "movements": [],
+    "mediums": ["Glass", "Sculpture", "Metal", "Gold", "Iron", "Steel"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Dale_Chihuly",
+    "urlGoogle": "https://artsandculture.google.com/entity/dale-chihuly/m02h_g"
   },
   "event": {
-    "id": "battle-of-steenkerque",
-    "name": "Battle of Steenkerque",
-    "dates": null,
-    "mainImg": "img/events/battle-of-steenkerque.jpg",
+    "id": "1954-geneva-conference",
+    "name": "1954 Geneva Conference",
+    "dates": "Apr 26, 1954 - Jul 21, 1954",
+    "mainImg": "img/events/1954-geneva-conference.jpg",
     "summary": [
-      "The Battle of Steenkerque was fought on 3 August 1692, as a part of the Nine Years' War. It resulted in the victory of the French under Marshal François-Henri de Montmorency, duc de Luxembourg against a joint English-Scottish-Dutch-German army under Prince William of Orange. The battle took place near the village of Steenkerque in the Southern Netherlands, 50 kilometres south-west of Brussels. Steenkerque is now part of the Belgian municipality of Braine-le-Comte."
+      "The Geneva Conference was a conference involving several nations that took place in Geneva, Switzerland, from April 26 to July 20, 1954. It was intended to settle outstanding issues resulting from the Korean War and the First Indochina War. The part of the conference on the Korean question ended without adopting any declarations or proposals, so is generally considered less relevant. The Geneva Accords that dealt with the dismantling of French Indochina proved to have long-lasting repercussions, however. The crumbling of the French Empire in Southeast Asia would create the eventual states of the Democratic Republic of Vietnam, the State of Vietnam, the Kingdom of Cambodia, and the Kingdom of Laos.",
+      "Diplomats from South Korea, North Korea, the People's Republic of China, the Union of Soviet Socialist Republics, and the United States of America dealt with the Korean side of the Conference. For the Indochina side, the Accords were between France, the Viet Minh, the USSR, the PRC, the U.S., the United Kingdom, and the future states being made from French Indochina."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Steenkerque",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-steenkerque/m014rvd"
+    "urlWiki": "https://en.wikipedia.org/wiki/1954_Geneva_Conference",
+    "urlGoogle": "https://artsandculture.google.com/entity/1954-geneva-conference/m02x42w"
   },
   "funFacts": [
     {
-      "id": "484",
-      "fact": "Rinsing bacon under cold water before frying can reduce the amount it shrinks by almost 50 percent.",
-      "category": ["Food", "Make-it-Easies"]
+      "id": "311",
+      "fact": "The standard Chinese typewriter has 1,500 characters.",
+      "category": ["Hodgepodge"]
     },
     {
-      "id": "1016",
-      "fact": "Strawberries are grown in every state in the U.S. and every province in Canada.",
-      "category": ["Plants", "Geography"]
+      "id": "780",
+      "fact": "The indentation between the nose and the upper lip is called the philtrum.",
+      "category": ["Anatomy", "Definitions"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553856",
-      "fact": "Floccinaucinihilipilification—one of the longest words in the English language—is the act of estimating that something is worthless."
+      "id": "504704",
+      "fact": "During WWII, La-Z-Boy manufactured seats for tanks, torpedo boats, gun turrets, and armored cars."
     }
   ],
   "idiom": {
-    "id": "cock-a-snook",
-    "term": "cock a snook",
-    "definition": "Thumb one's nose, as in *As soon as the teacher turned her back, the boys cocked a snook at her.* This expression was first recorded in 1791 and the precise source of *snook,* here used in the sense of \"a derisive gesture,\" has been lost. It is more widely used in Britain but is not unknown in America."
+    "id": "the-course-of-true-love-never-ran-smoothly",
+    "term": "the course of true love never ran smoothly",
+    "definition": "Lovers often face difficulties, as in *Every time he tells me that he and his wife are fighting, I say the same thing--- you know about the course of true love.* The full term is a quotation from Shakespeare's *A Midsummer Night's Dream* (1:1): \"The course of true love never did run smooth.\" Over the years it has become so familiar that today it is often shortened, as in the example."
   },
   "person": {
-    "id": "george-curzon-1-st-marquess-curzon-of-kedleston",
-    "name": "George Curzon, 1st Marquess Curzon of Kedleston",
-    "dates": "Jan 11, 1859 - Mar 20, 1925",
-    "mainImg": "img/people/george-curzon-1-st-marquess-curzon-of-kedleston.jpg",
+    "id": "paolo-gentiloni",
+    "name": "Paolo Gentiloni",
+    "dates": "Born Nov 22, 1954",
+    "mainImg": "img/people/paolo-gentiloni.jpg",
     "summary": [
-      "George Nathaniel Curzon, 1st Marquess Curzon of Kedleston, KG, GCSI, GCIE, PC, FBA, who was styled as Lord Curzon of Kedleston between 1898 and 1911, and as Earl Curzon of Kedleston between 1911 and 1921, and was known commonly as Lord Curzon, was a British Conservative statesman who served as Viceroy of India from 1899 to 1905, during which time he created the territory of Eastern Bengal and Assam, and fought with the British military commander Lord Kitchener. During the First World War he served in the small War Cabinet of Prime Minister David Lloyd George as Leader of the House of Lords, as well as the War Policy Committee. He served as Secretary of State for Foreign Affairs from 1919 to 1924.",
-      "Despite his successes as both Viceroy and Foreign Secretary, in 1923 Curzon was denied the office of Prime Minister. Bonar Law and other Conservative Party leaders preferred to have Stanley Baldwin rather than Curzon as prime minister and these views were made known to King George V. Sir David Gilmour, in his biography Curzon: Imperial Statesman, contends that Curzon deserved the top position."
+      "Paolo Gentiloni Silveri is an Italian politician serving as European Commissioner for Economy in the von der Leyen Commission since 1 December 2019. He previously was the 57th prime minister of Italy from 2016 to 2018.",
+      "Gentiloni is a founding member of the Democratic Party, of which he became President in March 2019. Gentiloni served as Minister of Foreign Affairs from 31 October 2014 until December 2016, when President Sergio Mattarella appointed him as Prime Minister. Previously, he was Minister of Communications from 2006 to 2008, during the second government of Romano Prodi.",
+      "Despite being considered a caretaker Prime Minister at the beginning of his term, during his year and a half tenure, Gentiloni promoted the implementation and the approval of several reforms like the advance healthcare directive and a new electoral law. His government also introduced more severe and stricter rules regarding immigration to Italy and social security, to counteract the European migration crisis."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/George_Curzon,_1st_Marquess_Curzon_of_Kedleston",
-    "urlGoogle": "https://artsandculture.google.com/entity/george-curzon-1st-marquess-curzon-of-kedleston/m016t28"
+    "urlWiki": "https://en.wikipedia.org/wiki/Paolo_Gentiloni",
+    "urlGoogle": "https://artsandculture.google.com/entity/paolo-gentiloni/m0d6l02"
   },
   "place": {
-    "id": "akron",
-    "name": "Akron",
-    "mainImg": "img/places/akron.jpg",
+    "id": "lucerne",
+    "name": "Lucerne",
+    "mainImg": "img/places/lucerne.jpg",
     "summary": [
-      "Akron is the fifth-largest city in the U.S. state of Ohio and is the county seat of Summit County. It is located on the western edge of the Glaciated Allegheny Plateau, about 30 miles south of Cleveland. As of the 2019 Census estimate, the city proper had a total population of 197,597, making it the 125th largest city in the United States. The Greater Akron area, covering Summit and Portage counties, had an estimated population of 703,505.",
-      "The city was founded in 1825 by Simon Perkins and Paul Williams, along the Little Cuyahoga River at the summit of the developing Ohio and Erie Canal. The name is derived from the Greek word signifying a summit or high point. It was briefly renamed South Akron after Eliakim Crosby founded nearby North Akron in 1833, until both merged into an incorporated village in 1836. In the 1910s, Akron doubled in population, making it the nation's fastest-growing city.",
-      "A long history of rubber and tire manufacturing, carried on today by Goodyear Tire, gave Akron the nickname \"Rubber Capital of the World\". It was once known as a center of airship development."
+      "Lucerne is a city in central Switzerland, in the German-speaking portion of the country. Lucerne is the capital of the canton of Lucerne and part of the district of the same name. With a population of approximately 82,000 people, Lucerne is the most populous town in Central Switzerland, and a nexus of economics, transportation, culture, and media in the region. The city's urban area consists of 19 municipalities and towns with an overall population of about 220,000 people.",
+      "Owing to its location on the shores of Lake Lucerne and its outflow, the river Reuss, within sight of the mounts Pilatus and Rigi in the Swiss Alps, Lucerne has long been a destination for tourists. One of the city's famous landmarks is the Chapel Bridge, a wooden bridge first erected in the 14th century.",
+      "The official language of Lucerne is German, but the main spoken language is the local variant of the Alemannic Swiss German dialect."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Akron,_Ohio",
-    "urlGoogle": "https://artsandculture.google.com/entity/akron/m0z20d"
+    "urlWiki": "https://en.wikipedia.org/wiki/Lucerne",
+    "urlGoogle": "https://artsandculture.google.com/entity/lucerne/m0194f5"
   },
   "quote": {
-    "id": "69",
-    "quote": "Truly effective and inspiring leaders aren't driven to lead people, they are driven to serve them.",
-    "author": "Simon Sinek"
+    "id": "78",
+    "quote": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+    "author": "Michelangelo"
   },
   "wiki": {
-    "id": "sequence-alignment",
-    "name": "Sequence alignment",
-    "summary": "A sequence alignment in bioinformatics is a way of arranging DNA, RNA, or protein primary sequences to emphasize their regions of similarity, which may indicate functional or evolutionary relationships between the genes or proteins in the query. Aligned sequences are typically written with their characters (generally representing amino acids or nucleotides) in columns into which gaps are inserted so that residues with identical or similar characters are aligned in the successive columns. If two sequences in an alignment share a common ancestor, mismatches can be interpreted as point mutations and gaps as indels (that is, insertion or deletion mutations) introduced in one or both lineages in the time since they diverged from one another. In protein sequence alignment, the degree of similarity between amino acids occupying a particular position in the sequence can be interpreted as a rough measure of how conserved a particular region or sequence motif is among lineages.",
-    "url": "https://en.wikipedia.org/wiki/Sequence_alignment"
+    "id": "waterfall-gully-south-australia",
+    "name": "Waterfall Gully, South Australia",
+    "summary": "Waterfall Gully is a small suburb in the South Australian city of Adelaide. It is located in the foothills of the Mount Lofty Ranges around five kilometres east of Adelaide's central business district (CBD). For the most part, the suburb encompasses one long gully with First Creek at its centre and Waterfall Gully Road adjacent to the creek. At one end of the gully is the waterfall for which the suburb was named. Part of the Burnside Council, it is bounded to the north by the suburb of Burnside, to the north-east by Greenhill, to the south-east by Cleland Conservation Park, to the south-west by Leawood Gardens and to the north-west by Mount Osmond. Waterfall Gully is rich in history and has been a popular attraction since Adelaide's early colonists discovered the area in the nineteenth century. Home to a number of residents and increasingly frequented by tourists, Waterfall Gully has undergone extensive developments in recent years.",
+    "url": "https://en.wikipedia.org/wiki/Waterfall_Gully,_South_Australia"
   },
   "word": {
-    "id": "syllepsis",
-    "word": "syllepsis",
-    "url": "https://www.merriam-webster.com/dictionary/syllepsis",
-    "partOfSpeech": "noun",
-    "pronunciation": "suh-LEP-sis",
-    "audioPath": "audio/words/syllepsis.mp3",
-    "definitions": [
-      "the use of a word to modify or govern syntactically two or more words with only one of which it formally agrees in gender, number, or case",
-      "the use of a word in the same grammatical relation to two adjacent words in the context with one literal and the other metaphorical in sense"
-    ],
+    "id": "zaftig",
+    "word": "zaftig",
+    "url": "https://www.merriam-webster.com/dictionary/zaftig",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ZAHF-tig",
+    "audioPath": "audio/words/zaftig.mp3",
+    "definitions": ["having a full rounded figure : pleasingly plump"],
     "examples": [
-      "Jeannie held the door open for her unwelcome guest and, in a clever use of _syllepsis_, said, \"Take a hint and a hike!\"",
-      "\"… it works as two words in one: _She shot the rapids and her boyfriend_. _Syllepsis_ produces a surprise, almost requiring the reader to go back and reparse the sentence to savor the double meaning of the word.\" - Jeanne Fahnestock, _Rhetorical Figures in Science_, 2002"
+      "The Flemish painters were masters of the oil medium, rendering zaftig beauties, robust burghers, hunting scenes, and allegorical subjects with subtle interplays of light and color."
     ],
-    "origin": "Charles Dickens made good use of _syllepsis_ in _The Pickwick Papers_ when he wrote that his character Miss Bolo \"went straight home, in a flood of tears and a sedan chair.\" Such uses, defined at sense 2 above, are humorously incongruous, but they’re not grammatically incorrect. _Syllepsis_ as defined at sense 1, however, is something to be generally avoided. For example, take this sentence, \"She exercises to keep healthy and I to lose weight.\" The syllepsis occurs with the verb exercises. The problem is that only one subject, \"she\" (not \"I\"), agrees with the verb. The word _syllepsis_ derives from the Greek _syllēpsis_, and ultimately from _syllambanein_, meaning \"to gather together.\" It has been used in English since at least 1550."
+    "origin": "\"Real women have curves,\" as a 2002 movie title proclaimed. They are pleasingly plump, full-figured, shapely, womanly, curvy, curvaceous, voluptuous, statuesque. They are, in a word, zaftig. \"Zaftig\" has been juicing up our language since the 1930s (the same decade that gave us Yiddish-derived \"futz,\" \"hoo-ha,\" \"nosh,\" and \"schmaltz,\" not to mention \"lox\"). It comes from the Yiddish \"zaftik,\" which means \"juicy\" or \"succulent\" and which in turn derives from \"zaft,\" meaning \"juice\" or \"sap.\""
   }
 }

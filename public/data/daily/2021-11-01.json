@@ -1,0 +1,123 @@
+{
+  "artist": {
+    "id": "jack-kirby",
+    "name": "Jack Kirby",
+    "dates": "Aug 28, 1917 - Feb 6, 1994",
+    "mainImg": "img/art/artists/jack-kirby.jpg",
+    "artworkImgs": [
+      {
+        "name": "Silver Surfer Comic 30th Anniversary",
+        "path": "img/art/artworks/jack-kirby-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/silver-surfer-comic-30th-anniversary-marvel-comics-jack-kirby/TAELwk9Xb6cjcg"
+      },
+      {
+        "name": "\"Lend Him a Hand\" Buy Liberty Bonds",
+        "path": "img/art/artworks/jack-kirby-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/lend-him-a-hand-buy-liberty-bonds-liberty-loan-committee-second-federal-reserve-district/JAHHaSNOGh3Ejg"
+      },
+      {
+        "name": "The Silver Surfer",
+        "path": "img/art/artworks/jack-kirby-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/the-silver-surfer-jack-kirby/HQH2czxNTl9uQA"
+      },
+      {
+        "name": "\"Lend Him a Hand\" Buy Liberty Bonds",
+        "path": "img/art/artworks/jack-kirby-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/lend-him-a-hand-buy-liberty-bonds-liberty-loan-committee-second-federal-reserve-district/SgHj32TetDvKBw"
+      },
+      {
+        "name": "\"Lend Him a Hand\" Buy Liberty Bonds. Leslie - Judge Company.",
+        "path": "img/art/artworks/jack-kirby-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/lend-him-a-hand-buy-liberty-bonds-leslie-judge-company-liberty-bonds/kAEMe71wHYlFwQ"
+      }
+    ],
+    "summary": [
+      "Jacob \"Kirby\" Kurtzberg was an American comic book artist, writer and editor, widely regarded as one of the medium's major innovators and one of its most prolific and influential creators. He grew up in New York City and learned to draw cartoon figures by tracing characters from comic strips and editorial cartoons. He entered the nascent comics industry in the 1930s, drawing various comics features under different pen names, including Jack Curtiss, before ultimately settling on Jack Kirby. In 1940, he and writer-editor Joe Simon created the highly successful superhero character Captain America for Timely Comics, predecessor of Marvel Comics. During the 1940s, Kirby regularly teamed with Simon, creating numerous characters for that company and for National Comics Publications, later to become DC Comics.",
+      "After serving in the European Theater in World War II, Kirby produced work for DC Comics, Harvey Comics, Hillman Periodicals and other publishers. At Crestwood Publications, he and Simon created the genre of romance comics and later founded their own short-lived comic company, Mainline Publications."
+    ],
+    "quote": "“Life at best is bittersweet.”",
+    "movements": [],
+    "mediums": [],
+    "urlWiki": "https://en.wikipedia.org/wiki/Jack_Kirby",
+    "urlGoogle": "https://artsandculture.google.com/entity/jack-kirby/m046_v"
+  },
+  "event": {
+    "id": "apollo-program",
+    "name": "Apollo program",
+    "dates": "1961 - 1975",
+    "mainImg": "img/events/apollo-program.jpg",
+    "summary": [
+      "The Apollo program, also known as Project Apollo, was the third United States human spaceflight program carried out by the National Aeronautics and Space Administration, which succeeded in landing the first men on the Moon from 1969 to 1972. It was first conceived during Dwight D. Eisenhower's administration as a three-person spacecraft to follow the one-person Project Mercury, which put the first Americans in space. Apollo was later dedicated to President John F. Kennedy's national goal of \"landing a man on the Moon by the end of this decade and returning him safely to the Earth\" in an address to Congress on May 25, 1961. It was the third US human spaceflight program to fly, preceded by the two-person Project Gemini conceived in 1961 to extend spaceflight capability in support of Apollo.",
+      "Kennedy's goal was accomplished on the Apollo 11 mission when astronauts Neil Armstrong and Buzz Aldrin landed their Apollo Lunar Module on July 20, 1969, and walked on the lunar surface, while Michael Collins remained in lunar orbit in the command and service module, and all three landed safely on Earth on July 24."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Apollo_program",
+    "urlGoogle": "https://artsandculture.google.com/entity/apollo-program/m0q3w"
+  },
+  "funFacts": [
+    {
+      "id": "942",
+      "fact": "Curly hair follicles are oval, while straight hair follicles are round.",
+      "category": ["Anatomy", "Science"]
+    },
+    {
+      "id": "927",
+      "fact": "John Adams was the only President to be defeated by his Vice President, Thomas Jefferson.",
+      "category": ["History", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553858",
+      "fact": "Nineteenth-century British surgeon George Merryweather believed leeches could predict the weather. His \"tempest prognosticator,\" displayed at the Great Exhibition in 1851, failed to catch on."
+    }
+  ],
+  "person": {
+    "id": "jimmy-doolittle",
+    "name": "Jimmy Doolittle",
+    "dates": "Dec 14, 1896 - Sep 27, 1993",
+    "mainImg": "img/people/jimmy-doolittle.jpg",
+    "summary": [
+      "James Harold Doolittle was an American military general and aviation pioneer. He made early coast-to-coast flights, won many flying races, and helped develop instrument flying.",
+      "Doolittle studied as an undergraduate at University of California, Berkeley, graduating with a Bachelor of Arts in 1922 and earning a doctorate in aeronautics from the Massachusetts Institute of Technology in 1925. He was a flying instructor during World War I and a Reserve officer in the United States Army Air Corps, but he was recalled to active duty during World War II. He was awarded the Medal of Honor for personal valor and leadership as commander of the Doolittle Raid, a bold long-range retaliatory air raid on some of the Japanese main islands on April 18, 1942, four months after the attack on Pearl Harbor. The attack was a major morale booster for the United States and Doolittle was celebrated as a hero.",
+      "Doolittle was promoted to lieutenant general and commanded the Twelfth Air Force over North America, the Fifteenth Air Force over the Mediterranean, and the Eighth Air Force over Europe."
+    ],
+    "quote": "“The first lesson is that you can't lose a war if you have command of the air, and you can't win a war if you haven't.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
+    "urlGoogle": "https://artsandculture.google.com/entity/jimmy-doolittle/m012xls"
+  },
+  "place": {
+    "id": "xian",
+    "name": "Xi'an",
+    "mainImg": "img/places/xian.jpg",
+    "summary": [
+      "Xi'an, also known as Sian, is the capital of Shaanxi Province. A sub-provincial city on the Guanzhong Plain in Northwest China, it is one of the oldest cities in China, the oldest prefecture capital and one of the Four Great Ancient Capitals, having held the position under several of the most important dynasties in Chinese history, including Western Zhou, Qin, Western Han, Sui and Tang. Xi'an is the starting point of the Silk Road and home to the Terracotta Army of Emperor Qin Shi Huang.",
+      "Since the 1980s, as part of the economic revival of inland China especially for the central and northwest regions, the city of Xi'an has re-emerged as an important cultural, industrial and educational centre of the central-northwest region, with facilities for research and development, national security and space exploration. Xi'an currently holds sub-provincial status, administering 9 districts and 4 counties. As of 2018 Xi'an has a population of 12,005,600 and the Xi'an–Xianyang metropolitan area a population of 12.9 million. It is the most populous city in Northwest China, as well as one of the three most populous cities in Western China, the other two being Chongqing and Chengdu."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Xi%27an",
+    "urlGoogle": "https://artsandculture.google.com/entity/xi-an/m0kzd9"
+  },
+  "wiki": {
+    "id": "cambodia",
+    "name": "Cambodia",
+    "summary": "Cambodia is a constitutional monarchy in Southeast Asia with a population of over 13 million people, most of whom are Theravada Buddhists of Khmer origin. The country is bordered to the west by Thailand, to the north by Laos, to the east by Vietnam and to the south by the Gulf of Thailand. Its geography is dominated by the Mekong river and the Tonle Sap, a lake whose fish account for 60% of the nation's protein intake. The capital is Phnom Penh. There are three main political parties, of which the Cambodian People's Party is the current ruling party. From the 9th century to the 15th century Cambodia was the centre of the Khmer Empire, which for most of this period was based at Angkor. Angkor Wat, the empire's main temple, remains a symbol of the country and its greatest tourist attraction. Cambodia was a protectorate of France from 1863 until independence in 1953. During the 1970s and 1980s the country suffered from civil war and the Khmer Rouge autogenocide. Many people were killed or tortured, or fled abroad as refugees. In the 1990s, however, Cambodia has gained some stability and has begun rebuilding the infrastructure that was lost during those years.",
+    "url": "https://en.wikipedia.org/wiki/Cambodia"
+  },
+  "word": {
+    "id": "metonymy",
+    "word": "metonymy",
+    "url": "https://www.merriam-webster.com/dictionary/metonymy",
+    "partOfSpeech": "noun",
+    "pronunciation": "muh-TAH-nuh-mee",
+    "audioPath": "audio/words/metonymy.mp3",
+    "definitions": [
+      "a figure of speech consisting of the use of the name of one thing for that of another of which it is an attribute or with which it is associated"
+    ],
+    "examples": [
+      "American journalists employ _metonymy_ whenever they say \"the White House\" in place of \"the president and his administration.\"",
+      "\"It's common for headline-writers to refer to the Big Three automakers-Ford, Chrysler, and GM-as 'Detroit.' But that _metonymy_ is misleading in a very important way. The fortunes of Detroit the city are no longer tied up with the fortunes of the Big Three automakers.\" - From an article by Brad Plumer in _The Washington Post_, July 19, 2013"
+    ],
+    "origin": "When Mark Antony asks the people of Rome to lend him their ears in William Shakespeare's play Julius Caesar, he is employing the rhetorical device known as metonymy. Derived via Latin from Greek \"metonymia\" (from \"meta-,\" meaning \"among, with, or after,\" and \"onyma,\" meaning \"name\"), metonymy often appears in news articles and headlines, as when journalists use the term \"crown\" to refer to a king or queen. Another common example is the use of an author's name to refer to works written by that person, as in \"He is studying Hemingway.\" Metonymy is closely related to synecdoche, which refers to the naming of a part of something to refer to the whole thing (or vice versa), as in \"We hired extra hands to help us.\""
+  }
+}

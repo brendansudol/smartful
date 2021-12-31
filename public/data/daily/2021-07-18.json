@@ -1,128 +1,132 @@
 {
   "artist": {
-    "id": "ford-madox-brown",
-    "name": "Ford Madox Brown",
-    "dates": "Apr 16, 1821 - Oct 6, 1893",
-    "mainImg": "img/art/artists/ford-madox-brown.jpg",
+    "id": "eastman-johnson",
+    "name": "Eastman Johnson",
+    "dates": "Jul 29, 1824 - May 5, 1906",
+    "mainImg": "img/art/artists/eastman-johnson.jpg",
     "artworkImgs": [
       {
-        "name": "`Take your Son, Sir'",
-        "path": "img/art/artworks/ford-madox-brown-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/take-your-son-sir-ford-madox-brown/mAEZ0P8jT03sWQ"
+        "name": "Grover Cleveland",
+        "path": "img/art/artworks/eastman-johnson-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/grover-cleveland/dAGdmE21_IkbyA"
       },
       {
-        "name": "Romeo and Juliet",
-        "path": "img/art/artworks/ford-madox-brown-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/romeo-and-juliet/fAHsGFNvgsoDMA"
+        "name": "Fiddling His Way",
+        "path": "img/art/artworks/eastman-johnson-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/fiddling-his-way-eastman-johnson/6wGoEXkqFK75tw"
       },
       {
-        "name": "The Coat of Many Colours",
-        "path": "img/art/artworks/ford-madox-brown-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-coat-of-many-colours-ford-madox-brown/6AGSfaDeVwiunQ"
+        "name": "Dinah, Portrait of a Negress",
+        "path": "img/art/artworks/eastman-johnson-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/dinah-portrait-of-a-negress-eastman-johnson/DAFwTkaK23dm7g"
       },
       {
-        "name": "Jacob and Joseph's Coat",
-        "path": "img/art/artworks/ford-madox-brown-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/jacob-and-joseph-s-coat-ford-madox-brown/YQGkM-hkHfG2JQ"
+        "name": "Benjamin Harrison",
+        "path": "img/art/artworks/eastman-johnson-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/benjamin-harrison/4QFSfnhgIWopwA"
       },
       {
-        "name": "The Death of Eglon (Dalziels' Bible Gallery)",
-        "path": "img/art/artworks/ford-madox-brown-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-death-of-eglon-dalziels-bible-gallery-camden-press-scribner-and-welford-dalziel-brothers-ford-madox-brown/ywEvUdbrHy1Jjg"
+        "name": "A Ride for Liberty -- The Fugitive Slaves",
+        "path": "img/art/artworks/eastman-johnson-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-ride-for-liberty-the-fugitive-slaves/cgH8oSFi9cJh8g"
       },
       {
-        "name": "Chaucer at the court of Edward III",
-        "path": "img/art/artworks/ford-madox-brown-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/chaucer-at-the-court-of-edward-iii-ford-madox-brown/9AFtH_gfksLXyQ"
+        "name": "Southern Courtship",
+        "path": "img/art/artworks/eastman-johnson-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/southern-courtship-eastman-johnson/xgHkTFIRmESomQ"
       }
     ],
     "summary": [
-      "Ford Madox Brown was a British painter of moral and historical subjects, notable for his distinctively graphic and often Hogarthian version of the Pre-Raphaelite style. Arguably, his most notable painting was Work. Brown spent the latter years of his life painting the twelve works known as The Manchester Murals, depicting Mancunian history, for Manchester Town Hall."
+      "Jonathan Eastman Johnson was an American painter and co-founder of the Metropolitan Museum of Art, New York City, with his name inscribed at its entrance. He was best known for his genre paintings, paintings of scenes from everyday life, and his portraits both of everyday people and prominent Americans such as Abraham Lincoln, Nathaniel Hawthorne, Ralph Waldo Emerson, and Henry Wadsworth Longfellow. His later works often show the influence of the 17th-century Dutch masters, whom he studied in The Hague in the 1850s; he was known as The American Rembrandt in his day."
     ],
     "quote": null,
-    "movements": [
-      "Realism",
-      "Pre-Raphaelite Brotherhood",
-      "Arts and Crafts movement",
-      "Romanticism",
-      "Academic art"
-    ],
-    "mediums": ["Oil paint", "Chalk", "Pigment", "Watercolor painting", "Laid paper", "Wood"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Ford_Madox_Brown",
-    "urlGoogle": "https://artsandculture.google.com/entity/ford-madox-brown/m031ch"
+    "movements": ["American Realism", "Realism"],
+    "mediums": ["Oil paint", "Graphite", "Cardboard", "Chalk", "Pigment", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Eastman_Johnson",
+    "urlGoogle": "https://artsandculture.google.com/entity/eastman-johnson/m03bf3z"
   },
   "event": {
-    "id": "second-schleswig-war",
-    "name": "Second Schleswig War",
-    "dates": "Feb 1, 1864 - Oct 30, 1864",
-    "mainImg": "img/events/second-schleswig-war.jpg",
+    "id": "chernobyl-disaster",
+    "name": "Chernobyl disaster",
+    "dates": "Apr 25, 1986 - Apr 25, 1986",
+    "mainImg": "img/events/chernobyl-disaster.jpg",
     "summary": [
-      "The Second Schleswig War was the second military conflict over the Schleswig-Holstein Question of the nineteenth century. The war began on 1 February 1864, when Prussian and Austrian forces crossed the border into Schleswig. Denmark fought the Kingdom of Prussia and the Austrian Empire. Like the First Schleswig War, it was fought for control of the duchies of Schleswig, Holstein and Lauenburg, due to the succession disputes concerning them when the Danish king died without an heir acceptable to the German Confederation. The war started after the passing of the November Constitution of 1863, which integrated the Duchy of Schleswig into the Danish kingdom in violation of the London Protocol.",
-      "The war ended on 30 October 1864, with the Treaty of Vienna and Denmark's cession of the Duchies of Schleswig, Holstein and Saxe-Lauenburg to Prussia and Austria."
+      "The Chernobyl disaster was caused by a nuclear accident that occurred on Saturday 26 April 1986, at the No. 4 reactor in the Chernobyl Nuclear Power Plant, near the city of Pripyat in the north of the Ukrainian SSR. It is considered the worst nuclear disaster in history and was caused by one of only two nuclear energy accidents rated at seven—the maximum severity—on the International Nuclear Event Scale, the other being the 2011 Fukushima Daiichi nuclear disaster in Japan.",
+      "The accident started during a safety test on an RBMK-type nuclear reactor, which was commonly used throughout the Soviet Union. The test was a simulation of an electrical power outage to aid the development of a safety procedure for maintaining reactor cooling water circulation until the back-up electrical generators could provide power. This gap was about one minute and had been identified as a potential safety problem that could cause the nuclear reactor core to overheat. It was hoped to prove that the residual rotational energy in a turbine generator could provide enough power to cover the gap. Three such tests had been conducted since 1982, but they had failed to provide a solution."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Second_Schleswig_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/second-schleswig-war/m02pc_b"
+    "urlWiki": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+    "urlGoogle": "https://artsandculture.google.com/entity/chernobyl-disaster/m07q37w"
   },
   "funFacts": [
     {
-      "id": "886",
-      "fact": "The bumblebee bat is one of the smallest mammals on Earth.  It weighs less than a penny.",
-      "category": ["Animals"]
+      "id": "982",
+      "fact": "Cows do not have upper front teeth.",
+      "category": ["Animals", "Science"]
     },
     {
-      "id": "810",
-      "fact": "Australia is the only continent without an active volcano.",
-      "category": ["Geography", "Onlies"]
+      "id": "285",
+      "fact": "In ancient Rome, lemons were used as an antidote to all poisons.",
+      "category": ["Food", "History"]
     }
   ],
-  "funFacts2": [{ "id": "505075", "fact": "The national animal of Scotland is the unicorn." }],
+  "funFacts2": [
+    {
+      "id": "553736",
+      "fact": "The Mayflower landed at Plymouth Rock in 1620. A journal from the ship reads, “We could not now take time for further search or consideration; our victuals being much spent especially our Beere.”"
+    }
+  ],
   "idiom": {
-    "id": "stew-in-ones-own-juice",
-    "term": "stew in one's own juice",
-    "definition": "Suffer the consequences of one's actions, as in *He's run into debt again, but this time we're leaving him to stew in his own juice.* This metaphoric term alludes to cooking something in its own liquid. Versions of it, such as *fry in one's own grease,* date from Chaucer's time, but the present term dates from the second half of the 1800s."
+    "id": "bright-eyed-and-bushy-tailed",
+    "term": "bright-eyed and bushy-tailed",
+    "definition": "Eager and alert, as in *Here is my new kindergarten class, all bright-eyed and bushy-tailed.* The allusion here is to the appearance of a squirrel, which with its beady eyes and bushy tail looks ready for anything. [1930s]"
   },
   "person": {
-    "id": "sir-john-hotham-1-st-baronet",
-    "name": "Sir John Hotham, 1st Baronet",
-    "dates": "July 1589 - Jan 3, 1645",
-    "mainImg": "img/people/sir-john-hotham-1-st-baronet.jpg",
+    "id": "pal-maleter",
+    "name": "Pál Maléter",
+    "dates": "Sep 4, 1917 - Jun 16, 1958",
+    "mainImg": "img/people/pal-maleter.jpg",
     "summary": [
-      "Sir John Hotham, 1st Baronet of Scorborough Hall, near Driffield, Yorkshire, was an English Member of Parliament who was Governor of Hull in 1642 shortly before the start of the Civil War. He refused to allow King Charles I or any member of his entourage to enter the town, thereby depriving the king of access to the large arsenal contained within. Later in the Civil War he and his son John Hotham the younger were accused of treachery to the Parliamentarian cause, found guilty and executed on Tower Hill."
+      "Pál Maléter was the military leader of the 1956 Hungarian Revolution.",
+      "Maléter was born to Hungarian parents in Eperjes, a city in Sáros County, in the northern part of Historical Hungary, today Prešov, Slovakia. He studied medicine at the Charles University, Prague, before moving to Budapest in 1938, going to the military academy there. He fought on the Eastern Front of World War II for Axis, until captured by the Red Army. He became a Communist, trained in sabotage, fought against the Germans in Transylvania and was sent back to Hungary, where he was noted for his courage and daring.",
+      "In 1956 he was a colonel and the commander of an armoured division stationed in Budapest when he was sent to suppress the Hungarian Uprising, but on making contact with the insurgents he decided to join them, helping to defend the Kilian Barracks. He was the most prominent member of the Hungarian military to change sides, allying himself with the insurgents rather than with Gerő's communist government."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Sir_John_Hotham,_1st_Baronet",
-    "urlGoogle": "https://artsandculture.google.com/entity/sir-john-hotham-1st-baronet/m023sd8"
+    "urlWiki": "https://en.wikipedia.org/wiki/P%C3%A1l_Mal%C3%A9ter",
+    "urlGoogle": "https://artsandculture.google.com/entity/pál-maléter/m03b9yb"
   },
   "place": {
-    "id": "jamaica",
-    "name": "Jamaica",
-    "mainImg": "img/places/jamaica.jpg",
+    "id": "south-sudan",
+    "name": "South Sudan",
+    "mainImg": "img/places/south-sudan.jpg",
     "summary": [
-      "Jamaica is an island country situated in the Caribbean Sea. Spanning 10,990 square kilometres in area, it is the third-largest island of the Greater Antilles and the Caribbean. Jamaica lies about 145 kilometres south of Cuba, and 191 kilometres west of Hispaniola; the British Overseas Territory of the Cayman Islands lies some 215 kilometres to the north-west.",
-      "Originally inhabited by the indigenous Arawak and Taíno peoples, the island came under Spanish rule following the arrival of Christopher Columbus in 1494. Many of the indigenous people were either killed or died of diseases to which they had no immunity, and the Spanish thus forcibly transplanted large numbers of African slaves to Jamaica as labourers. The island remained a possession of Spain until 1655, when England conquered it, renaming it Jamaica. Under British colonial rule Jamaica became a leading sugar exporter, with a plantation economy dependent on the African slaves and later their descendants. The British fully emancipated all slaves in 1838, and many freedmen chose to have subsistence farms rather than to work on plantations."
+      "South Sudan, officially known as the Republic of South Sudan, is a landlocked country in East-Central Africa. It is bordered to the east by Ethiopia, to the north by Sudan, to the west by the Central African Republic, to the south-west by Democratic Republic of the Congo, to the south by Uganda and to the south east by Kenya.",
+      "It gained independence from the Republic of the Sudan in 2011, making it the most recent sovereign state or country with widespread recognition. Its capital and largest city is Juba. It includes the vast swamp region of the Sudd, formed by the White Nile and known locally as the Bahr al Jabal, meaning \"Mountain Sea\". Sudan was occupied by Egypt under the Muhammad Ali dynasty and was governed as an Anglo-Egyptian condominium until Sudanese independence in 1956. Following the First Sudanese Civil War, the Southern Sudan Autonomous Region was formed in 1972 and lasted until 1983. A second Sudanese civil war soon broke out, ending in 2005 with the Comprehensive Peace Agreement. Later that year, southern autonomy was restored when an Autonomous Government of Southern Sudan was formed."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Jamaica",
-    "urlGoogle": "https://artsandculture.google.com/entity/jamaica/m03_r3"
+    "urlWiki": "https://en.wikipedia.org/wiki/South_Sudan",
+    "urlGoogle": "https://artsandculture.google.com/entity/south-sudan/m05rznz"
   },
   "wiki": {
-    "id": "enzyme-inhibitor",
-    "name": "Enzyme inhibitor",
-    "summary": "Enzyme inhibitors are molecules that bind to enzymes and decrease their activity. Since blocking an enzyme's activity can kill a pathogen or correct a metabolic imbalance, many drugs are enzyme inhibitors. Inhibitor binding is either reversible or irreversible. Irreversible inhibitors usually react with the enzyme and change it chemically. These inhibitors modify key amino acid residues needed for enzymatic activity. In contrast, reversible inhibitors bind non-covalently and different types of inhibition are produced depending on whether these inhibitors bind the enzyme, the enzyme-substrate complex, or both. Their discovery and improvement is an active area of research in biochemistry and pharmacology. A medicinal enzyme inhibitor is often judged by its specificity (its lack of binding to other proteins) and its potency (its dissociation constant, which indicates the concentration needed to inhibit the enzyme). A high specificity and potency ensure that a drug will have few side effects and thus low toxicity. Enzyme inhibitors also occur naturally and are involved in the regulation of metabolism.",
-    "url": "https://en.wikipedia.org/wiki/Enzyme_inhibitor"
+    "id": "mario-de-andrade",
+    "name": "Mário de Andrade",
+    "summary": "Mário de Andrade was a Brazilian poet, novelist, musicologist, art historian and critic, and photographer. One of the founders of Brazilian modernism, he virtually created modern Brazilian poetry with the publication of his Paulicéia Desvairada (Hallucinated City) in 1922. He has had an enormous influence on Brazilian literature in the 20th and 21st centuries, and as a scholar and essayist—he was a pioneer of the field of ethnomusicology—his influence has reached far beyond Brazil. Andrade was the central figure in the avant-garde movement of São Paulo for 20 years. Trained as a musician and best-known as a poet and novelist, Andrade was personally involved in virtually every discipline that was connected with São Paulo modernism, and became Brazil's national polymath. He was the driving force behind the Week of Modern Art, the 1922 event that reshaped both literature and the visual arts in Brazil. At the end of his life, he became the founding director of São Paulo's Department of Culture, formalizing a role he had long held as the catalyst of the city's—and the nation's—entry into artistic modernity.",
+    "url": "https://en.wikipedia.org/wiki/M%C3%A1rio_de_Andrade"
   },
   "word": {
-    "id": "hebetude",
-    "word": "hebetude",
-    "url": "https://www.merriam-webster.com/dictionary/hebetude",
+    "id": "aphelion",
+    "word": "aphelion",
+    "url": "https://www.merriam-webster.com/dictionary/aphelion",
     "partOfSpeech": "noun",
-    "pronunciation": "HEB-uh-tood",
-    "audioPath": "audio/words/hebetude.mp3",
-    "definitions": ["lethargy, dullness"],
-    "examples": [
-      "The hebetude and ennui displayed by such bright students was just one sign that they were not being sufficiently challenged in their classes."
+    "pronunciation": "a-FEEL-yun",
+    "audioPath": "audio/words/aphelion.mp3",
+    "definitions": [
+      "the point in the path of a celestial body (such as a planet) that is farthest from the sun"
     ],
-    "origin": "\"Hebetude\" usually suggests mental dullness, often marked by laziness or torpor. As such, it was a good word for one Queenslander correspondent, who wrote in a letter to the editor of the _Weekend Australian_ of \"an epidemic of hebetude among young people who … are placing too great a reliance on electronic devices to do their thinking and remembering.\" \"Hebetude\" comes from Late Latin \"hebetudo,\" which means pretty much the same thing as our word. It is also closely related to the Latin word for \"dull\" -- \"hebes,\" which has extended meanings such as \"obtuse,\" \"doltish,\" and \"stupid.\" Other \"hebe-\" words in English include \"hebetudinous\" (\"marked by hebetude\") and \"hebetate\" (\"to make dull\")."
+    "examples": [
+      "The comet is predicted to reach _aphelion_ a mere 22 years from now.",
+      "\"Although this seems somewhat counter-intuitive for those of us in the northern hemisphere, Earth is actually at perihelion in early January each year, and at _aphelion_? in early July.\" - Alan Hale, _Alamo Gordo News_, August 14, 2014"
+    ],
+    "origin": "_Aphelion_ and _perihelion_ are troublesome terms. Which one means a planet is nearest to the sun and which means it is farthest away? An etymology lesson may help you keep those words straight. Just remember that the \"ap\" of _aphelion_ derives from a Latin prefix that means \"away from\" (the mnemonic \"'A' for 'away'\" can help too); _peri-_, on the other hand, means \"near.\" And how are _aphelion_ and _perihelion_ related to the similar-looking astronomical pair, _apogee_ and _perigee_? Etymology explains again. The \"helion\" of _aphelion_ and _perihelion_ is based on the Greek word _hēlios_, meaning \"sun,\" while the \"gee\" of _apogee_ and _perigee_ is based on _gaia_, meaning \"earth.\" The first pair describes distance in relation to the sun, the second in relation to the earth."
   }
 }

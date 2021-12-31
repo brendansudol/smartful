@@ -1,127 +1,126 @@
 {
   "artist": {
-    "id": "dale-chihuly",
-    "name": "Dale Chihuly",
-    "dates": "Born Sep 20, 1941",
-    "mainImg": "img/art/artists/dale-chihuly.jpg",
+    "id": "poul-henningsen",
+    "name": "Poul Henningsen",
+    "dates": "Sep 9, 1894 - Jan 31, 1967",
+    "mainImg": "img/art/artists/poul-henningsen.jpg",
     "artworkImgs": [
       {
-        "name": "Royal Blue Mint Chandelier",
-        "path": "img/art/artworks/dale-chihuly-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/royal-blue-mint-chandelier-chihuly-dale-patrick/aQEb65mDRhMXBA"
+        "name": "Meandrina sp.",
+        "path": "img/art/artworks/poul-henningsen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/meandrina-sp-p-h-humann/VgGj99PfOkFQcw"
       },
       {
-        "name": "Erbium Chandelier with Gilded Putto",
-        "path": "img/art/artworks/dale-chihuly-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/erbium-chandelier-with-gilded-putto/JAGzNCq_THF_4w"
+        "name": "Star",
+        "path": "img/art/artworks/poul-henningsen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/star-poul-henningsen-danish-1894-1967/6wEcAvjZ1ZzY6w"
       },
       {
-        "name": "Nymph Pink Seaform Set with Foam White Lip Wrap",
-        "path": "img/art/artworks/dale-chihuly-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/nymph-pink-seaform-set-with-foam-white-lip-wrap-dale-chihuly/CgGRZUOL4TDpRQ"
+        "name": "PH Table Lamp",
+        "path": "img/art/artworks/poul-henningsen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/ph-table-lamp/ywHRWYA2mgGjAA"
       },
       {
-        "name": "Navajo Blanket Cylinder (Zig-Zag with Horse Drawing)",
-        "path": "img/art/artworks/dale-chihuly-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/navajo-blanket-cylinder-zig-zag-with-horse-drawing/AAF2j5QKvrTJlQ"
+        "name": "G K Benda for Restaurant Prunier/Moet & Chandon",
+        "path": "img/art/artworks/poul-henningsen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/g-k-benda-for-restaurant-prunier-moet-chandon-benda-g-k-artist-ph-gaston-dreyfus-publisher/GAFtNHVdho4b8Q"
       },
       {
-        "name": "Black Cylinder #3",
-        "path": "img/art/artworks/dale-chihuly-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/black-cylinder-3/agFlPL0-YwmxYQ"
-      },
-      {
-        "name": "Navajo Blanket Cylinder (Star Boyeta)",
-        "path": "img/art/artworks/dale-chihuly-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/navajo-blanket-cylinder-star-boyeta/nwH-aOikQgep4w"
+        "name": "Agaricia fragilis",
+        "path": "img/art/artworks/poul-henningsen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/agaricia-fragilis-p-h-humann/SwGEKwGRgcxNow"
       }
     ],
     "summary": [
-      "Dale Chihuly is an American glass sculptor and entrepreneur. His works are considered to possess outstanding artistic merit in the field of blown glass, \"moving it into the realm of large-scale sculpture.\" The technical difficulties of working with glass forms are considerable, yet Chihuly uses it as the primary medium for installations and environmental artwork."
+      "Poul Henningsen was a Danish author, critic, architect, and designer. In Denmark, where he often is referred to simply as PH, he was one of the leading figures of the cultural life of Denmark between the World Wars. His novel works of Danish modern designs are featured in many museums. He is most commonly associated with his design of the PH-lamp series of incandescent lamps."
     ],
-    "quote": "“Glass is the most magical of all materials. It transmits light in a special way.”",
-    "movements": [],
-    "mediums": ["Glass", "Sculpture", "Metal", "Gold", "Iron", "Steel"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Dale_Chihuly",
-    "urlGoogle": "https://artsandculture.google.com/entity/dale-chihuly/m02h_g"
+    "quote": "“The technician should never forget that he is an artist, the artist never that he is a technician.”",
+    "movements": ["Modernism"],
+    "mediums": ["Bakelite", "Glass", "Metal", "Plastic", "Wire", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Poul_Henningsen",
+    "urlGoogle": "https://artsandculture.google.com/entity/poul-henningsen/m07bvsh"
   },
   "event": {
-    "id": "coal-strike-of-1902",
-    "name": "Coal strike of 1902",
-    "dates": "May 12, 1902 - Oct 23, 1902",
-    "mainImg": "img/events/coal-strike-of-1902.jpg",
+    "id": "berlin-blockade",
+    "name": "Berlin Blockade",
+    "dates": "Jun 24, 1948 - May 12, 1949",
+    "mainImg": "img/events/berlin-blockade.jpg",
     "summary": [
-      "The Coal strike of 1902 was a strike by the United Mine Workers of America in the anthracite coalfields of eastern Pennsylvania. Miners struck for higher wages, shorter workdays, and the recognition of their union. The strike threatened to shut down the winter fuel supply to major American cities. At that time, residences were typically heated with anthracite or \"hard\" coal, which produces higher heat value and less smoke than \"soft\" or bituminous coal.",
-      "The strike never resumed, as the miners received a 10% wage increase and reduced workdays from ten to nine hours; the owners got a higher price for coal and did not recognize the trade union as a bargaining agent. It was the first labor dispute in which the U.S. federal government intervened as a neutral arbitrator."
+      "The Berlin Blockade was one of the first major international crises of the Cold War. During the multinational occupation of post–World War II Germany, the Soviet Union blocked the Western Allies' railway, road, and canal access to the sectors of Berlin under Western control. The Soviets offered to drop the blockade if the Western Allies withdrew the newly introduced Deutsche Mark from West Berlin.",
+      "The Western Allies organised the Berlin Airlift to carry supplies to the people of West Berlin, a difficult feat given the size of the city's population.",
+      "The Americans and British then began a joint operation in support of the entire city. Aircrews from the American, British, French, Canadian, Australian, New Zealand, and South African air forces flew over 200,000 sorties in one year, providing to the West Berliners necessities such as fuel and food, with the original plan being to lift 3,475 tons of supplies daily. By the spring of 1949, that number was often met twofold, with the peak daily delivery totalling 12,941 tons. By this time the airlift was clearly succeeding, delivering more cargo than had previously been transported into the city by rail."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Coal_strike_of_1902",
-    "urlGoogle": "https://artsandculture.google.com/entity/coal-strike-of-1902/m055bql"
+    "urlWiki": "https://en.wikipedia.org/wiki/Berlin_Blockade",
+    "urlGoogle": "https://artsandculture.google.com/entity/berlin-blockade/m01bj62"
   },
   "funFacts": [
     {
-      "id": "884",
-      "fact": "A strand from the web of a golden spider is as strong as a steel wire of the same size.",
-      "category": ["Animals"]
+      "id": "119",
+      "fact": "The hummingbird is the only bird that can fly backwards.",
+      "category": ["Animals", "Onlies"]
     },
     {
-      "id": "348",
-      "fact": "It is estimated that the world's oceans contain 10 billion tons of gold.",
-      "category": ["Geography"]
+      "id": "305",
+      "fact": "The 4th Earl of Sandwich invented the sandwich so he could eat and gamble at the same time.",
+      "category": ["Food", "History"]
     }
   ],
   "funFacts2": [
-    { "id": "504871", "fact": "When feeding, a hummingbird can lick 10 to 15 times per second." }
+    {
+      "id": "553807",
+      "fact": "Tsundoku is the act of acquiring books or other reading materials and not reading them."
+    }
   ],
   "idiom": {
-    "id": "in-two-shakes",
-    "term": "in two shakes",
-    "definition": "Also, **in two shakes of a lamb's tail** Very quickly, very soon, as in *I'll be with you in two shakes,* or *She'll be finished in two shakes of a lamb's tail.* The longer idiom alludes to the friskiness of lambs; the shorter one may be an abbreviation of the longer one, or it may refer to the shaking of dice or any two quick movements. [Early 1800s]"
+    "id": "make-a-virtue-of-necessity",
+    "term": "make a virtue of necessity",
+    "definition": "Do the best one can under given circumstances, as in *Since he can't break the contract, Bill's making a virtue of necessity.* This expression first appeared in English in Chaucer's *The Knight's Tale:* \"Then is it wisdom, as it thinketh me, to make virtue of necessity.\""
   },
   "person": {
-    "id": "silvia-pinal",
-    "name": "Silvia Pinal",
-    "dates": "Born Sep 12, 1931",
-    "mainImg": "img/people/silvia-pinal.jpg",
+    "id": "charles-lindbergh",
+    "name": "Charles Lindbergh",
+    "dates": "Feb 4, 1902 - Aug 26, 1974",
+    "mainImg": "img/people/charles-lindbergh.jpg",
     "summary": [
-      "Silvia Pinal Hidalgo is a Mexican film, theater and television actress.",
-      "Pinal began her career in the theater, venturing into cinema in 1949. Pinal reached popularity during the Golden Age of Mexican cinema. Her film work and popularity in her native country led her to work in Europe. Pinal achieved international recognition by starring in a famous film trilogy by director Luis Buñuel: Viridiana, El ángel exterminador and Simón del desierto.",
-      "In addition to her outstanding career in film, Pinal has also excelled in other areas. She was a pioneer of the Musical theatre in Mexico in addition to venturing into television, as an actress and producer. At one point in her life, Pinal also ventured into politics and held some public office in her native country. Her career spans over sixty years and she is still active as of 2020."
+      "Charles Augustus Lindbergh was an American aviator, military officer, author, inventor, and activist. At the age of 25 in 1927, he went from obscurity as a U.S. Air Mail pilot to instantaneous world fame by winning the Orteig Prize for making a nonstop flight from New York to Paris. Lindbergh covered the ​33 ¹⁄₂-hour, 3,600-statute-mile flight alone in a purpose-built, single-engine Ryan monoplane, the Spirit of St. Louis. Although not the first non-stop transatlantic flight, this was the first solo transatlantic flight, the first transatlantic flight between two major city hubs, and the longest transatlantic flight by almost 2,000 miles, thus it is widely considered a turning point in the development of aviation.",
+      "Lindbergh was an officer in the U.S. Army Air Corps Reserve, and he received the United States' highest military decoration, the Medal of Honor, for his transatlantic flight. His achievement spurred interest in both commercial aviation and air mail, which revolutionized the aviation industry, and he devoted much time and effort to promoting such activity."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Silvia_Pinal",
-    "urlGoogle": "https://artsandculture.google.com/entity/silvia-pinal/m04pk5h"
+    "quote": "“Life is a culmination of the past, an awareness of the present, an indication of a future beyond knowledge, the quality that gives a touch of divinity to matter.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Charles_Lindbergh",
+    "urlGoogle": "https://artsandculture.google.com/entity/charles-lindbergh/m0l8dq"
   },
   "place": {
-    "id": "coimbra",
-    "name": "Coimbra",
-    "mainImg": "img/places/coimbra.jpg",
+    "id": "santiago-de-queretaro",
+    "name": "Santiago de Querétaro",
+    "mainImg": "img/places/santiago-de-queretaro.jpg",
     "summary": [
-      "Coimbra is a city and a municipality in Portugal. The population at the 2011 census was 143,397, in an area of 319.40 square kilometres.",
-      "The fourth-largest urban centre in Portugal, it is the largest city of the district of Coimbra and the Centro Region. About 460,000 people live in the Região de Coimbra, comprising 19 municipalities and extending into an area of 4,336 square kilometres.",
-      "Among the many archaeological structures dating back to the Roman era, when Coimbra was the settlement of Aeminium, are its well-preserved aqueduct and cryptoporticus. Similarly, buildings from the period when Coimbra was the capital of Portugal still remain. During the late Middle Ages, with its decline as the political centre of the Kingdom of Portugal, Coimbra began to evolve into a major cultural centre. This was in large part helped by the establishment of the University of Coimbra in 1290, the oldest academic institution in the Portuguese-speaking world. Apart from attracting many European and international students, the university is visited by many tourists for its monuments and history."
+      "Santiago de Querétaro, known simply as Querétaro City, is the capital and largest city of the state of Querétaro, located in central Mexico. It is part of the macroregion of Bajío. It is located 213 kilometers northwest of Mexico City, 63 kilometers southeast of San Miguel de Allende and 200 kilometers south of San Luis Potosí. The city of Querétaro is divided into seven boroughs: Josefa Vergara y Hernández, Felipe Carrillo Puerto, Centro Histórico, Cayetano Rubio, Santa Rosa Jáuregui, Félix Osores Sotomayor and Epigmenio González. In 1996, the historic center of Querétaro was declared a World Heritage Site by the UNESCO.",
+      "It is a strong business and economic centre and a vigorous service city that is experiencing an ongoing social and economic revitalization.",
+      "Querétaro has seen an outstanding industrial and economic development since the mid-1990s. Querétaro metropolitan area has the 2nd highest GDP per capita among Mexico's metropolitan areas with 20,000 USD after Monterrey."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Coimbra",
-    "urlGoogle": "https://artsandculture.google.com/entity/coimbra/m0217lt"
+    "urlWiki": "https://en.wikipedia.org/wiki/Quer%C3%A9taro_City",
+    "urlGoogle": "https://artsandculture.google.com/entity/santiago-de-querétaro/m01vdb3"
   },
   "wiki": {
-    "id": "robert-oppenheimer",
-    "name": "Robert Oppenheimer",
-    "summary": "Robert Oppenheimer was an American physicist and the scientific director of the Manhattan Project, the World War II effort to develop the first nuclear weapons, at the secret Los Alamos laboratory in New Mexico. Known colloquially as \"the father of the atomic bomb\", Oppenheimer lamented the weapon's killing power after it was used to destroy the Japanese cities of Hiroshima and Nagasaki. After the war, he was a chief advisor to the newly-created Atomic Energy Commission and used that position to lobby for international control of atomic energy and to avert the nuclear arms race with the Soviet Union. After invoking the ire of many politicians and scientists with his outspoken political opinions during the Red Scare, he had his security clearance revoked in a much-publicized and politicized hearing in 1954. Though stripped of his political influence, Oppenheimer continued to lecture, write, and work in physics. A decade later, President Lyndon B. Johnson awarded him the Enrico Fermi Award as a gesture of rehabilitation.",
-    "url": "https://en.wikipedia.org/wiki/Robert_Oppenheimer"
+    "id": "pioneer-zephyr",
+    "name": "Pioneer Zephyr",
+    "summary": "The Pioneer Zephyr is a diesel-powered railroad trainset built by the Budd Company in 1934 for the Chicago, Burlington and Quincy Railroad. The train, which featured extensive use of stainless steel, was originally named Zephyr and meant as a promotional tool to advertise passenger rail service in the United States. The train's construction included innovations such as shotwelding to join the stainless steel and articulation to reduce the train's weight. The trainset entered regular revenue service November 11 1934 between Kansas City, Missouri, Omaha and Lincoln, Nebraska. It was operated on this route until its retirement in 1960 when it was donated to Chicago's Museum of Science and Industry where it remains on public display. The train is generally regarded as the first successful streamliner on American railroads.",
+    "url": "https://en.wikipedia.org/wiki/Pioneer_Zephyr"
   },
   "word": {
-    "id": "tetchy",
-    "word": "tetchy",
-    "url": "https://www.merriam-webster.com/dictionary/tetchy",
-    "partOfSpeech": "adjective",
-    "pronunciation": "TETCH-ee",
-    "audioPath": "audio/words/tetchy.mp3",
-    "definitions": ["irritably or peevishly sensitive : touchy"],
+    "id": "thole",
+    "word": "thole",
+    "url": "https://www.merriam-webster.com/dictionary/thole",
+    "partOfSpeech": "verb",
+    "pronunciation": "THOHL",
+    "audioPath": "audio/words/thole.mp3",
+    "definitions": ["endure"],
     "examples": [
-      "Nico sensed that his sister was in a tetchy mood, so he decided to wait until the next day to ask to borrow her car."
+      "\"There was now temptation to resist, as well as pain to _thole_.\" -- From Robert Louis Stevenson's 1886 novel _Kidnapped_",
+      "\"She moved closer to him and he noticed her faint perfume. Her cheeks were rosy red, and a tiny drip hung from the end of her nose. She was cold, but she was _tholing_ it so as not to spoil his fun.\" -- From Patrick Taylor's 2010 novel _An Irish Country Christmas_"
     ],
-    "origin": "\"Tetchy\" is a word that may have been coined by Shakespeare -- its first known use in English occurs in _Romeo and Juliet_ (1592). Etymologists are not certain how the word came about, but some have suggested that it derives from \"tetch,\" an obsolete noun meaning \"habit.\" The similarity both in meaning and pronunciation to \"touchy\" might lead you to conclude that \"tetchy\" is related to that word, but there is no conclusive evidence to suggest such a connection. The adjectives \"teched\" and \"tetched,\" meaning \"mentally unbalanced,\" are variations of \"touched,\" and are probably also unrelated to \"tetchy.\""
+    "origin": "\"Thole\" is one of the English language's oldest words -- it existed in Middle English in its current form and in Old English with the form \"tholian\" -- but in these modern times it tholes only in the corners of England's northern dialects. It has the same origin as \"tolerate\": both come from the Greek word \"tlēnai,\" meaning \"to bear.\" Unrelated to this \"thole\" is the (also very old) noun \"thole,\" which can be used as a synonym of \"peg\" or \"pin\" or can refer to either of a pair of pins set in the gunwale of a boat to hold an oar in place. This \"thole\" comes from Greek \"tylos,\" meaning \"knob\" or \"callus.\""
   }
 }

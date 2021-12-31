@@ -1,128 +1,125 @@
 {
   "artist": {
-    "id": "howard-pyle",
-    "name": "Howard Pyle",
-    "dates": "Mar 5, 1853 - Nov 9, 1911",
-    "mainImg": "img/art/artists/howard-pyle.jpg",
+    "id": "john-trumbull",
+    "name": "John Trumbull",
+    "dates": "Jun 6, 1756 - Nov 10, 1843",
+    "mainImg": "img/art/artists/john-trumbull.jpg",
     "artworkImgs": [
       {
-        "name": "The Coming of Lancaster",
-        "path": "img/art/artworks/howard-pyle-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/the-coming-of-lancaster/hQGlWuy97QbYzA"
+        "name": "George Washington before the Battle of Trenton",
+        "path": "img/art/artworks/john-trumbull-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/george-washington-before-the-battle-of-trenton-john-trumbull/MwEVd2aGjUfUqA"
       },
       {
-        "name": "Queen Morgana Loses Excalibur His Sheath with Illustrated initial Q",
-        "path": "img/art/artworks/howard-pyle-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/queen-morgana-loses-excalibur-his-sheath-with-illustrated-initial-q/YQEj_6sFN0ArZw"
+        "name": "George Washington",
+        "path": "img/art/artworks/john-trumbull-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/george-washington-john-trumbull/DQGa1pRJzvzvhg"
       },
       {
-        "name": "Kidd on the Deck of the \"Adventure Galley\"",
-        "path": "img/art/artworks/howard-pyle-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/kidd-on-the-deck-of-the-adventure-galley/ZwHLTbr8KsG3Qw"
+        "name": "Alexander Hamilton",
+        "path": "img/art/artworks/john-trumbull-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-hamilton/dwEqB1Eg2s_kpw"
       },
       {
-        "name": "The Enchanter Merlin and Illustrated Initial T with Heading",
-        "path": "img/art/artworks/howard-pyle-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/the-enchanter-merlin-and-illustrated-initial-t-with-heading/RgEK-Q9HMcHkeg"
+        "name": "John Adams",
+        "path": "img/art/artworks/john-trumbull-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/john-adams-john-trumbull/mAEUfmzRYKb2ig"
       },
       {
-        "name": "The Attack upon the Chew House",
-        "path": "img/art/artworks/howard-pyle-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-attack-upon-the-chew-house/-gEtmZXJuGWg9Q"
+        "name": "Alexander Hamilton",
+        "path": "img/art/artworks/john-trumbull-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-hamilton-john-trumbull/aQGYpbKpoqLV4Q"
       },
       {
-        "name": "The Lady of Ye Lake with illustrated initial T",
-        "path": "img/art/artworks/howard-pyle-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/the-lady-of-ye-lake-with-illustrated-initial-t/sAGqPYl7TuguFQ"
+        "name": "Alexander Hamilton",
+        "path": "img/art/artworks/john-trumbull-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/alexander-hamilton-john-trumbull/YwG4HdRB_hMBIA"
       }
     ],
     "summary": [
-      "Howard Pyle was an American illustrator and author, primarily of books for young people. He was a native of Wilmington, Delaware, and he spent the last year of his life in Florence, Italy.",
-      "In 1894, he began teaching illustration at the Drexel Institute of Art, Science, and Industry. After 1900, he founded his own school of art and illustration named the Howard Pyle School of Illustration Art. Scholar Henry C. Pitz later used the term Brandywine School for the illustration artists and Wyeth family artists of the Brandywine region, several of whom had studied with Pyle. Some of his more notable students were N. C. Wyeth, Frank Schoonover, Elenore Abbott, Ethel Franklin Betts, Anna Whelan Betts, Harvey Dunn, Clyde O. DeLand, Philip R. Goodwin, Thornton Oakley, Violet Oakley, Ellen Bernard Thompson Pyle, Olive Rush, Blanche Grant, Ethel Leach, Allen Tupper True, Elizabeth Shippen Green, Arthur E. Becher, William James Aylward, Jessie Willcox Smith, and Charlotte Harding. Pyle taught his students at his home and studio in Wilmington, which is still standing and is listed on the National Register of Historic Places. Pyle was an early member of The Franklin Inn Club in Philadelphia."
+      "John Trumbull was a Revolutionary War veteran and an American artist of the early independence period, notable for his historical paintings of the American Revolutionary War. He has been called \"The Painter of the Revolution\".",
+      "Trumbull's Declaration of Independence, one of his four paintings which hang in the United States Capitol Rotunda, was used on the reverse of the commemorative bicentennial two-dollar bill."
     ],
     "quote": null,
     "movements": [],
-    "mediums": ["Drawing", "Ink", "Oil paint", "Watercolor painting", "Graphite", "Gouache"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Howard_Pyle",
-    "urlGoogle": "https://artsandculture.google.com/entity/howard-pyle/m041ybm"
+    "mediums": ["Oil paint", "Wood", "Drawing", "Graphite", "Mahogany", "Laid paper"],
+    "urlWiki": "https://en.wikipedia.org/wiki/John_Trumbull",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-trumbull/m01x_f1"
   },
   "event": {
-    "id": "north-african-campaign",
-    "name": "North African campaign",
-    "dates": "Jun 10, 1940 - May 16, 1943",
-    "mainImg": "img/events/north-african-campaign.jpg",
+    "id": "jameson-raid",
+    "name": "Jameson Raid",
+    "dates": "Dec 29, 1895 - Jan 2, 1896",
+    "mainImg": "img/events/jameson-raid.jpg",
     "summary": [
-      "The North African campaign of the Second World War took place in North Africa from 10 June 1940 to 13 May 1943. It included campaigns fought in the Libyan and Egyptian deserts and in Morocco and Algeria, as well as Tunisia.",
-      "The campaign was fought between the Allies, many of whom had colonial interests in Africa dating from the late 19th century, and the Axis Powers. The Allied war effort was dominated by the British Commonwealth and exiles from German-occupied Europe. The United States officially entered the war in December 1941 and began direct military assistance in North Africa on 11 May 1942. Canada provided a small contingent of 348 officers and enlisted.",
-      "Fighting in North Africa started with the Italian declaration of war on 10 June 1940. On 14 June, the British Army's 11th Hussars crossed the border from Egypt into Libya and captured the Italian Fort Capuzzo. This was followed by an Italian counter-offensive into Egypt and the capture of Sidi Barrani in September 1940 and its recapture by the British in December 1940 following a British Commonwealth counteroffensive, Operation Compass."
+      "The Jameson Raid was a botched raid against the South African Republic carried out by British colonial statesman Leander Starr Jameson and his Company troops and Bechuanaland policemen over the New Year weekend of 1895–96. Paul Kruger was president of the republic at the time. The raid was intended to trigger an uprising by the primarily British expatriate workers in the Transvaal but failed to do so. The workers were called the Johannesburg conspirators. They were expected to recruit an army and prepare for an insurrection. The raid was ineffective and no uprising took place. The results included embarrassing the British government; replacing Cecil Rhodes as premier of the Cape Colony; strengthening Boer dominance of the Transvaal and its gold mines; helping start the Anglo-Boer War."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/North_African_campaign",
-    "urlGoogle": "https://artsandculture.google.com/entity/north-african-campaign/m02h2z_"
+    "urlWiki": "https://en.wikipedia.org/wiki/Jameson_Raid",
+    "urlGoogle": "https://artsandculture.google.com/entity/jameson-raid/m0qn88"
   },
   "funFacts": [
     {
-      "id": "242",
-      "fact": "The Nickname of President Hayes's wife was \"Lemonade Lucy.\"",
-      "category": ["History"]
+      "id": "992",
+      "fact": "The patent for the fire hydrant was destroyed in a fire.",
+      "category": ["History", "Hodgepodge"]
     },
     {
-      "id": "309",
-      "fact": "Ancient Egyptians believed the \"vein of love\" ran from the third finger on the left hand to the heart.",
-      "category": ["Anatomy", "History"]
+      "id": "164",
+      "fact": "The first vacuum was so large, it was brought to a house by horses.",
+      "category": ["Firsts"]
     }
   ],
   "funFacts2": [
-    { "id": "554252", "fact": "Continental plates drift as fast as fingernails grow." }
+    {
+      "id": "553727",
+      "fact": "Honey hunters in Mozambique use special calls to recruit the services of birds known as honeyguides. The birds lead the humans to bees' nests and in return, they get the leftover beeswax."
+    }
   ],
-  "idiom": {
-    "id": "peeping-tom",
-    "term": "peeping Tom",
-    "definition": "A person who secretly watches others, especially for sexual gratification; a voyeur. For example, *The police caught a peeping Tom right outside their house.* This expression, first recorded in 1796, alludes to the legend of the tailor Tom, the only person to watch the naked Lady Godiva as she rode by and who was struck blind for this sin."
-  },
   "person": {
-    "id": "jacob-van-wassenaer-obdam",
-    "name": "Jacob van Wassenaer Obdam",
-    "dates": "1610 - Jun 13, 1665",
-    "mainImg": "img/people/jacob-van-wassenaer-obdam.jpg",
+    "id": "pieter-de-carpentier",
+    "name": "Pieter de Carpentier",
+    "dates": "1588 - Sep 5, 1659",
+    "mainImg": "img/people/pieter-de-carpentier.jpg",
     "summary": [
-      "Jacob, Banner Lord of Wassenaer, Lord Obdam, Hensbroek, Spanbroek, Opmeer, Zuidwijk and Kernhem was a Dutch nobleman who became lieutenant admiral, and supreme commander of the navy of the Dutch Republic. The name Obdam was then also spelled as Opdam. British contemporaneous sources typically refer to him as Admiral Opdam or Lord Obdam because it was not until 1657 that he bought the Wassenaar Estate from relatives and thus acquired its title. Modern Dutch sources sometimes less correctly insert a second \"van\" between \"Wassenaer\" and \"Obdam\" or use the modern spelling \"Wassenaar\"."
+      "Pieter de Carpentier was a Dutch administrator of the Dutch East India Company who served as Governor-General there from 1623 to 1627. The Gulf of Carpentaria in northern Australia is named after him.",
+      "Pieter de Carpentier was born in Antwerp in 1586, shortly after the formation of the newly independent Dutch Republic. He studied philosophy in Leiden, from 1603. In 1616 he sailed on board the sailing vessel De Getrouwheid to Indonesia. There he had a number of functions, including Director-General of the Trade, Member to the Council of the Indies, and member of the Council of Defence. From 1 February 1623 to 30 September 1627 he was the fifth Governor-General of the Dutch East Indies. He participated in the conquest of Jakarta and helped to build the town of Batavia. He did much for the town, including setting up a school, a Town Hall, and the first Orphanage Home. He also designed the structure of the churches in the town.",
+      "On 12 November 1627 Pieter de Carpentier sailed from the East Indies as Head of the Fleet."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Jacob_van_Wassenaer_Obdam",
-    "urlGoogle": "https://artsandculture.google.com/entity/jacob-van-wassenaer-obdam/m0674th"
+    "urlWiki": "https://en.wikipedia.org/wiki/Pieter_de_Carpentier",
+    "urlGoogle": "https://artsandculture.google.com/entity/pieter-de-carpentier/m0b7lw3"
   },
   "place": {
-    "id": "lucerne",
-    "name": "Lucerne",
-    "mainImg": "img/places/lucerne.jpg",
+    "id": "nepal",
+    "name": "Nepal",
+    "mainImg": "img/places/nepal.jpg",
     "summary": [
-      "Lucerne is a city in central Switzerland, in the German-speaking portion of the country. Lucerne is the capital of the canton of Lucerne and part of the district of the same name. With a population of approximately 82,000 people, Lucerne is the most populous town in Central Switzerland, and a nexus of economics, transportation, culture, and media in the region. The city's urban area consists of 19 municipalities and towns with an overall population of about 220,000 people.",
-      "Owing to its location on the shores of Lake Lucerne and its outflow, the river Reuss, within sight of the mounts Pilatus and Rigi in the Swiss Alps, Lucerne has long been a destination for tourists. One of the city's famous landmarks is the Chapel Bridge, a wooden bridge first erected in the 14th century.",
-      "The official language of Lucerne is German, but the main spoken language is the local variant of the Alemannic Swiss German dialect."
+      "Nepal, officially the Federal Democratic Republic of Nepal, is a country in South Asia. It is located mainly in the Himalayas, but also includes parts of the Indo-Gangetic Plain. It is the 49th largest country by population and 93rd largest country by area. It is landlocked, and borders China in the north and India in the south, east and west, while Bangladesh is located within only 27 km of its southeastern tip and Bhutan is separated from it by the Indian state of Sikkim. Nepal has a diverse geography, including fertile plains, subalpine forested hills, and eight of the world's ten tallest mountains, including Mount Everest, the highest point on Earth. Kathmandu is the capital and the largest city. Nepal is a multiethnic country with Nepali as the official language.",
+      "The name \"Nepal\" is first recorded in texts from the Vedic period of the Indian subcontinent, the era in ancient India when Hinduism was founded, the predominant religion of the country. In the middle of the first millennium BCE, Gautama Buddha, the founder of Buddhism, was born in Lumbini in southern Nepal. Parts of northern Nepal were intertwined with the culture of Tibet."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Lucerne",
-    "urlGoogle": "https://artsandculture.google.com/entity/lucerne/m0194f5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Nepal",
+    "urlGoogle": "https://artsandculture.google.com/entity/nepal/m016zwt"
   },
   "wiki": {
-    "id": "whale-sound",
-    "name": "Whale sound",
-    "summary": "A whale song is the collection of sounds made by whales to communicate. The word \"song\" is used in particular to describe the pattern of predictable and repetitious sounds made by certain species of whales (notably the humpback whale) in a manner that to cetologists is reminiscent of human singing. The biological processes used to produce sound vary from one family of cetaceans to another. However, all whales, dolphins, and porpoises are much more dependent on sound for communication and sensation than their terrestrial cousins because the absorption of light by water makes sight difficult and because the relatively slow movement of water compared to air decreases the effectiveness of the sense of smell. Increased ambient noise in the world's oceans due to shipping gives rise to environmentalists' concerns that humans are destroying this important feature of the marine habitat.",
-    "url": "https://en.wikipedia.org/wiki/Whale_sound"
+    "id": "thescelosaurus",
+    "name": "Thescelosaurus",
+    "summary": "Thescelosaurus is a genus of small ornithopod dinosaur known from Upper Cretaceous rocks of western North America. It belonged to the last dinosaurian fauna of North America before the Cretaceous–Paleogene extinction event at approximately 66 million years ago, living alongside dinosaurs such as Tyrannosaurus and Triceratops. This common genus was described from a specimen discovered in 1891, but not unpacked and studied until the 1910s. These circumstances suggested the names of the genus and type species T. neglectus, which roughly translate to \"godlike, wondrous, or marvelous neglected lizard\". Thescelosaurus is best known from several partial skeletons representing three species: T. neglectus, T. assiniboiensis, and T. garbanii. One specimen unearthed in 1993 was initially thought to include a preserved heart, but later study found the object is probably a concretion. Thescelosaurus was a bipedal animal with a relatively long pointed skull and robust limbs. Typical individuals measured on the order of 2.5 to 4.0 metres (8.2 to 13.1 ft) long. It was probably primarily herbivorous and may have preferred to live near streams.",
+    "url": "https://en.wikipedia.org/wiki/Thescelosaurus"
   },
   "word": {
-    "id": "crabwise",
-    "word": "crabwise",
-    "url": "https://www.merriam-webster.com/dictionary/crabwise",
-    "partOfSpeech": "adverb",
-    "pronunciation": "KRAB-wyze",
-    "audioPath": "audio/words/crabwise.mp3",
-    "definitions": ["sideways", "in a sidling or cautiously indirect manner"],
+    "id": "hypothecate",
+    "word": "hypothecate",
+    "url": "https://www.merriam-webster.com/dictionary/hypothecate",
+    "partOfSpeech": "verb",
+    "pronunciation": "hye-PAH-thuh-kayt",
+    "audioPath": "audio/words/hypothecate.mp3",
+    "definitions": ["to make an assumption for the sake of argument : hypothesize"],
     "examples": [
-      "Rather than asking his parents for a car directly, Noah approached the matter _crabwise_, stressing how inconvenient it was for them to have to drive him everywhere.",
-      "\"But personally, my bed … is just for sleeping in. It is actually … 6ft wide, and it is beautiful beyond words. No matter that I have to walk _crabwise_ round the room in order to get in, out or dressed.\" - Lucy Mangan, _The Guardian_ (London), January 4, 2011"
+      "The students _hypothecated_ that plants under observation would have different reactions when exposed to artificial light versus natural light.",
+      "\"'Can someone _hypothecate_ where Scotland and Yorkshire would rank in the medal table?' says Marie Meyer.\" - From the (London) _Guardian's_ Olympics 2012 live blog, August 5, 2012"
     ],
-    "origin": "There's no reason to be indirect when explaining the etymology of _crabwise_; we'll get right to the point. As you might guess, the meaning of that word is directly related to that sidling sea creature, the crab. If you live near the shore or have visited a beach near the sea, you have probably seen crabs scuttling along, often moving sideways and not taking what humans would consider the most direct route. The modern meanings of _crabwise_ were definitely inspired by the crab's lateral or oblique approach to getting from one place to another. The word crept into English in the mid-19th century and has been sidling into our sentences ever since."
+    "origin": "\"Hypothecate\" is a controversial word. It has existed as a synonym of \"hypothesize\" since 1906, showing up primarily in scientific and linguistic sources, but usage commentators have long criticized it. It is sometimes perceived as a mistaken use of another \"hypothecate,\" one meaning \"to pledge as security without title or possession.\" Both \"hypothecate\" homographs-and \"hypothesize\" too-derive ultimately from the Greek \"hypotithenai\" (\"to put under,\" \"to suppose,\" or \"to deposit as a pledge\"), but each entered English by a different route. The hypothesizing \"hypothecate\" is a legitimate (albeit uncommon) word in its own right, not a misuse of its homograph. If you want to avoid the controversy altogether, however, you can stick with the more common \"hypothesize.\""
   }
 }

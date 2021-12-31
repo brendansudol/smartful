@@ -1,0 +1,127 @@
+{
+  "artist": {
+    "id": "steven-holl",
+    "name": "Steven Holl",
+    "dates": "Born Dec 9, 1947",
+    "mainImg": "img/art/artists/steven-holl.jpg",
+    "artworkImgs": [
+      {
+        "name": "3D Visualization of The Facade",
+        "path": "img/art/artworks/steven-holl-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/3d-visualization-of-the-facade-steven-holl-vitto-acconci/9gEN8lyFEXtfNw"
+      },
+      {
+        "name": "The Kennedy Center Expansion Project",
+        "path": "img/art/artworks/steven-holl-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-kennedy-center-expansion-project-steven-holl-architects/yAFANaCepx8B9w"
+      },
+      {
+        "name": "Kennedy Center Expansion Project",
+        "path": "img/art/artworks/steven-holl-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/kennedy-center-expansion-project-steven-holl-architects/uwHExJhdvWJsHg"
+      },
+      {
+        "name": "Model of The Facade",
+        "path": "img/art/artworks/steven-holl-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/model-of-the-facade-steven-holl-vito-acconci/iAEGSmvUav3Nog"
+      },
+      {
+        "name": "Leaving home",
+        "path": "img/art/artworks/steven-holl-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/leaving-home-franck-holl/TAG--1j6pPaEmA"
+      },
+      {
+        "name": "A Fragment of The Old Facade",
+        "path": "img/art/artworks/steven-holl-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/a-fragment-of-the-old-facade-steven-holl-vito-acconci-face-fabrication/aAE0Grsgwk-_xQ"
+      }
+    ],
+    "summary": [
+      "Steven Holl is a New York-based American architect and watercolorist. Among his most recognized works are the 2019 REACH expansion of the John F. Kennedy Center for the Performing Arts, the 2019 Hunters Point Library in Queen in New York, the 2007 Bloch Building addition to the Nelson-Atkins Museum of Art in Kansas City, Missouri, and the 2009 Linked Hybrid mixed-use complex in Beijing, China. Holl is not a recipient of the Pritzker Architecture Prize which is viewed by some in his profession as an omission."
+    ],
+    "quote": "“I never look at the newspaper in the morning. That's the worst thing you can do with your brain.”",
+    "movements": ["Contemporary art"],
+    "mediums": [],
+    "urlWiki": "https://en.wikipedia.org/wiki/Steven_Holl",
+    "urlGoogle": "https://artsandculture.google.com/entity/steven-holl/m0635bb"
+  },
+  "event": {
+    "id": "battle-of-monte-cassino",
+    "name": "Battle of Monte Cassino",
+    "dates": "Jan 17, 1944 - May 19, 1944",
+    "mainImg": "img/events/battle-of-monte-cassino.jpg",
+    "summary": [
+      "The Battle of Monte Cassino was a costly series of four assaults by the Allies against the Winter Line in Italy held by Axis forces during the Italian Campaign of World War II. The intention was a breakthrough to Rome.",
+      "At the beginning of 1944, the western half of the Winter Line was being anchored by Germans holding the Rapido-Gari, Liri and Garigliano valleys and some of the surrounding peaks and ridges. Together, these features formed the Gustav Line. Monte Cassino, a historic hilltop abbey founded in AD 529 by Benedict of Nursia, dominated the nearby town of Cassino and the entrances to the Liri and Rapido valleys. Lying in a protected historic zone, it had been left unoccupied by the Germans, although they manned some positions set into the steep slopes below the abbey's walls.",
+      "Repeated pinpoint artillery attacks on Allied assault troops caused their leaders to conclude the abbey was being used by the Germans as an observation post, at the very least. Fears escalated along with casualties and in spite of a lack of clear evidence, it was marked for destruction. On 15 February American bombers dropped 1,400 tons of high explosives, creating widespread damage."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino",
+    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-monte-cassino/m081w0"
+  },
+  "funFacts": [
+    {
+      "id": "167",
+      "fact": "You'd have to play ping-pong for about 12 hours to lose one pound.",
+      "category": ["Anatomy", "Science"]
+    },
+    {
+      "id": "919",
+      "fact": "The Lollipop was named after one of the most famous Racehorses in the early 1900s, Lolly Pop.",
+      "category": ["Hodgepodge"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "553860",
+      "fact": "Boring, Oregon and Dull, Scotland have been sister cities since 2012. In 2017, they added Bland Shire, Australia to their “League of Extraordinary Communities.”"
+    }
+  ],
+  "person": {
+    "id": "ernest-king",
+    "name": "Ernest King",
+    "dates": "Nov 23, 1878 - Jun 25, 1956",
+    "mainImg": "img/people/ernest-king.jpg",
+    "summary": [
+      "Ernest Joseph King was Commander in Chief, United States Fleet and Chief of Naval Operations during World War II. As COMINCH-CNO, he directed the United States Navy's operations, planning, and administration and was a member of the Joint Chiefs of Staff. He was the United States Navy's second most senior officer in World War II after Fleet Admiral William D. Leahy, who served as Chief of Staff to the Commander in Chief.",
+      "Born in Lorain, Ohio, King served in the Spanish–American War while still attending the United States Naval Academy. He received his first command in 1914, leading the destroyer USS Terry in the occupation of Veracruz. During World War I, he served on the staff of Vice Admiral Henry T. Mayo, the commander of the United States Atlantic Fleet. After the war, King served as head of the Naval Postgraduate School, commanded a submarine squadron, and served as Chief of the Bureau of Aeronautics. After a period on the Navy's General Board, King became commander of the Atlantic Fleet in February 1941.",
+      "Shortly after the Japanese attack on Pearl Harbor brought the United States into World War II, King was appointed as Commander in Chief of the United States Fleet."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Ernest_King",
+    "urlGoogle": "https://artsandculture.google.com/entity/ernest-king/m029lb2"
+  },
+  "place": {
+    "id": "amritsar",
+    "name": "Amritsar",
+    "mainImg": "img/places/amritsar.jpg",
+    "summary": [
+      "Amritsar, historically also known as Rāmdāspur and colloquially as Ambarsar, is a city in state of Punjab, northwestern India which is the administrative headquarters of the Amritsar district and is located in the Majha region of Punjab.",
+      "According to the 2011 census, the population of Amritsar was 1,132,761. It is one of the ten Municipal Corporations in the state and Karamjit Singh Rintu is the current mayor of the city. The city is situated 217 km northwest of state capital Chandigarh and 455 km northwest of New Delhi, the national capital. It is near Pakistan, with the Wagah Border being only 28 km away.",
+      "Amritsar has been chosen as one of the heritage cities for HRIDAY - Heritage City Development and Augmentation Yojana scheme of Government of India. Amritsar is home to Harmandir Sahib, popularly known as \"the Golden Temple,\" one of Sikhism's most spiritually significant and most-visited gurudwaras. The city is also known for its wooden chessboards and chess pieces manufacturing industry."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Amritsar",
+    "urlGoogle": "https://artsandculture.google.com/entity/amritsar/m029kpy"
+  },
+  "wiki": {
+    "id": "tgv",
+    "name": "TGV",
+    "summary": "The TGV is France's train à grande vitesse; literally \"high-speed train\". Developed by Alsthom (now Alstom) and SNCF and operated primarily by SNCF, it connects cities in France and in some other neighbouring countries, such as Belgium, Italy and Switzerland with the network centred on Paris. TGVs under other brand names connect France with Germany and the Netherlands (Thalys) and the United Kingdom (Eurostar). Trains derived from TGV design also operate in South Korea (KTX), and Spain (AVE). Development of high-speed rail transport in France began in the 1960s. After a lengthy period of testing which included changing the traction of the trains from gas turbines to electricity from overhead lines after a sharp rise in oil prices, TGV operation began in 1981 with an initial line between Paris and Lyon. The success of the line led to rapid expansion and the opening of lines to the west and north-east of France as well as further extension to the south.",
+    "url": "https://en.wikipedia.org/wiki/TGV"
+  },
+  "word": {
+    "id": "importunate",
+    "word": "importunate",
+    "url": "https://www.merriam-webster.com/dictionary/importunate",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-POR-chuh-nut",
+    "audioPath": "audio/words/importunate.mp3",
+    "definitions": ["troublesomely urgent : overly persistent in request or demand", "troublesome"],
+    "examples": [
+      "Sylvia was becoming fed up with the _importunate_ phone calls she continued to receive from charities seeking donations.",
+      "\"We'd navigate our way across the floor, nodding at random well-wishers and the venerable handwaves of the press, with their _importunate_ requests for exclusive photographs politely declined.\"-- From Craig Silvey’s 2011 novel _Jasper Jones_"
+    ],
+    "origin": "\"Importunate\" has been part of the English language since the 16th century, and the synonymous \"importune\" arrived even earlier, in the 15th century. The seemingly superfluous inclusion of the suffix \"-ate\" in \"importunate\" is a bit mysterious; one theory is that English speakers modeled the adjective after words like \"obstinate.\" \"Importune\" and \"importunate\" come from Latin \"importunus.\" The prefix \"im-\" means \"not,\" and \"importunus\" can be contrasted with Latin \"opportunus,\" which shares its meaning with and is the ancestor of our \"opportune,\" meaning \"suitable or timely.\" (The connection is obscure now, but \"opportunus\" itself harks back to the Latin phrase \"ob portum,\" meaning \"\\[coming\\] to harbor.\") \"Importune,\" and later \"importunate,\" once meant \"inopportune, untimely,\" but that sense is now obsolete."
+  }
+}

@@ -1,129 +1,122 @@
 {
   "artist": {
-    "id": "william-johnson",
-    "name": "William Johnson",
-    "dates": "Mar 18, 1901 - Apr 13, 1970",
-    "mainImg": "img/art/artists/william-johnson.jpg",
+    "id": "alberto-savinio",
+    "name": "Alberto Savinio",
+    "dates": "Aug 25, 1891 - May 5, 1952",
+    "mainImg": "img/art/artists/alberto-savinio.jpg",
     "artworkImgs": [
       {
-        "name": "Man in a Vest",
-        "path": "img/art/artworks/william-johnson-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/man-in-a-vest/NAFEpTWPytfIHA"
+        "name": "Ritratto di Palma Bucarelli",
+        "path": "img/art/artworks/alberto-savinio-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/ritratto-di-palma-bucarelli-alberto-savinio/LAHa6iSaXoz1qg"
       },
       {
-        "name": "William H Johnson - Marian Anderson",
-        "path": "img/art/artworks/william-johnson-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/william-h-johnson-marian-anderson-william-h-johnson/XwFysV-m5MYFtQ"
+        "name": "Ulysse et Polypheme",
+        "path": "img/art/artworks/alberto-savinio-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ulysse-et-polypheme-alberto-savinio/awHN3taK1X15Ag"
       },
       {
-        "name": "Jitterbugs II",
-        "path": "img/art/artworks/william-johnson-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/jitterbugs-ii-william-henry-johnson/xgEg0FPCfu8TvA"
+        "name": "Annunciation",
+        "path": "img/art/artworks/alberto-savinio-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/annunciation-alberto-savinio/RgEfCGQ-0ynNGQ"
       },
       {
-        "name": "Sowing",
-        "path": "img/art/artworks/william-johnson-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/sowing-william-h-johnson/QwEo2-bRGz1vEA"
+        "name": "Souvenir d'enfance à Athènes",
+        "path": "img/art/artworks/alberto-savinio-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/souvenir-d-enfance-à-athènes-alberto-savinio/MwGQrMqAmwXDGg"
       },
       {
-        "name": "Café",
-        "path": "img/art/artworks/william-johnson-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/café/4QHFaIK1QecCrw"
+        "name": "Gomorrhe",
+        "path": "img/art/artworks/alberto-savinio-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/gomorrhe-alberto-savinio/CwET1nS3OC5a4Q"
       },
       {
-        "name": "Street Musicians",
-        "path": "img/art/artworks/william-johnson-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/street-musicians-william-henry-johnson/nwFJNVNViVQpfw"
+        "name": "Portrait of Domenico Cesa Bianchi",
+        "path": "img/art/artworks/alberto-savinio-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-domenico-cesa-bianchi-alberto-bianchi/NwFmA-X_8IgWjg"
       }
     ],
     "summary": [
-      "William Henry Johnson was an American painter. Born in Florence, South Carolina, he became a student at the National Academy of Design in New York City, working with Charles Webster Hawthorne. He later lived and worked in France, where he was exposed to modernism. After Johnson married Danish textile artist Holcha Krake, the couple lived for some time in Scandinavia. There he was influenced by the strong folk art tradition. The couple moved to the United States in 1938. Johnson eventually found work as a teacher at the Harlem Community Art Center, through the Federal Art Project.",
-      "Johnson's style evolved from realism to expressionism to a powerful folk style, for which he is best known. A substantial collection of his paintings, watercolors, and prints is held by the Smithsonian American Art Museum, which has organized and circulated major exhibitions of his works."
+      "Alberto Savinio, born Andrea Francesco Alberto de Chirico was an Italian writer, painter, musician, journalist, essayist, playwright, set designer and composer. He was the younger brother of 'metaphysical' painter Giorgio de Chirico. His work often dealt with philosophical and psychological themes, and he also was heavily concerned with the philosophy of art.",
+      "Throughout his life, Savinio composed five operas and authored at least forty-seven books, including multiple autobiographies and memoirs. He also extensively wrote and produced works for the theatre. His work received mixed reviews during his lifetime, often due to his pervasive use of modernist techniques. He was influenced by and a contemporary of Apollinaire, Picasso, Jean Cocteau, Max Jacob, and Fernand Léger, and had a significant influence on the surrealist movement."
     ],
     "quote": null,
-    "movements": ["Harlem Renaissance", "Modern art", "Naïve art", "Folk art"],
-    "mediums": ["Oil paint", "Hessian fabric", "Watercolor painting", "Cardboard", "Gouache"],
-    "urlWiki": "https://en.wikipedia.org/wiki/William_Johnson_%28artist%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/william-johnson/m0f8fcj"
+    "movements": ["Surrealism", "Modern art"],
+    "mediums": ["Oil paint", "Tempera", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Alberto_Savinio",
+    "urlGoogle": "https://artsandculture.google.com/entity/alberto-savinio/m08tlmw"
   },
   "event": {
-    "id": "super-bowl-xxxviii",
-    "name": "Super Bowl XXXVIII",
-    "dates": null,
-    "mainImg": "img/events/super-bowl-xxxviii.jpg",
+    "id": "1947-1948-civil-war-in-mandatory-palestine",
+    "name": "1947–1948 civil war in Mandatory Palestine",
+    "dates": "Nov 30, 1947 - May 14, 1948",
+    "mainImg": "img/events/1947-1948-civil-war-in-mandatory-palestine.jpg",
     "summary": [
-      "Super Bowl XXXVIII was an American football game between the National Football Conference champion Carolina Panthers and the American Football Conference champion New England Patriots to decide the National Football League champion for the 2003 season. The Patriots defeated the Panthers by a score of 32–29. The game was played at Reliant Stadium in Houston, Texas, on February 1, 2004. At the time, this was the most watched Super Bowl ever with 144.4 million viewers.",
-      "The Panthers were making their first ever Super Bowl appearance after posting an 11–5 regular season record. They also made it the second straight year that a team from the NFC South division made the Super Bowl, with the Tampa Bay Buccaneers winning Super Bowl XXXVII. The Patriots were seeking their second Super Bowl title in three years after posting a 14–2 record.",
-      "NFL fans and sports writers widely consider this game one of the most well-played and thrilling Super Bowls; Sports Illustrated writer Peter King hailed it as the \"Greatest Super Bowl of all time.\" Although neither team could score in the first and third quarters, they ended up with a combined total of 868 yards and 61 points."
+      "The 1947–1948 civil war in Mandatory Palestine was the first phase of the 1948 Palestine war. It broke out after the General Assembly of the United Nations adopted a resolution on 29 November 1947 recommending the adoption of the Partition Plan for Palestine.",
+      "During the civil war, the Jewish and Arab communities of Palestine clashed while the British, who had the obligation to maintain order, organized their withdrawal and intervened only on an occasional basis.",
+      "When the British Mandate of Palestine expired on 14 May 1948, and with the Declaration of the Establishment of the State of Israel, the surrounding Arab states—Egypt, Transjordan, Iraq and Syria—invaded what had just ceased to be Mandatory Palestine, and immediately attacked Israeli forces and several Jewish settlements. The conflict thus escalated and became the 1948 Arab–Israeli War."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Super_Bowl_XXXVIII",
-    "urlGoogle": "https://artsandculture.google.com/entity/super-bowl-xxxviii/m0277y8"
+    "urlWiki": "https://en.wikipedia.org/wiki/1947%E2%80%931948_civil_war_in_Mandatory_Palestine",
+    "urlGoogle": "https://artsandculture.google.com/entity/1947–1948-civil-war-in-mandatory-palestine/m02qkyk2"
   },
   "funFacts": [
+    { "id": "47", "fact": "Giraffes have no vocal chords.", "category": ["Animals"] },
     {
-      "id": "208",
-      "fact": "Add up opposing sides of a dice cue and you'll always get seven.",
-      "category": ["Hodgepodge"]
-    },
-    {
-      "id": "925",
-      "fact": "The White House was originally called the President's Palace. It became The White House in 1901.",
-      "category": ["History"]
+      "id": "777",
+      "fact": "Cats have 2 sets of vocal cords: one for purring and one for meowing.",
+      "category": ["Animals"]
     }
   ],
-  "funFacts2": [
-    {
-      "id": "553688",
-      "fact": "The Mobile Phone Throwing World Championships are held in Finland.  A recent winner said he prepared for the event by “mainly drinking.”"
-    }
-  ],
+  "funFacts2": [{ "id": "551312", "fact": "<span>A group of pugs is called a grumble.</span>" }],
   "idiom": {
-    "id": "kangaroo-court",
-    "term": "kangaroo court",
-    "definition": "A self-appointed tribunal that violates established legal procedure; also, a dishonest or incompetent court of law. For example, *The rebels set up a kangaroo court and condemned the prisoners to summary execution,* or *That judge runs a kangaroo court---he tells rape victims they should have been more careful.* This expression is thought to liken the jumping ability of kangaroos to a court that jumps to conclusions on an invalid basis. [Mid-1800s]"
+    "id": "run-to-seed",
+    "term": "run to seed",
+    "definition": "Also, **go to seed.** Become devitalized or worn out; deteriorate, as in *I went back to visit my old elementary school, and sadly, it has really run to seed,* or *The gold medalist quickly went to seed after he left competition.* This term alludes to plants that, when allowed to set seed after flowering, either taste bitter, as in the case of lettuce, or do not send out new buds, as is true of annual flowers. Its figurative use dates from the first half of the 1800s."
   },
   "person": {
-    "id": "galerius",
-    "name": "Galerius",
-    "dates": "250 AD - 311 AD",
-    "mainImg": "img/people/galerius.jpg",
+    "id": "isabella-clara-eugenia",
+    "name": "Isabella Clara Eugenia",
+    "dates": "Aug 12, 1566 - Dec 1, 1633",
+    "mainImg": "img/people/isabella-clara-eugenia.jpg",
     "summary": [
-      "Galerius was Roman emperor from 305 to 311. During his reign he campaigned, aided by Diocletian, against the Sassanid Empire, sacking their capital Ctesiphon in 299. He also campaigned across the Danube against the Carpi, defeating them in 297 and 300. Although he was a staunch opponent of Christianity, Galerius ended the Diocletianic Persecution when he issued an Edict of Toleration in Serdica in 311."
+      "Isabella Clara Eugenia, sometimes referred to as Clara Isabella Eugenia, was sovereign of the Spanish Netherlands in the Low Countries and the north of modern France with her husband, Archduke Albert VII of Austria. Their reign is considered the Golden Age of the Spanish Netherlands. Isabella was one of the most powerful women in 16th and 17th century Europe."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Galerius",
-    "urlGoogle": "https://artsandculture.google.com/entity/galerius/m0jxbb"
+    "urlWiki": "https://en.wikipedia.org/wiki/Isabella_Clara_Eugenia",
+    "urlGoogle": "https://artsandculture.google.com/entity/isabella-clara-eugenia/m02pwv6"
   },
   "place": {
-    "id": "dayton",
-    "name": "Dayton",
-    "mainImg": "img/places/dayton.jpg",
+    "id": "halle-saale",
+    "name": "Halle (Saale)",
+    "mainImg": "img/places/halle-saale.jpg",
     "summary": [
-      "Dayton is the sixth-largest city in the state of Ohio and the county seat of Montgomery County. A small part of the city extends into Greene County. The 2019 U.S. census estimate put the city population at 140,407, while Greater Dayton was estimated to be at 803,416 residents. This makes Dayton the fourth-largest metropolitan area in Ohio and 63rd in the United States. Dayton is within Ohio's Miami Valley region, just north of Greater Cincinnati.",
-      "Ohio's borders are within 500 miles of roughly 60 percent of the country's population and manufacturing infrastructure, making the Dayton area a logistical centroid for manufacturers, suppliers, and shippers. Dayton also hosts significant research and development in fields like industrial, aeronautical, and astronautical engineering that have led to many technological innovations. Much of this innovation is due in part to Wright-Patterson Air Force Base and its place in the community. With the decline of heavy manufacturing, Dayton's businesses have diversified into a service economy that includes insurance and legal sectors as well as healthcare and government sectors."
+      "Halle (Saale) is the largest city of the German state of Saxony-Anhalt, the fifth most populous city in the area of former East Germany after Berlin, Leipzig, Dresden and Chemnitz, as well as the 31st largest city of Germany, and with around 239,000 inhabitants, it is slightly more populous than the state capital of Magdeburg. Together with Leipzig, the largest city of Saxony, Halle forms the polycentric Leipzig-Halle conurbation. Between the two cities, in Schkeuditz, lies Leipzig/Halle International Airport. The Leipzig-Halle conurbation is at the heart of the larger Central German Metropolitan Region.",
+      "Halle lies in the south of Saxony-Anhalt, in the Leipzig Bay, the southernmost part of the North German Plain, on the River Saale, which is the third longest river flowing entirely in Germany after the Weser and the Main. The White Elster flows into the Saale in the southern borough of Silberhöhe. Halle is the fourth largest city in the Thuringian-Upper Saxon dialect area after Leipzig, Dresden and Chemnitz.",
+      "Halle is an economic and educational center in central-eastern Germany."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Dayton,_Ohio",
-    "urlGoogle": "https://artsandculture.google.com/entity/dayton/m029cr"
+    "urlWiki": "https://en.wikipedia.org/wiki/Halle_%28Saale%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/halle-saale/m019fv4"
   },
   "wiki": {
-    "id": "colley-cibber",
-    "name": "Colley Cibber",
-    "summary": "Colley Cibber was an English actor-manager, playwright, and Poet Laureate. His colorful Apology for the Life of Colley Cibber (1740) started a British tradition of personal, anecdotal, and even rambling autobiography. He wrote some plays for performance by his own company at the Theatre Royal, Drury Lane, and adapted many more from various sources, receiving frequent criticism for \"miserable mutilation\" of dramatists like Shakespeare and Molière. He regarded himself as first and foremost an actor and had great popular success in comical fop parts. Cibber's brash, extroverted personality did not sit well with his contemporaries, and he was frequently accused of tasteless theatrical productions, social and political opportunism, and shady business methods. He rose to herostratic fame when he became the chief target, the head Dunce, of Alexander Pope's satirical poem The Dunciad. Cibber's importance in British theatre history rests on his being the first in a long line of actor-managers, and on the value of his autobiography as a source for our knowledge of the 18th-century London stage.",
-    "url": "https://en.wikipedia.org/wiki/Colley_Cibber"
+    "id": "indonesia",
+    "name": "Indonesia",
+    "summary": "Indonesia is a nation in Southeast Asia. Comprising 17,500 islands, it is the world's largest archipelagic state. With a population of over 234 million, it is the world's fourth most populous country and the most populous Muslim-majority nation, although officially it is not an Islamic state. Indonesia is a republic, with an elected parliament and president. The nation's capital city is Jakarta. Following three and a half centuries of Dutch colonialism, Indonesia secured its independence after World War II. Indonesia's history has since been turbulent, with challenges posed by natural disasters, corruption, separatism, a democratization process, and periods of rapid economic change. Across its many islands, Indonesia consists of distinct ethnic, linguistic, and religious groups. The Javanese are the politically dominant and largest ethnic group. As a unitary state and a nation, Indonesia has developed a shared identity defined by a national language, a majority Muslim population, and a history of colonialism and rebellion against it.",
+    "url": "https://en.wikipedia.org/wiki/Indonesia"
   },
   "word": {
-    "id": "gadzookery",
-    "word": "gadzookery",
-    "url": "https://www.merriam-webster.com/dictionary/gadzookery",
-    "partOfSpeech": "noun",
-    "pronunciation": "gad-ZOO-kuh-ree",
-    "audioPath": "audio/words/gadzookery.mp3",
-    "definitions": ["the use of archaisms (as in a historical novel)"],
+    "id": "undergird",
+    "word": "undergird",
+    "url": "https://www.merriam-webster.com/dictionary/undergird",
+    "partOfSpeech": "verb",
+    "pronunciation": "un-der-GERD",
+    "audioPath": "audio/words/undergird.mp3",
+    "definitions": ["to form the basis or foundation of : strengthen, support"],
     "examples": [
-      "Bridget’s novel, set in colonial Virginia, features an engaging and cohesive plot, but the dialogue contains so much gadzookery that it doesn’t sound realistic."
+      "\"High school students need to understand the paradigms and traditions that _undergird_ social and political institutions.\" - From a lesson plan at CNNfyi.com, July 3, 2001",
+      "\"No one argues that a robust U.S. economy is needed to _undergird_ an effective foreign policy.\" - From an editorial by Jennifer Rubin in the _Washington Post_, October 9, 2013"
     ],
-    "origin": "\"Gadzooks . . . you astonish me!\" cries Mr. Lenville in Charles Dickens' _Nicholas Nickleby_. We won't accuse Dickens of gadzookery (\"the bane of historical fiction,\" as historical novelist John Vernon called it in _Newsday_), because we assume people actually said \"gadzooks\" back in the 1830s. That mild oath is an old-fashioned euphemism, so it is thought, for \"God's hooks\" (a reference, supposedly, to the nails of the Crucifixion). Today's historical novelists must toe a fine line, avoiding expressions like \"zounds\" and \"pshaw\" and \"tush\" (\"tushery\" is a synonym of the newer \"gadzookery,\" which first cropped up in the 1950s), as well as \"gadzooks,\" while at the same time rejecting modern expressions such as \"okay\" and \"nice.\""
+    "origin": "The English verb \"gird\" means, among other things, \"to encircle or bind with a flexible band.\" When \"undergird\" first entered English in the 16th century it meant \"to make secure underneath,\" as by passing a rope or chain underneath something (such as a ship). That literal sense has long since fallen out of use, but in the 19th century \"undergird\" picked up the figurative \"strengthen\" or \"support\" sense that we still use. \"Gird\" and consequently \"undergird\" both derive from the Old English \"geard,\" meaning \"enclosure\" or \"yard.\" \"Gird\" also gives us \"girder,\" a noun referring to a horizontal piece supporting a structure."
   }
 }

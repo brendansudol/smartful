@@ -1,0 +1,142 @@
+{
+  "artist": {
+    "id": "mira-schendel",
+    "name": "Mira Schendel",
+    "dates": "1919 - Jul 24, 1988",
+    "mainImg": "img/art/artists/mira-schendel.jpg",
+    "artworkImgs": [
+      {
+        "name": "Toquinho No. 41",
+        "path": "img/art/artworks/mira-schendel-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/toquinho-no-41-mira-schendel/sAEXkiVnrU2duw"
+      },
+      {
+        "name": "Untitled (from the Notebook series)",
+        "path": "img/art/artworks/mira-schendel-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-from-the-notebook-series-mira-schendel/xAEKTNSUmVmbjw"
+      },
+      {
+        "name": "Sem título",
+        "path": "img/art/artworks/mira-schendel-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/sem-título/zAEQNuhXY0O8kw"
+      },
+      {
+        "name": "Toquinho No. 40",
+        "path": "img/art/artworks/mira-schendel-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/toquinho-no-40-mira-schendel/5wG1MlgX6FXxPA"
+      },
+      {
+        "name": "Sem título",
+        "path": "img/art/artworks/mira-schendel-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/sem-título/owFP8N_nzqwoLg"
+      },
+      {
+        "name": "Untitled (from the Notebook series)",
+        "path": "img/art/artworks/mira-schendel-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled-from-the-notebook-series-mira-schendel/7gFxfVauuuSOCw"
+      }
+    ],
+    "summary": [
+      "Mira Schendel was a Brazilian contemporary artist of the 20th century. She made numerous drawings on rice paper, but was also active as a painter, a poet, and a sculptor. Her work drew upon the art of language and poetry, and what appears to have driven her was the ability to reinvent it."
+    ],
+    "quote": null,
+    "movements": [
+      "Modern art",
+      "Abstract art",
+      "Geometric abstraction",
+      "Modernism",
+      "Contemporary art"
+    ],
+    "mediums": ["Drawing", "Gold", "Oil paint", "Metal", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Mira_Schendel",
+    "urlGoogle": "https://artsandculture.google.com/entity/mira-schendel/m03qr3nl"
+  },
+  "event": {
+    "id": "sts-107",
+    "name": "STS-107",
+    "dates": "Jan 16, 2003 - Feb 1, 2003",
+    "mainImg": "img/events/sts-107.jpg",
+    "summary": [
+      "STS-107 was the 113th flight of the Space Shuttle program, and the 28th and final flight of Space Shuttle Columbia. The mission launched from Kennedy Space Center in Florida on January 16, 2003 and during its 15 days, 22 hours, 20 minutes, 32 seconds in orbit conducted a multitude of international scientific experiments.",
+      "An in-flight break up during reentry into the atmosphere on February 1 killed all seven crew members and disintegrated Columbia. Immediately after the disaster, NASA convened the Columbia Accident Investigation Board to determine the cause of the disintegration. The source of the failure was determined to have been caused by a piece of foam that broke off during launch and damaged the thermal protection system on the leading edge of the orbiter's left wing. During re-entry the damaged wing slowly overheated and came apart, eventually leading to loss of control and disintegration of the vehicle. The cockpit window frame is now exhibited in a memorial inside the Space Shuttle Atlantis Pavilion at the Kennedy Space Center in Florida."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/STS-107",
+    "urlGoogle": "https://artsandculture.google.com/entity/sts-107/m0182pn"
+  },
+  "funFacts": [
+    {
+      "id": "325",
+      "fact": "75% of people wash from top to bottom in the shower.",
+      "category": ["Habits"]
+    },
+    {
+      "id": "676",
+      "fact": "At 5 feet, the whooping crane is the tallest bird in North America.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554098",
+      "fact": "The Vatican's bank is the only one in existence that allows ATM users to perform transactions in Latin."
+    }
+  ],
+  "idiom": {
+    "id": "of-the-first-water",
+    "term": "of the first water",
+    "definition": "Of the finest quality, as in *That was a play of the first water.* This idiom refers to a grading system for diamonds for their color or luster (compared to the shininess of water). The system is no longer used but the term, used figuratively since the early 1800s, has survived it."
+  },
+  "person": {
+    "id": "eleanor-roosevelt",
+    "name": "Eleanor Roosevelt",
+    "dates": "Oct 11, 1884 - Nov 7, 1962",
+    "mainImg": "img/people/eleanor-roosevelt.jpg",
+    "summary": [
+      "Anna Eleanor Roosevelt was an American political figure, diplomat and activist. She served as the First Lady of the United States from March 4, 1933, to April 12, 1945, during her husband President Franklin D. Roosevelt's four terms in office, making her the longest-serving First Lady of the United States. Roosevelt served as United States Delegate to the United Nations General Assembly from 1945 to 1952.",
+      "President Harry S. Truman later called her the \"First Lady of the World\" in tribute to her human rights achievements.",
+      "Roosevelt was a member of the prominent American Roosevelt and Livingston families and a niece of President Theodore Roosevelt. She had an unhappy childhood, having suffered the deaths of both parents and one of her brothers at a young age. At 15, she attended Allenwood Academy in London and was deeply influenced by its headmistress Marie Souvestre. Returning to the U.S., she married her fifth cousin once removed, Franklin Delano Roosevelt, in 1905."
+    ],
+    "quote": "“If someone betrays you once, it’s their fault; if they betray you twice, it’s your fault.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
+    "urlGoogle": "https://artsandculture.google.com/entity/eleanor-roosevelt/m02n9k"
+  },
+  "place": {
+    "id": "bangladesh",
+    "name": "Bangladesh",
+    "mainImg": "img/places/bangladesh.jpg",
+    "summary": [
+      "Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. It is the eighth-most populous country in the world, with a population exceeding 161 million people. In terms of land mass, Bangladesh ranks 92nd, spanning 147,570 square kilometres, making it one of the most densely-populated countries in the world. Bangladesh shares land borders with India to the west, north, and east, Myanmar to the southeast, and the Bay of Bengal to the south. It is narrowly separated from Nepal and Bhutan by India's Siliguri Corridor, and from China by the Indian state of Sikkim, in the north, respectively. Dhaka, the capital and largest city, is the nation's economic, political and cultural hub. Chittagong, the largest sea port, is the second largest city. With numerous criss-crossing rivers and inland waterways, the dominant geographic feature of Bangladesh is the Ganges delta, which empties into the Bay of Bengal with the combined waters of several river systems, including the Brahmaputra river and the Ganges river."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bangladesh",
+    "urlGoogle": "https://artsandculture.google.com/entity/bangladesh/m0162b"
+  },
+  "quote": {
+    "id": "31",
+    "quote": "Either write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin"
+  },
+  "wiki": {
+    "id": "marshall-texas",
+    "name": "Marshall, Texas",
+    "summary": "Marshall, Texas, is a major cultural and educational center in Northeast Texas, located near the Louisiana and Arkansas borders in the Ark-La-Tex region. As of the 2000 census, the city had a total population of 23,935. The county seat of Harrison County, the city is known for its Civil War, railroad, and civil rights movement history, for holding one of the largest light festivals in the United States, the Wonderland of Lights, and, as the self-proclaimed Pottery Capital of the World, for its sizable pottery industry. It is also known variously as the Cultural Capital of East Texas, the Gateway of Texas, the Athens of Texas, and the City of Seven Flags.",
+    "url": "https://en.wikipedia.org/wiki/Marshall,_Texas"
+  },
+  "word": {
+    "id": "malaise",
+    "word": "malaise",
+    "url": "https://www.merriam-webster.com/dictionary/malaise",
+    "partOfSpeech": "noun",
+    "pronunciation": "muh-LAYZ",
+    "audioPath": "audio/words/malaise.mp3",
+    "definitions": [
+      "an indefinite feeling of debility or lack of health often indicative of or accompanying the onset of an illness",
+      "a vague sense of mental or moral ill-being"
+    ],
+    "examples": [
+      "Though she has worked at the same company for 30 years, Jeannie shows few signs of the professional malaise common among her coworkers."
+    ],
+    "origin": "\"Malaise,\" which ultimately traces back to Old French, has been part of English since the mid-18th century. One of its most notable uses, however, came in 1979 -- well, sort of. President Jimmy Carter never actually used the word in his July 15 televised address, but it became known as the \"malaise speech\" all the same. In the speech, Carter described the U.S. as a nation facing a \"crisis of confidence\" and rife with \"paralysis and stagnation and drift.\" He spoke of a \"national malaise\" a few days later, and it's not hard to see why the \"malaise\" name stuck. The speech was praised by some and criticized by many others, but whatever your politics, it remains a vivid illustration of the meaning of \"malaise.\""
+  }
+}

@@ -1,132 +1,140 @@
 {
   "artist": {
-    "id": "jose-ferraz-de-almeida-junior",
-    "name": "José Ferraz de Almeida Júnior",
-    "dates": "May 8, 1850 - Nov 13, 1899",
-    "mainImg": "img/art/artists/jose-ferraz-de-almeida-junior.jpg",
+    "id": "steve-mc-queen",
+    "name": "Steve McQueen",
+    "dates": "Born Oct 9, 1969",
+    "mainImg": "img/art/artists/steve-mc-queen.jpg",
     "artworkImgs": [
       {
-        "name": "Caipira picando fumo [Caipira Cutting Tobacco]",
-        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/caipira-picando-fumo-caipira-cutting-tobacco-almeida-júnior/6wGSIEmiROgbPQ"
+        "name": "Prey",
+        "path": "img/art/artworks/steve-mc-queen-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/prey-steve-mcqueen/ZwFpiQvOpA3q-Q"
       },
       {
-        "name": "Caipira picando fumo (estudo)",
-        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/caipira-picando-fumo-estudo-almeida-júnior/0AFhS4O-Pz0CYw"
+        "name": "Ashes",
+        "path": "img/art/artworks/steve-mc-queen-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ashes-steve-mcqueen/9AHqbnRpwgr0eg"
       },
       {
-        "name": "O violeiro [The Guitar Player]",
-        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/o-violeiro-the-guitar-player-almeida-júnior/QwEK8L0OIq25SA"
+        "name": "Deadpan",
+        "path": "img/art/artworks/steve-mc-queen-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/deadpan-steve-mcqueen/cAHohX0rSlAkpw"
       },
       {
-        "name": "Amolação interrompida [Interrupted Whetting]",
-        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/amolação-interrompida-interrupted-whetting-almeida-júnior/WwEfYoCMcyHiMg"
+        "name": "Ashes",
+        "path": "img/art/artworks/steve-mc-queen-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/ashes-steve-mcqueen/IAHTJUoZdiMVEA"
       },
       {
-        "name": "Family Scene",
-        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/family-scene-almeida-júnior/OwGQi9iigj2YRA"
+        "name": "Steve McQueen on Paul Robeson",
+        "path": "img/art/artworks/steve-mc-queen-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/steve-mcqueen-on-paul-robeson-steve-mcqueen/VwHhidQaSZNbwQ"
       },
       {
-        "name": "Cena de família de Adolfo Augusto Pinto [Scene of Adolfo Augusto Pinto’s Family]",
-        "path": "img/art/artworks/jose-ferraz-de-almeida-junior-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/cena-de-família-de-adolfo-augusto-pinto-scene-of-adolfo-augusto-pinto’s-family-almeida-júnior/kwEdNFroownk5Q"
+        "name": "Steve McQueen on Paul Robeson",
+        "path": "img/art/artworks/steve-mc-queen-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/steve-mcqueen-on-paul-robeson-steve-mcqueen/rAE_Q8AAltdWZg"
       }
     ],
     "summary": [
-      "José Ferraz de Almeida Júnior, commonly known as Almeida Júnior, was a Brazilian artist and designer; one of the first there to paint in the Realistic tradition of Gustave Courbet and Jean-François Millet. The \"Dia do Artista Plástico\" is celebrated on his birthday."
+      "Sir Steven Rodney McQueen CBE is a British film director, film producer, screenwriter, and video artist. For his 2013 film 12 Years a Slave, a historical drama adaptation of an 1853 slave narrative memoir, he won an Academy Award, BAFTA Award for Best Film, and Golden Globe Award for Best Motion Picture – Drama, as a producer, and he also received the award for Best Director from the New York Film Critics Circle. McQueen is the first black filmmaker to win an Academy Award for Best Picture.",
+      "McQueen frequently collaborates with actor Michael Fassbender, who has starred in three of McQueen's four feature films. McQueen's other feature films are Hunger, a historical drama about the 1981 Irish hunger strike, Shame, a drama about an executive struggling with sex addiction, and 12 Years a Slave.",
+      "For his artwork, McQueen has received the Turner Prize, the highest award given to a British visual artist. In 2006, he produced Queen and Country, which commemorates the deaths of British soldiers in Iraq by presenting their portraits as a sheet of stamps. For services to the visual arts, he was appointed Commander of the Order of the British Empire in 2011."
     ],
     "quote": null,
-    "movements": ["Academic art", "Realism", "Modern art", "American Realism"],
-    "mediums": ["Oil paint", "Wood", "Adhesive"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior",
-    "urlGoogle": "https://artsandculture.google.com/entity/josé-ferraz-de-almeida-júnior/m08yzsc"
+    "movements": ["Contemporary art", "Young British Artists"],
+    "mediums": ["Photographic film"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Steve_McQueen_%28director%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/steve-mcqueen/m01c0v6"
   },
   "event": {
-    "id": "battle-of-amiens",
-    "name": "Battle of Amiens",
-    "dates": "Aug 8, 1918 - Aug 11, 1918",
-    "mainImg": "img/events/battle-of-amiens.jpg",
+    "id": "cuban-missile-crisis",
+    "name": "Cuban Missile Crisis",
+    "dates": "Oct 16, 1962 - Oct 28, 1962",
+    "mainImg": "img/events/cuban-missile-crisis.jpg",
     "summary": [
-      "The Battle of Amiens, also known as the Third Battle of Picardy, was the opening phase of the Allied offensive which began on 8 August 1918, later known as the Hundred Days Offensive, that ultimately led to the end of the First World War. Allied forces advanced over 11 kilometres on the first day, one of the greatest advances of the war, with Gen Henry Rawlinson's British Fourth Army playing the decisive role. The battle is also notable for its effects on both sides' morale and the large number of surrendering German forces. This led Erich Ludendorff to later describe the first day of the battle as \"the black day of the German Army\". Amiens was one of the first major battles involving armoured warfare."
+      "The Cuban Missile Crisis, also known as the October Crisis of 1962, the Caribbean Crisis, or the Missile Scare, was a 13-day confrontation between the United States and the Soviet Union initiated by Soviet ballistic missile deployment in Cuba. The confrontation is often considered the closest the Cold War came to escalating into a full-scale nuclear war.",
+      "In response to the failed Bay of Pigs Invasion of 1961 and the presence of American Jupiter ballistic missiles in Italy and Turkey, Soviet leader Nikita Khrushchev agreed to Cuba's request to place nuclear missiles on the island to deter a future invasion. An agreement was reached during a secret meeting between Khrushchev and Fidel Castro in July 1962, and construction of a number of missile launch facilities started later that summer.",
+      "Meanwhile, the 1962 United States elections were under way, and the White House had denied charges for months that it was ignoring dangerous Soviet missiles 90 miles from Florida. The missile preparations were confirmed when an Air Force U-2 spy plane produced clear photographic evidence of medium-range and intermediate-range ballistic missile facilities.",
+      "When this was reported to President John F."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Battle_of_Amiens_%281918%29",
-    "urlGoogle": "https://artsandculture.google.com/entity/battle-of-amiens/m03m7yn"
+    "urlWiki": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+    "urlGoogle": "https://artsandculture.google.com/entity/cuban-missile-crisis/m01zxx"
   },
   "funFacts": [
-    { "id": "439", "fact": "Snails can sleep for up to three years.", "category": ["Animals"] },
     {
-      "id": "864",
-      "fact": "Taft was the heaviest U.S. President at 329lbs; Madison was the smallest at 100lbs.",
-      "category": ["History"]
+      "id": "759",
+      "fact": "A rhinoceros horn is made of compacted hair.",
+      "category": ["Animals"]
+    },
+    {
+      "id": "732",
+      "fact": "The chicken is the closest living relative of Tyrannosaurus Rex.",
+      "category": ["Animals"]
     }
   ],
   "funFacts2": [
     {
-      "id": "553964",
-      "fact": "In her will, author Dorothy Parker left her estate to Martin Luther King Jr. and the NAACP following his death. The organization still owns the rights to her work today."
+      "id": "554004",
+      "fact": "Nostrils take turns receiving the majority of the air you breathe, which explains why one is usually stuffier than the other."
     }
   ],
   "idiom": {
-    "id": "in-the-pink",
-    "term": "in the pink",
-    "definition": "In good health, as in *We're glad to hear Bob's in the pink again.* In the 1500s *pink* meant \"the embodiment of perfection,\" but the current idiom dates only from about 1900."
+    "id": "build-on-sand",
+    "term": "build on sand",
+    "definition": "Use an unstable foundation, as in *If you buy nothing but high-risk stocks, your portfolio will be built on sand.* This metaphor appears in the New Testament, where Jesus likens those who do not heed his sayings to a foolish man who builds his house on sand, which then is washed away by rain, flood, and wind (Matthew 7:24--27). [c. 1600]"
   },
   "person": {
-    "id": "bahadur-shah-zafar",
-    "name": "Bahadur Shah Zafar",
-    "dates": "Oct 24, 1775 - Nov 7, 1862",
-    "mainImg": "img/people/bahadur-shah-zafar.jpg",
+    "id": "robert-baden-powell",
+    "name": "Robert Baden-Powell",
+    "dates": "Feb 22, 1857 - Jan 8, 1941",
+    "mainImg": "img/people/robert-baden-powell.jpg",
     "summary": [
-      "Bahadur Shah Zafar or Bahadur Shah II was the last Mughal emperor. He was the second son of and became the successor to his father, Akbar II, upon his death on 28 September 1837. He was a nominal Emperor, as the Mughal Empire existed in name only and his authority was limited only to the walled city of Old Delhi. Following his involvement in the Indian Rebellion of 1857, the British exiled him to Rangoon in British-controlled Burma, after convicting him on several charges.",
-      "Zafar's father, Akbar II, had been imprisoned by the British and he was not his father's preferred choice as his successor. One of Akbar Shah's queens, Mumtaz Begum, pressured him to declare her son, Mirza Jahangir, as his successor. However, The East India Company exiled Jahangir after he attacked their resident, in the Red Fort, paving the way for Zafar to assume the throne."
+      "Lieutenant General Robert Stephenson Smyth Baden-Powell, 1st Baron Baden-Powell, OM, GCMG, GCVO, KCB, KStJ, DL, was a British Army officer, writer, founder and first Chief Scout of the world-wide Scout Movement, and founder, with his sister Agnes, of the world-wide Girl Guide / Girl Scout Movement. Baden-Powell authored the first editions of the seminal work Scouting for Boys, which was an inspiration for the Scout Movement.",
+      "Educated at Charterhouse in Surrey, Baden-Powell served in the British Army from 1876 until 1910 in India and Africa. In 1899, during the Second Boer War in South Africa, Baden-Powell successfully defended the town in the Siege of Mafeking. Several of his military books, written for military reconnaissance and scout training in his African years, were also read by boys. In 1907, he held a demonstration camp, the Brownsea Island Scout camp, which is now seen as the beginning of Scouting. Based on his earlier books, particularly Aids to Scouting, he wrote Scouting for Boys, published in 1908 by Sir Arthur Pearson, for boy readership. In 1910 Baden-Powell retired from the army and formed The Scout Association."
     ],
-    "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar",
-    "urlGoogle": "https://artsandculture.google.com/entity/bahadur-shah-zafar/m0207dz"
+    "quote": "“A Scout is never taken by surprise; he knows exactly what to do when anything unexpected happens.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-baden-powell/m0gj7k"
   },
   "place": {
-    "id": "athens",
-    "name": "Athens",
-    "mainImg": "img/places/athens.jpg",
+    "id": "nuremberg",
+    "name": "Nuremberg",
+    "mainImg": "img/places/nuremberg.jpg",
     "summary": [
-      "Athens is the capital and largest city in Greece. Athens dominates the Attica region and is one of the world's oldest cities, with its recorded history spanning over 3,400 years and its earliest human presence started somewhere between the 11th and 7th millennium BC.",
-      "Classical Athens was a powerful city-state that emerged in conjunction with the seagoing development of the port of Piraeus. A center for the arts, learning and philosophy, home of Plato's Academy and Aristotle's Lyceum, it is widely referred to as the cradle of Western civilization and the birthplace of democracy, largely because of its cultural and political impact on the European continent, and in particular the Romans. In modern times, Athens is a large cosmopolitan metropolis and central to economic, financial, industrial, maritime, political and cultural life in Greece.",
-      "Athens is a global city and one of the biggest economic centers in southeastern Europe. It has a large financial sector, and its port Piraeus is both the largest passenger port in Europe, and the second largest in the world."
+      "Nuremberg is the second-largest city of the German federal state of Bavaria after its capital Munich, and its 511,628 inhabitants make it the 14th largest city in Germany. On the Pegnitz River and the Rhine–Main–Danube Canal, it lies in the Bavarian administrative region of Middle Franconia, and is the largest city and the unofficial capital of Franconia. Nuremberg forms a continuous conurbation with the neighbouring cities of Fürth, Erlangen and Schwabach with a total population of 798,867, while the larger Nuremberg Metropolitan Region has approximately 3.6 million inhabitants. The city lies about 170 kilometres north of Munich. It is the largest city in the East Franconian dialect area, Nuremberg was one of the host cities of the 2006 FIFA World Cup.",
+      "There are many institutions of higher education in the city, including the University of Erlangen-Nuremberg. With 39,780 students in 2017, it is Bavaria's third-largest and Germany's 11th-largest university, with campuses in Erlangen and Nuremberg and a university hospital in Erlangen. Technische Hochschule Nürnberg Georg Simon Ohm and Hochschule für Musik Nürnberg are also located within the city."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Athens",
-    "urlGoogle": "https://artsandculture.google.com/entity/athens/m0n2z"
+    "urlWiki": "https://en.wikipedia.org/wiki/Nuremberg",
+    "urlGoogle": "https://artsandculture.google.com/entity/nuremberg/m05bkf"
   },
   "quote": {
-    "id": "36",
-    "quote": "Read 500 pages like this every day. That's how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it.",
-    "author": "Warren Buffett"
+    "id": "13",
+    "quote": "The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into smaller manageable tasks, and then starting on the first one.",
+    "author": "Mark Twain"
   },
   "wiki": {
-    "id": "californias-12-th-congressional-district-election-1946",
-    "name": "California's 12th congressional district election, 1946",
-    "summary": "In California's 12th congressional district election, 1946, the candidates were five-term incumbent Democrat Jerry Voorhis, Republican challenger Richard Nixon, and former congressman and Prohibition Party candidate John Hoeppel. Nixon was elected with 56% of the vote, starting him on the road that would lead, almost a quarter century later, to the presidency. For the 1946 election, Republicans sought a candidate who could unite the party and run a strong race against Voorhis in the Republican-leaning district. After failing to secure the candidacy of General George Patton, they settled on Lieutenant Commander Richard Nixon, who had lived in the district prior to his World War II service. Various explanations have been put forward for Nixon's victory, from national political trends to red-baiting on the part of the challenger. Some historians contend that Nixon received large amounts of funding from wealthy backers determined to defeat Voorhis, while others dismiss such allegations.",
-    "url": "https://en.wikipedia.org/wiki/California%27s_12th_congressional_district_election,_1946"
+    "id": "lambeosaurus",
+    "name": "Lambeosaurus",
+    "summary": "Lambeosaurus is a genus of hadrosaurid dinosaur that lived about 76 to 75 million years ago, in the Late Cretaceous period (Campanian) of North America. This bipedal/quadrupedal, herbivorous dinosaur is known for its distinctive hollow cranial crest, which in the best-known species resembled a hatchet. Several possible species have been named in Canada, the US, and Mexico, but only the two Canadian species are currently recognized as valid. The various skulls assigned to the type species L. lambei are interpreted as showing age differences and sexual dimorphism, including some juvenile fossils previously thought to belong to a genus of dwarf hadrosaur. Lambeosaurus was closely related to the better known Corythosaurus, which is found in slightly older rocks, as well as the less well-known dinosaurs Hypacrosaurus and Olorotitan. All had unusual crests, which are now generally assumed to have served social functions like noisemaking and recognition. Lambeosaurus was belatedly described in 1923 by William Parks, over twenty years after the first material was studied by Lawrence Lambe, after whom the dinosaur is named.",
+    "url": "https://en.wikipedia.org/wiki/Lambeosaurus"
   },
   "word": {
-    "id": "skirl",
-    "word": "skirl",
-    "url": "https://www.merriam-webster.com/dictionary/skirl",
-    "partOfSpeech": "verb",
-    "pronunciation": "SKERL",
-    "audioPath": "audio/words/skirl.mp3",
+    "id": "bludge",
+    "word": "bludge",
+    "url": "https://www.merriam-webster.com/dictionary/bludge",
+    "partOfSpeech": "verb, chiefly Australia & New Zealand",
+    "pronunciation": "BLUJ",
+    "audioPath": "audio/words/bludge.mp3",
     "definitions": [
-      "to emit the high shrill tone of the chanter; also : to give forth music 2: to play (music) on the bagpipe"
+      "to avoid work or responsibility",
+      "to get something from or live on another by imposing on hospitality or good nature : sponge"
     ],
     "examples": [
-      "Wearing traditional tartans, the band paraded down the street and _skirled_.",
-      "\"As bagpipers _skirled_ 'Maury's Wedding,' Mr. Biden began his high energy tour of the Golden Triangle outside the U.S. Courthouse.\" - From an article by James O'Toole in the _Pittsburgh Post-Gazette_, March 18, 2012"
+      "\"If I want to go to Rotto, I’ll catch the ferry or bludge a ride on the new boat of one of my commodity-boomed nouveau riche friends.\" (Phil Haberland, _The_ \\[Perth, Australia\\] _Guardian Express_, March 6, 2007)"
     ],
-    "origin": "Not every musical instrument is honored with its very own verb. But then, not every musical instrument emits a sound that quite matches that of a bagpipe. Depending on your ear, you might think bagpipes \"give forth music,\" or you might be more apt to say they \"shriek.\" If you are of the latter opinion, your thinking aligns with the earliest sense of \"skirl\" - \"to shriek.\" That early sense was used of screeching maids, winds, and the like. Scottish poet Robert Sempill first used it for bagpipes in the mid-1600s. The meaning of \"skirl\" has shifted over time, however, and these days you can use the verb without causing offense to bagpipers and bagpipe enthusiasts."
+    "origin": "Though they can be annoying, people who bludge -- bludgers -- are relatively harmless. On the other hand, a bully armed with a bludgeon -- a \"bludgeoner\" -- can cause serious harm. In the 19th century, \"bludgeoner\" was shortened to \"bludger\" and used as a slang word for \"pimp.\" That \"bludger\" was certainly a kind of bully, one apparently willing to wield a bludgeon now and then to insure his livelihood. In the early 20th century, \"bludge\" became the verb for what a bludger does. By then, a somewhat softened \"bludger\" had appeared in Australia and New Zealand: the pimping and the bullying were eliminated, and the parasitical tendencies reduced to mere cadging or sponging."
   }
 }

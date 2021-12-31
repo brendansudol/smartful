@@ -1,137 +1,127 @@
 {
   "artist": {
-    "id": "alphonse-mucha",
-    "name": "Alphonse Mucha",
-    "dates": "Jul 24, 1860 - Jul 14, 1939",
-    "mainImg": "img/art/artists/alphonse-mucha.jpg",
+    "id": "lawrence-alma-tadema",
+    "name": "Lawrence Alma-Tadema",
+    "dates": "Jan 8, 1836 - Jun 25, 1912",
+    "mainImg": "img/art/artists/lawrence-alma-tadema.jpg",
     "artworkImgs": [
       {
-        "name": "Cycles Perfecta",
-        "path": "img/art/artworks/alphonse-mucha-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/cycles-perfecta-alphonse-mucha/BgFwaiaGZuEYDQ"
+        "name": "The Death of the Pharaoh's Firstborn Son",
+        "path": "img/art/artworks/lawrence-alma-tadema-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-death-of-the-pharaoh-s-firstborn-son-lourens-alma-tadema/EQFJAgzS2dA2oA"
       },
       {
-        "name": "Au Quartier Latin",
-        "path": "img/art/artworks/alphonse-mucha-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/au-quartier-latin-alphonse-mucha/mQHp14MXIL7LCw"
+        "name": "Portrait of Ignacy Jan Paderewski",
+        "path": "img/art/artworks/lawrence-alma-tadema-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/portrait-of-ignacy-jan-paderewski-lawrence-alma-tadema/qAGzlpBMqFSYsQ"
       },
       {
-        "name": "Gismonda",
-        "path": "img/art/artworks/alphonse-mucha-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/gismonda-alphonse-mucha/lgHCSl2DJPHzOw"
+        "name": "A Favourite Custom",
+        "path": "img/art/artworks/lawrence-alma-tadema-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/a-favourite-custom-sir-lawrence-alma-tadema/awFyOIPRbUMY5Q"
       },
       {
-        "name": "Job",
-        "path": "img/art/artworks/alphonse-mucha-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/job-alphonse-mucha/gAGlllq_JU7ILQ"
+        "name": "Sappho and Alcaeus",
+        "path": "img/art/artworks/lawrence-alma-tadema-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/sappho-and-alcaeus/cgGJhGb6MjVeAw"
       },
       {
-        "name": "The Ruby",
-        "path": "img/art/artworks/alphonse-mucha-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-ruby-alphonse-mucha/5AGQxJRT-SwgsQ"
+        "name": "A Reading from Homer",
+        "path": "img/art/artworks/lawrence-alma-tadema-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/a-reading-from-homer/fAFfW9CzajZAaA"
       },
       {
-        "name": "La Femme Animee en Fleur",
-        "path": "img/art/artworks/alphonse-mucha-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/la-femme-animee-en-fleur-alphonse-mucha/uQFhuh8brnO7rA"
+        "name": "Boogschutter schiet een watervogel",
+        "path": "img/art/artworks/lawrence-alma-tadema-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/boogschutter-schiet-een-watervogel-lourens-alma-tadema/PAEohA1ohyCVQA"
       }
     ],
     "summary": [
-      "Alfons Maria Mucha, known internationally as Alphonse Mucha, was a Czech painter, illustrator and graphic artist, living in Paris during the Art Nouveau period, best known for his distinctly stylized and decorative theatrical posters, particularly those of Sarah Bernhardt. He produced illustrations, advertisements, decorative panels, and designs, which became among the best-known images of the period.",
-      "In the second part of his career, at the age of 43, he returned to his homeland of Bohemia-Moravia region in Austria and devoted himself to painting a series of twenty monumental canvases known as The Slav Epic, depicting the history of all the Slavic peoples of the world, which he painted between 1912 and 1926. In 1928, on the 10th anniversary of the independence of Czechoslovakia, he presented the series to the Czech nation. He considered it his most important work. It is now on display in Prague."
-    ],
-    "quote": "“Every nation has a palladium of its own embodying past and future history. Ever since my boyhood I felt and saw in the architectural lines of St. Vitus Cathedral built so close to the castle, a powerful interpretation of our national symbol. I could, therefore, select no other subject for my design then Hradcany Castle and the surrounding architecture of the Middle Ages.”",
-    "movements": ["Modern art", "Modernism", "Art Nouveau", "Post-Impressionism"],
-    "mediums": ["Cardboard", "Drawing", "Textile", "Ink", "Photograph", "Silk"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Alphonse_Mucha",
-    "urlGoogle": "https://artsandculture.google.com/entity/alphonse-mucha/m0p_nx"
-  },
-  "event": {
-    "id": "spring-offensive",
-    "name": "Spring Offensive",
-    "dates": "Mar 21, 1918 - Jul 18, 1918",
-    "mainImg": "img/events/spring-offensive.jpg",
-    "summary": [
-      "The 1918 Spring Offensive, or Kaiserschlacht, also known as the Ludendorff Offensive, was a series of German attacks along the Western Front during the First World War, beginning on 21 March 1918. The Germans had realised that their only remaining chance of victory was to defeat the Allies before the United States could fully deploy their resources. The German Army had gained a temporary advantage in numbers as nearly 50 divisions had been freed by the Russian withdrawal from the war with the Treaty of Brest-Litovsk.",
-      "There were four German offensives, codenamed Michael, Georgette, Gneisenau, and Blücher-Yorck. Michael was the main attack, which was intended to break through the Allied lines, outflank the British forces and defeat the British Army. Once that was achieved, it was hoped that the French would seek armistice terms. The other offensives were subsidiary to Michael and were designed to divert Allied forces from the main offensive effort on the Somme. No clear objective was established before the start of the offensives and once the operations were underway, the targets of the attacks were constantly changed according to the battlefield situation."
+      "Sir Lawrence Alma-Tadema, OM, RA was a Dutch painter of special British denizenship. Born in Dronryp, the Netherlands, and trained at the Royal Academy of Antwerp, Belgium, he settled in England in 1870 and spent the rest of his life there. A classical-subject painter, he became famous for his depictions of the luxury and decadence of the Roman Empire, with languorous figures set in fabulous marbled interiors or against a backdrop of dazzling blue Mediterranean Sea and sky. Alma-Tadema was considered one of the most popular Victorian painters. Though admired during his lifetime for his draftsmanship and depictions of Classical antiquity, his work fell into disrepute after his death, and only since the 1960s has it been re-evaluated for its importance within nineteenth-century British art."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Spring_Offensive",
-    "urlGoogle": "https://artsandculture.google.com/entity/spring-offensive/m02j3fx"
+    "movements": ["Academic art", "Romanticism", "Modern art", "Neoclassicism"],
+    "mediums": ["Oil paint", "Etching", "Pencil", "Wood", "Graphite", "Engraving"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema",
+    "urlGoogle": "https://artsandculture.google.com/entity/lawrence-alma-tadema/m073zs"
+  },
+  "event": {
+    "id": "triangle-shirtwaist-factory-fire",
+    "name": "Triangle Shirtwaist Factory fire",
+    "dates": null,
+    "mainImg": "img/events/triangle-shirtwaist-factory-fire.jpg",
+    "summary": [
+      "The Triangle Shirtwaist Factory fire in the Greenwich Village neighborhood of Manhattan, New York City, on March 25, 1911, was the deadliest industrial disaster in the history of the city, and one of the deadliest in U.S. history. The fire caused the deaths of 146 garment workers – 123 women and girls and 23 men – who died from the fire, smoke inhalation, or falling or jumping to their deaths. Most of the victims were recent Italian and Jewish immigrant women and girls aged 14 to 23; of the victims whose ages are known, the oldest victim was 43-year-old Providenza Panno, and the youngest were 14-year-olds Kate Leone and Rosaria \"Sara\" Maltese.",
+      "The factory was located on the 8th, 9th, and 10th floors of the Asch Building, at 23–29 Washington Place, near Washington Square Park. The 1901 building still stands today and is now known as the Brown Building. It is part of and owned by New York University.",
+      "Because the doors to the stairwells and exits were locked, many of the workers who could not escape from the burning building jumped from the high windows."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire",
+    "urlGoogle": "https://artsandculture.google.com/entity/triangle-shirtwaist-factory-fire/m01zg2p"
   },
   "funFacts": [
     {
-      "id": "899",
-      "fact": "The plastic things on the end of shoelaces are called aglets.",
-      "category": ["Definitions"]
+      "id": "144",
+      "fact": "Texas is the only state that permits residents to cast absentee ballots from space.",
+      "category": ["Geography", "Onlies"]
     },
-    {
-      "id": "279",
-      "fact": "Canada has the longest coastline of any country in the world.",
-      "category": ["Geography"]
-    }
+    { "id": "302", "fact": "Ketchup was once sold as a medicine.", "category": ["Food", "History"] }
   ],
   "funFacts2": [
     {
-      "id": "553836",
-      "fact": "Novelist Patricia Highsmith kept about 300 snails as pets. She carried them in her handbag to parties."
+      "id": "554049",
+      "fact": "Residents of the Galápagos island of Floreana use a barrel of disorganized mail in place of a formal postal system. Tourists are responsible for sorting through the mail and grabbing any parcels they can deliver on the way to where they’re headed."
     }
   ],
   "idiom": {
-    "id": "half-a-loaf-is-better-than-none",
-    "term": "half a loaf is better than none",
-    "definition": "Something is better than nothing, even if it is less than one wanted. For example, *He had asked for a new trumpet but got a used one---oh well, half a loaf is better than none.* This expression, often shortened, was already a proverb in 1546, where it was explicitly put: \"For better is half a loaf than no bread.\""
+    "id": "method-in-ones-madness",
+    "term": "method in one's madness",
+    "definition": "An underlying purpose in crazy behavior, as in *Harry takes seemingly random trips around the country but there's method to his madness---he's checking on real estate values.* This expression comes from Shakespeare's *Hamlet* (2:2): \"Though this be madness, yet there is method in it.\""
   },
   "person": {
-    "id": "chaim-weizmann",
-    "name": "Chaim Weizmann",
-    "dates": "Nov 27, 1874 - Nov 9, 1952",
-    "mainImg": "img/people/chaim-weizmann.jpg",
+    "id": "plaek-phibunsongkhram",
+    "name": "Plaek Phibunsongkhram",
+    "dates": "Jul 14, 1897 - Jun 11, 1964",
+    "mainImg": "img/people/plaek-phibunsongkhram.jpg",
     "summary": [
-      "Chaim Azriel Weizmann was a Zionist leader and Israeli statesman who served as president of the Zionist Organization and later as the first president of Israel. He was elected on 16 February 1949, and served until his death in 1952. It was Weizmann who convinced the United States government to recognize the newly formed state of Israel.",
-      "Weizmann was also a noted biochemist, considered to be the 'father' of industrial fermentation. He developed the acetone–butanol–ethanol fermentation process, which produces acetone, n-Butanol and ethanol through bacterial fermentation. His acetone production method was of great importance in the manufacture of cordite explosive propellants for the British war industry during World War I. He founded the Sieff Research Institute in Rehovot, Israel, and was instrumental in the establishment of the Hebrew University of Jerusalem."
-    ],
-    "quote": "“A law is something which must have a moral basis, so that there is an inner compelling force for every citizen to obey.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Chaim_Weizmann",
-    "urlGoogle": "https://artsandculture.google.com/entity/chaim-weizmann/m019x_p"
-  },
-  "place": {
-    "id": "tokyo",
-    "name": "Tokyo",
-    "mainImg": "img/places/tokyo.jpg",
-    "summary": [
-      "Tokyo, officially Tokyo Metropolis, is the capital and most populous prefecture of Japan. Located at the head of Tokyo Bay, the prefecture forms part of the Kantō region on the central Pacific coast of Japan's main island, Honshu. Tokyo is the political and economic center of the country, as well as the seat of the Emperor of Japan and the national government. In 2019, the prefecture had an estimated population of 13,929,280. The Greater Tokyo Area is the most populous metropolitan area in the world, with more than 37.4 million residents as of 2018.",
-      "Originally a fishing village named Edo, the city became a prominent political center in 1603, when it became the seat of the Tokugawa shogunate. By the mid-18th century, Edo was one of the most populous cities in the world, with a population numbering more than one million. Following the end of the shogunate in 1868, the imperial capital in Kyoto was moved to the city, which was renamed Tokyo. Tokyo was devastated by the 1923 Great Kantō earthquake, and again by Allied bombing raids during World War II. Beginning in the 1950s, the city underwent rapid reconstruction and expansion, going on to lead Japan's post-war economic recovery."
+      "Field Marshal Plaek Phibunsongkhram, locally known as Chomphon Por, contemporarily known as Phibun in the West, was a Thai military officer and politician who served as the Prime Minister of Thailand and dictator from 1938 to 1944 and 1948 to 1957.",
+      "Phibunsongkhram was a member of the Royal Siamese Army wing of Khana Ratsadon, the first political party in Thailand, and a leader of the Siamese revolution of 1932 transforming Thailand from an absolute monarchy to a constitutional monarchy. Phibun became the third Prime Minister of Thailand in 1938 as Commander of the Royal Siamese Army, established a de facto military dictatorship inspired by the Italian fascism of Benito Mussolini, promoted Thai nationalism and sinophobia, and allied Thailand with Imperial Japan in World War II. Phibun launched a modernization campaign known as the Thai Cultural Revolution that included a series of cultural mandates, changing the country's name from \"Siam\" to \"Thailand\", and promotion of the common Thai language."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Tokyo",
-    "urlGoogle": "https://artsandculture.google.com/entity/tokyo/m07dfk"
+    "urlWiki": "https://en.wikipedia.org/wiki/Plaek_Phibunsongkhram",
+    "urlGoogle": "https://artsandculture.google.com/entity/plaek-phibunsongkhram/m01cy1v"
   },
-  "quote": {
-    "id": "39",
-    "quote": "The past can hurt. But the way I see it, you can either run from it, or learn from it.",
-    "author": "Walt Disney"
+  "place": {
+    "id": "kenya",
+    "name": "Kenya",
+    "mainImg": "img/places/kenya.jpg",
+    "summary": [
+      "Kenya, officially the Republic of Kenya, is a country in Africa with 47 semiautonomous counties governed by elected governors. At 580,367 square kilometres, Kenya is the world's 48th largest country by total area. With a population of more than 47.6 million people, Kenya is the 29th most populous country. Kenya's capital and largest city is Nairobi, while its oldest city and first capital is the coastal city of Mombasa. Kisumu City is the third largest city and also an inland port on Lake Victoria. Other important urban centres include Nakuru and Eldoret. As of 2020, Kenya is the third largest economy in sub-Saharan Africa after Nigeria and South Africa.",
+      "Kenya is bordered by South Sudan to the northwest, Ethiopia to the north, Somalia to the east, Uganda to the west, Tanzania to the south, and the Indian Ocean to the southeast.",
+      "According to archaeological dating of associated artifacts and skeletal material, the Cushites first settled in the lowlands of Kenya between 3,200 and 1,300 BC, a phase referred to as the Lowland Savanna Pastoral Neolithic.",
+      "Nilotic-speaking pastoralists started migrating from present-day southern Sudan into Kenya around 500 BC."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Kenya",
+    "urlGoogle": "https://artsandculture.google.com/entity/kenya/m019rg5"
   },
   "wiki": {
-    "id": "franklin-pierce",
-    "name": "Franklin Pierce",
-    "summary": "Franklin Pierce (1804–1869) was the 14th President of the United States (1853–57), whose inability to calm tensions over slavery kept the country on the path to the Civil War. A northern Democrat from New Hampshire, Pierce served in the U.S. House of Representatives and the Senate and took part in the Mexican–American War as a brigadier general before becoming the Democrats' compromise candidate in the 1852 presidential election. He saw the abolitionist movement as a fundamental threat to the unity of the nation. He was a Young America expansionist who signed the Gadsden Purchase of land from Mexico and led a failed attempt to acquire Cuba from Spain. His polarizing actions in signing the Kansas–Nebraska Act and enforcing the Fugitive Slave Act failed to stem intersectional conflict. Although Pierce expected to be renominated by the Democrats, he was abandoned by his party and failed in his bid to be re-elected. His wife Jane suffered from illness and depression for much of her life, and all of their children died young. Pierce, a heavy drinker for much of his life, died of cirrhosis of the liver. Today he is widely regarded as one of the worst presidents in U.S. history.",
-    "url": "https://en.wikipedia.org/wiki/Franklin_Pierce"
+    "id": "mario-power-tennis",
+    "name": "Mario Power Tennis",
+    "summary": "Mario Power Tennis is a sports game developed by Camelot Software Planning and published by Nintendo for the GameCube in 2004. The game is the sequel to the Nintendo 64 title Mario Tennis, and is the fourth game in the Mario Tennis series. The game was re-released for the Wii in 2009. It incorporates multiple characters, themes, and locations from the Mario series. The game includes standard tennis matches, but contains variants that feature different scoring formats and objectives. The game consists of 18 playable characters, each categorised by their style of play and each with a pair of unique moves known as \"Power Shots\". Power Tennis was developed simultaneously with Mario Golf: Toadstool Tour, and the pair shared similar technology and concepts with each other during production. Such similarities include an emphasis on the Mario theme in characters and settings as well as alternative game modes such as \"Ring Shot\". The game was positively received in general, attaining an aggregate score of 81 percent from GameRankings and 80 percent from Metacritic. Critics praised the game's depth and variety, but criticised the Power Shot animations, which could not be skipped.",
+    "url": "https://en.wikipedia.org/wiki/Mario_Power_Tennis"
   },
   "word": {
-    "id": "destitute",
-    "word": "destitute",
-    "url": "https://www.merriam-webster.com/dictionary/destitute",
+    "id": "lanuginous",
+    "word": "lanuginous",
+    "url": "https://www.merriam-webster.com/dictionary/lanuginous",
     "partOfSpeech": "adjective",
-    "pronunciation": "DESS-tuh-toot",
-    "audioPath": "audio/words/destitute.mp3",
-    "definitions": [
-      "lacking something needed or desirable",
-      "lacking possessions and resources; especially : suffering extreme poverty"
-    ],
+    "pronunciation": "luh-NOO-juh-nus",
+    "audioPath": "audio/words/lanuginous.mp3",
+    "definitions": ["covered with down or fine soft hair : downy"],
     "examples": [
-      "\"He gave thanks for our food and comfort, and prayed for the poor and destitute in great cities, where the struggle for life was harder than it was here with us.\" (Willa Cather, _My Antonia_)"
+      "\"The Leaves of the young Branches are like those of the Quince, green without, and white and lanuginous underneath, and serve for Food for the Elephants.\" (Monfieur Pomet, \"Figs,\" _History of Druggs_, 1709)"
     ],
-    "origin": "You may be surprised to learn that \"destitute\" is related to words like \"statue,\" \"statute,\" and even \"statistics.\" The Latin word \"status,\" meaning \"position\" or \"state,\" is the source of these and other English words. Some terms of this family are directly related to \"status,\" while others come to English through \"statuere,\" a Latin derivative of \"status\" that means \"to set up.\" \"Destitute\" came from \"destituere\" (\"to abandon\" or \"to deprive\"), a joining of \"statuere\" and the prefix \"de-\" (\"from, down, away\"). \"Statuere\" also gave us \"constitute,\" \"institute,\" and \"restitution,\" among other similar-sounding words."
+    "origin": "You're likely to come across \"lanuginous\" in only a few contexts, botany and spelling bees being the best candidates. In other contexts, the more common term is \"downy.\" \"Lanuginous\" has an unsurprising pedigree. It's from the Latin word \"lanuginosus,\" which is in turn from \"lanugo,\" the Latin word for \"down.\" (\"Lanugo\" is also an English word used especially to refer to the soft woolly hair that covers the fetus of some mammals.) \"Lanugo\" itself is from \"lana,\" meaning \"wool,\" a root also at work in \"lanolin,\" the term for wool grease that's refined for use in ointments and cosmetics."
   }
 }

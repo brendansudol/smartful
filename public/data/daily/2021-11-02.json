@@ -1,0 +1,123 @@
+{
+  "artist": {
+    "id": "zhang-xiaogang",
+    "name": "Zhang Xiaogang",
+    "dates": "Born 1958",
+    "mainImg": "img/art/artists/zhang-xiaogang.jpg",
+    "artworkImgs": [
+      {
+        "name": "The Collapsed Bed",
+        "path": "img/art/artworks/zhang-xiaogang-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-collapsed-bed-zhang-xiaogang/IQHrjtmK_EoDAw"
+      },
+      {
+        "name": "Bloodline-Big Family Series",
+        "path": "img/art/artworks/zhang-xiaogang-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/bloodline-big-family-series-zhang-xiaogang/aQHHl3GXUSx6yw"
+      },
+      {
+        "name": "Bloodline: Big Family No.3",
+        "path": "img/art/artworks/zhang-xiaogang-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/bloodline-big-family-no-3-zhang-xiaogang/NwH734isnVP8kg"
+      },
+      {
+        "name": "Heaven No.4",
+        "path": "img/art/artworks/zhang-xiaogang-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/heaven-no-4-zhang-xiaogang/tAGZ5fg-vKdzfg"
+      },
+      {
+        "name": "Train Window - Red Plum",
+        "path": "img/art/artworks/zhang-xiaogang-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/train-window-red-plum-zhang-xiaogang/bAHFyfr5C0ByzA"
+      },
+      {
+        "name": "Painter with Mother as a Young Woman",
+        "path": "img/art/artworks/zhang-xiaogang-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/painter-with-mother-as-a-young-woman-zhang-xiaogang/fAHJOUp7hQ1pDw"
+      }
+    ],
+    "summary": [
+      "Zhang Xiaogang is a contemporary Chinese symbolist and surrealist painter. Paintings in his Bloodline series are predominantly monochromatic, stylized portraits of Chinese people, usually with large, dark-pupiled eyes, posed in a stiff manner deliberately reminiscent of family portraits from the 1950s and 1960s. Recently, he also created sculptures, translating for the first time into three dimensions many characters of the sort seen in his \"Bloodlines—Big Family\" portrait series. These sculptures have featured in many exhibits and continue his work as one of China's leading, and most highly sought-after, contemporary artists."
+    ],
+    "quote": null,
+    "movements": ["Contemporary art"],
+    "mediums": ["Oil paint", "Fiberglass", "Glass", "Textile", "Photograph", "Iron"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Zhang_Xiaogang",
+    "urlGoogle": "https://artsandculture.google.com/entity/zhang-xiaogang/m0chn1c"
+  },
+  "event": {
+    "id": "deepwater-horizon-oil-spill",
+    "name": "Deepwater Horizon oil spill",
+    "dates": "Apr 20, 2010",
+    "mainImg": "img/events/deepwater-horizon-oil-spill.jpg",
+    "summary": [
+      "The Deepwater Horizon oil spill was an industrial disaster that began on April 20, 2010, in the Gulf of Mexico on the BP-operated Macondo Prospect, considered to be the largest marine oil spill in the history of the petroleum industry and estimated to be 8 percent to 31 percent larger in volume than the previous largest, the Ixtoc I oil spill, also in the Gulf of Mexico. The U.S. federal government estimated the total discharge at 4.9 million barrels. After several failed efforts to contain the flow, the well was declared sealed on September 19, 2010. Reports in early 2012 indicated that the well site was still leaking. The Deepwater Horizon oil spill is regarded as one of the largest environmental disasters in American history.",
+      "A massive response ensued to protect beaches, wetlands and estuaries from the spreading oil utilizing skimmer ships, floating booms, controlled burns and 1.84 million US gallons of oil dispersant. Due to the months-long spill, along with adverse effects from the response and cleanup activities, extensive damage to marine and wildlife habitats and fishing and tourism industries was reported."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill",
+    "urlGoogle": "https://artsandculture.google.com/entity/deepwater-horizon-oil-spill/m0bs5k0_"
+  },
+  "funFacts": [
+    {
+      "id": "259",
+      "fact": "The original recipe for chocolate contained chili powder instead of sugar.",
+      "category": ["Food"]
+    },
+    {
+      "id": "926",
+      "fact": "George Washington was the only unanimously elected President.",
+      "category": ["History", "Onlies"]
+    }
+  ],
+  "funFacts2": [
+    {
+      "id": "554014",
+      "fact": "In late May or early June of each year, the synchronous fireflies of the Great Smoky Mountains flash in sync. The light show is made up of males blinking for the females on the forest floor below."
+    }
+  ],
+  "person": {
+    "id": "miguel-aleman-valdes",
+    "name": "Miguel Alemán Valdés",
+    "dates": "Sep 29, 1900 - May 14, 1983",
+    "mainImg": "img/people/miguel-aleman-valdes.jpg",
+    "summary": [
+      "Miguel Alemán Valdés was a Mexican politician who served a full term as the President of Mexico from 1946 to 1952, the first civilian president after a string of revolutionary generals. His administration was characterized by Mexico's rapid industrialization, often called the Mexican Miracle, but also for a high level of personal enrichment for himself and his associates. His presidency was the first of a new generation of Mexican leaders, who had not directly participated in the Mexican Revolution, and many in his cabinet were also young, university-educated civilians, close friends from his days at university."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Miguel_Alem%C3%A1n_Vald%C3%A9s",
+    "urlGoogle": "https://artsandculture.google.com/entity/miguel-alemán-valdés/m028brr"
+  },
+  "place": {
+    "id": "winterthur",
+    "name": "Winterthur",
+    "mainImg": "img/places/winterthur.jpg",
+    "summary": [
+      "Winterthur is a city in the canton of Zürich in northern Switzerland. With over 110,000 residents it is the country's sixth-largest city by population, and is the ninth-largest agglomeration with about 140,000 inhabitants. Located about 20 kilometres northeast of Zürich, Winterthur is a service and high-tech industrial satellite city within Greater Zürich.",
+      "The official language of Winterthur is Swiss Standard German, but the main spoken language is the local variant of the Alemannic Swiss German dialect. Winterthur is usually abbreviated as Winti in the local dialect and by its inhabitants.",
+      "Winterthur is connected to Germany by direct trains and has links to Zurich Airport. It is also a regional transport hub: the A1 motorway from Geneva through to St. Margrethen connects in Winterthur with the A4 motorway heading north toward Schaffhausen and the A7 motorway heading close to the Swiss-German border at Kreuzlingen. There are also roads leading to other places such as Turbenthal. The railway station is the fifth busiest railway station in Switzerland, and is 20 minutes away by train from Zürich."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Winterthur",
+    "urlGoogle": "https://artsandculture.google.com/entity/winterthur/m02h_9x"
+  },
+  "wiki": {
+    "id": "raf-northolt",
+    "name": "RAF Northolt",
+    "summary": "RAF Northolt is a Royal Air Force station in South Ruislip, 2 NM (3.7 km; 2.3 mi) east by northeast of Uxbridge in the London Borough of Hillingdon, West London. Approximately 10 km (6.2 mi) north of London Heathrow Airport, the station also handles a large number of private civil flights; its location near the A40 road link with central London and close proximity to Ruislip Gardens tube station has also made it popular with business people and politicians. Northolt has one runway in operation, spanning 1,684 m × 46 m (5,525 ft × 151 ft), with a grooved asphalt surface. Originally established for the Royal Flying Corps, it has the longest history of continuous use of any RAF airfield. Before the outbreak of the Second World War, the station was the first to take delivery of the Hawker Hurricane. The station played a key role during the Battle of Britain, when fighters from several of its units, including No. 303 Polish Fighter Squadron, engaged enemy aircraft as part of the defence of London. More recently the station has become the hub of British military flying operations in the London area. RAF squadrons, including No. 32 (The Royal) Squadron are based at RAF Northolt.",
+    "url": "https://en.wikipedia.org/wiki/RAF_Northolt"
+  },
+  "word": {
+    "id": "struthious",
+    "word": "struthious",
+    "url": "https://www.merriam-webster.com/dictionary/struthious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "STROO-thee-us",
+    "audioPath": "audio/words/struthious.mp3",
+    "definitions": ["of or relating to the ostriches and related birds"],
+    "examples": [
+      "\"The law is not so struthious as to compel a judge … to divorce himself or herself from common sense or to ignore what is perfectly obvious.\" (Hon. Bruce M. Selya, _U.S. v. Sklar_, U.S. Court of Appeals, 1st Circuit, 1990)"
+    ],
+    "origin": "\"Struthious\" can be scientific and literal, or it can be figurative with the meaning \"ostrich-like,\" as in our example sentence. The extended use suggests a tendency to bury one’s head in the sand like an ostrich. But do ostriches really do this? No -- the bird’s habit of lying down and flattening its neck and head against the ground to escape detection gave rise to the misconception. The word \"struthious\" has been fully visible in English since the 18th century. \"Ostrich\" is much older. Anglo-French speakers created \"ostriz\" from Vulgar Latin \"avis struthio\" (\"ostrich bird\"); Middle English speakers made it \"ostrich\" in the 13th century. Scientists seeking a genus word for ostriches turned back to Latin, choosing \"struthio.\""
+  }
+}

@@ -1,136 +1,126 @@
 {
   "artist": {
-    "id": "thomas-nast",
-    "name": "Thomas Nast",
-    "dates": "Sep 27, 1840 - Dec 7, 1902",
-    "mainImg": "img/art/artists/thomas-nast.jpg",
+    "id": "fornasetti",
+    "name": "Fornasetti",
+    "dates": "Nov 10, 1913 - Oct 9, 1988",
+    "mainImg": "img/art/artists/fornasetti.jpg",
     "artworkImgs": [
       {
-        "name": "Victoria Woodhull, caricature",
-        "path": "img/art/artworks/thomas-nast-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/victoria-woodhull-caricature-thomas-nast-illustrator/pwF3P5PQ6OYk3g"
+        "name": "IX Triennale, Trumeau in legno stampato, Mostra Arredamenteo e mobili isolati, sezione Mobili isolati",
+        "path": "img/art/artworks/fornasetti-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/ix-triennale-trumeau-in-legno-stampato-mostra-arredamenteo-e-mobili-isolati-sezione-mobili-isolati-piero-fornasetti/ywFXLazuwgf2fw"
       },
       {
-        "name": "The Georgetown Election - The Negro at the Ballot Box",
-        "path": "img/art/artworks/thomas-nast-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-georgetown-election-the-negro-at-the-ballot-box-nast-thomas-1840-1902/YAHphTzLSnloTw"
+        "name": "IX Triennale, Trumeau in legno stampato, Mostra Arredamento e mobili isolati, sezione mobili isolati",
+        "path": "img/art/artworks/fornasetti-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/ix-triennale-trumeau-in-legno-stampato-mostra-arredamento-e-mobili-isolati-sezione-mobili-isolati-piero-fornasetti/PwEfrfhTKVyoqw"
       },
       {
-        "name": "Santa Claus in Camp (published in Harper's Weekly, January 3, 1863)",
-        "path": "img/art/artworks/thomas-nast-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/santa-claus-in-camp-published-in-harper-s-weekly-january-3-1863-thomas-nast/7gHd9BJLNFObSA"
+        "name": "View of Varenna from the Castle of Vezio",
+        "path": "img/art/artworks/fornasetti-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/view-of-varenna-from-the-castle-of-vezio-piero-fornasetti/8AHIaosVCQh1Tg"
       },
       {
-        "name": "\"Get Thee Behind Me, (Mrs.) Satan!\"",
-        "path": "img/art/artworks/thomas-nast-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/get-thee-behind-me-mrs-satan-thomas-nast/LQG1VjLnjb0X4g"
+        "name": "VII Triennale, Disegno per specchio in vetro inciso, Produzione Salir, Mostra dei metalli e dei vetri",
+        "path": "img/art/artworks/fornasetti-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/vii-triennale-disegno-per-specchio-in-vetro-inciso-produzione-salir-mostra-dei-metalli-e-dei-vetri-piero-fornasetti/MAHeFJN1HcyCdA"
       },
       {
-        "name": "Compromise with the South, Published in Harper's Weekly, 3 September 1864",
-        "path": "img/art/artworks/thomas-nast-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/compromise-with-the-south-published-in-harper-s-weekly-3-september-1864-thomas-nast/lgH0iXmEYqCKJA"
+        "name": "VII Triennale, Tovaglietta americana in pizzo, Mostra dei tessuti e dei ricami, Sezione dei merletti e dei ricami",
+        "path": "img/art/artworks/fornasetti-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/vii-triennale-tovaglietta-americana-in-pizzo-mostra-dei-tessuti-e-dei-ricami-sezione-dei-merletti-e-dei-ricami-piero-fornasetti/DgGhmst27q41bw"
       },
       {
-        "name": "Palm Sunday from Harpers Weekly Magazine",
-        "path": "img/art/artworks/thomas-nast-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/palm-sunday-from-harpers-weekly-magazine-thomas-nast/nAFlqTZe0B3LRw"
+        "name": "VII Triennale, Studio per un vaso in vetro inciso, Mostra dei metalli e dei vetri",
+        "path": "img/art/artworks/fornasetti-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/vii-triennale-studio-per-un-vaso-in-vetro-inciso-mostra-dei-metalli-e-dei-vetri-piero-fornasetti/bAGEsV9DTS-NzQ"
       }
     ],
     "summary": [
-      "Thomas Nast was a German-born American caricaturist and editorial cartoonist often considered to be the \"Father of the American Cartoon\". He was a critic of Democratic Representative \"Boss\" Tweed and the Tammany Hall Democratic party political machine. Among his notable works were the creation of the modern version of Santa Claus and the political symbol of the elephant for the Republican Party. Contrary to popular belief, Nast did not create Uncle Sam, Columbia, or the Democratic donkey, though he did popularize these symbols through his artwork. Nast was associated with the magazine Harper's Weekly from 1859 to 1860 and from 1862 until 1886."
-    ],
-    "quote": "“Boss Tweed, 'As long as I count the Votes, what are you going to do about it?”",
-    "movements": ["Realism"],
-    "mediums": ["Engraving", "Wood", "Ink", "Newsprint", "Etching", "Photograph"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Thomas_Nast",
-    "urlGoogle": "https://artsandculture.google.com/entity/thomas-nast/m07krw"
-  },
-  "event": {
-    "id": "invasion-of-normandy",
-    "name": "Invasion of Normandy",
-    "dates": "Jun 6, 1944 - July 1944",
-    "mainImg": "img/events/invasion-of-normandy.jpg",
-    "summary": [
-      "The Western Allies of World War II launched the largest amphibious invasion in history when they attacked German positions at Normandy, located on the northern coast of France, on 6 June 1944. The invaders were able to establish a beachhead as part of Operation Overlord after a successful \"D-Day\", the first day of the invasion.",
-      "Allied land forces came from the United States, Britain, Canada, and Free French forces. In the weeks following the invasion, Polish forces and contingents from Belgium, Czechoslovakia, Greece and the Netherlands participated in the ground campaign; most also provided air and naval support alongside elements of the Royal Australian Air Force, the Royal New Zealand Air Force, and the Royal Norwegian Navy.",
-      "The Normandy invasion began with overnight parachute and glider landings, massive air attacks and naval bombardments. In the early morning, amphibious landings commenced on five beaches codenamed Sword, Juno, Gold, Omaha and Utah, with troops from the United States landing on Omaha and Utah, Britain landing on Gold and Sword, and Canada landing on Juno. During the evening the remaining elements of the airborne divisions landed."
+      "Piero Fornasetti was an Italian versatile and eclectic artist, characterised by an unstoppable creative flair that made him one of the most prolific figures of the 20th century, and difficult to ascribe to a specific movement."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Invasion_of_Normandy",
-    "urlGoogle": "https://artsandculture.google.com/entity/invasion-of-normandy/m0chhs"
+    "movements": ["Modernism"],
+    "mediums": ["Oil paint"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Fornasetti",
+    "urlGoogle": "https://artsandculture.google.com/entity/fornasetti/m09gl3v"
+  },
+  "event": {
+    "id": "bengal-famine-of-1943",
+    "name": "Bengal famine of 1943",
+    "dates": "1943 - 1944",
+    "mainImg": "img/events/bengal-famine-of-1943.jpg",
+    "summary": [
+      "The Bengal famine of 1943 was a famine in the Bengal province of British India during World War II. An estimated 2.1–3 million, out of a population of 60.3 million, died of starvation, malaria, or other diseases aggravated by malnutrition, population displacement, unsanitary conditions and lack of health care. Millions were impoverished as the crisis overwhelmed large segments of the economy and catastrophically disrupted the social fabric. Eventually, families disintegrated; men sold their small farms and left home to look for work or to join the army, and women and children became homeless migrants, often travelling to Calcutta or another large city in search of organised relief. Historians have frequently characterised the famine as \"man-made\", asserting that wartime colonial policies created and then exacerbated the crisis. A minority view holds that the famine arose instead from natural causes.",
+      "Bengal's economy had been predominantly agrarian, with between half and three-quarters of the rural poor subsisting in a \"semi-starved condition\"."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943",
+    "urlGoogle": "https://artsandculture.google.com/entity/bengal-famine-of-1943/m0502hy"
   },
   "funFacts": [
     {
-      "id": "311",
-      "fact": "The standard Chinese typewriter has 1,500 characters.",
-      "category": ["Hodgepodge"]
+      "id": "727",
+      "fact": "A spider's silk is stronger than steel.",
+      "category": ["Animals", "Science"]
     },
     {
-      "id": "977",
-      "fact": "The tradition of baseball managers wearing player uniforms started because the first managers were also players.",
-      "category": ["Habits", "History"]
+      "id": "669",
+      "fact": "In the game Monopoly, the properties are named after streets in Atlantic City.",
+      "category": ["Hodgepodge"]
     }
   ],
   "funFacts2": [
     {
-      "id": "554073",
-      "fact": "The swirling blue shades of the Marble Caves in Chile are a reflection of the turquoise lake waters below them. The hues change subtly as sea levels fall and rise."
+      "id": "554254",
+      "fact": "On average, people in India \u0003spend 10 hours and 42 minutes \u0003a week reading, the most time \u0003of any country on Earth."
     }
   ],
   "idiom": {
-    "id": "the-be-all-and-end-all",
-    "term": "the be-all and end-all",
-    "definition": "The most important element or purpose, as in *Buying a house became the be-all and end-all for the newlyweds.* Shakespeare used this idiom in *Macbeth* (1:6), where Macbeth muses that \"this blow might be the be-all and the end-all\" for his replacing Duncan as king. [Late 1500s]"
+    "id": "from-the-horses-mouth",
+    "term": "from the horse's mouth",
+    "definition": "From a reliable source, on the best authority. For example, *I have it from the horse's mouth that he plans to retire next month.* Also put as **straight from the horse's mouth,** this expression alludes to examining a horse's teeth to determine its age and hence its worth. [1920s]"
   },
   "person": {
-    "id": "nader-shah",
-    "name": "Nader Shah",
-    "dates": "Oct 22, 1688 - Jun 19, 1747",
-    "mainImg": "img/people/nader-shah.jpg",
+    "id": "james-roosevelt",
+    "name": "James Roosevelt",
+    "dates": "Dec 23, 1907 - Aug 13, 1991",
+    "mainImg": "img/people/james-roosevelt.jpg",
     "summary": [
-      "Nader Shah Afshar was one of the most powerful Iranian rulers in the history of the nation, ruling as Shah of Iran from 1736 to 1747 when he was assassinated during a rebellion. Because of his military genius as evidenced in his numerous campaigns throughout Middle East, Caucasus, Central and South Asia, such as the battles of Herat, Mihmandust, Murche-Khort, Kirkuk, Yeghevard, Khyber Pass, Karnal and Kars, some historians have described him as the Napoleon of Persia,",
-      "Sword of Persia, or the Second Alexander. Nader Shah was an Iranian who belonged to the Turkmen Afshar tribe of Khorasan in northeastern Iran, which had supplied military power to the Safavid dynasty since the time of Shah Ismail I.",
-      "Nader rose to power during a period of chaos in Iran after a rebellion by the Hotaki Pashtuns had overthrown the weak Shah Sultan Husayn, while the arch-enemy of the Safavids, the Ottomans, as well as the Russians had seized Iranian territory for themselves. Nader reunited the Iranian realm and removed the invaders. He became so powerful that he decided to depose the last members of the Safavid dynasty, which had ruled Iran for over 200 years, and become Shah himself in 1736."
+      "James Roosevelt II was an American businessman, Marine, activist, and Democratic Party politician. The oldest son of President Franklin D. Roosevelt and Eleanor Roosevelt, he received the Navy Cross for extraordinary heroism while serving as a Marine Corps officer during World War II. He served as an official Secretary to the President and in the United States House of Representatives representing California."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Nader_Shah",
-    "urlGoogle": "https://artsandculture.google.com/entity/nader-shah/m02nry6"
+    "urlWiki": "https://en.wikipedia.org/wiki/James_Roosevelt",
+    "urlGoogle": "https://artsandculture.google.com/entity/james-roosevelt/m05s5m7"
   },
   "place": {
-    "id": "coventry",
-    "name": "Coventry",
-    "mainImg": "img/places/coventry.jpg",
+    "id": "faroe-islands",
+    "name": "Faroe Islands",
+    "mainImg": "img/places/faroe-islands.jpg",
     "summary": [
-      "Coventry is a city, administrative centre and metropolitan borough in England and the United Kingdom. It is built on the River Sherbourne, which remains largely hidden by infrastructure, although it can be seen by the canal. Coventry has been a large settlement for centuries, although it was not founded and given its city status until the Middle Ages; since then it has been one of the most important and largest cities of the country. The conurbation consists of the Coventry and Bedworth Urban Area, being the 20th largest in the country; the city is governed by Coventry City Council.",
-      "Historically part of Warwickshire, at the 2011 census Coventry had a population of 316,915, making it the 9th largest city in England and the 11th largest in the United Kingdom. It is the second largest city in the West Midlands region, after Birmingham, and although proximate to the West Midlands conurbation, it is just outside it.",
-      "Coventry is 19 miles east-southeast of Birmingham, 24 miles southwest of Leicester, 11 miles north of Warwick and 94 miles northwest of London."
+      "The Faroe Islands, or the Faeroe Islands, is a North Atlantic archipelago located 320 kilometres north-northwest of Scotland, and about halfway between Norway and Iceland. It is an autonomous territory within the Kingdom of Denmark. The islands have a total area of about 1,400 square kilometres with a population of 52,110 as of January 2020.",
+      "The terrain is rugged; the climate is subpolar oceanic climate —windy, wet, cloudy, and cool. Temperatures average above freezing throughout the year because of the Gulf Stream. As a result of the moderation and the northerly latitude, summers normally hover around 12 °C. Average temperatures are 5 °C in winter. The northerly latitude location also results in perpetual civil twilight during summer nights and very short winter days.",
+      "Between 1035 and 1814 the Faroe Islands were part of the Kingdom of Norway, which was in a personal union with Denmark from 1450. In 1814 the Treaty of Kiel transferred Norway to the king of Sweden, on the winning side of the Napoleonic wars, whereas Denmark retained the Faroe Islands, along with Greenland and Iceland."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Coventry",
-    "urlGoogle": "https://artsandculture.google.com/entity/coventry/m0c5_3"
-  },
-  "quote": {
-    "id": "7",
-    "quote": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
-    "author": "Dr. Seuss"
+    "urlWiki": "https://en.wikipedia.org/wiki/Faroe_Islands",
+    "urlGoogle": "https://artsandculture.google.com/entity/faroe-islands/m02w9s"
   },
   "wiki": {
-    "id": "barber-coinage",
-    "name": "Barber coinage",
-    "summary": "The Barber coinage consisted of a dime, quarter, and half dollar designed by United States Bureau of the Mint Chief Engraver Charles E. Barber. They were minted between 1892 and 1916, though no half dollars were struck in the final year of the series. By the late 1880s, there were increasing calls for the replacement of the Seated Liberty design, used since the 1830s on most denominations of silver coins. In 1891, Mint Director Edward O. Leech instructed Barber to prepare new designs for the dime, quarter, and half dollar, after a public competition failed to produce suitable entries. Barber's designs were approved by President Benjamin Harrison that November. Striking of the new coins began the following January. Public and artistic opinion of the new pieces was, and remains, mixed. In 1915, Mint officials began plans to replace them when the design's minimum term expired the following year. Before the end of 1916, the Mercury dime, Standing Liberty quarter, and Walking Liberty half dollar had begun production. Most dates in the Barber coin series are not difficult to obtain, but the 1894 dime struck at the San Francisco Mint (1894-S), with a mintage of 24, is a great rarity.",
-    "url": "https://en.wikipedia.org/wiki/Barber_coinage"
+    "id": "buckingham-palace",
+    "name": "Buckingham Palace",
+    "summary": "Buckingham Palace is the official London residence of the British monarch (or sovereign), and the largest working royal palace remaining in the world. In addition to being the London home of Queen Elizabeth II, Buckingham Palace is a setting for state occasions and royal entertaining, a base for all officially visiting heads of state, and a major tourist attraction. It has been a rallying point for the British at times of national rejoicing and crisis. The palace, originally known as Buckingham House, was a large townhouse built for the Duke of Buckingham in 1703 and acquired by King George III in 1762 as a private residence. It was enlarged over the next 75 years, principally by architects John Nash and Edward Blore, forming three wings around a central courtyard. Buckingham Palace finally became the official royal palace of the British monarch on the accession of Queen Victoria in 1837. The last major structural additions were made during the Victorian era, with the addition of the large wing facing east towards The Mall, and the removal of the former state entrance, Marble Arch, to its present position near Speakers' Corner in Hyde Park.",
+    "url": "https://en.wikipedia.org/wiki/Buckingham_Palace"
   },
   "word": {
-    "id": "felicitous",
-    "word": "felicitous",
-    "url": "https://www.merriam-webster.com/dictionary/felicitous",
-    "partOfSpeech": "adjective",
-    "pronunciation": "fih-LISS-uh-tus",
-    "audioPath": "audio/words/felicitous.mp3",
-    "definitions": ["very well suited or expressed : apt", "pleasant, delightful"],
-    "examples": [
-      "The film’s score, at least, is felicitous, as it lends emotional intensity to the otherwise wooden acting."
-    ],
-    "origin": "The adjective \"felicitous\" has been a part of our language since the late 18th century, but \"felicity,\" the noun meaning \"great happiness,\" and later, \"aptness,\" was around even in Middle English (as \"felicite,\" a borrowing from Anglo-French). Both words ultimately derive from the Latin adjective \"felix,\" meaning \"fruitful\" or \"happy.\" The connection between \"happy\" and \"felicitous\" continues today in that both words can mean \"notably fitting, effective, or well adapted.\" \"Happy\" typically suggests what is effectively or successfully appropriate (as in \"a happy choice of words\"), and \"felicitous\" often implies an aptness that is opportune, telling, or graceful (as in \"a felicitous phrase\")."
+    "id": "lollygag",
+    "word": "lollygag",
+    "url": "https://www.merriam-webster.com/dictionary/lollygag",
+    "partOfSpeech": "verb",
+    "pronunciation": "LAH-lee-gag",
+    "audioPath": "audio/words/lollygag.mp3",
+    "definitions": ["to spend time idly, aimlessly, or foolishly : dawdle"],
+    "examples": ["\"Please stop lollygagging around and get ready for school,\" pleaded Mom."],
+    "origin": "You certainly didn't want to be known as a \"lollygagger\" at the beginning of the 20th century. Back then, \"lollygag\" was slang for \"fooling around\" (sexually, that is). That sense of \"lollygag\" was in use as long ago as 1868, and it probably originated as an alteration of the older (and more dawdlingly innocent) \"lallygag.\" Nowadays, \"lollygag\" doesn't usually carry such naughty connotations, but back in 1946, one Navy captain considered lollygagging enough of a problem to issue this stern warning: \"Lovemaking and lollygagging are hereby strictly forbidden.... The holding of hands, osculation and constant embracing of WAVES \\[Women Accepted for Volunteer Emergency Service\\], corpsmen or civilians and sailors or any combination of male and female personnel is a violation of naval discipline....\""
   }
 }

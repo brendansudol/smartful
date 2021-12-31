@@ -1,143 +1,137 @@
 {
   "artist": {
-    "id": "james-tissot",
-    "name": "James Tissot",
-    "dates": "Oct 15, 1836 - Aug 8, 1902",
-    "mainImg": "img/art/artists/james-tissot.jpg",
+    "id": "richard-dadd",
+    "name": "Richard Dadd",
+    "dates": "Aug 1, 1817 - Jan 7, 1886",
+    "mainImg": "img/art/artists/richard-dadd.jpg",
     "artworkImgs": [
       {
-        "name": "Cain Leadeth Abel to Death",
-        "path": "img/art/artworks/james-tissot-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/cain-leadeth-abel-to-death-james-jacques-joseph-tissot/EwHci9L_2s6Gww"
+        "name": "The Fairy Feller's Master-Stroke",
+        "path": "img/art/artworks/richard-dadd-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/the-fairy-feller-s-master-stroke-richard-dadd/6AGSqNzESPSSYw"
       },
       {
-        "name": "The Ark Passes Over the Jordan",
-        "path": "img/art/artworks/james-tissot-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/the-ark-passes-over-the-jordan-james-jacques-joseph-tissot/-gF5GmG4ikvtNQ"
+        "name": "The Flight out of Egypt",
+        "path": "img/art/artworks/richard-dadd-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/the-flight-out-of-egypt-richard-dadd/GwFGIjk8cVn6CQ"
       },
       {
-        "name": "The Grapes of Canaan",
-        "path": "img/art/artworks/james-tissot-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/the-grapes-of-canaan-james-jacques-joseph-tissot/nQGOZC_6Yp9IFg"
+        "name": "Hamlet and his Mother; The Closet Scene",
+        "path": "img/art/artworks/richard-dadd-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/hamlet-and-his-mother-the-closet-scene-richard-dadd-1817–1886-british/aAEIjWP6PgDFBA"
       },
       {
-        "name": "Rebecca Meets Isaac by the Way",
-        "path": "img/art/artworks/james-tissot-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/rebecca-meets-isaac-by-the-way-james-jacques-joseph-tissot/QwF7qDYSzLEALA"
+        "name": "Wandering Musicians",
+        "path": "img/art/artworks/richard-dadd-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/wandering-musicians-richard-dadd/RAF9h56IJoHqag"
       },
       {
-        "name": "The Mess of Pottage",
-        "path": "img/art/artworks/james-tissot-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/the-mess-of-pottage-james-jacques-joseph-tissot/UwFlkh5jobMaPg"
+        "name": "Fish Market by the Sea",
+        "path": "img/art/artworks/richard-dadd-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/fish-market-by-the-sea-richard-dadd-1817–1886-british/WgEYcZsISmSnfg"
       },
       {
-        "name": "Joseph Interprets Pharaoh's Dream",
-        "path": "img/art/artworks/james-tissot-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/joseph-interprets-pharaoh-s-dream-james-jacques-joseph-tissot/YgG0Bp17Mt4NMw"
+        "name": "Caravanserai at Mylasa in Asia Minor",
+        "path": "img/art/artworks/richard-dadd-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/caravanserai-at-mylasa-in-asia-minor-richard-dadd-1817–1886-british/3wHFVXEvyJKYXw"
       }
     ],
     "summary": [
-      "Jacques Joseph Tissot, Anglicized as James Tissot, was a French painter and illustrator. He was a successful painter of Paris society before moving to London in 1871. He became famous as a genre painter of fashionably dressed women shown in various scenes of everyday life. He also painted scenes and characters from the Bible."
+      "Richard Dadd was an English painter of the Victorian era, noted for his depictions of fairies and other supernatural subjects, Orientalist scenes, and enigmatic genre scenes, rendered with obsessively minuscule detail. Most of the works for which he is best known were created while he was a patient in Bethlem and Broadmoor hospitals."
     ],
     "quote": null,
-    "movements": [
-      "American Renaissance",
-      "Realism",
-      "Modern art",
-      "Impressionism",
-      "Romanticism",
-      "Japonisme"
-    ],
-    "mediums": ["Watercolor painting", "Gouache", "Etching", "Oil paint", "Laid paper", "Ink"],
-    "urlWiki": "https://en.wikipedia.org/wiki/James_Tissot",
-    "urlGoogle": "https://artsandculture.google.com/entity/james-tissot/m051t84"
+    "movements": [],
+    "mediums": ["Watercolor painting", "Graphite", "Gouache", "Ink", "Oil paint", "Drawing"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Richard_Dadd",
+    "urlGoogle": "https://artsandculture.google.com/entity/richard-dadd/m0h9sm"
   },
   "event": {
-    "id": "june-1976-protests",
-    "name": "June 1976 protests",
-    "dates": "Jun 24, 1976 - Jun 30, 1976",
-    "mainImg": "img/events/june-1976-protests.jpg",
+    "id": "air-raid-on-bari",
+    "name": "Air raid on Bari",
+    "dates": null,
+    "mainImg": "img/events/air-raid-on-bari.jpg",
     "summary": [
-      "June 1976 is the name of a series of protests and demonstrations in People's Republic of Poland. The protests took place after Prime Minister Piotr Jaroszewicz revealed the plan for a sudden increase in the price of many basic commodities, particularly foodstuffs. Prices in Poland were at that time fixed, and controlled by the government, which was falling into increasing debt.",
-      "The protests started on 24 June and lasted until 30 June, the largest violent demonstrations and looting taking place in Płock, the Warsaw suburb of Ursus, and particularly Radom. The protests were brutally quelled by the government using tanks and helicopters, but the plan for the price increase was shelved; Polish leader Edward Gierek backed down and dismissed Prime Minister Jaroszewicz. This left the government looking both economically foolish and politically weak, a very dangerous combination. The 1976 disturbances and the subsequent arrests and dismissals of militant workers brought the workers and the intellectual opposition to the regime back into contact."
+      "The air raid on Bari was an air attack by German bombers on Allied forces and shipping in Bari, Italy, on 2 December 1943, during World War II. 105 German Junkers Ju 88 bombers of Luftflotte 2 achieved surprise and bombed shipping and personnel operating in support of the Allied Italian Campaign, sinking 27 cargo and transport ships, as well as a schooner, in Bari harbour.",
+      "The attack lasted a little more than an hour and put the port out of action until February 1944. The release of mustard gas from one of the wrecked cargo ships added to the loss of life. The British and US governments covered up the presence of mustard gas and its effects on victims of the raid."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/June_1976_protests",
-    "urlGoogle": "https://artsandculture.google.com/entity/june-1976-protests/m02qlbng"
+    "urlWiki": "https://en.wikipedia.org/wiki/Air_raid_on_Bari",
+    "urlGoogle": "https://artsandculture.google.com/entity/air-raid-on-bari/m03hhb43"
   },
   "funFacts": [
     {
-      "id": "81",
-      "fact": "Alaska has more caribou than people.",
-      "category": ["Animals", "Geography"]
+      "id": "843",
+      "fact": "Bamboo (the world's tallest grass) can grow up to 90cm in a day.",
+      "category": ["Plants"]
     },
     {
-      "id": "180",
-      "fact": "The first VCR was made in 1956 and was the size of a piano.",
-      "category": ["Firsts"]
+      "id": "847",
+      "fact": "Until the nineteenth century, solid blocks of tea were used as money in Siberia.",
+      "category": ["History"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504754",
-      "fact": "The number 4 is the only number with the same number of letters as the meaning of its name."
+      "id": "505477",
+      "fact": "Before he sang lead vocals for Black Sabbath, Ozzy Osbourne worked in a slaughterhouse."
     }
   ],
   "idiom": {
-    "id": "at-someones-elbow",
-    "term": "at someone's elbow",
-    "definition": "Immediately beside someone, close by, as in *The apprentice was constantly at the master's elbow.* Why this idiom focuses on the elbow rather than the arm, shoulder, or some other body part is not known. Moreover, it can mean either that someone is so nearby as to constitute a nuisance or in order to readily provide assistance. Either can be meant in the example above. [Mid-1500s]"
+    "id": "worth-ones-salt",
+    "term": "worth one's salt",
+    "definition": "Deserving of one's wages; a good employee. In ancient Rome salt was a valuable commodity and was used to pay soldiers. From this came the Latin noun *salarium* and the English *salary.* In the mid-1800s the term was applied to current practices of employment, although salt had long since ceased to be a medium of pay. Thus, \"Paul's done a fine job so far; he's really worth his salt."
   },
   "person": {
-    "id": "sarojini-naidu",
-    "name": "Sarojini Naidu",
-    "dates": "Feb 13, 1879 - Mar 2, 1949",
-    "mainImg": "img/people/sarojini-naidu.jpg",
+    "id": "william-lovelace",
+    "name": "William Lovelace",
+    "dates": "Died Mar 23, 1577",
+    "mainImg": "img/people/william-lovelace.jpg",
     "summary": [
-      "Sarojini Naidu was an Indian political activist and poet. A proponent of civil rights, women's emancipation, and anti-imperialistic ideas, she was an important figure in India's struggle for independence from colonial rule. Naidu's work as a poet earned her the sobriquet Nightingale of India.",
-      "Born in a Bengali family in Hyderabad, Naidu was educated in Chennai, London and Cambridge. Following her time in England, where she worked as a suffragist, she was drawn to Indian National Congress' movement for India's independence from British rule. She became a part of the Indian nationalist movement and became a follower of Mahatma Gandhi and his idea of swaraj. She was appointed the President of the Indian National Congress in 1925 and later became the Governor of the United Provinces in 1947, becoming the first woman to hold the office of Governor in the Dominion of India.",
-      "Naidu's poetry includes both children's poems and others written on more serious themes including patriotism, romance, and tragedy. Published in 1912, \"In the Bazaars of Hyderabad\" remains one of her most popular poems. She was married to Govindarajulu Naidu, a general physician, and had five children with him."
-    ],
-    "quote": "“We want deeper sincerity of motive, a greater courage in speech and earnestness in action.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Sarojini_Naidu",
-    "urlGoogle": "https://artsandculture.google.com/entity/sarojini-naidu/m0_4pw"
-  },
-  "place": {
-    "id": "aberdeen",
-    "name": "Aberdeen",
-    "mainImg": "img/places/aberdeen.jpg",
-    "summary": [
-      "Aberdeen is a city in northeast Scotland. It is Scotland's third most populous city, one of Scotland's 32 local government council areas and the United Kingdom's 39th most populous built-up area, with an official population estimate of 196,670 for the city of Aberdeen and 227,560 for the local council area.",
-      "During the mid-18th to mid-20th centuries, Aberdeen's buildings incorporated locally quarried grey granite, which can sparkle like silver because of its high mica content. Since the discovery of North Sea oil in the 1970s, Aberdeen has been known as the off-shore oil capital of Europe.",
-      "The area around Aberdeen has been settled for at least 8,000 years, when prehistoric villages lay around the mouths of the rivers Dee and Don. The city has a long, sandy coastline and a marine climate, the latter resulting in chilly summers and mild winters.",
-      "Aberdeen received Royal burgh status from David I of Scotland, transforming the city economically. The city has two universities, the University of Aberdeen, founded in 1495, and Robert Gordon University, which was awarded university status in 1992, making Aberdeen the educational centre of north-east Scotland."
+      "William Lovelace, of Bethersden, near Ashford and Canterbury, Kent, was an English politician and lawyer.",
+      "He was the son of William Lovelace and studied law in Gray's Inn, being called to the bar in 1551.",
+      "He was a Member of Parliament (MP) for Canterbury in 1563, 1571 and 1572. He became serjeant-at-law in 1567.",
+      "He died in 1577 and was buried in Canterbury Cathedral. He had married twice; firstly Alice Stevens, with whom he had 2 sons and a daughter and secondly Mary, the daughter of Sir Thomas White, MP of South Warnborough, Hampshire and the widow of Thomas Caryll. His eldest son Sir William Lovelace was MP for Canterbury in the Addled Parliament of 1614."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Aberdeen",
-    "urlGoogle": "https://artsandculture.google.com/entity/aberdeen/m0rng"
+    "urlWiki": "https://en.wikipedia.org/wiki/William_Lovelace_%28MP%29",
+    "urlGoogle": "https://artsandculture.google.com/entity/william-lovelace/m0j9lz7w"
+  },
+  "place": {
+    "id": "sao-luis",
+    "name": "São Luís",
+    "mainImg": "img/places/sao-luis.jpg",
+    "summary": [
+      "São Luís is the capital and largest city of the Brazilian state of Maranhão. The city is located on Upaon-açu Island or Ilha de São Luís, in the Baía de São Marcos, an extension of the Atlantic Ocean which forms the estuary of Pindaré, Mearim, Itapecuru and other rivers. Its coordinates are 2.53° south, 44.30° west. São Luís has the second largest maritime extension within Brazilian states. Its maritime extension is 640 km. The city proper has a population of some 1,094,667 people. The metropolitan area totals 1,605,305, ranked as the 15th largest in Brazil.",
+      "São Luís, created originally as Saint-Louis-de-Maragnan, is the only Brazilian state capital founded by France and it is one of the three Brazilian state capitals located on islands.",
+      "The city has two major sea ports: Madeira Port and Itaqui Port, through which a substantial part of Brazil's iron ore, originating from the-Amazon region, is exported. The city's main industries are metallurgical with Alumar, and Vale. São Luís is home of the Federal University of Maranhão."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o",
+    "urlGoogle": "https://artsandculture.google.com/entity/são-luís/m01zpkp"
   },
   "quote": {
-    "id": "77",
-    "quote": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
-    "author": "Charles Darwin"
+    "id": "100",
+    "quote": "Education costs money. But then so does ignorance.",
+    "author": "Sir Claus Moser"
   },
   "wiki": {
-    "id": "wayne-gretzky",
-    "name": "Wayne Gretzky",
-    "summary": "Wayne Gretzky is a former professional ice hockey player and is currently part-owner and head coach of the Phoenix Coyotes. Nicknamed \"The Great One\", he is regarded as the best player of his era and has been called \"the greatest hockey player ever\" by sportswriters, coaches, and fans. Along with his many awards and achievements, he is the only player to ever have his playing number, 99, officially retired across the entire National Hockey League. Gretzky set 40 regular season records, 15 playoff records, 6 All-Star records, and won four Stanley Cups with the Edmonton Oilers. He won more MVP awards (9) and scoring titles (10) than any player in NHL history. He was the only player to total over 200 points in a season, accomplishing the feat 4 times. He retired from playing in 1999, becoming Executive Director for the Canadian national men's hockey team during the 2002 Winter Olympics. He became part-owner of the Phoenix Coyotes in 2000, and their head coach following the 2004-05 NHL lockout.",
-    "url": "https://en.wikipedia.org/wiki/Wayne_Gretzky"
+    "id": "banksia-grossa",
+    "name": "Banksia grossa",
+    "summary": "Banksia grossa is a species of shrub in the plant family Proteaceae endemic to Southwest Australia. It is one of fourteen species of banksia of the series Abietinae, all of which bear predominantly round or oval inflorescences. Collected in 1965, it was described in 1981 by Alex George. Its thick leaves and large seeds distinguish it from other members of the Abietinae, and are the basis of its species name. Found in sand or sand over laterite among heath between Eneabba and Badgingarra in Western Australia, it grows as a many-stemmed shrub to 1 m (3 ft) high with narrow leaves and oval brownish flower spikes up to 10 cm (4 in) high, composed of hundreds of individual flowers. Flowering occurs throughout the cooler months of March to September. Old flower spikes develop woody follicles which bear the seeds. The plant takes 5 to 7 years to reach maturity and begin flowering. After bushfire, Banksia grossa regenerates from its woody lignotuber; bushfires also stimulate the release of seeds, which germinate after disturbance. Visitors to (and likely pollinators of) inflorescences include insects and a nocturnal mammal, the white-tailed dunnart.",
+    "url": "https://en.wikipedia.org/wiki/Banksia_grossa"
   },
   "word": {
-    "id": "milquetoast",
-    "word": "milquetoast",
-    "url": "https://www.merriam-webster.com/dictionary/milquetoast",
-    "partOfSpeech": "noun",
-    "pronunciation": "MILK-tohst",
-    "audioPath": "audio/words/milquetoast.mp3",
-    "definitions": ["a timid, meek, or unassertive person"],
+    "id": "sesquipedalian",
+    "word": "sesquipedalian",
+    "url": "https://www.merriam-webster.com/dictionary/sesquipedalian",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sess-kwuh-puh-DAIL-yun",
+    "audioPath": "audio/words/sesquipedalian.mp3",
+    "definitions": ["having many syllables : long", "using long words"],
     "examples": [
-      "Brian was such a milquetoast that he agreed to work extra hours on Sunday even though he had already told his boss that he needed that day off."
+      "Jacob's editor advised him to do away with much of the _sesquipedalian_ prose he favored and opt for simpler words that would reach readers of all ages and backgrounds.",
+      "\"'You just don't see that many _sesquipedalian_ writers like William F. Buckley Jr. in the media anymore,' said a colleague to whom I mentioned this topic.\" - From an article by Mary Schmich in the _Chicago Tribune_, December 5, 2012"
     ],
-    "origin": "Caspar Milquetoast was a comic strip character created in 1924 by the American cartoonist Harold T. Webster. The strip, called \"The Timid Soul,\" ran every Sunday in the _New York Herald Tribune_ for many years. Webster, who claimed that Milquetoast was a self-portrait, summed up the character as \"the man who speaks softly and gets hit with a big stick.\" The earliest examples of \"Milquetoast\" being used as a generic synonym for \"timid person\" date from the mid-1930s. Caspar's last name might remind you of \"milk toast,\" a bland concoction of buttered toast served in a dish of warm milk."
+    "origin": "Horace, the Roman poet known for his satire, was merely being gently ironic when he cautioned young poets against using \"sesquipedalia verba\"-\"words a foot and a half long\"-in his book Ars poetica, a collection of maxims about writing. But in the 17th century, English literary critics decided the word \"sesquipedalian\" could be very useful for lambasting writers using unnecessarily long words. Robert Southey used it to make two jibes at once when he wrote \"the verses of \\[16th-century English poet\\] Stephen Hawes are as full of barbarous sesquipedalian Latinisms, as the prose of \\[the 18th-century periodical\\] the Rambler.\" The Latin prefix \"sesqui-\" is used in modern English to mean \"one and a half times,\" as in \"sesquicentennial\" (a 150th anniversary)."
   }
 }

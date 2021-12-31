@@ -1,0 +1,125 @@
+{
+  "artist": {
+    "id": "yoko-ono",
+    "name": "Yoko Ono",
+    "dates": "Born Feb 18, 1933",
+    "mainImg": "img/art/artists/yoko-ono.jpg",
+    "artworkImgs": [
+      {
+        "name": "Painting to Hammer a Nail",
+        "path": "img/art/artworks/yoko-ono-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/painting-to-hammer-a-nail-yoko-ono/pAEqDOysHPoj6Q"
+      },
+      {
+        "name": "A Digital Gallery: Imagine Peace",
+        "path": "img/art/artworks/yoko-ono-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/a-digital-gallery-imagine-peace-yoko-ono/cwGTuceS0gDiPQ"
+      },
+      {
+        "name": "Untitled",
+        "path": "img/art/artworks/yoko-ono-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/untitled/cAHE_wQWdw6j0Q"
+      },
+      {
+        "name": "Cloud Piece",
+        "path": "img/art/artworks/yoko-ono-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/cloud-piece-yoko-ono/HgFWsEA5iH0miA"
+      },
+      {
+        "name": "Sky TV (single) for New York",
+        "path": "img/art/artworks/yoko-ono-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/sky-tv-single-for-new-york-yoko-ono/kgFy0k3mic5cVA"
+      },
+      {
+        "name": "Instruction Paintings Workshop",
+        "path": "img/art/artworks/yoko-ono-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/instruction-paintings-workshop-yoko-ono/4QErjRr544E3uw"
+      }
+    ],
+    "summary": [
+      "Yoko Ono Lennon is a Japanese multimedia artist, singer, songwriter and peace activist. Her work also encompasses performance art, which she performs in both English and Japanese, and filmmaking. She was married to English singer-songwriter John Lennon of the Beatles from 1969 until his murder in 1980.",
+      "Ono grew up in Tokyo and also spent several years in New York City. She studied at Gakushuin University, but withdrew from her course after two years and moved to New York in 1953 to live with her family. She spent some time at Sarah Lawrence College and then became involved in New York City's downtown artists scene, which included the Fluxus group. With their performance Bed-Ins for Peace in Amsterdam and Montreal in 1969, Ono and Lennon used their honeymoon at the Hilton Amsterdam as a stage for public protests against the Vietnam War. The feminist themes of her music have influenced musicians as diverse as the B-52s and Meredith Monk. She achieved commercial and critical acclaim in 1980 with the chart-topping album Double Fantasy, a collaboration with Lennon that was released three weeks before his murder."
+    ],
+    "quote": "“I saw that nothing was permanent. You don't want to possess anything that is dear to you because you might lose it.”",
+    "movements": ["Conceptual art", "Contemporary art", "Fluxus"],
+    "mediums": ["Photograph", "Ink", "Sculpture", "Textile", "Wood"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Yoko_Ono",
+    "urlGoogle": "https://artsandculture.google.com/entity/yoko-ono/m01nz1q6"
+  },
+  "event": {
+    "id": "the-london-2012-summer-olympics",
+    "name": "The London 2012 Summer Olympics",
+    "dates": "Jul 27, 2012 - Aug 12, 2012",
+    "mainImg": "img/events/the-london-2012-summer-olympics.jpg",
+    "summary": [
+      "The 2012 Summer Olympics, formally the Games of the XXX Olympiad and commonly known as London 2012, was an international multi-sport event that was held from 27 July to 12 August 2012 in London, United Kingdom. The first event, the group stage in women's football, began on 25 July at the Millennium Stadium in Cardiff, followed by the opening ceremony on 27 July. 10,768 athletes from 204 National Olympic Committees participated.",
+      "Following a bid headed by former Olympic champion Sebastian Coe and then-Mayor of London Ken Livingstone, London was selected as the host city on 6 July 2005 during the 117th IOC Session in Singapore, defeating bids from Moscow, New York City, Madrid, and Paris. London became the first city to host the modern Olympics three times, having previously hosted the Summer Games in 1908 and in 1948.",
+      "Construction for the Games involved considerable redevelopment, with an emphasis on sustainability. The main focus was a new 200-hectare Olympic Park, constructed on a former industrial site at Stratford, East London. The Games also made use of venues that already existed before the bid."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/2012_Summer_Olympics",
+    "urlGoogle": "https://artsandculture.google.com/entity/the-london-2012-summer-olympics/m06sks6"
+  },
+  "funFacts": [
+    {
+      "id": "483",
+      "fact": "Smile more - every two thousand frowns creates one wrinkle.",
+      "category": ["Anatomy", "Make-it-Easies"]
+    },
+    { "id": "85", "fact": "The Mona Lisa has no eyebrows.", "category": ["Hodgepodge"] }
+  ],
+  "funFacts2": [
+    {
+      "id": "504870",
+      "fact": "The modern popped collar originated as a way to keep tennis players’ necks from getting sunburnt."
+    }
+  ],
+  "person": {
+    "id": "robert-h-jackson",
+    "name": "Robert H. Jackson",
+    "dates": "Feb 13, 1892 - Oct 9, 1954",
+    "mainImg": "img/people/robert-h-jackson.jpg",
+    "summary": [
+      "Robert Houghwout Jackson was an American attorney and judge who served as an Associate Justice of the United States Supreme Court. He had previously served as United States Solicitor General, and United States Attorney General, and is the only person to have held all three of those offices. Jackson was also notable for his work as the Chief United States Prosecutor at the Nuremberg Trials of Nazi war criminals following World War II.",
+      "Jackson was admitted to the bar through a combination of reading law with an established attorney and attending law school. He is the most recent justice without a law degree to be appointed to the Supreme Court. Jackson is well known for his advice that, \"Any lawyer worth his salt will tell the suspect, in no uncertain terms, to make no statement to the police under any circumstances,\" and for his aphorism describing the Supreme Court, \"We are not final because we are infallible, but we are infallible only because we are final.\" Jackson developed a reputation as one of the best writers on the Supreme Court and one of the most committed to enforcing due process as protection from overreaching federal agencies."
+    ],
+    "quote": "“Men are more often bribed by their loyalties and ambitions than by money.”",
+    "urlWiki": "https://en.wikipedia.org/wiki/Robert_H._Jackson",
+    "urlGoogle": "https://artsandculture.google.com/entity/robert-h-jackson/m016mb6"
+  },
+  "place": {
+    "id": "chicago",
+    "name": "Chicago",
+    "mainImg": "img/places/chicago.jpg",
+    "summary": [
+      "Chicago, officially the City of Chicago, is the most populous city in the U.S. state of Illinois, and the third-most-populous city in the United States. With an estimated population of 2,693,976 in 2019, it is also the most populous city in the Midwestern United States. Chicago is the county seat of Cook County, the second-most-populous county in the US, with a small portion of the northwest side of the city extending into DuPage County near O'Hare Airport. Chicago is the principal city of the Chicago metropolitan area, often referred to as Chicagoland. At nearly 10 million people, the metropolitan area is the third most populous in the United States.",
+      "Located on the shores of freshwater Lake Michigan, Chicago was incorporated as a city in 1837 near a portage between the Great Lakes and the Mississippi River watershed and grew rapidly in the mid-19th century. After the Great Chicago Fire of 1871, which destroyed several square miles and left more than 100,000 homeless, the city made a concerted effort to rebuild."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Chicago",
+    "urlGoogle": "https://artsandculture.google.com/entity/chicago/m01_d4"
+  },
+  "wiki": {
+    "id": "mom-and-dad",
+    "name": "Mom and Dad",
+    "summary": "Mom and Dad is a feature-length 1945 film directed by William Beaudine, and largely produced by the exploitation filmmaker and presenter Kroger Babb. Mom and Dad is considered the most successful film within its genre of \"sex hygiene\" films. Although it faced numerous legal challenges, and was condemned by the National Legion of Decency, it went on to become the third highest grossing film of the 1940s. Mom and Dad starred the young Hardie Albright. It is regarded as an exploitation film; a term used to describe repackaged films with a controversial content, sometimes including medical footage, designed to establish an educational value that might circumvent U.S. censorship law. Babb's marketing of his film incorporated old-style medicine show techniques, and used unique promotions to build an audience. These formed a template for his later work, which were aped by his contemporary filmmakers. In 2005, the film was added to the United States National Film Registry, in recognition of its numerous achievements.",
+    "url": "https://en.wikipedia.org/wiki/Mom_and_Dad"
+  },
+  "word": {
+    "id": "duress",
+    "word": "duress",
+    "url": "https://www.merriam-webster.com/dictionary/duress",
+    "partOfSpeech": "noun",
+    "pronunciation": "dur-RESS",
+    "audioPath": "audio/words/duress.mp3",
+    "definitions": [
+      "forcible restraint or restriction",
+      "compulsion by threat; specifically : unlawful constraint"
+    ],
+    "examples": [
+      "The defense asserts that the defendant's confession was made under _duress_.",
+      "\"Nondisclosure provisions that stretch beyond a straightforward embargo on business-oriented 'trade secrets' represent the worst kind of corporate limitations on individual freedom-no one should be contractually stopped from talking about their personal experiences with any company. You did, however, sign this contract (possibly under mild _duress_, but not against your will).\" - From an article by Chuck Klosterman in the _New York Times_, June 30, 2013"
+    ],
+    "origin": "\"Duress\" is a word of hardy stock. It has been a part of the English language since the 14th century, and has a number of long-lived relatives. \"Duress\" itself came into Middle English through the Anglo-French \"duresce\" (meaning \"hardness\" or \"severity\"), which stems from Latin \"durus,\" meaning \"hard.\" Some obvious relatives of this robust root are \"durable,\" \"endure\" and \"obdurate\" (meaning \"unyielding\" or \"hardened in feelings\"). Some others are \"dour\" (meaning \"harsh,\" \"unyielding,\" or \"gloomy\") and \"during.\""
+  }
+}

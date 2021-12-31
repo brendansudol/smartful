@@ -1,0 +1,131 @@
+{
+  "artist": {
+    "id": "antoine-bourdelle",
+    "name": "Antoine Bourdelle",
+    "dates": "Oct 31, 1861 - Oct 1, 1929",
+    "mainImg": "img/art/artists/antoine-bourdelle.jpg",
+    "artworkImgs": [
+      {
+        "name": "Hercules the Archer",
+        "path": "img/art/artworks/antoine-bourdelle-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/hercules-the-archer-émile-antoine-bourdelle/CgHFKSEoZqwEcg"
+      },
+      {
+        "name": "Heracles Killing the Birds of Lake Stymphalia",
+        "path": "img/art/artworks/antoine-bourdelle-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/heracles-killing-the-birds-of-lake-stymphalia-antoine-bourdelle/vgFd8Dcd9jllsA"
+      },
+      {
+        "name": "Adam",
+        "path": "img/art/artworks/antoine-bourdelle-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/adam-emile-antoine-bourdelle/hAFag8rn_U3mSg"
+      },
+      {
+        "name": "Monumental Horse without Rider (Horse for Alvear Monument)",
+        "path": "img/art/artworks/antoine-bourdelle-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/monumental-horse-without-rider-horse-for-alvear-monument-émile-antoine-bourdelle/1gH1Lb0j3IdQSQ"
+      },
+      {
+        "name": "Heracles",
+        "path": "img/art/artworks/antoine-bourdelle-a5.jpg",
+        "source": "https://artsandculture.google.com/asset/heracles-antoine-bourdelle/KwH-h1nuDN_mVA"
+      },
+      {
+        "name": "Hercules the Archer",
+        "path": "img/art/artworks/antoine-bourdelle-a6.jpg",
+        "source": "https://artsandculture.google.com/asset/hercules-the-archer/4QFgq3IMAZ7COQ"
+      }
+    ],
+    "summary": [
+      "Antoine Bourdelle, born Émile Antoine Bordelles, was an influential and prolific French sculptor and teacher. He was a student of Auguste Rodin, a teacher of Giacometti and Henri Matisse, and an important figure in the Art Deco movement and the transition from the Beaux-Arts style to modern sculpture.",
+      "His studio became the Musée Bourdelle, an art museum dedicated to his work, located at 18, rue Antoine Bourdelle, in the 15th arrondissement of Paris, France."
+    ],
+    "quote": null,
+    "movements": ["Modern art", "Expressionism", "Classicism"],
+    "mediums": ["Sculpture", "Bronze", "Metal", "Rock", "Plaster", "Marble"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Antoine_Bourdelle",
+    "urlGoogle": "https://artsandculture.google.com/entity/antoine-bourdelle/m016ftg"
+  },
+  "event": {
+    "id": "bombardment-of-brussels",
+    "name": "Bombardment of Brussels",
+    "dates": "Aug 13, 1695 - Aug 15, 1695",
+    "mainImg": "img/events/bombardment-of-brussels.jpg",
+    "summary": [
+      "The bombardment of Brussels by troops of Louis XIV of France on August 13, 14 and 15, 1695, and the resulting fire were together the most destructive event in the entire history of Brussels. The Grand Place was destroyed, along with a third of the buildings in the city. The reconstruction of the city centre, effected during subsequent years, profoundly changed the appearance of the city and left numerous traces still visible today.",
+      "The bombardment was part of the Nine Years' War. The French forces hoped that by bombarding, or threatening to bombard Brussels, they would be able to divert Allied troops from the Siege of Namur. The strategy was unsuccessful, and no military gain came of the bombardment, although Louis XIV's reputation suffered for such a barbarous act."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bombardment_of_Brussels",
+    "urlGoogle": "https://artsandculture.google.com/entity/bombardment-of-brussels/m03ntllr"
+  },
+  "funFacts": [
+    {
+      "id": "378",
+      "fact": "It costs the U.S. government 2.5 cents to produce a quarter.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "232",
+      "fact": "The blue whale's heart is the size of a small car.",
+      "category": ["Animals"]
+    }
+  ],
+  "funFacts2": [
+    { "id": "553419", "fact": "“Horizontal refreshment” was a 19th century slang term for sex." }
+  ],
+  "idiom": {
+    "id": "johnny-on-the-spot",
+    "term": "Johnny-on-the-spot",
+    "definition": "A person who is available when needed, as in *He always is there at the right time, a real Johnny-on-the-spot.* [Late 1800s]"
+  },
+  "person": {
+    "id": "bertha-lutz",
+    "name": "Bertha Lutz",
+    "dates": "Aug 2, 1894 - Sep 16, 1976",
+    "mainImg": "img/people/bertha-lutz.jpg",
+    "summary": [
+      "Bertha Maria Júlia Lutz was a Brazilian zoologist, politician, and diplomat. Lutz became a leading figure in both the Pan American feminist movement and human rights movement. She was instrumental in gaining women's suffrage in Brazil and represented her country at the United Nations Conference on International Organization, signing her name to the United Nations Charter. In addition to her political work, she was a naturalist at the National Museum of Brazil, specializing in poison dart frogs. She has three frog species and two lizard species named after her."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Bertha_Lutz",
+    "urlGoogle": "https://artsandculture.google.com/entity/bertha-lutz/m02km22"
+  },
+  "place": {
+    "id": "beirut",
+    "name": "Beirut",
+    "mainImg": "img/places/beirut.jpg",
+    "summary": [
+      "Beirut is the capital and largest city of Lebanon. No recent population census has been conducted, but 2007 estimates ranged from slightly more than 1 million to 2.2 million as part of Greater Beirut, which makes it the third-largest city in the Levant region and the fifteenth-largest in the Arab world. Located on a peninsula at the midpoint of Lebanon's Mediterranean coast, Beirut is an important regional seaport.",
+      "It is one of the oldest cities in the world, having been inhabited for more than 5,000 years. The first historical mention of Beirut is found in the Amarna letters from the New Kingdom of Egypt, which date to the 15th century BC.",
+      "Beirut is Lebanon's seat of government and plays a central role in the Lebanese economy, with most banks and corporations based in its Central District, Badaro, Rue Verdun, Hamra, Ryad el Soleh street, and Achrafieh. Following the destructive Lebanese Civil War, Beirut's cultural landscape underwent major reconstruction. Identified and graded for accountancy, advertising, banking, finance and law, Beirut is ranked as a Beta World City by the Globalization and World Cities Research Network."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Beirut",
+    "urlGoogle": "https://artsandculture.google.com/entity/beirut/m09bjv"
+  },
+  "quote": {
+    "id": "124",
+    "quote": "I am always doing that which I cannot do, in order that I may learn how to do it.",
+    "author": "Pablo Picasso"
+  },
+  "wiki": {
+    "id": "surface-weather-analysis",
+    "name": "Surface weather analysis",
+    "summary": "A surface weather analysis is a special type of weather map which provides a view of weather elements over a geographical area at a specified time based on information from ground-based weather stations. Weather maps are created by plotting or tracing the values of relevant quantities such as sea level pressure, temperature, and cloud cover onto a geographical map to help find synoptic scale features such as weather fronts. The first weather maps in the 19th century were drawn well after the fact to help devise a theory on storm systems. After the advent of the telegraph, simultaneous observations of weather became possible for the first time, and beginning in the late 1840s, the Smithsonian Institution became the first organization to draw real-time surface analyses. Use of surface analyses began first in the United States, spreading worldwide during the 1870s. Use of the Norwegian cyclone model for frontal analysis began in the late 1910s across Europe, with its use finally spreading to the United States during World War II. Surface weather analyses have special symbols which show frontal systems, cloud cover, precipitation, or other important information.",
+    "url": "https://en.wikipedia.org/wiki/Surface_weather_analysis"
+  },
+  "word": {
+    "id": "squinny",
+    "word": "squinny",
+    "url": "https://www.merriam-webster.com/dictionary/squinny",
+    "partOfSpeech": "verb",
+    "pronunciation": "SKWIN-ee",
+    "audioPath": "audio/words/squinny.mp3",
+    "definitions": ["to look or peer with eyes partly closed : squint"],
+    "examples": [
+      "\"I leant far out, and squinnied for a sign / That this was still the town that had been 'mine'….\" (Philip Larkin, \"I Remember, I Remember\")"
+    ],
+    "origin": "\"I remember thine eyes well enough. Dost thou squiny at me?\" So asks Shakespeare's mad King Lear of blind Gloucester, marking the first use of the verb \"squinny\" in 1605. It is likely that Shakespeare formed the word from an earlier English word \"squin,\" meaning \"with the eye directed to one side.\" Shakespeare also uses the more familiar \"squint\" in _King Lear_: \"This is the foul fiend Flibbertigibbet.… He gives the web and the pin, / squints the eye, and makes the harelip; mildews the white wheat, / and hurts the poor creature of earth.\" Although this is not the first known use of the verb \"squint,\" which appears in print six years earlier, it is the first known use of the verb's transitive sense."
+  }
+}

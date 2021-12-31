@@ -1,131 +1,127 @@
 {
   "artist": {
-    "id": "francesco-clemente",
-    "name": "Francesco Clemente",
-    "dates": "Born Mar 23, 1952",
-    "mainImg": "img/art/artists/francesco-clemente.jpg",
+    "id": "su-shi",
+    "name": "Su Shi",
+    "dates": "Jan 8, 1037 - Aug 24, 1101",
+    "mainImg": "img/art/artists/su-shi.jpg",
     "artworkImgs": [
       {
-        "name": "Ave Ovo",
-        "path": "img/art/artworks/francesco-clemente-a1.jpg",
-        "source": "https://artsandculture.google.com/asset/ave-ovo-francesco-clemente/ngE7jqdb_mFPVw"
+        "name": "Gongfu Tie Calligraphy",
+        "path": "img/art/artworks/su-shi-a1.jpg",
+        "source": "https://artsandculture.google.com/asset/gongfu-tie-calligraphy-su-shi/zAEfJb6ahP5Wkg"
       },
       {
-        "name": "Senza titolo",
-        "path": "img/art/artworks/francesco-clemente-a2.jpg",
-        "source": "https://artsandculture.google.com/asset/senza-titolo-francesco-clemente/RwEJt2nPsXS4iQ"
+        "name": "Hanging scroll mounted as handscroll",
+        "path": "img/art/artworks/su-shi-a2.jpg",
+        "source": "https://artsandculture.google.com/asset/hanging-scroll-mounted-as-handscroll-su-shi-unidentified-artist/AQEyVFXit9zWng"
       },
       {
-        "name": "Soul",
-        "path": "img/art/artworks/francesco-clemente-a3.jpg",
-        "source": "https://artsandculture.google.com/asset/soul-rafael-clemente/3QGYGUJb6X75SA"
+        "name": "Li Bai's Poem",
+        "path": "img/art/artworks/su-shi-a3.jpg",
+        "source": "https://artsandculture.google.com/asset/li-bai-s-poem-su-shi/LQEwv42_DqvKtw"
       },
       {
-        "name": "Ave Ovo",
-        "path": "img/art/artworks/francesco-clemente-a4.jpg",
-        "source": "https://artsandculture.google.com/asset/ave-ovo-francesco-clemente/AgH0fuXMnZw_WA"
-      },
-      {
-        "name": "Bodies Are Temporary / Data is Forever",
-        "path": "img/art/artworks/francesco-clemente-a5.jpg",
-        "source": "https://artsandculture.google.com/asset/bodies-are-temporary-data-is-forever-francesco-d-abbraccio-studio-frames/nQHIPP48c5Z3NA"
-      },
-      {
-        "name": "Pepper Tent",
-        "path": "img/art/artworks/francesco-clemente-a6.jpg",
-        "source": "https://artsandculture.google.com/asset/pepper-tent-francesco-clemente/UQFk2KqzrR5Hrw"
+        "name": "blue and white porcelain vase 2",
+        "path": "img/art/artworks/su-shi-a4.jpg",
+        "source": "https://artsandculture.google.com/asset/blue-and-white-porcelain-vase-2-shi-youwen/1gHHzQeScuDtOQ"
       }
     ],
     "summary": [
-      "Francesco Clemente is an Italian contemporary artist. He has lived at various times in Italy, in India, and in New York City. Some of his work is influenced by the traditional art and culture of India. He has worked in various artistic media including drawing, fresco, graphics, mosaic, oils and sculpture. He was among the principal figures in the Italian Transavanguardia movement of the 1980s, which was characterised by a rejection of Formalism and conceptual art and a return to figurative art and Symbolism."
+      "Su Shi",
+      ", courtesy name Zizhan, art name Dongpo, was a Chinese calligrapher, gastronome, painter, pharmacologist, poet, politician, and writer of the Song dynasty. A major personality of the Song era, Su was an important figure in Song Dynasty politics, aligning himself with Sima Guang and others, against the New Policy party led by Wang Anshi.",
+      "Su Shi is widely regarded as one of the most accomplished figures in classical Chinese literature, having produced some of the most well-known poems, lyrics, prose, and essays. Su Shi was famed as an essayist, and his prose writings lucidly contribute to the understanding of topics such as 11th-century Chinese travel literature or detailed information on the contemporary Chinese iron industry. His poetry has a long history of popularity and influence in China, Japan, and other areas in the near vicinity and is well known in the English-speaking parts of the world through the translations by Arthur Waley, among others. In terms of the arts, Su Shi has some claim to being \"the pre-eminent personality of the eleventh century.\" Dongpo pork, a prominent dish in Hangzhou cuisine, is named in his honor."
     ],
-    "quote": null,
-    "movements": ["Contemporary art"],
-    "mediums": ["Iron", "Metal", "Wood", "Rope", "Sculpture", "Tempera"],
-    "urlWiki": "https://en.wikipedia.org/wiki/Francesco_Clemente",
-    "urlGoogle": "https://artsandculture.google.com/entity/francesco-clemente/m08gmtl"
+    "quote": "“What a ruler has to rely upon is only the human heart. Human hearts are to the ruler what roots are to a tree, what oil is to a lamp, water to fish, fields to a farmer, or money to a merchant.”",
+    "movements": [],
+    "mediums": ["Ink"],
+    "urlWiki": "https://en.wikipedia.org/wiki/Su_Shi",
+    "urlGoogle": "https://artsandculture.google.com/entity/su-shi/m01sv3f"
   },
   "event": {
-    "id": "spanish-civil-war",
-    "name": "Spanish Civil War",
-    "dates": "Jul 17, 1936 - Apr 1, 1939",
-    "mainImg": "img/events/spanish-civil-war.jpg",
+    "id": "occupation-of-the-baltic-states",
+    "name": "Occupation of the Baltic states",
+    "dates": "Jun 14, 1940 - Aug 28, 1941",
+    "mainImg": "img/events/occupation-of-the-baltic-states.jpg",
     "summary": [
-      "The Spanish Civil War was a civil war in Spain fought from 1936 to 1939. Republicans loyal to the left-leaning Second Spanish Republic, in alliance with anarchists, of the communist and syndicalist variety, fought against a revolt by the Nationalists, an alliance of Falangists, monarchists, conservatives and Catholics, led by a military group among whom General Francisco Franco soon achieved a preponderant role. Due to the international political climate at the time, the war had many facets and was variously viewed as class struggle, a war of religion, a struggle between dictatorship and republican democracy, between revolution and counterrevolution, and between fascism and communism. It has been frequently called the \"dress rehearsal\" for World War II. The Nationalists won the war, which ended in early 1939, and ruled Spain until Franco's death in November 1975.",
-      "The war began after a pronunciamiento against the Republican government by a group of generals of the Spanish Republican Armed Forces, with General Emilio Mola as the primary planner and leader and having General José Sanjurjo as a figurehead."
+      "The occupation of the Baltic states involved the military occupation of the three Baltic states—Estonia, Latvia and Lithuania—by the Soviet Union under the auspices of the 1939 Molotov–Ribbentrop Pact in June 1940. They were then annexed into the Soviet Union as constituent republics in August 1940, though most Western powers and nations never recognised their incorporation. On 22 June 1941, Nazi Germany attacked the Soviet Union and within weeks occupied the Baltic territories. In July 1941, the Third Reich incorporated the Baltic territory into its Reichskommissariat Ostland. As a result of the Red Army's Baltic Offensive of 1944, the Soviet Union recaptured most of the Baltic states and trapped the remaining German forces in the Courland pocket until their formal surrender in May 1945. The Soviet \"annexation occupation\" or occupation sui generis of the Baltic states lasted until August 1991, when the three countries regained their independence."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Spanish_Civil_War",
-    "urlGoogle": "https://artsandculture.google.com/entity/spanish-civil-war/m075k5"
+    "urlWiki": "https://en.wikipedia.org/wiki/Occupation_of_the_Baltic_states",
+    "urlGoogle": "https://artsandculture.google.com/entity/occupation-of-the-baltic-states/m02cf5p"
   },
   "funFacts": [
-    { "id": "749", "fact": "The average housefly lives for one month.", "category": ["Animals"] },
     {
-      "id": "492",
-      "fact": "To remove crayon marks from walls, use a hairdryer to heat the wax.",
-      "category": ["Make-it-Easies"]
+      "id": "299",
+      "fact": "The Library of Congress has 600 miles of shelves.",
+      "category": ["Hodgepodge"]
+    },
+    {
+      "id": "707",
+      "fact": "Most rechargeable batteries can be recharged up to 1,000 times.",
+      "category": ["Science"]
     }
   ],
   "funFacts2": [
     {
-      "id": "504873",
-      "fact": "Scientists have found evidence of take-out restaurants in the remains of Pompeii."
+      "id": "553919",
+      "fact": "Bubble gum is pink because that was the only food dye available in the factory where it was made."
     }
   ],
   "idiom": {
-    "id": "pleased-as-punch",
-    "term": "pleased as Punch",
-    "definition": "Delighted, as in *We were pleased as Punch when they asked us to be godparents.* This term alludes to the character Punch in Punch and Judy shows, who is always very happy when his evil deeds succeed. [Mid- 1800s]"
+    "id": "good-samaritan",
+    "term": "good Samaritan",
+    "definition": "A compassionate person who unselfishly helps others, as in *In this neighborhood you can't count on a good Samaritan if you get in trouble.* This expression alludes to Jesus's parable about a Samaritan who rescues and cares for a stranger who had been robbed and badly hurt and had been ignored by a priest and a Levite (Luke 10:30--35). The Samaritans were considered a heretical group by other Jews, so by using a Samaritan for the parable, Jesus chose a person whom his listeners would find least likely to be worthy of concern. [c. 1600]"
   },
   "person": {
-    "id": "georgy-zhukov",
-    "name": "Georgy Zhukov",
-    "dates": "Dec 1, 1896 - Jun 18, 1974",
-    "mainImg": "img/people/georgy-zhukov.jpg",
+    "id": "john-duke-of-berry",
+    "name": "John, Duke of Berry",
+    "dates": "Nov 30, 1340 - Jun 15, 1416",
+    "mainImg": "img/people/john-duke-of-berry.jpg",
     "summary": [
-      "Georgy Konstantinovich Zhukov was a Soviet general and Marshal of the Soviet Union. He also served as Chief of the General Staff, Minister of Defence, and was a member of the Presidium of the Communist Party. During the Second World War, Zhukov oversaw some of the Red Army's most decisive victories.",
-      "Born to a poor peasant family from central Russia, Zhukov was conscripted into the Imperial Russian Army and fought in the First World War. He served in the Red Army during the Russian Civil War. Gradually rising through the ranks, by 1939 Zhukov was given command of an army group and won a decisive battle over Japanese forces at Khalkhin Gol, for which he won the first of his four Hero of the Soviet Union awards. In February 1941, Zhukov was appointed as chief of the Red Army's General Staff.",
-      "Following the German invasion of the Soviet Union, Zhukov lost his position as chief of the general staff. Subsequently, he organized the defense of Leningrad, Moscow, and Stalingrad. He participated in planning several major offensives, including the Battle of Kursk and Operation Bagration."
-    ],
-    "quote": "“It is a fact that under equal conditions, large-scale battles and whole wars are won by troops which have a strong will for victory, clear goals before them, high moral standards, and devotion to the banner under which they go into battle.”",
-    "urlWiki": "https://en.wikipedia.org/wiki/Georgy_Zhukov",
-    "urlGoogle": "https://artsandculture.google.com/entity/georgy-zhukov/m09py7"
-  },
-  "place": {
-    "id": "taichung-city",
-    "name": "Taichung City",
-    "mainImg": "img/places/taichung-city.jpg",
-    "summary": [
-      "Taichung, officially Taichung City, is a special municipality located in central Taiwan. Taichung has a population of approximately 2.82 million people and is Taiwan's second most populous city, overtaking Kaohsiung in July 2017. It serves as the core of the Taichung–Changhua metropolitan area, which is the second largest metropolitan area in Taiwan. The current city was formed when Taichung County merged with the original provincial Taichung City to form the special municipality on 25 December 2010.",
-      "Located in the Taichung Basin, the city was named under Japanese rule, and became a major economic and cultural hub. Originally composed of several scattered hamlets, the city of Taichung was planned and developed by the Japanese. It was called \"the Kyoto of Formosa\" in the Japanese era because of its calm and beauty. The city is home to the National Museum of Natural Science, the National Taiwan Museum of Fine Arts, the National Taichung Theater, the National Library of Public Information, and the National Taiwan Symphony Orchestra, as well as many cultural sites, including the historic Taichung Park, the Lin Family Gardens, and many temples."
+      "John of Berry or John the Magnificent was Duke of Berry and Auvergne and Count of Poitiers and Montpensier. He was the third son of King John II of France and Bonne of Luxembourg; his brothers were King Charles V of France, Duke Louis I of Anjou and Duke Philip the Bold of Burgundy. He is primarily remembered as a collector of the important illuminated manuscripts and other works of art commissioned by him, such as the Très Riches Heures. His personal motto was Le temps venra."
     ],
     "quote": null,
-    "urlWiki": "https://en.wikipedia.org/wiki/Taichung",
-    "urlGoogle": "https://artsandculture.google.com/entity/taichung-city/m01r8pt"
+    "urlWiki": "https://en.wikipedia.org/wiki/John,_Duke_of_Berry",
+    "urlGoogle": "https://artsandculture.google.com/entity/john-duke-of-berry/m034472"
+  },
+  "place": {
+    "id": "arles",
+    "name": "Arles",
+    "mainImg": "img/places/arles.jpg",
+    "summary": [
+      "Arles is a city and commune in the south of France, a subprefecture in the Bouches-du-Rhône department of the Provence-Alpes-Côte d'Azur region, in the former province of Provence.",
+      "A large part of the Camargue is located on the territory of the commune, making it the largest commune in Metropolitan France in terms of territory. The city has a long history, and was of considerable importance in the Roman province of Gallia Narbonensis. The Roman and Romanesque Monuments of Arles were listed as UNESCO World Heritage Sites in 1981. The Dutch post-Impressionist painter Vincent van Gogh lived in Arles from 1888 to 1889 and produced over 300 paintings and drawings during his time there. An international photography festival has been held in the city since 1970."
+    ],
+    "quote": null,
+    "urlWiki": "https://en.wikipedia.org/wiki/Arles",
+    "urlGoogle": "https://artsandculture.google.com/entity/arles/m0knf8"
   },
   "quote": {
-    "id": "34",
-    "quote": "In my whole life, I have known no wise people who didn't read all the time – none, zero.",
-    "author": "Charlie Munger"
+    "id": "1",
+    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Thomas Edison"
   },
   "wiki": {
-    "id": "herbig-haro-object",
-    "name": "Herbig-Haro object",
-    "summary": "Herbig-Haro objects are small patches of nebulosity associated with newly-born stars, and are formed when gas ejected by young stars collides with clouds of gas and dust nearby at speeds of several hundred kilometres per second. Herbig-Haro objects are ubiquitous in star-forming regions, and several are often seen around a single star, aligned along its rotational axis. HH objects are transient phenomena, lasting only a few thousand years at most. They can evolve visibly over quite short timescales as they move rapidly away from their parent star into the gas clouds in interstellar space. Hubble Space Telescope observations reveal complex evolution of HH objects over a few years, as parts of them fade while others brighten as they collide with clumpy material in the interstellar medium. The objects were first observed in the late 19th century by Sherburne Wesley Burnham, but were not recognised as being a distinct type of emission nebula until the 1940s. The first astronomers to study them in detail were George Herbig and Guillermo Haro, after whom they have been named.",
-    "url": "https://en.wikipedia.org/wiki/Herbig-Haro_object"
+    "id": "diane-keaton",
+    "name": "Diane Keaton",
+    "summary": "Diane Keaton is an American film producer, director, and actor. Keaton began her career as a stage actor, and made her screen debut in 1970. Keaton's first major film role was as Kay Adams in The Godfather (1972), but the films that shaped her early career were those with director and co-star Woody Allen. Her films with Allen such as Sleeper (1973), Love and Death (1975), and her Academy Award-winning performance in Annie Hall established her as a comic actor. Keaton has claimed that she is \"tailor-made for comedy\". Keaton ceased collaborating with Allen in 1979, and took on new roles to avoid becoming typecast as her Annie Hall persona. She became an accomplished dramatic actor, starting with Looking for Mr. Goodbar (1977) and received Academy Award nominations for Reds (1981) and Marvin's Room (1996). Some of her popular recent films include Father of the Bride (1991), The First Wives Club (1996), and Something's Gotta Give (2003). Keaton's films have earned a cumulative gross of over $1.1 billion USD in North America.",
+    "url": "https://en.wikipedia.org/wiki/Diane_Keaton"
   },
   "word": {
-    "id": "fard",
-    "word": "fard",
-    "url": "https://www.merriam-webster.com/dictionary/fard",
-    "partOfSpeech": "verb",
-    "pronunciation": "FAHRD",
-    "audioPath": "audio/words/fard.mp3",
-    "definitions": ["to paint (the face) with cosmetics"],
-    "examples": [
-      "We were greeted at the door by a young woman with heavily _farded_ cheeks.",
-      "\"Truda drew her tin from her top pocket. 'Isa, you've been too long in my company. Why should I harbor you? You look as if you're _farded_ up for Hallows Eve!'\" - From Anna Lawrence Pietroni's 2010 novel _Ruby's Spoon_"
+    "id": "weald",
+    "word": "weald",
+    "url": "https://www.merriam-webster.com/dictionary/weald",
+    "partOfSpeech": "noun",
+    "pronunciation": "WEELD",
+    "audioPath": "audio/words/weald.mp3",
+    "definitions": [
+      "a heavily wooded area : forest",
+      "a wild or uncultivated usually upland region"
     ],
-    "origin": "Though a relatively uncommon little word, \"fard\" is used to describe a very familiar activity-the application of cosmetics. When it is encountered these days it is often in [participle](https://www.merriam-webster.com/dictionary/participle) form, as in our first example above, or simply as an example of an unusual or old-timey word. \"Fard\" was borrowed from Anglo-French (from the verb \"farder\") and first appeared in English in the mid-1400s. It is ultimately of Germanic origin and akin to the Old High German word \"faro,\" meaning \"colored.\""
+    "examples": [
+      "\"Challenger's house was on the very edge of the hill, and from its southern face, in which was the study window, one looked across the vast stretch of the _weald_ to where the gentle curves of the South Downs formed an undulating horizon.\" - From Sir Arthur Conan Doyle's 1913 novella _The Poison Belt_",
+      "\"Graham \\[Findlay\\] is a watercolour artist painting mainly landscapes around his home in the _Weald_ of Kent.\" - From an announcement in the _Kentish Express_, June 28, 2012"
+    ],
+    "origin": "If \"weald\" were a tree, it would have many annual rings. It has been in use as a general word for \"forest\" since the days of Old English, and it has also long been used, in its capitalized form, as a geographic name for a once-heavily forested region of southeast England. \"Weald\" is also often capitalized today when used to refer to wooded areas like the Weald of Kent and the Weald of Sussex in England. In time, the word branched out to designate any wild and uncultivated upland regions. A related word is \"wold,\" meaning \"an upland plain or stretch of rolling land.\""
   }
 }

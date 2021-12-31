@@ -10,8 +10,6 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
   const dateParam = context.query.date as string;
   const dateISO: string | null = parseISO(dateParam).toISODate();
 
-  console.log(dateParam, dateISO);
-
   if (dateISO == null || isFuture(dateISO)) {
     return {
       redirect: {
